@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>小A猪崽 | 好用的导航</title>
+    <link>https://nav.xazz.top/</link>
+    <description>Recent content on 小A猪崽 | 好用的导航</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language><atom:link href="https://nav.xazz.top/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>https://nav.xazz.top/about/</link>
+      <pubDate>Tue, 05 Nov 2019 19:41:12 -0500</pubDate>
+      
+      <guid>https://nav.xazz.top/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+- item: 首页
+  icon: fa fa-home
+  link: "./"
+
+- item: 作者
+  icon: fa fa-user-secret
+  link: https://ikirito.me/about
+
+- item: 博客
+  icon: fa fa-blog
+  link: https://ikirito.me
+
+- item: 关于
+  icon: fa fa-cog
+  link: ""
+  list:
+    - name: 源码
+      icon: fab fa-github-alt
+      link: "https://github.com/i-kirito/nav.github.io"
+    - name: 图标
+      icon: fab fa-font-awesome
+      link: "https://fontawesome.com/"
+    - name: 文档
+      icon: fas fa-file-alt
+      link: "https://doks.xazz.top/"
