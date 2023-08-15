@@ -2,24 +2,22 @@
   icon: fa fa-home
   link: "./"
 
-- item: 作者
-  icon: fa fa-user-secret
-  link: https://ikirito.me/about
-
-- item: 博客
+- item: 站长博客
   icon: fa fa-blog
-  link: https://ikirito.me
+  link: https://www.itbob.cn/
 
-- item: 关于
-  icon: fa fa-cog
-  link: ""
-  list:
-    - name: 源码
-      icon: fab fa-github-alt
-      link: "https://github.com/i-kirito/nav.github.io"
-    - name: 图标
-      icon: fab fa-font-awesome
-      link: "https://fontawesome.com/"
-    - name: 文档
-      icon: fas fa-file-alt
-      link: "https://doks.xazz.top/"
+- item: 申请收录
+  icon: fas fa-location-arrow
+  link: https://github.com/TRHX/spiderbox
+
+- item: 联系站长
+  icon: far fa-envelope
+  link: mailto:admin@itbob.cn
+
+# - item: 二级菜单
+#   icon: fa fa-cog
+#   link: ""
+#   list:
+#     - name: 关于
+#       icon: fa fa-user-secret
+#       link: https://www.itbob.cn/about/

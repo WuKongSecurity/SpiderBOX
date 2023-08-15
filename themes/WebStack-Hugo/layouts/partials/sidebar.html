@@ -16,9 +16,9 @@
                 left: 50%;
                 transform: translate(-50%, -50%);
                 font-family: helvetica, arial, sans-serif;
-                text-transform: uppercase;
+                /* text-transform: uppercase; */
                 font-weight: 900;
-                color: #f1404b;
+                color: #0084ff;
                 letter-spacing: 0.2em
             }
 
@@ -28,7 +28,7 @@
                 display: block;
                 width: 15px;
                 height: 15px;
-                background: #f1404b;
+                background: #0084ff;
                 position: absolute;
                 animation: load .7s infinite alternate ease-in-out
             }
@@ -74,15 +74,15 @@
                     <!-- logo -->
                     <div class="logo overflow-hidden">
                         <a href="" class="logo-expanded">
-                            <img src="{{ relURL $.Site.Params.images.logoExpandLight }}" height="40" class="logo-light"
+                            <img src="{{ relURL $.Site.Params.images.logoExpandLight }}" height="55" class="logo-light"
                                 alt="{{ .Site.Title }}">
-                            <img src="{{ relURL $.Site.Params.images.logoExpandDark }}" height="40" class="logo-dark d-none"
+                            <img src="{{ relURL $.Site.Params.images.logoExpandDark }}" height="55" class="logo-dark d-none"
                                 alt="{{ .Site.Title }}">
                         </a>
                         <a href="" class="logo-collapsed">
-                            <img src="{{ relURL $.Site.Params.images.logoCollapseLight }}" height="40" class="logo-light"
+                            <img src="{{ relURL $.Site.Params.images.logoCollapseLight }}" height="35" class="logo-light"
                                 alt="{{ .Site.Title }}">
-                            <img src="{{ relURL $.Site.Params.images.logoCollapseDark }}" height="40" class="logo-dark d-none"
+                            <img src="{{ relURL $.Site.Params.images.logoCollapseDark }}" height="35" class="logo-dark d-none"
                                 alt="{{ .Site.Title }}">
                         </a>
                     </div>
@@ -146,7 +146,7 @@
                             <li id="menu-item-213" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-213 sidebar-item">
                                 <a target="_blank" rel="noopener" href="{{ $.Site.Params.repository }}">
                                     <i class="fa fa-github icon-fw icon-lg mr-2"></i>
-                                    <span>我的GitHub</span></a>
+                                    <span>GitHub</span></a>
                             </li>
                         </ul>
                     </div>

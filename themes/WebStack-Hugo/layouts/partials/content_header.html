@@ -27,7 +27,7 @@
                         <ul class="navbar-nav site-menu" style="margin-right: 16px;">
                             {{ range .Site.Data.headers }}
                             <li {{ if .list }}class="menu-item-has-children" {{ end }}>
-                                <a href="{{ .link }}">
+                                <a href="{{ .link }}" target="_blank">
                                     <i class="{{ .icon }} fa-lg mr-2"></i>
                                     <span>{{ .item }}</span>
                                 </a>
@@ -35,7 +35,7 @@
                                 <ul class="sub-menu">
                                     {{ range .list }}
                                     <li {{ if .list }}class="menu-item-has-children" {{ end }}>
-                                        <a href="{{ .link }}">
+                                        <a href="{{ .link }}" target="_blank">
                                             <i class="{{ .icon }} fa-lg mr-2"></i>
                                             <span>{{ .name }}</span>
                                         </a>
@@ -94,17 +94,19 @@
                                     })
                                     .catch(console.error)
                             </script>
-                            <div id="hitokoto"><a href="#" target="_blank" id="hitokoto_text">你似乎一直在寻找我。</a></div>
+                            <div id="hitokoto" style="font-size:14px"><a href="#" target="_blank" id="hitokoto_text">你似乎一直在寻找我。</a></div>
                         </li>
                         {{ end }}
                         <!-- 一言 end -->
-                        <li class="nav-search ml-3 ml-md-4">
-                            <a href="javascript:" data-toggle="modal" data-target="#search-modal"><i
-                                    class="iconfont icon-search icon-2x"></i></a>
-                        </li>
+                        <!-- <li class="nav-search ml-3 ml-md-4">
+                            <a href="javascript:" data-toggle="modal" data-target="#search-modal">
+                                <i class="iconfont icon-search icon-2x"></i>
+                            </a>
+                        </li> -->
                         <li class="nav-item d-md-none mobile-menu ml-3 ml-md-4">
-                            <a href="javascript:" id="sidebar-switch" data-toggle="modal" data-target="#sidebar"><i
-                                    class="iconfont icon-classification icon-2x"></i></a>
+                            <a href="javascript:" id="sidebar-switch" data-toggle="modal" data-target="#sidebar">
+                                <i class="iconfont icon-classification icon-2x"></i>
+                            </a>
                         </li>
                     </ul>
                 </div>

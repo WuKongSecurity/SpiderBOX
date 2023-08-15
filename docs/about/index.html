@@ -7,9 +7,9 @@
     <meta name="viewport"
         content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <meta name="theme-color" content="#f9f9f9" />
-    <title>小A猪崽 | 好用的导航</title>
+    <title>SpiderBox - 虫盒 - 爬虫资源导航</title>
     <link rel="shortcut icon" href="/assets/images/favicon.ico" />
-    <meta name="keywords" content="小A猪崽 | 好用的导航" />
+    <meta name="keywords" content="SpiderBox - 虫盒 - 爬虫资源导航" />
     
     <meta name="baidu-site-verification" content="codeva-cCAOSG8MBO" />
     
@@ -64,11 +64,11 @@
             <div class="navbar navbar-expand-md">
                 <div class="container-fluid p-0">
 
-                    <a href="" class="navbar-brand d-md-none" title="小A猪崽 | 好用的导航">
+                    <a href="" class="navbar-brand d-md-none" title="SpiderBox - 虫盒 - 爬虫资源导航">
                         <img src="/assets/images/favicon.png" class="logo-light"
-                            alt="小A猪崽 | 好用的导航">
+                            alt="SpiderBox - 虫盒 - 爬虫资源导航">
                         <img src="/assets/images/favicon.png" class="logo-dark d-none"
-                            alt="小A猪崽 | 好用的导航">
+                            alt="SpiderBox - 虫盒 - 爬虫资源导航">
                     </a>
 
                     <div class="collapse navbar-collapse order-2 order-md-1">
@@ -87,7 +87,7 @@
                         <ul class="navbar-nav site-menu" style="margin-right: 16px;">
                             
                             <li >
-                                <a href="./">
+                                <a href="./" target="_blank">
                                     <i class="fa fa-home fa-lg mr-2"></i>
                                     <span>首页</span>
                                 </a>
@@ -98,9 +98,9 @@
                             </li>
                             
                             <li >
-                                <a href="https://ikirito.me/about">
-                                    <i class="fa fa-user-secret fa-lg mr-2"></i>
-                                    <span>作者</span>
+                                <a href="https://www.itbob.cn/" target="_blank">
+                                    <i class="fa fa-blog fa-lg mr-2"></i>
+                                    <span>站长博客</span>
                                 </a>
                                 
                                 <ul class="sub-menu">
@@ -109,9 +109,9 @@
                             </li>
                             
                             <li >
-                                <a href="https://ikirito.me">
-                                    <i class="fa fa-blog fa-lg mr-2"></i>
-                                    <span>博客</span>
+                                <a href="https://github.com/TRHX/spiderbox" target="_blank">
+                                    <i class="fas fa-location-arrow fa-lg mr-2"></i>
+                                    <span>申请收录</span>
                                 </a>
                                 
                                 <ul class="sub-menu">
@@ -119,34 +119,13 @@
                                 </ul>
                             </li>
                             
-                            <li class="menu-item-has-children" >
-                                <a href="">
-                                    <i class="fa fa-cog fa-lg mr-2"></i>
-                                    <span>关于</span>
+                            <li >
+                                <a href="mailto:admin@itbob.cn" target="_blank">
+                                    <i class="far fa-envelope fa-lg mr-2"></i>
+                                    <span>联系站长</span>
                                 </a>
                                 
                                 <ul class="sub-menu">
-                                    
-                                    <li >
-                                        <a href="https://github.com/i-kirito/nav.github.io">
-                                            <i class="fab fa-github-alt fa-lg mr-2"></i>
-                                            <span>源码</span>
-                                        </a>
-                                    </li>
-                                    
-                                    <li >
-                                        <a href="https://fontawesome.com/">
-                                            <i class="fab fa-font-awesome fa-lg mr-2"></i>
-                                            <span>图标</span>
-                                        </a>
-                                    </li>
-                                    
-                                    <li >
-                                        <a href="https://doks.xazz.top/">
-                                            <i class="fas fa-file-alt fa-lg mr-2"></i>
-                                            <span>文档</span>
-                                        </a>
-                                    </li>
                                     
                                 </ul>
                             </li>
@@ -201,17 +180,15 @@
                                     })
                                     .catch(console.error)
                             </script>
-                            <div id="hitokoto"><a href="#" target="_blank" id="hitokoto_text">你似乎一直在寻找我。</a></div>
+                            <div id="hitokoto" style="font-size:14px"><a href="#" target="_blank" id="hitokoto_text">你似乎一直在寻找我。</a></div>
                         </li>
                         
                         
-                        <li class="nav-search ml-3 ml-md-4">
-                            <a href="javascript:" data-toggle="modal" data-target="#search-modal"><i
-                                    class="iconfont icon-search icon-2x"></i></a>
-                        </li>
+                        
                         <li class="nav-item d-md-none mobile-menu ml-3 ml-md-4">
-                            <a href="javascript:" id="sidebar-switch" data-toggle="modal" data-target="#sidebar"><i
-                                    class="iconfont icon-classification icon-2x"></i></a>
+                            <a href="javascript:" id="sidebar-switch" data-toggle="modal" data-target="#sidebar">
+                                <i class="iconfont icon-classification icon-2x"></i>
+                            </a>
                         </li>
                     </ul>
                 </div>
@@ -225,7 +202,7 @@
     <div class="container">
         <h1 class="mt-5">about</h1>
         <div class="content">
-            
+            关于此页面
         </div>
     </div>
     </main>
@@ -375,11 +352,11 @@ var theme = {"ajaxurl":"","addico":"https:\/\/nav.baidu.cn\/wp-content\/themes\/
     }
 })();
 
-$("#search-bg").css("background-image", "url(assets\/images\/friends2.jpg)");   
+
 function switchNightMode(){
     var night = document.cookie.replace(/(?:(?:^|.*;\s*)night\s*\=\s*([^;]*).*$)|^.*$/, "$1") || '0';
     if(night == '0'){
-	$("#search-bg").css("background-image", "url(assets\/images\/friends2.jpg)");
+	
         document.body.classList.remove('io-grey-mode');
         document.body.classList.add('io-black-mode');
         document.cookie = "night=1;path=/"
@@ -388,7 +365,7 @@ function switchNightMode(){
         $(".mode-ico").removeClass("icon-night");
         $(".mode-ico").addClass("icon-light");
     }else{
-	$("#search-bg").css("background-image", "url(assets\/images\/bg-dna.jpg)")
+	
         document.body.classList.remove('io-black-mode');
         document.body.classList.add('io-grey-mode');
         document.cookie = "night=0;path=/"
@@ -414,27 +391,7 @@ document.getElementById(id).innerHTML = "小A猪崽一直在追随大家的步�
 }
 setInterval("ShowRunTime('RunTime')", 1000);
 </script>
-<script>
-    
-    const Toast = Swal.mixin({
-            toast: true,
-            position: 'bottom',
-            showConfirmButton: false,
-            timer: 3000,
-            timerProgressBar: true,
-            didOpen: (toast) => {
-                toast.addEventListener('mouseenter', Swal.stopTimer)
-                toast.addEventListener('mouseleave', Swal.resumeTimer)
-            }
-        })
 
-        Toast.fire({
-            icon: 'success',
-            title: '网页正式发布，欢迎访问',
-            text: '左下角提交网站，收录！',
-            heightAuto: 'false'
-        })
-</script>
 </body>
 </html>
 
