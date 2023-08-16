@@ -443,7 +443,7 @@ margin-top: 5px!important;margin: 0 auto;}
 .s-type:hover .s-type-list{display:block}
 .type-text{position:absolute;left:0;width:75px;padding-left:9pt;font-size:1pc;line-height:31px}
 .type-text:after{content:"\e793";font-family:"iconfont";font-size:12px;margin:0 0 0 10px}
-.search-type{white-space:nowrap;margin:0}.search-type label{margin:0}
+.search-type{/*white-space:nowrap;*/margin:0}.search-type label{margin:0}
 .search-type li{display:inline-block}
 .search-type li label{display:inline-block;padding:0 11px;font-size:14px;line-height:31px;border-radius:3px 3px 0 0;cursor:pointer}
 .search-type li.menu-item a{display:inline-block;font-size:14px;line-height:31px;border-radius:3px 3px 0 0}
