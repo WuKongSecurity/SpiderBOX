@@ -438,11 +438,11 @@
                         
                         <li class="nav-item mr-3 mr-lg-0 d-none d-lg-block">
                             <script>
-                                fetch('https://v1.hitokoto.cn/?c=b')
+                                fetch('https://v1.hitokoto.cn/?c=c&c=f&c=k')
                                     .then(response => response.json())
                                     .then(data => {
                                         const hitokoto = document.getElementById('hitokoto_text')
-                                        hitokoto.href = 'https://hitokoto.cn/?c=b uuid=' + data.uuid
+                                        hitokoto.href = 'https://hitokoto.cn/?uuid=' + data.uuid
                                         hitokoto.innerText = data.hitokoto
                                     })
                                     .catch(console.error)
@@ -464,7 +464,7 @@
         <div class="placeholder" style="height:74px"></div>
     </div>
 
-<div class="header-big  post-top css-color mb-4" id="search-bg" style="background-image: linear-gradient(45deg, #8618db 0%, #d711ff 50%, #460fdd 100%);">
+<div class="header-big  post-top css-color mb-4 header-custom" id="search-bg">
     <div class="s-search">
         <div id="search" class="s-search mx-auto">
             <div id="search-list-menu" class="hide-type-list">
@@ -7353,16 +7353,16 @@ function switchNightMode(){
 </script>
 <script>
 
-var BootDate = new Date("2023/3/30 22:00:00");
+var BootDate = new Date("2023/8/12 21:36:13");
 function ShowRunTime(id) {
-var NowDate = new Date();
-var RunDateM = parseInt(NowDate - BootDate);
-var RunDays = Math.floor(RunDateM/(24*3600*1000));
-var RunHours = Math.floor(RunDateM%(24*3600*1000)/(3600*1000));
-var RunMinutes = Math.floor(RunDateM%(24*3600*1000)%(3600*1000)/(60*1000));
-var RunSeconds = Math.round(RunDateM%(24*3600*1000)%(3600*1000)%(60*1000)/1000);
-var RunTime = RunDays + "天" + RunHours + "时" + RunMinutes + "分" + RunSeconds + "秒";
-document.getElementById(id).innerHTML = "小A猪崽一直在追随大家的步伐啊：" + RunTime;
+    var NowDate = new Date();
+    var RunDateM = parseInt(NowDate - BootDate);
+    var RunDays = Math.floor(RunDateM/(24*3600*1000));
+    var RunHours = Math.floor(RunDateM%(24*3600*1000)/(3600*1000));
+    var RunMinutes = Math.floor(RunDateM%(24*3600*1000)%(3600*1000)/(60*1000));
+    var RunSeconds = Math.round(RunDateM%(24*3600*1000)%(3600*1000)%(60*1000)/1000);
+    var RunTime = RunDays + "天" + RunHours + "时" + RunMinutes + "分" + RunSeconds + "秒";
+    document.getElementById(id).innerHTML = "小破站已运行了" + RunTime;
 }
 setInterval("ShowRunTime('RunTime')", 1000);
 </script>

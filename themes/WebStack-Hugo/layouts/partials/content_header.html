@@ -85,11 +85,11 @@
                         {{ with .Site.Params.yiyan }}
                         <li class="nav-item mr-3 mr-lg-0 d-none d-lg-block">
                             <script>
-                                fetch('https://v1.hitokoto.cn/?c=b')
+                                fetch('https://v1.hitokoto.cn/?c=c&c=f&c=k')
                                     .then(response => response.json())
                                     .then(data => {
                                         const hitokoto = document.getElementById('hitokoto_text')
-                                        hitokoto.href = 'https://hitokoto.cn/?c=b uuid=' + data.uuid
+                                        hitokoto.href = 'https://hitokoto.cn/?uuid=' + data.uuid
                                         hitokoto.innerText = data.hitokoto
                                     })
                                     .catch(console.error)
