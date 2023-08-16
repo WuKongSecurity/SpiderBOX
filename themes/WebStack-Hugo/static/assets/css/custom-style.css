@@ -1,3 +1,8 @@
+@font-face{
+    font-family: 'OxaniumRegular';
+    src: url('//cdn.itbob.cn/font/OxaniumRegular.ttf');   
+}
+
 /*调整全局字体大小*/
 body,
 html {
@@ -169,15 +174,17 @@ h4 {
 }
 
 footer.main-footer .footer-text {
+    font-family: 'OxaniumRegular';
+    letter-spacing: 1px;
     text-align: center;
 }
 
-footer.main-footer .footer-text a {
+/* footer.main-footer .footer-text a {
     color: #007bff;
-}
+} */
 
 footer.main-footer .footer-text a:hover {
-    color: red;
+    color: #007bff;
 }
 
 /*About页面*/
@@ -203,9 +210,9 @@ footer.main-footer .footer-text a:hover {
 
 /* 头部背景 */
 .header-custom {
-    /* background-image: linear-gradient(45deg, #8618db 0%, #d711ff 50%, #460fdd 100%); */
+    background-image: linear-gradient(45deg, #8618db 0%, #d711ff 50%, #460fdd 100%);
     /* background-image: linear-gradient(-20deg, #b721ff 0%, #21d4fd 100%); */
     /* background-image: linear-gradient(to right, #00dbde 0%, #fc00ff 100%); */
-    background: linear-gradient(220.55deg, #00E0EE 0%, #AD00FE 100%);
+    /* background: linear-gradient(220.55deg, #00E0EE 0%, #AD00FE 100%); */
     /* background-image: linear-gradient(45deg, #00DBDE 0%, #FC00FF 100%); */
 }

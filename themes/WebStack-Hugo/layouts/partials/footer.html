@@ -123,21 +123,6 @@ function switchNightMode(){
     }
 }
 </script>
-<script>
-//网站运行时长
-var BootDate = new Date("2023/8/12 21:36:13");//设置网站运行时间，格式：年/月/日 时:分:秒
-function ShowRunTime(id) {
-    var NowDate = new Date();
-    var RunDateM = parseInt(NowDate - BootDate);
-    var RunDays = Math.floor(RunDateM/(24*3600*1000));
-    var RunHours = Math.floor(RunDateM%(24*3600*1000)/(3600*1000));
-    var RunMinutes = Math.floor(RunDateM%(24*3600*1000)%(3600*1000)/(60*1000));
-    var RunSeconds = Math.round(RunDateM%(24*3600*1000)%(3600*1000)%(60*1000)/1000);
-    var RunTime = RunDays + "天" + RunHours + "时" + RunMinutes + "分" + RunSeconds + "秒";
-    document.getElementById(id).innerHTML = "小破站已运行了" + RunTime;
-}
-setInterval("ShowRunTime('RunTime')", 1000);
-</script>
 <!-- <script>
     // 弹窗效果
     const Toast = Swal.mixin({
