@@ -11,7 +11,7 @@ publishDir            = "docs"					# 站点静态文件保存目录
 [params]
     author        = "BOB"
     description   = "SpiderBox | 虫盒 | 爬虫逆向资源导航站"
-    upload        = ""  # 左侧导航栏的"网站提交"
+    disclaimers        = ""  # 左侧导航栏的"网站提交"
     about         = ""	# 左侧导航栏的"关于导航"(./about)
     repository    = "https://github.com/TRHX/spiderbox"    # 左侧导航栏的"GitHub"
     enablePreLoad = true					               # 网站完全打开前预加载动画

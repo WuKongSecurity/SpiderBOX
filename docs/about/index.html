@@ -442,6 +442,128 @@ function switchNightMode(){
         });
     }
 </script>
+
+<style>
+     
+    .custom-swal-container {
+      text-align: left;
+      padding: 20px;
+      border-radius: 10px;
+    }
+    .custom-swal-container h3 {
+        text-align: center;
+        color: #b9316f;
+        background-color: #eaeaea;
+        border-radius:10px;
+        padding: 8px 5px;
+    }
+    .custom-swal-ol {
+      list-style-type: decimal;
+      padding-left: 20px;
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+    .custom-swal-ol li {
+      margin-bottom: 10px;
+    }
+    .custom-swal-ol li span{
+      text-align: left;
+      font-weight: bold;
+      margin-bottom: 5px;
+    }
+    .custom-swal-date {
+      text-align: right;
+    }
+</style>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+    let popupWidth = '60%'; 
+
+    
+    if (window.innerWidth <= 600) {
+      popupWidth = '30%';
+    } else if (window.innerWidth <= 1200) {
+      popupWidth = '40%';
+    } else {
+      popupWidth = '60%';
+    }
+
+    const showDisclaimerButton = document.getElementById('show-disclaimer');
+  
+    showDisclaimerButton.addEventListener('click', function() {
+      Swal.fire({
+        html: `
+        <div class="custom-swal-container">
+            <h3>免责声明</h3>
+            <p style="text-align: left;">欢迎使用我们的导航站 [SpiderBox 虫盒]！请在使用本站点之前仔细阅读以下免责声明，要访问和使用本站点，您必须接受以下条款和条件！如果您不同意这些条款和条件，请勿使用本站点！</p>
+            <ol class="custom-swal-ol">
+                <li>
+                    <span>信息准确性</span>
+                    <p>本站点提供的导航链接和信息仅供参考，尽管我们努力确保信息的准确性和完整性，但我们不对信息的准确性、完整性、实时性或适用性作出任何明示或暗示的陈述或担保，您应该自行核实和验证您所获得的信息！</p>
+                </li>
+                <li>
+                    <span>使用风险</span>
+                    <p>使用本站点提供的导航链接和信息是基于您自己的判断和风险，我们不对您使用本站点导航链接导致的任何损失、损害或不便负责，在使用导航链接之前，请确保您已经充分了解所涉及的风险！</p>
+                </li>
+                <li>
+                    <span>第三方链接</span>
+                    <p>本站点包含的所有指向第三方网站的链接仅供您的方便提供，不代表我们对这些第三方网站的认可或担保，我们对这些第三方网站的内容、隐私政策和行为不承担任何责任，您在访问这些链接时需谨慎自负风险！</p>
+                </li>
+                <li>
+                    <span>知识产权和版权</span>
+                    <p>本站点为非营利性网站，尊重知识产权和版权，基于互联网之分享精神，如果您认为本站点包含侵犯您的知识产权或版权的内容，请与我们联系，我们会尽快删除或更正相关内容！</p>
+                </li>
+                <li>
+                    <span>法律合规</span>
+                    <p>您使用本站点的行为应遵守适用的法律法规，您对任何违反法律法规的行为负有全部责任，我们不对您的任何违法行为负责！</p>
+                </li>
+                <li>
+                    <span>免责声明的变更</span>
+                    <p>我们保留随时修改或更新本免责声明的权利，请您定期查阅本页面以获取最新信息！</p>
+                </li>
+              </ol>
+
+              <h3>联系方式</h3>
+              <ol class="custom-swal-ol">
+                <li>
+                    <span>站长邮箱：</span>admin@itbob.cn
+                </li>
+                <li>
+                    <span>站长公众号：</span>爬虫矛与盾
+                </li>
+              </ol>
+              <p class="custom-swal-date">2023年08月17日</p>
+        </div>
+        `,
+        width: popupWidth,
+        showCancelButton: true,
+        confirmButtonText: '同意',
+        cancelButtonText: '不同意',
+        confirmButtonColor: "#0084ff",
+        showClass: {popup: "swal2-show"},
+        hideClass: {popup: "swal2-hide"},
+        allowOutsideClick: false,
+        customClass: {
+        
+        container: 'custom-swal-container'
+        }
+      }).then((result) => {
+        if (result.isConfirmed) {
+          
+          Swal.close();
+        } else if (result.dismiss === Swal.DismissReason.cancel) {
+          
+          window.close();
+        }
+      });
+
+    const popupContainer = document.querySelector('.custom-swal-container');
+    popupContainer.style.zIndex = '9999';
+    });
+  });
+</script>
+
 </body>
 </html>
 
