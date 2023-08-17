@@ -7,8 +7,6 @@
 var theme = {"ajaxurl":"","addico":"https:\/\/nav.baidu.cn\/wp-content\/themes\/onenav\/images\/add.png","order":"asc","formpostion":"top","defaultclass":"io-grey-mode","isCustomize":"1","icourl":"","icopng":".png","urlformat":"1","customizemax":"10","newWindow":"0","lazyload":"1","minNav":"1","loading":"1","hotWords":"baidu","classColumns":" col-sm-6 col-md-4 col-xl-5a col-xxl-6a ","apikey":"TWpBeU1UVTNOekk1TWpVMEIvZ1M2bFVIQllUMmxsV1dZelkxQTVPVzB3UW04eldGQmxhM3BNWW14bVNtWk4="};
 /* ]]> */
 </script>
-<!-- 弹窗js -->
-<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 <!-- 结束 -->
 <script type='text/javascript' src='{{ relURL "assets/js/popper.min.js" }}' id='popper-js'></script>
 <script type='text/javascript' src='{{ relURL "assets/js/bootstrap.min-4.3.1.js" }}' id='bootstrap-js'></script>
@@ -123,26 +121,38 @@ function switchNightMode(){
     }
 }
 </script>
-<!-- <script>
-    // 弹窗效果
-    const Toast = Swal.mixin({
-            toast: true,
-            position: 'bottom',
-            showConfirmButton: false,
-            timer: 3000,
-            timerProgressBar: true,
-            didOpen: (toast) => {
-                toast.addEventListener('mouseenter', Swal.stopTimer)
-                toast.addEventListener('mouseleave', Swal.resumeTimer)
+<!-- 弹窗js -->
+<!-- <link href="https://cdn.jsdelivr.net/npm/@sweetalert2/theme-bootstrap-4/bootstrap-4.css" rel="stylesheet"> -->
+<!-- <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" rel="stylesheet"> -->
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script>
+    // 检查本地存储中的标志位，如果标志位为 true，则不再弹出弹窗
+    const shouldShowPopup = localStorage.getItem("shouldShowPopup") !== "false";
+    if (shouldShowPopup) {
+        // 创建 SweetAlert2 弹窗
+        Swal.fire({
+            // with: 380,
+            title: "欢迎",
+            text: "扫码关注站长公众号：爬虫矛与盾",
+            showCancelButton: true,
+            confirmButtonText: "俺知道了",
+            cancelButtonText: "不再弹出",
+            confirmButtonColor: "#0084ff",
+            imageUrl: "/assets/images/qrcode.jpg",
+            imageWidth: 300,
+            imageHeight: 300,
+            imageAlt: "公众号：爬虫矛与盾",
+            showClass: {popup: "swal2-show"},
+            hideClass: {popup: "swal2-hide"}
+        }).then((result) => {
+            if (result.isConfirmed) {
+                // 用户点击 "关闭" 按钮，什么也不做
+            } else {
+                // 用户点击 "不再弹出" 按钮，将标志位保存到本地存储
+                localStorage.setItem("shouldShowPopup", "false");
             }
-        })
-
-        Toast.fire({
-            icon: 'success',
-            title: '网页正式发布，欢迎访问',
-            text: '左下角提交网站，收录！',
-            heightAuto: 'false'
-        })
-</script> -->
+        });
+    }
+</script>
 </body>
 </html>
