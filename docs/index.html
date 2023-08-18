@@ -292,13 +292,6 @@
                 <div class="border-top py-2 border-color">
                     <div class="flex-bottom">
                         <ul>
-                            <li id="menu-item-237"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-237 sidebar-item">
-                                <a href="" target="_blank">
-                                    <i class="fas fa-file-upload icon-fw icon-lg mr-2"></i>
-                                    <span>网站提交</span></a>
-                            </li>
-
 			                <li id="menu-item-212"
                                  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-212 sidebar-item">
                                  <a href="#friendlink" class="smooth">
@@ -309,7 +302,7 @@
                             <li id="menu-item-213"
                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-213 sidebar-item">
                                 <a id="open-alert">
-                                    <i class="fa fa-info-circle icon-fw icon-lg mr-2"></i>
+                                    <i class="fas fa-user-secret icon-fw icon-lg mr-2"></i>
                                     <span id="show-disclaimer">免责声明</span>
                                 </a>
                             </li>
@@ -6965,9 +6958,15 @@
     <div class="friendlink text-xs card">
         <div class="card-body"> 
 	    
-	    <a href="https://nav.xazz.top/" title="网址导航" target="_blank">小A猪崽</a>
+	    <a href="https://ziyuan.baidu.com/" title="百度搜索资源平台" target="_blank">百度站长</a>
 	    
-	    <a href="http://ikirito.me/" title="个人博客" target="_blank">个人博客</a>
+	    <a href="https://tongji.baidu.com/" title="百度搜索统计平台" target="_blank">百度统计</a>
+	    
+	    <a href="https://www.51.la/" title="51LA 搜索统计平台" target="_blank">51.LA</a>
+	    
+	    <a href="https://adsense.google.com/" title="Google 广告联盟" target="_blank">Google Adsense</a>
+	    
+	    <a href="https://search.google.com/search-console/" title="Google 站长平台" target="_blank">Google Search Console</a>
 	    
         </div>
     </div>
@@ -7398,7 +7397,7 @@ function switchNightMode(){
     if (shouldShowPopup) {
         
         Swal.fire({
-            
+            width: 300,
             title: "欢迎",
             text: "扫码关注站长公众号：爬虫矛与盾",
             showCancelButton: true,
@@ -7406,8 +7405,8 @@ function switchNightMode(){
             cancelButtonText: "不再弹出",
             confirmButtonColor: "#0084ff",
             imageUrl: "/assets/images/qrcode.jpg",
-            imageWidth: 300,
-            imageHeight: 300,
+            
+            
             imageAlt: "公众号：爬虫矛与盾",
             showClass: {popup: "swal2-show"},
             hideClass: {popup: "swal2-hide"}
@@ -7457,15 +7456,13 @@ function switchNightMode(){
 
 <script>
     document.addEventListener('DOMContentLoaded', function() {
-    let popupWidth = '60%'; 
+    let popupWidth = '55%'; 
 
     
-    if (window.innerWidth <= 600) {
-      popupWidth = '30%';
-    } else if (window.innerWidth <= 1200) {
-      popupWidth = '40%';
+    if (window.innerWidth < 768) {
+    popupWidth = '90%';
     } else {
-      popupWidth = '60%';
+    popupWidth = '55%';
     }
 
     const showDisclaimerButton = document.getElementById('show-disclaimer');
@@ -7506,7 +7503,7 @@ function switchNightMode(){
               <h3>联系方式</h3>
               <ol class="custom-swal-ol">
                 <li>
-                    <span>站长邮箱：</span>admin@itbob.cn
+                    <span>站长邮箱：</span><button id="showEmail">点击获取</button>
                 </li>
                 <li>
                     <span>站长公众号：</span>爬虫矛与盾
@@ -7539,6 +7536,12 @@ function switchNightMode(){
 
     const popupContainer = document.querySelector('.custom-swal-container');
     popupContainer.style.zIndex = '9999';
+
+    var showEmailButton = document.getElementById("showEmail");
+    showEmailButton.addEventListener("click", function() {
+        
+        showEmailButton.textContent = "admin@itbob.cn";
+    });
     });
   });
 </script>

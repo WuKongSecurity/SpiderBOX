@@ -131,7 +131,7 @@ function switchNightMode(){
     if (shouldShowPopup) {
         // 创建 SweetAlert2 弹窗
         Swal.fire({
-            // with: 380,
+            width: 300,
             title: "欢迎",
             text: "扫码关注站长公众号：爬虫矛与盾",
             showCancelButton: true,
@@ -139,8 +139,8 @@ function switchNightMode(){
             cancelButtonText: "不再弹出",
             confirmButtonColor: "#0084ff",
             imageUrl: "/assets/images/qrcode.jpg",
-            imageWidth: 300,
-            imageHeight: 300,
+            // imageWidth: 300,
+            // imageHeight: 300,
             imageAlt: "公众号：爬虫矛与盾",
             showClass: {popup: "swal2-show"},
             hideClass: {popup: "swal2-hide"}
@@ -190,15 +190,13 @@ function switchNightMode(){
 
 <script>
     document.addEventListener('DOMContentLoaded', function() {
-    let popupWidth = '60%'; // 默认宽度
+    let popupWidth = '55%'; // 默认宽度
 
     // 根据屏幕宽度设置不同的弹窗宽度
-    if (window.innerWidth <= 600) {
-      popupWidth = '30%';
-    } else if (window.innerWidth <= 1200) {
-      popupWidth = '40%';
+    if (window.innerWidth < 768) {
+    popupWidth = '90%';
     } else {
-      popupWidth = '60%';
+    popupWidth = '55%';
     }
 
     const showDisclaimerButton = document.getElementById('show-disclaimer');
@@ -239,7 +237,7 @@ function switchNightMode(){
               <h3>联系方式</h3>
               <ol class="custom-swal-ol">
                 <li>
-                    <span>站长邮箱：</span>admin@itbob.cn
+                    <span>站长邮箱：</span><button id="showEmail">点击获取</button>
                 </li>
                 <li>
                     <span>站长公众号：</span>爬虫矛与盾
@@ -272,6 +270,12 @@ function switchNightMode(){
 
     const popupContainer = document.querySelector('.custom-swal-container');
     popupContainer.style.zIndex = '9999';
+
+    var showEmailButton = document.getElementById("showEmail");
+    showEmailButton.addEventListener("click", function() {
+        // 在按钮点击时更新文本内容
+        showEmailButton.textContent = "admin@itbob.cn";
+    });
     });
   });
 </script>
