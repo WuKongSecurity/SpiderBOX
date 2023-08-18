@@ -325,35 +325,7 @@
         </div>
 
 
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    const showGroupButton = document.getElementById('show-group');
-    showGroupButton.addEventListener('click', function() {
-    Swal.fire({
-        text: "扫码加入QQ/微信交流群",
-        confirmButtonText: '俺知道了',
-        confirmButtonColor: "#0084ff",
-        imageWidth: 420,
-        imageUrl: "/assets/images/group.png",
-        imageAlt: "QQ/微信交流群",
-        showClass: {popup: "swal2-show"},
-        hideClass: {popup: "swal2-hide"},
-        allowOutsideClick: false,
-        customClass: {
-            image: 'custom-swal-image' 
-        }
-    }).then((result) => {
-        if (result.isConfirmed) {
-            Swal.close();
-        }
-    });
 
-    const popupContainer = document.querySelector('.swal2-container');
-    popupContainer.style.zIndex = '9999';
-})
-})
-
-</script>
 <div class="main-content flex-fill grid-bg">
     <div class="big-header-banner">
         <div id="header" class="page-header sticky">
@@ -7640,7 +7612,35 @@ function switchNightMode(){
 
   });
 </script>
-
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const showGroupButton = document.getElementById('show-group');
+        showGroupButton.addEventListener('click', function() {
+        Swal.fire({
+            text: "扫码加入QQ/微信交流群",
+            confirmButtonText: '俺知道了',
+            confirmButtonColor: "#0084ff",
+            imageWidth: 420,
+            imageUrl: "/assets/images/group.png",
+            imageAlt: "QQ/微信交流群",
+            showClass: {popup: "swal2-show"},
+            hideClass: {popup: "swal2-hide"},
+            allowOutsideClick: false,
+            customClass: {
+                image: 'custom-swal-image' 
+            }
+        }).then((result) => {
+            if (result.isConfirmed) {
+                Swal.close();
+            }
+        });
+    
+        const popupContainer = document.querySelector('.swal2-container');
+        popupContainer.style.zIndex = '9999';
+    })
+    })
+    
+    </script>
 </body>
 </html>
 
