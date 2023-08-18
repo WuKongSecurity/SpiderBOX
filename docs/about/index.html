@@ -61,6 +61,35 @@
 </head>
 
 
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const showGroupButton = document.getElementById('show-group');
+    showGroupButton.addEventListener('click', function() {
+    Swal.fire({
+        text: "扫码加入QQ/微信交流群",
+        confirmButtonText: '俺知道了',
+        confirmButtonColor: "#0084ff",
+        imageWidth: 420,
+        imageUrl: "/assets/images/group.png",
+        imageAlt: "QQ/微信交流群",
+        showClass: {popup: "swal2-show"},
+        hideClass: {popup: "swal2-hide"},
+        allowOutsideClick: false,
+        customClass: {
+            image: 'custom-swal-image' 
+        }
+    }).then((result) => {
+        if (result.isConfirmed) {
+            Swal.close();
+        }
+    });
+
+    const popupContainer = document.querySelector('.swal2-container');
+    popupContainer.style.zIndex = '9999';
+})
+})
+
+</script>
 <div class="main-content flex-fill grid-bg">
     <div class="big-header-banner">
         <div id="header" class="page-header sticky">
@@ -90,6 +119,7 @@
                         <ul class="navbar-nav site-menu" style="margin-right: 16px;">
                             
                             <li >
+                                
                                 <a href="./" target="_blank">
                                     <i class="fa fa-home fa-lg mr-2"></i>
                                     <span>首页</span>
@@ -98,9 +128,11 @@
                                 <ul class="sub-menu">
                                     
                                 </ul>
+                                
                             </li>
                             
                             <li >
+                                
                                 <a href="https://www.itbob.cn/" target="_blank">
                                     <i class="fa fa-blog fa-lg mr-2"></i>
                                     <span>站长博客</span>
@@ -109,9 +141,11 @@
                                 <ul class="sub-menu">
                                     
                                 </ul>
+                                
                             </li>
                             
                             <li >
+                                
                                 <a href="https://github.com/TRHX/spiderbox" target="_blank">
                                     <i class="fas fa-location-arrow fa-lg mr-2"></i>
                                     <span>申请收录</span>
@@ -120,9 +154,11 @@
                                 <ul class="sub-menu">
                                     
                                 </ul>
+                                
                             </li>
                             
                             <li >
+                                
                                 <a href="mailto:admin@itbob.cn" target="_blank">
                                     <i class="far fa-envelope fa-lg mr-2"></i>
                                     <span>联系站长</span>
@@ -131,6 +167,16 @@
                                 <ul class="sub-menu">
                                     
                                 </ul>
+                                
+                            </li>
+                            
+                            <li >
+                                
+                                <a>
+                                    <i class="fas fa-user-friends fa-lg mr-2"></i>
+                                    <span id="show-group">交流群</span>
+                                </a>
+                                
                             </li>
                             
                         </ul>
@@ -413,13 +459,15 @@ function switchNightMode(){
 
 
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+
 <script>
     
     const shouldShowPopup = localStorage.getItem("shouldShowPopup") !== "false";
     if (shouldShowPopup) {
         
         Swal.fire({
-            width: 300,
+            
             title: "欢迎",
             text: "扫码关注站长公众号：爬虫矛与盾",
             showCancelButton: true,
@@ -440,7 +488,12 @@ function switchNightMode(){
                 localStorage.setItem("shouldShowPopup", "false");
             }
         });
+        const popupContainer = document.querySelector('.swal2-container');
+        popupContainer.style.zIndex = '9999';
     }
+
+    
+    
 </script>
 
 <style>
@@ -474,20 +527,30 @@ function switchNightMode(){
     .custom-swal-date {
       text-align: right;
     }
+    .custom-swal-image {
+        display: block;
+        margin: 2em auto;  
+    }
 </style>
 
 <script>
+    function getEmail() {
+        var emailElement = document.getElementById("showEmail");
+        emailElement.innerHTML = atob("YWRtaW5AaXRib2IuY24=");
+    }
+
     document.addEventListener('DOMContentLoaded', function() {
     let popupWidth = '55%'; 
 
     
     if (window.innerWidth < 768) {
-    popupWidth = '90%';
+    popupWidth = '95%';
     } else {
     popupWidth = '55%';
     }
 
     const showDisclaimerButton = document.getElementById('show-disclaimer');
+    const showSponsorButton = document.getElementById('show-sponsor');
   
     showDisclaimerButton.addEventListener('click', function() {
       Swal.fire({
@@ -525,7 +588,8 @@ function switchNightMode(){
               <h3>联系方式</h3>
               <ol class="custom-swal-ol">
                 <li>
-                    <span>站长邮箱：</span><button id="showEmail">点击获取</button>
+                    <span>站长邮箱：</span>
+                    <p style="display: inline;margin: 0;" id="showEmail" onclick="getEmail()">点击获取</p>
                 </li>
                 <li>
                     <span>站长公众号：</span>爬虫矛与盾
@@ -556,8 +620,8 @@ function switchNightMode(){
         }
       });
 
-    const popupContainer = document.querySelector('.custom-swal-container');
-    popupContainer.style.zIndex = '9999';
+        const popupContainer = document.querySelector('.swal2-container');
+        popupContainer.style.zIndex = '9999';
 
     var showEmailButton = document.getElementById("showEmail");
     showEmailButton.addEventListener("click", function() {
@@ -565,6 +629,37 @@ function switchNightMode(){
         showEmailButton.textContent = "admin@itbob.cn";
     });
     });
+
+    showSponsorButton.addEventListener('click', function() {
+      Swal.fire({
+        text: "所有打赏、赞助将用于 SpiderBox 的域名、服务器、COS 等项目续费。",
+        confirmButtonText: '俺知道了',
+        confirmButtonColor: "#0084ff",
+        imageWidth: 420,
+        imageUrl: "/assets/images/sponsor.png",
+        imageAlt: "微信/支付宝收款码",
+        showClass: {popup: "swal2-show"},
+        hideClass: {popup: "swal2-hide"},
+        allowOutsideClick: false,
+        customClass: {
+            image: 'custom-swal-image' 
+        }
+      }).then((result) => {
+        if (result.isConfirmed) {
+          Swal.close();
+        }
+      });
+
+      const popupContainer = document.querySelector('.swal2-container');
+        popupContainer.style.zIndex = '9999';
+
+    var showEmailButton = document.getElementById("showEmail");
+    showEmailButton.addEventListener("click", function() {
+        
+        showEmailButton.textContent = "admin@itbob.cn";
+    });
+    });
+
   });
 </script>
 

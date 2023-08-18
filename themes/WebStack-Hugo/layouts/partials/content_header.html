@@ -1,3 +1,32 @@
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const showGroupButton = document.getElementById('show-group');
+    showGroupButton.addEventListener('click', function() {
+    Swal.fire({
+        text: "扫码加入QQ/微信交流群",
+        confirmButtonText: '俺知道了',
+        confirmButtonColor: "#0084ff",
+        imageWidth: 420,
+        imageUrl: "/assets/images/group.png",
+        imageAlt: "QQ/微信交流群",
+        showClass: {popup: "swal2-show"},
+        hideClass: {popup: "swal2-hide"},
+        allowOutsideClick: false,
+        customClass: {
+            image: 'custom-swal-image' // 添加自定义样式类
+        }
+    }).then((result) => {
+        if (result.isConfirmed) {
+            Swal.close();
+        }
+    });
+
+    const popupContainer = document.querySelector('.swal2-container');
+    popupContainer.style.zIndex = '9999';
+})
+})
+
+</script>
 <div class="main-content flex-fill grid-bg">
     <div class="big-header-banner">
         <div id="header" class="page-header sticky">
@@ -27,6 +56,12 @@
                         <ul class="navbar-nav site-menu" style="margin-right: 16px;">
                             {{ range .Site.Data.headers }}
                             <li {{ if .list }}class="menu-item-has-children" {{ end }}>
+                                {{ if .popup }}
+                                <a>
+                                    <i class="{{ .icon }} fa-lg mr-2"></i>
+                                    <span id="show-group">{{ .item }}</span>
+                                </a>
+                                {{else}}
                                 <a href="{{ .link }}" target="_blank">
                                     <i class="{{ .icon }} fa-lg mr-2"></i>
                                     <span>{{ .item }}</span>
@@ -42,6 +77,7 @@
                                     </li>
                                     {{ end }}
                                 </ul>
+                                {{ end }}
                             </li>
                             {{ end }}
                         </ul>

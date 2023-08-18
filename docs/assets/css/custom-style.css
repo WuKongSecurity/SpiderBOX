@@ -216,3 +216,10 @@ footer.main-footer .footer-text a:hover {
     /* background: linear-gradient(220.55deg, #00E0EE 0%, #AD00FE 100%); */
     /* background-image: linear-gradient(45deg, #00DBDE 0%, #FC00FF 100%); */
 }
+
+
+/* @media (max-width: 768px) {
+    #menu-item-sponsor {
+      display: none;
+    }
+  } */

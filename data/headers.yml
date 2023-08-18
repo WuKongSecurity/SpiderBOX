@@ -14,6 +14,11 @@
   icon: far fa-envelope
   link: mailto:admin@itbob.cn
 
+- item: 交流群
+  popup: true
+  icon: fas fa-user-friends
+  link: mailto:admin@itbob.cn
+
 # - item: 二级菜单
 #   icon: fa fa-cog
 #   link: ""
