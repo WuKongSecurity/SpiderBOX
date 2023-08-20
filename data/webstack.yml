@@ -2,391 +2,387 @@
 - taxonomy: 主站推荐
   icon: far fa-star
   links:
-    - title: 小A猪崽
-      logo: xazz.ico
-      url: https://nav.xazz.top
-      description: 丰富的导航站
-    - title: 博客
-      logo: 博客.ico
-      url: https://ikirito.me/
-      description: 站长的博客
-    - title: 关于我
-      logo: 关于我.ico
-      url: https://doks.xazz.top/blog/
-      qrcode: assets/images/my.png
-      description: 站长的个人介绍
-    - title: 文档库
-      logo: doks.ico
-      url: https://doks.xazz.top
-      description: 小A猪崽的文档库
-    - title: 探针
-      logo: 探针.svg
-      url: https://vps.xazz.top/
-      description: 哪吒探针管理
-    - title: 开源
-      logo: github.ico
-      url: https://github.com/i-kirito/nav.github.io
-      description: 导航站GitHub开源
-    - title: Chatgpt镜像
-      logo: chatgpt.ico
-      url: https://chat.xazz.top/
-      description: 不需要加速也能上
-    - title: Wallhaven
-      logo: wallhaven.ico
-      url: https://wallhaven.cc
-      description: 一个非常丰富的图库网
-    - title: 哔哩哔哩
-      logo: bilibili.ico
-      url: https://bilibili.com/
-      description: 年轻人的视频平台
-    - title: Steam
-      logo: steam.ico
-      url: https://store.steampowered.com/
-      description: 大伙都在玩的游戏平台
-    - title: Notion
-      logo: notion.png
-      url: https://www.notion.so/
-      description: Notion笔记，简洁便利
-    - title: Chrome
-      logo: google.ico
-      url: https://www.google.com/
-      description: 谷歌搜索，最好用的搜索引擎
+    - title: 站长博客
+      logo: default.png
+      url: https://www.itbob.cn/
+      description: 站长 BOB 的博客
+    - title: 微信公众号
+      logo: default.png
+      qrcode: assets/images/qrcode.jpg
+      description: 站长公众号：爬虫矛与盾
 
-- taxonomy: 编程学习
-  icon: fas fa-laptop-code fa-lg
+- taxonomy: 常用工具
+  icon: fas fa-tools
   list:
-    - term: Web应用
+    - term: 在线工具
       links:
-        - title: 编程词典
-          url: http://dict.code-nav.cn/
-          logo: 编程词典.svg
-          description: 编程语言相关知识查询
-        - title: W3School
-          logo: W3School.ico
-          url: https://www.w3school.com.cn
-          description: 你可以找到你所需要的所有的网站建设教程
-        - title: Mozilla开发者社区
-          logo: mo.ico
-          url: https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web
-          description: MDN系统化学习web吧
-        - title: jsDelivr
-          logo: js.ico
-          url: https://www.jsdelivr.com/
-          description: 利用jsdelivr加速自己的图床
-        - title: GitHub主页美化
-          logo: fork.ico
-          url: https://zzetao.github.io/awesome-github-profile/
-          description: 查看GitHub开源作者的美化fork他们
-        - title: Runoob
-          logo: cainiao.ico
-          url: https://www.runoob.com/
-          description: Web菜鸟教程
-        - title: Markdown
-          logo: markdown.ico
-          url: https://markdown.com.cn/
-          description: markdown语法教程
-        - title: jQuery插件库
-          logo: jquary.ico
-          url: https://www.jq22.com/
-          description: 收集最全最新最好的js插件
-        - title: jQuery之家
-          logo: js之家.ico
-          url: http://www.htmleaf.com/
-          description: 扩展你的js插件库
-        - title: 像素大厨
-          logo: fancynode.png
-          url: https://www.fancynode.com.cn/
-          description: 从设计到代码，让团队高效协作
-        - title: Bootstrap Studio
-          logo: bs.ico
-          url: https://bootstrapstudio.io/
-          description: 编辑web网站，无需代码
-        - title: CodePen
-          logo: codepen.ico
-          url: https://codepen.io/
-          description: 免费下载css和js模板
-        - title: Zion
-          logo: zion.ico
-          url: https://www.functorz.com/
-          description: 无代码开发微信小程序
-        - title: Markdown-badges
-          logo: badges.png
-          url: https://ileriayo.github.io/markdown-badges/
-          description: 获取markdown写法的badges包
-        - title: 1panel 
-          logo: 1panel.png
-          url: https://1panel.cn/
-          description: 开源的服务器web管理面板
+        - title: 爬虫工具库
+          logo: spidertools.png
+          url: https://spidertools.cn/
+          description: feapder 作者出品的爬虫工具库
+        - title: 爬虫工具库
+          logo: kuaidaili.png
+          url: https://www.kgtools.cn/
+          description: K 哥爬虫工具库
+        - title: Cookie 搜索
+          logo: digitalpoint.png
+          url: https://tools.digitalpoint.com/cookie-search
+          description: 全网搜索 Cookie 存在于哪些网站上
 
-    - term: 云服务器
+    - term: 插件工具
       links:
-        - title: 阿里云
-          logo: 阿里云.ico
-          url: https://www.aliyun.com/
-          description: 上云就上阿里云
-        - title: 腾讯云
-          logo: 腾讯云.ico
-          url: https://cloud.tencent.com/
-          description: 产业智变，云启未来
-        - title: 极云普惠云电脑
-          logo: 极云普惠云电脑.ico
-          url: https://www.ji-cloud.cn/
-          description: 云电脑-云游戏-手机变电脑软件
-        - title: Vultr
-          logo: vultr.webp
-          url: https://www.vultr.com/
-          description: 提供了全球多个数据中心，实时部署云服务器，具有高效稳定的性能和安全保障
-        - title: Aws
-          logo: aws.ico
-          url: https://aws.amazon.com/cn/
-          description: 亚马逊云服务，提供了包括计算、存储、数据库、网络等在内的各种云服务
-        - title: DigitalOcean
-          logo: do.ico
-          url: https://m.do.co/c/d88163487411
-          description: 数字海洋，它的特点是简单易用、强大的功能和优秀的性能
-        - title: Google Cloud
-          logo: 谷歌云.ico
-          url: https://cloud.google.com/
-          description: 基于云计算技术的云服务平台，提供包括计算、存储、数据库、网络等多种云服务
-        - title: Azure
-          logo: azure.ico
-          url: https://azure.microsoft.com/
-          description: 微软云提供了各种基础设施即服务（IaaS）、平台即服务（PaaS）和软件即服务（SaaS）
-        - title: Oracle
-          logo: Oracle.ico
-          url: https://www.oracle.com/cn/
-          description: 主要特点包括高性能、高可靠性、高扩展性、安全性好等优点
-        - title: Vercel
-          logo: vercel.ico
-          url: https://vercel.com/
-          description: 轻松地构建、部署和扩展 Web 应用程序。GitHub拉取
-        - title: Railway
-          logo: railway.ico
-          url: https://railway.app/
-          description: 轻松地构建、部署和扩展django
-        - title: Heroku
-          logo: heroku.ico
-          url: https://www.heroku.com/
-          description: 云计算平台，快速构建、部署和托管Web应用程序
+        - title: Tampermonkey
+          logo: tampermonkey.png
+          url: https://www.tampermonkey.net/
+          description: Tampermonkey，又称作油猴，篡改猴，允许用户自定义并增强网页的功能。
+        - title: v_jstools
+          logo: v_jstools.png
+          url: https://github.com/cilame/v_jstools
+          description: v 神出品的用于快速调试 JS 代码的插件，内置 dom 对象 hook、pac 代理、AST 解混淆、代码模板等强大功能。
+        - title: ReRes
+          logo: reres.png
+          url: https://github.com/annnhan/ReRes
+          description: 把远程 css 文件或者 js 映射到本地的文件上，通过修改本地文件进行调试和开发。
+        - title: FeHelper
+          logo: fehelper.png
+          url: https://www.baidufe.com/fehelper/
+          description: Web开发者助手，包括JSON自动/手动格式化、JSON内容比对、代码美化与压缩、信息编解码转换、二维码生成与解码、图片Base64编解码转换、Markdown、 网页油猴、网页取色器、脑图(Xmind)等贴心工具。
+        - title: Header 自定义工具
+          logo: header.png
+          url: https://chrome.google.com/webstore/detail/header%E8%87%AA%E5%AE%9A%E4%B9%89%E5%B7%A5%E5%85%B7/maaccnhcoaehdeehahenkmchinbdjjmi
+          description: 一个可以自定义HTTP Header信息的Chrome插件，包括Referer访问来源、随机UA信息、随机IP地址。
+        - title: ModHeader
+          logo: modheader.png
+          url: https://modheader.com/
+          description: 修改 HTTP 请求标头、响应标头和重定向 URL。
+        - title: Proxy SwitchyOmega
+          logo: switchyomega.png
+          url: https://github.com/FelisCatus/SwitchyOmega
+          description: 轻松快捷地管理和切换多个代理设置。
+        - title: SelectorGadget
+          logo: selectorgadget.png
+          url: https://selectorgadget.com/
+          description: 简单、强大的 CSS 选择器生成。
+        - title: Trace
+          logo: trace.png
+          url: https://github.com/L018/Trace
+          description: Trace 是一个用于网站分析的 Chrome 扩展, 包括追踪Cookie、追踪事件、追踪对象、脚本注入、阻止请求、变量追踪、JS反混淆、响应流转等功能。
+        - title: webhook
+          logo: webhook.png
+          url: https://github.com/valuespider/webHookTools
+          description: 阿布的 js 反调试工具。
+        - title: XPath Helper
+          logo: xpathhelper.png
+          url: https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl
+          description: 轻松提取、编辑和评估 XPath 查询。
+        - title: XPath Helper Plus
+          logo: xpathhelperplus.png
+          url: https://github.com/mic1on/xpath-helper-plus
+          description: xpath开发者的工具，可以帮助开发者快速的定位元素。
+        - title: XPath Helper Wizard
+          logo: xpathhelperwizard.png
+          url: https://chrome.google.com/webstore/detail/xpath-helper-wizard/jadhpggafkbmpdpmpgigopmodldgfcki
+          description: 创建 XPath 查询选择相似元素并可视化结果，XPath Helper Wizard 创建的 xpath 很短，并且在网站更改时不太可能中断。
+        - title: Scraping Helper
+          logo: scrapinghelper.png
+          url: https://github.com/huangwc94/scraping-helper-chrome-extension
+          description: 自动生成最简 HTML 选择命令，用于爬虫网页内容分析。
+        - title: 简悦 - SimpRead
+          logo: simpread.png
+          url: https://simpread.pro/
+          description: 让你瞬间进入沉浸式阅读的 Chrome 扩展，类似 Safari 的阅读模式。
+        - title: Save as PDF
+          logo: saveaspdf.png
+          url: https://pdfcrowd.com/save-as-pdf-addon/
+          description: 网页转 PDF，把你喜欢的博主的文章保存一份吧。
+        - title: Fiddler 编程猫插件
+          logo: bianchengmiao.png
+          url: https://pan.baidu.com/s/1GFJhq-AqFxty4DOrkjSuLA?pwd=sbox
+          description: Fiddler 编程猫专用插件 V1.0.8。
+
+    - term: 调试工具
+      links:
+        - title: 精易编程助手
+          logo: digitalpoint.png
+          url: https://tools.digitalpoint.com/cookie-search
+          description: 全网搜索 Cookie 存在于哪些网站上
+        - title: 乐易编程助手
+          logo: digitalpoint.png
+          url: https://tools.digitalpoint.com/cookie-search
+          description: 全网搜索 Cookie 存在于哪些网站上
+        - title: WT-JS
+          logo: spidertools.png
+          url: https://spidertools.cn/
+          description: feapder 作者出品的爬虫工具库
+        - title: JSDebugger
+          logo: kuaidaili.png
+          url: https://www.kgtools.cn/
+          description: K 哥爬虫工具库
+        - title: 鬼鬼 JS 调试工具
+          logo: digitalpoint.png
+          url: https://tools.digitalpoint.com/cookie-search
+          description: 全网搜索 Cookie 存在于哪些网站上
+        - title: 发条 JS 调试工具
+          logo: digitalpoint.png
+          url: https://tools.digitalpoint.com/cookie-search
+          description: 全网搜索 Cookie 存在于哪些网站上
+        - title: 随缘 JS 调试工具
+          logo: digitalpoint.png
+          url: https://tools.digitalpoint.com/cookie-search
+          description: 全网搜索 Cookie 存在于哪些网站上
+        - title: 小七编程助手
+          logo: digitalpoint.png
+          url: https://tools.digitalpoint.com/cookie-search
+          description: 全网搜索 Cookie 存在于哪些网站上
+
+    - term: 指纹检测
+      links:
+        - title: CreepJS
+          logo: creepjs.png
+          url: https://abrahamjuliot.github.io/creepjs/
+          description: 浏览器指纹检测
+        - title: Fp-Collect
+          logo: fp-collect.png
+          url: https://arh.antoinevastel.com/bots/
+          description: 浏览器指纹检测，由 Datadome 研究主管开发
+        - title: AntiBot
+          logo: sannysoft.png
+          url: https://bot.sannysoft.com/
+          description: 无头浏览器检测
+        - title: Detect Headless
+          logo: detect-headless.png
+          url: https://infosimples.github.io/detect-headless/
+          description: 无头浏览器检测
+        - title: Bot/Headless Chrome Detection
+          logo: bot-headless.png
+          url: https://bot.incolumitas.com/
+          description: 机器人/无头浏览器检测
+        - title: TCP/IP Fingerprint API
+          logo: tcpip.png
+          url: https://tcpip.incolumitas.com/classify?detail=1
+          description: TCP/IP 指纹 API
+        - title: IP Address API
+          logo: ip-api.png
+          url: https://api.incolumitas.com/
+          description: IP 地址查询 API
+        - title: Proxy/VPN Detection
+          logo: proxy-detect.png
+          url: https://bot.incolumitas.com/proxy_detect.html
+          description: 实时代理和 VPN 检测
+        - title: Browser Leaks
+          logo: browserleaks.png
+          url: https://browserleaks.com/
+          description: 提供一系列测试来评估网络浏览器的安全性和隐私性
+        - title: Pixelscan
+          logo: pixelscan.png
+          url: https://pixelscan.net/
+          description: 一种用于检测互联网机器人的一次性解决方案
+        - title: Fake Vision
+          logo: fake-vision.png
+          url: http://f.vision/
+          description: 新一代浏览器检测器
+        - title: TLSJA3
+          logo: geekbyte.png
+          url: https://tlsja3.cn/tls
+          description: TLS 指纹 API
+        - title: TrackMe - fp API
+          logo: peet.png
+          url: https://tls.peet.ws/
+          description: TLS 指纹 API
+
+- taxonomy: 防护厂商
+  icon: fas fa-shield-alt
+  list:
+    - term: 国内厂商
+      links:
+        - title: 极验 GEETEST
+          url: https://www.geetest.com/
+          logo: geetest.png
+          description: 极验 GEETEST，互联网交互安全创领者，利用先进AI技术，通过行为验证，身份验证，设备验证等多维验证方式，智能识别人机，帮助企业鉴别异常流量，保障企业的业务安全，移动安全和流量安全。
+        - title: 数美科技
+          logo: ishumei.png
+          url: https://www.ishumei.com/
+          description: 数美科技，基于先进的人工智能技术构建了全场景全流程全维度业务风控产品矩阵与秒级迭代全球SaaS AI风控服务网络，数美科技致力于为全球企业提供专业的在线业务风控服务，为在线业务增长保驾护航。
+        - title: 顶象
+          logo: dingxiang-inc.png
+          url: https://www.dingxiang-inc.com/
+          description: 顶象防御云，致力于帮助企业构建自主可控的业务安全体系，通过智能无感验证码、端加固、设备指纹、实时决策、安全感知防御平台等产品解决业务欺诈威胁，防范化解各类网络黑灰产风险，让业务更加健康稳定,助力企业创新与增长。
+        - title: 网易易盾
+          logo: dun-163.png
+          url: https://dun.163.com/
+          description: 网易易盾是网易旗下一站式数字内容风控品牌，依托网易20余年的技术沉淀和实践经验，提供专业的内容安全、业务安全、移动安全等服务，全方位保障客户业务合规、稳健和安全运营。
+        - title: 阿里云云盾
+          logo: aliyun.png
+          url: https://www.aliyun.com/activity/security/wafcaptcha
+          description: 阿里云验证码产品，使用业界先进的风控引擎结合“规则+AI”模型，有效区分真实用户和机器自动化脚本攻击，避免机器请求造成业务损失。
+        - title: 腾讯防水墙
+          logo: 007-qq.png
+          url: https://007.qq.com/
+          description: 腾讯防水墙，专注业务安全服务，用领先的人工智能技术解决业务欺诈、薅羊毛、刷单、爬虫、撞库等问题，让您的企业零投入也能有微信/QQ级别的业务安全服务。
+        - title: 小盾安全
+          logo: xiaodun.png
+          url: https://sec.xiaodun.com/
+          description: 小盾安全是同盾科技旗下全新业务安全独立品牌，是国内领先的全栈式业务安全解决方案专家，以“维护数字社会的安全与清朗”为使命，以业务攻击情报为驱动，以业务数据资产为原料，以网络安全技术为基础，以人工智能算法为核心，护航客户业务高速增长。
+        - title: 云片
+          logo: yunpian.png
+          url: https://www.yunpian.com/product/captcha
+          description: 云片行为验证，帮助网站智能区分人机，防止恶意攻击。全程AES+RSA算法加密传输，保障用户数据安全；秒级用户验证体验，验证结果毫秒级判断。
+        - title: vaptcha
+          logo: vaptcha.png
+          url: https://www.vaptcha.com/
+          description: 手势验证码VAPTCHA是基于人工智能和大数据的次世代人机验证解决方案。独有的验证策略及风控模型组合可彻底杜绝刷票、灌水、撞库等恶意攻击行为。
+        - title: AISecurius
+          logo: aisecurius.png
+          url: https://www.aisecurius.com/
+          description: 顶象国际版，国际版验证码 atbCAPTCHA。
+        - title: 瑞数信息
+          logo: riversecurity.png
+          url: https://www.riversecurity.com/
+          description: 瑞数信息是中国动态安全技术的创新者和Bots自动化攻击防护领域的专业厂商，瑞数信息提供涵盖Web、App和API的全渠道应用安全、重保、业务反欺诈、数据安全、云安全等在内的专业网络安全产品及服务。
+
+    - term: 国际厂商
+      links:
+        - title: Kasada
+          logo: kasada.png
+          url: https://www.kasada.io/
+          description: Kasada transcends bot management with a radical approach to defeat automated threats and online fraud. Web and API protection that lasts.
+        - title: F5 & Shape Security
+          logo: f5.png
+          url: https://www.f5.com/
+          description: F5 application services ensure that applications are always secure and perform the way they should—in any environment and on any device.
+        - title: DataDome
+          logo: datadome.png
+          url: https://datadome.co/
+          description: Detect and mitigate bot &amp; online fraud attacks with unparalleled accuracy and zero compromise. Deploy in minutes. No impact on User Experience.
+        - title: Imperva
+          logo: imperva.png
+          url: https://www.imperva.com/
+          description: Imperva provides complete cyber security by protecting what really matters most—your data and applications—whether on-premises or in the cloud.
+        - title: PerimeterX
+          logo: perimeterx.png
+          url: https://www.perimeterx.com/
+          description: HUMAN Security is a cybersecurity company that safeguards enterprises and internet platforms from sophisticated bot attacks, fraud, and account abuse.
+        - title: Akamai
+          logo: akamai.png
+          url: https://www.akamai.com/
+          description: Akamai Connected Cloud is a massively distributed edge and cloud platform that keeps experiences closer to users — and threats farther away.
         - title: Cloudflare
-          logo: cloudflare.ico
-          url: https://www.cloudflare.com/zh-cn/
-          description: 大伙都知道的CF
+          logo: cloudflare.png
+          url: https://www.cloudflare.com/
+          description: Here at Cloudflare, we make the Internet work the way it should. Offering CDN, DNS, DDoS protection and security, find out how we can help your site.
+        - title: Arkose Labs
+          logo: arkoselabs.png
+          url: https://www.arkoselabs.com/
+          description: Banish malicious bots and stop SMS toll fraud (IRSF), account takeovers, credential stuffing, and new account fraud – with protection that rolls out in hours.
+        - title: reCAPTCHA
+          logo: recaptcha.png
+          url: https://www.google.com/recaptcha/
+          description: reCAPTCHA uses an advanced risk analysis engine and adaptive challenges to keep malicious software from engaging in abusive activities on your website. Meanwhile, legitimate users will be able to login, make purchases, view pages, or create accounts and fake users will be blocked.
+        - title: hCaptcha
+          logo: hcaptcha.png
+          url: https://www.hcaptcha.com/
+          description: hCaptcha is an anti-bot solution that protects user privacy and rewards websites. It is the most popular reCAPTCHA alternative. Help build a better web.
+        - title: CyberSiara
+          logo: cybersiara.png
+          url: https://www.cybersiara.com/
+          description: The most advanced human verification tool for website security against bots, spam, credit card fraud, and other cybercrime. An effective alternative to reCaptcha, hCaptcha, and honeypots.
+        - title: Fingerprint 
+          logo: fingerprint.png
+          url: https://fingerprint.com/
+          description: The Fingerprint device intelligence platform works across web and mobile applications to identify all visitors with 99.5% accuracy — even if they’re anonymous.
 
-    - term: 办公学习
-      links:
-        - title: GitHub
-          logo: github.ico
-          url: https://github.com/
-          description: 最热门知名的开源网站
-        - title: GitLab
-          logo: gitlab.ico
-          url: https://about.gitlab.com/
-          description: 开源的代码托管平台，类似于GitHub
-        - title: Gitee
-          logo: gitee.ico
-          url: https://gitee.com/
-          description: GitHub中国镜像站代理
-        - title: R2coding
-          logo: r2c.ico
-          url: https://r2coding.com/
-          description: 编程自学之路，是自学编程以来所用资源和分享内容的大聚合
-        - title: 语雀
-          logo: 语雀.ico
-          url: https://www.yuque.com/
-          description: 优雅高效的在线文档编辑与协同工具
-        - title: 清华大学开源
-          logo: 清华开源.ico
-          url: https://mirror.tuna.tsinghua.edu.cn/
-          description: 具有全球影响力的开源软件镜像站点
-        - title: 有道词典
-          logo: 有道词典.ico
-          url: https://www.youdao.com/
-          description: 免费，即时的多语种在线翻译
-        - title: 谷歌翻译
-          logo: 谷歌翻译.ico
-          url: https://translate.google.cn/
-          description: 谷歌翻译
-        - title: Paperpass
-          logo: paperpass.ico
-          url: https://www.paperpass.com/
-          description: 论文查重，每天免费一篇
-        - title: CSDN
-          logo: csdn.ico
-          url: https://www.csdn.net/
-          description: 中国最大的专业技术社区，包含了众多IT领域的技术文章和技术问答
-        - title: 掘金
-          logo: 掘金.ico
-          url: https://juejin.cn/
-          description: 程序员交流社区和学习平台
-        - title: V2ex
-          logo: v2ex.ico
-          url: https://www.v2ex.com/
-          description: 由设计师、程序员及有创意的人参与的社区
-        - title: Xmind
-          logo: xmind.ico
-          url: https://xmind.cn/
-          description: 方便思维导图的使用
-
-- taxonomy: 悠闲娱乐
-  icon: fas fa-film fa-lg
+- taxonomy: 代理数据
+  icon: fas fa-map-marker-alt
   list:
-    - term: 影音视频
+    - term: 国内代理
       links:
-        - title: 哔哩哔哩
-          logo: 哔哩哔哩.ico
-          url: https://www.bilibili.com/
-          description: Bilibili 视频弹幕网站
-        - title: 网易云音乐
-          logo: 网易云音乐.jpg
-          url: https://music.163.com/
-          description: 163 网易云音乐
-        - title: 免费音乐
-          logo: freemusic.ico
-          url: https://tool.liumingye.cn/music/#/
-          description: 免费听下载全网音乐
-        - title: Emby
-          logo: emby.ico
-          url: https://emby.media/
-          description: Emby自建视频媒体库，自行搜索公益服务器
-        - title: Netflix
-          logo: Netflix.ico
-          url: https://www.netflix.com/
-          description: 流媒体视频服务提供商，提供广泛的电影和电视节目的流媒体服务
-        - title: Disney+
-          logo: Disney+.ico
-          url: https://www.disneyplus.com/
-          description: 迪士尼、皮克斯、漫威、卢卡斯影业等品牌的电影、电视剧、纪录片、独家内容等
-        - title: YouTube
-          logo: youtube.ico
-          url: https://www.youtube.com/
-          description: 世界上最大的在线视频平台
-        - title: 电影天堂（DYTT8）
-          logo: 电影天堂.ico
-          url: https://www.dytt8.net/index.htm
-          description: 电影天堂（DYTT8），高清电影下载
-        - title: 电影天堂（DYGOD）
-          logo: 电影天堂.ico
-          url: https://www.dygod.net/
-          description: 电影天堂（DYGOD），高清电影下载
-        - title: 免费视频
-          logo: nivod.ico
-          url: https://www.nivod4.tv/
-          description: 快速更新免费电视电影
-        - title: 動畫線上看
-          logo: 动漫.webp
-          url: https://anime1.me/
-          description: 上百部動畫在綫免費看~
-        - title: H动漫
-          logo: H动漫.jpg
-          url: https://hanime1.me/
-          description: 偷偷看 别被家长发现了
-        - title: 禁漫天堂
-          logo: jinman.ico
-          url: https://18comic.vip/
-          description: 日韩漫本子聚集地
-        - title: 巴卡漫画
-          logo: baka.png
-          url: https://bakamh.com/
-          description: bakamh巴卡漫画 韩漫
+        - title: 快代理
+          logo: kuaidaili.png
+          url: https://www.kuaidaili.com/
+          description: 快代理创立于2013年,专注为企业和开发者提供高品质的HTTP代理IP云服务,每日去重代理IP超40万个,提供使用IP代理服务完备的API接口和SDK,赋能于需要大量使用IP代理来实现大规模公共数据采集的场景,企业IP代理服务认准快代理。
+        - title: 青果网络
+          logo: qg.png
+          url: https://www.qg.net/
+          description: 青果网络提供香港、美国、韩国云主机，同时携手腾讯云、天翼云助力企业上云；云电脑、拨号VPS和动态代理IP为大数据赋能；高防服务器租用与托管为企业安全保驾护航；大带宽与机柜业务加速网络访问。
+        - title: 芝麻 HTTP
+          logo: logozm.png
+          url: https://www.zmhttp.com/
+          description: 芝麻HTTP代理是企业大数据爬取HTTP动态IP服务提供商,为上百家企业用户提供海量优质高匿HTTP代理IP,全国自建数百所机房,低延迟高可用率稳定专业！
+        - title: 品赞 HTTP
+          logo: ipzan.png
+          url: https://www.ipzan.com/
+          description: 品赞代理ip软件是国内专业的ip代理服务器提供商，提供http代理，API接口和自动换IP代理软件，千万高匿名ip覆盖全国随意切换，支持PC、iOS、安卓，高效稳定免费试用，国内ip代理软件、http代理选择品赞代理。
+        - title: 品易 HTTP
+          logo: py.png
+          url: https://http.py.cn/
+          description: 品易HTTP拥有超过2000万的代理IP池，每天更新IP资源近400万，城市覆盖全国200多个，累计为数万家企业及个人用户提供私有化代理IP定制服务，根据业务类型制定针对性网页公开数据采集技术架构，帮助企业实现业务提升！新用户注册可免费试用。
+        - title: 小象代理
+          logo: xiaoxiangdaili.png
+          url: https://www.xiaoxiangdaili.com/
+          description: 小象代理是一家专业的优质HTTP动态IP服务提供商，产品低延迟高可用，稳定可靠，全国自建机房海量IP，企业级用户首选方案！
+        - title: 阿布云
+          logo: abuyun.png
+          url: https://www.abuyun.com/
+          description: 阿布云 —— 最专业的大数据服务商
+        - title: 云立方
+          logo: yunlifang.png
+          url: https://www.yunlifang.cn/
+          description: 云立方是动态vps,拔号vps,adsl拔号服务器,代理ip,动态ip,天翼云,阿里云,腾讯云,华为云, 高防服务器提供商,高性价比vps服务器,静态云,云,vps,vps就找云立方!
+        - title: 因体技术
+          logo: iinti.png
+          url: https://iinti.cn/
+          description: 马莲妮亚（Malenia）代理IP资源中台系统，配合 MITM 中间人攻击脚本无视加密进行数据采集，梅祖拉（majora）代理IP建设系统，更适合爬虫工程师的解决方案。
 
-    - term: 游戏模组
+    - term: 国际代理
       links:
-        - title: Steam
-          logo: steam.ico
-          url: https://store.steampowered.com/
-          description: 大伙都在玩的游戏平台
-        - title: SteamDB
-          logo: steamdb.svg
-          url: https://steamdb.info/
-          description: 查看steam数据和不同区域价格
-        - title: Steam主页美化
-          logo: steamdesign.ico
-          url: https://steam.design/
-          description: 想要不一样的steam主页设计？点我
-        - title: Epic
-          logo: epic.ico
-          url: https://www.epicgames.com/
-          description: 一个游戏开发与发行公司
-        - title: itcho
-          logo: itcho.ico
-          url: https://itch.io/
-          description: 致力于允许独立游戏制作者发布和销售其作品
-        - title: 3dm论坛
-          logo: 3dm.ico
-          url: https://bbs.3dmgame.com/forum.php
-          description: 游戏破解论坛
-        - title: 9dm论坛
-          logo: 9dm.ico
-          url: http://www.9damaogames.com/
-          description: 游戏破解论坛
-        - title: xxxxx520
-          logo: xxxxx520.ico
-          url: https://xxxxx520.cam/
-          description: 游戏破解，switch模拟
-        - title: mcbbs
-          logo: mcbbs.ico
-          url: https://www.mcbbs.net/forum.php
-          description: 我的世界中文官方论坛
-        - title: Curseforge
-          logo: mod.ico
-          url: https://www.curseforge.com/minecraft/modpacks
-          description: 我的世界最全mod网站
-        - title: Nexus Mods
-          logo: nexus.webp
-          url: https://www.nexusmods.com/
-          description: 为 PC 游戏玩家提供 mod 的网站
-        - title: QooApp
-          logo: qooapp.webp
-          url: https://qoo-app.com
-          description: 国际服游戏平台
-        # - title: Gamelabs
-        #   logo: gl.ico
-        #   url: https://game.ero-labs.cloud/cn/
-        #   description: R18游戏集合
-        # - title: 老司机游玩
-        #   logo: lsj.ico
-        #   url: https://www.iolsj.xyz/
-        #   description: R18游戏集合
-
-    - term: 网盘资源
-      links:
-        - title: 百度网盘
-          logo: 百度网盘.ico
-          url: http://pan.baidu.com/
-          description: 百度云盘，最慢的盘
-        - title: 阿里云盘
-          logo: 阿里云盘.ico
-          url: https://www.aliyundrive.com/
-          description: 阿里云盘，你的数字世界
-        - title: 谷歌云盘
-          logo: 谷歌云盘.ico
-          usrl: https://www.google.com/intl/zh-CN_ALL/drive/
-          description: 随时随地存取，它还提供了共享和协作功能
-        - title: OneDrive
-          logo: OneDrive.ico
-          usrl: https://onedrive.live.com/
-          description: 微软云盘，支持备份Windows
-        - title: Nextcloud
-          logo: nextcloud.webp
-          usrl: https://nextcloud.com/
-          description: 自托管的云存储，开源云盘
-        - title: Alist
-          logo: alist.svg
-          usrl: https://alist.nn.ci/
-          description: 一个支持多种存储的文件列表程序，软路由搭载
-        - title: 可道云
-          logo: 可道云.ico
-          usrl: https://kodcloud.com/
-          description: 云端存储&协同办公新体验        
-        - title: 蓝奏云
-          logo: 蓝奏云.ico
-          url: https://www.lanzoui.com/
-          description: 天下武功，唯快不破
-        - title: 坚果云
-          logo: 坚果云.ico
-          usrl: https://www.jianguoyun.com/
-          description: 任何设备，随时随地实现文件共享
+        - title: BrightData
+          logo: brightdata.png
+          url: https://brightdata.com/
+          description: Award winning proxy networks, powerful web scrapers, and ready-to-use datasets for download. Welcome to the world's number one web data platform.
+        - title: Smartproxy
+          logo: smartproxy.png
+          url: https://smartproxy.com/
+          description: Access 40M+ high-quality IPs via Smartproxy – the top proxy service for web scraping. Enjoy location targeting &amp; easy data extraction now!
+        - title: Oxylabs
+          logo: oxylabs.png
+          url: https://oxylabs.io/
+          description: The best proxy service platform with 100M+ Residential and 2M Datacenter IP proxies. Extract public data from any website with ease!
+        - title: Stormproxies
+          logo: stormproxies.png
+          url: https://stormproxies.com/
+          description: Residential Backconnect Rotating & Private Dedicated Proxy.
+        - title: Asocks
+          logo: asocks.png
+          url: https://asocks.com/
+          description: The Most Stable Residential Proxy Network.
+        - title: IPRoyal
+          logo: iproyal.png
+          url: https://iproyal.com/
+          description: IPRoyal is one of the best and cheapest proxy service providers with 2M+ residential proxies and many other proxy types☑️! Start using it NOW!
+        - title: Ake
+          logo: ake.png
+          url: https://ake.net/
+          description: The largest database of mobile, residential and server proxies in one place.
+        - title: WTFproxy
+          logo: wtfproxy.png
+          url: https://www.wtfproxy.com/
+          description: Rotating residential proxies. Prices as low as $1.75/GB. Pay with crypto and get instant access. Anonimity guaranteed. Get your proxy access today!
+        - title: Zyte
+          logo: zyte.png
+          url: https://www.zyte.com/
+          description: Access clean, valuable data with web scraping services that drive your business forward. 14 day free trial available.
+        - title: Rayobyte
+          logo: rayobyte.png
+          url: https://rayobyte.com/
+          description: We Are Rayobyte, The company that can take your business into the future no matter how much data you might need.
+        - title: Shifter
+          logo: shifter.png
+          url: https://shifter.io/
+          description: Shifter is the ultimate data toolkit for data collection providing access to residential proxy networks and data scraping APIs.
+        - title: ScraperAPI
+          logo: scraperapi.png
+          url: https://www.scraperapi.com/
+          description: ScraperAPI handles proxy rotation, browsers, and CAPTCHAs so developers can scrape any page with a single API call. Web scraping with 5,000 free API calls!
 
 - taxonomy: 素材资源
   icon: far fa-folder-open fa-lg
