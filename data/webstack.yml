@@ -33,7 +33,7 @@
           url: http://tool.chacuo.net/cryptdes
           description: 在线 DES、3DES、AES、RC2、RC4、RC5、RC6、RSA 等加解密。
         - title: httpbin
-          logo: httpbin.png
+          logo: bin.png
           url: https://www.httpbin.org/
           description: 一个简单的 HTTP 请求和响应测试服务。
         - title: icanhazip
@@ -143,37 +143,37 @@
     - term: 调试工具
       links:
         - title: 精易编程助手
-          logo: digitalpoint.png
-          url: https://tools.digitalpoint.com/cookie-search
-          description: 全网搜索 Cookie 存在于哪些网站上
+          logo: jingyisoft.png
+          url: http://soft.125.la/plugin.php?id=jingyi_soft:soft&cid=3
+          description: 精易编程助手
         - title: 乐易编程助手
-          logo: digitalpoint.png
-          url: https://tools.digitalpoint.com/cookie-search
-          description: 全网搜索 Cookie 存在于哪些网站上
+          logo: leybc.png
+          url: https://www.leybc.com/thread-7123-1-1.html
+          description: 乐易编程助手
         - title: WT-JS
-          logo: spidertools.png
-          url: https://spidertools.cn/
-          description: feapder 作者出品的爬虫工具库
+          logo: wtjs.png
+          url: https://bbs.125.la/thread-14734668-1-1.html
+          description: WT-JS
         - title: JSDebugger
-          logo: kuaidaili.png
-          url: https://www.kgtools.cn/
-          description: K 哥爬虫工具库
+          logo: jsdebugger.png
+          url: https://pan.baidu.com/s/1dDgCV61DTyFKvO01qvtgqA?pwd=sbox
+          description: JSDebugger
         - title: 鬼鬼 JS 调试工具
-          logo: digitalpoint.png
-          url: https://tools.digitalpoint.com/cookie-search
-          description: 全网搜索 Cookie 存在于哪些网站上
+          logo: ggjs.png
+          url: https://pan.baidu.com/s/1i5O-RrsHCgBmQCSXplR5sg?pwd=sbox
+          description: 鬼鬼 JS 调试工具
         - title: 发条 JS 调试工具
-          logo: digitalpoint.png
-          url: https://tools.digitalpoint.com/cookie-search
-          description: 全网搜索 Cookie 存在于哪些网站上
+          logo: ftjs.png
+          url: https://pan.baidu.com/s/1RSGT3lneb_pmFhvyuofT2w?pwd=sbox
+          description: 发条 JS 调试工具
         - title: 随缘 JS 调试工具
-          logo: digitalpoint.png
-          url: https://tools.digitalpoint.com/cookie-search
-          description: 全网搜索 Cookie 存在于哪些网站上
+          logo: syjs.png
+          url: https://pan.baidu.com/s/18XmJwP2MZI9jZibS8tqw-Q?pwd=sbox
+          description: 随缘 JS 调试工具
         - title: 小七编程助手
-          logo: digitalpoint.png
-          url: https://tools.digitalpoint.com/cookie-search
-          description: 全网搜索 Cookie 存在于哪些网站上
+          logo: xqbc.png
+          url: https://pan.baidu.com/s/1S_u2Jr5eMGoW88sCR5coUw?pwd=sbox
+          description: 小七编程助手
 
     - term: 抓包工具
       links:
