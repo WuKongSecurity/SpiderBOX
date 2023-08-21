@@ -19,15 +19,55 @@
         - title: 爬虫工具库
           logo: spidertools.png
           url: https://spidertools.cn/
-          description: feapder 作者出品的爬虫工具库
+          description: feapder 作者出品的爬虫工具库。
         - title: 爬虫工具库
           logo: kuaidaili.png
           url: https://www.kgtools.cn/
-          description: K 哥爬虫工具库
+          description: K 哥爬虫工具库。
+        - title: Curl Converter
+          logo: curlconverter.png
+          url: https://curlconverter.com/
+          description: 将 curl 命令转换为 Python、JavaScript、Go 等任何语言。
+        - title: 在线加解密
+          logo: chacuo.png
+          url: http://tool.chacuo.net/cryptdes
+          description: 在线 DES、3DES、AES、RC2、RC4、RC5、RC6、RSA 等加解密。
+        - title: httpbin
+          logo: httpbin.png
+          url: https://www.httpbin.org/
+          description: 一个简单的 HTTP 请求和响应测试服务。
+        - title: icanhazip
+          logo: icanhazip.png
+          url: https://icanhazip.com/
+          description: 快速返回当前 IP。
+        - title: cip.cc
+          logo: cip.png
+          url: https://www.cip.cc/
+          description: 查IP(cip)网站, 提供免费的IP查询服务,命令行查询IP, 并且支持PC网站, 手机网站, 命令行(Windows/UNIX/Linux)三大平台, 是个多平台的IP查询网站。
+        - title: Carbon
+          logo: carbon.png
+          url: https://carbon.now.sh/
+          description: 将代码转为精美的图片。
+        - title: APK Downloader
+          logo: apkdownloader.png
+          url: https://apps.evozi.com/apk-downloader/
+          description: 输入 Google Play URL 即可下载该应用的 APK 文件。
+        - title: Chrome for Testing availability
+          logo: chromedriver.png
+          url: https://googlechromelabs.github.io/chrome-for-testing/
+          description: 获取 Stable 版、Beta 版、Dev 版、Canary 版 chromedriver。
+        - title: ChromeDriver
+          logo: chromedriver.png
+          url: https://chromedriver.storage.googleapis.com/index.html
+          description: 所有版本的 chromedriver 下载页面。
+        - title: GeckoDriver
+          logo: geckodriver.png
+          url: https://github.com/mozilla/geckodriver
+          description: 火狐浏览器的 webdriver。
         - title: Cookie 搜索
           logo: digitalpoint.png
           url: https://tools.digitalpoint.com/cookie-search
-          description: 全网搜索 Cookie 存在于哪些网站上
+          description: 全网搜索 Cookie 存在于哪些网站上。
 
     - term: 插件工具
       links:
@@ -135,6 +175,53 @@
           url: https://tools.digitalpoint.com/cookie-search
           description: 全网搜索 Cookie 存在于哪些网站上
 
+    - term: 抓包工具
+      links:
+        - title: Fiddler
+          logo: fiddler.png
+          url: https://www.telerik.com/fiddler
+          description: Fiddler Classic 免费抓包工具，仅支持 Windows，Fiddler Everywhere 收费抓包工具，支持 MacOS, Windows 和 Linux。
+        - title: Charles
+          logo: charles.png
+          url: https://www.charlesproxy.com/
+          description: Charles 抓包工具，又被戏称为尿壶、夜壶。
+        - title: Wireshark
+          logo: wireshark.png
+          url: https://www.wireshark.org/
+          description: Wireshark 抓包工具使用 WinPCAP 作为接口，直接与网卡进行数据报文交换。
+        - title: Http Debugger
+          logo: httpdebugger.png
+          url: https://www.httpdebugger.com/
+          description: Http Debugger 抓包工具，易于使用、简洁的用户界面和较短的启动时间。
+        - title: Reqable
+          logo: reqable.png
+          url: https://reqable.com/
+          description: 小黄鸟作者另一力作，新一代API调试 + API测试一站化国产解决方案，全平台支持HTTP1、HTTP2和HTTP3(QUIC)，先进技术赋能API生产。
+        - title: Burp Suite
+          logo: burp.png
+          url: https://portswigger.net/burp
+          description: Burp Suite 是用于攻击web 应用程序的集成平台，包含了许多工具。Burp Suite为这些工具设计了许多接口，以加快攻击应用程序的过程。所有工具都共享一个请求，并能处理对应的HTTP 消息、持久性、认证、代理、日志、警报。
+        - title: Proxyman
+          logo: proxyman.png
+          url: https://proxyman.io/
+          description: MacOS 系统下一款非常优秀的抓包软件，免费使用，而且界面非常好看，现也支持 Windows。
+        - title: Stream
+          logo: stream.png
+          url: https://apps.apple.com/cn/app/stream/id1312141691
+          description: Stream 是一款在 iOS 端的网络抓包工具，该工具可以直接独立运行在 iOS 设备，无需依赖 PC 环境。 
+        - title: Drony
+          logo: drony.png
+          url: https://play.google.com/store/apps/details?id=org.sandrob.drony
+          description: 一个允许您从移动设备管理所有代理的工具。
+        - title: Http Analyzer V7
+          logo: httpanalyzer.png
+          url: https://www.ieinspector.com/httpanalyzer/
+          description: HTTP Analyzer V7 是数据包分析工具，如果遇到某些不走 http 协议，在 tcp 层传输数据的 app，可以用它来试一试。
+        - title: Tcpdump
+          logo: tcpdump.png
+          url: https://www.tcpdump.org/
+          description: 适用于会话层抓包，在使用没有无线网卡的电脑或无法开热点的情况下可以直接在手机上运行Tcpdump然后导出文件在电脑端WireShark中打开，与直接使用WireShark抓包效果相同。
+
     - term: 指纹检测
       links:
         - title: CreepJS
@@ -190,6 +277,301 @@
           url: https://tls.peet.ws/
           description: TLS 指纹 API
 
+    - term: 脱壳工具
+      links:
+        - title: FRIDA-DEXDump
+          logo: dexdump.png
+          url: https://github.com/hluwa/frida-dexdump
+          description: 号称“葫芦娃”，Frida集成工具，实现一键脱壳。
+        - title: dumpDex
+          logo: dumpdex.png
+          url: https://github.com/WrBug/dumpDex
+          description: 一款 Android 脱壳工具，需要 xposed 支持。
+        - title: FART
+          logo: fart.png
+          url: https://github.com/hanbinglengyue/FART
+          description: ART 环境下自动化脱壳方案。
+        - title: DeveloperHelper
+          logo: developerhelper.png
+          url: https://github.com/WrBug/DeveloperHelper
+          description: 易开发是一款帮助开发人员快速开发的工具，功能包括界面分析，页面信息，加固脱壳，支持Android9.0。
+        - title: BlackDex
+          logo: blackdex.png
+          url: https://github.com/CodingGay/BlackDex
+          description: BlackDex 是一个运行在Android手机上的脱壳工具，支持5.0～12，无需依赖任何环境任何手机都可以使用，包括模拟器。只需几秒，即可对已安装包括未安装的APK进行脱壳。
+
+    - term: Hook工具
+      links:
+        - title: Xposed
+          logo: xposed.png
+          url: https://github.com/rovo89/Xposed
+          description: Xposed 框架是一款可以在不修改 APK 的情况下影响程序运行（修改系统）的框架服务，基于它可以制作出许多功能强大的模块，且在功能不冲突的情况下同时运作。
+        - title: JustTrustMe
+          logo: justtrustme.png
+          url: https://github.com/Fuzion24/JustTrustMe
+          description: 基于Xposed写的可以绕过SSL Pinning检测的工具。
+        - title: Frida
+          logo: frida.png
+          url: https://github.com/frida/frida
+          description: Frida 是一种动态插桩工具，可以插入一些代码到原生app的内存空间去，动态地监视和修改其行为，可对内存空间里的对象方法实现监视、修改甚至替换。
+        - title: Inspeckage
+          logo: inspeckage.png
+          url: https://github.com/ac-pm/Inspeckage
+          description: 基于 Xposed 写的动态分析工具，Hook了大量逆向时常见的方法，如Crypto、Hash。
+
+    - term: 反编译
+      links:
+        - title: Android Crack Tool
+          logo: androidcracktool.png
+          url: https://github.com/Jermic/Android-Crack-Tool
+          description: mac 下 Android 逆向神器，实用工具集，集成了Android开发中常见的一些编译/反编译工具，方便用户对 Apk 进行逆向分析，提供 Apk 信息查看功能。
+        - title: Apktool
+          logo: apktool.png
+          url: https://apktool.org/
+          description: 功能强大且操作简单的 apk 反编译工具。
+        - title: PKiD
+          logo: pkid.png
+          url: https://pan.baidu.com/s/1Ho0gVCH_sS-75nhO2TcXXw?pwd=sbox
+          description: 目前仅支持的加固厂商：娜迦、梆梆、爱加密、通付盾、360加固、百度加固、阿里加固、腾讯加固、盛大加固、瑞星加固、网秦加固、国信灵通加固、apkprotect 加固。
+        - title: PKiD Java 跨平台版
+          logo: pkid.png
+          url: https://bbs.kanxue.com/thread-225120.htm
+          description: 目前仅支持加固厂商：娜迦、梆梆、爱加密、通付盾、360加固、百度加固、阿里、腾讯、盛大、瑞星加、网秦、国信灵通、apkprotect、几维安全、顶像科技、网易易盾等常规厂商。功能比win版PKID更强大，特征更多！
+        - title: XAPKDetector
+          logo: xapkdetector.png
+          url: https://github.com/horsicq/XAPKDetector
+          description: XAPKDetector 显示有关构建工具，库和APK / DEX文件保护的信息。
+        - title: JEB
+          logo: jeb.png
+          url: https://www.pnfsoftware.com/
+          description: JEB 是 PNF Software的逆向工程平台，可以手动或作为分析管道的一部分执行代码和文档文件的反汇编、反编译、调试和分析。
+        - title: dex2jar
+          logo: dex2jar.png
+          url: https://github.com/pxb1988/dex2jar
+          description: 将安卓可执行文件 dex 转为 jar 包。
+        - title: JD-GUI
+          logo: jdgui.png
+          url: https://github.com/java-decompiler/jd-gui
+          description: 可将安卓可执行文件 dex 转为 jar 包，并提供可视化代码阅读能力。
+        - title: JADX
+          logo: jadx.png
+          url: https://github.com/skylot/jadx
+          description: JADX 是一个 Dex 到 Java 的反编译器，用于从 Android Dex 和 Apk 文件生成 Java 源代码，有命令行和 GUI 两个版本。
+        - title: Bytecode Viewer
+          logo: bytecodeviewer.png
+          url: https://github.com/Konloch/bytecode-viewer
+          description: 支持 apk、dex 等多种文件格式的反编译。
+        - title: AndroidKiller
+          logo: androidkiller.png
+          url: https://github.com/liaojack8/AndroidKiller
+          description: Android 应用程序逆向工具(apk反编译工具)。
+        - title: GDA
+          logo: gda.png
+          url: https://github.com/charles2gan/GDA-android-reversing-Tool
+          description: GDA，一款用C++实现的强大的Dalvik字节码反编译器，具有分析速度快、内存磁盘消耗低等优点，对apk、dex、odex、oat、jar、class、aar文件的反编译能力更强。
+        - title: wxappUnpacker
+          logo: wxappunpacker.png
+          url: https://github.com/geilige/wxappUnpacker
+          description: Wechat App(微信小程序, .wxapkg)解包及相关文件(.wxss, .json, .wxs, .wxml)还原工具。
+        - title: CrackMinApp
+          logo: crackminapp.png
+          url: https://github.com/Cherrison/CrackMinApp
+          description: (反编译微信小程序)一键获取微信小程序源码(傻瓜式操作), 使用了C#加nodejs制作。
+        - title: UnpackMiniApp
+          logo: unpackminiapp.png
+          url: https://pan.baidu.com/s/19mKFLGqUAve-FG4Fp6J76g?pwd=sbox
+          description: 微信小程序解密工具。
+
+    - term: 自动化
+      links:
+        - title: Selenium
+          logo: selenium.png
+          url: https://www.selenium.dev/
+          description: 最流行的自动化测试框架，支持的浏览器包括IE（7, 8, 9, 10, 11），Mozilla Firefox，Safari，Google Chrome，Opera，Edge等。
+        - title: PhantomJS
+          logo: phantomjs.png
+          url: https://phantomjs.org/
+          description: PhantomJS 是一款可使用 JavaScript 编写脚本的无头 Web 浏览器，18 年已停止维护。
+        - title: Appium
+          logo: appium.png
+          url: https://appium.io/
+          description: 开源的移动端自动化测试框架。
+        - title: Airtest
+          logo: airtest.png
+          url: https://airtest.netease.com/
+          description: Airtest是一个跨平台的UI自动化测试框架，适用于游戏和App。目前支持Windows和Android平台，iOS支持正在开发中。
+        - title: Pyppeteer
+          logo: pyppeteer.png
+          url: https://github.com/pyppeteer/pyppeteer
+          description: Pyppeteer 是一款非常高效的 web 自动化测试工具，是 Puppeteer 的 Python 版本。
+        - title: Puppeteer
+          logo: puppeteer.png
+          url: https://github.com/puppeteer/puppeteer
+          description: Puppeteer 是一个 Node.js 库，它提供了一个高级 API 来通过 DevTools Protocol控制 Chrome/Chromium。
+        - title: Playwright
+          logo: playwright.png
+          url: https://playwright.dev/
+          description: Playwright 是微软在 2020 年初开源的新一代自动化测试工具，对市面上的主流浏览器都提供了支持，API 功能简洁又强大。
+        - title: DrissionPage
+          logo: drissionpage.png
+          url: https://github.com/g1879/DrissionPage
+          description: 基于python的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和requests的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少。
+        - title: Undetected Chromedriver
+          logo: undetected-chromedriver.png
+          url: https://github.com/ultrafunkamsterdam/undetected-chromedriver
+          description: 定制 Selenium Chromedriver | 零配置| 通过所有机器人系统的检测（例如 Distil / Imperva/ Datadadome / CloudFlare IUAM）。
+        - title: stealth.min.js
+          logo: stealth.png
+          url: https://github.com/berstend/puppeteer-extra/tree/master/packages/extract-stealth-evasions
+          description: stealth.min.js 通过注入 JS 来隐藏自动化框架的特征。
+        - title: magical_spider
+          logo: magical_spider.png
+          url: https://github.com/lixi5338619/magical_spider
+          description: 神奇的蜘蛛🕷，一个几乎适用于所有web端站点的采集方案。
+
+    - term: 其他工具
+      links:
+        - title: FontCreator
+          logo: fontcreator.png
+          url: https://www.high-logic.com/font-editor/fontcreator
+          description: FontCreator 是一个强大的字体编辑软件，逆向中常用作字体加密的分析。
+        - title: MT 管理器
+          logo: mt.png
+          url: https://mt2.cn/
+          description: Android 平台文件管理 & 逆向修改神器。
+        - title: NP 管理器
+          logo: np.png
+          url: https://github.com/githubXiaowangzi/NP-Manager
+          description: 另一款 Android 平台文件管理 & 逆向修改神器。
+
+- taxonomy: 验证码相关
+  icon: fas fa-tools
+  list:
+    - term: 打码平台
+      links:
+        - title: 云码
+          logo: jfbym.png
+          url: https://console.jfbym.com/register/TG17764
+          description: 最推荐的打码平台，云码提供：在线普通图片、滑动、点选、谷歌、Hcaptcha、数字计算题等验证码识别及验证码识别API接口服务。
+        - title: 图腾视觉
+          logo: tutengocr.png
+          url: https://www.tutengocr.com/
+          description: 图腾视觉-专注于文字识别-目标识别-广告识别。
+        - title: 图鉴
+          logo: ttshitu.png
+          url: http://www.ttshitu.com/
+          description: 图鉴网络科技有限公司是一家专注于图像识别的技术企业，我们通过深度学习的人工智能分析来解决终端图像识别问题，24小时不间断全天候的为大家服务。
+        - title: 人人图像打码
+          logo: rrocr.png
+          url: https://www.rrocr.com/
+          description: 人人图像打码平台是全球领先的OCR验证码识别平台，为广大用户提供了极验验证码识别,滑动拼图，图中选字，图中选择,极验识别,云验证码识别平台,极验识别API接口,验证码,验证码识别,全自动验证码识别技术,代答题系统,云打码等服务平台, 7x24小时不间断识别,秒极速返回识别结果，超高正确率。
+        - title: 得塔云
+          logo: detayun.png
+          url: https://www.detayun.cn/tool/verifyCodeHomePage/
+          description: 提供图像文字识别、语义情感分析、复杂图像识别等。
+        - title: 验证码识别测试页面
+          logo: 46.56.204.113.png
+          url: http://146.56.204.113:19199/
+          description: 各种验证码识别测试页面。
+        - title: CapSolver
+          logo: capsolver.png
+          url: https://www.capsolver.com/
+          description: 支持 hCaptcha、reCAPTCHA、Geetest、FunCaptcha、Cloudflare、MTCaptcha、AWS WAF、DataDome、Cybersiara captcha 等识别，支持直接返回 token 解决方案。
+        - title: 2Captcha
+          logo: 2captcha.png
+          url: https://2captcha.com/?from=17553728
+          description: 支持 hCaptcha、reCAPTCHA、Geetest、FunCaptcha、Cloudflare、AWS WAF、Audio 等识别，支持直接返回 token 解决方案。
+        - title: YesCaptcha
+          logo: yescaptcha.png
+          url: https://yescaptcha.com/i/oPZU3g
+          description: 支持 ImageToText、hCaptcha、reCAPTCHA、FunCaptcha、Cloudflare 等识别，支持直接返回 token 解决方案。
+        - title: CaptchaAI
+          logo: captchaai.png
+          url: https://captchaai.com/
+          description: 号称第一的 reCAPTCHA、hCaptcha 识别方案解决平台。
+        - title: noCaptcha
+          logo: nocaptcha.png
+          url: https://www.nocaptcha.io/
+          description: 支持 hCaptcha、reCAPTCHA、Incapsula、Akamai、Cloudflare 等平台，直接返回 token 解决方案。
+        - title: NopeCHA
+          logo: nopecha.png
+          url: https://nopecha.com/
+          description: 支持 hCaptcha、reCAPTCHA、FunCaptcha、AWS WAF 等平台，直接返回 token 解决方案，价格稍便宜。
+        - title: Anti Captcha
+          logo: anti-captcha.png
+          url: https://anti-captcha.com/
+          description: 支持 hCaptcha、reCAPTCHA、FunCaptcha、Cloudflare 等平台，直接返回 token 解决方案。
+        - title: Solve Captcha
+          logo: solvecaptcha.png
+          url: https://solvecaptcha.net/
+          description: 支持 hCaptcha、reCAPTCHA、FunCaptcha、Cloudflare、Geetest 等平台，直接返回 token 解决方案。
+
+    - term: 开源识别
+      links:
+        - title: ddddocr
+          logo: ddddocr.png
+          url: https://github.com/sml2h3/ddddocr
+          description: 带带弟弟OCR通用验证码识别，提供了相关训练工具，支持自定义训练模型。
+        - title: SlideCrack
+          logo: slidecrack.png
+          url: https://github.com/crazyxw/SlideCrack
+          description: 滑块缺口位置识别，支持网易、极验。
+        - title: dianxuan
+          logo: dianxuan.png
+          url: https://github.com/wlkjyh/dianxuan
+          description: 基于孪生神经网络实现的点选识别。
+        - title: rotate-captcha-crack
+          logo: rotate-captcha-crack.png
+          url: https://github.com/Starry-OvO/rotate-captcha-crack
+          description: CNN预测图片旋转角度✨可用于破解图像旋转验证码。
+        - title: RotateCaptchaBreak
+          logo: rotatecaptchabreak.png
+          url: https://github.com/chencchen/RotateCaptchaBreak
+          description: 旋转验证码识别。
+        - title: RotNet
+          logo: rotnet.png
+          url: https://github.com/d4nst/RotNet
+          description: 预测图像的旋转角度以纠正其方向。
+        - title: rotate_captcha
+          logo: rotate_captcha.png
+          url: https://github.com/ycq0125/rotate_captcha
+          description: 双旋转验证码解决方案。
+        - title: PassCaptcha
+          logo: passcaptcha.png
+          url: https://github.com/rrrrat/PassCaptcha
+          description: 帮助爬虫通过点选验证及滑动验证, 验证码识别，支持腾讯点选、阿里滑块等。
+        - title: hCaptcha Challenger
+          logo: hcaptcha-challenger.png
+          url: https://github.com/QIN2DIM/hcaptcha-challenger
+          description: 使用 MoE(ONNX) 嵌入式解决方案轻松应对 hCaptcha 挑战。
+        - title: Text Select Captcha
+          logo: text_select_captcha.png
+          url: https://github.com/MgArcher/Text_select_captcha
+          description: 实现文字点选、选字、选择、点触验证码识别，基于pytorch训练。
+        - title: captcha_crack
+          logo: captcha_crack.png
+          url: https://github.com/cos120/captcha_crack
+          description: 选字验证码破解，试验过网易和极验，破解率99。
+
+    - term: 轨迹相关
+      links:
+        - title: Python Ghost Cursor
+          logo: python_ghost_cursor.png
+          url: https://github.com/mcolella14/python_ghost_cursor
+          description: 生成逼真的、类似人类的鼠标移动数据。
+        - title: Track Point Gen
+          logo: track_point_gen.png
+          url: https://github.com/2833844911/Track_point_gen
+          description: AI 模拟人手轨迹。
+        - title: gurs
+          logo: gurs.png
+          url: https://github.com/2833844911/gurs
+          description: 基于贝塞尔曲线生成滑动轨迹。
+        - title: Easing functions
+          logo: easings.png
+          url: https://easings.net/
+          description: 缓动函数表，可基于此类函数生成滑动轨迹。
+
 - taxonomy: 防护厂商
   icon: fas fa-shield-alt
   list:
@@ -235,6 +617,14 @@
           logo: aisecurius.png
           url: https://www.aisecurius.com/
           description: 顶象国际版，国际版验证码 atbCAPTCHA。
+        - title: Luosimao
+          logo: luosimao.png
+          url: https://luosimao.com/service/captcha
+          description: Luosimao 创新开发的人机验证，免去了复杂的输入过程，具有更加优秀的操作体验，更加美观的设计，可更好地融入到您的网站中。
+        - title: 友验
+          logo: fastyotest.png
+          url: https://www.fastyotest.com/
+          description: 基于虚拟机保护、设备特征识别、AI行为判断等多项功能打造的全面可靠的验证体系，强力护航您的业务安全。
         - title: 瑞数信息
           logo: riversecurity.png
           url: https://www.riversecurity.com/
@@ -286,6 +676,14 @@
           logo: cybersiara.png
           url: https://www.cybersiara.com/
           description: The most advanced human verification tool for website security against bots, spam, credit card fraud, and other cybercrime. An effective alternative to reCaptcha, hCaptcha, and honeypots.
+        - title: AWS Captcha
+          logo: aws.png
+          url: https://docs.aws.amazon.com/waf/latest/developerguide/waf-captcha-puzzle.html
+          description: AWS WAF provides standard CAPTCHA functionality that challenges users to confirm that they are human beings. CAPTCHA stands for Completely Automated Public Turing test to tell Computers and Humans Apart. CAPTCHA puzzles are designed to verify that a human is sending requests and to prevent activity like web scraping, credential stuffing, and spam.
+        - title: mCaptcha
+          logo: mcaptcha.png
+          url: https://mcaptcha.org/
+          description: mCaptcha is proof-of-work based captcha system that is privacy focused and fully automated.
         - title: Fingerprint 
           logo: fingerprint.png
           url: https://fingerprint.com/
@@ -384,319 +782,6 @@
           url: https://www.scraperapi.com/
           description: ScraperAPI handles proxy rotation, browsers, and CAPTCHAs so developers can scrape any page with a single API call. Web scraping with 5,000 free API calls!
 
-- taxonomy: 素材资源
-  icon: far fa-folder-open fa-lg
-  list:
-    - term: 图标素材
-      links:
-        - title: Aconvert
-          logo: ac.ico
-          url: https://www.aconvert.com/
-          description: 图片转化为ico格式         
-        - title: icon icons
-          logo: icon-icons.svg
-          url: https://icon-icons.com/
-          description: 搜索全网logo图标
-        - title: Font Awesome Icon
-          logo: font-awesome.ico
-          url: https://fontawesome.com/icons/
-          description: Web前端使用率最高的图标
-        - title: icomoon
-          logo: icomoon.ico
-          url: https://icomoon.io/app/#/select
-          description: 图标字体下载
-        - title: iconfont
-          logo: iconfont.svg
-          url: http://www.iconfont.cn
-          description: 阿里巴巴矢量图标库
-        - title: ion icons
-          logo: ionicons.ico
-          url: http://ionicons.com/
-          description: The premium icon font for Ionic Framework
-        - title: iconscout
-          logo: iconscout.ico
-          url: https://iconscout.com/
-          description: Over 6.1 Million+ Design Assets
-        - title: iconmonstr
-          logo: iconm.ico
-          url: https://iconmonstr.com/
-          description: Free simple icons for your next project
-        - title: Icon Archive
-          logo: icona.svg
-          url: http://www.iconarchive.com/
-          description: Search 590,912 free icons
-        - title: Flaticon
-          logo: flaticon.ico
-          url: https://www.flaticon.com/
-          description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT
-        - title: Material icons
-          logo: material.svg
-          url: https://material.io/icons/
-          description: 谷歌字体库的图标
-        - title: Iconsfeed
-          logo: iconfeed.ico
-          url: http://www.iconsfeed.com/
-          description: 软件应用图标
-        - title: iOS Icon Gallery
-          logo: iosicon.ico
-          url: http://iosicongallery.com/
-          description: ios app的应用图标
-        - title: World Vector Logo
-          logo: worldico.ico
-          url: https://worldvectorlogo.com/
-          description: 世界各地厂商的logo
-        - title: Iconfinder
-          logo: Iconfinder.ico
-          url: https://www.iconfinder.com
-          description: 2,100,000+ free and premium vector icons
-
-    - term: 平面素材
-      links:
-        - title: Wallpaper Abyss
-          logo: wa.ico
-          url: https://wall.alphacoders.com/
-          description: 高清壁纸，桌面背景
-        - title: Pixiv
-          logo: pixiv.ico
-          url: https://www.pixiv.net/
-          description: 大名鼎鼎的P站
-        - title: ProcessOn
-          logo: ProcessOn.ico
-          url: https://www.processon.com/
-          description: 免费在线作图、实时协作
-        - title: Freepik
-          logo: freepik.ico
-          url: https://www.freepik.com/
-          description: More than a million free vectors, PSD, photos and free icons
-        - title: 365PSD
-          logo: 365psd.ico
-          url: https://365psd.com/
-          description: Free PSD &amp; Graphics, Illustrations
-        - title: 千图网
-          logo: qiantu.ico
-          url: http://www.58pic.com/
-          description: 专注免费设计素材下载的网站
-        - title: 千库网
-          logo: qianku.ico
-          url: http://588ku.com/
-          description: 免费 png 图片背景素材下载
-        - title: 我图网
-          logo: wotu.ico
-          url: http://www.ooopic.com/
-          description: 我图网，提供图片素材及模板下载，专注正版设计作品交易
-        - title: 昵图网
-          logo: nitu.ico
-          url: http://www.nipic.com/
-          description: 原创素材共享平台
-        - title: 懒人图库
-          logo: lanrentuku.ico
-          url: http://www.lanrentuku.com/
-          description: 懒人图库专注于提供网页素材下载
-        - title: RemoveBg
-          logo: 抠图.ico
-          url: https://www.remove.bg/zh
-          description: 在线抠图全自动
-        - title: Giphy
-          logo: giphy.png
-          url: https://giphy.com/
-          description: 快速搜索gif图
-
-    - term: 字体资源
-      links:
-        - title: 第一字体
-          url: https://www.diyiziti.com/
-          logo: diyi.ico
-          description: 在线字体转换编辑生成
-        - title: Google Font
-          url: https://fonts.google.com/
-          logo: googlefont.ico
-          description: Making the web more beautiful, fast, and open through great typography
-        - title: Typekit
-          url: https://typekit.com/
-          logo: typekit.ico
-          description: Quality fonts from the world’s best foundries
-        - title: 站酷字体
-          url: https://www.zcool.com.cn/
-          logo: zcool.ico
-          description: 好看又好酷的字体
-        - title: 我的世界字体
-          url: https://textcraft.net/
-          logo: mc.ico
-          description: Minecraft同款字体啦
-        - title: 方正字库
-          url: http://www.foundertype.com/
-          logo: Fondertype.ico
-          description: 方正字库官方网站
-        - title: 字体传奇网
-          url: http://ziticq.com/
-          logo: 字体库.ico
-          description: 中国首个字体品牌设计师交流网
-        - title: Fontsquirrel
-          url: https://www.fontsquirrel.com/
-          logo: fontsquirrel.ico
-          description: FREE fonts for graphic designers
-        - title: FONTS2U
-          url: https://fonts2u.com/
-          logo: fonts2u.ico
-          description: Download free fonts for Windows and Macintosh
-        - title: FontM
-          url: http://fontm.com/
-          logo: FontM.ico
-          description: Free Fonts
-        - title: Abstract Fonts
-          url: http://www.abstractfonts.com/
-          logo: abstractfonts.ico
-          description: Abstract Fonts (13,866 free fonts)
-        - title: 字由-让字更自由
-          url: https://www.hellofont.cn/
-          logo: ziyou.ico
-          description: 千款字体，一键换字，设计早下班，作品更出众
-
-    - term: PPT资源
-      links:
-        - title: Slidesgo
-          url: https://slidesgo.com/
-          logo: slidesgo.ico
-          description: 大量PPT模板免费下载
-        - title: OfficePLUS
-          url: https://www.officeplus.cn/
-          logo: officeplus.ico
-          description: OfficePLUS，微软Office官方在线模板网站
-        - title: OfficePLUS
-          url: https://www.free-powerpoint-templates-design.com/
-          logo: pptf.ico
-          description: 国外免费下载的PPT模板
-        - title: Canva
-          url: https://www.canva.com/
-          logo: canva.ico
-          description: 在线制作ppt，协作，免费下载
-        - title: 优品PPT
-          url: http://www.ypppt.com/
-          logo: you.ico
-          description: 高质量的模版，而且还有PPT图表，PPT背景图等资源
-        - title: PPT模板之家
-          url: http://www.pptbz.com/
-          logo: 模板之家.ico
-          description: PPT加直播、录制和分享—PPT+语音内容分享平台
-        - title: Tretars
-          url: http://www.tretars.com/ppt-templates
-          logo: tretars.ico
-          description: The best free Mockups from the Web
-        - title: 5百丁
-          url: http://ppt.500d.me/
-          logo: 500d.ico
-          description: 简历模板
-        - title: AI-PPT生成
-          url: https://gamma.app/
-          logo: gamma.png
-          description: 用ai生成的PPT的网页
-        - title: 美图秀秀AI
-          url: https://design.meitu.com/
-          logo: meitudata.svg
-          description: 告诉ai标题生成大纲PPT
-          
-- taxonomy: 推荐应用
-  icon: fab fa-app-store-ios fa-lg
-  list:
-    - term: 内网穿透
-      links:
-        - title: ZeroTier
-          url: https://www.zerotier.com/
-          logo: zerotier.ico
-          description: P2P点对点端口映射，交互延迟低
-        - title: Frp
-          url: https://gofrp.org/
-          logo: frp.ico
-          description: 简单、高效的内网穿透工具
-        - title: Nps Npc
-          url: https://github.com/ehang-io/nps
-          logo: nps.ico
-          description: 强大的内网穿透代理服务器
-        - title: NatFrp
-          url: https://www.natfrp.com/
-          logo: natfrp.ico
-          description: 樱花内网穿透，无需服务器映射
-
-    - term: 系统应用
-      links:
-        - title: iTellyou
-          url: https://next.itellyou.cn/
-          logo: itu.ico
-          description: 我告诉你，纯净的系统下载
-        - title: 微PE工具箱
-          url: https://www.wepe.com.cn
-          logo: weipe.ico
-          description: 使用工具箱制作U盘启动，快速重装系统
-        - title: FileCr
-          url: https://filecr.com/
-          logo: filecr.ico
-          description: 免费下载多款应用
-        - title: 草料二维码
-          url: https://cli.im/
-          logo: cli.ico
-          description: 自定义二维码生成
-        - title: 手办维基
-          url: https://www.hpoi.net/hobby/
-          logo: shouban.ico
-          description: 手办搜索购买
-        - title: 接码平台
-          url: https://sms-activate.org/
-          logo: sms.ico
-          description: sms手机接码服务
-
-    - term: 磁力搜索
-      links:
-        - title: 磁力猫
-          url: https://xn--tfrs17es0d.xyz/
-          logo: cilimao.ico
-          description: 磁力猫搜索
-        - title: 海盗磁力
-          url: https://thepiratebay.org/
-          logo: haidao.ico
-          description: 磁力猫搜索
-        - title: BT1027
-          url: https://bt1207dizhi.top/
-          logo: bt1027.ico
-          description: 磁力猫搜索
-        - title: 磁力多
-          url: https://duo6.cyou/
-          logo: ciliduo.ico
-          description: 磁力猫搜索
-
-- taxonomy: 谷歌插件
-  icon: fa fa-chrome fa-lg
-  list:
-    - term: 谷歌插件
-      links:
-        - title: Wetab
-          url: https://www.wetab.link/
-          logo: wetab.ico
-          description: 保存书签自定义你的新标签页
-        - title: Csspeeper
-          url: https://csspeeper.com/
-          logo: csspeeper.ico
-          description: 预览和设计你的css
-        - title: Mustsee
-          url: http://mustsee.earth/
-          logo: mustsee.ico
-          description: 打开标签页发现世界每一个美丽的地方
-        - title: Chatgpt-sidebar
-          url: https://chatgpt-sidebar.com/
-          logo: sidebar.svg
-          description: 基于chatgpt打造的扩展插件
-        - title: 购物党比价
-          url: https://www.gwdang.com/v2/app/extension
-          logo: gouw.ico
-          description: 对比电商平台下价格与优惠券领取
-        - title: Bilibili助手
-          url: https://bilibilihelper.com/
-          logo: bilizhushou.ico
-          description: 哔哩哔哩小助手，可下载封面视频
-        - title: 油猴插件
-          url: https://www.tampermonkey.net/
-          logo: youhou.ico
-          description: 一款多装多种丰富插件的扩展
-
 - taxonomy: ChatGPT
   icon: fas fa-robot fa-lg
   list:
@@ -762,37 +847,3 @@
           url: https://booltool.boolv.tech/
           logo: booltool.ico
           description: 智能处理图像/视频处理
-
-- taxonomy: Docker
-  icon: fab fa-docker fa-lg
-  list:
-    - term: Docker
-      links:
-        - title: 恩山论坛
-          url: https://www.right.com.cn/forum/
-          logo: enshan.ico
-          description: 中文IT技术交流社区
-        - title: 软路由固件
-          url: https://supes.top
-          logo: gujian.ico
-          description: OpenWrt可刷docker定制固件
-        - title: 骷髅头固件
-          url: https://github.com/DHDAXCW/NanoPi-R2S-rk3328
-          logo: kuloutou.ico
-          description: 推荐使用骷髅头固件刷docker。R2s可用
-        - title: docker加速
-          url: https://dockerproxy.com/
-          logo: docker加速.ico
-          description: 解决无法拉取docker镜像问题
-        - title: dockerhub
-          url: https://hub.docker.com/
-          logo: dockerhub.ico
-          description: docker镜像拉取网址
-        - title: 青龙面板
-          url: https://hub.docker.com/r/whyour/qinglong
-          logo: qinglong.ico
-          description: docker部署青龙面板
-        - title: Halo博客
-          url: https://hub.docker.com/r/halohub/halo
-          logo: halo.ico
-          description: halo博客，强大的前后端结合
