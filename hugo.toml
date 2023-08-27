@@ -1,6 +1,6 @@
 baseURL               = "https://spiderbox.cn/"
 languageCode          = "zh-CN"
-title                 = "SpiderBox - 虫盒 - 爬虫资源导航"
+title                 = "SpiderBox - 虫盒 - 爬虫逆向资源导航"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
