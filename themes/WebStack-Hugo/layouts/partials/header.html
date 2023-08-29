@@ -2,17 +2,19 @@
 <html lang="zh-CN">
 
 <head>
-    <meta charset="UTF-8" />
+    <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" />
-    <meta name="viewport"
-        content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <meta name="theme-color" content="#f9f9f9" />
-    <title>{{ .Site.Title }}</title>
-    <link rel="shortcut icon" href="{{ relURL $.Site.Params.images.favicon }}" />
-    <meta name="keywords" content="{{ .Site.Title }}" />
+    <meta name="author" content="{{ $.Site.Params.author }}" />
+    <meta name="keywords" content="{{ $.Site.Params.keywords }}" />
+    <meta name="description" content="{{ $.Site.Params.description }}" />
     {{ if $.Site.Params.seo.baiduSiteVer }}
     <meta name="baidu-site-verification" content="{{ $.Site.Params.seo.baiduSiteVer }}" />
     {{ end }}
+
+    <title>{{ .Site.Title }}</title>
+    <link rel="shortcut icon" href="{{ relURL $.Site.Params.images.favicon }}" />
     <link rel="stylesheet" id="block-library-css"
         href="{{ relURL "assets/css/block-library.min-5.6.2.css" }}" type="text/css" media="all" />
     <link rel="stylesheet" id="iconfont-css" href="{{ relURL "assets/css/iconfont-3.03029.1.css" }}"

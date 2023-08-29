@@ -1,6 +1,6 @@
 baseURL               = "https://spiderbox.cn/"
 languageCode          = "zh-CN"
-title                 = "SpiderBox - 虫盒 - 爬虫逆向资源导航"
+title                 = "SpiderBox - 虫盒 - 爬虫逆向资源导航站"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
@@ -10,7 +10,8 @@ publishDir            = "docs"					# 站点静态文件保存目录
 
 [params]
     author        = "BOB"
-    description   = "SpiderBox | 虫盒 | 爬虫逆向资源导航站"
+    keywords      = "爬虫，逆向，JS逆向，APP逆向，数据采集，SpiderBox，虫盒，资源导航，爬虫资源，逆向资源，资源导航站"
+    description   = "SpiderBox - 虫盒 - 爬虫逆向资源导航站，数据采集、网络爬虫、JS逆向、APP逆向、小程序逆向等相关资源聚合、收集。"
     disclaimers   = ""  # 左侧导航栏的"网站提交"
     about         = ""	# 左侧导航栏的"关于导航"(./about)
     repository    = "https://github.com/TRHX/spiderbox"    # 左侧导航栏的"GitHub"
@@ -45,5 +46,8 @@ publishDir            = "docs"					# 站点静态文件保存目录
 
 [params.footer]
     copyright = '本站内容源自互联网，如有内容侵犯权益，请联系站长删除相关内容，联系邮箱：mail@xazz.top <br/><br/><span id="RunTime" style="color:#FC4E27;letter-spacing:2px"></span><br/><br/>&copy; 2023 - {year} By [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) | [ikirito-Github](https://github.com/i-kirito) | [备案号](https://nav.xazz.top)<br/>'
+
+[minify]
+    minifyOutput = true
 
 # 蓝色 0084ff
