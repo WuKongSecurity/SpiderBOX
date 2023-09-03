@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="theme-color" content="#f9f9f9" />
+    <meta name="author" content="{{ $.Site.Params.author }}" />
+    <meta name="keywords" content="{{ $.Site.Params.keywords }}" />
+    <meta name="description" content="{{ $.Site.Params.description }}" />
+    {{ if $.Site.Params.seo.baiduSiteVer }}
+    <meta name="baidu-site-verification" content="{{ $.Site.Params.seo.baiduSiteVer }}" />
+    {{ end }}
+
+    <title>{{ .Site.Title }}</title>
+    <link rel="icon" href="{{ $.Site.Params.images.favicon }}" type="image/x-icon">
+    <link rel="apple-touch-icon" href="{{ $.Site.Params.images.appleTouchIcon }}">
+
+    <link crossorigin="anonymous" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" href="//lib.baomitu.com/twitter-bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+    <link crossorigin="anonymous" integrity="sha384-fJH2gz4kcHl6LNRYI7TauVxjt5r/u+NfM+XpXDSSyHTCS7PMUXXW0Qo677Xr+bok" href="//lib.baomitu.com/font-awesome/5.11.2/css/all.css" rel="stylesheet">    
+    {{ $iconfont := resources.Get "css/iconfont.css" | resources.Minify | fingerprint}}
+    {{ $customStyle := resources.Get "css/custom-style.css" | resources.Minify | fingerprint}}
+    {{ $style := resources.Get "css/style.css" | resources.Minify | fingerprint}}
+    <link rel="stylesheet" href="{{ $iconfont.RelPermalink }}" type="text/css" media="all" />
+    <link rel="stylesheet" href="{{ $customStyle.RelPermalink }}" type="text/css" media="all" />
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}" type="text/css" media="all" />
+
+    <!-- 百度统计 -->
+    {{ with .Site.Params.seo.baiduhmid }}
+    <script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script")
+            hm.src = "https://hm.baidu.com/hm.js?{{ $.Site.Params.seo.baiduhmid }}"
+            var s = document.getElementsByTagName("script")[0]
+            s.parentNode.insertBefore(hm, s)
+        })()
+    </script>
+    {{ end }}
+    <!-- end 百度统计 -->
+
+    <!-- 51.LA 网站统计 -->
+    {{ with .Site.Params.seo.tj51laid }}
+    <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+    <script>LA.init({id:"{{ $.Site.Params.seo.tj51laid }}",ck:"{{ $.Site.Params.seo.tj51lack }}"})</script>    
+    {{ end }} 
+    <!-- end 51.LA 网站统计 -->
+
+</head>

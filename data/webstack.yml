@@ -8,7 +8,7 @@
       description: 站长 BOB 的博客
     - title: 微信公众号
       logo: bob.png
-      qrcode: images/qrcode.jpg
+      qrcode: images/qrcode/IT_BOB.jpg
       description: 站长公众号：爬虫矛与盾
 
 - taxonomy: 文档资料
@@ -1273,15 +1273,15 @@
         # 大哥先顶上
         - title: 国家安全部
           logo: gh_b056d127ad86.png
-          qrcode: images/logo/qrcode/gh_b056d127ad86.jpg
+          qrcode: images/qrcode/gh_b056d127ad86.jpg
           description: 公众号：国家安全部
         - title: 公安部网安局
           logo: gh_e406f4bcdf34.png
-          qrcode: images/logo/qrcode/gh_e406f4bcdf34.jpg
+          qrcode: images/qrcode/gh_e406f4bcdf34.jpg
           description: 公众号：公安部网安局
         - title: 网信中国
           logo: cacweixin.png
-          qrcode: images/logo/qrcode/cacweixin.jpg
+          qrcode: images/qrcode/cacweixin.jpg
           description: 公众号：安全圈
 
         # JS 逆向居多
@@ -1291,35 +1291,35 @@
           description: 崔庆才，微软（中国）软件工程师，北京航空航天大学硕士，主要研究网络爬虫、Web 开发、机器学习等方向，出版书籍《Python3 网络爬虫开发实战》、《Python3 网络爬虫开发实战（第2版）》，不少人的启蒙书籍，公众号：进击的Coder。
         - title: 咸鱼学Python
           logo: xianyuxuepython.png
-          qrcode: images/logo/qrcode/xianyuxuepython.jpg
+          qrcode: images/qrcode/xianyuxuepython.jpg
           description: 公众号：咸鱼学Python
         - title: 菜鸟学Python编程
           logo: IPyhon.png
-          qrcode: images/logo/qrcode/IPyhon.jpg
+          qrcode: images/qrcode/IPyhon.jpg
           description: 公众号：菜鸟学Python编程
         - title: 编角料
           logo: geekbyter.png
-          qrcode: images/logo/qrcode/geekbyter.jpg
+          qrcode: images/qrcode/geekbyter.jpg
           description: 公众号：编角料
         - title: 爬虫术与道
           logo: PCSYD_.png
-          qrcode: images/logo/qrcode/PCSYD_.jpg
+          qrcode: images/qrcode/PCSYD_.jpg
           description: 公众号：爬虫术与道
         - title: 逆向简史
           logo: gh_988035dcd8a1.png
-          qrcode: images/logo/qrcode/gh_988035dcd8a1.jpg
+          qrcode: images/qrcode/gh_988035dcd8a1.jpg
           description: 公众号：逆向简史
         - title: 未闻Code
           logo: itskingname.png
-          qrcode: images/logo/qrcode/itskingname.jpg
+          qrcode: images/qrcode/itskingname.jpg
           description: 公众号：未闻Code
         - title: 时光python之旅
           logo: shiguang_python.png
-          qrcode: images/logo/qrcode/shiguang_python.jpg
+          qrcode: images/qrcode/shiguang_python.jpg
           description: 公众号：时光python之旅
         - title: 逆向OneByOne
           logo: Vsyyjy.png
-          qrcode: images/logo/qrcode/Vsyyjy.jpg
+          qrcode: images/qrcode/Vsyyjy.jpg
           description: 十一姐公众号：逆向OneByOne
         - title: 十一姐
           logo: weixin_43411585.png
@@ -1327,19 +1327,19 @@
           description: 十一姐 CSDN 主页
         - title: 爬虫矛与盾
           logo: IT_BOB.png
-          qrcode: images/logo/qrcode/IT_BOB.jpg
+          qrcode: images/qrcode/IT_BOB.jpg
           description: 公众号：爬虫矛与盾
         - title: K哥爬虫
           logo: kgepachong.png
-          qrcode: images/logo/qrcode/kgepachong.jpg
+          qrcode: images/qrcode/kgepachong.jpg
           description: 公众号：K哥爬虫
         - title: 逆向与爬虫的故事
           logo: ReverseCrawler.png
-          qrcode: images/logo/qrcode/ReverseCrawler.jpg
+          qrcode: images/qrcode/ReverseCrawler.jpg
           description: 公众号：逆向与爬虫的故事
         - title: 陈不不and挽风的逆向
           logo: cbb_wf.png
-          qrcode: images/logo/qrcode/cbb_wf.jpg
+          qrcode: images/qrcode/cbb_wf.jpg
           description: 公众号：陈不不and挽风的逆向
         - title: 挽风逆向
           logo: weixin_44862184.png
@@ -1347,23 +1347,23 @@
           description: 挽风逆向 CSDN 主页
         - title: 爬虫逆向技术分享
           logo: gh_2ebb4542401d.png
-          qrcode: images/logo/qrcode/gh_2ebb4542401d.jpg
+          qrcode: images/qrcode/gh_2ebb4542401d.jpg
           description: 公众号：爬虫逆向技术分享
         - title: python爬虫与js逆向
           logo: pythonORjs.png
-          qrcode: images/logo/qrcode/pythonORjs.jpg
+          qrcode: images/qrcode/pythonORjs.jpg
           description: 公众号：python爬虫与js逆向
         - title: python爬虫和阿J的逆向
           logo: gh_d01a80bce240.png
-          qrcode: images/logo/qrcode/gh_d01a80bce240.jpg
+          qrcode: images/qrcode/gh_d01a80bce240.jpg
           description: 公众号：python爬虫和阿J的逆向
         - title: 小白逆向之旅
           logo: g_xiaobai666.png
-          qrcode: images/logo/qrcode/g_xiaobai666.jpg
+          qrcode: images/qrcode/g_xiaobai666.jpg
           description: 公众号：小白逆向之旅
         - title: Pythonlx
           logo: gh_b237fabfe467.png
-          qrcode: images/logo/qrcode/gh_b237fabfe467.jpg
+          qrcode: images/qrcode/gh_b237fabfe467.jpg
           description: 李玺公众号：Pythonlx
         - title: 爬虫逆向知识站
           logo: weixin_43582101.png
@@ -1375,59 +1375,59 @@
           description: 考古学家lx(李玺) CSDN 主页
         - title: 爬虫与逆向路的驿站
           logo: Yy_Rose_1.png
-          qrcode: images/logo/qrcode/Yy_Rose_1.jpg
+          qrcode: images/qrcode/Yy_Rose_1.jpg
           description: 公众号：爬虫与逆向路的驿站
         - title: 逆向旅行
           logo: fzcoder888888.png
-          qrcode: images/logo/qrcode/fzcoder888888.jpg
+          qrcode: images/qrcode/fzcoder888888.jpg
           description: 公众号：逆向旅行
         - title: 菜鸡弟弟的逆向之路
           logo: gh_f89880d79473.png
-          qrcode: images/logo/qrcode/gh_f89880d79473.jpg
+          qrcode: images/qrcode/gh_f89880d79473.jpg
           description: 公众号：菜鸡弟弟的逆向之路
         - title: 逆向有你
           logo: nixiangyouni.png
-          qrcode: images/logo/qrcode/nixiangyouni.jpg
+          qrcode: images/qrcode/nixiangyouni.jpg
           description: 公众号：逆向有你
         - title: 爬虫逆向小林哥
           logo: xiaolinge-lucky.png
-          qrcode: images/logo/qrcode/xiaolinge-lucky.jpg
+          qrcode: images/qrcode/xiaolinge-lucky.jpg
           description: 公众号：爬虫逆向小林哥
         - title: y小白的笔记
           logo: ylw2783693683.png
-          qrcode: images/logo/qrcode/ylw2783693683.jpg
+          qrcode: images/qrcode/ylw2783693683.jpg
           description: 公众号：y小白的笔记
         - title: 理想主义的Pythonista
           logo: gh_822bfba8a24c.png
-          qrcode: images/logo/qrcode/gh_822bfba8a24c.jpg
+          qrcode: images/qrcode/gh_822bfba8a24c.jpg
           description: 公众号：理想主义的Pythonista
         - title: ck的学习笔记
           logo: loveu2020_1.png
-          qrcode: images/logo/qrcode/loveu2020_1.jpg
+          qrcode: images/qrcode/loveu2020_1.jpg
           description: 公众号：ck的学习笔记
         - title: LuckyFuture
           logo: LuckyFuture520.png
-          qrcode: images/logo/qrcode/LuckyFuture520.jpg
+          qrcode: images/qrcode/LuckyFuture520.jpg
           description: 公众号：LuckyFuture
         - title: 爬虫逆向之旅
           logo: gh_6489a49d398e.png
-          qrcode: images/logo/qrcode/gh_6489a49d398e.jpg
+          qrcode: images/qrcode/gh_6489a49d398e.jpg
           description: 公众号：爬虫逆向之旅
         - title: Spider乾坤
           logo: gh_ecfb7c1ab2c3.png
-          qrcode: images/logo/qrcode/gh_ecfb7c1ab2c3.jpg
+          qrcode: images/qrcode/gh_ecfb7c1ab2c3.jpg
           description: 公众号：Spider乾坤
         - title: Python头等奖
           logo: gh_68214466aa2d.png
-          qrcode: images/logo/qrcode/gh_68214466aa2d.jpg
+          qrcode: images/qrcode/gh_68214466aa2d.jpg
           description: 公众号：Python头等奖
         - title: 网虫Spider
           logo: crawlSpider.png
-          qrcode: images/logo/qrcode/crawlSpider.jpg
+          qrcode: images/qrcode/crawlSpider.jpg
           description: 公众号：网虫Spider
         - title: python小丑鱼
           logo: gh_95c3d3d2063e.png
-          qrcode: images/logo/qrcode/gh_95c3d3d2063e.jpg
+          qrcode: images/qrcode/gh_95c3d3d2063e.jpg
           description: 公众号：python小丑鱼
         - title: 漁滒
           logo: 557195.png
@@ -1451,25 +1451,25 @@
           description: hyb 的个人网站
         - title: Coder小Q
           logo: Litt1eQueen.png
-          qrcode: images/logo/qrcode/Litt1eQueen.jpg
+          qrcode: images/qrcode/Litt1eQueen.jpg
           description: 公众号：Coder小Q
         - title: NightTeam
           logo: locozhou.png
-          qrcode: images/logo/qrcode/locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
           description: 公众号：NightTeam
 
         # 安卓逆向居多
         - title: 大数据安全技术学习
           logo: r1ysue.png
-          qrcode: images/logo/qrcode/r1ysue.jpg
+          qrcode: images/qrcode/r1ysue.jpg
           description: 公众号：大数据安全技术学习
         - title: 奋飞安全
           logo: fenfei330.png
-          qrcode: images/logo/qrcode/fenfei330.jpg
+          qrcode: images/qrcode/fenfei330.jpg
           description: 公众号：奋飞安全
         - title: 榫卯江湖
           logo: cnxct_coder.png
-          qrcode: images/logo/qrcode/cnxct_coder.jpg
+          qrcode: images/qrcode/cnxct_coder.jpg
           description: 公众号：榫卯江湖
         - title: 白龙
           logo: qq_38851536.png
@@ -1477,39 +1477,39 @@
           description: 白龙的 CSDN 主页
         - title: 哆啦安全
           logo: gh_060e91811143.png
-          qrcode: images/logo/qrcode/gh_060e91811143.jpg
+          qrcode: images/qrcode/gh_060e91811143.jpg
           description: 公众号：哆啦安全
         - title: 移动安全星球
           logo: Andy02141225.png
-          qrcode: images/logo/qrcode/Andy02141225.jpg
+          qrcode: images/qrcode/Andy02141225.jpg
           description: 公众号：移动安全星球
         - title: 妄为写代码
           logo: wwcoding6.png
-          qrcode: images/logo/qrcode/wwcoding6.jpg
+          qrcode: images/qrcode/wwcoding6.jpg
           description: 公众号：妄为写代码
         - title: 矛和盾的故事
           logo: xs33_20195.png
-          qrcode: images/logo/qrcode/xs33_20195.jpg
+          qrcode: images/qrcode/xs33_20195.jpg
           description: 公众号：矛和盾的故事
         - title: 一生向风
           logo: life-in-the-wind.png
-          qrcode: images/logo/qrcode/life-in-the-wind.jpg
+          qrcode: images/qrcode/life-in-the-wind.jpg
           description: 公众号：一生向风
         - title: 沐阳科技资源
           logo: muyangjy888.png
-          qrcode: images/logo/qrcode/muyangjy888.jpg
+          qrcode: images/qrcode/muyangjy888.jpg
           description: 公众号：沐阳科技资源
         - title: 逆向lin狗
           logo: gh_fc6c78a6258d.png
-          qrcode: images/logo/qrcode/gh_fc6c78a6258d.jpg
+          qrcode: images/qrcode/gh_fc6c78a6258d.jpg
           description: 公众号：逆向lin狗
         - title: 爬虫spider
           logo: gh_543c6301f39a.png
-          qrcode: images/logo/qrcode/gh_543c6301f39a.jpg
+          qrcode: images/qrcode/gh_543c6301f39a.jpg
           description: 公众号：爬虫spider
         - title: 逆向小友
           logo: qinless-2021.png
-          qrcode: images/logo/qrcode/qinless-2021.jpg
+          qrcode: images/qrcode/qinless-2021.jpg
           description: 公众号：逆向小友
         - title: zhaoxincheng
           logo: zhaoxincheng.png
@@ -1519,53 +1519,53 @@
         # IOS 逆向居多
         - title: 移动端Android和iOS开发技术分享
           logo: mobile_tech_share.png
-          qrcode: images/logo/qrcode/mobile_tech_share.jpg
+          qrcode: images/qrcode/mobile_tech_share.jpg
           description: 公众号：移动端Android和iOS开发技术分享
 
         # 其他博主
         - title: 看雪学苑
           logo: ikanxue.png
-          qrcode: images/logo/qrcode/ikanxue.jpg
+          qrcode: images/qrcode/ikanxue.jpg
           description: 公众号：看雪学苑
         - title: 吾爱破解论坛
           logo: pojie_52.png
-          qrcode: images/logo/qrcode/pojie_52.jpg
+          qrcode: images/qrcode/pojie_52.jpg
           description: 公众号：吾爱破解论坛
         - title: 瑞数信息
           logo: riversecurity.png
-          qrcode: images/logo/qrcode/RiverSecurity.jpg
+          qrcode: images/qrcode/RiverSecurity.jpg
           description: 公众号：瑞数信息
         - title: 极验
           logo: geetest_jy.png
-          qrcode: images/logo/qrcode/geetest_jy.jpg
+          qrcode: images/qrcode/geetest_jy.jpg
           description: 公众号：极验
         - title: 安全圈
           logo: ChinaAnQuan.png
-          qrcode: images/logo/qrcode/ChinaAnQuan.jpg
+          qrcode: images/qrcode/ChinaAnQuan.jpg
           description: 公众号：安全圈
         - title: 黑白之道
           logo: i77169.png
-          qrcode: images/logo/qrcode/i77169.jpg
+          qrcode: images/qrcode/i77169.jpg
           description: 公众号：黑白之道
         - title: 金科应用研院
           logo: fintechapplab_sz.png
-          qrcode: images/logo/qrcode/fintechapplab_sz.jpg
+          qrcode: images/qrcode/fintechapplab_sz.jpg
           description: 公众号：金科应用研院
         - title: 同盾智能风控联盟
           logo: antifraud.png
-          qrcode: images/logo/qrcode/antifraud.jpg
+          qrcode: images/qrcode/antifraud.jpg
           description: 公众号：同盾智能风控联盟
         - title: 飞特风控学苑
           logo: EFinRisker.png
-          qrcode: images/logo/qrcode/EFinRisker.jpg
+          qrcode: images/qrcode/EFinRisker.jpg
           description: 公众号：飞特风控学苑
         - title: 天天学风控
           logo: xuefengkong.png
-          qrcode: images/logo/qrcode/xuefengkong.jpg
+          qrcode: images/qrcode/xuefengkong.jpg
           description: 公众号：天天学风控
         - title: 小伍哥聊风控
           logo: XiaoWuGeRisk.png
-          qrcode: images/logo/qrcode/XiaoWuGeRisk.jpg
+          qrcode: images/qrcode/XiaoWuGeRisk.jpg
           description: 公众号：小伍哥聊风控
 
     - term: 交流论坛

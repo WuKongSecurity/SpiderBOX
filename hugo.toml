@@ -1,51 +1,51 @@
 baseURL               = "https://spiderbox.cn/"
 languageCode          = "zh-CN"
 title                 = "SpiderBox - 虫盒 - 爬虫逆向资源导航站"
-theme                 = "WebStack-Hugo"
+theme                 = "webstack"
 preserveTaxonomyNames = true
 disablePathToLower    = true
 hasCJKLanguage        = true
-publishDir            = "docs"					# 站点静态文件保存目录
+publishDir            = "docs"	# 站点静态文件保存目录
 
 
 [params]
     author        = "BOB"
     keywords      = "爬虫，逆向，JS逆向，APP逆向，数据采集，SpiderBox，虫盒，资源导航，爬虫资源，逆向资源，资源导航站"
     description   = "SpiderBox - 虫盒 - 爬虫逆向资源导航站，数据采集、网络爬虫、JS逆向、APP逆向、小程序逆向等相关资源聚合、收集。"
-    disclaimers   = ""  # 左侧导航栏的"网站提交"
-    about         = ""	# 左侧导航栏的"关于导航"(./about)
     repository    = "https://github.com/TRHX/spiderbox"    # 左侧导航栏的"GitHub"
     enablePreLoad = true					               # 网站完全打开前预加载动画
     textPreLoad   = "SpiderBox 加载中..."				   # 预加载的动画文字, 只有当enablePreLoad=true时生效
-    expandSidebar = true					# 默认展开左侧边导航栏
-    logosPath     = "images/logo"			# 网站每个导航地址logo存放地址
-    defaultLogo   = "images/logo/default.png"		# logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
-    nightMode     = false					# 默认站点为深色(夜间)模式
-    yiyan         = true                         		# 默认启用一言服务
+    expandSidebar = true					              # 默认展开左侧边导航栏
+    logosPath     = "images/logo"			              # 网站每个导航地址logo存放地址
+    defaultLogo   = "images/logo/default.png"		      # logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
+    nightMode     = false					              # 默认站点为深色(夜间)模式
+    yiyan         = true                         		  # 默认启用一言服务
 
 [params.seo]    
-    baiduhmid     = 'eb388f839300d98c08f2a2a5edc02ec1'		# 百度统计 hm.src 的 ID
-    baiduSiteVer  = 'codeva-cnyCL4azyb'				# 百度HTML标签验证(baidu-site-verification)
-    tj51laid      = '3FcHt9RWSQ8XvN5u'              # 51.LA 网站统计
-    tj51lack      = '3FcHt9RWSQ8XvN5u'
+    baiduhmid     = "eb388f839300d98c08f2a2a5edc02ec1"  # 百度统计 hm.src 的 ID
+    baiduSiteVer  = "codeva-cnyCL4azyb"				    # 百度HTML标签验证(baidu-site-verification)
+    tj51laid      = "3FcHt9RWSQ8XvN5u"                  # 51.LA 网站统计
+    tj51lack      = "3FcHt9RWSQ8XvN5u"
 
 [params.qweather]
     key = "085791e805a24491b43b06cf58ab31e7"
 
 [params.images]
     favicon           = "images/favicon.ico"
+    appleTouchIcon    = "images/favicon.png"
     searchImageL      = "images/friends2.jpg"		# 搜索部分浅色背景图
     searchImageD      = "images/bg-dna.jpg"		    # 搜索部分深色背景图
     logoExpandLight   = "images/logo.png"
     logoExpandDark    = "images/logo.png"
     logoCollapseLight = "images/favicon.png"
     logoCollapseDark  = "images/favicon.png"
-    
+
+[params.info]
+    email = "admin@itbob.cn"
+    emailHref = "mailto:admin@itbob.cn"
+
 [markup.goldmark.renderer]
     unsafe = true
-
-[params.footer]
-    copyright = '本站内容源自互联网，如有内容侵犯权益，请联系站长删除相关内容，联系邮箱：mail@xazz.top <br/><br/><span id="RunTime" style="color:#FC4E27;letter-spacing:2px"></span><br/><br/>&copy; 2023 - {year} By [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) | [ikirito-Github](https://github.com/i-kirito) | [备案号](https://nav.xazz.top)<br/>'
 
 [minify]
     minifyOutput = true
