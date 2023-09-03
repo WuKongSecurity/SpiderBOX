@@ -1,10 +1,10 @@
 - item: 首页
-  icon: fa fa-home
+  icon: fas fa-home
   link: "./"
 
-- item: 站长博客
-  icon: fa fa-blog
-  link: https://www.itbob.cn/
+# - item: 站长博客
+#   icon: fas fa-blog
+#   link: https://www.itbob.cn/
 
 - item: 申请收录
   icon: fas fa-location-arrow
@@ -14,15 +14,25 @@
   icon: far fa-envelope
   link: mailto:admin@itbob.cn
 
+- item: 免责声明
+  popup: true
+  icon: fas fa-user-secret
+  popupID: show-disclaimer
+
+- item: 打赏赞助
+  popup: true
+  icon: fas fa-dollar-sign
+  popupID: show-sponsor
+
 - item: 交流群
   popup: true
   icon: fas fa-user-friends
-  link: mailto:admin@itbob.cn
+  popupID: show-group
 
 # - item: 二级菜单
-#   icon: fa fa-cog
+#   icon: fas fa-cog
 #   link: ""
 #   list:
 #     - name: 关于
-#       icon: fa fa-user-secret
+#       icon: fas fa-user-secret
 #       link: https://www.itbob.cn/about/

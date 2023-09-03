@@ -66,8 +66,9 @@
     <div class="page-container">
 	{{ if $.Site.Params.expandSidebar }}
 	<div id="sidebar" class="sticky sidebar-nav fade animate-nav" style="width: 170px">
-        {{ else }}
-        <div id="sidebar" class="sticky sidebar-nav fade mini-sidebar" style="width: 60px;">
+    {{ else }}
+    <div id="sidebar" class="sticky sidebar-nav fade mini-sidebar" style="width: 60px;">
+        
 	{{ end }}
             <div class="modal-dialog h-100 sidebar-nav-inner">
                 <div class="sidebar-logo border-bottom border-color">
@@ -122,31 +123,17 @@
                 <div class="border-top py-2 border-color">
                     <div class="flex-bottom">
                         <ul>
-			                <li id="menu-item-friendlink"
-                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-friendlink sidebar-item">
-                                 <a href="#friendlink" class="smooth">
-                                     <i class="fab fa-staylinked icon-fw icon-lg mr-2"></i>
-                                     <span>友情链接</span>
-                                 </a>
-                            </li>
-                            <li id="menu-item-disclaimer"
-                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-disclaimer sidebar-item">
-                                <a id="open-alert">
-                                    <i class="fas fa-user-secret icon-fw icon-lg mr-2"></i>
-                                    <span id="show-disclaimer">免责声明</span>
-                                </a>
-                            </li>
-                            <li id="menu-item-sponsor"
-                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-sponsor sidebar-item">
-                                <a id="open-alert">
-                                    <i class="fas fa-dollar-sign icon-fw icon-lg mr-2"></i>
-                                    <span id="show-sponsor">打赏赞助</span>
-                                </a>
-                            </li>
                             <li id="menu-item-github" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-github sidebar-item">
                                 <a target="_blank" rel="noopener" href="{{ $.Site.Params.repository }}">
-                                    <i class="fa fa-github icon-fw icon-lg mr-2"></i>
-                                    <span>GitHub</span></a>
+                                    <i class="fab fa-github icon-fw icon-lg mr-2"></i>
+                                    <span>GitHub</span>
+                                </a>
+                            </li>
+			                <li id="menu-item-friendlink" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-friendlink sidebar-item">
+                                 <a href="#friendlink" class="smooth">
+                                     <i class="fas fa-link icon-fw icon-lg mr-2"></i>
+                                     <span>友情链接</span>
+                                 </a>
                             </li>
                         </ul>
                     </div>

@@ -16,31 +16,20 @@
     <title>{{ .Site.Title }}</title>
     <link rel="shortcut icon" href="{{ $.Site.Params.images.favicon }}" />
 
-    {{ $iconfont := resources.Get "css/iconfont-3.03029.1.css" | resources.Minify | fingerprint}}
-    {{ $customStyle := resources.Get "css/custom-style.css" | resources.Minify | fingerprint}}
-    {{ $blockLibrary := resources.Get "css/block-library.min-5.6.2.css" | resources.Minify | fingerprint}}
-    {{ $bootstrap := resources.Get "css/bootstrap.min-4.3.1.css" | resources.Minify | fingerprint}}
-    {{ $fancybox := resources.Get "css/fancybox.min-3.5.7.css" | resources.Minify | fingerprint}}
-    {{ $style := resources.Get "css/style-3.03029.1.css" | resources.Minify | fingerprint}}
-    {{ $fontawesome := resources.Get "css/fontawesome.all.min.css" | resources.Minify | fingerprint}}
+    {{ $iconfont := resources.Get "css/iconfont.css" | resources.Minify}}
+    {{ $customStyle := resources.Get "css/custom-style.css" | resources.Minify}}
+    {{ $style := resources.Get "css/style.css" | resources.Minify}}
+    <!-- {{ $fontawesome := resources.Get "css/fontawesome.all.min.css" | resources.Minify}} -->
 
     <link rel="stylesheet" id="iconfont-css" href="{{ $iconfont.RelPermalink }}" type="text/css" media="all" />
     <link rel="stylesheet" id="custom-style" href="{{ $customStyle.RelPermalink }}" type="text/css" media="all" />
-    <link rel="stylesheet" id="block-library-css" href="{{ $blockLibrary.RelPermalink }}" type="text/css" media="all" />
-    <link rel="stylesheet" id="bootstrap-css" href="{{ $bootstrap.RelPermalink }}" type="text/css" media="all" />
-    <link rel="stylesheet" id="fancybox-css" href="{{ $fancybox.RelPermalink }}" type="text/css" media="all" />
+    <link crossorigin="anonymous" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" href="//lib.baomitu.com/twitter-bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+
+
     <link rel="stylesheet" id="iowen-css" href="{{ $style.RelPermalink }}" type="text/css" media="all" />
-    <link rel="stylesheet" id="fontawesome-css" href="{{ $fontawesome.RelPermalink }}" type="text/css" />
-
-    <!-- fontawesome 因为原主题部分图标无法引用 所以重新引用了个js版（可以直接到官网申请） -->
-    <script src="https://kit.fontawesome.com/8dbd36e300.js" crossorigin="anonymous"></script>
-
-    {{ $jquery := resources.Get "js/jquery.min-3.2.1.js" | resources.Minify | fingerprint}}
-    {{ $contentSearch := resources.Get "js/content-search.js" | resources.Minify | fingerprint}}
-
-    <script type="text/javascript" src="{{ $jquery.RelPermalink }}" id="jquery-js"></script>
-    <script type="text/javascript" src="{{ $contentSearch.RelPermalink }}"  id="content-search-js"></script>
-
+    <!-- <link rel="stylesheet" id="fontawesome-css" href="{{ $fontawesome.RelPermalink }}" type="text/css" /> -->
+    <link crossorigin="anonymous" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" href="//lib.baomitu.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+ 
     <!-- 百度统计 -->
     {{ with .Site.Params.seo.baiduhmid }}
     <script>

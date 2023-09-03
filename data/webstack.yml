@@ -175,10 +175,6 @@
           logo: wireshark.png
           url: https://www.wireshark.org/
           description: Wireshark 抓包工具使用 WinPCAP 作为接口，直接与网卡进行数据报文交换。
-        - title: Http Debugger
-          logo: debugger.png
-          url: https://www.httpdebugger.com/
-          description: Http Debugger 抓包工具，易于使用、简洁的用户界面和较短的启动时间。
         - title: Reqable
           logo: reqable.png
           url: https://reqable.com/
@@ -187,6 +183,15 @@
           logo: burp.png
           url: https://portswigger.net/burp
           description: Burp Suite 是用于攻击 web 应用程序的集成平台，包含了许多工具。Burp Suite为这些工具设计了许多接口，以加快攻击应用程序的过程。所有工具都共享一个请求，并能处理对应的HTTP 消息、持久性、认证、代理、日志、警报。
+        - title: mitmproxy
+          logo: mitmproxy.png
+          url: https://mitmproxy.org/
+          description: 是一个交互式、支持 SSL/TLS 的拦截代理，具有 HTTP/1、HTTP/2 和 WebSocket 的控制台界面。
+
+        - title: Http Debugger
+          logo: debugger.png
+          url: https://www.httpdebugger.com/
+          description: Http Debugger 抓包工具，易于使用、简洁的用户界面和较短的启动时间。
         - title: Proxyman
           logo: proxyman.png
           url: https://proxyman.io/
@@ -204,12 +209,12 @@
           url: https://www.tcpdump.org/
           description: 适用于会话层抓包，在使用没有无线网卡的电脑或无法开热点的情况下可以直接在手机上运行Tcpdump然后导出文件在电脑端WireShark中打开，与直接使用WireShark抓包效果相同。
         - title: r0capture
-          logo: r0capture.png
+          logo: github.png
           url: https://github.com/r0ysue/r0capture
           description: 安卓应用层抓包通杀脚本。
         - title: eCapture
           logo: ecapture.png
-          url: https://github.com/gojue/ecapture
+          url: https://ecapture.cc/
           description: eCapture(旁观者)，基于 eBPF 技术实现TLS加密的明文捕获，无需CA证书。
 
     - term: 接口调试
@@ -237,19 +242,43 @@
 
     - term: 监控管理
       links:
-        - title: crawlab
+        - title: Crawlab
           logo: crawlab.png
-          url: https://github.com/crawlab-team/crawlab
+          url: https://www.crawlab.cn/
           description: 分布式爬虫管理平台，支持任何语言和框架。
+        - title: Feapder
+          logo: spidertools.png
+          url: https://feapder.com/
+          description: 秉承着开发快速、抓取快速、简单、轻量且功能强大的原则，倾心打造，支持轻量级爬虫、分布式爬虫、批次爬虫、爬虫集成，以及完善的报警等。
+        - title: Gerapy
+          logo: Gerapy.png
+          url: https://github.com/Gerapy/Gerapy
+          description: 基于 Scrapy、Scrapyd、Django 和 Vue.js 的分布式爬虫管理框架。
+        - title: Scrapyd
+          logo: scrapyd.png
+          url: https://github.com/scrapy/scrapyd
+          description: Scrapyd 是一个用于运行 Scrapy 爬虫的服务，它允许部署 Scrapy 项目并使用 HTTP JSON API 控制爬虫脚本。
+        - title: ScrapydWeb
+          logo: scrapydweb.png
+          url: https://github.com/my8100/scrapydweb
+          description: 用于 Scrapyd 集群管理、Scrapy 日志分析和可视化、自动打包、计时器任务、监控和警报以及移动 UI 的 Web 应用程序。
+        - title: Kubernetes
+          logo: kubernetes.png
+          url: https://kubernetes.io/
+          description: Kubernetes，也称为 K8s，是一个用于自动化部署、扩展和管理容器化应用程序的开源系统。
         - title: Prometheus
           logo: prometheus.png
           url: https://prometheus.io/
           description: Prometheus 开源监控系统。
+        - title: Grafana
+          logo: grafana.png
+          url: https://grafana.com/
+          description: Grafana 是一款开源的数据可视化工具，使用 Grafana 可以非常轻松的将数据转成图表的展现形式来做到数据监控以及数据统计。
 
     - term: 其他工具
       links:
         - title: SmsForwarder
-          logo: SmsForwarder.png
+          logo: smsforwarder.png
           url: https://github.com/pppscn/SmsForwarder
           description: 短信转发器——监控 Android 手机短信、来电、APP 通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。
         - title: notepad--
@@ -351,19 +380,23 @@
           url: https://github.com/456vv/prophet
           description: JAVASCRIPT AST HOOK JS逆向快速定位。
         - title: GeneralNewsExtractor
-          logo: GeneralNewsExtractor.png
+          logo: gne.png
           url: https://github.com/GeneralNewsExtractor/GeneralNewsExtractor
           description: 新闻网页正文通用抽取器 Beta 版。
         - title: newspaper
           logo: newspaper.png
           url: https://github.com/codelucas/newspaper
           description: Python3 中的新闻、全文和文章元数据提取。
+        - title: diffbot
+          logo: diffbot.png
+          url: https://www.diffbot.com/
+          description: 智能解析算法应用，通过人工智能技术，让“机器”识别网页内容，抓取关键内容，并输出软件可以直接识别的结构化数据。
         - title: fake-useragent
-          logo: fake-useragent.png
+          logo: github.png
           url: https://github.com/fake-useragent/fake-useragent
           description: 随机 UA。
         - title: JSREI
-          logo: JSREI.png
+          logo: jsrei.png
           url: https://github.com/JSREI
           description: JavaScript Reverse Engineering Infrastructure，提供更多更好的JS逆向工具，让JS逆向变得简单。
     - term: 调试运行
@@ -377,7 +410,7 @@
           url: https://github.com/Distributive-Network/PythonMonkey
           description: 嵌入到 Python VM 中的 Mozilla SpiderMonkey JavaScript 引擎，使用 Python 引擎提供 JS 宿主环境。
         - title: PyMiniRacer
-          logo: PyMiniRacer.png
+          logo: pyminiracer.png
           url: https://github.com/sqreen/PyMiniRacer
           description: PyMiniRacer 是 Python 中的 V8 桥接器。
         - title: bestV8
@@ -400,10 +433,6 @@
           logo: github.png
           url: https://github.com/cilame/vthread
           description: python 更加方便的多线程库，以最小的代码侵入，做到最高效的多线程、线程池 coding 效率。在不改变源代码的情况下，一行代码即可实现线程池操作。
-        - title: 精易编程助手
-          logo: jingyisoft.png
-          url: http://soft.125.la/plugin.php?id=jingyi_soft:soft&cid=3
-          description: 精易编程助手
         - title: 精易编程助手
           logo: jingyisoft.png
           url: http://soft.125.la/plugin.php?id=jingyi_soft:soft&cid=3
@@ -443,7 +472,7 @@
           url: https://www.obfuscator.io/
           description: OB 在线混淆。
         - title: JSVMP 在线混淆
-          logo: jsvmpcom.png
+          logo: obfuscator.png
           url: https://jsvmp.com/
           description: OB 在线混淆。
         - title: JS 盾
@@ -472,7 +501,7 @@
           description: 李玺 JS 在线解混淆。
         - title: de4js
           logo: de4js.png
-          url: https://github.com/lelinhtinh/de4js
+          url: https://lelinhtinh.github.io/de4js/
           description: JS 在线解混淆，支持 Eval、OB、JSFuck、JJencode、AAencode 等。
         - title: decode-js
           logo: github.png
@@ -601,7 +630,7 @@
           url: https://github.com/yint-tech/sekiro-open
           description: RPC 框架。
         - title: JsRpc
-          logo: JsRpc.png
+          logo: github.png
           url: https://github.com/jxhczhl/JsRpc
           description: js 逆向之远程调用 (rpc) 免去抠代码补环境。
         - title: Selenium
@@ -612,14 +641,6 @@
           logo: phantomjs.png
           url: https://phantomjs.org/
           description: PhantomJS 是一款可使用 JavaScript 编写脚本的无头 Web 浏览器，18 年已停止维护。
-        - title: Appium
-          logo: appium.png
-          url: https://appium.io/
-          description: 开源的移动端自动化测试框架。
-        - title: Airtest
-          logo: airtest.png
-          url: https://airtest.netease.com/
-          description: Airtest是一个跨平台的UI自动化测试框架，适用于游戏和App。目前支持Windows和Android平台，iOS支持正在开发中。
         - title: Pyppeteer
           logo: github.png
           url: https://github.com/pyppeteer/pyppeteer
@@ -632,6 +653,18 @@
           logo: playwright.png
           url: https://playwright.dev/
           description: Playwright 是微软在 2020 年初开源的新一代自动化测试工具，对市面上的主流浏览器都提供了支持，API 功能简洁又强大。
+        - title: Splash
+          logo: splash.png
+          url: https://github.com/scrapinghub/splash
+          description: Splash 是一个带有 HTTP API 的 JavaScript 渲染服务。它是一个带有 HTTP API 的轻量级浏览器，使用 Twisted 和 QT5 在 Python 3 中实现。它快速、轻量级且无状态，因此易于分发。
+        - title: Appium
+          logo: appium.png
+          url: https://appium.io/
+          description: 开源的移动端自动化测试框架。
+        - title: Airtest
+          logo: airtest.png
+          url: https://airtest.netease.com/
+          description: Airtest是一个跨平台的UI自动化测试框架，适用于游戏和App。目前支持Windows和Android平台，iOS支持正在开发中。
         - title: DrissionPage
           logo: drissionpage.png
           url: https://github.com/g1879/DrissionPage
@@ -665,7 +698,7 @@
           url: https://github.com/ultrafunkamsterdam/undetected-chromedriver
           description: 优化的 Selenium Chromedriver 补丁，不会触发 Distill Network / Imperva / DataDome / Botprotect.io 等反机器人服务，自动下载驱动程序二进制文件并对其进行修补。
         - title: fakebrowser
-          logo: fakebrowser.png
+          logo: github.png
           url: https://github.com/kkoooqq/fakebrowser
           description: 伪造指纹绕过反机器人系统。模拟鼠标和键盘操作，使行为像真人一样。
 
@@ -723,7 +756,7 @@
     - term: APP 反编译
       links:
         - title: Android Crack Tool
-          logo: androidcracktool.png
+          logo: github.png
           url: https://github.com/Jermic/Android-Crack-Tool
           description: mac 下 Android 逆向神器，实用工具集，集成了Android开发中常见的一些编译/反编译工具，方便用户对 Apk 进行逆向分析，提供 Apk 信息查看功能。
         - title: Apktool
@@ -747,7 +780,7 @@
           url: https://www.pnfsoftware.com/
           description: JEB 是 PNF Software的逆向工程平台，可以手动或作为分析管道的一部分执行代码和文档文件的反汇编、反编译、调试和分析。
         - title: dex2jar
-          logo: dex2jar.png
+          logo: github.png
           url: https://github.com/pxb1988/dex2jar
           description: 将安卓可执行文件 dex 转为 jar 包。
         - title: JD-GUI
@@ -777,7 +810,7 @@
     - term: APP 其他
       links:
         - title: Magisk
-          logo: magisk.png
+          logo: Magisk.png
           url: https://github.com/topjohnwu/Magisk
           description: Magisk是一套用于定制 Android的开源工具,支持高于 Android4.2的设备。涵盖了 Android定制的基本部分:root、引导脚本、 SELInux修补、移除AVB2.0/dm- verity/强制加密等。
         - title: APK Downloader
@@ -815,7 +848,7 @@
           url: https://pan.baidu.com/s/19mKFLGqUAve-FG4Fp6J76g?pwd=sbox
           description: 微信小程序解密工具。
         - title: wxapkg-unpacker
-          logo: wxapkgunpacker.png
+          logo: github.png
           url: https://github.com/zgqwork/wxapkg-unpacker
           description: 自动化反编译微信小程序/小游戏，基于 wxappUnpacker 二次开发。
 
@@ -1232,7 +1265,7 @@
           url: https://github.com/kangvcar/InfoSpider
           description: INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。
         - title: learn_python3_spider
-          logo: learn_python3_spider.png
+          logo: github.png
           url: https://github.com/wistbean/learn_python3_spider
           description: python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等。
     - term: 优质博主
@@ -1499,7 +1532,7 @@
           qrcode: images/logo/qrcode/pojie_52.jpg
           description: 公众号：吾爱破解论坛
         - title: 瑞数信息
-          logo: RiverSecurity.png
+          logo: riversecurity.png
           qrcode: images/logo/qrcode/RiverSecurity.jpg
           description: 公众号：瑞数信息
         - title: 极验
@@ -1663,6 +1696,10 @@
           logo: muyangjy888.png
           url: https://mp.weixin.qq.com/s/onNc1WYAeUXDQMitWmyi6w
           description: 沐阳从0开始学习iOS逆向、从0开始学习安卓逆向、从0开始学习JS逆向。
+        - title: Alien & 珍惜联合课
+          logo: alienhe.png
+          url: http://course.alienhe.cn/home.html
+          description: Alien & 珍惜联合课，安卓逆向进阶百级教程，全网最新 js 逆向视频。
 
 - taxonomy: 人工智能
   icon: fas fa-robot fa-lg

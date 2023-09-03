@@ -31,7 +31,7 @@
                                 {{ if .popup }}
                                 <a>
                                     <i class="{{ .icon }} fa-lg mr-2"></i>
-                                    <span id="show-group">{{ .item }}</span>
+                                    <span id="{{ .popupID }}">{{ .item }}</span>
                                 </a>
                                 {{else}}
                                 <a href="{{ .link }}" target="_blank">
