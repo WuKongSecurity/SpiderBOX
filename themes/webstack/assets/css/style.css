@@ -5710,18 +5710,20 @@ input.nav-link[readonly] {
     }
 
     ::-webkit-scrollbar-thumb:hover {
-        background-color: #f1404b;
+        /* background-color: #f1404b; */
+        background-color: #0084ff;
         -webkit-border-radius: 4px;
         border-radius: 4px
     }
 
     ::-webkit-scrollbar {
-        width: 5px;
-        height: 5px
+        width: 10px;
+        height: 10px
     }
 
     ::-webkit-scrollbar-thumb:active {
-        background-color: #f1404b;
+        /* background-color: #f1404b; */
+        background-color: #0084ff;
         -webkit-border-radius: 4px;
         border-radius: 4px
     }

@@ -399,6 +399,10 @@
           logo: jsrei.png
           url: https://github.com/JSREI
           description: JavaScript Reverse Engineering Infrastructure，提供更多更好的JS逆向工具，让JS逆向变得简单。
+        - title: js-hook-framework
+          logo: jsrei.png
+          url: https://github.com/JSREI/crawler-js-hook-framework-public
+          description: JS 逆向 Hook 工具集。将JS逆向时用到的一些工具封装为油猴脚本，降低逆向成本。
     - term: 调试运行
       links:
         - title: PyExecJS
