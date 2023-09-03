@@ -594,7 +594,7 @@
           url: http://f.vision/
           description: 新一代浏览器检测器
         - title: TLSJA3
-          logo: geekbyte.png
+          logo: geekbyter.png
           url: https://tlsja3.cn/tls
           description: TLS 指纹 API
         - title: TrackMe - fp API
@@ -1567,7 +1567,6 @@
           logo: XiaoWuGeRisk.png
           qrcode: images/qrcode/XiaoWuGeRisk.jpg
           description: 公众号：小伍哥聊风控
-
     - term: 交流论坛
       links:
         - title: 看雪安全社区
@@ -1618,14 +1617,12 @@
           logo: csdnrs.png
           url: https://bbs.csdn.net/forums/ReverseSecurity
           description: CSDN 逆向安全社区。
-
     - term: 国外论坛
       links:
         - title: The Web Scraping Club
           logo: thewebscraping.png
           url: https://substack.thewebscraping.club/
           description: 国外的一个爬虫俱乐部。
-
     - term: 练习平台
       links:
         - title: 猿人学第一届JS逆向刷题平台
@@ -1649,7 +1646,7 @@
           url: https://wangluozhe.com/
           description: 网洛者 - 反反爬虫练习，平台完全免费公开的，有意者可以直接进入平台进行练习和玩耍，欢迎各位大佬的入驻和使用！
         - title: TLS 指纹对抗练习平台
-          logo: geekbyte.png
+          logo: geekbyter.png
           url: https://tlsja3.cn/
           description: TLS 指纹对抗练习平台
         - title: Scrape Center
@@ -1668,7 +1665,6 @@
           logo: evilrecluse.png
           url: http://learnspider.evilrecluse.top/
           description: 欧拉VS木大 是一个爬虫训练场，你可以在这里锻炼你的爬虫基础能力。
-
     - term: 知识付费
       links:
         - title: 猿人学爬虫逆向进阶课
@@ -1687,10 +1683,13 @@
           logo: ikanxue.png
           url: https://www.kanxue.com/book-list-1-31.htm
           description: 看雪 Android 逆向课程，IDA 特训营、Unidbg 模拟、LLVM 与代码混淆、eBPF 安全开发、安卓高级月薪两万、三万计划等。
+        - title: 安卓 & WEB 网络协议课
+          logo: geekbyte.png
+          url: images/course/neo&geekbyte.jpg
+          description: 课程核心着重于介绍底层协议 HTTP、HTTP2、TLS1.2、TLS1.3 的原理与源码（包括 JA3 的开发与对抗，QUIC，OpenSSL，MbedTLS，wolfSSL 等），并将理论与实际代码相结合，深入讲解相关内容。
         - title: JSVMP 反编译课程
           logo: Chankipen.png
-          url: images/logo/jsvmp.jpg
-          # qrcode: images/logo/jsvmp.jpg
+          url: images/course/jsvmp.jpg
           description: 陈不不的 JSVMP 反编译课程。
         - title: 沐阳
           logo: muyangjy888.png
