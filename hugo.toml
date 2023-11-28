@@ -1,3 +1,6 @@
+# 主色调蓝色： #0084ff
+# hover：     #006bde
+
 baseURL               = "https://spiderbox.cn/"
 languageCode          = "zh-CN"
 title                 = "SpiderBox - 虫盒 - 爬虫逆向资源导航站"
@@ -9,22 +12,23 @@ publishDir            = "docs"	# 站点静态文件保存目录
 
 
 [params]
-    author        = "BOB"
+    author        = "ITBOB"
     keywords      = "爬虫，逆向，JS逆向，APP逆向，数据采集，SpiderBox，虫盒，资源导航，爬虫资源，逆向资源，资源导航站"
     description   = "SpiderBox - 虫盒 - 爬虫逆向资源导航站，数据采集、网络爬虫、JS逆向、APP逆向、小程序逆向等相关资源聚合、收集。"
+    cdnURL        = "https://cdn.itbob.cn/spiderbox/"      # CDN 地址，置空则不使用 CDN
     repository    = "https://github.com/TRHX/spiderbox"    # 左侧导航栏的"GitHub"
     enablePreLoad = true					               # 网站完全打开前预加载动画
-    textPreLoad   = "SpiderBox 加载中..."				   # 预加载的动画文字, 只有当enablePreLoad=true时生效
-    expandSidebar = true					              # 默认展开左侧边导航栏
-    logosPath     = "images/logo"			              # 网站每个导航地址logo存放地址
-    defaultLogo   = "images/logo/default.png"		      # logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
-    nightMode     = false					              # 默认站点为深色(夜间)模式
-    yiyan         = true                         		  # 默认启用一言服务
+    textPreLoad   = "SpiderBox 加载中..."				    # 预加载的动画文字, 只有当enablePreLoad=true时生效
+    expandSidebar = true					               # 默认展开左侧边导航栏
+    logosPath     = "images/logo"			               # 网站每个导航地址logo存放地址
+    defaultLogo   = "images/logo/default.png"		       # logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
+    nightMode     = false					               # 默认站点为深色(夜间)模式
+    yiyan         = true                         		   # 默认启用一言服务
 
 [params.seo]    
-    baiduhmid     = "eb388f839300d98c08f2a2a5edc02ec1"  # 百度统计 hm.src 的 ID
-    baiduSiteVer  = "codeva-cnyCL4azyb"				    # 百度HTML标签验证(baidu-site-verification)
-    tj51laid      = "3FcHt9RWSQ8XvN5u"                  # 51.LA 网站统计
+    baiduhmid     = "eb388f839300d98c08f2a2a5edc02ec1"     # 百度统计 hm.src 的 ID
+    baiduSiteVer  = "codeva-cnyCL4azyb"				       # 百度HTML标签验证(baidu-site-verification)
+    tj51laid      = "3FcHt9RWSQ8XvN5u"                     # 51.LA 网站统计
     tj51lack      = "3FcHt9RWSQ8XvN5u"
 
 [params.qweather]
@@ -49,5 +53,3 @@ publishDir            = "docs"	# 站点静态文件保存目录
 
 [minify]
     minifyOutput = true
-
-# 蓝色 0084ff

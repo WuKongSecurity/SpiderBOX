@@ -2,14 +2,26 @@
 - taxonomy: 主站推荐
   icon: far fa-star
   links:
-    - title: 站长博客
-      logo: bob.png
-      url: https://www.itbob.cn/
-      description: 站长 BOB 的博客
-    - title: 微信公众号
-      logo: bob.png
+    - title: 站长微信公众号
+      logo: bob.jpg
       qrcode: images/qrcode/IT_BOB.jpg
       description: 站长公众号：爬虫矛与盾
+    - title: 站长博客
+      logo: bob.jpg
+      url: https://www.itbob.cn/
+      description: 站长 BOB 的博客
+    - title: Spider BOX
+      logo: spiderbox.png
+      url: https://spiderbox.cn/
+      description: 爬虫逆向资源导航站
+    - title: Spider API
+      logo: spiderapi.png
+      url: https://spiderapi.cn/
+      description: 爬虫逆向常用 API
+    - title: Spider LAW
+      logo: coming_soon.png
+      url: https://github.com/TRHX/SpiderLaw
+      description: 推动数据采集合规性建设
 
 - taxonomy: 文档资料
   icon: fas fa-book
@@ -168,7 +180,7 @@
           url: https://www.telerik.com/fiddler
           description: Fiddler Classic 免费抓包工具，仅支持 Windows，Fiddler Everywhere 收费抓包工具，支持 MacOS, Windows 和 Linux。
         - title: Charles
-          logo: charles.png
+          logo: charles.jpg
           url: https://www.charlesproxy.com/
           description: Charles 抓包工具，又被戏称为尿壶、夜壶。
         - title: Wireshark
@@ -201,7 +213,7 @@
           url: https://apps.apple.com/cn/app/stream/id1312141691
           description: Stream 是一款在 iOS 端的网络抓包工具，该工具可以直接独立运行在 iOS 设备，无需依赖 PC 环境。 
         - title: Drony
-          logo: drony.png
+          logo: drony.jpg
           url: https://play.google.com/store/apps/details?id=org.sandrob.drony
           description: 一个允许您从移动设备管理所有代理的工具。
         - title: Tcpdump
@@ -294,7 +306,7 @@
           url: https://www.faststone.org/FSCaptureDetail.htm
           description: FastStone Capture 是一款功能强大、轻量级但功能齐全的屏幕捕获工具和屏幕录像机，最实用的功能是长截图和标尺功能，这在验证码逆向当中很有用。
         - title: FontCreator
-          logo: fontcreator.png
+          logo: fontcreator.jpg
           url: https://www.high-logic.com/font-editor/fontcreator
           description: FontCreator 是一个强大的字体编辑软件，逆向中常用作字体加密的分析。
         - title: 简悦 - SimpRead
@@ -442,11 +454,11 @@
           url: http://soft.125.la/plugin.php?id=jingyi_soft:soft&cid=3
           description: 精易编程助手
         - title: 乐易编程助手
-          logo: leybc.png
+          logo: leybc.jpg
           url: https://www.leybc.com/thread-7123-1-1.html
           description: 乐易编程助手
         - title: WT-JS
-          logo: wtjs.png
+          logo: wtjs.jpg
           url: https://bbs.125.la/thread-14734668-1-1.html
           description: WT-JS
         - title: JSDebugger
@@ -466,7 +478,7 @@
           url: https://pan.baidu.com/s/18XmJwP2MZI9jZibS8tqw-Q?pwd=sbox
           description: 随缘 JS 调试工具
         - title: 小七编程助手
-          logo: xqbc.png
+          logo: xqbc.jpg
           url: https://pan.baidu.com/s/1S_u2Jr5eMGoW88sCR5coUw?pwd=sbox
           description: 小七编程助手
     - term: 代码混淆
@@ -598,11 +610,11 @@
           url: http://f.vision/
           description: 新一代浏览器检测器
         - title: TLSJA3
-          logo: geekbyter.png
+          logo: geekbyter.jpg
           url: https://tlsja3.cn/tls
           description: TLS 指纹 API
         - title: TrackMe - fp API
-          logo: peet.png
+          logo: peet.jpg
           url: https://tls.peet.ws/
           description: TLS 指纹 API
     - term: 环境框架
@@ -776,7 +788,7 @@
           url: https://bbs.kanxue.com/thread-225120.htm
           description: 目前仅支持加固厂商：娜迦、梆梆、爱加密、通付盾、360加固、百度加固、阿里、腾讯、盛大、瑞星加、网秦、国信灵通、apkprotect、几维安全、顶像科技、网易易盾等常规厂商。功能比win版PKID更强大，特征更多！
         - title: XAPKDetector
-          logo: xapkdetector.png
+          logo: xapkdetector.jpg
           url: https://github.com/horsicq/XAPKDetector
           description: XAPKDetector 显示有关构建工具，库和APK / DEX文件保护的信息。
         - title: JEB
@@ -866,11 +878,11 @@
           url: https://console.jfbym.com/register/TG17764
           description: 最推荐的打码平台，云码提供：在线普通图片、滑动、点选、谷歌、Hcaptcha、数字计算题等验证码识别及验证码识别API接口服务。
         - title: 知数云
-          logo: zhishuyun.png
+          logo: zhishuyun.jpg
           url: https://data.zhishuyun.com/
           description: 用一个个标准化服务，助力你工作与生活的方方面面。支持 reCaptcha、hCaptcha 等识别，还支持 AI 图像接口等。
         - title: 图腾视觉
-          logo: tutengocr.png
+          logo: tutengocr.jpg
           url: https://www.tutengocr.com/
           description: 图腾视觉-专注于文字识别-目标识别-广告识别。
         - title: 图鉴
@@ -882,7 +894,7 @@
           url: https://www.rrocr.com/
           description: 人人图像打码平台是全球领先的OCR验证码识别平台，为广大用户提供了极验验证码识别,滑动拼图，图中选字，图中选择,极验识别,云验证码识别平台,极验识别API接口,验证码,验证码识别,全自动验证码识别技术,代答题系统,云打码等服务平台, 7x24小时不间断识别,秒极速返回识别结果，超高正确率。
         - title: 超级鹰
-          logo: chaojiying.png
+          logo: chaojiying.jpg
           url: http://www.chaojiying.com/
           description: 超级鹰是比较老牌的打码平台，提供专业的验证码云端识别服务，让验证码识别更快速、更准确、更强大。可为所有软件提供验证码识别自动化解决方案，帮助客户进行验证码识别、远程答题、人工打码,为用户实现价值。
         - title: 得塔云
@@ -922,7 +934,7 @@
           url: https://nopecha.com/
           description: 支持 hCaptcha、reCAPTCHA、FunCaptcha、AWS WAF 等平台，直接返回 token 解决方案，价格稍便宜。
         - title: Anti Captcha
-          logo: anti-captcha.png
+          logo: anti-captcha.jpg
           url: https://anti-captcha.com/
           description: 支持 hCaptcha、reCAPTCHA、FunCaptcha、Cloudflare 等平台，直接返回 token 解决方案。
         - title: Solve Captcha
@@ -1106,7 +1118,7 @@
           url: https://www.hcaptcha.com/
           description: hCaptcha is an anti-bot solution that protects user privacy and rewards websites. It is the most popular reCAPTCHA alternative. Help build a better web.
         - title: CyberSiara
-          logo: cybersiara.png
+          logo: cybersiara.jpg
           url: https://www.cybersiara.com/
           description: The most advanced human verification tool for website security against bots, spam, credit card fraud, and other cybercrime. An effective alternative to reCaptcha, hCaptcha, and honeypots.
         - title: AWS Captcha
@@ -1160,7 +1172,7 @@
           url: https://www.yunlifang.cn/
           description: 云立方是动态vps,拔号vps,adsl拔号服务器,代理ip,动态ip,天翼云,阿里云,腾讯云,华为云, 高防服务器提供商,高性价比vps服务器,静态云,云,vps,vps就找云立方!
         - title: 因体技术
-          logo: iinti.png
+          logo: iinti.jpg
           url: https://iinti.cn/
           description: 马莲妮亚（Malenia）代理IP资源中台系统，配合 MITM 中间人攻击脚本无视加密进行数据采集，梅祖拉（majora）代理IP建设系统，更适合爬虫工程师的解决方案。
 
@@ -1276,11 +1288,11 @@
       links:
         # 大哥先顶上
         - title: 国家安全部
-          logo: gh_b056d127ad86.png
+          logo: gh_b056d127ad86.jpg
           qrcode: images/qrcode/gh_b056d127ad86.jpg
           description: 公众号：国家安全部
         - title: 公安部网安局
-          logo: gh_e406f4bcdf34.png
+          logo: gh_e406f4bcdf34.jpg
           qrcode: images/qrcode/gh_e406f4bcdf34.jpg
           description: 公众号：公安部网安局
         - title: 网信中国
@@ -1298,11 +1310,11 @@
           qrcode: images/qrcode/xianyuxuepython.jpg
           description: 公众号：咸鱼学Python
         - title: 菜鸟学Python编程
-          logo: IPyhon.png
+          logo: IPyhon.jpg
           qrcode: images/qrcode/IPyhon.jpg
           description: 公众号：菜鸟学Python编程
         - title: 编角料
-          logo: geekbyter.png
+          logo: geekbyter.jpg
           qrcode: images/qrcode/geekbyter.jpg
           description: 公众号：编角料
         - title: 爬虫术与道
@@ -1314,7 +1326,7 @@
           qrcode: images/qrcode/gh_988035dcd8a1.jpg
           description: 公众号：逆向简史
         - title: 未闻Code
-          logo: itskingname.png
+          logo: itskingname.jpg
           qrcode: images/qrcode/itskingname.jpg
           description: 公众号：未闻Code
         - title: 时光python之旅
@@ -1326,11 +1338,11 @@
           qrcode: images/qrcode/Vsyyjy.jpg
           description: 十一姐公众号：逆向OneByOne
         - title: 十一姐
-          logo: weixin_43411585.png
+          logo: weixin_43411585.jpg
           url: https://blog.csdn.net/weixin_43411585
           description: 十一姐 CSDN 主页
         - title: 爬虫矛与盾
-          logo: IT_BOB.png
+          logo: bob.jpg
           qrcode: images/qrcode/IT_BOB.jpg
           description: 公众号：爬虫矛与盾
         - title: K哥爬虫
@@ -1338,19 +1350,19 @@
           qrcode: images/qrcode/kgepachong.jpg
           description: 公众号：K哥爬虫
         - title: 逆向与爬虫的故事
-          logo: ReverseCrawler.png
+          logo: ReverseCrawler.jpg
           qrcode: images/qrcode/ReverseCrawler.jpg
           description: 公众号：逆向与爬虫的故事
         - title: 陈不不and挽风的逆向
-          logo: cbb_wf.png
+          logo: cbb_wf.jpg
           qrcode: images/qrcode/cbb_wf.jpg
           description: 公众号：陈不不and挽风的逆向
         - title: 挽风逆向
-          logo: weixin_44862184.png
+          logo: weixin_44862184.jpg
           url: https://blog.csdn.net/weixin_44862184
           description: 挽风逆向 CSDN 主页
         - title: 爬虫逆向技术分享
-          logo: gh_2ebb4542401d.png
+          logo: gh_2ebb4542401d.jpg
           qrcode: images/qrcode/gh_2ebb4542401d.jpg
           description: 公众号：爬虫逆向技术分享
         - title: python爬虫与js逆向
@@ -1358,7 +1370,7 @@
           qrcode: images/qrcode/pythonORjs.jpg
           description: 公众号：python爬虫与js逆向
         - title: python爬虫和阿J的逆向
-          logo: gh_d01a80bce240.png
+          logo: gh_d01a80bce240.jpg
           qrcode: images/qrcode/gh_d01a80bce240.jpg
           description: 公众号：python爬虫和阿J的逆向
         - title: 小白逆向之旅
@@ -1370,15 +1382,15 @@
           qrcode: images/qrcode/gh_b237fabfe467.jpg
           description: 李玺公众号：Pythonlx
         - title: 爬虫逆向知识站
-          logo: weixin_43582101.png
+          logo: weixin_43582101.jpg
           url: http://www.lxspider.com/
           description: 考古学家lx(李玺) 的个人网站
         - title: 考古学家lx(李玺)
-          logo: weixin_43582101.png
+          logo: weixin_43582101.jpg
           url: https://blog.csdn.net/weixin_43582101
           description: 考古学家lx(李玺) CSDN 主页
         - title: 爬虫与逆向路的驿站
-          logo: Yy_Rose_1.png
+          logo: Yy_Rose_1.jpg
           qrcode: images/qrcode/Yy_Rose_1.jpg
           description: 公众号：爬虫与逆向路的驿站
         - title: 逆向旅行
@@ -1386,85 +1398,85 @@
           qrcode: images/qrcode/fzcoder888888.jpg
           description: 公众号：逆向旅行
         - title: 菜鸡弟弟的逆向之路
-          logo: gh_f89880d79473.png
+          logo: gh_f89880d79473.jpg
           qrcode: images/qrcode/gh_f89880d79473.jpg
           description: 公众号：菜鸡弟弟的逆向之路
         - title: 逆向有你
-          logo: nixiangyouni.png
+          logo: nixiangyouni.jpg
           qrcode: images/qrcode/nixiangyouni.jpg
           description: 公众号：逆向有你
         - title: 爬虫逆向小林哥
-          logo: xiaolinge-lucky.png
+          logo: xiaolinge-lucky.jpg
           qrcode: images/qrcode/xiaolinge-lucky.jpg
           description: 公众号：爬虫逆向小林哥
         - title: y小白的笔记
-          logo: ylw2783693683.png
+          logo: ylw2783693683.jpg
           qrcode: images/qrcode/ylw2783693683.jpg
           description: 公众号：y小白的笔记
         - title: 理想主义的Pythonista
-          logo: gh_822bfba8a24c.png
+          logo: gh_822bfba8a24c.jpg
           qrcode: images/qrcode/gh_822bfba8a24c.jpg
           description: 公众号：理想主义的Pythonista
         - title: ck的学习笔记
-          logo: loveu2020_1.png
+          logo: loveu2020_1.jpg
           qrcode: images/qrcode/loveu2020_1.jpg
           description: 公众号：ck的学习笔记
         - title: LuckyFuture
-          logo: LuckyFuture520.png
+          logo: LuckyFuture520.jpg
           qrcode: images/qrcode/LuckyFuture520.jpg
           description: 公众号：LuckyFuture
         - title: 爬虫逆向之旅
-          logo: gh_6489a49d398e.png
+          logo: gh_6489a49d398e.jpg
           qrcode: images/qrcode/gh_6489a49d398e.jpg
           description: 公众号：爬虫逆向之旅
         - title: Spider乾坤
-          logo: gh_ecfb7c1ab2c3.png
+          logo: gh_ecfb7c1ab2c3.jpg
           qrcode: images/qrcode/gh_ecfb7c1ab2c3.jpg
           description: 公众号：Spider乾坤
         - title: Python头等奖
-          logo: gh_68214466aa2d.png
+          logo: gh_68214466aa2d.jpg
           qrcode: images/qrcode/gh_68214466aa2d.jpg
           description: 公众号：Python头等奖
         - title: 网虫Spider
-          logo: crawlSpider.png
+          logo: crawlSpider.jpg
           qrcode: images/qrcode/crawlSpider.jpg
           description: 公众号：网虫Spider
         - title: python小丑鱼
-          logo: gh_95c3d3d2063e.png
+          logo: gh_95c3d3d2063e.jpg
           qrcode: images/qrcode/gh_95c3d3d2063e.jpg
           description: 公众号：python小丑鱼
         - title: 漁滒
-          logo: 557195.png
+          logo: 557195.jpg
           url: https://www.52pojie.cn/home.php?mod=space&uid=557195&do=thread&view=me&from=space
           description: 漁滒吾爱破解主页
         - title: Codeooo
-          logo: weixin_38927522.png
+          logo: weixin_38927522.jpg
           url: https://blog.csdn.net/weixin_38927522
           description: Codeooo CSDN 主页
         - title: 活捉一只小菜鸟~
-          logo: big_god_.png
+          logo: big_god_.jpg
           url: https://blog.csdn.net/big_god_
           description: 活捉一只小菜鸟~ CSDN 主页
         - title: 阿J
-          logo: qq_26079939.png
+          logo: qq_26079939.jpg
           url: https://blog.csdn.net/qq_26079939
           description: 阿J CSDN 主页
         - title: HuaYunBin
-          logo: hyb.png
+          logo: hyb.jpg
           url: https://hyb.life/
           description: hyb 的个人网站
         - title: Coder小Q
-          logo: Litt1eQueen.png
+          logo: Litt1eQueen.jpg
           qrcode: images/qrcode/Litt1eQueen.jpg
           description: 公众号：Coder小Q
         - title: NightTeam
-          logo: locozhou.png
+          logo: locozhou.jpg
           qrcode: images/qrcode/locozhou.jpg
           description: 公众号：NightTeam
 
         # 安卓逆向居多
         - title: 大数据安全技术学习
-          logo: r1ysue.png
+          logo: r1ysue.jpg
           qrcode: images/qrcode/r1ysue.jpg
           description: 公众号：大数据安全技术学习
         - title: 奋飞安全
@@ -1472,19 +1484,19 @@
           qrcode: images/qrcode/fenfei330.jpg
           description: 公众号：奋飞安全
         - title: 榫卯江湖
-          logo: cnxct_coder.png
+          logo: cnxct_coder.jpg
           qrcode: images/qrcode/cnxct_coder.jpg
           description: 公众号：榫卯江湖
         - title: 白龙
-          logo: qq_38851536.png
+          logo: qq_38851536.jpg
           url: https://blog.csdn.net/qq_38851536
           description: 白龙的 CSDN 主页
         - title: 哆啦安全
-          logo: gh_060e91811143.png
+          logo: gh_060e91811143.jpg
           qrcode: images/qrcode/gh_060e91811143.jpg
           description: 公众号：哆啦安全
         - title: 移动安全星球
-          logo: Andy02141225.png
+          logo: Andy02141225.jpg
           qrcode: images/qrcode/Andy02141225.jpg
           description: 公众号：移动安全星球
         - title: 妄为写代码
@@ -1500,7 +1512,7 @@
           qrcode: images/qrcode/life-in-the-wind.jpg
           description: 公众号：一生向风
         - title: 沐阳科技资源
-          logo: muyangjy888.png
+          logo: muyangjy888.jpg
           qrcode: images/qrcode/muyangjy888.jpg
           description: 公众号：沐阳科技资源
         - title: 逆向lin狗
@@ -1508,11 +1520,11 @@
           qrcode: images/qrcode/gh_fc6c78a6258d.jpg
           description: 公众号：逆向lin狗
         - title: 爬虫spider
-          logo: gh_543c6301f39a.png
+          logo: gh_543c6301f39a.jpg
           qrcode: images/qrcode/gh_543c6301f39a.jpg
           description: 公众号：爬虫spider
         - title: 逆向小友
-          logo: qinless-2021.png
+          logo: qinless-2021.jpg
           qrcode: images/qrcode/qinless-2021.jpg
           description: 公众号：逆向小友
         - title: zhaoxincheng
@@ -1522,17 +1534,17 @@
 
         # IOS 逆向居多
         - title: 移动端Android和iOS开发技术分享
-          logo: mobile_tech_share.png
+          logo: mobile_tech_share.jpg
           qrcode: images/qrcode/mobile_tech_share.jpg
           description: 公众号：移动端Android和iOS开发技术分享
 
         # 其他博主
         - title: 看雪学苑
-          logo: ikanxue.png
+          logo: ikanxue.jpg
           qrcode: images/qrcode/ikanxue.jpg
           description: 公众号：看雪学苑
         - title: 吾爱破解论坛
-          logo: pojie_52.png
+          logo: pojie_52.jpg
           qrcode: images/qrcode/pojie_52.jpg
           description: 公众号：吾爱破解论坛
         - title: 瑞数信息
@@ -1540,7 +1552,7 @@
           qrcode: images/qrcode/RiverSecurity.jpg
           description: 公众号：瑞数信息
         - title: 极验
-          logo: geetest_jy.png
+          logo: geetest_jy.jpg
           qrcode: images/qrcode/geetest_jy.jpg
           description: 公众号：极验
         - title: 安全圈
@@ -1548,27 +1560,27 @@
           qrcode: images/qrcode/ChinaAnQuan.jpg
           description: 公众号：安全圈
         - title: 黑白之道
-          logo: i77169.png
+          logo: i77169.jpg
           qrcode: images/qrcode/i77169.jpg
           description: 公众号：黑白之道
         - title: 金科应用研院
-          logo: fintechapplab_sz.png
+          logo: fintechapplab_sz.jpg
           qrcode: images/qrcode/fintechapplab_sz.jpg
           description: 公众号：金科应用研院
         - title: 同盾智能风控联盟
-          logo: antifraud.png
+          logo: antifraud.jpg
           qrcode: images/qrcode/antifraud.jpg
           description: 公众号：同盾智能风控联盟
         - title: 飞特风控学苑
-          logo: EFinRisker.png
+          logo: EFinRisker.jpg
           qrcode: images/qrcode/EFinRisker.jpg
           description: 公众号：飞特风控学苑
         - title: 天天学风控
-          logo: xuefengkong.png
+          logo: xuefengkong.jpg
           qrcode: images/qrcode/xuefengkong.jpg
           description: 公众号：天天学风控
         - title: 小伍哥聊风控
-          logo: XiaoWuGeRisk.png
+          logo: XiaoWuGeRisk.jpg
           qrcode: images/qrcode/XiaoWuGeRisk.jpg
           description: 公众号：小伍哥聊风控
     - term: 交流论坛
@@ -1610,7 +1622,7 @@
           url: https://bbs.125.la/
           description: 富有学习气氛的编程技术论坛。易语言答疑互助模式，让新手的疑问得到解决，让高手接到软件定制业务。
         - title: 乐易论坛
-          logo: leybc.png
+          logo: leybc.jpg
           url: https://www.leybc.com/
           description: 乐易论坛，易语言火山 PC 视窗中文编程交流论坛，APP逆向，APK动态分析。
         - title: CSDN 爬虫逆向社区
@@ -1650,7 +1662,7 @@
           url: https://wangluozhe.com/
           description: 网洛者 - 反反爬虫练习，平台完全免费公开的，有意者可以直接进入平台进行练习和玩耍，欢迎各位大佬的入驻和使用！
         - title: TLS 指纹对抗练习平台
-          logo: geekbyter.png
+          logo: geekbyter.jpg
           url: https://tlsja3.cn/
           description: TLS 指纹对抗练习平台
         - title: Scrape Center
@@ -1680,23 +1692,23 @@
           url: https://shop45147253.m.youzan.com/wscgoods/detail/361rmliyhfwr184
           description: 联系站长可获取内部优惠价，一次付费，终身免费更新，附带工作内推、线下见面会、模拟面试等，内容 Python 基础、爬虫基础、JS 基础、JS 逆向、APP 逆向、机器学习验证码等。
         - title: r0ysue 肉丝
-          logo: r1ysue.png
+          logo: r1ysue.jpg
           url: https://appli0n8byd8759.h5.xiaoeknow.com/p/decorate/homepage
           description: r0ysue 肉丝的爬虫架构、JS 逆向、Android 逆向、IOS 设备指纹、eBPF 安全开发、Fart 脱壳王等课程。
         - title: 看雪论坛课程
-          logo: ikanxue.png
+          logo: ikanxue.jpg
           url: https://www.kanxue.com/book-list-1-31.htm
           description: 看雪 Android 逆向课程，IDA 特训营、Unidbg 模拟、LLVM 与代码混淆、eBPF 安全开发、安卓高级月薪两万、三万计划等。
         - title: 安卓 & WEB 网络协议课
-          logo: geekbyte.png
+          logo: geekbyte.jpg
           url: images/course/neo&geekbyte.jpg
           description: 课程核心着重于介绍底层协议 HTTP、HTTP2、TLS1.2、TLS1.3 的原理与源码（包括 JA3 的开发与对抗，QUIC，OpenSSL，MbedTLS，wolfSSL 等），并将理论与实际代码相结合，深入讲解相关内容。
         - title: JSVMP 反编译课程
-          logo: Chankipen.png
+          logo: Chankipen.jpg
           url: images/course/jsvmp.jpg
           description: 陈不不的 JSVMP 反编译课程。
         - title: 沐阳
-          logo: muyangjy888.png
+          logo: muyangjy888.jpg
           url: https://mp.weixin.qq.com/s/onNc1WYAeUXDQMitWmyi6w
           description: 沐阳从0开始学习iOS逆向、从0开始学习安卓逆向、从0开始学习JS逆向。
         - title: Alien & 珍惜联合课
@@ -1797,7 +1809,7 @@
           description: Firefly 是 Adobe 推出的创意生成式 AI，允许内容创作者使用自己的文字来生成图像、音频、插图、视频和3D图像。
         - title: Toonme
           url: https://toonme.com/
-          logo: toonme.png
+          logo: toonme.jpg
           description: AI 根据真人照片生成卡通动漫头像
         - title: Faceswap
           url: https://faceswap.dev/

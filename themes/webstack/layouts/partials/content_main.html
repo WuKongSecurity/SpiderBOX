@@ -22,7 +22,7 @@
 			去除 Tooltip -->
                 {{ if .qrcode }}
                 <a href="javascript:" target="" class="card no-c mb-4" data-toggle="tooltip" data-placement="bottom"
-                    data-html="true" title="<img src='{{ .qrcode }}' width='128'>">
+                    data-html="true" title="<img src='{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ .qrcode }}' width='128'>">
                     {{ else }}
                     <a href="{{ .url }}" target="_blank" data-id="" data-url="{{ .url }}" class="card no-c mb-4"
                         data-toggle="tooltip" data-placement="bottom" data-original-title="{{ .description }}">
@@ -33,7 +33,7 @@
                                     {{ if findRE "http.*?(.|\n)*?" .logo }}
                                     {{ if $.Site.Params.defaultLogo }}
                                     <img class="lazy" src="{{ .logo }}" data-src="{{ .logo }}"
-                                        onerror="javascript:this.src='{{ $.Site.Params.defaultLogo }}'"
+                                        onerror="javascript:this.src='{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.defaultLogo }}'"
                                         alt="{{ .title }}">
                                     {{ else }}
                                     <img class="lazy" src="{{ .logo }}" data-src="{{ .logo }}"
@@ -41,14 +41,14 @@
                                     {{ end }}
                                     {{ else }}
                                     {{ if $.Site.Params.defaultLogo }}
-                                    <img class="lazy" src="{{ $.Site.Params.logosPath }}/{{ .logo }}"
-                                        data-src="{{ $.Site.Params.logosPath }}/{{ .logo }}"
-                                        onerror="javascript:this.src='{{ $.Site.Params.defaultLogo }}'"
+                                    <img class="lazy" src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.logosPath }}/{{ .logo }}"
+                                        data-src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.logosPath }}/{{ .logo }}"
+                                        onerror="javascript:this.src='{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.defaultLogo }}'"
                                         alt="{{ .title }}">
                                     {{ else }}
-                                    <img class="lazy" src="{{ $.Site.Params.logosPath }}/{{ .logo }}"
-                                        data-src="{{ $.Site.Params.logosPath }}/{{ .logo }}"
-                                        onerror="javascript:this.src='{{ $.Site.Params.logosPath }}/{{ .logo }}'"
+                                    <img class="lazy" src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.logosPath }}/{{ .logo }}"
+                                        data-src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.logosPath }}/{{ .logo }}"
+                                        onerror="javascript:this.src='{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.logosPath }}/{{ .logo }}'"
                                         alt="{{ .title }}">
                                     {{ end }}
                                     {{ end }}
@@ -95,7 +95,7 @@
 			-->
                 {{ if .qrcode }}
                 <a href="javascript:" target="" class="card no-c mb-4" data-toggle="tooltip" data-placement="bottom"
-                    data-html="true" title="<img src='{{ .qrcode }}' width='128'>">
+                    data-html="true" title="<img src='{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ .qrcode }}' width='128'>">
                     {{ else }}
                     <a href="{{ .url }}" target="_blank" data-id="" data-url="{{ .url }}" class="card no-c mb-4"
                         data-toggle="tooltip" data-placement="bottom" data-original-title="{{ .description }}">
@@ -106,7 +106,7 @@
                                     {{ if findRE "http.*?(.|\n)*?" .logo }}
                                     {{ if $.Site.Params.defaultLogo }}
                                     <img class="lazy" src="{{ .logo }}" data-src="{{ .logo }}"
-                                        onerror="javascript:this.src='{{ $.Site.Params.defaultLogo }}'"
+                                        onerror="javascript:this.src='{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.defaultLogo }}'"
                                         alt="{{ .title }}">
                                     {{ else }}
                                     <img class="lazy" src="{{ .logo }}" data-src="{{ .logo }}"
@@ -114,14 +114,14 @@
                                     {{ end }}
                                     {{ else }}
                                     {{ if $.Site.Params.defaultLogo }}
-                                    <img class="lazy" src="{{ $.Site.Params.logosPath }}/{{ .logo }}"
-                                        data-src="{{ $.Site.Params.logosPath }}/{{ .logo }}"
-                                        onerror="javascript:this.src='{{ $.Site.Params.defaultLogo }}'"
+                                    <img class="lazy" src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.logosPath }}/{{ .logo }}"
+                                        data-src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.logosPath }}/{{ .logo }}"
+                                        onerror="javascript:this.src='{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.defaultLogo }}'"
                                         alt="{{ .title }}">
                                     {{ else }}
-                                    <img class="lazy" src="{{ $.Site.Params.logosPath }}/{{ .logo }}"
-                                        data-src="{{ $.Site.Params.logosPath }}/{{ .logo }}"
-                                        onerror="javascript:this.src='{{ $.Site.Params.logosPath }}/{{ .logo }}'"
+                                    <img class="lazy" src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.logosPath }}/{{ .logo }}"
+                                        data-src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.logosPath }}/{{ .logo }}"
+                                        onerror="javascript:this.src='{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.logosPath }}/{{ .logo }}'"
                                         alt="{{ .title }}">
                                     {{ end }}
                                     {{ end }}

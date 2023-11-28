@@ -2106,6 +2106,7 @@ footer.main-footer {
 }
 
 #search form {
+    cursor: text;
     position: relative
 }
 
@@ -2124,7 +2125,7 @@ footer.main-footer {
     position: absolute;
     top: 0;
     right: 0;
-    background: #b7cbdf;
+    background: #0084ff;
     border: 0;
     width: 60px;
     height: 36px;
@@ -2134,7 +2135,7 @@ footer.main-footer {
 }
 
 #search button:hover {
-    background: #000;
+    background: #006bde;
     cursor: pointer
 }
 
@@ -5704,14 +5705,15 @@ input.nav-link[readonly] {
 --------------------------------------------------------------*/
 @media only screen and (min-device-width:768px) {
     ::-webkit-scrollbar-thumb {
-        background-color: rgba(130, 130, 130, .1);
+        /* background-color: rgba(130, 130, 130, .1); */
+        background-color: #0084ff;
         -webkit-border-radius: 4px;
         border-radius: 4px
     }
 
     ::-webkit-scrollbar-thumb:hover {
         /* background-color: #f1404b; */
-        background-color: #0084ff;
+        background-color: #006bde;
         -webkit-border-radius: 4px;
         border-radius: 4px
     }

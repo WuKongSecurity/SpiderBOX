@@ -6,9 +6,9 @@
 #   icon: fas fa-blog
 #   link: https://www.itbob.cn/
 
-- item: 申请收录
+- item: 收录 / 纠错
   icon: fas fa-location-arrow
-  link: https://github.com/TRHX/spiderbox
+  link: https://github.com/TRHX/SpiderBox/issues
 
 - item: 联系站长
   icon: far fa-envelope
@@ -20,9 +20,10 @@
   popupID: show-disclaimer
 
 - item: 打赏赞助
-  popup: true
+  # popup: true
   icon: fas fa-dollar-sign
-  popupID: show-sponsor
+  # popupID: show-sponsor
+  link: https://spiderapi.cn/pages/sponsor/
 
 - item: 交流群
   popup: true

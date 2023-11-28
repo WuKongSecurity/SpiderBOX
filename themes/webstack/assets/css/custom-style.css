@@ -3,13 +3,17 @@
     src: url("//cdn.itbob.cn/font/OxaniumRegular.ttf");
 }
 
-/* 自定义鼠标 */
+/* 自定义鼠标指针样式 */
 * {
-    cursor: url("/images/mouse/pointer.cur"), auto;
+    cursor: url("//cdn.itbob.cn/spiderbox/images/mouse/pointer.cur"), auto;
 }
 
 div {
-    cursor: url("/images/mouse/default.cur"), auto;
+    cursor: url("//cdn.itbob.cn/spiderbox/images/mouse/default.cur"), auto;
+}
+
+input {
+    cursor: text;
 }
 
 /* 调整全局字体大小 */
