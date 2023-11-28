@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://spiderbox.cn/" target="_blank" rel="noopener noreferrer">
-    <img width="600px" src="/themes/webstack/static/images/logo.png" alt="logo">
+    <img width="500px" src="/themes/webstack/static/images/logo.png" alt="logo">
   </a>
 </p>
 
