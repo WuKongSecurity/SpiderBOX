@@ -928,7 +928,7 @@ a>i.sidebar-more {
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
-    letter-spacing: 2px;
+    /* letter-spacing: 2px; */
     display: block !important
 }
 

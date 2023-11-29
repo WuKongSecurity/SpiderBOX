@@ -10,6 +10,10 @@
       logo: bob.jpg
       url: https://www.itbob.cn/
       description: 站长 BOB 的博客
+    - title: 站长 CSDN
+      logo: csdn.png
+      url: https://itrhx.blog.csdn.net/?type=blog
+      description: 站长 BOB 的博客
     - title: Spider BOX
       logo: spiderbox.png
       url: https://spiderbox.cn/

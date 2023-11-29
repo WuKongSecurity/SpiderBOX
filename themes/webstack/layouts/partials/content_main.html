@@ -1,4 +1,32 @@
 <div id="content" class="content-site customize-site">
+    <!-- 广告赞助 -->
+    {{ range .Site.Data.advertisement }}
+    {{ if .links }}
+        <div class="d-flex flex-fill">
+            <h4 class="text-gray text-lg mb-4">
+                <i class="site-tag iconfont icon-tag icon-lg mr-1" id="{{ md5 .taxonomy }}"></i>
+                {{ .taxonomy }}
+            </h4>
+        </div>
+        <div class="row">
+            {{ range .links }}
+                <div class="col-md-6">
+                    <div class="card">
+                        {{ if .url }}
+                        <a href="{{ .url }}" target="_blank" data-url="{{ .url }}">
+                            <img src="{{ .image }}" class="card-img-top" alt="{{ .description }}">
+                        </a>
+                        {{ else }}
+                            <img src="{{ .image }}" class="card-img-top" alt="{{ .description }}">
+                        {{ end }}
+                    </div>
+                </div>
+            {{ end }}
+        </div>
+        <br />
+    {{ end }}
+    {{ end }}
+
     {{ range .Site.Data.webstack }}
     {{ if .list }}
     {{ range .list }}
@@ -74,7 +102,7 @@
     <!--END {{ .term }} -->
     {{ end }}
     {{ else }}
-    <!-- 时间样式 -->
+    <!-- 时间样式 -->    
     <!--主站推荐-->
     <!-- {{ .taxonomy }} -->
     <div class="d-flex flex-fill">

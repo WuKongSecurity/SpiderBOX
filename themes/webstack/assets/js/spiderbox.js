@@ -33,7 +33,7 @@ $(document).ready(function () {
             `,
             showCancelButton: true,
             confirmButtonText: "俺知道了",
-            cancelButtonText: "烦死了，给老子永远不再弹出！",
+            cancelButtonText: "烦死了，永远不再弹出！",
             confirmButtonColor: "#0084ff",
             imageUrl: "https://cdn.itbob.cn/spiderbox/images/qrcode/IT_BOB.jpg",
             // imageWidth: 300,
