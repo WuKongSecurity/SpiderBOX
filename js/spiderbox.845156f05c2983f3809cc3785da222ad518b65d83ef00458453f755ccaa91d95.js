@@ -168,14 +168,14 @@ $(document).ready(function () {
         const popupContainer = document.querySelector(".swal2-container");
         popupContainer.style.zIndex = "9999";
 
-        var showEmailElement = document.getElementById("show-email");
+        let showEmailElement = document.getElementById("show-email");
         showEmailElement.addEventListener("click", function () {
             showEmailElement.innerHTML = atob("YWRtaW5AaXRib2IuY24=");
         });
     });
 });
 
-/* 弹窗三：打赏赞助 */
+/* 弹窗四：打赏赞助 */
 // $(document).ready(function () {
 //     const showSponsorElement = document.getElementById("show-sponsor");
 //     showSponsorElement.addEventListener("click", function () {
@@ -221,7 +221,7 @@ $(document).ready(function () {
             console.log('夜间模式关闭');
         }
     } else {
-        var night = document.cookie.replace(/(?:(?:^|.*;\s*)night\s*\=\s*([^;]*).*$)|^.*$/, "$1") || '0';
+        let night = document.cookie.replace(/(?:(?:^|.*;\s*)night\s*\=\s*([^;]*).*$)|^.*$/, "$1") || '0';
         if (night == '0') {
             document.body.classList.remove('night');
         } else if (night == '1') {
@@ -233,7 +233,7 @@ $(document).ready(function () {
 /* 夜间(日间)模式切换 */
 // $("#search-bg").css("background-image", "url({{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.images.searchImageL }})");   //默认浅色背景
 function switchNightMode() {
-    var night = document.cookie.replace(/(?:(?:^|.*;\s*)night\s*\=\s*([^;]*).*$)|^.*$/, "$1") || '0';
+    let night = document.cookie.replace(/(?:(?:^|.*;\s*)night\s*\=\s*([^;]*).*$)|^.*$/, "$1") || '0';
     if (night == '0') {
         // $("#search-bg").css("background-image", "url({{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.images.searchImageL }})");
         document.body.classList.remove('io-grey-mode');
@@ -254,3 +254,26 @@ function switchNightMode() {
         $(".mode-ico").addClass("icon-night");
     }
 }
+
+/* 图片懒加载 */
+$(document).ready(function () {
+    let observer = new IntersectionObserver((entries, observe) => {
+        entries.forEach(item => {
+            // 获取当前正在观察的元素
+            let target = item.target
+            if(item.isIntersecting && target.dataset.src) {
+                target.src = target.dataset.src
+                // 删除data-src属性
+                target.removeAttribute("data-src")
+                // 取消观察
+                observe.unobserve(item.target)
+            }
+        })
+    })
+    let allLazyImgs = document.querySelectorAll(".lazy")
+    allLazyImgs.forEach(item => {
+        // 遍历观察元素
+        observer.observe(item)
+    })
+})
+
