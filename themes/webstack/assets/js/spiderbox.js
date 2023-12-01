@@ -35,7 +35,7 @@ $(document).ready(function () {
             confirmButtonText: "俺知道了",
             cancelButtonText: "烦死了，永远不再弹出！",
             confirmButtonColor: "#0084ff",
-            imageUrl: "https://cdn.itbob.cn/spiderbox/images/qrcode/IT_BOB.jpg",
+            imageUrl: "https://static.spiderapi.cn/spiderbox/images/qrcode/IT_BOB.jpg",
             // imageWidth: 300,
             // imageHeight: 300,
             imageAlt: "公众号：爬虫矛与盾",
@@ -64,7 +64,7 @@ $(document).ready(function () {
             confirmButtonText: "俺知道了",
             confirmButtonColor: "#0084ff",
             imageWidth: 420,
-            imageUrl: "https://cdn.itbob.cn/spiderbox/images/group.webp",
+            imageUrl: "https://static.spiderapi.cn/spiderbox/images/group.webp",
             imageAlt: "QQ / 微信交流群",
             showClass: {
                 popup: "swal2-show"
@@ -184,7 +184,7 @@ $(document).ready(function () {
 //             confirmButtonText: "俺知道了",
 //             confirmButtonColor: "#0084ff",
 //             imageWidth: 420,
-//             imageUrl: "https://cdn.itbob.cn/spiderbox/images/sponsor.webp",
+//             imageUrl: "https://static.spiderapi.cn/spiderbox/images/sponsor.webp",
 //             imageAlt: "微信 / 支付宝收款码",
 //             showClass: {
 //                 popup: "swal2-show"

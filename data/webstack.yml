@@ -721,6 +721,14 @@
           logo: github.png
           url: https://github.com/kkoooqq/fakebrowser
           description: 伪造指纹绕过反机器人系统。模拟鼠标和键盘操作，使行为像真人一样。
+        - title: UI Automator 2
+          logo: github.png
+          url: https://github.com/openatx/uiautomator2
+          description: Python 版本的 UI Automator，是一种 Android 自动化测试框架，提供了点击、长按、输入文本、滑动、拖拽、截屏等方法，能够模拟用户的各种动作。用户可以通过控件的 id 或 text 等属性，定位到控件，从而对控件实施上述操作。
+        - title: AutoJS6
+          logo: autojs6.png
+          url: https://github.com/SuperMonster003/AutoJs6
+          description: Auto.js 是一款 Android 平台支持无障碍服务的 JavaScript 自动化工具软件，现已停止维护，AutoJS6 在 Auto.js 最终项目的基础上进行二次开发。
 
 - taxonomy: APP 相关
   icon: fab fa-android
