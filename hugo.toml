@@ -1,5 +1,6 @@
 # 主色调蓝色： #0084ff
 # hover：     #006bde
+# onerror="javascript:this.src='{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.defaultLogo }}'"
 
 baseURL               = "https://spiderbox.cn/"
 languageCode          = "zh-CN"

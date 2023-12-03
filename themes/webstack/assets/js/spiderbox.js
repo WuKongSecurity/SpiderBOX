@@ -261,7 +261,7 @@ $(document).ready(function () {
         entries.forEach(item => {
             // 获取当前正在观察的元素
             let target = item.target
-            if(item.isIntersecting && target.dataset.src) {
+            if (item.isIntersecting && target.dataset.src) {
                 target.src = target.dataset.src
                 // 删除data-src属性
                 target.removeAttribute("data-src")
@@ -270,10 +270,42 @@ $(document).ready(function () {
             }
         })
     })
+    //   let allLazyImgs = document.querySelectorAll(".lazy")
+    //   allLazyImgs.forEach(item => {
+    //       // 遍历观察元素
+    //       observer.observe(item)
+    //   })
     let allLazyImgs = document.querySelectorAll(".lazy")
+    let isScrolling = false;
+
+    window.addEventListener('scroll', function () {
+        if (!isScrolling) {
+            window.requestAnimationFrame(function () {
+                allLazyImgs.forEach(item => {
+                    if (isElementInViewport(item) && item.dataset.src) {
+                        observer.observe(item);
+                    }
+                });
+                isScrolling = false;
+            });
+        }
+        isScrolling = true;
+    });
+
+    function isElementInViewport(el) {
+        let rect = el.getBoundingClientRect();
+        return (
+            rect.bottom >= 0 &&
+            rect.right >= 0 &&
+            rect.top <= (window.innerHeight || document.documentElement.clientHeight) &&
+            rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+        );
+    }
+
     allLazyImgs.forEach(item => {
-        // 遍历观察元素
-        observer.observe(item)
-    })
-})
+        if (isElementInViewport(item) && item.dataset.src) {
+            observer.observe(item);
+        }
+    });
+});
 

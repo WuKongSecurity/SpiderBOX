@@ -465,7 +465,7 @@ a>i.sidebar-more {
 }
 
 .sidebar-nav .top-menu .menu-item-has-children>a::after {
-    content: '\e616';
+    content: '\e612';
     font-family: "iconfont";
     position: absolute;
     right: 24px;
@@ -580,7 +580,7 @@ a>i.sidebar-more {
 
 .navbar-collapse ul li ul {
     position: absolute;
-    min-width: 90px;
+    min-width: 170px;
     opacity: 0;
     overflow: hidden;
     visibility: hidden;
@@ -601,12 +601,12 @@ a>i.sidebar-more {
 }
 
 .navbar-collapse ul li.menu-item-has-children:after {
-    content: '\e616';
+    content: '\e612';
     font-family: "iconfont";
     position: absolute;
     top: 14px;
     right: -2px;
-    font-size: 12px;
+    font-size: 13px;
     -webkit-transform: scale(.6);
     transform: rotate(0deg) scale(.6);
     transition: transform .2s

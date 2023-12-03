@@ -30,10 +30,19 @@
   icon: fas fa-user-friends
   popupID: show-group
 
-# - item: 二级菜单
-#   icon: fas fa-cog
-#   link: ""
-#   list:
-#     - name: 关于
-#       icon: fas fa-user-secret
-#       link: https://www.itbob.cn/about/
+- item: 虫系列
+  icon: fas fa-spider
+  link: ""
+  list:
+    - name: 虫盒 - Spider Box
+      icon: fas fa-caret-right
+      link: https://spiderbox.cn/
+    - name: 虫术 - Spider Api
+      icon: fas fa-caret-right
+      link: https://spiderapi.cn/
+    - name: 虫规 - Spider Law
+      icon: fas fa-caret-right
+      link: https://github.com/TRHX/SpiderLaw
+    - name: 虫技 - 微信公众号
+      icon: fas fa-caret-right
+      # link: '#'

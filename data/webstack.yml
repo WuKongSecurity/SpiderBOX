@@ -5,7 +5,7 @@
     - title: 站长微信公众号
       logo: bob.jpg
       qrcode: images/qrcode/IT_BOB.jpg
-      description: 站长公众号：爬虫矛与盾
+      description: 站长公众号：虫技
     - title: 站长博客
       logo: bob.jpg
       url: https://www.itbob.cn/
@@ -14,18 +14,27 @@
       logo: csdn.png
       url: https://itrhx.blog.csdn.net/?type=blog
       description: 站长 BOB 的 CSDN 博客
-    - title: Spider BOX
-      logo: spiderbox.png
-      url: https://spiderbox.cn/
-      description: 爬虫逆向资源导航站
     - title: Spider API
       logo: spiderapi.png
       url: https://spiderapi.cn/
       description: 爬虫逆向常用 API
-    - title: Spider LAW
-      logo: coming_soon.png
-      url: https://github.com/TRHX/SpiderLaw
-      description: 推动数据采集合规性建设
+    - title: 十一姐知识星球
+      logo: weixin_43411585.jpg
+      qrcode: images/qrcode/shiyi_zsxq.jpg
+      url: https://t.zsxq.com/14tPsY8si
+      description: 各种JS逆向/验证码逆向识别训练
+    - title: 爬虫工具库
+      logo: spidertools.png
+      url: https://spidertools.cn/
+      description: feapder 作者出品的爬虫工具库
+    # - title: Spider BOX
+    #   logo: spiderbox.png
+    #   url: https://spiderbox.cn/
+    #   description: 爬虫逆向资源导航站
+    # - title: Spider LAW
+    #   logo: coming_soon.png
+    #   url: https://github.com/TRHX/SpiderLaw
+    #   description: 推动数据采集合规性建设
 
 - taxonomy: 文档资料
   icon: fas fa-book
@@ -1890,4 +1899,3 @@
           url: https://www.writingo.net/
           logo: writingo.png
           description: 火山写作是由字节跳动推出的，集成创作、润色、纠错、改写、翻译等能力的中英文 AI 写作助手。
-

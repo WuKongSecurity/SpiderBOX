@@ -42,10 +42,17 @@
                                 <ul class="sub-menu">
                                     {{ range .list }}
                                     <li {{ if .list }}class="menu-item-has-children" {{ end }}>
+                                        {{ if .link }}
                                         <a href="{{ .link }}" target="_blank">
                                             <i class="{{ .icon }} fa-lg mr-2"></i>
                                             <span>{{ .name }}</span>
                                         </a>
+                                        {{else}}
+                                        <a href="#">
+                                            <i class="{{ .icon }} fa-lg mr-2"></i>
+                                            <span>{{ .name }}</span>
+                                        </a>
+                                        {{ end }}
                                     </li>
                                     {{ end }}
                                 </ul>
