@@ -1552,6 +1552,10 @@
           logo: zhaoxincheng.png
           url: https://zhaoxincheng.com/
           description: 小白技术社，小白技术社，Frida，Xposed，app逆向，app爬虫
+        - title: 二进制科学
+          logo: BinaryScience.jpg
+          qrcode: images/qrcode/BinaryScience.jpg
+          description: 专注于 Android、IOS 逆向及安全防护等实战经验分享
 
         # IOS 逆向居多
         - title: 移动端Android和iOS开发技术分享
