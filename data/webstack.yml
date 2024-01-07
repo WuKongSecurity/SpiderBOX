@@ -10,14 +10,18 @@
       logo: bob.jpg
       url: https://www.itbob.cn/
       description: 站长 BOB 的博客
-    - title: 站长 CSDN
-      logo: csdn.png
-      url: https://itrhx.blog.csdn.net/?type=blog
-      description: 站长 BOB 的 CSDN 博客
+    # - title: 站长 CSDN
+    #   logo: csdn.png
+    #   url: https://itrhx.blog.csdn.net/?type=blog
+    #   description: 站长 BOB 的 CSDN 博客
     - title: Spider API
       logo: spiderapi.png
       url: https://spiderapi.cn/
-      description: 爬虫逆向常用 API
+      description: 虫术 - 爬虫逆向常用 API
+    - title: Spider GRC
+      logo: spidergrc.png
+      url: https://spidergrc.cn/
+      description: 虫规 - 数据采集合规性建设
     - title: 十一姐知识星球
       logo: weixin_43411585.jpg
       qrcode: images/qrcode/shiyi_zsxq.jpg
@@ -701,7 +705,7 @@
         - title: Undetected Chromedriver
           logo: github.png
           url: https://github.com/ultrafunkamsterdam/undetected-chromedriver
-          description: 定制 Selenium Chromedriver | 零配置| 通过所有机器人系统的检测（例如 Distil / Imperva/ Datadadome / CloudFlare IUAM）。
+          description: 优化的 Selenium Chromedriver 补丁，不会触发 Distill Network / Imperva / DataDome / Botprotect.io 等反机器人服务，自动下载驱动程序二进制文件并对其进行修补。
         - title: stealth.min.js
           logo: github.png
           url: https://github.com/berstend/puppeteer-extra/tree/master/packages/extract-stealth-evasions
@@ -722,10 +726,6 @@
           logo: geckodriver.png
           url: https://github.com/mozilla/geckodriver
           description: 火狐浏览器的 webdriver。
-        - title: undetected_chromedriver
-          logo: github.png
-          url: https://github.com/ultrafunkamsterdam/undetected-chromedriver
-          description: 优化的 Selenium Chromedriver 补丁，不会触发 Distill Network / Imperva / DataDome / Botprotect.io 等反机器人服务，自动下载驱动程序二进制文件并对其进行修补。
         - title: fakebrowser
           logo: github.png
           url: https://github.com/kkoooqq/fakebrowser
@@ -1160,6 +1160,10 @@
   list:
     - term: 国内代理
       links:
+        - title: 协采云
+          logo: xiecaiyun.png
+          url: http://clue.xiecaiyun.com/reg/?channel=Y-wt-bob
+          description: 协采云九年深耕，百万级代理节点，自由调度！资源分池，客户间物理隔离，互不干扰！深度定制，代理池私有化部署，安全灵活！
         - title: 快代理
           logo: kuaidaili.png
           url: https://www.kuaidaili.com/
@@ -1201,7 +1205,7 @@
       links:
         - title: BrightData
           logo: brightdata.png
-          url: https://brightdata.com/
+          url: https://get.brightdata.com/17arn8
           description: Award winning proxy networks, powerful web scrapers, and ready-to-use datasets for download. Welcome to the world's number one web data platform.
         - title: Smartproxy
           logo: smartproxy.png

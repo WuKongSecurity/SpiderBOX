@@ -34,15 +34,15 @@
   icon: fas fa-spider
   link: ""
   list:
-    - name: 虫盒 - Spider Box
+    - name: 虫盒 - Spider BOX
       icon: fas fa-caret-right
       link: https://spiderbox.cn/
-    - name: 虫术 - Spider Api
+    - name: 虫术 - Spider API
       icon: fas fa-caret-right
       link: https://spiderapi.cn/
-    - name: 虫规 - Spider Law
+    - name: 虫规 - Spider GRC
       icon: fas fa-caret-right
-      link: https://github.com/TRHX/SpiderLaw
+      link: https://spidergrc.cn/
     - name: 虫技 - 微信公众号
       icon: fas fa-caret-right
       # link: '#'
