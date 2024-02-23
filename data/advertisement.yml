@@ -5,7 +5,11 @@
       url: https://get.brightdata.com/17arn8
       image: https://static.spiderapi.cn/spiderbox/images/ads/brightdata.png
       description: Bright Data 亮数据，使用全球最大的 IP 网络，利用内置的抓取和解锁功能获得访问权，并简化数据提取。
-    - item: 广告位出租
-      # url: mailto:admin@itbob.cn
-      image: https://static.spiderapi.cn/spiderbox/images/ads/ad_default.png
-      description: 广告位出租
+    - item: 芝麻 HTTP
+      url: http://www.zmhttp.com/?utm-source=box&utm-keyword=?07
+      image: https://static.spiderapi.cn/spiderbox/images/ads/zmhttp.jpg
+      description: 企业级HTTP动(静)态代理IP服务提供商
+    # - item: 广告位出租
+    #   # url: mailto:admin@itbob.cn
+    #   image: https://static.spiderapi.cn/spiderbox/images/ads/ad_default.png
+    #   description: 广告位出租
