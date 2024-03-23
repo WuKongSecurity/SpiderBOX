@@ -25,20 +25,21 @@ $(document).ready(function () {
         Swal.fire({
             // width: 300,
             title: "欢迎",
-            // text: "SpiderBox 仍处于初期建设当中，<br>欢迎扫码关注站长公众号：爬虫矛与盾",
+            // text: "SpiderBox 仍处于初期建设当中，<br>欢迎扫码关注站长公众号：虫技",
             html: `
-            <font style="font-weight:bold; color:red;">SpiderBox 仍处于初期建设当中</font>
-            <br>
-            欢迎扫码关注站长公众号：爬虫矛与盾
+            <!-- <font style="font-weight:bold; color:red;">SpiderBox 仍处于初期建设当中</font>-->
+            <!-- <br>-->
+            欢迎扫码关注站长公众号：虫技
             `,
             showCancelButton: true,
             confirmButtonText: "俺知道了",
             cancelButtonText: "烦死了，永远不再弹出！",
             confirmButtonColor: "#0084ff",
             imageUrl: "https://static.spiderapi.cn/spiderbox/images/qrcode/IT_BOB.jpg",
+            // imageUrl: "https://spiderapi.cn/img/qrcode/gzh.png",
             // imageWidth: 300,
             // imageHeight: 300,
-            imageAlt: "公众号：爬虫矛与盾",
+            imageAlt: "公众号：虫技",
             showClass: {
                 popup: "swal2-show"
             },
@@ -136,7 +137,7 @@ $(document).ready(function () {
                         <button style="display: inline;margin: 0;" id="show-email">点击获取</button>
                     </li>
                     <li>
-                        <span>站长公众号：</span>爬虫矛与盾
+                        <span>站长公众号：</span>虫技
                     </li>
                   </ol>
                   <p class="custom-swal-date">2023年08月17日</p>
