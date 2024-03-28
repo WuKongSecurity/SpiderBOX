@@ -1160,6 +1160,10 @@
   list:
     - term: 国内代理
       links:
+        - title: 青果网络
+          logo: qg.jpg
+          url: https://www.qg.net/product/proxyip.html?source=spiderbox
+          description: 青果网络提供香港、美国、韩国云主机，同时携手腾讯云、天翼云助力企业上云；云电脑、拨号VPS和动态代理IP为大数据赋能；高防服务器租用与托管为企业安全保驾护航；大带宽与机柜业务加速网络访问。
         - title: 协采云
           logo: xiecaiyun.png
           url: http://clue.xiecaiyun.com/reg/?channel=Y-wt-bob
@@ -1168,10 +1172,6 @@
           logo: kuaidaili.png
           url: https://www.kuaidaili.com/
           description: 快代理创立于2013年,专注为企业和开发者提供高品质的HTTP代理IP云服务,每日去重代理IP超40万个,提供使用IP代理服务完备的API接口和SDK,赋能于需要大量使用IP代理来实现大规模公共数据采集的场景,企业IP代理服务认准快代理。
-        - title: 青果网络
-          logo: qg.jpg
-          url: https://www.qg.net/
-          description: 青果网络提供香港、美国、韩国云主机，同时携手腾讯云、天翼云助力企业上云；云电脑、拨号VPS和动态代理IP为大数据赋能；高防服务器租用与托管为企业安全保驾护航；大带宽与机柜业务加速网络访问。
         - title: 芝麻 HTTP
           logo: logozm.png
           url: http://www.zmhttp.com/?utm-source=yl&utm-keyword=?07
@@ -1366,10 +1366,10 @@
           logo: weixin_43411585.jpg
           url: https://blog.csdn.net/weixin_43411585
           description: 十一姐 CSDN 主页
-        - title: 爬虫矛与盾
+        - title: 虫技
           logo: bob.jpg
           qrcode: images/qrcode/IT_BOB.jpg
-          description: 公众号：爬虫矛与盾
+          description: 公众号：虫技
         - title: K哥爬虫
           logo: kgepachong.jpg
           qrcode: images/qrcode/kgepachong.jpg
