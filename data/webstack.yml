@@ -1370,10 +1370,10 @@
           logo: bob.jpg
           qrcode: images/qrcode/IT_BOB.jpg
           description: 公众号：虫技
-        - title: K哥爬虫
-          logo: kgepachong.jpg
-          qrcode: images/qrcode/kgepachong.jpg
-          description: 公众号：K哥爬虫
+#        - title: K哥爬虫（因抄袭 spiderbox.cn 被移除收录）
+#          logo: kgepachong.jpg
+#          qrcode: images/qrcode/kgepachong.jpg
+#          description: 公众号：K哥爬虫
         - title: 逆向与爬虫的故事
           logo: ReverseCrawler.jpg
           qrcode: images/qrcode/ReverseCrawler.jpg
