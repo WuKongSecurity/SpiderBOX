@@ -20,8 +20,11 @@ console.log("\n %c © BOB'S BLOG %c itbob.cn %c © SpiderBox %c spiderbox.cn %c 
 /* 弹窗一：say hello baby */
 $(document).ready(function () {
     // 检查本地存储中的标志位，如果标志位为 true，则不再弹出弹窗
-    const shouldShowPopup = localStorage.getItem("shouldShowPopup") !== "false";
-    if (shouldShowPopup) {
+    let lastPopupTime = localStorage.getItem("FUCK_GIZAWORKS");
+    lastPopupTime = new Date(lastPopupTime).getTime();
+    const currentTime = new Date().getTime();
+    const timeDifferenceInDays = Math.floor((currentTime - lastPopupTime) / (1000 * 60 * 60 * 24));
+    if (!lastPopupTime || timeDifferenceInDays >= 10) {
         Swal.fire({
             // width: 300,
             title: "欢迎",
@@ -30,10 +33,13 @@ $(document).ready(function () {
             <!-- <font style="font-weight:bold; color:red;">SpiderBox 仍处于初期建设当中</font>-->
             <!-- <br>-->
             欢迎扫码关注站长公众号：虫技
+            <br>
+            <p style="color:#DC1729;"><strong>本站与 kgtools.cn 等其他网站没有任何关系</strong></p>
+            <p style="color:#DC1729;"><strong>本站于2023年8月13日原创首发，<a href="https://mp.weixin.qq.com/s/7vFpmhvU8-DCONlvlklMTQ" target="_blank">点此了解详情</a></strong></p>
             `,
             showCancelButton: true,
             confirmButtonText: "俺知道了",
-            cancelButtonText: "烦死了，永远不再弹出！",
+            cancelButtonText: "烦死了，近期不再弹出！",
             confirmButtonColor: "#0084ff",
             imageUrl: "https://static.spiderapi.cn/spiderbox/images/qrcode/IT_BOB.jpg",
             // imageUrl: "https://spiderapi.cn/img/qrcode/gzh.png",
@@ -47,8 +53,10 @@ $(document).ready(function () {
                 popup: "swal2-hide"
             }
         }).then((result) => {
-            if (result.isConfirmed) {} else {
-                localStorage.setItem("shouldShowPopup", "false");
+            if (result.isConfirmed) {
+
+            } else {
+                localStorage.setItem("FUCK_GIZAWORKS", new Date().toISOString());
             }
         });
         const popupContainer = document.querySelector('.swal2-container');
