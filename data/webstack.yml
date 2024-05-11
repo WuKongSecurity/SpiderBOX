@@ -1504,6 +1504,10 @@
           logo: r1ysue.jpg
           qrcode: images/qrcode/r1ysue.jpg
           description: 公众号：大数据安全技术学习
+        - title: js 安卓 iOS 逆向
+          logo: ruanlyi.jpg
+          qrcode: images/qrcode/ruanlyi.jpg
+          description: 公众号：js 安卓 iOS 逆向
         - title: 奋飞安全
           logo: fenfei330.jpg
           qrcode: images/qrcode/fenfei330.jpg
@@ -1907,3 +1911,5 @@
           url: https://www.writingo.net/
           logo: writingo.png
           description: 火山写作是由字节跳动推出的，集成创作、润色、纠错、改写、翻译等能力的中英文 AI 写作助手。
+
+# https://open.weixin.qq.com/qr/code?username=ruanlyi
