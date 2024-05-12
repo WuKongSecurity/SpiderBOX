@@ -141,10 +141,10 @@
           logo: spidertools.png
           url: https://spidertools.cn/
           description: feapder 作者出品的爬虫工具库。
-        - title: 爬虫工具库
-          logo: kuaidaili.png
-          url: https://www.kgtools.cn/
-          description: K 哥爬虫工具库。
+#        - title: 爬虫工具库
+#          logo: kuaidaili.png
+#          url: https://www.kgtools.cn/
+#          description: K 哥爬虫工具库。
         - title: 猿人学爬虫工具库
           logo: yuanrenxue.jpg
           url: https://tool.yuanrenxue.cn/
