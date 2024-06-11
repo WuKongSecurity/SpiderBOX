@@ -2,7 +2,8 @@
   icon: far fa-star
   links:
     - item: Bright Data
-      url: https://get.brightdata.com/17arn8
+#      url: https://get.brightdata.com/17arn8
+      url: https://get.brightdata.com/proxyb
       image: https://static.spiderapi.cn/spiderbox/images/ads/brightdata.png
       description: Bright Data 亮数据，使用全球最大的 IP 网络，利用内置的抓取和解锁功能获得访问权，并简化数据提取
     - item: 青果云
