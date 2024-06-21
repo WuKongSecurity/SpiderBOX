@@ -1,19 +1,18 @@
 name: Build and Deploy
 
-on: 
+on:
   push:
-    branches:
-      - main
+    branches: [ main ]
 
 jobs:
-  deploy: 
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
         with:
          submodules: true
          fetch-depth: 0
-         
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2   # Hugo 官方提供的 action，用于在任务环境中获取 hugo
         with:
