@@ -32,8 +32,8 @@ publishDir            = "docs"	# 站点静态文件保存目录
     tj51laid      = "3FcHt9RWSQ8XvN5u"                     # 51.LA 网站统计
     tj51lack      = "3FcHt9RWSQ8XvN5u"
 
-[params.qweather]
-    key = "085791e805a24491b43b06cf58ab31e7"
+[params.seniverse]
+    key = "a39cd5a0-4024-4cb2-85c6-0250317058db"
 
 [params.images]
     favicon           = "images/favicon.ico"

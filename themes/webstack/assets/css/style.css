@@ -640,6 +640,11 @@ a>i.sidebar-more {
     float: right;
 }
 
+.weather span {
+    color: #ffffff !important;
+    font-size: 14px;
+}
+
 .navbar-brand img {
     max-height: 40px
 }

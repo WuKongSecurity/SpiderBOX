@@ -67,34 +67,23 @@
                     </div>
 
                     <ul class="nav navbar-menu text-xs order-1 order-md-2">
-                        <!-- 天气系统 -->
+                        <!-- 天气系统 https://www.seniverse.com/widget -->
                         <div class="rounded-circle weather">
-                            <div id="he-plugin-simple" style="display: contents;"></div>
-                            <script>WIDGET = {
-                                    CONFIG: {
-                                        "modules": "01234",
-                                        "background": 5,
-                                        "tmpColor": "E4C600",
-                                        "tmpSize": 14,
-                                        "cityColor": "E4C600",
-                                        "citySize": 14,
-                                        "aqiColor": "#E4C600",
-                                        "aqiSize": 14,
-                                        "weatherIconSize": 24,
-                                        "alertIconSize": 18,
-                                        "padding": "10px 10px 10px 10px",
-                                        "shadow": "1",
-                                        "language": "auto",
-                                        "borderRadius": 5,
-                                        "fixed": "false",
-                                        "vertical": "middle",
-                                        "horizontal": "left",
-                                        "key": "{{ $.Site.Params.qweather.key }}"
-                                    }
-                                }
+                            <div id="tp-weather-widget" style="padding-right: 20px"></div>
+                            <script>
+                                (function(a,h,g,f,e,d,c,b){b=function(){d=h.createElement(g);c=h.getElementsByTagName(g)[0];d.src=e;d.charset="utf-8";d.async=1;c.parentNode.insertBefore(d,c)};a["SeniverseWeatherWidgetObject"]=f;a[f]||(a[f]=function(){(a[f].q=a[f].q||[]).push(arguments)});a[f].l=+new Date();if(a.attachEvent){a.attachEvent("onload",b)}else{a.addEventListener("load",b,false)}}(window,document,"script","SeniverseWeatherWidget","//cdn.sencdn.com/widget2/static/js/bundle.js?t="+parseInt((new Date().getTime() / 100000000).toString(),10)));
+                                window.SeniverseWeatherWidget('show', {
+                                    flavor: "slim",
+                                    location: "WX4FBXXFKE4F",
+                                    geolocation: true,
+                                    language: "auto",
+                                    unit: "c",
+                                    theme: "auto",
+                                    token: "{{ $.Site.Params.seniverse.key }}",
+                                    hover: "enabled",
+                                    container: "tp-weather-widget",
+                                })
                             </script>
-                            <script
-                                src="https://widget.qweather.net/simple/static/js/he-simple-common.js?v=2.0"></script>
                         </div>
                         <!-- 一言 -->
                         {{ with .Site.Params.yiyan }}
