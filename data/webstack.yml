@@ -6,22 +6,34 @@
       logo: bob.jpg
       qrcode: images/qrcode/IT_BOB.jpg
       description: 站长公众号：虫技
-    - title: 站长博客
-      logo: bob.jpg
-      url: https://www.itbob.cn/
-      description: 站长 BOB 的博客
-    # - title: 站长 CSDN
-    #   logo: csdn.png
-    #   url: https://itrhx.blog.csdn.net/?type=blog
-    #   description: 站长 BOB 的 CSDN 博客
-    - title: Spider API
-      logo: spiderapi.png
-      url: https://spiderapi.cn/
-      description: 虫术 - 爬虫逆向常用 API
-    - title: Spider GRC
-      logo: spidergrc.png
-      url: https://spidergrc.cn/
-      description: 虫规 - 数据采集合规性建设
+    - title: 芝麻代理 IP
+      logo: logozm.png
+      url: http://www.zmhttp.com/?utm-source=spiderbox&utm-keyword=?07
+      description: 企业级 HTTP/Socks5 动（静）态代理 IP 服务提供商
+    - title: 极光静态 IP
+      logo: jiguangdaili.png
+      url: http://static.jiguangdaili.com/?utm-source=spiderbox&utm-keyword=?07
+      description: 最便宜的静态代理 IP，对口账号、游戏矩阵业务
+    - title: 品易代理 IP
+      logo: py.png
+      url: http://http.py.cn/?utm-source=spiderbox&utm-keyword=?07
+      description: 流量计费形式的动态代理 IP，不限 IP 提取数量
+#    - title: 站长博客
+#      logo: bob.jpg
+#      url: https://www.itbob.cn/
+#      description: 站长 BOB 的博客
+#    - title: 站长 CSDN
+#      logo: csdn.png
+#      url: https://itrhx.blog.csdn.net/?type=blog
+#      description: 站长 BOB 的 CSDN 博客
+#    - title: Spider API
+#      logo: spiderapi.png
+#      url: https://spiderapi.cn/
+#      description: 虫术 - 爬虫逆向常用 API
+#    - title: Spider GRC
+#      logo: spidergrc.png
+#      url: https://spidergrc.cn/
+#      description: 虫规 - 数据采集合规性建设
     - title: 十一姐知识星球
       logo: weixin_43411585.jpg
       qrcode: images/qrcode/shiyi_zsxq.jpg
@@ -228,7 +240,7 @@
         - title: Stream
           logo: stream.jpg
           url: https://apps.apple.com/cn/app/stream/id1312141691
-          description: Stream 是一款在 iOS 端的网络抓包工具，该工具可以直接独立运行在 iOS 设备，无需依赖 PC 环境。 
+          description: Stream 是一款在 iOS 端的网络抓包工具，该工具可以直接独立运行在 iOS 设备，无需依赖 PC 环境。
         - title: Drony
           logo: drony.jpg
           url: https://play.google.com/store/apps/details?id=org.sandrob.drony
@@ -1150,7 +1162,7 @@
           logo: mcaptcha.png
           url: https://mcaptcha.org/
           description: mCaptcha is proof-of-work based captcha system that is privacy focused and fully automated.
-        - title: Fingerprint 
+        - title: Fingerprint
           logo: fingerprint.png
           url: https://fingerprint.com/
           description: The Fingerprint device intelligence platform works across web and mobile applications to identify all visitors with 99.5% accuracy — even if they’re anonymous.
@@ -1794,7 +1806,7 @@
           url: https://d0424.ai55.cc/
           logo: ai55.png
           description: Free ChatGPT Site List，众多免费好用的 ChatGPT 国内镜像站点。
-    
+
     - term: AI 代码编程
       links:
         - title: Copilot
