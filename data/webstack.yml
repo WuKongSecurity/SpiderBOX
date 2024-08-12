@@ -1196,14 +1196,14 @@
           logo: kuaidaili.png
           url: https://www.kuaidaili.com/
           description: 快代理创立于2013年,专注为企业和开发者提供高品质的HTTP代理IP云服务,每日去重代理IP超40万个,提供使用IP代理服务完备的API接口和SDK,赋能于需要大量使用IP代理来实现大规模公共数据采集的场景,企业IP代理服务认准快代理。
-        - title: 芝麻 HTTP
-          logo: logozm.png
-          url: http://www.zmhttp.com/?utm-source=yl&utm-keyword=?07
-          description: 芝麻HTTP代理是企业大数据爬取HTTP动态IP服务提供商,为上百家企业用户提供海量优质高匿HTTP代理IP,全国自建数百所机房,低延迟高可用率稳定专业！
-        - title: 品易 HTTP
-          logo: py.png
-          url: http://http.py.cn/?utm-source=yl&utm-keyword=?07
-          description: 品易HTTP拥有超过2000万的代理IP池，每天更新IP资源近400万，城市覆盖全国200多个，累计为数万家企业及个人用户提供私有化代理IP定制服务，根据业务类型制定针对性网页公开数据采集技术架构，帮助企业实现业务提升！新用户注册可免费试用。
+#        - title: 芝麻 HTTP
+#          logo: logozm.png
+#          url: http://www.zmhttp.com/?utm-source=yl&utm-keyword=?07
+#          description: 芝麻HTTP代理是企业大数据爬取HTTP动态IP服务提供商,为上百家企业用户提供海量优质高匿HTTP代理IP,全国自建数百所机房,低延迟高可用率稳定专业！
+#        - title: 品易 HTTP
+#          logo: py.png
+#          url: http://http.py.cn/?utm-source=yl&utm-keyword=?07
+#          description: 品易HTTP拥有超过2000万的代理IP池，每天更新IP资源近400万，城市覆盖全国200多个，累计为数万家企业及个人用户提供私有化代理IP定制服务，根据业务类型制定针对性网页公开数据采集技术架构，帮助企业实现业务提升！新用户注册可免费试用。
         - title: 品赞 HTTP
           logo: ipzan.png
           url: https://www.ipzan.com/
