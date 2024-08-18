@@ -16,7 +16,7 @@ publishDir            = "docs"	# 站点静态文件保存目录
     author        = "ITBOB"
     keywords      = "爬虫，逆向，JS逆向，APP逆向，数据采集，SpiderBox，虫盒，资源导航，爬虫资源，逆向资源，资源导航站"
     description   = "SpiderBox - 虫盒 - 爬虫逆向资源导航站，数据采集、网络爬虫、JS逆向、APP逆向、小程序逆向等相关资源聚合、收集。"
-    cdnURL        = "https://static.spiderapi.cn/spiderbox/"      # CDN 地址，置空则不使用 CDN
+    cdnURL        = "https://static-upyun.spiderapi.cn/spiderbox/"      # CDN 地址，置空则不使用 CDN
     repository    = "https://github.com/TRHX/SpiderBOX"    # 左侧导航栏的"GitHub"
     enablePreLoad = true					               # 网站完全打开前预加载动画
     textPreLoad   = "SpiderBox 加载中..."				    # 预加载的动画文字, 只有当enablePreLoad=true时生效

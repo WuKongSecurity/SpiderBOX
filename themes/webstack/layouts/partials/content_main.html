@@ -14,10 +14,10 @@
                     <div class="card">
                         {{ if .url }}
                         <a href="{{ .url }}" target="_blank" data-url="{{ .url }}">
-                            <img src="{{ .image }}" class="card-img-top" alt="{{ .description }}">
+                            <img src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ .image }}" class="card-img-top" alt="{{ .description }}">
                         </a>
                         {{ else }}
-                            <img src="{{ .image }}" class="card-img-top" alt="{{ .description }}">
+                            <img src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ .image }}" class="card-img-top" alt="{{ .description }}">
                         {{ end }}
                     </div>
                 </div>
