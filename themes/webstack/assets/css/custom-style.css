@@ -44,8 +44,8 @@ h4 {
 }
 
 /* 搜索框搜索图标颜色 */
-#search button i {
-    color: #6C757D;
+.header-big #search button i {
+    color: #666;
     font-size: 18px
 }
 
@@ -88,7 +88,7 @@ h4 {
 /* 搜索activate图标颜色 */
 .header-big .search-type input:checked+label:before {
     content: '';
-    border-width: 8px 8px 0px 8px;
+    border-width: 8px 8px 0 8px;
     border-style: solid;
     border-color: #ffffff transparent transparent !important;
     position: absolute;
@@ -136,7 +136,7 @@ h4 {
     width: 100%;
     border-radius: 0 0 10px 10px;
     background: #FFF;
-    box-shadow: 0px 4px 5px 0px #cccccc94;
+    box-shadow: 0 4px 5px 0 #cccccc94;
     overflow: hidden;
 }
 

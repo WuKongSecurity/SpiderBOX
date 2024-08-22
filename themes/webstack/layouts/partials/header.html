@@ -18,11 +18,9 @@
     <link rel="apple-touch-icon" href="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.images.appleTouchIcon }}">
 
     <link crossorigin="anonymous" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" href="//lib.baomitu.com/twitter-bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
-    <link crossorigin="anonymous" integrity="sha384-fJH2gz4kcHl6LNRYI7TauVxjt5r/u+NfM+XpXDSSyHTCS7PMUXXW0Qo677Xr+bok" href="//lib.baomitu.com/font-awesome/5.11.2/css/all.css" rel="stylesheet">    
-    {{ $iconfont := resources.Get "css/iconfont.css" | resources.Minify | fingerprint}}
+    <link crossorigin="anonymous" integrity="sha384-fJH2gz4kcHl6LNRYI7TauVxjt5r/u+NfM+XpXDSSyHTCS7PMUXXW0Qo677Xr+bok" href="//lib.baomitu.com/font-awesome/5.11.2/css/all.css" rel="stylesheet">
     {{ $customStyle := resources.Get "css/custom-style.css" | resources.Minify | fingerprint}}
     {{ $style := resources.Get "css/style.css" | resources.Minify | fingerprint}}
-    <link rel="stylesheet" href="{{ $iconfont.RelPermalink }}" type="text/css" media="all" />
     <link rel="stylesheet" href="{{ $customStyle.RelPermalink }}" type="text/css" media="all" />
     <link rel="stylesheet" href="{{ $style.RelPermalink }}" type="text/css" media="all" />
 
