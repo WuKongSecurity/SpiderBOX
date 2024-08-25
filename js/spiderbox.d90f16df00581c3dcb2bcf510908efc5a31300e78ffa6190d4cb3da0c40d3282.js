@@ -1,6 +1,6 @@
 /* 控制台输出 */
 function makeMulti(string) {
-    let l = new String(string)
+    let l = String(string)
     l = l.substring(l.indexOf("/*") + 3, l.lastIndexOf("*/"))
     return "%c " + l
 };
@@ -232,9 +232,9 @@ $(document).ready(function () {
         }
     } else {
         let night = document.cookie.replace(/(?:(?:^|.*;\s*)night\s*\=\s*([^;]*).*$)|^.*$/, "$1") || '0';
-        if (night == '0') {
+        if (night === '0') {
             document.body.classList.remove('night');
-        } else if (night == '1') {
+        } else if (night === '1') {
             document.body.classList.add('night');
         }
     }
@@ -244,7 +244,7 @@ $(document).ready(function () {
 // $("#search-bg").css("background-image", "url({{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.images.searchImageL }})");   //默认浅色背景
 function switchNightMode() {
     let night = document.cookie.replace(/(?:(?:^|.*;\s*)night\s*\=\s*([^;]*).*$)|^.*$/, "$1") || '0';
-    if (night == '0') {
+    if (night === '0') {
         // $("#search-bg").css("background-image", "url({{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.images.searchImageL }})");
         document.body.classList.remove('io-grey-mode');
         document.body.classList.add('io-black-mode');
