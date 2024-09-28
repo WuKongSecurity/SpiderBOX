@@ -42,7 +42,7 @@ $(document).ready(function () {
             confirmButtonText: "俺知道了",
             cancelButtonText: "烦死了，近期不再弹出！",
             confirmButtonColor: "#0084ff",
-            imageUrl: "https://static-upyun.spiderapi.cn/spiderbox/images/qrcode/IT_BOB.jpg",
+            imageUrl: "https://static.spiderapi.cn/spiderbox/images/qrcode/IT_BOB.jpg",
             // imageUrl: "https://spiderapi.cn/img/qrcode/gzh.png",
             // imageWidth: 300,
             // imageHeight: 300,
@@ -74,7 +74,7 @@ $(document).ready(function () {
             confirmButtonText: "俺知道了",
             confirmButtonColor: "#0084ff",
             imageWidth: 420,
-            imageUrl: "https://static-upyun.spiderapi.cn/spiderbox/images/group.webp",
+            imageUrl: "https://static.spiderapi.cn/spiderbox/images/group.webp",
             imageAlt: "QQ / 微信交流群",
             showClass: {
                 popup: "swal2-show"
@@ -194,7 +194,7 @@ $(document).ready(function () {
 //             confirmButtonText: "俺知道了",
 //             confirmButtonColor: "#0084ff",
 //             imageWidth: 420,
-//             imageUrl: "https://static-upyun.spiderapi.cn/spiderbox/images/sponsor.webp",
+//             imageUrl: "https://static.spiderapi.cn/spiderbox/images/sponsor.webp",
 //             imageAlt: "微信 / 支付宝收款码",
 //             showClass: {
 //                 popup: "swal2-show"

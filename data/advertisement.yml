@@ -7,7 +7,7 @@
       image: images/ads/brightdata.jpg
       description: Bright Data 亮数据，使用全球最大的 IP 网络，利用内置的抓取和解锁功能获得访问权，并简化数据提取
     - item: 青果云
-      url: https://www.qg.net/product/proxyip.html?source=spiderbox
+      url: https://www.qg.net/product/proxyip.html?web=spiderbox
       image: images/ads/qg.jpg
       description: 国内领先的企业级代理IP服务商
     # - item: 芝麻 HTTP
