@@ -1,15 +1,15 @@
 @font-face {
     font-family: "OxaniumRegular";
-    src: url("//cdn.itbob.cn/font/OxaniumRegular.ttf");
+    src: url("https://static.spiderapi.cn/public/fonts/OxaniumRegular-Lite-222.woff2");
 }
 
 /* 自定义鼠标指针样式 */
 * {
-    cursor: url("//cdn.itbob.cn/spiderbox/images/mouse/pointer.cur"), auto;
+    cursor: url("https://static.spiderapi.cn/spiderbox/images/mouse/pointer.cur"), auto;
 }
 
 div {
-    cursor: url("//cdn.itbob.cn/spiderbox/images/mouse/default.cur"), auto;
+    cursor: url("https://static.spiderapi.cn/spiderbox/images/mouse/default.cur"), auto;
 }
 
 input {
@@ -29,7 +29,7 @@ h4 {
 /* 左导航悬浮 sidebar-menu-inner 宽度调整为 90px */
 .sidebar-popup.sidebar-menu-inner>div>ul>li.sidebar-item>ul {
     position: absolute;
-    top: 0px;
+    top: 0;
     left: 10px;
     width: 90px;
     z-index: 99
@@ -44,8 +44,8 @@ h4 {
 }
 
 /* 搜索框搜索图标颜色 */
-#search button i {
-    color: #6C757D;
+.header-big #search button i {
+    color: #666;
     font-size: 18px
 }
 
@@ -88,7 +88,7 @@ h4 {
 /* 搜索activate图标颜色 */
 .header-big .search-type input:checked+label:before {
     content: '';
-    border-width: 8px 8px 0px 8px;
+    border-width: 8px 8px 0 8px;
     border-style: solid;
     border-color: #ffffff transparent transparent !important;
     position: absolute;
@@ -136,7 +136,7 @@ h4 {
     width: 100%;
     border-radius: 0 0 10px 10px;
     background: #FFF;
-    box-shadow: 0px 4px 5px 0px #cccccc94;
+    box-shadow: 0 4px 5px 0 #cccccc94;
     overflow: hidden;
 }
 
@@ -148,7 +148,7 @@ h4 {
 .search-hot-text ul li {
     line-height: 30px;
     font-size: 14px;
-    padding: 0px 25px;
+    padding: 0 25px;
     color: #777;
     cursor: pointer;
 }
@@ -182,7 +182,7 @@ h4 {
 }
 
 footer.main-footer .footer-text {
-    font-family: "OxaniumRegular";
+    font-family: "OxaniumRegular", sans-serif;
     letter-spacing: 1px;
     text-align: center;
 }

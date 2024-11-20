@@ -4,7 +4,7 @@ $(function() {
     //当键盘键被松开时发送Ajax获取数据
     $('#search-text').keyup(function() {
         var keywords = $(this).val();
-        if (keywords == '') { $('#word').hide(); return };
+        if (keywords === '') { $('#word').hide(); return };
         $.ajax({
             url: 'https://suggestion.baidu.com/su?wd=' + keywords,
             dataType: 'jsonp',

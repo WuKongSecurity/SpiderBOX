@@ -4,7 +4,7 @@
     {{ if .links }}
         <div class="d-flex flex-fill">
             <h4 class="text-gray text-lg mb-4">
-                <i class="site-tag iconfont icon-tag icon-lg mr-1" id="{{ md5 .taxonomy }}"></i>
+                <i class="fas fa-search-dollar site-tag mr-1" id="{{ md5 .taxonomy }}"></i>
                 {{ .taxonomy }}
             </h4>
         </div>
@@ -14,10 +14,10 @@
                     <div class="card">
                         {{ if .url }}
                         <a href="{{ .url }}" target="_blank" data-url="{{ .url }}">
-                            <img src="{{ .image }}" class="card-img-top" alt="{{ .description }}">
+                            <img src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ .image }}" class="card-img-top" alt="{{ .description }}">
                         </a>
                         {{ else }}
-                            <img src="{{ .image }}" class="card-img-top" alt="{{ .description }}">
+                            <img src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ .image }}" class="card-img-top" alt="{{ .description }}">
                         {{ end }}
                     </div>
                 </div>
@@ -34,7 +34,7 @@
     <!-- {{ .term }} -->
     <div class="d-flex flex-fill">
         <h4 class="text-gray text-lg mb-4">
-            <i class="site-tag iconfont icon-tag icon-lg mr-1" id="{{ md5 .term }}"></i>
+            <i class="fas fa-stream site-tag mr-1" id="{{ md5 .term }}"></i>
             {{ .term }}
         </h4>
         <div class="flex-fill"></div>
@@ -77,7 +77,7 @@
                     </a>
                     <a href="{{ .url }}" class="togo text-center text-muted is-views" data-id="689"
                         data-toggle="tooltip" data-placement="right" title="直达" rel="nofollow">
-                        <i class="iconfont icon-goto"></i>
+                        <i class="far fa-arrow-alt-circle-right"></i>
                     </a>
             </div>
         </div>
@@ -92,7 +92,7 @@
     <!-- {{ .taxonomy }} -->
     <div class="d-flex flex-fill">
         <h4 class="text-gray text-lg mb-4">
-            <i class="site-tag iconfont icon-tag icon-lg mr-1" id="{{ md5 .taxonomy }}"></i>
+            <i class="fas fa-stream site-tag mr-1" id="{{ md5 .taxonomy }}"></i>
             {{ .taxonomy }}
         </h4>
         <!--div class="flex-fill"></div>
@@ -136,7 +136,7 @@
                     </a>
                     <a href="{{ .url }}" class="togo text-center text-muted is-views" data-id="689"
                         data-toggle="tooltip" data-placement="right" title="直达" rel="nofollow">
-                        <i class="iconfont icon-goto"></i>
+                        <i class="far fa-arrow-alt-circle-right"></i>
                     </a>
             </div>
         </div>
@@ -148,7 +148,7 @@
     {{ end }}
 
     <h4 class="text-gray text-lg mb-4">
-        <i class="iconfont icon-book-mark-line icon-lg mr-2" id="friendlink"></i>友情链接
+        <i class="fas fa-link mr-2" id="friendlink"></i>友情链接
     </h4>
     <div class="friendlink text-xs card">
         <div class="card-body">

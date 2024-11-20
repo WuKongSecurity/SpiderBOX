@@ -6,22 +6,34 @@
       logo: bob.jpg
       qrcode: images/qrcode/IT_BOB.jpg
       description: 站长公众号：虫技
-    - title: 站长博客
-      logo: bob.jpg
-      url: https://www.itbob.cn/
-      description: 站长 BOB 的博客
-    # - title: 站长 CSDN
-    #   logo: csdn.png
-    #   url: https://itrhx.blog.csdn.net/?type=blog
-    #   description: 站长 BOB 的 CSDN 博客
-    - title: Spider API
-      logo: spiderapi.png
-      url: https://spiderapi.cn/
-      description: 虫术 - 爬虫逆向常用 API
-    - title: Spider GRC
-      logo: spidergrc.png
-      url: https://spidergrc.cn/
-      description: 虫规 - 数据采集合规性建设
+#    - title: 芝麻代理 IP
+#      logo: logozm.png
+#      url: http://www.zmhttp.com/?utm-source=spiderbox&utm-keyword=?07
+#      description: 企业级 HTTP/Socks5 动（静）态代理 IP 服务提供商
+#    - title: 极光静态 IP
+#      logo: jiguangdaili.png
+#      url: http://static.jiguangdaili.com/?utm-source=spiderbox&utm-keyword=?07
+#      description: 最便宜的静态代理 IP，对口账号、游戏矩阵业务
+#    - title: 品易代理 IP
+#      logo: py.png
+#      url: http://http.py.cn/?utm-source=spiderbox&utm-keyword=?07
+#      description: 流量计费形式的动态代理 IP，不限 IP 提取数量
+#    - title: 站长博客
+#      logo: bob.jpg
+#      url: https://www.itbob.cn/
+#      description: 站长 BOB 的博客
+#    - title: 站长 CSDN
+#      logo: csdn.png
+#      url: https://itrhx.blog.csdn.net/?type=blog
+#      description: 站长 BOB 的 CSDN 博客
+#    - title: Spider API
+#      logo: spiderapi.png
+#      url: https://spiderapi.cn/
+#      description: 虫术 - 爬虫逆向常用 API
+#    - title: Spider GRC
+#      logo: spidergrc.png
+#      url: https://spidergrc.cn/
+#      description: 虫规 - 数据采集合规性建设
     - title: 十一姐知识星球
       logo: weixin_43411585.jpg
       qrcode: images/qrcode/shiyi_zsxq.jpg
@@ -31,6 +43,18 @@
       logo: spidertools.png
       url: https://spidertools.cn/
       description: feapder 作者出品的爬虫工具库
+    - title: 猿人学 OB 在线解混淆
+      logo: yuanrenxue.jpg
+      url: https://tool.yuanrenxue.cn/decode_obfuscator
+      description: 猿人学 OB 在线解混淆。
+    - title: AST Explorer
+      logo: astexplorer.png
+      url: https://astexplorer.net/
+      description: 一个使用各种解析器生成代码的 AST 的 Web 工具。
+    - title: 在线加解密
+      logo: chacuo.png
+      url: http://tool.chacuo.net/cryptdes
+      description: 在线 DES、3DES、AES、RC2、RC4、RC5、RC6、RSA 等加解密。
     # - title: Spider BOX
     #   logo: spiderbox.png
     #   url: https://spiderbox.cn/
@@ -228,7 +252,7 @@
         - title: Stream
           logo: stream.jpg
           url: https://apps.apple.com/cn/app/stream/id1312141691
-          description: Stream 是一款在 iOS 端的网络抓包工具，该工具可以直接独立运行在 iOS 设备，无需依赖 PC 环境。 
+          description: Stream 是一款在 iOS 端的网络抓包工具，该工具可以直接独立运行在 iOS 设备，无需依赖 PC 环境。
         - title: Drony
           logo: drony.jpg
           url: https://play.google.com/store/apps/details?id=org.sandrob.drony
@@ -1150,7 +1174,7 @@
           logo: mcaptcha.png
           url: https://mcaptcha.org/
           description: mCaptcha is proof-of-work based captcha system that is privacy focused and fully automated.
-        - title: Fingerprint 
+        - title: Fingerprint
           logo: fingerprint.png
           url: https://fingerprint.com/
           description: The Fingerprint device intelligence platform works across web and mobile applications to identify all visitors with 99.5% accuracy — even if they’re anonymous.
@@ -1162,24 +1186,24 @@
       links:
         - title: 青果网络
           logo: qg.jpg
-          url: https://www.qg.net/product/proxyip.html?source=spiderbox
+          url: https://www.qg.net/product/proxyip.html?web=spiderbox
           description: 青果网络提供香港、美国、韩国云主机，同时携手腾讯云、天翼云助力企业上云；云电脑、拨号VPS和动态代理IP为大数据赋能；高防服务器租用与托管为企业安全保驾护航；大带宽与机柜业务加速网络访问。
         - title: 协采云
           logo: xiecaiyun.png
           url: http://clue.xiecaiyun.com/reg/?channel=Y-wt-bob
           description: 协采云九年深耕，百万级代理节点，自由调度！资源分池，客户间物理隔离，互不干扰！深度定制，代理池私有化部署，安全灵活！
-        - title: 快代理
-          logo: kuaidaili.png
-          url: https://www.kuaidaili.com/
-          description: 快代理创立于2013年,专注为企业和开发者提供高品质的HTTP代理IP云服务,每日去重代理IP超40万个,提供使用IP代理服务完备的API接口和SDK,赋能于需要大量使用IP代理来实现大规模公共数据采集的场景,企业IP代理服务认准快代理。
-        - title: 芝麻 HTTP
-          logo: logozm.png
-          url: http://www.zmhttp.com/?utm-source=yl&utm-keyword=?07
-          description: 芝麻HTTP代理是企业大数据爬取HTTP动态IP服务提供商,为上百家企业用户提供海量优质高匿HTTP代理IP,全国自建数百所机房,低延迟高可用率稳定专业！
-        - title: 品易 HTTP
-          logo: py.png
-          url: http://http.py.cn/?utm-source=yl&utm-keyword=?07
-          description: 品易HTTP拥有超过2000万的代理IP池，每天更新IP资源近400万，城市覆盖全国200多个，累计为数万家企业及个人用户提供私有化代理IP定制服务，根据业务类型制定针对性网页公开数据采集技术架构，帮助企业实现业务提升！新用户注册可免费试用。
+#        - title: 快代理
+#          logo: kuaidaili.png
+#          url: https://www.kuaidaili.com/
+#          description: 快代理创立于2013年,专注为企业和开发者提供高品质的HTTP代理IP云服务,每日去重代理IP超40万个,提供使用IP代理服务完备的API接口和SDK,赋能于需要大量使用IP代理来实现大规模公共数据采集的场景,企业IP代理服务认准快代理。
+#        - title: 芝麻 HTTP
+#          logo: logozm.png
+#          url: http://www.zmhttp.com/?utm-source=yl&utm-keyword=?07
+#          description: 芝麻HTTP代理是企业大数据爬取HTTP动态IP服务提供商,为上百家企业用户提供海量优质高匿HTTP代理IP,全国自建数百所机房,低延迟高可用率稳定专业！
+#        - title: 品易 HTTP
+#          logo: py.png
+#          url: http://http.py.cn/?utm-source=yl&utm-keyword=?07
+#          description: 品易HTTP拥有超过2000万的代理IP池，每天更新IP资源近400万，城市覆盖全国200多个，累计为数万家企业及个人用户提供私有化代理IP定制服务，根据业务类型制定针对性网页公开数据采集技术架构，帮助企业实现业务提升！新用户注册可免费试用。
         - title: 品赞 HTTP
           logo: ipzan.png
           url: https://www.ipzan.com/
@@ -1251,6 +1275,10 @@
           logo: scraperapi.png
           url: https://www.scraperapi.com/
           description: ScraperAPI handles proxy rotation, browsers, and CAPTCHAs so developers can scrape any page with a single API call. Web scraping with 5,000 free API calls!
+        - title: Pyproxy
+          logo: pyproxy.png
+          url: https://www.pyproxy.com/
+          description: Pyproxy provides IP proxy services with reasonable price and high quality, including static IP proxy, dynamic IP proxy, static ISP proxy,  HTTP proxy, socks5 proxy and other IP proxy services for large-scale data collection and network capture!
 
 - taxonomy: 交流学习
   icon: fas fa-handshake
@@ -1794,7 +1822,7 @@
           url: https://d0424.ai55.cc/
           logo: ai55.png
           description: Free ChatGPT Site List，众多免费好用的 ChatGPT 国内镜像站点。
-    
+
     - term: AI 代码编程
       links:
         - title: Copilot

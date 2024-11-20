@@ -17,7 +17,8 @@ publishDir            = "docs"	# 站点静态文件保存目录
     keywords      = "爬虫，逆向，JS逆向，APP逆向，数据采集，SpiderBox，虫盒，资源导航，爬虫资源，逆向资源，资源导航站"
     description   = "SpiderBox - 虫盒 - 爬虫逆向资源导航站，数据采集、网络爬虫、JS逆向、APP逆向、小程序逆向等相关资源聚合、收集。"
     cdnURL        = "https://static.spiderapi.cn/spiderbox/"      # CDN 地址，置空则不使用 CDN
-    repository    = "https://github.com/TRHX/spiderbox"    # 左侧导航栏的"GitHub"
+    cdnURLPubilc  = "https://static.spiderapi.cn/public/"         # CDN 地址，置空则不使用 CDN
+    repository    = "https://github.com/TRHX/SpiderBOX"    # 左侧导航栏的"GitHub"
     enablePreLoad = true					               # 网站完全打开前预加载动画
     textPreLoad   = "SpiderBox 加载中..."				    # 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = true					               # 默认展开左侧边导航栏
@@ -32,8 +33,8 @@ publishDir            = "docs"	# 站点静态文件保存目录
     tj51laid      = "3FcHt9RWSQ8XvN5u"                     # 51.LA 网站统计
     tj51lack      = "3FcHt9RWSQ8XvN5u"
 
-[params.qweather]
-    key = "085791e805a24491b43b06cf58ab31e7"
+[params.seniverse]
+    key = "a39cd5a0-4024-4cb2-85c6-0250317058db"
 
 [params.images]
     favicon           = "images/favicon.ico"
