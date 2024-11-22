@@ -42,8 +42,8 @@
     {{ end }}
     {{ end }}
 
-    {{ range .Site.Data.recommend }}
     <!--主站推荐-->
+    {{ range .Site.Data.recommend }}
     <div class="d-flex flex-fill">
         <h4 class="text-gray text-lg mb-4">
             <i class="fas fa-stream site-tag mr-1" id="{{ md5 .taxonomy }}"></i>
@@ -52,80 +52,66 @@
         <!--div class="flex-fill"></div>
                 <a class='btn-move text-xs' href='#'>more+</a-->
     </div>
-    <!--获取内容列表-->
     <div class="row">
         {{ range .links }}
-        <div class="url-card col-6  col-sm-6 col-md-4 col-xl-5a col-xxl-6a">
-            <div class="url-body default">
-                <!--去除 Tooltip
-			<a href="{{ .url }}" target="_blank" data-id="" data-url="{{ .url }}" class="card no-c mb-4" title="{{ .title }}">
-			-->
-                {{ if .qrcode }}
-                <a href="{{ if .url }}{{ .url }}{{ else }}javascript:{{ end }}" target="_blank" class="card no-c mb-4" data-toggle="tooltip" data-placement="bottom"
-                   data-html="true" title="<img src='{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ .qrcode }}' width='{{ if .width }}{{ .width }}{{ else }}128{{ end }}'>">
+            {{ if .ads }}
+                <!-- 广告赞助 -->
+                <div class="col-md-4">
+                <div class="card">
+                    {{ if .url }}
+                    <a href="{{ .url }}" target="_blank" data-url="{{ .url }}">
+                        <img src="{{ .image }}" class="card-img-top" alt="{{ .description }}">
+                    </a>
                     {{ else }}
-                    <a href="{{ .url }}" target="_blank" data-id="" data-url="{{ .url }}" class="card no-c mb-4"
-                       data-toggle="tooltip" data-placement="bottom" data-original-title="{{ .description }}">
-                        {{ end }}
-                        <div class="card-body">
-                            <div class="url-content d-flex align-items-center">
-                                <div class="url-img mr-2 d-flex align-items-center justify-content-center">
-                                    {{ if findRE "http.*?(.|\n)*?" .logo }}
-                                    <img class="lazy" src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.defaultLogo }}" data-src="{{ .logo }}"
-                                         alt="{{ .title }}">
-                                    {{ else }}
-                                    <img class="lazy" src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.defaultLogo }}"
-                                         data-src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.logosPath }}/{{ .logo }}"
-                                         alt="{{ .title }}">
-                                    {{ end }}
-                                </div>
-                                <div class="url-info flex-fill">
-                                    <div class="text-sm overflowClip_1">
-                                        <strong>{{ .title }}</strong>
+                    <img src="{{ .image }}" class="card-img-top" alt="{{ .description }}">
+                    {{ end }}
+                </div>
+            </div>
+            {{ else }}
+                <div class="url-card col-6  col-sm-6 col-md-4 col-xl-5a col-xxl-6a">
+                <div class="url-body default">
+                    <!--去除 Tooltip
+                <a href="{{ .url }}" target="_blank" data-id="" data-url="{{ .url }}" class="card no-c mb-4" title="{{ .title }}">
+                -->
+                    {{ if .qrcode }}
+                    <a href="{{ if .url }}{{ .url }}{{ else }}javascript:{{ end }}" target="_blank" class="card no-c mb-4" data-toggle="tooltip" data-placement="bottom"
+                       data-html="true" title="<img src='{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ .qrcode }}' width='{{ if .width }}{{ .width }}{{ else }}128{{ end }}'>">
+                        {{ else }}
+                        <a href="{{ .url }}" target="_blank" data-id="" data-url="{{ .url }}" class="card no-c mb-4"
+                           data-toggle="tooltip" data-placement="bottom" data-original-title="{{ .description }}">
+                            {{ end }}
+                            <div class="card-body">
+                                <div class="url-content d-flex align-items-center">
+                                    <div class="url-img mr-2 d-flex align-items-center justify-content-center">
+                                        {{ if findRE "http.*?(.|\n)*?" .logo }}
+                                        <img class="lazy" src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.defaultLogo }}" data-src="{{ .logo }}"
+                                             alt="{{ .title }}">
+                                        {{ else }}
+                                        <img class="lazy" src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.defaultLogo }}"
+                                             data-src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.logosPath }}/{{ .logo }}"
+                                             alt="{{ .title }}">
+                                        {{ end }}
                                     </div>
-                                    <p class="overflowClip_1 m-0 text-muted text-xs">{{ .description }}</p>
+                                    <div class="url-info flex-fill">
+                                        <div class="text-sm overflowClip_1">
+                                            <strong>{{ .title }}</strong>
+                                        </div>
+                                        <p class="overflowClip_1 m-0 text-muted text-xs">{{ .description }}</p>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
+                        </a>
+                        <a href="{{ .url }}" class="togo text-center text-muted is-views" data-id="689"
+                           data-toggle="tooltip" data-placement="right" title="直达" rel="nofollow">
+                            <i class="far fa-arrow-alt-circle-right"></i>
+                        </a>
                     </a>
-                    <a href="{{ .url }}" class="togo text-center text-muted is-views" data-id="689"
-                       data-toggle="tooltip" data-placement="right" title="直达" rel="nofollow">
-                        <i class="far fa-arrow-alt-circle-right"></i>
-                    </a>
-                </a>
+                </div>
             </div>
-        </div>
+            {{ end }}
         {{ end }}
     </div>
     <br />
-    {{ end }}
-
-    <!-- 广告赞助 -->
-    {{ range .Site.Data.advertisement }}
-    {{ if .links }}
-    <div class="d-flex flex-fill">
-        <h4 class="text-gray text-lg mb-4">
-            <i class="fas fa-comment-dollar site-tag mr-1" id="{{ md5 .taxonomy }}"></i>
-            {{ .taxonomy }}
-        </h4>
-    </div>
-    <div class="row">
-        {{ range .links }}
-        <div class="col-md-6">
-            <div class="card">
-                {{ if .url }}
-                <a href="{{ .url }}" target="_blank" data-url="{{ .url }}">
-                    <img src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ .image }}" class="card-img-top" alt="{{ .description }}">
-                </a>
-                {{ else }}
-                <img src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ .image }}" class="card-img-top" alt="{{ .description }}">
-                {{ end }}
-            </div>
-        </div>
-        {{ end }}
-    </div>
-    <br />
-    {{ end }}
     {{ end }}
 
     {{ range .Site.Data.webstack }}
