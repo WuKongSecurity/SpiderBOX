@@ -5,7 +5,7 @@
     {{ if .list }}
     <div class="d-flex flex-fill">
         <h4 class="text-gray text-lg mb-4">
-            <i class="fas fa-list site-tag mr-1"></i> 最新文章/视频
+            <i class="fas fa-list site-tag mr-1" id="{{ md5 .taxonomy }}"></i> {{ .taxonomy }}
         </h4>
     </div>
     <div class="flex-fill">
@@ -14,7 +14,7 @@
                 {{ range .list }}
                 <div class="hot-card">
                     <div class="hot-head">
-                        <img src="https://tool.lifeka.com/templates/admin/img/bilibili.png"><span class="hot-title">{{ .term }}</span><span class="hot-unit">作者</span>
+                        <img src="{{ .logo }}"><span class="hot-title">{{ .term }}</span><span class="hot-unit">作者</span>
                     </div>
                     <div class="hot-body">
                         <ul class="hot-table">

@@ -1,34 +1,35 @@
-- item: 首页
-  icon: fas fa-home
-  link: "./"
-
+#- item: 首页
+#  icon: fas fa-home
+#  link: "./"
 # - item: 站长博客
 #   icon: fas fa-blog
 #   link: https://www.itbob.cn/
-
-- item: 收录 / 纠错
-  icon: fas fa-location-arrow
-  link: https://github.com/TRHX/SpiderBOX/issues
-
-- item: 联系站长
-  icon: far fa-envelope
-  link: mailto:admin@itbob.cn
 
 - item: 免责声明
   popup: true
   icon: fas fa-user-secret
   popupID: show-disclaimer
 
-- item: 打赏赞助
+- item: 赞助我们
   # popup: true
   icon: fas fa-dollar-sign
   # popupID: show-sponsor
   link: https://spiderapi.cn/pages/sponsor/
 
-- item: 交流群
-  popup: true
-  icon: fas fa-user-friends
-  popupID: show-group
+- item: 交流联系
+  icon: fas fa-spider
+  link: ""
+  list:
+    - name: 交流群
+      popup: true
+      icon: fas fa-caret-right
+      popupID: show-group
+    - name: 联系站长
+      icon: fas fa-caret-right
+      link: mailto:admin@itbob.cn
+    - name: 收录 / 纠错
+      icon: fas fa-caret-right
+      link: https://github.com/TRHX/SpiderBOX/issues
 
 - item: 虫系列
   icon: fas fa-spider

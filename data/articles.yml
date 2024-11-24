@@ -1,6 +1,8 @@
-- taxonomy: 最新文章/视频
+- taxonomy: 最新文章
+  icon: fas fa-list
   list:
     - term: 哔哩哔哩
+      logo: /bilibili.png
       links:
         - title: 【JS逆向】某建筑webpack逆向分析
           author: littlewhite11
@@ -12,6 +14,7 @@
           release_time: 2024.01.01
 
     - term: 公众号
+      logo: /mpweixin_32x32.png
       links:
         - title: 【JS逆向】某建筑webpack逆向分析
           author: littlewhite11
@@ -23,6 +26,7 @@
           release_time: 2024.01.01
 
     - term: 吾爱破解
+      logo: /52pojie_32x32.png
       links:
         - title: 【JS逆向】某建筑webpack逆向分析
           author: littlewhite11
@@ -45,7 +49,8 @@
           url: https://spidertools.cn/
           release_time: 2024.01.01
 
-    - term: CSDN/博客园/其他
+    - term: 看雪论坛/先知社区/CSDN等
+      logo: /kanxue_32x32.png
       links:
         - title: 【JS逆向】某建筑webpack逆向分析
           author: littlewhite11
@@ -64,6 +69,6 @@
           url: https://spidertools.cn/
           release_time: 2024.01.01
         - title: 某验反爬滑块逆向分析
-          author: littlewhite11
+          author: 带带弟弟学爬虫__
           url: https://spidertools.cn/
           release_time: 2024.01.01

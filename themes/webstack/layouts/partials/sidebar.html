@@ -40,6 +40,28 @@
                             <div class="sidebar-scroll">
                                 <div class="sidebar-menu-inner">
                                     <ul>
+                                        {{ range .Site.Data.articles }}
+                                        {{ if .list }}
+                                        <li class="sidebar-item">
+                                            <a href="#{{ md5 .taxonomy }}" class="smooth">
+                                                <i class="{{ .icon }} fa-lg icon-fw icon-lg mr-2"></i>
+                                                <span>{{ .taxonomy }}</span>
+                                            </a>
+                                        </li>
+                                        {{ end }}
+                                        {{ end }}
+
+                                        {{ range .Site.Data.recommend }}
+                                        {{ if .links }}
+                                        <li class="sidebar-item">
+                                            <a href="#{{ md5 .taxonomy }}" class="smooth">
+                                                <i class="{{ .icon }} fa-lg icon-fw icon-lg mr-2"></i>
+                                                <span>{{ .taxonomy }}</span>
+                                            </a>
+                                        </li>
+                                        {{ end }}
+                                        {{ end }}
+
                                         {{ range .Site.Data.webstack }}
                                         {{ if .list }}
                                         <li class="sidebar-item">
@@ -52,8 +74,7 @@
                                             </a>
                                             <ul>
                                                 {{ range .list }}
-                                                <li><a href="#{{ md5 .term }}" class="smooth"><span>{{ .term
-                                                            }}</span></a></li>
+                                                <li><a href="#{{ md5 .term }}" class="smooth"><span>{{ .term }}</span></a></li>
                                                 {{ end }}
                                             </ul>
                                         </li>
