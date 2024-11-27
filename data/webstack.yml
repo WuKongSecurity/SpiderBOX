@@ -1377,14 +1377,6 @@
           logo: weixin_43582101.jpg
           url: https://blog.csdn.net/weixin_43582101
           description: 考古学家lx(李玺) CSDN 主页
-        - title: 爬虫与逆向路的驿站
-          logo: Yy_Rose_1.jpg
-          qrcode: images/qrcode/Yy_Rose_1.jpg
-          description: 公众号：爬虫与逆向路的驿站
-        - title: 逆向旅行
-          logo: fzcoder888888.png
-          qrcode: images/qrcode/fzcoder888888.jpg
-          description: 公众号：逆向旅行
         - title: 菜鸡弟弟的逆向之路
           logo: gh_f89880d79473.jpg
           qrcode: images/qrcode/gh_f89880d79473.jpg
@@ -1461,6 +1453,187 @@
           logo: locozhou.jpg
           qrcode: images/qrcode/locozhou.jpg
           description: 公众号：NightTeam
+        - title: 影17
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：影17
+        - title: 二进制磨剑
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：二进制磨剑
+        - title: 小鸿爱摸鱼
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：小鸿爱摸鱼
+        - title: 资源堂
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：资源堂
+        - title: 柳絮的学习杂记
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：柳絮的学习杂记
+        - title: Py学习日记
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：Py学习日记
+        - title: jqiu爬虫分析日记
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：jqiu爬虫分析日记
+        - title: python学习爱好者
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：python学习爱好者
+        - title: 软件安全与逆向分析
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：软件安全与逆向分析
+        - title: 静夜随想
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：静夜随想
+        - title: 关于代码那点事
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：关于代码那点事
+        - title: 搞点逆向778
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：搞点逆向778
+        - title: 秃头的逆向痴想
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：秃头的逆向痴想
+        - title: 学渣搞逆向
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：学渣搞逆向
+        - title: 兔老大Android和iOS逆向
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：兔老大Android和iOS逆向
+        - title: ReverseCode
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：ReverseCode
+        - title: 理想真会玩
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：理想真会玩
+        - title: 小道安全
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：小道安全
+        - title: 独步爬虫逆向
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：独步爬虫逆向
+        - title: coderwhy
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：coderwhy
+        - title: 猿人学Python
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：猿人学Python
+        - title: 随心记事
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：随心记事
+        - title: 逆向study
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：逆向study
+        - title: 爬虫兄弟搞搞逆向
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：爬虫兄弟搞搞逆向
+        - title: 逆向日记
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：逆向日记
+        - title: 菜鸡的逆向日记
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：菜鸡的逆向日记
+        - title: 进击的爬虫
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：进击的爬虫
+        - title: 虫术
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：虫术
+        - title: s0ing
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：s0ing
+        - title: 逆向路漫漫
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：逆向路漫漫
+        - title: 爬虫45度
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：爬虫45度
+        - title: python和逆向
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：python和逆向
+        - title: 逆向攻与防
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：逆向攻与防
+        - title: virjar是渣渣
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：virjar是渣渣
+        - title: 燕慕自安
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：燕慕自安
+        - title: pang的逆向
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：pang的逆向
+        - title: 夏日技术友人帐
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：夏日技术友人帐
+        - title: 面向小白的逆向笔记
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：面向小白的逆向笔记
+        - title: 平底锅煎蛋
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：平底锅煎蛋
+        - title: 我最菜
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：我最菜
+        - title: 爬虫大菜鸡
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：爬虫大菜鸡
+        - title: 爬虫逆向技术栈
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：爬虫逆向技术栈
+        - title: 花花学逆向
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：花花学逆向
+        - title: 爬虫逆向笔记
+          logo: locozhou.jpg
+          qrcode: images/qrcode/locozhou.jpg
+          description: 公众号：爬虫逆向笔记
+
+
+
+
+
 
         # 安卓逆向居多
         - title: 大数据安全技术学习
