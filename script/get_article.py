@@ -11,7 +11,7 @@ import hashlib
 import requests
 from lxml import etree
 from loguru import logger
-from datetime import datetime
+from datetime import datetime, timedelta
 from urllib.parse import quote
 
 from pymongo import MongoClient
@@ -25,7 +25,6 @@ client = MongoClient('mongodb://localhost:27017/')
 db = client['spiderbox']
 collection = db['article']
 
-
 headers = {
     'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
     'accept-encoding': 'gzip, deflate, br, zstd',
@@ -33,6 +32,7 @@ headers = {
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
     'sec-ch-ua': '"Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"',
 }
+
 
 def md5_hash(url):
     return hashlib.md5(url.encode('utf-8')).hexdigest()
@@ -72,6 +72,7 @@ def get_win_width_height(win_width, win_height):
         random_value
     ]
 
+
 def get_scroll_top_left(scroll_top, scroll_left):
     random_value = random.randint(0, 513)
     return [
@@ -89,7 +90,8 @@ def get_video_bilibili():
             response_index = requests.get(index, headers=headers)
             w_webid = re.findall(r'"access_id":"(.*?)"', parse.unquote(response_index.text))[0]
             dm_img_str = base64_string('WebGL 1.0 (OpenGL ES 2.0 Chromium)')
-            dm_cover_img_str = base64_string('ANGLE (NVIDIA, NVIDIA GeForce RTX 2060 (0x00001F15) Direct3D11 vs_5_0 ps_5_0, D3D11)Google Inc. (NVIDIA)')
+            dm_cover_img_str = base64_string(
+                'ANGLE (NVIDIA, NVIDIA GeForce RTX 2060 (0x00001F15) Direct3D11 vs_5_0 ps_5_0, D3D11)Google Inc. (NVIDIA)')
             dm_img_inter = {
                 "ds": [],
                 "wh": get_win_width_height(2560, 1440),
@@ -136,10 +138,8 @@ def get_video_bilibili():
         except Exception as e:
             logger.error(f"get bilibili video error: {e}")
             continue
-        logger.info(f"="*60)
-        logger.info(f"get bilibili video success: {mid}")
-        logger.info(f"=" * 60)
-        time.sleep(3)
+        logger.info(f"=== get bilibili video success: {mid} ===")
+        time.sleep(2)
 
 
 def get_article_52pojie():
@@ -153,8 +153,8 @@ def get_article_52pojie():
                     title = article.xpath('.//th/a[@class="s xst"]/text()')[0].strip()
                     link = article.xpath('.//th/a[@class="s xst"]/@href')[0].strip()
                     author = article.xpath('.//td[@class="by"][1]/cite/a/text()')[0].strip()
-                    release_time_format = article.xpath('.//td[@class="by"][1]/em/span/text()')[0].strip()
-                    dt = datetime.strptime(release_time_format, "%Y-%m-%d %H:%M")
+                    release_time_format = article.xpath('.//td[@class="by"][1]/em/span/text()')[0].strip() + ":00"
+                    dt = datetime.strptime(release_time_format, "%Y-%m-%d %H:%M:%S")
                     release_time_stamp = int(dt.timestamp() * 1000)
                     data = {
                         "platform": "52pojie",
@@ -211,9 +211,7 @@ def get_article_csdn():
         except Exception as e:
             logger.error(f"get csdn article error: {e}")
             continue
-        logger.info(f"="*60)
-        logger.info(f"get csdn article success: {username} / {author}")
-        logger.info(f"=" * 60)
+        logger.info(f"=== get csdn article success: {username} / {author} ===")
         time.sleep(2)
 
 
@@ -224,13 +222,13 @@ def get_article_xz():
         response = requests.get(urls.xz_url, headers=headers_xz)
         html = etree.HTML(response.text)
         article_list = html.xpath("//table//tr")
-        for article in article_list:
+        for article in article_list[:10]:
             title = article.xpath('.//a[@class="topic-title"]/text()')[0].strip()
-            link = article.xpath('.//a[@class="topic-title"]/@href')[0].strip()
+            link = "https://xz.aliyun.com" + article.xpath('.//a[@class="topic-title"]/@href')[0].strip()
             author = article.xpath('.//p[@class="topic-info"]/a[1]/text()')[0].strip()
             release_time_format = "".join(article.xpath('.//p[@class="topic-info"]/text()'))
-            release_time_format = re.findall(r"\d{4}-\d{2}-\d{2}", release_time_format)[0]
-            dt = datetime.strptime(release_time_format, "%Y-%m-%d")
+            release_time_format = re.findall(r"\d{4}-\d{2}-\d{2}", release_time_format)[0] + " 00:00:00"
+            dt = datetime.strptime(release_time_format, "%Y-%m-%d %H:%M:%S")
             release_time_stamp = int(dt.timestamp() * 1000)
             data = {
                 "platform": "xz",
@@ -258,16 +256,39 @@ def get_article_kanxue():
                 title = article.xpath('.//div[1]/a[2]/text()')[0].strip()
                 link = article.xpath('.//div[1]/a[2]/@href')[0].strip()
                 author = article.xpath('.//div[2]//a/text()')[0].strip()
-                release_time_format = article.xpath('.//div[2]/div[1]/span[1]/text()')[0].strip()
-                release_time_format = release_time_format.replace("・", "").strip()
+                release_time_string = article.xpath('.//div[2]/div[1]/span[1]/text()')[0].strip()
+                release_time_string = release_time_string.replace("・", "").strip()
+                if "-" in release_time_string and ":" in release_time_string:
+                    release_time_format = release_time_string + ":00"
+                    release_time_stamp = int(datetime.strptime(release_time_format, '%Y-%m-%d %H:%M:%S').timestamp())
+                else:
+                    release_time_format_match = re.match(r'(\d+)(分钟前|小时前|天前)', release_time_string)
+                    if not release_time_format_match:
+                        logger.error(f"kanxue 无效的时间格式: https://bbs.kanxue.com/{link} / {release_time_string}")
+                        continue
+
+                    num = int(release_time_format_match.group(1))
+                    unit = release_time_format_match.group(2)
+                    current_time = datetime.now()
+
+                    # 根据单位计算时间戳
+                    if unit == '分钟前':
+                        result_time = current_time - timedelta(minutes=num)
+                    elif unit == '小时前':
+                        result_time = current_time - timedelta(hours=num)
+                    else:
+                        result_time = current_time - timedelta(days=num)
+                    release_time_stamp = int(result_time.timestamp() * 1000)
+                    release_time_format = result_time.strftime('%Y-%m-%d %H:%M:%S')
+
                 if "[求助]" not in title and "[注意]" not in title and "[调查]" not in title and "[建议]" not in title:
                     data = {
-                        "platform": "xz",
+                        "platform": "kanxue",
                         "title": title,
                         "link": "https://bbs.kanxue.com/" + link,
                         "author": author,
                         "release_time_format": release_time_format,
-                        "release_time_stamp": "",
+                        "release_time_stamp": release_time_stamp,
                         "created_time_stamp": int(time.time() * 1000)
                     }
                     save_to_mongodb(data)
@@ -293,11 +314,15 @@ def task():
     thread3.join()
     thread4.join()
     thread5.join()
-    logger.success("get all article success!")
+
+    logger.info("=" * 60)
+    logger.success("==> get all article success! <==")
+    logger.info("=" * 60)
+    print("\n\n")
 
 
 if __name__ == '__main__':
-    # 每隔 15 分钟运行一次
-    schedule.every(15).minutes.do(task)
+    # 每隔 10 分钟运行一次
+    schedule.every(10).minutes.do(task)
     while True:
         schedule.run_pending()
