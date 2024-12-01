@@ -14,7 +14,7 @@
                 {{ range .list }}
                 <div class="hot-card">
                     <div class="hot-head">
-                        <img src="{{ .logo }}"><span class="hot-title">{{ .term }}</span><span class="hot-unit">作者</span>
+                        <img src="{{ with $.Site.Params.cdnURLPubilc }}{{ . }}{{ end }}{{ .logo }}"><span class="hot-title">{{ .term }}</span><span class="hot-unit">作者</span>
                     </div>
                     <div class="hot-body">
                         <ul class="hot-table">
