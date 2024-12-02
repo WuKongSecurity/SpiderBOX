@@ -1,10 +1,6 @@
 - icon: fas fa-list
   list:
   - links:
-    - author: B站用户骚神
-      release_time: '2024-12-01 20:11:20'
-      title: 骚神Drissionpage教学 第30课 京东商品秒杀抢购
-      url: https://www.bilibili.com/video/BV1xhzZYLENk
     - author: 玩转Code
       release_time: '2024-11-29 22:59:33'
       title: Pycharm中执行JS代码
