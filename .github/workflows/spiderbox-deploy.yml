@@ -24,7 +24,7 @@ jobs:
       - name: Deploy Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          external_repository: TRHX/SpiderBOX	 # 发布到哪个 repo
+          external_repository: WuKongSecurity/SpiderBOX	 # 发布到哪个 repo
           personal_token: ${{ secrets.ACCESS_TOKEN  }}	# 发布到其他 repo 需要在对应的 repo 上粘贴生成的 personal_access_token
           publish_dir: ./docs  # 注意这里指的是 Pages 要发布哪个文件夹的内容，而不是指发布到目标仓库的什么位置；因为 hugo 默认生成静态网页到 public 文件夹，所以这里发布 public 文件夹里的内容。
           publish_branch: gh-pages
