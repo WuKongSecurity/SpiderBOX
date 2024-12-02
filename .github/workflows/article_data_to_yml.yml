@@ -25,54 +25,27 @@ jobs:
           pip install -r requirements.txt
         working-directory: ./script
 
-      - name: List all files in data directory1
-        run: |
-          echo "Listing files in data directory1:"
-          ls -l
-        working-directory: ./script
-
-      - name: List all files in data directory2
-        run: |
-          echo "Listing files in data directory2:"
-          ls -l
-        working-directory: ./data
-
       # 运行 Python 脚本
       - name: Run Python script
         run: |
-          pwd
           python article_data_to_yml.py
         env:
           ARTICLE_API: ${{ secrets.ARTICLE_API }}
           ARTICLE_TOKEN: ${{ secrets.ARTICLE_TOKEN }}
         working-directory: ./script
 
-      - name: List all files in data directory3
+      # 在运行脚本后，列出 data 目录中的所有文件
+      - name: List all files in data directory
         run: |
           echo "Listing files in data directory:"
           ls -l
         working-directory: ./data
 
-      # 检查是否有更改
-#      - name: Check if need to commit
-#        id: check_changes
-#        run: |
-#          git diff --exit-code articles.yml
-#          if [ $? -eq 1 ]; then
-#            echo "File has been updated"
-#            echo "changed=true" >> $GITHUB_ENV
-#          else
-#            echo "No changes"
-#            echo "changed=false" >> $GITHUB_ENV
-#          fi
-#        working-directory: ./data
-
-      # 提交并推送更改，使用 GitHub Token 进行认证
+      # 在 articles.yml 有更新时，提交并推送更改，使用 GitHub Token 进行认证
       - name: Commit updated article.yml and push to repository
-#        if: env.changed == 'true'  # 只有在有更改时才执行提交操作
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          git config --global user.name "article-auto-update-actions"
+          git config --global user.email "article-auto-update-actions@github.com"
           git add data/articles.yml
           if git diff-index --quiet HEAD; then
             echo "No changes to commit"
