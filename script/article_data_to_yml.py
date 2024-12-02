@@ -6,7 +6,7 @@ from datetime import datetime
 
 ARTICLE_API = os.getenv('ARTICLE_API')
 ARTICLE_TOKEN = os.getenv('ARTICLE_TOKEN')
-YML_FILE = './data/articles.yml'
+YML_FILE = '../data/articles.yml'
 
 
 def get_articles():
