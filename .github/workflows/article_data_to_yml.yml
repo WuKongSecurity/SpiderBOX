@@ -33,3 +33,21 @@ jobs:
         env:
           ARTICLE_API: ${{ secrets.ARTICLE_API }}
           ARTICLE_TOKEN: ${{ secrets.ARTICLE_TOKEN }}
+
+      # 检查是否有更改
+      - name: Check if need to commit
+        id: check_changes
+        run: |
+          git diff --exit-code data/article.yml || echo "File has been updated"
+
+      # 提交并推送更改，使用 GitHub Token 进行认证
+      - name: Commit updated article.yml and push to repository
+        if: steps.check_changes.outputs.changed == 'true'  # 只有在有更改时才执行提交操作
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add data/article.yml
+          git commit -m "Update article.yml if data has changed"
+          git push origin HEAD:main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
