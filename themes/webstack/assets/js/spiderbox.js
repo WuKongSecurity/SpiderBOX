@@ -319,3 +319,21 @@ $(document).ready(function () {
     });
 });
 
+/* 初始化检查侧边栏是否需要展开 */
+window.addEventListener('DOMContentLoaded', (event) => {
+    // 检查 localStorage 中的 mini_sidebar 是否为 true，默认 true
+    const isMiniSidebar = localStorage.getItem('mini_sidebar') === 'true' || localStorage.getItem('mini_sidebar') === null;
+    const sidebarElement = document.getElementById('sidebar');
+
+    if (isMiniSidebar) {
+        sidebarElement.classList.add('mini-sidebar');
+        sidebarElement.classList.remove('animate-nav');
+        sidebarElement.style.width = '60px';
+        $('.header-mini-btn input[type="checkbox"]').prop("checked", true);
+    } else {
+        sidebarElement.classList.add('animate-nav');
+        sidebarElement.classList.remove('mini-sidebar');
+        sidebarElement.style.width = '170px';
+        $('.header-mini-btn input[type="checkbox"]').prop("checked", false);
+    }
+});
