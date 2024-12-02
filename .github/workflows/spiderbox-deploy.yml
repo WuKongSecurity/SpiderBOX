@@ -1,8 +1,14 @@
 name: Build and Deploy
 
 on:
+  # push 触发
   push:
     branches: [ main ]
+
+  # 收到文章更新触发
+  repository_dispatch:
+    types:
+      - update-article
 
 jobs:
   deploy:
