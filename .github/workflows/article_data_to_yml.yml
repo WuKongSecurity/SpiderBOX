@@ -46,7 +46,7 @@ jobs:
         id: check_changes
         run: |
           pwd
-          git diff --exit-code article.yml || echo "File has been updated"
+          git diff --exit-code articles.yml || echo "File has been updated"
         working-directory: ./data
 
       # 提交并推送更改，使用 GitHub Token 进行认证
@@ -55,7 +55,7 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add data/article.yml
+          git add data/articles.yml
           git commit -m "Update article.yml if data has changed"
           git push origin HEAD:main
         env:
