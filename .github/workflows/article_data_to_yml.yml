@@ -21,24 +21,31 @@ jobs:
       # 安装依赖包
       - name: Install dependencies
         run: |
-          cd script
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+        working-directory: ./script
 
       # 运行 Python 脚本
       - name: Run Python script
         run: |
-          cd script
+          pwd
           python article_data_to_yml.py
         env:
           ARTICLE_API: ${{ secrets.ARTICLE_API }}
           ARTICLE_TOKEN: ${{ secrets.ARTICLE_TOKEN }}
+        working-directory: ./script
 
       # 检查是否有更改
       - name: Check if need to commit
         id: check_changes
         run: |
-          git diff --exit-code data/article.yml || echo "File has been updated"
+          pwd
+          git diff --exit-code article.yml || echo "File has been updated"
+        working-directory: ./data
+
+      - name: Find project repository location
+        run:
+          echo "Project directory: $GITHUB_WORKSPACE"
 
       # 提交并推送更改，使用 GitHub Token 进行认证
       - name: Commit updated article.yml and push to repository
