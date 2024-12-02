@@ -74,7 +74,12 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add data/articles.yml
-          git commit -m "Update article.yml if data has changed"
-          git push origin HEAD:main
+          if git diff-index --quiet HEAD; then
+            echo "No changes to commit"
+          else
+            echo "Need update article.yml"
+            git commit -m "Update article.yml"
+            git push origin HEAD:main
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
