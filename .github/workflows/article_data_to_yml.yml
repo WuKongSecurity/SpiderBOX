@@ -35,6 +35,12 @@ jobs:
           ARTICLE_TOKEN: ${{ secrets.ARTICLE_TOKEN }}
         working-directory: ./script
 
+      - name: List all files in data directory
+        run: |
+          echo "Listing files in data directory:"
+          ls -l
+        working-directory: ./data
+
       # 检查是否有更改
       - name: Check if need to commit
         id: check_changes

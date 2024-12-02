@@ -75,9 +75,9 @@ def article_to_yml(data):
     time_now = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     if current_data != existing_data:
         write_yaml(current_data)
-        print(f'update success / {time_now}')
+        print(f'update success / {time_now} / {os.path.abspath(YML_FILE)}')
     else:
-        print(f'no need update / {time_now}')
+        print(f'no need update / {time_now} / / {os.path.abspath(YML_FILE)}')
 
 
 def task():
