@@ -20,6 +20,7 @@ def get_articles():
 
 
 def read_yaml():
+    print(os.path.abspath(YML_FILE))
     if os.path.exists(YML_FILE):
         with open(YML_FILE, 'r', encoding='utf-8') as file:
             return yaml.safe_load(file)
