@@ -2,6 +2,18 @@
   list:
   - links:
     - author: 玩转Code
+      release_time: '2024-12-02 23:28:25'
+      title: Vmware17虚拟机安装linux服务器教程
+      url: https://www.bilibili.com/video/BV1cH6MYAEU6
+    - author: 玩转Code
+      release_time: '2024-12-02 23:26:33'
+      title: 如何上传软件安装包到Vmware虚拟机？
+      url: https://www.bilibili.com/video/BV1kJ6MYYEwt
+    - author: 玩转Code
+      release_time: '2024-12-02 23:10:45'
+      title: Python闭包
+      url: https://www.bilibili.com/video/BV14D6MYGE67
+    - author: 玩转Code
       release_time: '2024-12-02 22:44:02'
       title: Java程序如何快速定位接口位置
       url: https://www.bilibili.com/video/BV1ar6MYEEF5
@@ -109,18 +121,6 @@
       release_time: '2024-11-22 00:51:46'
       title: JS逆向实战_音乐解析下载
       url: https://www.bilibili.com/video/BV13KUXY8EmK
-    - author: 玩转Code
-      release_time: '2024-11-21 21:03:53'
-      title: Linux-Python定时任务跑爬虫脚本
-      url: https://www.bilibili.com/video/BV1diUDYcEu1
-    - author: 玩转Code
-      release_time: '2024-11-21 20:56:38'
-      title: Linux环境安装Maven
-      url: https://www.bilibili.com/video/BV1oYUDYAEKd
-    - author: 时一十一姐呀
-      release_time: '2024-11-21 00:55:06'
-      title: p23爬虫自动化之drissionpage在无痕模式下启用浏览器插件
-      url: https://www.bilibili.com/video/BV1ymUyYbEcq
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
