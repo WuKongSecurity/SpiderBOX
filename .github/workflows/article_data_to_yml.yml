@@ -43,10 +43,6 @@ jobs:
           git diff --exit-code article.yml || echo "File has been updated"
         working-directory: ./data
 
-      - name: Find project repository location
-        run:
-          echo "Project directory: $GITHUB_WORKSPACE"
-
       # 提交并推送更改，使用 GitHub Token 进行认证
       - name: Commit updated article.yml and push to repository
         if: steps.check_changes.outputs.changed == 'true'  # 只有在有更改时才执行提交操作
