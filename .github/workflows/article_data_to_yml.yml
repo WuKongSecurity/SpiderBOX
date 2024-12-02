@@ -23,7 +23,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-        working-directory: ./script
+        working-directory: script
 
       # 运行 Python 脚本
       - name: Run Python script
@@ -33,13 +33,13 @@ jobs:
         env:
           ARTICLE_API: ${{ secrets.ARTICLE_API }}
           ARTICLE_TOKEN: ${{ secrets.ARTICLE_TOKEN }}
-        working-directory: ./script
+        working-directory: script
 
       - name: List all files in data directory
         run: |
           echo "Listing files in data directory:"
           ls -l
-        working-directory: ./data
+        working-directory: data
 
       # 检查是否有更改
       - name: Check if need to commit
@@ -53,7 +53,7 @@ jobs:
             echo "No changes"
             echo "changed=false" >> $GITHUB_ENV
           fi
-        working-directory: ./data
+        working-directory: data
 
       # 提交并推送更改，使用 GitHub Token 进行认证
       - name: Commit updated article.yml and push to repository
