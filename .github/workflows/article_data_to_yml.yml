@@ -21,13 +21,15 @@ jobs:
       # 安装依赖包
       - name: Install dependencies
         run: |
+          cd script
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
       # 运行 Python 脚本
       - name: Run Python script
         run: |
-          python SpiderBOX/script/article_data_to_yml.py
+          cd script
+          python article_data_to_yml.py
         env:
           ARTICLE_API: ${{ secrets.ARTICLE_API }}
           ARTICLE_TOKEN: ${{ secrets.ARTICLE_TOKEN }}
