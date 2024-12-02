@@ -45,13 +45,19 @@ jobs:
       - name: Check if need to commit
         id: check_changes
         run: |
-          pwd
-          git diff --exit-code articles.yml || echo "File has been updated"
+          git diff --exit-code articles.yml
+          if [ $? -eq 1 ]; then
+            echo "File has been updated"
+            echo "changed=true" >> $GITHUB_ENV
+          else
+            echo "No changes"
+            echo "changed=false" >> $GITHUB_ENV
+          fi
         working-directory: ./data
 
       # 提交并推送更改，使用 GitHub Token 进行认证
       - name: Commit updated article.yml and push to repository
-        if: steps.check_changes.outputs.changed == 'true'  # 只有在有更改时才执行提交操作
+        if: env.changed == 'true'  # 只有在有更改时才执行提交操作
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
