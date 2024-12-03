@@ -2,6 +2,10 @@
   list:
   - links:
     - author: 玩转Code
+      release_time: '2024-12-03 22:37:31'
+      title: IDEA插件打印SQL不用手动拼接参数
+      url: https://www.bilibili.com/video/BV1xjzSYXErd
+    - author: 玩转Code
       release_time: '2024-12-03 22:14:07'
       title: IDEA好用插件推荐
       url: https://www.bilibili.com/video/BV1HszSY7Erx
@@ -117,10 +121,6 @@
       release_time: '2024-11-23 21:53:19'
       title: m3u8视频格式下载分析
       url: https://www.bilibili.com/video/BV1rRB2YKENQ
-    - author: 玩转Code
-      release_time: '2024-11-23 21:23:06'
-      title: Python执行JS代码_JS2Py
-      url: https://www.bilibili.com/video/BV1y2B2YrECp
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
