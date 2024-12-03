@@ -2,6 +2,10 @@
   list:
   - links:
     - author: 玩转Code
+      release_time: '2024-12-03 22:14:07'
+      title: IDEA好用插件推荐
+      url: https://www.bilibili.com/video/BV1HszSY7Erx
+    - author: 玩转Code
       release_time: '2024-12-03 21:54:39'
       title: 数据库查询出多条记录如何优雅处理
       url: https://www.bilibili.com/video/BV1uDzSY8E9D
@@ -117,10 +121,6 @@
       release_time: '2024-11-23 21:23:06'
       title: Python执行JS代码_JS2Py
       url: https://www.bilibili.com/video/BV1y2B2YrECp
-    - author: B站用户骚神
-      release_time: '2024-11-22 22:40:47'
-      title: 骚神Drissionpage教学 第27课 WebSocket抓包和Http抓包
-      url: https://www.bilibili.com/video/BV1reBBYmECj
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
