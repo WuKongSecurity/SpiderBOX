@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: CertiK_CN
+      release_time: '2024-12-03 11:52:26'
+      title: '[原创]技术详解 | 如何对Cosmos SDK标准模块进行形式化验证'
+      url: https://bbs.kanxue.com/thread-284659.htm
     - author: w2sfot
       release_time: '2024-12-03 11:30:22'
       title: 【源码分享】threejs小项目：萌蠢的小羊
@@ -486,10 +490,6 @@
       release_time: '2024-11-25 10:24:29'
       title: 如何寻找适合的HTTP代理IP资源？
       url: https://crawler.blog.csdn.net/article/details/143923793
-    - author: CertiK_CN
-      release_time: '2024-11-22 18:15:48'
-      title: '[原创]Web3.0安全开发实践：Clarity最佳实践总结'
-      url: https://bbs.kanxue.com/thread-284523.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章
