@@ -402,6 +402,10 @@
       release_time: '2024-12-02 11:16:23'
       title: '[下载]Acunetix-v24.10.241106172'
       url: https://bbs.kanxue.com/thread-284645.htm
+    - author: '1472405892882891'
+      release_time: '2024-12-02 00:00:00'
+      title: unicorn模拟执行在逆向中的妙用-以2024古剑山India Pale Ale为例
+      url: https://xz.aliyun.comhttps://xz.aliyun.com/t/16513
     - author: 九月镇灵将
       release_time: '2024-12-01 18:09:28'
       title: app逆向实战：简单记录frida检测和证书双向校验破解过程
@@ -486,10 +490,6 @@
       release_time: '2024-11-25 20:34:48'
       title: Windows栈溢出零基础指南
       url: https://blog.csdn.net/qq_63701832/article/details/144039515
-    - author: wx_ZXC_301
-      release_time: '2024-11-25 18:15:48'
-      title: '[原创]某黑产app的so文件无法找到的分析'
-      url: https://bbs.kanxue.com/thread-284545.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章
