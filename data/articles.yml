@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: '2024-12-04 00:00:00'
+      title: 安卓逆向 -- 将APK转换为Android Studio项目进行二次开发
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037097&idx=1&sn=c71f92975daf559fbed227a330237546
+    - author: 逆向有你
+      release_time: '2024-12-04 00:00:00'
+      title: PC逆向 -- 创建线程
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037097&idx=2&sn=69c64c699020813b608d6b6bfb2a13ed
     - author: 兔老大Android和iOS逆向
       release_time: '2024-12-03 17:12:11'
       title: 【iOS逆向】某某小说content逆向分析
@@ -236,17 +244,13 @@
       release_time: '2024-11-27 00:00:00'
       title: PC逆向 -- 内核APC执行
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652036988&idx=2&sn=b4ae62d35fb5fa757e2ed3371a3ff7c4
-    - author: 爬虫逆向之旅
-      release_time: '2024-11-26 17:28:49'
-      title: 抖音最新a_bogus算法
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzMwNTMzOA==&mid=2247492711&idx=1&sn=ab63bbbb97a8f54f6a20fc44a4b0ece0
-    - author: y小白的笔记
-      release_time: '2024-11-26 11:26:38'
-      title: 简易RequestsBase类
-      url: https://mp.weixin.qq.com/s?__biz=MzIyMjQ3OTE5MA==&mid=2247484467&idx=1&sn=39ae4f2299671fcaf759896fd935966e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 方块君
+      release_time: '2024-12-3 21:00:00'
+      title: Fake Location 授权分析以及后门分析
+      url: https://www.52pojie.cn/thread-1988024-1-1.html
     - author: 方块君
       release_time: '2024-12-3 18:47:00'
       title: 未编辑完成，手误发布了，请管理删除
@@ -363,10 +367,6 @@
       release_time: '2024-11-19 08:31:00'
       title: 非root环境下Frida完全内置apk打包方案及2种注入方式回顾
       url: https://www.52pojie.cn/thread-1983320-1-1.html
-    - author: littlewhite11
-      release_time: '2024-11-18 23:13:00'
-      title: 【JS逆向】某某经营网jsl逆向分析
-      url: https://www.52pojie.cn/thread-1983279-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
