@@ -371,6 +371,10 @@
     term: 吾爱破解
   - links:
     - author: 带带弟弟学爬虫__
+      release_time: '2024-12-03 14:39:27'
+      title: 某借贷APP白盒AES逆向分析
+      url: https://blog.csdn.net/A_fanyifan/article/details/144214171
+    - author: 带带弟弟学爬虫__
       release_time: '2024-12-03 14:16:54'
       title: 某梆加固企业过Frida检测演示
       url: https://blog.csdn.net/A_fanyifan/article/details/144213775
@@ -486,10 +490,6 @@
       release_time: '2024-11-25 18:15:48'
       title: '[原创]某黑产app的so文件无法找到的分析'
       url: https://bbs.kanxue.com/thread-284545.htm
-    - author: method
-      release_time: '2024-11-25 18:15:48'
-      title: '[原创]一个app的登录字段分析'
-      url: https://bbs.kanxue.com/thread-284554.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章
