@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 玩转Code
+      release_time: '2024-12-03 21:54:39'
+      title: 数据库查询出多条记录如何优雅处理
+      url: https://www.bilibili.com/video/BV1uDzSY8E9D
     - author: HD236300
       release_time: '2024-12-03 15:21:32'
       title: 鸢之歌 游戏原声音乐（17p）
@@ -117,10 +121,6 @@
       release_time: '2024-11-22 22:40:47'
       title: 骚神Drissionpage教学 第27课 WebSocket抓包和Http抓包
       url: https://www.bilibili.com/video/BV1reBBYmECj
-    - author: 玩转Code
-      release_time: '2024-11-22 22:05:25'
-      title: JS逆向实战_全国建筑市场平台响应内容解密
-      url: https://www.bilibili.com/video/BV1NGBzYXEG2
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
