@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: '2024-12-04 21:31:00'
+      title: 骚神Drissionpage教学 第31课 彻底模拟手机端
+      url: https://www.bilibili.com/video/BV128iUY5EK2
     - author: 玩转Code
       release_time: '2024-12-03 22:37:31'
       title: IDEA插件打印SQL不用手动拼接参数
@@ -117,10 +121,6 @@
       release_time: '2024-11-24 21:38:52'
       title: 某东H5st - 某音ab xb纯算成品演示 仅供学习参考！
       url: https://www.bilibili.com/video/BV1eaBtYMEvi
-    - author: 玩转Code
-      release_time: '2024-11-23 21:53:19'
-      title: m3u8视频格式下载分析
-      url: https://www.bilibili.com/video/BV1rRB2YKENQ
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
