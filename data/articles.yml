@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 西门浪0v0
+      release_time: '2024-12-04 21:52:52'
+      title: 逆向工具使用教程八
+      url: https://www.bilibili.com/video/BV1KtiUY1Ebs
     - author: B站用户骚神
       release_time: '2024-12-04 21:31:00'
       title: 骚神Drissionpage教学 第31课 彻底模拟手机端
@@ -117,10 +121,6 @@
       release_time: '2024-11-25 22:13:21'
       title: 有道最新翻译接口逆向
       url: https://www.bilibili.com/video/BV13KzKYrEXt
-    - author: 波波老师带你学爬虫
-      release_time: '2024-11-24 21:38:52'
-      title: 某东H5st - 某音ab xb纯算成品演示 仅供学习参考！
-      url: https://www.bilibili.com/video/BV1eaBtYMEvi
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
