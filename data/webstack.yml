@@ -1629,6 +1629,10 @@
           logo: gh_f561c4f69250.jpg
           qrcode: images/qrcode/gh_f561c4f69250.jpg
           description: 公众号：爬虫逆向笔记
+        - title: Bug攻防
+          logo: gh_339fd590d9cf.jpg
+          qrcode: images/qrcode/gh_339fd590d9cf.jpg
+          description: 公众号：Bug攻防
         # 安卓逆向居多
         - title: 大数据安全技术学习
           logo: r1ysue.jpg
