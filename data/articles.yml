@@ -247,6 +247,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: dandelion2sunny
+      release_time: '2024-12-4 23:55:00'
+      title: 【JS逆向】瑞数6逆向简单分析
+      url: https://www.52pojie.cn/thread-1988393-1-1.html
+    - author: wxwyumu
+      release_time: '2024-12-4 16:53:00'
+      title: xhs 某书 旋转验证码 图片识别+算法 纯协议
+      url: https://www.52pojie.cn/thread-1988302-1-1.html
     - author: 方块君
       release_time: '2024-12-3 21:00:00'
       title: Fake Location 授权分析以及后门分析
@@ -359,14 +367,6 @@
       release_time: '2024-11-20 11:30:00'
       title: 去除软件中的捆绑广告弹窗-图文教程
       url: https://www.52pojie.cn/thread-1983734-1-1.html
-    - author: littlewhite11
-      release_time: '2024-11-19 20:14:00'
-      title: 【JS逆向】某Q音乐VMP纯算
-      url: https://www.52pojie.cn/thread-1983577-1-1.html
-    - author: 笑对VS人生
-      release_time: '2024-11-19 08:31:00'
-      title: 非root环境下Frida完全内置apk打包方案及2种注入方式回顾
-      url: https://www.52pojie.cn/thread-1983320-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
