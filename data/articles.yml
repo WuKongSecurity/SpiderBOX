@@ -378,6 +378,10 @@
       release_time: '2024-12-04 18:18:20'
       title: '[原创]手游渗透测试框架'
       url: https://bbs.kanxue.com/thread-284688.htm
+    - author: 软件君子
+      release_time: '2024-12-04 17:40:26'
+      title: '[原创] 一分钟看完Android 应用启动流程'
+      url: https://bbs.kanxue.com/thread-284686.htm
     - author: 吴秋霖
       release_time: '2024-12-04 09:00:00'
       title: temu登录接口逆向分析（含Py纯算）
@@ -486,10 +490,6 @@
       release_time: '2024-11-28 20:24:34'
       title: '[原创] LIAPP手遊保護分析'
       url: https://bbs.kanxue.com/thread-284601.htm
-    - author: wx_我想吃橘子味的橙子々
-      release_time: '2024-11-28 16:31:12'
-      title: 某pp线上超市加密纯算分析
-      url: https://bbs.kanxue.com/thread-284599.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章
