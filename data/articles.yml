@@ -124,14 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
-    - author: 逆向有你
-      release_time: '2024-12-04 00:00:00'
-      title: 安卓逆向 -- 将APK转换为Android Studio项目进行二次开发
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037097&idx=1&sn=c71f92975daf559fbed227a330237546
+    - author: 二进制磨剑
+      release_time: '2024-12-04 10:20:26'
+      title: 论文笔记 | DeGPT - 大语言模型优化反编译代码 | 大语言模型能减轻逆向工程工作量吗？
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485071&idx=1&sn=f58bdc2593b2f0bcb29d56b2aca91e06
     - author: 逆向有你
       release_time: '2024-12-04 00:00:00'
       title: PC逆向 -- 创建线程
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037097&idx=2&sn=69c64c699020813b608d6b6bfb2a13ed
+    - author: 逆向有你
+      release_time: '2024-12-04 00:00:00'
+      title: 安卓逆向 -- 将APK转换为Android Studio项目进行二次开发
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037097&idx=1&sn=c71f92975daf559fbed227a330237546
     - author: 兔老大Android和iOS逆向
       release_time: '2024-12-03 17:12:11'
       title: 【iOS逆向】某某小说content逆向分析
@@ -240,10 +244,6 @@
       release_time: '2024-11-27 00:00:00'
       title: 安卓逆向 -- 某游戏免广告获得奖励
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652036988&idx=1&sn=bb9f88e022d2530d9262d15f6053f522
-    - author: 逆向有你
-      release_time: '2024-11-27 00:00:00'
-      title: PC逆向 -- 内核APC执行
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652036988&idx=2&sn=b4ae62d35fb5fa757e2ed3371a3ff7c4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
