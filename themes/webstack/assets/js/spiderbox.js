@@ -66,35 +66,35 @@ $(document).ready(function () {
 });
 
 /* 弹窗二：交流群 */
-$(document).ready(function () {
-    const showGroupElement = document.getElementById("show-group");
-    showGroupElement.addEventListener("click", function () {
-        Swal.fire({
-            text: "扫码加入QQ / 微信交流群",
-            confirmButtonText: "俺知道了",
-            confirmButtonColor: "#0084ff",
-            imageWidth: 420,
-            imageUrl: "https://static.spiderapi.cn/spiderbox/images/group.webp",
-            imageAlt: "QQ / 微信交流群",
-            showClass: {
-                popup: "swal2-show"
-            },
-            hideClass: {
-                popup: "swal2-hide"
-            },
-            allowOutsideClick: false,
-            customClass: {
-                image: "custom-swal-image"
-            }
-        }).then((result) => {
-            if (result.isConfirmed) {
-                Swal.close();
-            }
-        });
-        const popupContainer = document.querySelector(".swal2-container");
-        popupContainer.style.zIndex = "9999";
-    })
-});
+// $(document).ready(function () {
+//     const showGroupElement = document.getElementById("show-group");
+//     showGroupElement.addEventListener("click", function () {
+//         Swal.fire({
+//             text: "扫码加入QQ / 微信交流群",
+//             confirmButtonText: "俺知道了",
+//             confirmButtonColor: "#0084ff",
+//             imageWidth: 420,
+//             imageUrl: "https://static.spiderapi.cn/spiderbox/images/group.webp",
+//             imageAlt: "QQ / 微信交流群",
+//             showClass: {
+//                 popup: "swal2-show"
+//             },
+//             hideClass: {
+//                 popup: "swal2-hide"
+//             },
+//             allowOutsideClick: false,
+//             customClass: {
+//                 image: "custom-swal-image"
+//             }
+//         }).then((result) => {
+//             if (result.isConfirmed) {
+//                 Swal.close();
+//             }
+//         });
+//         const popupContainer = document.querySelector(".swal2-container");
+//         popupContainer.style.zIndex = "9999";
+//     })
+// });
 
 /* 弹窗三：免责声明 */
 $(document).ready(function () {

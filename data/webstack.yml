@@ -1272,7 +1272,7 @@
           logo: github.png
           url: https://github.com/wistbean/learn_python3_spider
           description: python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等。
-    - term: 优质博主
+    - term: 文章博主
       links:
         # 大哥先顶上
         - title: 国家安全部
@@ -1287,6 +1287,10 @@
           logo: cacweixin.jpg
           qrcode: images/qrcode/cacweixin.jpg
           description: 公众号：网信中国
+        - title: 个人信息与数据保护实务评论
+          logo: gh_15e0f41da787.jpg
+          qrcode: images/qrcode/gh_15e0f41da787.jpg
+          description: 公众号：个人信息与数据保护实务评论，推介中国个人信息/数据保护/隐私保护最新发展，包括法规速递、执法机关动态、行政执法、民事诉讼、中外执法交流、学术研究等。提供案例解析、理论介绍、律师实务操作指南，以及个人信息及数据保护评论和文章。
 
         # JS 逆向居多
         - title: 崔庆才
@@ -1750,6 +1754,193 @@
           logo: XiaoWuGeRisk.jpg
           qrcode: images/qrcode/XiaoWuGeRisk.jpg
           description: 公众号：小伍哥聊风控
+    - term: 视频博主
+      links:
+        - title: 信息网络吴律师
+          logo: wuwm.jpg
+          url: https://www.douyin.com/user/MS4wLjABAAAAPrRhGWL5UMKtgH0W2zhTtf4DtoaO7m5UKaoV8nT3vqM5TMqRqtFnFU1dqKeCaG9X
+          description: 科班计算机系律师、专利代理师，曾获多项程序竞赛奖牌🏅，某部五年工作经历，专注IT信息网络、知识产权刑事/民商/刑民交叉领域。
+        - title: 何思辰｜计算机犯罪律师
+          logo: 94739378414.jpg
+          url: https://www.douyin.com/user/MS4wLjABAAAAL9Gt8pXPEOgTkwXNZJIUwFk82E7zNIKt3muxNTkq5O4
+          description: 专攻计算机网络犯罪、电子数据信息网络取证、鉴定报告专家质证、无罪辩护，北京盈科（成都）律师事务所网络高新技术部副主任律师，经历：软件开发、编程经验，法律硕士。
+        - title: 邓琳 成都信息网络律师
+          logo: 372263045.jpg
+          url: https://www.douyin.com/user/MS4wLjABAAAA8p8NoqDdxW5MyLHDpAq0NMlvV724hw8GjgKFrtdHK38
+          description: 民商事争议纠纷解决；信息网络犯罪刑事辩护、控告、风险防控合规，专办民商事纠纷诉讼解决方案，帮信、黑客攻击、跑分xq、游戏私服外挂、虚拟币等涉网犯罪的辩护、控告、风险防控。
+        - title: 秀律闲聊数据合规
+          logo: hexiulawyer.jpg
+          url: https://www.douyin.com/user/MS4wLjABAAAAJN18RUd5kezRp6_3yi5-PsQNxQGmhdLYxUFMcC0O8IM
+          description: 何秀律师，北京炜衡（成都）律师事务所，合伙人律师，注册信息安全工程师（CISP），执业年限：12年，专注数据合规、民商事诉讼。代表文章：《元宇宙中非同质化代币NFT的法律性质与法律风险浅析》、《从数据生命周期视角浅析数据安全合规的风险防范》、《即时通信APP实施日志回捞机制之数据合规及法律风险浅析》等。
+        - title: 刑事律师赵景浩
+          logo: dyjiykiwi7uy.jpg
+          url: https://www.douyin.com/user/MS4wLjABAAAAa00NkNVIR5JeN8ygK_h26Ex-Vh-t4MlJLTLSbiHsFPEspj26ErSd04Ur0smLgm2b
+          description: 专攻网络犯罪（开设赌场、非法控制计算机信息系统、侵犯公民个人信息罪、破坏计算机信息系统罪、洗钱类犯罪等）辩护和诈骗犯罪辩护。
+
+        - title: 铭叔_
+          logo: 387193381.jpg
+          url: https://space.bilibili.com/387193381
+          description: 铭叔_的 bilibili 主页
+        - title: QiQi指的是琦琦
+          logo: 397155590.jpg
+          url: https://space.bilibili.com/397155590
+          description: QiQi指的是琦琦的 bilibili 主页
+        - title: ikun的嘴
+          logo: 397037741.jpg
+          url: https://space.bilibili.com/397037741
+          description: ikun的嘴的 bilibili 主页
+        - title: 挽风逆向
+          logo: 297069821.jpg
+          url: https://space.bilibili.com/297069821/
+          description: 挽风逆向的 bilibili 主页
+        - title: 零点520666
+          logo: 4670123.jpg
+          url: https://space.bilibili.com/4670123/
+          description: 零点520666的 bilibili 主页
+        - title: 回锅炒辣椒
+          logo: 35242527.jpg
+          url: https://space.bilibili.com/35242527
+          description: 回锅炒辣椒的 bilibili 主页
+        - title: 若水0014
+          logo: 521068039.jpg
+          url: https://space.bilibili.com/521068039
+          description: 若水0014的 bilibili 主页
+        - title: 逆向狗都不学
+          logo: 3461578481470147.jpg
+          url: https://space.bilibili.com/3461578481470147
+          description: 逆向狗都不学的 bilibili 主页
+        - title: 波波老师带你学爬虫
+          logo: 633101470.jpg
+          url: https://space.bilibili.com/633101470
+          description: 波波老师带你学爬虫的 bilibili 主页
+        - title: 漠染千舟
+          logo: 1533897577.jpg
+          url: https://space.bilibili.com/1533897577
+          description: 漠染千舟的 bilibili 主页
+        - title: 名字叫阿柒
+          logo: 383977952.jpg
+          url: https://space.bilibili.com/383977952
+          description: 名字叫阿柒的 bilibili 主页
+        - title: HD236300
+          logo: 450412693.jpg
+          url: https://space.bilibili.com/450412693
+          description: HD236300的 bilibili 主页
+        - title: nothing__233
+          logo: 3493257935850246.jpg
+          url: https://space.bilibili.com/3493257935850246
+          description: nothing__233的 bilibili 主页
+        - title: B站用户骚神
+          logo: 48179703.jpg
+          url: https://space.bilibili.com/48179703
+          description: B站用户骚神的 bilibili 主页
+        - title: 安静的小泰迪
+          logo: 470244840.jpg
+          url: https://space.bilibili.com/470244840
+          description: 安静的小泰迪的 bilibili 主页
+        - title: 凛音姫
+          logo: 358732858.jpg
+          url: https://space.bilibili.com/358732858
+          description: 凛音姫的 bilibili 主页
+        - title: 海斯-AlanHays
+          logo: 247999712.jpg
+          url: https://space.bilibili.com/247999712
+          description: 海斯-AlanHays的 bilibili 主页
+        - title: 时一十一姐呀
+          logo: 308704191.jpg
+          url: https://space.bilibili.com/308704191
+          description: 时一十一姐呀的 bilibili 主页
+        - title: 纷羽逍遥
+          logo: 81216470.jpg
+          url: https://space.bilibili.com/81216470
+          description: 纷羽逍遥的 bilibili 主页
+        - title: 风と自由
+          logo: 480809815.jpg
+          url: https://space.bilibili.com/480809815
+          description: 风と自由的 bilibili 主页
+        - title: 夜幕NightTeam
+          logo: 472444378.jpg
+          url: https://space.bilibili.com/472444378
+          description: 夜幕NightTeam的 bilibili 主页
+        - title: 悦来客栈的老板
+          logo: 1796457925.jpg
+          url: https://space.bilibili.com/1796457925
+          description: 悦来客栈的老板的 bilibili 主页
+        - title: 落枫_rain
+          logo: 36624848.jpg
+          url: https://space.bilibili.com/36624848
+          description: 落枫_rain的 bilibili 主页
+        - title: 陈不不and挽风的逆向
+          logo: 227452348.jpg
+          url: https://space.bilibili.com/227452348
+          description: 陈不不and挽风的逆向的 bilibili 主页
+        - title: 小肩膀-逆向安全培训
+          logo: 534838862.jpg
+          url: https://space.bilibili.com/534838862
+          description: 小肩膀-逆向安全培训的 bilibili 主页
+        - title: 陈公子的话
+          logo: 453818250.jpg
+          url: https://space.bilibili.com/453818250
+          description: 陈公子的话的 bilibili 主页
+        - title: 田霸先
+          logo: 114131408.jpg
+          url: https://space.bilibili.com/114131408
+          description: 田霸先的 bilibili 主页
+        - title: 玩转Code
+          logo: 409871996.jpg
+          url: https://space.bilibili.com/409871996
+          description: 玩转Code的 bilibili 主页
+        - title: 醒醒该干饭了
+          logo: 9532462.jpg
+          url: https://space.bilibili.com/9532462
+          description: 醒醒该干饭了的 bilibili 主页
+        - title: 一燕来去一年冬
+          logo: 38940666.jpg
+          url: https://space.bilibili.com/38940666
+          description: 一燕来去一年冬的 bilibili 主页
+        - title: 猿人学Python
+          logo: 392333105.jpg
+          url: https://space.bilibili.com/392333105
+          description: 猿人学Python的 bilibili 主页
+        - title: 可乐还是百事好呀
+          logo: 182558639.jpg
+          url: https://space.bilibili.com/182558639
+          description: 可乐还是百事好呀的 bilibili 主页
+        - title: 白面OVO
+          logo: 392040559.jpg
+          url: https://space.bilibili.com/392040559
+          description: 白面OVO的 bilibili 主页
+        - title: 西门浪0v0
+          logo: 1366032025.jpg
+          url: https://space.bilibili.com/1366032025
+          description: 西门浪0v0的 bilibili 主页
+        - title: 二进制科学
+          logo: 500303.jpg
+          url: https://space.bilibili.com/500303
+          description: 二进制科学的 bilibili 主页
+        - title: 会飞ヾ的鱼
+          logo: 358764286.jpg
+          url: https://space.bilibili.com/358764286
+          description: 会飞ヾ的鱼的 bilibili 主页
+        - title: 安卓反调试frida检测Neo
+          logo: 27577421.jpg
+          url: https://space.bilibili.com/27577421
+          description: 安卓反调试frida检测Neo的 bilibili 主页
+        - title: r0ysue
+          logo: 31025974.jpg
+          url: https://space.bilibili.com/31025974
+          description: r0ysue的 bilibili 主页
+        - title: 珍惜Any
+          logo: 434541052.jpg
+          url: https://space.bilibili.com/434541052
+          description: 珍惜Any的 bilibili 主页
+        - title: 和沐阳学逆向
+          logo: 439348342.jpg
+          url: https://space.bilibili.com/439348342
+          description: 和沐阳学逆向的 bilibili 主页
+        - title: 逆向不看学历
+          logo: 105035514.jpg
+          url: https://space.bilibili.com/105035514
+          description: 逆向不看学历的 bilibili 主页
     - term: 交流论坛
       links:
         - title: 看雪安全社区
@@ -1800,8 +1991,6 @@
           logo: csdnrs.png
           url: https://bbs.csdn.net/forums/ReverseSecurity
           description: CSDN 逆向安全社区。
-    - term: 国外论坛
-      links:
         - title: The Web Scraping Club
           logo: thewebscraping.jpg
           url: https://substack.thewebscraping.club/
