@@ -18,10 +18,6 @@
       title: 骚神Drissionpage教学 第30课 京东商品秒杀抢购
       url: https://www.bilibili.com/video/BV1xhzZYLENk
     - author: 玩转Code
-      release_time: '2024-11-29 22:59:33'
-      title: Pycharm中执行JS代码
-      url: https://www.bilibili.com/video/BV1rTzrY9EUs
-    - author: 玩转Code
       release_time: '2024-11-29 22:53:15'
       title: JS逆向实战_我直接右键禁止debugger不就行了吗？
       url: https://www.bilibili.com/video/BV1xAzrYhESx
@@ -29,10 +25,6 @@
       release_time: '2024-11-29 16:18:45'
       title: 骚神Drissionpage教学 第29课 朗读并抓取某音直播弹幕
       url: https://www.bilibili.com/video/BV1nczqYLEZk
-    - author: 玩转Code
-      release_time: '2024-11-28 23:20:30'
-      title: Pycharm正版激活账号激活码激活详细教程
-      url: https://www.bilibili.com/video/BV1pvzYYiEaA
     - author: 玩转Code
       release_time: '2024-11-28 22:52:00'
       title: 多文件无限debuggerJS逆向实战
@@ -54,21 +46,9 @@
       title: 训练验证码-yolov8-cpu/gpu训练滑块
       url: https://www.bilibili.com/video/BV1QYz8YgEw5
     - author: 玩转Code
-      release_time: '2024-11-28 21:33:35'
-      title: Git工具使用教程
-      url: https://www.bilibili.com/video/BV1hYz8Y3Ess
-    - author: 玩转Code
-      release_time: '2024-11-28 20:25:10'
-      title: Python编程技巧系列之URL拼接通用写法
-      url: https://www.bilibili.com/video/BV1zdz8YsECQ
-    - author: 玩转Code
       release_time: '2024-11-27 22:56:28'
       title: JS逆向实战箭头函数
       url: https://www.bilibili.com/video/BV1UVBRYTESH
-    - author: 玩转Code
-      release_time: '2024-11-27 22:28:22'
-      title: Python编程技巧系列之99%的人都不知道的字典取值
-      url: https://www.bilibili.com/video/BV1RkBRYjEjg
     - author: 西门浪0v0
       release_time: '2024-11-27 22:21:52'
       title: 安卓逆向 某企业壳 逆向工具使用
@@ -86,10 +66,6 @@
       title: p24爬虫自动化之drissionpage调用指纹浏览器
       url: https://www.bilibili.com/video/BV1B9zNYSEMw
     - author: 玩转Code
-      release_time: '2024-11-25 23:58:24'
-      title: 学员疑问：逆向接口返回的是一段js代码如何破???
-      url: https://www.bilibili.com/video/BV1Z9zNYUEfZ
-    - author: 玩转Code
       release_time: '2024-11-25 22:13:21'
       title: 有道最新翻译接口逆向
       url: https://www.bilibili.com/video/BV13KzKYrEXt
@@ -97,10 +73,6 @@
       release_time: '2024-11-24 21:38:52'
       title: 某东H5st - 某音ab xb纯算成品演示 仅供学习参考！
       url: https://www.bilibili.com/video/BV1eaBtYMEvi
-    - author: 玩转Code
-      release_time: '2024-11-23 21:53:19'
-      title: m3u8视频格式下载分析
-      url: https://www.bilibili.com/video/BV1rRB2YKENQ
     - author: 玩转Code
       release_time: '2024-11-23 21:23:06'
       title: Python执行JS代码_JS2Py
@@ -121,6 +93,34 @@
       release_time: '2024-11-21 21:03:53'
       title: Linux-Python定时任务跑爬虫脚本
       url: https://www.bilibili.com/video/BV1diUDYcEu1
+    - author: 时一十一姐呀
+      release_time: '2024-11-21 00:55:06'
+      title: p23爬虫自动化之drissionpage在无痕模式下启用浏览器插件
+      url: https://www.bilibili.com/video/BV1ymUyYbEcq
+    - author: 时一十一姐呀
+      release_time: '2024-11-20 23:59:06'
+      title: p22爬虫自动化之drissionpage截取长滚动条隐藏的截图
+      url: https://www.bilibili.com/video/BV112UyYFELj
+    - author: 时一十一姐呀
+      release_time: '2024-11-20 23:40:57'
+      title: p2-0爬虫自动化之drissionpage使用Chromium导包替换ChromiumPage
+      url: https://www.bilibili.com/video/BV1mrUyYYExA
+    - author: 玩转Code
+      release_time: '2024-11-20 20:21:04'
+      title: JS逆向实战_浏览器环境联调
+      url: https://www.bilibili.com/video/BV1WXSuYAEZQ
+    - author: ikun的嘴
+      release_time: '2024-11-20 00:28:05'
+      title: js逆向vmp纯算大致流程解析
+      url: https://www.bilibili.com/video/BV1ENScYAE7G
+    - author: 玩转Code
+      release_time: '2024-11-19 22:56:24'
+      title: JS逆向实战_Array数组常用API
+      url: https://www.bilibili.com/video/BV1LGScYtEd2
+    - author: 玩转Code
+      release_time: '2024-11-19 11:03:29'
+      title: JS逆向补环境到底补的是啥？
+      url: https://www.bilibili.com/video/BV1x9UtYnEk9
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
