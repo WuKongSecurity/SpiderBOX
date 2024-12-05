@@ -9,38 +9,10 @@
       release_time: '2024-12-04 21:31:00'
       title: 骚神Drissionpage教学 第31课 彻底模拟手机端
       url: https://www.bilibili.com/video/BV128iUY5EK2
-    - author: 玩转Code
-      release_time: '2024-12-03 22:37:31'
-      title: IDEA插件打印SQL不用手动拼接参数
-      url: https://www.bilibili.com/video/BV1xjzSYXErd
-    - author: 玩转Code
-      release_time: '2024-12-03 22:14:07'
-      title: IDEA好用插件推荐
-      url: https://www.bilibili.com/video/BV1HszSY7Erx
-    - author: 玩转Code
-      release_time: '2024-12-03 21:54:39'
-      title: 数据库查询出多条记录如何优雅处理
-      url: https://www.bilibili.com/video/BV1uDzSY8E9D
     - author: HD236300
       release_time: '2024-12-03 15:21:32'
       title: 鸢之歌 游戏原声音乐（17p）
       url: https://www.bilibili.com/video/BV1C5z1YBE5x
-    - author: 玩转Code
-      release_time: '2024-12-02 23:28:25'
-      title: Vmware17虚拟机安装linux服务器教程
-      url: https://www.bilibili.com/video/BV1cH6MYAEU6
-    - author: 玩转Code
-      release_time: '2024-12-02 23:26:33'
-      title: 如何上传软件安装包到Vmware虚拟机？
-      url: https://www.bilibili.com/video/BV1kJ6MYYEwt
-    - author: 玩转Code
-      release_time: '2024-12-02 23:10:45'
-      title: Python闭包
-      url: https://www.bilibili.com/video/BV14D6MYGE67
-    - author: 玩转Code
-      release_time: '2024-12-02 22:44:02'
-      title: Java程序如何快速定位接口位置
-      url: https://www.bilibili.com/video/BV1ar6MYEEF5
     - author: B站用户骚神
       release_time: '2024-12-01 20:11:20'
       title: 骚神Drissionpage教学 第30课 京东商品秒杀抢购
@@ -121,6 +93,34 @@
       release_time: '2024-11-25 22:13:21'
       title: 有道最新翻译接口逆向
       url: https://www.bilibili.com/video/BV13KzKYrEXt
+    - author: 波波老师带你学爬虫
+      release_time: '2024-11-24 21:38:52'
+      title: 某东H5st - 某音ab xb纯算成品演示 仅供学习参考！
+      url: https://www.bilibili.com/video/BV1eaBtYMEvi
+    - author: 玩转Code
+      release_time: '2024-11-23 21:53:19'
+      title: m3u8视频格式下载分析
+      url: https://www.bilibili.com/video/BV1rRB2YKENQ
+    - author: 玩转Code
+      release_time: '2024-11-23 21:23:06'
+      title: Python执行JS代码_JS2Py
+      url: https://www.bilibili.com/video/BV1y2B2YrECp
+    - author: B站用户骚神
+      release_time: '2024-11-22 22:40:47'
+      title: 骚神Drissionpage教学 第27课 WebSocket抓包和Http抓包
+      url: https://www.bilibili.com/video/BV1reBBYmECj
+    - author: 玩转Code
+      release_time: '2024-11-22 22:05:25'
+      title: JS逆向实战_全国建筑市场平台响应内容解密
+      url: https://www.bilibili.com/video/BV1NGBzYXEG2
+    - author: 玩转Code
+      release_time: '2024-11-22 00:51:46'
+      title: JS逆向实战_音乐解析下载
+      url: https://www.bilibili.com/video/BV13KUXY8EmK
+    - author: 玩转Code
+      release_time: '2024-11-21 21:03:53'
+      title: Linux-Python定时任务跑爬虫脚本
+      url: https://www.bilibili.com/video/BV1diUDYcEu1
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
