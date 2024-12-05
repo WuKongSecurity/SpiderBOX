@@ -242,7 +242,127 @@
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037023&idx=1&sn=431632430488fab0d086dee82ce828ce
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
-  - links: []
+  - links:
+    - author: dandelion2sunny
+      release_time: '2024-12-04 23:55:00'
+      title: 【JS逆向】瑞数6逆向简单分析
+      url: https://www.52pojie.cn/thread-1988393-1-1.html
+    - author: wxwyumu
+      release_time: '2024-12-04 16:53:00'
+      title: xhs 某书 旋转验证码 图片识别+算法 纯协议
+      url: https://www.52pojie.cn/thread-1988302-1-1.html
+    - author: 方块君
+      release_time: '2024-12-03 21:00:00'
+      title: Fake Location 授权分析以及后门分析
+      url: https://www.52pojie.cn/thread-1988024-1-1.html
+    - author: Tonyha7
+      release_time: '2024-12-03 17:58:00'
+      title: Fake Location跑不了校园跑？最简单粗暴的解决方案
+      url: https://www.52pojie.cn/thread-1987977-1-1.html
+    - author: chenchenchen777
+      release_time: '2024-12-03 17:18:00'
+      title: 云注入去签功能解析
+      url: https://www.52pojie.cn/thread-1987961-1-1.html
+    - author: 我是不会改名的
+      release_time: '2024-12-01 22:38:00'
+      title: 某TV抓包和jce响应解析
+      url: https://www.52pojie.cn/thread-1987327-1-1.html
+    - author: 天空宫阙
+      release_time: '2024-12-01 16:57:00'
+      title: 某英语听力APP字幕编码方式逆向
+      url: https://www.52pojie.cn/thread-1987254-1-1.html
+    - author: anke1
+      release_time: '2024-11-30 22:16:00'
+      title: 记录 新百度加固 修复教程
+      url: https://www.52pojie.cn/thread-1987110-1-1.html
+    - author: Dellevin
+      release_time: '2024-11-30 22:11:00'
+      title: 超星网页字体解密
+      url: https://www.52pojie.cn/thread-1987108-1-1.html
+    - author: Ro1N
+      release_time: '2024-11-30 17:11:00'
+      title: 解决ADB连接时报错$ADB_VENDOR_KEYS is not found
+      url: https://www.52pojie.cn/thread-1987036-1-1.html
+    - author: littlewhite11
+      release_time: '2024-11-30 12:38:00'
+      title: 【JS逆向】某茄小说逆向分析
+      url: https://www.52pojie.cn/thread-1986969-1-1.html
+    - author: hongmengshikong
+      release_time: '2024-11-29 14:30:00'
+      title: 指尖时光破解教程
+      url: https://www.52pojie.cn/thread-1986722-1-1.html
+    - author: Topmz
+      release_time: '2024-11-28 15:48:00'
+      title: 看完这篇你也可以用charles对某奇异视频抓包啦！
+      url: https://www.52pojie.cn/thread-1986407-1-1.html
+    - author: kidsmiless
+      release_time: '2024-11-27 17:03:00'
+      title: python获取酷wo音乐歌单过程及实现
+      url: https://www.52pojie.cn/thread-1986103-1-1.html
+    - author: T4DNA
+      release_time: '2024-11-26 20:48:00'
+      title: AST解混淆实现某Epub的图片还原
+      url: https://www.52pojie.cn/thread-1985832-1-1.html
+    - author: Aircraftcomman5
+      release_time: '2024-11-26 14:52:00'
+      title: 某某服务网逆向---小白讲解
+      url: https://www.52pojie.cn/thread-1985694-1-1.html
+    - author: niedaolong
+      release_time: '2024-11-25 21:58:00'
+      title: 某游戏 打开 开发者面板
+      url: https://www.52pojie.cn/thread-1985457-1-1.html
+    - author: ee789852
+      release_time: '2024-11-25 15:48:00'
+      title: 分享一款俄罗斯方块仿真游戏机和去广告方法
+      url: https://www.52pojie.cn/thread-1985343-1-1.html
+    - author: 萬惡之首
+      release_time: '2024-11-25 15:15:00'
+      title: Picsart美易最新版解锁会员免登录
+      url: https://www.52pojie.cn/thread-1985330-1-1.html
+    - author: 芽衣
+      release_time: '2024-11-24 22:21:00'
+      title: 【更新】梦绘界 漫画软件去除签名校验+解锁
+      url: https://www.52pojie.cn/thread-1985122-1-1.html
+    - author: littlewhite11
+      release_time: '2024-11-24 17:21:00'
+      title: 【JS逆向】某滑块逆向分析
+      url: https://www.52pojie.cn/thread-1985041-1-1.html
+    - author: pjboy
+      release_time: '2024-11-23 18:12:00'
+      title: 网站绕过无限debugger
+      url: https://www.52pojie.cn/thread-1984841-1-1.html
+    - author: Sshire
+      release_time: '2024-11-23 12:50:00'
+      title: 某小白的安卓游戏汉化历程（持续更新中
+      url: https://www.52pojie.cn/thread-1984752-1-1.html
+    - author: KoZ
+      release_time: '2024-11-22 15:34:00'
+      title: 某黑产app的so文件无法找到的分析
+      url: https://www.52pojie.cn/thread-1984514-1-1.html
+    - author: hybpjx
+      release_time: '2024-11-22 10:53:00'
+      title: testab 逆向流程分析
+      url: https://www.52pojie.cn/thread-1984407-1-1.html
+    - author: k96e
+      release_time: '2024-11-20 22:07:00'
+      title: Unity手游BlueArchive蔚蓝档案剧情文本提取
+      url: https://www.52pojie.cn/thread-1983958-1-1.html
+    - author: littlewhite11
+      release_time: '2024-11-20 20:44:00'
+      title: 【JS逆向】某建筑webpack逆向分析
+      url: https://www.52pojie.cn/thread-1983924-1-1.html
+    - author: chenchenchen777
+      release_time: '2024-11-20 12:35:00'
+      title: anroid修改ELF文件实现注入so
+      url: https://www.52pojie.cn/thread-1983764-1-1.html
+    - author: bybybyby
+      release_time: '2024-11-20 11:30:00'
+      title: 去除软件中的捆绑广告弹窗-图文教程
+      url: https://www.52pojie.cn/thread-1983734-1-1.html
+    - author: littlewhite11
+      release_time: '2024-11-19 20:14:00'
+      title: 【JS逆向】某Q音乐VMP纯算
+      url: https://www.52pojie.cn/thread-1983577-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
