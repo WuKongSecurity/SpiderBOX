@@ -243,10 +243,22 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: yongjia
+      release_time: '2024-12-05 00:13:00'
+      title: hook被fakelocation注入到system_server的dex
+      url: https://www.52pojie.cn/thread-1988395-1-1.html
     - author: dandelion2sunny
       release_time: '2024-12-04 23:55:00'
       title: 【JS逆向】瑞数6逆向简单分析
       url: https://www.52pojie.cn/thread-1988393-1-1.html
+    - author: bb9li1
+      release_time: '2024-12-04 23:20:00'
+      title: 手游渗透测试框架
+      url: https://www.52pojie.cn/thread-1988386-1-1.html
+    - author: yongjia
+      release_time: '2024-12-04 22:19:00'
+      title: Fake Location 1.3.2.2 全功能解锁模块
+      url: https://www.52pojie.cn/thread-1988373-1-1.html
     - author: wxwyumu
       release_time: '2024-12-04 16:53:00'
       title: xhs 某书 旋转验证码 图片识别+算法 纯协议
@@ -351,18 +363,6 @@
       release_time: '2024-11-20 20:44:00'
       title: 【JS逆向】某建筑webpack逆向分析
       url: https://www.52pojie.cn/thread-1983924-1-1.html
-    - author: chenchenchen777
-      release_time: '2024-11-20 12:35:00'
-      title: anroid修改ELF文件实现注入so
-      url: https://www.52pojie.cn/thread-1983764-1-1.html
-    - author: bybybyby
-      release_time: '2024-11-20 11:30:00'
-      title: 去除软件中的捆绑广告弹窗-图文教程
-      url: https://www.52pojie.cn/thread-1983734-1-1.html
-    - author: littlewhite11
-      release_time: '2024-11-19 20:14:00'
-      title: 【JS逆向】某Q音乐VMP纯算
-      url: https://www.52pojie.cn/thread-1983577-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
