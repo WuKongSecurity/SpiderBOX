@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 时一十一姐呀
+      release_time: '2024-12-06 00:32:19'
+      title: js逆向-如何区分akamai_2.0/3.0反爬以及何时cookie有效分析
+      url: https://www.bilibili.com/video/BV1bwifYVEBv
     - author: 西门浪0v0
       release_time: '2024-12-04 21:52:52'
       title: 逆向工具使用教程八
@@ -113,10 +117,6 @@
       release_time: '2024-11-19 02:50:46'
       title: js逆向如何补环境，使用框架直接秒杀，几分钟撸完大厂加密
       url: https://www.bilibili.com/video/BV1evUtYYEAZ
-    - author: B站用户骚神
-      release_time: '2024-11-18 14:38:21'
-      title: 骚神Drissionpage教学 第25课 BitBrowser指纹浏览器的创建和接管
-      url: https://www.bilibili.com/video/BV13gUpYLEUw
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
