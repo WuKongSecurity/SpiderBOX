@@ -95,7 +95,7 @@
                             </div>
                         </li>
                         <!-- 获取当前时间 -->
-                        <li class="nav-item mr-3 mr-lg-0 d-none d-lg-block">
+                        <li class="nav-item mr-3 mr-lg-0 d-none d-xl-block">
                             <div id="time-display" style="padding-right: 20px; font-size:14px"></div>
                             <script>
                                 function updateDateTime() {
@@ -122,7 +122,7 @@
                         </li>
                         <!-- 一言 -->
                         {{ with .Site.Params.yiyan }}
-                        <li class="nav-item mr-3 mr-lg-0 d-none d-lg-block">
+                        <li class="nav-item mr-3 mr-lg-0 d-none d-xxl-block">
                             <script>
                                 fetch('https://v1.hitokoto.cn/?c=d&c=i&c=k')
                                     .then(response => response.json())

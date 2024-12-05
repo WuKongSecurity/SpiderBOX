@@ -37,31 +37,31 @@
       logo: weixin_43411585.jpg
       qrcode: images/qrcode/shiyi_zsxq.jpg
       url: https://t.zsxq.com/14tPsY8si
-      description: 各种JS逆向/验证码逆向识别训练
+      description: 各种JS逆向/验证码逆向/图像识别训练/自动化爬虫干货分享
     - title: 爬虫工具库
       logo: spidertools.png
       url: https://spidertools.cn/
-      description: feapder 作者出品的爬虫工具库
-    - title: 猿人学 OB 在线解混淆
+      description: feapder 作者出品的爬虫工具库，加解密，json 格式化，header 格式化，cookie 格式化，curl 转 requests，url 参数提取、编码解码，文本对比等
+    - title: 猿人学爬虫工具箱
       logo: yuanrenxue.jpg
       url: https://tool.yuanrenxue.cn/decode_obfuscator
-      description: 猿人学 OB 在线解混淆。
+      description: OB 在线解混淆，JS 代码转 AST，curl 转化为爬虫代码等
     - title: AST Explorer
       logo: astexplorer.png
       url: https://astexplorer.net/
-      description: 一个使用各种解析器生成代码的 AST 的 Web 工具。
+      description: 使用各种解析器生成代码的 AST 的 Web 工具
     - title: 在线加解密
       logo: chacuo.png
       url: http://tool.chacuo.net/cryptdes
-      description: 在线 DES、3DES、AES、RC2、RC4、RC5、RC6、RSA 等加解密。
+      description: 在线 DES、3DES、AES、RC2、RC4、RC5、RC6、RSA 等加解密
     - title: httpbin
       logo: bin.png
       url: https://www.httpbin.org/
-      description: 一个简单的 HTTP 请求和响应测试服务。
-    - title: icanhazip
+      description: HTTP 请求和响应测试服务
+    - title: IP Checks
       logo: icanhazip.png
-      url: https://icanhazip.com/
-      description: 快速返回当前 IP。
+      url: https://api.ipchecks.top/
+      description: 快速查看当前 IP 详细信息
 
     - title: 青果云
       ads: true
