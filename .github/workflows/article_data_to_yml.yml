@@ -51,6 +51,7 @@ jobs:
             echo "No changes to commit"
           else
             echo "Need update article.yml"
+            export TZ="Asia/Shanghai"
             current_time=$(date '+%Y-%m-%d %H:%M:%S')
             git commit -m "Auto update article at ${current_time}"
             git push origin HEAD:main
