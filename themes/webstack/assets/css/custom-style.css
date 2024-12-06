@@ -433,6 +433,7 @@ footer.main-footer .footer-text a:hover {
     width: 16px;
     height: 16px;
     margin-right: 5px;
+    margin-bottom: 2px;
     border-style: none;
     vertical-align: middle
 }

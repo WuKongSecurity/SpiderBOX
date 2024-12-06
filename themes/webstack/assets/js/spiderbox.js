@@ -241,6 +241,7 @@ $(document).ready(function () {
 })();
 
 /* 夜间(日间)模式切换 */
+
 // $("#search-bg").css("background-image", "url({{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.images.searchImageL }})");   //默认浅色背景
 function switchNightMode() {
     let night = document.cookie.replace(/(?:(?:^|.*;\s*)night\s*\=\s*([^;]*).*$)|^.*$/, "$1") || '0';
@@ -337,3 +338,29 @@ window.addEventListener('DOMContentLoaded', (event) => {
         $('.header-mini-btn input[type="checkbox"]').prop("checked", false);
     }
 });
+
+// 最近文章/视频，右键复制标题链接作者
+document.addEventListener("contextmenu", (event) => {
+    // 检查是否右键点击了 .hot-list 项
+    const hotListItem = event.target.closest(".hot-list");
+    if (hotListItem) {
+        // 阻止默认右键菜单
+        event.preventDefault();
+        // 获取标题、链接和作者信息
+        const title = hotListItem.querySelector("a").textContent;
+        const link = hotListItem.querySelector("a").href;
+        const author = hotListItem.querySelector(".hot-rank").textContent;
+        // 拼接内容
+        const content = `• 标题: ${title}\n• 链接: ${link}\n• 作者: ${author}\n• 来源: 由 spiderbox.cn 提供搜集聚合服务`;
+        // 将内容复制到剪贴板
+        navigator.clipboard.writeText(content).then(() => {
+            // https://alertifyjs.com/ 弹窗
+            alertify.set('notifier', 'position', 'top-center');
+            alertify.set('notifier', 'delay', 3);
+            alertify.success('链接已复制到剪贴板');
+        }).catch((err) => {
+            console.error("链接复制失败:", err);
+        });
+    }
+});
+
