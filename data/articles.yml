@@ -243,6 +243,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: littlewhite11
+      release_time: '2024-12-07 03:41:00'
+      title: 【JS逆向】某招标公告逆向分析
+      url: https://www.52pojie.cn/thread-1989050-1-1.html
     - author: loushimin
       release_time: '2024-12-05 14:39:00'
       title: JS逆向——XX人民X行 新版ob混淆
@@ -359,10 +363,6 @@
       release_time: '2024-11-22 15:34:00'
       title: 某黑产app的so文件无法找到的分析
       url: https://www.52pojie.cn/thread-1984514-1-1.html
-    - author: hybpjx
-      release_time: '2024-11-22 10:53:00'
-      title: testab 逆向流程分析
-      url: https://www.52pojie.cn/thread-1984407-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
