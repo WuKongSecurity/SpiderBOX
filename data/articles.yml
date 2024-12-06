@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向OneByOne
+      release_time: '2024-12-06 12:11:00'
+      title: js逆向案例-sensor_data反爬之akamai_2.0-中
+      url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247493344&idx=1&sn=411dc2771fe34d4aa01a1bdea23d66ed
     - author: 逆向有你
       release_time: '2024-12-06 00:00:00'
       title: 安卓逆向 -- 某定位软件分析
@@ -236,10 +240,6 @@
       release_time: '2024-11-28 20:00:00'
       title: 【全同态加密】基于AGCD的全同态加密方案
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247490319&idx=1&sn=8fdbc5cc8dcd11238abdb17f25e5d2f2
-    - author: K哥爬虫
-      release_time: '2024-11-28 18:25:42'
-      title: 爬虫无间道之得物反爬
-      url: https://mp.weixin.qq.com/s?__biz=MzkyMzcxMDM0MQ==&mid=2247503882&idx=1&sn=3dbf4366ac3ab4bc1abe2d394d6b6442
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
