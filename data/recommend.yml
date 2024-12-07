@@ -38,6 +38,10 @@
       qrcode: images/qrcode/shiyi_zsxq.jpg
       url: https://t.zsxq.com/14tPsY8si
       description: 各种JS逆向/验证码逆向/图像识别训练/自动化爬虫干货分享
+    - title: ChatGPT
+      logo: chatgpt.jpg
+      url: https://chatgpt.com/
+      description: ChatGPT
     - title: 爬虫工具库
       logo: spidertools.png
       url: https://spidertools.cn/
@@ -46,6 +50,10 @@
       logo: yuanrenxue.jpg
       url: https://tool.yuanrenxue.cn/decode_obfuscator
       description: OB 在线解混淆，JS 代码转 AST，curl 转化为爬虫代码等
+    - title: MDN Web API
+      logo: mozilla.png
+      url: https://developer.mozilla.org/docs/Web/API
+      description: Web API 接口参考
     - title: AST Explorer
       logo: astexplorer.png
       url: https://astexplorer.net/
@@ -54,14 +62,22 @@
       logo: chacuo.png
       url: http://tool.chacuo.net/cryptdes
       description: 在线 DES、3DES、AES、RC2、RC4、RC5、RC6、RSA 等加解密
-    - title: httpbin
-      logo: bin.png
-      url: https://www.httpbin.org/
-      description: HTTP 请求和响应测试服务
+    - title: 在线正则表达式验证
+      logo: re.png
+      url: https://tooltt.com/regexp/
+      description: 在线正则表达式验证
+    - title: 在线 Base64 编码解码
+      logo: be.png
+      url: https://base64.us/
+      description: 在线 Base64 编码解码
     - title: IP Checks
       logo: icanhazip.png
       url: https://api.ipchecks.top/
       description: 快速查看当前 IP 详细信息
+    - title: httpbin
+      logo: bin.png
+      url: https://www.httpbin.org/
+      description: HTTP 请求和响应测试服务
 
     - title: 青果云
       ads: true
@@ -73,3 +89,12 @@
       url: https://get.brightdata.com/proxyb
       image: images/ads/lsj_1779x201.png
       description: Bright Data 亮数据，使用全球最大的 IP 网络，利用内置的抓取和解锁功能获得访问权，并简化数据提取
+
+    - title: Chrome for Testing availability
+      logo: chromedriver.jpg
+      url: https://googlechromelabs.github.io/chrome-for-testing/
+      description: 获取 Chrome 所有版本（113 以后的）的安装包，以及 Chrome Driver 驱动
+    - title: SpiderAPI
+      logo: spiderapi.png
+      url: https://spiderapi.cn/
+      description: 爬虫逆向常用 API，各种框架、库、命令参考
