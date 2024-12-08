@@ -46,7 +46,7 @@ def article_to_yml(data):
 
 
     current_data = [{
-        'taxonomy': '最新文章',
+        'taxonomy': '最新文章/视频',
         'icon': 'fas fa-list',
         'list': [
             {
