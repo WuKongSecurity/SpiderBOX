@@ -4005,46 +4005,46 @@ input[type="checkbox"]+label {
     animation: icon-spin 2s infinite linear
 }
 
-.hot-card .hot-body {
-    height: 200px
-}
+/*.hot-card .hot-body {*/
+/*    height: 200px*/
+/*}*/
 
-.hot-card .hot-heat {
-    white-space: nowrap
-}
+/*.hot-card .hot-heat {*/
+/*    white-space: nowrap*/
+/*}*/
 
-.hot-rank {
-    width: 18px;
-    border-radius: 4px;
-    background: rgba(124, 124, 124, 0.3);
-    display: inline-block
-}
+/*.hot-rank {*/
+/*    width: 18px;*/
+/*    border-radius: 4px;*/
+/*    background: rgba(124, 124, 124, 0.3);*/
+/*    display: inline-block*/
+/*}*/
 
-.hot-rank-1 {
-    color: #fff;
-    background: #f1404b
-}
+/*.hot-rank-1 {*/
+/*    color: #fff;*/
+/*    background: #f1404b*/
+/*}*/
 
-.hot-rank-2 {
-    color: #fff;
-    background: #c56831
-}
+/*.hot-rank-2 {*/
+/*    color: #fff;*/
+/*    background: #c56831*/
+/*}*/
 
-.hot-rank-3 {
-    color: #fff;
-    background: #b89e2c
-}
+/*.hot-rank-3 {*/
+/*    color: #fff;*/
+/*    background: #b89e2c*/
+/*}*/
 
-.hot-platform span {
-    margin: 0 5px;
-    white-space: nowrap
-}
+/*.hot-platform span {*/
+/*    margin: 0 5px;*/
+/*    white-space: nowrap*/
+/*}*/
 
-.hot-platform {
-    border-radius: 4px;
-    display: inline-table;
-    background: rgba(77, 77, 77, 0.3)
-}
+/*.hot-platform {*/
+/*    border-radius: 4px;*/
+/*    display: inline-table;*/
+/*    background: rgba(77, 77, 77, 0.3)*/
+/*}*/
 
 .background-fx {
     position: absolute;

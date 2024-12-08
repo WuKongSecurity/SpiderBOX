@@ -21,8 +21,10 @@
     <link crossorigin="anonymous" integrity="sha384-fJH2gz4kcHl6LNRYI7TauVxjt5r/u+NfM+XpXDSSyHTCS7PMUXXW0Qo677Xr+bok" href="//lib.baomitu.com/font-awesome/5.11.2/css/all.css" rel="stylesheet">
     {{ $customStyle := resources.Get "css/custom-style.css" | resources.Minify | fingerprint}}
     {{ $style := resources.Get "css/style.css" | resources.Minify | fingerprint}}
+    {{ $alertify := resources.Get "css/alertify.css" | resources.Minify | fingerprint}}
     <link rel="stylesheet" href="{{ $customStyle.RelPermalink }}" type="text/css" media="all" />
     <link rel="stylesheet" href="{{ $style.RelPermalink }}" type="text/css" media="all" />
+    <link rel="stylesheet" href="{{ $alertify.RelPermalink }}" type="text/css" media="all" />
 
     <!-- 百度统计 -->
     {{ with .Site.Params.seo.baiduhmid }}

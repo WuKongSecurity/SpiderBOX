@@ -27,11 +27,12 @@
         }
     })
     // Enable/Disable Resizable Event
-    var wid = 0;
-    $(window).resize(function() {
-        clearTimeout(wid);
-        wid = setTimeout(go_resize, 200); 
-    });
+    //2024.12.03 这里注释了，因为记住用户的左边栏是否展开和这里冲突，打开关闭控制台状态会变化
+    // var wid = 0;
+    // $(window).resize(function() {
+    //     clearTimeout(wid);
+    //     wid = setTimeout(go_resize, 200);
+    // });
     function go_resize() {
         stickFooter(); 
         //if(theme.minNav != '1'){
@@ -241,10 +242,14 @@
                 $('.sidebar-nav').removeClass('animate-nav');
                 $('.sidebar-nav').width(170);
                 // $('.sidebar-nav').width(220);
+                localStorage.setItem("mini_sidebar", "false");
+                console.log("mini_sidebar false")
             }
             else{
                 $('.sidebar-nav').addClass('animate-nav');
                 $('.sidebar-nav').stop().animate({width: 170},200);
+                localStorage.setItem("animate_nav", "true");
+                console.log("mini_sidebar true")
             }
         }else{
             $('.sidebar-item.sidebar-show').removeClass('sidebar-show');
@@ -254,10 +259,14 @@
             if(isNoAnim){
                 $('.sidebar-nav').removeClass('animate-nav');
                 $('.sidebar-nav').width(60);
+                localStorage.setItem("mini_sidebar", "true");
+                console.log("mini_sidebar true")
             }
             else{
                 $('.sidebar-nav').addClass('animate-nav');
                 $('.sidebar-nav').stop().animate({width: 60},200);
+                localStorage.setItem("animate_nav", "false");
+                console.log("mini_sidebar false")
             }
         }
         //$('.sidebar-nav').css("transition","width .3s");

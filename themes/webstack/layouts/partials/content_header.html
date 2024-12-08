@@ -22,7 +22,6 @@
                                     <path class="line--3" d="M0 60h62c18 0 18 20-17-5L31 45"></path>
                                 </svg>
                             </label>
-
                         </div>
 
                         <ul class="navbar-nav site-menu" style="margin-right: 16px;">
@@ -45,12 +44,20 @@
                                         {{ if .link }}
                                         <a href="{{ .link }}" target="_blank">
                                             <i class="{{ .icon }} fa-lg mr-2"></i>
-                                            <span>{{ .name }}</span>
+                                            {{ if .popup }}
+                                                <span id="{{ .popupID }}">{{ .name }}</span>
+                                            {{else}}
+                                                <span>{{ .name }}</span>
+                                            {{ end }}
                                         </a>
                                         {{else}}
                                         <a href="#">
                                             <i class="{{ .icon }} fa-lg mr-2"></i>
-                                            <span>{{ .name }}</span>
+                                            {{ if .popup }}
+                                                <span  id="{{ .popupID }}">{{ .name }}</span>
+                                            {{else}}
+                                                <span>{{ .name }}</span>
+                                            {{ end }}
                                         </a>
                                         {{ end }}
                                     </li>
@@ -68,28 +75,56 @@
 
                     <ul class="nav navbar-menu text-xs order-1 order-md-2">
                         <!-- 天气系统 https://www.seniverse.com/widget -->
-                        <div class="rounded-circle weather">
-                            <div id="tp-weather-widget" style="padding-right: 20px"></div>
+                        <li class="nav-item mr-3 mr-lg-0 d-none d-lg-block">
+                            <div class="rounded-circle weather">
+                                <div id="tp-weather-widget" style="padding-right: 20px"></div>
+                                <script>
+                                    (function(a,h,g,f,e,d,c,b){b=function(){d=h.createElement(g);c=h.getElementsByTagName(g)[0];d.src=e;d.charset="utf-8";d.async=1;c.parentNode.insertBefore(d,c)};a["SeniverseWeatherWidgetObject"]=f;a[f]||(a[f]=function(){(a[f].q=a[f].q||[]).push(arguments)});a[f].l=+new Date();if(a.attachEvent){a.attachEvent("onload",b)}else{a.addEventListener("load",b,false)}}(window,document,"script","SeniverseWeatherWidget","//cdn.sencdn.com/widget2/static/js/bundle.js?t="+parseInt((new Date().getTime() / 100000000).toString(),10)));
+                                    window.SeniverseWeatherWidget('show', {
+                                        flavor: "slim",
+                                        location: "WX4FBXXFKE4F",
+                                        geolocation: true,
+                                        language: "auto",
+                                        unit: "c",
+                                        theme: "auto",
+                                        token: "{{ $.Site.Params.seniverse.key }}",
+                                        hover: "enabled",
+                                        container: "tp-weather-widget",
+                                    })
+                                </script>
+                            </div>
+                        </li>
+                        <!-- 获取当前时间 -->
+                        <li class="nav-item mr-3 mr-lg-0 d-none d-xl-block">
+                            <div id="time-display" style="padding-right: 20px; font-size:14px"></div>
                             <script>
-                                (function(a,h,g,f,e,d,c,b){b=function(){d=h.createElement(g);c=h.getElementsByTagName(g)[0];d.src=e;d.charset="utf-8";d.async=1;c.parentNode.insertBefore(d,c)};a["SeniverseWeatherWidgetObject"]=f;a[f]||(a[f]=function(){(a[f].q=a[f].q||[]).push(arguments)});a[f].l=+new Date();if(a.attachEvent){a.attachEvent("onload",b)}else{a.addEventListener("load",b,false)}}(window,document,"script","SeniverseWeatherWidget","//cdn.sencdn.com/widget2/static/js/bundle.js?t="+parseInt((new Date().getTime() / 100000000).toString(),10)));
-                                window.SeniverseWeatherWidget('show', {
-                                    flavor: "slim",
-                                    location: "WX4FBXXFKE4F",
-                                    geolocation: true,
-                                    language: "auto",
-                                    unit: "c",
-                                    theme: "auto",
-                                    token: "{{ $.Site.Params.seniverse.key }}",
-                                    hover: "enabled",
-                                    container: "tp-weather-widget",
-                                })
+                                function updateDateTime() {
+                                  const now = new Date();
+                                  // 获取年月日
+                                  const year = now.getFullYear();
+                                  const month = String(now.getMonth() + 1).padStart(2, '0'); // 月份从 0 开始
+                                  const date = String(now.getDate()).padStart(2, '0');
+                                  // 获取星期
+                                  const weekdays = ['星期日', '星期一', '星期二', '星期三', '星期四', '星期五', '星期六'];
+                                  const weekday = weekdays[now.getDay()];
+                                  // 获取时间
+                                  const hours = String(now.getHours()).padStart(2, '0');
+                                  const minutes = String(now.getMinutes()).padStart(2, '0');
+                                  const seconds = String(now.getSeconds()).padStart(2, '0');
+                                  // 更新到 HTML 页面
+                                  document.getElementById('time-display').textContent = `${year}-${month}-${date} ${hours}:${minutes}:${seconds} ${weekday}`;
+                                }
+                                // 每秒更新时间
+                                setInterval(updateDateTime, 1000);
+                                // 初始化调用
+                                updateDateTime();
                             </script>
-                        </div>
+                        </li>
                         <!-- 一言 -->
                         {{ with .Site.Params.yiyan }}
-                        <li class="nav-item mr-3 mr-lg-0 d-none d-lg-block">
+                        <li class="nav-item mr-3 mr-lg-0 d-none d-xxl-block">
                             <script>
-                                fetch('https://v1.hitokoto.cn/?c=c&c=f&c=k')
+                                fetch('https://v1.hitokoto.cn/?c=d&c=i&c=k')
                                     .then(response => response.json())
                                     .then(data => {
                                         const hitokoto = document.getElementById('hitokoto_text')

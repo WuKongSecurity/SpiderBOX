@@ -26,6 +26,8 @@ var theme = {
 <script crossorigin="anonymous" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" src="//lib.baomitu.com/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
 
 <!-- 自定义 JS -->
+{{ $alertify := resources.Get "js/alertify.min.js" | fingerprint}}
+<script type='text/javascript' src="{{ $alertify.RelPermalink }}"></script>
 {{ $spiderbox := resources.Get "js/spiderbox.js" | fingerprint}}
 <script type='text/javascript' src="{{ $spiderbox.RelPermalink }}"></script>
 {{ $app := resources.Get "js/app.js" | resources.Minify | fingerprint}}
