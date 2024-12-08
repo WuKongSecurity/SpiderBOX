@@ -349,7 +349,7 @@ document.addEventListener("contextmenu", (event) => {
         // 获取标题、链接和作者信息
         const title = hotListItem.querySelector("a").textContent;
         const link = hotListItem.querySelector("a").href;
-        const author = hotListItem.querySelector(".hot-rank").textContent;
+        const author = hotListItem.querySelector(".hot-rank").getAttribute("title");
         // 拼接内容
         const content = `• 标题: ${title}\n• 链接: ${link}\n• 作者: ${author}\n• 来源: 由 spiderbox.cn 提供搜集聚合服务`;
         // 将内容复制到剪贴板
