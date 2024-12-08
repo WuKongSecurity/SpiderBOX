@@ -36,7 +36,7 @@ $(document).ready(function () {
             <br>
 <!--            <p style="color:#DC1729;"><strong>本站与 kgtools.cn 等其他网站没有任何关系</strong></p>-->
 <!--            <p style="color:#DC1729;"><strong>本站于2023年8月13日原创首发，<a href="https://mp.weixin.qq.com/s/7vFpmhvU8-DCONlvlklMTQ" target="_blank">点此了解详情</a></strong></p>-->
-            <p style="color:#DC1729;"><strong>本站不定期就会遭遇攻击，可能会出现无法访问的情况。</strong></p>            
+            <strong><a href="https://mp.weixin.qq.com/s/ZDeJM7KAbst8er8zLRhdSg" target="_blank">点此了解近期更新情况</a></strong>       
             `,
             showCancelButton: true,
             confirmButtonText: "俺知道了",
