@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: '2024-12-08 16:51:11'
+      title: 骚神Drissionpage教学 第32课 用鼠标写DP代码+无限debugger越狱
+      url: https://www.bilibili.com/video/BV1jKqpYZEoe
+    - author: 波波老师带你学爬虫
+      release_time: '2024-12-08 16:05:38'
+      title: 织梦空间 - 知识星球宣传讲解
+      url: https://www.bilibili.com/video/BV1JNqpYbEFg
     - author: 时一十一姐呀
       release_time: '2024-12-06 01:03:23'
       title: js逆向-akamai_3.0反爬sensor_data主流程逆向分析
@@ -109,17 +117,33 @@
       release_time: '2024-11-20 00:28:05'
       title: js逆向vmp纯算大致流程解析
       url: https://www.bilibili.com/video/BV1ENScYAE7G
-    - author: 玩转Code
-      release_time: '2024-11-19 22:56:24'
-      title: JS逆向实战_Array数组常用API
-      url: https://www.bilibili.com/video/BV1LGScYtEd2
-    - author: 玩转Code
-      release_time: '2024-11-19 11:03:29'
-      title: JS逆向补环境到底补的是啥？
-      url: https://www.bilibili.com/video/BV1x9UtYnEk9
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 软件安全与逆向分析
+      release_time: '2024-12-08 14:25:13'
+      title: 统一化的eBPF学习环境搭建，附代码
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484729&idx=1&sn=14e89ae1609c6c8b170bd741006da014
+    - author: 二进制磨剑
+      release_time: '2024-12-07 14:31:03'
+      title: IDA技巧（85）源代码级调试
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485073&idx=1&sn=a027102e265b5623410fe61c65b98830
+    - author: 逆向有你
+      release_time: '2024-12-07 00:00:00'
+      title: 安卓逆向 -- 某日记app逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037147&idx=1&sn=6aa10255f1bbb688f7e9659c7a0813a6
+    - author: 逆向有你
+      release_time: '2024-12-07 00:00:00'
+      title: PC逆向 -- 用户APC执行
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037147&idx=2&sn=2980166e539b9fecaf3f664831f7a1ae
+    - author: 二进制磨剑
+      release_time: '2024-12-06 18:53:12'
+      title: IDA技巧（84）数组索引
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485072&idx=1&sn=827ff916f0ddc990a5fea031426385c9
+    - author: 逆向OneByOne
+      release_time: '2024-12-06 12:11:00'
+      title: js逆向案例-sensor_data反爬之akamai_2.0-中
+      url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247493344&idx=1&sn=411dc2771fe34d4aa01a1bdea23d66ed
     - author: 逆向有你
       release_time: '2024-12-06 00:00:00'
       title: 安卓逆向 -- 某定位软件分析
@@ -168,10 +192,6 @@
       release_time: '2024-12-03 17:10:36'
       title: PKI_CA基础理解
       url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486314&idx=1&sn=2940f4dc40056f7da7bbb85533fab117
-    - author: 二进制磨剑
-      release_time: '2024-12-03 13:53:10'
-      title: IDA 技巧(82) 反编译器选项：伪代码格式化【文末抽奖】
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485051&idx=1&sn=3914c9e288d5cba3760a53629e88deb9
     - author: 逆向有你
       release_time: '2024-12-02 14:08:21'
       title: 安卓逆向 -- 某app破解下载和高清功能
@@ -180,10 +200,6 @@
       release_time: '2024-12-02 14:08:21'
       title: PC逆向 -- 获取64位模块读写
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037081&idx=2&sn=f4f16917c903f9f90df61ef599bd2938
-    - author: 二进制磨剑
-      release_time: '2024-12-02 10:25:00'
-      title: IDA 技巧(81) 数据库记事本【文末抽奖】
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485003&idx=1&sn=2e01b1b0faa571cf6fe8daa2cb274579
     - author: 关于代码那点事
       release_time: '2024-12-02 08:00:00'
       title: playwright实战
@@ -216,33 +232,13 @@
       release_time: '2024-11-29 16:27:44'
       title: 【验证码识别专栏】今天不炼丹，用 cv 来秒验证码
       url: https://mp.weixin.qq.com/s?__biz=MzkyMzcxMDM0MQ==&mid=2247503920&idx=1&sn=fd3fde74466aeb9a1b11a466e29c54ef
-    - author: 影17
-      release_time: '2024-11-29 11:43:38'
-      title: APP入门案例之XX会员超市
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489205&idx=1&sn=883fe7d95a79feb9a7b21039cb5b84a7
-    - author: 二进制磨剑
-      release_time: '2024-11-29 10:16:30'
-      title: IDA 技巧（79）处理变量重用
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485001&idx=1&sn=cb86cff24bebe4e5c80fafdb61290e52
-    - author: 逆向有你
-      release_time: '2024-11-29 00:00:00'
-      title: 安卓逆向 -- 某计划APP破解永久会员功能
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037046&idx=1&sn=4ab061f0d7af75a297d8cb990f56611a
-    - author: 逆向有你
-      release_time: '2024-11-29 00:00:00'
-      title: PC逆向 -- DPC队列
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037046&idx=2&sn=005eeb02d5d3c152cd1ddb4cfab3b746
-    - author: Coder小Q
-      release_time: '2024-11-28 20:00:00'
-      title: 【全同态加密】基于AGCD的全同态加密方案
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247490319&idx=1&sn=8fdbc5cc8dcd11238abdb17f25e5d2f2
-    - author: K哥爬虫
-      release_time: '2024-11-28 18:25:42'
-      title: 爬虫无间道之得物反爬
-      url: https://mp.weixin.qq.com/s?__biz=MzkyMzcxMDM0MQ==&mid=2247503882&idx=1&sn=3dbf4366ac3ab4bc1abe2d394d6b6442
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: littlewhite11
+      release_time: '2024-12-07 03:41:00'
+      title: 【JS逆向】某招标公告逆向分析
+      url: https://www.52pojie.cn/thread-1989050-1-1.html
     - author: loushimin
       release_time: '2024-12-05 14:39:00'
       title: JS逆向——XX人民X行 新版ob混淆
@@ -359,13 +355,17 @@
       release_time: '2024-11-22 15:34:00'
       title: 某黑产app的so文件无法找到的分析
       url: https://www.52pojie.cn/thread-1984514-1-1.html
-    - author: hybpjx
-      release_time: '2024-11-22 10:53:00'
-      title: testab 逆向流程分析
-      url: https://www.52pojie.cn/thread-1984407-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 十一姐
+      release_time: '2024-12-07 16:42:15'
+      title: 2024-12月akamai_2.0-sensor-data之cookie反爬分析详细教程（中）
+      url: https://blog.csdn.net/weixin_43411585/article/details/144312452
+    - author: 妙行
+      release_time: '2024-12-06 16:06:39'
+      title: '[推荐][原创]svc_hook框架'
+      url: https://bbs.kanxue.com/thread-284713.htm
     - author: 十一姐
       release_time: '2024-12-05 21:11:33'
       title: 2024-12月akamai_2.0-sensor-data之cookie反爬分析详细教程（上）
@@ -478,14 +478,6 @@
       release_time: '2024-11-29 13:43:14'
       title: 某东图标点选验证码
       url: https://blog.csdn.net/qq_36551453/article/details/144133971
-    - author: K哥爬虫
-      release_time: '2024-11-29 13:40:53'
-      title: 【验证码逆向专栏】某多多验证码逆向分析
-      url: https://blog.csdn.net/kdl_csdn/article/details/144133933
-    - author: K哥爬虫
-      release_time: '2024-11-29 13:39:43'
-      title: 【验证码逆向专栏】某里 v2 滑动验证码分析
-      url: https://blog.csdn.net/kdl_csdn/article/details/144133912
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章
