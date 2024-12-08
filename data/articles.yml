@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: '2024-12-08 16:51:11'
+      title: 骚神Drissionpage教学 第32课 用鼠标写DP代码+无限debugger越狱
+      url: https://www.bilibili.com/video/BV1jKqpYZEoe
     - author: 波波老师带你学爬虫
       release_time: '2024-12-08 16:05:38'
       title: 织梦空间 - 知识星球宣传讲解
@@ -113,10 +117,6 @@
       release_time: '2024-11-20 00:28:05'
       title: js逆向vmp纯算大致流程解析
       url: https://www.bilibili.com/video/BV1ENScYAE7G
-    - author: 玩转Code
-      release_time: '2024-11-19 22:56:24'
-      title: JS逆向实战_Array数组常用API
-      url: https://www.bilibili.com/video/BV1LGScYtEd2
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
