@@ -77,7 +77,11 @@
     - title: QuickRef
       logo: quickref.png
       url: https://quickref.me/
-      description: QuickRef，快速查阅各种编程语言、工具、数据库、键盘快捷键等基础用法。
+      description: QuickRef，快速查阅各种编程语言、工具、数据库、键盘快捷键等基础用法
+    - title: QuickRef 中文版
+      logo: quickref.png
+      url: https://quickref.hestudio.net/
+      description: QuickRef 中文版，快速查阅各种编程语言、工具、数据库、键盘快捷键等基础用法
     - title: Prometheus 官方文档
       logo: prometheus.png
       url: https://prometheus.io/docs/
@@ -156,6 +160,10 @@
           logo: un.png
           url: https://tool.chinaz.com/tools/Unicode.aspx
           description: 在线 Unicode 编码转换
+        - title: 在线加解密
+          logo: chacuo.png
+          url: http://tool.chacuo.net/cryptdes
+          description: 在线 DES、3DES、AES、RC2、RC4、RC5、RC6、RSA 等加解密
         - title: 在线 SM 国密系列加密/解密
           logo: sm.png
           url: https://the-x.cn/cryptography/Sm2.aspx
@@ -475,7 +483,7 @@
           url: https://github.com/JSREI/crawler-js-hook-framework-public
           description: JS 逆向 Hook 工具集。将JS逆向时用到的一些工具封装为油猴脚本，降低逆向成本
         - title: 浏览器内存漫游
-          logo: github.jpg
+          logo: github.png
           url: https://github.com/JSREI/ast-hook-for-js-RE
           description: 浏览器端的内存漫游解决方案，借助此工具你可以随意检索浏览器内存中的数据
 
@@ -565,11 +573,11 @@
           url: https://www.ldvmp.com/
           description: 零点大佬开发的 JS 混淆加密
         - title: Safekodo
-          logo: safekodo.jpg
+          logo: safekodo.png
           url: https://www.safekodo.com/
           description: safekodo 加密保护您的代码与数据，为您提供专业的 JavaScript 代码保护，旨在为更多网站提供专业的保护,早一分保护,多十分安全！
         - title: JS 加密
-          logo: jsjiami.jpg
+          logo: jsjiami.png
           url: https://www.jsjiami.com/
           description: sojson 开发的 JS 加密
         - title: facelessJsvmp
@@ -612,7 +620,8 @@
           logo: github.png
           url: https://github.com/DingZaiHub/ob-decrypt
           description: ob 混淆还原工具
-    - term: 浏览器指纹
+
+    - term: 设备指纹
       links:
         - title: CreepJS
           logo: creepjs.png
@@ -741,6 +750,7 @@
           logo: CycleTLS.jpg
           url: https://github.com/Danny-Dasilva/CycleTLS
           description: 在 Golang 和 Javascript 中模拟 TLS/JA3 指纹
+
     - term: 环境框架
       links:
         - title: qxVm
@@ -763,6 +773,7 @@
           logo: github.png
           url: https://github.com/Big1moster/catvm
           description: catvm 另一个版本，志远补环境框架视频配套完结版。
+
     - term: 自动化/RPC
       links:
         - title: Sekiro
@@ -850,6 +861,33 @@
           url: https://github.com/SuperMonster003/AutoJs6
           description: Auto.js 是一款 Android 平台支持无障碍服务的 JavaScript 自动化工具软件，现已停止维护，AutoJS6 在 Auto.js 最终项目的基础上进行二次开发
 
+    - term: 指纹浏览器
+      links:
+        - title: NstBrowser
+          logo: nstbrowser.png
+          url: https://www.nstbrowser.io/
+          description: 可绕过 cloudflare，免费的反检测指纹浏览器&企业级云端浏览器方案，无缝接入云端集群服务，让网页抓取和自动化更简单的解决方案
+        - title: AdsPower
+          logo: adspower.png
+          url: https://share.adspower.net/7f6Oro
+          description: 跨境多账号安全管理指纹浏览器
+        - title: HubStudio
+          logo: hubstudio.jpg
+          url: http://suo.im/90xP0
+          description: Hubstudio 为跨境商家提供安全的指纹浏览器，最专业的跨平台多账户管理系统，超过20w用户的选择
+        - title: 比特浏览器
+          logo: bitbrowser.png
+          url: https://www.bitbrowser.cn/
+          description: 比特指纹浏览器，也是防关联指纹浏览器、跨境电商浏览器，能多开浏览器窗口、多登账号，防关联和防封号，跨境账号的安全管理专家，轻松管理您的跨境大生意，真正做到防关联封号的超级浏览器、跨境电商指纹浏览器
+        - title: 候鸟浏览器
+          logo: mbbrowser.png
+          url: https://www.mbbrowser.com/aff/?code=OYX2B8QR
+          description: 为多账号防关联而生的指纹浏览器，得益于军用级别的防护技术，保护你免受任何识别的尝试。独特的用户画像预制，刚好帮到您
+        - title: VMLogin
+          logo: vmlogin.png
+          url: https://www.vmlogin.cc/
+          description: VMLogin 指纹浏览器是一款通过模拟不同设备的软硬件指纹信息，实现一台电脑同时多开浏览器分身，每个防关联浏览器独立 IP，适用于跨境电商亚马逊、eBay，社媒营销 FB、Twitter、Google 等多平台账号防关联批量管理安全浏览器
+
 - taxonomy: APP 相关
   icon: fab fa-android
   list:
@@ -874,21 +912,46 @@
         - title: BlackDex
           logo: github.png
           url: https://github.com/CodingGay/BlackDex
-          description: BlackDex 是一个运行在Android手机上的脱壳工具，支持5.0～12，无需依赖任何环境任何手机都可以使用，包括模拟器。只需几秒，即可对已安装包括未安装的APK进行脱壳。
+          description: BlackDex 是一个运行在 Android 手机上的脱壳工具，支持5.0～12，无需依赖任何环境任何手机都可以使用，包括模拟器。只需几秒，即可对已安装包括未安装的APK进行脱壳。
+        - title: panda-dex-dumper
+          logo: github.png
+          url: https://github.com/P4nda0s/panda-dex-dumper
+          description: 用 rust 实现的脱壳工具，不需要 frida
+
     - term: Hook工具
       links:
-        - title: Xposed
-          logo: xposed.png
-          url: https://github.com/rovo89/Xposed
-          description: Xposed 框架是一款可以在不修改 APK 的情况下影响程序运行（修改系统）的框架服务，基于它可以制作出许多功能强大的模块，且在功能不冲突的情况下同时运作。
-        - title: JustTrustMe
-          logo: github.png
-          url: https://github.com/Fuzion24/JustTrustMe
-          description: 基于Xposed写的可以绕过SSL Pinning检测的工具。
         - title: Frida
           logo: frida.png
           url: https://github.com/frida/frida
           description: Frida 是一种动态插桩工具，可以插入一些代码到原生app的内存空间去，动态地监视和修改其行为，可对内存空间里的对象方法实现监视、修改甚至替换。
+        - title: Xposed
+          logo: xposed.png
+          url: https://github.com/rovo89/Xposed
+          description: Xposed 框架是一款可以在不修改 APK 的情况下影响程序运行（修改系统）的框架服务，基于它可以制作出许多功能强大的模块，且在功能不冲突的情况下同时运作。
+        - title: LSPosed
+          logo: lsposed.jpg
+          url: https://github.com/LSPosed/LSPosed
+          description: LSPosed 是一个基于 Riru 的 ART hook 框架 (最初用于 Android Pie) ，提供与原版 Xposed 相同的 API, 使用 YAHFA (或 SandHook) 进行 Hook
+        - title: LSPosed_mod
+          logo: github.png
+          url: https://github.com/mywalkb/LSPosed_mod
+          description: 魔改 LSPosed
+        - title: LSPosed-Irena
+          logo: github.png
+          url: https://github.com/re-zero001/LSPosed-Irena
+          description: 魔改 LSPosed
+        - title: LSPosed
+          logo: github.png
+          url: https://github.com/JingMatrix/LSPosed
+          description: 魔改 LSPosed
+        - title: Fridare
+          logo: github.png
+          url: https://github.com/suifei/fridare
+          description: 强大的 Frida 重打包工具，用于 iOS 和 Android。轻松修改 Frida 特征，增强隐蔽性，绕过检测。简化逆向工程和安全测试
+        - title: JustTrustMe
+          logo: github.png
+          url: https://github.com/Fuzion24/JustTrustMe
+          description: 基于Xposed写的可以绕过SSL Pinning检测的工具。
         - title: Inspeckage
           logo: inspeckage.png
           url: https://github.com/ac-pm/Inspeckage
@@ -900,7 +963,8 @@
         - title: fridaUiTools
           logo: github.png
           url: https://github.com/dqzg12300/fridaUiTools
-          description: fridaUiTools 是一个界面化整理脚本的工具。
+          description: fridaUiTools 是一个界面化整理脚本的工具
+
     - term: APP 反编译
       links:
         - title: Android Crack Tool
@@ -914,7 +978,7 @@
         - title: PKiD 查壳工具
           logo: pkid.jpg
           url: https://pan.baidu.com/s/1sAFlpJzZK5TpsPitNj9BzQ?pwd=sbox
-          description: PKiD 查壳工具，目前仅支持的加固厂商：娜迦、梆梆、爱加密、通付盾、360加固、百度加固、阿里加固、腾讯加固、盛大加固、瑞星加固、网秦加固、国信灵通加固、apkprotect 加固。
+          description: PKiD 查壳工具，目前仅支持的加固厂商：娜迦、梆梆、爱加密、通付盾、360加固、百度加固、阿里加固、腾讯加固、盛大加固、瑞星加固、网秦加固、国信灵通加固、apkprotect 加固，网盘提取密码：sbox
         - title: PKiD Java 跨平台版
           logo: pkid.jpg
           url: https://bbs.kanxue.com/thread-225120.htm
@@ -955,12 +1019,25 @@
           logo: ghidra.png
           url: https://github.com/NationalSecurityAgency/ghidra
           description: Ghidra 是一个由美国国家安全局研究局创建和维护的、开源的软件逆向工程 (SRE) 框架 。该框架包括一套功能齐全的高端软件分析工具，使用户能够在包括 Windows、macOS 和 Linux 在内的各种平台上分析编译的代码。功能包括反汇编、汇编、反编译、绘图和脚本编写，以及数百种其他功能。
+
     - term: APP 其他
       links:
         - title: Magisk
           logo: Magisk.png
           url: https://github.com/topjohnwu/Magisk
           description: Magisk是一套用于定制 Android的开源工具,支持高于 Android4.2的设备。涵盖了 Android定制的基本部分:root、引导脚本、 SELInux修补、移除AVB2.0/dm- verity/强制加密等。
+        - title: APatch
+          logo: apatch.png
+          url: https://github.com/bmax121/APatch
+          description: 全新 root 方案，内核级 root
+        - title: KernelSU
+          logo: KernelSU.jpg
+          url: https://github.com/tiann/KernelSU
+          description: 一个 Android 上基于内核的 root 方案
+        - title: Unidbg
+          logo: github.png
+          url: https://github.com/zhkl0228/unidbg
+          description: unidbg 是一款基于 unicorn 和 dynarmic (ARM的动态重编译器) 的逆向工具,可以模拟执行 so 文件
         - title: APK Downloader
           logo: apkdownloader.jpg
           url: https://apps.evozi.com/apk-downloader/
@@ -1268,7 +1345,7 @@
           url: https://www.vaptcha.com/
           description: 手势验证码VAPTCHA是基于人工智能和大数据的次世代人机验证解决方案。独有的验证策略及风控模型组合可彻底杜绝刷票、灌水、撞库等恶意攻击行为。
         - title: 360 天御
-          logo: tianyu.jpg
+          logo: tianyu.png
           url: https://tianyu.360.cn/#/global/details/safe
           description: 行为式验证结合异常环境监测、设备指纹、访问频率等多种技术，通过验证后台对多种数据的建模分析，可以准确判定人机结果，有效拦截恶意登录、批量注册等黑灰产攻击
         - title: 云片
@@ -1292,7 +1369,7 @@
           url: https://www.verify5.com/
           description: V5 验证是新一代的客户端识别及验证控件，通过多项智能检测及分析黑科技，识别恶意刷单脚本和机器人(Robot)，帮助企业应用和互联网平台构筑数据安全防线
         - title: 凯格行为验证码
-          logo: kgcaptcha.jpg
+          logo: kgcaptcha.png
           url: https://www.kgcaptcha.com/
           description: 开创行为验证新时代，行为AI技术结合先进的风控引擎，基于生物行为特征，利用深度学习构建安全防御体系，持续进化提升人机区分能力，保障业务稳定的同时提升用户体验。有效区分真实用户和机器自动化脚本攻击，避免机器请求造成业务损失
         - title: ciyverify
@@ -1473,7 +1550,7 @@
           description: Access 23M+ Real-Device IPs with our Top Proxy Solution. Enhance data collection from various locations using reliable proxies for success.
         - title: IPIDEA
           logo: ipidea.jpg
-          url: https://www.ipidea.net/
+          url: https://share.ipidea.net/OLrYNd
           description: IPIDEA 是全球 HTTP 企业级代理 IP 服务方案提供商！为客户提供全球海外代理 IP，全球 HTTP 代理，Socks5 代理 IP
         - title: Smartproxy
           logo: smartproxy.png
@@ -1537,55 +1614,64 @@
         - title: sperm
           logo: github.png
           url: https://github.com/darbra/sperm
-          description: 精彩逆向文章汇总，值得一看。
+          description: 精彩逆向文章汇总，值得一看
         - title: js_reverse
           logo: github.png
           url: https://github.com/luzhisheng/js_reverse
-          description: 各种 JS 逆向案例。
+          description: 各种 JS 逆向案例
         - title: gospider
           logo: github.png
           url: https://github.com/baixudong007/gospider
-          description: Gospider 是一个功能强大的 Golang 网络爬虫，包含从 Python 过渡到 Golang 所需的所有库。它为 Python 网络爬虫提供了到 Golang 的快速无缝过渡。
+          description: Gospider 是一个功能强大的 Golang 网络爬虫，包含从 Python 过渡到 Golang 所需的所有库。它为 Python 网络爬虫提供了到 Golang 的快速无缝过渡
         - title: jsvmp-repository
           logo: github.png
           url: https://github.com/xiaoweigege/jsvmp-repository
-          description: 国内部分网站的 jsvmp 算法。
+          description: 国内部分网站的 jsvmp 算法
         - title: NewsCrawl
           logo: github.png
           url: https://github.com/casual-silva/NewsCrawl
-          description: 开源企业级舆情新闻爬虫项目：支持任意数量爬虫一键运行、爬虫定时任务、爬虫批量删除；爬虫一键部署；爬虫监控可视化; 配置集群爬虫分配策略。
+          description: 开源企业级舆情新闻爬虫项目：支持任意数量爬虫一键运行、爬虫定时任务、爬虫批量删除；爬虫一键部署；爬虫监控可视化; 配置集群爬虫分配策略
         - title: Hydra
           logo: Hydra.jpg
           url: https://github.com/HelloGitHub-Team/Hydra
-          description: 简单但绝不简陋的 Python3 爬虫项目，从本项目中你可以看到：熟悉的 Python 基础语法、如何编写爬虫、操作数据库、常用第三库、分析网页、解析接口、编写单元测试、mock 请求、异常监控和管理、保证代码质量的自动化、GitHub Action 等实战应用。
+          description: 简单但绝不简陋的 Python3 爬虫项目，从本项目中你可以看到：熟悉的 Python 基础语法、如何编写爬虫、操作数据库、常用第三库、分析网页、解析接口、编写单元测试、mock 请求、异常监控和管理、保证代码质量的自动化、GitHub Action 等实战应用
         - title: JSpider
           logo: github.png
           url: https://github.com/bytebuff/JSpider
-          description: JSpider 会每周更新至少一个网站的JS解密方式。
+          description: JSpider 会每周更新至少一个网站的 JS 解密方式
         - title: PythonSpider
           logo: github.png
           url: https://github.com/DingZaiHub/PythonSpider
-          description: JS 逆向系列教程，模拟登录，AES、RSA、DES加密等。
+          description: JS 逆向系列教程，模拟登录，AES、RSA、DES 加密等
         - title: webcrawler
           logo: github.png
           url: https://github.com/chencchen/webcrawler
-          description: 硬核 JS 逆向内容。
+          description: 硬核 JS 逆向内容
         - title: awesome-reverse
           logo: github.png
           url: https://github.com/AlienwareHe/awesome-reverse
-          description: awesome-逆向基础入门，包括 JS、安卓 APP/Native。
+          description: awesome-逆向基础入门，包括 JS、安卓 APP/Native
         - title: Crack-JS-Spider
           logo: github.png
           url: https://github.com/LoseNine/Crack-JS-Spider
-          description: JS 破解逆向，破解 JS 反爬虫加密参数。
+          description: JS 破解逆向，破解 JS 反爬虫加密参数
         - title: InfoSpider
           logo: InfoSpider.png
           url: https://github.com/kangvcar/InfoSpider
-          description: INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。
+          description: INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明
         - title: learn_python3_spider
           logo: github.png
           url: https://github.com/wistbean/learn_python3_spider
-          description: python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等。
+          description: python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等
+        - title: D2L 动手学深度学习
+          logo: github.png
+          url: https://github.com/d2l-ai/d2l-zh
+          description: 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学
+        - title: webBenchmark
+          logo: github.png
+          url: https://github.com/maintell/webBenchmark
+          description: 用于测试网页服务器性能的工具
+
     - term: 文章博主
       links:
         # 大哥先顶上
@@ -1605,40 +1691,30 @@
           logo: gh_15e0f41da787.jpg
           qrcode: images/qrcode/gh_15e0f41da787.jpg
           description: 公众号：个人信息与数据保护实务评论，推介中国个人信息/数据保护/隐私保护最新发展，包括法规速递、执法机关动态、行政执法、民事诉讼、中外执法交流、学术研究等。提供案例解析、理论介绍、律师实务操作指南，以及个人信息及数据保护评论和文章。
-
-        # JS 逆向居多
+        - title: 看雪学苑
+          logo: ikanxue.jpg
+          qrcode: images/qrcode/ikanxue.jpg
+          description: 公众号：看雪学苑
+        - title: 吾爱破解论坛
+          logo: 52pojie.jpg
+          qrcode: images/qrcode/pojie_52.jpg
+          description: 公众号：吾爱破解论坛
         - title: 崔庆才
           logo: cuiqingcai.jpg
           url: https://cuiqingcai.com/
           description: 崔庆才，微软（中国）软件工程师，北京航空航天大学硕士，主要研究网络爬虫、Web 开发、机器学习等方向，出版书籍《Python3 网络爬虫开发实战》、《Python3 网络爬虫开发实战（第2版）》，不少人的启蒙书籍，公众号：进击的Coder。
-        - title: 咸鱼学Python
-          logo: xianyuxuepython.jpg
-          qrcode: images/qrcode/xianyuxuepython.jpg
-          description: 公众号：咸鱼学Python
-        - title: 菜鸟学Python编程
-          logo: IPyhon.jpg
-          qrcode: images/qrcode/IPyhon.jpg
-          description: 公众号：菜鸟学Python编程
         - title: 编角料
           logo: geekbyter.jpg
           qrcode: images/qrcode/geekbyter.jpg
           description: 公众号：编角料
-        - title: 爬虫术与道
-          logo: PCSYD_.jpg
-          qrcode: images/qrcode/PCSYD_.jpg
-          description: 公众号：爬虫术与道
-        - title: 逆向简史
-          logo: gh_988035dcd8a1.jpg
-          qrcode: images/qrcode/gh_988035dcd8a1.jpg
-          description: 公众号：逆向简史
+        - title: 漁滒
+          logo: 557195.jpg
+          url: https://www.52pojie.cn/home.php?mod=space&uid=557195&do=thread&view=me&from=space
+          description: 漁滒吾爱破解主页
         - title: 未闻Code
           logo: itskingname.jpg
           qrcode: images/qrcode/itskingname.jpg
           description: 公众号：未闻Code
-        - title: 时光python之旅
-          logo: shiguang_python.jpg
-          qrcode: images/qrcode/shiguang_python.jpg
-          description: 公众号：时光python之旅
         - title: 逆向OneByOne
           logo: Vsyyjy.jpg
           qrcode: images/qrcode/Vsyyjy.jpg
@@ -1647,14 +1723,38 @@
           logo: weixin_43411585.jpg
           url: https://blog.csdn.net/weixin_43411585
           description: 十一姐 CSDN 主页
+        - title: 菜鸟学Python编程
+          logo: IPyhon.jpg
+          qrcode: images/qrcode/IPyhon.jpg
+          description: 公众号：菜鸟学Python编程
+        - title: Coder小Q
+          logo: Litt1eQueen.jpg
+          qrcode: images/qrcode/Litt1eQueen.jpg
+          description: 公众号：Coder小Q
         - title: 虫技
           logo: bob.jpg
           qrcode: images/qrcode/IT_BOB.jpg
           description: 公众号：虫技
-#        - title: K哥爬虫（因抄袭 spiderbox.cn 被移除收录）
-#          logo: kgepachong.jpg
-#          qrcode: images/qrcode/kgepachong.jpg
-#          description: 公众号：K哥爬虫
+        - title: LuckyFuture
+          logo: LuckyFuture520.jpg
+          qrcode: images/qrcode/LuckyFuture520.jpg
+          description: 公众号：LuckyFuture
+        - title: 爬虫术与道
+          logo: PCSYD_.jpg
+          qrcode: images/qrcode/PCSYD_.jpg
+          description: 公众号：爬虫术与道
+        - title: 逆向简史
+          logo: gh_988035dcd8a1.jpg
+          qrcode: images/qrcode/gh_988035dcd8a1.jpg
+          description: 公众号：逆向简史
+        - title: 时光python之旅
+          logo: shiguang_python.jpg
+          qrcode: images/qrcode/shiguang_python.jpg
+          description: 公众号：时光python之旅
+        - title: 咸鱼学Python
+          logo: xianyuxuepython.jpg
+          qrcode: images/qrcode/xianyuxuepython.jpg
+          description: 公众号：咸鱼学Python
         - title: 逆向与爬虫的故事
           logo: ReverseCrawler.jpg
           qrcode: images/qrcode/ReverseCrawler.jpg
@@ -1683,6 +1783,10 @@
           logo: g_xiaobai666.jpg
           qrcode: images/qrcode/g_xiaobai666.jpg
           description: 公众号：小白逆向之旅
+        - title: 兔老大Android和iOS逆向
+          logo: gh_45c14a16fa8c.jpg
+          qrcode: images/qrcode/gh_45c14a16fa8c.jpg
+          description: 公众号：兔老大Android和iOS逆向
         - title: Pythonlx
           logo: gh_b237fabfe467.jpg
           qrcode: images/qrcode/gh_b237fabfe467.jpg
@@ -1719,10 +1823,6 @@
           logo: loveu2020_1.jpg
           qrcode: images/qrcode/loveu2020_1.jpg
           description: 公众号：ck的学习笔记
-        - title: LuckyFuture
-          logo: LuckyFuture520.jpg
-          qrcode: images/qrcode/LuckyFuture520.jpg
-          description: 公众号：LuckyFuture
         - title: 爬虫逆向之旅
           logo: gh_6489a49d398e.jpg
           qrcode: images/qrcode/gh_6489a49d398e.jpg
@@ -1743,10 +1843,6 @@
           logo: gh_95c3d3d2063e.jpg
           qrcode: images/qrcode/gh_95c3d3d2063e.jpg
           description: 公众号：python小丑鱼
-        - title: 漁滒
-          logo: 557195.jpg
-          url: https://www.52pojie.cn/home.php?mod=space&uid=557195&do=thread&view=me&from=space
-          description: 漁滒吾爱破解主页
         - title: Codeooo
           logo: weixin_38927522.jpg
           url: https://blog.csdn.net/weixin_38927522
@@ -1763,10 +1859,6 @@
           logo: hyb.jpg
           url: https://hyb.life/
           description: hyb 的个人网站
-        - title: Coder小Q
-          logo: Litt1eQueen.jpg
-          qrcode: images/qrcode/Litt1eQueen.jpg
-          description: 公众号：Coder小Q
         - title: NightTeam
           logo: locozhou.jpg
           qrcode: images/qrcode/locozhou.jpg
@@ -1827,10 +1919,6 @@
           logo: gh_f8b47f4cefab.jpg
           qrcode: images/qrcode/gh_f8b47f4cefab.jpg
           description: 公众号：学渣搞逆向
-        - title: 兔老大Android和iOS逆向
-          logo: gh_45c14a16fa8c.jpg
-          qrcode: images/qrcode/gh_45c14a16fa8c.jpg
-          description: 公众号：兔老大Android和iOS逆向
         - title: ReverseCode
           logo: gh_32adddcadde2.jpg
           qrcode: images/qrcode/gh_32adddcadde2.jpg
@@ -1951,7 +2039,6 @@
           logo: gh_339fd590d9cf.jpg
           qrcode: images/qrcode/gh_339fd590d9cf.jpg
           description: 公众号：Bug攻防
-        # 安卓逆向居多
         - title: 大数据安全技术学习
           logo: r1ysue.jpg
           qrcode: images/qrcode/r1ysue.jpg
@@ -2016,22 +2103,14 @@
           logo: BinaryScience.jpg
           qrcode: images/qrcode/BinaryScience.jpg
           description: 专注于 Android、IOS 逆向及安全防护等实战经验分享
-
-        # IOS 逆向居多
         - title: 移动端Android和iOS开发技术分享
           logo: mobile_tech_share.jpg
           qrcode: images/qrcode/mobile_tech_share.jpg
           description: 公众号：移动端Android和iOS开发技术分享
-
-        # 其他博主
-        - title: 看雪学苑
-          logo: ikanxue.jpg
-          qrcode: images/qrcode/ikanxue.jpg
-          description: 公众号：看雪学苑
-        - title: 吾爱破解论坛
-          logo: 52pojie.jpg
-          qrcode: images/qrcode/pojie_52.jpg
-          description: 公众号：吾爱破解论坛
+        - title: K哥爬虫
+          logo: kgepachong.jpg
+          qrcode: images/qrcode/kgepachong.jpg
+          description: 公众号：K哥爬虫
         - title: 瑞数信息
           logo: riversecurity.png
           qrcode: images/qrcode/RiverSecurity.jpg
@@ -2090,19 +2169,34 @@
           logo: dyjiykiwi7uy.jpg
           url: https://www.douyin.com/user/MS4wLjABAAAAa00NkNVIR5JeN8ygK_h26Ex-Vh-t4MlJLTLSbiHsFPEspj26ErSd04Ur0smLgm2b
           description: 专攻网络犯罪（开设赌场、非法控制计算机信息系统、侵犯公民个人信息罪、破坏计算机信息系统罪、洗钱类犯罪等）辩护和诈骗犯罪辩护。
-
-        - title: 铭叔_
-          logo: 387193381.jpg
-          url: https://space.bilibili.com/387193381
-          description: 铭叔_的 bilibili 主页
-        - title: QiQi指的是琦琦
-          logo: 397155590.jpg
-          url: https://space.bilibili.com/397155590
-          description: QiQi指的是琦琦的 bilibili 主页
-        - title: ikun的嘴
-          logo: 397037741.jpg
-          url: https://space.bilibili.com/397037741
-          description: ikun的嘴的 bilibili 主页
+        - title: 郭庆梓律师
+          logo: gqz3133.jpg
+          url: https://www.douyin.com/user/MS4wLjABAAAAePBact2wzdUZkkHohdSnw7eCd1Y-5c3qRO5C5kFI4Uo
+          description: 尊而光刑事专委会主任，律所主任，武汉长沙上海多家分所，刑事、民商、婚姻、合同、劳动等均有专业律师
+        - title: 时一十一姐呀
+          logo: 308704191.jpg
+          url: https://space.bilibili.com/308704191
+          description: 时一十一姐呀的 bilibili 主页
+        - title: 凛音姫
+          logo: 358732858.jpg
+          url: https://space.bilibili.com/358732858
+          description: 凛音姫的 bilibili 主页
+        - title: 猿人学Python
+          logo: 392333105.jpg
+          url: https://space.bilibili.com/392333105
+          description: 猿人学Python的 bilibili 主页
+        - title: 和沐阳学逆向
+          logo: 439348342.jpg
+          url: https://space.bilibili.com/439348342
+          description: 和沐阳学逆向的 bilibili 主页
+        - title: r0ysue
+          logo: 31025974.jpg
+          url: https://space.bilibili.com/31025974
+          description: r0ysue的 bilibili 主页
+        - title: 珍惜Any
+          logo: 434541052.jpg
+          url: https://space.bilibili.com/434541052
+          description: 珍惜Any的 bilibili 主页
         - title: 挽风逆向
           logo: 297069821.jpg
           url: https://space.bilibili.com/297069821/
@@ -2111,22 +2205,58 @@
           logo: 4670123.jpg
           url: https://space.bilibili.com/4670123/
           description: 零点520666的 bilibili 主页
-        - title: 回锅炒辣椒
-          logo: 35242527.jpg
-          url: https://space.bilibili.com/35242527
-          description: 回锅炒辣椒的 bilibili 主页
-        - title: 若水0014
-          logo: 521068039.jpg
-          url: https://space.bilibili.com/521068039
-          description: 若水0014的 bilibili 主页
+        - title: 悦来客栈的老板
+          logo: 1796457925.jpg
+          url: https://space.bilibili.com/1796457925
+          description: 悦来客栈的老板的 bilibili 主页
+        - title: B站用户骚神
+          logo: 48179703.jpg
+          url: https://space.bilibili.com/48179703
+          description: B站用户骚神的 bilibili 主页
+        - title: 二进制科学
+          logo: 500303.jpg
+          url: https://space.bilibili.com/500303
+          description: 二进制科学的 bilibili 主页
         - title: 逆向狗都不学
           logo: 3461578481470147.jpg
           url: https://space.bilibili.com/3461578481470147
           description: 逆向狗都不学的 bilibili 主页
+        - title: 田霸先
+          logo: 114131408.jpg
+          url: https://space.bilibili.com/114131408
+          description: 田霸先的 bilibili 主页
+        - title: 陈不不and挽风的逆向
+          logo: 227452348.jpg
+          url: https://space.bilibili.com/227452348
+          description: 陈不不and挽风的逆向的 bilibili 主页
+        - title: 小肩膀-逆向安全培训
+          logo: 534838862.jpg
+          url: https://space.bilibili.com/534838862
+          description: 小肩膀-逆向安全培训的 bilibili 主页
+        - title: 风と自由
+          logo: 480809815.jpg
+          url: https://space.bilibili.com/480809815
+          description: 风と自由的 bilibili 主页
+        - title: 安卓反调试frida检测Neo
+          logo: 27577421.jpg
+          url: https://space.bilibili.com/27577421
+          description: 安卓反调试frida检测Neo的 bilibili 主页
         - title: 波波老师带你学爬虫
           logo: 633101470.jpg
           url: https://space.bilibili.com/633101470
           description: 波波老师带你学爬虫的 bilibili 主页
+        - title: 夜幕NightTeam
+          logo: 472444378.jpg
+          url: https://space.bilibili.com/472444378
+          description: 夜幕NightTeam的 bilibili 主页
+        - title: ikun的嘴
+          logo: 397037741.jpg
+          url: https://space.bilibili.com/397037741
+          description: ikun的嘴的 bilibili 主页
+        - title: 若水0014
+          logo: 521068039.jpg
+          url: https://space.bilibili.com/521068039
+          description: 若水0014的 bilibili 主页
         - title: 漠染千舟
           logo: 1533897577.jpg
           url: https://space.bilibili.com/1533897577
@@ -2143,66 +2273,26 @@
           logo: 3493257935850246.jpg
           url: https://space.bilibili.com/3493257935850246
           description: nothing__233的 bilibili 主页
-        - title: B站用户骚神
-          logo: 48179703.jpg
-          url: https://space.bilibili.com/48179703
-          description: B站用户骚神的 bilibili 主页
         - title: 安静的小泰迪
           logo: 470244840.jpg
           url: https://space.bilibili.com/470244840
           description: 安静的小泰迪的 bilibili 主页
-        - title: 凛音姫
-          logo: 358732858.jpg
-          url: https://space.bilibili.com/358732858
-          description: 凛音姫的 bilibili 主页
         - title: 海斯-AlanHays
           logo: 247999712.jpg
           url: https://space.bilibili.com/247999712
           description: 海斯-AlanHays的 bilibili 主页
-        - title: 时一十一姐呀
-          logo: 308704191.jpg
-          url: https://space.bilibili.com/308704191
-          description: 时一十一姐呀的 bilibili 主页
         - title: 纷羽逍遥
           logo: 81216470.jpg
           url: https://space.bilibili.com/81216470
           description: 纷羽逍遥的 bilibili 主页
-        - title: 风と自由
-          logo: 480809815.jpg
-          url: https://space.bilibili.com/480809815
-          description: 风と自由的 bilibili 主页
-        - title: 夜幕NightTeam
-          logo: 472444378.jpg
-          url: https://space.bilibili.com/472444378
-          description: 夜幕NightTeam的 bilibili 主页
-        - title: 悦来客栈的老板
-          logo: 1796457925.jpg
-          url: https://space.bilibili.com/1796457925
-          description: 悦来客栈的老板的 bilibili 主页
         - title: 落枫_rain
           logo: 36624848.jpg
           url: https://space.bilibili.com/36624848
           description: 落枫_rain的 bilibili 主页
-        - title: 陈不不and挽风的逆向
-          logo: 227452348.jpg
-          url: https://space.bilibili.com/227452348
-          description: 陈不不and挽风的逆向的 bilibili 主页
-        - title: 小肩膀-逆向安全培训
-          logo: 534838862.jpg
-          url: https://space.bilibili.com/534838862
-          description: 小肩膀-逆向安全培训的 bilibili 主页
         - title: 陈公子的话
           logo: 453818250.jpg
           url: https://space.bilibili.com/453818250
           description: 陈公子的话的 bilibili 主页
-        - title: 田霸先
-          logo: 114131408.jpg
-          url: https://space.bilibili.com/114131408
-          description: 田霸先的 bilibili 主页
-#        - title: 玩转Code
-#          logo: 409871996.jpg
-#          url: https://space.bilibili.com/409871996
-#          description: 玩转Code的 bilibili 主页
         - title: 醒醒该干饭了
           logo: 9532462.jpg
           url: https://space.bilibili.com/9532462
@@ -2211,10 +2301,6 @@
           logo: 38940666.jpg
           url: https://space.bilibili.com/38940666
           description: 一燕来去一年冬的 bilibili 主页
-        - title: 猿人学Python
-          logo: 392333105.jpg
-          url: https://space.bilibili.com/392333105
-          description: 猿人学Python的 bilibili 主页
         - title: 可乐还是百事好呀
           logo: 182558639.jpg
           url: https://space.bilibili.com/182558639
@@ -2227,34 +2313,30 @@
           logo: 1366032025.jpg
           url: https://space.bilibili.com/1366032025
           description: 西门浪0v0的 bilibili 主页
-        - title: 二进制科学
-          logo: 500303.jpg
-          url: https://space.bilibili.com/500303
-          description: 二进制科学的 bilibili 主页
         - title: 会飞ヾ的鱼
           logo: 358764286.jpg
           url: https://space.bilibili.com/358764286
           description: 会飞ヾ的鱼的 bilibili 主页
-        - title: 安卓反调试frida检测Neo
-          logo: 27577421.jpg
-          url: https://space.bilibili.com/27577421
-          description: 安卓反调试frida检测Neo的 bilibili 主页
-        - title: r0ysue
-          logo: 31025974.jpg
-          url: https://space.bilibili.com/31025974
-          description: r0ysue的 bilibili 主页
-        - title: 珍惜Any
-          logo: 434541052.jpg
-          url: https://space.bilibili.com/434541052
-          description: 珍惜Any的 bilibili 主页
-        - title: 和沐阳学逆向
-          logo: 439348342.jpg
-          url: https://space.bilibili.com/439348342
-          description: 和沐阳学逆向的 bilibili 主页
         - title: 逆向不看学历
           logo: 105035514.jpg
           url: https://space.bilibili.com/105035514
           description: 逆向不看学历的 bilibili 主页
+        - title: 铭叔_
+          logo: 387193381.jpg
+          url: https://space.bilibili.com/387193381
+          description: 铭叔_的 bilibili 主页
+        - title: QiQi指的是琦琦
+          logo: 397155590.jpg
+          url: https://space.bilibili.com/397155590
+          description: QiQi指的是琦琦的 bilibili 主页
+        - title: 回锅炒辣椒
+          logo: 35242527.jpg
+          url: https://space.bilibili.com/35242527
+          description: 回锅炒辣椒的 bilibili 主页
+#        - title: 玩转Code
+#          logo: 409871996.jpg
+#          url: https://space.bilibili.com/409871996
+#          description: 玩转Code的 bilibili 主页
     - term: 交流论坛
       links:
         - title: 看雪安全社区
@@ -2311,26 +2393,30 @@
           description: 国外的一个爬虫俱乐部。
     - term: 练习平台
       links:
-        - title: 猿人学第一届JS逆向刷题平台
+        - title: 猿人学第一届 JS 逆向刷题平台
           logo: yuanrenxue.jpg
           url: https://match.yuanrenxue.cn/
-          description: 猿人学第一届JS逆向刷题平台。
-        - title: 猿人学第二届JS逆向刷题平台
+          description: 猿人学第一届 JS 逆向刷题平台
+        - title: 猿人学第二届 JS 逆向刷题平台
           logo: yuanrenxue.jpg
           url: https://match2023.yuanrenxue.cn/
-          description: 猿人学第二届JS逆向刷题平台。
-        - title: 猿人学 Android 刷题平台
+          description: 猿人学第二届 JS 逆向刷题平台
+        - title: 猿人学 Android 端爬虫刷题平台
           logo: yuanrenxue.jpg
           url: https://appmatch.yuanrenxue.cn/
-          description: 猿人学 Android 刷题平台。
+          description: 猿人学 Android 端爬虫刷题平台
         - title: 猿人学内部学员练习平台
           logo: yuanrenxue.jpg
           url: https://www.python-spider.com/challenge/
-          description: 猿人学内部学员练习平台。
+          description: 猿人学内部学员练习平台
+        - title: 零点 ldvmp 喵喵盾反混淆练习
+          logo: 4670123.jpg
+          url: https://www.ldvmp.com/
+          description: 零点 ldvmp 喵喵盾反混淆练习
         - title: 网洛者反反爬虫练习平台
           logo: wangluozhe.jpg
           url: https://wangluozhe.com/
-          description: 网洛者 - 反反爬虫练习，平台完全免费公开的，有意者可以直接进入平台进行练习和玩耍，欢迎各位大佬的入驻和使用！
+          description: 网洛者 - 反反爬虫练习，平台完全免费公开的，有意者可以直接进入平台进行练习和玩耍，欢迎各位大佬的入驻和使用
         - title: TLS 指纹对抗练习平台
           logo: geekbyter.jpg
           url: https://tlsja3.cn/
@@ -2338,53 +2424,90 @@
         - title: Scrape Center
           logo: scrape.png
           url: https://scrape.center/
-          description: 崔庆才《Python3网络爬虫开发实战（第二版）》配套案例练习平台。
-        - title: Crawler Lab
-          logo: crawler-lab.png
-          url: https://www.crawler-lab.com/
-          description: CrawlerLab —— 爬虫攻防演练靶场，仅夜幕学员使用。
-        - title: 镀金的天空 GlidedSky
-          logo: glidedsky.png
-          url: http://www.glidedsky.com/
-          description: 镀金的天空 GlidedSky，爬虫在线闯关练习平台。
-        - title: 欧拉VS木大
-          logo: evilrecluse.png
-          url: http://learnspider.evilrecluse.top/
-          description: 欧拉VS木大 是一个爬虫训练场，你可以在这里锻炼你的爬虫基础能力。
+          description: 崔庆才《Python3网络爬虫开发实战（第二版）》配套案例练习平台
+        - title: SpiderBuf
+          logo: spiderbuf.png
+          url: https://www.spiderbuf.cn/
+          description: Python 网络爬虫攻防技术练习的靶场
+#        - title: Crawler Lab
+#          logo: crawler-lab.png
+#          url: https://www.crawler-lab.com/
+#          description: CrawlerLab —— 爬虫攻防演练靶场，仅夜幕学员使用
+#        - title: 镀金的天空 GlidedSky
+#          logo: glidedsky.png
+#          url: http://www.glidedsky.com/
+#          description: 镀金的天空 GlidedSky，爬虫在线闯关练习平台
+#        - title: 欧拉VS木大
+#          logo: evilrecluse.png
+#          url: http://learnspider.evilrecluse.top/
+#          description: 欧拉VS木大 是一个爬虫训练场，你可以在这里锻炼你的爬虫基础能力
     - term: 知识付费
       links:
-        - title: 猿人学爬虫逆向进阶课
+        - title: 猿人学·爬虫逆向进阶课
           logo: yuanrenxue.jpg
           url: https://shop45147253.m.youzan.com/wscgoods/detail/2okabph85ypv1
-          description: 联系站长可获取内部优惠价，一次付费，终身免费更新，附带工作内推、线下见面会、模拟面试等，内容涉及 JS 逆向、APP 逆向、机器学习验证码等。
-        - title: 猿人学零基础到爬虫进阶
+          description: 联系站长可获取内部优惠价，一次付费，终身免费更新，附带工作内推、线下见面会、模拟面试等，内容涉及 JS 逆向、APP 逆向、机器学习验证码等
+        - title: 猿人学.零基础课+爬虫逆向进阶课
           logo: yuanrenxue.jpg
           url: https://shop45147253.m.youzan.com/wscgoods/detail/361rmliyhfwr184
-          description: 联系站长可获取内部优惠价，一次付费，终身免费更新，附带工作内推、线下见面会、模拟面试等，内容 Python 基础、爬虫基础、JS 基础、JS 逆向、APP 逆向、机器学习验证码等。
+          description: 联系站长可获取内部优惠价，一次付费，终身免费更新，附带工作内推、线下见面会、模拟面试等，内容 Python 基础、爬虫基础、JS 基础、JS 逆向、APP 逆向、机器学习验证码等
+        - title: 猿人学·反爬虫&风控对抗课
+          logo: yuanrenxue.jpg
+          url: https://shop45147253.m.youzan.com/wscgoods/detail/2xli2kj7ku3a5zk
+          description: 联系站长可获取内部优惠价，首家反爬风控课程，一次付费，终身免费更新，附带工作内推、线下见面会、模拟面试等
         - title: r0ysue 肉丝
           logo: r1ysue.jpg
           url: https://appli0n8byd8759.h5.xiaoeknow.com/p/decorate/homepage
-          description: r0ysue 肉丝的爬虫架构、JS 逆向、Android 逆向、IOS 设备指纹、eBPF 安全开发、Fart 脱壳王等课程。
+          description: r0ysue 肉丝的爬虫架构、JS 逆向、Android 逆向、IOS 设备指纹、eBPF 安全开发、Fart 脱壳王等课程
         - title: 看雪论坛课程
           logo: ikanxue.jpg
           url: https://www.kanxue.com/book-list-1-31.htm
-          description: 看雪 Android 逆向课程，IDA 特训营、Unidbg 模拟、LLVM 与代码混淆、eBPF 安全开发、安卓高级月薪两万、三万计划等。
+          description: 看雪 Android 逆向课程，IDA 特训营、Unidbg 模拟、LLVM 与代码混淆、eBPF 安全开发、安卓高级月薪两万、三万计划等
         - title: 安卓 & WEB 网络协议课
           logo: geekbyte.jpg
           url: images/course/neo&geekbyte.jpg
-          description: 课程核心着重于介绍底层协议 HTTP、HTTP2、TLS1.2、TLS1.3 的原理与源码（包括 JA3 的开发与对抗，QUIC，OpenSSL，MbedTLS，wolfSSL 等），并将理论与实际代码相结合，深入讲解相关内容。
+          description: 课程核心着重于介绍底层协议 HTTP、HTTP2、TLS1.2、TLS1.3 的原理与源码（包括 JA3 的开发与对抗，QUIC，OpenSSL，MbedTLS，wolfSSL 等），并将理论与实际代码相结合，深入讲解相关内容
         - title: JSVMP 反编译课程
           logo: Chankipen.jpg
           url: images/course/jsvmp.jpg
-          description: 陈不不的 JSVMP 反编译课程。
+          description: 陈不不的 JSVMP 反编译课程
         - title: 沐阳
           logo: muyangjy888.jpg
           url: https://mp.weixin.qq.com/s/onNc1WYAeUXDQMitWmyi6w
-          description: 沐阳从0开始学习iOS逆向、从0开始学习安卓逆向、从0开始学习JS逆向。
+          description: 沐阳从0开始学习iOS逆向、从0开始学习安卓逆向、从0开始学习JS逆向
         - title: Alien & 珍惜联合课
           logo: alienhe.png
           url: http://course.alienhe.cn/home.html
-          description: Alien & 珍惜联合课，安卓逆向进阶百级教程，全网最新 js 逆向视频。
+          description: Alien & 珍惜联合课，安卓逆向进阶百级教程，全网最新 js 逆向视频
+        - title: 零点课程：从零实现 JSVMP
+          logo: 4670123.jpg
+          url: https://mp.weixin.qq.com/s/ktZWSzDGMYTdSjceuPoWKg
+          description: 零点大佬的课程，从零实现 JSVMP，喵喵盾作者：https://www.ldvmp.com/
+        - title: 大数据安全技术学习
+          logo: zsxq.png
+          url: https://t.zsxq.com/FjMHh
+          description: r0ysue 肉丝大佬的知识星球，定期分享和解答Frida、抓包解包、Fart脱壳机、算法还原、Ollvm、VMP、unicorn/unidbg、安卓源码定制与调试、IDA&GDB、art虚拟机二次开发等高质量安卓应用安全相关知识
+        - title: 编境知识星球
+          logo: zsxq.png
+          url: https://t.zsxq.com/dyeNW
+          description: tls/ja3 指纹，js 逆向，app 逆向，移动安全分析，TLS 指纹对抗练习平台（tlsja3.cn）作者，公众号：编角料
+        - title: 十一姐知识星球
+          logo: zsxq.png
+#          qrcode: images/qrcode/shiyi_zsxq.jpg
+          url: https://t.zsxq.com/14tPsY8si
+          description: 各种JS逆向/验证码逆向/图像识别训练/自动化爬虫干货分享，公众号：逆向OneByOne
+        - title: 阿J知识星球
+          logo: zsxq.png
+          url: https://t.zsxq.com/Thb1k
+          description: 星球主要用于探讨有感类型验证码的训练和识别方法，轨迹算法等，JS 算法感兴趣也可以讨论讨论，公众号：python爬虫和阿J的逆向
+        - title: 卷卷大陆知识星球
+          logo: zsxq.png
+          url: https://t.zsxq.com/MrS7c
+          description: 挽风大佬的知识星球，各种逆向教程资源，公众号：陈不不and挽风的逆向
+        - title: js攻防学习知识星球
+          logo: zsxq.png
+          url: https://t.zsxq.com/gmFWu
+          description: 零点大佬的知识星球，js逆向、补环境、jsvmp编译、浏览器环境检测，Node编译/Chromium编译等
 
 - taxonomy: 人工智能
   icon: fas fa-robot fa-lg
@@ -2409,7 +2532,7 @@
           description: 通义千问，是阿里云推出的一个超大规模的语言模型，功能包括多轮对话、文案创作、逻辑推理、多模态理解、多语言支持。能够跟人类进行多轮的交互，也融入了多模态的知识理解，且有文案创作能力，能够续写小说，编写邮件等
         - title: 豆包
           url: https://www.doubao.com/chat/
-          logo: doubao.png
+          logo: doubao.jpg
           description: 豆包是字节跳动公司基于云雀模型开发的 AI 工具，提供聊天机器人、写作助手以及英语学习助手等功能
         - title: NewBing
           url: https://www.bing.com/new
