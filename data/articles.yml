@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 软件安全与逆向分析
+      release_time: '2024-12-08 14:25:13'
+      title: 统一化的eBPF学习环境搭建，附代码
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484729&idx=1&sn=14e89ae1609c6c8b170bd741006da014
     - author: 二进制磨剑
       release_time: '2024-12-07 14:31:03'
       title: IDA技巧（85）源代码级调试
