@@ -66,35 +66,35 @@ $(document).ready(function () {
 });
 
 /* 弹窗二：交流群 */
-$(document).ready(function () {
-    const showGroupElement = document.getElementById("show-group");
-    showGroupElement.addEventListener("click", function () {
-        Swal.fire({
-            text: "扫码加入QQ / 微信交流群",
-            confirmButtonText: "俺知道了",
-            confirmButtonColor: "#0084ff",
-            imageWidth: 420,
-            imageUrl: "https://static.spiderapi.cn/spiderbox/images/group.webp",
-            imageAlt: "QQ / 微信交流群",
-            showClass: {
-                popup: "swal2-show"
-            },
-            hideClass: {
-                popup: "swal2-hide"
-            },
-            allowOutsideClick: false,
-            customClass: {
-                image: "custom-swal-image"
-            }
-        }).then((result) => {
-            if (result.isConfirmed) {
-                Swal.close();
-            }
-        });
-        const popupContainer = document.querySelector(".swal2-container");
-        popupContainer.style.zIndex = "9999";
-    })
-});
+// $(document).ready(function () {
+//     const showGroupElement = document.getElementById("show-group");
+//     showGroupElement.addEventListener("click", function () {
+//         Swal.fire({
+//             text: "扫码加入QQ / 微信交流群",
+//             confirmButtonText: "俺知道了",
+//             confirmButtonColor: "#0084ff",
+//             imageWidth: 420,
+//             imageUrl: "https://static.spiderapi.cn/spiderbox/images/group.webp",
+//             imageAlt: "QQ / 微信交流群",
+//             showClass: {
+//                 popup: "swal2-show"
+//             },
+//             hideClass: {
+//                 popup: "swal2-hide"
+//             },
+//             allowOutsideClick: false,
+//             customClass: {
+//                 image: "custom-swal-image"
+//             }
+//         }).then((result) => {
+//             if (result.isConfirmed) {
+//                 Swal.close();
+//             }
+//         });
+//         const popupContainer = document.querySelector(".swal2-container");
+//         popupContainer.style.zIndex = "9999";
+//     })
+// });
 
 /* 弹窗三：免责声明 */
 $(document).ready(function () {
@@ -241,6 +241,7 @@ $(document).ready(function () {
 })();
 
 /* 夜间(日间)模式切换 */
+
 // $("#search-bg").css("background-image", "url({{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.images.searchImageL }})");   //默认浅色背景
 function switchNightMode() {
     let night = document.cookie.replace(/(?:(?:^|.*;\s*)night\s*\=\s*([^;]*).*$)|^.*$/, "$1") || '0';
@@ -317,5 +318,49 @@ $(document).ready(function () {
             observer.observe(item);
         }
     });
+});
+
+/* 初始化检查侧边栏是否需要展开 */
+window.addEventListener('DOMContentLoaded', (event) => {
+    // 检查 localStorage 中的 mini_sidebar 是否为 true，默认 true
+    const isMiniSidebar = localStorage.getItem('mini_sidebar') === 'true' || localStorage.getItem('mini_sidebar') === null;
+    const sidebarElement = document.getElementById('sidebar');
+
+    if (isMiniSidebar) {
+        sidebarElement.classList.add('mini-sidebar');
+        sidebarElement.classList.remove('animate-nav');
+        sidebarElement.style.width = '60px';
+        $('.header-mini-btn input[type="checkbox"]').prop("checked", true);
+    } else {
+        sidebarElement.classList.add('animate-nav');
+        sidebarElement.classList.remove('mini-sidebar');
+        sidebarElement.style.width = '170px';
+        $('.header-mini-btn input[type="checkbox"]').prop("checked", false);
+    }
+});
+
+// 最近文章/视频，右键复制标题链接作者
+document.addEventListener("contextmenu", (event) => {
+    // 检查是否右键点击了 .hot-list 项
+    const hotListItem = event.target.closest(".hot-list");
+    if (hotListItem) {
+        // 阻止默认右键菜单
+        event.preventDefault();
+        // 获取标题、链接和作者信息
+        const title = hotListItem.querySelector("a").textContent;
+        const link = hotListItem.querySelector("a").href;
+        const author = hotListItem.querySelector(".hot-rank").textContent;
+        // 拼接内容
+        const content = `• 标题: ${title}\n• 链接: ${link}\n• 作者: ${author}\n• 来源: 由 spiderbox.cn 提供搜集聚合服务`;
+        // 将内容复制到剪贴板
+        navigator.clipboard.writeText(content).then(() => {
+            // https://alertifyjs.com/ 弹窗
+            alertify.set('notifier', 'position', 'top-center');
+            alertify.set('notifier', 'delay', 3);
+            alertify.success('链接已复制到剪贴板');
+        }).catch((err) => {
+            console.error("链接复制失败:", err);
+        });
+    }
 });
 
