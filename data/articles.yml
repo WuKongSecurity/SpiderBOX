@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 波波老师带你学爬虫
+      release_time: '2024-12-08 16:05:38'
+      title: 织梦空间 - 知识星球宣传讲解
+      url: https://www.bilibili.com/video/BV1JNqpYbEFg
     - author: 时一十一姐呀
       release_time: '2024-12-06 01:03:23'
       title: js逆向-akamai_3.0反爬sensor_data主流程逆向分析
@@ -113,10 +117,6 @@
       release_time: '2024-11-19 22:56:24'
       title: JS逆向实战_Array数组常用API
       url: https://www.bilibili.com/video/BV1LGScYtEd2
-    - author: 玩转Code
-      release_time: '2024-11-19 11:03:29'
-      title: JS逆向补环境到底补的是啥？
-      url: https://www.bilibili.com/video/BV1x9UtYnEk9
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
