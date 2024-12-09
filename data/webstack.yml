@@ -746,10 +746,10 @@
           logo: github.png
           url: https://github.com/wangluozhe/requests
           description: Golang 库，用于快速请求 HTTP 或 HTTPS，并支持修改 ja3、ja4 指纹
-#        - title: gospider
-#          logo: github.png
-#          url: https://github.com/baixudong007/gospider
-#          description: Golang 库，JA3 和 HTTP/2 指纹识别，支持 Websocket、SSE、HTTP 和 HTTPS 协议
+        - title: requests
+          logo: github.png
+          url: https://github.com/gospider007/requests
+          description: Golang 库，支持 ja3、ja4、http、http2、http3、websocket、sse、tls 指纹修改
         - title: CycleTLS
           logo: CycleTLS.jpg
           url: https://github.com/Danny-Dasilva/CycleTLS
