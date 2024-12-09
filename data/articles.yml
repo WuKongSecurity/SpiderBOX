@@ -382,6 +382,10 @@
       release_time: '2024-12-07 16:42:15'
       title: 2024-12月akamai_2.0-sensor-data之cookie反爬分析详细教程（中）
       url: https://blog.csdn.net/weixin_43411585/article/details/144312452
+    - author: 北海
+      release_time: '2024-12-07 00:00:00'
+      title: apk修改实践：绕过强制更新弹窗
+      url: https://xz.aliyun.comhttps://xz.aliyun.com/t/16599
     - author: 妙行
       release_time: '2024-12-06 16:06:39'
       title: '[推荐][原创]svc_hook框架'
@@ -482,10 +486,6 @@
       release_time: '2024-11-30 17:37:52'
       title: akamai sbsd
       url: https://blog.csdn.net/qq_21050249/article/details/144158022
-    - author: Payne-Wu
-      release_time: '2024-11-30 16:26:41'
-      title: '[原创]细说软件保护'
-      url: https://bbs.kanxue.com/thread-284629.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
