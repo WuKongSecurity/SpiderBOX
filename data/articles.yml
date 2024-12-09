@@ -374,6 +374,10 @@
       release_time: '2024-12-09 11:44:06'
       title: '[推荐][非原创]svc_hook框架'
       url: https://bbs.kanxue.com/thread-284731.htm
+    - author: 成功你要成仁啊
+      release_time: '2024-12-09 10:41:51'
+      title: 逆向百例之蜂窝参数分析
+      url: https://blog.csdn.net/weixin_44772112/article/details/144340524
     - author: 十一姐
       release_time: '2024-12-07 16:42:15'
       title: 2024-12月akamai_2.0-sensor-data之cookie反爬分析详细教程（中）
@@ -482,10 +486,6 @@
       release_time: '2024-11-30 16:26:41'
       title: '[原创]细说软件保护'
       url: https://bbs.kanxue.com/thread-284629.htm
-    - author: w2sfot
-      release_time: '2024-11-30 09:55:11'
-      title: JavaScript Anti Eval Debugging
-      url: https://blog.csdn.net/w2sft/article/details/144150285
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
