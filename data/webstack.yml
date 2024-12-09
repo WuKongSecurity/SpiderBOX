@@ -710,6 +710,10 @@
           logo: ja3zone.jpg
           url: https://ja3.zone/check
           description: JA3 ZONE TLS 指纹检测 API，查看 ja3 指纹
+        - title: fp
+          logo: github.png
+          url: https://github.com/gospider007/fp
+          description: 帮助服务端获取客户端的Ja3 指纹、http2 指纹、Ja4 指纹、Ja4H 指纹
         - title: TCP/IP Fingerprint API
           logo: tcpip.png
           url: https://tcpip.incolumitas.com/classify?detail=1
