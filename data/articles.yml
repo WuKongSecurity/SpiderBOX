@@ -29,6 +29,10 @@
       release_time: '2024-12-04 21:31:00'
       title: 骚神Drissionpage教学 第31课 彻底模拟手机端
       url: https://www.bilibili.com/video/BV128iUY5EK2
+    - author: 冒蓝火的黑骑士
+      release_time: '2024-12-02 02:32:19'
+      title: web逆向-某讯滑快vmp纯算分析（二）
+      url: https://www.bilibili.com/video/BV1UmzfYpEbD
     - author: B站用户骚神
       release_time: '2024-12-01 20:11:20'
       title: 骚神Drissionpage教学 第30课 京东商品秒杀抢购
@@ -37,6 +41,10 @@
       release_time: '2024-11-29 16:18:45'
       title: 骚神Drissionpage教学 第29课 朗读并抓取某音直播弹幕
       url: https://www.bilibili.com/video/BV1nczqYLEZk
+    - author: 冒蓝火的黑骑士
+      release_time: '2024-11-29 01:01:59'
+      title: web逆向-某讯滑块vmp纯算分析
+      url: https://www.bilibili.com/video/BV13LzYYJEH2
     - author: 时一十一姐呀
       release_time: '2024-11-28 21:47:27'
       title: 训练验证码-yolov8与孪生训练点选验证码
@@ -109,17 +117,13 @@
       release_time: '2024-11-20 23:40:57'
       title: p2-0爬虫自动化之drissionpage使用Chromium导包替换ChromiumPage
       url: https://www.bilibili.com/video/BV1mrUyYYExA
-    - author: 玩转Code
-      release_time: '2024-11-20 20:21:04'
-      title: JS逆向实战_浏览器环境联调
-      url: https://www.bilibili.com/video/BV1WXSuYAEZQ
-    - author: ikun的嘴
-      release_time: '2024-11-20 00:28:05'
-      title: js逆向vmp纯算大致流程解析
-      url: https://www.bilibili.com/video/BV1ENScYAE7G
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 爬虫逆向之旅
+      release_time: '2024-12-09 10:53:47'
+      title: 福利站逆向(无限debugger，js乱序)
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzMwNTMzOA==&mid=2247500502&idx=1&sn=a938fff413858988aef133e5864ecb29
     - author: js 安卓 iOS逆向
       release_time: '2024-12-09 10:04:40'
       title: 安卓协议逆向开课啦!
