@@ -738,14 +738,18 @@
           logo: github.png
           url: https://github.com/zero3301/pyhttpx
           description: Python 库，基于 socket 开发的一个网络库，支持 tls1.2/tls1.3 和 h1/h2
+        - title: primp
+          logo: github.png
+          url: https://github.com/deedy5/primp
+          description: 最快的 Python HTTP 客户端，可以模拟 Web 浏览器
         - title: requests
           logo: github.png
           url: https://github.com/wangluozhe/requests
           description: Golang 库，用于快速请求 HTTP 或 HTTPS，并支持修改 ja3、ja4 指纹
-        - title: gospider
-          logo: github.png
-          url: https://github.com/baixudong007/gospider
-          description: Golang 库，JA3 和 HTTP/2 指纹识别，支持 Websocket、SSE、HTTP 和 HTTPS 协议
+#        - title: gospider
+#          logo: github.png
+#          url: https://github.com/baixudong007/gospider
+#          description: Golang 库，JA3 和 HTTP/2 指纹识别，支持 Websocket、SSE、HTTP 和 HTTPS 协议
         - title: CycleTLS
           logo: CycleTLS.jpg
           url: https://github.com/Danny-Dasilva/CycleTLS
