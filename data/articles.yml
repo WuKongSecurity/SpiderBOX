@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: js 安卓 iOS逆向
+      release_time: '2024-12-09 10:04:40'
+      title: 安卓协议逆向开课啦!
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0NzU3MjQzNA==&mid=2247485495&idx=1&sn=9040238e3969936c2218f6911b8fc393
     - author: 逆向有你
       release_time: '2024-12-09 09:48:00'
       title: 安卓逆向 -- 某游戏新手破解方式
@@ -128,6 +132,10 @@
       release_time: '2024-12-09 09:48:00'
       title: PC逆向 -- DPC队列
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037157&idx=2&sn=073a873fc0b2044882c1b4d1a60970d9
+    - author: Spade sec
+      release_time: '2024-12-09 09:00:33'
+      title: JS逆向系列14-Bypass Debugger
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485008&idx=1&sn=22e3872914a4590e79e1142cad305d1a
     - author: 关于代码那点事
       release_time: '2024-12-09 08:00:00'
       title: 逆向百例之蜂窝参数分析
@@ -144,6 +152,10 @@
       release_time: '2024-12-07 14:31:03'
       title: IDA技巧（85）源代码级调试
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485073&idx=1&sn=a027102e265b5623410fe61c65b98830
+    - author: Spade sec
+      release_time: '2024-12-07 09:30:29'
+      title: JS逆向系列13-反调试之console.log
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247484945&idx=1&sn=fa7b25e755058313784395e96b9a7b44
     - author: 逆向有你
       release_time: '2024-12-07 00:00:00'
       title: 安卓逆向 -- 某日记app逆向分析
@@ -184,6 +196,10 @@
       release_time: '2024-12-05 00:00:00'
       title: PC逆向 -- 对象回调
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037107&idx=2&sn=8a7fba7e9bc45bb56596cacfb90279b0
+    - author: 当爬虫遇到逆向
+      release_time: '2024-12-04 16:51:27'
+      title: 新版a_bogus分析（保姆级跟栈啊啊啊啊）
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4MjE4NzA5NA==&mid=2247483840&idx=1&sn=16b4fc16cbfcaed0a8ebabd31817d78a
     - author: 移动安全星球
       release_time: '2024-12-04 13:50:32'
       title: 鸿蒙（HarmonyOS）应用开发-HDC环境变量设置
@@ -208,6 +224,10 @@
       release_time: '2024-12-03 17:10:36'
       title: PKI_CA基础理解
       url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486314&idx=1&sn=2940f4dc40056f7da7bbb85533fab117
+    - author: Spade sec
+      release_time: '2024-12-03 12:26:24'
+      title: JS逆向系列09-Js Hook
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247484611&idx=1&sn=f5348d13c3b15b595c7d55b8dd445b5e
     - author: 逆向有你
       release_time: '2024-12-02 14:08:21'
       title: 安卓逆向 -- 某app破解下载和高清功能
@@ -216,26 +236,6 @@
       release_time: '2024-12-02 14:08:21'
       title: PC逆向 -- 获取64位模块读写
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037081&idx=2&sn=f4f16917c903f9f90df61ef599bd2938
-    - author: 关于代码那点事
-      release_time: '2024-12-02 08:00:00'
-      title: playwright实战
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MTg1NzU1NA==&mid=2247485606&idx=1&sn=48535a58057b8765b7d00be1cb811fde
-    - author: 小伍哥聊风控
-      release_time: '2024-12-01 20:24:00'
-      title: 广告与营销风控中的短视频和直播风控
-      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196616&idx=1&sn=cd80b581ed7e9382fb6c0e19128b69ec
-    - author: jqiu爬虫分析日记
-      release_time: '2024-12-01 18:11:37'
-      title: tiktok 系列文章 - device_register（2）
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0ODMwNzg4MA==&mid=2247483848&idx=1&sn=13e81950f8f47beaba3235c7817b1ac8
-    - author: 未闻Code
-      release_time: '2024-12-01 09:00:00'
-      title: 'Python Protocols: 高手都在用的接口设计方式'
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648989878&idx=1&sn=13aaccdba4988899059ef6ede85c7e64
-    - author: 二进制磨剑
-      release_time: '2024-11-30 13:43:34'
-      title: IDA 技巧(80) 书签
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485002&idx=1&sn=937fb67b6d54e0c7c2b8123d5d0d02fe
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
