@@ -19,6 +19,27 @@ console.log("\n %c © BOB'S BLOG %c itbob.cn %c © SpiderBox %c spiderbox.cn %c 
 
 /* 弹窗一：say hello baby */
 $(document).ready(function () {
+    // 检查是否是 Chromium 内核且版本小于 100
+    function isOldChromium() {
+        try {
+            const userAgent = navigator.userAgent;
+            const chromeMatch = userAgent.match(/Chrome\/(\d+)/);
+            if (chromeMatch && chromeMatch[1]) {
+                const chromeVersion = parseInt(chromeMatch[1], 10);
+                return chromeVersion < 100;
+            }
+            return false;
+        } catch (error) {
+            console.error("Error detecting Chromium version:", error);
+            // 出现异常时默认不弹出弹窗
+            return true;
+        }
+    }
+
+    if (isOldChromium()) {
+        return;
+    }
+
     // 检查本地存储中的标志位，如果标志位为 true，则不再弹出弹窗
     let lastPopupTime = localStorage.getItem("FUCK_GIZAWORKS");
     lastPopupTime = new Date(lastPopupTime).getTime();
