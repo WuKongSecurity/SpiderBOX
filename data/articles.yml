@@ -120,6 +120,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: K哥爬虫
+      release_time: '2024-12-09 16:14:57'
+      title: 【JS逆向百例】东某航空数某指纹 v4 设备 ID 逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkyMzcxMDM0MQ==&mid=2247503992&idx=1&sn=9895137dc029ddb4c5506c85395755a9
+    - author: 影17
+      release_time: '2024-12-09 15:54:03'
+      title: 某漫软件 永久VIP破解流程分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489233&idx=1&sn=b4f8455b4432798dc62bafdc0f508b13
     - author: 软件安全与逆向分析
       release_time: '2024-12-09 13:41:08'
       title: 统一化的Frida学习环境放出，附使用方法
@@ -232,14 +240,6 @@
       release_time: '2024-12-04 00:00:00'
       title: PC逆向 -- 创建线程
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037097&idx=2&sn=69c64c699020813b608d6b6bfb2a13ed
-    - author: 兔老大Android和iOS逆向
-      release_time: '2024-12-03 17:12:11'
-      title: 【iOS逆向】某某小说content逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzY5NjQxMg==&mid=2247484055&idx=1&sn=8cd81f096e0afdcbd64b9f56ae16b62e
-    - author: 移动安全星球
-      release_time: '2024-12-03 17:10:36'
-      title: PKI_CA基础理解
-      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486314&idx=1&sn=2940f4dc40056f7da7bbb85533fab117
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
