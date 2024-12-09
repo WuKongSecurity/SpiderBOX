@@ -2119,6 +2119,18 @@
           logo: kgepachong.jpg
           qrcode: images/qrcode/kgepachong.jpg
           description: 公众号：K哥爬虫
+        - title: Spade sec
+          logo: gh_e3bc789ec364.jpg
+          qrcode: images/qrcode/gh_e3bc789ec364.jpg
+          description: 公众号：Spade sec
+        - title: 当爬虫遇到逆向
+          logo: gh_b47cae6218b8.jpg
+          qrcode: images/qrcode/gh_b47cae6218b8.jpg
+          description: 公众号：当爬虫遇到逆向
+        - title: 我真的不是蜘蛛
+          logo: gh_f7eefacb8595.jpg
+          qrcode: images/qrcode/gh_f7eefacb8595.jpg
+          description: 公众号：我真的不是蜘蛛
         - title: 瑞数信息
           logo: riversecurity.png
           qrcode: images/qrcode/RiverSecurity.jpg
@@ -2257,6 +2269,10 @@
           logo: 472444378.jpg
           url: https://space.bilibili.com/472444378
           description: 夜幕NightTeam的 bilibili 主页
+        - title: 冒蓝火的黑骑士
+          logo: 392204112.jpg
+          url: https://space.bilibili.com/392204112
+          description: 冒蓝火的黑骑士的 bilibili 主页
         - title: ikun的嘴
           logo: 397037741.jpg
           url: https://space.bilibili.com/397037741
