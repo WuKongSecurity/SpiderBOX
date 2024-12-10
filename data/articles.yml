@@ -410,6 +410,10 @@
       release_time: '2024-12-06 16:06:39'
       title: '[推荐][原创]svc_hook框架'
       url: https://bbs.kanxue.com/thread-284713.htm
+    - author: 狗都不学爬虫_
+      release_time: '2024-12-06 15:02:34'
+      title: JS逆向入门案例-Trip国际版携c Phantom-Token（补环境Jvmp）-12
+      url: https://blog.csdn.net/qq_53444631/article/details/144290351
     - author: 十一姐
       release_time: '2024-12-05 21:11:33'
       title: 2024-12月akamai_2.0-sensor-data之cookie反爬分析详细教程（上）
@@ -434,6 +438,10 @@
       release_time: '2024-12-04 17:40:26'
       title: '[原创] 一分钟看完Android 应用启动流程'
       url: https://bbs.kanxue.com/thread-284686.htm
+    - author: 狗都不学爬虫_
+      release_time: '2024-12-04 10:49:05'
+      title: JS逆向入门案例-补环境 新版(Jsvmp) x点w_tsfp参数逆向-11
+      url: https://blog.csdn.net/qq_53444631/article/details/144231814
     - author: 吴秋霖
       release_time: '2024-12-04 09:00:00'
       title: temu登录接口逆向分析（含Py纯算）
@@ -478,14 +486,6 @@
       release_time: '2024-12-03 09:00:00'
       title: gid、acw_tc参数逆向分析与算法实现
       url: https://crawler.blog.csdn.net/article/details/144183007
-    - author: imliuxin
-      release_time: '2024-12-02 22:40:02'
-      title: 安卓so在没有源码的情况下怎样增添自己写的函数？
-      url: https://bbs.kanxue.com/thread-284656.htm
-    - author: Umain
-      release_time: '2024-12-02 11:16:23'
-      title: '[下载]Acunetix-v24.10.241106172'
-      url: https://bbs.kanxue.com/thread-284645.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
