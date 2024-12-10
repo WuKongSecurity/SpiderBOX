@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制科学
+      release_time: '2024-12-10 16:31:48'
+      title: phi指令在控制流平坦化后的to stack
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NDMzMzAwNQ==&mid=2247485788&idx=1&sn=34e65d8652d43cecf36774a63467087e
     - author: 二进制磨剑
       release_time: '2024-12-10 16:07:04'
       title: 【限时抽书】零基础学逆向 + 隐藏 Frida 【备战25秋招版】
@@ -236,10 +240,6 @@
       release_time: '2024-12-05 00:00:00'
       title: 安卓逆向 -- 某易学app过付费以及抓取结果数据
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037107&idx=1&sn=7201f7f76ed4a535b35bfaf39ca91bcf
-    - author: 逆向有你
-      release_time: '2024-12-05 00:00:00'
-      title: PC逆向 -- 对象回调
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037107&idx=2&sn=8a7fba7e9bc45bb56596cacfb90279b0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
