@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 时一十一姐呀
+      release_time: '2024-12-10 22:29:12'
+      title: js逆向-akamai_3.0反爬sensor_data之ajr参数逆向分析
+      url: https://www.bilibili.com/video/BV1eVqCYCEmw
     - author: 零点520666
       release_time: '2024-12-10 19:00:00'
       title: 挖矿小游戏-JShook对抗
@@ -113,10 +117,6 @@
       release_time: '2024-11-21 00:55:06'
       title: p23爬虫自动化之drissionpage在无痕模式下启用浏览器插件
       url: https://www.bilibili.com/video/BV1ymUyYbEcq
-    - author: 时一十一姐呀
-      release_time: '2024-11-20 23:59:06'
-      title: p22爬虫自动化之drissionpage截取长滚动条隐藏的截图
-      url: https://www.bilibili.com/video/BV112UyYFELj
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
