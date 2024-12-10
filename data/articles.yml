@@ -2,6 +2,10 @@
   list:
   - links:
     - author: 时一十一姐呀
+      release_time: '2024-12-10 22:54:58'
+      title: js逆向-akamai_3.0反爬sensor_data之ajr的mdn参数逆向分析
+      url: https://www.bilibili.com/video/BV1eGqCY5EYR
+    - author: 时一十一姐呀
       release_time: '2024-12-10 22:29:12'
       title: js逆向-akamai_3.0反爬sensor_data之ajr参数逆向分析
       url: https://www.bilibili.com/video/BV1eVqCYCEmw
@@ -113,10 +117,6 @@
       release_time: '2024-11-21 21:03:53'
       title: Linux-Python定时任务跑爬虫脚本
       url: https://www.bilibili.com/video/BV1diUDYcEu1
-    - author: 时一十一姐呀
-      release_time: '2024-11-21 00:55:06'
-      title: p23爬虫自动化之drissionpage在无痕模式下启用浏览器插件
-      url: https://www.bilibili.com/video/BV1ymUyYbEcq
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
