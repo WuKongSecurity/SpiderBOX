@@ -764,23 +764,27 @@
         - title: qxVm
           logo: github.png
           url: https://github.com/ylw00/qxVm
-          description: qxVm 补环境框架 (纯 js 实现)。
-        - title: catvm
-          logo: github.png
-          url: https://github.com/fanchangrui/catvm
-          description: 基于志远的思路实现实现的 js 逆向环境框架。
+          description: qxVm 补环境框架 (纯 js 实现)，作者开始佬，公众号：y小白的笔记
         - title: node-sandbox
           logo: github.png
           url: https://github.com/bnmgh1/node-sandbox
-          description: 魔改 Node Js 补环境框架。
-        - title: boda_jsEnv
+          description: 魔改 Node Js 补环境框架，作者挽风
+        - title: NodeSandbox
           logo: github.png
-          url: https://github.com/xuxiaobo-bobo/boda_jsEnv
-          description: js补环境框架。
+          url: https://github.com/bnmgh1/NodeSandbox
+          description: Node 补环境框架，作者挽风
+        - title: catvm
+          logo: github.png
+          url: https://github.com/fanchangrui/catvm
+          description: 基于志远的思路实现实现的 js 逆向环境框架
         - title: catvm
           logo: github.png
           url: https://github.com/Big1moster/catvm
-          description: catvm 另一个版本，志远补环境框架视频配套完结版。
+          description: catvm 另一个版本，志远补环境框架视频配套完结版
+        - title: boda_jsEnv
+          logo: github.png
+          url: https://github.com/xuxiaobo-bobo/boda_jsEnv
+          description: js补环境框架
 
     - term: 自动化/RPC
       links:
