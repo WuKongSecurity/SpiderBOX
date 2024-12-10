@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 零点520666
+      release_time: '2024-12-10 19:00:00'
+      title: 挖矿小游戏-JShook对抗
+      url: https://www.bilibili.com/video/BV14bq3YVEx5
     - author: B站用户骚神
       release_time: '2024-12-08 16:51:11'
       title: 骚神Drissionpage教学 第32课 用鼠标写DP代码+无限debugger越狱
@@ -113,10 +117,6 @@
       release_time: '2024-11-20 23:59:06'
       title: p22爬虫自动化之drissionpage截取长滚动条隐藏的截图
       url: https://www.bilibili.com/video/BV112UyYFELj
-    - author: 时一十一姐呀
-      release_time: '2024-11-20 23:40:57'
-      title: p2-0爬虫自动化之drissionpage使用Chromium导包替换ChromiumPage
-      url: https://www.bilibili.com/video/BV1mrUyYYExA
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
