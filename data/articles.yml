@@ -366,6 +366,14 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 十一姐
+      release_time: '2024-12-10 22:41:59'
+      title: js逆向案例-vmp字段之akamai_2/3.0-下
+      url: https://blog.csdn.net/weixin_43411585/article/details/144374738
+    - author: Hur1k
+      release_time: '2024-12-10 22:36:29'
+      title: '[原创]dpt-shell源码详细解析（v1.11.3）'
+      url: https://bbs.kanxue.com/thread-284744.htm
     - author: 飞向天空的鹰
       release_time: '2024-12-10 16:42:40'
       title: 总结一些 paddleocr 安装运行产生的问题
@@ -478,14 +486,6 @@
       release_time: '2024-12-03 11:52:26'
       title: '[原创]技术详解 | 如何对Cosmos SDK标准模块进行形式化验证'
       url: https://bbs.kanxue.com/thread-284659.htm
-    - author: w2sfot
-      release_time: '2024-12-03 11:30:22'
-      title: 【源码分享】threejs小项目：萌蠢的小羊
-      url: https://blog.csdn.net/w2sft/article/details/144209387
-    - author: 吴秋霖
-      release_time: '2024-12-03 09:00:00'
-      title: gid、acw_tc参数逆向分析与算法实现
-      url: https://crawler.blog.csdn.net/article/details/144183007
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
