@@ -120,6 +120,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: '2024-12-11 00:00:00'
+      title: 安卓逆向 -- 非root环境下Frida完全内置apk打包方案及2种注入方式回顾
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037195&idx=1&sn=e3744f2062b0699864d8021103cb46b3
+    - author: 逆向有你
+      release_time: '2024-12-11 00:00:00'
+      title: PC逆向 -- X64物理内存算法
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037195&idx=2&sn=7e9bf347e762c944e665052936b541ed
     - author: 二进制科学
       release_time: '2024-12-10 16:47:39'
       title: phi指令在控制流平坦化的修复
@@ -232,14 +240,6 @@
       release_time: '2024-12-06 00:00:00'
       title: PC逆向 -- 内核APC执行
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037129&idx=2&sn=48a950a51b0bb5f95804cd7fea6d5a97
-    - author: 逆向OneByOne
-      release_time: '2024-12-05 12:55:31'
-      title: js逆向案例-cookie反爬之akamai_2.0-上
-      url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247493337&idx=1&sn=b903406edf42dde48c2b0ad2721eafef
-    - author: 移动安全星球
-      release_time: '2024-12-05 09:00:00'
-      title: 鸿蒙（HarmonyOS）应用开发-DevEco Studio 在MAC上启动报错
-      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486330&idx=1&sn=dd3fdaac74959d45fc6c6af2f9e8b40e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
