@@ -1604,6 +1604,11 @@
           logo: pyproxy.png
           url: https://www.pyproxy.com/
           description: Pyproxy provides IP proxy services with reasonable price and high quality, including static IP proxy, dynamic IP proxy, static ISP proxy,  HTTP proxy, socks5 proxy and other IP proxy services for large-scale data collection and network capture!
+        - title: FlyProxy
+          logo: flyproxy.jpg
+          url: https://www.flyproxy.com/zh-hans/?keyword=amvqpdab
+          description: FlyProxy 优秀的住宅代理服务
+
 #        - title: WTFproxy
 #          logo: wtfproxy.png
 #          url: https://www.wtfproxy.com/
