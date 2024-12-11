@@ -120,6 +120,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: '2024-12-11 14:05:27'
+      title: IDA技巧（86）函数块
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485113&idx=1&sn=288047ec342cb2cef64bd1f4f4450fbe
+    - author: 二进制科学
+      release_time: '2024-12-11 13:54:38'
+      title: 预声明变量控制流平坦化的修复
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NDMzMzAwNQ==&mid=2247485963&idx=1&sn=911d5ff85b7032e55c86562eff11ed5b
     - author: 逆向OneByOne
       release_time: '2024-12-11 08:50:00'
       title: js逆向案例-vmp字段之akamai_2/3.0-下
@@ -232,14 +240,6 @@
       release_time: '2024-12-07 00:00:00'
       title: PC逆向 -- 用户APC执行
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037147&idx=2&sn=2980166e539b9fecaf3f664831f7a1ae
-    - author: 二进制磨剑
-      release_time: '2024-12-06 18:53:12'
-      title: IDA技巧（84）数组索引
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485072&idx=1&sn=827ff916f0ddc990a5fea031426385c9
-    - author: 逆向OneByOne
-      release_time: '2024-12-06 12:11:00'
-      title: js逆向案例-sensor_data反爬之akamai_2.0-中
-      url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247493344&idx=1&sn=411dc2771fe34d4aa01a1bdea23d66ed
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
