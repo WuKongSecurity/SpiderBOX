@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: '2024-12-11 12:15:58'
+      title: 骚神Drissionpage教学 第33课 拼图验证码处理
+      url: https://www.bilibili.com/video/BV14YqmYjECP
     - author: 时一十一姐呀
       release_time: '2024-12-10 22:54:58'
       title: js逆向-akamai_3.0反爬sensor_data之ajr的mdn参数逆向分析
@@ -113,10 +117,6 @@
       release_time: '2024-11-22 00:51:46'
       title: JS逆向实战_音乐解析下载
       url: https://www.bilibili.com/video/BV13KUXY8EmK
-    - author: 玩转Code
-      release_time: '2024-11-21 21:03:53'
-      title: Linux-Python定时任务跑爬虫脚本
-      url: https://www.bilibili.com/video/BV1diUDYcEu1
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
