@@ -366,6 +366,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: iaoedsz2018
+      release_time: '2024-12-13 01:19:48'
+      title: '[原创] 利用网盘秒传功能，套取他人文件'
+      url: https://bbs.kanxue.com/thread-284783.htm
     - author: y小白的笔记
       release_time: '2024-12-12 10:32:31'
       title: 简易requests的方法的拓展
@@ -482,10 +486,6 @@
       release_time: '2024-12-04 18:18:20'
       title: '[原创]手游渗透测试框架'
       url: https://bbs.kanxue.com/thread-284688.htm
-    - author: 软件君子
-      release_time: '2024-12-04 17:40:26'
-      title: '[原创] 一分钟看完Android 应用启动流程'
-      url: https://bbs.kanxue.com/thread-284686.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
