@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 波波老师带你学爬虫
+      release_time: '2024-12-12 23:31:04'
+      title: JS简单案例，某东最新协议4.9.7算法干货分享 - 仅供学习参考哦
+      url: https://www.bilibili.com/video/BV1iQqeYdEBK
     - author: B站用户骚神
       release_time: '2024-12-12 22:39:28'
       title: 骚神Drissionpage教学 34 课-彻底模仿人类的键盘鼠标操作
@@ -113,10 +117,6 @@
       release_time: '2024-11-22 22:40:47'
       title: 骚神Drissionpage教学 第27课 WebSocket抓包和Http抓包
       url: https://www.bilibili.com/video/BV1reBBYmECj
-    - author: 玩转Code
-      release_time: '2024-11-22 22:05:25'
-      title: JS逆向实战_全国建筑市场平台响应内容解密
-      url: https://www.bilibili.com/video/BV1NGBzYXEG2
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
