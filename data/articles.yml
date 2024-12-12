@@ -2,6 +2,10 @@
   list:
   - links:
     - author: B站用户骚神
+      release_time: '2024-12-12 22:39:28'
+      title: 骚神Drissionpage教学 34 课-彻底模仿人类的键盘鼠标操作
+      url: https://www.bilibili.com/video/BV1w9qhYZEPu
+    - author: B站用户骚神
       release_time: '2024-12-11 12:15:58'
       title: 骚神Drissionpage教学 第33课 拼图验证码处理
       url: https://www.bilibili.com/video/BV14YqmYjECP
@@ -113,10 +117,6 @@
       release_time: '2024-11-22 22:05:25'
       title: JS逆向实战_全国建筑市场平台响应内容解密
       url: https://www.bilibili.com/video/BV1NGBzYXEG2
-    - author: 玩转Code
-      release_time: '2024-11-22 00:51:46'
-      title: JS逆向实战_音乐解析下载
-      url: https://www.bilibili.com/video/BV13KUXY8EmK
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
