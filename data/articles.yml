@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: '2024-12-13 15:30:57'
+      title: 别被"5分钟写个App"误导：Cursor深度实践
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648989899&idx=1&sn=dd4768f9cc8cdb3e49055d89030b4c20
     - author: 逆向有你
       release_time: '2024-12-13 00:00:00'
       title: 安卓逆向 -- Unity手游BlueArchive蔚蓝档案剧情文本提取
@@ -236,10 +240,6 @@
       release_time: '2024-12-09 09:00:33'
       title: JS逆向系列14-Bypass Debugger
       url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485008&idx=1&sn=22e3872914a4590e79e1142cad305d1a
-    - author: 关于代码那点事
-      release_time: '2024-12-09 08:00:00'
-      title: 逆向百例之蜂窝参数分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MTg1NzU1NA==&mid=2247485824&idx=1&sn=6418f396a246249d97364f0f91b11c11
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
