@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: '2024-12-13 16:39:39'
+      title: AST反混淆插件|变量初始化为常量时的还原
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565602&idx=1&sn=71bc35b2761cf6a861524311b71865b7
     - author: 未闻Code
       release_time: '2024-12-13 15:30:57'
       title: 别被"5分钟写个App"误导：Cursor深度实践
@@ -236,10 +240,6 @@
       release_time: '2024-12-09 09:48:00'
       title: PC逆向 -- DPC队列
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037157&idx=2&sn=073a873fc0b2044882c1b4d1a60970d9
-    - author: Spade sec
-      release_time: '2024-12-09 09:00:33'
-      title: JS逆向系列14-Bypass Debugger
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485008&idx=1&sn=22e3872914a4590e79e1142cad305d1a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -366,6 +366,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: ovo_帮我不c
+      release_time: '2024-12-13 16:38:26'
+      title: '[分享][推荐]360加固分析复现(未完)'
+      url: https://bbs.kanxue.com/thread-284799.htm
     - author: iaoedsz2018
       release_time: '2024-12-13 01:19:48'
       title: '[原创] 利用网盘秒传功能，套取他人文件'
@@ -482,10 +486,6 @@
       release_time: '2024-12-04 18:27:24'
       title: '[原创]从0开始开发一个InlineHook第一篇'
       url: https://bbs.kanxue.com/thread-284689.htm
-    - author: 答案在风中飘
-      release_time: '2024-12-04 18:18:20'
-      title: '[原创]手游渗透测试框架'
-      url: https://bbs.kanxue.com/thread-284688.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
