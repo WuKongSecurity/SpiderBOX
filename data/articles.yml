@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: python小丑鱼
+      release_time: '2024-12-13 18:20:00'
+      title: 某东x-api-eid-token，h5st(4.9.7)
+      url: https://mp.weixin.qq.com/s?__biz=MzIyODQxMDUyNA==&mid=2247484117&idx=1&sn=ee24ca2dc4ccd1853027ea4fb2e34564
     - author: 菜鸟学Python编程
       release_time: '2024-12-13 16:39:39'
       title: AST反混淆插件|变量初始化为常量时的还原
@@ -236,10 +240,6 @@
       release_time: '2024-12-09 09:48:00'
       title: 安卓逆向 -- 某游戏新手破解方式
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037157&idx=1&sn=69f1325b21552540f4568260ac99af2f
-    - author: 逆向有你
-      release_time: '2024-12-09 09:48:00'
-      title: PC逆向 -- DPC队列
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037157&idx=2&sn=073a873fc0b2044882c1b4d1a60970d9
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -251,6 +251,10 @@
       release_time: '2024-12-13 16:11:00'
       title: 360加固分析复现(未完)
       url: https://www.52pojie.cn/thread-1991025-1-1.html
+    - author: iaoedsz2018
+      release_time: '2024-12-13 01:24:00'
+      title: 网盘秒传功能的利用
+      url: https://www.52pojie.cn/thread-1990813-1-1.html
     - author: hitachimako
       release_time: '2024-12-12 23:32:00'
       title: 逆向分析某红色跑步App的API
@@ -359,10 +363,6 @@
       release_time: '2024-11-25 15:15:00'
       title: Picsart美易最新版解锁会员免登录
       url: https://www.52pojie.cn/thread-1985330-1-1.html
-    - author: 芽衣
-      release_time: '2024-11-24 22:21:00'
-      title: 【更新】梦绘界 漫画软件去除签名校验+解锁
-      url: https://www.52pojie.cn/thread-1985122-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
