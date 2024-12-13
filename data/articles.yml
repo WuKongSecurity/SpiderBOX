@@ -243,6 +243,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: jbczzz
+      release_time: '2024-12-13 17:01:00'
+      title: 单独编译安卓内核断点模块(rwProcMem33的hwBreakPointProcMoudle)
+      url: https://www.52pojie.cn/thread-1991042-1-1.html
+    - author: chenchenchen777
+      release_time: '2024-12-13 16:11:00'
+      title: 360加固分析复现(未完)
+      url: https://www.52pojie.cn/thread-1991025-1-1.html
     - author: hitachimako
       release_time: '2024-12-12 23:32:00'
       title: 逆向分析某红色跑步App的API
@@ -355,14 +363,6 @@
       release_time: '2024-11-24 22:21:00'
       title: 【更新】梦绘界 漫画软件去除签名校验+解锁
       url: https://www.52pojie.cn/thread-1985122-1-1.html
-    - author: littlewhite11
-      release_time: '2024-11-24 17:21:00'
-      title: 【JS逆向】某滑块逆向分析
-      url: https://www.52pojie.cn/thread-1985041-1-1.html
-    - author: pjboy
-      release_time: '2024-11-23 18:12:00'
-      title: 网站绕过无限debugger
-      url: https://www.52pojie.cn/thread-1984841-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
