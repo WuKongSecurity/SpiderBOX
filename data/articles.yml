@@ -120,6 +120,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: '2024-12-14 00:00:00'
+      title: 安卓逆向 -- 某小白的安卓游戏汉化历程
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037241&idx=1&sn=bf84c7720420d764a98ada49f90f9055
+    - author: 逆向有你
+      release_time: '2024-12-14 00:00:00'
+      title: PC逆向 -- 通信接口封装
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037241&idx=2&sn=f2bc29c58737b4c647e46e45c08d9fd1
     - author: K哥爬虫
       release_time: '2024-12-13 18:33:49'
       title: 两兄弟，两千万牟利，两亿公民个人信息
@@ -232,14 +240,6 @@
       release_time: '2024-12-09 11:43:19'
       title: IDA 技巧(83) 反编译器选项：默认基数
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485107&idx=1&sn=838f85197d01041f6a63904baf59bd18
-    - author: 爬虫逆向之旅
-      release_time: '2024-12-09 10:53:47'
-      title: 福利站逆向(无限debugger，js乱序)
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzMwNTMzOA==&mid=2247500502&idx=1&sn=a938fff413858988aef133e5864ecb29
-    - author: js 安卓 iOS逆向
-      release_time: '2024-12-09 10:04:40'
-      title: 安卓协议逆向开课啦!
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0NzU3MjQzNA==&mid=2247485495&idx=1&sn=9040238e3969936c2218f6911b8fc393
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
