@@ -243,6 +243,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: littlewhite11
+      release_time: '2024-12-14 17:23:00'
+      title: 【JS逆向】某手机厂商登录逆向分析
+      url: https://www.52pojie.cn/thread-1991268-1-1.html
     - author: '659916552'
       release_time: '2024-12-13 22:24:00'
       title: 南方八字1.84破解版假版限制30次处理
@@ -359,10 +363,6 @@
       release_time: '2024-11-25 21:58:00'
       title: 某游戏 打开 开发者面板
       url: https://www.52pojie.cn/thread-1985457-1-1.html
-    - author: ee789852
-      release_time: '2024-11-25 15:48:00'
-      title: 分享一款俄罗斯方块仿真游戏机和去广告方法
-      url: https://www.52pojie.cn/thread-1985343-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
