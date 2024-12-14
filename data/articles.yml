@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: '2024-12-14 21:28:31'
+      title: 一日一技：为什么我很讨厌LangChain
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648989914&idx=1&sn=2dd558aa57fd4baf309393e3f4ca8eda
     - author: 逆向有你
       release_time: '2024-12-14 00:00:00'
       title: 安卓逆向 -- 某小白的安卓游戏汉化历程
@@ -236,10 +240,6 @@
       release_time: '2024-12-09 12:09:25'
       title: 一日一技：如何成为一个知识的搬运工？
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648989893&idx=1&sn=837b2daeb33a165a9c8c5b103f4ee4bc
-    - author: 二进制磨剑
-      release_time: '2024-12-09 11:43:19'
-      title: IDA 技巧(83) 反编译器选项：默认基数
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485107&idx=1&sn=838f85197d01041f6a63904baf59bd18
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
