@@ -1,6 +1,18 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 一只勇敢的小佳
+      release_time: '2024-12-14 02:34:09'
+      title: 最新frida检测研究成果，数十个不同平台的app，看看有没有你解决不了的？
+      url: https://www.bilibili.com/video/BV18KBuY5EBR
+    - author: Alone_666
+      release_time: '2024-12-13 12:26:08'
+      title: unidbg 的安装 模拟执行一个so 主调native函数
+      url: https://www.bilibili.com/video/BV1q9qiYAEZ2
+    - author: Alone_666
+      release_time: '2024-12-13 12:24:47'
+      title: frida 主动调用native函数
+      url: https://www.bilibili.com/video/BV1B9qiYAE2c
     - author: 波波老师带你学爬虫
       release_time: '2024-12-12 23:31:04'
       title: JS简单案例，某东最新协议4.9.7算法干货分享 - 仅供学习参考哦
@@ -25,6 +37,14 @@
       release_time: '2024-12-10 19:00:00'
       title: 挖矿小游戏-JShook对抗
       url: https://www.bilibili.com/video/BV14bq3YVEx5
+    - author: Alone_666
+      release_time: '2024-12-09 16:09:58'
+      title: 某数字企业版frida过检测
+      url: https://www.bilibili.com/video/BV1J8qAY6EEU
+    - author: 一只勇敢的小佳
+      release_time: '2024-12-08 22:43:29'
+      title: 逆向自学方法，如何快速学习逆向，讲述了博主学习逆向的思路，博主是如何学习相关开源项目的，如frida源码，zygisk模块开发
+      url: https://www.bilibili.com/video/BV1zWqWYNEf6
     - author: B站用户骚神
       release_time: '2024-12-08 16:51:11'
       title: 骚神Drissionpage教学 第32课 用鼠标写DP代码+无限debugger越狱
@@ -33,6 +53,14 @@
       release_time: '2024-12-08 16:05:38'
       title: 织梦空间 - 知识星球宣传讲解
       url: https://www.bilibili.com/video/BV1JNqpYbEFg
+    - author: 一只勇敢的小佳
+      release_time: '2024-12-08 06:12:22'
+      title: apatch面具安装，优化过后的zygisk安装，hunter6.0.2版本frida注入效果展示
+      url: https://www.bilibili.com/video/BV11KqJYcEau
+    - author: 带带弟弟学爬虫
+      release_time: '2024-12-06 15:43:35'
+      title: APP逆向-某幸咖啡白盒aes补充
+      url: https://www.bilibili.com/video/BV1MkiiYmE1m
     - author: 时一十一姐呀
       release_time: '2024-12-06 01:03:23'
       title: js逆向-akamai_3.0反爬sensor_data主流程逆向分析
@@ -45,6 +73,10 @@
       release_time: '2024-12-06 00:32:19'
       title: js逆向-如何区分akamai_2.0/3.0反爬以及何时cookie有效分析
       url: https://www.bilibili.com/video/BV1bwifYVEBv
+    - author: 带带弟弟学爬虫
+      release_time: '2024-12-05 17:16:45'
+      title: APP逆向案例-某幸最新版简单白盒aes逆向
+      url: https://www.bilibili.com/video/BV1MiiRYeENL
     - author: 西门浪0v0
       release_time: '2024-12-04 21:52:52'
       title: 逆向工具使用教程八
@@ -61,6 +93,14 @@
       release_time: '2024-12-01 20:11:20'
       title: 骚神Drissionpage教学 第30课 京东商品秒杀抢购
       url: https://www.bilibili.com/video/BV1xhzZYLENk
+    - author: 一只勇敢的小佳
+      release_time: '2024-11-30 23:25:46'
+      title: frida源码分析，frida的devkit模式，frida源码开发环境搭建
+      url: https://www.bilibili.com/video/BV1VDzHYdEqf
+    - author: 一只勇敢的小佳
+      release_time: '2024-11-30 21:11:15'
+      title: frida三大主要工具使用，frida-server、frida-gadget.so、frida-inject三大工具，专属小工具使用教程
+      url: https://www.bilibili.com/video/BV12yzpYUE1Q
     - author: B站用户骚神
       release_time: '2024-11-29 16:18:45'
       title: 骚神Drissionpage教学 第29课 朗读并抓取某音直播弹幕
@@ -77,46 +117,6 @@
       release_time: '2024-11-28 21:44:20'
       title: 训练验证码-yolov8环境安装与测试识别图片
       url: https://www.bilibili.com/video/BV1LNzhYJEXU
-    - author: 时一十一姐呀
-      release_time: '2024-11-28 21:43:51'
-      title: 训练验证码-yolov8分类训练验证码
-      url: https://www.bilibili.com/video/BV1hYz8YgEh3
-    - author: 时一十一姐呀
-      release_time: '2024-11-28 21:41:58'
-      title: 训练验证码-yolov8-cpu/gpu训练滑块
-      url: https://www.bilibili.com/video/BV1QYz8YgEw5
-    - author: 西门浪0v0
-      release_time: '2024-11-27 22:21:52'
-      title: 安卓逆向 某企业壳 逆向工具使用
-      url: https://www.bilibili.com/video/BV1UQBRYgE3b
-    - author: 玩转Code
-      release_time: '2024-11-26 23:34:07'
-      title: JS逆向实战_一键还原OB混淆代码
-      url: https://www.bilibili.com/video/BV1g2zVYtE7s
-    - author: B站用户骚神
-      release_time: '2024-11-26 13:09:43'
-      title: 骚神Drissionpage教学 第28课 同步异步多线程
-      url: https://www.bilibili.com/video/BV1zzzgYeEFJ
-    - author: 时一十一姐呀
-      release_time: '2024-11-25 23:59:45'
-      title: p24爬虫自动化之drissionpage调用指纹浏览器
-      url: https://www.bilibili.com/video/BV1B9zNYSEMw
-    - author: 玩转Code
-      release_time: '2024-11-25 22:13:21'
-      title: 有道最新翻译接口逆向
-      url: https://www.bilibili.com/video/BV13KzKYrEXt
-    - author: 波波老师带你学爬虫
-      release_time: '2024-11-24 21:38:52'
-      title: 某东H5st - 某音ab xb纯算成品演示 仅供学习参考！
-      url: https://www.bilibili.com/video/BV1eaBtYMEvi
-    - author: 玩转Code
-      release_time: '2024-11-23 21:23:06'
-      title: Python执行JS代码_JS2Py
-      url: https://www.bilibili.com/video/BV1y2B2YrECp
-    - author: B站用户骚神
-      release_time: '2024-11-22 22:40:47'
-      title: 骚神Drissionpage教学 第27课 WebSocket抓包和Http抓包
-      url: https://www.bilibili.com/video/BV1reBBYmECj
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
