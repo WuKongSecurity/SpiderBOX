@@ -20,7 +20,7 @@ jobs:
          fetch-depth: 0
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2   # Hugo 官方提供的 action，用于在任务环境中获取 hugo
+        uses: peaceiris/actions-hugo@v3   # Hugo 官方提供的 action，用于在任务环境中获取 hugo
         with:
           hugo-version: 'latest'
 

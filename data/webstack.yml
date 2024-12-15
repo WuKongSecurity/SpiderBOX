@@ -2140,6 +2140,26 @@
           logo: gh_f7eefacb8595.jpg
           qrcode: images/qrcode/gh_f7eefacb8595.jpg
           description: 公众号：我真的不是蜘蛛
+        - title: DrissionPage
+          logo: gh_e98a8ed7253b.jpg
+          qrcode: images/qrcode/gh_e98a8ed7253b.jpg
+          description: 公众号：DrissionPage
+        - title: 狗都不学爬虫_
+          logo: qq_53444631.jpg
+          url: https://blog.csdn.net/qq_53444631
+          description: 狗都不学爬虫_ CSDN 主页
+        - title: 不爱逆向的小白
+          logo: m0_61226167.jpg
+          url: https://blog.csdn.net/m0_61226167
+          description: 不爱逆向的小白 CSDN 主页
+        - title: 爬虫小恐龙
+          logo: u013046615.jpg
+          url: https://blog.csdn.net/u013046615
+          description: 爬虫小恐龙 CSDN 主页
+        - title: R逆向
+          logo: gh_3f2c705b036c.jpg
+          qrcode: images/qrcode/gh_3f2c705b036c.jpg
+          description: 公众号：R逆向
         - title: 瑞数信息
           logo: riversecurity.png
           qrcode: images/qrcode/RiverSecurity.jpg
@@ -2338,10 +2358,10 @@
           logo: 182558639.jpg
           url: https://space.bilibili.com/182558639
           description: 可乐还是百事好呀的 bilibili 主页
-        - title: 白面OVO
-          logo: 392040559.jpg
-          url: https://space.bilibili.com/392040559
-          description: 白面OVO的 bilibili 主页
+#        - title: 白面OVO
+#          logo: 392040559.jpg
+#          url: https://space.bilibili.com/392040559
+#          description: 白面OVO的 bilibili 主页
         - title: 西门浪0v0
           logo: 1366032025.jpg
           url: https://space.bilibili.com/1366032025
@@ -2366,6 +2386,54 @@
           logo: 35242527.jpg
           url: https://space.bilibili.com/35242527
           description: 回锅炒辣椒的 bilibili 主页
+        - title: 带带弟弟学爬虫
+          logo: 1683992739.jpg
+          url: https://space.bilibili.com/1683992739
+          description: 带带弟弟学爬虫的 bilibili 主页
+        - title: 如何追mio酱
+          logo: 419760403.jpg
+          url: https://space.bilibili.com/419760403
+          description: 如何追mio酱的 bilibili 主页
+        - title: 一只勇敢的小佳
+          logo: 1886803835.jpg
+          url: https://space.bilibili.com/1886803835
+          description: 一只勇敢的小佳的 bilibili 主页
+        - title: Alone_666
+          logo: 494103250.jpg
+          url: https://space.bilibili.com/494103250
+          description: Alone_666的 bilibili 主页
+        - title: 梨婵
+          logo: 170999.jpg
+          url: https://space.bilibili.com/170999
+          description: 梨婵的 bilibili 主页
+        - title: 那个昵称已经有人用过
+          logo: 11445958.jpg
+          url: https://space.bilibili.com/11445958
+          description: 那个昵称已经有人用过的 bilibili 主页，常用ID：CFC4N，开源作品：eCapture旁观者
+        - title: -云松
+          logo: 599967016.jpg
+          url: https://space.bilibili.com/599967016
+          description: -云松的 bilibili 主页
+        - title: 下雨天sana
+          logo: 362235493.jpg
+          url: https://space.bilibili.com/362235493
+          description: 下雨天sana的 bilibili 主页
+        - title: DrissionPage
+          logo: 20526000.jpg
+          url: https://space.bilibili.com/20526000
+          description: DrissionPage的 bilibili 主页
+        - title: 冷月不是程序员
+          logo: 164671536.jpg
+          url: https://space.bilibili.com/164671536
+          description: 冷月不是程序员的 bilibili 主页
+        - title: 念初77
+          logo: 701939513.jpg
+          url: https://space.bilibili.com/701939513
+          description: 念初77的 bilibili 主页
+        - title: ShriyGo
+          logo: 101698074.jpg
+          url: https://space.bilibili.com/101698074
+          description: ShriyGo的 bilibili 主页
 #        - title: 玩转Code
 #          logo: 409871996.jpg
 #          url: https://space.bilibili.com/409871996
