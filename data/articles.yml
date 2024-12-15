@@ -128,6 +128,10 @@
       release_time: '2024-12-15 00:47:04'
       title: 简单实现控制流
       url: https://mp.weixin.qq.com/s?__biz=Mzg5NzkyOTAxNw==&mid=2247483737&idx=1&sn=9b815c31165408996a3e0ac459cade19
+    - author: R逆向
+      release_time: '2024-12-14 22:18:34'
+      title: 【安卓逆向】libmsaoaidsec.so反调试及算法逆向案例(爱库存)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NjA3Mw==&mid=2247483782&idx=1&sn=f7c0a2bbdcbe4ecc8b47e8b51085c86c
     - author: 未闻Code
       release_time: '2024-12-14 21:28:31'
       title: 一日一技：为什么我很讨厌LangChain
@@ -220,6 +224,14 @@
       release_time: '2024-12-10 15:31:42'
       title: AST反混淆实战|某电商混淆代码还原预处理
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565592&idx=1&sn=0e9213c5b5183e67dcd60243f02020d4
+    - author: R逆向
+      release_time: '2024-12-10 12:13:34'
+      title: frida16.2.1 编译patch全过程
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NjA3Mw==&mid=2247483762&idx=1&sn=a30fadcee35faffaa92b17dafd0df74f
+    - author: R逆向
+      release_time: '2024-12-10 12:04:52'
+      title: '[2]鲸藏APP加密算法分析（附源码）'
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NjA3Mw==&mid=2247483711&idx=1&sn=19a4a46601ee984324048d9921f9dec1
     - author: 猿人学Python
       release_time: '2024-12-10 10:28:43'
       title: 工作一年就月薪 3W 的鹿头-爬虫er100采访
@@ -228,18 +240,6 @@
       release_time: '2024-12-10 10:15:00'
       title: 安卓逆向 -- 记一次游戏图片资源提取
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037179&idx=1&sn=40b3199d93724d4ef2aebe172abdc7af
-    - author: 逆向有你
-      release_time: '2024-12-10 10:15:00'
-      title: PC逆向 -- 查询内存
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037179&idx=2&sn=220619eb3ddae0b2bd6ac23dc7da1ad2
-    - author: K哥爬虫
-      release_time: '2024-12-09 16:14:57'
-      title: 【JS逆向百例】东某航空数某指纹 v4 设备 ID 逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkyMzcxMDM0MQ==&mid=2247503992&idx=1&sn=9895137dc029ddb4c5506c85395755a9
-    - author: 影17
-      release_time: '2024-12-09 15:54:03'
-      title: 某漫软件 永久VIP破解流程分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489233&idx=1&sn=b4f8455b4432798dc62bafdc0f508b13
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
