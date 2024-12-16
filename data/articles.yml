@@ -374,6 +374,10 @@
       release_time: '2024-12-16 16:39:00'
       title: '[讨论]vivo usb驱动程序是不是做过定制？为何google usb driver对其无效？'
       url: https://bbs.kanxue.com/thread-284839.htm
+    - author: 霸王茶几
+      release_time: '2024-12-16 16:30:12'
+      title: Frida过反调试实战
+      url: https://bbs.kanxue.com/thread-284838.htm
     - author: 码王吴彦祖
       release_time: '2024-12-16 11:35:55'
       title: 拼多多双缺口滑块识别
@@ -482,10 +486,6 @@
       release_time: '2024-12-10 15:31:49'
       title: AST反混淆实战|某电商混淆代码还原预处理
       url: https://blog.csdn.net/qq523176585/article/details/144388106
-    - author: Python成长路
-      release_time: '2024-12-10 10:43:09'
-      title: 某滑块验证码识别思路(附完整代码)
-      url: https://blog.csdn.net/Qwertyuiop2016/article/details/144367828
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
