@@ -120,6 +120,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Spade sec
+      release_time: '2024-12-16 09:00:00'
+      title: JS逆向系列15-深入探究Hook eval后存在的作用域问题
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485069&idx=1&sn=a1cd135c0709f736beac6b388526854d
+    - author: 菜鸟学Python编程
+      release_time: '2024-12-16 09:00:00'
+      title: AST反混淆插件|变量初始化为特殊Object类型时的还原(一)
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565610&idx=1&sn=08922872d7e08b6117461e4d7005c19f
+    - author: 关于代码那点事
+      release_time: '2024-12-16 08:30:00'
+      title: 爬虫风控轨迹详解
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MTg1NzU1NA==&mid=2247486098&idx=1&sn=3cc846b024ff2edb719c598764c3d8aa
     - author: 榫卯江湖
       release_time: '2024-12-16 08:00:00'
       title: eCapture v0.9.0发布，支持IPv6、GnuTLS密钥捕获、Zsh审计，国内CDN上线
@@ -228,18 +240,6 @@
       release_time: '2024-12-10 15:31:42'
       title: AST反混淆实战|某电商混淆代码还原预处理
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565592&idx=1&sn=0e9213c5b5183e67dcd60243f02020d4
-    - author: R逆向
-      release_time: '2024-12-10 12:13:34'
-      title: frida16.2.1 编译patch全过程
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NjA3Mw==&mid=2247483762&idx=1&sn=a30fadcee35faffaa92b17dafd0df74f
-    - author: R逆向
-      release_time: '2024-12-10 12:04:52'
-      title: '[2]鲸藏APP加密算法分析（附源码）'
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NjA3Mw==&mid=2247483711&idx=1&sn=19a4a46601ee984324048d9921f9dec1
-    - author: 猿人学Python
-      release_time: '2024-12-10 10:28:43'
-      title: 工作一年就月薪 3W 的鹿头-爬虫er100采访
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448549844&idx=1&sn=faba3bd9f4b13a36ad18a124d7b18459
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -382,6 +382,10 @@
       release_time: '2024-12-15 12:46:20'
       title: Shopee算法分析 - Unidbg模拟执行
       url: https://blog.csdn.net/Qiled/article/details/144485639
+    - author: 悦来客栈的老板
+      release_time: '2024-12-15 09:48:00'
+      title: AST反混淆插件|变量初始化为Array类型时的还原
+      url: https://blog.csdn.net/qq523176585/article/details/144495999
     - author: 太岁又沐风
       release_time: '2024-12-14 22:09:33'
       title: '[原创]【安卓逆向】libmsaoaidsec.so反调试及算法逆向案例(爱库存)'
@@ -482,10 +486,6 @@
       release_time: '2024-12-10 01:59:34'
       title: '[原创]frida16.2.1 编译patch全过程'
       url: https://bbs.kanxue.com/thread-284739.htm
-    - author: 码王吴彦祖
-      release_time: '2024-12-09 15:21:35'
-      title: amazon亚马逊滑动识别验证码
-      url: https://blog.csdn.net/qq_36551453/article/details/144348255
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
