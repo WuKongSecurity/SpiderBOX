@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 影17
+      release_time: '2024-12-16 17:50:09'
+      title: 某品会 sign值逆向流程分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489265&idx=1&sn=07beb711c7d2888bb9949f09a9fe1a25
     - author: 二进制磨剑
       release_time: '2024-12-16 11:02:06'
       title: 【课程完结!内容揭秘】第 2 期-Android 逆向内核攻防
@@ -236,10 +240,6 @@
       release_time: '2024-12-10 16:31:48'
       title: phi指令在控制流平坦化后的to stack
       url: https://mp.weixin.qq.com/s?__biz=MjM5NDMzMzAwNQ==&mid=2247485788&idx=1&sn=34e65d8652d43cecf36774a63467087e
-    - author: 二进制磨剑
-      release_time: '2024-12-10 16:07:04'
-      title: 【限时抽书】零基础学逆向 + 隐藏 Frida 【备战25秋招版】
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485112&idx=1&sn=4ba5cfdff93be788123ea303af9193fb
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
