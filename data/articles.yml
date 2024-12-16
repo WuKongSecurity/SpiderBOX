@@ -120,6 +120,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: '2024-12-17 00:00:00'
+      title: 安卓逆向 -- 某漫画软件去除签名校验+解锁
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037258&idx=1&sn=2a8d12e291e3a262a2783b38694d4f89
+    - author: 逆向有你
+      release_time: '2024-12-17 00:00:00'
+      title: PC逆向 -- 自动加载驱动
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037258&idx=2&sn=48ca263f58f71ef33d354752543d5616
     - author: 我真的不是蜘蛛
       release_time: '2024-12-16 19:28:37'
       title: 所有无限debugger的原理与绕过
@@ -232,14 +240,6 @@
       release_time: '2024-12-11 00:00:00'
       title: 安卓逆向 -- 非root环境下Frida完全内置apk打包方案及2种注入方式回顾
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037195&idx=1&sn=e3744f2062b0699864d8021103cb46b3
-    - author: 逆向有你
-      release_time: '2024-12-11 00:00:00'
-      title: PC逆向 -- X64物理内存算法
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037195&idx=2&sn=7e9bf347e762c944e665052936b541ed
-    - author: 二进制科学
-      release_time: '2024-12-10 16:47:39'
-      title: phi指令在控制流平坦化的修复
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NDMzMzAwNQ==&mid=2247485871&idx=1&sn=5848b1de19c09b5d6a7cb81d2cd9616e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
