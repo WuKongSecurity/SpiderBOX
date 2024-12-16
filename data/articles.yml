@@ -366,6 +366,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 码王吴彦祖
+      release_time: '2024-12-16 11:35:55'
+      title: 拼多多双缺口滑块识别
+      url: https://blog.csdn.net/qq_36551453/article/details/144502444
     - author: 米龙·0xFFFE
       release_time: '2024-12-15 16:28:04'
       title: '[原创]【Golang】interpolateParams参数导致的宽字节注入'
@@ -482,10 +486,6 @@
       release_time: '2024-12-10 09:24:54'
       title: 【验证码识别专栏】今天不炼丹，用 cv 来秒验证码
       url: https://blog.csdn.net/kdl_csdn/article/details/144364149
-    - author: 太岁又沐风
-      release_time: '2024-12-10 01:59:34'
-      title: '[原创]frida16.2.1 编译patch全过程'
-      url: https://bbs.kanxue.com/thread-284739.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
