@@ -2,6 +2,10 @@
   list:
   - links:
     - author: B站用户骚神
+      release_time: '2024-12-17 14:45:46'
+      title: 变异版Drissionpage 第二集 自动解析表格和自动采集小红书数据
+      url: https://www.bilibili.com/video/BV1iWkEYtEMH
+    - author: B站用户骚神
       release_time: '2024-12-15 16:42:42'
       title: 骚神Drissionpage教学- 变异版DrissionPage,慎用！！
       url: https://www.bilibili.com/video/BV1yLqZYBEec
@@ -113,10 +117,6 @@
       release_time: '2024-11-29 01:01:59'
       title: web逆向-某讯滑块vmp纯算分析
       url: https://www.bilibili.com/video/BV13LzYYJEH2
-    - author: 时一十一姐呀
-      release_time: '2024-11-28 21:47:27'
-      title: 训练验证码-yolov8与孪生训练点选验证码
-      url: https://www.bilibili.com/video/BV1Qhz8YrEyC
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
