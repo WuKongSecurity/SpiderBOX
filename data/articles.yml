@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 时一十一姐呀
+      release_time: '2024-12-17 23:49:44'
+      title: js逆向-akamai_3.0反爬sensor_data之ffs和inf参数逆向分析
+      url: https://www.bilibili.com/video/BV1crkHYCEkT
     - author: B站用户骚神
       release_time: '2024-12-17 14:45:46'
       title: 变异版Drissionpage 第二集 自动解析表格和自动采集小红书数据
@@ -113,10 +117,6 @@
       release_time: '2024-11-29 16:18:45'
       title: 骚神Drissionpage教学 第29课 朗读并抓取某音直播弹幕
       url: https://www.bilibili.com/video/BV1nczqYLEZk
-    - author: 冒蓝火的黑骑士
-      release_time: '2024-11-29 01:01:59'
-      title: web逆向-某讯滑块vmp纯算分析
-      url: https://www.bilibili.com/video/BV13LzYYJEH2
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
