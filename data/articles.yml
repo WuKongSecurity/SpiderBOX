@@ -366,6 +366,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 菜鸟逆向
+      release_time: '2024-12-17 22:06:48'
+      title: 某税算法分析：jmbw / lzkqow23819 / lzkqow39189 / MKls83gqduGS / 6eMrZlPH / urlyzm......
+      url: https://blog.csdn.net/2401_84054263/article/details/144545841
     - author: '2301_78252288'
       release_time: '2024-12-17 18:52:03'
       title: PerimeterX 轨迹算法模拟
@@ -482,10 +486,6 @@
       release_time: '2024-12-11 10:15:42'
       title: Python异步编程(上)：协程和任务
       url: https://blog.csdn.net/Qwertyuiop2016/article/details/144392774
-    - author: 十一姐
-      release_time: '2024-12-10 22:41:59'
-      title: js逆向案例-vmp字段之akamai_2/3.0-下
-      url: https://blog.csdn.net/weixin_43411585/article/details/144374738
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
