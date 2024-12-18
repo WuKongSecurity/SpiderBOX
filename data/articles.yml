@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 虫术
+      release_time: '2024-12-18 15:00:58'
+      title: Python轻量级NoSQL数据库TinyDB
+      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486173&idx=1&sn=7d31ed589bcfe3244c407f38aea73b80
     - author: 未闻Code
       release_time: '2024-12-18 14:33:03'
       title: 一日一技：如何正确对Python第三方库做二次开发
@@ -236,10 +240,6 @@
       release_time: '2024-12-11 17:51:45'
       title: 奇富科技 x NebulaGraph｜金融风控图数据最佳解决方案
       url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196624&idx=1&sn=d2d72ba7e27aa27279ff654d48320fca
-    - author: 菜鸟学Python编程
-      release_time: '2024-12-11 17:00:00'
-      title: AST反混淆实战|借助AI还原某电商混淆代码
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565598&idx=1&sn=27bfe092f481d9beccce12c8c0992f15
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
