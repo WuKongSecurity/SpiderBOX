@@ -394,6 +394,10 @@
       release_time: '2024-12-17 09:01:15'
       title: AST反混淆插件|变量初始化为特殊Object类型时的还原(二)
       url: https://blog.csdn.net/qq523176585/article/details/144548298
+    - author: '1926384808480279'
+      release_time: '2024-12-17 00:00:00'
+      title: oppo a53 5g unlocktool 强解bl锁，magisk工具root [小白避坑篇]
+      url: https://xz.aliyun.comhttps://xz.aliyun.com/t/16796
     - author: 九月镇灵将
       release_time: '2024-12-16 17:31:30'
       title: 爬虫逆向学习(十四)：分享一下某数通用破解服务开发经验
@@ -482,10 +486,6 @@
       release_time: '2024-12-12 00:08:11'
       title: '[讨论]安卓手机恢复出厂设置后，很多app为何把重置后的手机当成新手机？'
       url: https://bbs.kanxue.com/thread-284762.htm
-    - author: kzzll
-      release_time: '2024-12-12 00:06:11'
-      title: 通过frida控制Android微信浏览器拿到控制权上下文document
-      url: https://bbs.kanxue.com/thread-284761.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
