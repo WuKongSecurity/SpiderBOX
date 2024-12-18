@@ -367,6 +367,10 @@
     term: 吾爱破解
   - links:
     - author: w2sfot
+      release_time: '2024-12-18 08:16:08'
+      title: 怎样在html中异步加载js文件，以避免js文件太大而影响页面打开速度？
+      url: https://blog.csdn.net/w2sft/article/details/144548781
+    - author: w2sfot
       release_time: '2024-12-18 07:35:35'
       title: 免费JS加密工具
       url: https://blog.csdn.net/w2sft/article/details/144548650
@@ -482,10 +486,6 @@
       release_time: '2024-12-11 19:18:09'
       title: Android App隐私合规检测系统定制
       url: https://bbs.kanxue.com/thread-284759.htm
-    - author: Brinmon
-      release_time: '2024-12-11 18:33:03'
-      title: '[原创]某云音乐爬取-反调试绕过,js调用栈回溯,web算法逆向'
-      url: https://bbs.kanxue.com/thread-284757.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
