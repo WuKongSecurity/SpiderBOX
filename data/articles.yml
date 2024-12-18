@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: '2024-12-18 13:35:34'
+      title: IDA技巧（87）函数块和反编译器
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485129&idx=1&sn=a72ee9b6b8119740b50399f5bb961f53
     - author: 菜鸟学Python编程
       release_time: '2024-12-18 09:00:00'
       title: AST反混淆插件|变量初始化为特定函数时的还原
@@ -236,10 +240,6 @@
       release_time: '2024-12-11 14:05:27'
       title: IDA技巧（86）函数块
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485113&idx=1&sn=288047ec342cb2cef64bd1f4f4450fbe
-    - author: 二进制科学
-      release_time: '2024-12-11 13:54:38'
-      title: 预声明变量控制流平坦化的修复
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NDMzMzAwNQ==&mid=2247485963&idx=1&sn=911d5ff85b7032e55c86562eff11ed5b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
