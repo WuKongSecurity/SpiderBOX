@@ -366,6 +366,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: xiaoxiaojing
+      release_time: '2024-12-18 11:46:42'
+      title: '[讨论]关于新版本magisk隐藏与shamiko隐藏的检测'
+      url: https://bbs.kanxue.com/thread-284859.htm
     - author: w2sfot
       release_time: '2024-12-18 08:16:08'
       title: 怎样在html中异步加载js文件，以避免js文件太大而影响页面打开速度？
@@ -482,10 +486,6 @@
       release_time: '2024-12-12 00:06:11'
       title: 通过frida控制Android微信浏览器拿到控制权上下文document
       url: https://bbs.kanxue.com/thread-284761.htm
-    - author: FIGHTING安
-      release_time: '2024-12-11 19:18:09'
-      title: Android App隐私合规检测系统定制
-      url: https://bbs.kanxue.com/thread-284759.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
