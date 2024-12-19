@@ -537,6 +537,10 @@
           logo: github.png
           url: https://github.com/cilame/vthread
           description: Python 更加方便的多线程库，以最小的代码侵入，做到最高效的多线程、线程池 coding 效率。在不改变源代码的情况下，一行代码即可实现线程池操作
+        - title: my_js_parser
+          logo: github.png
+          url: https://github.com/wangjingyu001/my_js_parser
+          description: my_js_parser 是一个用于从包含 JavaScript 代码的字符串中提取 JSON 数据的 Python 库，它可以从复杂的字符串中递归提取出所有嵌套的 JSON 对象，忽略多余的前缀和非 JSON 部分
         - title: GeneralNewsExtractor
           logo: gne.jpg
           url: https://github.com/GeneralNewsExtractor/GeneralNewsExtractor
@@ -2547,16 +2551,16 @@
         - title: 猿人学·爬虫逆向进阶课
           logo: yuanrenxue.jpg
           url: https://shop45147253.m.youzan.com/wscgoods/detail/2okabph85ypv1
-          description: 联系站长可获取内部优惠价，一次付费，终身免费更新，附带工作内推、线下见面会、模拟面试等，内容涉及 JS 逆向、APP 逆向、机器学习验证码等
+          description: 备注BOB可获取内部优惠价，一次付费，终身免费更新，附带工作内推、线下见面会、模拟面试等，内容涉及 JS 逆向、APP 逆向、机器学习验证码等
         - title: 猿人学.零基础课+爬虫逆向进阶课
           logo: yuanrenxue.jpg
           url: https://shop45147253.m.youzan.com/wscgoods/detail/361rmliyhfwr184
-          description: 联系站长可获取内部优惠价，一次付费，终身免费更新，附带工作内推、线下见面会、模拟面试等，内容 Python 基础、爬虫基础、JS 基础、JS 逆向、APP 逆向、机器学习验证码等
+          description: 备注BOB可获取内部优惠价，一次付费，终身免费更新，附带工作内推、线下见面会、模拟面试等，内容 Python 基础、爬虫基础、JS 基础、JS 逆向、APP 逆向、机器学习验证码等
         - title: 猿人学·反爬虫&风控对抗课
           logo: yuanrenxue.jpg
           url: https://shop45147253.m.youzan.com/wscgoods/detail/2xli2kj7ku3a5zk
-          description: 联系站长可获取内部优惠价，首家反爬风控课程，一次付费，终身免费更新，附带工作内推、线下见面会、模拟面试等
-        - title: r0ysue 肉丝
+          description: 备注BOB可获取内部优惠价，首家反爬风控课程，一次付费，终身免费更新，附带工作内推、线下见面会、模拟面试等
+        - title: r0ysue 肉丝课程
           logo: r1ysue.jpg
           url: https://appli0n8byd8759.h5.xiaoeknow.com/p/decorate/homepage
           description: r0ysue 肉丝的爬虫架构、JS 逆向、Android 逆向、IOS 设备指纹、eBPF 安全开发、Fart 脱壳王等课程
@@ -2566,25 +2570,25 @@
           description: 看雪 Android 逆向课程，IDA 特训营、Unidbg 模拟、LLVM 与代码混淆、eBPF 安全开发、安卓高级月薪两万、三万计划等
         - title: 安卓 & WEB 网络协议课
           logo: geekbyte.jpg
-          url: images/course/neo&geekbyte.jpg
-          description: 课程核心着重于介绍底层协议 HTTP、HTTP2、TLS1.2、TLS1.3 的原理与源码（包括 JA3 的开发与对抗，QUIC，OpenSSL，MbedTLS，wolfSSL 等），并将理论与实际代码相结合，深入讲解相关内容
-        - title: JSVMP 反编译课程
+          url: https://static.spiderapi.cn/spiderbox/images/course/neo&geekbyte.jpg
+          description: geekbyte 大佬的安卓 & WEB 网络协议课，课程核心着重于介绍底层协议 HTTP、HTTP2、TLS1.2、TLS1.3 的原理与源码（包括 JA3 的开发与对抗，QUIC，OpenSSL，MbedTLS，wolfSSL 等），并将理论与实际代码相结合，深入讲解相关内容
+        - title: 陈不不 JSVMP 反编译课程
           logo: Chankipen.jpg
-          url: images/course/jsvmp.jpg
+          url: https://static.spiderapi.cn/spiderbox/images/course/jsvmp.jpg
           description: 陈不不的 JSVMP 反编译课程
-        - title: 沐阳
+        - title: 沐阳 iOS、安卓、JS 逆向
           logo: muyangjy888.jpg
           url: https://mp.weixin.qq.com/s/onNc1WYAeUXDQMitWmyi6w
-          description: 沐阳从0开始学习iOS逆向、从0开始学习安卓逆向、从0开始学习JS逆向
-        - title: Alien & 珍惜联合课
-          logo: alienhe.png
-          url: http://course.alienhe.cn/home.html
-          description: Alien & 珍惜联合课，安卓逆向进阶百级教程，全网最新 js 逆向视频
-        - title: 零点课程：从零实现 JSVMP
+          description: 备注BOB，沐阳大佬的从0开始学习iOS逆向、从0开始学习安卓逆向、从0开始学习JS逆向
+        - title: 珍惜安卓逆向
+          logo: lyh296488320.jpg
+          url: https://static.spiderapi.cn/spiderbox/images/qrcode/lyh296488320.jpg
+          description: 备注BOB可获取内部优惠价，珍惜大佬的安卓逆向进阶、沙箱、内核 Hook 课程
+        - title: 零点从零实现 JSVMP
           logo: 4670123.jpg
           url: https://mp.weixin.qq.com/s/ktZWSzDGMYTdSjceuPoWKg
           description: 零点大佬的课程，从零实现 JSVMP，喵喵盾作者：https://www.ldvmp.com/
-        - title: 大数据安全技术学习
+        - title: 大数据安全技术学习星球
           logo: zsxq.png
           url: https://t.zsxq.com/FjMHh
           description: r0ysue 肉丝大佬的知识星球，定期分享和解答Frida、抓包解包、Fart脱壳机、算法还原、Ollvm、VMP、unicorn/unidbg、安卓源码定制与调试、IDA&GDB、art虚拟机二次开发等高质量安卓应用安全相关知识
