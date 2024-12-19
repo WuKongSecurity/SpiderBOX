@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: '2024-12-19 14:16:42'
+      title: IDA技巧（88）字符操作数类型和栈字符串
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485130&idx=1&sn=9df9ec49ae04b2cdf83ccd854a437afb
     - author: y小白的笔记
       release_time: '2024-12-19 13:27:11'
       title: requests的拓展和重写(偷懒)
@@ -236,10 +240,6 @@
       release_time: '2024-12-13 00:00:00'
       title: 安卓逆向 -- Unity手游BlueArchive蔚蓝档案剧情文本提取
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037225&idx=1&sn=81bef0ce53e5d8d2343725bc3cd8dc99
-    - author: 逆向有你
-      release_time: '2024-12-13 00:00:00'
-      title: PC逆向 -- 读写内存
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037225&idx=2&sn=d28f4ba912ea5fa89b57c6eb17c7b257
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
