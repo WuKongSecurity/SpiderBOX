@@ -120,6 +120,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: '2024-12-20 00:00:00'
+      title: 安卓逆向 -- 某仿真游戏机和去广告方法
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037296&idx=1&sn=f6041b30f917db4c64535ff2947435df
+    - author: 逆向有你
+      release_time: '2024-12-20 00:00:00'
+      title: PC逆向 -- 云下载
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037296&idx=2&sn=137b61f1f13cdf77f9703cf3f005235e
     - author: 菜鸟学Python编程
       release_time: '2024-12-19 17:50:00'
       title: AST反混淆插件|合并变量声明与赋值语句
@@ -232,14 +240,6 @@
       release_time: '2024-12-13 18:33:49'
       title: 两兄弟，两千万牟利，两亿公民个人信息
       url: https://mp.weixin.qq.com/s?__biz=MzkyMzcxMDM0MQ==&mid=2247504012&idx=1&sn=0dc7b654890f467f27a6f8f6578c0ae0
-    - author: python小丑鱼
-      release_time: '2024-12-13 18:20:00'
-      title: 某东x-api-eid-token，h5st(4.9.7)
-      url: https://mp.weixin.qq.com/s?__biz=MzIyODQxMDUyNA==&mid=2247484117&idx=1&sn=ee24ca2dc4ccd1853027ea4fb2e34564
-    - author: 菜鸟学Python编程
-      release_time: '2024-12-13 16:39:39'
-      title: AST反混淆插件|变量初始化为常量时的还原
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565602&idx=1&sn=71bc35b2761cf6a861524311b71865b7
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
