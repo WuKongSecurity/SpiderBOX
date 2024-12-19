@@ -2,6 +2,10 @@
   list:
   - links:
     - author: B站用户骚神
+      release_time: '2024-12-20 00:26:19'
+      title: 骚神库DP教学 第三集 六行代码采集淘宝商品数据
+      url: https://www.bilibili.com/video/BV1AGkrYNEVh
+    - author: B站用户骚神
       release_time: '2024-12-19 13:29:55'
       title: 直播DP写代码-抓取下载股票数据
       url: https://www.bilibili.com/video/BV1h5kMY9EGZ
@@ -113,10 +117,6 @@
       release_time: '2024-11-30 23:25:46'
       title: frida源码分析，frida的devkit模式，frida源码开发环境搭建
       url: https://www.bilibili.com/video/BV1VDzHYdEqf
-    - author: 一只勇敢的小佳
-      release_time: '2024-11-30 21:11:15'
-      title: frida三大主要工具使用，frida-server、frida-gadget.so、frida-inject三大工具，专属小工具使用教程
-      url: https://www.bilibili.com/video/BV12yzpYUE1Q
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
