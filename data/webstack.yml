@@ -579,7 +579,11 @@
         - title: Safekodo
           logo: safekodo.png
           url: https://www.safekodo.com/
-          description: safekodo 加密保护您的代码与数据，为您提供专业的 JavaScript 代码保护，旨在为更多网站提供专业的保护,早一分保护,多十分安全！
+          description: safekodo 加密保护您的代码与数据，为您提供专业的 JavaScript 代码保护，旨在为更多网站提供专业的保护，早一分保护，多十分安全
+        - title: JS-Confuser
+          logo: js-confuser.jpg
+          url: https://js-confuser.com/
+          description: JS-Confuser 是一款功能强大的、开源的 JavaScript 混淆工具，可以让您的程序在未经授权的情况下无法被理解、复制、重复使用或修改
         - title: JS 加密
           logo: jsjiami.png
           url: https://www.jsjiami.com/
