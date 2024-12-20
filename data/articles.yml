@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: K哥爬虫
+      release_time: '2024-12-20 17:37:45'
+      title: 带着亲爹卖H片，父子一起判三年！
+      url: https://mp.weixin.qq.com/s?__biz=MzkyMzcxMDM0MQ==&mid=2247504066&idx=1&sn=7cd584797d873095783140e81163ada5
     - author: 菜鸟学Python编程
       release_time: '2024-12-20 10:20:18'
       title: AST反混淆插件|变量定义初始化为常量，又被重复赋值时的还原
@@ -236,13 +240,13 @@
       release_time: '2024-12-14 22:18:34'
       title: 【安卓逆向】libmsaoaidsec.so反调试及算法逆向案例(爱库存)
       url: https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NjA3Mw==&mid=2247483782&idx=1&sn=f7c0a2bbdcbe4ecc8b47e8b51085c86c
-    - author: 未闻Code
-      release_time: '2024-12-14 21:28:31'
-      title: 一日一技：为什么我很讨厌LangChain
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648989914&idx=1&sn=2dd558aa57fd4baf309393e3f4ca8eda
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: ReverseJourney
+      release_time: '2024-12-20 16:02:00'
+      title: 某绿色读书app epub解密算法分析
+      url: https://www.52pojie.cn/thread-1993046-1-1.html
     - author: Hawcett
       release_time: '2024-12-19 20:25:00'
       title: 一图全览DEX文件格式
@@ -359,10 +363,6 @@
       release_time: '2024-11-26 20:48:00'
       title: AST解混淆实现某Epub的图片还原
       url: https://www.52pojie.cn/thread-1985832-1-1.html
-    - author: Aircraftcomman5
-      release_time: '2024-11-26 14:52:00'
-      title: 某某服务网逆向---小白讲解
-      url: https://www.52pojie.cn/thread-1985694-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
