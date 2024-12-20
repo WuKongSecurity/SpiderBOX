@@ -243,6 +243,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: braxiong
+      release_time: '2024-12-20 18:03:00'
+      title: 威马EX5、EX5-Z车机开白名单，安装第三方APP
+      url: https://www.52pojie.cn/thread-1993079-1-1.html
     - author: ReverseJourney
       release_time: '2024-12-20 16:02:00'
       title: 某绿色读书app epub解密算法分析
@@ -359,10 +363,6 @@
       release_time: '2024-11-28 15:48:00'
       title: 看完这篇你也可以用charles对某奇异视频抓包啦！
       url: https://www.52pojie.cn/thread-1986407-1-1.html
-    - author: kidsmiless
-      release_time: '2024-11-27 17:03:00'
-      title: python获取酷wo音乐歌单过程及实现
-      url: https://www.52pojie.cn/thread-1986103-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
