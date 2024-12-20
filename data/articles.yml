@@ -120,6 +120,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: '2024-12-20 10:20:18'
+      title: AST反混淆插件|变量定义初始化为常量，又被重复赋值时的还原
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565629&idx=1&sn=40d4a9a62d25e9c8e829689273ea9845
+    - author: Spade sec
+      release_time: '2024-12-20 09:30:00'
+      title: 个人JS Hook脚本分享
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485123&idx=1&sn=c808e760207130eb9170b63c25928db0
     - author: Coder小Q
       release_time: '2024-12-20 08:30:00'
       title: 【密码学】一文读懂SM9算法
@@ -232,14 +240,6 @@
       release_time: '2024-12-14 21:28:31'
       title: 一日一技：为什么我很讨厌LangChain
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648989914&idx=1&sn=2dd558aa57fd4baf309393e3f4ca8eda
-    - author: 逆向有你
-      release_time: '2024-12-14 00:00:00'
-      title: 安卓逆向 -- 某小白的安卓游戏汉化历程
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037241&idx=1&sn=bf84c7720420d764a98ada49f90f9055
-    - author: 逆向有你
-      release_time: '2024-12-14 00:00:00'
-      title: PC逆向 -- 通信接口封装
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037241&idx=2&sn=f2bc29c58737b4c647e46e45c08d9fd1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
