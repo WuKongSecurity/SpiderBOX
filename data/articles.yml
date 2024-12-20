@@ -247,6 +247,10 @@
       release_time: '2024-12-20 16:02:00'
       title: 某绿色读书app epub解密算法分析
       url: https://www.52pojie.cn/thread-1993046-1-1.html
+    - author: Lychow
+      release_time: '2024-12-20 10:58:00'
+      title: 适合宝宝体质的wasm2js白盒AES
+      url: https://www.52pojie.cn/thread-1992926-1-1.html
     - author: Hawcett
       release_time: '2024-12-19 20:25:00'
       title: 一图全览DEX文件格式
@@ -359,10 +363,6 @@
       release_time: '2024-11-27 17:03:00'
       title: python获取酷wo音乐歌单过程及实现
       url: https://www.52pojie.cn/thread-1986103-1-1.html
-    - author: T4DNA
-      release_time: '2024-11-26 20:48:00'
-      title: AST解混淆实现某Epub的图片还原
-      url: https://www.52pojie.cn/thread-1985832-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
