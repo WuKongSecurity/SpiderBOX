@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Coder小Q
+      release_time: '2024-12-20 08:30:00'
+      title: 【密码学】一文读懂SM9算法
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247490658&idx=1&sn=9ef4e852ff8dd7f1638bd2e82eac1663
     - author: 逆向有你
       release_time: '2024-12-20 00:00:00'
       title: 安卓逆向 -- 某仿真游戏机和去广告方法
@@ -236,10 +240,6 @@
       release_time: '2024-12-14 00:00:00'
       title: PC逆向 -- 通信接口封装
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037241&idx=2&sn=f2bc29c58737b4c647e46e45c08d9fd1
-    - author: K哥爬虫
-      release_time: '2024-12-13 18:33:49'
-      title: 两兄弟，两千万牟利，两亿公民个人信息
-      url: https://mp.weixin.qq.com/s?__biz=MzkyMzcxMDM0MQ==&mid=2247504012&idx=1&sn=0dc7b654890f467f27a6f8f6578c0ae0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -366,6 +366,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 吴秋霖
+      release_time: '2024-12-20 08:29:30'
+      title: 最新D音滑块JS纯算法还原（含完整源码）
+      url: https://crawler.blog.csdn.net/article/details/144506818
     - author: Harden13
       release_time: '2024-12-19 22:12:17'
       title: app逆向--马蜂窝参数分析
@@ -482,10 +486,6 @@
       release_time: '2024-12-14 15:30:04'
       title: '[原创]某cocos2djs游戏jsc以及资源文件解密'
       url: https://bbs.kanxue.com/thread-284809.htm
-    - author: ve1kcon
-      release_time: '2024-12-14 02:19:46'
-      title: '[原创]代码审计 - MCMS v5.4.1 0day挖掘'
-      url: https://bbs.kanxue.com/thread-284806.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
