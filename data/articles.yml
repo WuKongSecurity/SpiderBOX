@@ -370,6 +370,10 @@
       release_time: '2024-12-20 19:03:30'
       title: '[原创]Web3.0安全开发实践：探索比特币DeFi生态中的PSBT'
       url: https://bbs.kanxue.com/thread-284920.htm
+    - author: 悦来客栈的老板
+      release_time: '2024-12-20 10:20:28'
+      title: AST反混淆插件|变量定义初始化为常量，又被重复赋值时的还原
+      url: https://blog.csdn.net/qq523176585/article/details/144622661
     - author: 吴秋霖
       release_time: '2024-12-20 08:29:30'
       title: 最新D音滑块JS纯算法还原（含完整源码）
@@ -482,10 +486,6 @@
       release_time: '2024-12-14 22:09:33'
       title: '[原创]【安卓逆向】libmsaoaidsec.so反调试及算法逆向案例(爱库存)'
       url: https://bbs.kanxue.com/thread-284816.htm
-    - author: 北袅
-      release_time: '2024-12-14 19:33:17'
-      title: frida dump下来的so被抹掉了头文件
-      url: https://bbs.kanxue.com/thread-284813.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
