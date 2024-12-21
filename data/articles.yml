@@ -378,6 +378,10 @@
       release_time: '2024-12-21 09:59:39'
       title: 又一款国外免费JS混淆工具
       url: https://blog.csdn.net/w2sft/article/details/144625989
+    - author: 悦来客栈的老板
+      release_time: '2024-12-21 09:38:07'
+      title: JS逆向新手必看-反调试与反反调试
+      url: https://blog.csdn.net/qq523176585/article/details/144639027
     - author: CertiK_CN
       release_time: '2024-12-20 19:03:30'
       title: '[原创]Web3.0安全开发实践：探索比特币DeFi生态中的PSBT'
@@ -482,10 +486,6 @@
       release_time: '2024-12-15 15:20:10'
       title: 某东cfe滑块-滑块验证码逆向分析思路学习
       url: https://blog.csdn.net/y662225dd/article/details/144487086
-    - author: Qiled
-      release_time: '2024-12-15 12:47:09'
-      title: Shopee算法分析 - x-sap-ri
-      url: https://blog.csdn.net/Qiled/article/details/144485644
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
