@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: nothing__233
+      release_time: '2024-12-21 16:45:04'
+      title: JsClear——一个为制定js解混淆插件而生的框架
+      url: https://www.bilibili.com/video/BV1rUkxYsEjw
     - author: B站用户骚神
       release_time: '2024-12-20 00:26:19'
       title: 骚神库DP教学 第三集 六行代码采集淘宝商品数据
@@ -113,10 +117,6 @@
       release_time: '2024-12-01 20:11:20'
       title: 骚神Drissionpage教学 第30课 京东商品秒杀抢购
       url: https://www.bilibili.com/video/BV1xhzZYLENk
-    - author: 一只勇敢的小佳
-      release_time: '2024-11-30 23:25:46'
-      title: frida源码分析，frida的devkit模式，frida源码开发环境搭建
-      url: https://www.bilibili.com/video/BV1VDzHYdEqf
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
