@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: '2024-12-22 09:47:39'
+      title: IDA技巧（89）批量操作
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485131&idx=1&sn=0cf959a5e325a8b803999373cf31e793
     - author: 菜鸟学Python编程
       release_time: '2024-12-21 09:37:48'
       title: JS逆向新手必看-反调试与反反调试
@@ -236,10 +240,6 @@
       release_time: '2024-12-15 09:47:51'
       title: AST反混淆插件|变量初始化为Array类型时的还原
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565606&idx=1&sn=8ed5fa6d4f094fd31276f5f0536bfffc
-    - author: lsq665
-      release_time: '2024-12-15 00:47:04'
-      title: 简单实现控制流
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5NzkyOTAxNw==&mid=2247483737&idx=1&sn=9b815c31165408996a3e0ac459cade19
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
