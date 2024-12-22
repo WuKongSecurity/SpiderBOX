@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: '2024-12-22 21:41:43'
+      title: JS逆向新手必看-Bypass Debugger
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565635&idx=1&sn=64a6185d9d0b6288c7bed9ff43f70828
     - author: 二进制磨剑
       release_time: '2024-12-22 09:47:39'
       title: IDA技巧（89）批量操作
@@ -236,10 +240,6 @@
       release_time: '2024-12-16 08:00:00'
       title: eCapture v0.9.0发布，支持IPv6、GnuTLS密钥捕获、Zsh审计，国内CDN上线
       url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485078&idx=1&sn=aa7671a0df7c1898023fa280b7a24479
-    - author: 菜鸟学Python编程
-      release_time: '2024-12-15 09:47:51'
-      title: AST反混淆插件|变量初始化为Array类型时的还原
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565606&idx=1&sn=8ed5fa6d4f094fd31276f5f0536bfffc
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
