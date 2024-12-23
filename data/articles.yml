@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: '2024-12-23 14:24:52'
+      title: IDA技巧（90）可疑操作数限制
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485132&idx=1&sn=95a5ffda7d59db1985e66b85def08024
     - author: 关于代码那点事
       release_time: '2024-12-23 10:24:05'
       title: 逆向百例之akm
@@ -236,10 +240,6 @@
       release_time: '2024-12-16 11:02:06'
       title: 【课程完结!内容揭秘】第 2 期-Android 逆向内核攻防
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485128&idx=1&sn=fb4259e9e11109030af7f1620339a42b
-    - author: Spade sec
-      release_time: '2024-12-16 09:00:00'
-      title: JS逆向系列15-深入探究Hook eval后存在的作用域问题
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485069&idx=1&sn=a1cd135c0709f736beac6b388526854d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
