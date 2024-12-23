@@ -243,6 +243,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: rev1si0n
+      release_time: '2024-12-22 16:26:00'
+      title: 基于 FireRPA 的 Frida 脚本持久化以及接口导出和数据上报
+      url: https://www.52pojie.cn/thread-1993445-1-1.html
     - author: braxiong
       release_time: '2024-12-20 18:03:00'
       title: 威马EX5、EX5-Z车机开白名单，安装第三方APP
@@ -359,13 +363,13 @@
       release_time: '2024-11-29 14:30:00'
       title: 指尖时光破解教程
       url: https://www.52pojie.cn/thread-1986722-1-1.html
-    - author: Topmz
-      release_time: '2024-11-28 15:48:00'
-      title: 看完这篇你也可以用charles对某奇异视频抓包啦！
-      url: https://www.52pojie.cn/thread-1986407-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 带带弟弟学爬虫__
+      release_time: '2024-12-23 17:14:17'
+      title: 某尝准app请求体响应加密分析
+      url: https://blog.csdn.net/A_fanyifan/article/details/144672869
     - author: LuoYe丶
       release_time: '2024-12-23 15:14:04'
       title: 记录一下，腾讯滑块collect参数，补环境（水文一篇）
@@ -482,10 +486,6 @@
       release_time: '2024-12-17 00:00:00'
       title: oppo a53 5g unlocktool 强解bl锁，magisk工具root [小白避坑篇]
       url: https://xz.aliyun.comhttps://xz.aliyun.com/t/16796
-    - author: 九月镇灵将
-      release_time: '2024-12-16 17:31:30'
-      title: 爬虫逆向学习(十四)：分享一下某数通用破解服务开发经验
-      url: https://blog.csdn.net/weixin_43845191/article/details/144511433
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
