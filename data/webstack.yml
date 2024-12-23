@@ -990,11 +990,11 @@
         - title: Android Crack Tool
           logo: github.png
           url: https://github.com/Jermic/Android-Crack-Tool
-          description: mac 下 Android 逆向神器，实用工具集，集成了Android开发中常见的一些编译/反编译工具，方便用户对 Apk 进行逆向分析，提供 Apk 信息查看功能。
+          description: mac 下 Android 逆向神器，实用工具集，集成了Android开发中常见的一些编译/反编译工具，方便用户对 Apk 进行逆向分析，提供 Apk 信息查看功能
         - title: Apktool
           logo: apktool.png
           url: https://apktool.org/
-          description: 功能强大且操作简单的 apk 反编译工具。
+          description: 功能强大且操作简单的 apk 反编译工具
         - title: PKiD 查壳工具
           logo: pkid.jpg
           url: https://pan.baidu.com/s/1sAFlpJzZK5TpsPitNj9BzQ?pwd=sbox
@@ -1002,43 +1002,47 @@
         - title: PKiD Java 跨平台版
           logo: pkid.jpg
           url: https://bbs.kanxue.com/thread-225120.htm
-          description: PKiD 查壳工具，目前仅支持加固厂商：娜迦、梆梆、爱加密、通付盾、360加固、百度加固、阿里、腾讯、盛大、瑞星加、网秦、国信灵通、apkprotect、几维安全、顶像科技、网易易盾等常规厂商。功能比win版PKID更强大，特征更多！
+          description: PKiD 查壳工具，目前仅支持加固厂商：娜迦、梆梆、爱加密、通付盾、360加固、百度加固、阿里、腾讯、盛大、瑞星加、网秦、国信灵通、apkprotect、几维安全、顶像科技、网易易盾等常规厂商。功能比 win 版 PKID 更强大，特征更多
         - title: XAPKDetector
           logo: xapkdetector.jpg
           url: https://github.com/horsicq/XAPKDetector
-          description: XAPKDetector 显示有关构建工具，库和APK / DEX文件保护的信息。
+          description: XAPKDetector 显示有关构建工具，库和APK / DEX文件保护的信息
         - title: JEB
           logo: jeb.jpg
           url: https://www.pnfsoftware.com/
-          description: JEB 是 PNF Software的逆向工程平台，可以手动或作为分析管道的一部分执行代码和文档文件的反汇编、反编译、调试和分析。
+          description: JEB 是 PNF Software的逆向工程平台，可以手动或作为分析管道的一部分执行代码和文档文件的反汇编、反编译、调试和分析
         - title: dex2jar
           logo: github.png
           url: https://github.com/pxb1988/dex2jar
-          description: 将安卓可执行文件 dex 转为 jar 包。
+          description: 将安卓可执行文件 dex 转为 jar 包
         - title: JD-GUI
           logo: jdgui.png
           url: https://github.com/java-decompiler/jd-gui
-          description: 可将安卓可执行文件 dex 转为 jar 包，并提供可视化代码阅读能力。
+          description: 可将安卓可执行文件 dex 转为 jar 包，并提供可视化代码阅读能力
         - title: JADX
           logo: jadx.png
           url: https://github.com/skylot/jadx
-          description: JADX 是一个 Dex 到 Java 的反编译器，用于从 Android Dex 和 Apk 文件生成 Java 源代码，有命令行和 GUI 两个版本。
+          description: JADX 是一个 Dex 到 Java 的反编译器，用于从 Android Dex 和 Apk 文件生成 Java 源代码，有命令行和 GUI 两个版本
         - title: Bytecode Viewer
           logo: github.png
           url: https://github.com/Konloch/bytecode-viewer
-          description: 支持 apk、dex 等多种文件格式的反编译。
+          description: 支持 apk、dex 等多种文件格式的反编译
         - title: AndroidKiller
           logo: github.png
           url: https://github.com/liaojack8/AndroidKiller
-          description: Android 应用程序逆向工具(apk反编译工具)。
+          description: Android 应用程序逆向工具(apk反编译工具)
+        - title: blutter
+          logo: github.png
+          url: https://github.com/worawit/blutter
+          description: 编译 Dart AOT Runtime 的 Flutter 移动应用逆向工具
         - title: GDA
           logo: gda.jpg
           url: https://github.com/charles2gan/GDA-android-reversing-Tool
-          description: GDA，一款用C++实现的强大的Dalvik字节码反编译器，具有分析速度快、内存磁盘消耗低等优点，对apk、dex、odex、oat、jar、class、aar文件的反编译能力更强。
+          description: GDA，一款用C++实现的强大的Dalvik字节码反编译器，具有分析速度快、内存磁盘消耗低等优点，对apk、dex、odex、oat、jar、class、aar文件的反编译能力更强
         - title: Ghidra
           logo: ghidra.png
           url: https://github.com/NationalSecurityAgency/ghidra
-          description: Ghidra 是一个由美国国家安全局研究局创建和维护的、开源的软件逆向工程 (SRE) 框架 。该框架包括一套功能齐全的高端软件分析工具，使用户能够在包括 Windows、macOS 和 Linux 在内的各种平台上分析编译的代码。功能包括反汇编、汇编、反编译、绘图和脚本编写，以及数百种其他功能。
+          description: Ghidra 是一个由美国国家安全局研究局创建和维护的、开源的软件逆向工程 (SRE) 框架 。该框架包括一套功能齐全的高端软件分析工具，使用户能够在包括 Windows、macOS 和 Linux 在内的各种平台上分析编译的代码。功能包括反汇编、汇编、反编译、绘图和脚本编写，以及数百种其他功能
 
     - term: APP 其他
       links:
