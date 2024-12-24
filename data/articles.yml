@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 带带弟弟学爬虫
+      release_time: '2024-12-24 20:06:20'
+      title: APP逆向课程百例
+      url: https://www.bilibili.com/video/BV1xHCGYbEBf
     - author: Alone_666
       release_time: '2024-12-24 12:54:18'
       title: 某MD5 魔改算法还原(第一节 unidbg模拟调用)
@@ -243,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: Aircraftcomman5
+      release_time: '2024-12-24 15:40:00'
+      title: 某某邮箱登录逆向----小白讲解03
+      url: https://www.52pojie.cn/thread-1994084-1-1.html
     - author: hybpjx
       release_time: '2024-12-24 13:20:00'
       title: 某东h5st 5.0 补环境分析流程
@@ -359,10 +367,6 @@
       release_time: '2024-11-30 17:11:00'
       title: 解决ADB连接时报错$ADB_VENDOR_KEYS is not found
       url: https://www.52pojie.cn/thread-1987036-1-1.html
-    - author: littlewhite11
-      release_time: '2024-11-30 12:38:00'
-      title: 【JS逆向】某茄小说逆向分析
-      url: https://www.52pojie.cn/thread-1986969-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
