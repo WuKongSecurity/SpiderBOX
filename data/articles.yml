@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: y小白的笔记
+      release_time: '2024-12-24 23:16:28'
+      title: 某右6.2.12版本sign-学习案例1
+      url: https://mp.weixin.qq.com/s?__biz=MzIyMjQ3OTE5MA==&mid=2247484602&idx=1&sn=5df6d1e86c324912a6284272b2cea642
     - author: 软件安全与逆向分析
       release_time: '2024-12-24 19:35:20'
       title: eBPF开发指南从原理到应用现已上架JD
@@ -240,10 +244,6 @@
       release_time: '2024-12-18 15:00:58'
       title: Python轻量级NoSQL数据库TinyDB
       url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486173&idx=1&sn=7d31ed589bcfe3244c407f38aea73b80
-    - author: 未闻Code
-      release_time: '2024-12-18 14:33:03'
-      title: 一日一技：如何正确对Python第三方库做二次开发
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648989934&idx=1&sn=f16653ac188c12eb00968e10bbbacf6d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
