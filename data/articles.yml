@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: '2024-12-24 16:07:32'
+      title: IDA技巧（91）项标志
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485133&idx=1&sn=99f021202f2e368c3a1c60efe2a95982
     - author: 菜鸟学Python编程
       release_time: '2024-12-24 14:43:10'
       title: AST反混淆插件|多个变量定义的分离
@@ -236,10 +240,6 @@
       release_time: '2024-12-18 13:35:34'
       title: IDA技巧（87）函数块和反编译器
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485129&idx=1&sn=a72ee9b6b8119740b50399f5bb961f53
-    - author: 菜鸟学Python编程
-      release_time: '2024-12-18 09:00:00'
-      title: AST反混淆插件|变量初始化为特定函数时的还原
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565618&idx=1&sn=99823528bd501b7b613240486ca57e51
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
