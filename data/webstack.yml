@@ -750,6 +750,10 @@
           logo: github.png
           url: https://github.com/zero3301/pyhttpx
           description: Python 库，基于 socket 开发的一个网络库，支持 tls1.2/tls1.3 和 h1/h2
+        - title: noble-tls
+          logo: github.png
+          url: https://github.com/rawandahmad698/noble-tls
+          description: Noble TLS 是一个基于 requests 和 tls-client 的高级 HTTP 库，支持异步，H2，支持自定义 JA3 指纹（Chrome, Firefox, Opera, Safari, iOS, iPadOS, Android）
         - title: primp
           logo: github.png
           url: https://github.com/deedy5/primp
@@ -1186,51 +1190,79 @@
         - title: 丹里科技
           logo: zjdanli.png
           url: https://www.zjdanli.com/
-          description: 丹里科技专注解决反人类验证码，支持 Akamai、Incapsula（Imperva、reese84）、hCaptcha、PerimeterX 等
+          description: 支持 reCAPTCHA、hCaptcha、Akamai、Incapsula（Imperva、reese84）、PerimeterX（Human）、Kasada、TLS 转发等
         - title: CapSolver
           logo: capsolver.png
           url: https://dashboard.capsolver.com/passport/register?inviteCode=fSDAJPxbcuLs
-          description: 支持 hCaptcha、reCAPTCHA、Geetest、FunCaptcha、Cloudflare、MTCaptcha、AWS WAF、DataDome、Akamai、Friendly Captcha、Yandex Captcha 等
-        - title: EzCaptcha
-          logo: ez-captcha.jpg
-          url: https://dashboard.ez-captcha.com/#/register?inviteCode=QYanEJYmWFj
-          description: 支持 hCaptcha、reCAPTCHA、FunCaptcha、DataDome、Akamai、Kasada 等
+          description: 支持 reCAPTCHA、hCaptcha、DataDome、Arkose Labs FunCaptcha、Cloudflare Turnstile、Geetest（极验）、Amazon（AWS） WAF、Akamai、MTCaptcha、Friendly Captcha、Yandex Captcha 等
         - title: noCaptcha
           logo: nocaptcha.png
           url: https://www.nocaptcha.io/register?c=Xnker5
-          description: 支持 hCaptcha、reCAPTCHA、DataDome、Shape、Incapsula（Imperva、reese84）、Akamai、Kasada、Cloudflare、AWS WAF、PerimeterX 等
+          description: 支持 reCAPTCHA、hCaptcha、DataDome、Shape、Incapsula（Imperva、reese84）、Akamai、Kasada、Cloudflare Turnstile、PerimeterX（Human）、Amazon（AWS） WAF、TLS 转发等
         - title: CaptchaRun
           logo: captcharun.png
           url: https://captcha.run/sso?inviter=e2a1a5d4-761c-47ac-a57c-6a37a873ff8c
-          description: 基于机器视觉的下一代图像识别平台，超高识别率，极速返回，自动迭代
+          description: 支持 reCAPTCHA、hCaptcha、Arkose Labs FunCaptcha、Cloudflare Turnstile 等
+        - title: EzCaptcha
+          logo: ez-captcha.jpg
+          url: https://dashboard.ez-captcha.com/#/register?inviteCode=QYanEJYmWFj
+          description: 支持 reCAPTCHA、Arkose Labs FunCaptcha、DataDome、Akamai、Akamai BMP、Kasada、TLS 转发等
         - title: 2Captcha
           logo: 2captcha.png
           url: https://2captcha.com/?from=17553728
-          description: 支持 hCaptcha、reCAPTCHA、Geetest、FunCaptcha、Cloudflare、AWS WAF、Audio 等
+          description: 支持 reCAPTCHA、hCaptcha、Arkose Labs FunCaptcha、Cloudflare Turnstile、DataDome、Amazon（AWS） WAF、Tencent（腾讯）、Geetest（极验）、Atb captcha（顶象国际版）、MTCaptcha、Friendly Captcha、Cyber SiARA、Capy Puzzle Captcha、KeyCaptcha、Lemin Captcha、Prosopo Procaptcha 等
         - title: YesCaptcha
           logo: yescaptcha.png
           url: https://yescaptcha.com/i/oPZU3g
-          description: 支持 hCaptcha、reCAPTCHA、Cloudflare 等
+          description: 支持 reCAPTCHA、hCaptcha、Arkose Labs FunCaptcha、Cloudflare Turnstile 等
+        - title: NextCaptcha
+          logo: nextcaptcha.png
+          url: https://nextcaptcha.com/
+          description: 支持 reCAPTCHA、reCAPTCHA Mobile、reCAPTCHA 高分等
         - title: CapMonster
           logo: capmonster.jpg
           url: https://capmonster.cloud/
-          description: 支持腾讯验证码、hCaptcha、reCAPTCHA、Geetest、DataDome、Incapsula（Imperva、reese84）、AWS WAF、Cloudflare 等
+          description: 支持 reCAPTCHA、hCaptcha、Arkose Labs FunCaptcha、Cloudflare Turnstile、Cloudflare Bot Challenge、DataDome、Incapsula（Imperva、reese84）、Tencent（腾讯）、Geetest（极验）、Amazon（AWS） WAF、FaucetPay Captcha 等
         - title: Anti Captcha
           logo: anti-captcha.jpg
           url: https://getcaptchasolution.com/ozq5ixt02v
-          description: 支持 hCaptcha、reCAPTCHA、FunCaptcha、Cloudflare 等
+          description: 支持 reCAPTCHA、Arkose Labs FunCaptcha、Cloudflare Turnstile、Geetest（极验）等
         - title: NopeCHA
           logo: nopecha.png
           url: https://nopecha.com/
-          description: 支持 hCaptcha、reCAPTCHA、FunCaptcha、AWS WAF 等
+          description: 支持 reCAPTCHA、hCaptcha、Arkose Labs FunCaptcha、Cloudflare Turnstile、PerimeterX（Human）、Geetest（极验）、Amazon（AWS） WAF、Lemin Captcha 等
         - title: CaptchaAI
           logo: captchaai.png
           url: https://captchaai.com/
-          description: 号称第一的 reCAPTCHA、hCaptcha 识别方案解决平台
+          description: 支持 reCAPTCHA、hCaptcha 等
         - title: Solve Captcha
-          logo: solvecaptcha.png
-          url: https://solvecaptcha.net/
-          description: 支持 hCaptcha、reCAPTCHA、FunCaptcha、Cloudflare、Geetest 等
+          logo: solvecaptcha.jpg
+          url: https://solvecaptcha.com/
+          description: 支持 reCAPTCHA、Arkose Labs FunCaptcha、Cloudflare Turnstile、Amazon（AWS） WAF 等
+        - title: NoCaptcha AI
+          logo: nocaptchaai.jpg
+          url: https://nocaptchaai.com/
+          description: 支持 reCAPTCHA、Geetest（极验）、Amazon（AWS） WAF、MTCaptcha 等
+        - title: MacroRC Captcha
+          logo: mrccaptcha.png
+          url: https://mrccaptcha.com/
+          description: 支持 reCAPTCHA、Arkose Labs FunCaptcha 等
+        - title: Death By Captcha
+          logo: deathbycaptcha.png
+          url: https://deathbycaptcha.com/
+          description: 支持 reCAPTCHA、Cloudflare Turnstile、DataDome、Tencent（腾讯）、Geetest（极验）、Atb captcha（顶象国际版）、Amazon（AWS） WAF、MTCaptcha、Friendly Captcha、Cyber SiARA、Capy Puzzle Captcha、KeyCaptcha、Lemin Captcha 等
+        - title: BrightData Captcha Solver
+          logo: brightdata.png
+          url: https://brightdata.com/products/web-unlocker/captcha-solver
+          description: 支持 reCAPTCHA、hCaptcha、Arkose Labs FunCaptcha、Cloudflare Turnstile、PerimeterX（Human）、Geetest（极验）、Amazon（AWS） WAF、Yandex Captcha、SimpleCaptcha、KeyCAPTCHA、Capy Puzzle Captcha 等
+        - title: FreeCaptchaBypass
+          logo: freecaptchabypass.png
+          url: https://freecaptchabypass.com/
+          description: 支持 reCAPTCHA、hCaptcha、Arkose Labs FunCaptcha、Geetest（极验）、Amazon（AWS）WAF 等
+        - title: BestCaptchaSolver
+          logo: bestcaptchasolver.png
+          url: https://bestcaptchasolver.com/ref/676921c6e74e18666d5eed2c
+          description: 支持 reCAPTCHA、Arkose Labs FunCaptcha、Cloudflare Turnstile 等
 
     - term: 开源识别
       links:
@@ -1404,10 +1436,6 @@
           logo: ruijie.jpg
           url: https://captcha.ruijie.com.cn/
           description: 行为验证码采用嵌入式集成方式，接入方便，安全，高效。抛弃了传统字符型验证码展示-填写字符-比对答案的流程，采用验证码展示-采集用户行为-分析用户行为流程，用户只需要产生指定的行为轨迹，不需要键盘手动输入，极大优化了传统验证码用户体验不佳的问题；同时，快速、准确的返回人机判定结果
-        - title: 天爱开源验证码
-          logo: tianai.jpg
-          url: https://gitee.com/dromara/tianai-captcha
-          description: 天爱开源验证码，包含滑块、点选、旋转、滑动、语序、刮刮乐、曲线匹配等类型
         - title: 瑞数信息
           logo: riversecurity.png
           url: https://www.riversecurity.com/
@@ -1455,7 +1483,7 @@
           logo: cloudflare.png
           url: https://www.cloudflare.com/
           description: Here at Cloudflare, we make the Internet work the way it should. Offering CDN, DNS, DDoS protection and security, find out how we can help your site.
-        - title: Arkose Labs (FunCaptcha)
+        - title: Arkose Labs FunCaptcha
           logo: arkoselabs.png
           url: https://www.arkoselabs.com/
           description: Banish malicious bots and stop SMS toll fraud (IRSF), account takeovers, credential stuffing, and new account fraud – with protection that rolls out in hours.
@@ -1483,14 +1511,70 @@
           logo: mcaptcha.png
           url: https://mcaptcha.org/
           description: mCaptcha is proof-of-work based captcha system that is privacy focused and fully automated.
+        - title: Lemin Captcha
+          logo: leminnow.jpg
+          url: https://www.leminnow.com/
+          description: Lemin Captcha offers simple yet powerful protection from brute-force login attacks, credential stuffing and other automated threats.
+        - title: MTCaptcha
+          logo: mtcaptcha.png
+          url: https://www.mtcaptcha.com/
+          description: MTCaptcha is More Than Captcha, a smart captcha service that is GDPR and WCAG compliant, providing the ultimate confidence in privacy and accessibility. Our Adaptive Invisible noCaptcha ensures friction-less verification for real humans while being robust against bots. Enterprise dashboards allow multiple user accounts for analytics and metrics.
+        - title: Prosopo Procaptcha
+          logo: prosopo.png
+          url: https://prosopo.io/
+          description: GDPR compliant, privacy friendly and better value than alternatives. Switch from reCAPTCHA in minutes.
         - title: CyberSiara
           logo: cybersiara.jpg
           url: https://www.cybersiara.com/
           description: The most advanced human verification tool for website security against bots, spam, credit card fraud, and other cybercrime. An effective alternative to reCaptcha, hCaptcha, and honeypots.
+        - title: KeyCAPTCHA
+          logo: keycaptcha.png
+          url: https://www.keycaptcha.com/
+          description: Improve your CAPTCHA in 5 minutes! More than 50.000 sites worlwide using our protection!
+        - title: Capy Puzzle CAPTCHA
+          logo: capy_puzzle_captcha.jpg
+          url: https://www.capy.me/products/puzzle_captcha/
+          description: Full cover on “password brute-force attacks” which repeatedly try logins with illegally obtained IDs and passwords. Prevent from spam bot (automatic program by computer) attack. Achieved to decrease 10% in termination rate compared to conventional text-style.
         - title: Fingerprint
           logo: fingerprint.png
           url: https://fingerprint.com/
           description: The Fingerprint device intelligence platform works across web and mobile applications to identify all visitors with 99.5% accuracy — even if they’re anonymous.
+
+    - term: 开源防护
+      links:
+        - title: 天爱开源验证码
+          logo: tianai.jpg
+          url: https://gitee.com/dromara/tianai-captcha
+          description: 天爱开源验证码，包含滑块、点选、旋转、滑动、语序、刮刮乐、曲线匹配等类型
+        - title: Slider Captcha
+          logo: github.png
+          url: https://github.com/ArgoZhang/SliderCaptcha
+          description: 用户通过拖动滑块行为来完成校验，支持 PC 端及移动端。可以将用户拖动行为的时间、精度，滑动轨迹等信息到服务器，然后进行后台算法验证
+        - title: Click CAPTCHA
+          logo: github.png
+          url: https://github.com/Lokno/click-captcha
+          description: Click CAPTCHA is a concept PHP implementation of a visual CAPTCHA which requires a single mouse click to authenticate that the user is human. The user must select a circle in a raster image hidden among dashes and like-colored distractors.
+        - title: jigsaw
+          logo: github.png
+          url: https://github.com/yeild/jigsaw
+          description: canvas 滑动验证码
+        - title: vue2-verify
+          logo: github.png
+          url: https://github.com/mizuka-wu/vue2-verify
+          description: vue 的验证码插件
+        - title: Captcha
+          logo: github.png
+          url: https://github.com/luozhanming/Captcha
+          description: Android 滑块拼图验证码控件
+        - title: VerificationCode
+          logo: github.png
+          url: https://github.com/eatage/VerificationCode
+          description: C# 滑动验证码
+        - title: captcha
+          logo: github.png
+          url: https://github.com/afocus/captcha
+          description: golang 实现的验证码
+
 
 - taxonomy: 代理数据
   icon: fas fa-map-marker-alt
@@ -1648,10 +1732,14 @@
           logo: github.png
           url: https://github.com/luzhisheng/js_reverse
           description: 各种 JS 逆向案例
-        - title: gospider
+        - title: crawlProject
           logo: github.png
-          url: https://github.com/baixudong007/gospider
-          description: Gospider 是一个功能强大的 Golang 网络爬虫，包含从 Python 过渡到 Golang 所需的所有库。它为 Python 网络爬虫提供了到 Golang 的快速无缝过渡
+          url: https://github.com/xishandong/crawlProject
+          description: python 爬虫项目合集，从基础到 js 逆向，包含基础篇、自动化篇、进阶篇以及验证码篇。案例涵盖各大网站(xhs douyin weibo ins boss job，jd...)，你将会学到有关爬虫以及反爬虫、自动化和验证码的各方面知识
+#        - title: gospider
+#          logo: github.png
+#          url: https://github.com/baixudong007/gospider
+#          description: Gospider 是一个功能强大的 Golang 网络爬虫，包含从 Python 过渡到 Golang 所需的所有库。它为 Python 网络爬虫提供了到 Golang 的快速无缝过渡
         - title: jsvmp-repository
           logo: github.png
           url: https://github.com/xiaoweigege/jsvmp-repository
