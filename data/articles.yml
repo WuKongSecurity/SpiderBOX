@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 爬虫逆向之旅
+      release_time: '2024-12-24 11:37:17'
+      title: 优志愿逆向(数据解密,字体反爬,requests请求失败)
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzMwNTMzOA==&mid=2247507618&idx=1&sn=45dcf8e173362d6126782a40395b5e9e
     - author: 逆向有你
       release_time: '2024-12-24 00:00:00'
       title: 安卓逆向 -- 某游戏打开开发者面板
@@ -236,10 +240,6 @@
       release_time: '2024-12-17 08:14:43'
       title: 复杂网络特征提取-节点特征、边特征和图整体特征
       url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196675&idx=1&sn=f37a78159356b6e647b5df6807285114
-    - author: 逆向有你
-      release_time: '2024-12-17 00:00:00'
-      title: 安卓逆向 -- 某漫画软件去除签名校验+解锁
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037258&idx=1&sn=2a8d12e291e3a262a2783b38694d4f89
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
