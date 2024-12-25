@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Spade sec
+      release_time: '2024-12-25 09:00:00'
+      title: 蚁剑魔改--添加自定义编码/解码器
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485164&idx=1&sn=144c56988966ecc701accf66799c7efa
+    - author: Spade sec
+      release_time: '2024-12-25 09:00:00'
+      title: 蚁剑魔改--修改黑名单URL
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485164&idx=2&sn=456407880c201061bf7b53a1a5b2def3
+    - author: 菜鸟学Python编程
+      release_time: '2024-12-25 09:00:00'
+      title: AST反混淆插件|变量初始化为函数表达式的还原
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565642&idx=1&sn=673314d156909567d8d7ea8d432b8e43
     - author: 逆向有你
       release_time: '2024-12-25 00:00:00'
       title: 安卓逆向 -- 用charles对某奇异视频抓包
@@ -232,18 +244,6 @@
       release_time: '2024-12-19 17:35:59'
       title: 【JS逆向百例】爱疯官网登录逆向分析
       url: https://mp.weixin.qq.com/s?__biz=MzkyMzcxMDM0MQ==&mid=2247504047&idx=1&sn=4f51f36bc4da1140ef28fc23b7ce4c96
-    - author: 二进制磨剑
-      release_time: '2024-12-19 14:16:42'
-      title: IDA技巧（88）字符操作数类型和栈字符串
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485130&idx=1&sn=9df9ec49ae04b2cdf83ccd854a437afb
-    - author: y小白的笔记
-      release_time: '2024-12-19 13:27:11'
-      title: requests的拓展和重写(偷懒)
-      url: https://mp.weixin.qq.com/s?__biz=MzIyMjQ3OTE5MA==&mid=2247484571&idx=1&sn=6b53873ea72ea088ea4a73c0f1c0ad7d
-    - author: 逆向有你
-      release_time: '2024-12-19 00:00:00'
-      title: 安卓逆向 -- Picsart美易最新版解锁会员免登录
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037282&idx=1&sn=1a45aaef22f82b52f185a8f2929f1bcf
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
