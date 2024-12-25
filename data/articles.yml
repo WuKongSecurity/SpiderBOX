@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: K哥爬虫
+      release_time: '2024-12-25 15:40:50'
+      title: 2025，生龙活虎！
+      url: https://mp.weixin.qq.com/s?__biz=MzkyMzcxMDM0MQ==&mid=2247504080&idx=1&sn=012d3dc8710f69a8959d0e1c149a1016
     - author: Spade sec
       release_time: '2024-12-25 09:00:00'
       title: 蚁剑魔改--添加自定义编码/解码器
@@ -240,10 +244,6 @@
       release_time: '2024-12-19 17:50:00'
       title: AST反混淆插件|合并变量声明与赋值语句
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565625&idx=1&sn=840dc1d612679a60f59c93766d45fb23
-    - author: K哥爬虫
-      release_time: '2024-12-19 17:35:59'
-      title: 【JS逆向百例】爱疯官网登录逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkyMzcxMDM0MQ==&mid=2247504047&idx=1&sn=4f51f36bc4da1140ef28fc23b7ce4c96
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
