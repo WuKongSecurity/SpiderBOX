@@ -5,10 +5,6 @@
       release_time: '2024-12-24 20:06:20'
       title: APP逆向课程百例
       url: https://www.bilibili.com/cheese/play/ss31877
-    - author: 带带弟弟学爬虫
-      release_time: '2024-12-24 20:06:20'
-      title: APP逆向课程百例
-      url: https://www.bilibili.com/cheese/play/ss31877
     - author: Alone_666
       release_time: '2024-12-24 12:54:18'
       title: 某MD5 魔改算法还原(第一节 unidbg模拟调用)
@@ -121,6 +117,10 @@
       release_time: '2024-12-04 21:52:52'
       title: 逆向工具使用教程八
       url: https://www.bilibili.com/video/BV1KtiUY1Ebs
+    - author: B站用户骚神
+      release_time: '2024-12-04 21:31:00'
+      title: 骚神Drissionpage教学 第31课 彻底模拟手机端
+      url: https://www.bilibili.com/video/BV128iUY5EK2
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
