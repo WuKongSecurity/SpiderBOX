@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: '2024-12-26 16:30:00'
+      title: IDA技巧（92）地址详情
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485134&idx=1&sn=1b38a462bc4ed8220b68967ecf2d30e0
     - author: 猿人学Python
       release_time: '2024-12-26 11:41:17'
       title: 工作一年就写出了自动反混淆AKM的奥特曼
@@ -240,10 +244,6 @@
       release_time: '2024-12-20 10:20:18'
       title: AST反混淆插件|变量定义初始化为常量，又被重复赋值时的还原
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565629&idx=1&sn=40d4a9a62d25e9c8e829689273ea9845
-    - author: Spade sec
-      release_time: '2024-12-20 09:30:00'
-      title: 个人JS Hook脚本分享
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485123&idx=1&sn=c808e760207130eb9170b63c25928db0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
