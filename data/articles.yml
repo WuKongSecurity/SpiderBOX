@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: '2024-12-27 00:00:00'
+      title: 安卓逆向 -- 解决ADB连接时报错$ADB_VENDOR_KEYS is not found
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037373&idx=1&sn=eae7b20e3380c13edf77cbb69220e0ed
+    - author: 逆向有你
+      release_time: '2024-12-27 00:00:00'
+      title: PC逆向 -- 处理用户内核APC警惕反回
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037373&idx=2&sn=cc2e153657c8ed5c8f6fe0a5ea4396c7
     - author: 未闻Code
       release_time: '2024-12-26 21:04:58'
       title: 一日一技：超简单方法显著提高大模型答案质量
@@ -236,14 +244,6 @@
       release_time: '2024-12-22 09:47:39'
       title: IDA技巧（89）批量操作
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485131&idx=1&sn=0cf959a5e325a8b803999373cf31e793
-    - author: 菜鸟学Python编程
-      release_time: '2024-12-21 09:37:48'
-      title: JS逆向新手必看-反调试与反反调试
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565631&idx=1&sn=e0799e31d8b22b1c2ecd91720bb63a57
-    - author: K哥爬虫
-      release_time: '2024-12-20 17:37:45'
-      title: 带着亲爹卖H片，父子一起判三年！
-      url: https://mp.weixin.qq.com/s?__biz=MzkyMzcxMDM0MQ==&mid=2247504066&idx=1&sn=7cd584797d873095783140e81163ada5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
