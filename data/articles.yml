@@ -124,6 +124,26 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 猿人学Python
+      release_time: '2024-12-26 11:41:17'
+      title: 工作一年就写出了自动反混淆AKM的奥特曼
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448549849&idx=1&sn=435a8997ba30614e7907eceb1c28f103
+    - author: 菜鸟学Python编程
+      release_time: '2024-12-26 11:00:00'
+      title: AST反混淆插件|实参为字符串的eval函数还原
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565646&idx=1&sn=6d2bb1b4242e51f90950df00cc5ae7d7
+    - author: 逆向有你
+      release_time: '2024-12-26 00:00:00'
+      title: 安卓逆向 -- 某软件获取vip抓包
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037358&idx=1&sn=6ba420c1e35be50ab171d7f5d2a13a73
+    - author: 逆向有你
+      release_time: '2024-12-26 00:00:00'
+      title: PC逆向 -- 内核事件等待
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037358&idx=2&sn=bf7ddc70f3d6c1a78d3380451532c9b5
+    - author: 小伍哥聊风控
+      release_time: '2024-12-25 17:09:00'
+      title: 出海金融反欺诈策略解析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196687&idx=1&sn=10bda0a5876d258c178af757d8c86ae5
     - author: Spade sec
       release_time: '2024-12-25 09:00:00'
       title: 蚁剑魔改--添加自定义编码/解码器
@@ -224,26 +244,6 @@
       release_time: '2024-12-20 09:30:00'
       title: 个人JS Hook脚本分享
       url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485123&idx=1&sn=c808e760207130eb9170b63c25928db0
-    - author: Coder小Q
-      release_time: '2024-12-20 08:30:00'
-      title: 【密码学】一文读懂SM9算法
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247490658&idx=1&sn=9ef4e852ff8dd7f1638bd2e82eac1663
-    - author: 逆向有你
-      release_time: '2024-12-20 00:00:00'
-      title: 安卓逆向 -- 某仿真游戏机和去广告方法
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037296&idx=1&sn=f6041b30f917db4c64535ff2947435df
-    - author: 逆向有你
-      release_time: '2024-12-20 00:00:00'
-      title: PC逆向 -- 云下载
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037296&idx=2&sn=137b61f1f13cdf77f9703cf3f005235e
-    - author: 菜鸟学Python编程
-      release_time: '2024-12-19 17:50:00'
-      title: AST反混淆插件|合并变量声明与赋值语句
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565625&idx=1&sn=840dc1d612679a60f59c93766d45fb23
-    - author: K哥爬虫
-      release_time: '2024-12-19 17:35:59'
-      title: 【JS逆向百例】爱疯官网登录逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkyMzcxMDM0MQ==&mid=2247504047&idx=1&sn=4f51f36bc4da1140ef28fc23b7ce4c96
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
