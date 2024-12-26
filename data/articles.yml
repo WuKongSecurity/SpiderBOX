@@ -370,6 +370,14 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 东方玻璃
+      release_time: '2024-12-26 13:26:32'
+      title: Dex文件结构-ReadDex解析器实现
+      url: https://bbs.kanxue.com/thread-284995.htm
+    - author: ovo_帮我不c
+      release_time: '2024-12-26 13:15:32'
+      title: '[分享]某车联网五##光DFA攻击白盒AES协议算法分析'
+      url: https://bbs.kanxue.com/thread-284994.htm
     - author: 绿豆粥
       release_time: '2024-12-26 10:33:08'
       title: '[分享]某咖啡DFA AES+ollvm混淆分析'
@@ -482,14 +490,6 @@
       release_time: '2024-12-18 11:46:42'
       title: '[讨论]关于新版本magisk隐藏与shamiko隐藏的检测'
       url: https://bbs.kanxue.com/thread-284859.htm
-    - author: 悦来客栈的老板
-      release_time: '2024-12-18 09:00:49'
-      title: AST反混淆插件|变量初始化为特定函数时的还原
-      url: https://blog.csdn.net/qq523176585/article/details/144573526
-    - author: w2sfot
-      release_time: '2024-12-18 08:16:08'
-      title: 怎样在html中异步加载js文件，以避免js文件太大而影响页面打开速度？
-      url: https://blog.csdn.net/w2sft/article/details/144548781
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
