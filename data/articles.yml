@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Tasfa
+      release_time: '2024-12-26 15:48:33'
+      title: 【AI系列】从零开始学习大模型GPT (1)- Build a Large Language Model (From Scratch)
+      url: https://blog.csdn.net/qq_30135181/article/details/144745958
     - author: 东方玻璃
       release_time: '2024-12-26 13:26:32'
       title: Dex文件结构-ReadDex解析器实现
@@ -486,10 +490,6 @@
       release_time: '2024-12-19 09:41:14'
       title: 当你爬着数据，程序突然报JSON格式化异常...（论如何修复异常的JSON）
       url: https://blog.csdn.net/weixin_43845191/article/details/144575613
-    - author: xiaoxiaojing
-      release_time: '2024-12-18 11:46:42'
-      title: '[讨论]关于新版本magisk隐藏与shamiko隐藏的检测'
-      url: https://bbs.kanxue.com/thread-284859.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
