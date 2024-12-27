@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: '2024-12-27 16:08:42'
+      title: AST反混淆插件|常量折叠
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565650&idx=1&sn=8d3c8d473119e653781de658308e690c
     - author: 逆向有你
       release_time: '2024-12-27 00:00:00'
       title: 安卓逆向 -- 解决ADB连接时报错$ADB_VENDOR_KEYS is not found
@@ -240,10 +244,6 @@
       release_time: '2024-12-22 21:41:43'
       title: JS逆向新手必看-Bypass Debugger
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565635&idx=1&sn=64a6185d9d0b6288c7bed9ff43f70828
-    - author: 二进制磨剑
-      release_time: '2024-12-22 09:47:39'
-      title: IDA技巧（89）批量操作
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485131&idx=1&sn=0cf959a5e325a8b803999373cf31e793
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
