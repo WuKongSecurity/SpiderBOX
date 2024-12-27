@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 西贝巴巴
+      release_time: '2024-12-27 23:07:00'
+      title: '[原创]CTF自毁程序密码：逆向分析'
+      url: https://bbs.kanxue.com/thread-285023.htm
     - author: CertiK_CN
       release_time: '2024-12-27 19:07:39'
       title: '[原创]技术详解 | 以太坊智能合约的Gas优化：十大最佳实践'
@@ -486,10 +490,6 @@
       release_time: '2024-12-20 08:29:30'
       title: 最新D音滑块JS纯算法还原（含完整源码）
       url: https://crawler.blog.csdn.net/article/details/144506818
-    - author: Harden13
-      release_time: '2024-12-19 22:12:17'
-      title: app逆向--马蜂窝参数分析
-      url: https://bbs.kanxue.com/thread-284900.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
