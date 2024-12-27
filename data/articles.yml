@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: '2024-12-27 16:32:41'
+      title: iOS18抓包套件证书置入与免越狱用frida
+      url: https://www.bilibili.com/video/BV1vnCnYwEkm
     - author: B站用户骚神
       release_time: '2024-12-25 15:58:57'
       title: 骚神Drissionpage教学 筑基期新手法宝-代码启动助手
@@ -117,10 +121,6 @@
       release_time: '2024-12-05 17:16:45'
       title: APP逆向案例-某幸最新版简单白盒aes逆向
       url: https://www.bilibili.com/video/BV1MiiRYeENL
-    - author: 西门浪0v0
-      release_time: '2024-12-04 21:52:52'
-      title: 逆向工具使用教程八
-      url: https://www.bilibili.com/video/BV1KtiUY1Ebs
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
