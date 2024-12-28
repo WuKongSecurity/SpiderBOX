@@ -2,6 +2,10 @@
   list:
   - links:
     - author: 时一十一姐呀
+      release_time: '2024-12-28 15:40:02'
+      title: js逆向-akamai_3.0反爬sensor_data之mst/dvc参数逆向分析vmp初步插桩
+      url: https://www.bilibili.com/video/BV1tDCbYCEw3
+    - author: 时一十一姐呀
       release_time: '2024-12-28 14:24:54'
       title: js逆向-akamai_3.0反爬sensor_data之din和mst参数逆向分析
       url: https://www.bilibili.com/video/BV17GC8YbEUi
@@ -117,10 +121,6 @@
       release_time: '2024-12-06 00:39:18'
       title: js逆向-akamai_3.0cookie反爬分析_abck与sensor_data有关
       url: https://www.bilibili.com/video/BV1SFifYyEU7
-    - author: 时一十一姐呀
-      release_time: '2024-12-06 00:32:19'
-      title: js逆向-如何区分akamai_2.0/3.0反爬以及何时cookie有效分析
-      url: https://www.bilibili.com/video/BV1bwifYVEBv
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
