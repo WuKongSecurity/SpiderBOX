@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 时一十一姐呀
+      release_time: '2024-12-28 14:24:54'
+      title: js逆向-akamai_3.0反爬sensor_data之din和mst参数逆向分析
+      url: https://www.bilibili.com/video/BV17GC8YbEUi
     - author: r0ysue
       release_time: '2024-12-27 16:32:41'
       title: iOS18抓包套件证书置入与免越狱用frida
@@ -117,10 +121,6 @@
       release_time: '2024-12-06 00:32:19'
       title: js逆向-如何区分akamai_2.0/3.0反爬以及何时cookie有效分析
       url: https://www.bilibili.com/video/BV1bwifYVEBv
-    - author: 带带弟弟学爬虫
-      release_time: '2024-12-05 17:16:45'
-      title: APP逆向案例-某幸最新版简单白盒aes逆向
-      url: https://www.bilibili.com/video/BV1MiiRYeENL
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
