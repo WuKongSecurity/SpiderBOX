@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 和沐阳学逆向
+      release_time: '2024-12-28 23:51:59'
+      title: 55.新年礼物《iOS逆向助手》发布,无须输入激活码,下载即用
+      url: https://www.bilibili.com/video/BV14V6WYXEdj
     - author: 时一十一姐呀
       release_time: '2024-12-28 17:17:05'
       title: js逆向-akamai_3.0反爬遇到状态码428如何动态分析改版点？
@@ -117,13 +121,17 @@
       release_time: '2024-12-06 15:43:35'
       title: APP逆向-某幸咖啡白盒aes补充
       url: https://www.bilibili.com/video/BV1MkiiYmE1m
-    - author: 时一十一姐呀
-      release_time: '2024-12-06 01:03:23'
-      title: js逆向-akamai_3.0反爬sensor_data主流程逆向分析
-      url: https://www.bilibili.com/video/BV1bAifYkE7i
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 沐阳科技资源
+      release_time: '2024-12-28 23:53:34'
+      title: 新年礼物《iOS逆向助手》新版2.5.4.1 发布,无须输入激活码,下载即用
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484359&idx=1&sn=27a30e9c30e4135d0e834f62ddc02fa2
+    - author: Spade sec
+      release_time: '2024-12-28 22:32:00'
+      title: 我的2024年终总结
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485171&idx=1&sn=6bf2bc8a369f29cb362dfad0ecc49e62
     - author: K哥爬虫
       release_time: '2024-12-27 17:47:47'
       title: 【JS逆向百例】某江 Hospital 逆向分析
@@ -236,14 +244,6 @@
       release_time: '2024-12-23 10:24:05'
       title: 逆向百例之akm
       url: https://mp.weixin.qq.com/s?__biz=Mzg5MTg1NzU1NA==&mid=2247486126&idx=1&sn=44ef582177e3fb2bcaf85d1b371f2ab0
-    - author: Coder小Q
-      release_time: '2024-12-23 08:30:00'
-      title: 【密码学】回顾Dilithium(ML-DSA)算法的正确性证明
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247490717&idx=1&sn=aca114c6174d7917260a19c013d874e2
-    - author: 逆向与爬虫的故事
-      release_time: '2024-12-23 08:30:00'
-      title: 百度网盘逆向分析：一键自动转存，效率翻倍！
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5ODA3OTM1NA==&mid=2247493614&idx=1&sn=7e62bcfdbe15b4b17c2f2408fd7042cc
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
