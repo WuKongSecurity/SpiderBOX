@@ -307,6 +307,10 @@
       release_time: '2024-12-13 01:24:00'
       title: 网盘秒传功能的利用
       url: https://www.52pojie.cn/thread-1990813-1-1.html
+    - author: gmg2719
+      release_time: '2024-12-13 00:01:00'
+      title: 一个技术网站的反反爬和模拟镜像网站搭建方法
+      url: https://www.52pojie.cn/thread-1990765-1-1.html
     - author: hitachimako
       release_time: '2024-12-12 23:32:00'
       title: 逆向分析某红色跑步App的API
@@ -363,10 +367,6 @@
       release_time: '2024-12-01 22:38:00'
       title: 某TV抓包和jce响应解析
       url: https://www.52pojie.cn/thread-1987327-1-1.html
-    - author: 天空宫阙
-      release_time: '2024-12-01 16:57:00'
-      title: 某英语听力APP字幕编码方式逆向
-      url: https://www.52pojie.cn/thread-1987254-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
