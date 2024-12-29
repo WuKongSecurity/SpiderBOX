@@ -17,6 +17,7 @@ def get_articles():
         'User-Agent': ARTICLE_UA,
     }
     response = requests.get(ARTICLE_API, headers=headers)
+    print("get articles status code: ", response.status_code)
     data = response.json()
     return data
 
