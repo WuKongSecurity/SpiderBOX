@@ -6,13 +6,15 @@ from datetime import datetime
 
 ARTICLE_API = os.getenv('ARTICLE_API')
 ARTICLE_TOKEN = os.getenv('ARTICLE_TOKEN')
+ARTICLE_UA = os.getenv('ARTICLE_UA')  # 特殊 UA, API 防护例外规则
 YML_FILE = '../data/articles.yml'
 
 
 def get_articles():
     headers = {
         'Content-Type': 'application/json',
-        'Authorization': f'Bearer {ARTICLE_TOKEN}'
+        'Authorization': f'Bearer {ARTICLE_TOKEN}',
+        'User-Agent': ARTICLE_UA,
     }
     response = requests.get(ARTICLE_API, headers=headers)
     data = response.json()
