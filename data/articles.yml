@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: chenchenchen777
+      release_time: '2024-12-30 14:18:00'
+      title: 360分析复现(中)
+      url: https://www.52pojie.cn/thread-1995660-1-1.html
     - author: 正己
       release_time: '2024-12-27 21:06:00'
       title: 《安卓逆向这档事》第二十三课、黑盒魔法之Unidbg
@@ -363,10 +367,6 @@
       release_time: '2024-12-03 17:18:00'
       title: 云注入去签功能解析
       url: https://www.52pojie.cn/thread-1987961-1-1.html
-    - author: 我是不会改名的
-      release_time: '2024-12-01 22:38:00'
-      title: 某TV抓包和jce响应解析
-      url: https://www.52pojie.cn/thread-1987327-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
