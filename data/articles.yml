@@ -378,6 +378,10 @@
       release_time: '2024-12-30 10:19:43'
       title: 【JS逆向百例】某江 Hospital 逆向分析
       url: https://blog.csdn.net/kdl_csdn/article/details/144817612
+    - author: K哥爬虫
+      release_time: '2024-12-30 10:19:05'
+      title: 【JS逆向百例】爱疯官网登录分析
+      url: https://blog.csdn.net/kdl_csdn/article/details/144817583
     - author: 吴秋霖
       release_time: '2024-12-28 09:30:00'
       title: 浅谈某平台多场景下反爬虫与风控业务
@@ -486,10 +490,6 @@
       release_time: '2024-12-21 19:27:25'
       title: Akamai 3.0
       url: https://blog.csdn.net/2401_84054263/article/details/144634961
-    - author: w2sfot
-      release_time: '2024-12-21 09:59:39'
-      title: 又一款国外免费JS混淆工具
-      url: https://blog.csdn.net/w2sft/article/details/144625989
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
