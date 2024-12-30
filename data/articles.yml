@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: ikun的嘴
+      release_time: '2024-12-30 15:14:24'
+      title: 瑞数6还不会补环境？补环境框架几分钟出值
+      url: https://www.bilibili.com/video/BV1256GYpESY
     - author: 和沐阳学逆向
       release_time: '2024-12-28 23:51:59'
       title: 55.新年礼物《iOS逆向助手》发布,无须输入激活码,下载即用
@@ -117,10 +121,6 @@
       release_time: '2024-12-08 06:12:22'
       title: apatch面具安装，优化过后的zygisk安装，hunter6.0.2版本frida注入效果展示
       url: https://www.bilibili.com/video/BV11KqJYcEau
-    - author: 带带弟弟学爬虫
-      release_time: '2024-12-06 15:43:35'
-      title: APP逆向-某幸咖啡白盒aes补充
-      url: https://www.bilibili.com/video/BV1MkiiYmE1m
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
