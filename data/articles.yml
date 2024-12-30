@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Coder小Q
+      release_time: '2024-12-30 08:30:00'
+      title: 【密码学】LibOQS的再次尝试
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247490918&idx=1&sn=018fa63cfa0a4607407abd841e922664
     - author: 季东ooo
       release_time: '2024-12-29 23:10:03'
       title: FART脱壳机制作前的准备 || Dex文件结构
@@ -240,10 +244,6 @@
       release_time: '2024-12-23 15:37:07'
       title: 拼夕夕anti_content浅析
       url: https://mp.weixin.qq.com/s?__biz=Mzg4MjE4NzA5NA==&mid=2247483863&idx=1&sn=3795f84271db5df0ddb9db9a623cb062
-    - author: 二进制磨剑
-      release_time: '2024-12-23 14:24:52'
-      title: IDA技巧（90）可疑操作数限制
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485132&idx=1&sn=95a5ffda7d59db1985e66b85def08024
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
