@@ -374,6 +374,10 @@
       release_time: '2024-12-30 11:04:47'
       title: JS开发者【宝藏级网站】
       url: https://blog.csdn.net/w2sft/article/details/144817170
+    - author: K哥爬虫
+      release_time: '2024-12-30 10:19:43'
+      title: 【JS逆向百例】某江 Hospital 逆向分析
+      url: https://blog.csdn.net/kdl_csdn/article/details/144817612
     - author: 吴秋霖
       release_time: '2024-12-28 09:30:00'
       title: 浅谈某平台多场景下反爬虫与风控业务
@@ -486,10 +490,6 @@
       release_time: '2024-12-21 09:59:39'
       title: 又一款国外免费JS混淆工具
       url: https://blog.csdn.net/w2sft/article/details/144625989
-    - author: 悦来客栈的老板
-      release_time: '2024-12-21 09:38:07'
-      title: JS逆向新手必看-反调试与反反调试
-      url: https://blog.csdn.net/qq523176585/article/details/144639027
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
