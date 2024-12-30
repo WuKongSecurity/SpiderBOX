@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: '2024-12-30 18:30:00'
+      title: 吾爱破解安卓逆向入门教程《安卓逆向这档事》第二十三课、黑盒魔法之Unidbg
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141540&idx=1&sn=4619e8c6bf4ca0dbc3f000e03870ada1
     - author: K哥爬虫
       release_time: '2024-12-30 17:48:21'
       title: 法人+商务+开发+爬虫+运维一锅端，这种灰产你了解过吗？
@@ -240,10 +244,6 @@
       release_time: '2024-12-24 00:00:00'
       title: 安卓逆向 -- 某游戏打开开发者面板
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037321&idx=1&sn=2f643b5615cf72406df9d57ba120fdb4
-    - author: 逆向有你
-      release_time: '2024-12-24 00:00:00'
-      title: PC逆向 -- 鼠键
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037321&idx=2&sn=045e2fb94b8a0da5835be07e0da72b6a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
