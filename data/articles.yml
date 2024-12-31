@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: '2024-12-31 11:52:47'
+      title: 【元旦特惠】疯狂逆向，揭密内核隐藏术！安卓必学
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485194&idx=1&sn=76ea1d7f06c22d42772d7268427d05b8
     - author: 菜鸟学Python编程
       release_time: '2024-12-31 09:05:00'
       title: AST反混淆插件|纯函数调用处替换计算值
@@ -240,10 +244,6 @@
       release_time: '2024-12-24 16:07:32'
       title: IDA技巧（91）项标志
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485133&idx=1&sn=99f021202f2e368c3a1c60efe2a95982
-    - author: 菜鸟学Python编程
-      release_time: '2024-12-24 14:43:10'
-      title: AST反混淆插件|多个变量定义的分离
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565639&idx=1&sn=58572b62aa0d3431edb1d7bf3f01c0bc
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
