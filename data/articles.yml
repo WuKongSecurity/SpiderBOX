@@ -390,6 +390,10 @@
       release_time: '2024-12-30 10:19:05'
       title: 【JS逆向百例】爱疯官网登录分析
       url: https://blog.csdn.net/kdl_csdn/article/details/144817583
+    - author: '1176543606183246'
+      release_time: '2024-12-29 00:00:00'
+      title: Android Security学习之ByteCTF2021_mobile 环境搭建+前两道题Writeup
+      url: https://xz.aliyun.comhttps://xz.aliyun.com/t/16956
     - author: 吴秋霖
       release_time: '2024-12-28 09:30:00'
       title: 浅谈某平台多场景下反爬虫与风控业务
@@ -486,10 +490,6 @@
       release_time: '2024-12-22 21:41:58'
       title: JS逆向新手必看-Bypass Debugger
       url: https://blog.csdn.net/qq523176585/article/details/144656153
-    - author: Harden13
-      release_time: '2024-12-22 13:35:48'
-      title: '[原创]验证码风控轨迹详解'
-      url: https://bbs.kanxue.com/thread-284933.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
