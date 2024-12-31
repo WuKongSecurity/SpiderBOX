@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: '2024-12-31 09:05:00'
+      title: AST反混淆插件|纯函数调用处替换计算值
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565658&idx=1&sn=c3f613190ecd3da13f5f2d51fb47570b
     - author: 逆向有你
       release_time: '2024-12-31 00:00:00'
       title: 安卓逆向 -- 记录某度加固修复教程
@@ -240,10 +244,6 @@
       release_time: '2024-12-24 14:43:10'
       title: AST反混淆插件|多个变量定义的分离
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565639&idx=1&sn=58572b62aa0d3431edb1d7bf3f01c0bc
-    - author: 影17
-      release_time: '2024-12-24 13:20:38'
-      title: 某东h5st 5.0补环境分析流程
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489311&idx=1&sn=0321c1ee8d1717bffb481ed946f94e9e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Tubbs
+      release_time: '2024-12-31 09:29:57'
+      title: '[原创]大众DP清理jumpout'
+      url: https://bbs.kanxue.com/thread-285056.htm
     - author: 悦来客栈的老板
       release_time: '2024-12-30 17:01:00'
       title: AST反混淆插件|逗号表达式的还原
@@ -486,10 +490,6 @@
       release_time: '2024-12-22 13:35:48'
       title: '[原创]验证码风控轨迹详解'
       url: https://bbs.kanxue.com/thread-284933.htm
-    - author: 菜鸟逆向
-      release_time: '2024-12-21 22:42:50'
-      title: Akamai3.0逆向分析
-      url: https://blog.csdn.net/2401_84054263/article/details/144635652
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
