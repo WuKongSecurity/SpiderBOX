@@ -247,6 +247,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: scllqk
+      release_time: '2024-12-31 16:10:00'
+      title: 某蓝色音乐软件——会员音乐永久免费听
+      url: https://www.52pojie.cn/thread-1996002-1-1.html
+    - author: LiSAimer
+      release_time: '2024-12-31 14:16:00'
+      title: 雷池WAF滑块版本逆向分析
+      url: https://www.52pojie.cn/thread-1995970-1-1.html
     - author: chenchenchen777
       release_time: '2024-12-30 14:18:00'
       title: 360分析复现(中)
@@ -359,14 +367,6 @@
       release_time: '2024-12-03 21:00:00'
       title: Fake Location 授权分析以及后门分析
       url: https://www.52pojie.cn/thread-1988024-1-1.html
-    - author: Tonyha7
-      release_time: '2024-12-03 17:58:00'
-      title: Fake Location跑不了校园跑？最简单粗暴的解决方案
-      url: https://www.52pojie.cn/thread-1987977-1-1.html
-    - author: chenchenchen777
-      release_time: '2024-12-03 17:18:00'
-      title: 云注入去签功能解析
-      url: https://www.52pojie.cn/thread-1987961-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
