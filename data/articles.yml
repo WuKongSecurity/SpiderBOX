@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: '2024-12-31 15:19:59'
+      title: 化神期法宝 -DrissionPage专用浏览器插件--骚神插件9.4
+      url: https://www.bilibili.com/video/BV1JP6nYAErN
     - author: ikun的嘴
       release_time: '2024-12-30 15:14:24'
       title: 瑞数6还不会补环境？补环境框架几分钟出值
@@ -117,10 +121,6 @@
       release_time: '2024-12-08 16:05:38'
       title: 织梦空间 - 知识星球宣传讲解
       url: https://www.bilibili.com/video/BV1JNqpYbEFg
-    - author: 一只勇敢的小佳
-      release_time: '2024-12-08 06:12:22'
-      title: apatch面具安装，优化过后的zygisk安装，hunter6.0.2版本frida注入效果展示
-      url: https://www.bilibili.com/video/BV11KqJYcEau
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
