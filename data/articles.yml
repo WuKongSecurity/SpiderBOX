@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 凛音姫
+      release_time: '2025-01-01 04:38:06'
+      title: 【直播回放】【雀魂】跨年麻将环节 2024年12月31日22点场
+      url: https://www.bilibili.com/video/BV1A86DYoEQM
     - author: B站用户骚神
       release_time: '2024-12-31 15:19:59'
       title: 化神期法宝 -DrissionPage专用浏览器插件--骚神插件9.4
@@ -117,10 +121,6 @@
       release_time: '2024-12-08 16:51:11'
       title: 骚神Drissionpage教学 第32课 用鼠标写DP代码+无限debugger越狱
       url: https://www.bilibili.com/video/BV1jKqpYZEoe
-    - author: 波波老师带你学爬虫
-      release_time: '2024-12-08 16:05:38'
-      title: 织梦空间 - 知识星球宣传讲解
-      url: https://www.bilibili.com/video/BV1JNqpYbEFg
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: littlewhite11
+      release_time: '2025-01-01 03:38:00'
+      title: 【JS逆向】纯异步JS逆向分析
+      url: https://www.52pojie.cn/thread-1996108-1-1.html
     - author: scllqk
       release_time: '2024-12-31 16:10:00'
       title: 某蓝色音乐软件——会员音乐永久免费听
@@ -363,10 +367,6 @@
       release_time: '2024-12-04 16:53:00'
       title: xhs 某书 旋转验证码 图片识别+算法 纯协议
       url: https://www.52pojie.cn/thread-1988302-1-1.html
-    - author: 方块君
-      release_time: '2024-12-03 21:00:00'
-      title: Fake Location 授权分析以及后门分析
-      url: https://www.52pojie.cn/thread-1988024-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
