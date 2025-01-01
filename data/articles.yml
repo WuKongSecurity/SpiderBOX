@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: '2025-01-01 08:13:00'
+      title: （图作者 | @Aoemax）
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141546&idx=1&sn=d87a5e3ee516bb88d7dc33271bd12866
     - author: Coder小Q
       release_time: '2025-01-01 00:30:00'
       title: 【2025】元旦快乐
@@ -240,10 +244,6 @@
       release_time: '2024-12-25 09:00:00'
       title: 蚁剑魔改--修改黑名单URL
       url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485164&idx=2&sn=456407880c201061bf7b53a1a5b2def3
-    - author: 菜鸟学Python编程
-      release_time: '2024-12-25 09:00:00'
-      title: AST反混淆插件|变量初始化为函数表达式的还原
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565642&idx=1&sn=673314d156909567d8d7ea8d432b8e43
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
