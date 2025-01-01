@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: '2025-01-01 21:00:00'
+      title: AST反混淆插件|自执行函数实参的还原
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565662&idx=1&sn=0fa6e2a7fa1332c84f96251860c012b5
     - author: SpiderLittleWhite
       release_time: '2025-01-01 18:57:29'
       title: 【JS逆向】纯异步JS逆向分析
@@ -240,10 +244,6 @@
       release_time: '2024-12-26 00:00:00'
       title: PC逆向 -- 内核事件等待
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037358&idx=2&sn=bf7ddc70f3d6c1a78d3380451532c9b5
-    - author: 小伍哥聊风控
-      release_time: '2024-12-25 17:09:00'
-      title: 出海金融反欺诈策略解析
-      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196687&idx=1&sn=10bda0a5876d258c178af757d8c86ae5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
