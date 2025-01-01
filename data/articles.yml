@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: '2025-01-02 00:00:00'
+      title: JS逆向学习笔记 -- Chrome DevTools调试技巧
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037416&idx=1&sn=a1c39735f3c9135fa1807051174f37ce
+    - author: 逆向有你
+      release_time: '2025-01-02 00:00:00'
+      title: PC逆向 -- ETW原理及ETWHOOK
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037416&idx=2&sn=b66ac3f426dcc2b5f4c1023d4b673bad
     - author: 菜鸟学Python编程
       release_time: '2025-01-01 21:00:00'
       title: AST反混淆插件|自执行函数实参的还原
@@ -236,14 +244,6 @@
       release_time: '2024-12-26 11:00:00'
       title: AST反混淆插件|实参为字符串的eval函数还原
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565646&idx=1&sn=6d2bb1b4242e51f90950df00cc5ae7d7
-    - author: 逆向有你
-      release_time: '2024-12-26 00:00:00'
-      title: 安卓逆向 -- 某软件获取vip抓包
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037358&idx=1&sn=6ba420c1e35be50ab171d7f5d2a13a73
-    - author: 逆向有你
-      release_time: '2024-12-26 00:00:00'
-      title: PC逆向 -- 内核事件等待
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037358&idx=2&sn=bf7ddc70f3d6c1a78d3380451532c9b5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
