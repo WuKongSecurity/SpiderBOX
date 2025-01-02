@@ -2,6 +2,10 @@
   list:
   - links:
     - author: B站用户骚神
+      release_time: '2025-01-02 21:05:09'
+      title: 骚神教学-用DrissionPage修改浏览器指纹
+      url: https://www.bilibili.com/video/BV1HR66YfEU9
+    - author: B站用户骚神
       release_time: '2024-12-31 15:19:59'
       title: 化神期法宝 -DrissionPage专用浏览器插件--骚神插件9.4
       url: https://www.bilibili.com/video/BV1JP6nYAErN
@@ -113,10 +117,6 @@
       release_time: '2024-12-08 22:43:29'
       title: 逆向自学方法，如何快速学习逆向，讲述了博主学习逆向的思路，博主是如何学习相关开源项目的，如frida源码，zygisk模块开发
       url: https://www.bilibili.com/video/BV1zWqWYNEf6
-    - author: B站用户骚神
-      release_time: '2024-12-08 16:51:11'
-      title: 骚神Drissionpage教学 第32课 用鼠标写DP代码+无限debugger越狱
-      url: https://www.bilibili.com/video/BV1jKqpYZEoe
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
