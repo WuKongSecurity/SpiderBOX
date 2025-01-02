@@ -1574,7 +1574,18 @@
           logo: github.png
           url: https://github.com/afocus/captcha
           description: golang 实现的验证码
-
+        - title: Doom Captcha
+          logo: github.png
+          url: https://github.com/vivirenremoto/doomcaptcha
+          description: 模拟击杀敌人来通过验证，让验证码变得和游戏一样
+        - title: DOOM® CAPTCHA
+          logo: github.png
+          url: https://github.com/rauchg/doom-captcha
+          description: 作者是 vercel 的 CEO，操作键盘移动，模拟击杀敌人来通过验证，让验证码变得和游戏一样，使用 C 实现，通过 WebAssembly 和 JavaScript 交互
+        - title: Squat Captcha
+          logo: squat_captcha.jpg
+          url: https://github.com/vivirenremoto/squat_captcha
+          description: 使用你的摄像头，强制你做 10 次深蹲才能通过验证码
 
 - taxonomy: 代理数据
   icon: fas fa-map-marker-alt
@@ -1972,6 +1983,14 @@
           logo: qq_26079939.jpg
           url: https://blog.csdn.net/qq_26079939
           description: 阿J CSDN 主页
+        - title: 逆向学习之旅
+          logo: gh_fdc416568214.jpg
+          qrcode: images/qrcode/gh_fdc416568214.jpg
+          description: 公众号：逆向学习之旅
+        - title: SpiderLittleWhite
+          logo: gh_6e5158a8d7b9.jpg
+          qrcode: images/qrcode/gh_6e5158a8d7b9.jpg
+          description: 公众号：SpiderLittleWhite
         - title: HuaYunBin
           logo: hyb.jpg
           url: https://hyb.life/
