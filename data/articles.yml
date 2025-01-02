@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 关于代码那点事
+      release_time: '2025-01-02 10:14:03'
+      title: 浅聊一下加密类型
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MTg1NzU1NA==&mid=2247486221&idx=1&sn=9e4d4700e62a0d8834d849bee2a1c60f
+    - author: Spade sec
+      release_time: '2025-01-02 09:00:00'
+      title: PHP_webshell免杀01-变量绕过
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485200&idx=1&sn=469aa3987e94119b78e8c1908a1a1f77
     - author: 逆向有你
       release_time: '2025-01-02 00:00:00'
       title: JS逆向学习笔记 -- Chrome DevTools调试技巧
@@ -236,14 +244,6 @@
       release_time: '2024-12-26 16:30:00'
       title: IDA技巧（92）地址详情
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485134&idx=1&sn=1b38a462bc4ed8220b68967ecf2d30e0
-    - author: 猿人学Python
-      release_time: '2024-12-26 11:41:17'
-      title: 工作一年就写出了自动反混淆AKM的奥特曼
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448549849&idx=1&sn=435a8997ba30614e7907eceb1c28f103
-    - author: 菜鸟学Python编程
-      release_time: '2024-12-26 11:00:00'
-      title: AST反混淆插件|实参为字符串的eval函数还原
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565646&idx=1&sn=6d2bb1b4242e51f90950df00cc5ae7d7
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
