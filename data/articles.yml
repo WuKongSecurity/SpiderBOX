@@ -120,6 +120,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: '2025-01-03 00:00:00'
+      title: JS逆向 -- Chrome插件与油猴脚本开发详解
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037425&idx=1&sn=f9403064758af498e7fa21d9c873823c
+    - author: 逆向有你
+      release_time: '2025-01-03 00:00:00'
+      title: PC逆向 -- VAD_私有内存
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037425&idx=2&sn=ac7f1d6b5f6a541b74a6eb73e6bb7e9d
     - author: 理想真会玩
       release_time: '2025-01-02 18:16:37'
       title: 一加8刷入Apatch, 让你的root藏的更深
@@ -232,14 +240,6 @@
       release_time: '2024-12-27 17:47:47'
       title: 【JS逆向百例】某江 Hospital 逆向分析
       url: https://mp.weixin.qq.com/s?__biz=MzkyMzcxMDM0MQ==&mid=2247504155&idx=1&sn=cf4c953327689bd441ea19ccf1cb4ba4
-    - author: 菜鸟学Python编程
-      release_time: '2024-12-27 16:08:42'
-      title: AST反混淆插件|常量折叠
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565650&idx=1&sn=8d3c8d473119e653781de658308e690c
-    - author: 逆向有你
-      release_time: '2024-12-27 00:00:00'
-      title: 安卓逆向 -- 解决ADB连接时报错$ADB_VENDOR_KEYS is not found
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037373&idx=1&sn=eae7b20e3380c13edf77cbb69220e0ed
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
