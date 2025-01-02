@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 理想真会玩
+      release_time: '2025-01-02 18:16:37'
+      title: 一加8刷入Apatch, 让你的root藏的更深
+      url: https://mp.weixin.qq.com/s?__biz=MzIwODg1MjQ4OQ==&mid=2247485506&idx=1&sn=f312343a99dea1f427ba33f3265c6596
     - author: 二进制磨剑
       release_time: '2025-01-02 16:20:36'
       title: IDA技巧（94）可变大小结构
@@ -236,10 +240,6 @@
       release_time: '2024-12-27 00:00:00'
       title: 安卓逆向 -- 解决ADB连接时报错$ADB_VENDOR_KEYS is not found
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037373&idx=1&sn=eae7b20e3380c13edf77cbb69220e0ed
-    - author: 逆向有你
-      release_time: '2024-12-27 00:00:00'
-      title: PC逆向 -- 处理用户内核APC警惕反回
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037373&idx=2&sn=cc2e153657c8ed5c8f6fe0a5ea4396c7
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
