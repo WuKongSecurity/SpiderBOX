@@ -243,6 +243,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: cainfish
+      release_time: '2025-01-02 16:35:00'
+      title: 获取到最适合自己的github  hosts
+      url: https://www.52pojie.cn/thread-1996482-1-1.html
     - author: littlewhite11
       release_time: '2025-01-01 03:38:00'
       title: 【JS逆向】纯异步JS逆向分析
@@ -359,10 +363,6 @@
       release_time: '2024-12-04 22:19:00'
       title: Fake Location 1.3.2.2 全功能解锁模块
       url: https://www.52pojie.cn/thread-1988373-1-1.html
-    - author: wxwyumu
-      release_time: '2024-12-04 16:53:00'
-      title: xhs 某书 旋转验证码 图片识别+算法 纯协议
-      url: https://www.52pojie.cn/thread-1988302-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
