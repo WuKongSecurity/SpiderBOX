@@ -366,6 +366,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: ngiokweng
+      release_time: '2025-01-04 00:07:34'
+      title: '[原创] 某盾so加固與修復'
+      url: https://bbs.kanxue.com/thread-285110.htm
     - author: hacker521
       release_time: '2025-01-03 21:14:08'
       title: '[原创]NativeTest含义'
@@ -482,10 +486,6 @@
       release_time: '2024-12-26 13:26:32'
       title: Dex文件结构-ReadDex解析器实现
       url: https://bbs.kanxue.com/thread-284995.htm
-    - author: ovo_帮我不c
-      release_time: '2024-12-26 13:15:32'
-      title: '[分享]某车联网五##光DFA攻击白盒AES协议算法分析'
-      url: https://bbs.kanxue.com/thread-284994.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
