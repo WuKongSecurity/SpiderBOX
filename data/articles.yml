@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: '2025-01-04 11:05:18'
+      title: AST反混淆插件|赋值语句被嵌套到各种语句里的还原
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565674&idx=1&sn=fa737a306003641057828bd69f61e87c
     - author: 未闻Code
       release_time: '2025-01-03 19:50:30'
       title: 百花齐放的大模型，是昙花一现还是未来技术基底？
@@ -236,10 +240,6 @@
       release_time: '2024-12-30 17:48:21'
       title: 法人+商务+开发+爬虫+运维一锅端，这种灰产你了解过吗？
       url: https://mp.weixin.qq.com/s?__biz=MzkyMzcxMDM0MQ==&mid=2247504230&idx=1&sn=ca8a5ea67e09db9958fae4337dbf711b
-    - author: 菜鸟学Python编程
-      release_time: '2024-12-30 17:00:00'
-      title: AST反混淆插件|逗号表达式的还原
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565654&idx=1&sn=7d6279b7455c053a56b9cba7929d928b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
