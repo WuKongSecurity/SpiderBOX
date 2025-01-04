@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Coder小Q
+      release_time: '2025-01-04 20:00:00'
+      title: 【PQC密码学】木兰:高效、灵活、安全增强的格基签名
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491079&idx=1&sn=8c2ec39834f0c2e6b3bebd2379f2623f
     - author: Spade sec
       release_time: '2025-01-04 15:38:21'
       title: JS逆向系列16-将Proxy应用到JS Hook上的好处
@@ -236,10 +240,6 @@
       release_time: '2024-12-31 00:00:00'
       title: PC逆向 -- 事件和信号量
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037388&idx=2&sn=e0141b7328046b4a824e1fa57194294d
-    - author: 吾爱破解论坛
-      release_time: '2024-12-30 18:30:00'
-      title: 吾爱破解安卓逆向入门教程《安卓逆向这档事》第二十三课、黑盒魔法之Unidbg
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141540&idx=1&sn=4619e8c6bf4ca0dbc3f000e03870ada1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
