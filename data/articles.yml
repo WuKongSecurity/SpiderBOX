@@ -120,6 +120,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: '2025-01-05 00:00:00'
+      title: 安卓逆向 -- 某TV抓包和jce响应解析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037449&idx=1&sn=37bae8ad1d88fb2fe194256e6326e768
+    - author: 逆向有你
+      release_time: '2025-01-05 00:00:00'
+      title: PC逆向 -- 映射内存 锁页
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037449&idx=2&sn=4bb828b98fca161cad5609ceab1e67bb
     - author: Coder小Q
       release_time: '2025-01-04 20:00:00'
       title: 【PQC密码学】木兰:高效、灵活、安全增强的格基签名
@@ -232,14 +240,6 @@
       release_time: '2024-12-31 09:05:00'
       title: AST反混淆插件|纯函数调用处替换计算值
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565658&idx=1&sn=c3f613190ecd3da13f5f2d51fb47570b
-    - author: 逆向有你
-      release_time: '2024-12-31 00:00:00'
-      title: 安卓逆向 -- 记录某度加固修复教程
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037388&idx=1&sn=7a9c28eba5db6610bced3cfc8cda420a
-    - author: 逆向有你
-      release_time: '2024-12-31 00:00:00'
-      title: PC逆向 -- 事件和信号量
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037388&idx=2&sn=e0141b7328046b4a824e1fa57194294d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
