@@ -370,6 +370,10 @@
       release_time: '2025-01-04 17:46:55'
       title: 小米10 Magisk + LSPosed安装指南
       url: https://bbs.kanxue.com/thread-285114.htm
+    - author: 悦来客栈的老板
+      release_time: '2025-01-04 11:05:34'
+      title: AST反混淆插件|赋值语句被嵌套到各种语句里的还原
+      url: https://blog.csdn.net/qq523176585/article/details/144938350
     - author: ngiokweng
       release_time: '2025-01-04 00:07:34'
       title: '[原创] 某盾so加固與修復'
@@ -482,10 +486,6 @@
       release_time: '2024-12-27 14:27:38'
       title: 顶象语序点选验证码
       url: https://blog.csdn.net/qq_36551453/article/details/144768103
-    - author: 码王吴彦祖
-      release_time: '2024-12-27 14:16:05'
-      title: 腾讯文字方向点选验证码识别
-      url: https://blog.csdn.net/qq_36551453/article/details/144767985
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
