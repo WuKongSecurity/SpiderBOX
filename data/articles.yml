@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Spade sec
+      release_time: '2025-01-04 15:38:21'
+      title: JS逆向系列16-将Proxy应用到JS Hook上的好处
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485222&idx=1&sn=306bf93c835e5f17d86426a7c057503e
     - author: 菜鸟学Python编程
       release_time: '2025-01-04 11:05:18'
       title: AST反混淆插件|赋值语句被嵌套到各种语句里的还原
@@ -236,10 +240,6 @@
       release_time: '2024-12-30 18:30:00'
       title: 吾爱破解安卓逆向入门教程《安卓逆向这档事》第二十三课、黑盒魔法之Unidbg
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141540&idx=1&sn=4619e8c6bf4ca0dbc3f000e03870ada1
-    - author: K哥爬虫
-      release_time: '2024-12-30 17:48:21'
-      title: 法人+商务+开发+爬虫+运维一锅端，这种灰产你了解过吗？
-      url: https://mp.weixin.qq.com/s?__biz=MzkyMzcxMDM0MQ==&mid=2247504230&idx=1&sn=ca8a5ea67e09db9958fae4337dbf711b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
