@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 冷月不是程序员
+      release_time: '2025-01-05 17:38:01'
+      title: JavaScript逆向工程 AST反混淆某滑块验证码
+      url: https://www.bilibili.com/video/BV1CorNYeEnH
     - author: Alone_666
       release_time: '2025-01-05 08:58:28'
       title: unidbg 还原魔改MD5前16轮第二节(从汇编快速追踪)
@@ -113,10 +117,6 @@
       release_time: '2024-12-10 19:00:00'
       title: 挖矿小游戏-JShook对抗
       url: https://www.bilibili.com/video/BV14bq3YVEx5
-    - author: Alone_666
-      release_time: '2024-12-09 16:09:58'
-      title: 某数字企业版frida过检测
-      url: https://www.bilibili.com/video/BV1J8qAY6EEU
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
