@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: '2025-01-05 10:01:18'
+      title: AST反混淆插件|当调用表达式的实参为三目表达式时的还原
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565678&idx=1&sn=ec2e05ef40b9ee013aae7f8d5cdab7b8
     - author: 逆向有你
       release_time: '2025-01-05 00:00:00'
       title: 安卓逆向 -- 某TV抓包和jce响应解析
@@ -236,10 +240,6 @@
       release_time: '2024-12-31 11:52:47'
       title: 【元旦特惠】疯狂逆向，揭密内核隐藏术！安卓必学
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485194&idx=1&sn=76ea1d7f06c22d42772d7268427d05b8
-    - author: 菜鸟学Python编程
-      release_time: '2024-12-31 09:05:00'
-      title: AST反混淆插件|纯函数调用处替换计算值
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565658&idx=1&sn=c3f613190ecd3da13f5f2d51fb47570b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
