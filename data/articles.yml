@@ -120,6 +120,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: '2025-01-06 00:00:00'
+      title: 安卓逆向2025 -- Frida学习之环境搭建
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037473&idx=1&sn=fc63b8d78a7113b33bc9630af30dce5b
+    - author: 逆向有你
+      release_time: '2025-01-06 00:00:00'
+      title: PC逆向 -- 物理地址管理
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037473&idx=2&sn=1fd25a2e190ef4df277dc525dd96aef9
     - author: Spade sec
       release_time: '2025-01-05 15:47:35'
       title: JS逆向系列17-Hook_cookie v0.2脚本原理解析
@@ -232,14 +240,6 @@
       release_time: '2025-01-01 00:26:00'
       title: 某英语听力APP字幕编码方式逆向
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037406&idx=1&sn=71e0c83d9d6e454d23ae0e6e193dd711
-    - author: 逆向有你
-      release_time: '2025-01-01 00:26:00'
-      title: PC逆向 -- 互斥体
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037406&idx=2&sn=90667b9abd2010ecc18d675fb88ee74e
-    - author: 未闻Code
-      release_time: '2024-12-31 20:46:09'
-      title: 大家元旦快乐～
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648989960&idx=1&sn=01650a15352bd3c632070b7e08889be1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
