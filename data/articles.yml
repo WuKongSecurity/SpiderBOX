@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: Alone_666
+      release_time: '2025-01-05 08:58:28'
+      title: unidbg 还原魔改MD5前16轮第二节(从汇编快速追踪)
+      url: https://www.bilibili.com/video/BV16mrbYZEBm
     - author: B站用户骚神
       release_time: '2025-01-02 21:05:09'
       title: 骚神教学-用DrissionPage修改浏览器指纹
@@ -113,10 +117,6 @@
       release_time: '2024-12-09 16:09:58'
       title: 某数字企业版frida过检测
       url: https://www.bilibili.com/video/BV1J8qAY6EEU
-    - author: 一只勇敢的小佳
-      release_time: '2024-12-08 22:43:29'
-      title: 逆向自学方法，如何快速学习逆向，讲述了博主学习逆向的思路，博主是如何学习相关开源项目的，如frida源码，zygisk模块开发
-      url: https://www.bilibili.com/video/BV1zWqWYNEf6
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
