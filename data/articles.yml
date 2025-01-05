@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 带带弟弟学爬虫
+      release_time: '2025-01-05 23:20:50'
+      title: xx管家React Native App逆向
+      url: https://www.bilibili.com/video/BV1tgrTYyEso
     - author: 冷月不是程序员
       release_time: '2025-01-05 17:38:01'
       title: JavaScript逆向工程 AST反混淆某滑块验证码
@@ -113,10 +117,6 @@
       release_time: '2024-12-10 22:29:12'
       title: js逆向-akamai_3.0反爬sensor_data之ajr参数逆向分析
       url: https://www.bilibili.com/video/BV1eVqCYCEmw
-    - author: 零点520666
-      release_time: '2024-12-10 19:00:00'
-      title: 挖矿小游戏-JShook对抗
-      url: https://www.bilibili.com/video/BV14bq3YVEx5
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
