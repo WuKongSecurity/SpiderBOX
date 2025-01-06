@@ -120,6 +120,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: '2025-01-07 00:00:00'
+      title: 安卓逆向2025 -- Frida学习之hook案例（一）
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037487&idx=1&sn=9b5e45904ac872de30244d5bd30bb01c
+    - author: 逆向有你
+      release_time: '2025-01-07 00:00:00'
+      title: PC逆向 -- 原型
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037487&idx=2&sn=08c4448485b3cae183a4ece70ab95919
     - author: Spade sec
       release_time: '2025-01-06 16:47:38'
       title: HookJS_Template
@@ -232,14 +240,6 @@
       release_time: '2025-01-01 21:00:00'
       title: AST反混淆插件|自执行函数实参的还原
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565662&idx=1&sn=0fa6e2a7fa1332c84f96251860c012b5
-    - author: SpiderLittleWhite
-      release_time: '2025-01-01 18:57:29'
-      title: 【JS逆向】纯异步JS逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzk1NzkzMzQyOA==&mid=2247483679&idx=1&sn=221d53ae8cb6092a33da19ab88f5eebc
-    - author: 季东ooo
-      release_time: '2025-01-01 14:35:05'
-      title: FART脱壳机制做 || 下载Android10源码
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjczODUwMw==&mid=2247484152&idx=1&sn=e52c049125ab4a198bc2c357753debb6
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
