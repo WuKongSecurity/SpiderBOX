@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Spade sec
+      release_time: '2025-01-06 16:47:38'
+      title: HookJS_Template
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485239&idx=1&sn=b152461dae5e77b5456f8de89f65d1be
     - author: 二进制磨剑
       release_time: '2025-01-06 11:43:53'
       title: IDA技巧（97）cross-reference-depth
@@ -236,10 +240,6 @@
       release_time: '2025-01-01 14:35:05'
       title: FART脱壳机制做 || 下载Android10源码
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjczODUwMw==&mid=2247484152&idx=1&sn=e52c049125ab4a198bc2c357753debb6
-    - author: 吾爱破解论坛
-      release_time: '2025-01-01 08:13:00'
-      title: （图作者 | @Aoemax）
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141546&idx=1&sn=d87a5e3ee516bb88d7dc33271bd12866
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
