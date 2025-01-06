@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: '2025-01-06 11:43:53'
+      title: IDA技巧（97）cross-reference-depth
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485197&idx=1&sn=cf0f3f2e64fc915f2148d46e548de192
     - author: 菜鸟学Python编程
       release_time: '2025-01-06 08:45:56'
       title: AST反混淆插件|调用表达式的callee子节点为赋值语句时的还原
@@ -236,10 +240,6 @@
       release_time: '2025-01-01 08:13:00'
       title: （图作者 | @Aoemax）
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141546&idx=1&sn=d87a5e3ee516bb88d7dc33271bd12866
-    - author: Coder小Q
-      release_time: '2025-01-01 00:30:00'
-      title: 【2025】元旦快乐
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247490924&idx=1&sn=23a94055a1cfc62fb3acb40d5c44f9ce
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
