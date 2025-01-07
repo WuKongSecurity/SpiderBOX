@@ -120,6 +120,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: '2025-01-08 00:00:00'
+      title: 安卓逆向2025 -- Frida学习之hook案例（二）
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037501&idx=1&sn=1d590ff16fc7325438301bba2beb870a
+    - author: 逆向有你
+      release_time: '2025-01-08 00:00:00'
+      title: PC逆向 -- minifilter应用
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037501&idx=2&sn=8b92b0b08aec27df391a275445a90d15
     - author: 菜鸟学Python编程
       release_time: '2025-01-07 09:03:36'
       title: AST反混淆实战|关于知识星球里插件的适配技巧
@@ -232,14 +240,6 @@
       release_time: '2025-01-02 10:14:03'
       title: 浅聊一下加密类型
       url: https://mp.weixin.qq.com/s?__biz=Mzg5MTg1NzU1NA==&mid=2247486221&idx=1&sn=9e4d4700e62a0d8834d849bee2a1c60f
-    - author: Spade sec
-      release_time: '2025-01-02 09:00:00'
-      title: PHP_webshell免杀01-变量绕过
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485200&idx=1&sn=469aa3987e94119b78e8c1908a1a1f77
-    - author: 逆向有你
-      release_time: '2025-01-02 00:00:00'
-      title: JS逆向学习笔记 -- Chrome DevTools调试技巧
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037416&idx=1&sn=a1c39735f3c9135fa1807051174f37ce
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
