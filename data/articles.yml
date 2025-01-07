@@ -366,6 +366,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Tubbs
+      release_time: '2025-01-07 11:02:26'
+      title: '[原创]大众DP BR X8跳转清理 && a5分析'
+      url: https://bbs.kanxue.com/thread-285143.htm
     - author: 西贝巴巴
       release_time: '2025-01-06 22:07:20'
       title: '[原创]unidbg补环境实战（某文学网站）'
@@ -482,10 +486,6 @@
       release_time: '2024-12-29 00:00:00'
       title: Android Security学习之ByteCTF2021_mobile 环境搭建+前两道题Writeup
       url: https://xz.aliyun.comhttps://xz.aliyun.com/t/16956
-    - author: 吴秋霖
-      release_time: '2024-12-28 09:30:00'
-      title: 浅谈某平台多场景下反爬虫与风控业务
-      url: https://crawler.blog.csdn.net/article/details/144761320
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
