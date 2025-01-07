@@ -120,6 +120,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: '2025-01-07 09:03:36'
+      title: AST反混淆实战|关于知识星球里插件的适配技巧
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565695&idx=1&sn=a5047a50df954417df348398023e7252
+    - author: Coder小Q
+      release_time: '2025-01-07 09:02:00'
+      title: 【腊八节】节日快乐
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491085&idx=1&sn=82e8893ffa817c1f47cca7bdc2f37310
     - author: 逆向有你
       release_time: '2025-01-07 00:00:00'
       title: 安卓逆向2025 -- Frida学习之hook案例（一）
@@ -232,14 +240,6 @@
       release_time: '2025-01-02 00:00:00'
       title: JS逆向学习笔记 -- Chrome DevTools调试技巧
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037416&idx=1&sn=a1c39735f3c9135fa1807051174f37ce
-    - author: 逆向有你
-      release_time: '2025-01-02 00:00:00'
-      title: PC逆向 -- ETW原理及ETWHOOK
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037416&idx=2&sn=b66ac3f426dcc2b5f4c1023d4b673bad
-    - author: 菜鸟学Python编程
-      release_time: '2025-01-01 21:00:00'
-      title: AST反混淆插件|自执行函数实参的还原
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565662&idx=1&sn=0fa6e2a7fa1332c84f96251860c012b5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
