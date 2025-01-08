@@ -378,6 +378,10 @@
       release_time: '2025-01-08 11:16:16'
       title: 如何修复三方库bug：marked.js 15.0.6 bug修复经过
       url: https://blog.csdn.net/w2sft/article/details/145003032
+    - author: 悦来客栈的老板
+      release_time: '2025-01-08 08:38:33'
+      title: AST反混淆插件|赋值语句的后续兄弟节点变量又被重新赋值的还原与删除
+      url: https://blog.csdn.net/qq523176585/article/details/145021899
     - author: 绿豆粥
       release_time: '2025-01-07 14:18:45'
       title: '[分享]sslpinning案例 ，byd验证服务端证书+白盒AES DFA'
@@ -482,10 +486,6 @@
       release_time: '2024-12-31 16:31:55'
       title: 某蓝色音乐软件——会员音乐永久免费听
       url: https://bbs.kanxue.com/thread-285062.htm
-    - author: mb_tioghuxc
-      release_time: '2024-12-31 15:00:18'
-      title: '[讨论]浅谈Strandhogg v1.0漏洞修复和防御检测'
-      url: https://bbs.kanxue.com/thread-285059.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
