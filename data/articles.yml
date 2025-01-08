@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: '2025-01-08 11:40:59'
+      title: 【课程】第 3 期-程序混淆十讲【早鸟报名开启】
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485210&idx=1&sn=3f9e0e6057665214eb177759d7411b9a
     - author: 菜鸟学Python编程
       release_time: '2025-01-08 08:38:18'
       title: AST反混淆插件|赋值语句的后续兄弟节点变量又被重新赋值的还原与删除
@@ -236,10 +240,6 @@
       release_time: '2025-01-02 16:20:36'
       title: IDA技巧（94）可变大小结构
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485195&idx=1&sn=65e5b7f8d87fc5018a375430df655652
-    - author: 菜鸟学Python编程
-      release_time: '2025-01-02 11:03:15'
-      title: AST反混淆插件|给不规范的块语句加上大括号
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565666&idx=1&sn=fa5a9ade484af87d1e675dd622eb5b12
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
