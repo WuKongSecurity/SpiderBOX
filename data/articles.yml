@@ -2,6 +2,10 @@
   list:
   - links:
     - author: 悦来客栈的老板
+      release_time: '2025-01-08 16:08:43'
+      title: AST反混淆合集教程-控制流的简单还原
+      url: https://www.bilibili.com/video/BV1Gyr8YSEvQ
+    - author: 悦来客栈的老板
       release_time: '2025-01-07 14:20:17'
       title: AST反混淆合集教程-反混淆模板的使用
       url: https://www.bilibili.com/video/BV17DrSY7Epf
@@ -113,10 +117,6 @@
       release_time: '2024-12-11 12:15:58'
       title: 骚神Drissionpage教学 第33课 拼图验证码处理
       url: https://www.bilibili.com/video/BV14YqmYjECP
-    - author: 时一十一姐呀
-      release_time: '2024-12-10 22:54:58'
-      title: js逆向-akamai_3.0反爬sensor_data之ajr的mdn参数逆向分析
-      url: https://www.bilibili.com/video/BV1eGqCY5EYR
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
