@@ -243,6 +243,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: xiaoweigege
+      release_time: '2025-01-09 14:29:00'
+      title: 某右ios端逆向分析
+      url: https://www.52pojie.cn/thread-1998422-1-1.html
     - author: 闪电、犯贱
       release_time: '2025-01-08 21:53:00'
       title: 对于荔枝FM的付费音频爬取过程的探索
@@ -359,10 +363,6 @@
       release_time: '2024-12-05 14:39:00'
       title: JS逆向——XX人民X行 新版ob混淆
       url: https://www.52pojie.cn/thread-1988553-1-1.html
-    - author: boomx7
-      release_time: '2024-12-05 14:09:00'
-      title: 某网课平台m3u8 key分析以及脚本下载
-      url: https://www.52pojie.cn/thread-1988537-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
