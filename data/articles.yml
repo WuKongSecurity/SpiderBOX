@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: '2025-01-10 12:10:34'
+      title: 骚神教学-利用DrissionPage拦截和修改数据包
+      url: https://www.bilibili.com/video/BV1fMcEeVE1e
     - author: 悦来客栈的老板
       release_time: '2025-01-09 10:38:45'
       title: 补环境专题之浏览器与事件
@@ -113,10 +117,6 @@
       release_time: '2024-12-12 23:31:04'
       title: JS简单案例，某东最新协议4.9.7算法干货分享 - 仅供学习参考哦
       url: https://www.bilibili.com/video/BV1iQqeYdEBK
-    - author: B站用户骚神
-      release_time: '2024-12-12 22:39:28'
-      title: 骚神Drissionpage教学 34 课-彻底模仿人类的键盘鼠标操作
-      url: https://www.bilibili.com/video/BV1w9qhYZEPu
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
