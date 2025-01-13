@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: ShriyGo
+      release_time: '2025-01-13 22:16:55'
+      title: AST反混淆入门实战
+      url: https://www.bilibili.com/video/BV1CBcUeNEHs
     - author: B站用户骚神
       release_time: '2025-01-10 12:10:34'
       title: 骚神教学-利用DrissionPage拦截和修改数据包
@@ -113,10 +117,6 @@
       release_time: '2024-12-13 12:24:47'
       title: frida 主动调用native函数
       url: https://www.bilibili.com/video/BV1B9qiYAE2c
-    - author: 波波老师带你学爬虫
-      release_time: '2024-12-12 23:31:04'
-      title: JS简单案例，某东最新协议4.9.7算法干货分享 - 仅供学习参考哦
-      url: https://www.bilibili.com/video/BV1iQqeYdEBK
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
