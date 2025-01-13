@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Spade sec
+      release_time: '2025-01-13 17:10:43'
+      title: PHP_webshell免杀02-封装函数或类(过D盾)
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485297&idx=1&sn=8cde611453f600a0ced92f197f2adfc9
     - author: 软件安全与逆向分析
       release_time: '2025-01-13 15:16:14'
       title: eBPF开发指南从原理到应用如何学习
@@ -236,10 +240,6 @@
       release_time: '2025-01-07 00:00:00'
       title: 安卓逆向2025 -- Frida学习之hook案例（一）
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037487&idx=1&sn=9b5e45904ac872de30244d5bd30bb01c
-    - author: 逆向有你
-      release_time: '2025-01-07 00:00:00'
-      title: PC逆向 -- 原型
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037487&idx=2&sn=08c4448485b3cae183a4ece70ab95919
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
