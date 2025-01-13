@@ -121,6 +121,86 @@
     term: 哔哩哔哩
   - links:
     - author: Coder小Q
+      release_time: '2025-01-13 08:30:00'
+      title: 【PQC密码学】LAC基于格的密码系统算法解读
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491264&idx=1&sn=5520fe35b33c91eced4b3a413e2e51d6
+    - author: 逆向有你
+      release_time: '2025-01-13 00:00:00'
+      title: 安卓逆向2025 -- Frida学习之hook案例（五）
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037540&idx=1&sn=42e5910ff6b8f08e9066918402b5fa16
+    - author: 逆向有你
+      release_time: '2025-01-13 00:00:00'
+      title: PC逆向 -- SEH异常
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037540&idx=2&sn=1ceec64ca089f40ab6b1482fb1ddd165
+    - author: 菜鸟学Python编程
+      release_time: '2025-01-12 20:25:55'
+      title: AST反混淆插件|逻辑表达式转 if 语句
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565709&idx=1&sn=254e986f20054780904b90d1012f5b2d
+    - author: y小白的笔记
+      release_time: '2025-01-12 19:31:26'
+      title: 通用cookie池维护(python)
+      url: https://mp.weixin.qq.com/s?__biz=MzIyMjQ3OTE5MA==&mid=2247484615&idx=1&sn=6c85e01dcdba13f6a1203a4d85e4b2ae
+    - author: 二进制磨剑
+      release_time: '2025-01-12 12:38:22'
+      title: IDA技巧（99）IDA 枚举类型
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485212&idx=1&sn=7bb441b2d54ca6a4df55ddbc5940888b
+    - author: Spade sec
+      release_time: '2025-01-12 09:57:36'
+      title: JS Hook脚本分享 | Fixed_window_size
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485275&idx=1&sn=513575ad84bb71853764c14c16a001be
+    - author: 逆向有你
+      release_time: '2025-01-12 00:00:00'
+      title: 安卓逆向2025 -- Frida学习之hook案例（四）
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037527&idx=1&sn=841646f260848d7152c12b2e748f5c2d
+    - author: 逆向有你
+      release_time: '2025-01-12 00:00:00'
+      title: PC逆向 -- VEH页异常HOOK
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037527&idx=2&sn=30f0450d7ecae3e0aa98cf3934a8b64b
+    - author: 菜鸟学Python编程
+      release_time: '2025-01-11 11:24:04'
+      title: AST反混淆插件|MemberExpression 类型转换插件汇总
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565705&idx=1&sn=0c00135e61ddb22341777598b53b1ece
+    - author: 逆向有你
+      release_time: '2025-01-11 00:00:00'
+      title: 安卓逆向2025 -- Frida学习之hook案例（三）
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037513&idx=1&sn=5524b6772bc0ebff5ff1608375d7c682
+    - author: 逆向有你
+      release_time: '2025-01-11 00:00:00'
+      title: PC逆向 -- 异常简介
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037513&idx=2&sn=6cf66c78ed6df9414d26315873a30df7
+    - author: 季东ooo
+      release_time: '2025-01-10 21:15:00'
+      title: 从0到1制作深度魔改FART10脱壳机
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjczODUwMw==&mid=2247484232&idx=1&sn=0e96db0c4914357668742b8122f65280
+    - author: K哥爬虫
+      release_time: '2025-01-10 17:17:15'
+      title: 【JS逆向百例】某盾 Blackbox 算法逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkyMzcxMDM0MQ==&mid=2247504287&idx=1&sn=e1dbb823124d43aed70d7429f7d172d2
+    - author: 影17
+      release_time: '2025-01-10 15:41:11'
+      title: 某航空jwt逆向流程分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489388&idx=1&sn=4f1955754aa7696fd4f7117966fd2a94
+    - author: 二进制磨剑
+      release_time: '2025-01-10 14:46:51'
+      title: IDA技巧（98）analysis-options
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485211&idx=1&sn=0cbdd4418d779736e55176cb101121a4
+    - author: 菜鸟学Python编程
+      release_time: '2025-01-10 11:50:00'
+      title: AST反混淆实战|还原控制流之最简单的if语句转switch语句思路详解
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565701&idx=1&sn=023075a8f0ba1ed195c942f93f49a0dc
+    - author: 未闻Code
+      release_time: '2025-01-09 21:02:42'
+      title: 从源代码学习Agent框架设计方法
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648989983&idx=1&sn=b52e96a7bfd37e2a85e8c42a84cb8f65
+    - author: 菜鸟学Python编程
+      release_time: '2025-01-09 17:30:00'
+      title: AST反混淆插件|赋值语句初始化为void 0且在后续兄弟节点重新赋值后的删除
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565697&idx=1&sn=d14111da5478ce0f1bdab1ce7a3d3c44
+    - author: Spade sec
+      release_time: '2025-01-09 16:45:00'
+      title: 1.8第二期公开课回放
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485259&idx=1&sn=ad9bcbecf5cd6ee446240bf922185704
+    - author: Coder小Q
       release_time: '2025-01-09 08:30:00'
       title: 【开发工具】远程开发工具对比
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491175&idx=1&sn=d35778d0177120ae61531b43ff5cea7c
@@ -160,86 +240,6 @@
       release_time: '2025-01-06 16:47:38'
       title: HookJS_Template
       url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485239&idx=1&sn=b152461dae5e77b5456f8de89f65d1be
-    - author: 二进制磨剑
-      release_time: '2025-01-06 11:43:53'
-      title: IDA技巧（97）cross-reference-depth
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485197&idx=1&sn=cf0f3f2e64fc915f2148d46e548de192
-    - author: 菜鸟学Python编程
-      release_time: '2025-01-06 08:45:56'
-      title: AST反混淆插件|调用表达式的callee子节点为赋值语句时的还原
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565682&idx=1&sn=44481290e34eaeea0a42cb702d67720b
-    - author: 逆向有你
-      release_time: '2025-01-06 00:00:00'
-      title: 安卓逆向2025 -- Frida学习之环境搭建
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037473&idx=1&sn=fc63b8d78a7113b33bc9630af30dce5b
-    - author: 逆向有你
-      release_time: '2025-01-06 00:00:00'
-      title: PC逆向 -- 物理地址管理
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037473&idx=2&sn=1fd25a2e190ef4df277dc525dd96aef9
-    - author: Spade sec
-      release_time: '2025-01-05 15:47:35'
-      title: JS逆向系列17-Hook_cookie v0.2脚本原理解析
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485234&idx=1&sn=3948bce9c853c43f96632533b5ef236a
-    - author: 二进制磨剑
-      release_time: '2025-01-05 12:44:57'
-      title: IDA技巧（95）偏移量
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485196&idx=1&sn=8cfaa6d3ae9d48c13d5b3eb2fb57432c
-    - author: 菜鸟学Python编程
-      release_time: '2025-01-05 10:01:18'
-      title: AST反混淆插件|当调用表达式的实参为三目表达式时的还原
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565678&idx=1&sn=ec2e05ef40b9ee013aae7f8d5cdab7b8
-    - author: 逆向有你
-      release_time: '2025-01-05 00:00:00'
-      title: 安卓逆向 -- 某TV抓包和jce响应解析
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037449&idx=1&sn=37bae8ad1d88fb2fe194256e6326e768
-    - author: 逆向有你
-      release_time: '2025-01-05 00:00:00'
-      title: PC逆向 -- 映射内存 锁页
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037449&idx=2&sn=4bb828b98fca161cad5609ceab1e67bb
-    - author: Coder小Q
-      release_time: '2025-01-04 20:00:00'
-      title: 【PQC密码学】木兰:高效、灵活、安全增强的格基签名
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491079&idx=1&sn=8c2ec39834f0c2e6b3bebd2379f2623f
-    - author: Spade sec
-      release_time: '2025-01-04 15:38:21'
-      title: JS逆向系列16-将Proxy应用到JS Hook上的好处
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485222&idx=1&sn=306bf93c835e5f17d86426a7c057503e
-    - author: 菜鸟学Python编程
-      release_time: '2025-01-04 11:05:18'
-      title: AST反混淆插件|赋值语句被嵌套到各种语句里的还原
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565674&idx=1&sn=fa737a306003641057828bd69f61e87c
-    - author: 未闻Code
-      release_time: '2025-01-03 19:50:30'
-      title: 百花齐放的大模型，是昙花一现还是未来技术基底？
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648989967&idx=1&sn=2438f41549e7c9e0523e9be0d398b6be
-    - author: K哥爬虫
-      release_time: '2025-01-03 17:21:46'
-      title: 【APP 逆向百例】某瓣 app 逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkyMzcxMDM0MQ==&mid=2247504238&idx=1&sn=77f5f74b1fefa342c9d93b91082c5d54
-    - author: 菜鸟学Python编程
-      release_time: '2025-01-03 10:49:25'
-      title: AST反混淆插件|赋值语句的简单还原
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565670&idx=1&sn=70156d0ad1897269e773e3bb314f17f2
-    - author: 爬虫逆向之旅
-      release_time: '2025-01-03 10:00:00'
-      title: 京东最新h5st 5.0
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzMwNTMzOA==&mid=2247509571&idx=1&sn=f0c63ee82846711d2620480a2e5039ce
-    - author: 季东ooo
-      release_time: '2025-01-03 01:26:03'
-      title: FART脱壳机制做 || 编译Android源码（续）
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjczODUwMw==&mid=2247484174&idx=1&sn=557d0dab4b74bb704ab0269ffd29d24d
-    - author: 逆向有你
-      release_time: '2025-01-03 00:00:00'
-      title: JS逆向 -- Chrome插件与油猴脚本开发详解
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037425&idx=1&sn=f9403064758af498e7fa21d9c873823c
-    - author: 逆向有你
-      release_time: '2025-01-03 00:00:00'
-      title: PC逆向 -- VAD_私有内存
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037425&idx=2&sn=ac7f1d6b5f6a541b74a6eb73e6bb7e9d
-    - author: 理想真会玩
-      release_time: '2025-01-02 18:16:37'
-      title: 一加8刷入Apatch, 让你的root藏的更深
-      url: https://mp.weixin.qq.com/s?__biz=MzIwODg1MjQ4OQ==&mid=2247485506&idx=1&sn=f312343a99dea1f427ba33f3265c6596
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
