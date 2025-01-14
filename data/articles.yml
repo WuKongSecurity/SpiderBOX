@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: '2025-01-14 17:48:35'
+      title: 【权威发布】吾爱破解论坛2024年优秀、精华TOP榜（上）
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141551&idx=1&sn=e07557a033becc5c3e88c614bdd9acaa
     - author: 菜鸟学Python编程
       release_time: '2025-01-14 17:32:00'
       title: 国外验证码|使用EZCAPTCHA打码平台过掉5s盾
@@ -236,10 +240,6 @@
       release_time: '2025-01-09 08:30:00'
       title: 【开发工具】远程开发工具对比
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491175&idx=1&sn=d35778d0177120ae61531b43ff5cea7c
-    - author: 二进制磨剑
-      release_time: '2025-01-08 11:40:59'
-      title: 【课程】第 3 期-程序混淆十讲【早鸟报名开启】
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485210&idx=1&sn=3f9e0e6057665214eb177759d7411b9a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
