@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: ReverseCode
+      release_time: '2025-01-14 15:31:58'
+      title: 安卓逆向之某手表app
+      url: https://mp.weixin.qq.com/s?__biz=MzIzNzMxNDU3OQ==&mid=2247485143&idx=1&sn=410c50de836256d0a60b006a0a30ced1
     - author: 二进制磨剑
       release_time: '2025-01-14 13:52:04'
       title: IDA技巧（100）折叠伪代码
@@ -236,10 +240,6 @@
       release_time: '2025-01-08 08:38:18'
       title: AST反混淆插件|赋值语句的后续兄弟节点变量又被重新赋值的还原与删除
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565696&idx=1&sn=ea5cd85ee02ba11da6a508af387dac2b
-    - author: 逆向有你
-      release_time: '2025-01-08 00:00:00'
-      title: 安卓逆向2025 -- Frida学习之hook案例（二）
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037501&idx=1&sn=1d590ff16fc7325438301bba2beb870a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
