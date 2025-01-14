@@ -366,6 +366,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 九月镇灵将
+      release_time: '2025-01-14 16:56:32'
+      title: 爬虫逆向学习(十五)：Akamai 3.0反爬分析与sensor-data算法逆向经验
+      url: https://blog.csdn.net/weixin_43845191/article/details/144977354
     - author: CertiK_CN
       release_time: '2025-01-14 10:47:17'
       title: '[原创]Web3.0移动钱包的新型钓鱼攻击手法：Modal Phishing'
@@ -482,10 +486,6 @@
       release_time: '2025-01-06 15:06:46'
       title: '[原创]基于unidbg的插件'
       url: https://bbs.kanxue.com/thread-285136.htm
-    - author: Shangwendada
-      release_time: '2025-01-06 13:00:26'
-      title: '[2025软件系统安全赛]HappyLock'
-      url: https://bbs.kanxue.com/thread-285135.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
