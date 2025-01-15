@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: K哥爬虫
+      release_time: '2025-01-15 17:00:00'
+      title: 真的建议马上搞个软考证书！（红利期）
+      url: https://mp.weixin.qq.com/s?__biz=MzkyMzcxMDM0MQ==&mid=2247504325&idx=1&sn=21fb51adf5547f4630433c2e4de8fe0c
     - author: 二进制磨剑
       release_time: '2025-01-15 11:02:41'
       title: IDA技巧（101）反编译可变参数函数调用
@@ -236,10 +240,6 @@
       release_time: '2025-01-09 17:30:00'
       title: AST反混淆插件|赋值语句初始化为void 0且在后续兄弟节点重新赋值后的删除
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565697&idx=1&sn=d14111da5478ce0f1bdab1ce7a3d3c44
-    - author: Spade sec
-      release_time: '2025-01-09 16:45:00'
-      title: 1.8第二期公开课回放
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485259&idx=1&sn=ad9bcbecf5cd6ee446240bf922185704
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
