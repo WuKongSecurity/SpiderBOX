@@ -366,6 +366,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Lychow
+      release_time: '2025-01-15 22:37:01'
+      title: '[原创] 简单魔改MD5分析学习'
+      url: https://bbs.kanxue.com/thread-285248.htm
     - author: method
       release_time: '2025-01-15 15:42:50'
       title: '[原创]基于trace 进行数据流分析的一些实践'
@@ -482,10 +486,6 @@
       release_time: '2025-01-07 13:46:33'
       title: 全国高校大学生软件创新大赛-软件系统安全赛 HappyLock复现
       url: https://bbs.kanxue.com/thread-285152.htm
-    - author: CertiK_CN
-      release_time: '2025-01-07 11:18:39'
-      title: '[原创]区块链数据保护与隐私合规：深入探讨GDPR&HIPAA'
-      url: https://bbs.kanxue.com/thread-285145.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
