@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 冒蓝火的黑骑士
+      release_time: '2025-01-15 20:23:33'
+      title: web逆向之Hook大法
+      url: https://www.bilibili.com/video/BV1kjcBezEL4
     - author: ShriyGo
       release_time: '2025-01-13 22:16:55'
       title: AST反混淆入门实战
@@ -113,10 +117,6 @@
       release_time: '2024-12-13 12:26:08'
       title: unidbg 的安装 模拟执行一个so 主调native函数
       url: https://www.bilibili.com/video/BV1q9qiYAEZ2
-    - author: Alone_666
-      release_time: '2024-12-13 12:24:47'
-      title: frida 主动调用native函数
-      url: https://www.bilibili.com/video/BV1B9qiYAE2c
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
