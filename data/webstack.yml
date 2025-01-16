@@ -911,6 +911,10 @@
           logo: vmlogin.png
           url: https://www.vmlogin.cc/
           description: VMLogin 指纹浏览器是一款通过模拟不同设备的软硬件指纹信息，实现一台电脑同时多开浏览器分身，每个防关联浏览器独立 IP，适用于跨境电商亚马逊、eBay，社媒营销 FB、Twitter、Google 等多平台账号防关联批量管理安全浏览器
+        - title: BrightData Scraping Browser
+          logo: brightdata.png
+          url: https://get.brightdata.com/sbitbob
+          description: 远程连接指纹浏览器，运行您的 Puppeteer、Selenium 和 Playwright 脚本，并利用内置的 Captcha Solver 自动解决验证码，维护抓取和浏览器基础设施的运营开销为零
 
 - taxonomy: APP 相关
   icon: fab fa-android
@@ -1253,7 +1257,7 @@
           description: 支持 reCAPTCHA、Cloudflare Turnstile、DataDome、Tencent（腾讯）、Geetest（极验）、Atb captcha（顶象国际版）、Amazon（AWS） WAF、MTCaptcha、Friendly Captcha、Cyber SiARA、Capy Puzzle Captcha、KeyCaptcha、Lemin Captcha 等
         - title: BrightData Captcha Solver
           logo: brightdata.png
-          url: https://brightdata.com/products/web-unlocker/captcha-solver
+          url: https://get.brightdata.com/captcha
           description: 支持 reCAPTCHA、hCaptcha、Arkose Labs FunCaptcha、Cloudflare Turnstile、PerimeterX（Human）、Geetest（极验）、Amazon（AWS） WAF、Yandex Captcha、SimpleCaptcha、KeyCAPTCHA、Capy Puzzle Captcha 等
         - title: FreeCaptchaBypass
           logo: freecaptchabypass.png
@@ -1715,6 +1719,10 @@
           logo: flyproxy.jpg
           url: https://www.flyproxy.com/zh-hans/?keyword=amvqpdab
           description: FlyProxy 优秀的住宅代理服务
+        - title: IPFoxy
+          logo: ipfoxy.jpg
+          url: https://www.ipfoxy.net/?r=lk_spiderbox
+          description: 专注于为跨境玩家提供全球独享纯净IP代理
 
 #        - title: WTFproxy
 #          logo: wtfproxy.png
