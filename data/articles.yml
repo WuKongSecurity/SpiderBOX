@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: '2025-01-16 11:33:10'
+      title: 征集吾爱破解论坛微信红包封面设计
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141557&idx=1&sn=91d30c43aac8a1110c1286d481927d35
     - author: Coder小Q
       release_time: '2025-01-15 21:03:10'
       title: 【红包封面】2025红包封面
@@ -236,10 +240,6 @@
       release_time: '2025-01-10 11:50:00'
       title: AST反混淆实战|还原控制流之最简单的if语句转switch语句思路详解
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565701&idx=1&sn=023075a8f0ba1ed195c942f93f49a0dc
-    - author: 未闻Code
-      release_time: '2025-01-09 21:02:42'
-      title: 从源代码学习Agent框架设计方法
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648989983&idx=1&sn=b52e96a7bfd37e2a85e8c42a84cb8f65
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
