@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Spade sec
+      release_time: '2025-01-16 16:35:39'
+      title: JS Hook脚本分享 | Hook_fetch
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485302&idx=1&sn=ffcd5a2598095b08c1e53ef4f3a9875e
     - author: 吾爱破解论坛
       release_time: '2025-01-16 11:33:10'
       title: 征集吾爱破解论坛微信红包封面设计
@@ -236,10 +240,6 @@
       release_time: '2025-01-10 14:46:51'
       title: IDA技巧（98）analysis-options
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485211&idx=1&sn=0cbdd4418d779736e55176cb101121a4
-    - author: 菜鸟学Python编程
-      release_time: '2025-01-10 11:50:00'
-      title: AST反混淆实战|还原控制流之最简单的if语句转switch语句思路详解
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565701&idx=1&sn=023075a8f0ba1ed195c942f93f49a0dc
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
