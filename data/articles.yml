@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: '2025-01-16 20:36:49'
+      title: AST反混淆插件|String类、Number类以及Array实例方法调用结果值替换。
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565723&idx=1&sn=31cc58eef8f8597b6a087d924595c85a
     - author: 逆向学习之旅
       release_time: '2025-01-16 17:54:33'
       title: 同盾全系验证（纯算篇）
@@ -129,10 +133,6 @@
       title: 某东全系验证
       url: https://mp.weixin.qq.com/s?__biz=MzkwMjM0NDYwNg==&mid=2247483985&idx=1&sn=2ef43dd4c880793a010f9ef34d6c3938
     - author: 逆向学习之旅
-      release_time: '2025-01-16 17:46:15'
-      title: 淘系227/x82y
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMjM0NDYwNg==&mid=2247483982&idx=1&sn=5145238db572051d57d2940c71b29404
-    - author: 逆向学习之旅
       release_time: '2025-01-16 17:45:03'
       title: 网易全套验证
       url: https://mp.weixin.qq.com/s?__biz=MzkwMjM0NDYwNg==&mid=2247483980&idx=1&sn=08e7b9455311372cad0ff16fb6d96f9f
@@ -140,18 +140,6 @@
       release_time: '2025-01-16 16:35:39'
       title: JS Hook脚本分享 | Hook_fetch
       url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485302&idx=1&sn=ffcd5a2598095b08c1e53ef4f3a9875e
-    - author: 吾爱破解论坛
-      release_time: '2025-01-16 11:33:10'
-      title: 征集吾爱破解论坛微信红包封面设计
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141557&idx=1&sn=91d30c43aac8a1110c1286d481927d35
-    - author: Coder小Q
-      release_time: '2025-01-15 21:03:10'
-      title: 【红包封面】2025红包封面
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491269&idx=1&sn=92f1926ae0e6c8bbac1c4063a439c5d5
-    - author: K哥爬虫
-      release_time: '2025-01-15 17:00:00'
-      title: 真的建议马上搞个软考证书！（红利期）
-      url: https://mp.weixin.qq.com/s?__biz=MzkyMzcxMDM0MQ==&mid=2247504325&idx=1&sn=21fb51adf5547f4630433c2e4de8fe0c
     - author: 二进制磨剑
       release_time: '2025-01-15 11:02:41'
       title: IDA技巧（101）反编译可变参数函数调用
@@ -240,6 +228,18 @@
       release_time: '2025-01-11 00:00:00'
       title: PC逆向 -- 异常简介
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037513&idx=2&sn=6cf66c78ed6df9414d26315873a30df7
+    - author: 季东ooo
+      release_time: '2025-01-10 21:15:00'
+      title: 从0到1制作深度魔改FART10脱壳机
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjczODUwMw==&mid=2247484232&idx=1&sn=0e96db0c4914357668742b8122f65280
+    - author: K哥爬虫
+      release_time: '2025-01-10 17:17:15'
+      title: 【JS逆向百例】某盾 Blackbox 算法逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkyMzcxMDM0MQ==&mid=2247504287&idx=1&sn=e1dbb823124d43aed70d7429f7d172d2
+    - author: 影17
+      release_time: '2025-01-10 15:41:11'
+      title: 某航空jwt逆向流程分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489388&idx=1&sn=4f1955754aa7696fd4f7117966fd2a94
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
