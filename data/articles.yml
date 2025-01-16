@@ -121,6 +121,14 @@
     term: 哔哩哔哩
   - links:
     - author: 逆向学习之旅
+      release_time: '2025-01-16 17:54:33'
+      title: 同盾全系验证（纯算篇）
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMjM0NDYwNg==&mid=2247483987&idx=1&sn=5705dd43cb0a60a3a50b9b4ca2811ce9
+    - author: 逆向学习之旅
+      release_time: '2025-01-16 17:53:32'
+      title: 某东全系验证
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMjM0NDYwNg==&mid=2247483985&idx=1&sn=2ef43dd4c880793a010f9ef34d6c3938
+    - author: 逆向学习之旅
       release_time: '2025-01-16 17:46:15'
       title: 淘系227/x82y
       url: https://mp.weixin.qq.com/s?__biz=MzkwMjM0NDYwNg==&mid=2247483982&idx=1&sn=5145238db572051d57d2940c71b29404
@@ -232,14 +240,6 @@
       release_time: '2025-01-11 00:00:00'
       title: PC逆向 -- 异常简介
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037513&idx=2&sn=6cf66c78ed6df9414d26315873a30df7
-    - author: 季东ooo
-      release_time: '2025-01-10 21:15:00'
-      title: 从0到1制作深度魔改FART10脱壳机
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjczODUwMw==&mid=2247484232&idx=1&sn=0e96db0c4914357668742b8122f65280
-    - author: K哥爬虫
-      release_time: '2025-01-10 17:17:15'
-      title: 【JS逆向百例】某盾 Blackbox 算法逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkyMzcxMDM0MQ==&mid=2247504287&idx=1&sn=e1dbb823124d43aed70d7429f7d172d2
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
