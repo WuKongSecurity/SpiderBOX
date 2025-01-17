@@ -243,6 +243,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: sxqww
+      release_time: '2025-01-16 19:32:00'
+      title: 基于《安卓逆向这档事》其二APK双开、汉化、软件图标修改等问题的实现与总结
+      url: https://www.52pojie.cn/thread-2000479-1-1.html
     - author: Lychow
       release_time: '2025-01-15 23:00:00'
       title: 简单魔改MD5分析学习
@@ -359,10 +363,6 @@
       release_time: '2024-12-13 16:11:00'
       title: 360加固分析复现(未完)
       url: https://www.52pojie.cn/thread-1991025-1-1.html
-    - author: iaoedsz2018
-      release_time: '2024-12-13 01:24:00'
-      title: 网盘秒传功能的利用
-      url: https://www.52pojie.cn/thread-1990813-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
