@@ -243,6 +243,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: Lychow
+      release_time: '2025-01-15 23:00:00'
+      title: 简单魔改MD5分析学习
+      url: https://www.52pojie.cn/thread-2000190-1-1.html
     - author: sxqww
       release_time: '2025-01-14 23:07:00'
       title: 基于《安卓逆向这档事》模拟器环境搭建中遇到的环境配置问题
@@ -359,10 +363,6 @@
       release_time: '2024-12-13 01:24:00'
       title: 网盘秒传功能的利用
       url: https://www.52pojie.cn/thread-1990813-1-1.html
-    - author: gmg2719
-      release_time: '2024-12-13 00:01:00'
-      title: 一个技术网站的反反爬和模拟镜像网站搭建方法
-      url: https://www.52pojie.cn/thread-1990765-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
