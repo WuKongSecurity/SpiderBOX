@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: '2025-01-17 10:54:58'
+      title: IDA技巧（102）反编译重置反编译器信息
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485287&idx=1&sn=ce0fa04c58b3a9e3d855f57f03671ae8
     - author: 菜鸟学Python编程
       release_time: '2025-01-16 20:36:49'
       title: AST反混淆插件|String类、Number类以及Array实例方法调用结果值替换。
@@ -236,10 +240,6 @@
       release_time: '2025-01-10 17:17:15'
       title: 【JS逆向百例】某盾 Blackbox 算法逆向分析
       url: https://mp.weixin.qq.com/s?__biz=MzkyMzcxMDM0MQ==&mid=2247504287&idx=1&sn=e1dbb823124d43aed70d7429f7d172d2
-    - author: 影17
-      release_time: '2025-01-10 15:41:11'
-      title: 某航空jwt逆向流程分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489388&idx=1&sn=4f1955754aa7696fd4f7117966fd2a94
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
