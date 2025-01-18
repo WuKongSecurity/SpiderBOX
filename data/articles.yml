@@ -2,6 +2,10 @@
   list:
   - links:
     - author: 一只勇敢的小佳
+      release_time: '2025-01-19 00:59:32'
+      title: apatch模块编写，内核kernel patch module解释，内核模块编写，编写自己的第一个内核模块
+      url: https://www.bilibili.com/video/BV1cYwTeHE6F
+    - author: 一只勇敢的小佳
       release_time: '2025-01-16 02:40:36'
       title: frida最新研究成果，server直接过ijm，banban，某国网，frida的java在libart下无痕hook的实现
       url: https://www.bilibili.com/video/BV1PhwuehEtd
@@ -113,10 +117,6 @@
       release_time: '2024-12-15 16:42:42'
       title: 骚神Drissionpage教学- 变异版DrissionPage,慎用！！
       url: https://www.bilibili.com/video/BV1yLqZYBEec
-    - author: 一只勇敢的小佳
-      release_time: '2024-12-14 02:34:09'
-      title: 最新frida检测研究成果，数十个不同平台的app，看看有没有你解决不了的？
-      url: https://www.bilibili.com/video/BV18KBuY5EBR
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
