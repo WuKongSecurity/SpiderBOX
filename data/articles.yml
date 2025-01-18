@@ -120,6 +120,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: '2025-01-19 00:00:00'
+      title: 安卓逆向2025 -- Frida学习之hook案例（六）
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037561&idx=1&sn=a3cfd84193bae7fafa225ab981024fc9
+    - author: 逆向有你
+      release_time: '2025-01-19 00:00:00'
+      title: PC逆向 -- 异常的最后一道防线
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037561&idx=2&sn=f5b2830ef37636ea37aa82a9ff4ca020
     - author: 静夜随想
       release_time: '2025-01-18 20:11:00'
       title: 某数反爬方案调研
@@ -232,14 +240,6 @@
       release_time: '2025-01-12 00:00:00'
       title: PC逆向 -- VEH页异常HOOK
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037527&idx=2&sn=30f0450d7ecae3e0aa98cf3934a8b64b
-    - author: 菜鸟学Python编程
-      release_time: '2025-01-11 11:24:04'
-      title: AST反混淆插件|MemberExpression 类型转换插件汇总
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565705&idx=1&sn=0c00135e61ddb22341777598b53b1ece
-    - author: 逆向有你
-      release_time: '2025-01-11 00:00:00'
-      title: 安卓逆向2025 -- Frida学习之hook案例（三）
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037513&idx=1&sn=5524b6772bc0ebff5ff1608375d7c682
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
