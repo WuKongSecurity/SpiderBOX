@@ -243,6 +243,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 方块君
+      release_time: '2025-01-19 20:48:00'
+      title: 某开门软件签名算法、蓝牙开门、密码开门分析
+      url: https://www.52pojie.cn/thread-2001133-1-1.html
     - author: chenchenchen777
       release_time: '2025-01-19 17:02:00'
       title: 某幸咖啡协议算法
@@ -359,10 +363,6 @@
       release_time: '2024-12-14 17:23:00'
       title: 【JS逆向】某手机厂商登录逆向分析
       url: https://www.52pojie.cn/thread-1991268-1-1.html
-    - author: '659916552'
-      release_time: '2024-12-13 22:24:00'
-      title: 南方八字1.84破解版假版限制30次处理
-      url: https://www.52pojie.cn/thread-1991116-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
