@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 凛音姫
+      release_time: '2025-01-19 16:39:20'
+      title: 【猿人学爬虫题目详解】22 - 2025新年挑战！
+      url: https://www.bilibili.com/video/BV1tiwBeSEDW
     - author: 一只勇敢的小佳
       release_time: '2025-01-19 00:59:32'
       title: apatch模块编写，内核kernel patch module解释，内核模块编写，编写自己的第一个内核模块
@@ -113,10 +117,6 @@
       release_time: '2024-12-17 14:45:46'
       title: 变异版Drissionpage 第二集 自动解析表格和自动采集小红书数据
       url: https://www.bilibili.com/video/BV1iWkEYtEMH
-    - author: B站用户骚神
-      release_time: '2024-12-15 16:42:42'
-      title: 骚神Drissionpage教学- 变异版DrissionPage,慎用！！
-      url: https://www.bilibili.com/video/BV1yLqZYBEec
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
