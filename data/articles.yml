@@ -442,6 +442,10 @@
       release_time: '2025-01-13 19:31:44'
       title: AST反混淆插件|条件表达式转 if 语句
       url: https://blog.csdn.net/qq523176585/article/details/145127889
+    - author: K哥爬虫
+      release_time: '2025-01-13 16:07:44'
+      title: 【APP 逆向百例】某豆 app 逆向分析
+      url: https://blog.csdn.net/kdl_csdn/article/details/145118064
     - author: w2sfot
       release_time: '2025-01-13 14:49:44'
       title: Embedding Bokeh into HTML with PyScript and Custom JavaScript Callbacks
@@ -482,10 +486,6 @@
       release_time: '2025-01-10 12:17:42'
       title: 当我拿出加水印图片，看pyhon几大ocr库的提取效果！
       url: https://blog.csdn.net/weixin_43845191/article/details/145050902
-    - author: 悦来客栈的老板
-      release_time: '2025-01-10 11:50:55'
-      title: AST反混淆实战|还原控制流之最简单的if语句转switch语句思路详解
-      url: https://blog.csdn.net/qq523176585/article/details/145068791
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
