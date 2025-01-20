@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: '2025-01-20 17:49:53'
+      title: 如何看DeepSeek-LLM加载到了系统内存还是显存？如何强制加载到显存？以及加载到显存的性能差异
+      url: https://www.bilibili.com/video/BV1Sxwpe3E3B
     - author: 凛音姫
       release_time: '2025-01-19 16:39:20'
       title: 【猿人学爬虫题目详解】22 - 2025新年挑战！
@@ -113,10 +117,6 @@
       release_time: '2024-12-17 23:49:44'
       title: js逆向-akamai_3.0反爬sensor_data之ffs和inf参数逆向分析
       url: https://www.bilibili.com/video/BV1crkHYCEkT
-    - author: B站用户骚神
-      release_time: '2024-12-17 14:45:46'
-      title: 变异版Drissionpage 第二集 自动解析表格和自动采集小红书数据
-      url: https://www.bilibili.com/video/BV1iWkEYtEMH
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
