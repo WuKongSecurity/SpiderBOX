@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: '2025-01-20 21:50:52'
+      title: 买知识星球送配套的视频课程。
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565732&idx=1&sn=4de425b1ce0f472092de8c86342e3e94
     - author: 未闻Code
       release_time: '2025-01-20 17:00:00'
       title: 一日一技：如何使用大模型提取结构化数据
@@ -236,10 +240,6 @@
       release_time: '2025-01-12 12:38:22'
       title: IDA技巧（99）IDA 枚举类型
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485212&idx=1&sn=7bb441b2d54ca6a4df55ddbc5940888b
-    - author: Spade sec
-      release_time: '2025-01-12 09:57:36'
-      title: JS Hook脚本分享 | Fixed_window_size
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485275&idx=1&sn=513575ad84bb71853764c14c16a001be
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
