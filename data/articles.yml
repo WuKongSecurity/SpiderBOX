@@ -370,6 +370,10 @@
       release_time: '2025-01-21 14:51:19'
       title: '[原创] 比亚迪hy SM4-DFA攻击'
       url: https://bbs.kanxue.com/thread-285313.htm
+    - author: K哥爬虫
+      release_time: '2025-01-20 18:12:54'
+      title: 【JS逆向百例】某盾 Blackbox 逆向分析
+      url: https://blog.csdn.net/kdl_csdn/article/details/145267241
     - author: 呆呆怪和酷酷妖
       release_time: '2025-01-20 15:11:37'
       title: 某税app 逆向学习笔记
@@ -482,10 +486,6 @@
       release_time: '2025-01-11 11:24:22'
       title: AST反混淆插件|MemberExpression 类型转换插件汇总
       url: https://blog.csdn.net/qq523176585/article/details/145085889
-    - author: 吴秋霖
-      release_time: '2025-01-10 17:30:46'
-      title: 某漫画网站JS逆向反混淆流程分析
-      url: https://crawler.blog.csdn.net/article/details/144911843
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
