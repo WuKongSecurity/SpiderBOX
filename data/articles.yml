@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: '2025-01-21 21:54:15'
+      title: 【验证码逆向专栏】最新某验四代动态参数逆向详解
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990012&idx=1&sn=9238a944d639839bdc3d1a96e4fceb24
     - author: 吾爱破解论坛
       release_time: '2025-01-21 17:53:34'
       title: 【权威发布】吾爱破解论坛2024年原创区、悬赏值TOP榜（下）
@@ -236,10 +240,6 @@
       release_time: '2025-01-13 15:16:14'
       title: eBPF开发指南从原理到应用如何学习
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484752&idx=1&sn=488c75243ec385aeda8c794e69785718
-    - author: Coder小Q
-      release_time: '2025-01-13 08:30:00'
-      title: 【PQC密码学】LAC基于格的密码系统算法解读
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491264&idx=1&sn=5520fe35b33c91eced4b3a413e2e51d6
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
