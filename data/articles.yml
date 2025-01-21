@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: '2025-01-22 00:00:00'
+      title: 安卓逆向2025 -- Frida学习之hook案例（七）
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037569&idx=1&sn=812d974c4ebdf4db2b99edb6a227a060
     - author: 未闻Code
       release_time: '2025-01-21 21:54:15'
       title: 【验证码逆向专栏】最新某验四代动态参数逆向详解
@@ -236,10 +240,6 @@
       release_time: '2025-01-13 17:10:43'
       title: PHP_webshell免杀02-封装函数或类(过D盾)
       url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485297&idx=1&sn=8cde611453f600a0ced92f197f2adfc9
-    - author: 软件安全与逆向分析
-      release_time: '2025-01-13 15:16:14'
-      title: eBPF开发指南从原理到应用如何学习
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484752&idx=1&sn=488c75243ec385aeda8c794e69785718
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
