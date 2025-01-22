@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 一只勇敢的小佳
+      release_time: '2025-01-22 21:44:28'
+      title: python纯实现aes加密的ECB和CBC模式，带你使用python手写aes，提供python代码！！！
+      url: https://www.bilibili.com/video/BV1scfhYSEsQ
     - author: r0ysue
       release_time: '2025-01-20 17:49:53'
       title: 如何看DeepSeek-LLM加载到了系统内存还是显存？如何强制加载到显存？以及加载到显存的性能差异
@@ -113,10 +117,6 @@
       release_time: '2024-12-19 13:29:55'
       title: 直播DP写代码-抓取下载股票数据
       url: https://www.bilibili.com/video/BV1h5kMY9EGZ
-    - author: 时一十一姐呀
-      release_time: '2024-12-17 23:49:44'
-      title: js逆向-akamai_3.0反爬sensor_data之ffs和inf参数逆向分析
-      url: https://www.bilibili.com/video/BV1crkHYCEkT
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
