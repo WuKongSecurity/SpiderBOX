@@ -243,6 +243,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: iofomo
+      release_time: '2025-01-23 13:46:00'
+      title: 【Abyss】Android平台BPF和SECCOMP的SVC指令拦截
+      url: https://www.52pojie.cn/thread-2002004-1-1.html
     - author: scllqk
       release_time: '2025-01-23 11:38:00'
       title: 某知名手柄映射软件——永久VIP会员获取
@@ -359,10 +363,6 @@
       release_time: '2024-12-20 18:03:00'
       title: 威马EX5、EX5-Z车机开白名单，安装第三方APP
       url: https://www.52pojie.cn/thread-1993079-1-1.html
-    - author: ReverseJourney
-      release_time: '2024-12-20 16:02:00'
-      title: 某绿色读书app epub解密算法分析
-      url: https://www.52pojie.cn/thread-1993046-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
