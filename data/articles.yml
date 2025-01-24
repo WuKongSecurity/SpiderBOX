@@ -239,6 +239,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: sxqww
+      release_time: '2025-01-24 20:22:00'
+      title: 基于《安卓逆向这档事》其五动态调试与Log插桩
+      url: https://www.52pojie.cn/thread-2002337-1-1.html
     - author: scllqk
       release_time: '2025-01-24 17:00:00'
       title: 基于《安卓逆向这档事》其二APK双开、汉化、软件图标修改的实战案例分享
@@ -355,10 +359,6 @@
       release_time: '2024-12-24 15:40:00'
       title: 某某邮箱登录逆向----小白讲解03
       url: https://www.52pojie.cn/thread-1994084-1-1.html
-    - author: hybpjx
-      release_time: '2024-12-24 13:20:00'
-      title: 某东h5st 5.0 补环境分析流程
-      url: https://www.52pojie.cn/thread-1994034-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
