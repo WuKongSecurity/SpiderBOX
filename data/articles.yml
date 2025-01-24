@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: '2025-01-24 09:57:39'
+      title: 吾爱破解论坛精华集2024
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141621&idx=1&sn=3f4c02af5506cb4440b9bc873071e716
     - author: Coder小Q
       release_time: '2025-01-24 08:30:00'
       title: 【PQC】PQMagic(国内首个高性能后量子密码算法库)的Python封装
@@ -236,10 +240,6 @@
       release_time: '2025-01-14 17:32:00'
       title: 国外验证码|使用EZCAPTCHA打码平台过掉5s盾
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565719&idx=1&sn=a1627c84d204e4cffc8206d8b7e83ba5
-    - author: ReverseCode
-      release_time: '2025-01-14 15:31:58'
-      title: 安卓逆向之某手表app
-      url: https://mp.weixin.qq.com/s?__biz=MzIzNzMxNDU3OQ==&mid=2247485143&idx=1&sn=410c50de836256d0a60b006a0a30ced1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
