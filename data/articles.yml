@@ -239,6 +239,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: scllqk
+      release_time: '2025-01-24 17:00:00'
+      title: 基于《安卓逆向这档事》其二APK双开、汉化、软件图标修改的实战案例分享
+      url: https://www.52pojie.cn/thread-2002305-1-1.html
+    - author: sigewangdaiduie
+      release_time: '2025-01-24 15:19:00'
+      title: 安卓逆向入门笔记（六）——JNI开发与so层逆向基础
+      url: https://www.52pojie.cn/thread-2002272-1-1.html
     - author: iofomo
       release_time: '2025-01-23 13:46:00'
       title: 【Abyss】Android平台BPF和SECCOMP的SVC指令拦截
@@ -351,14 +359,6 @@
       release_time: '2024-12-24 13:20:00'
       title: 某东h5st 5.0 补环境分析流程
       url: https://www.52pojie.cn/thread-1994034-1-1.html
-    - author: rev1si0n
-      release_time: '2024-12-22 16:26:00'
-      title: 基于 FireRPA 的 Frida 脚本持久化以及接口导出和数据上报
-      url: https://www.52pojie.cn/thread-1993445-1-1.html
-    - author: braxiong
-      release_time: '2024-12-20 18:03:00'
-      title: 威马EX5、EX5-Z车机开白名单，安装第三方APP
-      url: https://www.52pojie.cn/thread-1993079-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
