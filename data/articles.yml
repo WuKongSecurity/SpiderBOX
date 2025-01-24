@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Coder小Q
+      release_time: '2025-01-24 08:30:00'
+      title: 【PQC】PQMagic(国内首个高性能后量子密码算法库)的Python封装
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491342&idx=1&sn=bfe6e85976bc56d31795e1ba2e73a44b
     - author: 未闻Code
       release_time: '2025-01-23 14:49:08'
       title: 如果不断要求 LLM 写出更好的代码，它真的能写出更好的代码吗？
@@ -236,10 +240,6 @@
       release_time: '2025-01-14 15:31:58'
       title: 安卓逆向之某手表app
       url: https://mp.weixin.qq.com/s?__biz=MzIzNzMxNDU3OQ==&mid=2247485143&idx=1&sn=410c50de836256d0a60b006a0a30ced1
-    - author: 二进制磨剑
-      release_time: '2025-01-14 13:52:04'
-      title: IDA技巧（100）折叠伪代码
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485213&idx=1&sn=2feaef413124d43a2b63cbe903275bf9
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
