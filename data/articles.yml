@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: '2025-01-25 00:00:00'
+      title: 安卓逆向2025 -- Frida学习之hook案例（八）
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037583&idx=1&sn=f1d6bd2999bdd8aca33aabb4d707881f
     - author: 吾爱破解论坛
       release_time: '2025-01-24 09:57:39'
       title: 吾爱破解论坛精华集2024
@@ -232,10 +236,6 @@
       release_time: '2025-01-16 16:35:39'
       title: JS Hook脚本分享 | Hook_fetch
       url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485302&idx=1&sn=ffcd5a2598095b08c1e53ef4f3a9875e
-    - author: 二进制磨剑
-      release_time: '2025-01-15 11:02:41'
-      title: IDA技巧（101）反编译可变参数函数调用
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485286&idx=1&sn=e884a2174ab1ccef6a5123502d3fbc96
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
