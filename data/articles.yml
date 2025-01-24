@@ -132,6 +132,10 @@
       release_time: '2025-01-23 14:49:08'
       title: 如果不断要求 LLM 写出更好的代码，它真的能写出更好的代码吗？
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990035&idx=1&sn=bc5d31b8293ee4ba39eccedba36a8081
+    - author: 一只野生码农
+      release_time: '2025-01-23 14:16:08'
+      title: IDA技巧 - 自动备注
+      url: https://mp.weixin.qq.com/s?__biz=MzI1OTM1NTMzMA==&mid=2247483761&idx=1&sn=f0401e2134a39cd135b710f7073c79fb
     - author: Coder小Q
       release_time: '2025-01-23 08:30:00'
       title: PQMagic--国内首个高性能后量子密码算法库
@@ -232,10 +236,6 @@
       release_time: '2025-01-15 11:02:41'
       title: IDA技巧（101）反编译可变参数函数调用
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485286&idx=1&sn=e884a2174ab1ccef6a5123502d3fbc96
-    - author: 吾爱破解论坛
-      release_time: '2025-01-14 17:48:35'
-      title: 【权威发布】吾爱破解论坛2024年优秀、精华TOP榜（上）
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141551&idx=1&sn=e07557a033becc5c3e88c614bdd9acaa
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
