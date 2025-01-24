@@ -370,6 +370,10 @@
       release_time: '2025-01-24 11:46:17'
       title: Exploring For Loop Statements in JavaScript
       url: https://blog.csdn.net/w2sft/article/details/145339124
+    - author: Tiony.bo
+      release_time: '2025-01-23 16:42:11'
+      title: '[原创]【Abyss】Android平台BPF和SECCOMP的SVC指令拦截'
+      url: https://bbs.kanxue.com/thread-285339.htm
     - author: skyun
       release_time: '2025-01-22 13:55:18'
       title: '[讨论]unidbg模拟执行的去除ollvm混淆'
@@ -478,10 +482,6 @@
       release_time: '2025-01-14 10:47:17'
       title: '[原创]Web3.0移动钱包的新型钓鱼攻击手法：Modal Phishing'
       url: https://bbs.kanxue.com/thread-285228.htm
-    - author: HandsomeBro
-      release_time: '2025-01-13 21:51:45'
-      title: '[分享]某短视频平台最新sig3字段算法分析(二)'
-      url: https://bbs.kanxue.com/thread-285222.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
