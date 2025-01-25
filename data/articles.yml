@@ -120,10 +120,26 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: ''
+      release_time: '2025-01-25 09:48:24'
+      title: 留言入选通知
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDgzOTk2Mg==&mid=2247484527&idx=1&sn=dbd2c0dc338af7836cbb541ec284542f
     - author: 逆向有你
       release_time: '2025-01-25 00:00:00'
       title: 安卓逆向2025 -- Frida学习之hook案例（八）
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037583&idx=1&sn=f1d6bd2999bdd8aca33aabb4d707881f
+    - author: 秋裤的学习笔记
+      release_time: '2025-01-24 22:43:15'
+      title: akamai3反混淆
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2Mjk4MTg5Ng==&mid=2247483702&idx=1&sn=af5ede3e49e4dcfb89050ec78e239da1
+    - author: 秋裤的学习笔记
+      release_time: '2025-01-24 20:53:03'
+      title: 某滑块（纯算）的一些思路笔记
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2Mjk4MTg5Ng==&mid=2247483657&idx=1&sn=eaac34329e45143222fd851b9e85c0c2
+    - author: 秋裤的学习笔记
+      release_time: '2025-01-24 20:52:51'
+      title: h5st加密
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2Mjk4MTg5Ng==&mid=2247483689&idx=1&sn=57f1711df61d2f29c10d37fb2925c178
     - author: 吾爱破解论坛
       release_time: '2025-01-24 09:57:39'
       title: 吾爱破解论坛精华集2024
@@ -224,18 +240,6 @@
       release_time: '2025-01-16 17:54:33'
       title: 同盾全系验证（纯算篇）
       url: https://mp.weixin.qq.com/s?__biz=MzkwMjM0NDYwNg==&mid=2247483987&idx=1&sn=5705dd43cb0a60a3a50b9b4ca2811ce9
-    - author: 逆向学习之旅
-      release_time: '2025-01-16 17:53:32'
-      title: 某东全系验证
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMjM0NDYwNg==&mid=2247483985&idx=1&sn=2ef43dd4c880793a010f9ef34d6c3938
-    - author: 逆向学习之旅
-      release_time: '2025-01-16 17:45:03'
-      title: 网易全套验证
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMjM0NDYwNg==&mid=2247483980&idx=1&sn=08e7b9455311372cad0ff16fb6d96f9f
-    - author: Spade sec
-      release_time: '2025-01-16 16:35:39'
-      title: JS Hook脚本分享 | Hook_fetch
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485302&idx=1&sn=ffcd5a2598095b08c1e53ef4f3a9875e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
