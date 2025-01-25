@@ -243,6 +243,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: szh12123
+      release_time: '2025-01-25 16:30:00'
+      title: 记录一次某标准规范网的逆向分析
+      url: https://www.52pojie.cn/thread-2002450-1-1.html
     - author: sxqww
       release_time: '2025-01-24 20:22:00'
       title: 基于《安卓逆向这档事》其五动态调试与Log插桩
@@ -359,10 +363,6 @@
       release_time: '2024-12-26 13:37:00'
       title: Dex文件结构-ReadDex解析器实现
       url: https://www.52pojie.cn/thread-1994664-1-1.html
-    - author: Aircraftcomman5
-      release_time: '2024-12-24 15:40:00'
-      title: 某某邮箱登录逆向----小白讲解03
-      url: https://www.52pojie.cn/thread-1994084-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
