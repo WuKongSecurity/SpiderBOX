@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 一只野生码农
+      release_time: '2025-01-25 12:34:03'
+      title: 2024年终小总
+      url: https://mp.weixin.qq.com/s?__biz=MzI1OTM1NTMzMA==&mid=2247483762&idx=1&sn=cfddce88a7fcf2f12d978f5da3221bad
     - author: ''
       release_time: '2025-01-25 09:48:24'
       title: 留言入选通知
@@ -236,10 +240,6 @@
       release_time: '2025-01-16 20:36:49'
       title: AST反混淆插件|String类、Number类以及Array实例方法调用结果值替换。
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565723&idx=1&sn=31cc58eef8f8597b6a087d924595c85a
-    - author: 逆向学习之旅
-      release_time: '2025-01-16 17:54:33'
-      title: 同盾全系验证（纯算篇）
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMjM0NDYwNg==&mid=2247483987&idx=1&sn=5705dd43cb0a60a3a50b9b4ca2811ce9
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
