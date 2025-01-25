@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 平底锅煎蛋
+      release_time: '2025-01-25 18:32:00'
+      title: 怒撕某书jsvmp之x-s
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTcyMjcwOA==&mid=2247483846&idx=1&sn=89b5c85b03d42d1d65d68f658d5bea39
     - author: 菜鸟学Python编程
       release_time: '2025-01-25 15:32:27'
       title: AST反混淆插件|MemberExpression 类型的节点包含 window 的简化
@@ -236,10 +240,6 @@
       release_time: '2025-01-18 08:30:00'
       title: IDA技巧（103）在不同的 IDA 安装之间共享插件
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485288&idx=1&sn=75614940ea71e1158eae821034eff477
-    - author: 二进制磨剑
-      release_time: '2025-01-17 10:54:58'
-      title: IDA技巧（102）反编译重置反编译器信息
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485287&idx=1&sn=ce0fa04c58b3a9e3d855f57f03671ae8
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
