@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: '2025-01-26 10:55:02'
+      title: IDA技巧（104）立即数搜索
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485301&idx=1&sn=4d88879d56446d3978558c9b64489f95
     - author: 吾爱破解论坛
       release_time: '2025-01-26 08:30:00'
       title: 【活动】感动吾爱2024优秀会员评选活动（总方案）
@@ -236,10 +240,6 @@
       release_time: '2025-01-18 20:11:00'
       title: 某数反爬方案调研
       url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652810995&idx=1&sn=5723a578ef6fb613968d96bfe92817e7
-    - author: 菜鸟学Python编程
-      release_time: '2025-01-18 09:16:32'
-      title: 两个阴险的软件，潜入了每一台Windows电脑！
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565725&idx=1&sn=4bd64ea110f51d396b81b6543c7a85f3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
