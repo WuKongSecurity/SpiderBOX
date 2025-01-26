@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: '2025-01-26 08:30:00'
+      title: 【活动】感动吾爱2024优秀会员评选活动（总方案）
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141640&idx=1&sn=c7380d0293c9463bb911500de75e6466
     - author: 平底锅煎蛋
       release_time: '2025-01-25 18:32:00'
       title: 怒撕某书jsvmp之x-s
@@ -236,10 +240,6 @@
       release_time: '2025-01-18 09:16:32'
       title: 两个阴险的软件，潜入了每一台Windows电脑！
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565725&idx=1&sn=4bd64ea110f51d396b81b6543c7a85f3
-    - author: 二进制磨剑
-      release_time: '2025-01-18 08:30:00'
-      title: IDA技巧（103）在不同的 IDA 安装之间共享插件
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485288&idx=1&sn=75614940ea71e1158eae821034eff477
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
