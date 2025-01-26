@@ -243,6 +243,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 为你芯冻
+      release_time: '2025-01-26 14:39:00'
+      title: microdbg - 纯 go 实现 android 模拟框架
+      url: https://www.52pojie.cn/thread-2002586-1-1.html
+    - author: Aircraftcomman5
+      release_time: '2025-01-26 13:43:00'
+      title: 某某音乐馆sign逆向------------小白讲解06
+      url: https://www.52pojie.cn/thread-2002575-1-1.html
     - author: szh12123
       release_time: '2025-01-25 16:30:00'
       title: 记录一次某标准规范网的逆向分析
@@ -355,14 +363,6 @@
       release_time: '2024-12-27 21:06:00'
       title: 《安卓逆向这档事》第二十三课、黑盒魔法之Unidbg
       url: https://www.52pojie.cn/thread-1995107-1-1.html
-    - author: chenchenchen777
-      release_time: '2024-12-26 13:52:00'
-      title: 某车联网五零#光DFA攻击白盒AES
-      url: https://www.52pojie.cn/thread-1994669-1-1.html
-    - author: OrientalGlass
-      release_time: '2024-12-26 13:37:00'
-      title: Dex文件结构-ReadDex解析器实现
-      url: https://www.52pojie.cn/thread-1994664-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
