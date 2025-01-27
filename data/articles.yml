@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Coder小Q
+      release_time: '2025-01-27 20:00:00'
+      title: 【年终总结2024】拥抱变化，书写属于你的崭新篇章
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491368&idx=1&sn=ed2c5b70af95f81f32a0eb1015945656
     - author: 未闻Code
       release_time: '2025-01-26 19:27:33'
       title: Python实现进度条的几种方案
@@ -236,10 +240,6 @@
       release_time: '2025-01-18 20:11:00'
       title: 某数反爬方案调研
       url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652810995&idx=1&sn=5723a578ef6fb613968d96bfe92817e7
-    - author: 菜鸟学Python编程
-      release_time: '2025-01-18 09:16:32'
-      title: 两个阴险的软件，潜入了每一台Windows电脑！
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565725&idx=1&sn=4bd64ea110f51d396b81b6543c7a85f3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
