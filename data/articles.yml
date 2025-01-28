@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 季东ooo
+      release_time: '2025-01-28 23:01:55'
+      title: 常见Frida检测方式与绕过
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjczODUwMw==&mid=2247484252&idx=1&sn=0dc1f03c95af766dfbf29f345cc79473
     - author: 影17
       release_time: '2025-01-28 21:08:29'
       title: 新年快乐~蛇年大吉
@@ -236,10 +240,6 @@
       release_time: '2025-01-21 17:04:46'
       title: 曾经a8过的小伙伴-爬虫er100采访
       url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448549854&idx=1&sn=7a6d03a686e111f48eb2e53269a7f4fe
-    - author: 菜鸟学Python编程
-      release_time: '2025-01-21 15:37:00'
-      title: AST反混淆插件| 赋值语句中的left节点在其作用域内无引用时的删除。
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565736&idx=1&sn=27fc1c13bbe570c5f2e926ef9556091a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
