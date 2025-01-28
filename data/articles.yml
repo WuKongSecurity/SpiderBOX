@@ -243,6 +243,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 芽衣
+      release_time: '2025-01-28 21:54:00'
+      title: mx player MX播放器 去除签名校验
+      url: https://www.52pojie.cn/thread-2002883-1-1.html
     - author: 为你芯冻
       release_time: '2025-01-26 14:39:00'
       title: microdbg - 纯 go 实现 android 模拟框架
@@ -359,10 +363,6 @@
       release_time: '2024-12-30 14:18:00'
       title: 360分析复现(中)
       url: https://www.52pojie.cn/thread-1995660-1-1.html
-    - author: 正己
-      release_time: '2024-12-27 21:06:00'
-      title: 《安卓逆向这档事》第二十三课、黑盒魔法之Unidbg
-      url: https://www.52pojie.cn/thread-1995107-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
