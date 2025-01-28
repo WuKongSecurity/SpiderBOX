@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向与爬虫的故事
+      release_time: '2025-01-28 11:45:28'
+      title: 2024年度回顾：用文字记录成长，用行动传递爱心
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5ODA3OTM1NA==&mid=2247493659&idx=1&sn=54edc941ae9735725f6255418681a73e
     - author: SpiderLittleWhite
       release_time: '2025-01-27 23:58:29'
       title: 【JS逆向】某猫商城字体反爬分析
