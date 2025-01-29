@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Coder小Q
+      release_time: '2025-01-29 08:00:00'
+      title: 【2025】新年快乐
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491386&idx=1&sn=81b68fc009fb3bb698df452f0490aebb
     - author: 季东ooo
       release_time: '2025-01-28 23:01:55'
       title: 常见Frida检测方式与绕过
@@ -236,10 +240,6 @@
       release_time: '2025-01-21 17:53:34'
       title: 【权威发布】吾爱破解论坛2024年原创区、悬赏值TOP榜（下）
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141592&idx=1&sn=d70825d0206a9238dbbd03b366df9c0f
-    - author: 猿人学Python
-      release_time: '2025-01-21 17:04:46'
-      title: 曾经a8过的小伙伴-爬虫er100采访
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448549854&idx=1&sn=7a6d03a686e111f48eb2e53269a7f4fe
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
