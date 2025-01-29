@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: ikun的嘴
+      release_time: '2025-01-29 20:53:59'
+      title: 新手还不会药监局瑞数？框架秒杀瑞数系列
+      url: https://www.bilibili.com/video/BV1eUFKeeEiq
     - author: 一只勇敢的小佳
       release_time: '2025-01-22 21:44:28'
       title: python纯实现aes加密的ECB和CBC模式，带你使用python手写aes，提供python代码！！！
@@ -113,10 +117,6 @@
       release_time: '2024-12-20 00:26:19'
       title: 骚神库DP教学 第三集 六行代码采集淘宝商品数据
       url: https://www.bilibili.com/video/BV1AGkrYNEVh
-    - author: B站用户骚神
-      release_time: '2024-12-19 13:29:55'
-      title: 直播DP写代码-抓取下载股票数据
-      url: https://www.bilibili.com/video/BV1h5kMY9EGZ
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
