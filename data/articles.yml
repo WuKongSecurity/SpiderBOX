@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: '2025-01-29 10:06:19'
+      title: 【2025春节】解题领红包活动开始喽，解出就送论坛币！
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141655&idx=1&sn=d21717226e40032625a74a2d00255e23
     - author: Coder小Q
       release_time: '2025-01-29 08:00:00'
       title: 【2025】新年快乐
@@ -236,10 +240,6 @@
       release_time: '2025-01-22 00:00:00'
       title: 安卓逆向2025 -- Frida学习之hook案例（七）
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037569&idx=1&sn=812d974c4ebdf4db2b99edb6a227a060
-    - author: 吾爱破解论坛
-      release_time: '2025-01-21 17:53:34'
-      title: 【权威发布】吾爱破解论坛2024年原创区、悬赏值TOP榜（下）
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141592&idx=1&sn=d70825d0206a9238dbbd03b366df9c0f
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
