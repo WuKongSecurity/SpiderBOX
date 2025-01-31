@@ -2,6 +2,10 @@
   list:
   - links:
     - author: 一只勇敢的小佳
+      release_time: '2025-02-01 00:03:24'
+      title: SM4从轮密钥得到我们的初始密钥python详解，带你使用python写出SM4从轮密钥得到我们的初始密钥！！！
+      url: https://www.bilibili.com/video/BV1HeFQerEHb
+    - author: 一只勇敢的小佳
       release_time: '2025-01-31 23:30:53'
       title: AES从轮密钥推出初始密钥python详解，带你使用python代码写出我们的开源库的Stark的AES推初始密钥！！
       url: https://www.bilibili.com/video/BV1y3FXejE99
@@ -113,10 +117,6 @@
       release_time: '2024-12-24 12:54:18'
       title: 某MD5 魔改算法还原(第一节 unidbg模拟调用)
       url: https://www.bilibili.com/video/BV187kQYrEdM
-    - author: 带带弟弟学爬虫
-      release_time: '2024-12-23 10:45:53'
-      title: APP逆向课程百例
-      url: https://www.bilibili.com/video/BV1MzkTYUEVT
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
