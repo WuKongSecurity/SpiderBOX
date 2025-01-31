@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 一只勇敢的小佳
+      release_time: '2025-01-31 23:30:53'
+      title: AES从轮密钥推出初始密钥python详解，带你使用python代码写出我们的开源库的Stark的AES推初始密钥！！
+      url: https://www.bilibili.com/video/BV1y3FXejE99
     - author: Alone逆向安全
       release_time: '2025-01-31 15:08:06'
       title: AES 加密算法详解 差分故障攻击原理详解(一)
@@ -113,10 +117,6 @@
       release_time: '2024-12-23 10:45:53'
       title: APP逆向课程百例
       url: https://www.bilibili.com/video/BV1MzkTYUEVT
-    - author: nothing__233
-      release_time: '2024-12-21 16:45:04'
-      title: JsClear——一个为制定js解混淆插件而生的框架
-      url: https://www.bilibili.com/video/BV1rUkxYsEjw
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
