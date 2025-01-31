@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 季东ooo
+      release_time: '2025-01-31 22:06:52'
+      title: 解决JNI函数动态绑定防追踪
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjczODUwMw==&mid=2247484267&idx=1&sn=ea2e41881a9009ee6e304410c7c88e46
     - author: 未闻Code
       release_time: '2025-01-31 14:56:39'
       title: 这才是DeepSeek的正确使用方式！你还在用GPT那套就废了，春节前最后预警
@@ -236,10 +240,6 @@
       release_time: '2025-01-23 14:49:08'
       title: 如果不断要求 LLM 写出更好的代码，它真的能写出更好的代码吗？
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990035&idx=1&sn=bc5d31b8293ee4ba39eccedba36a8081
-    - author: 一只野生码农
-      release_time: '2025-01-23 14:16:08'
-      title: IDA技巧 - 自动备注
-      url: https://mp.weixin.qq.com/s?__biz=MzI1OTM1NTMzMA==&mid=2247483761&idx=1&sn=f0401e2134a39cd135b710f7073c79fb
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
