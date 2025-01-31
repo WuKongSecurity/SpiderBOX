@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: Alone逆向安全
+      release_time: '2025-01-31 15:08:06'
+      title: AES 加密算法详解 差分故障攻击原理详解(一)
+      url: https://www.bilibili.com/video/BV1onFUeXE9h
     - author: ikun的嘴
       release_time: '2025-01-29 20:53:59'
       title: 新手还不会药监局瑞数？框架秒杀瑞数系列
@@ -113,10 +117,6 @@
       release_time: '2024-12-21 16:45:04'
       title: JsClear——一个为制定js解混淆插件而生的框架
       url: https://www.bilibili.com/video/BV1rUkxYsEjw
-    - author: B站用户骚神
-      release_time: '2024-12-20 00:26:19'
-      title: 骚神库DP教学 第三集 六行代码采集淘宝商品数据
-      url: https://www.bilibili.com/video/BV1AGkrYNEVh
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
