@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: '2025-02-01 12:34:44'
+      title: 【2025春节】解题领红包活动排行榜（初四 2/1）
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141665&idx=1&sn=cf29ecaf3b5e2954cc5cb4b91fcef39f
     - author: 季东ooo
       release_time: '2025-01-31 22:06:52'
       title: 解决JNI函数动态绑定防追踪
@@ -236,10 +240,6 @@
       release_time: '2025-01-24 08:30:00'
       title: 【PQC】PQMagic(国内首个高性能后量子密码算法库)的Python封装
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491342&idx=1&sn=bfe6e85976bc56d31795e1ba2e73a44b
-    - author: 未闻Code
-      release_time: '2025-01-23 14:49:08'
-      title: 如果不断要求 LLM 写出更好的代码，它真的能写出更好的代码吗？
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990035&idx=1&sn=bc5d31b8293ee4ba39eccedba36a8081
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
