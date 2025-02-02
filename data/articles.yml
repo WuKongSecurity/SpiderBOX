@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Coder小Q
+      release_time: '2025-02-02 08:30:00'
+      title: 【2025】初五迎财神，恭喜发财
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491392&idx=1&sn=75011220308fe9a69d8dd70b7d07d5f0
     - author: 吾爱破解论坛
       release_time: '2025-02-01 12:34:44'
       title: 【2025春节】解题领红包活动排行榜（初四 2/1）
@@ -236,10 +240,6 @@
       release_time: '2025-01-24 09:57:39'
       title: 吾爱破解论坛精华集2024
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141621&idx=1&sn=3f4c02af5506cb4440b9bc873071e716
-    - author: Coder小Q
-      release_time: '2025-01-24 08:30:00'
-      title: 【PQC】PQMagic(国内首个高性能后量子密码算法库)的Python封装
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491342&idx=1&sn=bfe6e85976bc56d31795e1ba2e73a44b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
