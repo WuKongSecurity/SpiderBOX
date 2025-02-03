@@ -33,7 +33,7 @@ var theme = {
 {{ $app := resources.Get "js/app.js" | resources.Minify | fingerprint}}
 <script type='text/javascript' src='{{ $app.RelPermalink }}' id='app-js'></script>
 {{ $contentSearch := resources.Get "js/content-search.js" | resources.Minify | fingerprint}}
-<script type="text/javascript" src="{{ $contentSearch.RelPermalink }}"  id="content-search-js"></script>
+<script type="text/javascript" src="{{ $contentSearch.RelPermalink }}" id="content-search-js"></script>
 
 <script type="text/javascript">
     $(document).ready(function(){
@@ -89,5 +89,16 @@ var theme = {
         
     });
 </script>
+<!--<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        const cn = new CanvasNest(document.getElementById('search-bg'), {
+            color: '255,255,255',
+            pointColor: '255,255,255',
+            opacity: 1,
+            count: 30,
+            zIndex: 1
+        });
+    });
+</script>-->
 </body>
 </html>

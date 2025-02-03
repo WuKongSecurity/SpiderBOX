@@ -3,7 +3,7 @@
         // 侧栏菜单初始状态设置
         if(theme.minNav != '1')trigger_resizable(true);
         // 主题状态
-        switch_mode(); 
+        // switch_mode();
         // 搜索模块
         intoSearch();
         // 粘性页脚
@@ -59,43 +59,43 @@
         }
     });
 
-    //夜间模式
-    $(document).on('click', '.switch-dark-mode', function(event) {
-        event.preventDefault();
-        $.ajax({
-            url: theme.ajaxurl,
-            type: 'POST',
-            dataType: 'html',
-            data: {
-                mode_toggle: $('body').hasClass('io-black-mode') === true ? 1 : 0,
-                action: 'switch_dark_mode',
-            },
-        })
-        .done(function(response) {
-            $('body').toggleClass('io-black-mode '+theme.defaultclass);
-            switch_mode(); 
-            $("#"+ $('.switch-dark-mode').attr('aria-describedby')).remove();
-            //$('.switch-dark-mode').removeAttr('aria-describedby');
-        })
-    });
-    function switch_mode(){
-        if($('body').hasClass('io-black-mode')){
-            if($(".switch-dark-mode").attr("data-original-title"))
-                $(".switch-dark-mode").attr("data-original-title","日间模式");
-            else
-                $(".switch-dark-mode").attr("title","日间模式");
-            $(".mode-ico").removeClass("icon-night");
-            $(".mode-ico").addClass("icon-light");
-        }
-        else{
-            if($(".switch-dark-mode").attr("data-original-title"))
-                $(".switch-dark-mode").attr("data-original-title","夜间模式");
-            else
-                $(".switch-dark-mode").attr("title","夜间模式");
-            $(".mode-ico").removeClass("icon-light");
-            $(".mode-ico").addClass("icon-night");
-        }
-    }
+    //夜间模式（旧）
+    // $(document).on('click', '.switch-dark-mode', function(event) {
+    //     event.preventDefault();
+    //     $.ajax({
+    //         url: theme.ajaxurl,
+    //         type: 'POST',
+    //         dataType: 'html',
+    //         data: {
+    //             mode_toggle: $('body').hasClass('io-black-mode') === true ? 1 : 0,
+    //             action: 'switch_dark_mode',
+    //         },
+    //     })
+    //     .done(function(response) {
+    //         $('body').toggleClass('io-black-mode '+theme.defaultclass);
+    //         switch_mode();
+    //         $("#"+ $('.switch-dark-mode').attr('aria-describedby')).remove();
+    //         //$('.switch-dark-mode').removeAttr('aria-describedby');
+    //     })
+    // });
+    // function switch_mode(){
+    //     if($('body').hasClass('io-black-mode')){
+    //         if($(".switch-dark-mode").attr("data-original-title"))
+    //             $(".switch-dark-mode").attr("data-original-title","日间模式");
+    //         else
+    //             $(".switch-dark-mode").attr("title","日间模式");
+    //         $(".mode-ico").removeClass("icon-night");
+    //         $(".mode-ico").addClass("icon-light");
+    //     }
+    //     else{
+    //         if($(".switch-dark-mode").attr("data-original-title"))
+    //             $(".switch-dark-mode").attr("data-original-title","夜间模式");
+    //         else
+    //             $(".switch-dark-mode").attr("title","夜间模式");
+    //         $(".mode-ico").removeClass("icon-light");
+    //         $(".mode-ico").addClass("icon-night");
+    //     }
+    // }
     //返回顶部
     $(window).scroll(function () {
         if ($(this).scrollTop() >= 50) {
@@ -731,135 +731,136 @@
             return false;
         }
     });
-    function getSmartTipsGoogle(value,parents) {
-        $.ajax({
-            type: "GET",
-            url: "//suggestqueries.google.com/complete/search?client=firefox&callback=iowenHot",
-            async: true,
-            data: { q: value },
-            dataType: "jsonp",
-            jsonp: "callback",
-            success: function(res) {
-                var list = parents.children(".search-smart-tips");
-                list.children("ul").text("");
-                tipsList = res[1].length;
-                if (tipsList) {
-                    for (var i = 0; i < tipsList; i++) {
-                        list.children("ul").append("<li>" + res[1][i] + "</li>");
-                        list.find("li").eq(i).click(function() {
-                            var keyword = $(this).html();
-                            parents.find(".smart-tips.search-key").val(keyword);
-                            parents.children(".super-search-fm").submit();
-                            list.slideUp(200);
-                        });
-                    };
-                    list.slideDown(200);
-                } else {
-                    list.slideUp(200)
-                }
-            },
-            error: function(res) {
-                tipsList = 0;
-            }
-        })
-    }
-    function getSmartTipsBaidu(value,parents) {
-        $.ajax({
-            type: "GET",
-            url: "//sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?cb=iowenHot",
-            async: true,
-            data: { wd: value },
-            dataType: "jsonp",
-            jsonp: "cb",
-            success: function(res) {
-                var list = parents.children(".search-smart-tips");
-                list.children("ul").text("");
-                tipsList = res.s.length;
-                if (tipsList) {
-                    for (var i = 0; i < tipsList; i++) {
-                        list.children("ul").append("<li>" + res.s[i] + "</li>");
-                        list.find("li").eq(i).click(function() {
-                            var keyword = $(this).html();
-                            parents.find(".smart-tips.search-key").val(keyword);
-                            parents.children(".super-search-fm").submit();
-                            list.slideUp(200);
-                        });
-                    };
-                    list.slideDown(200);
-                } else {
-                    list.slideUp(200)
-                }
-            },
-            error: function(res) {
-                tipsList = 0;
-            }
-        })
-    }
-    var listIndex = -1;
-    var parent;
-    var tipsList = 0;
-    var isZhannei = false;
-    $(document).on("blur", ".smart-tips.search-key", function() {
-        parent = '';
-        $(".search-smart-tips").delay(150).slideUp(200)
-    });
-    $(document).on("focus", ".smart-tips.search-key", function() {
-        isZhannei = $(this).attr('zhannei')!=''?true:false;
-        parent = $(this).parents('#search');
-        if ($(this).val() && !isZhannei) {
-            switch(theme.hotWords) {
-                case "baidu": 
-                    getSmartTipsBaidu($(this).val(),parent)
-                    break;
-                case "google": 
-                    getSmartTipsGoogle($(this).val(),parent)
-                    break;
-                default: 
-            } 
-        }
-    });
-    $(document).on("keyup", ".smart-tips.search-key", function(e) {
-        isZhannei = $(this).attr('zhannei')!=''?true:false;
-        parent = $(this).parents('#search');
-        if ($(this).val()) {
-            if (e.keyCode == 38 || e.keyCode == 40 || isZhannei) {
-                return
-            }
-            switch(theme.hotWords) {
-                case "baidu": 
-                    getSmartTipsBaidu($(this).val(),parent)
-                    break;
-                case "google": 
-                    getSmartTipsGoogle($(this).val(),parent)
-                    break;
-                default: 
-            } 
-            listIndex = -1;
-        } else {
-            $(".search-smart-tips").slideUp(200)
-        }
-    });
-    $(document).on("keydown", ".smart-tips.search-key", function(e) {
-        parent = $(this).parents('#search');
-        if (e.keyCode === 40) {
-            listIndex === (tipsList - 1) ? listIndex = 0 : listIndex++;
-            parent.find(".search-smart-tips ul li").eq(listIndex).addClass("current").siblings().removeClass("current");
-            var hotValue = parent.find(".search-smart-tips ul li").eq(listIndex).html();
-            parent.find(".smart-tips.search-key").val(hotValue)
-        }
-        if (e.keyCode === 38) {
-            if (e.preventDefault) {
-                e.preventDefault()
-            }
-            if (e.returnValue) {
-                e.returnValue = false
-            }
-            listIndex === 0 || listIndex === -1 ? listIndex = (tipsList - 1) : listIndex--;
-            parent.find(".search-smart-tips ul li").eq(listIndex).addClass("current").siblings().removeClass("current");
-            var hotValue = parent.find(".search-smart-tips ul li").eq(listIndex).html();
-            parent.find(".smart-tips.search-key").val(hotValue)
-        }
-    });
+    // 搜索智能推荐/候选，这里老代码取消，不然有冲突
+    // function getSmartTipsGoogle(value,parents) {
+    //     $.ajax({
+    //         type: "GET",
+    //         url: "//suggestqueries.google.com/complete/search?client=firefox&callback=iowenHot",
+    //         async: true,
+    //         data: { q: value },
+    //         dataType: "jsonp",
+    //         jsonp: "callback",
+    //         success: function(res) {
+    //             var list = parents.children(".search-smart-tips");
+    //             list.children("ul").text("");
+    //             tipsList = res[1].length;
+    //             if (tipsList) {
+    //                 for (var i = 0; i < tipsList; i++) {
+    //                     list.children("ul").append("<li>" + res[1][i] + "</li>");
+    //                     list.find("li").eq(i).click(function() {
+    //                         var keyword = $(this).html();
+    //                         parents.find(".smart-tips.search-key").val(keyword);
+    //                         parents.children(".super-search-fm").submit();
+    //                         list.slideUp(200);
+    //                     });
+    //                 };
+    //                 list.slideDown(200);
+    //             } else {
+    //                 list.slideUp(200)
+    //             }
+    //         },
+    //         error: function(res) {
+    //             tipsList = 0;
+    //         }
+    //     })
+    // }
+    // function getSmartTipsBaidu(value,parents) {
+    //     $.ajax({
+    //         type: "GET",
+    //         url: "//sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?cb=iowenHot",
+    //         async: true,
+    //         data: { wd: value },
+    //         dataType: "jsonp",
+    //         jsonp: "cb",
+    //         success: function(res) {
+    //             var list = parents.children(".search-smart-tips");
+    //             list.children("ul").text("");
+    //             tipsList = res.s.length;
+    //             if (tipsList) {
+    //                 for (var i = 0; i < tipsList; i++) {
+    //                     list.children("ul").append("<li>" + res.s[i] + "</li>");
+    //                     list.find("li").eq(i).click(function() {
+    //                         var keyword = $(this).html();
+    //                         parents.find(".smart-tips.search-key").val(keyword);
+    //                         parents.children(".super-search-fm").submit();
+    //                         list.slideUp(200);
+    //                     });
+    //                 };
+    //                 list.slideDown(200);
+    //             } else {
+    //                 list.slideUp(200)
+    //             }
+    //         },
+    //         error: function(res) {
+    //             tipsList = 0;
+    //         }
+    //     })
+    // }
+    // var listIndex = -1;
+    // var parent;
+    // var tipsList = 0;
+    // var isZhannei = false;
+    // $(document).on("blur", ".smart-tips.search-key", function() {
+    //     parent = '';
+    //     $(".search-smart-tips").delay(150).slideUp(200)
+    // });
+    // $(document).on("focus", ".smart-tips.search-key", function() {
+    //     isZhannei = $(this).attr('zhannei')!=''?true:false;
+    //     parent = $(this).parents('#search');
+    //     if ($(this).val() && !isZhannei) {
+    //         switch(theme.hotWords) {
+    //             case "baidu":
+    //                 getSmartTipsBaidu($(this).val(),parent)
+    //                 break;
+    //             case "google":
+    //                 getSmartTipsGoogle($(this).val(),parent)
+    //                 break;
+    //             default:
+    //         }
+    //     }
+    // });
+    // $(document).on("keyup", ".smart-tips.search-key", function(e) {
+    //     isZhannei = $(this).attr('zhannei')!=''?true:false;
+    //     parent = $(this).parents('#search');
+    //     if ($(this).val()) {
+    //         if (e.keyCode == 38 || e.keyCode == 40 || isZhannei) {
+    //             return
+    //         }
+    //         switch(theme.hotWords) {
+    //             case "baidu":
+    //                 getSmartTipsBaidu($(this).val(),parent)
+    //                 break;
+    //             case "google":
+    //                 getSmartTipsGoogle($(this).val(),parent)
+    //                 break;
+    //             default:
+    //         }
+    //         listIndex = -1;
+    //     } else {
+    //         $(".search-smart-tips").slideUp(200)
+    //     }
+    // });
+    // $(document).on("keydown", ".smart-tips.search-key", function(e) {
+    //     parent = $(this).parents('#search');
+    //     if (e.keyCode === 40) {
+    //         listIndex === (tipsList - 1) ? listIndex = 0 : listIndex++;
+    //         parent.find(".search-smart-tips ul li").eq(listIndex).addClass("current").siblings().removeClass("current");
+    //         var hotValue = parent.find(".search-smart-tips ul li").eq(listIndex).html();
+    //         parent.find(".smart-tips.search-key").val(hotValue)
+    //     }
+    //     if (e.keyCode === 38) {
+    //         if (e.preventDefault) {
+    //             e.preventDefault()
+    //         }
+    //         if (e.returnValue) {
+    //             e.returnValue = false
+    //         }
+    //         listIndex === 0 || listIndex === -1 ? listIndex = (tipsList - 1) : listIndex--;
+    //         parent.find(".search-smart-tips ul li").eq(listIndex).addClass("current").siblings().removeClass("current");
+    //         var hotValue = parent.find(".search-smart-tips ul li").eq(listIndex).html();
+    //         parent.find(".smart-tips.search-key").val(hotValue)
+    //     }
+    // });
     $('.nav-login-user.dropdown').hover(function(){
         if(!$(this).hasClass('show'))
             $(this).children('a').click();

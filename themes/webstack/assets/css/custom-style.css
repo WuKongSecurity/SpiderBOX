@@ -3,6 +3,11 @@
     src: url("https://static.spiderapi.cn/public/fonts/OxaniumRegular-Lite-222.woff2");
 }
 
+@font-face {
+    font-family: "DingTalk-JinBuTi";
+    src: url("https://static.spiderapi.cn/public/fonts/DingTalk-JinBuTi-Lite-3000.woff2");
+}
+
 /* 自定义鼠标指针样式 */
 * {
     cursor: url("https://static.spiderapi.cn/spiderbox/images/mouse/pointer.cur"), auto;
@@ -225,6 +230,11 @@ footer.main-footer .footer-text a:hover {
     /* background-image: linear-gradient(45deg, #00DBDE 0%, #FC00FF 100%); */
 }
 
+/* 暗黑模式下头部背景 */
+.io-black-mode .header-custom {
+    background-image: linear-gradient(45deg, #24003f 0%, #5b0075 50%, #1c0054 100%);
+}
+
 /* @media (max-width: 768px) {
     #menu-item-sponsor {
       display: none;
@@ -274,8 +284,66 @@ footer.main-footer .footer-text a:hover {
     margin: 2em auto;
 }
 
-/* 正在加载页面 */
-.loader {
+/* 正在加载页面，样式三 */
+#preloader2 {
+    position: relative
+}
+
+#preloader2:before {
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    content: '';
+    position: absolute;
+    background: #db448b;
+    left: -20px;
+    animation: preloader2_before 1.5s infinite ease-in-out;
+}
+
+#preloader2:after {
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    content: '';
+    position: absolute;
+    background: #f1404b;
+    animation: preloader2_after 1.5s infinite ease-in-out;
+}
+
+@keyframes preloader2_before {
+    0% {
+        transform: translateX(0px) rotate(0deg)
+    }
+
+    50% {
+        transform: translateX(50px) scale(1.2) rotate(260deg);
+        background: #f1404b;
+        border-radius: 0;
+    }
+
+    100% {
+        transform: translateX(0px) rotate(0deg)
+    }
+}
+
+@keyframes preloader2_after {
+    0% {
+        transform: translateX(0px)
+    }
+
+    50% {
+        transform: translateX(-50px) scale(1.2) rotate(-260deg);
+        background: #db448b;
+        border-radius: 0;
+    }
+
+    100% {
+        transform: translateX(0px)
+    }
+}
+
+/* 正在加载页面，样式一 */
+.preloader1 {
     width: 250px;
     height: 50px;
     line-height: 50px;
@@ -291,8 +359,8 @@ footer.main-footer .footer-text a:hover {
     letter-spacing: 0.2em
 }
 
-.loader::before,
-.loader::after {
+.preloader1::before,
+.preloader1::after {
     content: "";
     display: block;
     width: 15px;
@@ -302,11 +370,11 @@ footer.main-footer .footer-text a:hover {
     animation: load .7s infinite alternate ease-in-out
 }
 
-.loader::before {
+.preloader1::before {
     top: 0
 }
 
-.loader::after {
+.preloader1::after {
     bottom: 0
 }
 
