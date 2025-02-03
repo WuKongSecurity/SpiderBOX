@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 一只勇敢的小佳
+      release_time: '2025-02-03 21:52:49'
+      title: dfa攻击的库，phoenixAES和phoenixSM4的使用，一些需要注意的点，dfa详细解释文档与具体代码示例
+      url: https://www.bilibili.com/video/BV1bCPoeyEjF
     - author: 冷月不是程序员
       release_time: '2025-02-03 21:09:12'
       title: 1小时快速入门React.js 井字棋小游戏 环境搭建
@@ -113,10 +117,6 @@
       release_time: '2024-12-28 15:40:02'
       title: js逆向-akamai_3.0反爬sensor_data之mst/dvc参数逆向分析vmp初步插桩
       url: https://www.bilibili.com/video/BV1tDCbYCEw3
-    - author: 时一十一姐呀
-      release_time: '2024-12-28 14:24:54'
-      title: js逆向-akamai_3.0反爬sensor_data之din和mst参数逆向分析
-      url: https://www.bilibili.com/video/BV17GC8YbEUi
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
