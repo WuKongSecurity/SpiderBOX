@@ -366,6 +366,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: coleak
+      release_time: '2025-02-03 10:13:28'
+      title: Flask代码审计实战
+      url: https://blog.csdn.net/qq_63701832/article/details/145427984
     - author: 王辉辉的猫
       release_time: '2025-02-02 19:23:19'
       title: 031.关于后续更新和指纹浏览器成品
@@ -482,10 +486,6 @@
       release_time: '2025-01-16 09:59:52'
       title: '[原创]洗劫数百万美元，警惕Web3.0独有钓鱼攻击升级版：Ice Phishing'
       url: https://bbs.kanxue.com/thread-285254.htm
-    - author: Lychow
-      release_time: '2025-01-15 22:37:01'
-      title: '[原创] 简单魔改MD5分析学习'
-      url: https://bbs.kanxue.com/thread-285248.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
