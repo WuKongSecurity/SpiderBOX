@@ -14,10 +14,6 @@
       title: 1小时快速入门React.js 井字棋小游戏 环境搭建
       url: https://www.bilibili.com/video/BV1LyP9e7EHT
     - author: 带带弟弟学爬虫
-      release_time: 2025.02.03 19:26:56
-      title: 新年已过！UP已上线
-      url: https://www.bilibili.com/video/BV1uZP9eBELt
-    - author: 带带弟弟学爬虫
       release_time: 2025.02.03 18:50:15
       title: FlutterAPP-脸映 sign
       url: https://www.bilibili.com/video/BV1hvPReGEC3
@@ -128,10 +124,6 @@
       release_time: 2025.02.02 10:50:47
       title: 【2025春节】解题领红包活动排行榜（初五 2/2）
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141668&idx=1&sn=82663ea0981e0c6f1544bb1fe7ab6bb8
-    - author: Coder小Q
-      release_time: 2025.02.02 08:30:00
-      title: 【2025】初五迎财神，恭喜发财
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491392&idx=1&sn=75011220308fe9a69d8dd70b7d07d5f0
     - author: 吾爱破解论坛
       release_time: 2025.02.01 12:34:44
       title: 【2025春节】解题领红包活动排行榜（初四 2/1）
@@ -240,6 +232,10 @@
       release_time: 2025.01.24 20:53:03
       title: 某滑块（纯算）的一些思路笔记
       url: https://mp.weixin.qq.com/s?__biz=Mzg2Mjk4MTg5Ng==&mid=2247483657&idx=1&sn=eaac34329e45143222fd851b9e85c0c2
+    - author: 秋裤的学习笔记
+      release_time: 2025.01.24 20:52:51
+      title: h5st加密
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2Mjk4MTg5Ng==&mid=2247483689&idx=1&sn=57f1711df61d2f29c10d37fb2925c178
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
