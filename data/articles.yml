@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 冷月不是程序员
+      release_time: '2025-02-03 21:09:12'
+      title: 1小时快速入门React.js 井字棋小游戏 环境搭建
+      url: https://www.bilibili.com/video/BV1LyP9e7EHT
     - author: 带带弟弟学爬虫
       release_time: '2025-02-03 19:26:56'
       title: 新年已过！UP已上线
@@ -113,10 +117,6 @@
       release_time: '2024-12-28 14:24:54'
       title: js逆向-akamai_3.0反爬sensor_data之din和mst参数逆向分析
       url: https://www.bilibili.com/video/BV17GC8YbEUi
-    - author: r0ysue
-      release_time: '2024-12-27 16:32:41'
-      title: iOS18抓包套件证书置入与免越狱用frida
-      url: https://www.bilibili.com/video/BV1vnCnYwEkm
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
