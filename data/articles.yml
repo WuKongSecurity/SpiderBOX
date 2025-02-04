@@ -116,6 +116,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小伍哥聊风控
+      release_time: 2025.02.04 17:16:41
+      title: 树模型还是图模型？风控中的树模型和图模型 效果大比拼！
+      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196711&idx=1&sn=7d324316850fb4d9b9463fd99543989e
     - author: 吾爱破解论坛
       release_time: 2025.02.03 11:49:28
       title: 【2025春节】解题领红包活动排行榜（初六 2/3）
@@ -232,10 +236,6 @@
       release_time: 2025.01.24 20:53:03
       title: 某滑块（纯算）的一些思路笔记
       url: https://mp.weixin.qq.com/s?__biz=Mzg2Mjk4MTg5Ng==&mid=2247483657&idx=1&sn=eaac34329e45143222fd851b9e85c0c2
-    - author: 秋裤的学习笔记
-      release_time: 2025.01.24 20:52:51
-      title: h5st加密
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2Mjk4MTg5Ng==&mid=2247483689&idx=1&sn=57f1711df61d2f29c10d37fb2925c178
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
