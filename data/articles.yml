@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: Alone逆向安全
+      release_time: 2025.02.04 23:53:32
+      title: 用现代c++ 写一个类似Unidbg 黑盒调用So的 框架
+      url: https://www.bilibili.com/video/BV1EgPqeiEzM
     - author: 一只勇敢的小佳
       release_time: 2025.02.04 16:07:59
       title: 某byd海洋的白盒sm4的unidbg得到轮密钥详解，unidbg动态调试使用，sm4白盒实战
@@ -109,10 +113,6 @@
       release_time: 2024.12.30 15:14:24
       title: 瑞数6还不会补环境？补环境框架几分钟出值
       url: https://www.bilibili.com/video/BV1256GYpESY
-    - author: 和沐阳学逆向
-      release_time: 2024.12.28 23:51:59
-      title: 55.新年礼物《iOS逆向助手》发布,无须输入激活码,下载即用
-      url: https://www.bilibili.com/video/BV14V6WYXEdj
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
