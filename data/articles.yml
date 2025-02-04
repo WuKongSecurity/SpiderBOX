@@ -116,6 +116,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.02.04 19:12:57
+      title: DeepSeek + Continue：Android 开发效率提升 10 倍的秘密！
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497214&idx=1&sn=d3776e4e8ce79ffe90b533ae95255b10
     - author: 小伍哥聊风控
       release_time: 2025.02.04 17:16:41
       title: 树模型还是图模型？风控中的树模型和图模型 效果大比拼！
@@ -232,10 +236,6 @@
       release_time: 2025.01.24 22:43:15
       title: akamai3反混淆
       url: https://mp.weixin.qq.com/s?__biz=Mzg2Mjk4MTg5Ng==&mid=2247483702&idx=1&sn=af5ede3e49e4dcfb89050ec78e239da1
-    - author: 秋裤的学习笔记
-      release_time: 2025.01.24 20:53:03
-      title: 某滑块（纯算）的一些思路笔记
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2Mjk4MTg5Ng==&mid=2247483657&idx=1&sn=eaac34329e45143222fd851b9e85c0c2
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
