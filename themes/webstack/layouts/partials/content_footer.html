@@ -14,20 +14,12 @@
             data-toggle="tooltip" data-placement="left" title="联系我们">
             <i class="fas fa-comment-dots"></i>
         </a>
-        <!-- 右下角夜/日间模式 -->
-        {{ if $.Site.Params.nightMode }}
-        <a href="javascript:" onclick="window.location.href='javascript:switchNightMode()'"
+        <!-- 右下角夜/日间模式切换 -->
+        <a href="javascript:" onclick="switchNightMode()"
             class="btn rounded-circle switch-dark-mode m-1" id="yejian" data-toggle="tooltip" data-placement="left"
-            title="夜间模式">
+            title="夜/日间模式">
             <i class="fas fa-adjust"></i>
         </a>
-        {{ else }}
-        <a href="javascript:" onclick="window.location.href='javascript:switchNightMode()'"
-            class="btn rounded-circle switch-dark-mode m-1" id="yejian" data-toggle="tooltip" data-placement="left"
-            title="日间模式">
-            <i class="fas fa-adjust"></i>
-        </a>
-        {{ end }}
     </div>
     <div class="footer-inner">
 

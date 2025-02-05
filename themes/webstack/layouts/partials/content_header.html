@@ -112,7 +112,7 @@
                                   const minutes = String(now.getMinutes()).padStart(2, '0');
                                   const seconds = String(now.getSeconds()).padStart(2, '0');
                                   // 更新到 HTML 页面
-                                  document.getElementById('time-display').textContent = `${year}-${month}-${date} ${hours}:${minutes}:${seconds} ${weekday}`;
+                                  document.getElementById('time-display').textContent = `${year}.${month}.${date} ${hours}:${minutes}:${seconds} ${weekday}`;
                                 }
                                 // 每秒更新时间
                                 setInterval(updateDateTime, 1000);
@@ -124,7 +124,7 @@
                         {{ with .Site.Params.yiyan }}
                         <li class="nav-item mr-3 mr-lg-0 d-none d-xxl-block">
                             <script>
-                                fetch('https://v1.hitokoto.cn/?c=d&c=i&c=k')
+                                fetch('https://v1.hitokoto.cn/?max_length=15')
                                     .then(response => response.json())
                                     .then(data => {
                                         const hitokoto = document.getElementById('hitokoto_text')

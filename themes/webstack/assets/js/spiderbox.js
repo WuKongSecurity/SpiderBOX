@@ -18,73 +18,73 @@ console.log(makeMulti(string), "color: #0084ff");
 console.log("\n %c © BOB'S BLOG %c itbob.cn %c © SpiderBox %c spiderbox.cn %c © WebStack %c webstack.cc \n", "color: #fadfa3; background: #030307; padding:5px 0;", "background: #fadfa3; padding:5px 0;", "color: #ffffff; background: #0084ff; padding:5px 0;", "background: #fadfa3; padding:5px 0;", "color: #ffffff; background: #f1404b; padding:5px 0;", "background: #fadfa3; padding:5px 0;");
 
 /* 弹窗一：say hello baby */
-$(document).ready(function () {
-    // 检查是否是 Chromium 内核且版本小于 100
-    function isOldChromium() {
-        try {
-            const userAgent = navigator.userAgent;
-            const chromeMatch = userAgent.match(/Chrome\/(\d+)/);
-            if (chromeMatch && chromeMatch[1]) {
-                const chromeVersion = parseInt(chromeMatch[1], 10);
-                return chromeVersion < 100;
-            }
-            return false;
-        } catch (error) {
-            console.error("Error detecting Chromium version:", error);
-            // 出现异常时默认不弹出弹窗
-            return true;
-        }
-    }
-
-    if (isOldChromium()) {
-        return;
-    }
-
-    // 检查本地存储中的标志位，如果标志位为 true，则不再弹出弹窗
-    let lastPopupTime = localStorage.getItem("FUCK_GIZAWORKS");
-    lastPopupTime = new Date(lastPopupTime).getTime();
-    const currentTime = new Date().getTime();
-    const timeDifferenceInDays = Math.floor((currentTime - lastPopupTime) / (1000 * 60 * 60 * 24));
-    if (!lastPopupTime || timeDifferenceInDays >= 10) {
-        Swal.fire({
-            // width: 300,
-            title: "欢迎",
-            // text: "SpiderBox 仍处于初期建设当中，<br>欢迎扫码关注站长公众号：虫技",
-            html: `
-            <!-- <font style="font-weight:bold; color:red;">SpiderBox 仍处于初期建设当中</font>-->
-            <!-- <br>-->
-            欢迎扫码关注站长公众号：虫技
-            <br>
-<!--            <p style="color:#DC1729;"><strong>本站与 kgtools.cn 等其他网站没有任何关系</strong></p>-->
-<!--            <p style="color:#DC1729;"><strong>本站于2023年8月13日原创首发，<a href="https://mp.weixin.qq.com/s/7vFpmhvU8-DCONlvlklMTQ" target="_blank">点此了解详情</a></strong></p>-->
-            <strong><a href="https://mp.weixin.qq.com/s/ZDeJM7KAbst8er8zLRhdSg" target="_blank">点此了解近期更新情况</a></strong>       
-            `,
-            showCancelButton: true,
-            confirmButtonText: "俺知道了",
-            cancelButtonText: "烦死了，近期不再弹出！",
-            confirmButtonColor: "#0084ff",
-            imageUrl: "https://static.spiderapi.cn/spiderbox/images/qrcode/IT_BOB.jpg",
-            // imageUrl: "https://spiderapi.cn/img/qrcode/gzh.png",
-            // imageWidth: 300,
-            // imageHeight: 300,
-            imageAlt: "公众号：虫技",
-            showClass: {
-                popup: "swal2-show"
-            },
-            hideClass: {
-                popup: "swal2-hide"
-            }
-        }).then((result) => {
-            if (result.isConfirmed) {
-
-            } else {
-                localStorage.setItem("FUCK_GIZAWORKS", new Date().toISOString());
-            }
-        });
-        const popupContainer = document.querySelector('.swal2-container');
-        popupContainer.style.zIndex = '9999';
-    }
-});
+// $(document).ready(function () {
+//     // 检查是否是 Chromium 内核且版本小于 100
+//     function isOldChromium() {
+//         try {
+//             const userAgent = navigator.userAgent;
+//             const chromeMatch = userAgent.match(/Chrome\/(\d+)/);
+//             if (chromeMatch && chromeMatch[1]) {
+//                 const chromeVersion = parseInt(chromeMatch[1], 10);
+//                 return chromeVersion < 100;
+//             }
+//             return false;
+//         } catch (error) {
+//             console.error("Error detecting Chromium version:", error);
+//             // 出现异常时默认不弹出弹窗
+//             return true;
+//         }
+//     }
+//
+//     if (isOldChromium()) {
+//         return;
+//     }
+//
+//     // 检查本地存储中的标志位，如果标志位为 true，则不再弹出弹窗
+//     let lastPopupTime = localStorage.getItem("FUCK_GIZAWORKS");
+//     lastPopupTime = new Date(lastPopupTime).getTime();
+//     const currentTime = new Date().getTime();
+//     const timeDifferenceInDays = Math.floor((currentTime - lastPopupTime) / (1000 * 60 * 60 * 24));
+//     if (!lastPopupTime || timeDifferenceInDays >= 10) {
+//         Swal.fire({
+//             // width: 300,
+//             title: "欢迎",
+//             // text: "SpiderBox 仍处于初期建设当中，<br>欢迎扫码关注站长公众号：虫技",
+//             html: `
+//             <!-- <font style="font-weight:bold; color:red;">SpiderBox 仍处于初期建设当中</font>-->
+//             <!-- <br>-->
+//             欢迎扫码关注站长公众号：虫技
+//             <br>
+// <!--            <p style="color:#DC1729;"><strong>本站与 kgtools.cn 等其他网站没有任何关系</strong></p>-->
+// <!--            <p style="color:#DC1729;"><strong>本站于2023年8月13日原创首发，<a href="https://mp.weixin.qq.com/s/7vFpmhvU8-DCONlvlklMTQ" target="_blank">点此了解详情</a></strong></p>-->
+//             <strong><a href="https://mp.weixin.qq.com/s/ZDeJM7KAbst8er8zLRhdSg" target="_blank">点此了解近期更新情况</a></strong>
+//             `,
+//             showCancelButton: true,
+//             confirmButtonText: "俺知道了",
+//             cancelButtonText: "烦死了，近期不再弹出！",
+//             confirmButtonColor: "#0084ff",
+//             imageUrl: "https://static.spiderapi.cn/spiderbox/images/qrcode/IT_BOB.jpg",
+//             // imageUrl: "https://spiderapi.cn/img/qrcode/gzh.png",
+//             // imageWidth: 300,
+//             // imageHeight: 300,
+//             imageAlt: "公众号：虫技",
+//             showClass: {
+//                 popup: "swal2-show"
+//             },
+//             hideClass: {
+//                 popup: "swal2-hide"
+//             }
+//         }).then((result) => {
+//             if (result.isConfirmed) {
+//
+//             } else {
+//                 localStorage.setItem("FUCK_GIZAWORKS", new Date().toISOString());
+//             }
+//         });
+//         const popupContainer = document.querySelector('.swal2-container');
+//         popupContainer.style.zIndex = '9999';
+//     }
+// });
 
 /* 弹窗二：交流群 */
 // $(document).ready(function () {
@@ -118,91 +118,87 @@ $(document).ready(function () {
 // });
 
 /* 弹窗三：免责声明 */
-$(document).ready(function () {
-    let popupWidth = "55%"; // 默认宽度
+
+const showDisclaimerElement = document.getElementById("show-disclaimer");
+showDisclaimerElement.addEventListener("click", function () {
+    let popupWidth = "55%";
     if (window.innerWidth < 768) {
         popupWidth = "95%";
-    } else {
-        popupWidth = "55%";
     }
+    Swal.fire({
+        html: `
+        <div class="custom-swal-container">
+            <h3>免责声明</h3>
+            <p style="text-align: left;">欢迎使用我们的导航站 [SpiderBox 虫盒]！请在使用本站点之前仔细阅读以下免责声明，要访问和使用本站点，您必须接受以下条款和条件！如果您不同意这些条款和条件，请勿使用本站点！</p>
+            <ol class="custom-swal-ol">
+                <li>
+                    <span>信息准确性</span>
+                    <p>本站点提供的导航链接和信息仅供参考，尽管我们努力确保信息的准确性和完整性，但我们不对信息的准确性、完整性、实时性或适用性作出任何明示或暗示的陈述或担保，您应该自行核实和验证您所获得的信息！</p>
+                </li>
+                <li>
+                    <span>使用风险</span>
+                    <p>使用本站点提供的导航链接和信息是基于您自己的判断和风险，我们不对您使用本站点导航链接导致的任何损失、损害或不便负责，在使用导航链接之前，请确保您已经充分了解所涉及的风险！</p>
+                </li>
+                <li>
+                    <span>第三方链接</span>
+                    <p>本站点包含的所有指向第三方网站的链接仅供您的方便提供，不代表我们对这些第三方网站的认可或担保，我们对这些第三方网站的内容、隐私政策和行为不承担任何责任，您在访问这些链接时需谨慎自负风险！</p>
+                </li>
+                <li>
+                    <span>知识产权和版权</span>
+                    <p>本站点为非营利性网站，尊重知识产权和版权，基于互联网之分享精神，如果您认为本站点包含侵犯您的知识产权或版权的内容，请与我们联系，我们会尽快删除或更正相关内容！</p>
+                </li>
+                <li>
+                    <span>法律合规</span>
+                    <p>您使用本站点的行为应遵守适用的法律法规，您对任何违反法律法规的行为负有全部责任，我们不对您的任何违法行为负责！</p>
+                </li>
+                <li>
+                    <span>免责声明的变更</span>
+                    <p>我们保留随时修改或更新本免责声明的权利，请您定期查阅本页面以获取最新信息！</p>
+                </li>
+              </ol>
 
-    const showDisclaimerElement = document.getElementById("show-disclaimer");
-    showDisclaimerElement.addEventListener("click", function () {
-        Swal.fire({
-            html: `
-            <div class="custom-swal-container">
-                <h3>免责声明</h3>
-                <p style="text-align: left;">欢迎使用我们的导航站 [SpiderBox 虫盒]！请在使用本站点之前仔细阅读以下免责声明，要访问和使用本站点，您必须接受以下条款和条件！如果您不同意这些条款和条件，请勿使用本站点！</p>
-                <ol class="custom-swal-ol">
-                    <li>
-                        <span>信息准确性</span>
-                        <p>本站点提供的导航链接和信息仅供参考，尽管我们努力确保信息的准确性和完整性，但我们不对信息的准确性、完整性、实时性或适用性作出任何明示或暗示的陈述或担保，您应该自行核实和验证您所获得的信息！</p>
-                    </li>
-                    <li>
-                        <span>使用风险</span>
-                        <p>使用本站点提供的导航链接和信息是基于您自己的判断和风险，我们不对您使用本站点导航链接导致的任何损失、损害或不便负责，在使用导航链接之前，请确保您已经充分了解所涉及的风险！</p>
-                    </li>
-                    <li>
-                        <span>第三方链接</span>
-                        <p>本站点包含的所有指向第三方网站的链接仅供您的方便提供，不代表我们对这些第三方网站的认可或担保，我们对这些第三方网站的内容、隐私政策和行为不承担任何责任，您在访问这些链接时需谨慎自负风险！</p>
-                    </li>
-                    <li>
-                        <span>知识产权和版权</span>
-                        <p>本站点为非营利性网站，尊重知识产权和版权，基于互联网之分享精神，如果您认为本站点包含侵犯您的知识产权或版权的内容，请与我们联系，我们会尽快删除或更正相关内容！</p>
-                    </li>
-                    <li>
-                        <span>法律合规</span>
-                        <p>您使用本站点的行为应遵守适用的法律法规，您对任何违反法律法规的行为负有全部责任，我们不对您的任何违法行为负责！</p>
-                    </li>
-                    <li>
-                        <span>免责声明的变更</span>
-                        <p>我们保留随时修改或更新本免责声明的权利，请您定期查阅本页面以获取最新信息！</p>
-                    </li>
-                  </ol>
-    
-                  <h3>联系方式</h3>
-                  <ol class="custom-swal-ol">
-                    <li>
-                        <span>站长邮箱：</span>
-                        <button style="display: inline;margin: 0;" id="show-email">点击获取</button>
-                    </li>
-                    <li>
-                        <span>站长公众号：</span>虫技
-                    </li>
-                  </ol>
-                  <p class="custom-swal-date">2023年08月17日</p>
-            </div>
-            `,
-            width: popupWidth,
-            showCancelButton: true,
-            confirmButtonText: "同意",
-            cancelButtonText: "不同意",
-            confirmButtonColor: "#0084ff",
-            showClass: {
-                popup: "swal2-show"
-            },
-            hideClass: {
-                popup: "swal2-hide"
-            },
-            allowOutsideClick: false,
-            customClass: {
-                // popup: "custom-swal-popup"
-                container: "custom-swal-container"
-            }
-        }).then((result) => {
-            if (result.isConfirmed) {
-                Swal.close();
-            } else if (result.dismiss === Swal.DismissReason.cancel) {
-                window.close();
-            }
-        });
-        const popupContainer = document.querySelector(".swal2-container");
-        popupContainer.style.zIndex = "9999";
+              <h3>联系方式</h3>
+              <ol class="custom-swal-ol">
+                <li>
+                    <span>站长邮箱：</span>
+                    <button style="display: inline;margin: 0;" id="show-email">点击获取</button>
+                </li>
+                <li>
+                    <span>站长公众号：</span>虫技
+                </li>
+              </ol>
+              <p class="custom-swal-date">2023年08月17日</p>
+        </div>
+        `,
+        width: popupWidth,
+        showCancelButton: true,
+        confirmButtonText: "同意",
+        cancelButtonText: "不同意",
+        confirmButtonColor: "#0084ff",
+        showClass: {
+            popup: "swal2-show"
+        },
+        hideClass: {
+            popup: "swal2-hide"
+        },
+        allowOutsideClick: false,
+        customClass: {
+            // popup: "custom-swal-popup"
+            container: "custom-swal-container"
+        }
+    }).then((result) => {
+        if (result.isConfirmed) {
+            Swal.close();
+        } else if (result.dismiss === Swal.DismissReason.cancel) {
+            window.close();
+        }
+    });
+    const popupContainer = document.querySelector(".swal2-container");
+    popupContainer.style.zIndex = "9999";
 
-        let showEmailElement = document.getElementById("show-email");
-        showEmailElement.addEventListener("click", function () {
-            showEmailElement.innerHTML = atob("YWRtaW5AaXRib2IuY24=");
-        });
+    let showEmailElement = document.getElementById("show-email");
+    showEmailElement.addEventListener("click", function () {
+        showEmailElement.innerHTML = atob("YWRtaW5AaXRib2IuY24=");
     });
 });
 
@@ -238,57 +234,66 @@ $(document).ready(function () {
 //     })
 // });
 
-/* 夜间(日间)模式 */
+function getCookie(name) {
+    const nameEQ = name + "=";
+    const cookies = document.cookie.split(';');
+    for (let cookie of cookies) {
+        cookie = cookie.trim();
+        if (cookie.indexOf(nameEQ) === 0) {
+            return cookie.substring(nameEQ.length);
+        }
+    }
+    return null;
+}
+
+/* 夜间(日间)模式记忆判断 */
 (function () {
-    if (document.cookie.replace(/(?:(?:^|.*;\s*)night\s*\=\s*([^;]*).*$)|^.*$/, "$1") === '') {
-        if (new Date().getHours() > 22 || new Date().getHours() < 6) {
-            document.body.classList.remove('io-black-mode');
-            document.body.classList.add('io-grey-mode');
-            document.cookie = "night=1;path=/";
-            console.log('夜间模式开启');
-        } else {
-            document.body.classList.remove('night');
-            document.cookie = "night=0;path=/";
-            console.log('夜间模式关闭');
-        }
-    } else {
-        let night = document.cookie.replace(/(?:(?:^|.*;\s*)night\s*\=\s*([^;]*).*$)|^.*$/, "$1") || '0';
-        if (night === '0') {
-            document.body.classList.remove('night');
-        } else if (night === '1') {
-            document.body.classList.add('night');
-        }
+    let nightCookie = getCookie('_SPIDERBOX_NIGHT_') === '1';
+    if (nightCookie) {
+        document.body.classList.remove('io-grey-mode');
+        document.body.classList.add('io-black-mode');
+        console.log('夜间模式开启');
+        $(".switch-dark-mode").attr("data-original-title", "日间模式");
+        $(".mode-ico").removeClass("icon-night");
+        $(".mode-ico").addClass("icon-light");
     }
 })();
 
 /* 夜间(日间)模式切换 */
-
 // $("#search-bg").css("background-image", "url({{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.images.searchImageL }})");   //默认浅色背景
 function switchNightMode() {
-    let night = document.cookie.replace(/(?:(?:^|.*;\s*)night\s*\=\s*([^;]*).*$)|^.*$/, "$1") || '0';
-    if (night === '0') {
-        // $("#search-bg").css("background-image", "url({{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.images.searchImageL }})");
-        document.body.classList.remove('io-grey-mode');
-        document.body.classList.add('io-black-mode');
-        document.cookie = "night=1;path=/"
-        console.log(' ');
-        $(".switch-dark-mode").attr("data-original-title", "日间模式");
-        $(".mode-ico").removeClass("icon-night");
-        $(".mode-ico").addClass("icon-light");
-    } else {
+    const cookieName = "_SPIDERBOX_NIGHT_"
+    const date = new Date();
+    date.setFullYear(date.getFullYear() + 1);  // 设置为 1 年后过期
+
+    let nightCookie = getCookie(cookieName) === '1';
+    let nightClass = document.body.classList.contains('io-black-mode');
+    let night = nightCookie || nightClass;
+    // let night = document.cookie.replace(/(?:(?:^|.*;\s*)night\s*\=\s*([^;]*).*$)|^.*$/, "$1") || '0';
+
+    if (night) {
         // $("#search-bg").css("background-image", "url({{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.images.searchImageD }})")
         document.body.classList.remove('io-black-mode');
         document.body.classList.add('io-grey-mode');
-        document.cookie = "night=0;path=/"
-        console.log(' ');
+        document.cookie = `${cookieName}=0; expires=${date.toUTCString()}; path=/`;
+        console.log('切换至日间模式');
         $(".switch-dark-mode").attr("data-original-title", "夜间模式");
         $(".mode-ico").removeClass("icon-light");
         $(".mode-ico").addClass("icon-night");
+    } else {
+        // $("#search-bg").css("background-image", "url({{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.images.searchImageL }})");
+        document.body.classList.remove('io-grey-mode');
+        document.body.classList.add('io-black-mode');
+        document.cookie = `${cookieName}=1; expires=${date.toUTCString()}; path=/`;
+        console.log('切换至夜间模式');
+        $(".switch-dark-mode").attr("data-original-title", "日间模式");
+        $(".mode-ico").removeClass("icon-night");
+        $(".mode-ico").addClass("icon-light");
     }
 }
 
 /* 图片懒加载 */
-$(document).ready(function () {
+window.addEventListener('DOMContentLoaded', (event) => {
     let observer = new IntersectionObserver((entries, observe) => {
         entries.forEach(item => {
             // 获取当前正在观察的元素
@@ -385,39 +390,28 @@ document.addEventListener("contextmenu", (event) => {
     }
 });
 
-
 /* 新弹窗：say hello baby */
-/*
-$(document).ready(function () {
-    // 检查是否是 Chromium 内核且版本小于 100
-    function isOldChromium() {
-        try {
-            const userAgent = navigator.userAgent;
-            const chromeMatch = userAgent.match(/Chrome\/(\d+)/);
-            if (chromeMatch && chromeMatch[1]) {
-                const chromeVersion = parseInt(chromeMatch[1], 10);
-                return chromeVersion < 100;
-            }
-            return false;
-        } catch (error) {
-            console.error("Error detecting Chromium version:", error);
-            // 出现异常时默认不弹出弹窗
-            return true;
-        }
-    }
-
-    if (isOldChromium()) {
-        return;
-    }
-
-    // 检查本地存储中的标志位，如果标志位为 true，则不再弹出弹窗
-    let lastPopupTime = localStorage.getItem("FUCK_GIZAWORKS");
+window.addEventListener('DOMContentLoaded', (event) => {
+    // 检查本地存储中的标志位对应的时间，如果时间在15天内，则不弹窗
+    let lastPopupTime = localStorage.getItem("_SPIDERBOX_SHOW_START_POPUP_");
     lastPopupTime = new Date(lastPopupTime).getTime();
     const currentTime = new Date().getTime();
     const timeDifferenceInDays = Math.floor((currentTime - lastPopupTime) / (1000 * 60 * 60 * 24));
-    if (!lastPopupTime || timeDifferenceInDays >= 10) {
-        alertify.confirm("欢迎访问", "Message1<br>Message2", function(){ alertify.success("俺知道了") }
-                , function(){ alertify.error("烦死了，近期不再弹出！")});
+    if (!lastPopupTime || timeDifferenceInDays >= 15) {  // 15 天内不再弹窗
+        alertify.confirm(
+            "欢迎访问虫盒",
+            "1️⃣ 站长公众号：<a href='https://static.spiderapi.cn/public/images/info/spider_skill_green.png' target='_blank'>虫技</a>丨<a href='https://www.itbob.cn/about/' target='_blank'>关于站长</a>丨<a href='https://spiderapi.cn/pages/changelog' target='_blank'>更新日志</a>丨<a href='https://bbs.wukongsec.com/' target='_blank'>在线反馈/交流/联系</a><br><br>" +
+            "2️⃣ 添加站长微信: <a href='https://static.spiderapi.cn/public/images/info/wechat.jpg' target='_blank'>IT-BOB</a>，加入微信交流群，群内机器人实时推送全网优质文章<br><br>" +
+            "3️⃣ 尊重原创，遵守开源协议，一直被模仿，从未被超越，恶意抄袭<a href='https://mp.weixin.qq.com/s/7vFpmhvU8-DCONlvlklMTQ' target='_blank'>案例一</a>、<a href='https://mp.weixin.qq.com/s/3s36tg_mI-Dg4pddoi-eEA' target='_blank'>案例二</a>",
+            function () {},
+            function () {
+                localStorage.setItem("_SPIDERBOX_SHOW_START_POPUP_", new Date().toISOString());
+                alertify.success('15 天内不再弹出');
+            }).set({
+            labels: {ok: '俺知道了', cancel: '烦死了，近期不再弹出!'},
+            'movable': false,
+            'reverseButtons': true,
+            'closable': false
+        });
     }
 });
-*/

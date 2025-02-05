@@ -13,7 +13,7 @@
             <div id="lytoday">
                 <div class="hot-panel">
                     {{ range .list }}
-                    <div class="hot-card">
+                    <div class="card hot-card">
                         <div class="hot-head">
                             <img src="{{ with $.Site.Params.cdnURLPubilc }}{{ . }}{{ end }}{{ .logo }}"><span class="hot-title">{{ .term }}</span><span class="hot-unit">作者</span>
                         </div>

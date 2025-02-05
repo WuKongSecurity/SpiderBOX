@@ -1,120 +1,120 @@
 {{ if $.Site.Params.nightMode }}
-
 <body class="io-black-mode">
 {{ else }}
-
 <body class="io-grey-mode">
 {{ end }}
+
 {{ if $.Site.Params.enablePreLoad }}
 <div id="loading">
-    <div class="loader">{{ $.Site.Params.textPreLoad }}</div>
+    <!--<div class="preloader1">{{ $.Site.Params.textPreLoad }}</div>-->
+    <div id="preloader2"></div>
 </div>
 {{ end }}
 <div class="page-container">
-<!--    {{ if $.Site.Params.expandSidebar }}-->
-<!--        <div id="sidebar" class="sticky sidebar-nav fade animate-nav" style="width: 170px">-->
-<!--    {{ else }}-->
-<!--        <div id="sidebar" class="sticky sidebar-nav fade mini-sidebar" style="width: 60px;">-->
-<!--    {{ end }}-->
-            <div id="sidebar" class="sticky sidebar-nav fade mini-sidebar" style="width: 60px;">
-            <div class="modal-dialog h-100 sidebar-nav-inner">
-                <div class="sidebar-logo border-bottom border-color">
-                    <!-- logo -->
-                    <div class="logo overflow-hidden">
-                        <a href="/" class="logo-expanded">
-                            <img src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.images.logoExpandLight }}"
-                                 height="55"
-                                 class="logo-light" alt="{{ .Site.Title }}">
-                            <img src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.images.logoExpandDark }}"
-                                 height="55"
-                                 class="logo-dark d-none" alt="{{ .Site.Title }}">
-                        </a>
-                        <a href="/" class="logo-collapsed">
-                            <img src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.images.logoCollapseLight }}"
-                                 height="35"
-                                 class="logo-light" alt="{{ .Site.Title }}">
-                            <img src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.images.logoCollapseDark }}"
-                                 height="35"
-                                 class="logo-dark d-none" alt="{{ .Site.Title }}">
-                        </a>
-                    </div>
-                    <!-- logo end -->
+    <!--    {{ if $.Site.Params.expandSidebar }}-->
+    <!--        <div id="sidebar" class="sticky sidebar-nav fade animate-nav" style="width: 170px">-->
+    <!--    {{ else }}-->
+    <!--        <div id="sidebar" class="sticky sidebar-nav fade mini-sidebar" style="width: 60px;">-->
+    <!--    {{ end }}-->
+    <div id="sidebar" class="sticky sidebar-nav fade mini-sidebar" style="width: 60px;">
+        <div class="modal-dialog h-100 sidebar-nav-inner">
+            <div class="sidebar-logo border-bottom border-color">
+                <!-- logo -->
+                <div class="logo overflow-hidden">
+                    <a href="/" class="logo-expanded">
+                        <img src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.images.logoExpandLight }}"
+                             height="55"
+                             class="logo-light" alt="{{ .Site.Title }}">
+                        <img src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.images.logoExpandDark }}"
+                             height="55"
+                             class="logo-dark d-none" alt="{{ .Site.Title }}">
+                    </a>
+                    <a href="/" class="logo-collapsed">
+                        <img src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.images.logoCollapseLight }}"
+                             height="35"
+                             class="logo-light" alt="{{ .Site.Title }}">
+                        <img src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.images.logoCollapseDark }}"
+                             height="35"
+                             class="logo-dark d-none" alt="{{ .Site.Title }}">
+                    </a>
                 </div>
-                <div class="sidebar-menu flex-fill">
-                    <div class="sidebar-scroll">
-                        <div class="sidebar-menu-inner">
-                            <ul>
-                                {{ range .Site.Data.articles }}
-                                {{ if .list }}
-                                <li class="sidebar-item">
-                                    <a href="#{{ md5 .taxonomy }}" class="smooth">
-                                        <i class="{{ .icon }} fa-lg icon-fw icon-lg mr-2"></i>
-                                        <span>{{ .taxonomy }}</span>
-                                    </a>
-                                </li>
-                                {{ end }}
-                                {{ end }}
-
-                                {{ range .Site.Data.recommend }}
-                                {{ if .links }}
-                                <li class="sidebar-item">
-                                    <a href="#{{ md5 .taxonomy }}" class="smooth">
-                                        <i class="{{ .icon }} fa-lg icon-fw icon-lg mr-2"></i>
-                                        <span>{{ .taxonomy }}</span>
-                                    </a>
-                                </li>
-                                {{ end }}
-                                {{ end }}
-
-                                {{ range .Site.Data.webstack }}
-                                {{ if .list }}
-                                <li class="sidebar-item">
-                                    <!-- 原来是跳转到第一个子目录位置 -->
-                                    <!-- <a href="#{{ range first 1 .list }}{{ md5 .term }}{{ end }}" -->
-                                    <a href="javascript:void(0)" class="smooth change-href"
-                                       data-change="#{{ range first 1 .list }}{{ md5 .term }}{{ end }}">
-                                        <i class="{{ .icon }} icon-fw icon-lg mr-2"></i>
-                                        <span>{{ .taxonomy }}</span>
-                                        <i class="fas fa-chevron-right sidebar-more text-sm"></i>
-                                    </a>
-                                    <ul>
-                                        {{ range .list }}
-                                        <li><a href="#{{ md5 .term }}" class="smooth"><span>{{ .term }}</span></a></li>
-                                        {{ end }}
-                                    </ul>
-                                </li>
-                                {{ else }}
-                                <li class="sidebar-item">
-                                    <a href="#{{ md5 .taxonomy }}" class="smooth">
-                                        <i class="{{ .icon }} fa-lg icon-fw icon-lg mr-2"></i>
-                                        <span>{{ .taxonomy }}</span>
-                                    </a>
-                                </li>
-                                {{ end }}
-                                {{ end }}
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="border-top py-2 border-color">
-                    <div class="flex-bottom">
+                <!-- logo end -->
+            </div>
+            <div class="sidebar-menu flex-fill">
+                <div class="sidebar-scroll">
+                    <div class="sidebar-menu-inner">
                         <ul>
-                            <li id="menu-item-github"
-                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-github sidebar-item">
-                                <a target="_blank" rel="noopener" href="{{ $.Site.Params.repository }}">
-                                    <i class="fab fa-github icon-fw icon-lg mr-2"></i>
-                                    <span>GitHub</span>
+                            {{ range .Site.Data.articles }}
+                            {{ if .list }}
+                            <li class="sidebar-item">
+                                <a href="#{{ md5 .taxonomy }}" class="smooth">
+                                    <i class="{{ .icon }} fa-lg icon-fw icon-lg mr-2"></i>
+                                    <span>{{ .taxonomy }}</span>
                                 </a>
                             </li>
-                            <li id="menu-item-friendlink"
-                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-friendlink sidebar-item">
-                                <a href="#friendlink" class="smooth">
-                                    <i class="fas fa-link icon-fw icon-lg mr-2"></i>
-                                    <span>友情链接</span>
+                            {{ end }}
+                            {{ end }}
+
+                            {{ range .Site.Data.recommend }}
+                            {{ if .links }}
+                            <li class="sidebar-item">
+                                <a href="#{{ md5 .taxonomy }}" class="smooth">
+                                    <i class="{{ .icon }} fa-lg icon-fw icon-lg mr-2"></i>
+                                    <span>{{ .taxonomy }}</span>
                                 </a>
                             </li>
+                            {{ end }}
+                            {{ end }}
+
+                            {{ range .Site.Data.webstack }}
+                            {{ if .list }}
+                            <li class="sidebar-item">
+                                <!-- 原来是跳转到第一个子目录位置 -->
+                                <!-- <a href="#{{ range first 1 .list }}{{ md5 .term }}{{ end }}" -->
+                                <a href="javascript:void(0)" class="smooth change-href"
+                                   data-change="#{{ range first 1 .list }}{{ md5 .term }}{{ end }}">
+                                    <i class="{{ .icon }} icon-fw icon-lg mr-2"></i>
+                                    <span>{{ .taxonomy }}</span>
+                                    <i class="fas fa-chevron-right sidebar-more text-sm"></i>
+                                </a>
+                                <ul>
+                                    {{ range .list }}
+                                    <li><a href="#{{ md5 .term }}" class="smooth"><span>{{ .term }}</span></a></li>
+                                    {{ end }}
+                                </ul>
+                            </li>
+                            {{ else }}
+                            <li class="sidebar-item">
+                                <a href="#{{ md5 .taxonomy }}" class="smooth">
+                                    <i class="{{ .icon }} fa-lg icon-fw icon-lg mr-2"></i>
+                                    <span>{{ .taxonomy }}</span>
+                                </a>
+                            </li>
+                            {{ end }}
+                            {{ end }}
                         </ul>
                     </div>
                 </div>
             </div>
+            <div class="border-top py-2 border-color">
+                <div class="flex-bottom">
+                    <ul>
+                        <li id="menu-item-github"
+                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-github sidebar-item">
+                            <a target="_blank" rel="noopener" href="{{ $.Site.Params.repository }}">
+                                <i class="fab fa-github icon-fw icon-lg mr-2"></i>
+                                <span>GitHub</span>
+                            </a>
+                        </li>
+                        <li id="menu-item-friendlink"
+                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-friendlink sidebar-item">
+                            <a href="#friendlink" class="smooth">
+                                <i class="fas fa-link icon-fw icon-lg mr-2"></i>
+                                <span>友情链接</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
         </div>
+    </div>
