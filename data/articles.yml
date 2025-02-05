@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2025.02.05 21:40:16
+      title: 消费级硬件DeepSeek量化版本地推理测速
+      url: https://www.bilibili.com/video/BV1rAP2ewELz
     - author: Alone逆向安全
       release_time: 2025.02.04 23:53:32
       title: 用现代c++ 写一个类似Unidbg 黑盒调用So的 框架
@@ -109,10 +113,6 @@
       release_time: 2024.12.31 15:19:59
       title: 化神期法宝 -DrissionPage专用浏览器插件--骚神插件9.4
       url: https://www.bilibili.com/video/BV1JP6nYAErN
-    - author: ikun的嘴
-      release_time: 2024.12.30 15:14:24
-      title: 瑞数6还不会补环境？补环境框架几分钟出值
-      url: https://www.bilibili.com/video/BV1256GYpESY
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
