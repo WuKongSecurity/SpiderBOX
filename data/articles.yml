@@ -116,6 +116,26 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.02.06 12:03:24
+      title: 【2025春节】解题领红包活动 排行榜TOP图（初九 2/6）
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141690&idx=1&sn=f45ab511f67b160197d5b5a3b9d6691a
+    - author: 二进制磨剑
+      release_time: 2025.02.06 09:10:00
+      title: IDA技巧（106）函数外联
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485319&idx=1&sn=b37ca2c45fe1fbf74126b64619de09a8
+    - author: 吾爱破解论坛
+      release_time: 2025.02.05 12:10:08
+      title: 【2025春节】解题领红包活动 排行榜TOP图（初八 2/5）
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141684&idx=1&sn=919f32039541dc1d6cfeaf70aedbc33b
+    - author: 二进制磨剑
+      release_time: 2025.02.05 09:30:00
+      title: 【限时优惠】一周速成反混淆大师
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485318&idx=1&sn=51f85bf6ceb9f3ba55625518b87af8d0
+    - author: 二进制磨剑
+      release_time: 2025.02.05 09:30:00
+      title: 重磅升级！二进制磨剑接入AI大脑，你的专属逆向助手来了！
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485318&idx=2&sn=ec82f31d4ad4192c0448ae0349e7d6dd
     - author: 哆啦安全
       release_time: 2025.02.04 19:12:57
       title: DeepSeek + Continue：Android 开发效率提升 10 倍的秘密！
@@ -216,26 +236,6 @@
       release_time: 2025.01.26 08:30:00
       title: 【活动】感动吾爱2024优秀会员评选活动（总方案）
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141640&idx=1&sn=c7380d0293c9463bb911500de75e6466
-    - author: 平底锅煎蛋
-      release_time: 2025.01.25 18:32:00
-      title: 怒撕某书jsvmp之x-s
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTcyMjcwOA==&mid=2247483846&idx=1&sn=89b5c85b03d42d1d65d68f658d5bea39
-    - author: 菜鸟学Python编程
-      release_time: 2025.01.25 15:32:27
-      title: AST反混淆插件|MemberExpression 类型的节点包含 window 的简化
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565740&idx=1&sn=bc3427cf5a97578301d3ae46d9b76a2d
-    - author: 一只野生码农
-      release_time: 2025.01.25 12:34:03
-      title: 2024年终小总
-      url: https://mp.weixin.qq.com/s?__biz=MzI1OTM1NTMzMA==&mid=2247483762&idx=1&sn=cfddce88a7fcf2f12d978f5da3221bad
-    - author: 逆向有你
-      release_time: 2025.01.25 00:00:00
-      title: 安卓逆向2025 -- Frida学习之hook案例（八）
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037583&idx=1&sn=f1d6bd2999bdd8aca33aabb4d707881f
-    - author: 秋裤的学习笔记
-      release_time: 2025.01.24 22:43:15
-      title: akamai3反混淆
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2Mjk4MTg5Ng==&mid=2247483702&idx=1&sn=af5ede3e49e4dcfb89050ec78e239da1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
