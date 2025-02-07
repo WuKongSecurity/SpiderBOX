@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2025.02.07 18:54:39
+      title: 纯血多模态DeepSeek-Janus-Pro本地部署
+      url: https://www.bilibili.com/video/BV1VjN8eGEsP
     - author: 冷月不是程序员
       release_time: 2025.02.05 23:06:43
       title: 1小时快速入门React.js 井字棋小游戏 定义棋盘和落子
