@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: HD236300
+      release_time: 2025.02.08 20:34:20
+      title: JS逆向案例，知乎x-zse-96
+      url: https://www.bilibili.com/video/BV16RNVe3EEc
     - author: 一只勇敢的小佳
       release_time: 2025.02.08 20:12:27
       title: 查找表aes的实现，白盒aes的基础，提供资料代码，带你使用python从零开始实现！！！
@@ -113,10 +117,6 @@
       release_time: 2025.01.05 17:38:01
       title: JavaScript逆向工程 AST反混淆某滑块验证码
       url: https://www.bilibili.com/video/BV1CorNYeEnH
-    - author: Alone_666
-      release_time: 2025.01.05 08:58:28
-      title: unidbg 还原魔改MD5前16轮第二节(从汇编快速追踪)
-      url: https://www.bilibili.com/video/BV16mrbYZEBm
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
