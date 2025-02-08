@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 一只勇敢的小佳
+      release_time: 2025.02.08 20:12:27
+      title: 查找表aes的实现，白盒aes的基础，提供资料代码，带你使用python从零开始实现！！！
+      url: https://www.bilibili.com/video/BV1vwN5eiEB1
     - author: r0ysue
       release_time: 2025.02.07 18:54:39
       title: 纯血多模态DeepSeek-Janus-Pro本地部署
@@ -113,10 +117,6 @@
       release_time: 2025.01.05 08:58:28
       title: unidbg 还原魔改MD5前16轮第二节(从汇编快速追踪)
       url: https://www.bilibili.com/video/BV16mrbYZEBm
-    - author: B站用户骚神
-      release_time: 2025.01.02 21:05:09
-      title: 骚神教学-用DrissionPage修改浏览器指纹
-      url: https://www.bilibili.com/video/BV1HR66YfEU9
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
