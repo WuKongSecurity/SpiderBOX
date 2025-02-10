@@ -243,6 +243,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: Lychow
+      release_time: 2025.02.10 19:48:00
+      title: 某程 encode 算法分析
+      url: https://www.52pojie.cn/thread-2005163-1-1.html
     - author: mwwp
       release_time: 2025.01.31 23:05:00
       title: 记【某小剧场】永久会员过程
@@ -359,10 +363,6 @@
       release_time: 2024.12.31 16:10:00
       title: 某蓝色音乐软件——会员音乐永久免费听
       url: https://www.52pojie.cn/thread-1996002-1-1.html
-    - author: LiSAimer
-      release_time: 2024.12.31 14:16:00
-      title: 雷池WAF滑块版本逆向分析
-      url: https://www.52pojie.cn/thread-1995970-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
