@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.02.10 09:27:03
+      title: 化神期法宝-最新版Drissionpage骚神插件9.5版本，全新出炉
+      url: https://www.bilibili.com/video/BV1RvN9ejExf
     - author: HD236300
       release_time: 2025.02.08 20:34:20
       title: JS逆向案例，知乎x-zse-96
@@ -113,10 +117,6 @@
       release_time: 2025.01.05 23:20:50
       title: xx管家React Native App逆向
       url: https://www.bilibili.com/video/BV1tgrTYyEso
-    - author: 冷月不是程序员
-      release_time: 2025.01.05 17:38:01
-      title: JavaScript逆向工程 AST反混淆某滑块验证码
-      url: https://www.bilibili.com/video/BV1CorNYeEnH
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
