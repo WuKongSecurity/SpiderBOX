@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 冷月不是程序员
+      release_time: 2025.02.12 00:09:35
+      title: 1小时快速入门React.js 井字棋小游戏 增加时间旅行功能 项目完结
+      url: https://www.bilibili.com/video/BV1zzNze7E8u
     - author: ShriyGo
       release_time: 2025.02.11 21:38:38
       title: AST反混淆实战-猿人学第2题
@@ -113,10 +117,6 @@
       release_time: 2025.01.09 10:38:45
       title: 补环境专题之浏览器与事件
       url: https://www.bilibili.com/video/BV1KMrqYtEQJ
-    - author: 悦来客栈的老板
-      release_time: 2025.01.08 16:08:43
-      title: AST反混淆合集教程-控制流的简单还原
-      url: https://www.bilibili.com/video/BV1Gyr8YSEvQ
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
