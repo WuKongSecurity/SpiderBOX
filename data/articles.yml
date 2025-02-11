@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: ShriyGo
+      release_time: 2025.02.11 21:38:38
+      title: AST反混淆实战-猿人学第2题
+      url: https://www.bilibili.com/video/BV1XiN6euEkK
     - author: B站用户骚神
       release_time: 2025.02.11 13:20:54
       title: 内网不联网用户如何安装Drissionpage
@@ -113,10 +117,6 @@
       release_time: 2025.01.08 16:08:43
       title: AST反混淆合集教程-控制流的简单还原
       url: https://www.bilibili.com/video/BV1Gyr8YSEvQ
-    - author: 悦来客栈的老板
-      release_time: 2025.01.07 14:20:17
-      title: AST反混淆合集教程-反混淆模板的使用
-      url: https://www.bilibili.com/video/BV17DrSY7Epf
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
