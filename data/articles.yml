@@ -120,6 +120,90 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 当爬虫遇到逆向
+      release_time: 2025.02.12 11:03:19
+      title: 浅浅聊一下akamai逆向
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4MjE4NzA5NA==&mid=2247483884&idx=1&sn=8379fca0eead9d04969bf30c27ab6f2f
+    - author: 吾爱破解论坛
+      release_time: 2025.02.12 08:00:00
+      title: 元宵节快乐
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141717&idx=1&sn=834d5daf3c9fbd6263d03ab7bac40970
+    - author: 虫术
+      release_time: 2025.02.11 17:07:45
+      title: AI解读清华大学《DeepSeek从入门到精通》内附PDF
+      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486187&idx=1&sn=26c3ea3cab158858aa79628e0d4e75a0
+    - author: 吾爱破解论坛
+      release_time: 2025.02.11 15:27:07
+      title: 【2025春节】解题领红包活动倒计时——最后两天！
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141708&idx=1&sn=e4b9e15585376a9c02967fd36df609e7
+    - author: 影17
+      release_time: 2025.02.11 15:01:16
+      title: 某酒店BlockMd5登陆流程分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489471&idx=1&sn=8a86f54797d6620a4b1d33b8d619103f
+    - author: 二进制磨剑
+      release_time: 2025.02.11 13:58:33
+      title: IDA技巧（110）自相对偏移量
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485333&idx=1&sn=9d175568e51d2843245da274a7b097c2
+    - author: 关于代码那点事
+      release_time: 2025.02.11 09:20:00
+      title: 基于Golang所开发的大模型API高性能调度平台
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MTg1NzU1NA==&mid=2247486253&idx=1&sn=9d3727d0a76d1324c34e3e52c507b4be
+    - author: Spade sec
+      release_time: 2025.02.11 09:00:00
+      title: PHP_webshell免杀04-eval过D盾通杀方案
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485381&idx=1&sn=c91d94fa4d63b4adc01c28ba8a99c6b5
+    - author: 榫卯江湖
+      release_time: 2025.02.10 20:43:58
+      title: eBPF技术巅峰对话！第三届「中国eBPF开发者大会」，诚邀您的投稿!
+      url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485080&idx=1&sn=2c07b2fdc0fda966b97da66e797c108b
+    - author: 软件安全与逆向分析
+      release_time: 2025.02.10 19:46:40
+      title: 使用eBPF重写strong-frida的难点在哪里，附代码
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484760&idx=1&sn=88e70bad04a0e2b3b5390d8adbd5e00e
+    - author: 吾爱破解论坛
+      release_time: 2025.02.10 17:07:23
+      title: 【2025春节】解题领红包活动倒计时——最后三天！（已降低难度，助力解题）
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141702&idx=1&sn=d4853a06ba64516266addc3fee1591b6
+    - author: 理想真会玩
+      release_time: 2025.02.10 15:58:45
+      title: 我的第一个爬虫
+      url: https://mp.weixin.qq.com/s?__biz=MzIwODg1MjQ4OQ==&mid=2247485508&idx=1&sn=be945d2eeca9e2c31b1843bb95ad57bc
+    - author: 关于代码那点事
+      release_time: 2025.02.10 10:07:58
+      title: 基于Golang的大模型API高性能调度平台
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MTg1NzU1NA==&mid=2247486243&idx=1&sn=e6d9e9435a1e5a24e6b056823a7d9037
+    - author: 二进制磨剑
+      release_time: 2025.02.10 10:00:00
+      title: 【硬核来袭!】程序分析与反混淆【已完结】
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485332&idx=1&sn=77694b4af84336eada57cc9281b95315
+    - author: Coder小Q
+      release_time: 2025.02.10 08:30:00
+      title: '【PQC密码学】埃奎斯: 一类基于非对称(M)LWE和(M)SIS的密钥封装机制解读'
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491414&idx=1&sn=5a396ddee72ce934678903bb3a9c0ef6
+    - author: 逆向有你
+      release_time: 2025.02.10 00:00:00
+      title: 安卓逆向2025 -- Frida学习之native层hook案例
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037626&idx=1&sn=23cbb9b5958eeb29b1d77ae43c4ff737
+    - author: 静夜随想
+      release_time: 2025.02.09 20:16:57
+      title: Android逆向小结
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811003&idx=1&sn=72f97ba89ca2092952cd41c7d9063a8b
+    - author: Spade sec
+      release_time: 2025.02.09 15:50:29
+      title: PHP_webshell免杀03-过阿里云&长亭
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485366&idx=1&sn=ee71434a2eaffa5435319f0cba37d636
+    - author: 二进制磨剑
+      release_time: 2025.02.09 11:16:39
+      title: IDA技巧（109）Hex视图文本编码
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485322&idx=1&sn=9c2c691f6d1d1a88d4bd4af27237db48
+    - author: 二进制磨剑
+      release_time: 2025.02.08 11:06:14
+      title: IDA技巧（108）伪代码中的原始内存访问
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485321&idx=1&sn=900652e14a5e1a2025c6d7799ce218c1
+    - author: 二进制磨剑
+      release_time: 2025.02.07 13:42:00
+      title: IDA技巧（107）多重返回值
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485320&idx=1&sn=2c7d1905455ccfdad2dae2ad406e6a25
     - author: 吾爱破解论坛
       release_time: 2025.02.06 12:03:24
       title: 【2025春节】解题领红包活动 排行榜TOP图（初九 2/6）
@@ -156,90 +240,6 @@
       release_time: 2025.02.02 10:50:47
       title: 【2025春节】解题领红包活动排行榜（初五 2/2）
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141668&idx=1&sn=82663ea0981e0c6f1544bb1fe7ab6bb8
-    - author: 吾爱破解论坛
-      release_time: 2025.02.01 12:34:44
-      title: 【2025春节】解题领红包活动排行榜（初四 2/1）
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141665&idx=1&sn=cf29ecaf3b5e2954cc5cb4b91fcef39f
-    - author: 季东ooo
-      release_time: 2025.01.31 22:06:52
-      title: 解决JNI函数动态绑定防追踪
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjczODUwMw==&mid=2247484267&idx=1&sn=ea2e41881a9009ee6e304410c7c88e46
-    - author: 未闻Code
-      release_time: 2025.01.31 14:56:39
-      title: 这才是DeepSeek的正确使用方式！你还在用GPT那套就废了，春节前最后预警
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990100&idx=1&sn=8460ff84a6f056d82849aba57dab39ea
-    - author: 吾爱破解论坛
-      release_time: 2025.01.31 12:29:26
-      title: 【2025春节】解题领红包活动排行榜（初三 1/31）
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141663&idx=1&sn=63c355a201f947c905a68b07647ab32a
-    - author: 逆向有你
-      release_time: 2025.01.30 00:15:00
-      title: 安卓逆向2025 -- Frida学习之hook案例（九）
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037601&idx=1&sn=fb2efa6c407552981b9e2388ff4d9abc
-    - author: 未闻Code
-      release_time: 2025.01.29 22:56:57
-      title: 一日一技：如何使用Cursor学习开源项目
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990098&idx=1&sn=ca0bd4513e40fb4b35047cc5fa1fbcbb
-    - author: 吾爱破解论坛
-      release_time: 2025.01.29 10:06:19
-      title: 【2025春节】解题领红包活动开始喽，解出就送论坛币！
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141655&idx=1&sn=d21717226e40032625a74a2d00255e23
-    - author: Coder小Q
-      release_time: 2025.01.29 08:00:00
-      title: 【2025】新年快乐
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491386&idx=1&sn=81b68fc009fb3bb698df452f0490aebb
-    - author: 季东ooo
-      release_time: 2025.01.28 23:01:55
-      title: 常见Frida检测方式与绕过
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjczODUwMw==&mid=2247484252&idx=1&sn=0dc1f03c95af766dfbf29f345cc79473
-    - author: 影17
-      release_time: 2025.01.28 21:08:29
-      title: 新年快乐~蛇年大吉
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489405&idx=1&sn=3b1ec49994f528e90cc7b5f64c72e212
-    - author: 影17
-      release_time: 2025.01.28 21:08:29
-      title: 新年快乐~蛇年发大财
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489405&idx=2&sn=6225d22c58cba9422beb8eb7a6c2be0a
-    - author: Coder小Q
-      release_time: 2025.01.28 20:00:00
-      title: 【2025】除夕快乐
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491380&idx=1&sn=e4ad3b1ba59ba53e292ebe50ded8ff0f
-    - author: 未闻Code
-      release_time: 2025.01.28 19:46:53
-      title: ～祝大家新年快乐～
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990057&idx=1&sn=26299f0424d2f4096fa503d914315893
-    - author: 二进制磨剑
-      release_time: 2025.01.28 18:14:13
-      title: IDA技巧（105）自定义基址的偏移量
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485302&idx=1&sn=1a2fc3df35199bb3a2496fa7a2f7e386
-    - author: 逆向与爬虫的故事
-      release_time: 2025.01.28 11:45:28
-      title: 2024年度回顾：用文字记录成长，用行动传递爱心
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5ODA3OTM1NA==&mid=2247493659&idx=1&sn=54edc941ae9735725f6255418681a73e
-    - author: SpiderLittleWhite
-      release_time: 2025.01.27 23:58:29
-      title: 【JS逆向】某猫商城字体反爬分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzk1NzkzMzQyOA==&mid=2247483692&idx=1&sn=863c72a031198b1433102915f1d5346e
-    - author: 未闻Code
-      release_time: 2025.01.27 20:28:56
-      title: 一日一技：在Python里面实现链式调用
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990051&idx=1&sn=7758850386a929cdf4ba13af216e9d35
-    - author: Coder小Q
-      release_time: 2025.01.27 20:00:00
-      title: 【年终总结2024】拥抱变化，书写属于你的崭新篇章
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491368&idx=1&sn=ed2c5b70af95f81f32a0eb1015945656
-    - author: 未闻Code
-      release_time: 2025.01.26 19:27:33
-      title: Python实现进度条的几种方案
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990041&idx=1&sn=5510702637b684e7aa7124ffcfe2181e
-    - author: 二进制磨剑
-      release_time: 2025.01.26 10:55:02
-      title: IDA技巧（104）立即数搜索
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485301&idx=1&sn=4d88879d56446d3978558c9b64489f95
-    - author: 吾爱破解论坛
-      release_time: 2025.01.26 08:30:00
-      title: 【活动】感动吾爱2024优秀会员评选活动（总方案）
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141640&idx=1&sn=c7380d0293c9463bb911500de75e6466
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
