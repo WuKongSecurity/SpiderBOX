@@ -243,6 +243,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: cakeuser
+      release_time: 2025.02.13 10:23:00
+      title: 2025解题领红包 Android初级
+      url: https://www.52pojie.cn/thread-2005873-1-1.html
     - author: ngiokweng
       release_time: 2025.02.13 09:44:00
       title: 2025吾愛解題領紅包活動(Android題解)
@@ -359,10 +363,6 @@
       release_time: 2025.01.03 10:22:00
       title: 某讯点选纯算识别可能性（抛砖引玉）
       url: https://www.52pojie.cn/thread-1996654-1-1.html
-    - author: cainfish
-      release_time: 2025.01.02 16:35:00
-      title: 获取到最适合自己的github  hosts
-      url: https://www.52pojie.cn/thread-1996482-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
