@@ -243,6 +243,18 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: jackyyue_cn
+      release_time: 2025.02.13 17:14:00
+      title: 【2025春节】解题领红包之六(安卓版)——Writeup
+      url: https://www.52pojie.cn/thread-2005863-1-1.html
+    - author: duyi324
+      release_time: 2025.02.13 14:53:00
+      title: 【春节】解题领红包之三 {Android 初级题} Writeup
+      url: https://www.52pojie.cn/thread-2005965-1-1.html
+    - author: jingtai123
+      release_time: 2025.02.13 11:09:00
+      title: 【2025春节】解题领红包之三 {Android 初级题}writeup，还原出题意图，符合初级定位
+      url: https://www.52pojie.cn/thread-2005895-1-1.html
     - author: cakeuser
       release_time: 2025.02.13 10:23:00
       title: 2025解题领红包 Android初级
@@ -251,6 +263,10 @@
       release_time: 2025.02.13 09:44:00
       title: 2025吾愛解題領紅包活動(Android題解)
       url: https://www.52pojie.cn/thread-2005850-1-1.html
+    - author: Command
+      release_time: 2025.02.13 07:09:00
+      title: 2025解题领红包 Android中级详细WP
+      url: https://www.52pojie.cn/thread-2005819-1-1.html
     - author: Vvvvvoid
       release_time: 2025.02.12 15:04:00
       title: electron asar 加密包解压 偏移修复
@@ -347,25 +363,13 @@
       release_time: 2025.01.09 14:29:00
       title: 某右ios端逆向分析
       url: https://www.52pojie.cn/thread-1998422-1-1.html
-    - author: 闪电、犯贱
-      release_time: 2025.01.08 21:53:00
-      title: 对于荔枝FM的付费音频爬取过程的探索
-      url: https://www.52pojie.cn/thread-1998251-1-1.html
-    - author: bingyue
-      release_time: 2025.01.08 20:47:00
-      title: 某痛单词过frida检测
-      url: https://www.52pojie.cn/thread-1998228-1-1.html
-    - author: cainfish
-      release_time: 2025.01.03 11:35:00
-      title: 获取适合自己的github  hosts 之二
-      url: https://www.52pojie.cn/thread-1996702-1-1.html
-    - author: hygzs
-      release_time: 2025.01.03 10:22:00
-      title: 某讯点选纯算识别可能性（抛砖引玉）
-      url: https://www.52pojie.cn/thread-1996654-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: method
+      release_time: 2025.02.14 01:54:10
+      title: '[原创][原创]ARM64 目前主流的反混淆技术的初窥'
+      url: https://bbs.kanxue.com/thread-285567.htm
     - author: 狗都不学爬虫_
       release_time: 2025.02.13 16:56:19
       title: JS逆向-最新版某音a_bogus
@@ -483,10 +487,6 @@
       release_time: 2025.01.23 16:42:11
       title: '[原创]【Abyss】Android平台BPF和SECCOMP的SVC指令拦截'
       url: https://bbs.kanxue.com/thread-285339.htm
-    - author: skyun
-      release_time: 2025.01.22 13:55:18
-      title: '[讨论]unidbg模拟执行的去除ollvm混淆'
-      url: https://bbs.kanxue.com/thread-285327.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
