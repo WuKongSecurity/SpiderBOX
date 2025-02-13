@@ -243,6 +243,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: ngiokweng
+      release_time: 2025.02.13 09:44:00
+      title: 2025吾愛解題領紅包活動(Android題解)
+      url: https://www.52pojie.cn/thread-2005850-1-1.html
     - author: Vvvvvoid
       release_time: 2025.02.12 15:04:00
       title: electron asar 加密包解压 偏移修复
@@ -359,13 +363,13 @@
       release_time: 2025.01.02 16:35:00
       title: 获取到最适合自己的github  hosts
       url: https://www.52pojie.cn/thread-1996482-1-1.html
-    - author: littlewhite11
-      release_time: 2025.01.01 03:38:00
-      title: 【JS逆向】纯异步JS逆向分析
-      url: https://www.52pojie.cn/thread-1996108-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: ngiokweng
+      release_time: 2025.02.13 10:00:40
+      title: '[原创] 2025吾愛解題領紅包活動(Android題解)'
+      url: https://bbs.kanxue.com/thread-285550.htm
     - author: Tasfa
       release_time: 2025.02.12 18:07:00
       title: 【AI系列】从零开始学习大模型GPT (2)- Build a Large Language Model (From Scratch)
@@ -483,10 +487,6 @@
       release_time: 2025.01.22 09:58:32
       title: Django学习笔记(bootstrap的运用)-04
       url: https://blog.csdn.net/qq_49268524/article/details/145297050
-    - author: 小爬菜
-      release_time: 2025.01.22 09:54:19
-      title: Django学习笔记(启动项目)-03
-      url: https://blog.csdn.net/qq_49268524/article/details/145296888
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
