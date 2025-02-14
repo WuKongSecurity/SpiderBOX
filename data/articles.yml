@@ -243,6 +243,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: three
+      release_time: 2025.02.14 12:55:00
+      title: 2025 春节解题领红包（Web 番外篇）
+      url: https://www.52pojie.cn/thread-2006270-1-1.html
     - author: 爱飞的猫
       release_time: 2025.02.14 06:40:00
       title: 【2025春节】解题领红包之安卓篇
@@ -359,10 +363,6 @@
       release_time: 2025.01.14 19:01:00
       title: 某某网站载荷逆向------小白讲解05
       url: https://www.52pojie.cn/thread-1999830-1-1.html
-    - author: mengxinb
-      release_time: 2025.01.10 23:56:00
-      title: 菜菜音乐盒7.4.1破解
-      url: https://www.52pojie.cn/thread-1998868-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
