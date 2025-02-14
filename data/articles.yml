@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2025.02.14 22:38:43
+      title: 大模型的困惑度测试，DeepSeek-LLM-7B-chat性能明显优于Llama-3-8B-Instruct。当然也可能出于chat与instruct模型变种
+      url: https://www.bilibili.com/video/BV1v6KTenEbT
     - author: Alone逆向安全
       release_time: 2025.02.14 17:30:23
       title: 提高安卓逆向体验 不用unidbg补环境 trace流离线回放引擎简易版
@@ -113,10 +117,6 @@
       release_time: 2025.01.15 20:23:33
       title: web逆向之Hook大法
       url: https://www.bilibili.com/video/BV1kjcBezEL4
-    - author: ShriyGo
-      release_time: 2025.01.13 22:16:55
-      title: AST反混淆入门实战
-      url: https://www.bilibili.com/video/BV1CBcUeNEHs
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
