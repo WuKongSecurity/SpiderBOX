@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: Alone逆向安全
+      release_time: 2025.02.14 17:30:23
+      title: 提高安卓逆向体验 不用unidbg补环境 trace流离线回放引擎简易版
+      url: https://www.bilibili.com/video/BV1PzKKeAESj
     - author: 小肩膀-逆向安全培训
       release_time: 2025.02.13 23:47:21
       title: 《逆向工程师2025》课程介绍
@@ -113,10 +117,6 @@
       release_time: 2025.01.13 22:16:55
       title: AST反混淆入门实战
       url: https://www.bilibili.com/video/BV1CBcUeNEHs
-    - author: B站用户骚神
-      release_time: 2025.01.10 12:10:34
-      title: 骚神教学-利用DrissionPage拦截和修改数据包
-      url: https://www.bilibili.com/video/BV1fMcEeVE1e
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
