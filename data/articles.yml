@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 若水0014
+      release_time: 2025.02.14 23:38:21
+      title: 04_v8引擎专题-cppgc的基本使用
+      url: https://www.bilibili.com/video/BV1AHKTeeEWq
     - author: r0ysue
       release_time: 2025.02.14 22:38:43
       title: 大模型的困惑度测试，DeepSeek-LLM-7B-chat性能明显优于Llama-3-8B-Instruct。当然也可能出于chat与instruct模型变种
@@ -113,10 +117,6 @@
       release_time: 2025.01.16 02:40:36
       title: frida最新研究成果，server直接过ijm，banban，某国网，frida的java在libart下无痕hook的实现
       url: https://www.bilibili.com/video/BV1PhwuehEtd
-    - author: 冒蓝火的黑骑士
-      release_time: 2025.01.15 20:23:33
-      title: web逆向之Hook大法
-      url: https://www.bilibili.com/video/BV1kjcBezEL4
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
