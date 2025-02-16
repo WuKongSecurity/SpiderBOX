@@ -2,6 +2,10 @@
   list:
   - links:
     - author: Alone逆向安全
+      release_time: 2025.02.16 21:15:10
+      title: C++  06：使用函数、循环与条件语句实现猜数字游戏
+      url: https://www.bilibili.com/video/BV17WA5evEjw
+    - author: Alone逆向安全
       release_time: 2025.02.16 16:07:56
       title: C++ 第五课：函数的定义 返回值 调用
       url: https://www.bilibili.com/video/BV14pAVejEP6
@@ -113,10 +117,6 @@
       release_time: 2025.01.31 23:30:53
       title: AES从轮密钥推出初始密钥python详解，带你使用python代码写出我们的开源库的Stark的AES推初始密钥！！
       url: https://www.bilibili.com/video/BV1y3FXejE99
-    - author: Alone逆向安全
-      release_time: 2025.01.31 15:08:06
-      title: AES 加密算法详解 差分故障攻击原理详解(一)
-      url: https://www.bilibili.com/video/BV1onFUeXE9h
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
