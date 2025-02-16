@@ -243,6 +243,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: KillLog
+      release_time: 2025.02.16 12:21:00
+      title: 天津地铁app环境检测
+      url: https://www.52pojie.cn/thread-2006738-1-1.html
     - author: 小菜鸟一枚
       release_time: 2025.02.16 09:51:00
       title: 学破解第213天，《初识smali，vip终结者》学习
@@ -359,10 +363,6 @@
       release_time: 2025.01.19 17:02:00
       title: 某幸咖啡协议算法
       url: https://www.52pojie.cn/thread-2001103-1-1.html
-    - author: sxqww
-      release_time: 2025.01.18 19:16:00
-      title: 基于《安卓逆向这档事》其三VIP破解的学习和总结
-      url: https://www.52pojie.cn/thread-2000957-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
