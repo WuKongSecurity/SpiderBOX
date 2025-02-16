@@ -244,6 +244,10 @@
     term: 公众号
   - links:
     - author: 小菜鸟一枚
+      release_time: 2025.02.16 09:51:00
+      title: 学破解第213天，《初识smali，vip终结者》学习
+      url: https://www.52pojie.cn/thread-2006695-1-1.html
+    - author: 小菜鸟一枚
       release_time: 2025.02.15 13:36:00
       title: 学破解第212天，《初识APK文件结构、双开、汉化、基础修改》学习
       url: https://www.52pojie.cn/thread-2006537-1-1.html
@@ -359,10 +363,6 @@
       release_time: 2025.01.18 19:16:00
       title: 基于《安卓逆向这档事》其三VIP破解的学习和总结
       url: https://www.52pojie.cn/thread-2000957-1-1.html
-    - author: sxqww
-      release_time: 2025.01.16 19:32:00
-      title: 基于《安卓逆向这档事》其二APK双开、汉化、软件图标修改等问题的实现与总结
-      url: https://www.52pojie.cn/thread-2000479-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
