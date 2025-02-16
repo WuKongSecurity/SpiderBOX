@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Spade sec
+      release_time: 2025.02.16 10:30:00
+      title: HeartK v1.1.0 新增批量扫描网站功能
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485403&idx=1&sn=5320dde6ca81101d834dc61e8e5636a8
     - author: 吾爱破解论坛
       release_time: 2025.02.15 16:26:06
       title: 2025解题领红包之七 Windows高级Writeup
@@ -236,10 +240,6 @@
       release_time: 2025.02.05 09:30:00
       title: 【限时优惠】一周速成反混淆大师
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485318&idx=1&sn=51f85bf6ceb9f3ba55625518b87af8d0
-    - author: 二进制磨剑
-      release_time: 2025.02.05 09:30:00
-      title: 重磅升级！二进制磨剑接入AI大脑，你的专属逆向助手来了！
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485318&idx=2&sn=ec82f31d4ad4192c0448ae0349e7d6dd
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
