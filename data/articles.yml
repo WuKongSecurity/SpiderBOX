@@ -2,6 +2,18 @@
   list:
   - links:
     - author: Alone逆向安全
+      release_time: 2025.02.16 13:12:29
+      title: 2 c++基础 变量和常量
+      url: https://www.bilibili.com/video/BV1JDAge8E1D
+    - author: Alone逆向安全
+      release_time: 2025.02.16 13:11:58
+      title: C++ 第三课：控制结构 - 条件语句与循环语句
+      url: https://www.bilibili.com/video/BV1nDAge8EVx
+    - author: Alone逆向安全
+      release_time: 2025.02.16 13:11:55
+      title: 1   C++基本数据类型与存储原理
+      url: https://www.bilibili.com/video/BV1JDAge8ERY
+    - author: Alone逆向安全
       release_time: 2025.02.16 00:28:18
       title: 安卓逆向C++基础：Visual Studio环境配置
       url: https://www.bilibili.com/video/BV1n2AMesE5j
@@ -105,18 +117,6 @@
       release_time: 2025.01.22 21:44:28
       title: python纯实现aes加密的ECB和CBC模式，带你使用python手写aes，提供python代码！！！
       url: https://www.bilibili.com/video/BV1scfhYSEsQ
-    - author: r0ysue
-      release_time: 2025.01.20 17:49:53
-      title: 如何看DeepSeek-LLM加载到了系统内存还是显存？如何强制加载到显存？以及加载到显存的性能差异
-      url: https://www.bilibili.com/video/BV1Sxwpe3E3B
-    - author: 凛音姫
-      release_time: 2025.01.19 16:39:20
-      title: 【猿人学爬虫题目详解】22 - 2025新年挑战！
-      url: https://www.bilibili.com/video/BV1tiwBeSEDW
-    - author: 一只勇敢的小佳
-      release_time: 2025.01.19 00:59:32
-      title: apatch模块编写，内核kernel patch module解释，内核模块编写，编写自己的第一个内核模块
-      url: https://www.bilibili.com/video/BV1cYwTeHE6F
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
