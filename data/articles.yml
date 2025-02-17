@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.02.17 08:46:39
+      title: AST反混淆插件|给switch语句的每个case统一加上break节点
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565744&idx=1&sn=93e4dcc3755383864605c161ce9773fc
     - author: Spade sec
       release_time: 2025.02.16 10:30:00
       title: HeartK v1.1.0 新增批量扫描网站功能
@@ -236,10 +240,6 @@
       release_time: 2025.02.05 12:10:08
       title: 【2025春节】解题领红包活动 排行榜TOP图（初八 2/5）
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141684&idx=1&sn=919f32039541dc1d6cfeaf70aedbc33b
-    - author: 二进制磨剑
-      release_time: 2025.02.05 09:30:00
-      title: 【限时优惠】一周速成反混淆大师
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485318&idx=1&sn=51f85bf6ceb9f3ba55625518b87af8d0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
