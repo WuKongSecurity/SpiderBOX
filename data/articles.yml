@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 软件安全与逆向分析
+      release_time: 2025.02.17 16:20:51
+      title: 迷你主机跑deepseek-r1本地大数据模型
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484767&idx=1&sn=ce02d9b6edd0ec91afa516ff81b4028d
     - author: 随心记事
       release_time: 2025.02.17 15:29:21
       title: '[小记] 共享其他人使用Ollama部署的AI模型'
@@ -236,10 +240,6 @@
       release_time: 2025.02.09 11:16:39
       title: IDA技巧（109）Hex视图文本编码
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485322&idx=1&sn=9c2c691f6d1d1a88d4bd4af27237db48
-    - author: 二进制磨剑
-      release_time: 2025.02.08 11:06:14
-      title: IDA技巧（108）伪代码中的原始内存访问
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485321&idx=1&sn=900652e14a5e1a2025c6d7799ce218c1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
