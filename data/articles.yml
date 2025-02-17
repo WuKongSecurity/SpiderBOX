@@ -120,6 +120,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 随心记事
+      release_time: 2025.02.17 15:29:21
+      title: '[小记] 共享其他人使用Ollama部署的AI模型'
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0NTMyNzI4MQ==&mid=2247484818&idx=1&sn=96464e8d385841931659d60467213cbd
+    - author: 吾爱破解论坛
+      release_time: 2025.02.17 15:25:04
+      title: 【公告】感动吾爱2024优秀会员名单公布
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141777&idx=1&sn=8d1df8939afa0956630f124b2a0c0c03
     - author: 奋飞安全
       release_time: 2025.02.17 13:55:04
       title: DeepSeek分析DeepSeek App
@@ -232,14 +240,6 @@
       release_time: 2025.02.08 11:06:14
       title: IDA技巧（108）伪代码中的原始内存访问
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485321&idx=1&sn=900652e14a5e1a2025c6d7799ce218c1
-    - author: 二进制磨剑
-      release_time: 2025.02.07 13:42:00
-      title: IDA技巧（107）多重返回值
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485320&idx=1&sn=2c7d1905455ccfdad2dae2ad406e6a25
-    - author: 吾爱破解论坛
-      release_time: 2025.02.06 12:03:24
-      title: 【2025春节】解题领红包活动 排行榜TOP图（初九 2/6）
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141690&idx=1&sn=f45ab511f67b160197d5b5a3b9d6691a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
