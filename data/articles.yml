@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.02.17 21:40:37
+      title: AI 智能体的“记忆”与“思考”：一场向人脑学习的漫长旅程
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990121&idx=1&sn=ab9b74564938ef8b44bb1fcd0b43ccd6
     - author: 虫术
       release_time: 2025.02.17 18:58:56
       title: DeepSeek 提示词优化：关键技术全解析 | 内附清华大学《DeepSeek从入门到精通》PDF
@@ -236,10 +240,6 @@
       release_time: 2025.02.09 20:16:57
       title: Android逆向小结
       url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811003&idx=1&sn=72f97ba89ca2092952cd41c7d9063a8b
-    - author: Spade sec
-      release_time: 2025.02.09 15:50:29
-      title: PHP_webshell免杀03-过阿里云&长亭
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485366&idx=1&sn=ee71434a2eaffa5435319f0cba37d636
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
