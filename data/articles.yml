@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 虫术
+      release_time: 2025.02.17 18:58:56
+      title: DeepSeek 提示词优化：关键技术全解析 | 内附清华大学《DeepSeek从入门到精通》PDF
+      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486200&idx=1&sn=a5338d6ca1e083346f6a34cc66e5a46a
     - author: 软件安全与逆向分析
       release_time: 2025.02.17 16:20:51
       title: 迷你主机跑deepseek-r1本地大数据模型
@@ -236,10 +240,6 @@
       release_time: 2025.02.09 15:50:29
       title: PHP_webshell免杀03-过阿里云&长亭
       url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485366&idx=1&sn=ee71434a2eaffa5435319f0cba37d636
-    - author: 二进制磨剑
-      release_time: 2025.02.09 11:16:39
-      title: IDA技巧（109）Hex视图文本编码
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485322&idx=1&sn=9c2c691f6d1d1a88d4bd4af27237db48
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
