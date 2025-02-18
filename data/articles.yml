@@ -366,6 +366,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Shangwendada
+      release_time: 2025.02.18 14:20:27
+      title: '[原创]记录一次加固逆向分析以及加固步骤详解'
+      url: https://bbs.kanxue.com/thread-285620.htm
     - author: 狗都不学爬虫_
       release_time: 2025.02.18 12:15:35
       title: JS逆向入门案例-瑞树3（cookie值）- 16
@@ -483,10 +487,6 @@
       release_time: 2025.01.27 17:46:22
       title: 2024騰訊遊戲安全大賽安卓決賽(復現)
       url: https://bbs.kanxue.com/thread-285382.htm
-    - author: 为你芯冻
-      release_time: 2025.01.26 14:23:51
-      title: microdbg - 纯 go 实现 android 模拟框架
-      url: https://bbs.kanxue.com/thread-285377.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
