@@ -120,6 +120,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.02.18 09:04:33
+      title: 本地部署DeepSeek-R1
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497243&idx=1&sn=879f91b4f2ea241542436c8b724747a4
+    - author: Spade sec
+      release_time: 2025.02.18 09:01:42
+      title: Hook_JS 100star特供
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485420&idx=1&sn=5d2acd2a046edf77aa1fc40d370f5b6c
     - author: 未闻Code
       release_time: 2025.02.17 21:40:37
       title: AI 智能体的“记忆”与“思考”：一场向人脑学习的漫长旅程
@@ -232,14 +240,6 @@
       release_time: 2025.02.10 08:30:00
       title: '【PQC密码学】埃奎斯: 一类基于非对称(M)LWE和(M)SIS的密钥封装机制解读'
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491414&idx=1&sn=5a396ddee72ce934678903bb3a9c0ef6
-    - author: 逆向有你
-      release_time: 2025.02.10 00:00:00
-      title: 安卓逆向2025 -- Frida学习之native层hook案例
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037626&idx=1&sn=23cbb9b5958eeb29b1d77ae43c4ff737
-    - author: 静夜随想
-      release_time: 2025.02.09 20:16:57
-      title: Android逆向小结
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811003&idx=1&sn=72f97ba89ca2092952cd41c7d9063a8b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
       release_time: 2025.02.17 13:51:30
       title: 查验平台逆向学习笔记
       url: https://blog.csdn.net/m0_75266682/article/details/145681314
+    - author: 悦来客栈的老板
+      release_time: 2025.02.17 08:46:57
+      title: AST反混淆插件|给switch语句的每个case统一加上break节点
+      url: https://blog.csdn.net/qq523176585/article/details/145695717
     - author: 小王子_646278
       release_time: 2025.02.15 13:17:32
       title: 现代iOS fps游戏攻防
@@ -483,10 +487,6 @@
       release_time: 2025.01.26 06:19:55
       title: Windows11恢复传统右键菜单
       url: https://blog.csdn.net/u014643814/article/details/145361936
-    - author: 悦来客栈的老板
-      release_time: 2025.01.25 15:32:45
-      title: AST反混淆插件|MemberExpression 类型的节点包含 window 的简化
-      url: https://blog.csdn.net/qq523176585/article/details/145361928
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
