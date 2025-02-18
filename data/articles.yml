@@ -243,6 +243,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 小菜鸟一枚
+      release_time: 2025.02.18 21:19:00
+      title: 学破解第214天，《恭喜你获得广告&弹窗静默卡》学习
+      url: https://www.52pojie.cn/thread-2007496-1-1.html
     - author: t00t00
       release_time: 2025.02.18 15:27:00
       title: 深度揭秘：全仿 Telegram 诈骗软件的幕后技术链条
@@ -359,10 +363,6 @@
       release_time: 2025.01.24 17:00:00
       title: 基于《安卓逆向这档事》其二APK双开、汉化、软件图标修改的实战案例分享
       url: https://www.52pojie.cn/thread-2002305-1-1.html
-    - author: sigewangdaiduie
-      release_time: 2025.01.24 15:19:00
-      title: 安卓逆向入门笔记（六）——JNI开发与so层逆向基础
-      url: https://www.52pojie.cn/thread-2002272-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
