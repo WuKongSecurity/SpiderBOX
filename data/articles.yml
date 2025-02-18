@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: HD236300
+      release_time: 2025.02.18 13:02:34
+      title: JS逆向补环境框架，Error对象的处理，隐藏调用堆栈中的node特征
+      url: https://www.bilibili.com/video/BV1hrA8eMEyw
     - author: Alone逆向安全
       release_time: 2025.02.16 21:15:10
       title: C++  06：使用函数、循环与条件语句实现猜数字游戏
@@ -113,13 +117,13 @@
       release_time: 2025.02.01 00:03:24
       title: SM4从轮密钥得到我们的初始密钥python详解，带你使用python写出SM4从轮密钥得到我们的初始密钥！！！
       url: https://www.bilibili.com/video/BV1HeFQerEHb
-    - author: 一只勇敢的小佳
-      release_time: 2025.01.31 23:30:53
-      title: AES从轮密钥推出初始密钥python详解，带你使用python代码写出我们的开源库的Stark的AES推初始密钥！！
-      url: https://www.bilibili.com/video/BV1y3FXejE99
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: 2025.02.18 13:20:33
+      title: IDA技巧（112）匹配大括号
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485412&idx=1&sn=d642af4751e35443f66681f1c0cbf1b7
     - author: 哆啦安全
       release_time: 2025.02.18 09:04:33
       title: 本地部署DeepSeek-R1
@@ -236,10 +240,6 @@
       release_time: 2025.02.10 10:00:00
       title: 【硬核来袭!】程序分析与反混淆【已完结】
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485332&idx=1&sn=77694b4af84336eada57cc9281b95315
-    - author: Coder小Q
-      release_time: 2025.02.10 08:30:00
-      title: '【PQC密码学】埃奎斯: 一类基于非对称(M)LWE和(M)SIS的密钥封装机制解读'
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491414&idx=1&sn=5a396ddee72ce934678903bb3a9c0ef6
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
