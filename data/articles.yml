@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.02.18 20:28:33
+      title: 用 Trae 开发一个小小小工具
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990127&idx=1&sn=77e301ef54baa1d553640616946151de
     - author: 吾爱破解论坛
       release_time: 2025.02.18 16:59:10
       title: 【2025春节】解题领红包之番外篇writeup
@@ -236,10 +240,6 @@
       release_time: 2025.02.10 17:07:23
       title: 【2025春节】解题领红包活动倒计时——最后三天！（已降低难度，助力解题）
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141702&idx=1&sn=d4853a06ba64516266addc3fee1591b6
-    - author: 理想真会玩
-      release_time: 2025.02.10 15:58:45
-      title: 我的第一个爬虫
-      url: https://mp.weixin.qq.com/s?__biz=MzIwODg1MjQ4OQ==&mid=2247485508&idx=1&sn=be945d2eeca9e2c31b1843bb95ad57bc
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
