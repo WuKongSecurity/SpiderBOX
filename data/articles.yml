@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.02.19 16:11:35
+      title: 骚神插件9.6，新增8大功能，全程丝滑写DrissionPage代码
+      url: https://www.bilibili.com/video/BV144A6etEfU
+    - author: 悦来客栈的老板
+      release_time: 2025.02.19 15:59:26
+      title: AST去混淆|最新PX3混淆代码一键优化
+      url: https://www.bilibili.com/video/BV1gcAreNEor
     - author: HD236300
       release_time: 2025.02.19 02:04:11
       title: JS逆向，常见f12控制台检测，原理与实例
@@ -109,14 +117,6 @@
       release_time: 2025.02.03 21:09:12
       title: 1小时快速入门React.js 井字棋小游戏 环境搭建
       url: https://www.bilibili.com/video/BV1LyP9e7EHT
-    - author: 带带弟弟学爬虫
-      release_time: 2025.02.03 18:50:15
-      title: FlutterAPP-脸映 sign
-      url: https://www.bilibili.com/video/BV1hvPReGEC3
-    - author: Alone逆向安全
-      release_time: 2025.02.02 14:54:43
-      title: aes加密算法 差分故障攻击原理 从轮秘钥推出主秘钥 白盒AES的解决思路(二)
-      url: https://www.bilibili.com/video/BV1YRF6etEYH
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
