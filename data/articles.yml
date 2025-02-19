@@ -120,6 +120,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.02.19 09:00:37
+      title: AST反混淆插件|无实际参数的自执行函数还原
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565754&idx=1&sn=c9873d757f9f02ed15dd2ac342775b42
+    - author: 哆啦安全
+      release_time: 2025.02.19 08:40:25
+      title: KTransformers高性能LLM推理优化框架
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497244&idx=1&sn=87cc4859328c1fabaf94efee3b1c25d5
     - author: 未闻Code
       release_time: 2025.02.18 20:28:33
       title: 用 Trae 开发一个小小小工具
@@ -232,14 +240,6 @@
       release_time: 2025.02.10 20:43:58
       title: eBPF技术巅峰对话！第三届「中国eBPF开发者大会」，诚邀您的投稿!
       url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485080&idx=1&sn=2c07b2fdc0fda966b97da66e797c108b
-    - author: 软件安全与逆向分析
-      release_time: 2025.02.10 19:46:40
-      title: 使用eBPF重写strong-frida的难点在哪里，附代码
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484760&idx=1&sn=88e70bad04a0e2b3b5390d8adbd5e00e
-    - author: 吾爱破解论坛
-      release_time: 2025.02.10 17:07:23
-      title: 【2025春节】解题领红包活动倒计时——最后三天！（已降低难度，助力解题）
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141702&idx=1&sn=d4853a06ba64516266addc3fee1591b6
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
