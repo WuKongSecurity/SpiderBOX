@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.02.19 16:08:32
+      title: 【2025春节】解题领红包初级题(windows + android)
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141810&idx=1&sn=7cd85d8bc111074b833f5b7623b79c57
     - author: 菜鸟学Python编程
       release_time: 2025.02.19 09:00:37
       title: AST反混淆插件|无实际参数的自执行函数还原
@@ -236,10 +240,6 @@
       release_time: 2025.02.11 09:00:00
       title: PHP_webshell免杀04-eval过D盾通杀方案
       url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485381&idx=1&sn=c91d94fa4d63b4adc01c28ba8a99c6b5
-    - author: 榫卯江湖
-      release_time: 2025.02.10 20:43:58
-      title: eBPF技术巅峰对话！第三届「中国eBPF开发者大会」，诚邀您的投稿!
-      url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485080&idx=1&sn=2c07b2fdc0fda966b97da66e797c108b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
