@@ -366,6 +366,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: crifan
+      release_time: 2025.02.19 23:02:12
+      title: '[讨论]高价求购：苹果ID注册的纯协议代码'
+      url: https://bbs.kanxue.com/thread-285652.htm
     - author: HandsomeBro
       release_time: 2025.02.19 22:35:32
       title: '[原创]关于SO加密对抗的两种实现方式'
@@ -483,10 +487,6 @@
       release_time: 2025.02.09 12:30:50
       title: '[原创]基于VM的全新Trace框架发布!功能强大,一分钟1.5g，提高你的逆向体验~'
       url: https://bbs.kanxue.com/thread-285471.htm
-    - author: 狗都不学爬虫_
-      release_time: 2025.02.07 15:31:31
-      title: JS逆向案例-ali231补环境 - 14
-      url: https://blog.csdn.net/qq_53444631/article/details/145494629
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
