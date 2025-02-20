@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.02.20 10:13:04
+      title: AST反混淆插件|for循环语句中的init节点反混淆处理
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565758&idx=1&sn=1f729d407d884ce3b0143dfab7cd1227
     - author: 哆啦安全
       release_time: 2025.02.20 07:25:50
       title: Android开发者的福音：DeepSeek免费使用平台全汇总！
@@ -236,10 +240,6 @@
       release_time: 2025.02.11 13:58:33
       title: IDA技巧（110）自相对偏移量
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485333&idx=1&sn=9d175568e51d2843245da274a7b097c2
-    - author: 关于代码那点事
-      release_time: 2025.02.11 09:20:00
-      title: 基于Golang所开发的大模型API高性能调度平台
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MTg1NzU1NA==&mid=2247486253&idx=1&sn=9d3727d0a76d1324c34e3e52c507b4be
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -378,6 +378,10 @@
       release_time: 2025.02.19 19:52:38
       title: '[原创]安卓签名校验-探讨'
       url: https://bbs.kanxue.com/thread-285647.htm
+    - author: 悦来客栈的老板
+      release_time: 2025.02.19 09:00:54
+      title: AST反混淆插件|无实际参数的自执行函数还原
+      url: https://blog.csdn.net/qq523176585/article/details/145743517
     - author: 程序员小潘
       release_time: 2025.02.19 00:29:01
       title: '[原创]又一款通杀利器来袭，partserver，通杀版frida'
@@ -483,10 +487,6 @@
       release_time: 2025.02.09 14:50:24
       title: '[原创] NP签名校验分析'
       url: https://bbs.kanxue.com/thread-285472.htm
-    - author: 棕熊
-      release_time: 2025.02.09 12:30:50
-      title: '[原创]基于VM的全新Trace框架发布!功能强大,一分钟1.5g，提高你的逆向体验~'
-      url: https://bbs.kanxue.com/thread-285471.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
