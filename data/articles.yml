@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: 2025.02.20 13:29:33
+      title: IDA技巧（114）分割偏移量
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485413&idx=1&sn=4417d422c4d7864760c7783d169c5247
     - author: 菜鸟学Python编程
       release_time: 2025.02.20 10:13:04
       title: AST反混淆插件|for循环语句中的init节点反混淆处理
@@ -236,10 +240,6 @@
       release_time: 2025.02.11 15:01:16
       title: 某酒店BlockMd5登陆流程分析
       url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489471&idx=1&sn=8a86f54797d6620a4b1d33b8d619103f
-    - author: 二进制磨剑
-      release_time: 2025.02.11 13:58:33
-      title: IDA技巧（110）自相对偏移量
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485333&idx=1&sn=9d175568e51d2843245da274a7b097c2
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
