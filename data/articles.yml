@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小白技术社
+      release_time: 2025.02.20 18:46:34
+      title: 某手sig3-ios算法Chomper黑盒调用
+      url: https://mp.weixin.qq.com/s?__biz=MzI4NTE1NDMwMA==&mid=2247485240&idx=1&sn=6ef5648f1674327a01af6fe92b7e9055
     - author: 兔老大Android和iOS逆向
       release_time: 2025.02.20 18:18:04
       title: 某手sig3-ios算法Chomper调用
@@ -236,13 +240,13 @@
       release_time: 2025.02.12 08:00:00
       title: 元宵节快乐
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141717&idx=1&sn=834d5daf3c9fbd6263d03ab7bac40970
-    - author: 虫术
-      release_time: 2025.02.11 17:07:45
-      title: AI解读清华大学《DeepSeek从入门到精通》内附PDF
-      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486187&idx=1&sn=26c3ea3cab158858aa79628e0d4e75a0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 小菜鸟一枚
+      release_time: 2025.02.20 20:44:00
+      title: 学破解第215天，《动态调试&Log插桩》失败学习
+      url: https://www.52pojie.cn/thread-2008097-1-1.html
     - author: 神奇的人鱼
       release_time: 2025.02.19 11:21:00
       title: unidbg 0.9.8 解决java高版本anjuke示例代码空指针异常问题
@@ -359,10 +363,6 @@
       release_time: 2025.01.25 16:30:00
       title: 记录一次某标准规范网的逆向分析
       url: https://www.52pojie.cn/thread-2002450-1-1.html
-    - author: sxqww
-      release_time: 2025.01.24 20:22:00
-      title: 基于《安卓逆向这档事》其五动态调试与Log插桩
-      url: https://www.52pojie.cn/thread-2002337-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
