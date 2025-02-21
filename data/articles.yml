@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.02.21 10:11:19
+      title: AST反混淆插件|赋值语句与return语句结合的还原处理
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565762&idx=1&sn=417451876b59180fbb7c56c552ac29c9
     - author: Spade sec
       release_time: 2025.02.21 09:00:00
       title: innerHTML与outerHTML属性在xss挖掘当中的实际作用
@@ -236,10 +240,6 @@
       release_time: 2025.02.13 19:16:50
       title: 【安卓逆向】某音stream通信方式截流问题
       url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247486255&idx=1&sn=3fd4327405518ab666fc967387cdcb8e
-    - author: 未闻Code
-      release_time: 2025.02.12 22:39:15
-      title: 赶快自查，Ollama重大安全隐患
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990111&idx=1&sn=9cdee4d60fe59d0a741afbf6ea99fc4c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
