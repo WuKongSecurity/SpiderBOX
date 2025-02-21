@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.02.21 20:53:44
+      title: DeepSeek 装进 VSCode，一秒变身编程神器！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990130&idx=1&sn=49da820f11d3a6f792eb6b7e8cdf80ca
     - author: 静夜随想
       release_time: 2025.02.21 19:37:01
       title: JavaScript逆向时如何解决格式化反调试
@@ -236,10 +240,6 @@
       release_time: 2025.02.15 16:26:06
       title: 2025解题领红包之七 Windows高级Writeup
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141771&idx=1&sn=e4e4287f578fb33365c6d94e07492a52
-    - author: 吾爱破解论坛
-      release_time: 2025.02.14 09:00:00
-      title: 【2025春节】解题领红包所有题writeup
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141764&idx=1&sn=8da89593f71aa14f99d387bcb7f2ac15
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
