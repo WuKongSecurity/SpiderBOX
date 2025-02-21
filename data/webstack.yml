@@ -1723,6 +1723,14 @@
           logo: ipfoxy.jpg
           url: https://www.ipfoxy.net/?r=lk_spiderbox
           description: 专注于为跨境玩家提供全球独享纯净IP代理
+        - title: IPIPGO 全球住宅 IP
+          logo: ipipgo.jpg
+          url: http://www.ipipgo.com/?promotionLink=8e9453
+          description: IPIPGO 全球住宅 IP，企业级海外代理IP服务商，汇集全球245个国家/地区的9000万家庭住宅IP，涵盖静态、动态、原生跨境专线等方案，提供全面的免费测试，确保满足您的业务需求
+        - title: 神龙海外代理 IP
+          logo: shenlongproxy.jpg
+          url: http://www.shenlongproxy.com/?promotionLink=8e9453
+          description: 神龙海外代理IP，专业的全球动态代理IP服务商，致力为个人和企业提供高效、安全、稳定的代理方案。资源覆盖全球200多个国家/地区，帮助用户快速获取全球公开互联网资源
 
 #        - title: WTFproxy
 #          logo: wtfproxy.png
@@ -2251,10 +2259,6 @@
           logo: mobile_tech_share.jpg
           qrcode: images/qrcode/mobile_tech_share.jpg
           description: 公众号：移动端Android和iOS开发技术分享
-        - title: K哥爬虫
-          logo: kgepachong.jpg
-          qrcode: images/qrcode/kgepachong.jpg
-          description: 公众号：K哥爬虫
         - title: Spade sec
           logo: gh_e3bc789ec364.jpg
           qrcode: images/qrcode/gh_e3bc789ec364.jpg
@@ -2291,6 +2295,14 @@
           logo: gh_0f9cbd788793.jpg
           qrcode: images/qrcode/gh_0f9cbd788793.jpg
           description: 公众号：季东ooo
+        - title: 小白技术社
+          logo: gh_bb0763730675.jpg
+          qrcode: images/qrcode/gh_bb0763730675.jpg
+          description: 公众号：小白技术社
+        - title: K哥爬虫
+          logo: kgepachong.jpg
+          qrcode: images/qrcode/kgepachong.jpg
+          description: 公众号：K哥爬虫
         - title: 瑞数信息
           logo: riversecurity.png
           qrcode: images/qrcode/RiverSecurity.jpg
