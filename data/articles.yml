@@ -247,6 +247,10 @@
       release_time: 2025.02.20 20:44:00
       title: 学破解第215天，《动态调试&Log插桩》失败学习
       url: https://www.52pojie.cn/thread-2008097-1-1.html
+    - author: Shangwendada
+      release_time: 2025.02.20 18:05:00
+      title: 记录一次加固逆向分析以及加固步骤详解
+      url: https://www.52pojie.cn/thread-2008061-1-1.html
     - author: 神奇的人鱼
       release_time: 2025.02.19 11:21:00
       title: unidbg 0.9.8 解决java高版本anjuke示例代码空指针异常问题
@@ -359,10 +363,6 @@
       release_time: 2025.01.26 13:43:00
       title: 某某音乐馆sign逆向------------小白讲解06
       url: https://www.52pojie.cn/thread-2002575-1-1.html
-    - author: szh12123
-      release_time: 2025.01.25 16:30:00
-      title: 记录一次某标准规范网的逆向分析
-      url: https://www.52pojie.cn/thread-2002450-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
