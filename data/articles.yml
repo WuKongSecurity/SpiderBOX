@@ -386,6 +386,10 @@
       release_time: 2025.02.21 14:35:30
       title: '[推荐]招聘！base：深圳'
       url: https://bbs.kanxue.com/thread-285680.htm
+    - author: 悦来客栈的老板
+      release_time: 2025.02.21 10:11:34
+      title: AST反混淆插件|赋值语句与return语句结合的还原处理
+      url: https://blog.csdn.net/qq523176585/article/details/145789076
     - author: ~贝母~
       release_time: 2025.02.21 00:58:24
       title: anti_content (0ar开头)
@@ -486,10 +490,6 @@
       release_time: 2025.02.12 13:53:01
       title: '[原创]某加固so层脱壳'
       url: https://bbs.kanxue.com/thread-285539.htm
-    - author: EnEnEnEn
-      release_time: 2025.02.12 00:41:59
-      title: '[讨论]Qm小说咋那么厉害，啥原理？'
-      url: https://bbs.kanxue.com/thread-285522.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
