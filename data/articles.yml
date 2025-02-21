@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: HD236300
+      release_time: 2025.02.22 01:45:58
+      title: JS逆向案例，WebSocket数据解密，13322
+      url: https://www.bilibili.com/video/BV1VhPFe4EE3
     - author: B站用户骚神
       release_time: 2025.02.19 16:11:35
       title: 骚神插件9.6，新增8大功能，全程丝滑写DrissionPage代码
