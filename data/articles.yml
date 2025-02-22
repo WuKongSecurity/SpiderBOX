@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.02.22 17:31:17
+      title: 带账号密码并且动态切换代理IP的方法-骚神DrissionPage教学
+      url: https://www.bilibili.com/video/BV1rSPTe4EYS
     - author: HD236300
       release_time: 2025.02.22 01:45:58
       title: JS逆向案例，WebSocket数据解密，13322
@@ -117,10 +121,6 @@
       release_time: 2025.02.03 21:52:49
       title: dfa攻击的库，phoenixAES和phoenixSM4的使用，一些需要注意的点，dfa详细解释文档与具体代码示例
       url: https://www.bilibili.com/video/BV1bCPoeyEjF
-    - author: 冷月不是程序员
-      release_time: 2025.02.03 21:09:12
-      title: 1小时快速入门React.js 井字棋小游戏 环境搭建
-      url: https://www.bilibili.com/video/BV1LyP9e7EHT
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
