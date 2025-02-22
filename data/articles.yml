@@ -125,6 +125,14 @@
     term: 哔哩哔哩
   - links:
     - author: 未闻Code
+      release_time: 2025.02.22 09:00:00
+      title: 一日一技：如何实现临时密码？
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990138&idx=1&sn=b76610fc21b489770f6a7d458f489fc3
+    - author: Coder小Q
+      release_time: 2025.02.22 08:30:00
+      title: '【密码学PQC】FatSeal: 一种基于格的高效签名算法解读'
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491433&idx=1&sn=2cd1f8c1a96dae632deb7498ee620f25
+    - author: 未闻Code
       release_time: 2025.02.21 20:53:44
       title: DeepSeek 装进 VSCode，一秒变身编程神器！
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990130&idx=1&sn=49da820f11d3a6f792eb6b7e8cdf80ca
@@ -236,14 +244,6 @@
       release_time: 2025.02.17 08:46:39
       title: AST反混淆插件|给switch语句的每个case统一加上break节点
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565744&idx=1&sn=93e4dcc3755383864605c161ce9773fc
-    - author: Spade sec
-      release_time: 2025.02.16 10:30:00
-      title: HeartK v1.1.0 新增批量扫描网站功能
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485403&idx=1&sn=5320dde6ca81101d834dc61e8e5636a8
-    - author: 吾爱破解论坛
-      release_time: 2025.02.15 16:26:06
-      title: 2025解题领红包之七 Windows高级Writeup
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141771&idx=1&sn=e4e4287f578fb33365c6d94e07492a52
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
