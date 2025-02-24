@@ -247,6 +247,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: jwkjwk
+      release_time: 2025.02.23 19:47:00
+      title: 一些简单的近源攻击分享
+      url: https://www.52pojie.cn/thread-2008855-1-1.html
+    - author: BubbleC
+      release_time: 2025.02.22 02:23:00
+      title: 关于libmsaoaidsec.so反Frida
+      url: https://www.52pojie.cn/thread-2008459-1-1.html
     - author: 小菜鸟一枚
       release_time: 2025.02.20 20:44:00
       title: 学破解第215天，《动态调试&Log插桩》失败学习
@@ -359,14 +367,6 @@
       release_time: 2025.01.28 21:54:00
       title: mx player MX播放器 去除签名校验
       url: https://www.52pojie.cn/thread-2002883-1-1.html
-    - author: 为你芯冻
-      release_time: 2025.01.26 14:39:00
-      title: microdbg - 纯 go 实现 android 模拟框架
-      url: https://www.52pojie.cn/thread-2002586-1-1.html
-    - author: Aircraftcomman5
-      release_time: 2025.01.26 13:43:00
-      title: 某某音乐馆sign逆向------------小白讲解06
-      url: https://www.52pojie.cn/thread-2002575-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
