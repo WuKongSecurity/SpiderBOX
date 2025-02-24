@@ -1,6 +1,18 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: DrissionPage
+      release_time: 2025.02.24 22:45:53
+      title: DrissionPage环境安装-DrissionPage官方教程-第3讲
+      url: https://www.bilibili.com/video/BV1AkPteXEMQ
+    - author: DrissionPage
+      release_time: 2025.02.24 22:35:37
+      title: DrissionPage简介-DrissioinPage官方教程-第1讲
+      url: https://www.bilibili.com/video/BV1NBPtexE8t
+    - author: DrissionPage
+      release_time: 2025.02.24 22:35:30
+      title: 与selenium和playwright对比-DrissionPage官方教程-第2讲
+      url: https://www.bilibili.com/video/BV1PzPteRE6K
     - author: Alone逆向安全
       release_time: 2025.02.23 18:36:22
       title: C++ 08讲  数组与指针的关系及二级指针
@@ -109,18 +121,6 @@
       release_time: 2025.02.07 18:54:39
       title: 纯血多模态DeepSeek-Janus-Pro本地部署
       url: https://www.bilibili.com/video/BV1VjN8eGEsP
-    - author: 冷月不是程序员
-      release_time: 2025.02.05 23:06:43
-      title: 1小时快速入门React.js 井字棋小游戏 定义棋盘和落子
-      url: https://www.bilibili.com/video/BV1L8P1eREa4
-    - author: r0ysue
-      release_time: 2025.02.05 21:40:16
-      title: 消费级硬件DeepSeek量化版本地推理测速
-      url: https://www.bilibili.com/video/BV1rAP2ewELz
-    - author: Alone逆向安全
-      release_time: 2025.02.04 23:53:32
-      title: 用现代c++ 写一个类似Unidbg 黑盒调用So的 框架
-      url: https://www.bilibili.com/video/BV1EgPqeiEzM
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
