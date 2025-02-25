@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: feicong
+      release_time: 2025.02.25 11:58:00
+      title: 安卓系统定制基础图书免费开源发布
+      url: https://www.52pojie.cn/thread-2009289-1-1.html
     - author: jwkjwk
       release_time: 2025.02.23 19:47:00
       title: 一些简单的近源攻击分享
@@ -363,13 +367,17 @@
       release_time: 2025.01.31 23:05:00
       title: 记【某小剧场】永久会员过程
       url: https://www.52pojie.cn/thread-2003196-1-1.html
-    - author: 芽衣
-      release_time: 2025.01.28 21:54:00
-      title: mx player MX播放器 去除签名校验
-      url: https://www.52pojie.cn/thread-2002883-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 小爬菜
+      release_time: 2025.02.25 13:03:49
+      title: Ubuntu系统创建mariadb数据库（mysql),开通局域网络内连接
+      url: https://blog.csdn.net/qq_49268524/article/details/145850279
+    - author: 小爬菜
+      release_time: 2025.02.25 13:02:11
+      title: Ubuntu系统如何开启ssh服务
+      url: https://blog.csdn.net/qq_49268524/article/details/145850209
     - author: 扁舟·TF
       release_time: 2025.02.25 11:52:25
       title: vue 中 - 外部组件样式修改
@@ -482,14 +490,6 @@
       release_time: 2025.02.18 12:15:35
       title: JS逆向入门案例-瑞树3（cookie值）- 16
       url: https://blog.csdn.net/qq_53444631/article/details/145700606
-    - author: 老师我太想进步了！
-      release_time: 2025.02.17 13:51:30
-      title: 查验平台逆向学习笔记
-      url: https://blog.csdn.net/m0_75266682/article/details/145681314
-    - author: 悦来客栈的老板
-      release_time: 2025.02.17 08:46:57
-      title: AST反混淆插件|给switch语句的每个case统一加上break节点
-      url: https://blog.csdn.net/qq523176585/article/details/145695717
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
