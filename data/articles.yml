@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: Alone逆向安全
+      release_time: 2025.02.25 12:38:33
+      title: C++ 第十一讲：结构体、结构体指针与结构体数组
+      url: https://www.bilibili.com/video/BV1q2PYesEcd
+    - author: Alone逆向安全
+      release_time: 2025.02.25 12:36:51
+      title: C++ 第十讲：引用、常量指针与指针常量
+      url: https://www.bilibili.com/video/BV1q2PYesEzy
     - author: DrissionPage
       release_time: 2025.02.24 22:45:53
       title: DrissionPage环境安装-DrissionPage官方教程-第3讲
@@ -113,14 +121,6 @@
       release_time: 2025.02.08 20:34:20
       title: JS逆向案例，知乎x-zse-96
       url: https://www.bilibili.com/video/BV16RNVe3EEc
-    - author: 一只勇敢的小佳
-      release_time: 2025.02.08 20:12:27
-      title: 查找表aes的实现，白盒aes的基础，提供资料代码，带你使用python从零开始实现！！！
-      url: https://www.bilibili.com/video/BV1vwN5eiEB1
-    - author: r0ysue
-      release_time: 2025.02.07 18:54:39
-      title: 纯血多模态DeepSeek-Janus-Pro本地部署
-      url: https://www.bilibili.com/video/BV1VjN8eGEsP
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
