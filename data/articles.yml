@@ -124,6 +124,54 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 当爬虫遇到逆向
+      release_time: 2025.02.25 17:53:48
+      title: 数美滑块逆向流程
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4MjE4NzA5NA==&mid=2247483899&idx=1&sn=985fe1cbb48c3b453c7018b8c557ac20
+    - author: 二进制磨剑
+      release_time: 2025.02.25 13:53:43
+      title: IDA技巧（120）设置调用类型
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485467&idx=1&sn=b679b10ed3349f1a78762ca37fec557e
+    - author: 哆啦安全
+      release_time: 2025.02.25 12:07:12
+      title: DeepSeek辅助研究魔改LSPosed Hook框架
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497333&idx=1&sn=8b3a41ac6a74678ce56f39782af7ed2b
+    - author: 软件安全与逆向分析
+      release_time: 2025.02.25 11:34:53
+      title: 安卓系统定制基础图书免费开源发布
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484772&idx=1&sn=a3ed93d16c07dbeb315ee650281b9d50
+    - author: 逆向有你
+      release_time: 2025.02.25 00:00:00
+      title: 安卓逆向 -- 分析某红色跑步App的API
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037672&idx=1&sn=7508cb80e5211a95254d2a6c0c531db3
+    - author: 哆啦安全
+      release_time: 2025.02.24 14:10:02
+      title: DeepSeek与OmniParser V2配合使用实现自动化操作
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497320&idx=1&sn=fec58a33cd0c73ff36c8ad510bf601c4
+    - author: 独步爬虫逆向
+      release_time: 2025.02.24 11:10:15
+      title: 速通某里231.13版本
+      url: https://mp.weixin.qq.com/s?__biz=MzkzODYzNjg4OA==&mid=2247484250&idx=1&sn=40bb20e926d7289401f42864cc5b36d4
+    - author: 逆向有你
+      release_time: 2025.02.24 00:00:00
+      title: 安卓逆向 -- Fake Location 授权分析以及后门分析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037657&idx=1&sn=ac54469d00aeec101c96650d9c686492
+    - author: Pythonlx
+      release_time: 2025.02.23 17:21:54
+      title: ReaderLM-v2：HTML转换和解析
+      url: https://mp.weixin.qq.com/s?__biz=MzU4NzkwNTU3Ng==&mid=2247485218&idx=1&sn=d4d0ca55f494aac0b45fa454b55a8043
+    - author: 二进制磨剑
+      release_time: 2025.02.23 09:00:00
+      title: Deepseek 动手开发安全智能体——(1) kali 渗透智能体
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485466&idx=1&sn=5a0b9117b3f11410321b56c319feddf8
+    - author: 哆啦安全
+      release_time: 2025.02.23 07:37:44
+      title: DeepSeek辅助逆向分析Android和so?
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497281&idx=1&sn=c1b56996511d14e7bbbb4cb1c3f5fb83
+    - author: 哆啦安全
+      release_time: 2025.02.23 07:37:44
+      title: Android系统ROM定制(课程)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497281&idx=2&sn=1c8b6796664921890dba4c27cbc155cc
     - author: 小白技术社
       release_time: 2025.02.22 14:25:59
       title: 某红书Shield算法Chomper黑盒调用
@@ -196,54 +244,6 @@
       release_time: 2025.02.19 08:40:25
       title: KTransformers高性能LLM推理优化框架
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497244&idx=1&sn=87cc4859328c1fabaf94efee3b1c25d5
-    - author: 未闻Code
-      release_time: 2025.02.18 20:28:33
-      title: 用 Trae 开发一个小小小工具
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990127&idx=1&sn=77e301ef54baa1d553640616946151de
-    - author: 吾爱破解论坛
-      release_time: 2025.02.18 16:59:10
-      title: 【2025春节】解题领红包之番外篇writeup
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141800&idx=1&sn=ce4fbd9d5e88415d4d773b2501fe657d
-    - author: 菜鸟学Python编程
-      release_time: 2025.02.18 16:03:42
-      title: AST反混淆插件|处理没有实际代码的case语句
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565748&idx=1&sn=27c08cfd0e646275ca79e1826ca87814
-    - author: 二进制磨剑
-      release_time: 2025.02.18 13:20:33
-      title: IDA技巧（112）匹配大括号
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485412&idx=1&sn=d642af4751e35443f66681f1c0cbf1b7
-    - author: 哆啦安全
-      release_time: 2025.02.18 09:04:33
-      title: 本地部署DeepSeek-R1
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497243&idx=1&sn=879f91b4f2ea241542436c8b724747a4
-    - author: Spade sec
-      release_time: 2025.02.18 09:01:42
-      title: Hook_JS 100star特供
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485420&idx=1&sn=5d2acd2a046edf77aa1fc40d370f5b6c
-    - author: 未闻Code
-      release_time: 2025.02.17 21:40:37
-      title: AI 智能体的“记忆”与“思考”：一场向人脑学习的漫长旅程
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990121&idx=1&sn=ab9b74564938ef8b44bb1fcd0b43ccd6
-    - author: 虫术
-      release_time: 2025.02.17 18:58:56
-      title: DeepSeek 提示词优化：关键技术全解析 | 内附清华大学《DeepSeek从入门到精通》PDF
-      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486200&idx=1&sn=a5338d6ca1e083346f6a34cc66e5a46a
-    - author: 软件安全与逆向分析
-      release_time: 2025.02.17 16:20:51
-      title: 迷你主机跑deepseek-r1本地大数据模型
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484767&idx=1&sn=ce02d9b6edd0ec91afa516ff81b4028d
-    - author: 随心记事
-      release_time: 2025.02.17 15:29:21
-      title: '[小记] 共享其他人使用Ollama部署的AI模型'
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0NTMyNzI4MQ==&mid=2247484818&idx=1&sn=96464e8d385841931659d60467213cbd
-    - author: 吾爱破解论坛
-      release_time: 2025.02.17 15:25:04
-      title: 【公告】感动吾爱2024优秀会员名单公布
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141777&idx=1&sn=8d1df8939afa0956630f124b2a0c0c03
-    - author: 奋飞安全
-      release_time: 2025.02.17 13:55:04
-      title: DeepSeek分析DeepSeek App
-      url: https://mp.weixin.qq.com/s?__biz=MzI4NzMwNDI3OQ==&mid=2247484944&idx=1&sn=d0c446ece2880964fd79928113baa34f
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
