@@ -371,6 +371,14 @@
     term: 吾爱破解
   - links:
     - author: 心之筑
+      release_time: 2025.02.26 15:58:53
+      title: 使用python挂p12证书访问
+      url: https://blog.csdn.net/bluedream21str/article/details/145880870
+    - author: 心之筑
+      release_time: 2025.02.26 15:47:59
+      title: 将P12证书转为pem证书
+      url: https://blog.csdn.net/bluedream21str/article/details/145880732
+    - author: 心之筑
       release_time: 2025.02.26 15:35:11
       title: 双向证书密码提取
       url: https://blog.csdn.net/bluedream21str/article/details/145880289
@@ -482,14 +490,6 @@
       release_time: 2025.02.19 00:29:01
       title: '[原创]又一款通杀利器来袭，partserver，通杀版frida'
       url: https://bbs.kanxue.com/thread-285628.htm
-    - author: mb_doaynyyh
-      release_time: 2025.02.18 18:40:24
-      title: 有没有什么办法hook 安卓中的js代码逻辑啊
-      url: https://bbs.kanxue.com/thread-285625.htm
-    - author: CCTV果冻爽
-      release_time: 2025.02.18 17:59:10
-      title: '[原创]unidbg直接调用tiktok so生成签名'
-      url: https://bbs.kanxue.com/thread-285623.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
