@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.02.26 20:34:34
+      title: 解锁终极智能体验：OpenAI Deep Research 及其平替全面横评
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990145&idx=1&sn=4f872b486d05cb40a497340488d0f7df
     - author: Python头等奖
       release_time: 2025.02.26 18:56:23
       title: python爬虫逆向|某量某应九宫格点选验证码分析
@@ -240,10 +244,6 @@
       release_time: 2025.02.20 13:29:33
       title: IDA技巧（114）分割偏移量
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485413&idx=1&sn=4417d422c4d7864760c7783d169c5247
-    - author: 菜鸟学Python编程
-      release_time: 2025.02.20 10:13:04
-      title: AST反混淆插件|for循环语句中的init节点反混淆处理
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565758&idx=1&sn=1f729d407d884ce3b0143dfab7cd1227
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
