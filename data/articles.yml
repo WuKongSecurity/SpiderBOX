@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: Alone逆向安全
+      release_time: 2025.02.27 02:20:03
+      title: 零基础学C++（17） 面向对象中的封装(模拟账户类)
+      url: https://www.bilibili.com/video/BV1MJPJeiEn2
+    - author: Alone逆向安全
+      release_time: 2025.02.27 01:20:16
+      title: 零基础学C++（16） 面向对象介绍 封装（一）
+      url: https://www.bilibili.com/video/BV1cvPJexEKH
     - author: DrissionPage
       release_time: 2025.02.26 18:39:40
       title: 认识基本对象-DrissionPage官方教程-p5
@@ -113,14 +121,6 @@
       release_time: 2025.02.14 22:38:43
       title: 大模型的困惑度测试，DeepSeek-LLM-7B-chat性能明显优于Llama-3-8B-Instruct。当然也可能出于chat与instruct模型变种
       url: https://www.bilibili.com/video/BV1v6KTenEbT
-    - author: Alone逆向安全
-      release_time: 2025.02.14 17:30:23
-      title: 提高安卓逆向体验 不用unidbg补环境 trace流离线回放引擎简易版
-      url: https://www.bilibili.com/video/BV1PzKKeAESj
-    - author: 小肩膀-逆向安全培训
-      release_time: 2025.02.13 23:47:21
-      title: 《逆向工程师2025》课程介绍
-      url: https://www.bilibili.com/video/BV1UBNfeSEWR
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
