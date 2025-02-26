@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.02.26 15:17:26
+      title: 2025年高效短视频制作AI工具推荐
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497353&idx=1&sn=a000e622a40452c0ddd00d48f84f5470
+    - author: 哆啦安全
+      release_time: 2025.02.26 15:17:26
+      title: 未来感AI机器人正在全息显示器前编程
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497353&idx=3&sn=24c146e20b1d3b0744063b4f3ae4d943
     - author: 当爬虫遇到逆向
       release_time: 2025.02.25 17:53:48
       title: 数美滑块逆向流程
@@ -236,14 +244,6 @@
       release_time: 2025.02.19 16:08:32
       title: 【2025春节】解题领红包初级题(windows + android)
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141810&idx=1&sn=7cd85d8bc111074b833f5b7623b79c57
-    - author: 菜鸟学Python编程
-      release_time: 2025.02.19 09:00:37
-      title: AST反混淆插件|无实际参数的自执行函数还原
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565754&idx=1&sn=c9873d757f9f02ed15dd2ac342775b42
-    - author: 哆啦安全
-      release_time: 2025.02.19 08:40:25
-      title: KTransformers高性能LLM推理优化框架
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497244&idx=1&sn=87cc4859328c1fabaf94efee3b1c25d5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
