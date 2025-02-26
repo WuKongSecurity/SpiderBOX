@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 心之筑
+      release_time: 2025.02.26 15:35:11
+      title: 双向证书密码提取
+      url: https://blog.csdn.net/bluedream21str/article/details/145880289
     - author: 小爬菜
       release_time: 2025.02.26 11:08:10
       title: Django项目部署（Ubuntu虚拟机-局域网访问）uWSGI 、Nginx的使用
@@ -486,10 +490,6 @@
       release_time: 2025.02.18 17:59:10
       title: '[原创]unidbg直接调用tiktok so生成签名'
       url: https://bbs.kanxue.com/thread-285623.htm
-    - author: 悦来客栈的老板
-      release_time: 2025.02.18 16:04:01
-      title: AST反混淆插件|处理没有实际代码的case语句
-      url: https://blog.csdn.net/qq523176585/article/details/145718595
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
