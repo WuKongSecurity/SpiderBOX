@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.02.27 00:00:00
+      title: 安卓逆向 -- 某绿色图标读书app epub解密算法分析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037710&idx=1&sn=6eeebf5dbbde84bd83c872bff0b1c27b
     - author: 未闻Code
       release_time: 2025.02.26 20:34:34
       title: 解锁终极智能体验：OpenAI Deep Research 及其平替全面横评
@@ -240,10 +244,6 @@
       release_time: 2025.02.20 17:47:04
       title: 警惕，黑客借助DeepSeek热潮投放后门木马窃取用户密码
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141845&idx=1&sn=00adde86b4869e5c1115cdb56af5456a
-    - author: 二进制磨剑
-      release_time: 2025.02.20 13:29:33
-      title: IDA技巧（114）分割偏移量
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485413&idx=1&sn=4417d422c4d7864760c7783d169c5247
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
