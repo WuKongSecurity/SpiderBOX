@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 影17
+      release_time: 2025.02.26 17:13:16
+      title: Akamai 某环境VMP算法分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489534&idx=1&sn=18a3918976971703a7497bf8a6c5a529
     - author: 哆啦安全
       release_time: 2025.02.26 15:17:26
       title: 2025年高效短视频制作AI工具推荐
@@ -240,10 +244,6 @@
       release_time: 2025.02.20 07:25:50
       title: Android开发者的福音：DeepSeek免费使用平台全汇总！
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497246&idx=1&sn=f55f96b562cb312d8c3605665107e9cd
-    - author: 吾爱破解论坛
-      release_time: 2025.02.19 16:08:32
-      title: 【2025春节】解题领红包初级题(windows + android)
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141810&idx=1&sn=7cd85d8bc111074b833f5b7623b79c57
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
