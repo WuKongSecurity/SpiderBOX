@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.02.27 07:18:36
+      title: Android系统定制绕过AI风控检测及对抗DeepSeek和ChatGPT等AI大模型的解决方法
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497389&idx=1&sn=9d6f9ace3df66c406a8a451e1757f814
     - author: 逆向有你
       release_time: 2025.02.27 00:00:00
       title: 安卓逆向 -- 某绿色图标读书app epub解密算法分析
@@ -240,10 +244,6 @@
       release_time: 2025.02.20 18:18:04
       title: 某手sig3-ios算法Chomper调用
       url: https://mp.weixin.qq.com/s?__biz=MzkxNzY5NjQxMg==&mid=2247484058&idx=1&sn=c17241f3bf10afdd64a308d28f1d86c3
-    - author: 吾爱破解论坛
-      release_time: 2025.02.20 17:47:04
-      title: 警惕，黑客借助DeepSeek热潮投放后门木马窃取用户密码
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141845&idx=1&sn=00adde86b4869e5c1115cdb56af5456a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
