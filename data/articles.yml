@@ -2,6 +2,10 @@
   list:
   - links:
     - author: DrissionPage
+      release_time: 2025.02.26 18:39:40
+      title: 认识基本对象-DrissionPage官方教程-p5
+      url: https://www.bilibili.com/video/BV1ftPLeCEL7
+    - author: DrissionPage
       release_time: 2025.02.25 21:57:45
       title: 第一个案例-DrissionPage官方教程-p4
       url: https://www.bilibili.com/video/BV1fKPqeMESK
@@ -117,10 +121,6 @@
       release_time: 2025.02.13 23:47:21
       title: 《逆向工程师2025》课程介绍
       url: https://www.bilibili.com/video/BV1UBNfeSEWR
-    - author: 冷月不是程序员
-      release_time: 2025.02.12 00:09:35
-      title: 1小时快速入门React.js 井字棋小游戏 增加时间旅行功能 项目完结
-      url: https://www.bilibili.com/video/BV1zzNze7E8u
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
