@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: hybpjx
+      release_time: 2025.02.26 17:02:00
+      title: Akamai某环境VMP算法分析
+      url: https://www.52pojie.cn/thread-2009699-1-1.html
     - author: feicong
       release_time: 2025.02.25 11:58:00
       title: 安卓系统定制基础图书免费开源发布
@@ -363,10 +367,6 @@
       release_time: 2025.02.10 19:48:00
       title: 某程 encode 算法分析
       url: https://www.52pojie.cn/thread-2005163-1-1.html
-    - author: mwwp
-      release_time: 2025.01.31 23:05:00
-      title: 记【某小剧场】永久会员过程
-      url: https://www.52pojie.cn/thread-2003196-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
