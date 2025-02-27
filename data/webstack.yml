@@ -785,6 +785,10 @@
           logo: github.png
           url: https://github.com/bnmgh1/NodeSandbox
           description: Node 补环境框架，作者挽风
+        - title: sdenv
+          logo: github.png
+          url: https://github.com/pysunday/sdenv
+          description: 补环境框架，完美过瑞数 vmp 理论通杀
         - title: catvm
           logo: github.png
           url: https://github.com/fanchangrui/catvm
