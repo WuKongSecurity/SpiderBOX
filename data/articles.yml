@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.02.28 13:29:02
+      title: 横向评测三个大模型做知识卡片的能力
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990147&idx=1&sn=153ab5c697e62a5344cd472eac8e0883
     - author: 逆向有你
       release_time: 2025.02.28 00:00:00
       title: 安卓逆向 -- 某痛单词过frida检测
@@ -240,13 +244,13 @@
       release_time: 2025.02.21 10:11:19
       title: AST反混淆插件|赋值语句与return语句结合的还原处理
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565762&idx=1&sn=417451876b59180fbb7c56c552ac29c9
-    - author: Spade sec
-      release_time: 2025.02.21 09:00:00
-      title: innerHTML与outerHTML属性在xss挖掘当中的实际作用
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485448&idx=1&sn=e1c48e75540fa228f71a41099b9e403e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: pxfsim
+      release_time: 2025.02.27 21:48:00
+      title: 某图，瑞数6补环境
+      url: https://www.52pojie.cn/thread-2010081-1-1.html
     - author: hybpjx
       release_time: 2025.02.26 17:02:00
       title: Akamai某环境VMP算法分析
@@ -363,10 +367,6 @@
       release_time: 2025.02.12 15:04:00
       title: electron asar 加密包解压 偏移修复
       url: https://www.52pojie.cn/thread-2005677-1-1.html
-    - author: Lychow
-      release_time: 2025.02.10 19:48:00
-      title: 某程 encode 算法分析
-      url: https://www.52pojie.cn/thread-2005163-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
