@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 带带弟弟学爬虫
+      release_time: 2025.02.28 14:31:38
+      title: 币coin持仓监控
+      url: https://www.bilibili.com/video/BV1eP9gYbEBi
     - author: HD236300
       release_time: 2025.02.28 01:20:54
       title: 怎样使用京东国家补贴，一些坑和注意事项
@@ -117,10 +121,6 @@
       release_time: 2025.02.16 15:45:42
       title: C++ 第四课：数组的定义以及遍历
       url: https://www.bilibili.com/video/BV1gVAVepEdH
-    - author: Alone逆向安全
-      release_time: 2025.02.16 13:12:29
-      title: 2 c++基础 变量和常量
-      url: https://www.bilibili.com/video/BV1JDAge8E1D
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
