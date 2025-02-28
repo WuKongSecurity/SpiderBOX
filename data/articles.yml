@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.03.01 00:00:00
+      title: 安卓逆向 -- 某音乐盒7.4.1破解
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037790&idx=1&sn=c3668e922a533c4999f4d198df8d14fa
     - author: 菜鸟学Python编程
       release_time: 2025.02.28 17:10:00
       title: AST反混淆插件|字符串被拆分到赋值语句里的还原
@@ -240,10 +244,6 @@
       release_time: 2025.02.21 20:53:44
       title: DeepSeek 装进 VSCode，一秒变身编程神器！
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990130&idx=1&sn=49da820f11d3a6f792eb6b7e8cdf80ca
-    - author: 静夜随想
-      release_time: 2025.02.21 19:37:01
-      title: JavaScript逆向时如何解决格式化反调试
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811006&idx=1&sn=cbf96cd7d7fbf02b7aca6aa15d7a8e72
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
