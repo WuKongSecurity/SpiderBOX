@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: DrissionPage
+      release_time: 2025.02.28 20:10:00
+      title: 浏览器启动设置-DrissionPage官方教程-p7
+      url: https://www.bilibili.com/video/BV1Rg9AY3EaT
     - author: 带带弟弟学爬虫
       release_time: 2025.02.28 14:31:38
       title: 币coin持仓监控
@@ -117,10 +121,6 @@
       release_time: 2025.02.16 21:15:10
       title: C++  06：使用函数、循环与条件语句实现猜数字游戏
       url: https://www.bilibili.com/video/BV17WA5evEjw
-    - author: Alone逆向安全
-      release_time: 2025.02.16 16:07:56
-      title: C++ 第五课：函数的定义 返回值 调用
-      url: https://www.bilibili.com/video/BV14pAVejEP6
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
