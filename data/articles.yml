@@ -9,6 +9,10 @@
       release_time: 2025.02.28 01:20:54
       title: 怎样使用京东国家补贴，一些坑和注意事项
       url: https://www.bilibili.com/video/BV1XE9NYCEVZ
+    - author: DrissionPage
+      release_time: 2025.02.27 20:56:45
+      title: 浏览器打开、关闭-DrissionPage官方教程-p6
+      url: https://www.bilibili.com/video/BV1939AY6Et1
     - author: Alone逆向安全
       release_time: 2025.02.27 17:15:23
       title: 零基础学C++（21）构造函数初始化列表与静态成员
@@ -117,10 +121,6 @@
       release_time: 2025.02.16 16:07:56
       title: C++ 第五课：函数的定义 返回值 调用
       url: https://www.bilibili.com/video/BV14pAVejEP6
-    - author: Alone逆向安全
-      release_time: 2025.02.16 15:45:42
-      title: C++ 第四课：数组的定义以及遍历
-      url: https://www.bilibili.com/video/BV1gVAVepEdH
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
