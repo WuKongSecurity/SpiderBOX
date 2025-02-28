@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: HD236300
+      release_time: 2025.02.28 01:20:54
+      title: 怎样使用京东国家补贴，一些坑和注意事项
+      url: https://www.bilibili.com/video/BV1XE9NYCEVZ
     - author: Alone逆向安全
       release_time: 2025.02.27 02:20:03
       title: 零基础学C++（17） 面向对象中的封装(模拟账户类)
@@ -117,10 +121,6 @@
       release_time: 2025.02.14 23:38:21
       title: 04_v8引擎专题-cppgc的基本使用
       url: https://www.bilibili.com/video/BV1AHKTeeEWq
-    - author: r0ysue
-      release_time: 2025.02.14 22:38:43
-      title: 大模型的困惑度测试，DeepSeek-LLM-7B-chat性能明显优于Llama-3-8B-Instruct。当然也可能出于chat与instruct模型变种
-      url: https://www.bilibili.com/video/BV1v6KTenEbT
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
