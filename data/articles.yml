@@ -1,10 +1,18 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.03.01 15:37:33
+      title: 油猴+Dp，任意网页自动执行你的私人脚本
+      url: https://www.bilibili.com/video/BV1YaXDYBEqr
     - author: DrissionPage
       release_time: 2025.02.28 20:10:00
       title: 浏览器启动设置-DrissionPage官方教程-p7
       url: https://www.bilibili.com/video/BV1Rg9AY3EaT
+    - author: B站用户骚神
+      release_time: 2025.02.28 16:39:46
+      title: DP+猫抓-自动下载各大网站的高清视频
+      url: https://www.bilibili.com/video/BV1JV9uYeEFx
     - author: 带带弟弟学爬虫
       release_time: 2025.02.28 14:31:38
       title: 币coin持仓监控
@@ -113,14 +121,6 @@
       release_time: 2025.02.19 02:04:11
       title: JS逆向，常见f12控制台检测，原理与实例
       url: https://www.bilibili.com/video/BV1auAieWEo7
-    - author: HD236300
-      release_time: 2025.02.18 13:02:34
-      title: JS逆向补环境框架，Error对象的处理，隐藏调用堆栈中的node特征
-      url: https://www.bilibili.com/video/BV1hrA8eMEyw
-    - author: Alone逆向安全
-      release_time: 2025.02.16 21:15:10
-      title: C++  06：使用函数、循环与条件语句实现猜数字游戏
-      url: https://www.bilibili.com/video/BV17WA5evEjw
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
