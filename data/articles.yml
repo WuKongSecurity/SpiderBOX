@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.03.03 07:00:00
+      title: 鸿蒙APP逆向分析工具和方法
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497471&idx=1&sn=70550ec0a6e0d206c1ce377ff803547b
+    - author: 哆啦安全
+      release_time: 2025.03.03 07:00:00
+      title: 手机App权限设置的隐私保护避坑指南
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497471&idx=2&sn=1bf9de0fb3c758d274d960a1669abab4
     - author: 逆向有你
       release_time: 2025.03.03 00:00:00
       title: 安卓逆向 -- APK双开、汉化、软件图标修改等问题的实现与总结
@@ -236,14 +244,6 @@
       release_time: 2025.02.23 07:37:44
       title: Android系统ROM定制(课程)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497281&idx=2&sn=1c8b6796664921890dba4c27cbc155cc
-    - author: 小白技术社
-      release_time: 2025.02.22 14:25:59
-      title: 某红书Shield算法Chomper黑盒调用
-      url: https://mp.weixin.qq.com/s?__biz=MzI4NTE1NDMwMA==&mid=2247485256&idx=1&sn=98be3097618a87721f6b3b9ec4d3c3d1
-    - author: 二进制磨剑
-      release_time: 2025.02.22 12:41:52
-      title: IDA技巧（117）重置指针类型
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485415&idx=1&sn=480db87a832ee145239b4e620d119576
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
