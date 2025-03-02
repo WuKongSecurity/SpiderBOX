@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: DrissionPage
+      release_time: 2025.03.02 19:30:00
+      title: 页面后退、前进、刷新-DrissionPage官方教程-p9
+      url: https://www.bilibili.com/video/BV1X59AYBExN
+    - author: DrissionPage
+      release_time: 2025.03.01 20:15:00
+      title: 标签页打开、关闭-DrissionPage官方教程-p8
+      url: https://www.bilibili.com/video/BV1a59AYzE9C
     - author: B站用户骚神
       release_time: 2025.03.01 15:37:33
       title: 油猴+Dp，任意网页自动执行你的私人脚本
@@ -113,14 +121,6 @@
       release_time: 2025.02.19 16:11:35
       title: 骚神插件9.6，新增8大功能，全程丝滑写DrissionPage代码
       url: https://www.bilibili.com/video/BV144A6etEfU
-    - author: 悦来客栈的老板
-      release_time: 2025.02.19 15:59:26
-      title: AST去混淆|最新PX3混淆代码一键优化
-      url: https://www.bilibili.com/video/BV1gcAreNEor
-    - author: HD236300
-      release_time: 2025.02.19 02:04:11
-      title: JS逆向，常见f12控制台检测，原理与实例
-      url: https://www.bilibili.com/video/BV1auAieWEo7
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
