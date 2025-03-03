@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: 2025.03.03 09:30:00
+      title: Deepseek 动手开发安全智能体——(2) CVE 分析智能体 | 知识库 | 向量化
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485475&idx=1&sn=f3407035dcf93e398a44f1d5d39908f9
+    - author: 小伍哥聊风控
+      release_time: 2025.03.03 08:03:00
+      title: FRAUDAR算法，众包刷单刷量欺诈的终结者之1（论文翻译）
+      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196790&idx=1&sn=6a5550a1cfc135b366993fd5563f4b09
     - author: 哆啦安全
       release_time: 2025.03.03 07:00:00
       title: 鸿蒙APP逆向分析工具和方法
@@ -236,17 +244,13 @@
       release_time: 2025.02.23 09:00:00
       title: Deepseek 动手开发安全智能体——(1) kali 渗透智能体
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485466&idx=1&sn=5a0b9117b3f11410321b56c319feddf8
-    - author: 哆啦安全
-      release_time: 2025.02.23 07:37:44
-      title: DeepSeek辅助逆向分析Android和so?
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497281&idx=1&sn=c1b56996511d14e7bbbb4cb1c3f5fb83
-    - author: 哆啦安全
-      release_time: 2025.02.23 07:37:44
-      title: Android系统ROM定制(课程)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497281&idx=2&sn=1c8b6796664921890dba4c27cbc155cc
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 就往丶
+      release_time: 2025.03.02 22:18:00
+      title: 扇贝单词js逆向补环境
+      url: https://www.52pojie.cn/thread-2010844-1-1.html
     - author: 小菜鸟一枚
       release_time: 2025.03.02 16:27:00
       title: 学破解第216天，《Frida一把梭了》学习
@@ -363,10 +367,6 @@
       release_time: 2025.02.13 11:09:00
       title: 【2025春节】解题领红包之三 {Android 初级题}writeup，还原出题意图，符合初级定位
       url: https://www.52pojie.cn/thread-2005895-1-1.html
-    - author: cakeuser
-      release_time: 2025.02.13 10:23:00
-      title: 2025解题领红包 Android初级
-      url: https://www.52pojie.cn/thread-2005873-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
