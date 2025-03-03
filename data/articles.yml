@@ -251,10 +251,18 @@
       release_time: 2025.03.02 22:18:00
       title: 扇贝单词js逆向补环境
       url: https://www.52pojie.cn/thread-2010844-1-1.html
+    - author: 无问且问
+      release_time: 2025.03.02 17:32:00
+      title: 某手游il2cpp逆向分析----libtprt保护
+      url: https://www.52pojie.cn/thread-2010789-1-1.html
     - author: 小菜鸟一枚
       release_time: 2025.03.02 16:27:00
       title: 学破解第216天，《Frida一把梭了》学习
       url: https://www.52pojie.cn/thread-2010779-1-1.html
+    - author: coldwater814
+      release_time: 2025.03.01 15:34:00
+      title: 简单探索一下 Simply Piano 的激活机制
+      url: https://www.52pojie.cn/thread-2010555-1-1.html
     - author: chenchenchen777
       release_time: 2025.02.28 16:52:00
       title: Android  SO文件加载过程探究
@@ -359,14 +367,6 @@
       release_time: 2025.02.13 17:14:00
       title: 【2025春节】解题领红包之六(安卓版)——Writeup
       url: https://www.52pojie.cn/thread-2005863-1-1.html
-    - author: duyi324
-      release_time: 2025.02.13 14:53:00
-      title: 【春节】解题领红包之三 {Android 初级题} Writeup
-      url: https://www.52pojie.cn/thread-2005965-1-1.html
-    - author: jingtai123
-      release_time: 2025.02.13 11:09:00
-      title: 【2025春节】解题领红包之三 {Android 初级题}writeup，还原出题意图，符合初级定位
-      url: https://www.52pojie.cn/thread-2005895-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
