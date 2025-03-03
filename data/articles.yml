@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: Aircraftcomman5
+      release_time: 2025.03.03 14:09:00
+      title: 某某矿集团param逆向-------小白讲解07
+      url: https://www.52pojie.cn/thread-2010991-1-1.html
     - author: 就往丶
       release_time: 2025.03.02 22:18:00
       title: 扇贝单词js逆向补环境
@@ -327,6 +331,10 @@
       release_time: 2025.02.17 16:03:00
       title: 52pj-25.6W&A题分析
       url: https://www.52pojie.cn/thread-2007041-1-1.html
+    - author: 就往丶
+      release_time: 2025.02.16 23:57:00
+      title: 某试鸭web逆向题目
+      url: https://www.52pojie.cn/thread-2006876-1-1.html
     - author: KillLog
       release_time: 2025.02.16 16:27:00
       title: 天津地铁App分析
@@ -359,14 +367,6 @@
       release_time: 2025.02.14 06:40:00
       title: 【2025春节】解题领红包之安卓篇
       url: https://www.52pojie.cn/thread-2006142-1-1.html
-    - author: GrumpyJellyfish
-      release_time: 2025.02.14 02:53:00
-      title: 【2025春节】解题领红包之四 Android 中级题WriteUp
-      url: https://www.52pojie.cn/thread-2006138-1-1.html
-    - author: jackyyue_cn
-      release_time: 2025.02.13 17:14:00
-      title: 【2025春节】解题领红包之六(安卓版)——Writeup
-      url: https://www.52pojie.cn/thread-2005863-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
