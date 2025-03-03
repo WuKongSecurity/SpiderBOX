@@ -1632,10 +1632,6 @@
           logo: zdaye.png
           url: https://www.zdaye.com/
           description: 站大爷始创于 2012 年，专注企业级高品质代理 IP 领域，2000万活跃代理 IP 池赋能大数据，为 HTTP 代理 IP 和 Socks5 代理服务器提供了丰富的 API 接口和技术文档，且实时更新免费代理服务器资源为入门开发者学习用
-        - title: IPWO
-          logo: ipwo.png
-          url: https://www.ipwo.net/
-          description: IPWO 提供全球范围内的免费/稳定/高质量/安全的 IP 代理服务.我们拥有上亿级别 IP 池，以及分布在全球各地的 IP 代理服务器，确保您的网络连接速度和稳定性
         - title: 闪臣代理
           logo: shanchendaili.png
           url: https://www.shanchendaili.com/
@@ -1735,6 +1731,10 @@
           logo: shenlongproxy.jpg
           url: http://www.shenlongproxy.com/?promotionLink=8e9453
           description: 神龙海外代理IP，专业的全球动态代理IP服务商，致力为个人和企业提供高效、安全、稳定的代理方案。资源覆盖全球200多个国家/地区，帮助用户快速获取全球公开互联网资源
+        - title: IPWO
+          logo: ipwo.png
+          url: https://www.ipwo.net/?code=E6JLQ24FM
+          description: IPWO 提供全球范围内的免费/稳定/高质量/安全的 IP 代理服务.我们拥有上亿级别 IP 池，以及分布在全球各地的 IP 代理服务器，确保您的网络连接速度和稳定性
 
 #        - title: WTFproxy
 #          logo: wtfproxy.png
