@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.03.04 00:00:00
+      title: 安卓逆向 -- VIP破解的学习和总结
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037935&idx=1&sn=cd47a9b755a95d8a2703be8a6d7a50af
     - author: 菜鸟学Python编程
       release_time: 2025.03.03 17:32:00
       title: AST反混淆插件|删除垃圾代码的删除
@@ -240,10 +244,6 @@
       release_time: 2025.02.24 00:00:00
       title: 安卓逆向 -- Fake Location 授权分析以及后门分析
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037657&idx=1&sn=ac54469d00aeec101c96650d9c686492
-    - author: Pythonlx
-      release_time: 2025.02.23 17:21:54
-      title: ReaderLM-v2：HTML转换和解析
-      url: https://mp.weixin.qq.com/s?__biz=MzU4NzkwNTU3Ng==&mid=2247485218&idx=1&sn=d4d0ca55f494aac0b45fa454b55a8043
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
