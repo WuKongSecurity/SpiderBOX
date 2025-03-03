@@ -1,10 +1,18 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 念初77
+      release_time: 2025.03.03 12:03:57
+      title: 念初逆向入门课程（韭菜)
+      url: https://www.bilibili.com/cheese/play/ss301590140
     - author: DrissionPage
       release_time: 2025.03.02 19:30:00
       title: 页面后退、前进、刷新-DrissionPage官方教程-p9
       url: https://www.bilibili.com/video/BV1X59AYBExN
+    - author: B站用户骚神
+      release_time: 2025.03.02 15:46:57
+      title: 骚神插件9.6.2新功能-一键生成登录代码
+      url: https://www.bilibili.com/video/BV1h19bYVEXT
     - author: DrissionPage
       release_time: 2025.03.01 20:15:00
       title: 标签页打开、关闭-DrissionPage官方教程-p8
@@ -113,14 +121,6 @@
       release_time: 2025.02.22 17:31:17
       title: 带账号密码并且动态切换代理IP的方法-骚神DrissionPage教学
       url: https://www.bilibili.com/video/BV1rSPTe4EYS
-    - author: HD236300
-      release_time: 2025.02.22 01:45:58
-      title: JS逆向案例，WebSocket数据解密，13322
-      url: https://www.bilibili.com/video/BV1VhPFe4EE3
-    - author: B站用户骚神
-      release_time: 2025.02.19 16:11:35
-      title: 骚神插件9.6，新增8大功能，全程丝滑写DrissionPage代码
-      url: https://www.bilibili.com/video/BV144A6etEfU
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
