@@ -378,6 +378,10 @@
       release_time: 2025.03.03 17:35:16
       title: 【APP逆向百例】某蜂窝逆向分析
       url: https://blog.csdn.net/kdl_csdn/article/details/145994458
+    - author: 悦来客栈的老板
+      release_time: 2025.03.03 17:32:54
+      title: AST反混淆插件|还原后垃圾代码的删除
+      url: https://blog.csdn.net/qq523176585/article/details/146003694
     - author: 账号已注销1
       release_time: 2025.03.03 14:12:07
       title: '[推荐]Android SO文件加载过程'
@@ -486,10 +490,6 @@
       release_time: 2025.02.22 14:08:31
       title: js逆向-都能学会的小栗子
       url: https://blog.csdn.net/weixin_46672080/article/details/145794330
-    - author: 钢针
-      release_time: 2025.02.22 12:20:15
-      title: '[原创]腾讯qq.com 域名xss漏洞'
-      url: https://bbs.kanxue.com/thread-285702.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
