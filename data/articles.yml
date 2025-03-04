@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: littlewhite11
+      release_time: 2025.03.04 15:32:00
+      title: 【JS逆向】某土地市场网逆向分析
+      url: https://www.52pojie.cn/thread-2011345-1-1.html
     - author: Aircraftcomman5
       release_time: 2025.03.03 14:09:00
       title: 某某矿集团param逆向-------小白讲解07
@@ -363,10 +367,6 @@
       release_time: 2025.02.14 09:23:00
       title: 算术验证码识别模型训练
       url: https://www.52pojie.cn/thread-2006169-1-1.html
-    - author: 爱飞的猫
-      release_time: 2025.02.14 06:40:00
-      title: 【2025春节】解题领红包之安卓篇
-      url: https://www.52pojie.cn/thread-2006142-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
