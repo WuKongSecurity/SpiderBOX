@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: Doratmon
+      release_time: 2025.03.04 17:47:00
+      title: 2025春节红包之Android中级题Writeup（Frida Hook法）
+      url: https://www.52pojie.cn/thread-2011393-1-1.html
     - author: littlewhite11
       release_time: 2025.03.04 15:32:00
       title: 【JS逆向】某土地市场网逆向分析
@@ -363,10 +367,6 @@
       release_time: 2025.02.14 12:55:00
       title: 2025 春节解题领红包（Web 番外篇）
       url: https://www.52pojie.cn/thread-2006270-1-1.html
-    - author: HaveAnOrange
-      release_time: 2025.02.14 09:23:00
-      title: 算术验证码识别模型训练
-      url: https://www.52pojie.cn/thread-2006169-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
