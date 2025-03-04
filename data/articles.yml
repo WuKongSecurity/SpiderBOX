@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.03.04 17:55:23
+      title: 【清理未活跃会员】清理2024年光棍节开放注册未活跃会员公告
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141847&idx=1&sn=3dafa3822cbc6cfab54a389598eff8e5
+    - author: 菜鸟学Python编程
+      release_time: 2025.03.04 17:49:00
+      title: AST反混淆插件|PX3同名函数的优化处理
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565779&idx=1&sn=6e8d18dd66dac71bf1bbf9a814e0a886
     - author: Spade sec
       release_time: 2025.03.04 09:00:00
       title: 探索挖掘xss中括号被转义的绕过措施
@@ -236,14 +244,6 @@
       release_time: 2025.02.25 11:34:53
       title: 安卓系统定制基础图书免费开源发布
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484772&idx=1&sn=a3ed93d16c07dbeb315ee650281b9d50
-    - author: 逆向有你
-      release_time: 2025.02.25 00:00:00
-      title: 安卓逆向 -- 分析某红色跑步App的API
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037672&idx=1&sn=7508cb80e5211a95254d2a6c0c531db3
-    - author: 哆啦安全
-      release_time: 2025.02.24 14:10:02
-      title: DeepSeek与OmniParser V2配合使用实现自动化操作
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497320&idx=1&sn=fec58a33cd0c73ff36c8ad510bf601c4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
