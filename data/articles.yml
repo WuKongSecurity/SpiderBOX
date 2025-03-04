@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Spade sec
+      release_time: 2025.03.04 09:00:00
+      title: 探索挖掘xss中括号被转义的绕过措施
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485471&idx=1&sn=d555ac0c21c5263bbef5db6b4fda81b3
+    - author: 哆啦安全
+      release_time: 2025.03.04 08:20:47
+      title: Android APP应用上架隐私合规检测方法
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497486&idx=1&sn=d0bf50ebc47b7d663d74a7eda9366e70
     - author: 逆向有你
       release_time: 2025.03.04 00:00:00
       title: 安卓逆向 -- VIP破解的学习和总结
@@ -236,14 +244,6 @@
       release_time: 2025.02.24 14:10:02
       title: DeepSeek与OmniParser V2配合使用实现自动化操作
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497320&idx=1&sn=fec58a33cd0c73ff36c8ad510bf601c4
-    - author: 独步爬虫逆向
-      release_time: 2025.02.24 11:10:15
-      title: 速通某里231.13版本
-      url: https://mp.weixin.qq.com/s?__biz=MzkzODYzNjg4OA==&mid=2247484250&idx=1&sn=40bb20e926d7289401f42864cc5b36d4
-    - author: 逆向有你
-      release_time: 2025.02.24 00:00:00
-      title: 安卓逆向 -- Fake Location 授权分析以及后门分析
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037657&idx=1&sn=ac54469d00aeec101c96650d9c686492
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
