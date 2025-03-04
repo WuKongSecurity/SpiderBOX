@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.03.04 21:25:50
+      title: AI+DP,轻松搞定网站字符验证码
+      url: https://www.bilibili.com/video/BV1MV9JY5EyE
     - author: DrissionPage
       release_time: 2025.03.04 19:15:00
       title: 网页保存和截图-DrissionPage官方教程-p11
@@ -117,10 +121,6 @@
       release_time: 2025.02.24 22:35:30
       title: 与selenium和playwright对比-DrissionPage官方教程-第2讲
       url: https://www.bilibili.com/video/BV1PzPteRE6K
-    - author: Alone逆向安全
-      release_time: 2025.02.23 18:36:22
-      title: C++ 08讲  数组与指针的关系及二级指针
-      url: https://www.bilibili.com/video/BV1SfAmeUE7N
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
