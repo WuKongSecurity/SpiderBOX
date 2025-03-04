@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 一只勇敢的小佳
+      release_time: 2025.03.03 19:46:15
+      title: frida检测，内核模块处理，逆向算法百例，各种实战代码
+      url: https://www.bilibili.com/video/BV1P99BYfEZi
     - author: 念初77
       release_time: 2025.03.03 12:03:57
       title: 念初逆向入门课程（韭菜)
@@ -117,10 +121,6 @@
       release_time: 2025.02.23 18:35:25
       title: C++ 第九讲：函数指针、typedef` 和 using定义
       url: https://www.bilibili.com/video/BV1SfAmeUEEw
-    - author: B站用户骚神
-      release_time: 2025.02.22 17:31:17
-      title: 带账号密码并且动态切换代理IP的方法-骚神DrissionPage教学
-      url: https://www.bilibili.com/video/BV1rSPTe4EYS
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
