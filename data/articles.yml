@@ -5,6 +5,10 @@
       release_time: 2025.03.03 19:46:15
       title: frida检测，内核模块处理，逆向算法百例，各种实战代码
       url: https://www.bilibili.com/video/BV1P99BYfEZi
+    - author: DrissionPage
+      release_time: 2025.03.03 19:10:00
+      title: 获取标签页信息-DrissionPage官方教程-p10
+      url: https://www.bilibili.com/video/BV19V9AYuEEa
     - author: 念初77
       release_time: 2025.03.03 12:03:57
       title: 念初逆向入门课程（韭菜)
@@ -117,10 +121,6 @@
       release_time: 2025.02.23 18:35:57
       title: C++ 07 指针定义与常见误区
       url: https://www.bilibili.com/video/BV1SfAmeUE9z
-    - author: Alone逆向安全
-      release_time: 2025.02.23 18:35:25
-      title: C++ 第九讲：函数指针、typedef` 和 using定义
-      url: https://www.bilibili.com/video/BV1SfAmeUEEw
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
