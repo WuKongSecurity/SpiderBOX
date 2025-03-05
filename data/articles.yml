@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 和沐阳学逆向
+      release_time: 2025.03.05 21:23:57
+      title: 56《安卓逆向》lsposed开发之——lsposed环境搭建与概念讲解
+      url: https://www.bilibili.com/video/BV1Jo9oYzEmA
     - author: DrissionPage
       release_time: 2025.03.05 10:10:00
       title: 熟悉html概念-DrissionPage官方教程-p12
@@ -117,13 +121,13 @@
       release_time: 2025.02.24 22:45:53
       title: DrissionPage环境安装-DrissionPage官方教程-第3讲
       url: https://www.bilibili.com/video/BV1AkPteXEMQ
-    - author: DrissionPage
-      release_time: 2025.02.24 22:35:37
-      title: DrissionPage简介-DrissioinPage官方教程-第1讲
-      url: https://www.bilibili.com/video/BV1NBPtexE8t
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.03.06 00:00:00
+      title: 安卓逆向 -- 某开门软件签名算法、蓝牙开门、密码开门分析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038029&idx=1&sn=c752e540baf6b1b5ca0c7aad09130c8a
     - author: 菜鸟学Python编程
       release_time: 2025.03.05 17:37:00
       title: AST反混淆插件|ob混淆标准控制流还原
@@ -240,10 +244,6 @@
       release_time: 2025.02.27 07:18:36
       title: Android系统定制绕过AI风控检测及对抗DeepSeek和ChatGPT等AI大模型的解决方法
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497389&idx=1&sn=9d6f9ace3df66c406a8a451e1757f814
-    - author: 逆向有你
-      release_time: 2025.02.27 00:00:00
-      title: 安卓逆向 -- 某绿色图标读书app epub解密算法分析
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037710&idx=1&sn=6eeebf5dbbde84bd83c872bff0b1c27b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
