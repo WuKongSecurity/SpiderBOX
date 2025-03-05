@@ -124,6 +124,26 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: 2025.03.05 09:00:00
+      title: 交互式反混淆：打造最强控制流平坦化分析交互式插件 | 第三期 | 混淆与反混淆
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485486&idx=1&sn=0c1eb0916d6868cf6afb36e71f7bd00a
+    - author: 哆啦安全
+      release_time: 2025.03.05 08:41:43
+      title: 车载Android系统破解工具和漏洞挖掘浅析
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497501&idx=1&sn=30c1b2d814501c794926b75f43fcefcb
+    - author: 哆啦安全
+      release_time: 2025.03.05 08:41:43
+      title: 车载系统破解工具和方法
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497501&idx=2&sn=ba22cb634906558a05c44c90dc5007b8
+    - author: Coder小Q
+      release_time: 2025.03.05 08:30:00
+      title: 【密码学PQC】SCloud 基于LWE的加密与密钥封装算法
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491453&idx=1&sn=c10d4a8d72e645d06d1033c2337f0da4
+    - author: 移动端Android和iOS开发技术分享
+      release_time: 2025.03.05 07:58:00
+      title: 【iOS逆向与安全】在iOS状态栏中实现秒表功能的插件开发指南
+      url: https://mp.weixin.qq.com/s?__biz=MjM5MjEzMDAzMg==&mid=2257485044&idx=1&sn=78b66643c128ae3184d773417121f271
     - author: 逆向有你
       release_time: 2025.03.05 00:00:00
       title: 安卓逆向 -- 某幸咖啡协议算法
@@ -224,26 +244,6 @@
       release_time: 2025.02.26 17:13:16
       title: Akamai 某环境VMP算法分析
       url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489534&idx=1&sn=18a3918976971703a7497bf8a6c5a529
-    - author: 哆啦安全
-      release_time: 2025.02.26 15:17:26
-      title: 2025年高效短视频制作AI工具推荐
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497353&idx=1&sn=a000e622a40452c0ddd00d48f84f5470
-    - author: 哆啦安全
-      release_time: 2025.02.26 15:17:26
-      title: 未来感AI机器人正在全息显示器前编程
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497353&idx=3&sn=24c146e20b1d3b0744063b4f3ae4d943
-    - author: 当爬虫遇到逆向
-      release_time: 2025.02.25 17:53:48
-      title: 数美滑块逆向流程
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4MjE4NzA5NA==&mid=2247483899&idx=1&sn=985fe1cbb48c3b453c7018b8c557ac20
-    - author: 二进制磨剑
-      release_time: 2025.02.25 13:53:43
-      title: IDA技巧（120）设置调用类型
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485467&idx=1&sn=b679b10ed3349f1a78762ca37fec557e
-    - author: 哆啦安全
-      release_time: 2025.02.25 12:07:12
-      title: DeepSeek辅助研究魔改LSPosed Hook框架
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497333&idx=1&sn=8b3a41ac6a74678ce56f39782af7ed2b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: witchan
+      release_time: 2025.03.05 08:58:08
+      title: '[原创]【iOS逆向与安全】在iOS状态栏中实现秒表功能的插件开发指南'
+      url: https://bbs.kanxue.com/thread-285859.htm
     - author: 王麻子本人
       release_time: 2025.03.04 23:53:57
       title: '[分享] QBDI trace demo'
@@ -486,10 +490,6 @@
       release_time: 2025.02.22 17:21:56
       title: '[原创]frida-il2cpp-bridge使用'
       url: https://bbs.kanxue.com/thread-285707.htm
-    - author: Tubbs
-      release_time: 2025.02.22 17:03:57
-      title: '[原创]某音老版本X-Medusa粗略分析'
-      url: https://bbs.kanxue.com/thread-285706.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
