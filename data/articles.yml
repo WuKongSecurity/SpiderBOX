@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: witchan
+      release_time: 2025.03.05 09:40:00
+      title: 【iOS逆向与安全】在iOS状态栏中实现秒表功能的插件开发指南
+      url: https://www.52pojie.cn/thread-2011586-1-1.html
     - author: Doratmon
       release_time: 2025.03.04 17:47:00
       title: 2025春节红包之Android中级题Writeup（Frida Hook法）
@@ -363,10 +367,6 @@
       release_time: 2025.02.14 21:42:00
       title: 春节领红包web1（flag9）替换代码法实现的具体步骤
       url: https://www.52pojie.cn/thread-2006425-1-1.html
-    - author: three
-      release_time: 2025.02.14 12:55:00
-      title: 2025 春节解题领红包（Web 番外篇）
-      url: https://www.52pojie.cn/thread-2006270-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
