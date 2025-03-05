@@ -5,6 +5,10 @@
       release_time: 2025.03.05 21:23:57
       title: 56《安卓逆向》lsposed开发之——lsposed环境搭建与概念讲解
       url: https://www.bilibili.com/video/BV1Jo9oYzEmA
+    - author: r0ysue
+      release_time: 2025.03.05 19:39:14
+      title: 纯血deepseek-r1:14b吃光4GPU的显存和所有内存后挂机
+      url: https://www.bilibili.com/video/BV1vs9RYXESM
     - author: DrissionPage
       release_time: 2025.03.05 10:10:00
       title: 熟悉html概念-DrissionPage官方教程-p12
@@ -117,10 +121,6 @@
       release_time: 2025.02.25 12:36:51
       title: C++ 第十讲：引用、常量指针与指针常量
       url: https://www.bilibili.com/video/BV1q2PYesEzy
-    - author: DrissionPage
-      release_time: 2025.02.24 22:45:53
-      title: DrissionPage环境安装-DrissionPage官方教程-第3讲
-      url: https://www.bilibili.com/video/BV1AkPteXEMQ
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
