@@ -259,6 +259,10 @@
       release_time: 2025.03.05 09:40:00
       title: 【iOS逆向与安全】在iOS状态栏中实现秒表功能的插件开发指南
       url: https://www.52pojie.cn/thread-2011586-1-1.html
+    - author: nangongxt07
+      release_time: 2025.03.04 21:45:00
+      title: '[Web逆向反调试]常见检测到开发者工具的制止手段'
+      url: https://www.52pojie.cn/thread-2011480-1-1.html
     - author: Doratmon
       release_time: 2025.03.04 17:47:00
       title: 2025春节红包之Android中级题Writeup（Frida Hook法）
@@ -363,10 +367,6 @@
       release_time: 2025.02.16 12:21:00
       title: 天津地铁app环境检测
       url: https://www.52pojie.cn/thread-2006738-1-1.html
-    - author: 小菜鸟一枚
-      release_time: 2025.02.16 09:51:00
-      title: 学破解第213天，《初识smali，vip终结者》学习
-      url: https://www.52pojie.cn/thread-2006695-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
