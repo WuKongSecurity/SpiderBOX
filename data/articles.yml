@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.03.05 17:37:00
+      title: AST反混淆插件|ob混淆标准控制流还原
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565783&idx=1&sn=48b7c0906b575d8d7445139b7f18405f
     - author: 移动安全星球
       release_time: 2025.03.05 15:30:51
       title: 从零开始：CherryStudio 打造专属本地 AI 知识库全攻略
@@ -240,10 +244,6 @@
       release_time: 2025.02.27 00:00:00
       title: 安卓逆向 -- 某绿色图标读书app epub解密算法分析
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037710&idx=1&sn=6eeebf5dbbde84bd83c872bff0b1c27b
-    - author: 未闻Code
-      release_time: 2025.02.26 20:34:34
-      title: 解锁终极智能体验：OpenAI Deep Research 及其平替全面横评
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990145&idx=1&sn=4f872b486d05cb40a497340488d0f7df
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
