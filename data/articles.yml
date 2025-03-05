@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: DrissionPage
+      release_time: 2025.03.05 10:10:00
+      title: 熟悉html概念-DrissionPage官方教程-p12
+      url: https://www.bilibili.com/video/BV1ty9wYFEVk
     - author: B站用户骚神
       release_time: 2025.03.04 21:25:50
       title: AI+DP,轻松搞定网站字符验证码
@@ -117,10 +121,6 @@
       release_time: 2025.02.24 22:35:37
       title: DrissionPage简介-DrissioinPage官方教程-第1讲
       url: https://www.bilibili.com/video/BV1NBPtexE8t
-    - author: DrissionPage
-      release_time: 2025.02.24 22:35:30
-      title: 与selenium和playwright对比-DrissionPage官方教程-第2讲
-      url: https://www.bilibili.com/video/BV1PzPteRE6K
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -247,6 +247,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 芽衣
+      release_time: 2025.03.05 17:09:00
+      title: 关于XPlayer 万能视频播放器 破解方法改进
+      url: https://www.52pojie.cn/thread-2011803-1-1.html
+    - author: zzzzcccc
+      release_time: 2025.03.05 10:13:00
+      title: 从零开始的混淆工具开发--LLVM NEW PASS Learning Notes
+      url: https://www.52pojie.cn/thread-2011604-1-1.html
     - author: witchan
       release_time: 2025.03.05 09:40:00
       title: 【iOS逆向与安全】在iOS状态栏中实现秒表功能的插件开发指南
@@ -359,14 +367,6 @@
       release_time: 2025.02.16 09:51:00
       title: 学破解第213天，《初识smali，vip终结者》学习
       url: https://www.52pojie.cn/thread-2006695-1-1.html
-    - author: 小菜鸟一枚
-      release_time: 2025.02.15 13:36:00
-      title: 学破解第212天，《初识APK文件结构、双开、汉化、基础修改》学习
-      url: https://www.52pojie.cn/thread-2006537-1-1.html
-    - author: softsti
-      release_time: 2025.02.14 21:42:00
-      title: 春节领红包web1（flag9）替换代码法实现的具体步骤
-      url: https://www.52pojie.cn/thread-2006425-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
