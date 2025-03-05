@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 移动安全星球
+      release_time: 2025.03.05 15:30:51
+      title: 从零开始：CherryStudio 打造专属本地 AI 知识库全攻略
+      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486370&idx=1&sn=71c839ae81bd8abcc84dc2b2a40da1e2
     - author: 二进制磨剑
       release_time: 2025.03.05 09:00:00
       title: 交互式反混淆：打造最强控制流平坦化分析交互式插件 | 第三期 | 混淆与反混淆
@@ -240,10 +244,6 @@
       release_time: 2025.02.26 20:34:34
       title: 解锁终极智能体验：OpenAI Deep Research 及其平替全面横评
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990145&idx=1&sn=4f872b486d05cb40a497340488d0f7df
-    - author: Python头等奖
-      release_time: 2025.02.26 18:56:23
-      title: python爬虫逆向|某量某应九宫格点选验证码分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0NzMwMTM4OQ==&mid=2247484457&idx=1&sn=0dd9c8a5491b978dffd6d6ce63390a1c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
