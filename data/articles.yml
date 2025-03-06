@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.03.06 22:57:56
+      title: 精灵球+DP，快速搞定各大电商网站商品信息和评论
+      url: https://www.bilibili.com/video/BV1SGRNYrEVL
     - author: DrissionPage
       release_time: 2025.03.06 17:15:00
       title: 定位一个元素-DrissionPage官方教程-p13
@@ -117,10 +121,6 @@
       release_time: 2025.02.25 15:57:50
       title: C++ 基础 第十三讲：函数值传递与引用传递
       url: https://www.bilibili.com/video/BV1HLPaeoEN9
-    - author: Alone逆向安全
-      release_time: 2025.02.25 12:38:33
-      title: C++ 第十一讲：结构体、结构体指针与结构体数组
-      url: https://www.bilibili.com/video/BV1q2PYesEcd
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
