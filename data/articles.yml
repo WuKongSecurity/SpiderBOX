@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.03.06 08:00:00
+      title: AI数据时代来临，月初实施新方案
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497514&idx=1&sn=73017e2f632f84a42a9a1762a30625ea
+    - author: 哆啦安全
+      release_time: 2025.03.06 08:00:00
+      title: DeepSeek辅助研究魔改Android系统定制绕过安全风控检测浅析
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497514&idx=2&sn=e697d1b92e071d1607800a7832636b30
     - author: 逆向有你
       release_time: 2025.03.06 00:00:00
       title: 安卓逆向 -- 某开门软件签名算法、蓝牙开门、密码开门分析
@@ -236,14 +244,6 @@
       release_time: 2025.02.27 21:02:28
       title: 听闻sdenv被反爬
       url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811010&idx=1&sn=6cbdd739b3efefd898d61cab32720666
-    - author: 一只野生码农
-      release_time: 2025.02.27 10:20:18
-      title: synchronized 关键字的作用和原理
-      url: https://mp.weixin.qq.com/s?__biz=MzI1OTM1NTMzMA==&mid=2247483767&idx=1&sn=d5d5b463785cf9549b5d6fcfacbff9fa
-    - author: 哆啦安全
-      release_time: 2025.02.27 07:18:36
-      title: Android系统定制绕过AI风控检测及对抗DeepSeek和ChatGPT等AI大模型的解决方法
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497389&idx=1&sn=9d6f9ace3df66c406a8a451e1757f814
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
