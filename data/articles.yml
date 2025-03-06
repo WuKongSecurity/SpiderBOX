@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜狗学逆向
+      release_time: 2025.03.07 00:41:03
+      title: 阿卡迈dvs算法(一）
+      url: https://mp.weixin.qq.com/s?__biz=MzU2MzgwOTg2Ng==&mid=2247483707&idx=1&sn=f8c082c723141641f0417d13a28bcc2b
     - author: 菜鸟学Python编程
       release_time: 2025.03.06 17:52:00
       title: AST反混淆插件|函数调用方式的还原
@@ -240,10 +244,6 @@
       release_time: 2025.02.28 17:10:00
       title: AST反混淆插件|字符串被拆分到赋值语句里的还原
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565770&idx=1&sn=b33de1db6d1ad6d9b83dac24b618e49c
-    - author: 未闻Code
-      release_time: 2025.02.28 13:29:02
-      title: 横向评测三个大模型做知识卡片的能力
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990147&idx=1&sn=153ab5c697e62a5344cd472eac8e0883
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
