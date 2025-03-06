@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.03.06 17:52:00
+      title: AST反混淆插件|函数调用方式的还原
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565787&idx=1&sn=2044ff9fc4bcb325fec09c4854862073
     - author: 吾爱破解论坛
       release_time: 2025.03.06 17:16:56
       title: 【开放注册公告】吾爱破解论坛2025年3月13日十七周年开放注册公告
@@ -240,10 +244,6 @@
       release_time: 2025.02.28 13:29:02
       title: 横向评测三个大模型做知识卡片的能力
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990147&idx=1&sn=153ab5c697e62a5344cd472eac8e0883
-    - author: 菜狗学逆向
-      release_time: 2025.02.28 10:19:26
-      title: 七狗小说app登陆算法分析
-      url: https://mp.weixin.qq.com/s?__biz=MzU2MzgwOTg2Ng==&mid=2247483694&idx=1&sn=7d4d23507471621e9f6fe698b2e3eede
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
