@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: chenchenchen777
+      release_time: 2025.03.06 16:09:00
+      title: bilibili  frida检测分析绕过
+      url: https://www.52pojie.cn/thread-2012106-1-1.html
     - author: 芽衣
       release_time: 2025.03.05 17:09:00
       title: 关于XPlayer 万能视频播放器 破解方法改进
@@ -363,10 +367,6 @@
       release_time: 2025.02.16 16:27:00
       title: 天津地铁App分析
       url: https://www.52pojie.cn/thread-2006795-1-1.html
-    - author: KillLog
-      release_time: 2025.02.16 12:21:00
-      title: 天津地铁app环境检测
-      url: https://www.52pojie.cn/thread-2006738-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
