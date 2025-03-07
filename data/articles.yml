@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 就往丶
+      release_time: 2025.03.08 00:28:00
+      title: 药某局 webpack js逆向扣代码
+      url: https://www.52pojie.cn/thread-2012536-1-1.html
     - author: pxfsim
       release_time: 2025.03.07 14:54:00
       title: 某瑞数5代cookie和url后缀补环境代码
@@ -363,10 +367,6 @@
       release_time: 2025.02.17 17:04:00
       title: 2025春节红包之Android初级题Writeup
       url: https://www.52pojie.cn/thread-2007067-1-1.html
-    - author: ibilibili
-      release_time: 2025.02.17 16:03:00
-      title: 52pj-25.6W&A题分析
-      url: https://www.52pojie.cn/thread-2007041-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
