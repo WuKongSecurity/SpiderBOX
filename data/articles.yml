@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜狗学逆向
+      release_time: 2025.03.07 23:12:58
+      title: 阿卡迈dvs算法(二）
+      url: https://mp.weixin.qq.com/s?__biz=MzU2MzgwOTg2Ng==&mid=2247483714&idx=1&sn=c42990d8aef09ba1f177d67d32d39fba
     - author: 知一Tracer
       release_time: 2025.03.07 18:30:00
       title: 'TK抓包协议分析: So层逆向'
@@ -240,10 +244,6 @@
       release_time: 2025.03.03 17:32:00
       title: AST反混淆插件|删除垃圾代码的删除
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565774&idx=1&sn=a4ca0e83accffc53fd81ee416de4e14f
-    - author: 二进制磨剑
-      release_time: 2025.03.03 09:30:00
-      title: Deepseek 动手开发安全智能体——(2) CVE 分析智能体 | 知识库 | 向量化
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485475&idx=1&sn=f3407035dcf93e398a44f1d5d39908f9
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
