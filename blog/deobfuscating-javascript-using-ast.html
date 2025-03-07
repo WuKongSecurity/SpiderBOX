@@ -1,0 +1,1036 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    
+
+
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content="">
+<link rel="canonical" href="https://wukongsec.com/blog/deobfuscating-javascript-using-ast">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Exo:300,500,800|Roboto&display=swap">
+<link rel="stylesheet" href="https://wukongsec.com/assets/main.css" />
+<link rel="icon" type="image/png" href="https://wukongsec.com/favicon.png">
+<title>WuKong Security丨悟空信息安全 - 利用 AST 还原 JavaScript 混淆代码</title>
+
+  </head>
+  <body>
+    <header id="menu">
+  <div class="header-wrapper">
+    <nav class="main-nav">
+      <a href="https://wukongsec.com" class="logo-link">
+        <img width="206" alt="PM2 logo" src="https://wukongsec.com/assets/img/logo/logo_wk_003.png" />
+      </a>
+      <div class="menu">
+        <a href="#menu" class="button accent-border border-corners inner-shadows menu-button">
+          <div class="menu-icon"></div>
+        </a>
+        <a href="#" class="menu-overlay"></a>
+        <div class="menu-content">
+          <div class="doc-links">
+            <a href="https://wukongsec.com">首页 Index</a>
+            <a href="https://bbs.wukongsec.com/" target="_blank">论坛 BBS</a>
+            <a href="https://wukongsec.com/blog" class="">博客 Blog</a>
+          </div>
+          <a href="https://wukongsec.com/contact" title="Get started" class="button accent-border border-corners inner-shadows">
+            联系我们 Contact
+          </a>
+        </div>
+      </div>
+    </nav>
+  </div>
+</header>
+
+    <main class="post">
+      <section class="section-hero">
+        <div class="section-background">
+          <div class="hexagon hexagon-1"></div>
+<!--          <div class="hexagon hexagon-2"></div>-->
+          <div class="hexagon hexagon-3"></div>
+          <div class="hexagon hexagon-4"></div>
+        </div>
+        <div class="section-wrapper">
+          <h1>利用 AST 还原 JavaScript 混淆代码</h1>
+        </div>
+      </section>
+      <section>
+        <div class="section-background">
+          <div class="hexagon hexagon-5"></div>
+        </div>
+        <div class="section-wrapper">
+          <div class="content">
+            <div class="container">
+              <h1 class="align-center">利用 AST 还原 JavaScript 混淆代码</h1>
+              
+                <p class="align-center">
+                  
+                    
+                      作者：<a href="https://www.itbob.cn/about/" target="_blank">站长 BOB</a>
+                    丨
+                  
+                  
+                    原始链接：<a href="https://www.itbob.cn/article/051/" target="_blank">https://www.itbob.cn/article/051/</a> 丨
+                  
+                  发布时间：2022-04-25 09:00:00 +0000
+                </p>
+              
+            </div>
+            <hr>
+            <p><img src="https://static.spiderapi.cn/itbob/images/cover/ast.png" alt="ast" /></p>
+
+<h2 id="什么是-ast">什么是 AST</h2>
+
+<p>AST（Abstract Syntax Tree），中文抽象语法树，简称语法树（Syntax Tree），是源代码的抽象语法结构的树状表现形式，树上的每个节点都表示源代码中的一种结构。语法树不是某一种编程语言独有的，JavaScript、Python、Java、Golang 等几乎所有编程语言都有语法树。</p>
+
+<p>小时候我们得到一个玩具，总喜欢把玩具拆解成一个一个小零件，然后按照我们自己的想法，把零件重新组装起来，一个新玩具就诞生了。而 JavaScript 就像一台精妙运作的机器，通过 AST 解析，我们也可以像童年时拆解玩具一样，深入了解 JavaScript 这台机器的各个零部件，然后重新按照我们自己的意愿来组装。</p>
+
+<p>AST 的用途很广，IDE 的语法高亮、代码检查、格式化、压缩、转译等，都需要先将代码转化成 AST 再进行后续的操作，ES5 和 ES6 语法差异，为了向后兼容，在实际应用中需要进行语法的转换，也会用到 AST。AST 并不是为了逆向而生，但做逆向学会了 AST，在解混淆时可以如鱼得水。</p>
+
+<p>AST 有一个在线解析网站：<a href="https://astexplorer.net/">https://astexplorer.net/</a> ，顶部可以选择语言、编译器、是否开启转化等，如下图所示，区域①是源代码，区域②是对应的 AST 语法树，区域③是转换代码，可以对语法树进行各种操作，区域④是转换后生成的新代码。图中原来的 Unicode 字符经过操作之后就变成了正常字符。</p>
+
+<p>语法树没有单一的格式，选择不同的语言、不同的编译器，得到的结果也是不一样的，在 JavaScript 中，编译器有 Acorn、Espree、Esprima、Recast、Uglify-JS 等，使用最多的是 Babel，后续的学习也是以 Babel 为例。</p>
+
+<p><img src="https://static.spiderapi.cn/itbob/images/article/051/01.png" alt="01" /></p>
+
+<h2 id="ast-在编译中的位置">AST 在编译中的位置</h2>
+
+<p>在编译原理中，编译器转换代码通常要经过三个步骤：词法分析（Lexical Analysis）、语法分析（Syntax Analysis）、代码生成（Code Generation），下图生动展示了这一过程：</p>
+
+<p><img src="https://static.spiderapi.cn/itbob/images/article/051/02.png" alt="02" /></p>
+
+<h3 id="词法分析">词法分析</h3>
+
+<p>词法分析阶段是编译过程的第一个阶段，这个阶段的任务是从左到右一个字符一个字符地读入源程序，然后根据构词规则识别单词，生成 token 符号流，比如 <code class="language-plaintext highlighter-rouge">isPanda('🐼')</code>，会被拆分成 <code class="language-plaintext highlighter-rouge">isPanda</code>，<code class="language-plaintext highlighter-rouge">(</code>，<code class="language-plaintext highlighter-rouge">'🐼'</code>，<code class="language-plaintext highlighter-rouge">)</code> 四部分，每部分都有不同的含义，可以将词法分析过程想象为不同类型标记的列表或数组。</p>
+
+<p><img src="https://static.spiderapi.cn/itbob/images/article/051/03.gif" alt="03" /></p>
+
+<h3 id="语法分析">语法分析</h3>
+
+<p>语法分析是编译过程的一个逻辑阶段，语法分析的任务是在词法分析的基础上将单词序列组合成各类语法短语，比如“程序”，“语句”，“表达式”等，前面的例子中，<code class="language-plaintext highlighter-rouge">isPanda('🐼')</code> 就会被分析为一条表达语句 <code class="language-plaintext highlighter-rouge">ExpressionStatement</code>，<code class="language-plaintext highlighter-rouge">isPanda()</code> 就会被分析成一个函数表达式 <code class="language-plaintext highlighter-rouge">CallExpression</code>，<code class="language-plaintext highlighter-rouge">🐼</code> 就会被分析成一个变量 <code class="language-plaintext highlighter-rouge">Literal</code> 等，众多语法之间的依赖、嵌套关系，就构成了一个树状结构，即 AST 语法树。</p>
+
+<p><img src="https://static.spiderapi.cn/itbob/images/article/051/04.gif" alt="04" /></p>
+
+<h3 id="代码生成">代码生成</h3>
+
+<p>代码生成是最后一步，将 AST 语法树转换成可执行代码即可，在转换之前，我们可以直接操作语法树，进行增删改查等操作，例如，我们可以确定变量的声明位置、更改变量的值、删除某些节点等，我们将语句 <code class="language-plaintext highlighter-rouge">isPanda('🐼')</code> 修改为一个布尔类型的 <code class="language-plaintext highlighter-rouge">Literal</code>：<code class="language-plaintext highlighter-rouge">true</code>，语法树就有如下变化：</p>
+
+<p><img src="https://static.spiderapi.cn/itbob/images/article/051/05.gif" alt="05" /></p>
+
+<h2 id="babel-简介">Babel 简介</h2>
+
+<p>Babel 是一个 JavaScript 编译器，也可以说是一个解析库，Babel 中文网：https://www.babeljs.cn/ ，Babel 英文官网：https://babeljs.io/ ，Babel 内置了很多分析 JavaScript 代码的方法，我们可以利用 Babel 将 JavaScript 代码转换成 AST 语法树，然后增删改查等操作之后，再转换成 JavaScript 代码。</p>
+
+<p>Babel 包含的各种功能包、API、各方法可选参数等，都非常多，本文不一一列举，在实际使用过程中，应当多查询官方文档，或者参考文末给出的一些学习资料。Babel 的安装和其他 Node 包一样，需要哪个安装哪个即可，比如 <code class="language-plaintext highlighter-rouge">npm install @babel/core @babel/parser @babel/traverse @babel/generator</code></p>
+
+<p>在做逆向解混淆中，主要用到了 Babel 的以下几个功能包，本文也仅介绍以下几个功能包：</p>
+
+<ol>
+  <li><code class="language-plaintext highlighter-rouge">@babel/core</code>：Babel 编译器本身，提供了 babel 的编译 API；</li>
+  <li><code class="language-plaintext highlighter-rouge">@babel/parser</code>：将 JavaScript 代码解析成 AST 语法树；</li>
+  <li><code class="language-plaintext highlighter-rouge">@babel/traverse</code>：遍历、修改 AST 语法树的各个节点；</li>
+  <li><code class="language-plaintext highlighter-rouge">@babel/generator</code>：将 AST 还原成 JavaScript 代码；</li>
+  <li><code class="language-plaintext highlighter-rouge">@babel/types</code>：判断、验证节点的类型、构建新 AST 节点等。</li>
+</ol>
+
+<p><img src="https://static.spiderapi.cn/itbob/images/article/051/06.png" alt="06" /></p>
+
+<h3 id="babelcore">@babel/core</h3>
+
+<p>Babel 编译器本身，被拆分成了三个模块：<code class="language-plaintext highlighter-rouge">@babel/parser</code>、<code class="language-plaintext highlighter-rouge">@babel/traverse</code>、<code class="language-plaintext highlighter-rouge">@babel/generator</code>，比如以下方法的导入效果都是一样的：</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">parse</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">@babel/parser</span><span class="dl">"</span><span class="p">).</span><span class="nx">parse</span><span class="p">;</span>
+<span class="kd">const</span> <span class="nx">parse</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">@babel/core</span><span class="dl">"</span><span class="p">).</span><span class="nx">parse</span><span class="p">;</span>
+
+<span class="kd">const</span> <span class="nx">traverse</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">@babel/traverse</span><span class="dl">"</span><span class="p">).</span><span class="k">default</span>
+<span class="kd">const</span> <span class="nx">traverse</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">@babel/core</span><span class="dl">"</span><span class="p">).</span><span class="nx">traverse</span>
+</code></pre></div></div>
+
+<h3 id="babelparser">@babel/parser</h3>
+
+<p><code class="language-plaintext highlighter-rouge">@babel/parser</code> 可以将 JavaScript 代码解析成 AST 语法树，其中主要提供了两个方法：</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">parser.parse(code, [{options}])</code>：解析一段 JavaScript 代码；</li>
+  <li><code class="language-plaintext highlighter-rouge">parser.parseExpression(code, [{options}])</code>：考虑到了性能问题，解析单个 JavaScript 表达式。</li>
+</ul>
+
+<p>部分可选参数 <code class="language-plaintext highlighter-rouge">options</code>：</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>参数</th>
+      <th>描述</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">allowImportExportEverywhere</code></td>
+      <td>默认 <code class="language-plaintext highlighter-rouge">import</code> 和 <code class="language-plaintext highlighter-rouge">export</code> 声明语句只能出现在程序的最顶层，设置为 <code class="language-plaintext highlighter-rouge">true</code> 则在任何地方都可以声明</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">allowReturnOutsideFunction</code></td>
+      <td>默认如果在顶层中使用 <code class="language-plaintext highlighter-rouge">return</code> 语句会引起错误，设置为 <code class="language-plaintext highlighter-rouge">true</code> 就不会报错</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">sourceType</code></td>
+      <td>默认为 <code class="language-plaintext highlighter-rouge">script</code>，当代码中含有 <code class="language-plaintext highlighter-rouge">import</code> 、<code class="language-plaintext highlighter-rouge">export</code> 等关键字时会报错，需要指定为 <code class="language-plaintext highlighter-rouge">module</code></td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">errorRecovery</code></td>
+      <td>默认如果 babel 发现一些不正常的代码就会抛出错误，设置为 <code class="language-plaintext highlighter-rouge">true</code> 则会在保存解析错误的同时继续解析代码，错误的记录将被保存在最终生成的 AST 的 errors 属性中，当然如果遇到严重的错误，依然会终止解析</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>举个例子看得比较清楚：</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">parser</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">@babel/parser</span><span class="dl">"</span><span class="p">);</span>
+
+<span class="kd">const</span> <span class="nx">code</span> <span class="o">=</span> <span class="dl">"</span><span class="s2">const a = 1;</span><span class="dl">"</span><span class="p">;</span>
+<span class="kd">const</span> <span class="nx">ast</span> <span class="o">=</span> <span class="nx">parser</span><span class="p">.</span><span class="nx">parse</span><span class="p">(</span><span class="nx">code</span><span class="p">,</span> <span class="p">{</span><span class="na">sourceType</span><span class="p">:</span> <span class="dl">"</span><span class="s2">module</span><span class="dl">"</span><span class="p">})</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">ast</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p><code class="language-plaintext highlighter-rouge">{sourceType: "module"}</code> 演示了如何添加可选参数，输出的就是 AST 语法树，这和在线网站 <a href="https://astexplorer.net/">https://astexplorer.net/</a> 解析出来的语法树是一样的：</p>
+
+<p><img src="https://static.spiderapi.cn/itbob/images/article/051/07.png" alt="07" /></p>
+
+<h3 id="babelgenerator">@babel/generator</h3>
+
+<p><code class="language-plaintext highlighter-rouge">@babel/generator</code> 可以将 AST 还原成 JavaScript 代码，提供了一个 <code class="language-plaintext highlighter-rouge">generate</code> 方法：<code class="language-plaintext highlighter-rouge">generate(ast, [{options}], code)</code>。</p>
+
+<p>部分可选参数 <code class="language-plaintext highlighter-rouge">options</code>：</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>参数</th>
+      <th>描述</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">auxiliaryCommentBefore</code></td>
+      <td>在输出文件内容的头部添加注释块文字</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">auxiliaryCommentAfter</code></td>
+      <td>在输出文件内容的末尾添加注释块文字</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">comments</code></td>
+      <td>输出内容是否包含注释</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">compact</code></td>
+      <td>输出内容是否不添加空格，避免格式化</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">concise</code></td>
+      <td>输出内容是否减少空格使其更紧凑一些</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">minified</code></td>
+      <td>是否压缩输出代码</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">retainLines</code></td>
+      <td>尝试在输出代码中使用与源代码中相同的行号</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>接着前面的例子，原代码是 <code class="language-plaintext highlighter-rouge">const a = 1;</code>，现在我们把 <code class="language-plaintext highlighter-rouge">a</code> 变量修改为 <code class="language-plaintext highlighter-rouge">b</code>，值 <code class="language-plaintext highlighter-rouge">1</code> 修改为 <code class="language-plaintext highlighter-rouge">2</code>，然后将 AST 还原生成新的 JS 代码：</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">parser</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">@babel/parser</span><span class="dl">"</span><span class="p">);</span>
+<span class="kd">const</span> <span class="nx">generate</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">@babel/generator</span><span class="dl">"</span><span class="p">).</span><span class="k">default</span>
+
+<span class="kd">const</span> <span class="nx">code</span> <span class="o">=</span> <span class="dl">"</span><span class="s2">const a = 1;</span><span class="dl">"</span><span class="p">;</span>
+<span class="kd">const</span> <span class="nx">ast</span> <span class="o">=</span> <span class="nx">parser</span><span class="p">.</span><span class="nx">parse</span><span class="p">(</span><span class="nx">code</span><span class="p">,</span> <span class="p">{</span><span class="na">sourceType</span><span class="p">:</span> <span class="dl">"</span><span class="s2">module</span><span class="dl">"</span><span class="p">})</span>
+<span class="nx">ast</span><span class="p">.</span><span class="nx">program</span><span class="p">.</span><span class="nx">body</span><span class="p">[</span><span class="mi">0</span><span class="p">].</span><span class="nx">declarations</span><span class="p">[</span><span class="mi">0</span><span class="p">].</span><span class="nx">id</span><span class="p">.</span><span class="nx">name</span> <span class="o">=</span> <span class="dl">"</span><span class="s2">b</span><span class="dl">"</span>
+<span class="nx">ast</span><span class="p">.</span><span class="nx">program</span><span class="p">.</span><span class="nx">body</span><span class="p">[</span><span class="mi">0</span><span class="p">].</span><span class="nx">declarations</span><span class="p">[</span><span class="mi">0</span><span class="p">].</span><span class="nx">init</span><span class="p">.</span><span class="nx">value</span> <span class="o">=</span> <span class="mi">2</span>
+<span class="kd">const</span> <span class="nx">result</span> <span class="o">=</span> <span class="nx">generate</span><span class="p">(</span><span class="nx">ast</span><span class="p">,</span> <span class="p">{</span><span class="na">minified</span><span class="p">:</span> <span class="kc">true</span><span class="p">})</span>
+
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">result</span><span class="p">.</span><span class="nx">code</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>最终输出的是 <code class="language-plaintext highlighter-rouge">const b=2;</code>，变量名和值都成功更改了，由于加了压缩处理，等号左右两边的空格也没了。</p>
+
+<p>代码里 <code class="language-plaintext highlighter-rouge">{minified: true}</code> 演示了如何添加可选参数，这里表示压缩输出代码，<code class="language-plaintext highlighter-rouge">generate</code> 得到的 <code class="language-plaintext highlighter-rouge">result</code> 得到的是一个对象，其中的 <code class="language-plaintext highlighter-rouge">code</code> 属性才是最终的 JS 代码。</p>
+
+<p>代码里 <code class="language-plaintext highlighter-rouge">ast.program.body[0].declarations[0].id.name</code> 是 a 在 AST 中的位置，<code class="language-plaintext highlighter-rouge">ast.program.body[0].declarations[0].init.value</code> 是 1 在 AST 中的位置，如下图所示：</p>
+
+<p><img src="https://static.spiderapi.cn/itbob/images/article/051/08.png" alt="08" /></p>
+
+<h3 id="babeltraverse">@babel/traverse</h3>
+
+<p>当代码多了，我们不可能像前面那样挨个定位并修改，对于相同类型的节点，我们可以直接遍历所有节点来进行修改，这里就用到了 <code class="language-plaintext highlighter-rouge">@babel/traverse</code>，它通常和 <code class="language-plaintext highlighter-rouge">visitor</code> 一起使用，<code class="language-plaintext highlighter-rouge">visitor</code> 是一个对象，这个名字是可以随意取的，<code class="language-plaintext highlighter-rouge">visitor</code> 里可以定义一些方法来过滤节点，这里还是用一个例子来演示：</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">parser</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">@babel/parser</span><span class="dl">"</span><span class="p">);</span>
+<span class="kd">const</span> <span class="nx">generate</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">@babel/generator</span><span class="dl">"</span><span class="p">).</span><span class="k">default</span>
+<span class="kd">const</span> <span class="nx">traverse</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">@babel/traverse</span><span class="dl">"</span><span class="p">).</span><span class="k">default</span>
+
+<span class="kd">const</span> <span class="nx">code</span> <span class="o">=</span> <span class="s2">`
+const a = 1500;
+const b = 60;
+const c = "hi";
+const d = 787;
+const e = "1244";
+`</span>
+<span class="kd">const</span> <span class="nx">ast</span> <span class="o">=</span> <span class="nx">parser</span><span class="p">.</span><span class="nx">parse</span><span class="p">(</span><span class="nx">code</span><span class="p">)</span>
+
+<span class="kd">const</span> <span class="nx">visitor</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="nx">NumericLiteral</span><span class="p">(</span><span class="nx">path</span><span class="p">){</span>
+        <span class="nx">path</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">value</span> <span class="o">=</span> <span class="p">(</span><span class="nx">path</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">value</span> <span class="o">+</span> <span class="mi">100</span><span class="p">)</span> <span class="o">*</span> <span class="mi">2</span>
+    <span class="p">},</span>
+    <span class="nx">StringLiteral</span><span class="p">(</span><span class="nx">path</span><span class="p">){</span>
+        <span class="nx">path</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">value</span> <span class="o">=</span> <span class="dl">"</span><span class="s2">I Love JavaScript!</span><span class="dl">"</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+
+<span class="nx">traverse</span><span class="p">(</span><span class="nx">ast</span><span class="p">,</span> <span class="nx">visitor</span><span class="p">)</span>
+<span class="kd">const</span> <span class="nx">result</span> <span class="o">=</span> <span class="nx">generate</span><span class="p">(</span><span class="nx">ast</span><span class="p">)</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">result</span><span class="p">.</span><span class="nx">code</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>这里的原始代码定义了 abcde 五个变量，其值有数字也有字符串，我们在 AST 中可以看到对应的类型为 <code class="language-plaintext highlighter-rouge">NumericLiteral</code> 和 <code class="language-plaintext highlighter-rouge">StringLiteral</code>：</p>
+
+<p><img src="https://static.spiderapi.cn/itbob/images/article/051/09.png" alt="09" /></p>
+
+<p>然后我们声明了一个 <code class="language-plaintext highlighter-rouge">visitor</code> 对象，然后定义对应类型的处理方法，<code class="language-plaintext highlighter-rouge">traverse</code> 接收两个参数，第一个是 AST 对象，第二个是 <code class="language-plaintext highlighter-rouge">visitor</code>，当 <code class="language-plaintext highlighter-rouge">traverse</code> 遍历所有节点，遇到节点类型为 <code class="language-plaintext highlighter-rouge">NumericLiteral</code> 和 <code class="language-plaintext highlighter-rouge">StringLiteral</code> 时，就会调用 <code class="language-plaintext highlighter-rouge">visitor</code> 中对应的处理方法，<code class="language-plaintext highlighter-rouge">visitor</code> 中的方法会接收一个当前节点的 <code class="language-plaintext highlighter-rouge">path</code> 对象，该对象的类型是 <code class="language-plaintext highlighter-rouge">NodePath</code>，该对象有非常多的属性，以下介绍几种最常用的：</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>属性</th>
+      <th>描述</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">toString()</code></td>
+      <td>当前路径的源码</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">node</code></td>
+      <td>当前路径的节点</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">parent</code></td>
+      <td>当前路径的父级节点</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">parentPath</code></td>
+      <td>当前路径的父级路径</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">type</code></td>
+      <td>当前路径的类型</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>PS：<code class="language-plaintext highlighter-rouge">path</code> 对象除了有很多属性以外，还有很多方法，比如替换节点、删除节点、插入节点、寻找父级节点、获取同级节点、添加注释、判断节点类型等，可在需要时查询相关文档或查看源码，后续介绍 <code class="language-plaintext highlighter-rouge">@babel/types</code> 部分将会举部分例子来演示，以后的实战文章中也会有相关实例，篇幅有限本文不再细说。</p>
+
+<p>因此在上面的代码中，<code class="language-plaintext highlighter-rouge">path.node.value</code> 就拿到了变量的值，然后我们就可以进一步对其进行修改了。以上代码运行后，所有数字都会加上100后再乘以2，所有字符串都会被替换成 <code class="language-plaintext highlighter-rouge">I Love JavaScript!</code>，结果如下：</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">a</span> <span class="o">=</span> <span class="mi">3200</span><span class="p">;</span>
+<span class="kd">const</span> <span class="nx">b</span> <span class="o">=</span> <span class="mi">320</span><span class="p">;</span>
+<span class="kd">const</span> <span class="nx">c</span> <span class="o">=</span> <span class="dl">"</span><span class="s2">I Love JavaScript!</span><span class="dl">"</span><span class="p">;</span>
+<span class="kd">const</span> <span class="nx">d</span> <span class="o">=</span> <span class="mi">1774</span><span class="p">;</span>
+<span class="kd">const</span> <span class="nx">e</span> <span class="o">=</span> <span class="dl">"</span><span class="s2">I Love JavaScript!</span><span class="dl">"</span><span class="p">;</span>
+</code></pre></div></div>
+
+<p>如果多个类型的节点，处理的方式都一样，那么还可以使用 <code class="language-plaintext highlighter-rouge">|</code> 将所有节点连接成字符串，将同一个方法应用到所有节点：</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">visitor</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="dl">"</span><span class="s2">NumericLiteral|StringLiteral</span><span class="dl">"</span><span class="p">(</span><span class="nx">path</span><span class="p">)</span> <span class="p">{</span>
+        <span class="nx">path</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">value</span> <span class="o">=</span> <span class="dl">"</span><span class="s2">I Love JavaScript!</span><span class="dl">"</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p><code class="language-plaintext highlighter-rouge">visitor</code> 对象有多种写法，以下几种写法的效果都是一样的：</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">visitor</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="nx">NumericLiteral</span><span class="p">(</span><span class="nx">path</span><span class="p">){</span>
+        <span class="nx">path</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">value</span> <span class="o">=</span> <span class="p">(</span><span class="nx">path</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">value</span> <span class="o">+</span> <span class="mi">100</span><span class="p">)</span> <span class="o">*</span> <span class="mi">2</span>
+    <span class="p">},</span>
+    <span class="nx">StringLiteral</span><span class="p">(</span><span class="nx">path</span><span class="p">){</span>
+        <span class="nx">path</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">value</span> <span class="o">=</span> <span class="dl">"</span><span class="s2">I Love JavaScript!</span><span class="dl">"</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">visitor</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="na">NumericLiteral</span><span class="p">:</span> <span class="kd">function</span> <span class="p">(</span><span class="nx">path</span><span class="p">){</span>
+        <span class="nx">path</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">value</span> <span class="o">=</span> <span class="p">(</span><span class="nx">path</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">value</span> <span class="o">+</span> <span class="mi">100</span><span class="p">)</span> <span class="o">*</span> <span class="mi">2</span>
+    <span class="p">},</span>
+    <span class="na">StringLiteral</span><span class="p">:</span> <span class="kd">function</span> <span class="p">(</span><span class="nx">path</span><span class="p">){</span>
+        <span class="nx">path</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">value</span> <span class="o">=</span> <span class="dl">"</span><span class="s2">I Love JavaScript!</span><span class="dl">"</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">visitor</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="na">NumericLiteral</span><span class="p">:</span> <span class="p">{</span>
+        <span class="nx">enter</span><span class="p">(</span><span class="nx">path</span><span class="p">)</span> <span class="p">{</span>
+            <span class="nx">path</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">value</span> <span class="o">=</span> <span class="p">(</span><span class="nx">path</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">value</span> <span class="o">+</span> <span class="mi">100</span><span class="p">)</span> <span class="o">*</span> <span class="mi">2</span>
+        <span class="p">}</span>
+    <span class="p">},</span>
+    <span class="na">StringLiteral</span><span class="p">:</span> <span class="p">{</span>
+        <span class="nx">enter</span><span class="p">(</span><span class="nx">path</span><span class="p">)</span> <span class="p">{</span>
+            <span class="nx">path</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">value</span> <span class="o">=</span> <span class="dl">"</span><span class="s2">I Love JavaScript!</span><span class="dl">"</span>
+        <span class="p">}</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">visitor</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="nx">enter</span><span class="p">(</span><span class="nx">path</span><span class="p">)</span> <span class="p">{</span>
+        <span class="k">if</span> <span class="p">(</span><span class="nx">path</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">type</span> <span class="o">===</span> <span class="dl">"</span><span class="s2">NumericLiteral</span><span class="dl">"</span><span class="p">)</span> <span class="p">{</span>
+            <span class="nx">path</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">value</span> <span class="o">=</span> <span class="p">(</span><span class="nx">path</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">value</span> <span class="o">+</span> <span class="mi">100</span><span class="p">)</span> <span class="o">*</span> <span class="mi">2</span>
+        <span class="p">}</span>
+        <span class="k">if</span> <span class="p">(</span><span class="nx">path</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">type</span> <span class="o">===</span> <span class="dl">"</span><span class="s2">StringLiteral</span><span class="dl">"</span><span class="p">)</span> <span class="p">{</span>
+            <span class="nx">path</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">value</span> <span class="o">=</span> <span class="dl">"</span><span class="s2">I Love JavaScript!</span><span class="dl">"</span>
+        <span class="p">}</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>以上几种写法中有用到了 <code class="language-plaintext highlighter-rouge">enter</code> 方法，在节点的遍历过程中，进入节点（enter）与退出（exit）节点都会访问一次节点，<code class="language-plaintext highlighter-rouge">traverse</code> 默认在进入节点时进行节点的处理，如果要在退出节点时处理，那么在 <code class="language-plaintext highlighter-rouge">visitor</code> 中就必须声明 <code class="language-plaintext highlighter-rouge">exit</code> 方法。</p>
+
+<h3 id="babeltypes">@babel/types</h3>
+
+<p><code class="language-plaintext highlighter-rouge">@babel/types</code> 主要用于构建新的 AST 节点，前面的示例代码为 <code class="language-plaintext highlighter-rouge">const a = 1;</code>，如果想要增加内容，比如变成 <code class="language-plaintext highlighter-rouge">const a = 1; const b = a * 5 + 1;</code>，就可以通过 <code class="language-plaintext highlighter-rouge">@babel/types</code> 来实现。</p>
+
+<p>首先观察一下 AST 语法树，原语句只有一个 <code class="language-plaintext highlighter-rouge">VariableDeclaration</code> 节点，现在增加了一个：</p>
+
+<p><img src="https://static.spiderapi.cn/itbob/images/article/051/10.png" alt="10" /></p>
+
+<p>那么我们的思路就是在遍历节点时，遍历到 <code class="language-plaintext highlighter-rouge">VariableDeclaration</code> 节点，就在其后面增加一个 <code class="language-plaintext highlighter-rouge">VariableDeclaration</code> 节点，生成  <code class="language-plaintext highlighter-rouge">VariableDeclaration</code> 节点，可以使用 <code class="language-plaintext highlighter-rouge">types.variableDeclaration()</code> 方法，在 types 中各种方法名称和我们在 AST 中看到的是一样的，只不过首字母是小写的，所以我们不需要知道所有方法的情况下，也能大致推断其方法名，只知道这个方法还不行，还得知道传入的参数是什么，可以查文档，不过这里推荐直接看源码，非常清晰明了，以 Pycharm 为例，按住 Ctrl 键，再点击方法名，就进到源码里了：</p>
+
+<p><img src="https://static.spiderapi.cn/itbob/images/article/051/11.png" alt="11" /></p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">function</span> <span class="nx">variableDeclaration</span><span class="p">(</span><span class="nx">kind</span><span class="p">:</span> <span class="dl">"</span><span class="s2">var</span><span class="dl">"</span> <span class="o">|</span> <span class="dl">"</span><span class="s2">let</span><span class="dl">"</span> <span class="o">|</span> <span class="dl">"</span><span class="s2">const</span><span class="dl">"</span><span class="p">,</span> <span class="nx">declarations</span><span class="p">:</span> <span class="nb">Array</span><span class="o">&lt;</span><span class="nx">BabelNodeVariableDeclarator</span><span class="o">&gt;</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>可以看到需要 <code class="language-plaintext highlighter-rouge">kind</code> 和 <code class="language-plaintext highlighter-rouge">declarations</code> 两个参数，其中 <code class="language-plaintext highlighter-rouge">declarations</code> 是 <code class="language-plaintext highlighter-rouge">VariableDeclarator</code> 类型的节点组成的列表，所以我们可以先写出以下 <code class="language-plaintext highlighter-rouge">visitor</code> 部分的代码，其中 <code class="language-plaintext highlighter-rouge">path.insertAfter()</code> 是在该节点之后插入新节点的意思：</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">visitor</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="nx">VariableDeclaration</span><span class="p">(</span><span class="nx">path</span><span class="p">)</span> <span class="p">{</span>
+        <span class="kd">let</span> <span class="nx">declaration</span> <span class="o">=</span> <span class="nx">types</span><span class="p">.</span><span class="nx">variableDeclaration</span><span class="p">(</span><span class="dl">"</span><span class="s2">const</span><span class="dl">"</span><span class="p">,</span> <span class="p">[</span><span class="nx">declarator</span><span class="p">])</span>
+        <span class="nx">path</span><span class="p">.</span><span class="nx">insertAfter</span><span class="p">(</span><span class="nx">declaration</span><span class="p">)</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>接下来我们还需要进一步定义 <code class="language-plaintext highlighter-rouge">declarator</code>，也就是 <code class="language-plaintext highlighter-rouge">VariableDeclarator</code> 类型的节点，查询其源码如下：</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">function</span> <span class="nx">variableDeclarator</span><span class="p">(</span><span class="nx">id</span><span class="p">:</span> <span class="nx">BabelNodeLVal</span><span class="p">,</span> <span class="nx">init</span><span class="p">?:</span> <span class="nx">BabelNodeExpression</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>观察 AST，id 为 <code class="language-plaintext highlighter-rouge">Identifier</code> 对象，init 为 <code class="language-plaintext highlighter-rouge">BinaryExpression</code> 对象，如下图所示：</p>
+
+<p><img src="https://static.spiderapi.cn/itbob/images/article/051/12.png" alt="12" /></p>
+
+<p>先来处理 id，可以使用 <code class="language-plaintext highlighter-rouge">types.identifier()</code> 方法来生成，其源码为 <code class="language-plaintext highlighter-rouge">function identifier(name: string)</code>，name 在这里就是 b 了，此时 <code class="language-plaintext highlighter-rouge">visitor</code> 代码就可以这么写：</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">visitor</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="nx">VariableDeclaration</span><span class="p">(</span><span class="nx">path</span><span class="p">)</span> <span class="p">{</span>
+        <span class="kd">let</span> <span class="nx">declarator</span> <span class="o">=</span> <span class="nx">types</span><span class="p">.</span><span class="nx">variableDeclarator</span><span class="p">(</span><span class="nx">types</span><span class="p">.</span><span class="nx">identifier</span><span class="p">(</span><span class="dl">"</span><span class="s2">b</span><span class="dl">"</span><span class="p">),</span> <span class="nx">init</span><span class="p">)</span>
+        <span class="kd">let</span> <span class="nx">declaration</span> <span class="o">=</span> <span class="nx">types</span><span class="p">.</span><span class="nx">variableDeclaration</span><span class="p">(</span><span class="dl">"</span><span class="s2">const</span><span class="dl">"</span><span class="p">,</span> <span class="p">[</span><span class="nx">declarator</span><span class="p">])</span>
+        <span class="nx">path</span><span class="p">.</span><span class="nx">insertAfter</span><span class="p">(</span><span class="nx">declaration</span><span class="p">)</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>然后再来看 init 该如何定义，首先仍然是看 AST 结构：</p>
+
+<p><img src="https://static.spiderapi.cn/itbob/images/article/051/13.png" alt="13" /></p>
+
+<p>init 为 <code class="language-plaintext highlighter-rouge">BinaryExpression</code> 对象，left 左边是 <code class="language-plaintext highlighter-rouge">BinaryExpression</code>，right 右边是 <code class="language-plaintext highlighter-rouge">NumericLiteral</code>，可以用 <code class="language-plaintext highlighter-rouge">types.binaryExpression()</code> 方法来生成 init，其源码如下：</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">function</span> <span class="nx">binaryExpression</span><span class="p">(</span>
+    <span class="nx">operator</span><span class="p">:</span> <span class="dl">"</span><span class="s2">+</span><span class="dl">"</span> <span class="o">|</span> <span class="dl">"</span><span class="s2">-</span><span class="dl">"</span> <span class="o">|</span> <span class="dl">"</span><span class="s2">/</span><span class="dl">"</span> <span class="o">|</span> <span class="dl">"</span><span class="s2">%</span><span class="dl">"</span> <span class="o">|</span> <span class="dl">"</span><span class="s2">*</span><span class="dl">"</span> <span class="o">|</span> <span class="dl">"</span><span class="s2">**</span><span class="dl">"</span> <span class="o">|</span> <span class="dl">"</span><span class="s2">&amp;</span><span class="dl">"</span> <span class="o">|</span> <span class="dl">"</span><span class="s2">|</span><span class="dl">"</span> <span class="o">|</span> <span class="dl">"</span><span class="s2">&gt;&gt;</span><span class="dl">"</span> <span class="o">|</span> <span class="dl">"</span><span class="s2">&gt;&gt;&gt;</span><span class="dl">"</span> <span class="o">|</span> <span class="dl">"</span><span class="s2">&lt;&lt;</span><span class="dl">"</span> <span class="o">|</span> <span class="dl">"</span><span class="s2">^</span><span class="dl">"</span> <span class="o">|</span> <span class="dl">"</span><span class="s2">==</span><span class="dl">"</span> <span class="o">|</span> <span class="dl">"</span><span class="s2">===</span><span class="dl">"</span> <span class="o">|</span> <span class="dl">"</span><span class="s2">!=</span><span class="dl">"</span> <span class="o">|</span> <span class="dl">"</span><span class="s2">!==</span><span class="dl">"</span> <span class="o">|</span> <span class="dl">"</span><span class="s2">in</span><span class="dl">"</span> <span class="o">|</span> <span class="dl">"</span><span class="s2">instanceof</span><span class="dl">"</span> <span class="o">|</span> <span class="dl">"</span><span class="s2">&gt;</span><span class="dl">"</span> <span class="o">|</span> <span class="dl">"</span><span class="s2">&lt;</span><span class="dl">"</span> <span class="o">|</span> <span class="dl">"</span><span class="s2">&gt;=</span><span class="dl">"</span> <span class="o">|</span> <span class="dl">"</span><span class="s2">&lt;=</span><span class="dl">"</span><span class="p">,</span>
+    <span class="nx">left</span><span class="p">:</span> <span class="nx">BabelNodeExpression</span> <span class="o">|</span> <span class="nx">BabelNodePrivateName</span><span class="p">,</span> 
+    <span class="nx">right</span><span class="p">:</span> <span class="nx">BabelNodeExpression</span>
+<span class="p">)</span>
+</code></pre></div></div>
+
+<p>此时 <code class="language-plaintext highlighter-rouge">visitor</code> 代码就可以这么写：</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">visitor</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="nx">VariableDeclaration</span><span class="p">(</span><span class="nx">path</span><span class="p">)</span> <span class="p">{</span>
+        <span class="kd">let</span> <span class="nx">init</span> <span class="o">=</span> <span class="nx">types</span><span class="p">.</span><span class="nx">binaryExpression</span><span class="p">(</span><span class="dl">"</span><span class="s2">+</span><span class="dl">"</span><span class="p">,</span> <span class="nx">left</span><span class="p">,</span> <span class="nx">right</span><span class="p">)</span>
+        <span class="kd">let</span> <span class="nx">declarator</span> <span class="o">=</span> <span class="nx">types</span><span class="p">.</span><span class="nx">variableDeclarator</span><span class="p">(</span><span class="nx">types</span><span class="p">.</span><span class="nx">identifier</span><span class="p">(</span><span class="dl">"</span><span class="s2">b</span><span class="dl">"</span><span class="p">),</span> <span class="nx">init</span><span class="p">)</span>
+        <span class="kd">let</span> <span class="nx">declaration</span> <span class="o">=</span> <span class="nx">types</span><span class="p">.</span><span class="nx">variableDeclaration</span><span class="p">(</span><span class="dl">"</span><span class="s2">const</span><span class="dl">"</span><span class="p">,</span> <span class="p">[</span><span class="nx">declarator</span><span class="p">])</span>
+        <span class="nx">path</span><span class="p">.</span><span class="nx">insertAfter</span><span class="p">(</span><span class="nx">declaration</span><span class="p">)</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>然后继续构造 left 和 right，和前面的方法一样，观察 AST 语法树，查询对应方法应该传入的参数，层层嵌套，直到把所有的节点都构造完毕，最终的 <code class="language-plaintext highlighter-rouge">visitor</code> 代码应该是这样的：</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">visitor</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="nx">VariableDeclaration</span><span class="p">(</span><span class="nx">path</span><span class="p">)</span> <span class="p">{</span>
+        <span class="kd">let</span> <span class="nx">left</span> <span class="o">=</span> <span class="nx">types</span><span class="p">.</span><span class="nx">binaryExpression</span><span class="p">(</span><span class="dl">"</span><span class="s2">*</span><span class="dl">"</span><span class="p">,</span> <span class="nx">types</span><span class="p">.</span><span class="nx">identifier</span><span class="p">(</span><span class="dl">"</span><span class="s2">a</span><span class="dl">"</span><span class="p">),</span> <span class="nx">types</span><span class="p">.</span><span class="nx">numericLiteral</span><span class="p">(</span><span class="mi">5</span><span class="p">))</span>
+        <span class="kd">let</span> <span class="nx">right</span> <span class="o">=</span> <span class="nx">types</span><span class="p">.</span><span class="nx">numericLiteral</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span>
+        <span class="kd">let</span> <span class="nx">init</span> <span class="o">=</span> <span class="nx">types</span><span class="p">.</span><span class="nx">binaryExpression</span><span class="p">(</span><span class="dl">"</span><span class="s2">+</span><span class="dl">"</span><span class="p">,</span> <span class="nx">left</span><span class="p">,</span> <span class="nx">right</span><span class="p">)</span>
+        <span class="kd">let</span> <span class="nx">declarator</span> <span class="o">=</span> <span class="nx">types</span><span class="p">.</span><span class="nx">variableDeclarator</span><span class="p">(</span><span class="nx">types</span><span class="p">.</span><span class="nx">identifier</span><span class="p">(</span><span class="dl">"</span><span class="s2">b</span><span class="dl">"</span><span class="p">),</span> <span class="nx">init</span><span class="p">)</span>
+        <span class="kd">let</span> <span class="nx">declaration</span> <span class="o">=</span> <span class="nx">types</span><span class="p">.</span><span class="nx">variableDeclaration</span><span class="p">(</span><span class="dl">"</span><span class="s2">const</span><span class="dl">"</span><span class="p">,</span> <span class="p">[</span><span class="nx">declarator</span><span class="p">])</span>
+        <span class="nx">path</span><span class="p">.</span><span class="nx">insertAfter</span><span class="p">(</span><span class="nx">declaration</span><span class="p">)</span>
+        <span class="nx">path</span><span class="p">.</span><span class="nx">stop</span><span class="p">()</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>注意：<code class="language-plaintext highlighter-rouge">path.insertAfter()</code> 插入节点语句后面加了一句 <code class="language-plaintext highlighter-rouge">path.stop()</code>，表示插入完成后立即停止遍历当前节点和后续的子节点，添加的新节点也是 <code class="language-plaintext highlighter-rouge">VariableDeclaration</code>，如果不加停止语句的话，就会无限循环插入下去。</p>
+
+<p>插入新节点后，再转换成 JavaScript 代码，就可以看到多了一行新代码，如下图所示：</p>
+
+<p><img src="https://static.spiderapi.cn/itbob/images/article/051/14.png" alt="14" /></p>
+
+<h2 id="常见混淆还原">常见混淆还原</h2>
+
+<p>了解了 AST 和 babel 后，就可以对 JavaScript 混淆代码进行还原了，以下是部分样例，带你进一步熟悉 babel 的各种操作。</p>
+
+<h3 id="字符串还原">字符串还原</h3>
+
+<p>文章开头的图中举了个例子，正常字符被换成了 Unicode 编码：</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">console</span><span class="p">[</span><span class="dl">'</span><span class="se">\</span><span class="s1">u006c</span><span class="se">\</span><span class="s1">u006f</span><span class="se">\</span><span class="s1">u0067</span><span class="dl">'</span><span class="p">](</span><span class="dl">'</span><span class="se">\</span><span class="s1">u0048</span><span class="se">\</span><span class="s1">u0065</span><span class="se">\</span><span class="s1">u006c</span><span class="se">\</span><span class="s1">u006c</span><span class="se">\</span><span class="s1">u006f</span><span class="se">\</span><span class="s1">u0020</span><span class="se">\</span><span class="s1">u0077</span><span class="se">\</span><span class="s1">u006f</span><span class="se">\</span><span class="s1">u0072</span><span class="se">\</span><span class="s1">u006c</span><span class="se">\</span><span class="s1">u0064</span><span class="se">\</span><span class="s1">u0021</span><span class="dl">'</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>观察 AST 结构：</p>
+
+<p><img src="https://static.spiderapi.cn/itbob/images/article/051/15.png" alt="15" /></p>
+
+<p>我们发现 Unicode 编码对应的是 <code class="language-plaintext highlighter-rouge">raw</code>，而 <code class="language-plaintext highlighter-rouge">rawValue</code> 和 <code class="language-plaintext highlighter-rouge">value</code> 都是正常的，所以我们可以将 <code class="language-plaintext highlighter-rouge">raw</code> 替换成 <code class="language-plaintext highlighter-rouge">rawValue</code> 或 <code class="language-plaintext highlighter-rouge">value</code> 即可，需要注意的是引号的问题，本来是 <code class="language-plaintext highlighter-rouge">console["log"]</code>，你还原后变成了 <code class="language-plaintext highlighter-rouge">console[log]</code>，自然会报错的，除了替换值以外，这里直接删除 extra 节点，或者删除 raw 值也是可以的，所以以下几种写法都可以还原代码：</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">parser</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">@babel/parser</span><span class="dl">"</span><span class="p">);</span>
+<span class="kd">const</span> <span class="nx">generate</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">@babel/generator</span><span class="dl">"</span><span class="p">).</span><span class="k">default</span>
+<span class="kd">const</span> <span class="nx">traverse</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">@babel/traverse</span><span class="dl">"</span><span class="p">).</span><span class="k">default</span>
+
+<span class="kd">const</span> <span class="nx">code</span> <span class="o">=</span> <span class="s2">`console['\u006c\u006f\u0067']('\u0048\u0065\u006c\u006c\u006f\u0020\u0077\u006f\u0072\u006c\u0064\u0021')`</span>
+<span class="kd">const</span> <span class="nx">ast</span> <span class="o">=</span> <span class="nx">parser</span><span class="p">.</span><span class="nx">parse</span><span class="p">(</span><span class="nx">code</span><span class="p">)</span>
+
+<span class="kd">const</span> <span class="nx">visitor</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="nx">StringLiteral</span><span class="p">(</span><span class="nx">path</span><span class="p">)</span> <span class="p">{</span>
+        <span class="c1">// 以下方法均可</span>
+        <span class="c1">// path.node.extra.raw = path.node.rawValue</span>
+        <span class="c1">// path.node.extra.raw = '"' + path.node.value + '"'</span>
+        <span class="c1">// delete path.node.extra</span>
+        <span class="k">delete</span> <span class="nx">path</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">extra</span><span class="p">.</span><span class="nx">raw</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+
+<span class="nx">traverse</span><span class="p">(</span><span class="nx">ast</span><span class="p">,</span> <span class="nx">visitor</span><span class="p">)</span>
+<span class="kd">const</span> <span class="nx">result</span> <span class="o">=</span> <span class="nx">generate</span><span class="p">(</span><span class="nx">ast</span><span class="p">)</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">result</span><span class="p">.</span><span class="nx">code</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>还原结果：</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">console</span><span class="p">[</span><span class="dl">"</span><span class="s2">log</span><span class="dl">"</span><span class="p">](</span><span class="dl">"</span><span class="s2">Hello world!</span><span class="dl">"</span><span class="p">);</span>
+</code></pre></div></div>
+
+<h3 id="表达式还原">表达式还原</h3>
+
+<p>之前写过 <a href="https://itrhx.blog.csdn.net/article/details/122057377">JSFuck 混淆的还原</a>，其中有介绍 <code class="language-plaintext highlighter-rouge">![]</code> 可表示 false，<code class="language-plaintext highlighter-rouge">!![]</code> 或者 <code class="language-plaintext highlighter-rouge">!+[]</code> 可表示 true，在一些混淆代码中，经常有这些操作，把简单的表达式复杂化，往往需要执行一下语句，才能得到真正的结果，示例代码如下：</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">a</span> <span class="o">=</span> <span class="o">!!</span><span class="p">[]</span><span class="o">+!!</span><span class="p">[]</span><span class="o">+!!</span><span class="p">[];</span>
+<span class="kd">const</span> <span class="nx">b</span> <span class="o">=</span> <span class="nb">Math</span><span class="p">.</span><span class="nx">floor</span><span class="p">(</span><span class="mf">12.34</span> <span class="o">*</span> <span class="mf">2.12</span><span class="p">)</span>
+<span class="kd">const</span> <span class="nx">c</span> <span class="o">=</span> <span class="mi">10</span> <span class="o">&gt;&gt;</span> <span class="mi">3</span> <span class="o">&lt;&lt;</span> <span class="mi">1</span>
+<span class="kd">const</span> <span class="nx">d</span> <span class="o">=</span> <span class="nb">String</span><span class="p">(</span><span class="mf">21.3</span> <span class="o">+</span> <span class="mi">14</span> <span class="o">*</span> <span class="mf">1.32</span><span class="p">)</span>
+<span class="kd">const</span> <span class="nx">e</span> <span class="o">=</span> <span class="nb">parseInt</span><span class="p">(</span><span class="dl">"</span><span class="s2">1.893</span><span class="dl">"</span> <span class="o">+</span> <span class="dl">"</span><span class="s2">45.9088</span><span class="dl">"</span><span class="p">)</span>
+<span class="kd">const</span> <span class="nx">f</span> <span class="o">=</span> <span class="nb">parseFloat</span><span class="p">(</span><span class="dl">"</span><span class="s2">23.2334</span><span class="dl">"</span> <span class="o">+</span> <span class="dl">"</span><span class="s2">21.89112</span><span class="dl">"</span><span class="p">)</span>
+<span class="kd">const</span> <span class="nx">g</span> <span class="o">=</span> <span class="mi">20</span> <span class="o">&lt;</span> <span class="mi">18</span> <span class="p">?</span> <span class="dl">'</span><span class="s1">未成年</span><span class="dl">'</span> <span class="p">:</span> <span class="dl">'</span><span class="s1">成年</span><span class="dl">'</span>
+</code></pre></div></div>
+
+<p>想要执行语句，我们需要了解 <code class="language-plaintext highlighter-rouge">path.evaluate()</code> 方法，该方法会对 path 对象进行执行操作，自动计算出结果，返回一个对象，其中的 <code class="language-plaintext highlighter-rouge">confident</code> 属性表示置信度，<code class="language-plaintext highlighter-rouge">value</code> 表示计算结果，使用 <code class="language-plaintext highlighter-rouge">types.valueToNode()</code> 方法创建节点，使用 <code class="language-plaintext highlighter-rouge">path.replaceInline()</code> 方法将节点替换成计算结果生成的新节点，替换方法有一下几种：</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">replaceWith</code>：用一个节点替换另一个节点；</li>
+  <li><code class="language-plaintext highlighter-rouge">replaceWithMultiple</code>：用多个节点替换另一个节点；</li>
+  <li><code class="language-plaintext highlighter-rouge">replaceWithSourceString</code>：将传入的源码字符串解析成对应 Node 后再替换，性能较差，不建议使用；</li>
+  <li><code class="language-plaintext highlighter-rouge">replaceInline</code>：用一个或多个节点替换另一个节点，相当于同时有了前两个函数的功能。</li>
+</ul>
+
+<p>对应的 AST 处理代码如下：</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">parser</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">@babel/parser</span><span class="dl">"</span><span class="p">);</span>
+<span class="kd">const</span> <span class="nx">generate</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">@babel/generator</span><span class="dl">"</span><span class="p">).</span><span class="k">default</span>
+<span class="kd">const</span> <span class="nx">traverse</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">@babel/traverse</span><span class="dl">"</span><span class="p">).</span><span class="k">default</span>
+<span class="kd">const</span> <span class="nx">types</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">@babel/types</span><span class="dl">"</span><span class="p">)</span>
+
+<span class="kd">const</span> <span class="nx">code</span> <span class="o">=</span> <span class="s2">`
+const a = !![]+!![]+!![];
+const b = Math.floor(12.34 * 2.12)
+const c = 10 &gt;&gt; 3 &lt;&lt; 1
+const d = String(21.3 + 14 * 1.32)
+const e = parseInt("1.893" + "45.9088")
+const f = parseFloat("23.2334" + "21.89112")
+const g = 20 &lt; 18 ? '未成年' : '成年'
+`</span>
+<span class="kd">const</span> <span class="nx">ast</span> <span class="o">=</span> <span class="nx">parser</span><span class="p">.</span><span class="nx">parse</span><span class="p">(</span><span class="nx">code</span><span class="p">)</span>
+
+<span class="kd">const</span> <span class="nx">visitor</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="dl">"</span><span class="s2">BinaryExpression|CallExpression|ConditionalExpression</span><span class="dl">"</span><span class="p">(</span><span class="nx">path</span><span class="p">)</span> <span class="p">{</span>
+        <span class="kd">const</span> <span class="p">{</span><span class="nx">confident</span><span class="p">,</span> <span class="nx">value</span><span class="p">}</span> <span class="o">=</span> <span class="nx">path</span><span class="p">.</span><span class="nx">evaluate</span><span class="p">()</span>
+        <span class="k">if</span> <span class="p">(</span><span class="nx">confident</span><span class="p">){</span>
+            <span class="nx">path</span><span class="p">.</span><span class="nx">replaceInline</span><span class="p">(</span><span class="nx">types</span><span class="p">.</span><span class="nx">valueToNode</span><span class="p">(</span><span class="nx">value</span><span class="p">))</span>
+        <span class="p">}</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+
+<span class="nx">traverse</span><span class="p">(</span><span class="nx">ast</span><span class="p">,</span> <span class="nx">visitor</span><span class="p">)</span>
+<span class="kd">const</span> <span class="nx">result</span> <span class="o">=</span> <span class="nx">generate</span><span class="p">(</span><span class="nx">ast</span><span class="p">)</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">result</span><span class="p">.</span><span class="nx">code</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>最终结果：</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">a</span> <span class="o">=</span> <span class="mi">3</span><span class="p">;</span>
+<span class="kd">const</span> <span class="nx">b</span> <span class="o">=</span> <span class="mi">26</span><span class="p">;</span>
+<span class="kd">const</span> <span class="nx">c</span> <span class="o">=</span> <span class="mi">2</span><span class="p">;</span>
+<span class="kd">const</span> <span class="nx">d</span> <span class="o">=</span> <span class="dl">"</span><span class="s2">39.78</span><span class="dl">"</span><span class="p">;</span>
+<span class="kd">const</span> <span class="nx">e</span> <span class="o">=</span> <span class="nb">parseInt</span><span class="p">(</span><span class="dl">"</span><span class="s2">1.89345.9088</span><span class="dl">"</span><span class="p">);</span>
+<span class="kd">const</span> <span class="nx">f</span> <span class="o">=</span> <span class="nb">parseFloat</span><span class="p">(</span><span class="dl">"</span><span class="s2">23.233421.89112</span><span class="dl">"</span><span class="p">);</span>
+<span class="kd">const</span> <span class="nx">g</span> <span class="o">=</span> <span class="dl">"</span><span class="se">\</span><span class="s2">u6210</span><span class="se">\</span><span class="s2">u5E74</span><span class="dl">"</span><span class="p">;</span>
+</code></pre></div></div>
+
+<h3 id="删除未使用变量">删除未使用变量</h3>
+
+<p>有时候代码里会有一些并没有使用到的多余变量，删除这些多余变量有助于更加高效的分析代码，示例代码如下：</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">a</span> <span class="o">=</span> <span class="mi">1</span><span class="p">;</span>
+<span class="kd">const</span> <span class="nx">b</span> <span class="o">=</span> <span class="nx">a</span> <span class="o">*</span> <span class="mi">2</span><span class="p">;</span>
+<span class="kd">const</span> <span class="nx">c</span> <span class="o">=</span> <span class="mi">2</span><span class="p">;</span>
+<span class="kd">const</span> <span class="nx">d</span> <span class="o">=</span> <span class="nx">b</span> <span class="o">+</span> <span class="mi">1</span><span class="p">;</span>
+<span class="kd">const</span> <span class="nx">e</span> <span class="o">=</span> <span class="mi">3</span><span class="p">;</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">d</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>删除多余变量，首先要了解 <code class="language-plaintext highlighter-rouge">NodePath</code> 中的 <code class="language-plaintext highlighter-rouge">scope</code>，<code class="language-plaintext highlighter-rouge">scope</code> 的作用主要是查找标识符的作用域、获取并修改标识符的所有引用等，删除未使用变量主要用到了 <code class="language-plaintext highlighter-rouge">scope.getBinding()</code> 方法，传入的值是当前节点能够引用到的标识符名称，返回的关键属性有以下几个：</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">identifier</code>：标识符的 Node 对象；</li>
+  <li><code class="language-plaintext highlighter-rouge">path</code>：标识符的 NodePath 对象；</li>
+  <li><code class="language-plaintext highlighter-rouge">constant</code>：标识符是否为常量；</li>
+  <li><code class="language-plaintext highlighter-rouge">referenced</code>：标识符是否被引用；</li>
+  <li>` references`：标识符被引用的次数；</li>
+  <li><code class="language-plaintext highlighter-rouge">constantViolations</code>：如果标识符被修改，则会存放所有修改该标识符节点的 Path 对象；</li>
+  <li><code class="language-plaintext highlighter-rouge">referencePaths</code>：如果标识符被引用，则会存放所有引用该标识符节点的 Path 对象。</li>
+</ul>
+
+<p>所以我们可以通过 <code class="language-plaintext highlighter-rouge">constantViolations</code>、<code class="language-plaintext highlighter-rouge">referenced</code>、<code class="language-plaintext highlighter-rouge">references</code>、<code class="language-plaintext highlighter-rouge">referencePaths</code> 多个参数来判断变量是否可以被删除，AST 处理代码如下：</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">parser</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">@babel/parser</span><span class="dl">"</span><span class="p">);</span>
+<span class="kd">const</span> <span class="nx">generate</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">@babel/generator</span><span class="dl">"</span><span class="p">).</span><span class="k">default</span>
+<span class="kd">const</span> <span class="nx">traverse</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">@babel/traverse</span><span class="dl">"</span><span class="p">).</span><span class="k">default</span>
+
+<span class="kd">const</span> <span class="nx">code</span> <span class="o">=</span> <span class="s2">`
+const a = 1;
+const b = a * 2;
+const c = 2;
+const d = b + 1;
+const e = 3;
+console.log(d)
+`</span>
+<span class="kd">const</span> <span class="nx">ast</span> <span class="o">=</span> <span class="nx">parser</span><span class="p">.</span><span class="nx">parse</span><span class="p">(</span><span class="nx">code</span><span class="p">)</span>
+
+<span class="kd">const</span> <span class="nx">visitor</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="nx">VariableDeclarator</span><span class="p">(</span><span class="nx">path</span><span class="p">){</span>
+        <span class="kd">const</span> <span class="nx">binding</span> <span class="o">=</span> <span class="nx">path</span><span class="p">.</span><span class="nx">scope</span><span class="p">.</span><span class="nx">getBinding</span><span class="p">(</span><span class="nx">path</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">id</span><span class="p">.</span><span class="nx">name</span><span class="p">);</span>
+
+        <span class="c1">// 如标识符被修改过，则不能进行删除动作。</span>
+        <span class="k">if</span> <span class="p">(</span><span class="o">!</span><span class="nx">binding</span> <span class="o">||</span> <span class="nx">binding</span><span class="p">.</span><span class="nx">constantViolations</span><span class="p">.</span><span class="nx">length</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span>
+            <span class="k">return</span><span class="p">;</span>
+        <span class="p">}</span>
+
+        <span class="c1">// 未被引用</span>
+        <span class="k">if</span> <span class="p">(</span><span class="o">!</span><span class="nx">binding</span><span class="p">.</span><span class="nx">referenced</span><span class="p">)</span> <span class="p">{</span>
+            <span class="nx">path</span><span class="p">.</span><span class="nx">remove</span><span class="p">();</span>
+        <span class="p">}</span>
+
+        <span class="c1">// 被引用次数为0</span>
+        <span class="c1">// if (binding.references === 0) {</span>
+        <span class="c1">//     path.remove();</span>
+        <span class="c1">// }</span>
+
+        <span class="c1">// 长度为0，变量没有被引用过</span>
+        <span class="c1">// if (binding.referencePaths.length === 0) {</span>
+        <span class="c1">//     path.remove();</span>
+        <span class="c1">// }</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+
+<span class="nx">traverse</span><span class="p">(</span><span class="nx">ast</span><span class="p">,</span> <span class="nx">visitor</span><span class="p">)</span>
+<span class="kd">const</span> <span class="nx">result</span> <span class="o">=</span> <span class="nx">generate</span><span class="p">(</span><span class="nx">ast</span><span class="p">)</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">result</span><span class="p">.</span><span class="nx">code</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>处理后的代码（未使用的 b、c、e 变量已被删除）：</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">a</span> <span class="o">=</span> <span class="mi">1</span><span class="p">;</span>
+<span class="kd">const</span> <span class="nx">b</span> <span class="o">=</span> <span class="nx">a</span> <span class="o">*</span> <span class="mi">2</span><span class="p">;</span>
+<span class="kd">const</span> <span class="nx">d</span> <span class="o">=</span> <span class="nx">b</span> <span class="o">+</span> <span class="mi">1</span><span class="p">;</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">d</span><span class="p">);</span>
+</code></pre></div></div>
+
+<h3 id="删除冗余逻辑代码">删除冗余逻辑代码</h3>
+
+<p>有时候为了增加逆向难度，会有很多嵌套的 if-else 语句，大量判断为假的冗余逻辑代码，同样可以利用 AST 将其删除掉，只留下判断为真的，示例代码如下：</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">example</span> <span class="o">=</span> <span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
+    <span class="kd">let</span> <span class="nx">a</span><span class="p">;</span>
+    <span class="k">if</span> <span class="p">(</span><span class="kc">false</span><span class="p">)</span> <span class="p">{</span>
+        <span class="nx">a</span> <span class="o">=</span> <span class="mi">1</span><span class="p">;</span>
+    <span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+        <span class="k">if</span> <span class="p">(</span><span class="mi">1</span><span class="p">)</span> <span class="p">{</span>
+            <span class="nx">a</span> <span class="o">=</span> <span class="mi">2</span><span class="p">;</span>
+        <span class="p">}</span>
+        <span class="k">else</span> <span class="p">{</span>
+            <span class="nx">a</span> <span class="o">=</span> <span class="mi">3</span><span class="p">;</span>
+        <span class="p">}</span>
+    <span class="p">}</span>
+    <span class="k">return</span> <span class="nx">a</span><span class="p">;</span>
+<span class="p">};</span>
+</code></pre></div></div>
+
+<p>观察 AST，判断条件对应的是 <code class="language-plaintext highlighter-rouge">test</code> 节点，if 对应的是 <code class="language-plaintext highlighter-rouge">consequent</code> 节点，else 对应的是 <code class="language-plaintext highlighter-rouge">alternate</code> 节点，如下图所示：</p>
+
+<p><img src="https://static.spiderapi.cn/itbob/images/article/051/16.png" alt="16" /></p>
+
+<p>AST 处理思路以及代码：</p>
+
+<ol>
+  <li>筛选出 <code class="language-plaintext highlighter-rouge">BooleanLiteral</code> 和 <code class="language-plaintext highlighter-rouge">NumericLiteral</code> 节点，取其对应的值，即 <code class="language-plaintext highlighter-rouge">path.node.test.value</code>；</li>
+  <li>判断 <code class="language-plaintext highlighter-rouge">value</code> 值为真，则将节点替换成 <code class="language-plaintext highlighter-rouge">consequent</code> 节点下的内容，即 <code class="language-plaintext highlighter-rouge">path.node.consequent.body</code>；</li>
+  <li>判断 <code class="language-plaintext highlighter-rouge">value</code> 值为假，则替换成 <code class="language-plaintext highlighter-rouge">alternate</code> 节点下的内容，即 <code class="language-plaintext highlighter-rouge">path.node.alternate.body</code>；</li>
+  <li>有的 if 语句可能没有写 else，也就没有 <code class="language-plaintext highlighter-rouge">alternate</code>，所以这种情况下判断 <code class="language-plaintext highlighter-rouge">value</code> 值为假，则直接移除该节点，即 <code class="language-plaintext highlighter-rouge">path.remove()</code></li>
+</ol>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">parser</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">@babel/parser</span><span class="dl">"</span><span class="p">);</span>
+<span class="kd">const</span> <span class="nx">generate</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">@babel/generator</span><span class="dl">"</span><span class="p">).</span><span class="k">default</span>
+<span class="kd">const</span> <span class="nx">traverse</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">@babel/traverse</span><span class="dl">"</span><span class="p">).</span><span class="k">default</span>
+<span class="kd">const</span> <span class="nx">types</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">'</span><span class="s1">@babel/types</span><span class="dl">'</span><span class="p">);</span>
+
+<span class="kd">const</span> <span class="nx">code</span> <span class="o">=</span> <span class="s2">`
+const example = function () {
+    let a;
+    if (false) {
+        a = 1;
+    } else {
+        if (1) {
+            a = 2;
+        }
+        else {
+            a = 3;
+        }
+    }
+    return a;
+};
+`</span>
+<span class="kd">const</span> <span class="nx">ast</span> <span class="o">=</span> <span class="nx">parser</span><span class="p">.</span><span class="nx">parse</span><span class="p">(</span><span class="nx">code</span><span class="p">)</span>
+
+<span class="kd">const</span> <span class="nx">visitor</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="nx">enter</span><span class="p">(</span><span class="nx">path</span><span class="p">)</span> <span class="p">{</span>
+        <span class="k">if</span> <span class="p">(</span><span class="nx">types</span><span class="p">.</span><span class="nx">isBooleanLiteral</span><span class="p">(</span><span class="nx">path</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">test</span><span class="p">)</span> <span class="o">||</span> <span class="nx">types</span><span class="p">.</span><span class="nx">isNumericLiteral</span><span class="p">(</span><span class="nx">path</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">test</span><span class="p">))</span> <span class="p">{</span>
+            <span class="k">if</span> <span class="p">(</span><span class="nx">path</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">test</span><span class="p">.</span><span class="nx">value</span><span class="p">)</span> <span class="p">{</span>
+                <span class="nx">path</span><span class="p">.</span><span class="nx">replaceInline</span><span class="p">(</span><span class="nx">path</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">consequent</span><span class="p">.</span><span class="nx">body</span><span class="p">);</span>
+            <span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+                <span class="k">if</span> <span class="p">(</span><span class="nx">path</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">alternate</span><span class="p">)</span> <span class="p">{</span>
+                    <span class="nx">path</span><span class="p">.</span><span class="nx">replaceInline</span><span class="p">(</span><span class="nx">path</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">alternate</span><span class="p">.</span><span class="nx">body</span><span class="p">);</span>
+                <span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+                    <span class="nx">path</span><span class="p">.</span><span class="nx">remove</span><span class="p">()</span>
+                <span class="p">}</span>
+            <span class="p">}</span>
+        <span class="p">}</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+
+<span class="nx">traverse</span><span class="p">(</span><span class="nx">ast</span><span class="p">,</span> <span class="nx">visitor</span><span class="p">)</span>
+<span class="kd">const</span> <span class="nx">result</span> <span class="o">=</span> <span class="nx">generate</span><span class="p">(</span><span class="nx">ast</span><span class="p">)</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">result</span><span class="p">.</span><span class="nx">code</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>处理结果：</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">example</span> <span class="o">=</span> <span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
+  <span class="kd">let</span> <span class="nx">a</span><span class="p">;</span>
+  <span class="nx">a</span> <span class="o">=</span> <span class="mi">2</span><span class="p">;</span>
+  <span class="k">return</span> <span class="nx">a</span><span class="p">;</span>
+<span class="p">};</span>
+</code></pre></div></div>
+
+<h3 id="switch-case-反控制流平坦化">switch-case 反控制流平坦化</h3>
+
+<p>控制流平坦化是混淆当中最常见的，通过 <code class="language-plaintext highlighter-rouge">if-else</code> 或者 <code class="language-plaintext highlighter-rouge">while-switch-case</code> 语句分解步骤，示例代码：</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">_0x34e16a</span> <span class="o">=</span> <span class="dl">'</span><span class="s1">3,4,0,5,1,2</span><span class="dl">'</span><span class="p">[</span><span class="dl">'</span><span class="s1">split</span><span class="dl">'</span><span class="p">](</span><span class="dl">'</span><span class="s1">,</span><span class="dl">'</span><span class="p">);</span>
+<span class="kd">let</span> <span class="nx">_0x2eff02</span> <span class="o">=</span> <span class="mh">0x0</span><span class="p">;</span>
+<span class="k">while</span> <span class="p">(</span><span class="o">!!</span><span class="p">[])</span> <span class="p">{</span>
+    <span class="k">switch</span> <span class="p">(</span><span class="nx">_0x34e16a</span><span class="p">[</span><span class="nx">_0x2eff02</span><span class="o">++</span><span class="p">])</span> <span class="p">{</span>
+        <span class="k">case</span><span class="dl">'</span><span class="s1">0</span><span class="dl">'</span><span class="p">:</span>
+            <span class="kd">let</span> <span class="nx">_0x38cb15</span> <span class="o">=</span> <span class="nx">_0x4588f1</span> <span class="o">+</span> <span class="nx">_0x470e97</span><span class="p">;</span>
+            <span class="k">continue</span><span class="p">;</span>
+        <span class="k">case</span><span class="dl">'</span><span class="s1">1</span><span class="dl">'</span><span class="p">:</span>
+            <span class="kd">let</span> <span class="nx">_0x1e0e5e</span> <span class="o">=</span> <span class="nx">_0x37b9f3</span><span class="p">[</span><span class="nx">_0x50cee0</span><span class="p">(</span><span class="mh">0x2e0</span><span class="p">,</span> <span class="mh">0x2e8</span><span class="p">,</span> <span class="mh">0x2e1</span><span class="p">,</span> <span class="mh">0x2e4</span><span class="p">)];</span>
+            <span class="k">continue</span><span class="p">;</span>
+        <span class="k">case</span><span class="dl">'</span><span class="s1">2</span><span class="dl">'</span><span class="p">:</span>
+            <span class="kd">let</span> <span class="nx">_0x35d732</span> <span class="o">=</span> <span class="p">[</span><span class="nx">_0x388d4b</span><span class="p">(</span><span class="o">-</span><span class="mh">0x134</span><span class="p">,</span> <span class="o">-</span><span class="mh">0x134</span><span class="p">,</span> <span class="o">-</span><span class="mh">0x139</span><span class="p">,</span> <span class="o">-</span><span class="mh">0x138</span><span class="p">)](</span><span class="nx">_0x38cb15</span> <span class="o">&gt;&gt;</span> <span class="nx">_0x4588f1</span><span class="p">);</span>
+            <span class="k">continue</span><span class="p">;</span>
+        <span class="k">case</span><span class="dl">'</span><span class="s1">3</span><span class="dl">'</span><span class="p">:</span>
+            <span class="kd">let</span> <span class="nx">_0x4588f1</span> <span class="o">=</span> <span class="mh">0x1</span><span class="p">;</span>
+            <span class="k">continue</span><span class="p">;</span>
+        <span class="k">case</span><span class="dl">'</span><span class="s1">4</span><span class="dl">'</span><span class="p">:</span>
+            <span class="kd">let</span> <span class="nx">_0x470e97</span> <span class="o">=</span> <span class="mh">0x2</span><span class="p">;</span>
+            <span class="k">continue</span><span class="p">;</span>
+        <span class="k">case</span><span class="dl">'</span><span class="s1">5</span><span class="dl">'</span><span class="p">:</span>
+            <span class="kd">let</span> <span class="nx">_0x37b9f3</span> <span class="o">=</span> <span class="mh">0x5</span> <span class="o">||</span> <span class="nx">_0x38cb15</span><span class="p">;</span>
+            <span class="k">continue</span><span class="p">;</span>
+    <span class="p">}</span>
+    <span class="k">break</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>AST 还原思路：</p>
+
+<ol>
+  <li>获取控制流原始数组，将 <code class="language-plaintext highlighter-rouge">'3,4,0,5,1,2'['split'](',')</code> 之类的语句转化成 <code class="language-plaintext highlighter-rouge">['3','4','0','5','1','2']</code> 之类的数组，得到该数组之后，也可以选择把 split 语句对应的节点删除掉，因为最终代码里这条语句就没用了；</li>
+  <li>遍历第一步得到的控制流数组，依次取出每个值所对应的 case 节点；</li>
+  <li>定义一个数组，储存每个 case 节点 <code class="language-plaintext highlighter-rouge">consequent</code> 数组里面的内容，并删除 <code class="language-plaintext highlighter-rouge">continue</code> 语句对应的节点；</li>
+  <li>遍历完成后，将第三步的数组替换掉整个 while 节点，也就是 <code class="language-plaintext highlighter-rouge">WhileStatement</code>。</li>
+</ol>
+
+<p>不同思路，写法多样，对于如何获取控制流数组，可以有以下思路：</p>
+
+<ol>
+  <li>获取到 <code class="language-plaintext highlighter-rouge">While</code> 语句节点，然后使用 <code class="language-plaintext highlighter-rouge">path.getAllPrevSiblings()</code> 方法获取其前面的所有兄弟节点，遍历每个兄弟节点，找到与 <code class="language-plaintext highlighter-rouge">switch()</code> 里面数组的变量名相同的节点，然后再取节点的值进行后续处理；</li>
+  <li>直接取 <code class="language-plaintext highlighter-rouge">switch()</code> 里面数组的变量名，然后使用 <code class="language-plaintext highlighter-rouge">scope.getBinding()</code> 方法获取到它绑定的节点，然后再取这个节点的值进行后续处理。</li>
+</ol>
+
+<p>所以 AST 处理代码就有两种写法，方法一：（code.js 即为前面的示例代码，为了方便操作，这里使用 fs 从文件中读取代码）</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">parser</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">@babel/parser</span><span class="dl">"</span><span class="p">);</span>
+<span class="kd">const</span> <span class="nx">generate</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">@babel/generator</span><span class="dl">"</span><span class="p">).</span><span class="k">default</span>
+<span class="kd">const</span> <span class="nx">traverse</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">@babel/traverse</span><span class="dl">"</span><span class="p">).</span><span class="k">default</span>
+<span class="kd">const</span> <span class="nx">types</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">@babel/types</span><span class="dl">"</span><span class="p">)</span>
+<span class="kd">const</span> <span class="nx">fs</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">fs</span><span class="dl">"</span><span class="p">);</span>
+
+<span class="kd">const</span> <span class="nx">code</span> <span class="o">=</span> <span class="nx">fs</span><span class="p">.</span><span class="nx">readFileSync</span><span class="p">(</span><span class="dl">"</span><span class="s2">code.js</span><span class="dl">"</span><span class="p">,</span> <span class="p">{</span><span class="na">encoding</span><span class="p">:</span> <span class="dl">"</span><span class="s2">utf-8</span><span class="dl">"</span><span class="p">});</span>
+<span class="kd">const</span> <span class="nx">ast</span> <span class="o">=</span> <span class="nx">parser</span><span class="p">.</span><span class="nx">parse</span><span class="p">(</span><span class="nx">code</span><span class="p">)</span>
+
+<span class="kd">const</span> <span class="nx">visitor</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="nx">WhileStatement</span><span class="p">(</span><span class="nx">path</span><span class="p">)</span> <span class="p">{</span>
+        <span class="c1">// switch 节点</span>
+        <span class="kd">let</span> <span class="nx">switchNode</span> <span class="o">=</span> <span class="nx">path</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">body</span><span class="p">.</span><span class="nx">body</span><span class="p">[</span><span class="mi">0</span><span class="p">];</span>
+        <span class="c1">// switch 语句内的控制流数组名，本例中是 _0x34e16a</span>
+        <span class="kd">let</span> <span class="nx">arrayName</span> <span class="o">=</span> <span class="nx">switchNode</span><span class="p">.</span><span class="nx">discriminant</span><span class="p">.</span><span class="nx">object</span><span class="p">.</span><span class="nx">name</span><span class="p">;</span>
+        <span class="c1">// 获得所有 while 前面的兄弟节点，本例中获取到的是声明两个变量的节点，即 const _0x34e16a 和 let _0x2eff02</span>
+        <span class="kd">let</span> <span class="nx">prevSiblings</span> <span class="o">=</span> <span class="nx">path</span><span class="p">.</span><span class="nx">getAllPrevSiblings</span><span class="p">();</span>
+        <span class="c1">// 定义缓存控制流数组</span>
+        <span class="kd">let</span> <span class="nx">array</span> <span class="o">=</span> <span class="p">[]</span>
+        <span class="c1">// forEach 方法遍历所有节点</span>
+        <span class="nx">prevSiblings</span><span class="p">.</span><span class="nx">forEach</span><span class="p">(</span><span class="nx">pervNode</span> <span class="o">=&gt;</span> <span class="p">{</span>
+            <span class="kd">let</span> <span class="p">{</span><span class="nx">id</span><span class="p">,</span> <span class="nx">init</span><span class="p">}</span> <span class="o">=</span> <span class="nx">pervNode</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">declarations</span><span class="p">[</span><span class="mi">0</span><span class="p">];</span>
+            <span class="c1">// 如果节点 id.name 与 switch 语句内的控制流数组名相同</span>
+            <span class="k">if</span> <span class="p">(</span><span class="nx">arrayName</span> <span class="o">===</span> <span class="nx">id</span><span class="p">.</span><span class="nx">name</span><span class="p">)</span> <span class="p">{</span>
+                <span class="c1">// 获取节点整个表达式的参数、分割方法、分隔符</span>
+                <span class="kd">let</span> <span class="nx">object</span> <span class="o">=</span> <span class="nx">init</span><span class="p">.</span><span class="nx">callee</span><span class="p">.</span><span class="nx">object</span><span class="p">.</span><span class="nx">value</span><span class="p">;</span>
+                <span class="kd">let</span> <span class="nx">property</span> <span class="o">=</span> <span class="nx">init</span><span class="p">.</span><span class="nx">callee</span><span class="p">.</span><span class="nx">property</span><span class="p">.</span><span class="nx">value</span><span class="p">;</span>
+                <span class="kd">let</span> <span class="nx">argument</span> <span class="o">=</span> <span class="nx">init</span><span class="p">.</span><span class="nx">arguments</span><span class="p">[</span><span class="mi">0</span><span class="p">].</span><span class="nx">value</span><span class="p">;</span>
+                <span class="c1">// 模拟执行 '3,4,0,5,1,2'['split'](',') 语句</span>
+                <span class="nx">array</span> <span class="o">=</span> <span class="nx">object</span><span class="p">[</span><span class="nx">property</span><span class="p">](</span><span class="nx">argument</span><span class="p">)</span>
+                <span class="c1">// 也可以直接取参数进行分割，方法不通用，比如分隔符换成 | 就不行了</span>
+                <span class="c1">// array = init.callee.object.value.split(',');</span>
+            <span class="p">}</span>
+            <span class="c1">// 前面的兄弟节点就可以删除了</span>
+            <span class="nx">pervNode</span><span class="p">.</span><span class="nx">remove</span><span class="p">();</span>
+        <span class="p">});</span>
+
+        <span class="c1">// 储存正确顺序的控制流语句</span>
+        <span class="kd">let</span> <span class="nx">replace</span> <span class="o">=</span> <span class="p">[];</span>
+        <span class="c1">// 遍历控制流数组，按正确顺序取 case 内容</span>
+        <span class="nx">array</span><span class="p">.</span><span class="nx">forEach</span><span class="p">(</span><span class="nx">index</span> <span class="o">=&gt;</span> <span class="p">{</span>
+                <span class="kd">let</span> <span class="nx">consequent</span> <span class="o">=</span> <span class="nx">switchNode</span><span class="p">.</span><span class="nx">cases</span><span class="p">[</span><span class="nx">index</span><span class="p">].</span><span class="nx">consequent</span><span class="p">;</span>
+                <span class="c1">// 如果最后一个节点是 continue 语句，则删除 ContinueStatement 节点</span>
+                <span class="k">if</span> <span class="p">(</span><span class="nx">types</span><span class="p">.</span><span class="nx">isContinueStatement</span><span class="p">(</span><span class="nx">consequent</span><span class="p">[</span><span class="nx">consequent</span><span class="p">.</span><span class="nx">length</span> <span class="o">-</span> <span class="mi">1</span><span class="p">]))</span> <span class="p">{</span>
+                    <span class="nx">consequent</span><span class="p">.</span><span class="nx">pop</span><span class="p">();</span>
+                <span class="p">}</span>
+                <span class="c1">// concat 方法拼接多个数组，即正确顺序的 case 内容</span>
+                <span class="nx">replace</span> <span class="o">=</span> <span class="nx">replace</span><span class="p">.</span><span class="nx">concat</span><span class="p">(</span><span class="nx">consequent</span><span class="p">);</span>
+            <span class="p">}</span>
+        <span class="p">);</span>
+        <span class="c1">// 替换整个 while 节点，两种方法都可以</span>
+        <span class="nx">path</span><span class="p">.</span><span class="nx">replaceWithMultiple</span><span class="p">(</span><span class="nx">replace</span><span class="p">);</span>
+        <span class="c1">// path.replaceInline(replace);</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+
+<span class="nx">traverse</span><span class="p">(</span><span class="nx">ast</span><span class="p">,</span> <span class="nx">visitor</span><span class="p">)</span>
+<span class="kd">const</span> <span class="nx">result</span> <span class="o">=</span> <span class="nx">generate</span><span class="p">(</span><span class="nx">ast</span><span class="p">)</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">result</span><span class="p">.</span><span class="nx">code</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>方法二：</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">parser</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">@babel/parser</span><span class="dl">"</span><span class="p">);</span>
+<span class="kd">const</span> <span class="nx">generate</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">@babel/generator</span><span class="dl">"</span><span class="p">).</span><span class="k">default</span>
+<span class="kd">const</span> <span class="nx">traverse</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">@babel/traverse</span><span class="dl">"</span><span class="p">).</span><span class="k">default</span>
+<span class="kd">const</span> <span class="nx">types</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">@babel/types</span><span class="dl">"</span><span class="p">)</span>
+<span class="kd">const</span> <span class="nx">fs</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">fs</span><span class="dl">"</span><span class="p">);</span>
+
+<span class="kd">const</span> <span class="nx">code</span> <span class="o">=</span> <span class="nx">fs</span><span class="p">.</span><span class="nx">readFileSync</span><span class="p">(</span><span class="dl">"</span><span class="s2">code.js</span><span class="dl">"</span><span class="p">,</span> <span class="p">{</span><span class="na">encoding</span><span class="p">:</span> <span class="dl">"</span><span class="s2">utf-8</span><span class="dl">"</span><span class="p">});</span>
+<span class="kd">const</span> <span class="nx">ast</span> <span class="o">=</span> <span class="nx">parser</span><span class="p">.</span><span class="nx">parse</span><span class="p">(</span><span class="nx">code</span><span class="p">)</span>
+
+<span class="kd">const</span> <span class="nx">visitor</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="nx">WhileStatement</span><span class="p">(</span><span class="nx">path</span><span class="p">)</span> <span class="p">{</span>
+        <span class="c1">// switch 节点</span>
+        <span class="kd">let</span> <span class="nx">switchNode</span> <span class="o">=</span> <span class="nx">path</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">body</span><span class="p">.</span><span class="nx">body</span><span class="p">[</span><span class="mi">0</span><span class="p">];</span>
+        <span class="c1">// switch 语句内的控制流数组名，本例中是 _0x34e16a</span>
+        <span class="kd">let</span> <span class="nx">arrayName</span> <span class="o">=</span> <span class="nx">switchNode</span><span class="p">.</span><span class="nx">discriminant</span><span class="p">.</span><span class="nx">object</span><span class="p">.</span><span class="nx">name</span><span class="p">;</span>
+        <span class="c1">// 获取控制流数组绑定的节点</span>
+        <span class="kd">let</span> <span class="nx">bindingArray</span> <span class="o">=</span> <span class="nx">path</span><span class="p">.</span><span class="nx">scope</span><span class="p">.</span><span class="nx">getBinding</span><span class="p">(</span><span class="nx">arrayName</span><span class="p">);</span>
+        <span class="c1">// 获取节点整个表达式的参数、分割方法、分隔符</span>
+        <span class="kd">let</span> <span class="nx">init</span> <span class="o">=</span> <span class="nx">bindingArray</span><span class="p">.</span><span class="nx">path</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">init</span><span class="p">;</span>
+        <span class="kd">let</span> <span class="nx">object</span> <span class="o">=</span> <span class="nx">init</span><span class="p">.</span><span class="nx">callee</span><span class="p">.</span><span class="nx">object</span><span class="p">.</span><span class="nx">value</span><span class="p">;</span>
+        <span class="kd">let</span> <span class="nx">property</span> <span class="o">=</span> <span class="nx">init</span><span class="p">.</span><span class="nx">callee</span><span class="p">.</span><span class="nx">property</span><span class="p">.</span><span class="nx">value</span><span class="p">;</span>
+        <span class="kd">let</span> <span class="nx">argument</span> <span class="o">=</span> <span class="nx">init</span><span class="p">.</span><span class="nx">arguments</span><span class="p">[</span><span class="mi">0</span><span class="p">].</span><span class="nx">value</span><span class="p">;</span>
+        <span class="c1">// 模拟执行 '3,4,0,5,1,2'['split'](',') 语句</span>
+        <span class="kd">let</span> <span class="nx">array</span> <span class="o">=</span> <span class="nx">object</span><span class="p">[</span><span class="nx">property</span><span class="p">](</span><span class="nx">argument</span><span class="p">)</span>
+        <span class="c1">// 也可以直接取参数进行分割，方法不通用，比如分隔符换成 | 就不行了</span>
+        <span class="c1">// let array = init.callee.object.value.split(',');</span>
+
+        <span class="c1">// switch 语句内的控制流自增变量名，本例中是 _0x2eff02</span>
+        <span class="kd">let</span> <span class="nx">autoIncrementName</span> <span class="o">=</span> <span class="nx">switchNode</span><span class="p">.</span><span class="nx">discriminant</span><span class="p">.</span><span class="nx">property</span><span class="p">.</span><span class="nx">argument</span><span class="p">.</span><span class="nx">name</span><span class="p">;</span>
+        <span class="c1">// 获取控制流自增变量名绑定的节点</span>
+        <span class="kd">let</span> <span class="nx">bindingAutoIncrement</span> <span class="o">=</span> <span class="nx">path</span><span class="p">.</span><span class="nx">scope</span><span class="p">.</span><span class="nx">getBinding</span><span class="p">(</span><span class="nx">autoIncrementName</span><span class="p">);</span>
+        <span class="c1">// 可选择的操作：删除控制流数组绑定的节点、自增变量名绑定的节点</span>
+        <span class="nx">bindingArray</span><span class="p">.</span><span class="nx">path</span><span class="p">.</span><span class="nx">remove</span><span class="p">();</span>
+        <span class="nx">bindingAutoIncrement</span><span class="p">.</span><span class="nx">path</span><span class="p">.</span><span class="nx">remove</span><span class="p">();</span>
+
+        <span class="c1">// 储存正确顺序的控制流语句</span>
+        <span class="kd">let</span> <span class="nx">replace</span> <span class="o">=</span> <span class="p">[];</span>
+        <span class="c1">// 遍历控制流数组，按正确顺序取 case 内容</span>
+        <span class="nx">array</span><span class="p">.</span><span class="nx">forEach</span><span class="p">(</span><span class="nx">index</span> <span class="o">=&gt;</span> <span class="p">{</span>
+                <span class="kd">let</span> <span class="nx">consequent</span> <span class="o">=</span> <span class="nx">switchNode</span><span class="p">.</span><span class="nx">cases</span><span class="p">[</span><span class="nx">index</span><span class="p">].</span><span class="nx">consequent</span><span class="p">;</span>
+                <span class="c1">// 如果最后一个节点是 continue 语句，则删除 ContinueStatement 节点</span>
+                <span class="k">if</span> <span class="p">(</span><span class="nx">types</span><span class="p">.</span><span class="nx">isContinueStatement</span><span class="p">(</span><span class="nx">consequent</span><span class="p">[</span><span class="nx">consequent</span><span class="p">.</span><span class="nx">length</span> <span class="o">-</span> <span class="mi">1</span><span class="p">]))</span> <span class="p">{</span>
+                    <span class="nx">consequent</span><span class="p">.</span><span class="nx">pop</span><span class="p">();</span>
+                <span class="p">}</span>
+                <span class="c1">// concat 方法拼接多个数组，即正确顺序的 case 内容</span>
+                <span class="nx">replace</span> <span class="o">=</span> <span class="nx">replace</span><span class="p">.</span><span class="nx">concat</span><span class="p">(</span><span class="nx">consequent</span><span class="p">);</span>
+            <span class="p">}</span>
+        <span class="p">);</span>
+        <span class="c1">// 替换整个 while 节点，两种方法都可以</span>
+        <span class="nx">path</span><span class="p">.</span><span class="nx">replaceWithMultiple</span><span class="p">(</span><span class="nx">replace</span><span class="p">);</span>
+        <span class="c1">// path.replaceInline(replace);</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+
+<span class="nx">traverse</span><span class="p">(</span><span class="nx">ast</span><span class="p">,</span> <span class="nx">visitor</span><span class="p">)</span>
+<span class="kd">const</span> <span class="nx">result</span> <span class="o">=</span> <span class="nx">generate</span><span class="p">(</span><span class="nx">ast</span><span class="p">)</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">result</span><span class="p">.</span><span class="nx">code</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>以上代码运行后，原来的 <code class="language-plaintext highlighter-rouge">switch-case</code> 控制流就被还原了，变成了按顺序一行一行的代码，更加简洁明了：</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">let</span> <span class="nx">_0x4588f1</span> <span class="o">=</span> <span class="mh">0x1</span><span class="p">;</span>
+<span class="kd">let</span> <span class="nx">_0x470e97</span> <span class="o">=</span> <span class="mh">0x2</span><span class="p">;</span>
+<span class="kd">let</span> <span class="nx">_0x38cb15</span> <span class="o">=</span> <span class="nx">_0x4588f1</span> <span class="o">+</span> <span class="nx">_0x470e97</span><span class="p">;</span>
+<span class="kd">let</span> <span class="nx">_0x37b9f3</span> <span class="o">=</span> <span class="mh">0x5</span> <span class="o">||</span> <span class="nx">_0x38cb15</span><span class="p">;</span>
+<span class="kd">let</span> <span class="nx">_0x1e0e5e</span> <span class="o">=</span> <span class="nx">_0x37b9f3</span><span class="p">[</span><span class="nx">_0x50cee0</span><span class="p">(</span><span class="mh">0x2e0</span><span class="p">,</span> <span class="mh">0x2e8</span><span class="p">,</span> <span class="mh">0x2e1</span><span class="p">,</span> <span class="mh">0x2e4</span><span class="p">)];</span>
+<span class="kd">let</span> <span class="nx">_0x35d732</span> <span class="o">=</span> <span class="p">[</span><span class="nx">_0x388d4b</span><span class="p">(</span><span class="o">-</span><span class="mh">0x134</span><span class="p">,</span> <span class="o">-</span><span class="mh">0x134</span><span class="p">,</span> <span class="o">-</span><span class="mh">0x139</span><span class="p">,</span> <span class="o">-</span><span class="mh">0x138</span><span class="p">)](</span><span class="nx">_0x38cb15</span> <span class="o">&gt;&gt;</span> <span class="nx">_0x4588f1</span><span class="p">);</span>
+</code></pre></div></div>
+
+<h2 id="参考资料">参考资料</h2>
+
+<p>本文有参考以下资料，也是比较推荐的在线学习资料：</p>
+
+<ul>
+  <li>Youtube 视频，Babel 入门：<a href="https://www.youtube.com/watch?v=UeVq_U5obnE">https://www.youtube.com/watch?v=UeVq_U5obnE</a></li>
+  <li>官方手册 Babel Handbook：<a href="https://github.com/jamiebuilds/babel-handbook">https://github.com/jamiebuilds/babel-handbook</a></li>
+  <li>非官方 Babel API 中文文档：<a href="https://evilrecluse.top/Babel-traverse-api-doc/">https://evilrecluse.top/Babel-traverse-api-doc/</a></li>
+</ul>
+
+<h2 id="end">END</h2>
+
+<p>Babel 编译器国内的资料其实不是很多，多看源码、同时在线对照可视化的 AST 语法树，耐心一点儿一层一层分析即可，本文中的案例也只是最基本操作，实际遇到一些混淆还得视情况进行修改，比如需要加一些类型判断来限制等，后续会用实战来带领大家进一步熟悉解混淆当中的其他操作。</p>
+
+          </div>
+        </div>
+      </section>
+      <section class="section-register">
+        <div class="section-wrapper">
+          <h1>攻防窥见深渊，万物藏于一粟<br/>探索技术边界，挖掘数据价值</h1>
+          <p>WuKong Security丨悟空信息安全</p>
+          <div class="code-and-button">
+            <a
+              href="/docs/usage/quick-start/"
+              title="Register Now"
+              class="button big accent-border border-corners inner-shadows"
+            >
+              联系我们 Contact
+            </a>
+          </div>
+        </div>
+      </section>
+    </main>
+    <footer>
+  <div class="section-background">
+    <div class="section-wrapper">
+      <div class="hexagon hexagon-10"></div>
+      <div class="hexagon hexagon-11"></div>
+    </div>
+  </div>
+  <div class="section-wrapper">
+    <nav class="main-nav">
+      <a href="https://wukongsec.com" title="Go to home page" class="logo-link">
+        <img alt="PM2 logo" src="https://wukongsec.com/assets/img/logo/logo_wk_004.png" />
+      </a>
+      <div class="doc-links">
+        <a href="http://bbs.wukongsec.com/" target="_blank">论坛 BBS</a>
+        <a href="https://wukongsec.com/blog/">博客 Blog</a>
+        <a href="https://wukongsec.com/docs/about/">关于 About</a>
+      </div>
+      <div class="button-border">
+        <a href="https://wukongsec.com/contact/" class="button accent-border border-corners big inner-shadows">
+          加入我们 Join us
+        </a>
+      </div>
+    </nav>
+    <div class="below-nav">
+      <div class="copyright">
+        Copyright © 2023-<script>document.write(new Date().getFullYear().toString());</script> <a href="https://wukongsec.com/" title="WuKong Security • 悟空数据安全">WuKong Security</a> All Rights Reserved.
+      </div>
+      <div>
+        <a href="https://beian.miit.gov.cn/" target="_blank"><img src="https://wukongsec.com/assets/img/general/icp_48x48.png" alt="ICP 备案号" style="width:auto; height:17px; margin-bottom:-4px"> 鄂ICP备 19003281号-10</a>丨
+        <a href="https://beian.mps.gov.cn/" target="_blank"><img src="https://wukongsec.com/assets/img/general/mps_48x48.png" alt="MPS 公网安备" style="width:auto; height:17px; margin-bottom:-3px"> 鄂公网安备 42280202422959</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+<script>LA.init({id:"3IvKxKuUS0UrDMdL",ck:"3IvKxKuUS0UrDMdL"})</script>
+
+<script>
+  var _hmt = _hmt || [];
+  (function() {
+    var hm = document.createElement("script");
+    hm.src = "https://hm.baidu.com/hm.js?3163eb94091b9129cb5fbf99051644ff";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(hm, s);
+  })();
+</script>
+
+
+    <script src="https://wukongsec.com/assets/js/testimonials.js"></script>
+    <script src="https://wukongsec.com/assets/js/menu.js"></script>
+  </body>
+</html>
