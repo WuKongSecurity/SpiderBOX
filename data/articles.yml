@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 凛音姫
+      release_time: 2025.03.07 18:30:00
+      title: 【js逆向练习案例-15】 荔枝网 wasm 纯算
+      url: https://www.bilibili.com/video/BV1khRNYbE5r
     - author: B站用户骚神
       release_time: 2025.03.06 22:57:56
       title: 精灵球+DP，快速搞定各大电商网站商品信息和评论
@@ -117,10 +121,6 @@
       release_time: 2025.02.25 15:57:57
       title: C++ 基础12讲  内存四区
       url: https://www.bilibili.com/video/BV1rLPaeoEbY
-    - author: Alone逆向安全
-      release_time: 2025.02.25 15:57:50
-      title: C++ 基础 第十三讲：函数值传递与引用传递
-      url: https://www.bilibili.com/video/BV1HLPaeoEN9
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
