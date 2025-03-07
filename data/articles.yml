@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.03.08 00:00:00
+      title: 安卓逆向 -- 广告静默卡
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038067&idx=1&sn=42021dbb1807a36676de36308b693e1b
     - author: 菜狗学逆向
       release_time: 2025.03.07 23:12:58
       title: 阿卡迈dvs算法(二）
@@ -240,10 +244,6 @@
       release_time: 2025.03.04 00:00:00
       title: 安卓逆向 -- VIP破解的学习和总结
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037935&idx=1&sn=cd47a9b755a95d8a2703be8a6d7a50af
-    - author: 菜鸟学Python编程
-      release_time: 2025.03.03 17:32:00
-      title: AST反混淆插件|删除垃圾代码的删除
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565774&idx=1&sn=a4ca0e83accffc53fd81ee416de4e14f
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
