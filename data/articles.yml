@@ -374,6 +374,10 @@
       release_time: 2025.03.07 18:31:23
       title: windows无界面后台定时任务 (重启自启动，ODBS为例)
       url: https://blog.csdn.net/weixin_42277380/article/details/146101098
+    - author: 悦来客栈的老板
+      release_time: 2025.03.07 17:26:01
+      title: AST反混淆插件|变种ob混淆里的for循环转换成标准ob混淆的while循环
+      url: https://blog.csdn.net/qq523176585/article/details/146109792
     - author: Brinmon
       release_time: 2025.03.07 11:48:34
       title: '[原创]Android逆向0基础入门-APK全面解析,动调与脱壳'
@@ -486,10 +490,6 @@
       release_time: 2025.02.27 14:45:35
       title: '[原创]最近冒这么多的攻防帖子，敢问，怎么变现'
       url: https://bbs.kanxue.com/thread-285768.htm
-    - author: 千百度·
-      release_time: 2025.02.27 10:07:28
-      title: 新手求助
-      url: https://bbs.kanxue.com/thread-285763.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
