@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.03.07 17:25:00
+      title: AST反混淆插件|变种ob混淆里的for循环转换成标准ob混淆的while循环
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565792&idx=1&sn=32837f4d4c233492f18924931c521b46
     - author: 哆啦安全
       release_time: 2025.03.07 13:13:04
       title: Android12以上定制版直播机系统为什么卡顿，如何分析卡顿问题，如何解决卡顿问题
@@ -240,10 +244,6 @@
       release_time: 2025.03.03 08:03:00
       title: FRAUDAR算法，众包刷单刷量欺诈的终结者之1（论文翻译）
       url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196790&idx=1&sn=6a5550a1cfc135b366993fd5563f4b09
-    - author: 哆啦安全
-      release_time: 2025.03.03 07:00:00
-      title: 鸿蒙APP逆向分析工具和方法
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497471&idx=1&sn=70550ec0a6e0d206c1ce377ff803547b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
