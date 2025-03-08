@@ -148,6 +148,10 @@
       release_time: 2025.03.07 23:12:58
       title: 阿卡迈dvs算法(二）
       url: https://mp.weixin.qq.com/s?__biz=MzU2MzgwOTg2Ng==&mid=2247483714&idx=1&sn=c42990d8aef09ba1f177d67d32d39fba
+    - author: Millder He
+      release_time: 2025.03.07 21:13:04
+      title: Vercel 盾逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkzODQ0NDEwNA==&mid=2247483842&idx=1&sn=9c0228e084ba1176e7acea980ce354b0
     - author: 知一Tracer
       release_time: 2025.03.07 18:30:00
       title: 'TK抓包协议分析: So层逆向'
@@ -240,10 +244,6 @@
       release_time: 2025.03.05 00:00:00
       title: 安卓逆向 -- 某幸咖啡协议算法
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037983&idx=1&sn=80c922d1b311e0c2bc9fcc9749277b60
-    - author: 吾爱破解论坛
-      release_time: 2025.03.04 17:55:23
-      title: 【清理未活跃会员】清理2024年光棍节开放注册未活跃会员公告
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141847&idx=1&sn=3dafa3822cbc6cfab54a389598eff8e5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
