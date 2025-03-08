@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.03.08 09:07:02
+      title: Android系统定制实现无人直播技术架构和解决方案
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497550&idx=1&sn=1ba19bd8f40244f013ae8a51cbbb00d9
+    - author: 哆啦安全
+      release_time: 2025.03.08 09:07:02
+      title: 部署DeepSeek不同参数规模的大模型需要差异化的硬件配置(配置选择方法)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497550&idx=2&sn=71dc34ce2638f80dc62b80939d9b49e8
+    - author: Spade sec
+      release_time: 2025.03.08 09:00:00
+      title: JS逆向系列18-格式化检测与绕过
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485491&idx=1&sn=45669c1d59bd54b8acf1863bd5e00b44
     - author: 逆向有你
       release_time: 2025.03.08 00:00:00
       title: 安卓逆向 -- 广告静默卡
@@ -232,18 +244,6 @@
       release_time: 2025.03.04 17:49:00
       title: AST反混淆插件|PX3同名函数的优化处理
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565779&idx=1&sn=6e8d18dd66dac71bf1bbf9a814e0a886
-    - author: Spade sec
-      release_time: 2025.03.04 09:00:00
-      title: 探索挖掘xss中括号被转义的绕过措施
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485471&idx=1&sn=d555ac0c21c5263bbef5db6b4fda81b3
-    - author: 哆啦安全
-      release_time: 2025.03.04 08:20:47
-      title: Android APP应用上架隐私合规检测方法
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497486&idx=1&sn=d0bf50ebc47b7d663d74a7eda9366e70
-    - author: 逆向有你
-      release_time: 2025.03.04 00:00:00
-      title: 安卓逆向 -- VIP破解的学习和总结
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037935&idx=1&sn=cd47a9b755a95d8a2703be8a6d7a50af
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
