@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.03.09 00:00:00
+      title: 安卓逆向 -- 某手柄映射软件永久VIP会员获取
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038104&idx=1&sn=3ed72b94d85e9b863e2f7cd6beefd0e4
     - author: 季东ooo
       release_time: 2025.03.08 19:25:18
       title: 白盒AES下的DFA攻击手段
@@ -236,10 +240,6 @@
       release_time: 2025.03.05 08:41:43
       title: 车载Android系统破解工具和漏洞挖掘浅析
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497501&idx=1&sn=30c1b2d814501c794926b75f43fcefcb
-    - author: 哆啦安全
-      release_time: 2025.03.05 08:41:43
-      title: 车载系统破解工具和方法
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497501&idx=2&sn=ba22cb634906558a05c44c90dc5007b8
     - author: 移动端Android和iOS开发技术分享
       release_time: 2025.03.05 07:58:00
       title: 【iOS逆向与安全】在iOS状态栏中实现秒表功能的插件开发指南
