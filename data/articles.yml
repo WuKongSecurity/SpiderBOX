@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 季东ooo
+      release_time: 2025.03.08 19:25:18
+      title: 白盒AES下的DFA攻击手段
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjczODUwMw==&mid=2247484293&idx=1&sn=11881cba7edb4c0046d80df90da1d30e
     - author: 知一Tracer
       release_time: 2025.03.08 19:06:00
       title: Tk图片解密之Wasm扣代码
@@ -236,10 +240,6 @@
       release_time: 2025.03.05 08:41:43
       title: 车载系统破解工具和方法
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497501&idx=2&sn=ba22cb634906558a05c44c90dc5007b8
-    - author: Coder小Q
-      release_time: 2025.03.05 08:30:00
-      title: 【密码学PQC】SCloud 基于LWE的加密与密钥封装算法
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491453&idx=1&sn=c10d4a8d72e645d06d1033c2337f0da4
     - author: 移动端Android和iOS开发技术分享
       release_time: 2025.03.05 07:58:00
       title: 【iOS逆向与安全】在iOS状态栏中实现秒表功能的插件开发指南
