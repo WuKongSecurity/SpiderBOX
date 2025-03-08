@@ -1,10 +1,18 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: DrissionPage
+      release_time: 2025.03.08 06:45:00
+      title: 判断和等待元素存在-DrissionPage官方教程-p15
+      url: https://www.bilibili.com/video/BV1Mk9wYhEXy
     - author: 凛音姫
       release_time: 2025.03.07 18:30:00
       title: 【js逆向练习案例-15】 荔枝网 wasm 纯算
       url: https://www.bilibili.com/video/BV1khRNYbE5r
+    - author: DrissionPage
+      release_time: 2025.03.07 14:10:00
+      title: 元素定位之xpath语法-DrissionPage官方教程-p14
+      url: https://www.bilibili.com/video/BV1Mk9wYhERB
     - author: B站用户骚神
       release_time: 2025.03.06 22:57:56
       title: 精灵球+DP，快速搞定各大电商网站商品信息和评论
@@ -113,14 +121,6 @@
       release_time: 2025.02.25 21:57:45
       title: 第一个案例-DrissionPage官方教程-p4
       url: https://www.bilibili.com/video/BV1fKPqeMESK
-    - author: Alone逆向安全
-      release_time: 2025.02.25 16:39:18
-      title: C++ 基础14讲 分文件编写代码以及注意事项
-      url: https://www.bilibili.com/video/BV1dGPvexE5c
-    - author: Alone逆向安全
-      release_time: 2025.02.25 15:57:57
-      title: C++ 基础12讲  内存四区
-      url: https://www.bilibili.com/video/BV1rLPaeoEbY
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
