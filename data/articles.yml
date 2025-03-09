@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 念初77
+      release_time: 2025.03.09 14:38:01
+      title: 某企业frida反调试快速通杀
+      url: https://www.bilibili.com/video/BV1CMRbYaE1N
+    - author: ShriyGo
+      release_time: 2025.03.08 23:08:25
+      title: AST反混淆-搜狗点选
+      url: https://www.bilibili.com/video/BV1YpRsYiEb9
     - author: DrissionPage
       release_time: 2025.03.08 06:45:00
       title: 判断和等待元素存在-DrissionPage官方教程-p15
@@ -113,14 +121,6 @@
       release_time: 2025.02.27 01:20:16
       title: 零基础学C++（16） 面向对象介绍 封装（一）
       url: https://www.bilibili.com/video/BV1cvPJexEKH
-    - author: DrissionPage
-      release_time: 2025.02.26 18:39:40
-      title: 认识基本对象-DrissionPage官方教程-p5
-      url: https://www.bilibili.com/video/BV1ftPLeCEL7
-    - author: DrissionPage
-      release_time: 2025.02.25 21:57:45
-      title: 第一个案例-DrissionPage官方教程-p4
-      url: https://www.bilibili.com/video/BV1fKPqeMESK
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
