@@ -2303,6 +2303,18 @@
           logo: gh_bb0763730675.jpg
           qrcode: images/qrcode/gh_bb0763730675.jpg
           description: 公众号：小白技术社
+        - title: 小鱼神1024
+          logo: studypy.jpg
+          url: https://studypy.blog.csdn.net/
+          description: 小鱼神1024的 CSDN 主页
+        - title: 知一Tracer
+          logo: gh_2b9089a430e7.jpg
+          qrcode: images/qrcode/gh_2b9089a430e7.jpg
+          description: 公众号：知一Tracer
+        - title: Millder He
+          logo: gh_162a86a090c4.jpg
+          qrcode: images/qrcode/gh_162a86a090c4.jpg
+          description: 公众号：Millder He
         - title: K哥爬虫
           logo: kgepachong.jpg
           qrcode: images/qrcode/kgepachong.jpg
@@ -2756,6 +2768,10 @@
           logo: zsxq.png
           url: https://t.zsxq.com/gmFWu
           description: 零点大佬的知识星球，js逆向、补环境、jsvmp编译、浏览器环境检测，Node编译/Chromium编译等
+        - title: 知一Tracer知识星球
+          logo: zsxq.png
+          url: https://t.zsxq.com/qjlfm
+          description: 专注 Jsvmp 及 Wasm 的算法还原，分享海外爬虫技术方案与反爬对抗思路!
 
 - taxonomy: 人工智能
   icon: fas fa-robot fa-lg
