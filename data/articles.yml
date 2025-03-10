@@ -259,6 +259,10 @@
       release_time: 2025.03.10 11:16:00
       title: 【入门】青某汇web逆向
       url: https://www.52pojie.cn/thread-2013037-1-1.html
+    - author: Redmaplesoka
+      release_time: 2025.03.08 22:13:00
+      title: 记录破解某灰产软件
+      url: https://www.52pojie.cn/thread-2012725-1-1.html
     - author: 就往丶
       release_time: 2025.03.08 00:28:00
       title: 药某局 webpack js逆向扣代码
@@ -363,10 +367,6 @@
       release_time: 2025.02.18 21:19:00
       title: 学破解第214天，《恭喜你获得广告&弹窗静默卡》学习
       url: https://www.52pojie.cn/thread-2007496-1-1.html
-    - author: t00t00
-      release_time: 2025.02.18 15:27:00
-      title: 深度揭秘：全仿 Telegram 诈骗软件的幕后技术链条
-      url: https://www.52pojie.cn/thread-2007380-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
