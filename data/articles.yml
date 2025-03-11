@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: 2025.03.11 13:44:32
+      title: IDA技巧（119）强制调用类型
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485499&idx=1&sn=777f56ae8d37320d4f31cee133a15e24
     - author: SpiderLittleWhite
       release_time: 2025.03.11 12:19:55
       title: 【JS逆向】某土地市场网逆向分析
@@ -240,10 +244,6 @@
       release_time: 2025.03.07 13:13:04
       title: Android12以上定制版直播机系统为什么卡顿，如何分析卡顿问题，如何解决卡顿问题
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497534&idx=1&sn=e264c6ecc37f401b84bfb55ee9f25514
-    - author: 哆啦安全
-      release_time: 2025.03.07 13:13:04
-      title: Android12以上系统深度定制魔改如何解决安全风控问题
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497534&idx=2&sn=cbf132897bfba05bc48adbe832c55ab5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
