@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.03.12 00:00:00
+      title: 安卓逆向 -- 安卓开发与逆向基础
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038189&idx=1&sn=2c850f87849281dd051f7e99825a145d
     - author: 哆啦安全
       release_time: 2025.03.11 21:51:22
       title: Android11至15源码下载篇(云真机)
@@ -240,10 +244,6 @@
       release_time: 2025.03.08 09:00:00
       title: JS逆向系列18-格式化检测与绕过
       url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485491&idx=1&sn=45669c1d59bd54b8acf1863bd5e00b44
-    - author: LLLibra146
-      release_time: 2025.03.08 00:04:49
-      title: Android/Linux不安装证书不设置代理如何抓包？
-      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247485754&idx=1&sn=56c51083fd63c3310b3d06c53f00a4cf
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
