@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: SpiderLittleWhite
+      release_time: 2025.03.11 12:19:55
+      title: 【JS逆向】某土地市场网逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=Mzk1NzkzMzQyOA==&mid=2247483717&idx=1&sn=d022855e2455bad1b33aaa7a88b99237
     - author: Spade sec
       release_time: 2025.03.11 09:00:00
       title: 探索挖掘xss中括号被转义的绕过措施(续)
@@ -140,6 +144,10 @@
       release_time: 2025.03.10 22:26:21
       title: FRAUDAR算法，众包刷单刷量欺诈的终结者之3（算法实战）
       url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196834&idx=1&sn=fc81e5be7608665120a322787a0bab29
+    - author: 吾爱破解论坛
+      release_time: 2025.03.10 16:47:06
+      title: 【开放注册公告】吾爱破解论坛2025年3月13日十七周年开放注册公告
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141917&idx=1&sn=65493cc50c40dd3e0960cfdea555fe33
     - author: 小白技术社
       release_time: 2025.03.10 14:11:57
       title: 某自研长视频sig13-ios算法Chomper调用
@@ -236,14 +244,6 @@
       release_time: 2025.03.07 13:13:04
       title: Android12以上系统深度定制魔改如何解决安全风控问题
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497534&idx=2&sn=cbf132897bfba05bc48adbe832c55ab5
-    - author: 哆啦安全
-      release_time: 2025.03.07 13:13:04
-      title: 智能网联汽车安全漏洞研究
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497534&idx=3&sn=57d088b781fa5e6fad18fb7c7cd386a2
-    - author: 吾爱破解论坛
-      release_time: 2025.03.06 17:16:56
-      title: 【开放注册公告】吾爱破解论坛2025年3月13日十七周年开放注册公告
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141850&idx=1&sn=7f2cdc72f2748ba4ccb5776257be544d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
