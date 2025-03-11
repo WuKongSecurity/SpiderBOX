@@ -5,6 +5,10 @@
       release_time: 2025.03.10 15:25:00
       title: iframe元素定位-DrissionPage官方教程-p17
       url: https://www.bilibili.com/video/BV1nf9wYSEcf
+    - author: B站用户骚神
+      release_time: 2025.03.10 14:21:20
+      title: 骚神插件9.6.3 瞬间生成自动填表代码
+      url: https://www.bilibili.com/video/BV1nJRgYGEpF
     - author: DrissionPage
       release_time: 2025.03.09 15:25:00
       title: 定位多个元素-DrissionPage官方教程-p16
@@ -117,10 +121,6 @@
       release_time: 2025.02.27 12:58:56
       title: 零基础学C++（19）拷贝构造函数及其调用时机
       url: https://www.bilibili.com/video/BV1UPPpeVED1
-    - author: Alone逆向安全
-      release_time: 2025.02.27 12:54:36
-      title: 零基础学C++（18）构造函数析构函数分类调用
-      url: https://www.bilibili.com/video/BV1UPPpeVERh
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
