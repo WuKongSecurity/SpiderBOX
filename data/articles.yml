@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜狗学逆向
+      release_time: 2025.03.12 00:11:04
+      title: 阿卡迈dvs算法(三）
+      url: https://mp.weixin.qq.com/s?__biz=MzU2MzgwOTg2Ng==&mid=2247483724&idx=1&sn=fd27d68f69ae7618fbe1b80bdba020fd
     - author: 逆向有你
       release_time: 2025.03.12 00:00:00
       title: 安卓逆向 -- 安卓开发与逆向基础
@@ -240,10 +244,6 @@
       release_time: 2025.03.08 09:07:02
       title: 部署DeepSeek不同参数规模的大模型需要差异化的硬件配置(配置选择方法)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497550&idx=2&sn=71dc34ce2638f80dc62b80939d9b49e8
-    - author: Spade sec
-      release_time: 2025.03.08 09:00:00
-      title: JS逆向系列18-格式化检测与绕过
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485491&idx=1&sn=45669c1d59bd54b8acf1863bd5e00b44
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
