@@ -2,6 +2,14 @@
   list:
   - links:
     - author: DrissionPage
+      release_time: 2025.03.11 20:10:00
+      title: shadow-root定位-DrissionPage官方教程-p18
+      url: https://www.bilibili.com/video/BV1Ff9wYSEVQ
+    - author: 念初77
+      release_time: 2025.03.10 21:26:55
+      title: 魔改版serve
+      url: https://www.bilibili.com/cheese/play/ss193940457
+    - author: DrissionPage
       release_time: 2025.03.10 15:25:00
       title: iframe元素定位-DrissionPage官方教程-p17
       url: https://www.bilibili.com/video/BV1nf9wYSEcf
@@ -113,14 +121,6 @@
       release_time: 2025.02.27 17:15:23
       title: 零基础学C++（21）构造函数初始化列表与静态成员
       url: https://www.bilibili.com/video/BV16z9cYCEH2
-    - author: Alone逆向安全
-      release_time: 2025.02.27 16:16:13
-      title: 零基础学C++（20）深拷贝与浅拷贝
-      url: https://www.bilibili.com/video/BV12T9wYsE77
-    - author: Alone逆向安全
-      release_time: 2025.02.27 12:58:56
-      title: 零基础学C++（19）拷贝构造函数及其调用时机
-      url: https://www.bilibili.com/video/BV1UPPpeVED1
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
