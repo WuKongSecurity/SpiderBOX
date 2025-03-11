@@ -39,6 +39,7 @@
       url: https://www.qg.net/product/proxyip.html?website=spiderbox
       image: images/ads/qg_593x67.jpg
       description: 国内领先的企业级代理IP服务商
+      track: ad_qgy
 
     - title: MDN Web API
       logo: mozilla.png
@@ -62,6 +63,7 @@
       url: https://qm.qq.com/q/lTE6iG0hGM
       image: images/ads/ad_tslm.jpg
       description: 国内领先的企业级代理IP服务商
+      track: ad_tslm
 
     - title: IP Checks
       logo: icanhazip.png
@@ -85,6 +87,7 @@
       url: https://get.brightdata.com/proxyb
       image: images/ads/lsj_1779x201.png
       description: Bright Data 亮数据，使用全球最大的 IP 网络，利用内置的抓取和解锁功能获得访问权，并简化数据提取
+      track: ad_brightdata
 
 #    - title: 站长微信公众号
 #      logo: bob.jpg

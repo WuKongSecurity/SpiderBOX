@@ -15,7 +15,7 @@ const string = function () {
     */
 };
 console.log(makeMulti(string), "color: #0084ff");
-console.log("\n %c © BOB'S BLOG %c itbob.cn %c © SpiderBox %c spiderbox.cn %c © WebStack %c webstack.cc \n", "color: #fadfa3; background: #030307; padding:5px 0;", "background: #fadfa3; padding:5px 0;", "color: #ffffff; background: #0084ff; padding:5px 0;", "background: #fadfa3; padding:5px 0;", "color: #ffffff; background: #f1404b; padding:5px 0;", "background: #fadfa3; padding:5px 0;");
+console.log("\n %c © WuKongSec %c wukongsec.com %c © BOB'S BLOG %c itbob.cn %c © SpiderBox %c spiderbox.cn \n", "color: #ffffff; background: #f1404b; padding:5px 0;", "background: #fadfa3; padding:5px 0;", "color: #fadfa3; background: #030307; padding:5px 0;", "background: #fadfa3; padding:5px 0;", "color: #ffffff; background: #0084ff; padding:5px 0;", "background: #fadfa3; padding:5px 0;");
 
 /* 弹窗一：say hello baby */
 // $(document).ready(function () {

@@ -76,7 +76,7 @@
                 <div class="col-12 col-sm-6 col-md-4">
                 <div class="card">
                     {{ if .url }}
-                    <a href="{{ .url }}" target="_blank" data-url="{{ .url }}">
+                    <a href="{{ .url }}" target="_blank" data-url="{{ .url }}" onclick="LA.track('{{ .track }}');">
                         <img src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ .image }}" class="card-img-top" alt="{{ .description }}">
                     </a>
                     {{ else }}
