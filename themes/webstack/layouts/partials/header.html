@@ -43,7 +43,7 @@
     <!-- 51.LA 网站统计 -->
     {{ with .Site.Params.seo.tj51laid }}
     <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
-    <script>LA.init({id:"{{ $.Site.Params.seo.tj51laid }}",ck:"{{ $.Site.Params.seo.tj51lack }}"})</script>    
+    <script>LA.init({id:"{{ $.Site.Params.seo.tj51laid }}",ck:"{{ $.Site.Params.seo.tj51lack }}",autoTrack:true})</script>
     {{ end }} 
     <!-- end 51.LA 网站统计 -->
 
