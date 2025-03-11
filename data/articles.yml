@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Spade sec
+      release_time: 2025.03.11 09:00:00
+      title: 探索挖掘xss中括号被转义的绕过措施(续)
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485509&idx=1&sn=366fe7ce9d30e1676cd0808b84eb3ad4
     - author: 逆向有你
       release_time: 2025.03.11 00:00:00
       title: 安卓逆向 -- Java与smali基础
@@ -144,6 +148,10 @@
       release_time: 2025.03.10 13:16:36
       title: 车载Android系统加固深入浅出
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497558&idx=1&sn=1eb910bbd08ece0c4ac1f51891fd8d77
+    - author: LLLibra146
+      release_time: 2025.03.10 12:43:37
+      title: JS逆向之快速定位关键参数通用hook脚本
+      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247485774&idx=1&sn=8956d51ed2bc3d5a1e3a4141d3c67bac
     - author: 逆向与爬虫的故事
       release_time: 2025.03.10 09:00:00
       title: 看雪自动挂等级揭秘：让账号升级不再靠熬！
@@ -196,6 +204,10 @@
       release_time: 2025.03.08 09:00:00
       title: JS逆向系列18-格式化检测与绕过
       url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485491&idx=1&sn=45669c1d59bd54b8acf1863bd5e00b44
+    - author: LLLibra146
+      release_time: 2025.03.08 00:04:49
+      title: Android/Linux不安装证书不设置代理如何抓包？
+      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247485754&idx=1&sn=56c51083fd63c3310b3d06c53f00a4cf
     - author: 逆向有你
       release_time: 2025.03.08 00:00:00
       title: 安卓逆向 -- 广告静默卡
@@ -228,18 +240,6 @@
       release_time: 2025.03.07 13:13:04
       title: 智能网联汽车安全漏洞研究
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497534&idx=3&sn=57d088b781fa5e6fad18fb7c7cd386a2
-    - author: 菜狗学逆向
-      release_time: 2025.03.07 00:41:03
-      title: 阿卡迈dvs算法(一）
-      url: https://mp.weixin.qq.com/s?__biz=MzU2MzgwOTg2Ng==&mid=2247483707&idx=1&sn=f8c082c723141641f0417d13a28bcc2b
-    - author: 知一Tracer
-      release_time: 2025.03.06 22:56:55
-      title: 万达电影Wasm纯算+补环境
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMTUwNTA3Ng==&mid=2247483953&idx=1&sn=4cd91b7c0a9bd29c7b4636e2f29a1939
-    - author: 知一Tracer
-      release_time: 2025.03.06 22:51:34
-      title: Tk上网环境及抓包配置
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMTUwNTA3Ng==&mid=2247483952&idx=1&sn=d00c8363b1ba03a4333b9c38e6c3f508
     - author: 吾爱破解论坛
       release_time: 2025.03.06 17:16:56
       title: 【开放注册公告】吾爱破解论坛2025年3月13日十七周年开放注册公告
