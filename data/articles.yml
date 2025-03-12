@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2025.03.12 22:48:02
+      title: 纯血deepseek-r1-14b榨干4块并行GPU及双路CPU所有内存
+      url: https://www.bilibili.com/video/BV1x3QWY5EhB
     - author: DrissionPage
       release_time: 2025.03.11 20:10:00
       title: shadow-root定位-DrissionPage官方教程-p18
@@ -117,10 +121,6 @@
       release_time: 2025.02.27 20:56:45
       title: 浏览器打开、关闭-DrissionPage官方教程-p6
       url: https://www.bilibili.com/video/BV1939AY6Et1
-    - author: Alone逆向安全
-      release_time: 2025.02.27 17:15:23
-      title: 零基础学C++（21）构造函数初始化列表与静态成员
-      url: https://www.bilibili.com/video/BV16z9cYCEH2
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
