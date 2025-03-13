@@ -1,10 +1,26 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 一只勇敢的小佳
+      release_time: 2025.03.13 22:26:34
+      title: stalkercpp版本的trace工具使用，小佳的开源trace工具！！！
+      url: https://www.bilibili.com/video/BV1LdQPYkEgU
+    - author: 一只勇敢的小佳
+      release_time: 2025.03.13 22:07:02
+      title: zygisk编译，带你编译自己的第一个zygisk！！！
+      url: https://www.bilibili.com/video/BV1yqQPYRE44
+    - author: DrissionPage
+      release_time: 2025.03.13 16:20:00
+      title: 模拟键盘操作-DrissionPage官方教程-p20
+      url: https://www.bilibili.com/video/BV1cZ9wYnEkV
     - author: r0ysue
       release_time: 2025.03.12 22:48:02
       title: 纯血deepseek-r1-14b榨干4块并行GPU及双路CPU所有内存
       url: https://www.bilibili.com/video/BV1x3QWY5EhB
+    - author: DrissionPage
+      release_time: 2025.03.12 14:20:00
+      title: 窗口大小和位置设置-DrissionPage官方教程-p19
+      url: https://www.bilibili.com/video/BV1cZ9wYnE7e
     - author: DrissionPage
       release_time: 2025.03.11 20:10:00
       title: shadow-root定位-DrissionPage官方教程-p18
@@ -105,25 +121,13 @@
       release_time: 2025.02.28 20:10:00
       title: 浏览器启动设置-DrissionPage官方教程-p7
       url: https://www.bilibili.com/video/BV1Rg9AY3EaT
-    - author: B站用户骚神
-      release_time: 2025.02.28 16:39:46
-      title: DP+猫抓-自动下载各大网站的高清视频
-      url: https://www.bilibili.com/video/BV1JV9uYeEFx
-    - author: 带带弟弟学爬虫
-      release_time: 2025.02.28 14:31:38
-      title: 币coin持仓监控
-      url: https://www.bilibili.com/video/BV1eP9gYbEBi
-    - author: HD236300
-      release_time: 2025.02.28 01:20:54
-      title: 怎样使用京东国家补贴，一些坑和注意事项
-      url: https://www.bilibili.com/video/BV1XE9NYCEVZ
-    - author: DrissionPage
-      release_time: 2025.02.27 20:56:45
-      title: 浏览器打开、关闭-DrissionPage官方教程-p6
-      url: https://www.bilibili.com/video/BV1939AY6Et1
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 榫卯江湖
+      release_time: 2025.03.14 01:03:34
+      title: 微软AIOpsLab：构建面向治云的智能体
+      url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485096&idx=1&sn=83376e741f29b8039aa05e93d769c0c3
     - author: 逆向有你
       release_time: 2025.03.14 00:00:00
       title: 安卓逆向 -- 加解密算法与Hook基础
@@ -240,10 +244,6 @@
       release_time: 2025.03.10 09:00:00
       title: 看雪自动挂等级揭秘：让账号升级不再靠熬！
       url: https://mp.weixin.qq.com/s?__biz=Mzg5ODA3OTM1NA==&mid=2247493673&idx=1&sn=0ebbb588e3663c426690a756fc29f0ef
-    - author: 未闻Code
-      release_time: 2025.03.10 08:48:10
-      title: 不要盲目再使用DeepSeek R1和QWQ这些推理模型做RAG了
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990149&idx=1&sn=1e0fa4faf49d76e3d7dc91195740e08a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
