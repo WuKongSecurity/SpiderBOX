@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 奋飞安全
+      release_time: 2025.03.14 07:47:07
+      title: 结合AI对WhatsApp的分析 (一)
+      url: https://mp.weixin.qq.com/s?__biz=MzI4NzMwNDI3OQ==&mid=2247484956&idx=1&sn=149d000bd587d4b98b985bc93af92ab5
     - author: 榫卯江湖
       release_time: 2025.03.14 01:03:34
       title: 微软AIOpsLab：构建面向治云的智能体
@@ -240,10 +244,6 @@
       release_time: 2025.03.10 12:43:37
       title: JS逆向之快速定位关键参数通用hook脚本
       url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247485774&idx=1&sn=8956d51ed2bc3d5a1e3a4141d3c67bac
-    - author: 逆向与爬虫的故事
-      release_time: 2025.03.10 09:00:00
-      title: 看雪自动挂等级揭秘：让账号升级不再靠熬！
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5ODA3OTM1NA==&mid=2247493673&idx=1&sn=0ebbb588e3663c426690a756fc29f0ef
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
