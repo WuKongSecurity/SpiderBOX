@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.03.13 17:44:00
+      title: AST反混淆插件|超复杂的逻辑表达式转if语句
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565804&idx=1&sn=31130c29cdd66f7f9d11aa42ae468553
     - author: 哆啦安全
       release_time: 2025.03.13 14:04:14
       title: Android15系统定制自定义系统服务的完整流程及代码实现
@@ -240,10 +244,6 @@
       release_time: 2025.03.09 18:49:51
       title: FRAUDAR算法，众包刷单刷量欺诈的终结者之2（算法详解）
       url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196826&idx=1&sn=e74f8015a2e856c8bc3968e771539f2e
-    - author: 二进制磨剑
-      release_time: 2025.03.09 13:59:41
-      title: AI 造 AI：用自然语言构建网络安全 Agent | 网络安全智能体 | 智能体技术
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485498&idx=1&sn=284032e419abc912c590a51e65fecc01
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
