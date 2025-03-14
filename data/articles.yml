@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.03.14 09:13:23
+      title: Ubuntu不正常关机后进入initramfs导致无法开机(解决方法)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497588&idx=1&sn=633ac588ecbc12ce0793d7646af381f9
+    - author: 逆向与爬虫的故事
+      release_time: 2025.03.14 08:30:00
+      title: 简单粗暴，推荐几个安全公众号！
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5ODA3OTM1NA==&mid=2247493682&idx=1&sn=c803196b041d5617e9f5da00eb6a67b7
     - author: 奋飞安全
       release_time: 2025.03.14 07:47:07
       title: 结合AI对WhatsApp的分析 (一)
@@ -236,14 +244,6 @@
       release_time: 2025.03.10 14:11:57
       title: 某自研长视频sig13-ios算法Chomper调用
       url: https://mp.weixin.qq.com/s?__biz=MzI4NTE1NDMwMA==&mid=2247485268&idx=1&sn=517c6de55dfc2c0c457885876a3bd08a
-    - author: 哆啦安全
-      release_time: 2025.03.10 13:16:36
-      title: 车载Android系统加固深入浅出
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497558&idx=1&sn=1eb910bbd08ece0c4ac1f51891fd8d77
-    - author: LLLibra146
-      release_time: 2025.03.10 12:43:37
-      title: JS逆向之快速定位关键参数通用hook脚本
-      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247485774&idx=1&sn=8956d51ed2bc3d5a1e3a4141d3c67bac
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
