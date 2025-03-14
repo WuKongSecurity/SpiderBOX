@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.03.14 17:34:00
+      title: AST反混淆实战|复杂逻辑表达式还原详解
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565811&idx=1&sn=e280d29d812900b063dce2bbac390185
     - author: 哆啦安全
       release_time: 2025.03.14 09:13:23
       title: Ubuntu不正常关机后进入initramfs导致无法开机(解决方法)
@@ -240,10 +244,6 @@
       release_time: 2025.03.10 16:47:06
       title: 【开放注册公告】吾爱破解论坛2025年3月13日十七周年开放注册公告
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141917&idx=1&sn=65493cc50c40dd3e0960cfdea555fe33
-    - author: 小白技术社
-      release_time: 2025.03.10 14:11:57
-      title: 某自研长视频sig13-ios算法Chomper调用
-      url: https://mp.weixin.qq.com/s?__biz=MzI4NTE1NDMwMA==&mid=2247485268&idx=1&sn=517c6de55dfc2c0c457885876a3bd08a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
