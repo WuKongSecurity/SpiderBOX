@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.03.14 09:27:23
+      title: FastAPI+ddddocr,打造你自己的本地打码服务器
+      url: https://www.bilibili.com/video/BV1vxQgY4Ed1
     - author: 冷月不是程序员
       release_time: 2025.03.14 00:21:28
       title: Vim使用心得和一些技巧分享
@@ -117,10 +121,6 @@
       release_time: 2025.03.01 20:15:00
       title: 标签页打开、关闭-DrissionPage官方教程-p8
       url: https://www.bilibili.com/video/BV1a59AYzE9C
-    - author: B站用户骚神
-      release_time: 2025.03.01 15:37:33
-      title: 油猴+Dp，任意网页自动执行你的私人脚本
-      url: https://www.bilibili.com/video/BV1YaXDYBEqr
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: qq_39802740
+      release_time: 2025.03.14 10:02:44
+      title: 某团mtgsig1.1 && H5guard加密算法剖析
+      url: https://blog.csdn.net/qq_39802740/article/details/146249544
     - author: 悦来客栈的老板
       release_time: 2025.03.13 17:44:45
       title: AST反混淆插件|超复杂的逻辑表达式转if语句
@@ -487,10 +491,6 @@
       release_time: 2025.03.07 11:48:34
       title: '[原创]Android逆向0基础入门-APK全面解析,动调与脱壳'
       url: https://bbs.kanxue.com/thread-285906.htm
-    - author: 狗都不学爬虫_
-      release_time: 2025.03.07 11:28:30
-      title: JS逆向入门案例-x程滑块、点选验证码+登录+phantom-token -17
-      url: https://blog.csdn.net/qq_53444631/article/details/146088077
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
