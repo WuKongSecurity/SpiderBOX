@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.03.15 00:00:00
+      title: 安卓逆向 -- JNI开发与so层逆向基础
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038290&idx=1&sn=a2faa6bb63e2e90faa2da4dbf44009a3
+    - author: 哆啦安全
+      release_time: 2025.03.15 00:00:00
+      title: Android11至15源码编译篇(云真机)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497634&idx=2&sn=35504e20538ecb303a10896f7ed36440
+    - author: 哆啦安全
+      release_time: 2025.03.15 00:00:00
+      title: 车载Android系统(Android Automotive OS)源码结构和核心接口及代码路径
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497634&idx=3&sn=13d5970cbaea72708ebeda37011ddafd
     - author: LuckyFuture
       release_time: 2025.03.14 18:18:00
       title: JavaScript toString 检测对抗
@@ -232,18 +244,6 @@
       release_time: 2025.03.11 12:19:55
       title: 【JS逆向】某土地市场网逆向分析
       url: https://mp.weixin.qq.com/s?__biz=Mzk1NzkzMzQyOA==&mid=2247483717&idx=1&sn=d022855e2455bad1b33aaa7a88b99237
-    - author: Spade sec
-      release_time: 2025.03.11 09:00:00
-      title: 探索挖掘xss中括号被转义的绕过措施(续)
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485509&idx=1&sn=366fe7ce9d30e1676cd0808b84eb3ad4
-    - author: 逆向有你
-      release_time: 2025.03.11 00:00:00
-      title: 安卓逆向 -- Java与smali基础
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038165&idx=1&sn=8315e1c1725a8261cec2185819200ff1
-    - author: js 安卓 iOS逆向
-      release_time: 2025.03.10 23:27:56
-      title: 某大厂风控sdk vmp算法分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0NzU3MjQzNA==&mid=2247485513&idx=1&sn=9e45b45af897ab09797e57ea61b6de05
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
