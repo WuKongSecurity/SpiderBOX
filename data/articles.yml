@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: LuckyFuture
+      release_time: 2025.03.14 18:18:00
+      title: JavaScript toString 检测对抗
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNDE3NjY0OA==&mid=2247484321&idx=1&sn=c0786635e1be65e02268730a7b9a5cf2
     - author: 菜鸟学Python编程
       release_time: 2025.03.14 17:34:00
       title: AST反混淆实战|复杂逻辑表达式还原详解
@@ -240,10 +244,6 @@
       release_time: 2025.03.10 22:26:21
       title: FRAUDAR算法，众包刷单刷量欺诈的终结者之3（算法实战）
       url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196834&idx=1&sn=fc81e5be7608665120a322787a0bab29
-    - author: 吾爱破解论坛
-      release_time: 2025.03.10 16:47:06
-      title: 【开放注册公告】吾爱破解论坛2025年3月13日十七周年开放注册公告
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141917&idx=1&sn=65493cc50c40dd3e0960cfdea555fe33
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
