@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.03.15 23:35:49
+      title: 一日一技：315晚会曝光的获客软件是什么原理
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990171&idx=1&sn=3c57dc7ec03f70001f7ca9acb3dceab4
     - author: LLLibra146
       release_time: 2025.03.15 22:41:49
       title: 使用AI大模型实现可以提取任意信息的通用爬虫
@@ -240,10 +244,6 @@
       release_time: 2025.03.11 19:55:54
       title: 用好DeepSeek-VL2的心法，就在上交大ACM班俞勇教授团队的这本新书里
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990155&idx=1&sn=721b492239752f8639e6babcf81d6d14
-    - author: 季东ooo
-      release_time: 2025.03.11 19:41:57
-      title: 瑞幸咖啡APP-白盒AES与MD5相关参数分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjczODUwMw==&mid=2247484342&idx=1&sn=b4996d9c84077d3ca42303fbc962fb89
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
