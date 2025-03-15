@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: paditianxiu
+      release_time: 2025.03.15 01:53:00
+      title: 某绿色聊天软件添加长按菜单
+      url: https://www.52pojie.cn/thread-2014747-1-1.html
     - author: 就往丶
       release_time: 2025.03.10 15:08:00
       title: 【小程序】绝味鸭脖 xmSign参数逆向
@@ -363,10 +367,6 @@
       release_time: 2025.02.19 11:21:00
       title: unidbg 0.9.8 解决java高版本anjuke示例代码空指针异常问题
       url: https://www.52pojie.cn/thread-2007624-1-1.html
-    - author: 小菜鸟一枚
-      release_time: 2025.02.18 21:19:00
-      title: 学破解第214天，《恭喜你获得广告&弹窗静默卡》学习
-      url: https://www.52pojie.cn/thread-2007496-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
