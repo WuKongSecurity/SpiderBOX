@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: littlewhite11
+      release_time: 2025.03.15 18:44:00
+      title: 【JS逆向】某审批局加解密逆向分析
+      url: https://www.52pojie.cn/thread-2014994-1-1.html
     - author: 我是不会改名的
       release_time: 2025.03.15 14:38:00
       title: 某邮箱"XMTLS" 实现简要分析
@@ -363,10 +367,6 @@
       release_time: 2025.02.22 02:23:00
       title: 关于libmsaoaidsec.so反Frida
       url: https://www.52pojie.cn/thread-2008459-1-1.html
-    - author: 小菜鸟一枚
-      release_time: 2025.02.20 20:44:00
-      title: 学破解第215天，《动态调试&Log插桩》失败学习
-      url: https://www.52pojie.cn/thread-2008097-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
