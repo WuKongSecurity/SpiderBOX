@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: SpiderLittleWhite
+      release_time: 2025.03.15 19:02:08
+      title: 【JS逆向】某审批局加解密逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=Mzk1NzkzMzQyOA==&mid=2247483752&idx=1&sn=f051b7ae467e789d5c5a755f4b901966
     - author: 吾爱破解论坛
       release_time: 2025.03.15 09:20:00
       title: 2024 CISCN x 长城杯 初赛逆向0解题-VT 解题全流程
@@ -240,10 +244,6 @@
       release_time: 2025.03.11 17:22:00
       title: AST反混淆插件|重命名所有含非ASCII码标识符的插件
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565796&idx=1&sn=6ccb77691f933adc46d1a877a8e7a026
-    - author: 二进制磨剑
-      release_time: 2025.03.11 13:44:32
-      title: IDA技巧（119）强制调用类型
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485499&idx=1&sn=777f56ae8d37320d4f31cee133a15e24
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
