@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.03.15 09:20:00
+      title: 2024 CISCN x 长城杯 初赛逆向0解题-VT 解题全流程
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141964&idx=1&sn=55e81ec678590ef5a0c03ab498d557fd
     - author: 逆向有你
       release_time: 2025.03.15 00:00:00
       title: 安卓逆向 -- JNI开发与so层逆向基础
@@ -240,10 +244,6 @@
       release_time: 2025.03.11 13:44:32
       title: IDA技巧（119）强制调用类型
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485499&idx=1&sn=777f56ae8d37320d4f31cee133a15e24
-    - author: SpiderLittleWhite
-      release_time: 2025.03.11 12:19:55
-      title: 【JS逆向】某土地市场网逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzk1NzkzMzQyOA==&mid=2247483717&idx=1&sn=d022855e2455bad1b33aaa7a88b99237
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
