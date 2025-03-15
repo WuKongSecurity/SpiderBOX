@@ -374,6 +374,10 @@
       release_time: 2025.03.14 19:32:10
       title: '[原创]一种防止app inline hook自身的思路及其实现'
       url: https://bbs.kanxue.com/thread-286031.htm
+    - author: 海带
+      release_time: 2025.03.14 17:03:56
+      title: '[原创]某加固onCreate的vmp分析'
+      url: https://bbs.kanxue.com/thread-286006.htm
     - author: 逆向新手
       release_time: 2025.03.14 13:59:32
       title: js逆向-一个不一样的验证码
@@ -422,6 +426,10 @@
       release_time: 2025.03.11 17:22:33
       title: AST反混淆插件|重命名所有含非ASCII码标识符的插件
       url: https://blog.csdn.net/qq523176585/article/details/146194179
+    - author: xianyuuuan
+      release_time: 2025.03.11 17:03:56
+      title: '[原创]从Java到Native，so中的函数是如何一步步被加载的？'
+      url: https://bbs.kanxue.com/thread-285950.htm
     - author: CgfFan
       release_time: 2025.03.11 15:54:49
       title: 某验四代滑块验证码参数逆向分析
@@ -483,14 +491,6 @@
       release_time: 2025.03.09 01:12:29
       title: '[原创]Web安全入门-网络资源的访问-URL'
       url: https://bbs.kanxue.com/thread-285924.htm
-    - author: 扁舟·TF
-      release_time: 2025.03.09 00:26:17
-      title: python 在进程中动态加载模块
-      url: https://blog.csdn.net/weixin_44791631/article/details/146125614
-    - author: 逆向新手
-      release_time: 2025.03.08 18:53:50
-      title: js逆向-某网站cookies生成逻辑分析_2025-03-08
-      url: https://blog.csdn.net/weixin_46672080/article/details/146120588
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
