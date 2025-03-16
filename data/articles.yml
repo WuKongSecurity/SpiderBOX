@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 和沐阳学逆向
+      release_time: 2025.03.16 22:25:10
+      title: 57.iOS逆向教程——越狱及逆向环境搭建
+      url: https://www.bilibili.com/video/BV1xWQaYMEhs
     - author: B站用户骚神
       release_time: 2025.03.14 09:27:23
       title: FastAPI+ddddocr,打造你自己的本地打码服务器
@@ -117,10 +121,6 @@
       release_time: 2025.03.02 15:46:57
       title: 骚神插件9.6.2新功能-一键生成登录代码
       url: https://www.bilibili.com/video/BV1h19bYVEXT
-    - author: DrissionPage
-      release_time: 2025.03.01 20:15:00
-      title: 标签页打开、关闭-DrissionPage官方教程-p8
-      url: https://www.bilibili.com/video/BV1a59AYzE9C
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
