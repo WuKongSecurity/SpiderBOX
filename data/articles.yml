@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.03.16 08:46:00
+      title: 2024 CISCN x 长城杯初赛Reverse赛题vt Writeup——攻城攻心的混淆大师
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142000&idx=1&sn=fae5121cf1dc1a7e0a405e6a92ccb36e
     - author: 未闻Code
       release_time: 2025.03.15 23:35:49
       title: 一日一技：315晚会曝光的获客软件是什么原理
@@ -240,10 +244,6 @@
       release_time: 2025.03.11 21:20:07
       title: 我的b站破50w播放量啦~(^∇^*)~
       url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494002&idx=1&sn=6a0a43720fd62bd0eb4199ee0485dafd
-    - author: 未闻Code
-      release_time: 2025.03.11 19:55:54
-      title: 用好DeepSeek-VL2的心法，就在上交大ACM班俞勇教授团队的这本新书里
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990155&idx=1&sn=721b492239752f8639e6babcf81d6d14
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
