@@ -247,10 +247,22 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: pwp
+      release_time: 2025.03.16 17:09:00
+      title: 某专业技术人员继续教育平台登录分析及模拟实践
+      url: https://www.52pojie.cn/thread-2015289-1-1.html
+    - author: joekerr47
+      release_time: 2025.03.16 15:19:00
+      title: '[学习笔记]JS逆向-控制台反调试使用的常见三种方式及hook思路'
+      url: https://www.52pojie.cn/thread-2015243-1-1.html
     - author: 就往丶
       release_time: 2025.03.16 15:10:00
       title: 【web逆向】优某愿 字体反混淆
       url: https://www.52pojie.cn/thread-2015241-1-1.html
+    - author: asone917
+      release_time: 2025.03.15 21:03:00
+      title: js逆向之某云模拟登录（DES算法）
+      url: https://www.52pojie.cn/thread-2015025-1-1.html
     - author: littlewhite11
       release_time: 2025.03.15 18:44:00
       title: 【JS逆向】某审批局加解密逆向分析
@@ -263,6 +275,10 @@
       release_time: 2025.03.15 14:38:00
       title: 某邮箱"XMTLS" 实现简要分析
       url: https://www.52pojie.cn/thread-2014899-1-1.html
+    - author: li083m
+      release_time: 2025.03.15 11:23:00
+      title: 某音滑块captchaBody分析
+      url: https://www.52pojie.cn/thread-2014831-1-1.html
     - author: 就往丶
       release_time: 2025.03.15 11:00:00
       title: js过反调试
@@ -351,22 +367,6 @@
       release_time: 2025.03.01 15:34:00
       title: 简单探索一下 Simply Piano 的激活机制
       url: https://www.52pojie.cn/thread-2010555-1-1.html
-    - author: chenchenchen777
-      release_time: 2025.02.28 16:52:00
-      title: Android  SO文件加载过程探究
-      url: https://www.52pojie.cn/thread-2010329-1-1.html
-    - author: Doratmon
-      release_time: 2025.02.28 11:19:00
-      title: 2025春节红包之Android中级题Writeup
-      url: https://www.52pojie.cn/thread-2010207-1-1.html
-    - author: pxfsim
-      release_time: 2025.02.27 21:48:00
-      title: 某图，瑞数6补环境
-      url: https://www.52pojie.cn/thread-2010081-1-1.html
-    - author: hybpjx
-      release_time: 2025.02.26 17:02:00
-      title: Akamai某环境VMP算法分析
-      url: https://www.52pojie.cn/thread-2009699-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
