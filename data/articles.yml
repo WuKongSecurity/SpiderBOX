@@ -390,6 +390,10 @@
       release_time: 2025.03.14 19:32:10
       title: '[原创]一种防止app inline hook自身的思路及其实现'
       url: https://bbs.kanxue.com/thread-286031.htm
+    - author: 悦来客栈的老板
+      release_time: 2025.03.14 17:34:26
+      title: AST反混淆实战|复杂逻辑表达式还原详解
+      url: https://blog.csdn.net/qq523176585/article/details/146323011
     - author: 海带
       release_time: 2025.03.14 17:03:56
       title: '[原创]某加固onCreate的vmp分析'
@@ -487,10 +491,6 @@
       title: '[转帖]We can pull the DB of any website you want. Send the site and we
         will pull it..'
       url: https://bbs.kanxue.com/thread-285934.htm
-    - author: nianchu
-      release_time: 2025.03.09 19:49:51
-      title: '[分享]某邦企业壳frida检测绕过'
-      url: https://bbs.kanxue.com/thread-285932.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
