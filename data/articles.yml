@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: LLLibra146
+      release_time: 2025.03.17 13:01:49
+      title: JS逆向实战：某小程序加密请求逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247485947&idx=1&sn=9bc818b4991ae21b005ac1831792cd36
     - author: 逆向有你
       release_time: 2025.03.17 00:00:00
       title: 安卓逆向 -- APK双开、汉化、软件图标修改的实战案例分享
@@ -240,10 +244,6 @@
       release_time: 2025.03.13 00:00:00
       title: 安卓逆向 -- 动态调试以及常规手段
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038239&idx=1&sn=bd9d42b4633c6f16863f074533d957d0
-    - author: 逆向有你
-      release_time: 2025.03.13 00:00:00
-      title: 每日包邮送书活动开启啦！！！
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038239&idx=2&sn=cc6f08a958611dc1c1e3cd5d0038f263
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
