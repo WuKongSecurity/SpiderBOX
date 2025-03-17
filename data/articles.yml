@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.03.17 22:00:39
+      title: Android逆向内核攻防实战
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497654&idx=1&sn=520dda99ebc1c2fa9b87a80ca6f3518c
+    - author: 未闻Code
+      release_time: 2025.03.17 21:57:18
+      title: 让Matplotlib、seaborn图动起来，栩栩如生
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990174&idx=1&sn=6677657a4aa2e3bb6572f7d5f4e24211
     - author: 黑脸怪
       release_time: 2025.03.17 21:18:33
       title: jsvmp纯算法逆向案例  q音sign和携程token
@@ -236,14 +244,6 @@
       release_time: 2025.03.13 17:44:00
       title: AST反混淆插件|超复杂的逻辑表达式转if语句
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565804&idx=1&sn=31130c29cdd66f7f9d11aa42ae468553
-    - author: 哆啦安全
-      release_time: 2025.03.13 14:04:14
-      title: Android15系统定制自定义系统服务的完整流程及代码实现
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497574&idx=1&sn=b17c316ac27805158a54496e778fd9ab
-    - author: 未闻Code
-      release_time: 2025.03.13 09:00:00
-      title: 一日一技：我的Cursor开发经验
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990166&idx=1&sn=89fb629def0b2ba77ad49e32e9572922
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
