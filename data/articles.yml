@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.03.18 00:00:00
+      title: 安卓逆向 -- 动态调试与Log插桩
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038388&idx=1&sn=7e70054dca60e7376f71ea98a2969da2
     - author: 哆啦安全
       release_time: 2025.03.17 22:00:39
       title: Android逆向内核攻防实战
@@ -240,10 +244,6 @@
       release_time: 2025.03.13 21:19:45
       title: 【JS逆向】某漫画网站图片还原逆向
       url: https://mp.weixin.qq.com/s?__biz=Mzk1NzkzMzQyOA==&mid=2247483733&idx=1&sn=0e995f551bc659436ea56185533986b8
-    - author: 菜鸟学Python编程
-      release_time: 2025.03.13 17:44:00
-      title: AST反混淆插件|超复杂的逻辑表达式转if语句
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565804&idx=1&sn=31130c29cdd66f7f9d11aa42ae468553
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
