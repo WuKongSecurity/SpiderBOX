@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 关于代码那点事
+      release_time: 2025.03.17 20:10:56
+      title: 老板zhi聘的干扰节点甄别
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MTg1NzU1NA==&mid=2247486267&idx=1&sn=ffc4599154143c085088059abdcffb80
     - author: LLLibra146
       release_time: 2025.03.17 13:01:49
       title: JS逆向实战：某小程序加密请求逆向分析
@@ -240,10 +244,6 @@
       release_time: 2025.03.13 08:30:00
       title: 【密码学PQC】FrodoKEM算法解读
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491470&idx=1&sn=df093d2cdc7fabd24c84f4757ba6943e
-    - author: 逆向有你
-      release_time: 2025.03.13 00:00:00
-      title: 安卓逆向 -- 动态调试以及常规手段
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038239&idx=1&sn=bd9d42b4633c6f16863f074533d957d0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
