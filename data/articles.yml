@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2025.03.18 22:29:27
+      title: MiniCPMo2.6用llama.cpp进行Q4量化成gguf格式可以跑在iPad上
+      url: https://www.bilibili.com/video/BV199X7Y5E4A
     - author: ShriyGo
       release_time: 2025.03.17 22:38:57
       title: 极验三代点选反混淆
@@ -117,10 +121,6 @@
       release_time: 2025.03.04 19:15:00
       title: 网页保存和截图-DrissionPage官方教程-p11
       url: https://www.bilibili.com/video/BV1uz9wYYEsQ
-    - author: 一只勇敢的小佳
-      release_time: 2025.03.03 19:46:15
-      title: frida检测，内核模块处理，逆向算法百例，各种实战代码
-      url: https://www.bilibili.com/video/BV1P99BYfEZi
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
