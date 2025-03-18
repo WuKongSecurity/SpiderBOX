@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 流星Studio
+      release_time: 2025.03.18 20:17:49
+      title: 某音滑块分析
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjUxNTgyMg==&mid=2247483925&idx=1&sn=934b54347744f5d79b0ea77f0ddfb8e8
     - author: coderwhy
       release_time: 2025.03.18 19:49:44
       title: 朝鲜黑客利用JavaScript盗取加密货币
@@ -240,10 +244,6 @@
       release_time: 2025.03.14 08:30:00
       title: 简单粗暴，推荐几个安全公众号！
       url: https://mp.weixin.qq.com/s?__biz=Mzg5ODA3OTM1NA==&mid=2247493682&idx=1&sn=c803196b041d5617e9f5da00eb6a67b7
-    - author: 奋飞安全
-      release_time: 2025.03.14 07:47:07
-      title: 结合AI对WhatsApp的分析 (一)
-      url: https://mp.weixin.qq.com/s?__biz=MzI4NzMwNDI3OQ==&mid=2247484956&idx=1&sn=149d000bd587d4b98b985bc93af92ab5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
