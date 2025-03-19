@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸡的逆向日记
+      release_time: 2025.03.19 15:13:54
+      title: IDA修复不识别的函数
+      url: https://mp.weixin.qq.com/s?__biz=MzkwNDQzNzQ1Ng==&mid=2247483721&idx=1&sn=1db27148e257cc3cdb5612ce8360db98
     - author: LLLibra146
       release_time: 2025.03.19 12:58:09
       title: 逆向效率翻倍！支持动态Hook+AST解析的浏览器神器
@@ -240,10 +244,6 @@
       release_time: 2025.03.15 00:00:00
       title: 安卓逆向 -- JNI开发与so层逆向基础
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038290&idx=1&sn=a2faa6bb63e2e90faa2da4dbf44009a3
-    - author: 哆啦安全
-      release_time: 2025.03.15 00:00:00
-      title: Android11至15源码编译篇(云真机)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497634&idx=2&sn=35504e20538ecb303a10896f7ed36440
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
