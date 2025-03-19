@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: nothing__233
+      release_time: 2025.03.19 18:43:20
+      title: strace 脚本更新，以 shape，抖音的 vmp 为例。
+      url: https://www.bilibili.com/video/BV1XoQoYQEYj
+    - author: nothing__233
+      release_time: 2025.03.19 15:28:36
+      title: 爬虫框架
+      url: https://www.bilibili.com/video/BV1UJQRYuEpH
     - author: r0ysue
       release_time: 2025.03.18 22:29:27
       title: MiniCPMo2.6用llama.cpp进行Q4量化成gguf格式可以跑在iPad上
@@ -113,14 +121,6 @@
       release_time: 2025.03.05 10:10:00
       title: 熟悉html概念-DrissionPage官方教程-p12
       url: https://www.bilibili.com/video/BV1ty9wYFEVk
-    - author: B站用户骚神
-      release_time: 2025.03.04 21:25:50
-      title: AI+DP,轻松搞定网站字符验证码
-      url: https://www.bilibili.com/video/BV1MV9JY5EyE
-    - author: DrissionPage
-      release_time: 2025.03.04 19:15:00
-      title: 网页保存和截图-DrissionPage官方教程-p11
-      url: https://www.bilibili.com/video/BV1uz9wYYEsQ
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
