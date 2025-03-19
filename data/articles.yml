@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.03.19 23:43:38
+      title: 为什么你的逆向分析总失败？90%的人忽略的IDA Pro脚本技巧
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497672&idx=1&sn=f4479433011b9ec7e4210651abc402b3
     - author: 菜鸡的逆向日记
       release_time: 2025.03.19 15:13:54
       title: IDA修复不识别的函数
@@ -240,10 +244,6 @@
       release_time: 2025.03.15 09:20:00
       title: 2024 CISCN x 长城杯 初赛逆向0解题-VT 解题全流程
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141964&idx=1&sn=55e81ec678590ef5a0c03ab498d557fd
-    - author: 逆向有你
-      release_time: 2025.03.15 00:00:00
-      title: 安卓逆向 -- JNI开发与so层逆向基础
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038290&idx=1&sn=a2faa6bb63e2e90faa2da4dbf44009a3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
