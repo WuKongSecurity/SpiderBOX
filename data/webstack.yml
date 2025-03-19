@@ -1652,6 +1652,10 @@
 #          logo: yunlifang.png
 #          url: https://www.yunlifang.cn/
 #          description: 云立方是动态vps,拔号vps,adsl拔号服务器,代理ip,动态ip,天翼云,阿里云,腾讯云,华为云, 高防服务器提供商,高性价比vps服务器,静态云,云,vps,vps就找云立方!
+        - title: 骆驼HTTP代理
+          logo: lt.jpg
+          url: https://lthttp.com/
+          description: 骆驼HTTP，全国海量IP资源，99%+可用率，满足您任何数据服务需求，帮助您轻松进入数据时代，客户经理一对一7*24小时服务，为每个企业客户提供优质的IP解决方案
         - title: 因体技术
           logo: iinti.jpg
           url: https://iinti.cn/
@@ -1735,6 +1739,10 @@
           logo: ipwo.png
           url: https://www.ipwo.net/?code=E6JLQ24FM
           description: IPWO 提供全球范围内的免费/稳定/高质量/安全的 IP 代理服务.我们拥有上亿级别 IP 池，以及分布在全球各地的 IP 代理服务器，确保您的网络连接速度和稳定性
+        - title: 荔枝 IP
+          logo: lycheeip.png
+          url: https://www.lycheeip.com/?affId=dob20Dv4nu
+          description: 全球高质量独享静态住宅 IP 双 ISP
 
 #        - title: WTFproxy
 #          logo: wtfproxy.png
