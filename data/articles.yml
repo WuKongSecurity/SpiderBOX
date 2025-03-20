@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.03.21 00:00:00
+      title: 安卓逆向 -- 某程 encode 算法分析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038438&idx=1&sn=178477908b1ea9c58681d2bf578aaec7
     - author: 哆啦安全
       release_time: 2025.03.20 21:28:53
       title: 鸿蒙(HarmonyOS)APP文件格式解析
@@ -240,10 +244,6 @@
       release_time: 2025.03.16 10:25:27
       title: Android镜像解包和打包工具及使用方法(二)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497651&idx=2&sn=ba09b4b803b02d760d93f0a4a2885f14
-    - author: 哆啦安全
-      release_time: 2025.03.16 10:25:27
-      title: Android镜像解包和打包工具及使用方法(一)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497651&idx=3&sn=3cd30ea020d9f36c2db9ca898e79523c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
