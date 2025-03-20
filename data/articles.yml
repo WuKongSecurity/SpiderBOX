@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Coder小Q
+      release_time: 2025.03.20 08:30:00
+      title: '【PQC密码学】TALE: 一种基于格的公钥加密算法解读'
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491497&idx=1&sn=5266fc76f836d5b496c1a339d690abe4
     - author: 哆啦安全
       release_time: 2025.03.19 23:43:38
       title: 为什么你的逆向分析总失败？90%的人忽略的IDA Pro脚本技巧
@@ -240,13 +244,13 @@
       release_time: 2025.03.15 19:02:08
       title: 【JS逆向】某审批局加解密逆向分析
       url: https://mp.weixin.qq.com/s?__biz=Mzk1NzkzMzQyOA==&mid=2247483752&idx=1&sn=f051b7ae467e789d5c5a755f4b901966
-    - author: 吾爱破解论坛
-      release_time: 2025.03.15 09:20:00
-      title: 2024 CISCN x 长城杯 初赛逆向0解题-VT 解题全流程
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141964&idx=1&sn=55e81ec678590ef5a0c03ab498d557fd
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: lenvy1
+      release_time: 2025.03.20 01:16:00
+      title: 纯小白，记一次某日番动漫网视频地址解密全过程
+      url: https://www.52pojie.cn/thread-2016709-1-1.html
     - author: ngiokweng
       release_time: 2025.03.18 21:38:00
       title: 記一次對某韓遊的反反調試
@@ -363,10 +367,6 @@
       release_time: 2025.03.04 17:47:00
       title: 2025春节红包之Android中级题Writeup（Frida Hook法）
       url: https://www.52pojie.cn/thread-2011393-1-1.html
-    - author: littlewhite11
-      release_time: 2025.03.04 15:32:00
-      title: 【JS逆向】某土地市场网逆向分析
-      url: https://www.52pojie.cn/thread-2011345-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
