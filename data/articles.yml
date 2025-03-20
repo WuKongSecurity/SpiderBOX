@@ -382,6 +382,14 @@
       release_time: 2025.03.19 18:29:56
       title: 菠萝包轻小说最新版本sign
       url: https://blog.csdn.net/A_fanyifan/article/details/146377383
+    - author: VermiliEiz
+      release_time: 2025.03.19 14:01:09
+      title: '[分享]XSS漏洞学习笔记'
+      url: https://bbs.kanxue.com/thread-286079.htm
+    - author: 烬奇小云
+      release_time: 2025.03.19 14:01:08
+      title: '[原创]DexClassLoader 动态加载机制'
+      url: https://bbs.kanxue.com/thread-286087.htm
     - author: ngiokweng
       release_time: 2025.03.18 21:32:21
       title: '[原创] 記一次對某韓遊的反反調試'
@@ -482,14 +490,6 @@
       release_time: 2025.03.11 15:28:41
       title: '[原创]新手交流啊啊'
       url: https://bbs.kanxue.com/thread-285963.htm
-    - author: Zedbully
-      release_time: 2025.03.11 11:09:18
-      title: '[原创]AppleAccount注册之生成sign'
-      url: https://bbs.kanxue.com/thread-285959.htm
-    - author: 执着的追求
-      release_time: 2025.03.10 23:52:10
-      title: '[原创]记录一次对tt算法的分析'
-      url: https://bbs.kanxue.com/thread-285955.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
