@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: lenvy1
+      release_time: 2025.03.20 19:06:00
+      title: 记一次某免费音频听书网音频地址解析全过程
+      url: https://www.52pojie.cn/thread-2017001-1-1.html
     - author: 逗啊逗
       release_time: 2025.03.20 18:27:00
       title: 某电子书阅读网站EPUB资源逆向分析
@@ -363,10 +367,6 @@
       release_time: 2025.03.05 09:40:00
       title: 【iOS逆向与安全】在iOS状态栏中实现秒表功能的插件开发指南
       url: https://www.52pojie.cn/thread-2011586-1-1.html
-    - author: nangongxt07
-      release_time: 2025.03.04 21:45:00
-      title: '[Web逆向反调试]常见检测到开发者工具的制止手段'
-      url: https://www.52pojie.cn/thread-2011480-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
