@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 烬奇小云
+      release_time: 2025.03.20 11:07:58
+      title: '[原创]怎么针对Socket通信防护？'
+      url: https://bbs.kanxue.com/thread-286105.htm
     - author: 带带弟弟学爬虫__
       release_time: 2025.03.19 18:29:56
       title: 菠萝包轻小说最新版本sign
@@ -486,10 +490,6 @@
       release_time: 2025.03.10 22:54:10
       title: '[原创]某大厂风控sdk vmp算法分析'
       url: https://bbs.kanxue.com/thread-285954.htm
-    - author: 兆兆的罩罩
-      release_time: 2025.03.10 22:30:15
-      title: '[分享][原创]新手学习某红薯还原APP算法的随手笔记'
-      url: https://bbs.kanxue.com/thread-285953.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
