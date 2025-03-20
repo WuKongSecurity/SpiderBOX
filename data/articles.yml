@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 移动安全星球
+      release_time: 2025.03.20 16:52:30
+      title: Obsidian·Copilot 插件配置（给自己的笔记加上AI）
+      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486386&idx=1&sn=d6fc3d6ca66527f96cc52ee53fe64d53
     - author: Coder小Q
       release_time: 2025.03.20 08:30:00
       title: '【PQC密码学】TALE: 一种基于格的公钥加密算法解读'
@@ -240,10 +244,6 @@
       release_time: 2025.03.15 22:41:49
       title: 使用AI大模型实现可以提取任意信息的通用爬虫
       url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247485927&idx=1&sn=c28cb6b2964a1c52b8ed9df7a7efcb34
-    - author: SpiderLittleWhite
-      release_time: 2025.03.15 19:02:08
-      title: 【JS逆向】某审批局加解密逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzk1NzkzMzQyOA==&mid=2247483752&idx=1&sn=f051b7ae467e789d5c5a755f4b901966
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
