@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.03.20 21:28:53
+      title: 鸿蒙(HarmonyOS)APP文件格式解析
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497682&idx=1&sn=571bd6e823af400c3eadd066ffa65555
+    - author: 哆啦安全
+      release_time: 2025.03.20 21:28:53
+      title: Android逆向资料(2025)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497682&idx=2&sn=07bfc697a53df5dfaa2e5bec92fdc5ef
+    - author: 逆向OneByOne
+      release_time: 2025.03.20 21:21:09
+      title: 基于Golang所开发的大模型API高性能调度平台
+      url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494004&idx=1&sn=aaf8bec7146527cc7e327e6e12b743b6
     - author: 移动安全星球
       release_time: 2025.03.20 16:52:30
       title: Obsidian·Copilot 插件配置（给自己的笔记加上AI）
@@ -232,18 +244,6 @@
       release_time: 2025.03.16 10:25:27
       title: Android镜像解包和打包工具及使用方法(一)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497651&idx=3&sn=3cd30ea020d9f36c2db9ca898e79523c
-    - author: 吾爱破解论坛
-      release_time: 2025.03.16 08:46:00
-      title: 2024 CISCN x 长城杯初赛Reverse赛题vt Writeup——攻城攻心的混淆大师
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142000&idx=1&sn=fae5121cf1dc1a7e0a405e6a92ccb36e
-    - author: 未闻Code
-      release_time: 2025.03.15 23:35:49
-      title: 一日一技：315晚会曝光的获客软件是什么原理
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990171&idx=1&sn=3c57dc7ec03f70001f7ca9acb3dceab4
-    - author: LLLibra146
-      release_time: 2025.03.15 22:41:49
-      title: 使用AI大模型实现可以提取任意信息的通用爬虫
-      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247485927&idx=1&sn=c28cb6b2964a1c52b8ed9df7a7efcb34
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
