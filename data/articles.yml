@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.03.21 17:26:00
+      title: AST反混淆插件|混淆代码中 in 语句的还原处理
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565815&idx=1&sn=828b8e3f19fc92f1a85b86cf3debd5a3
     - author: 未闻Code
       release_time: 2025.03.21 16:37:19
       title: 如何把JS逆向代码转换为Python代码
@@ -240,10 +244,6 @@
       release_time: 2025.03.17 00:00:00
       title: 安卓逆向 -- APK双开、汉化、软件图标修改的实战案例分享
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038326&idx=1&sn=d74a2d308aefe31499aa0f4390c5af76
-    - author: 知一Tracer
-      release_time: 2025.03.16 20:02:15
-      title: Tk点选模型训练
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMTUwNTA3Ng==&mid=2247484144&idx=1&sn=04229d84e7f32660dab2d7c4e705c245
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
