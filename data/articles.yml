@@ -374,6 +374,10 @@
       release_time: 2025.03.21 17:29:40
       title: '[原创] uprobes 使用小技巧：如何避免在 maps 中产生 [uprobes] 特征？'
       url: https://bbs.kanxue.com/thread-286128.htm
+    - author: 悦来客栈的老板
+      release_time: 2025.03.21 17:26:53
+      title: AST反混淆插件|混淆代码中 in 语句的还原处理
+      url: https://blog.csdn.net/qq523176585/article/details/146432503
     - author: ShinoLeah
       release_time: 2025.03.21 15:58:59
       title: '[原创] 基于eBPF的安卓CLI调试器——eDBG'
@@ -486,10 +490,6 @@
       release_time: 2025.03.12 11:23:55
       title: '[原创]Yakit打BurpSuite靶场—SQL注入篇'
       url: https://bbs.kanxue.com/thread-285984.htm
-    - author: Je2em1ah
-      release_time: 2025.03.11 19:52:46
-      title: '[原创]从源码视角分析Arkari间接跳转混淆'
-      url: https://bbs.kanxue.com/thread-285968.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
