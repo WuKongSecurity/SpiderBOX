@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 静夜随想
+      release_time: 2025.03.21 19:47:16
+      title: JavaScript逆向时一些奇奇怪怪的检测
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811011&idx=1&sn=6c6dff072355a0d3057b94dfcf6291e4
     - author: 菜鸟学Python编程
       release_time: 2025.03.21 17:26:00
       title: AST反混淆插件|混淆代码中 in 语句的还原处理
@@ -240,10 +244,6 @@
       release_time: 2025.03.17 13:01:49
       title: JS逆向实战：某小程序加密请求逆向分析
       url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247485947&idx=1&sn=9bc818b4991ae21b005ac1831792cd36
-    - author: 逆向有你
-      release_time: 2025.03.17 00:00:00
-      title: 安卓逆向 -- APK双开、汉化、软件图标修改的实战案例分享
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038326&idx=1&sn=d74a2d308aefe31499aa0f4390c5af76
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
