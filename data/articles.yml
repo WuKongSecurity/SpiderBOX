@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: Aircraftcomman5
+      release_time: 2025.03.21 22:16:00
+      title: 某某猫投诉signature逆向-----------小白讲解08
+      url: https://www.52pojie.cn/thread-2017218-1-1.html
     - author: chboy
       release_time: 2025.03.21 16:39:00
       title: 记一次简单的JS(ob高级)混淆算法逆向分析
@@ -363,10 +367,6 @@
       release_time: 2025.03.05 17:09:00
       title: 关于XPlayer 万能视频播放器 破解方法改进
       url: https://www.52pojie.cn/thread-2011803-1-1.html
-    - author: zzzzcccc
-      release_time: 2025.03.05 10:13:00
-      title: 从零开始的混淆工具开发--LLVM NEW PASS Learning Notes
-      url: https://www.52pojie.cn/thread-2011604-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
