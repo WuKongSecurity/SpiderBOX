@@ -374,6 +374,10 @@
       release_time: 2025.03.22 18:41:34
       title: 备份微信通讯录(好友列表)，支持微信4.0
       url: https://blog.csdn.net/Qwertyuiop2016/article/details/146444330
+    - author: 悦来客栈的老板
+      release_time: 2025.03.22 09:48:08
+      title: AST反混淆插件|混淆代码中逻辑表达式的简化
+      url: https://blog.csdn.net/qq523176585/article/details/146450487
     - author: AnxiangLemon
       release_time: 2025.03.22 09:43:39
       title: LToolBox - 跨平台多功能工具箱
@@ -486,10 +490,6 @@
       release_time: 2025.03.12 17:19:10
       title: AST反混淆插件|ob混淆中object对象重新赋值的还原处理
       url: https://blog.csdn.net/qq523176585/article/details/146220573
-    - author: 那是坦克吗
-      release_time: 2025.03.12 14:08:37
-      title: '1'
-      url: https://bbs.kanxue.com/thread-285987.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
