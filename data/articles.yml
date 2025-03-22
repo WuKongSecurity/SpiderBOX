@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 为妳
+      release_time: 2025.03.22 23:41:00
+      title: 某东培训网络学院登录分析
+      url: https://www.52pojie.cn/thread-2017695-1-1.html
     - author: Juana111
       release_time: 2025.03.22 15:58:00
       title: 安卓逆向学习4-frida编译调试、框架学习
@@ -363,10 +367,6 @@
       release_time: 2025.03.06 23:59:00
       title: NodeVideo修改思路
       url: https://www.52pojie.cn/thread-2012224-1-1.html
-    - author: chenchenchen777
-      release_time: 2025.03.06 16:09:00
-      title: bilibili  frida检测分析绕过
-      url: https://www.52pojie.cn/thread-2012106-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
