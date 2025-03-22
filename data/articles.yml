@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2025.03.22 19:58:07
+      title: 五卡跑gemma3-12b图片本地推理
+      url: https://www.bilibili.com/video/BV1axXWYZEQz
     - author: nothing__233
       release_time: 2025.03.19 18:43:20
       title: strace 脚本更新，以 shape，抖音的 vmp 为例。
@@ -117,10 +121,6 @@
       release_time: 2025.03.05 19:39:14
       title: 纯血deepseek-r1:14b吃光4GPU的显存和所有内存后挂机
       url: https://www.bilibili.com/video/BV1vs9RYXESM
-    - author: DrissionPage
-      release_time: 2025.03.05 10:10:00
-      title: 熟悉html概念-DrissionPage官方教程-p12
-      url: https://www.bilibili.com/video/BV1ty9wYFEVk
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: Juana111
+      release_time: 2025.03.22 15:58:00
+      title: 安卓逆向学习4-frida编译调试、框架学习
+      url: https://www.52pojie.cn/thread-2017591-1-1.html
     - author: Aircraftcomman5
       release_time: 2025.03.21 22:16:00
       title: 某某猫投诉signature逆向-----------小白讲解08
@@ -363,10 +367,6 @@
       release_time: 2025.03.06 16:09:00
       title: bilibili  frida检测分析绕过
       url: https://www.52pojie.cn/thread-2012106-1-1.html
-    - author: 芽衣
-      release_time: 2025.03.05 17:09:00
-      title: 关于XPlayer 万能视频播放器 破解方法改进
-      url: https://www.52pojie.cn/thread-2011803-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
