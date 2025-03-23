@@ -5,6 +5,10 @@
       release_time: 2025.03.22 19:58:07
       title: 五卡跑gemma3-12b图片本地推理
       url: https://www.bilibili.com/video/BV1axXWYZEQz
+    - author: B站用户骚神
+      release_time: 2025.03.22 15:33:18
+      title: 用DrissionPage定位破解CloudFlare 5s盾，最细节教学
+      url: https://www.bilibili.com/video/BV1JUXHYNEVp
     - author: 冷月不是程序员
       release_time: 2025.03.21 23:57:44
       title: 教程系列-任务调度框架Apache-Airflow 介绍
@@ -117,10 +121,6 @@
       release_time: 2025.03.06 17:15:00
       title: 定位一个元素-DrissionPage官方教程-p13
       url: https://www.bilibili.com/video/BV1ty9wYFEG7
-    - author: 和沐阳学逆向
-      release_time: 2025.03.05 21:23:57
-      title: 56《安卓逆向》lsposed开发之——lsposed环境搭建与概念讲解
-      url: https://www.bilibili.com/video/BV1Jo9oYzEmA
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
