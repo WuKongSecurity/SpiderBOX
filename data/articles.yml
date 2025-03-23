@@ -259,6 +259,10 @@
       release_time: 2025.03.21 22:16:00
       title: 某某猫投诉signature逆向-----------小白讲解08
       url: https://www.52pojie.cn/thread-2017218-1-1.html
+    - author: ShriyGo
+      release_time: 2025.03.21 21:46:00
+      title: 【JS逆向】某验三代点选逆向分析
+      url: https://www.52pojie.cn/thread-2017394-1-1.html
     - author: chboy
       release_time: 2025.03.21 16:39:00
       title: 记一次简单的JS(ob高级)混淆算法逆向分析
@@ -363,10 +367,6 @@
       release_time: 2025.03.07 14:54:00
       title: 某瑞数5代cookie和url后缀补环境代码
       url: https://www.52pojie.cn/thread-2012413-1-1.html
-    - author: KillLog
-      release_time: 2025.03.06 23:59:00
-      title: NodeVideo修改思路
-      url: https://www.52pojie.cn/thread-2012224-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
