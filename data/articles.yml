@@ -1,6 +1,22 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: Alone逆向安全
+      release_time: 2025.03.23 12:30:57
+      title: 02  Ubuntu 虚拟机 + CLion 安装 & 编译器配置全流程（VMware）
+      url: https://www.bilibili.com/video/BV1aFXaYmEvL
+    - author: Alone逆向安全
+      release_time: 2025.03.23 12:28:56
+      title: 03 C++ so模型执行框架 - 安卓逆向 & 仿真环境搭建指南
+      url: https://www.bilibili.com/video/BV1YFXaYmEcH
+    - author: Alone逆向安全
+      release_time: 2025.03.23 12:27:58
+      title: 01 安卓逆向进阶：模拟执行so黑盒框架公开课(序言)
+      url: https://www.bilibili.com/video/BV1aFXaYmE8Z
+    - author: Alone逆向安全
+      release_time: 2025.03.23 00:07:02
+      title: (安卓逆向高级)论TTD在安卓逆向中的杀伤力
+      url: https://www.bilibili.com/video/BV1NyXxYWEyT
     - author: r0ysue
       release_time: 2025.03.22 19:58:07
       title: 五卡跑gemma3-12b图片本地推理
@@ -105,22 +121,6 @@
       release_time: 2025.03.08 06:45:00
       title: 判断和等待元素存在-DrissionPage官方教程-p15
       url: https://www.bilibili.com/video/BV1Mk9wYhEXy
-    - author: 凛音姫
-      release_time: 2025.03.07 18:30:00
-      title: 【js逆向练习案例-15】 荔枝网 wasm 纯算
-      url: https://www.bilibili.com/video/BV1khRNYbE5r
-    - author: DrissionPage
-      release_time: 2025.03.07 14:10:00
-      title: 元素定位之xpath语法-DrissionPage官方教程-p14
-      url: https://www.bilibili.com/video/BV1Mk9wYhERB
-    - author: B站用户骚神
-      release_time: 2025.03.06 22:57:56
-      title: 精灵球+DP，快速搞定各大电商网站商品信息和评论
-      url: https://www.bilibili.com/video/BV1SGRNYrEVL
-    - author: DrissionPage
-      release_time: 2025.03.06 17:15:00
-      title: 定位一个元素-DrissionPage官方教程-p13
-      url: https://www.bilibili.com/video/BV1ty9wYFEG7
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 小爬菜
+      release_time: 2025.03.24 11:38:12
+      title: web逆向案例：wasm加密如何处理（逐步分解）
+      url: https://blog.csdn.net/qq_49268524/article/details/146471817
     - author: 我是花臂不花
       release_time: 2025.03.24 10:15:15
       title: window系统离线部署运行多个python环境
@@ -486,10 +490,6 @@
       release_time: 2025.03.14 17:03:56
       title: '[原创]某加固onCreate的vmp分析'
       url: https://bbs.kanxue.com/thread-286006.htm
-    - author: 逆向新手
-      release_time: 2025.03.14 13:59:32
-      title: js逆向-一个不一样的验证码
-      url: https://blog.csdn.net/weixin_46672080/article/details/146255978
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
