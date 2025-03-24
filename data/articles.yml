@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制科学
+      release_time: 2025.03.25 00:20:14
+      title: llvm进阶（1）SplitAllCriticalEdges（关键边切割的艺术）
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NDMzMzAwNQ==&mid=2247485973&idx=1&sn=b6a48af4b7c214227eb487f951aba772
     - author: 未闻Code
       release_time: 2025.03.24 22:11:31
       title: DeepSeek+新质生产力，打工人弯道超车的好机会！
@@ -240,10 +244,6 @@
       release_time: 2025.03.19 15:13:54
       title: IDA修复不识别的函数
       url: https://mp.weixin.qq.com/s?__biz=MzkwNDQzNzQ1Ng==&mid=2247483721&idx=1&sn=1db27148e257cc3cdb5612ce8360db98
-    - author: LLLibra146
-      release_time: 2025.03.19 12:58:09
-      title: 逆向效率翻倍！支持动态Hook+AST解析的浏览器神器
-      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247485966&idx=1&sn=bd71dc5f403836c89c23a29ddcd91a15
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
