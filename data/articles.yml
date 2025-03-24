@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2025.03.24 21:08:36
+      title: vLLM四卡跑量化版QwQ-32B-AWQ速度42ts
+      url: https://www.bilibili.com/video/BV1cyo2YUEaF
     - author: HD236300
       release_time: 2025.03.24 14:38:15
       title: 游戏案例讲解Python面向对象编程，50分钟带你入门，2.5小时完全掌握，2025最新
@@ -117,10 +121,6 @@
       release_time: 2025.03.09 15:25:00
       title: 定位多个元素-DrissionPage官方教程-p16
       url: https://www.bilibili.com/video/BV1Mk9wYhEWR
-    - author: 念初77
-      release_time: 2025.03.09 14:38:01
-      title: 某企业frida反调试快速通杀
-      url: https://www.bilibili.com/video/BV1CMRbYaE1N
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
