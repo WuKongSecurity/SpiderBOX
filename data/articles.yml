@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: 2025.03.24 12:08:23
+      title: 颠覆网络安全分析！Text-to-SQL 如何让智能体秒查数据 | 安全智能体 | AGENT 开发
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485526&idx=1&sn=1216025b526fc7cfbdb4ebb71d24baee
+    - author: 菜鸟学Python编程
+      release_time: 2025.03.24 11:58:00
+      title: JS反混淆实战|使用cyberchef工具进行js代码反混淆
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565846&idx=1&sn=673ea0f8d03482a9bd2fb912ff3cac30
     - author: LLLibra146
       release_time: 2025.03.24 08:33:43
       title: JSRPC实战：油猴脚本+JSRPC 带你秒杀 JS 加密
@@ -136,6 +144,14 @@
       release_time: 2025.03.23 12:23:29
       title: 逆向百例之安居客参数分析
       url: https://mp.weixin.qq.com/s?__biz=Mzg5MTg1NzU1NA==&mid=2247486289&idx=1&sn=ea7eaa48cad0d049830272d958d980c6
+    - author: 二进制磨剑
+      release_time: 2025.03.22 11:56:22
+      title: IDA技巧（121）限制搜索到地址范围
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485521&idx=1&sn=54a4e8bebc2d2ea8eb19a8a42f0d8444
+    - author: 菜鸟学Python编程
+      release_time: 2025.03.22 09:49:17
+      title: AST反混淆插件|混淆代码中逻辑表达式的简化
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565819&idx=1&sn=e0979e053578341f2134b7ccd51e8e91
     - author: 静夜随想
       release_time: 2025.03.21 19:47:16
       title: JavaScript逆向时一些奇奇怪怪的检测
@@ -228,22 +244,6 @@
       release_time: 2025.03.18 14:13:21
       title: 基于ws协议的某音直播弹幕（超长详细版）
       url: https://mp.weixin.qq.com/s?__biz=MzkwMzg4NDI4Mw==&mid=2247484146&idx=1&sn=763ee28444628e494e127d2b4af754b7
-    - author: 关于代码那点事
-      release_time: 2025.03.18 09:30:00
-      title: 某聘的干扰节点甄别
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MTg1NzU1NA==&mid=2247486269&idx=1&sn=61b36c5ac565d7201e3cbaf4baebc3ce
-    - author: 逆向有你
-      release_time: 2025.03.18 00:00:00
-      title: 安卓逆向 -- 动态调试与Log插桩
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038388&idx=1&sn=7e70054dca60e7376f71ea98a2969da2
-    - author: 哆啦安全
-      release_time: 2025.03.17 22:00:39
-      title: Android逆向内核攻防实战
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497654&idx=1&sn=520dda99ebc1c2fa9b87a80ca6f3518c
-    - author: 未闻Code
-      release_time: 2025.03.17 21:57:18
-      title: 让Matplotlib、seaborn图动起来，栩栩如生
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990174&idx=1&sn=6677657a4aa2e3bb6572f7d5f4e24211
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
