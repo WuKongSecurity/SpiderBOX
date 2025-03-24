@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.03.24 12:28:59
+      title: 震撼！DrissionPage脚本替换， 破解网站加密 JSON 数据，易如反掌
+      url: https://www.bilibili.com/video/BV1DioCY4EUf
     - author: Alone逆向安全
       release_time: 2025.03.23 12:30:57
       title: 02  Ubuntu 虚拟机 + CLion 安装 & 编译器配置全流程（VMware）
@@ -117,10 +121,6 @@
       release_time: 2025.03.08 23:08:25
       title: AST反混淆-搜狗点选
       url: https://www.bilibili.com/video/BV1YpRsYiEb9
-    - author: DrissionPage
-      release_time: 2025.03.08 06:45:00
-      title: 判断和等待元素存在-DrissionPage官方教程-p15
-      url: https://www.bilibili.com/video/BV1Mk9wYhEXy
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
