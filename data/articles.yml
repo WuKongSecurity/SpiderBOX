@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.03.24 22:11:31
+      title: DeepSeek+新质生产力，打工人弯道超车的好机会！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990189&idx=1&sn=c691ff2d9e49746d3b8b2d07de9c8f43
     - author: 兔老大Android和iOS逆向
       release_time: 2025.03.24 15:19:49
       title: 【iOS逆向】Instagram抓包小记
@@ -240,10 +244,6 @@
       release_time: 2025.03.19 12:58:09
       title: 逆向效率翻倍！支持动态Hook+AST解析的浏览器神器
       url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247485966&idx=1&sn=bd71dc5f403836c89c23a29ddcd91a15
-    - author: 我真的不是蜘蛛
-      release_time: 2025.03.19 10:00:00
-      title: 手搓聊天室1.3.0----ping和ack机制的应用
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMzg4NDI4Mw==&mid=2247484192&idx=1&sn=a00bd107d9e6897bed64fc5173054046
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
