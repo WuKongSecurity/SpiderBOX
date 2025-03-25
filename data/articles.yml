@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 榫卯江湖
+      release_time: 2025.03.25 18:00:20
+      title: eCapture开源项目三周年，v1.0.0稳定版发布
+      url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485104&idx=1&sn=a973fbf2209e230aa4fa299ca9039a5c
     - author: 吾爱破解论坛
       release_time: 2025.03.25 16:54:24
       title: 去除QQ聊天窗口的平滑滚动动画
@@ -240,10 +244,6 @@
       release_time: 2025.03.20 21:21:09
       title: 基于Golang所开发的大模型API高性能调度平台
       url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494004&idx=1&sn=aaf8bec7146527cc7e327e6e12b743b6
-    - author: 移动安全星球
-      release_time: 2025.03.20 16:52:30
-      title: Obsidian·Copilot 插件配置（给自己的笔记加上AI）
-      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486386&idx=1&sn=d6fc3d6ca66527f96cc52ee53fe64d53
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
