@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.03.25 16:54:24
+      title: 去除QQ聊天窗口的平滑滚动动画
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142073&idx=1&sn=de8b782b4cbed3af3313fcc6a18ce317
     - author: 哆啦安全
       release_time: 2025.03.25 10:44:56
       title: 安全研究资料库大全(2025)
@@ -240,13 +244,13 @@
       release_time: 2025.03.20 16:52:30
       title: Obsidian·Copilot 插件配置（给自己的笔记加上AI）
       url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486386&idx=1&sn=d6fc3d6ca66527f96cc52ee53fe64d53
-    - author: Coder小Q
-      release_time: 2025.03.20 08:30:00
-      title: '【PQC密码学】TALE: 一种基于格的公钥加密算法解读'
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491497&idx=1&sn=5266fc76f836d5b496c1a339d690abe4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: asone917
+      release_time: 2025.03.25 14:44:00
+      title: 【js逆向】学某通模拟登录
+      url: https://www.52pojie.cn/thread-2018450-1-1.html
     - author: KillLog
       release_time: 2025.03.25 14:22:00
       title: Xposed模块注入资源原理以及思路
@@ -363,10 +367,6 @@
       release_time: 2025.03.10 11:32:00
       title: 【JS逆向】某漫画网站图片还原逆向
       url: https://www.52pojie.cn/thread-2013056-1-1.html
-    - author: 就往丶
-      release_time: 2025.03.10 11:16:00
-      title: 【入门】青某汇web逆向
-      url: https://www.52pojie.cn/thread-2013037-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
