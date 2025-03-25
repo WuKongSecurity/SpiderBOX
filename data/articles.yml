@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.03.25 10:44:56
+      title: 安全研究资料库大全(2025)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497739&idx=1&sn=ae5d8a270fdec1e639eebd5cd7d3e633
+    - author: 哆啦安全
+      release_time: 2025.03.25 10:44:56
+      title: 普通调试 vs 内核级逆向：为什么IDA脚本永远学不会真实漏洞挖掘？
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497739&idx=2&sn=71f3812752a2067cfe0d5fcfa885156e
     - author: 二进制科学
       release_time: 2025.03.25 00:20:14
       title: llvm进阶（1）SplitAllCriticalEdges（关键边切割的艺术）
@@ -236,14 +244,6 @@
       release_time: 2025.03.20 08:30:00
       title: '【PQC密码学】TALE: 一种基于格的公钥加密算法解读'
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491497&idx=1&sn=5266fc76f836d5b496c1a339d690abe4
-    - author: 哆啦安全
-      release_time: 2025.03.19 23:43:38
-      title: 为什么你的逆向分析总失败？90%的人忽略的IDA Pro脚本技巧
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497672&idx=1&sn=f4479433011b9ec7e4210651abc402b3
-    - author: 菜鸡的逆向日记
-      release_time: 2025.03.19 15:13:54
-      title: IDA修复不识别的函数
-      url: https://mp.weixin.qq.com/s?__biz=MzkwNDQzNzQ1Ng==&mid=2247483721&idx=1&sn=1db27148e257cc3cdb5612ce8360db98
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
