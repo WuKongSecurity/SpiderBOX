@@ -1,6 +1,26 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 带带弟弟学爬虫
+      release_time: 2025.03.26 00:13:17
+      title: 某菠萝小说sign分析（一）
+      url: https://www.bilibili.com/video/BV1PNo8Y3EYG
+    - author: 带带弟弟学爬虫
+      release_time: 2025.03.25 23:02:24
+      title: 某菠萝小说sign分析（一）
+      url: https://www.bilibili.com/video/BV1Xbo8Y9EhN
+    - author: Alone逆向安全
+      release_time: 2025.03.25 16:08:50
+      title: 🚀 第五课 - Unicorn Hook 事件：hook指令
+      url: https://www.bilibili.com/video/BV1UaoxYKEsi
+    - author: Alone逆向安全
+      release_time: 2025.03.25 12:07:52
+      title: 🚀 第四课 - Unicorn  指令仿真 & 深入浅出讲解
+      url: https://www.bilibili.com/video/BV18KosYNEzS
+    - author: 如何追mio酱
+      release_time: 2025.03.25 10:57:24
+      title: 注入检测&CRC校验绕过思路
+      url: https://www.bilibili.com/video/BV1jaosY7EJP
     - author: r0ysue
       release_time: 2025.03.24 21:08:36
       title: vLLM四卡跑量化版QwQ-32B-AWQ速度42ts
@@ -101,26 +121,6 @@
       release_time: 2025.03.12 14:20:00
       title: 窗口大小和位置设置-DrissionPage官方教程-p19
       url: https://www.bilibili.com/video/BV1cZ9wYnE7e
-    - author: DrissionPage
-      release_time: 2025.03.11 20:10:00
-      title: shadow-root定位-DrissionPage官方教程-p18
-      url: https://www.bilibili.com/video/BV1Ff9wYSEVQ
-    - author: 念初77
-      release_time: 2025.03.10 21:26:55
-      title: 魔改版serve
-      url: https://www.bilibili.com/cheese/play/ss193940457
-    - author: DrissionPage
-      release_time: 2025.03.10 15:25:00
-      title: iframe元素定位-DrissionPage官方教程-p17
-      url: https://www.bilibili.com/video/BV1nf9wYSEcf
-    - author: B站用户骚神
-      release_time: 2025.03.10 14:21:20
-      title: 骚神插件9.6.3 瞬间生成自动填表代码
-      url: https://www.bilibili.com/video/BV1nJRgYGEpF
-    - author: DrissionPage
-      release_time: 2025.03.09 15:25:00
-      title: 定位多个元素-DrissionPage官方教程-p16
-      url: https://www.bilibili.com/video/BV1Mk9wYhEWR
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
