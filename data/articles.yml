@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: KillLog
+      release_time: 2025.03.25 14:22:00
+      title: Xposed模块注入资源原理以及思路
+      url: https://www.52pojie.cn/thread-2018443-1-1.html
     - author: 逗啊逗
       release_time: 2025.03.24 23:59:00
       title: 某东读书专业版EPUB资源简单分析
@@ -363,10 +367,6 @@
       release_time: 2025.03.10 11:16:00
       title: 【入门】青某汇web逆向
       url: https://www.52pojie.cn/thread-2013037-1-1.html
-    - author: Redmaplesoka
-      release_time: 2025.03.08 22:13:00
-      title: 记录破解某灰产软件
-      url: https://www.52pojie.cn/thread-2012725-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
