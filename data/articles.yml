@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: DrissionPage
+      release_time: 2025.03.26 23:48:06
+      title: 听说虾皮会检测DrissionPage
+      url: https://www.bilibili.com/video/BV1iKZNY4ENa
     - author: r0ysue
       release_time: 2025.03.26 21:35:12
       title: QwQ-32B跑Agent的FunctionCall并行功函数调用
@@ -117,10 +121,6 @@
       release_time: 2025.03.13 16:20:00
       title: 模拟键盘操作-DrissionPage官方教程-p20
       url: https://www.bilibili.com/video/BV1cZ9wYnEkV
-    - author: r0ysue
-      release_time: 2025.03.12 22:48:02
-      title: 纯血deepseek-r1-14b榨干4块并行GPU及双路CPU所有内存
-      url: https://www.bilibili.com/video/BV1x3QWY5EhB
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
