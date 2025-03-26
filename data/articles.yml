@@ -9,6 +9,10 @@
       release_time: 2025.03.26 21:35:12
       title: QwQ-32B跑Agent的FunctionCall并行功函数调用
       url: https://www.bilibili.com/video/BV1GoZNYpEn8
+    - author: B站用户骚神
+      release_time: 2025.03.26 12:23:23
+      title: DrissionPage脚本文件替换，轻松搞定抖音直播间加密websocket弹幕
+      url: https://www.bilibili.com/video/BV148ovYbEVW
     - author: 带带弟弟学爬虫
       release_time: 2025.03.26 00:13:17
       title: 某菠萝小说sign分析（一）
@@ -117,10 +121,6 @@
       release_time: 2025.03.13 22:07:02
       title: zygisk编译，带你编译自己的第一个zygisk！！！
       url: https://www.bilibili.com/video/BV1yqQPYRE44
-    - author: DrissionPage
-      release_time: 2025.03.13 16:20:00
-      title: 模拟键盘操作-DrissionPage官方教程-p20
-      url: https://www.bilibili.com/video/BV1cZ9wYnEkV
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
