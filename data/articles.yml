@@ -390,6 +390,10 @@
       release_time: 2025.03.25 16:00:33
       title: web爬虫笔记：js逆向案例十一 某数cookie(补环境流程)
       url: https://blog.csdn.net/qq_49268524/article/details/146505441
+    - author: ShriyGo
+      release_time: 2025.03.25 13:28:52
+      title: 【JS逆向】某验三代点选逆向分析
+      url: https://bbs.kanxue.com/thread-286163.htm
     - author: 我是花臂不花
       release_time: 2025.03.25 13:28:50
       title: 小破孩exe逆向笔记
@@ -486,10 +490,6 @@
       release_time: 2025.03.20 11:07:58
       title: '[原创]怎么针对Socket通信防护？'
       url: https://bbs.kanxue.com/thread-286105.htm
-    - author: 带带弟弟学爬虫__
-      release_time: 2025.03.19 18:29:56
-      title: 菠萝包轻小说最新版本sign
-      url: https://blog.csdn.net/A_fanyifan/article/details/146377383
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
