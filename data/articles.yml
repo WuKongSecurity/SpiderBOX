@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.03.26 08:56:33
+      title: AST反混淆插件|判断函数调用实参是否均为字面量的方法
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565854&idx=1&sn=225b63c6d73066229cb3c416a04b3564
+    - author: LLLibra146
+      release_time: 2025.03.26 08:35:46
+      title: 不用油猴拓展也能自动注入JSRPC脚本？
+      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486036&idx=1&sn=391d306a38ae94e08ed3beb467d3f0f8
+    - author: 哆啦安全
+      release_time: 2025.03.26 08:08:59
+      title: 普通Hook vs 源码级对抗：为什么修改SystemProperties才是改机检测的克星？
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497745&idx=1&sn=9a4444cc7b862f026918c4ecaa5918c1
     - author: 未闻Code
       release_time: 2025.03.25 20:57:19
       title: 简单聊聊常见的负载均衡算法
@@ -232,18 +244,6 @@
       release_time: 2025.03.21 12:12:18
       title: 2025年裁员失业已成常态了吗？
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497688&idx=1&sn=4d10794a1e83beb1c9f403bef99cd2ae
-    - author: LLLibra146
-      release_time: 2025.03.21 07:42:36
-      title: 一文带你搞懂 JSRPC 到底是个啥
-      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247485974&idx=1&sn=75067e337bb76c1da9e14463456f646d
-    - author: 逆向有你
-      release_time: 2025.03.21 00:00:00
-      title: 安卓逆向 -- 某程 encode 算法分析
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038438&idx=1&sn=178477908b1ea9c58681d2bf578aaec7
-    - author: 哆啦安全
-      release_time: 2025.03.20 21:28:53
-      title: 鸿蒙(HarmonyOS)APP文件格式解析
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497682&idx=1&sn=571bd6e823af400c3eadd066ffa65555
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
