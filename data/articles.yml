@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.03.26 09:30:00
+      title: IDA 9.1 & IDA 8.5 算法分析
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142083&idx=1&sn=1fb2b734c134f9f16c9014f63c456578
+    - author: 我真的不是蜘蛛
+      release_time: 2025.03.26 09:00:00
+      title: 反爬和反反爬----前端如何使用wasm加密（wasm篇）
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMzg4NDI4Mw==&mid=2247484284&idx=1&sn=e64dfda91d8dcec2f377435ca7428170
     - author: 菜鸟学Python编程
       release_time: 2025.03.26 08:56:33
       title: AST反混淆插件|判断函数调用实参是否均为字面量的方法
@@ -220,6 +228,10 @@
       release_time: 2025.03.22 11:56:22
       title: IDA技巧（121）限制搜索到地址范围
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485521&idx=1&sn=54a4e8bebc2d2ea8eb19a8a42f0d8444
+    - author: 我真的不是蜘蛛
+      release_time: 2025.03.22 10:05:14
+      title: 布隆过滤器---高效爬虫神器
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMzg4NDI4Mw==&mid=2247484223&idx=1&sn=1fe9ce48643c9da3d6a5fd76c82e7d31
     - author: 菜鸟学Python编程
       release_time: 2025.03.22 09:49:17
       title: AST反混淆插件|混淆代码中逻辑表达式的简化
@@ -232,18 +244,6 @@
       release_time: 2025.03.21 17:26:00
       title: AST反混淆插件|混淆代码中 in 语句的还原处理
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565815&idx=1&sn=828b8e3f19fc92f1a85b86cf3debd5a3
-    - author: 未闻Code
-      release_time: 2025.03.21 16:37:19
-      title: 如何把JS逆向代码转换为Python代码
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990182&idx=1&sn=b4e43237dc9dfac74af1f6584e306cee
-    - author: 理想真会玩
-      release_time: 2025.03.21 15:41:42
-      title: 某航空白盒sm4分析
-      url: https://mp.weixin.qq.com/s?__biz=MzIwODg1MjQ4OQ==&mid=2247485562&idx=1&sn=019012f308ee6644f0b00ef7532f6fa2
-    - author: 哆啦安全
-      release_time: 2025.03.21 12:12:18
-      title: 2025年裁员失业已成常态了吗？
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497688&idx=1&sn=4d10794a1e83beb1c9f403bef99cd2ae
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
