@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2025.03.26 21:35:12
+      title: QwQ-32B跑Agent的FunctionCall并行功函数调用
+      url: https://www.bilibili.com/video/BV1GoZNYpEn8
     - author: 带带弟弟学爬虫
       release_time: 2025.03.26 00:13:17
       title: 某菠萝小说sign分析（一）
@@ -117,10 +121,6 @@
       release_time: 2025.03.12 22:48:02
       title: 纯血deepseek-r1-14b榨干4块并行GPU及双路CPU所有内存
       url: https://www.bilibili.com/video/BV1x3QWY5EhB
-    - author: DrissionPage
-      release_time: 2025.03.12 14:20:00
-      title: 窗口大小和位置设置-DrissionPage官方教程-p19
-      url: https://www.bilibili.com/video/BV1cZ9wYnE7e
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
