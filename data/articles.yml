@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 软件安全与逆向分析
+      release_time: 2025.03.27 14:29:23
+      title: 安卓系统定制：从入门到实践PDF下载
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484786&idx=1&sn=85612cbc5028e0411c1457838579d6c1
     - author: 我真的不是蜘蛛
       release_time: 2025.03.27 09:00:00
       title: 反爬和反反爬--------wasm代码原理(wasm篇)
@@ -240,10 +244,6 @@
       release_time: 2025.03.22 10:05:14
       title: 布隆过滤器---高效爬虫神器
       url: https://mp.weixin.qq.com/s?__biz=MzkwMzg4NDI4Mw==&mid=2247484223&idx=1&sn=1fe9ce48643c9da3d6a5fd76c82e7d31
-    - author: 菜鸟学Python编程
-      release_time: 2025.03.22 09:49:17
-      title: AST反混淆插件|混淆代码中逻辑表达式的简化
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565819&idx=1&sn=e0979e053578341f2134b7ccd51e8e91
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
