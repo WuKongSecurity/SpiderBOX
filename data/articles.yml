@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: LLLibra146
+      release_time: 2025.03.28 07:46:23
+      title: 如何在浏览器中使用 nodejs 模块进行反混淆？
+      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486080&idx=1&sn=be1886fe4d3372af4fe2cec806fa4d1a
     - author: 影17
       release_time: 2025.03.27 20:12:31
       title: 通用解析—bs4+jsonpath
@@ -240,10 +244,6 @@
       release_time: 2025.03.22 15:49:29
       title: 车载系统加固方法深入浅出(二)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497693&idx=1&sn=ccfbd9daa0da3df282969878d604ec78
-    - author: 二进制磨剑
-      release_time: 2025.03.22 11:56:22
-      title: IDA技巧（121）限制搜索到地址范围
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485521&idx=1&sn=54a4e8bebc2d2ea8eb19a8a42f0d8444
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
