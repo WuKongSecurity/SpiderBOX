@@ -107,10 +107,9 @@
         }
     });
     $('.go-up').click(function () {
-        $('body,html').animate({
-            scrollTop: 0
-        }, 500);
-    return false;
+        $('body,html').animate({scrollTop: 0}, 500);
+        history.replaceState(null, null, location.pathname); // 清除地址栏的 # 号
+        return false;
     }); 
 
  
