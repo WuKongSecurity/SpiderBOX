@@ -31,7 +31,7 @@
       description: feapder 作者出品的爬虫工具库，加解密，json 格式化，header 格式化，cookie 格式化，curl 转 requests，url 参数提取、编码解码，文本对比等
     - title: 猿人学爬虫工具箱
       logo: yuanrenxue.jpg
-      url: https://tool.yuanrenxue.cn/decode_obfuscator
+      url: https://tool.yuanrenxue.cn/
       description: OB 在线解混淆，JS 代码转 AST，curl 转化为爬虫代码等
 
     - title: 青果云
