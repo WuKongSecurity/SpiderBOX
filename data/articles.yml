@@ -132,6 +132,10 @@
       release_time: 2025.03.28 07:46:23
       title: 如何在浏览器中使用 nodejs 模块进行反混淆？
       url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486080&idx=1&sn=be1886fe4d3372af4fe2cec806fa4d1a
+    - author: 逆向狗都不学
+      release_time: 2025.03.28 07:34:13
+      title: 爱库存app逆向
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247483808&idx=1&sn=0aec69c1854968cb4618472224ec2dc3
     - author: 影17
       release_time: 2025.03.27 20:12:31
       title: 通用解析—bs4+jsonpath
@@ -164,6 +168,10 @@
       release_time: 2025.03.26 08:35:46
       title: 不用油猴拓展也能自动注入JSRPC脚本？
       url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486036&idx=1&sn=391d306a38ae94e08ed3beb467d3f0f8
+    - author: 逆向狗都不学
+      release_time: 2025.03.26 08:29:51
+      title: 马蜂窝app逆向
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247483801&idx=1&sn=15fbfc20ed3205292627d332e79a2f5c
     - author: 哆啦安全
       release_time: 2025.03.26 08:08:59
       title: 普通Hook vs 源码级对抗：为什么修改SystemProperties才是改机检测的克星？
@@ -236,14 +244,6 @@
       release_time: 2025.03.23 12:23:29
       title: 逆向百例之安居客参数分析
       url: https://mp.weixin.qq.com/s?__biz=Mzg5MTg1NzU1NA==&mid=2247486289&idx=1&sn=ea7eaa48cad0d049830272d958d980c6
-    - author: 哆啦安全
-      release_time: 2025.03.23 09:21:32
-      title: 普通开发 vs 逆向开发：为什么懂二进制逆向的程序员工资翻倍？
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497724&idx=1&sn=bdda6b9e8380916f425b6fcf2b1d8de4
-    - author: 哆啦安全
-      release_time: 2025.03.23 09:21:32
-      title: 逆向工程师的弹药库-资料领取(1)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497724&idx=2&sn=7508457054ed6595d4edbc5440cf0fb1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
