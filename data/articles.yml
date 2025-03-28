@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.03.29 00:00:00
+      title: 通过MCP协议Claude 3.7 Sonnet可深度集成IDA工具链实现VMP保护的自动化分析
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497791&idx=1&sn=996c3ea431d62e6541962ff1059ffb0b
+    - author: 哆啦安全
+      release_time: 2025.03.29 00:00:00
+      title: 提升Android应用在Google Play上架成功率的关键方法
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497791&idx=2&sn=ab6ac1e00efafb2dbcb74069e164190d
     - author: 静夜随想
       release_time: 2025.03.28 19:29:53
       title: curl_cffi开启gevent协程
@@ -236,14 +244,6 @@
       release_time: 2025.03.24 13:13:01
       title: 车载系统加固方法深入浅出(一)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497732&idx=2&sn=93030760cb58a067102241aadc2b6a4c
-    - author: 哆啦安全
-      release_time: 2025.03.24 13:13:01
-      title: 0成本创业项目推荐
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497732&idx=3&sn=2b09839e3622ee7b227774b258876bd9
-    - author: 二进制磨剑
-      release_time: 2025.03.24 12:08:23
-      title: 颠覆网络安全分析！Text-to-SQL 如何让智能体秒查数据 | 安全智能体 | AGENT 开发
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485526&idx=1&sn=1216025b526fc7cfbdb4ebb71d24baee
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
