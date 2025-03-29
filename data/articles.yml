@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Spade sec
+      release_time: 2025.03.29 01:08:07
+      title: 阶段性过渡(附个人学习路线)
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485590&idx=1&sn=5d79576571c2a615cb6a0744f0f40638
     - author: 哆啦安全
       release_time: 2025.03.29 00:00:00
       title: 通过MCP协议Claude 3.7 Sonnet可深度集成IDA工具链实现VMP保护的自动化分析
@@ -240,10 +244,6 @@
       release_time: 2025.03.24 13:13:01
       title: 车联网逆向攻防:如何让车载系统拒绝"远程劫持"
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497732&idx=1&sn=cb38f061532e8447d186b2a24acee291
-    - author: 哆啦安全
-      release_time: 2025.03.24 13:13:01
-      title: 车载系统加固方法深入浅出(一)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497732&idx=2&sn=93030760cb58a067102241aadc2b6a4c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
