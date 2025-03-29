@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: asone917
+      release_time: 2025.03.28 16:57:00
+      title: 【js逆向】某云模拟登录
+      url: https://www.52pojie.cn/thread-2019537-1-1.html
     - author: North886
       release_time: 2025.03.25 23:17:00
       title: Android组件导出检测工具ComponentFuzzer
@@ -363,10 +367,6 @@
       release_time: 2025.03.15 01:02:00
       title: 【入门】webpack 补环境
       url: https://www.52pojie.cn/thread-2014743-1-1.html
-    - author: 就往丶
-      release_time: 2025.03.10 15:08:00
-      title: 【小程序】绝味鸭脖 xmSign参数逆向
-      url: https://www.52pojie.cn/thread-2013121-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
