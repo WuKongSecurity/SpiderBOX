@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: ShriyGo
+      release_time: 2025.03.30 15:24:31
+      title: 【JS逆向】yun片滑块验证码逆向
+      url: https://bbs.kanxue.com/thread-286252.htm
     - author: 白云精灵
       release_time: 2025.03.30 11:33:12
       title: '[原创] 安卓9.0dex文件加载分析'
@@ -486,10 +490,6 @@
       release_time: 2025.03.23 21:22:54
       title: JS逆向实战|某视频网站的播放地址还原分析
       url: https://blog.csdn.net/qq523176585/article/details/146490790
-    - author: 富到流油^-^
-      release_time: 2025.03.23 19:09:39
-      title: '[分享][下载][讨论][推荐][原创]安卓dex不落地加载实现方法'
-      url: https://bbs.kanxue.com/thread-286150.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
