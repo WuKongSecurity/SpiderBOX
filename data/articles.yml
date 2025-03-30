@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.03.30 10:13:08
+      title: KernelSU全面解析:安卓内核级Root解决方案
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497796&idx=1&sn=95c9d6109499f5e70c612af90c28b044
     - author: 未闻Code
       release_time: 2025.03.30 08:36:10
       title: Python 3.13 正式支持 iOS：移动开发的新篇章
@@ -236,10 +240,6 @@
       release_time: 2025.03.25 10:44:56
       title: 普通调试 vs 内核级逆向：为什么IDA脚本永远学不会真实漏洞挖掘？
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497739&idx=2&sn=71f3812752a2067cfe0d5fcfa885156e
-    - author: 二进制科学
-      release_time: 2025.03.25 00:20:14
-      title: llvm进阶（1）SplitAllCriticalEdges（关键边切割的艺术）
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NDMzMzAwNQ==&mid=2247485973&idx=1&sn=b6a48af4b7c214227eb487f951aba772
     - author: 兔老大Android和iOS逆向
       release_time: 2025.03.24 15:19:49
       title: 【iOS逆向】Instagram抓包小记
