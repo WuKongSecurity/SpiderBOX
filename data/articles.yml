@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.03.31 00:00:00
+      title: 安卓逆向 -- 过某app环境检测
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038447&idx=1&sn=8fe5d1d11a332ac5b9531f5912201ce0
     - author: 哆啦安全
       release_time: 2025.03.30 10:13:08
       title: KernelSU全面解析:安卓内核级Root解决方案
@@ -240,10 +244,6 @@
       release_time: 2025.03.25 10:44:56
       title: 普通调试 vs 内核级逆向：为什么IDA脚本永远学不会真实漏洞挖掘？
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497739&idx=2&sn=71f3812752a2067cfe0d5fcfa885156e
-    - author: 兔老大Android和iOS逆向
-      release_time: 2025.03.24 15:19:49
-      title: 【iOS逆向】Instagram抓包小记
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzY5NjQxMg==&mid=2247484079&idx=1&sn=44bbe46253a407409b5f5bf6531f9666
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
