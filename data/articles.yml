@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.04.01 06:59:22
+      title: Android15绕过SSL证书检测方法
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497808&idx=1&sn=461f5cb9d99bdd06535ec030822e002b
     - author: LLLibra146
       release_time: 2025.03.31 21:46:46
       title: SOP，CORS，CSP 是什么，是做什么的，如何绕过？
@@ -240,10 +244,6 @@
       release_time: 2025.03.26 08:56:33
       title: AST反混淆插件|判断函数调用实参是否均为字面量的方法
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565854&idx=1&sn=225b63c6d73066229cb3c416a04b3564
-    - author: LLLibra146
-      release_time: 2025.03.26 08:35:46
-      title: 不用油猴拓展也能自动注入JSRPC脚本？
-      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486036&idx=1&sn=391d306a38ae94e08ed3beb467d3f0f8
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
