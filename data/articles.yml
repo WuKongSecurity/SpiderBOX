@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.03.31 17:56:24
+      title: 骚神插件9.6.4新特性，支持定位解析iframe内部元素
+      url: https://www.bilibili.com/video/BV1MyZJYdEUb
     - author: DrissionPage
       release_time: 2025.03.30 20:47:43
       title: 页面、元素滚动-DrissionPage官方教程-p21
@@ -117,13 +121,13 @@
       release_time: 2025.03.14 09:27:23
       title: FastAPI+ddddocr,打造你自己的本地打码服务器
       url: https://www.bilibili.com/video/BV1vxQgY4Ed1
-    - author: 冷月不是程序员
-      release_time: 2025.03.14 00:21:28
-      title: Vim使用心得和一些技巧分享
-      url: https://www.bilibili.com/video/BV15FQTYmEQF
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 静夜随想
+      release_time: 2025.03.31 20:36:00
+      title: 用Locust做接口性能测试
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811026&idx=1&sn=1e1ee306933dc605b10781d1ebdc1d28
     - author: 爬虫spider
       release_time: 2025.03.31 18:30:00
       title: 某书 x_mns参数加密
@@ -240,10 +244,6 @@
       release_time: 2025.03.26 08:29:51
       title: 马蜂窝app逆向
       url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247483801&idx=1&sn=15fbfc20ed3205292627d332e79a2f5c
-    - author: 哆啦安全
-      release_time: 2025.03.26 08:08:59
-      title: 普通Hook vs 源码级对抗：为什么修改SystemProperties才是改机检测的克星？
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497745&idx=1&sn=9a4444cc7b862f026918c4ecaa5918c1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
