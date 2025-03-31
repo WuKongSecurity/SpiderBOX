@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小白技术社
+      release_time: 2025.03.31 14:26:27
+      title: 绕过自实现SSL证书检测
+      url: https://mp.weixin.qq.com/s?__biz=MzI4NTE1NDMwMA==&mid=2247485278&idx=1&sn=c18ddb3c3e6537329950d59548d33998
+    - author: 独步爬虫逆向
+      release_time: 2025.03.31 14:11:04
+      title: 某宝bx-pp wasm反编译纯算法2
+      url: https://mp.weixin.qq.com/s?__biz=MzkzODYzNjg4OA==&mid=2247484276&idx=1&sn=8d8857c77e35fcc902d371fca761df4b
     - author: 哆啦安全
       release_time: 2025.03.31 13:14:11
       title: 【关注、点赞、收藏】手机锁屏密码忘了？1分钟教你无痛解锁（不丢数据）
@@ -236,17 +244,13 @@
       release_time: 2025.03.25 20:57:19
       title: 简单聊聊常见的负载均衡算法
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990193&idx=1&sn=5a626d9808931bc88d3363b779710251
-    - author: js android ios逆向
-      release_time: 2025.03.25 20:05:45
-      title: shopee app算法分析第二篇
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0NzU3MjQzNA==&mid=2247485543&idx=1&sn=1e36f4679faab17558e6f05842e543a6
-    - author: 榫卯江湖
-      release_time: 2025.03.25 18:00:20
-      title: eCapture开源项目三周年，v1.0.0稳定版发布
-      url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485104&idx=1&sn=a973fbf2209e230aa4fa299ca9039a5c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: namename123
+      release_time: 2025.03.31 14:13:00
+      title: 编写Xposed模块--小白教程
+      url: https://www.52pojie.cn/thread-2020266-1-1.html
     - author: ShriyGo
       release_time: 2025.03.30 15:09:00
       title: 【JS逆向】yun片滑块验证码分析
@@ -255,6 +259,10 @@
       release_time: 2025.03.28 16:57:00
       title: 【js逆向】某云模拟登录
       url: https://www.52pojie.cn/thread-2019537-1-1.html
+    - author: ipk2046
+      release_time: 2025.03.28 15:08:00
+      title: Mac上反编译Android的APK
+      url: https://www.52pojie.cn/thread-2019504-1-1.html
     - author: North886
       release_time: 2025.03.25 23:17:00
       title: Android组件导出检测工具ComponentFuzzer
@@ -359,14 +367,6 @@
       release_time: 2025.03.15 11:23:00
       title: 某音滑块captchaBody分析
       url: https://www.52pojie.cn/thread-2014831-1-1.html
-    - author: 就往丶
-      release_time: 2025.03.15 11:00:00
-      title: js过反调试
-      url: https://www.52pojie.cn/thread-2014821-1-1.html
-    - author: paditianxiu
-      release_time: 2025.03.15 01:53:00
-      title: 某绿色聊天软件添加长按菜单
-      url: https://www.52pojie.cn/thread-2014747-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
