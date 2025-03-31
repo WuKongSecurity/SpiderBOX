@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 奋飞安全
+      release_time: 2025.03.31 10:59:04
+      title: 结合AI对WhatsApp的分析（二）
+      url: https://mp.weixin.qq.com/s?__biz=MzI4NzMwNDI3OQ==&mid=2247484964&idx=1&sn=be3239745f795a981053668147ac7a96
     - author: 逆向狗都不学
       release_time: 2025.03.31 08:26:13
       title: 秀动app逆向
@@ -240,10 +244,6 @@
       release_time: 2025.03.25 16:54:24
       title: 去除QQ聊天窗口的平滑滚动动画
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142073&idx=1&sn=de8b782b4cbed3af3313fcc6a18ce317
-    - author: 哆啦安全
-      release_time: 2025.03.25 10:44:56
-      title: 安全研究资料库大全(2025)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497739&idx=1&sn=ae5d8a270fdec1e639eebd5cd7d3e633
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
