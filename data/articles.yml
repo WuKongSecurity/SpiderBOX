@@ -248,6 +248,10 @@
     term: 公众号
   - links:
     - author: namename123
+      release_time: 2025.03.31 17:08:00
+      title: 编写so文件以及android studio国内镜像配置
+      url: https://www.52pojie.cn/thread-2020344-1-1.html
+    - author: namename123
       release_time: 2025.03.31 14:13:00
       title: 编写Xposed模块--小白教程
       url: https://www.52pojie.cn/thread-2020266-1-1.html
@@ -363,10 +367,6 @@
       release_time: 2025.03.15 14:38:00
       title: 某邮箱"XMTLS" 实现简要分析
       url: https://www.52pojie.cn/thread-2014899-1-1.html
-    - author: li083m
-      release_time: 2025.03.15 11:23:00
-      title: 某音滑块captchaBody分析
-      url: https://www.52pojie.cn/thread-2014831-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
