@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: ShriyGo
+      release_time: 2025.03.30 15:09:00
+      title: 【JS逆向】yun片滑块验证码分析
+      url: https://www.52pojie.cn/thread-2020008-1-1.html
     - author: asone917
       release_time: 2025.03.28 16:57:00
       title: 【js逆向】某云模拟登录
@@ -363,10 +367,6 @@
       release_time: 2025.03.15 01:53:00
       title: 某绿色聊天软件添加长按菜单
       url: https://www.52pojie.cn/thread-2014747-1-1.html
-    - author: 就往丶
-      release_time: 2025.03.15 01:02:00
-      title: 【入门】webpack 补环境
-      url: https://www.52pojie.cn/thread-2014743-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
