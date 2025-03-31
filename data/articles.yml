@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向狗都不学
+      release_time: 2025.03.31 08:26:13
+      title: 秀动app逆向
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247483818&idx=1&sn=b574866490840746fb5dff1b99409a4c
     - author: 逆向有你
       release_time: 2025.03.31 00:00:00
       title: 安卓逆向 -- 过某app环境检测
@@ -240,10 +244,6 @@
       release_time: 2025.03.25 10:44:56
       title: 安全研究资料库大全(2025)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497739&idx=1&sn=ae5d8a270fdec1e639eebd5cd7d3e633
-    - author: 哆啦安全
-      release_time: 2025.03.25 10:44:56
-      title: 普通调试 vs 内核级逆向：为什么IDA脚本永远学不会真实漏洞挖掘？
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497739&idx=2&sn=71f3812752a2067cfe0d5fcfa885156e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
