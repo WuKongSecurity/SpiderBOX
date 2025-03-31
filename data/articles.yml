@@ -2,6 +2,10 @@
   list:
   - links:
     - author: DrissionPage
+      release_time: 2025.03.30 20:47:43
+      title: 页面、元素滚动-DrissionPage官方教程-p21
+      url: https://www.bilibili.com/video/BV1SqZBY5EaP
+    - author: DrissionPage
       release_time: 2025.03.26 23:48:06
       title: 听说虾皮会检测DrissionPage
       url: https://www.bilibili.com/video/BV1iKZNY4ENa
@@ -117,10 +121,6 @@
       release_time: 2025.03.14 00:21:28
       title: Vim使用心得和一些技巧分享
       url: https://www.bilibili.com/video/BV15FQTYmEQF
-    - author: 一只勇敢的小佳
-      release_time: 2025.03.13 22:26:34
-      title: stalkercpp版本的trace工具使用，小佳的开源trace工具！！！
-      url: https://www.bilibili.com/video/BV1LdQPYkEgU
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
