@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: LLLibra146
+      release_time: 2025.03.31 21:46:46
+      title: SOP，CORS，CSP 是什么，是做什么的，如何绕过？
+      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486112&idx=1&sn=7f9d6f5a87a77ed678ba4800ac5323cb
     - author: 静夜随想
       release_time: 2025.03.31 20:36:00
       title: 用Locust做接口性能测试
@@ -240,10 +244,6 @@
       release_time: 2025.03.26 08:35:46
       title: 不用油猴拓展也能自动注入JSRPC脚本？
       url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486036&idx=1&sn=391d306a38ae94e08ed3beb467d3f0f8
-    - author: 逆向狗都不学
-      release_time: 2025.03.26 08:29:51
-      title: 马蜂窝app逆向
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247483801&idx=1&sn=15fbfc20ed3205292627d332e79a2f5c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
