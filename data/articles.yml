@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2025.03.31 21:27:29
+      title: 四卡本地vLLM跑千问QwQ32b驱动MCP智能体查询当前上海天气
+      url: https://www.bilibili.com/video/BV1hSZHYwEvt
     - author: B站用户骚神
       release_time: 2025.03.31 17:56:24
       title: 骚神插件9.6.4新特性，支持定位解析iframe内部元素
@@ -117,10 +121,6 @@
       release_time: 2025.03.16 20:42:25
       title: Python零基础入门，最快速度带你熟练掌握，2025最新
       url: https://www.bilibili.com/video/BV1keQaYhE35
-    - author: B站用户骚神
-      release_time: 2025.03.14 09:27:23
-      title: FastAPI+ddddocr,打造你自己的本地打码服务器
-      url: https://www.bilibili.com/video/BV1vxQgY4Ed1
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
