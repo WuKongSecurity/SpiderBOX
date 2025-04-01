@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.04.01 17:14:03
+      title: 2025腾讯游戏安全技术竞赛初赛-题解(有源码)
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142125&idx=1&sn=0c893d6be87fe710f3000c82e9590822
+    - author: 虫术
+      release_time: 2025.04.01 17:13:25
+      title: OpenAI 新突破：GPT-4o 图像生成功能震撼登场​
+      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486218&idx=1&sn=9b2d3ba40d9a42663982d9064d7d8a3a
     - author: 丫总逆向
       release_time: 2025.04.01 12:28:01
       title: PX2/3 payload参数加密与反解
@@ -236,14 +244,6 @@
       release_time: 2025.03.27 09:00:00
       title: 反爬和反反爬--------wasm代码原理(wasm篇)
       url: https://mp.weixin.qq.com/s?__biz=MzkwMzg4NDI4Mw==&mid=2247484285&idx=1&sn=5c14b012b8f5d225ce2028037c6ada05
-    - author: 哆啦安全
-      release_time: 2025.03.27 08:59:38
-      title: ARM芯片爆重大安全漏洞，影响全部设备且无修复方案
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497757&idx=1&sn=d573208dffe2f64182ba053d7f8655c5
-    - author: 吾爱破解论坛
-      release_time: 2025.03.26 09:30:00
-      title: IDA 9.1 & IDA 8.5 算法分析
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142083&idx=1&sn=1fb2b734c134f9f16c9014f63c456578
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
