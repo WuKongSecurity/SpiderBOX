@@ -9,10 +9,22 @@
       release_time: 2025.03.31 17:56:24
       title: 骚神插件9.6.4新特性，支持定位解析iframe内部元素
       url: https://www.bilibili.com/video/BV1MyZJYdEUb
+    - author: HD236300
+      release_time: 2025.03.31 11:12:59
+      title: 【2025】花一百万买的Python全套教程，免费分享给大家，从入门到精通，全是干货，小白必看！通俗易懂，全方位讲解，让你少走100%的弯路！
+      url: https://www.bilibili.com/video/BV1RRZEYcEfu
     - author: DrissionPage
       release_time: 2025.03.30 20:47:43
       title: 页面、元素滚动-DrissionPage官方教程-p21
       url: https://www.bilibili.com/video/BV1SqZBY5EaP
+    - author: HD236300
+      release_time: 2025.03.30 19:08:36
+      title: 写程序最重要的工具，IDEA中调试模式的使用
+      url: https://www.bilibili.com/video/BV1UCZBYgEqa
+    - author: HD236300
+      release_time: 2025.03.30 14:01:40
+      title: 2025最新Python爬虫基础课程，持续更新中
+      url: https://www.bilibili.com/video/BV17CZqYHEbQ
     - author: DrissionPage
       release_time: 2025.03.26 23:48:06
       title: 听说虾皮会检测DrissionPage
@@ -109,21 +121,13 @@
       release_time: 2025.03.17 21:31:29
       title: 加速乐逆向-反混淆
       url: https://www.bilibili.com/video/BV1N3XTYPEnF
-    - author: 漠染千舟
-      release_time: 2025.03.17 06:42:36
-      title: 一行代码检测开发者工具&&开源&&一流
-      url: https://www.bilibili.com/video/BV1kcQiYzEPT
-    - author: 和沐阳学逆向
-      release_time: 2025.03.16 22:25:10
-      title: 57.iOS逆向教程——越狱及逆向环境搭建
-      url: https://www.bilibili.com/video/BV1xWQaYMEhs
-    - author: HD236300
-      release_time: 2025.03.16 20:42:25
-      title: Python零基础入门，最快速度带你熟练掌握，2025最新
-      url: https://www.bilibili.com/video/BV1keQaYhE35
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.04.01 21:00:00
+      title: 独家揭秘：X系列算法如何破解某站签名加密之谜
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990211&idx=1&sn=fa685338c7becbdfe954f5648170f9c2
     - author: 吾爱破解论坛
       release_time: 2025.04.01 17:14:03
       title: 2025腾讯游戏安全技术竞赛初赛-题解(有源码)
@@ -240,10 +244,6 @@
       release_time: 2025.03.27 14:29:23
       title: 安卓系统定制：从入门到实践PDF下载
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484786&idx=1&sn=85612cbc5028e0411c1457838579d6c1
-    - author: 我真的不是蜘蛛
-      release_time: 2025.03.27 09:00:00
-      title: 反爬和反反爬--------wasm代码原理(wasm篇)
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMzg4NDI4Mw==&mid=2247484285&idx=1&sn=5c14b012b8f5d225ce2028037c6ada05
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
