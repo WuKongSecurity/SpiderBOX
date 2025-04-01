@@ -247,6 +247,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: zeredy
+      release_time: 2025.04.01 12:36:00
+      title: 使用frida完成【moji辞典V8.4.0】永久会员过程
+      url: https://www.52pojie.cn/thread-2020600-1-1.html
+    - author: dandinggeL
+      release_time: 2025.03.31 21:29:00
+      title: 本田车机破解，安卓4.2.2车机
+      url: https://www.52pojie.cn/thread-2020421-1-1.html
     - author: namename123
       release_time: 2025.03.31 17:08:00
       title: 编写so文件以及android studio国内镜像配置
@@ -359,14 +367,6 @@
       release_time: 2025.03.15 18:44:00
       title: 【JS逆向】某审批局加解密逆向分析
       url: https://www.52pojie.cn/thread-2014994-1-1.html
-    - author: yyyyyyzh
-      release_time: 2025.03.15 16:56:00
-      title: 分析某库登录逻辑以及协议复现
-      url: https://www.52pojie.cn/thread-2014961-1-1.html
-    - author: 我是不会改名的
-      release_time: 2025.03.15 14:38:00
-      title: 某邮箱"XMTLS" 实现简要分析
-      url: https://www.52pojie.cn/thread-2014899-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
