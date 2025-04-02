@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: LLLibra146
+      release_time: 2025.04.03 07:45:50
+      title: webpack逆向全解析：打包原理+代码自吐方案介绍
+      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486151&idx=1&sn=f94fc395ca3e29335a4a66cfde0b91c1
     - author: 逆向有你
       release_time: 2025.04.03 00:00:00
       title: 安卓逆向 -- 某app signature参数分析
@@ -240,10 +244,6 @@
       release_time: 2025.03.28 19:29:53
       title: curl_cffi开启gevent协程
       url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811015&idx=1&sn=830494a8df6b45d5b36cc3336efa9e8a
-    - author: 哆啦安全
-      release_time: 2025.03.28 12:26:32
-      title: Google将闭源Android系统源码吗？
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497777&idx=1&sn=960fbe2399484e611b756cf038fccb5e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
