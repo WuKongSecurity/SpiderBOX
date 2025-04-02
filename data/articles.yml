@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.04.02 15:01:12
+      title: 蜂巢防御:移动安全生态的智能聚变时代
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497822&idx=1&sn=5b30362f924ffc579c1254e9e7f90c18
     - author: 吾爱破解论坛
       release_time: 2025.04.02 09:25:00
       title: 腾讯游戏安全大赛2025初赛题解
@@ -240,10 +244,6 @@
       release_time: 2025.03.28 07:46:23
       title: 如何在浏览器中使用 nodejs 模块进行反混淆？
       url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486080&idx=1&sn=be1886fe4d3372af4fe2cec806fa4d1a
-    - author: 逆向狗都不学
-      release_time: 2025.03.28 07:34:13
-      title: 爱库存app逆向
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247483808&idx=1&sn=0aec69c1854968cb4618472224ec2dc3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
