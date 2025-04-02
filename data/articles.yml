@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 悠悠0F
+      release_time: 2025.04.02 10:45:07
+      title: '[分享]Android svc hook方案'
+      url: https://bbs.kanxue.com/thread-286308.htm
     - author: 九月镇灵将
       release_time: 2025.04.02 10:00:23
       title: 3.实战：首页增加主机资源可视化
@@ -486,10 +490,6 @@
       release_time: 2025.03.25 18:59:13
       title: 某Z节验证码
       url: https://blog.csdn.net/mamenqi_csdn/article/details/146505324
-    - author: 小爬菜
-      release_time: 2025.03.25 16:37:08
-      title: web逆向笔记 python如何调用node中异步运行结果（DeepSeek）
-      url: https://blog.csdn.net/qq_49268524/article/details/146506744
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
