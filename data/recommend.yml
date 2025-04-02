@@ -89,10 +89,10 @@
       description: Bright Data 亮数据，使用全球最大的 IP 网络，利用内置的抓取和解锁功能获得访问权，并简化数据提取
       track: ad_brightdata
 
-    - title: 站长微信公众号
-      logo: bob.jpg
-      qrcode: images/qrcode/IT_BOB.jpg
-      description: 站长公众号：虫技
+#    - title: 站长微信公众号
+#      logo: bob.jpg
+#      qrcode: images/qrcode/IT_BOB.jpg
+#      description: 站长公众号：虫技
     - title: TrackMe - fp API
       logo: peet.jpg
       url: https://tls.peet.ws/
@@ -110,7 +110,14 @@
       qrcode: images/qrcode/shiyi_zsxq.jpg
       url: https://t.zsxq.com/14tPsY8si
       description: 各种JS逆向/验证码逆向/图像识别训练/自动化爬虫干货分享
-    - title: Chrome for Testing availability
-      logo: chromedriver.jpg
-      url: https://googlechromelabs.github.io/chrome-for-testing/
-      description: 获取 Chrome 所有版本（113 以后的）的安装包，以及 Chrome Driver 驱动
+#    - title: Chrome for Testing availability
+#      logo: chromedriver.jpg
+#      url: https://googlechromelabs.github.io/chrome-for-testing/
+#      description: 获取 Chrome 所有版本（113 以后的）的安装包，以及 Chrome Driver 驱动
+
+    - title: Thordata
+      ads: true
+      url: https://www.thordata.com/?ls=dhz&lk=spiderbox
+      image: images/ads/thordata_1779x201.png
+      description: Thordata 以实惠的价格使用 600万个 IP 扩展您的访问，专为企业和经销商量身打造的可靠、高品质代理解决方案。
+      track: ad_thordata
