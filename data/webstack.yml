@@ -1667,13 +1667,17 @@
           logo: brightdata.png
           url: https://get.brightdata.com/17arn8
           description: Award winning proxy networks, powerful web scrapers, and ready-to-use datasets for download. Welcome to the world's number one web data platform.
+        - title: Thordata
+          logo: thordata.jpg
+          url: https://www.thordata.com/?ls=dhz&lk=spiderbox
+          description: Scale Your Access with 60 Million IPs at Affordable Prices. Reliable, high-quality proxy solutions tailored for businesses and distributors.
         - title: NxtProxy
           logo: nstproxy.jpg
-          url: https://www.nstproxy.com/
+          url: https://app.nstproxy.com/register?i=EKtJne
           description: nstproxy provide various types of proxies, including rotating residential proxies(city target and country target), datacenter proxies, ipv6 proxies, ISP proxies, and mobile proxies. Partner with nstproxy to get high-quality proxies that meet your needs for data collection, web scraping, and privacy protection.
         - title: DataBay
           logo: databay.jpg
-          url: https://databay.com/
+          url: https://databay.com/r/A9468EC/
           description: Access 23M+ Real-Device IPs with our Top Proxy Solution. Enhance data collection from various locations using reliable proxies for success.
         - title: IPIDEA
           logo: ipidea.jpg
