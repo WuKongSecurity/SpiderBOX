@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: ShriyGo
+      release_time: 2025.04.02 15:00:00
+      title: 易盾滑块解混淆
+      url: https://www.bilibili.com/video/BV1zaZHYCELb
     - author: r0ysue
       release_time: 2025.03.31 21:27:29
       title: 四卡本地vLLM跑千问QwQ32b驱动MCP智能体查询当前上海天气
@@ -13,6 +17,10 @@
       release_time: 2025.03.31 11:12:59
       title: 【2025】花一百万买的Python全套教程，免费分享给大家，从入门到精通，全是干货，小白必看！通俗易懂，全方位讲解，让你少走100%的弯路！
       url: https://www.bilibili.com/video/BV1RRZEYcEfu
+    - author: ShriyGo
+      release_time: 2025.03.31 10:00:00
+      title: 某验三代点选w逆向
+      url: https://www.bilibili.com/video/BV19eZBYjE3V
     - author: DrissionPage
       release_time: 2025.03.30 20:47:43
       title: 页面、元素滚动-DrissionPage官方教程-p21
@@ -21,6 +29,10 @@
       release_time: 2025.03.30 19:08:36
       title: 写程序最重要的工具，IDEA中调试模式的使用
       url: https://www.bilibili.com/video/BV1UCZBYgEqa
+    - author: ShriyGo
+      release_time: 2025.03.30 15:09:04
+      title: 云片滑块验证分析
+      url: https://www.bilibili.com/video/BV114ZqYAEEZ
     - author: HD236300
       release_time: 2025.03.30 14:01:40
       title: 2025最新Python爬虫基础课程，持续更新中
@@ -109,21 +121,13 @@
       release_time: 2025.03.19 15:28:36
       title: 爬虫框架
       url: https://www.bilibili.com/video/BV1UJQRYuEpH
-    - author: r0ysue
-      release_time: 2025.03.18 22:29:27
-      title: MiniCPMo2.6用llama.cpp进行Q4量化成gguf格式可以跑在iPad上
-      url: https://www.bilibili.com/video/BV199X7Y5E4A
-    - author: ShriyGo
-      release_time: 2025.03.17 22:38:57
-      title: 极验三代点选反混淆
-      url: https://www.bilibili.com/video/BV1LmXKYSERi
-    - author: ShriyGo
-      release_time: 2025.03.17 21:31:29
-      title: 加速乐逆向-反混淆
-      url: https://www.bilibili.com/video/BV1N3XTYPEnF
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.04.02 20:00:00
+      title: DeepSeek再掀AI革命！一书带你玩转多元智能
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990220&idx=1&sn=a7ae0f6ce8a5172b0579e40a08604446
     - author: 哆啦安全
       release_time: 2025.04.02 15:01:12
       title: 蜂巢防御:移动安全生态的智能聚变时代
@@ -240,10 +244,6 @@
       release_time: 2025.03.28 09:00:00
       title: 反爬和反反爬------wasm逆向(wasm篇)
       url: https://mp.weixin.qq.com/s?__biz=MzkwMzg4NDI4Mw==&mid=2247484288&idx=1&sn=822b8bc4f15e3324725f04e430cbafd5
-    - author: LLLibra146
-      release_time: 2025.03.28 07:46:23
-      title: 如何在浏览器中使用 nodejs 模块进行反混淆？
-      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486080&idx=1&sn=be1886fe4d3372af4fe2cec806fa4d1a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: wx_风宁-secid.cn
+      release_time: 2025.04.02 20:15:54
+      title: '[原创]即时通讯应用协议技术分析报告'
+      url: https://bbs.kanxue.com/thread-286327.htm
     - author: 狗都不学爬虫_
       release_time: 2025.04.02 17:58:01
       title: 某某航空 同盾 blackbox 补环境
@@ -486,10 +490,6 @@
       release_time: 2025.03.27 00:29:57
       title: 古墓派反native混淆方案：实机调试
       url: https://bbs.kanxue.com/thread-286210.htm
-    - author: lichaolich
-      release_time: 2025.03.26 17:08:49
-      title: '[原创]越狱开发工具JBDev1.0发布'
-      url: https://bbs.kanxue.com/thread-286201.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
