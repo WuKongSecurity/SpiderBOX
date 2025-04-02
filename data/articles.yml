@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.04.02 09:25:00
+      title: 腾讯游戏安全大赛2025初赛题解
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142216&idx=1&sn=e8e216b0c55fb3bb1e4143729584f293
+    - author: 爬虫逆向之旅
+      release_time: 2025.04.02 09:00:00
+      title: wasm逆向入门
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzMwNTMzOA==&mid=2247509591&idx=1&sn=e1d9b5a5cee40ab7d800802cd479d768
     - author: 未闻Code
       release_time: 2025.04.01 21:00:00
       title: 独家揭秘：X系列算法如何破解某站签名加密之谜
@@ -236,14 +244,6 @@
       release_time: 2025.03.28 07:34:13
       title: 爱库存app逆向
       url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247483808&idx=1&sn=0aec69c1854968cb4618472224ec2dc3
-    - author: 影17
-      release_time: 2025.03.27 20:12:31
-      title: 通用解析—bs4+jsonpath
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489546&idx=1&sn=9c1bb5dfaf8189343d4f3ca5ad48cd5e
-    - author: 软件安全与逆向分析
-      release_time: 2025.03.27 14:29:23
-      title: 安卓系统定制：从入门到实践PDF下载
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484786&idx=1&sn=85612cbc5028e0411c1457838579d6c1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -371,6 +371,22 @@
     term: 吾爱破解
   - links:
     - author: 九月镇灵将
+      release_time: 2025.04.02 10:00:23
+      title: 3.实战：首页增加主机资源可视化
+      url: https://blog.csdn.net/weixin_43845191/article/details/146599587
+    - author: 九月镇灵将
+      release_time: 2025.04.02 09:55:38
+      title: 6.git项目实现变更拉取与上传
+      url: https://blog.csdn.net/weixin_43845191/article/details/146606815
+    - author: 九月镇灵将
+      release_time: 2025.04.02 08:58:54
+      title: 2.Gerapy与Vue架构解析与源码阅读技巧
+      url: https://blog.csdn.net/weixin_43845191/article/details/146588404
+    - author: 九月镇灵将
+      release_time: 2025.04.02 08:57:16
+      title: 1.Gerapy二次开发流程打通
+      url: https://blog.csdn.net/weixin_43845191/article/details/146565471
+    - author: 九月镇灵将
       release_time: 2025.04.01 14:24:56
       title: GitPython库快速应用入门
       url: https://blog.csdn.net/weixin_43845191/article/details/146911695
@@ -474,22 +490,6 @@
       release_time: 2025.03.25 16:37:08
       title: web逆向笔记 python如何调用node中异步运行结果（DeepSeek）
       url: https://blog.csdn.net/qq_49268524/article/details/146506744
-    - author: 小爬菜
-      release_time: 2025.03.25 16:00:33
-      title: web爬虫笔记：js逆向案例十一 某数cookie(补环境流程)
-      url: https://blog.csdn.net/qq_49268524/article/details/146505441
-    - author: ShriyGo
-      release_time: 2025.03.25 13:28:52
-      title: 【JS逆向】某验三代点选逆向分析
-      url: https://bbs.kanxue.com/thread-286163.htm
-    - author: 我是花臂不花
-      release_time: 2025.03.25 13:28:50
-      title: 小破孩exe逆向笔记
-      url: https://blog.csdn.net/u010226586/article/details/146501100
-    - author: 带带弟弟学爬虫__
-      release_time: 2025.03.25 12:38:30
-      title: 某菠萝小说trace还原sign(一)
-      url: https://blog.csdn.net/A_fanyifan/article/details/146500319
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
