@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.04.03 09:20:00
+      title: 2025腾讯游戏安全竞赛 PC客户端安全 初赛WP
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142248&idx=1&sn=f5b4309b4d87a3ef85da8cff285213e0
     - author: LLLibra146
       release_time: 2025.04.03 07:45:50
       title: webpack逆向全解析：打包原理+代码自吐方案介绍
@@ -240,10 +244,6 @@
       release_time: 2025.03.29 00:00:00
       title: 提升Android应用在Google Play上架成功率的关键方法
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497791&idx=2&sn=ab6ac1e00efafb2dbcb74069e164190d
-    - author: 静夜随想
-      release_time: 2025.03.28 19:29:53
-      title: curl_cffi开启gevent协程
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811015&idx=1&sn=830494a8df6b45d5b36cc3336efa9e8a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
