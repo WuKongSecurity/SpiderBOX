@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.04.03 21:28:00
+      title: Google Gemini 2.0 网页抓取真丝滑
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990227&idx=1&sn=8df275d36ad21730aa93bdad1546a99e
     - author: 虫术
       release_time: 2025.04.03 15:50:04
       title: 多模态 AI 的视觉革命：GPT-4o 图像生成功能测评
@@ -240,10 +244,6 @@
       release_time: 2025.03.29 01:08:07
       title: 阶段性过渡(附个人学习路线)
       url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485590&idx=1&sn=5d79576571c2a615cb6a0744f0f40638
-    - author: 哆啦安全
-      release_time: 2025.03.29 00:00:00
-      title: 通过MCP协议Claude 3.7 Sonnet可深度集成IDA工具链实现VMP保护的自动化分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497791&idx=1&sn=996c3ea431d62e6541962ff1059ffb0b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
