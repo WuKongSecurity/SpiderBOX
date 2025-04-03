@@ -173,9 +173,9 @@
       title: OpenAI 新突破：GPT-4o 图像生成功能震撼登场​
       url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486218&idx=1&sn=9b2d3ba40d9a42663982d9064d7d8a3a
     - author: 丫总逆向
-      release_time: 2025.04.01 12:18:55
+      release_time: 2025.04.01 12:28:01
       title: PX2/3 payload参数加密与反解
-      url: https://mp.weixin.qq.com/s?__biz=MzU1NjQ2Njg4OA==&mid=2247483816&idx=1&sn=d6b0b7a50669541378f224c3e2e43562
+      url: https://mp.weixin.qq.com/s?__biz=MzU1NjQ2Njg4OA==&mid=2247483834&idx=1&sn=fb60518ae71a01a1d2b462d93b8838ca
     - author: 逆向与爬虫的故事
       release_time: 2025.04.01 08:20:00
       title: 重定向陷阱？居然可以这么玩！！！
@@ -370,6 +370,14 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 九月镇灵将
+      release_time: 2025.04.03 11:33:44
+      title: 5.解决项目删除失败与scrapyd同步删除
+      url: https://blog.csdn.net/weixin_43845191/article/details/146605443
+    - author: 九月镇灵将
+      release_time: 2025.04.03 11:33:07
+      title: 4.解决打包与部署失败问题
+      url: https://blog.csdn.net/weixin_43845191/article/details/146603117
     - author: 汉斯鲁昂
       release_time: 2025.04.03 09:53:19
       title: JS逆向-某乎x-zse-96参数（2025-4-3）
@@ -482,14 +490,6 @@
       release_time: 2025.03.27 21:20:19
       title: 【JS逆向】某网站加速乐逆向解混淆
       url: https://bbs.kanxue.com/thread-286225.htm
-    - author: 安卓逆向test
-      release_time: 2025.03.27 20:10:29
-      title: '[原创]基于ptrace注入对unity手游进行dump的方案'
-      url: https://bbs.kanxue.com/thread-286222.htm
-    - author: 带带弟弟学爬虫__
-      release_time: 2025.03.27 15:42:59
-      title: 某菠萝小说trace还原sign(二)
-      url: https://blog.csdn.net/A_fanyifan/article/details/146562309
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
