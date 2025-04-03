@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: null0bj
+      release_time: 2025.04.03 20:22:03
+      title: '[分享]SO文件格式笔记'
+      url: https://bbs.kanxue.com/thread-286352.htm
     - author: 九月镇灵将
       release_time: 2025.04.03 11:33:44
       title: 5.解决项目删除失败与scrapyd同步删除
@@ -486,10 +490,6 @@
       release_time: 2025.03.27 23:16:24
       title: '[原创] 某加密的a26生成分析全过程'
       url: https://bbs.kanxue.com/thread-286228.htm
-    - author: ShriyGo
-      release_time: 2025.03.27 21:20:19
-      title: 【JS逆向】某网站加速乐逆向解混淆
-      url: https://bbs.kanxue.com/thread-286225.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
