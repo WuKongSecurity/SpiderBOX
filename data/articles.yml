@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2025.04.02 22:54:19
+      title: 四卡本地vLLM跑千问QwQ32b驱动MCP智能体查询当前北京时间温哥华时间
+      url: https://www.bilibili.com/video/BV1uifMYtEUw
     - author: ShriyGo
       release_time: 2025.04.02 15:00:00
       title: 易盾滑块解混淆
@@ -117,10 +121,6 @@
       release_time: 2025.03.19 18:43:20
       title: strace 脚本更新，以 shape，抖音的 vmp 为例。
       url: https://www.bilibili.com/video/BV1XoQoYQEYj
-    - author: nothing__233
-      release_time: 2025.03.19 15:28:36
-      title: 爬虫框架
-      url: https://www.bilibili.com/video/BV1UJQRYuEpH
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
