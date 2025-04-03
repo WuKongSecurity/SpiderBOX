@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 虫术
+      release_time: 2025.04.03 15:50:04
+      title: 多模态 AI 的视觉革命：GPT-4o 图像生成功能测评
+      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486227&idx=1&sn=6e8d726c0a1f36e7f4089e9a9ed72f96
     - author: 吾爱破解论坛
       release_time: 2025.04.03 09:20:00
       title: 2025腾讯游戏安全竞赛 PC客户端安全 初赛WP
@@ -240,10 +244,6 @@
       release_time: 2025.03.29 00:00:00
       title: 通过MCP协议Claude 3.7 Sonnet可深度集成IDA工具链实现VMP保护的自动化分析
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497791&idx=1&sn=996c3ea431d62e6541962ff1059ffb0b
-    - author: 哆啦安全
-      release_time: 2025.03.29 00:00:00
-      title: 提升Android应用在Google Play上架成功率的关键方法
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497791&idx=2&sn=ab6ac1e00efafb2dbcb74069e164190d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
