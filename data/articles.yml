@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.04.04 11:36:53
+      title: Android15通过Frida Hook绕过SSL证书检测方法
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497837&idx=1&sn=560ab76e4ca57df0bd13bee1b75ce64a
+    - author: 哆啦安全
+      release_time: 2025.04.04 11:36:53
+      title: CrushFTP存在认证绕过漏洞(CVE-2025-2825)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497837&idx=2&sn=a8c94479ae2b2dcff935713b4b5d1b19
     - author: 未闻Code
       release_time: 2025.04.03 21:28:00
       title: Google Gemini 2.0 网页抓取真丝滑
@@ -236,14 +244,6 @@
       release_time: 2025.03.30 08:36:10
       title: Python 3.13 正式支持 iOS：移动开发的新篇章
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990199&idx=1&sn=350219b2df7e0882dd5127e6d2e30818
-    - author: LLLibra146
-      release_time: 2025.03.29 22:14:28
-      title: 中间人的妙用：自动反混淆 JS 代码并移除反调试代码
-      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486096&idx=1&sn=62980c343480dae7842305653b5ba7d3
-    - author: Spade sec
-      release_time: 2025.03.29 01:08:07
-      title: 阶段性过渡(附个人学习路线)
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485590&idx=1&sn=5d79576571c2a615cb6a0744f0f40638
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
