@@ -371,6 +371,10 @@
     term: 吾爱破解
   - links:
     - author: Nickname肖知寒
+      release_time: 2025.04.04 23:07:43
+      title: chromium魔改——绕过无限debugger反调试
+      url: https://blog.csdn.net/weixin_45307278/article/details/147000324
+    - author: Nickname肖知寒
       release_time: 2025.04.04 16:40:51
       title: chromium魔改——CDP（Chrome DevTools Protocol）检测01
       url: https://blog.csdn.net/weixin_45307278/article/details/146998448
@@ -486,10 +490,6 @@
       release_time: 2025.03.29 18:34:09
       title: '[原创][原创]最新版某姆会员商店的某T盾风控分析与绕过'
       url: https://bbs.kanxue.com/thread-286243.htm
-    - author: mb_cfjwplfo
-      release_time: 2025.03.29 15:12:21
-      title: '[原创]Frida检测以及绕过'
-      url: https://bbs.kanxue.com/thread-286241.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
