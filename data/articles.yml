@@ -382,6 +382,30 @@
       release_time: 2025.04.04 14:42:41
       title: 002.指纹浏览器进阶-传参指定操作系统为macOS
       url: https://blog.csdn.net/w1101662433/article/details/146102904
+    - author: Hrlies
+      release_time: 2025.04.04 10:19:30
+      title: '[原创]Java代码审计的技巧'
+      url: https://bbs.kanxue.com/thread-286334.htm
+    - author: Hrlies
+      release_time: 2025.04.04 10:19:30
+      title: '[原创]Java代码审计的手法和高级审计工具链'
+      url: https://bbs.kanxue.com/thread-286335.htm
+    - author: Hrlies
+      release_time: 2025.04.04 10:19:30
+      title: '[原创]Java反序列化链CommonsCollections的绕过技巧'
+      url: https://bbs.kanxue.com/thread-286336.htm
+    - author: Hrlies
+      release_time: 2025.04.04 10:19:30
+      title: '[原创]Java webshell的绕过'
+      url: https://bbs.kanxue.com/thread-286337.htm
+    - author: Hrlies
+      release_time: 2025.04.04 10:19:30
+      title: '[原创]Java TemplatesImpl的深度利用技巧'
+      url: https://bbs.kanxue.com/thread-286338.htm
+    - author: Hrlies
+      release_time: 2025.04.04 10:19:30
+      title: '[原创]Java LazyMap的深度利用技巧'
+      url: https://bbs.kanxue.com/thread-286339.htm
     - author: Nickname肖知寒
       release_time: 2025.04.03 21:53:06
       title: chromium魔改——修改 webdriver 检测
@@ -466,30 +490,6 @@
       release_time: 2025.03.31 09:16:29
       title: 搭建开源笔记平台：outline
       url: https://blog.csdn.net/Qwertyuiop2016/article/details/146799065
-    - author: cslime
-      release_time: 2025.03.31 09:01:04
-      title: '[原创] NDK集成最新版Pluto'
-      url: https://bbs.kanxue.com/thread-286262.htm
-    - author: 简单的简单
-      release_time: 2025.03.30 22:19:16
-      title: '[原创] OLLVM 攻略笔记'
-      url: https://bbs.kanxue.com/thread-286256.htm
-    - author: ShriyGo
-      release_time: 2025.03.30 15:24:31
-      title: 【JS逆向】yun片滑块验证码逆向
-      url: https://bbs.kanxue.com/thread-286252.htm
-    - author: 白云精灵
-      release_time: 2025.03.30 11:33:12
-      title: '[原创] 安卓9.0dex文件加载分析'
-      url: https://bbs.kanxue.com/thread-286250.htm
-    - author: 心之筑
-      release_time: 2025.03.30 10:50:06
-      title: 安装旧版的frida出问题解决办法
-      url: https://blog.csdn.net/bluedream21str/article/details/146721046
-    - author: Zedbully
-      release_time: 2025.03.29 18:34:09
-      title: '[原创][原创]最新版某姆会员商店的某T盾风控分析与绕过'
-      url: https://bbs.kanxue.com/thread-286243.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
