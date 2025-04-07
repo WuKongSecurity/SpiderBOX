@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: Alone逆向安全
+      release_time: 2025.04.07 12:21:35
+      title: 安卓逆向进阶 c++模拟so执行黑盒框架开发进度
+      url: https://www.bilibili.com/video/BV1MURyYnEDg
     - author: 小肩膀-逆向安全培训
       release_time: 2025.04.05 15:57:01
       title: 【零基础ai编程】calude自动生成爬虫代码【包含课件和答疑】
@@ -117,10 +121,6 @@
       release_time: 2025.03.23 00:07:02
       title: (安卓逆向高级)论TTD在安卓逆向中的杀伤力
       url: https://www.bilibili.com/video/BV1NyXxYWEyT
-    - author: r0ysue
-      release_time: 2025.03.22 19:58:07
-      title: 五卡跑gemma3-12b图片本地推理
-      url: https://www.bilibili.com/video/BV1axXWYZEQz
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: chenchenchen777
+      release_time: 2025.04.07 13:01:00
+      title: 利用frida 探究对于模拟器下arm so加载
+      url: https://www.52pojie.cn/thread-2022064-1-1.html
     - author: asone917
       release_time: 2025.04.06 21:23:00
       title: 【js逆向】虾m视频真实地址
@@ -363,10 +367,6 @@
       release_time: 2025.03.17 13:03:00
       title: 通用去广告大法
       url: https://www.52pojie.cn/thread-2015613-1-1.html
-    - author: pwp
-      release_time: 2025.03.16 17:09:00
-      title: 某专业技术人员继续教育平台登录分析及模拟实践
-      url: https://www.52pojie.cn/thread-2015289-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
