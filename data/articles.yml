@@ -251,6 +251,10 @@
       release_time: 2025.04.07 13:01:00
       title: 利用frida 探究对于模拟器下arm so加载
       url: https://www.52pojie.cn/thread-2022064-1-1.html
+    - author: nangongxt07
+      release_time: 2025.04.07 11:03:00
+      title: 表哥,你也不想你扣的js代码被格式化检测吧
+      url: https://www.52pojie.cn/thread-2022022-1-1.html
     - author: asone917
       release_time: 2025.04.06 21:23:00
       title: 【js逆向】虾m视频真实地址
@@ -363,10 +367,6 @@
       release_time: 2025.03.18 15:12:00
       title: An某客点选加滑块验证Selenium版本
       url: https://www.52pojie.cn/thread-2016084-1-1.html
-    - author: CloudSec
-      release_time: 2025.03.17 13:03:00
-      title: 通用去广告大法
-      url: https://www.52pojie.cn/thread-2015613-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
