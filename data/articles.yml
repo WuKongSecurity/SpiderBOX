@@ -9,6 +9,10 @@
       release_time: 2025.04.05 15:40:29
       title: 【零基础ai编程】cursor的安装【包含课件和答疑】
       url: https://www.bilibili.com/video/BV1cCRRYvEiR
+    - author: 一只勇敢的小佳
+      release_time: 2025.04.04 23:58:14
+      title: 带你手把手编译android的linux内核！！！无需aosp，10分钟编译自己有代码提示的kernel并且重打包boot.img
+      url: https://www.bilibili.com/video/BV1iARDYLEwA
     - author: r0ysue
       release_time: 2025.04.02 22:54:19
       title: 四卡本地vLLM跑千问QwQ32b驱动MCP智能体查询当前北京时间温哥华时间
@@ -117,10 +121,6 @@
       release_time: 2025.03.22 19:58:07
       title: 五卡跑gemma3-12b图片本地推理
       url: https://www.bilibili.com/video/BV1axXWYZEQz
-    - author: B站用户骚神
-      release_time: 2025.03.22 15:33:18
-      title: 用DrissionPage定位破解CloudFlare 5s盾，最细节教学
-      url: https://www.bilibili.com/video/BV1JUXHYNEVp
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: ovo_帮我不c
+      release_time: 2025.04.07 12:48:29
+      title: '[原创] 利用frida 探究对于模拟器下arm so加载'
+      url: https://bbs.kanxue.com/thread-286377.htm
     - author: K哥爬虫
       release_time: 2025.04.07 10:10:08
       title: 【APP 逆向百例】淘某热点 APP 逆向分析
@@ -486,10 +490,6 @@
       release_time: 2025.04.02 08:58:54
       title: 2.Gerapy与Vue架构解析与源码阅读技巧
       url: https://blog.csdn.net/weixin_43845191/article/details/146588404
-    - author: 九月镇灵将
-      release_time: 2025.04.02 08:57:16
-      title: 1.Gerapy二次开发流程打通
-      url: https://blog.csdn.net/weixin_43845191/article/details/146565471
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
