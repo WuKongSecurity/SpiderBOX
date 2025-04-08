@@ -5,6 +5,10 @@
       release_time: 2025.04.07 12:21:35
       title: 安卓逆向进阶 c++模拟so执行黑盒框架开发进度
       url: https://www.bilibili.com/video/BV1MURyYnEDg
+    - author: 那个昵称已经有人用过
+      release_time: 2025.04.07 08:00:00
+      title: 智能体插件MoLing功能演示（MCP Server）
+      url: https://www.bilibili.com/video/BV1gaZoYhERF
     - author: 小肩膀-逆向安全培训
       release_time: 2025.04.05 15:57:01
       title: 【零基础ai编程】calude自动生成爬虫代码【包含课件和答疑】
@@ -117,10 +121,6 @@
       release_time: 2025.03.23 12:27:58
       title: 01 安卓逆向进阶：模拟执行so黑盒框架公开课(序言)
       url: https://www.bilibili.com/video/BV1aFXaYmE8Z
-    - author: Alone逆向安全
-      release_time: 2025.03.23 00:07:02
-      title: (安卓逆向高级)论TTD在安卓逆向中的杀伤力
-      url: https://www.bilibili.com/video/BV1NyXxYWEyT
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
