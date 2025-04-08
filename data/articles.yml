@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2025.04.08 22:15:00
+      title: 四卡本地vLLM跑千问QwQ32b驱动MCP智能体操作浏览电脑文件夹创建文件
+      url: https://www.bilibili.com/video/BV1NKdWYpEbv
     - author: Alone逆向安全
       release_time: 2025.04.07 12:21:35
       title: 安卓逆向进阶 c++模拟so执行黑盒框架开发进度
@@ -117,10 +121,6 @@
       release_time: 2025.03.23 12:28:56
       title: 03 C++ so模型执行框架 - 安卓逆向 & 仿真环境搭建指南
       url: https://www.bilibili.com/video/BV1YFXaYmEcH
-    - author: Alone逆向安全
-      release_time: 2025.03.23 12:27:58
-      title: 01 安卓逆向进阶：模拟执行so黑盒框架公开课(序言)
-      url: https://www.bilibili.com/video/BV1aFXaYmE8Z
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
