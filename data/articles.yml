@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: pwp
+      release_time: 2025.04.09 09:17:00
+      title: 利用土办法+AI编写的视频下载脚本过程复现
+      url: https://www.52pojie.cn/thread-2022604-1-1.html
     - author: utf8
       release_time: 2025.04.08 16:39:00
       title: 某q音乐sign逆向-多角度
@@ -363,10 +367,6 @@
       release_time: 2025.03.20 18:27:00
       title: 某电子书阅读网站EPUB资源逆向分析
       url: https://www.52pojie.cn/thread-2016986-1-1.html
-    - author: lenvy1
-      release_time: 2025.03.20 01:16:00
-      title: 纯小白，记一次某日番动漫网视频地址解密全过程
-      url: https://www.52pojie.cn/thread-2016709-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
