@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.04.10 17:13:48
+      title: JS反混淆实战|ob混淆还原不了？不存在的。
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565879&idx=1&sn=2e77984130d5a6b829e0324f473aa0dd
     - author: 小伍哥聊风控
       release_time: 2025.04.10 11:56:00
       title: MCP + 数据库，一种比 RAG 检索效果更好的新方式！
@@ -240,10 +244,6 @@
       release_time: 2025.04.05 21:31:42
       title: Chrome 调试技巧：如何快速替换JS脚本调试
       url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486165&idx=1&sn=05c00e98d305ec1488edb9d0530a83aa
-    - author: 未闻Code
-      release_time: 2025.04.05 21:00:00
-      title: Phidata源码分析
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990240&idx=1&sn=3f050a7b8efcdafb8902cbebaa8e58a0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
