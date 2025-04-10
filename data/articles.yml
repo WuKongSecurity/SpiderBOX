@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: LLLibra146
+      release_time: 2025.04.10 21:53:47
+      title: JS逆向实战：扣代码时如何快速定位结果不对的问题？
+      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486226&idx=1&sn=78d5d89efbd8073e7597efb47d74ac2d
     - author: 未闻Code
       release_time: 2025.04.10 21:12:29
       title: 本地部署大模型实现扫描版 PDF 文件 OCR 识别，笔记本可跑
@@ -240,10 +244,6 @@
       release_time: 2025.04.06 21:00:00
       title: AI 笔记 NotebookLM 更新：思维导图和资源探索，很酷！
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990246&idx=1&sn=773476be14932119560acae52fbcd9fc
-    - author: 哆啦安全
-      release_time: 2025.04.06 19:24:35
-      title: Android15无需解锁就能Root的解决方案
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497847&idx=1&sn=7d4c81a2cba373867fbff2fc93936669
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
