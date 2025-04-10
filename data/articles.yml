@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.04.10 21:12:29
+      title: 本地部署大模型实现扫描版 PDF 文件 OCR 识别，笔记本可跑
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990272&idx=1&sn=fe8d6d036ed56f1954ea2da264f4b6b1
     - author: 静夜随想
       release_time: 2025.04.10 20:32:37
       title: 一个颇具难度的某数样本
@@ -240,10 +244,6 @@
       release_time: 2025.04.06 19:24:35
       title: Android15无需解锁就能Root的解决方案
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497847&idx=1&sn=7d4c81a2cba373867fbff2fc93936669
-    - author: 二进制科学
-      release_time: 2025.04.06 11:34:07
-      title: llvm进阶（2）LowerSwitch（Switch 到 Branch 的奥秘）
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NDMzMzAwNQ==&mid=2247485987&idx=1&sn=88f34a172caf574f7c0840277d69921d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
