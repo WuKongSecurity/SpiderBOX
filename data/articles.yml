@@ -124,6 +124,110 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.04.10 08:54:13
+      title: 绕过检测终极指南:KernelSU环境下的Frida Hook与eCapture全协议抓包
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497883&idx=1&sn=bbf2c03ad835d6df3fd53f57fecced5a
+    - author: 哆啦安全
+      release_time: 2025.04.10 08:54:13
+      title: IDA Pro+MCP+DeepSeek逆向小实战:构建AI逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497883&idx=2&sn=794b928f6fb2a05f76474f0bcdee8695
+    - author: 逆向有你
+      release_time: 2025.04.10 00:00:00
+      title: 安卓逆向 -- unidbg 0.9.8 解决java高版本anjuke示例代码空指针异常问题
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038507&idx=1&sn=31b91aeb9091b789ef1301fda16da676
+    - author: LLLibra146
+      release_time: 2025.04.09 22:58:33
+      title: JS逆向实战：OB 混淆代码分析+快速绕过 OB 混淆的格式化检测的方法
+      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486212&idx=1&sn=90b819a9989f53d3afdc9876b76f45df
+    - author: 未闻Code
+      release_time: 2025.04.09 21:00:00
+      title: 零代码打造个人AI助手！AutoAgent：Manus和Deep Research的开源版方案！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990264&idx=1&sn=0de9659401eaa8176cd107b67dc1b9a1
+    - author: 季东ooo
+      release_time: 2025.04.09 19:49:56
+      title: 某手APP sig3参数分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjczODUwMw==&mid=2247484472&idx=1&sn=348137d84f0c60e82c2fc7be4e153111
+    - author: 菜鸟学Python编程
+      release_time: 2025.04.09 16:56:12
+      title: AST反混淆插件|纯函数的调用还原,兼容多个函数调用方式
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565869&idx=1&sn=0f74090cfffd04c1e06eeb3a2d9d368a
+    - author: 哆啦安全
+      release_time: 2025.04.09 12:06:00
+      title: cn-sec网站通过爬虫等手段转载"哆啦安全"公众号发的所有文章(禁止未授权转载)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497872&idx=1&sn=4a71c23919ec2c53843560347eb87b8a
+    - author: 哆啦安全
+      release_time: 2025.04.09 12:06:00
+      title: 'IDA Pro MCP: 让AI赋能逆向工程'
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497872&idx=2&sn=3712749738672b2766dac693e6f21977
+    - author: 哆啦安全
+      release_time: 2025.04.09 12:06:00
+      title: 游戏漏洞挖掘课程
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497872&idx=3&sn=19fd397d09f1fc242daaed3d25557a10
+    - author: 哆啦安全
+      release_time: 2025.04.09 12:06:00
+      title: PWN二进制漏洞挖掘与利用
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497872&idx=4&sn=1b9472c66e5e68e6b460d4cba583916c
+    - author: 吾爱破解论坛
+      release_time: 2025.04.09 09:25:00
+      title: 【Android 原创】利用frida 探究对于模拟器下arm so加载
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142341&idx=1&sn=023236a39256a71af1b7bac562075242
+    - author: 逆向有你
+      release_time: 2025.04.09 00:00:00
+      title: 某手游cocos2djs逆向分享之分析思路及切入方法
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038493&idx=1&sn=e0ca56931567b74747f7b0be33e6e0d3
+    - author: 未闻Code
+      release_time: 2025.04.08 21:00:00
+      title: 懒人必备！NarratoAI：影视解说+自动化剪辑，一站式创作神器！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990258&idx=1&sn=12559367ff5a1fd88e45b7baf81e56f4
+    - author: python爬虫和阿J的逆向
+      release_time: 2025.04.08 15:17:14
+      title: 【这是一则招聘信息】
+      url: https://mp.weixin.qq.com/s?__biz=MzkxOTIyODcyOA==&mid=2247485619&idx=1&sn=badfce638457c0f67068b1a54c03513b
+    - author: 吾爱破解论坛
+      release_time: 2025.04.08 11:22:46
+      title: 解开Windows微信备份文件
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142284&idx=1&sn=91a24588b4b5a4e3d952c9db6a26f349
+    - author: 爬虫逆向小林哥
+      release_time: 2025.04.08 09:00:00
+      title: 【安卓逆向】某鲜生平台Xposed-rpc方案
+      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247486320&idx=1&sn=b0c9a1703b003667507a5869528d021d
+    - author: Coder小Q
+      release_time: 2025.04.08 08:30:00
+      title: 【密码学】一文读懂视觉加密(Visual Cryptography)
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491515&idx=1&sn=1809d2d9b0e6a256ae86f78d6c4d4895
+    - author: Spade sec
+      release_time: 2025.04.08 08:00:00
+      title: xss-labs level1 - level10
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485699&idx=1&sn=a356ea9f9d625fc26dbfb011f1301a18
+    - author: 未闻Code
+      release_time: 2025.04.07 21:00:00
+      title: 为何你周一不想动，周五却活力四射？科学研究揭秘动机波动
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990252&idx=1&sn=a25aa64c51bb036a03ea9585fef64ae9
+    - author: 静夜随想
+      release_time: 2025.04.07 20:37:00
+      title: 再探document.all补环境
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811036&idx=1&sn=cf7af648f4ab677ebf52051d011d1d2b
+    - author: 软件安全与逆向分析
+      release_time: 2025.04.07 16:20:48
+      title: 来了，安卓软件开发与逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484795&idx=1&sn=cd1cc95ba3fafe955c6357995287ca13
+    - author: LLLibra146
+      release_time: 2025.04.07 12:47:06
+      title: JSRPC 技巧：如何自动将动态函数暴露到全局
+      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486187&idx=1&sn=32784cd8d67f725e5dd1420c9c2a9080
+    - author: 榫卯江湖
+      release_time: 2025.04.07 08:00:00
+      title: MoLing：无依赖的智能体MCP办公自动化助手
+      url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485128&idx=1&sn=1ddbd2be52843546dac61e9ef38970ff
+    - author: 未闻Code
+      release_time: 2025.04.06 21:00:00
+      title: AI 笔记 NotebookLM 更新：思维导图和资源探索，很酷！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990246&idx=1&sn=773476be14932119560acae52fbcd9fc
+    - author: 哆啦安全
+      release_time: 2025.04.06 19:24:35
+      title: Android15无需解锁就能Root的解决方案
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497847&idx=1&sn=7d4c81a2cba373867fbff2fc93936669
     - author: 二进制科学
       release_time: 2025.04.06 11:34:07
       title: llvm进阶（2）LowerSwitch（Switch 到 Branch 的奥秘）
@@ -136,114 +240,10 @@
       release_time: 2025.04.05 21:00:00
       title: Phidata源码分析
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990240&idx=1&sn=3f050a7b8efcdafb8902cbebaa8e58a0
-    - author: 黑脸怪
-      release_time: 2025.04.04 21:45:27
-      title: Akamai最快ast解混淆思路和教程
-      url: https://mp.weixin.qq.com/s?__biz=MzI3MjQ3OTE3OA==&mid=2247483905&idx=1&sn=6125cab63d9cc0c8a60989e45558adfd
     - author: 哆啦安全
-      release_time: 2025.04.04 11:36:53
-      title: Android15通过Frida Hook绕过SSL证书检测方法
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497837&idx=1&sn=560ab76e4ca57df0bd13bee1b75ce64a
-    - author: 哆啦安全
-      release_time: 2025.04.04 11:36:53
-      title: CrushFTP存在认证绕过漏洞(CVE-2025-2825)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497837&idx=2&sn=a8c94479ae2b2dcff935713b4b5d1b19
-    - author: 未闻Code
-      release_time: 2025.04.03 21:28:00
-      title: Google Gemini 2.0 网页抓取真丝滑
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990227&idx=1&sn=8df275d36ad21730aa93bdad1546a99e
-    - author: 虫术
-      release_time: 2025.04.03 15:50:04
-      title: 多模态 AI 的视觉革命：GPT-4o 图像生成功能测评
-      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486227&idx=1&sn=6e8d726c0a1f36e7f4089e9a9ed72f96
-    - author: 吾爱破解论坛
-      release_time: 2025.04.03 09:20:00
-      title: 2025腾讯游戏安全竞赛 PC客户端安全 初赛WP
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142248&idx=1&sn=f5b4309b4d87a3ef85da8cff285213e0
-    - author: LLLibra146
-      release_time: 2025.04.03 07:45:50
-      title: webpack逆向全解析：打包原理+代码自吐方案介绍
-      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486151&idx=1&sn=f94fc395ca3e29335a4a66cfde0b91c1
-    - author: 逆向有你
-      release_time: 2025.04.03 00:00:00
-      title: 安卓逆向 -- 某app signature参数分析
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038474&idx=1&sn=fe546a2520cb3fa56fa93817b28fc7d6
-    - author: 哆啦安全
-      release_time: 2025.04.03 00:00:00
-      title: Android探针实现思路和方法
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497824&idx=1&sn=ac4a8e8d64c64829efc896f21120ef9e
-    - author: LuckyFuture
-      release_time: 2025.04.02 21:18:00
-      title: 如何hook location相关的方法
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNDE3NjY0OA==&mid=2247484327&idx=1&sn=9d48cc2f786e670c3c77343faa926bc4
-    - author: 未闻Code
-      release_time: 2025.04.02 20:00:00
-      title: DeepSeek再掀AI革命！一书带你玩转多元智能
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990220&idx=1&sn=a7ae0f6ce8a5172b0579e40a08604446
-    - author: 哆啦安全
-      release_time: 2025.04.02 15:01:12
-      title: 蜂巢防御:移动安全生态的智能聚变时代
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497822&idx=1&sn=5b30362f924ffc579c1254e9e7f90c18
-    - author: 吾爱破解论坛
-      release_time: 2025.04.02 09:25:00
-      title: 腾讯游戏安全大赛2025初赛题解
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142216&idx=1&sn=e8e216b0c55fb3bb1e4143729584f293
-    - author: 爬虫逆向之旅
-      release_time: 2025.04.02 09:00:00
-      title: wasm逆向入门
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzMwNTMzOA==&mid=2247509591&idx=1&sn=e1d9b5a5cee40ab7d800802cd479d768
-    - author: 未闻Code
-      release_time: 2025.04.01 21:00:00
-      title: 独家揭秘：X系列算法如何破解某站签名加密之谜
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990211&idx=1&sn=fa685338c7becbdfe954f5648170f9c2
-    - author: 吾爱破解论坛
-      release_time: 2025.04.01 17:14:03
-      title: 2025腾讯游戏安全技术竞赛初赛-题解(有源码)
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142125&idx=1&sn=0c893d6be87fe710f3000c82e9590822
-    - author: 虫术
-      release_time: 2025.04.01 17:13:25
-      title: OpenAI 新突破：GPT-4o 图像生成功能震撼登场​
-      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486218&idx=1&sn=9b2d3ba40d9a42663982d9064d7d8a3a
-    - author: 丫总逆向
-      release_time: 2025.04.01 12:28:01
-      title: PX2/3 payload参数加密与反解
-      url: https://mp.weixin.qq.com/s?__biz=MzU1NjQ2Njg4OA==&mid=2247483834&idx=1&sn=fb60518ae71a01a1d2b462d93b8838ca
-    - author: 逆向与爬虫的故事
-      release_time: 2025.04.01 08:20:00
-      title: 重定向陷阱？居然可以这么玩！！！
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5ODA3OTM1NA==&mid=2247493698&idx=1&sn=0af48fc4a7834e92f78b76d4fbe7864f
-    - author: 哆啦安全
-      release_time: 2025.04.01 06:59:22
-      title: Android15绕过SSL证书检测方法
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497808&idx=1&sn=461f5cb9d99bdd06535ec030822e002b
-    - author: LLLibra146
-      release_time: 2025.03.31 21:46:46
-      title: SOP，CORS，CSP 是什么，是做什么的，如何绕过？
-      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486112&idx=1&sn=7f9d6f5a87a77ed678ba4800ac5323cb
-    - author: 静夜随想
-      release_time: 2025.03.31 20:36:00
-      title: 用Locust做接口性能测试
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811026&idx=1&sn=1e1ee306933dc605b10781d1ebdc1d28
-    - author: 爬虫spider
-      release_time: 2025.03.31 18:30:00
-      title: 某书 x_mns参数加密
-      url: https://mp.weixin.qq.com/s?__biz=MzUyODY3ODUzNw==&mid=2247484141&idx=1&sn=57c3a730a825e58ff6c37940c6c17f1c
-    - author: 小白技术社
-      release_time: 2025.03.31 14:26:27
-      title: 绕过自实现SSL证书检测
-      url: https://mp.weixin.qq.com/s?__biz=MzI4NTE1NDMwMA==&mid=2247485278&idx=1&sn=c18ddb3c3e6537329950d59548d33998
-    - author: 独步爬虫逆向
-      release_time: 2025.03.31 14:11:04
-      title: 某宝bx-pp wasm反编译纯算法2
-      url: https://mp.weixin.qq.com/s?__biz=MzkzODYzNjg4OA==&mid=2247484276&idx=1&sn=8d8857c77e35fcc902d371fca761df4b
-    - author: 哆啦安全
-      release_time: 2025.03.31 13:14:11
-      title: 【关注、点赞、收藏】手机锁屏密码忘了？1分钟教你无痛解锁（不丢数据）
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497803&idx=1&sn=e60482b02a543e3a26af37b0e6013870
-    - author: 奋飞安全
-      release_time: 2025.03.31 10:59:04
-      title: 结合AI对WhatsApp的分析（二）
-      url: https://mp.weixin.qq.com/s?__biz=MzI4NzMwNDI3OQ==&mid=2247484964&idx=1&sn=be3239745f795a981053668147ac7a96
+      release_time: 2025.04.05 12:18:01
+      title: DeepSeep本地部署及微调步骤和微调方法
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497839&idx=1&sn=9ab3570e9b05cded529c6e722e928933
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
