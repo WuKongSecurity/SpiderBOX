@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.04.11 00:00:00
+      title: 安卓逆向2025 -- Frida学习之ollvm分析（一）
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038527&idx=1&sn=6f8079be4bf8e10fcf93548392dcff83
     - author: LLLibra146
       release_time: 2025.04.10 21:53:47
       title: JS逆向实战：扣代码时如何快速定位结果不对的问题？
@@ -240,10 +244,6 @@
       release_time: 2025.04.07 08:00:00
       title: MoLing：无依赖的智能体MCP办公自动化助手
       url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485128&idx=1&sn=1ddbd2be52843546dac61e9ef38970ff
-    - author: 未闻Code
-      release_time: 2025.04.06 21:00:00
-      title: AI 笔记 NotebookLM 更新：思维导图和资源探索，很酷！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990246&idx=1&sn=773476be14932119560acae52fbcd9fc
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
