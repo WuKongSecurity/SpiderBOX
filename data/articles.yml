@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小伍哥聊风控
+      release_time: 2025.04.10 11:56:00
+      title: MCP + 数据库，一种比 RAG 检索效果更好的新方式！
+      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196837&idx=1&sn=6f69e730ab484238353142aa6b70b02a
     - author: 哆啦安全
       release_time: 2025.04.10 08:54:13
       title: 绕过检测终极指南:KernelSU环境下的Frida Hook与eCapture全协议抓包
@@ -240,10 +244,6 @@
       release_time: 2025.04.05 21:00:00
       title: Phidata源码分析
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990240&idx=1&sn=3f050a7b8efcdafb8902cbebaa8e58a0
-    - author: 哆啦安全
-      release_time: 2025.04.05 12:18:01
-      title: DeepSeep本地部署及微调步骤和微调方法
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497839&idx=1&sn=9ab3570e9b05cded529c6e722e928933
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
