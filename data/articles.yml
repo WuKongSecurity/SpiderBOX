@@ -374,6 +374,10 @@
       release_time: 2025.04.09 19:44:29
       title: 某团某点评mtgsig1.2 && H5guard加密算法剖析
       url: https://blog.csdn.net/qq_39802740/article/details/147099883
+    - author: 悦来客栈的老板
+      release_time: 2025.04.09 16:56:33
+      title: AST反混淆插件|纯函数的调用还原,兼容多个函数调用方式
+      url: https://blog.csdn.net/qq523176585/article/details/147109006
     - author: xcisme
       release_time: 2025.04.09 16:36:23
       title: '[分享]文件上传学习【二】'
@@ -486,10 +490,6 @@
       release_time: 2025.04.02 17:58:01
       title: 某某航空 同盾 blackbox 补环境
       url: https://blog.csdn.net/qq_53444631/article/details/146957367
-    - author: zsa233
-      release_time: 2025.04.02 17:50:24
-      title: frida基于bug的Stalker跟踪检测和修复
-      url: https://bbs.kanxue.com/thread-286323.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
