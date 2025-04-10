@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 小黄鸭爱学习
+      release_time: 2025.04.10 18:06:35
+      title: '[讨论]逆向的终点是卖课，准备卖课了。'
+      url: https://bbs.kanxue.com/thread-286427.htm
     - author: b1n_
       release_time: 2025.04.10 17:27:35
       title: '[原创]如何编译lineageOS并刷机'
@@ -486,10 +490,6 @@
       release_time: 2025.04.03 20:45:23
       title: '[原创]逆向一小游戏的成绩提交代码'
       url: https://bbs.kanxue.com/thread-286353.htm
-    - author: null0bj
-      release_time: 2025.04.03 20:22:03
-      title: '[分享]SO文件格式笔记'
-      url: https://bbs.kanxue.com/thread-286352.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
