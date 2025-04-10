@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 芽衣
+      release_time: 2025.04.10 20:52:00
+      title: 梦绘界 美漫园等套壳漫画APP 去除强制更新
+      url: https://www.52pojie.cn/thread-2023122-1-1.html
     - author: pwp
       release_time: 2025.04.09 09:17:00
       title: 利用土办法+AI编写的视频下载脚本过程复现
@@ -363,10 +367,6 @@
       release_time: 2025.03.20 19:06:00
       title: 记一次某免费音频听书网音频地址解析全过程
       url: https://www.52pojie.cn/thread-2017001-1-1.html
-    - author: 逗啊逗
-      release_time: 2025.03.20 18:27:00
-      title: 某电子书阅读网站EPUB资源逆向分析
-      url: https://www.52pojie.cn/thread-2016986-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
