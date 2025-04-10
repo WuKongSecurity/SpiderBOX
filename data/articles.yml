@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 静夜随想
+      release_time: 2025.04.10 20:32:37
+      title: 一个颇具难度的某数样本
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811038&idx=1&sn=ed667bbe1037928c98fa931aeaaf22c1
     - author: 菜鸟学Python编程
       release_time: 2025.04.10 17:13:48
       title: JS反混淆实战|ob混淆还原不了？不存在的。
@@ -240,10 +244,6 @@
       release_time: 2025.04.06 11:34:07
       title: llvm进阶（2）LowerSwitch（Switch 到 Branch 的奥秘）
       url: https://mp.weixin.qq.com/s?__biz=MjM5NDMzMzAwNQ==&mid=2247485987&idx=1&sn=88f34a172caf574f7c0840277d69921d
-    - author: LLLibra146
-      release_time: 2025.04.05 21:31:42
-      title: Chrome 调试技巧：如何快速替换JS脚本调试
-      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486165&idx=1&sn=05c00e98d305ec1488edb9d0530a83aa
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: mb_wdzhnevo
+      release_time: 2025.04.10 20:46:00
+      title: '[讨论]frida在iOS/macOS的注入'
+      url: https://bbs.kanxue.com/thread-286429.htm
     - author: 小黄鸭爱学习
       release_time: 2025.04.10 18:06:35
       title: '[讨论]逆向的终点是卖课，准备卖课了。'
@@ -486,10 +490,6 @@
       release_time: 2025.04.03 21:53:06
       title: chromium魔改——修改 webdriver 检测
       url: https://blog.csdn.net/weixin_45307278/article/details/146986312
-    - author: lesboyspp
-      release_time: 2025.04.03 20:45:23
-      title: '[原创]逆向一小游戏的成绩提交代码'
-      url: https://bbs.kanxue.com/thread-286353.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
