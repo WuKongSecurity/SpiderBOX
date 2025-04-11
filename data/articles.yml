@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: qq_39802740
+      release_time: 2025.04.11 17:25:00
+      title: 某局jsvmp算法分析(dunshan.js/lzkqow23819/lzkqow39189)
+      url: https://blog.csdn.net/qq_39802740/article/details/147148885
     - author: 金罡
       release_time: 2025.04.11 16:35:05
       title: '[原创]用魔法打败魔法：互联网大厂虚拟机还原'
@@ -486,10 +490,6 @@
       release_time: 2025.04.04 14:42:41
       title: 002.指纹浏览器进阶-传参指定操作系统为macOS
       url: https://blog.csdn.net/w1101662433/article/details/146102904
-    - author: Hrlies
-      release_time: 2025.04.04 10:19:30
-      title: '[原创]Java代码审计的技巧'
-      url: https://bbs.kanxue.com/thread-286334.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
