@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: hujss
+      release_time: 2025.04.11 09:12:00
+      title: 接口数据返回的用户名被编码，如何解码
+      url: https://www.52pojie.cn/thread-2023214-1-1.html
     - author: 芽衣
       release_time: 2025.04.10 20:52:00
       title: 梦绘界 美漫园等套壳漫画APP 去除强制更新
@@ -363,10 +367,6 @@
       release_time: 2025.03.21 21:46:00
       title: 【JS逆向】某验三代点选逆向分析
       url: https://www.52pojie.cn/thread-2017394-1-1.html
-    - author: chboy
-      release_time: 2025.03.21 16:39:00
-      title: 记一次简单的JS(ob高级)混淆算法逆向分析
-      url: https://www.52pojie.cn/thread-2017304-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
@@ -382,6 +382,10 @@
       release_time: 2025.04.10 17:27:35
       title: '[原创]如何编译lineageOS并刷机'
       url: https://bbs.kanxue.com/thread-286426.htm
+    - author: 悦来客栈的老板
+      release_time: 2025.04.10 17:14:10
+      title: JS反混淆实战|ob混淆还原不了？不存在的。
+      url: https://blog.csdn.net/qq523176585/article/details/147133043
     - author: 九月镇灵将
       release_time: 2025.04.10 15:02:41
       title: Gerapy二次开发：用户管理专栏新增与编辑页面开发
@@ -486,10 +490,6 @@
       release_time: 2025.04.04 10:19:30
       title: '[原创]Java LazyMap的深度利用技巧'
       url: https://bbs.kanxue.com/thread-286339.htm
-    - author: Nickname肖知寒
-      release_time: 2025.04.03 21:53:06
-      title: chromium魔改——修改 webdriver 检测
-      url: https://blog.csdn.net/weixin_45307278/article/details/146986312
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
