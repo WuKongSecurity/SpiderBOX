@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2025.04.12 22:57:53
+      title: 本地部署QwQ32B接入OpenManus帮我制定无锡三日旅游计划调用浏览器百度搜索网页抓取保存结果文件并格式化成markdown格式
+      url: https://www.bilibili.com/video/BV1B9dhYYEkm
     - author: 悦来客栈的老板
       release_time: 2025.04.12 16:11:39
       title: AST反混淆实战系列-星球插件的使用
@@ -117,10 +121,6 @@
       release_time: 2025.03.24 21:08:36
       title: vLLM四卡跑量化版QwQ-32B-AWQ速度42ts
       url: https://www.bilibili.com/video/BV1cyo2YUEaF
-    - author: HD236300
-      release_time: 2025.03.24 14:38:15
-      title: 游戏案例讲解Python面向对象编程，50分钟带你入门，2.5小时完全掌握，2025最新
-      url: https://www.bilibili.com/video/BV1AYokY6EwD
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
