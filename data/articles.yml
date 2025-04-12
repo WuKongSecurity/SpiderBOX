@@ -251,6 +251,14 @@
       release_time: 2025.04.12 17:17:00
       title: 某短视频33.x.0过boringssl检测抓包方案
       url: https://www.52pojie.cn/thread-2023645-1-1.html
+    - author: zzyzy
+      release_time: 2025.04.12 14:35:00
+      title: 某房指数一个简单的aes加解密。
+      url: https://www.52pojie.cn/thread-2023597-1-1.html
+    - author: utf8
+      release_time: 2025.04.12 13:34:00
+      title: 某贝漫画逆向分析
+      url: https://www.52pojie.cn/thread-2023585-1-1.html
     - author: hujss
       release_time: 2025.04.11 09:12:00
       title: 接口数据返回的用户名被编码，如何解码
@@ -359,14 +367,6 @@
       release_time: 2025.03.22 23:41:00
       title: 某东培训网络学院登录分析
       url: https://www.52pojie.cn/thread-2017695-1-1.html
-    - author: Juana111
-      release_time: 2025.03.22 15:58:00
-      title: 安卓逆向学习4-frida编译调试、框架学习
-      url: https://www.52pojie.cn/thread-2017591-1-1.html
-    - author: Aircraftcomman5
-      release_time: 2025.03.21 22:16:00
-      title: 某某猫投诉signature逆向-----------小白讲解08
-      url: https://www.52pojie.cn/thread-2017218-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
