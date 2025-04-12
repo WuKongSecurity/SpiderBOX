@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 悦来客栈的老板
+      release_time: 2025.04.12 16:11:39
+      title: AST反混淆实战系列-星球插件的使用
+      url: https://www.bilibili.com/video/BV1ohd8YbERi
+    - author: 悦来客栈的老板
+      release_time: 2025.04.12 14:42:47
+      title: AST反混淆实战系列-通用模板的使用
+      url: https://www.bilibili.com/video/BV12edhYjEx3
     - author: HD236300
       release_time: 2025.04.11 22:42:15
       title: 掌握Python的前提下，快速学习JavaScript，从Python到JavaScript，掌握你的第二门编程语言，JS逆向前置，JavaScript语法基础
@@ -113,14 +121,6 @@
       release_time: 2025.03.24 14:38:15
       title: 游戏案例讲解Python面向对象编程，50分钟带你入门，2.5小时完全掌握，2025最新
       url: https://www.bilibili.com/video/BV1AYokY6EwD
-    - author: B站用户骚神
-      release_time: 2025.03.24 12:28:59
-      title: 震撼！DrissionPage脚本替换， 破解网站加密 JSON 数据，易如反掌
-      url: https://www.bilibili.com/video/BV1DioCY4EUf
-    - author: Alone逆向安全
-      release_time: 2025.03.23 12:30:57
-      title: 02  Ubuntu 虚拟机 + CLion 安装 & 编译器配置全流程（VMware）
-      url: https://www.bilibili.com/video/BV1aFXaYmEvL
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
