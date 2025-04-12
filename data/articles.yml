@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: HD236300
+      release_time: 2025.04.11 22:42:15
+      title: 掌握Python的前提下，快速学习JavaScript，从Python到JavaScript，掌握你的第二门编程语言，JS逆向前置，JavaScript语法基础
+      url: https://www.bilibili.com/video/BV1pJdDYtEfD
     - author: r0ysue
       release_time: 2025.04.08 22:15:00
       title: 四卡本地vLLM跑千问QwQ32b驱动MCP智能体操作浏览电脑文件夹创建文件
@@ -117,10 +121,6 @@
       release_time: 2025.03.23 12:30:57
       title: 02  Ubuntu 虚拟机 + CLion 安装 & 编译器配置全流程（VMware）
       url: https://www.bilibili.com/video/BV1aFXaYmEvL
-    - author: Alone逆向安全
-      release_time: 2025.03.23 12:28:56
-      title: 03 C++ so模型执行框架 - 安卓逆向 & 仿真环境搭建指南
-      url: https://www.bilibili.com/video/BV1YFXaYmEcH
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
