@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 棕熊
+      release_time: 2025.04.13 15:59:13
+      title: '[原创]开源的安卓时间旅行调试器,混淆、算法分析的强力助手'
+      url: https://bbs.kanxue.com/thread-286457.htm
     - author: 知一Tracer
       release_time: 2025.04.13 13:50:00
       title: '[原创]Tk滑块篇之模型训练(底部交流群)'
@@ -486,10 +490,6 @@
       release_time: 2025.04.08 09:38:08
       title: '[原创]自定义Android15系统跟踪Java方法'
       url: https://bbs.kanxue.com/thread-286387.htm
-    - author: 一本杂志
-      release_time: 2025.04.07 13:52:00
-      title: 某航cookies：x-s3-s4e参数逆向分析思路学习
-      url: https://blog.csdn.net/y662225dd/article/details/147041925
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
