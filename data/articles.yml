@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 一只勇敢的小佳
+      release_time: 2025.04.13 17:53:27
+      title: frida gothook详解，frida解析soinfo，解决crc检测的一种方式
+      url: https://www.bilibili.com/video/BV1kHdrYNEVh
     - author: r0ysue
       release_time: 2025.04.12 22:57:53
       title: 本地部署QwQ32B接入OpenManus帮我制定无锡三日旅游计划调用浏览器百度搜索网页抓取保存结果文件并格式化成markdown格式
@@ -117,10 +121,6 @@
       release_time: 2025.03.25 10:57:24
       title: 注入检测&CRC校验绕过思路
       url: https://www.bilibili.com/video/BV1jaosY7EJP
-    - author: r0ysue
-      release_time: 2025.03.24 21:08:36
-      title: vLLM四卡跑量化版QwQ-32B-AWQ速度42ts
-      url: https://www.bilibili.com/video/BV1cyo2YUEaF
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
