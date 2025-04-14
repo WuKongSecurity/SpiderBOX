@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: Tsh4d0wT
+      release_time: 2025.04.14 17:42:00
+      title: 某次元信息加密方式探究
+      url: https://www.52pojie.cn/thread-2024146-1-1.html
     - author: ngiokweng
       release_time: 2025.04.14 11:01:00
       title: 2025騰訊遊戲安全大賽(安卓決賽)
@@ -363,10 +367,6 @@
       release_time: 2025.03.25 14:22:00
       title: Xposed模块注入资源原理以及思路
       url: https://www.52pojie.cn/thread-2018443-1-1.html
-    - author: 逗啊逗
-      release_time: 2025.03.24 23:59:00
-      title: 某东读书专业版EPUB资源简单分析
-      url: https://www.52pojie.cn/thread-2018289-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
