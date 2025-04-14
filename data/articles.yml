@@ -247,6 +247,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: ngiokweng
+      release_time: 2025.04.14 11:01:00
+      title: 2025騰訊遊戲安全大賽(安卓決賽)
+      url: https://www.52pojie.cn/thread-2023994-1-1.html
+    - author: ngiokweng
+      release_time: 2025.04.14 09:57:00
+      title: 2025騰訊遊戲安全大賽(安卓初賽)
+      url: https://www.52pojie.cn/thread-2023964-1-1.html
     - author: 西二旗搬砖仔
       release_time: 2025.04.12 17:17:00
       title: 某短视频33.x.0过boringssl检测抓包方案
@@ -359,17 +367,13 @@
       release_time: 2025.03.24 23:59:00
       title: 某东读书专业版EPUB资源简单分析
       url: https://www.52pojie.cn/thread-2018289-1-1.html
-    - author: asone917
-      release_time: 2025.03.23 19:01:00
-      title: 【js逆向入门】某酒店模拟登录
-      url: https://www.52pojie.cn/thread-2017867-1-1.html
-    - author: 为妳
-      release_time: 2025.03.22 23:41:00
-      title: 某东培训网络学院登录分析
-      url: https://www.52pojie.cn/thread-2017695-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: solar解密
+      release_time: 2025.04.14 14:24:27
+      title: '[原创]【漏洞与预防】Atlassian Confluence存在远程代码执行漏洞'
+      url: https://bbs.kanxue.com/thread-286470.htm
     - author: 九月镇灵将
       release_time: 2025.04.14 10:54:20
       title: pyenv库应用入门与Ubuntu端安装实践
@@ -486,10 +490,6 @@
       release_time: 2025.04.09 16:56:33
       title: AST反混淆插件|纯函数的调用还原,兼容多个函数调用方式
       url: https://blog.csdn.net/qq523176585/article/details/147109006
-    - author: xcisme
-      release_time: 2025.04.09 16:36:23
-      title: '[分享]文件上传学习【二】'
-      url: https://bbs.kanxue.com/thread-286408.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
