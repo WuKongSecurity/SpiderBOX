@@ -124,6 +124,50 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: LLLibra146
+      release_time: 2025.04.14 22:29:54
+      title: JS逆向实战：调试 wasm 的小技巧
+      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486322&idx=1&sn=bb02d68aedcc3a2e8a3eaf91c99f38d3
+    - author: 未闻Code
+      release_time: 2025.04.14 21:00:00
+      title: 用 Python 开发 MCP 服务很简单，完整案例拿走不谢！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990299&idx=1&sn=f88be0540f5447662d4ad0f8be6516ea
+    - author: 静夜随想
+      release_time: 2025.04.14 20:34:00
+      title: 再探window.ActiveXObject=undefined
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811039&idx=1&sn=3cf34b7fa3fac41bca18cf724ed8de23
+    - author: 菜鸟学Python编程
+      release_time: 2025.04.14 11:35:00
+      title: AST反混淆插件|最简单的if语句转switch语句
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565889&idx=1&sn=56c7464df87295e86f7c24ae883819e3
+    - author: 哆啦安全
+      release_time: 2025.04.14 08:54:04
+      title: Android内核探针的安全检测方法
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497921&idx=1&sn=eba13d7566c169690d5698d93d3db6d2
+    - author: 哆啦安全
+      release_time: 2025.04.14 08:54:04
+      title: 基于开源鸿蒙的机器人AIOS操作系统M-Robots OS 1.0
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497921&idx=2&sn=de1571e8435739c5c4580bc6bf7c7475
+    - author: 哆啦安全
+      release_time: 2025.04.14 08:54:04
+      title: VMProtect原理与还原
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497921&idx=3&sn=0ab14dbcae536e043b200c077bda0dee
+    - author: 逆向有你
+      release_time: 2025.04.14 00:00:00
+      title: 安卓逆向2025 -- Frida学习之ollvm分析（二）
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038548&idx=1&sn=09eedcfb344f90dd4f484e7787676672
+    - author: LLLibra146
+      release_time: 2025.04.13 21:40:37
+      title: JS逆向实战：动态字体解析
+      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486279&idx=1&sn=3a4ae818858bc3f776647e46a0517bf2
+    - author: LLLibra146
+      release_time: 2025.04.12 15:09:00
+      title: 扣代码技巧：如何调用扣好的代码（不是 pyexecjs）
+      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486249&idx=1&sn=24e6dbcf780c43debe48680fee4d5aa1
+    - author: LLLibra146
+      release_time: 2025.04.11 22:51:37
+      title: 中间人技巧：使用AST自动去除OB混淆的反调试逻辑
+      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486239&idx=1&sn=cbc25459ade41021d3d77db23f4a3a95
     - author: 逆向有你
       release_time: 2025.04.11 00:00:00
       title: 安卓逆向2025 -- Frida学习之ollvm分析（一）
@@ -200,50 +244,6 @@
       release_time: 2025.04.09 00:00:00
       title: 某手游cocos2djs逆向分享之分析思路及切入方法
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038493&idx=1&sn=e0ca56931567b74747f7b0be33e6e0d3
-    - author: 未闻Code
-      release_time: 2025.04.08 21:00:00
-      title: 懒人必备！NarratoAI：影视解说+自动化剪辑，一站式创作神器！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990258&idx=1&sn=12559367ff5a1fd88e45b7baf81e56f4
-    - author: python爬虫和阿J的逆向
-      release_time: 2025.04.08 15:17:14
-      title: 【这是一则招聘信息】
-      url: https://mp.weixin.qq.com/s?__biz=MzkxOTIyODcyOA==&mid=2247485619&idx=1&sn=badfce638457c0f67068b1a54c03513b
-    - author: 吾爱破解论坛
-      release_time: 2025.04.08 11:22:46
-      title: 解开Windows微信备份文件
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142284&idx=1&sn=91a24588b4b5a4e3d952c9db6a26f349
-    - author: 爬虫逆向小林哥
-      release_time: 2025.04.08 09:00:00
-      title: 【安卓逆向】某鲜生平台Xposed-rpc方案
-      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247486320&idx=1&sn=b0c9a1703b003667507a5869528d021d
-    - author: Coder小Q
-      release_time: 2025.04.08 08:30:00
-      title: 【密码学】一文读懂视觉加密(Visual Cryptography)
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491515&idx=1&sn=1809d2d9b0e6a256ae86f78d6c4d4895
-    - author: Spade sec
-      release_time: 2025.04.08 08:00:00
-      title: xss-labs level1 - level10
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485699&idx=1&sn=a356ea9f9d625fc26dbfb011f1301a18
-    - author: 未闻Code
-      release_time: 2025.04.07 21:00:00
-      title: 为何你周一不想动，周五却活力四射？科学研究揭秘动机波动
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990252&idx=1&sn=a25aa64c51bb036a03ea9585fef64ae9
-    - author: 静夜随想
-      release_time: 2025.04.07 20:37:00
-      title: 再探document.all补环境
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811036&idx=1&sn=cf7af648f4ab677ebf52051d011d1d2b
-    - author: 软件安全与逆向分析
-      release_time: 2025.04.07 16:20:48
-      title: 来了，安卓软件开发与逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484795&idx=1&sn=cd1cc95ba3fafe955c6357995287ca13
-    - author: LLLibra146
-      release_time: 2025.04.07 12:47:06
-      title: JSRPC 技巧：如何自动将动态函数暴露到全局
-      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486187&idx=1&sn=32784cd8d67f725e5dd1420c9c2a9080
-    - author: 榫卯江湖
-      release_time: 2025.04.07 08:00:00
-      title: MoLing：无依赖的智能体MCP办公自动化助手
-      url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485128&idx=1&sn=1ddbd2be52843546dac61e9ef38970ff
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
