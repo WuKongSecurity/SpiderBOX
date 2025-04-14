@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 那个昵称已经有人用过
+      release_time: 2025.04.13 22:12:00
+      title: 让AI大模型来玩《我的世界》，造建筑
+      url: https://www.bilibili.com/video/BV1KzdkYkEJx
     - author: 一只勇敢的小佳
       release_time: 2025.04.13 17:53:27
       title: frida gothook详解，frida解析soinfo，解决crc检测的一种方式
@@ -117,10 +121,6 @@
       release_time: 2025.03.25 12:07:52
       title: 🚀 第四课 - Unicorn  指令仿真 & 深入浅出讲解
       url: https://www.bilibili.com/video/BV18KosYNEzS
-    - author: 如何追mio酱
-      release_time: 2025.03.25 10:57:24
-      title: 注入检测&CRC校验绕过思路
-      url: https://www.bilibili.com/video/BV1jaosY7EJP
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
