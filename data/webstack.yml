@@ -1660,6 +1660,14 @@
           logo: iinti.jpg
           url: https://iinti.cn/
           description: 马莲妮亚（Malenia）代理IP资源中台系统，配合 MITM 中间人攻击脚本无视加密进行数据采集，梅祖拉（majora）代理IP建设系统，更适合爬虫工程师的解决方案
+        - title: 天启 HTTP
+          logo: tianqiip.png
+          url: https://www.tianqiip.com/?from=seller&did=HrN3sW
+          description: 覆盖全国 200+ 城市，企业级代理，支持免费测试
+        - title: 小熊 HTTP
+          logo: xiaoxiongip.png
+          url: https://www.xiaoxiongip.com?from=rYhWq7
+          description: 小熊 ip 是一家企业级大数据 HTTP 动态 IP 服务提供商，为上百家企业用户提供海量优质高匿 HTTP 代理 IP，产品延迟低,稳定可靠，自建机房海量 IP，是企业级用户的首选
 
     - term: 国际代理
       links:
