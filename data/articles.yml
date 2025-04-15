@@ -2,9 +2,17 @@
   list:
   - links:
     - author: 悦来客栈的老板
+      release_time: 2025.04.15 21:32:13
+      title: AST反混淆实战系列-纯函数的还原
+      url: https://www.bilibili.com/video/BV1VQdfYBEb6
+    - author: 悦来客栈的老板
       release_time: 2025.04.14 21:44:32
       title: AST反混淆实战系列-变量定义为常量时的还原处理
       url: https://www.bilibili.com/video/BV1JVoEYKEDW
+    - author: B站用户骚神
+      release_time: 2025.04.14 15:50:27
+      title: 20行代码通杀JS逆向靶场19个关卡
+      url: https://www.bilibili.com/video/BV1DCoVYgEQk
     - author: 那个昵称已经有人用过
       release_time: 2025.04.13 22:12:00
       title: 让AI大模型来玩《我的世界》，造建筑
@@ -113,14 +121,6 @@
       release_time: 2025.03.26 10:36:31
       title: 🚀 第六课：Unicorn 监控内存读写事件
       url: https://www.bilibili.com/video/BV1rZoaYkExm
-    - author: 带带弟弟学爬虫
-      release_time: 2025.03.26 00:13:17
-      title: 某菠萝小说sign分析（二）
-      url: https://www.bilibili.com/video/BV1PNo8Y3EYG
-    - author: 带带弟弟学爬虫
-      release_time: 2025.03.25 23:02:24
-      title: 某菠萝小说sign分析（一）
-      url: https://www.bilibili.com/video/BV1Xbo8Y9EhN
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
