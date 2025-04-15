@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.04.15 16:44:19
+      title: MCP的常见安全问题与安全测试项
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497930&idx=1&sn=d6f7d0f64b9e962b26492621003dc9b9
     - author: 小白技术社
       release_time: 2025.04.15 12:44:20
       title: 广东的vmp大致分析
@@ -176,6 +180,18 @@
       release_time: 2025.04.13 21:40:37
       title: JS逆向实战：动态字体解析
       url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486279&idx=1&sn=3a4ae818858bc3f776647e46a0517bf2
+    - author: 哆啦安全
+      release_time: 2025.04.13 19:29:49
+      title: Android应用安全测试指南(新手篇)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497910&idx=1&sn=272e43b08e0d49b6140f9278e5322cb1
+    - author: 哆啦安全
+      release_time: 2025.04.12 16:03:04
+      title: Android15系统定制系统卡死重启分析
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497905&idx=1&sn=7f528faed00e95f79afe1b21af68cd20
+    - author: 哆啦安全
+      release_time: 2025.04.12 16:03:04
+      title: Android7至Android16系统定制篇(魔改)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497905&idx=2&sn=49f77ca5cd022e4894b738f902ca46fb
     - author: LLLibra146
       release_time: 2025.04.12 15:09:00
       title: 扣代码技巧：如何调用扣好的代码（不是 pyexecjs）
@@ -184,6 +200,10 @@
       release_time: 2025.04.11 22:51:37
       title: 中间人技巧：使用AST自动去除OB混淆的反调试逻辑
       url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486239&idx=1&sn=cbc25459ade41021d3d77db23f4a3a95
+    - author: 哆啦安全
+      release_time: 2025.04.11 12:23:31
+      title: 谷歌发布安全更新修复安卓系统62项漏洞(2025)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497895&idx=1&sn=fc67f0ed10a8a81ccead1d1dc074b045
     - author: 逆向有你
       release_time: 2025.04.11 00:00:00
       title: 安卓逆向2025 -- Frida学习之ollvm分析（一）
@@ -224,26 +244,6 @@
       release_time: 2025.04.09 22:58:33
       title: JS逆向实战：OB 混淆代码分析+快速绕过 OB 混淆的格式化检测的方法
       url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486212&idx=1&sn=90b819a9989f53d3afdc9876b76f45df
-    - author: 未闻Code
-      release_time: 2025.04.09 21:00:00
-      title: 零代码打造个人AI助手！AutoAgent：Manus和Deep Research的开源版方案！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990264&idx=1&sn=0de9659401eaa8176cd107b67dc1b9a1
-    - author: 季东ooo
-      release_time: 2025.04.09 19:49:56
-      title: 某手APP sig3参数分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjczODUwMw==&mid=2247484472&idx=1&sn=348137d84f0c60e82c2fc7be4e153111
-    - author: 菜鸟学Python编程
-      release_time: 2025.04.09 16:56:12
-      title: AST反混淆插件|纯函数的调用还原,兼容多个函数调用方式
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565869&idx=1&sn=0f74090cfffd04c1e06eeb3a2d9d368a
-    - author: 哆啦安全
-      release_time: 2025.04.09 12:06:00
-      title: cn-sec网站通过爬虫等手段转载"哆啦安全"公众号发的所有文章(禁止未授权转载)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497872&idx=1&sn=4a71c23919ec2c53843560347eb87b8a
-    - author: 哆啦安全
-      release_time: 2025.04.09 12:06:00
-      title: 'IDA Pro MCP: 让AI赋能逆向工程'
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497872&idx=2&sn=3712749738672b2766dac693e6f21977
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
