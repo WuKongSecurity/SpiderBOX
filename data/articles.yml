@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.04.15 17:21:00
+      title: AST反混淆插件|将混淆代码中的全局函数提到执行语句的前面来
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565893&idx=1&sn=7cc03ba585555ba3b68c3d2facb9999d
     - author: 哆啦安全
       release_time: 2025.04.15 16:44:19
       title: MCP的常见安全问题与安全测试项
@@ -196,6 +200,10 @@
       release_time: 2025.04.12 15:09:00
       title: 扣代码技巧：如何调用扣好的代码（不是 pyexecjs）
       url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486249&idx=1&sn=24e6dbcf780c43debe48680fee4d5aa1
+    - author: 菜鸟学Python编程
+      release_time: 2025.04.12 11:23:23
+      title: 【iOS逆向】Instagram抓包小记
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565885&idx=1&sn=d6e2755b9592d06450039025281f8acf
     - author: LLLibra146
       release_time: 2025.04.11 22:51:37
       title: 中间人技巧：使用AST自动去除OB混淆的反调试逻辑
@@ -204,6 +212,10 @@
       release_time: 2025.04.11 12:23:31
       title: 谷歌发布安全更新修复安卓系统62项漏洞(2025)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497895&idx=1&sn=fc67f0ed10a8a81ccead1d1dc074b045
+    - author: 菜鸟学Python编程
+      release_time: 2025.04.11 09:47:35
+      title: AST反混淆插件|函数名参与四则运算的还原
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565883&idx=1&sn=efd3dac9a5dfb8f9a35250ac7392f922
     - author: 逆向有你
       release_time: 2025.04.11 00:00:00
       title: 安卓逆向2025 -- Frida学习之ollvm分析（一）
@@ -232,18 +244,6 @@
       release_time: 2025.04.10 08:54:13
       title: 绕过检测终极指南:KernelSU环境下的Frida Hook与eCapture全协议抓包
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497883&idx=1&sn=bbf2c03ad835d6df3fd53f57fecced5a
-    - author: 哆啦安全
-      release_time: 2025.04.10 08:54:13
-      title: IDA Pro+MCP+DeepSeek逆向小实战:构建AI逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497883&idx=2&sn=794b928f6fb2a05f76474f0bcdee8695
-    - author: 逆向有你
-      release_time: 2025.04.10 00:00:00
-      title: 安卓逆向 -- unidbg 0.9.8 解决java高版本anjuke示例代码空指针异常问题
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038507&idx=1&sn=31b91aeb9091b789ef1301fda16da676
-    - author: LLLibra146
-      release_time: 2025.04.09 22:58:33
-      title: JS逆向实战：OB 混淆代码分析+快速绕过 OB 混淆的格式化检测的方法
-      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486212&idx=1&sn=90b819a9989f53d3afdc9876b76f45df
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
