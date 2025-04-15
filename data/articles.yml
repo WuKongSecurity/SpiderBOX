@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.04.15 21:00:00
+      title: 开发者的文档收割机来了！这个开源工具让你一小时干完一周的活！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990305&idx=1&sn=7fa079c3d15573ca17e02a3a01992a0c
     - author: 静夜随想
       release_time: 2025.04.15 20:50:00
       title: 听说某数已人均
@@ -174,12 +178,12 @@
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497921&idx=1&sn=eba13d7566c169690d5698d93d3db6d2
     - author: 哆啦安全
       release_time: 2025.04.14 08:54:04
-      title: 基于开源鸿蒙的机器人AIOS操作系统M-Robots OS 1.0
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497921&idx=2&sn=de1571e8435739c5c4580bc6bf7c7475
-    - author: 哆啦安全
-      release_time: 2025.04.14 08:54:04
       title: VMProtect原理与还原
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497921&idx=3&sn=0ab14dbcae536e043b200c077bda0dee
+    - author: 哆啦安全
+      release_time: 2025.04.14 08:54:04
+      title: 基于开源鸿蒙的机器人AIOS操作系统M-Robots OS 1.0
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497921&idx=2&sn=de1571e8435739c5c4580bc6bf7c7475
     - author: 逆向有你
       release_time: 2025.04.14 00:00:00
       title: 安卓逆向2025 -- Frida学习之ollvm分析（二）
@@ -192,6 +196,14 @@
       release_time: 2025.04.13 19:29:49
       title: Android应用安全测试指南(新手篇)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497910&idx=1&sn=272e43b08e0d49b6140f9278e5322cb1
+    - author: 未闻Code
+      release_time: 2025.04.13 08:20:26
+      title: 观点：必须好评的悖论
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990290&idx=1&sn=567203cc8664bf8d6f5c751803a010ed
+    - author: 未闻Code
+      release_time: 2025.04.12 21:02:57
+      title: 引用240篇大模型论文，大模型推理中的缩放研究综述
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990284&idx=1&sn=ac186595795cd8693015a1b7fc433d93
     - author: 哆啦安全
       release_time: 2025.04.12 16:03:04
       title: Android15系统定制系统卡死重启分析
@@ -212,6 +224,10 @@
       release_time: 2025.04.11 22:51:37
       title: 中间人技巧：使用AST自动去除OB混淆的反调试逻辑
       url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486239&idx=1&sn=cbc25459ade41021d3d77db23f4a3a95
+    - author: 未闻Code
+      release_time: 2025.04.11 21:02:24
+      title: 【验证码识别专栏】某盾躲避障碍与某里图像复原验证码识别
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990278&idx=1&sn=247f45949996418e933b84d410bc5578
     - author: 哆啦安全
       release_time: 2025.04.11 12:23:31
       title: 谷歌发布安全更新修复安卓系统62项漏洞(2025)
@@ -228,22 +244,6 @@
       release_time: 2025.04.10 21:53:47
       title: JS逆向实战：扣代码时如何快速定位结果不对的问题？
       url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486226&idx=1&sn=78d5d89efbd8073e7597efb47d74ac2d
-    - author: 未闻Code
-      release_time: 2025.04.10 21:12:29
-      title: 本地部署大模型实现扫描版 PDF 文件 OCR 识别，笔记本可跑
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990272&idx=1&sn=fe8d6d036ed56f1954ea2da264f4b6b1
-    - author: 静夜随想
-      release_time: 2025.04.10 20:32:37
-      title: 一个颇具难度的某数样本
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811038&idx=1&sn=ed667bbe1037928c98fa931aeaaf22c1
-    - author: 菜鸟学Python编程
-      release_time: 2025.04.10 17:13:48
-      title: JS反混淆实战|ob混淆还原不了？不存在的。
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565879&idx=1&sn=2e77984130d5a6b829e0324f473aa0dd
-    - author: 小伍哥聊风控
-      release_time: 2025.04.10 11:56:00
-      title: MCP + 数据库，一种比 RAG 检索效果更好的新方式！
-      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196837&idx=1&sn=6f69e730ab484238353142aa6b70b02a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
