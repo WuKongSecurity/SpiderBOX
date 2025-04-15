@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 静夜随想
+      release_time: 2025.04.15 20:50:00
+      title: 听说某数已人均
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811040&idx=1&sn=3d4d018e351945960941680dc82aa0c3
     - author: 菜鸟学Python编程
       release_time: 2025.04.15 17:21:00
       title: AST反混淆插件|将混淆代码中的全局函数提到执行语句的前面来
@@ -240,13 +244,13 @@
       release_time: 2025.04.10 11:56:00
       title: MCP + 数据库，一种比 RAG 检索效果更好的新方式！
       url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196837&idx=1&sn=6f69e730ab484238353142aa6b70b02a
-    - author: 哆啦安全
-      release_time: 2025.04.10 08:54:13
-      title: 绕过检测终极指南:KernelSU环境下的Frida Hook与eCapture全协议抓包
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497883&idx=1&sn=bbf2c03ad835d6df3fd53f57fecced5a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: utf8
+      release_time: 2025.04.15 15:57:00
+      title: protobuf 逆向学习笔记
+      url: https://www.52pojie.cn/thread-2024402-1-1.html
     - author: Aircraftcomman5
       release_time: 2025.04.15 15:27:00
       title: 某某省过验证码逆向---------小白讲解09
@@ -363,10 +367,6 @@
       release_time: 2025.03.28 15:08:00
       title: Mac上反编译Android的APK
       url: https://www.52pojie.cn/thread-2019504-1-1.html
-    - author: North886
-      release_time: 2025.03.25 23:17:00
-      title: Android组件导出检测工具ComponentFuzzer
-      url: https://www.52pojie.cn/thread-2018612-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
