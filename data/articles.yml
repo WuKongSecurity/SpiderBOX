@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 搞点逆向778
+      release_time: 2025.04.15 10:00:00
+      title: 招人招人
+      url: https://mp.weixin.qq.com/s?__biz=MzUxMjE3Nzc3Mw==&mid=2247484210&idx=1&sn=5957ac77ad8758683144554bb93b0b1a
+    - author: 逆向与爬虫的故事
+      release_time: 2025.04.15 09:00:00
+      title: wasm逆向入门
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5ODA3OTM1NA==&mid=2247493700&idx=1&sn=bd783c5e4a66e62b09bd4bc12b807ff9
     - author: 逆向有你
       release_time: 2025.04.15 00:00:00
       title: 安卓逆向2025 -- Frida学习之ollvm分析（三）
@@ -236,14 +244,6 @@
       release_time: 2025.04.09 12:06:00
       title: 游戏漏洞挖掘课程
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497872&idx=3&sn=19fd397d09f1fc242daaed3d25557a10
-    - author: 哆啦安全
-      release_time: 2025.04.09 12:06:00
-      title: PWN二进制漏洞挖掘与利用
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497872&idx=4&sn=1b9472c66e5e68e6b460d4cba583916c
-    - author: 吾爱破解论坛
-      release_time: 2025.04.09 09:25:00
-      title: 【Android 原创】利用frida 探究对于模拟器下arm so加载
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142341&idx=1&sn=023236a39256a71af1b7bac562075242
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -382,6 +382,10 @@
       release_time: 2025.04.14 14:24:27
       title: '[原创]【漏洞与预防】Atlassian Confluence存在远程代码执行漏洞'
       url: https://bbs.kanxue.com/thread-286470.htm
+    - author: 悦来客栈的老板
+      release_time: 2025.04.14 11:36:02
+      title: AST反混淆插件|最简单的if语句转switch语句
+      url: https://blog.csdn.net/qq523176585/article/details/147238877
     - author: 九月镇灵将
       release_time: 2025.04.14 10:54:20
       title: pyenv库应用入门与Ubuntu端安装实践
@@ -486,10 +490,6 @@
       release_time: 2025.04.10 10:52:01
       title: chromium魔改——canvas指纹修改 第一节
       url: https://blog.csdn.net/weixin_45307278/article/details/147030930
-    - author: dadadasda
-      release_time: 2025.04.10 01:42:40
-      title: '[原创]什么,你想在内核跑lua?针对硬件断点的内核层快速调试工具LuaBp'
-      url: https://bbs.kanxue.com/thread-286418.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
