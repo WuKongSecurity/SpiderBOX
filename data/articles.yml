@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小白技术社
+      release_time: 2025.04.15 12:44:20
+      title: 广东的vmp大致分析
+      url: https://mp.weixin.qq.com/s?__biz=MzI4NTE1NDMwMA==&mid=2247485300&idx=1&sn=3427c90238ae91716c73d8450584391d
     - author: 搞点逆向778
       release_time: 2025.04.15 10:00:00
       title: 招人招人
@@ -158,12 +162,12 @@
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497921&idx=1&sn=eba13d7566c169690d5698d93d3db6d2
     - author: 哆啦安全
       release_time: 2025.04.14 08:54:04
-      title: VMProtect原理与还原
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497921&idx=3&sn=0ab14dbcae536e043b200c077bda0dee
-    - author: 哆啦安全
-      release_time: 2025.04.14 08:54:04
       title: 基于开源鸿蒙的机器人AIOS操作系统M-Robots OS 1.0
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497921&idx=2&sn=de1571e8435739c5c4580bc6bf7c7475
+    - author: 哆啦安全
+      release_time: 2025.04.14 08:54:04
+      title: VMProtect原理与还原
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497921&idx=3&sn=0ab14dbcae536e043b200c077bda0dee
     - author: 逆向有你
       release_time: 2025.04.14 00:00:00
       title: 安卓逆向2025 -- Frida学习之ollvm分析（二）
@@ -240,10 +244,6 @@
       release_time: 2025.04.09 12:06:00
       title: 'IDA Pro MCP: 让AI赋能逆向工程'
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497872&idx=2&sn=3712749738672b2766dac693e6f21977
-    - author: 哆啦安全
-      release_time: 2025.04.09 12:06:00
-      title: 游戏漏洞挖掘课程
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497872&idx=3&sn=19fd397d09f1fc242daaed3d25557a10
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
