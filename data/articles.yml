@@ -1,10 +1,18 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 悦来客栈的老板
+      release_time: 2025.04.14 21:44:32
+      title: AST反混淆实战系列-变量定义为常量时的还原处理
+      url: https://www.bilibili.com/video/BV1JVoEYKEDW
     - author: 那个昵称已经有人用过
       release_time: 2025.04.13 22:12:00
       title: 让AI大模型来玩《我的世界》，造建筑
       url: https://www.bilibili.com/video/BV1KzdkYkEJx
+    - author: 悦来客栈的老板
+      release_time: 2025.04.13 20:43:30
+      title: AST反混淆实战系列-十六进制数值、字符串及Unicode的还原
+      url: https://www.bilibili.com/video/BV1s9dzYvEje
     - author: 一只勇敢的小佳
       release_time: 2025.04.13 17:53:27
       title: frida gothook详解，frida解析soinfo，解决crc检测的一种方式
@@ -113,14 +121,6 @@
       release_time: 2025.03.25 23:02:24
       title: 某菠萝小说sign分析（一）
       url: https://www.bilibili.com/video/BV1Xbo8Y9EhN
-    - author: Alone逆向安全
-      release_time: 2025.03.25 16:08:50
-      title: 🚀 第五课 - Unicorn Hook 事件：hook指令
-      url: https://www.bilibili.com/video/BV1UaoxYKEsi
-    - author: Alone逆向安全
-      release_time: 2025.03.25 12:07:52
-      title: 🚀 第四课 - Unicorn  指令仿真 & 深入浅出讲解
-      url: https://www.bilibili.com/video/BV18KosYNEzS
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
