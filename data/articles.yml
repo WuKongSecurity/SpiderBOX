@@ -247,10 +247,18 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 芽衣
+      release_time: 2025.04.16 19:42:00
+      title: DevCheck 破解教程 设备信息查看 cpu使用率 充电信息
+      url: https://www.52pojie.cn/thread-2024807-1-1.html
     - author: utf8
       release_time: 2025.04.16 18:58:00
       title: jy无感取巧思路
       url: https://www.52pojie.cn/thread-2024800-1-1.html
+    - author: Je2em1ah
+      release_time: 2025.04.16 18:04:00
+      title: 2025游戏安全技术竞赛-Android-初赛WriteUp
+      url: https://www.52pojie.cn/thread-2024788-1-1.html
     - author: utf8
       release_time: 2025.04.15 15:57:00
       title: protobuf 逆向学习笔记
@@ -359,14 +367,6 @@
       release_time: 2025.03.31 14:13:00
       title: 编写Xposed模块--小白教程
       url: https://www.52pojie.cn/thread-2020266-1-1.html
-    - author: ShriyGo
-      release_time: 2025.03.30 15:09:00
-      title: 【JS逆向】yun片滑块验证码分析
-      url: https://www.52pojie.cn/thread-2020008-1-1.html
-    - author: asone917
-      release_time: 2025.03.28 16:57:00
-      title: 【js逆向】某云模拟登录
-      url: https://www.52pojie.cn/thread-2019537-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
