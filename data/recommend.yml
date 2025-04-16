@@ -91,7 +91,7 @@
 
     - title: 协采云
       ads: true
-      url: https://www.xiecaiyun.com/
+      url: https://www.xiecaiyun.com/?channel=bob-ch
       image: images/ads/xcy.jpg
       description: 九年深耕，百万级代理 IP 节点自由调度，整合国内超过 90% 地区的动态代理 IP 汇聚成代理服务器池，并提供API接入，将高速稳定的代理池接入到您的自动化应用中
       track: ad_xcy
