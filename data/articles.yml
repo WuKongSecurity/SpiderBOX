@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 无味
+      release_time: 2025.04.16 11:13:28
+      title: '[原创]关于--inline-max-code-units=0的隐藏'
+      url: https://bbs.kanxue.com/thread-286498.htm
     - author: 悦来客栈的老板
       release_time: 2025.04.15 17:21:25
       title: AST反混淆插件|将混淆代码中的全局函数提到执行语句的前面来
@@ -486,10 +490,6 @@
       release_time: 2025.04.10 15:02:41
       title: Gerapy二次开发：用户管理专栏新增与编辑页面开发
       url: https://blog.csdn.net/weixin_43845191/article/details/146939828
-    - author: 九月镇灵将
-      release_time: 2025.04.10 15:01:14
-      title: Gerapy二次开发实现效果预览
-      url: https://blog.csdn.net/weixin_43845191/article/details/147117730
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
