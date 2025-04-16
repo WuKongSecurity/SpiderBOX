@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.04.17 00:00:00
+      title: 安卓逆向 -- 记录一次加固逆向分析以及加固步骤详解
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038615&idx=1&sn=b1c2f261d57cf2dfcf5bf73472a4bdb0
     - author: LLLibra146
       release_time: 2025.04.16 22:09:05
       title: AST 技巧：自动添加 catch 日志输出
@@ -240,10 +244,6 @@
       release_time: 2025.04.12 15:09:00
       title: 扣代码技巧：如何调用扣好的代码（不是 pyexecjs）
       url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486249&idx=1&sn=24e6dbcf780c43debe48680fee4d5aa1
-    - author: 菜鸟学Python编程
-      release_time: 2025.04.12 11:23:23
-      title: 【iOS逆向】Instagram抓包小记
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565885&idx=1&sn=d6e2755b9592d06450039025281f8acf
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
