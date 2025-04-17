@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: _Poseidon
+      release_time: 2025.04.17 15:37:26
+      title: Fastjson 漏洞复现
+      url: https://bbs.kanxue.com/thread-286518.htm
     - author: 方北七
       release_time: 2025.04.17 14:12:27
       title: '[原创]app启动流程学习'
@@ -486,10 +490,6 @@
       release_time: 2025.04.11 11:07:04
       title: Gerapy二次开发：Django数据表结构设计
       url: https://blog.csdn.net/weixin_43845191/article/details/147109501
-    - author: 悦来客栈的老板
-      release_time: 2025.04.11 09:46:19
-      title: AST反混淆插件|函数名参与四则运算的还原
-      url: https://blog.csdn.net/qq523176585/article/details/147157803
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
