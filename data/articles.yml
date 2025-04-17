@@ -374,6 +374,10 @@
       release_time: 2025.04.17 23:03:44
       title: 分析一个政务网钓鱼攻击
       url: https://bbs.kanxue.com/thread-286523.htm
+    - author: 悦来客栈的老板
+      release_time: 2025.04.17 20:49:51
+      title: AST反混淆插件|给逻辑与表达式统一加上小括号
+      url: https://blog.csdn.net/qq523176585/article/details/147317033
     - author: Nickname肖知寒
       release_time: 2025.04.17 16:56:24
       title: 魔改chromium源码——自定义浏览器启动参数
@@ -486,10 +490,6 @@
       release_time: 2025.04.11 16:35:05
       title: '[原创]用魔法打败魔法：互联网大厂虚拟机还原'
       url: https://bbs.kanxue.com/thread-286441.htm
-    - author: 扁舟·TF
-      release_time: 2025.04.11 15:09:54
-      title: tf-data 平台使用文档
-      url: https://blog.csdn.net/weixin_44791631/article/details/147144601
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
