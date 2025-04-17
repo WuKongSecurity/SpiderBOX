@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.04.17 21:00:00
+      title: 千万级的大表，如何做性能优化？
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990311&idx=1&sn=fb71704ff4b9a019f2af4fa73e913910
+    - author: 菜鸟学Python编程
+      release_time: 2025.04.17 20:49:36
+      title: AST反混淆插件|给逻辑与表达式统一加上小括号
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565901&idx=1&sn=a4c4f27ae3462896211d409d9080c7c2
     - author: 吾爱破解论坛
       release_time: 2025.04.17 12:33:44
       title: 2025騰訊遊戲安全大賽(安卓初賽)
@@ -236,14 +244,6 @@
       release_time: 2025.04.14 00:00:00
       title: 安卓逆向2025 -- Frida学习之ollvm分析（二）
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038548&idx=1&sn=09eedcfb344f90dd4f484e7787676672
-    - author: LLLibra146
-      release_time: 2025.04.13 21:40:37
-      title: JS逆向实战：动态字体解析
-      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486279&idx=1&sn=3a4ae818858bc3f776647e46a0517bf2
-    - author: 哆啦安全
-      release_time: 2025.04.13 19:29:49
-      title: Android应用安全测试指南(新手篇)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497910&idx=1&sn=272e43b08e0d49b6140f9278e5322cb1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
