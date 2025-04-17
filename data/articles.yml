@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 那个昵称已经有人用过
+      release_time: 2025.04.16 01:15:44
+      title: AI智能体10秒搭完篮球少年人物雕像。
+      url: https://www.bilibili.com/video/BV18WocYvECN
     - author: 悦来客栈的老板
       release_time: 2025.04.15 21:32:13
       title: AST反混淆实战系列-纯函数的还原
@@ -117,13 +121,21 @@
       release_time: 2025.03.31 21:27:29
       title: 四卡本地vLLM跑千问QwQ32b驱动MCP智能体查询当前上海天气
       url: https://www.bilibili.com/video/BV1hSZHYwEvt
-    - author: B站用户骚神
-      release_time: 2025.03.31 17:56:24
-      title: 骚神插件9.6.4新特性，支持定位解析iframe内部元素
-      url: https://www.bilibili.com/video/BV1MyZJYdEUb
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.04.17 08:53:43
+      title: ARM架构Android系统qcow2镜像制作方法
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497936&idx=1&sn=627f61fa52fa57ebde6fd271351b16c3
+    - author: 哆啦安全
+      release_time: 2025.04.17 08:53:43
+      title: 一张图拆解：CVE漏洞的旅程
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497936&idx=2&sn=43e60952c4590bf3aa4092c3969857e8
+    - author: Coder小Q
+      release_time: 2025.04.17 08:30:00
+      title: 【密码学】基于编码的密码学学习笔记(一)
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491535&idx=1&sn=94f9f9f5dcb64809dc7f2b374107fdd1
     - author: 逆向有你
       release_time: 2025.04.17 00:00:00
       title: 安卓逆向 -- 记录一次加固逆向分析以及加固步骤详解
@@ -232,18 +244,6 @@
       release_time: 2025.04.12 21:02:57
       title: 引用240篇大模型论文，大模型推理中的缩放研究综述
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990284&idx=1&sn=ac186595795cd8693015a1b7fc433d93
-    - author: 哆啦安全
-      release_time: 2025.04.12 16:03:04
-      title: Android15系统定制系统卡死重启分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497905&idx=1&sn=7f528faed00e95f79afe1b21af68cd20
-    - author: 哆啦安全
-      release_time: 2025.04.12 16:03:04
-      title: Android7至Android16系统定制篇(魔改)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497905&idx=2&sn=49f77ca5cd022e4894b738f902ca46fb
-    - author: LLLibra146
-      release_time: 2025.04.12 15:09:00
-      title: 扣代码技巧：如何调用扣好的代码（不是 pyexecjs）
-      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486249&idx=1&sn=24e6dbcf780c43debe48680fee4d5aa1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -382,6 +382,10 @@
       release_time: 2025.04.16 17:03:46
       title: 去某某航班查询 请求头 Bella（wasm）补环境
       url: https://blog.csdn.net/qq_53444631/article/details/147277100
+    - author: 悦来客栈的老板
+      release_time: 2025.04.16 14:44:39
+      title: AST反混淆插件|赋值语句中的left节点在其他地方无引用时的删除
+      url: https://blog.csdn.net/qq523176585/article/details/147292056
     - author: 无味
       release_time: 2025.04.16 11:13:28
       title: '[原创]关于--inline-max-code-units=0的隐藏'
@@ -486,10 +490,6 @@
       release_time: 2025.04.10 20:46:00
       title: '[讨论]frida在iOS/macOS的注入'
       url: https://bbs.kanxue.com/thread-286429.htm
-    - author: 小黄鸭爱学习
-      release_time: 2025.04.10 18:06:35
-      title: '[讨论]逆向的终点是卖课，准备卖课了。'
-      url: https://bbs.kanxue.com/thread-286427.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
