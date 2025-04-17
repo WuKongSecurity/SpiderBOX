@@ -247,6 +247,18 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 西二旗搬砖仔
+      release_time: 2025.04.17 17:55:00
+      title: hooker frida版just_trust_me.js 2025升级 支持boringssl unpinning
+      url: https://www.52pojie.cn/thread-2025107-1-1.html
+    - author: hailang7
+      release_time: 2025.04.17 02:47:00
+      title: 【安卓新手】雷电模拟器安装magisk和Lsposed
+      url: https://www.52pojie.cn/thread-2024885-1-1.html
+    - author: ZSAIm
+      release_time: 2025.04.16 23:47:00
+      title: frida-analykit + wireshark 流量抓包（上）
+      url: https://www.52pojie.cn/thread-2024874-1-1.html
     - author: 芽衣
       release_time: 2025.04.16 19:42:00
       title: DevCheck 破解教程 设备信息查看 cpu使用率 充电信息
@@ -355,18 +367,6 @@
       release_time: 2025.04.01 12:36:00
       title: 使用frida完成【moji辞典V8.4.0】永久会员过程
       url: https://www.52pojie.cn/thread-2020600-1-1.html
-    - author: dandinggeL
-      release_time: 2025.03.31 21:29:00
-      title: 本田车机破解，安卓4.2.2车机
-      url: https://www.52pojie.cn/thread-2020421-1-1.html
-    - author: namename123
-      release_time: 2025.03.31 17:08:00
-      title: 编写so文件以及android studio国内镜像配置
-      url: https://www.52pojie.cn/thread-2020344-1-1.html
-    - author: namename123
-      release_time: 2025.03.31 14:13:00
-      title: 编写Xposed模块--小白教程
-      url: https://www.52pojie.cn/thread-2020266-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
