@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.04.17 12:33:44
+      title: 2025騰訊遊戲安全大賽(安卓初賽)
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142401&idx=1&sn=485fa1815a5b0769293567247bfbe924
     - author: 猿人学Python
       release_time: 2025.04.17 10:42:44
       title: 会开火车能逆向 月薪从3500到2万+
@@ -240,10 +244,6 @@
       release_time: 2025.04.13 19:29:49
       title: Android应用安全测试指南(新手篇)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497910&idx=1&sn=272e43b08e0d49b6140f9278e5322cb1
-    - author: 未闻Code
-      release_time: 2025.04.13 08:20:26
-      title: 观点：必须好评的悖论
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990290&idx=1&sn=567203cc8664bf8d6f5c751803a010ed
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
