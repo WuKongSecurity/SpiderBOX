@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 猿人学Python
+      release_time: 2025.04.17 10:42:44
+      title: 会开火车能逆向 月薪从3500到2万+
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448549866&idx=1&sn=97b2e53ef68ddec9fd99ad6499157f71
     - author: 哆啦安全
       release_time: 2025.04.17 08:53:43
       title: ARM架构Android系统qcow2镜像制作方法
@@ -240,10 +244,6 @@
       release_time: 2025.04.13 08:20:26
       title: 观点：必须好评的悖论
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990290&idx=1&sn=567203cc8664bf8d6f5c751803a010ed
-    - author: 未闻Code
-      release_time: 2025.04.12 21:02:57
-      title: 引用240篇大模型论文，大模型推理中的缩放研究综述
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990284&idx=1&sn=ac186595795cd8693015a1b7fc433d93
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
