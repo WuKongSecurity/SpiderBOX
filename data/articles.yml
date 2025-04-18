@@ -144,6 +144,10 @@
       release_time: 2025.04.17 20:49:36
       title: AST反混淆插件|给逻辑与表达式统一加上小括号
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565901&idx=1&sn=a4c4f27ae3462896211d409d9080c7c2
+    - author: 布鲁的Python之旅
+      release_time: 2025.04.17 17:13:14
+      title: Python爬虫基于DeepSeek热点数据分析与推送功能
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247485993&idx=1&sn=2d810bbebd9d12bf52382d0b8f10ced1
     - author: 吾爱破解论坛
       release_time: 2025.04.17 12:33:44
       title: 2025騰訊遊戲安全大賽(安卓初賽)
@@ -240,10 +244,6 @@
       release_time: 2025.04.14 11:35:00
       title: AST反混淆插件|最简单的if语句转switch语句
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565889&idx=1&sn=56c7464df87295e86f7c24ae883819e3
-    - author: 哆啦安全
-      release_time: 2025.04.14 08:54:04
-      title: Android内核探针的安全检测方法
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497921&idx=1&sn=eba13d7566c169690d5698d93d3db6d2
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
