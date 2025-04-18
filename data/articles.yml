@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.04.19 06:04:46
+      title: Linux内核探针深入浅出
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497960&idx=1&sn=6dbacfd5938a1b0b3f3adafc50c0df4b
+    - author: 哆啦安全
+      release_time: 2025.04.19 06:04:46
+      title: MTK Camera预览流程梳理systrace+Log篇
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497960&idx=2&sn=4988de4f419a88858ba1cbea860757ce
     - author: LLLibra146
       release_time: 2025.04.18 22:40:02
       title: AST 技巧：使用 AST 分析函数执行路径 "更新" + 对比技巧
@@ -236,14 +244,6 @@
       release_time: 2025.04.15 10:00:00
       title: 招人招人
       url: https://mp.weixin.qq.com/s?__biz=MzUxMjE3Nzc3Mw==&mid=2247484210&idx=1&sn=5957ac77ad8758683144554bb93b0b1a
-    - author: 逆向与爬虫的故事
-      release_time: 2025.04.15 09:00:00
-      title: wasm逆向入门
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5ODA3OTM1NA==&mid=2247493700&idx=1&sn=bd783c5e4a66e62b09bd4bc12b807ff9
-    - author: 逆向有你
-      release_time: 2025.04.15 00:00:00
-      title: 安卓逆向2025 -- Frida学习之ollvm分析（三）
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038559&idx=1&sn=41d95a8a8e694d4da2efe630d1723dd9
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
