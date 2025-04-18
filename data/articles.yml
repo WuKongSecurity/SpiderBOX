@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.04.18 22:51:26
+      title: 骚代理-全新动态修改代理ip脚本，支持用户名密码
+      url: https://www.bilibili.com/video/BV17k5EzqEsZ
     - author: 那个昵称已经有人用过
       release_time: 2025.04.16 01:15:44
       title: AI智能体10秒搭完篮球少年人物雕像。
@@ -117,10 +121,6 @@
       release_time: 2025.04.02 15:00:00
       title: 易盾滑块解混淆
       url: https://www.bilibili.com/video/BV1zaZHYCELb
-    - author: r0ysue
-      release_time: 2025.03.31 21:27:29
-      title: 四卡本地vLLM跑千问QwQ32b驱动MCP智能体查询当前上海天气
-      url: https://www.bilibili.com/video/BV1hSZHYwEvt
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
