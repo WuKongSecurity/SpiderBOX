@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.04.18 21:07:58
+      title: AST反混淆插件|表达式语句只包含单个节点时的还原
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565905&idx=1&sn=8f91e800ad3889d07c3c51421f015fc1
+    - author: 未闻Code
+      release_time: 2025.04.18 21:00:00
+      title: Excel高性能导入方案！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990317&idx=1&sn=cf94f15dd62ad91d158f00f9221b2dea
     - author: 逆向狗都不学
       release_time: 2025.04.18 16:36:07
       title: Frida检测绕过
@@ -236,14 +244,6 @@
       release_time: 2025.04.14 22:29:54
       title: JS逆向实战：调试 wasm 的小技巧
       url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486322&idx=1&sn=bb02d68aedcc3a2e8a3eaf91c99f38d3
-    - author: 未闻Code
-      release_time: 2025.04.14 21:00:00
-      title: 用 Python 开发 MCP 服务很简单，完整案例拿走不谢！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990299&idx=1&sn=f88be0540f5447662d4ad0f8be6516ea
-    - author: 静夜随想
-      release_time: 2025.04.14 20:34:00
-      title: 再探window.ActiveXObject=undefined
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811039&idx=1&sn=3cf34b7fa3fac41bca18cf724ed8de23
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
