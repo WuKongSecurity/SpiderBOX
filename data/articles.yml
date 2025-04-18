@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: LLLibra146
+      release_time: 2025.04.18 22:40:02
+      title: AST 技巧：使用 AST 分析函数执行路径 "更新" + 对比技巧
+      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486379&idx=1&sn=35cb7aa21fe1b894ba61f0d1c60f72b8
     - author: 菜鸟学Python编程
       release_time: 2025.04.18 21:07:58
       title: AST反混淆插件|表达式语句只包含单个节点时的还原
@@ -240,10 +244,6 @@
       release_time: 2025.04.15 00:00:00
       title: 安卓逆向2025 -- Frida学习之ollvm分析（三）
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038559&idx=1&sn=41d95a8a8e694d4da2efe630d1723dd9
-    - author: LLLibra146
-      release_time: 2025.04.14 22:29:54
-      title: JS逆向实战：调试 wasm 的小技巧
-      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486322&idx=1&sn=bb02d68aedcc3a2e8a3eaf91c99f38d3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
