@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: 2025.04.19 11:39:44
+      title: IDA技巧（122）手动加载
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485531&idx=1&sn=136e3e894c8255597149f60a9a38fc28
     - author: 吾爱破解论坛
       release_time: 2025.04.19 08:30:00
       title: 2025腾讯游戏安全技术竞赛 安卓初赛
@@ -240,10 +244,6 @@
       release_time: 2025.04.15 16:44:19
       title: MCP的常见安全问题与安全测试项
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497930&idx=1&sn=d6f7d0f64b9e962b26492621003dc9b9
-    - author: 小白技术社
-      release_time: 2025.04.15 12:44:20
-      title: 广东的vmp大致分析
-      url: https://mp.weixin.qq.com/s?__biz=MzI4NTE1NDMwMA==&mid=2247485300&idx=1&sn=3427c90238ae91716c73d8450584391d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
