@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.04.19 08:30:00
+      title: 2025腾讯游戏安全技术竞赛 安卓初赛
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142520&idx=1&sn=a03913b781f61adbfda9c0eec1aa7df6
     - author: 哆啦安全
       release_time: 2025.04.19 06:04:46
       title: Linux内核探针深入浅出
@@ -240,10 +244,6 @@
       release_time: 2025.04.15 12:44:20
       title: 广东的vmp大致分析
       url: https://mp.weixin.qq.com/s?__biz=MzI4NTE1NDMwMA==&mid=2247485300&idx=1&sn=3427c90238ae91716c73d8450584391d
-    - author: 搞点逆向778
-      release_time: 2025.04.15 10:00:00
-      title: 招人招人
-      url: https://mp.weixin.qq.com/s?__biz=MzUxMjE3Nzc3Mw==&mid=2247484210&idx=1&sn=5957ac77ad8758683144554bb93b0b1a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
