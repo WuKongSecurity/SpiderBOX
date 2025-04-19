@@ -386,6 +386,10 @@
       release_time: 2025.04.18 19:15:03
       title: '[原创]android端手机虚拟机实现过程'
       url: https://bbs.kanxue.com/thread-286534.htm
+    - author: OrionisLi
+      release_time: 2025.04.18 15:59:27
+      title: '[原创] LineageOS-21 编译大战！—— 一个萌新的心路历程 ☆'
+      url: https://bbs.kanxue.com/thread-286527.htm
     - author: Tajang
       release_time: 2025.04.17 23:03:44
       title: 分析一个政务网钓鱼攻击
@@ -486,10 +490,6 @@
       release_time: 2025.04.12 12:45:47
       title: 魔改chromium源码——canvas指纹修改 第二节
       url: https://blog.csdn.net/weixin_45307278/article/details/147161541
-    - author: 九月镇灵将
-      release_time: 2025.04.12 09:13:36
-      title: Gerapy二次开发：搜索器组件设计开发与应用（Vue父子组件通信）
-      url: https://blog.csdn.net/weixin_43845191/article/details/147123081
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
