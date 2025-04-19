@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: zzyzy
+      release_time: 2025.04.19 14:24:00
+      title: 某当网登录滑块逆向
+      url: https://www.52pojie.cn/thread-2025578-1-1.html
     - author: 西二旗搬砖仔
       release_time: 2025.04.17 17:55:00
       title: hooker frida版just_trust_me.js 2025升级 支持boringssl unpinning
@@ -363,10 +367,6 @@
       release_time: 2025.04.02 09:49:00
       title: 逆向入门 笔趣阁VIP
       url: https://www.52pojie.cn/thread-2020864-1-1.html
-    - author: zeredy
-      release_time: 2025.04.01 12:36:00
-      title: 使用frida完成【moji辞典V8.4.0】永久会员过程
-      url: https://www.52pojie.cn/thread-2020600-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
