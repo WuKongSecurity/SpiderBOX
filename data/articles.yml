@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.04.20 15:09:31
+      title: Android16“云编译”解决方案
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497979&idx=1&sn=70cc334c257682cf77f304bc229bf023
     - author: 吾爱破解论坛
       release_time: 2025.04.20 08:31:00
       title: 如何优雅的杀敌以做到英雄无敌?记一次血战上海滩修改器制作过程
@@ -240,10 +244,6 @@
       release_time: 2025.04.15 20:50:00
       title: 听说某数已人均
       url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811040&idx=1&sn=3d4d018e351945960941680dc82aa0c3
-    - author: 菜鸟学Python编程
-      release_time: 2025.04.15 17:21:00
-      title: AST反混淆插件|将混淆代码中的全局函数提到执行语句的前面来
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565893&idx=1&sn=7cc03ba585555ba3b68c3d2facb9999d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
