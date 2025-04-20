@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.04.20 21:00:00
+      title: 这个开源神器让视频学习效率翻倍！一键生成带截图的B站笔记，学习党狂喜！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990329&idx=1&sn=ddb3eef3c4e6698cbef8c8edf48315cc
     - author: 季东ooo
       release_time: 2025.04.20 15:56:12
       title: 某红薯APP最新shield参数分析
@@ -240,10 +244,6 @@
       release_time: 2025.04.16 09:20:14
       title: 五一抢票难，12306也“崩溃”
       url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486399&idx=1&sn=46d05619e19978de2a4a9bd160e88f35
-    - author: 未闻Code
-      release_time: 2025.04.15 21:00:00
-      title: 开发者的文档收割机来了！这个开源工具让你一小时干完一周的活！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990305&idx=1&sn=7fa079c3d15573ca17e02a3a01992a0c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
