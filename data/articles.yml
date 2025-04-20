@@ -251,6 +251,10 @@
       release_time: 2025.04.19 14:24:00
       title: 某当网登录滑块逆向
       url: https://www.52pojie.cn/thread-2025578-1-1.html
+    - author: chenchenchen777
+      release_time: 2025.04.18 19:11:00
+      title: android端手机虚拟机实现过程解析
+      url: https://www.52pojie.cn/thread-2025427-1-1.html
     - author: 西二旗搬砖仔
       release_time: 2025.04.17 17:55:00
       title: hooker frida版just_trust_me.js 2025升级 支持boringssl unpinning
@@ -363,10 +367,6 @@
       release_time: 2025.04.02 17:49:00
       title: frida基于bug的Stalker跟踪检测和修复
       url: https://www.52pojie.cn/thread-2021050-1-1.html
-    - author: Aa971016
-      release_time: 2025.04.02 09:49:00
-      title: 逆向入门 笔趣阁VIP
-      url: https://www.52pojie.cn/thread-2020864-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
