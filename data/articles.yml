@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 季东ooo
+      release_time: 2025.04.20 15:56:12
+      title: 某红薯APP最新shield参数分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjczODUwMw==&mid=2247484698&idx=1&sn=a2fd92c976d7fee804c3d8912a121d01
     - author: 哆啦安全
       release_time: 2025.04.20 15:09:31
       title: Android16“云编译”解决方案
@@ -240,10 +244,6 @@
       release_time: 2025.04.15 21:00:00
       title: 开发者的文档收割机来了！这个开源工具让你一小时干完一周的活！
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990305&idx=1&sn=7fa079c3d15573ca17e02a3a01992a0c
-    - author: 静夜随想
-      release_time: 2025.04.15 20:50:00
-      title: 听说某数已人均
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811040&idx=1&sn=3d4d018e351945960941680dc82aa0c3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
