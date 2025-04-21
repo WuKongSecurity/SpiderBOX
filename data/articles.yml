@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: HD236300
+      release_time: 2025.04.21 20:20:28
+      title: 2025全新JS逆向系统教程，VIP课程公开课，Python爬虫超级大神课，学完可接单做项目
+      url: https://www.bilibili.com/video/BV1XE5CzFESL
     - author: 若水0014
       release_time: 2025.04.21 17:21:18
       title: 浏览器webjs环境hook成品展示，js逆向补环境利器
@@ -117,13 +121,13 @@
       release_time: 2025.04.04 23:58:14
       title: 带你手把手编译android的linux内核！！！无需aosp，10分钟编译自己有代码提示的kernel并且重打包boot.img
       url: https://www.bilibili.com/video/BV1iARDYLEwA
-    - author: r0ysue
-      release_time: 2025.04.02 22:54:19
-      title: 四卡本地vLLM跑千问QwQ32b驱动MCP智能体查询当前北京时间温哥华时间
-      url: https://www.bilibili.com/video/BV1uifMYtEUw
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.04.22 00:00:00
+      title: 安卓逆向 -- Android SO文件加载过程探究
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038638&idx=1&sn=41a4e6249b5b135b90db1d8942189a3c
     - author: 未闻Code
       release_time: 2025.04.21 21:00:00
       title: 懒人福音：让 AI 自动收钱，你只负责数钱
@@ -240,10 +244,6 @@
       release_time: 2025.04.17 08:30:00
       title: 【密码学】基于编码的密码学学习笔记(一)
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491535&idx=1&sn=94f9f9f5dcb64809dc7f2b374107fdd1
-    - author: 逆向有你
-      release_time: 2025.04.17 00:00:00
-      title: 安卓逆向 -- 记录一次加固逆向分析以及加固步骤详解
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038615&idx=1&sn=b1c2f261d57cf2dfcf5bf73472a4bdb0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
