@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.04.21 08:53:27
+      title: 车载Android15系统提权思路和方法
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497980&idx=1&sn=955b788992636446ad7ac1a0c9b24e10
+    - author: 哆啦安全
+      release_time: 2025.04.21 08:53:27
+      title: 用Frida看看AmsiScanBuffer
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497980&idx=2&sn=84c754f0a3e9852942fa5346bb2b646e
+    - author: Coder小Q
+      release_time: 2025.04.21 08:30:00
+      title: 【密码学】基于编码的密码学学习笔记(二)基本概念
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491561&idx=1&sn=3514466d2f34f9a1e70650802d9c6742
+    - author: LLLibra146
+      release_time: 2025.04.21 08:06:47
+      title: AST 技巧：如何让混淆后的 JS 变量名“好看些”
+      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486390&idx=1&sn=b8284d96e4d0a77a2ae1f51effed2168
     - author: 小伍哥聊风控
       release_time: 2025.04.20 23:19:03
       title: 课程介绍《万物皆网络-风控中的网络挖掘方法》
@@ -228,22 +244,6 @@
       release_time: 2025.04.16 22:09:05
       title: AST 技巧：自动添加 catch 日志输出
       url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486330&idx=1&sn=613e7f7922dc97fd87699921563414c7
-    - author: 影17
-      release_time: 2025.04.16 20:01:38
-      title: 某网站Wasm调用流程分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489581&idx=1&sn=c959b794f7b0af7d83a9d102c3592e1f
-    - author: 哆啦安全
-      release_time: 2025.04.16 15:19:38
-      title: Unity il2cpp游戏逆向分析技巧
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497933&idx=1&sn=fdae713f6e26a146ea84ae5ab2349b4f
-    - author: 菜鸟学Python编程
-      release_time: 2025.04.16 14:44:25
-      title: AST反混淆插件|赋值语句中的left节点在其他地方无引用时的删除
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565897&idx=1&sn=393815f26ce23bcfbfdfaebfe36f2649
-    - author: 吾爱破解论坛
-      release_time: 2025.04.16 12:24:06
-      title: 2025腾讯游戏安全技术竞赛决赛题解
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142376&idx=1&sn=dde50b089480f98c01f8a4c7d1acc657
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
