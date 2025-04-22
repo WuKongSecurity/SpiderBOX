@@ -1,10 +1,6 @@
 - icon: fas fa-list
   list:
   - links:
-    - author: HD236300
-      release_time: 2025.04.21 20:20:28
-      title: 2025全新JS逆向系统教程，VIP课程公开课，Python爬虫超级大神课，学完可接单做项目
-      url: https://www.bilibili.com/video/BV1XE5CzFESL
     - author: 若水0014
       release_time: 2025.04.21 17:21:18
       title: 浏览器webjs环境hook成品展示，js逆向补环境利器
@@ -124,14 +120,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.04.22 09:03:50
+      title: apktool反编译后仅生成单个smali目录‌
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497985&idx=1&sn=26b54e36cb5ad55d10c02b72e9cc6d17
+    - author: 哆啦安全
+      release_time: 2025.04.22 09:03:50
+      title: JNI动静态绑定和追踪方法
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497985&idx=2&sn=b0aa83e468c53369fed1a36bac0517eb
+    - author: LLLibra146
+      release_time: 2025.04.22 09:00:00
+      title: JS逆向技巧：日志断点如何正确输出 JSON 而不报错
+      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486403&idx=1&sn=e35d85c04279ed8b4f38f7ce70586e20
     - author: 逆向有你
       release_time: 2025.04.22 00:00:00
       title: 安卓逆向 -- Android SO文件加载过程探究
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038638&idx=1&sn=41a4e6249b5b135b90db1d8942189a3c
-    - author: 未闻Code
-      release_time: 2025.04.21 21:00:00
-      title: 懒人福音：让 AI 自动收钱，你只负责数钱
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990335&idx=1&sn=ee2b3b9c3e0f447e8fc0177709e51aa8
     - author: 哆啦安全
       release_time: 2025.04.21 08:53:27
       title: 车载Android15系统提权思路和方法
@@ -152,10 +156,6 @@
       release_time: 2025.04.20 23:19:03
       title: 课程介绍《万物皆网络-风控中的网络挖掘方法》
       url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196849&idx=1&sn=6d4e4a5c1131907d78133b7da19bdcb1
-    - author: 未闻Code
-      release_time: 2025.04.20 21:00:00
-      title: 这个开源神器让视频学习效率翻倍！一键生成带截图的B站笔记，学习党狂喜！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990329&idx=1&sn=ddb3eef3c4e6698cbef8c8edf48315cc
     - author: 季东ooo
       release_time: 2025.04.20 15:56:12
       title: 某红薯APP最新shield参数分析
@@ -192,10 +192,6 @@
       release_time: 2025.04.18 21:07:58
       title: AST反混淆插件|表达式语句只包含单个节点时的还原
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565905&idx=1&sn=8f91e800ad3889d07c3c51421f015fc1
-    - author: 未闻Code
-      release_time: 2025.04.18 21:00:00
-      title: Excel高性能导入方案！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990317&idx=1&sn=cf94f15dd62ad91d158f00f9221b2dea
     - author: 逆向狗都不学
       release_time: 2025.04.18 16:36:07
       title: Frida检测绕过
@@ -212,10 +208,6 @@
       release_time: 2025.04.17 22:00:01
       title: AST 技巧：使用 AST 自动打印函数执行路径
       url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486341&idx=1&sn=fc995e81f37da0d8bbc6057b74849b82
-    - author: 未闻Code
-      release_time: 2025.04.17 21:00:00
-      title: 千万级的大表，如何做性能优化？
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990311&idx=1&sn=fb71704ff4b9a019f2af4fa73e913910
     - author: 菜鸟学Python编程
       release_time: 2025.04.17 20:49:36
       title: AST反混淆插件|给逻辑与表达式统一加上小括号
@@ -244,6 +236,10 @@
       release_time: 2025.04.17 08:30:00
       title: 【密码学】基于编码的密码学学习笔记(一)
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491535&idx=1&sn=94f9f9f5dcb64809dc7f2b374107fdd1
+    - author: 逆向有你
+      release_time: 2025.04.17 00:00:00
+      title: 安卓逆向 -- 记录一次加固逆向分析以及加固步骤详解
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038615&idx=1&sn=b1c2f261d57cf2dfcf5bf73472a4bdb0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
