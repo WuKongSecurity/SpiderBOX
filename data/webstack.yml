@@ -332,35 +332,39 @@
         - title: Crawlab
           logo: crawlab.png
           url: https://www.crawlab.cn/
-          description: 分布式爬虫管理平台，支持任何语言和框架。
+          description: 分布式爬虫管理平台，支持任何语言和框架
         - title: Feapder
           logo: spidertools.png
           url: https://feapder.com/
-          description: 秉承着开发快速、抓取快速、简单、轻量且功能强大的原则，倾心打造，支持轻量级爬虫、分布式爬虫、批次爬虫、爬虫集成，以及完善的报警等。
+          description: 秉承着开发快速、抓取快速、简单、轻量且功能强大的原则，倾心打造，支持轻量级爬虫、分布式爬虫、批次爬虫、爬虫集成，以及完善的报警等
         - title: Gerapy
           logo: Gerapy.png
           url: https://github.com/Gerapy/Gerapy
-          description: 基于 Scrapy、Scrapyd、Django 和 Vue.js 的分布式爬虫管理框架。
+          description: 基于 Scrapy、Scrapyd、Django 和 Vue.js 的分布式爬虫管理框架
         - title: Scrapyd
           logo: scrapyd.png
           url: https://github.com/scrapy/scrapyd
-          description: Scrapyd 是一个用于运行 Scrapy 爬虫的服务，它允许部署 Scrapy 项目并使用 HTTP JSON API 控制爬虫脚本。
+          description: Scrapyd 是一个用于运行 Scrapy 爬虫的服务，它允许部署 Scrapy 项目并使用 HTTP JSON API 控制爬虫脚本
         - title: ScrapydWeb
           logo: scrapydweb.png
           url: https://github.com/my8100/scrapydweb
-          description: 用于 Scrapyd 集群管理、Scrapy 日志分析和可视化、自动打包、计时器任务、监控和警报以及移动 UI 的 Web 应用程序。
+          description: 用于 Scrapyd 集群管理、Scrapy 日志分析和可视化、自动打包、计时器任务、监控和警报以及移动 UI 的 Web 应用程序
         - title: Kubernetes
           logo: kubernetes.png
           url: https://kubernetes.io/
-          description: Kubernetes，也称为 K8s，是一个用于自动化部署、扩展和管理容器化应用程序的开源系统。
+          description: Kubernetes，也称为 K8s，是一个用于自动化部署、扩展和管理容器化应用程序的开源系统
         - title: Prometheus
           logo: prometheus.png
           url: https://prometheus.io/
-          description: Prometheus 开源监控系统。
+          description: Prometheus 开源监控系统
         - title: Grafana
           logo: grafana.png
           url: https://grafana.com/
-          description: Grafana 是一款开源的数据可视化工具，使用 Grafana 可以非常轻松的将数据转成图表的展现形式来做到数据监控以及数据统计。
+          description: Grafana 是一款开源的数据可视化工具，使用 Grafana 可以非常轻松的将数据转成图表的展现形式来做到数据监控以及数据统计
+        - title: TaskPyro
+          logo: taskpyro.png
+          url: https://github.com/taskPyroer/taskpyro
+          description: 轻量级 Python 任务调度与爬虫管理平台，可视化操作，环境隔离，资源占用小，支持 Scrapy 等主流爬虫框架，支持 Selenium、Playwright、DrissionPage 等浏览器自动化工具，支持 node 环境下的 js 逆向代码
 
     - term: 其他工具
       links:
@@ -1608,6 +1612,10 @@
           logo: xiecaiyun.png
           url: http://clue.xiecaiyun.com/reg/?channel=Y-wt-bob
           description: 协采云九年深耕，百万级代理节点，自由调度！资源分池，客户间物理隔离，互不干扰！深度定制，代理池私有化部署，安全灵活！
+        - title: 代理云
+          logo: dlyip.png
+          url: https://www.dlyip.com/
+          description: 代理云代理 IP，十年品质之选深受数据采集企业和爬虫工程师信赖，海量 IP 资源，稳定高效，技术支持全面，是您数据采集的最佳拍档
 #        - title: 快代理
 #          logo: kuaidaili.png
 #          url: https://www.kuaidaili.com/
@@ -1759,6 +1767,10 @@
           logo: blurpath.png
           url: https://blurpath.com?channel_code=https://spiderbox.cn/?utm_source=blurpath
           description: Scale Your Access with 60 Million IPs at Affordable Prices. Suitable for different kinds of business scenes, always stable and pioneering.
+        - title: SwiftProxy
+          logo: swiftproxy.jpg
+          url: https://www.swiftproxy.net/?ref=spiderbox
+          description: 9000万+全球高质量纯净动态、静态住宅IP，支持免费测试，动态流量不过期
 
 #        - title: WTFproxy
 #          logo: wtfproxy.png
