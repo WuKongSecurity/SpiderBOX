@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.04.22 12:05:49
+      title: Pyinstaller Repack 指南
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142533&idx=1&sn=1a9c5dc13f943d817f90acc522c6efa9
     - author: 哆啦安全
       release_time: 2025.04.22 09:03:50
       title: apktool反编译后仅生成单个smali目录‌
@@ -236,10 +240,6 @@
       release_time: 2025.04.17 08:30:00
       title: 【密码学】基于编码的密码学学习笔记(一)
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491535&idx=1&sn=94f9f9f5dcb64809dc7f2b374107fdd1
-    - author: 逆向有你
-      release_time: 2025.04.17 00:00:00
-      title: 安卓逆向 -- 记录一次加固逆向分析以及加固步骤详解
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038615&idx=1&sn=b1c2f261d57cf2dfcf5bf73472a4bdb0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
