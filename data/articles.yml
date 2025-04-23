@@ -243,6 +243,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: anke1
+      release_time: 2025.04.23 18:01:00
+      title: 通杀安卓软件广告方法大全
+      url: https://www.52pojie.cn/thread-2026697-1-1.html
     - author: xianyuYuan
       release_time: 2025.04.22 21:54:00
       title: 某盾il2cpp手游壳so加固的修复
@@ -359,10 +363,6 @@
       release_time: 2025.04.05 11:22:00
       title: 利用软件失误破解Poweramp、均衡器
       url: https://www.52pojie.cn/thread-2021655-1-1.html
-    - author: 无名
-      release_time: 2025.04.03 18:39:00
-      title: 【js逆向】某有声书网站参数逆向分析
-      url: https://www.52pojie.cn/thread-2021390-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
