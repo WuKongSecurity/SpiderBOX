@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.04.23 08:52:48
+      title: Android Root后可注入SO库至其他App进程
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497990&idx=1&sn=f8501013cb190a1ffa3ac420f9f3e614
     - author: 流星Studio
       release_time: 2025.04.22 20:51:39
       title: 微信4.0小程序逆向调试工具来啦！
@@ -236,10 +240,6 @@
       release_time: 2025.04.17 08:53:43
       title: ARM架构Android系统qcow2镜像制作方法
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497936&idx=1&sn=627f61fa52fa57ebde6fd271351b16c3
-    - author: 哆啦安全
-      release_time: 2025.04.17 08:53:43
-      title: 一张图拆解：CVE漏洞的旅程
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497936&idx=2&sn=43e60952c4590bf3aa4092c3969857e8
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
