@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: 2025.04.23 15:07:34
+      title: 【新学习平台介绍】七天 Frida 从小白到大师计划 | 赠送智能体开发
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485537&idx=1&sn=6553e3c2a1406cef1e501439c16e4d14
     - author: 爬虫逆向小林哥
       release_time: 2025.04.23 09:00:00
       title: 【逆向案例】巨量算数响应体vmp-decode
@@ -236,10 +240,6 @@
       release_time: 2025.04.17 17:13:14
       title: Python爬虫基于DeepSeek热点数据分析与推送功能
       url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247485993&idx=1&sn=2d810bbebd9d12bf52382d0b8f10ced1
-    - author: 吾爱破解论坛
-      release_time: 2025.04.17 12:33:44
-      title: 2025騰訊遊戲安全大賽(安卓初賽)
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142401&idx=1&sn=485fa1815a5b0769293567247bfbe924
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -366,6 +366,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: mb_bkkdeflr
+      release_time: 2025.04.23 15:09:50
+      title: '[原创] 某登录流程分析'
+      url: https://bbs.kanxue.com/thread-286592.htm
     - author: 无味
       release_time: 2025.04.23 01:20:49
       title: '[原创] 关于牛头人(nativeTest)的Found Injection(4)的检测'
@@ -482,10 +486,6 @@
       release_time: 2025.04.14 10:54:11
       title: '[原创] 2025騰訊遊戲安全大賽(安卓決賽)'
       url: https://bbs.kanxue.com/thread-286465.htm
-    - author: ngiokweng
-      release_time: 2025.04.14 09:54:10
-      title: '[原创] 2025騰訊遊戲安全大賽(安卓初賽)'
-      url: https://bbs.kanxue.com/thread-286463.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
