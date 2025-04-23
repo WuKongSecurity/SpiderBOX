@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: DrissionPage
+      release_time: 2025.04.23 10:00:00
+      title: 操作下拉框-DrissionPage官方教程-p23
+      url: https://www.bilibili.com/video/BV1H45UzFEQb
+    - author: DrissionPage
+      release_time: 2025.04.22 10:08:21
+      title: 提交表单-DrissionPage官方教程-p22
+      url: https://www.bilibili.com/video/BV1Ht5UzbEnm
     - author: 若水0014
       release_time: 2025.04.21 17:21:18
       title: 浏览器webjs环境hook成品展示，js逆向补环境利器
@@ -109,17 +117,17 @@
       release_time: 2025.04.05 15:57:01
       title: 【零基础ai编程】calude自动生成爬虫代码【包含课件和答疑】
       url: https://www.bilibili.com/video/BV1nCRRYeEiS
-    - author: 小肩膀-逆向安全培训
-      release_time: 2025.04.05 15:40:29
-      title: 【零基础ai编程】cursor的安装【包含课件和答疑】
-      url: https://www.bilibili.com/video/BV1cCRRYvEiR
-    - author: 一只勇敢的小佳
-      release_time: 2025.04.04 23:58:14
-      title: 带你手把手编译android的linux内核！！！无需aosp，10分钟编译自己有代码提示的kernel并且重打包boot.img
-      url: https://www.bilibili.com/video/BV1iARDYLEwA
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 爬虫逆向小林哥
+      release_time: 2025.04.23 09:00:00
+      title: 【逆向案例】巨量算数响应体vmp-decode
+      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247486405&idx=1&sn=37cb64bcfd793c7236bd77d335820220
+    - author: LLLibra146
+      release_time: 2025.04.23 09:00:00
+      title: alfred 使用技巧：一键自动格式化 JS 代码
+      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486450&idx=1&sn=51e78fc2d90bbffeb5ffb4c98ba67e30
     - author: 哆啦安全
       release_time: 2025.04.23 08:52:48
       title: Android Root后可注入SO库至其他App进程
@@ -232,14 +240,6 @@
       release_time: 2025.04.17 12:33:44
       title: 2025騰訊遊戲安全大賽(安卓初賽)
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142401&idx=1&sn=485fa1815a5b0769293567247bfbe924
-    - author: 猿人学Python
-      release_time: 2025.04.17 10:42:44
-      title: 会开火车能逆向 月薪从3500到2万+
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448549866&idx=1&sn=97b2e53ef68ddec9fd99ad6499157f71
-    - author: 哆啦安全
-      release_time: 2025.04.17 08:53:43
-      title: ARM架构Android系统qcow2镜像制作方法
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497936&idx=1&sn=627f61fa52fa57ebde6fd271351b16c3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
