@@ -243,6 +243,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: biedaliana
+      release_time: 2025.04.24 15:14:00
+      title: 一个可以练习webpack的站
+      url: https://www.52pojie.cn/thread-2026911-1-1.html
     - author: anke1
       release_time: 2025.04.23 18:01:00
       title: 通杀安卓软件广告方法大全
@@ -359,10 +363,6 @@
       release_time: 2025.04.06 16:05:00
       title: 某Uniapp框架App hook方法
       url: https://www.52pojie.cn/thread-2021863-1-1.html
-    - author: 芽衣
-      release_time: 2025.04.05 11:22:00
-      title: 利用软件失误破解Poweramp、均衡器
-      url: https://www.52pojie.cn/thread-2021655-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
