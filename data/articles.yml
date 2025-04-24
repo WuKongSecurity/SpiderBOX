@@ -120,6 +120,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.04.24 19:03:33
+      title: Android内核探针应用追踪技术
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497991&idx=1&sn=74f1b474024c54eb76cdc19e060c58be
+    - author: 哆啦安全
+      release_time: 2025.04.24 19:03:33
+      title: 限制性Shell环境的突破和安全防御
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497991&idx=2&sn=9effd81ba3718da7a5e22e917dff4afe
     - author: 爬虫逆向小林哥
       release_time: 2025.04.24 11:19:55
       title: 轻量级的Python任务管理和爬虫调度平台
@@ -232,14 +240,6 @@
       release_time: 2025.04.18 09:25:00
       title: 2025騰訊遊戲安全大賽(安卓決賽)
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142446&idx=1&sn=22af601577a8352f7c7ea182d20a32d2
-    - author: 哆啦安全
-      release_time: 2025.04.18 08:57:20
-      title: Android系统从硬件上电到应用启动的完整流程解析
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497952&idx=1&sn=f222cdbcf4fa62d78332be8c1377418e
-    - author: LLLibra146
-      release_time: 2025.04.17 22:00:01
-      title: AST 技巧：使用 AST 自动打印函数执行路径
-      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486341&idx=1&sn=fc995e81f37da0d8bbc6057b74849b82
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
