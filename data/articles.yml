@@ -120,10 +120,6 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
-    - author: LLLibra146
-      release_time: 2025.04.24 09:00:00
-      title: 取代前后端岗，国内又一新兴岗位在崛起！这才是程序员未来5年最好的就业方向！
-      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486457&idx=1&sn=f687d52347b6b872bca49d8a9d02e138
     - author: 独步爬虫逆向
       release_time: 2025.04.23 15:46:25
       title: 如何写一个检测tls的服务
@@ -240,6 +236,10 @@
       release_time: 2025.04.17 22:00:01
       title: AST 技巧：使用 AST 自动打印函数执行路径
       url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486341&idx=1&sn=fc995e81f37da0d8bbc6057b74849b82
+    - author: 菜鸟学Python编程
+      release_time: 2025.04.17 20:49:36
+      title: AST反混淆插件|给逻辑与表达式统一加上小括号
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565901&idx=1&sn=a4c4f27ae3462896211d409d9080c7c2
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -482,10 +482,6 @@
       release_time: 2025.04.14 10:54:20
       title: pyenv库应用入门与Ubuntu端安装实践
       url: https://blog.csdn.net/weixin_43845191/article/details/147202287
-    - author: ngiokweng
-      release_time: 2025.04.14 10:54:11
-      title: '[原创] 2025騰訊遊戲安全大賽(安卓決賽)'
-      url: https://bbs.kanxue.com/thread-286465.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
