@@ -370,6 +370,10 @@
       release_time: 2025.04.23 15:09:50
       title: '[原创] 某登录流程分析'
       url: https://bbs.kanxue.com/thread-286592.htm
+    - author: r8e8cd8
+      release_time: 2025.04.23 10:35:38
+      title: '[原创]某品会的authorization算法解析与还原'
+      url: https://bbs.kanxue.com/thread-286578.htm
     - author: 无味
       release_time: 2025.04.23 01:20:49
       title: '[原创] 关于牛头人(nativeTest)的Found Injection(4)的检测'
@@ -478,10 +482,6 @@
       release_time: 2025.04.14 11:36:02
       title: AST反混淆插件|最简单的if语句转switch语句
       url: https://blog.csdn.net/qq523176585/article/details/147238877
-    - author: 九月镇灵将
-      release_time: 2025.04.14 10:54:20
-      title: pyenv库应用入门与Ubuntu端安装实践
-      url: https://blog.csdn.net/weixin_43845191/article/details/147202287
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
