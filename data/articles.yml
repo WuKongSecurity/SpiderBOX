@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: LuckyFuture
+      release_time: 2025.04.25 18:18:00
+      title: JS黑科技：利用eval打造"万变不离其宗"的动态执行方案
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNDE3NjY0OA==&mid=2247484339&idx=1&sn=c09642669f81ff4df40edc2cdbd5ceb8
     - author: 二进制磨剑
       release_time: 2025.04.25 16:14:54
       title: IDA技巧（123）opcode-bytes
@@ -236,10 +240,6 @@
       release_time: 2025.04.19 08:30:00
       title: 2025腾讯游戏安全技术竞赛 安卓初赛
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142520&idx=1&sn=a03913b781f61adbfda9c0eec1aa7df6
-    - author: 哆啦安全
-      release_time: 2025.04.19 06:04:46
-      title: Linux内核探针深入浅出
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497960&idx=1&sn=6dbacfd5938a1b0b3f3adafc50c0df4b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
