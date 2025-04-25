@@ -366,6 +366,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 逆天而行
+      release_time: 2025.04.25 15:14:31
+      title: '[原创]安卓逆向之插件化技术学习'
+      url: https://bbs.kanxue.com/thread-286613.htm
     - author: 狗都不学爬虫_
       release_time: 2025.04.24 16:38:17
       title: JS逆向-ali231、bx-pp补环境（_x82y）
@@ -478,10 +482,6 @@
       release_time: 2025.04.14 18:18:59
       title: '[原创]Xposed 开发 快速入门'
       url: https://bbs.kanxue.com/thread-286473.htm
-    - author: solar解密
-      release_time: 2025.04.14 14:24:27
-      title: '[原创]【漏洞与预防】Atlassian Confluence存在远程代码执行漏洞'
-      url: https://bbs.kanxue.com/thread-286470.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
