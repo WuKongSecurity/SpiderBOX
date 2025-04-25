@@ -243,6 +243,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: cs850629238
+      release_time: 2025.04.25 00:22:00
+      title: 记一次某电网e充电小程序逆向
+      url: https://www.52pojie.cn/thread-2027025-1-1.html
     - author: biedaliana
       release_time: 2025.04.24 15:14:00
       title: 一个可以练习webpack的站
@@ -359,10 +363,6 @@
       release_time: 2025.04.06 19:01:00
       title: 一个小白练手包简单逆向的记录
       url: https://www.52pojie.cn/thread-2021891-1-1.html
-    - author: KillLog
-      release_time: 2025.04.06 16:05:00
-      title: 某Uniapp框架App hook方法
-      url: https://www.52pojie.cn/thread-2021863-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
