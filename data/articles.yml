@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小伍哥聊风控
+      release_time: 2025.04.25 22:00:54
+      title: 搞到一批扣子空间的邀请码，需要的加我。
+      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196863&idx=1&sn=521769da4b6ce9228345aeacd206ff3a
     - author: 哆啦安全
       release_time: 2025.04.25 21:26:10
       title: AI恶意程序分析系统的一些技术内幕
@@ -236,13 +240,13 @@
       release_time: 2025.04.20 08:31:00
       title: 如何优雅的杀敌以做到英雄无敌?记一次血战上海滩修改器制作过程
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142521&idx=1&sn=cf66e4ca95f972eab6032873d99339fc
-    - author: 二进制磨剑
-      release_time: 2025.04.19 11:39:44
-      title: IDA技巧（122）手动加载
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485531&idx=1&sn=136e3e894c8255597149f60a9a38fc28
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: ZSAIm
+      release_time: 2025.04.25 18:21:00
+      title: frida-analykit + wireshark流量抓包（下）-通杀flutter和webview等静链boringssl
+      url: https://www.52pojie.cn/thread-2027265-1-1.html
     - author: cs850629238
       release_time: 2025.04.25 00:22:00
       title: 记一次某电网e充电小程序逆向
@@ -359,10 +363,6 @@
       release_time: 2025.04.06 21:23:00
       title: 【js逆向】虾m视频真实地址
       url: https://www.52pojie.cn/thread-2021915-1-1.html
-    - author: tuandgame
-      release_time: 2025.04.06 19:01:00
-      title: 一个小白练手包简单逆向的记录
-      url: https://www.52pojie.cn/thread-2021891-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
