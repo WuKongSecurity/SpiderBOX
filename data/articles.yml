@@ -120,6 +120,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 奋飞安全
+      release_time: 2025.04.25 10:32:25
+      title: 结合AI对WhatsApp的分析（三）
+      url: https://mp.weixin.qq.com/s?__biz=MzI4NzMwNDI3OQ==&mid=2247484971&idx=1&sn=75a3d33044a9e1a3f7da484082eb9999
+    - author: 布鲁的Python之旅
+      release_time: 2025.04.25 10:10:12
+      title: Python爬虫管理平台版本更新
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247485997&idx=1&sn=7c19a35879b35faac75eec1cca09cb4c
     - author: Coder小Q
       release_time: 2025.04.25 08:30:00
       title: 【密码学】一文读懂隐写术(Steganography)
@@ -232,14 +240,6 @@
       release_time: 2025.04.18 22:40:02
       title: AST 技巧：使用 AST 分析函数执行路径 "更新" + 对比技巧
       url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486379&idx=1&sn=35cb7aa21fe1b894ba61f0d1c60f72b8
-    - author: 菜鸟学Python编程
-      release_time: 2025.04.18 21:07:58
-      title: AST反混淆插件|表达式语句只包含单个节点时的还原
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565905&idx=1&sn=8f91e800ad3889d07c3c51421f015fc1
-    - author: 逆向狗都不学
-      release_time: 2025.04.18 16:36:07
-      title: Frida检测绕过
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247483823&idx=1&sn=657fa665aa2f2d29a9eac45575f9d42a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
