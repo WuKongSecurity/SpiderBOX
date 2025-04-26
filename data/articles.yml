@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.04.26 11:05:34
+      title: Android7至16系统ROM魔改和安全研究篇(建议收藏)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498005&idx=1&sn=8ea731a8a62b3a7c378cf1066375f4e5
     - author: 二进制磨剑
       release_time: 2025.04.26 09:50:46
       title: IDA 技巧（124）scripting-examples
@@ -236,10 +240,6 @@
       release_time: 2025.04.20 15:56:12
       title: 某红薯APP最新shield参数分析
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjczODUwMw==&mid=2247484698&idx=1&sn=a2fd92c976d7fee804c3d8912a121d01
-    - author: 哆啦安全
-      release_time: 2025.04.20 15:09:31
-      title: Android16“云编译”解决方案
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497979&idx=1&sn=70cc334c257682cf77f304bc229bf023
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
