@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.04.27 23:50:26
+      title: LSPatch和太极框架(免Root)及Magisk
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498008&idx=1&sn=36a2d761ac0708444c678d09e7853600
     - author: 当爬虫遇到逆向
       release_time: 2025.04.27 12:00:24
       title: 【安卓逆向】咪咕音乐sign参数
@@ -236,10 +240,6 @@
       release_time: 2025.04.21 08:30:00
       title: 【密码学】基于编码的密码学学习笔记(二)基本概念
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491561&idx=1&sn=3514466d2f34f9a1e70650802d9c6742
-    - author: LLLibra146
-      release_time: 2025.04.21 08:06:47
-      title: AST 技巧：如何让混淆后的 JS 变量名“好看些”
-      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486390&idx=1&sn=b8284d96e4d0a77a2ae1f51effed2168
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
