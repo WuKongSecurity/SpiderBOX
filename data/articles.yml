@@ -243,6 +243,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: utf8
+      release_time: 2025.04.27 15:36:00
+      title: AI与JSVMP的初次结合-深入浅出的逆向JSVMP
+      url: https://www.52pojie.cn/thread-2027657-1-1.html
+    - author: wp00000008
+      release_time: 2025.04.27 01:50:00
+      title: 巨坑：frida 在vs code1.99.3 的终端中无法联网，请注意
+      url: https://www.52pojie.cn/thread-2027505-1-1.html
     - author: 小菜鸟一枚
       release_time: 2025.04.26 17:04:00
       title: 学破解第217天，《攻防世界easy-so》IDA和frida调试回忆
@@ -355,14 +363,6 @@
       release_time: 2025.04.08 16:39:00
       title: 某q音乐sign逆向-多角度
       url: https://www.52pojie.cn/thread-2022463-1-1.html
-    - author: chenchenchen777
-      release_time: 2025.04.07 13:01:00
-      title: 利用frida 探究对于模拟器下arm so加载
-      url: https://www.52pojie.cn/thread-2022064-1-1.html
-    - author: nangongxt07
-      release_time: 2025.04.07 11:03:00
-      title: 表哥,你也不想你扣的js代码被格式化检测吧
-      url: https://www.52pojie.cn/thread-2022022-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
