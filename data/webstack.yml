@@ -1721,7 +1721,7 @@
           description: The Most Stable Residential Proxy Network.
         - title: IPRoyal
           logo: iproyal.png
-          url: https://iproyal.com/
+          url: https://iproyal.cn/?r=834888
           description: IPRoyal is one of the best and cheapest proxy service providers with 2M+ residential proxies and many other proxy types☑️! Start using it NOW!
         - title: Ake
           logo: ake.png
@@ -1771,6 +1771,10 @@
           logo: swiftproxy.jpg
           url: https://www.swiftproxy.net/?ref=spiderbox
           description: 9000万+全球高质量纯净动态、静态住宅IP，支持免费测试，动态流量不过期
+        - title: kookeey
+          logo: kookeey.png
+          url: https://www.kookeey.com/?aff=85299914
+          description: kookeey 全球业务级代理 IP，主营静态 ISP 代理、动态住宅代理、静态数据中心代理 3 大产品
 
 #        - title: WTFproxy
 #          logo: wtfproxy.png
