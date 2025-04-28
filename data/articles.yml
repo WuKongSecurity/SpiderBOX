@@ -378,6 +378,10 @@
       release_time: 2025.04.28 11:23:49
       title: 【验证码逆向专栏】某采购网，360 磐云盾、文字点选验证码逆向分析
       url: https://blog.csdn.net/kdl_csdn/article/details/147578484
+    - author: git_21210wzzzh2025
+      release_time: 2025.04.28 00:32:44
+      title: '[原创]某某car sd参数分析'
+      url: https://bbs.kanxue.com/thread-286646.htm
     - author: DirtyAngle
       release_time: 2025.04.27 18:45:19
       title: '[原创] 逆向互导者, 绝杀脚本系列'
@@ -478,10 +482,6 @@
       release_time: 2025.04.17 15:37:26
       title: Fastjson 漏洞复现
       url: https://bbs.kanxue.com/thread-286518.htm
-    - author: 方北七
-      release_time: 2025.04.17 14:12:27
-      title: '[原创]app启动流程学习'
-      url: https://bbs.kanxue.com/thread-286517.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
