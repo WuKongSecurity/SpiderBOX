@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜狗学逆向
+      release_time: 2025.04.28 15:19:24
+      title: 深航x-s3-s4e参数明文分析
+      url: https://mp.weixin.qq.com/s?__biz=MzU2MzgwOTg2Ng==&mid=2247483734&idx=1&sn=a804010811429538eb35b5479e0c1d9c
     - author: 流星Studio
       release_time: 2025.04.28 13:36:12
       title: 【全网首发】tk X-Gnarly jsvmp算法还原
@@ -152,10 +156,6 @@
       release_time: 2025.04.26 09:50:46
       title: IDA 技巧（124）scripting-examples
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485539&idx=1&sn=043f6a36a7bbd00373968c8db3547bf1
-    - author: 影17
-      release_time: 2025.04.26 08:52:08
-      title: 某团小程序_token & mtgisg
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489614&idx=1&sn=0d47b6b302ed2e089bd39cd89b951348
     - author: 小伍哥聊风控
       release_time: 2025.04.25 22:00:54
       title: 搞到一批扣子空间的邀请码，需要的加我。
@@ -172,6 +172,10 @@
       release_time: 2025.04.25 16:14:54
       title: IDA技巧（123）opcode-bytes
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485538&idx=1&sn=aa7a4538da260be1d5b341286d8fc3ab
+    - author: 影17
+      release_time: 2025.04.25 15:42:05
+      title: 某团小程序_token & mtgisg
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489599&idx=1&sn=a57023ed0ab917b634419f319eb62920
     - author: 奋飞安全
       release_time: 2025.04.25 10:32:25
       title: 结合AI对WhatsApp的分析（三）
@@ -236,10 +240,6 @@
       release_time: 2025.04.22 09:00:00
       title: JS逆向技巧：日志断点如何正确输出 JSON 而不报错
       url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486403&idx=1&sn=e35d85c04279ed8b4f38f7ce70586e20
-    - author: 逆向有你
-      release_time: 2025.04.22 00:00:00
-      title: 安卓逆向 -- Android SO文件加载过程探究
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038638&idx=1&sn=41a4e6249b5b135b90db1d8942189a3c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
