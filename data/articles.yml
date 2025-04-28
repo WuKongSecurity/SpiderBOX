@@ -120,6 +120,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 流星Studio
+      release_time: 2025.04.28 13:36:12
+      title: 【全网首发】tk X-Gnarly jsvmp算法还原
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjUxNTgyMg==&mid=2247484015&idx=1&sn=61842672cdb1b3e0487ea28f37346279
+    - author: 流星Studio
+      release_time: 2025.04.28 13:36:12
+      title: 某音滑块分析
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjUxNTgyMg==&mid=2247484015&idx=2&sn=49a2adad1f616312250c7fb1cc796e9b
     - author: 二进制磨剑
       release_time: 2025.04.28 09:36:37
       title: IDA 技巧（125）结构字段表示
@@ -232,14 +240,6 @@
       release_time: 2025.04.22 00:00:00
       title: 安卓逆向 -- Android SO文件加载过程探究
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038638&idx=1&sn=41a4e6249b5b135b90db1d8942189a3c
-    - author: 哆啦安全
-      release_time: 2025.04.21 08:53:27
-      title: 车载Android15系统提权思路和方法
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497980&idx=1&sn=955b788992636446ad7ac1a0c9b24e10
-    - author: 哆啦安全
-      release_time: 2025.04.21 08:53:27
-      title: 用Frida看看AmsiScanBuffer
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497980&idx=2&sn=84c754f0a3e9852942fa5346bb2b646e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
