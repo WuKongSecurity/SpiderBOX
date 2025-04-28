@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.04.28 16:45:12
+      title: AST反混淆插件|去控制流专题:for-if语句转for-switch语句
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565909&idx=1&sn=a586ee59f97fa2de15b6247e5866d45f
     - author: 菜狗学逆向
       release_time: 2025.04.28 15:19:24
       title: 深航x-s3-s4e参数明文分析
@@ -236,10 +240,6 @@
       release_time: 2025.04.22 09:03:50
       title: JNI动静态绑定和追踪方法
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497985&idx=2&sn=b0aa83e468c53369fed1a36bac0517eb
-    - author: LLLibra146
-      release_time: 2025.04.22 09:00:00
-      title: JS逆向技巧：日志断点如何正确输出 JSON 而不报错
-      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486403&idx=1&sn=e35d85c04279ed8b4f38f7ce70586e20
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
