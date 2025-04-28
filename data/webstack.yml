@@ -1677,7 +1677,7 @@
           url: https://www.xiaoxiongip.com?from=rYhWq7
           description: 小熊 ip 是一家企业级大数据 HTTP 动态 IP 服务提供商，为上百家企业用户提供海量优质高匿 HTTP 代理 IP，产品延迟低,稳定可靠，自建机房海量 IP，是企业级用户的首选
 
-    - term: 国际代理
+    - term: 全球代理
       links:
         - title: BrightData
           logo: brightdata.png
@@ -1771,7 +1771,7 @@
           logo: swiftproxy.jpg
           url: https://www.swiftproxy.net/?ref=spiderbox
           description: 9000万+全球高质量纯净动态、静态住宅IP，支持免费测试，动态流量不过期
-        - title: kookeey
+        - title: kookeey 全球业务级代理 IP
           logo: kookeey.png
           url: https://www.kookeey.com/?aff=85299914
           description: kookeey 全球业务级代理 IP，主营静态 ISP 代理、动态住宅代理、静态数据中心代理 3 大产品
