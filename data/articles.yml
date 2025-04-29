@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 软件安全与逆向分析
+      release_time: 2025.04.29 13:57:00
+      title: feicong-env下载，Ubuntu、macOS开箱即用的虚拟机环境，适用软件开发与逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484801&idx=1&sn=d78745795180aaaccd86260843f65b2f
     - author: Coder小Q
       release_time: 2025.04.29 08:30:00
       title: 【密码学】基于编码的密码学学习笔记(三)解码的策略
@@ -236,10 +240,6 @@
       release_time: 2025.04.22 20:51:39
       title: 微信4.0小程序逆向调试工具来啦！
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjUxNTgyMg==&mid=2247483975&idx=1&sn=d134d2d6c6ccb50a65ecb2a718a3274a
-    - author: 吾爱破解论坛
-      release_time: 2025.04.22 12:05:49
-      title: Pyinstaller Repack 指南
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142533&idx=1&sn=1a9c5dc13f943d817f90acc522c6efa9
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
