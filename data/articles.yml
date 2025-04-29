@@ -120,6 +120,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Coder小Q
+      release_time: 2025.04.29 08:30:00
+      title: 【密码学】基于编码的密码学学习笔记(三)解码的策略
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491641&idx=1&sn=f3d3e4220b7f5393baf80c602f87da3c
+    - author: 二进制磨剑
+      release_time: 2025.04.29 08:30:00
+      title: 逆向工程中的类型与结构体恢复研究进展
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485545&idx=1&sn=61fbbba8658cbb95b4941e569c626da5
     - author: 菜鸟学Python编程
       release_time: 2025.04.28 16:45:12
       title: AST反混淆插件|去控制流专题:for-if语句转for-switch语句
@@ -232,14 +240,6 @@
       release_time: 2025.04.22 12:05:49
       title: Pyinstaller Repack 指南
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142533&idx=1&sn=1a9c5dc13f943d817f90acc522c6efa9
-    - author: 哆啦安全
-      release_time: 2025.04.22 09:03:50
-      title: apktool反编译后仅生成单个smali目录‌
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497985&idx=1&sn=26b54e36cb5ad55d10c02b72e9cc6d17
-    - author: 哆啦安全
-      release_time: 2025.04.22 09:03:50
-      title: JNI动静态绑定和追踪方法
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497985&idx=2&sn=b0aa83e468c53369fed1a36bac0517eb
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
