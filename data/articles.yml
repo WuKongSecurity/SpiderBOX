@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: js android ios逆向
+      release_time: 2025.04.30 17:10:33
+      title: 五一安卓逆向课程优惠
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0NzU3MjQzNA==&mid=2247485563&idx=1&sn=b4a445124ffd5979a4f0f59be198ba92
     - author: 当爬虫遇到逆向
       release_time: 2025.04.30 15:49:30
       title: 【安卓逆向】安居客nsign参数分析
@@ -196,10 +200,6 @@
       release_time: 2025.04.26 09:50:46
       title: IDA 技巧（124）scripting-examples
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485539&idx=1&sn=043f6a36a7bbd00373968c8db3547bf1
-    - author: 影17
-      release_time: 2025.04.26 08:52:08
-      title: 某团小程序_token & mtgisg
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489614&idx=1&sn=0d47b6b302ed2e089bd39cd89b951348
     - author: 小伍哥聊风控
       release_time: 2025.04.25 22:00:54
       title: 搞到一批扣子空间的邀请码，需要的加我。
@@ -216,6 +216,10 @@
       release_time: 2025.04.25 16:14:54
       title: IDA技巧（123）opcode-bytes
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485538&idx=1&sn=aa7a4538da260be1d5b341286d8fc3ab
+    - author: 影17
+      release_time: 2025.04.25 15:42:05
+      title: 某团小程序_token & mtgisg
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489599&idx=1&sn=a57023ed0ab917b634419f319eb62920
     - author: 奋飞安全
       release_time: 2025.04.25 10:32:25
       title: 结合AI对WhatsApp的分析（三）
@@ -236,10 +240,6 @@
       release_time: 2025.04.24 19:03:33
       title: 限制性Shell环境的突破和安全防御
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497991&idx=2&sn=9effd81ba3718da7a5e22e917dff4afe
-    - author: 爬虫逆向小林哥
-      release_time: 2025.04.24 11:19:55
-      title: 轻量级的Python任务管理和爬虫调度平台
-      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247486407&idx=1&sn=08c5d202e2859de96a2d0877961ddb9a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
