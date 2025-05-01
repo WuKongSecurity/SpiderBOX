@@ -120,14 +120,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
-    - author: js android ios逆向
-      release_time: 2025.05.01 00:00:00
-      title: 五一安卓逆向课程优惠
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0NzU3MjQzNA==&mid=2247485566&idx=1&sn=bed3cb68b43bfa2683b3f38c7c2f1657
+    - author: 二进制磨剑
+      release_time: 2025.05.01 10:39:20
+      title: IDA 技巧（127）函数
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485551&idx=1&sn=a6dff6f6b604e649f46aa4fa89429988
     - author: 吾爱破解论坛
       release_time: 2025.04.30 22:56:40
       title: （图作者 | @Aoemax）
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142539&idx=1&sn=2743211cbbad0059e9f22b38a961c2a7
+    - author: js android ios逆向
+      release_time: 2025.04.30 17:10:33
+      title: 五一安卓逆向课程优惠
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0NzU3MjQzNA==&mid=2247485563&idx=1&sn=b4a445124ffd5979a4f0f59be198ba92
     - author: 当爬虫遇到逆向
       release_time: 2025.04.30 15:49:30
       title: 【安卓逆向】安居客nsign参数分析
@@ -236,10 +240,6 @@
       release_time: 2025.04.25 08:30:00
       title: 【密码学】一文读懂隐写术(Steganography)
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491603&idx=1&sn=44fcd90635f68cb0907e830fa4133c9f
-    - author: 哆啦安全
-      release_time: 2025.04.24 19:03:33
-      title: Android内核探针应用追踪技术
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497991&idx=1&sn=74f1b474024c54eb76cdc19e060c58be
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
       release_time: 2025.04.30 23:18:51
       title: JS逆向 - 某团Mtgsig1.2 （补环境）
       url: https://blog.csdn.net/qq_53444631/article/details/147640641
+    - author: 3zureus
+      release_time: 2025.04.30 17:25:54
+      title: '[原创] SEC2025 安卓初赛'
+      url: https://bbs.kanxue.com/thread-286682.htm
     - author: Nickname肖知寒
       release_time: 2025.04.30 16:12:37
       title: 旧版 chromium 源码编译，以 86.0.4240.198 版本为例
@@ -478,10 +482,6 @@
       release_time: 2025.04.18 19:15:03
       title: '[原创]android端手机虚拟机实现过程'
       url: https://bbs.kanxue.com/thread-286534.htm
-    - author: OrionisLi
-      release_time: 2025.04.18 15:59:27
-      title: '[原创] LineageOS-21 编译大战！—— 一个萌新的心路历程 ☆'
-      url: https://bbs.kanxue.com/thread-286527.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
