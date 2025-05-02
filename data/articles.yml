@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.05.03 07:18:17
+      title: KernelSU Next是Android新兴的内核级Root解决方案
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498024&idx=1&sn=e9d659a5f2e312428aec6c3990e0c346
     - author: 逆向有你
       release_time: 2025.05.03 00:00:00
       title: 安卓逆向 -- 某万能视频播放器破解方法改进
@@ -236,10 +240,6 @@
       release_time: 2025.04.25 21:26:10
       title: AI恶意程序分析系统的一些技术内幕
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497994&idx=1&sn=cdc154121d09b2b90cf141204290b15d
-    - author: LuckyFuture
-      release_time: 2025.04.25 18:18:00
-      title: JS黑科技：利用eval打造"万变不离其宗"的动态执行方案
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNDE3NjY0OA==&mid=2247484339&idx=1&sn=c09642669f81ff4df40edc2cdbd5ceb8
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
