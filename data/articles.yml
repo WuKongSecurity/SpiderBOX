@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.05.03 00:00:00
+      title: 安卓逆向 -- 某万能视频播放器破解方法改进
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038650&idx=1&sn=b7c004ccba27b7dfa33b63198280b710
     - author: 二进制磨剑
       release_time: 2025.05.02 09:35:57
       title: Frida Stalker 深入浅出
@@ -136,14 +140,14 @@
       release_time: 2025.05.01 10:39:20
       title: IDA 技巧（127）函数
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485551&idx=1&sn=a6dff6f6b604e649f46aa4fa89429988
-    - author: js android ios逆向
-      release_time: 2025.05.01 00:00:00
-      title: 五一安卓逆向课程优惠
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0NzU3MjQzNA==&mid=2247485566&idx=1&sn=bed3cb68b43bfa2683b3f38c7c2f1657
     - author: 吾爱破解论坛
       release_time: 2025.04.30 22:56:40
       title: （图作者 | @Aoemax）
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142539&idx=1&sn=2743211cbbad0059e9f22b38a961c2a7
+    - author: js android ios逆向
+      release_time: 2025.04.30 17:10:33
+      title: 五一安卓逆向课程优惠
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0NzU3MjQzNA==&mid=2247485563&idx=1&sn=b4a445124ffd5979a4f0f59be198ba92
     - author: 当爬虫遇到逆向
       release_time: 2025.04.30 15:49:30
       title: 【安卓逆向】安居客nsign参数分析
@@ -236,10 +240,6 @@
       release_time: 2025.04.25 18:18:00
       title: JS黑科技：利用eval打造"万变不离其宗"的动态执行方案
       url: https://mp.weixin.qq.com/s?__biz=MzkxNDE3NjY0OA==&mid=2247484339&idx=1&sn=c09642669f81ff4df40edc2cdbd5ceb8
-    - author: 二进制磨剑
-      release_time: 2025.04.25 16:14:54
-      title: IDA技巧（123）opcode-bytes
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485538&idx=1&sn=aa7a4538da260be1d5b341286d8fc3ab
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
