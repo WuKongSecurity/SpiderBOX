@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Spade sec
+      release_time: 2025.05.03 13:00:00
+      title: 再谈xss水坑攻击
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485888&idx=1&sn=ee893c5af9eea6c6aef0e4f092a30fd2
     - author: 二进制磨剑
       release_time: 2025.05.03 09:00:00
       title: 五一充电计划｜二进制磨剑课程限时 8 折
@@ -152,14 +156,14 @@
       release_time: 2025.05.01 10:39:20
       title: IDA 技巧（127）函数
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485551&idx=1&sn=a6dff6f6b604e649f46aa4fa89429988
-    - author: js android ios逆向
-      release_time: 2025.05.01 00:00:00
-      title: 五一安卓逆向课程优惠
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0NzU3MjQzNA==&mid=2247485566&idx=1&sn=bed3cb68b43bfa2683b3f38c7c2f1657
     - author: 吾爱破解论坛
       release_time: 2025.04.30 22:56:40
       title: （图作者 | @Aoemax）
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142539&idx=1&sn=2743211cbbad0059e9f22b38a961c2a7
+    - author: js android ios逆向
+      release_time: 2025.04.30 17:10:33
+      title: 五一安卓逆向课程优惠
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0NzU3MjQzNA==&mid=2247485563&idx=1&sn=b4a445124ffd5979a4f0f59be198ba92
     - author: 当爬虫遇到逆向
       release_time: 2025.04.30 15:49:30
       title: 【安卓逆向】安居客nsign参数分析
@@ -236,13 +240,13 @@
       release_time: 2025.04.26 09:50:46
       title: IDA 技巧（124）scripting-examples
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485539&idx=1&sn=043f6a36a7bbd00373968c8db3547bf1
-    - author: 影17
-      release_time: 2025.04.26 08:52:08
-      title: 某团小程序_token & mtgisg
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489614&idx=1&sn=0d47b6b302ed2e089bd39cd89b951348
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: '1462326016'
+      release_time: 2025.05.03 10:45:00
+      title: 使用AST技术自动扣代码的一些尝试
+      url: https://www.52pojie.cn/thread-2028814-1-1.html
     - author: zzyzy
       release_time: 2025.05.01 12:48:00
       title: 信息公示平台搜索滑块逆向
@@ -359,10 +363,6 @@
       release_time: 2025.04.12 14:35:00
       title: 某房指数一个简单的aes加解密。
       url: https://www.52pojie.cn/thread-2023597-1-1.html
-    - author: utf8
-      release_time: 2025.04.12 13:34:00
-      title: 某贝漫画逆向分析
-      url: https://www.52pojie.cn/thread-2023585-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
