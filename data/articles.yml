@@ -243,6 +243,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: littlewhite11
+      release_time: 2025.05.03 14:00:00
+      title: 【JS逆向】某点数据登录逆向分析
+      url: https://www.52pojie.cn/thread-2028837-1-1.html
     - author: '1462326016'
       release_time: 2025.05.03 10:45:00
       title: 使用AST技术自动扣代码的一些尝试
@@ -359,10 +363,6 @@
       release_time: 2025.04.12 17:17:00
       title: 某短视频33.x.0过boringssl检测抓包方案
       url: https://www.52pojie.cn/thread-2023645-1-1.html
-    - author: zzyzy
-      release_time: 2025.04.12 14:35:00
-      title: 某房指数一个简单的aes加解密。
-      url: https://www.52pojie.cn/thread-2023597-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
