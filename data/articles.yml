@@ -120,6 +120,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: 2025.05.03 09:00:00
+      title: 五一充电计划｜二进制磨剑课程限时 8 折
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485559&idx=1&sn=44ef4f16bca6673804e2c4ccb4acafce
+    - author: LLLibra146
+      release_time: 2025.05.03 09:00:00
+      title: AST 技巧：还在手动扣代码？AST技术帮你自动扣代码
+      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486516&idx=1&sn=863e9acd2d04a6cdd8bdcba5a6bbe989
     - author: 哆啦安全
       release_time: 2025.05.03 07:18:17
       title: KernelSU Next是Android新兴的内核级Root解决方案
@@ -232,14 +240,6 @@
       release_time: 2025.04.26 08:52:08
       title: 某团小程序_token & mtgisg
       url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489614&idx=1&sn=0d47b6b302ed2e089bd39cd89b951348
-    - author: 小伍哥聊风控
-      release_time: 2025.04.25 22:00:54
-      title: 搞到一批扣子空间的邀请码，需要的加我。
-      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196863&idx=1&sn=521769da4b6ce9228345aeacd206ff3a
-    - author: 哆啦安全
-      release_time: 2025.04.25 21:26:10
-      title: AI恶意程序分析系统的一些技术内幕
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247497994&idx=1&sn=cdc154121d09b2b90cf141204290b15d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
