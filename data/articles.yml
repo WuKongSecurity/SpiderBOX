@@ -156,14 +156,14 @@
       release_time: 2025.05.01 10:39:20
       title: IDA 技巧（127）函数
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485551&idx=1&sn=a6dff6f6b604e649f46aa4fa89429988
+    - author: js android ios逆向
+      release_time: 2025.05.01 00:00:00
+      title: 五一安卓逆向课程优惠
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0NzU3MjQzNA==&mid=2247485566&idx=1&sn=bed3cb68b43bfa2683b3f38c7c2f1657
     - author: 吾爱破解论坛
       release_time: 2025.04.30 22:56:40
       title: （图作者 | @Aoemax）
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142539&idx=1&sn=2743211cbbad0059e9f22b38a961c2a7
-    - author: js android ios逆向
-      release_time: 2025.04.30 17:10:33
-      title: 五一安卓逆向课程优惠
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0NzU3MjQzNA==&mid=2247485563&idx=1&sn=b4a445124ffd5979a4f0f59be198ba92
     - author: 当爬虫遇到逆向
       release_time: 2025.04.30 15:49:30
       title: 【安卓逆向】安居客nsign参数分析
@@ -366,6 +366,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Ayuer
+      release_time: 2025.05.03 13:38:48
+      title: '[推荐][原创][分享]记录关于ClassLoader一代整体壳的脱壳点'
+      url: https://bbs.kanxue.com/thread-286703.htm
     - author: 富到流油^-^
       release_time: 2025.05.02 19:02:03
       title: '[下载][推荐][原创]AWT一款美化工具'
@@ -478,10 +482,6 @@
       release_time: 2025.04.18 21:08:16
       title: AST反混淆插件|表达式语句只包含单个节点时的还原
       url: https://blog.csdn.net/qq523176585/article/details/147343340
-    - author: 无味
-      release_time: 2025.04.18 20:40:27
-      title: '[原创] 关于NativeBridge注入的检测和隐藏'
-      url: https://bbs.kanxue.com/thread-286536.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
