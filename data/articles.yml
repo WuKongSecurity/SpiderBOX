@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: SpiderLittleWhite
+      release_time: 2025.05.03 17:04:36
+      title: 【JS逆向】某点数据登录逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=Mzk1NzkzMzQyOA==&mid=2247483776&idx=1&sn=9a8bd0bba129f053bf055883b6d8cd30
     - author: Spade sec
       release_time: 2025.05.03 13:00:00
       title: 再谈xss水坑攻击
@@ -236,10 +240,6 @@
       release_time: 2025.04.26 11:05:34
       title: Android7至16系统ROM魔改和安全研究篇(建议收藏)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498005&idx=1&sn=8ea731a8a62b3a7c378cf1066375f4e5
-    - author: 二进制磨剑
-      release_time: 2025.04.26 09:50:46
-      title: IDA 技巧（124）scripting-examples
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485539&idx=1&sn=043f6a36a7bbd00373968c8db3547bf1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
