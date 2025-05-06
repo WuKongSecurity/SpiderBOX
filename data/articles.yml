@@ -116,6 +116,58 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 布鲁的Python之旅
+      release_time: 2025.05.06 18:00:00
+      title: Python爬虫管理平台版本更新1.3
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486004&idx=1&sn=7fae9b1226ce084c09cbe225b81c78be
+    - author: 影17
+      release_time: 2025.05.06 17:54:45
+      title: 某音a_bogus 1.0.1.19补环境分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489638&idx=1&sn=ed755f9e3633804ade2ca62ea3432c7f
+    - author: 菜鸟学Python编程
+      release_time: 2025.05.06 17:26:00
+      title: AST反混淆实战|复杂的逻辑表达式转if语句系列教程(1)
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565920&idx=1&sn=c85e67dfd696f0590908adcdd07be485
+    - author: 平底锅煎蛋
+      release_time: 2025.05.06 14:08:00
+      title: trace分析法——某短视频shield
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTcyMjcwOA==&mid=2247483909&idx=1&sn=01046dbf2a6cbeb8c262550761832ed0
+    - author: 哆啦安全
+      release_time: 2025.05.06 09:01:26
+      title: 提升GUI智能代理深思与推理能力的框架
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498039&idx=1&sn=5bd6d8b800824533b8831f99ae0171ac
+    - author: Coder小Q
+      release_time: 2025.05.06 08:30:00
+      title: 【密码学】基于编码的密码学学习笔记(三) 检错、纠错的能力
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491654&idx=1&sn=24d8ec642c4b60c693d6cd018322f9ff
+    - author: LLLibra146
+      release_time: 2025.05.06 08:24:00
+      title: JS调试技巧：如何让时间和随机数“听你指挥”？
+      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486542&idx=1&sn=a521e0b7604668a474625e32c8b6b7ee
+    - author: 哆啦安全
+      release_time: 2025.05.05 11:18:08
+      title: 高版本Android函数地址索引解决方案
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498035&idx=1&sn=7b895839d6702495aa99a5e131c9bebd
+    - author: 哆啦安全
+      release_time: 2025.05.05 11:18:08
+      title: 安全资料
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498035&idx=2&sn=0e03343873d996da3f422699c1a244ad
+    - author: 逆向有你
+      release_time: 2025.05.05 00:00:00
+      title: JS逆向 -- 纯异步JS逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038708&idx=1&sn=62271cb412659eb2e1616d090511ee7e
+    - author: Spade sec
+      release_time: 2025.05.04 18:11:00
+      title: JS逆向系列20-某鱼sign分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485971&idx=1&sn=63fc3e62c00c22be9929cd49c08a543f
+    - author: 哆啦安全
+      release_time: 2025.05.04 10:33:47
+      title: DroidRun是一款基于AI代理的开源工具
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498026&idx=1&sn=3a76cf434da71834fd33bd0478ad461c
+    - author: 逆向有你
+      release_time: 2025.05.04 00:00:00
+      title: 安卓逆向 -- 某字母站XHS frida检测分析绕过
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038677&idx=1&sn=c703353b587d4fe0538b12b83e8af6cc
     - author: SpiderLittleWhite
       release_time: 2025.05.03 17:04:36
       title: 【JS逆向】某点数据登录逆向分析
@@ -184,58 +236,6 @@
       release_time: 2025.04.29 21:49:32
       title: 安卓15抓包新姿势:Frida内存篡改+eCapture流量镜像
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498012&idx=1&sn=9ab0bfa4ffd329e164dd397e4ca0aec9
-    - author: 菜鸟学Python编程
-      release_time: 2025.04.29 21:28:41
-      title: 五一节前优惠，感谢支持！
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565916&idx=1&sn=e22d7331300e452ea17beff45344286c
-    - author: 软件安全与逆向分析
-      release_time: 2025.04.29 13:57:00
-      title: feicong-env下载，Ubuntu、macOS开箱即用的虚拟机环境，适用软件开发与逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484801&idx=1&sn=d78745795180aaaccd86260843f65b2f
-    - author: Coder小Q
-      release_time: 2025.04.29 08:30:00
-      title: 【密码学】基于编码的密码学学习笔记(三)解码的策略
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491641&idx=1&sn=f3d3e4220b7f5393baf80c602f87da3c
-    - author: 二进制磨剑
-      release_time: 2025.04.29 08:30:00
-      title: 逆向工程中的类型与结构体恢复研究进展
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485545&idx=1&sn=61fbbba8658cbb95b4941e569c626da5
-    - author: 菜鸟学Python编程
-      release_time: 2025.04.28 16:45:12
-      title: AST反混淆插件|去控制流专题:for-if语句转for-switch语句
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565909&idx=1&sn=a586ee59f97fa2de15b6247e5866d45f
-    - author: 菜狗学逆向
-      release_time: 2025.04.28 15:19:24
-      title: 深航x-s3-s4e参数明文分析
-      url: https://mp.weixin.qq.com/s?__biz=MzU2MzgwOTg2Ng==&mid=2247483734&idx=1&sn=a804010811429538eb35b5479e0c1d9c
-    - author: 流星Studio
-      release_time: 2025.04.28 13:36:12
-      title: 【全网首发】tk X-Gnarly jsvmp算法还原
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjUxNTgyMg==&mid=2247484015&idx=1&sn=61842672cdb1b3e0487ea28f37346279
-    - author: 流星Studio
-      release_time: 2025.04.28 13:36:12
-      title: 某音滑块分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjUxNTgyMg==&mid=2247484015&idx=2&sn=49a2adad1f616312250c7fb1cc796e9b
-    - author: 二进制磨剑
-      release_time: 2025.04.28 09:36:37
-      title: IDA 技巧（125）结构字段表示
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485540&idx=1&sn=ea783662a07daf51217d2b74b342400e
-    - author: 哆啦安全
-      release_time: 2025.04.27 23:50:26
-      title: LSPatch和太极框架(免Root)及Magisk
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498008&idx=1&sn=36a2d761ac0708444c678d09e7853600
-    - author: 当爬虫遇到逆向
-      release_time: 2025.04.27 12:00:24
-      title: 【安卓逆向】咪咕音乐sign参数
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4MjE4NzA5NA==&mid=2247483908&idx=1&sn=1463e87eef04394ba46f4e1c6c02848f
-    - author: LLLibra146
-      release_time: 2025.04.27 09:00:00
-      title: JS逆向实战：加强版的 OB 混淆 AST 处理方法
-      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486469&idx=1&sn=286519a9bb7bdc80af99b8d892cf4576
-    - author: 哆啦安全
-      release_time: 2025.04.26 11:05:34
-      title: Android7至16系统ROM魔改和安全研究篇(建议收藏)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498005&idx=1&sn=8ea731a8a62b3a7c378cf1066375f4e5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
