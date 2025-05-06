@@ -239,6 +239,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: ngiokweng
+      release_time: 2025.05.06 22:56:00
+      title: 某日遊mmap模塊化保護簡單分析
+      url: https://www.52pojie.cn/thread-2029498-1-1.html
     - author: wuai920981023
       release_time: 2025.05.05 23:13:00
       title: 去除HyperOS2对第三方应用安装系统应用的限制 论坛关于安卓系统的相关分析文章好少...
@@ -355,13 +359,13 @@
       release_time: 2025.04.14 23:43:00
       title: 2025腾讯游戏安全技术竞赛 安卓初赛
       url: https://www.52pojie.cn/thread-2024227-1-1.html
-    - author: Tsh4d0wT
-      release_time: 2025.04.14 17:42:00
-      title: 某次元信息加密方式探究
-      url: https://www.52pojie.cn/thread-2024146-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: ngiokweng
+      release_time: 2025.05.06 22:43:09
+      title: '[原创] 某日遊mmap模塊化保護簡單分析'
+      url: https://bbs.kanxue.com/thread-286746.htm
     - author: 小黄鸭爱学习
       release_time: 2025.05.06 18:21:28
       title: '[讨论]flutter逆向现状调查'
@@ -474,10 +478,6 @@
       release_time: 2025.04.22 08:09:47
       title: “反AI逆向”JS代码混淆加密！
       url: https://blog.csdn.net/w2sft/article/details/147406931
-    - author: xianyuuuan
-      release_time: 2025.04.22 02:36:38
-      title: '[原创]某盾il2cpp手游壳so加固的修复'
-      url: https://bbs.kanxue.com/thread-286566.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
