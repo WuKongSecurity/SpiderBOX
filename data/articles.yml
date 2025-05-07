@@ -116,6 +116,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.05.07 12:05:47
+      title: 魔改Frida方案浅析
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498050&idx=1&sn=e6b2ea094194b05690e7f3e462348eb6
     - author: LLLibra146
       release_time: 2025.05.07 08:00:00
       title: 一日一技：反爬虫的极致手段，几行代码直接炸了爬虫服务器
