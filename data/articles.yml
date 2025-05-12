@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 猿人学Python
+      release_time: 2025.05.12 17:17:35
+      title: 爬虫接单运营渠道试听-猿人学爬虫逆向课
+      url: https://www.bilibili.com/video/BV1dvEjzME7P
     - author: r0ysue
       release_time: 2025.05.11 10:41:43
       title: CLINE辅助重构功能移植开发r0mcp联合IDA调试
@@ -109,10 +113,6 @@
       release_time: 2025.04.15 08:44:44
       title: 2.win下编译v8静态链接库
       url: https://www.bilibili.com/video/BV1ADonYUEDr
-    - author: 二进制科学
-      release_time: 2025.04.15 08:42:47
-      title: 4.win下c++调用v8库
-      url: https://www.bilibili.com/video/BV1ADonYUEqs
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
