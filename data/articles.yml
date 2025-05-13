@@ -136,6 +136,10 @@
       release_time: 2025.05.07 08:00:00
       title: 一日一技：反爬虫的极致手段，几行代码直接炸了爬虫服务器
       url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486548&idx=1&sn=1b7266fe445b2f6a56fac7012915cb9c
+    - author: 影17
+      release_time: 2025.05.07 00:00:00
+      title: 某音a_bogus 1.0.1.19补环境分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489658&idx=1&sn=932872a2355468df9eefdcd11decf710
     - author: 逆向有你
       release_time: 2025.05.07 00:00:00
       title: 安卓逆向 -- 某Video Pro版修改思路
@@ -152,10 +156,6 @@
       release_time: 2025.05.06 18:00:00
       title: Python爬虫管理平台版本更新1.3
       url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486004&idx=1&sn=7fae9b1226ce084c09cbe225b81c78be
-    - author: 影17
-      release_time: 2025.05.06 17:54:45
-      title: 某音a_bogus 1.0.1.19补环境分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489638&idx=1&sn=ed755f9e3633804ade2ca62ea3432c7f
     - author: 菜鸟学Python编程
       release_time: 2025.05.06 17:26:00
       title: AST反混淆实战|复杂的逻辑表达式转if语句系列教程(1)
@@ -362,6 +362,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 棕熊
+      release_time: 2025.05.13 09:05:17
+      title: '[原创]AI逆向 一文掌握 IDA Pro MCP 逆向分析利器'
+      url: https://bbs.kanxue.com/thread-286813.htm
     - author: Python成长路
       release_time: 2025.05.12 14:30:24
       title: 【微信插件】自动同意好友请求并邀请进群
@@ -478,10 +482,6 @@
       release_time: 2025.04.28 19:06:07
       title: '[原创]关于NativeDetector中的检测到Umount'
       url: https://bbs.kanxue.com/thread-286664.htm
-    - author: 悦来客栈的老板
-      release_time: 2025.04.28 16:45:34
-      title: AST反混淆插件|去控制流专题:for-if语句转for-switch语句
-      url: https://blog.csdn.net/qq523176585/article/details/147786765
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
