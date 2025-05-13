@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.05.13 11:47:12
+      title: 全新V3骚代理插件，适配最新浏览器(支持s5和账密)，一键生成DP代理动态切换代码
+      url: https://www.bilibili.com/video/BV1pP7ozZEqH
     - author: 猿人学Python
       release_time: 2025.05.12 17:17:35
       title: 爬虫接单运营渠道试听-猿人学爬虫逆向课
@@ -109,10 +113,6 @@
       release_time: 2025.04.15 21:32:13
       title: AST反混淆实战系列-纯函数的还原
       url: https://www.bilibili.com/video/BV1VQdfYBEb6
-    - author: 二进制科学
-      release_time: 2025.04.15 08:44:44
-      title: 2.win下编译v8静态链接库
-      url: https://www.bilibili.com/video/BV1ADonYUEDr
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
