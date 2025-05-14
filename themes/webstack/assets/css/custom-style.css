@@ -701,3 +701,8 @@ footer.main-footer .footer-text a:hover {
 .hot-body {
     height: 225px !important;
 }
+
+/* 广告位置背景颜色透明 */
+.col-12 .card {
+    background-color: transparent !important;
+}
