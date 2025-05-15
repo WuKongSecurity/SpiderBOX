@@ -160,6 +160,10 @@
       release_time: 2025.05.07 08:00:00
       title: 一日一技：反爬虫的极致手段，几行代码直接炸了爬虫服务器
       url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486548&idx=1&sn=1b7266fe445b2f6a56fac7012915cb9c
+    - author: 影17
+      release_time: 2025.05.07 00:00:00
+      title: 某音a_bogus 1.0.1.19补环境分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489658&idx=1&sn=932872a2355468df9eefdcd11decf710
     - author: 逆向有你
       release_time: 2025.05.07 00:00:00
       title: 安卓逆向 -- 某Video Pro版修改思路
@@ -176,10 +180,6 @@
       release_time: 2025.05.06 18:00:00
       title: Python爬虫管理平台版本更新1.3
       url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486004&idx=1&sn=7fae9b1226ce084c09cbe225b81c78be
-    - author: 影17
-      release_time: 2025.05.06 17:54:45
-      title: 某音a_bogus 1.0.1.19补环境分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489638&idx=1&sn=ed755f9e3633804ade2ca62ea3432c7f
     - author: 菜鸟学Python编程
       release_time: 2025.05.06 17:26:00
       title: AST反混淆实战|复杂的逻辑表达式转if语句系列教程(1)
@@ -239,6 +239,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: li083m
+      release_time: 2025.05.15 20:20:00
+      title: Tk-验证码hashcash之answer参数详解
+      url: https://www.52pojie.cn/thread-2031712-1-1.html
     - author: 板砖亲你头
       release_time: 2025.05.14 20:51:00
       title: 音频网站逆向如何进行捞偏门
@@ -355,10 +359,6 @@
       release_time: 2025.04.19 14:24:00
       title: 某当网登录滑块逆向
       url: https://www.52pojie.cn/thread-2025578-1-1.html
-    - author: chenchenchen777
-      release_time: 2025.04.18 19:11:00
-      title: android端手机虚拟机实现过程解析
-      url: https://www.52pojie.cn/thread-2025427-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
