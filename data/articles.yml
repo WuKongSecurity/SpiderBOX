@@ -2,6 +2,10 @@
   list:
   - links:
     - author: DrissionPage
+      release_time: 2025.05.16 23:38:57
+      title: 监听数据包-DrissionPage官方教程-p25
+      url: https://www.bilibili.com/video/BV1dfEbzgE5z
+    - author: DrissionPage
       release_time: 2025.05.16 20:35:29
       title: 操作复选框-DrissionPage官方教程-p24
       url: https://www.bilibili.com/video/BV1V7E4zhEHk
@@ -109,10 +113,6 @@
       release_time: 2025.04.21 17:21:18
       title: 浏览器webjs环境hook成品展示，js逆向补环境利器
       url: https://www.bilibili.com/video/BV1tU5yzbEj8
-    - author: B站用户骚神
-      release_time: 2025.04.18 22:51:26
-      title: 骚代理-全新动态修改代理ip脚本，支持用户名密码
-      url: https://www.bilibili.com/video/BV17k5EzqEsZ
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
