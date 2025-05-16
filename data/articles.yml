@@ -116,6 +116,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.05.17 00:00:00
+      title: PC逆向 -- 简单破解登录卡密软件
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038864&idx=1&sn=3dfc51aa05e5e6c61aedad7a622cd58e
     - author: 菜鸟学Python编程
       release_time: 2025.05.16 21:01:00
       title: 五年了
@@ -232,10 +236,6 @@
       release_time: 2025.05.06 17:26:00
       title: AST反混淆实战|复杂的逻辑表达式转if语句系列教程(1)
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565920&idx=1&sn=c85e67dfd696f0590908adcdd07be485
-    - author: 平底锅煎蛋
-      release_time: 2025.05.06 14:08:00
-      title: trace分析法——某短视频shield
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTcyMjcwOA==&mid=2247483909&idx=1&sn=01046dbf2a6cbeb8c262550761832ed0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
