@@ -116,10 +116,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.05.16 09:01:20
+      title: 车载Android系统模糊测试解决方案
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498094&idx=1&sn=29ae50cab33f8d07b6ccb7b0f4e5add3
     - author: 逆向有你
       release_time: 2025.05.16 00:00:00
       title: 安卓逆向 -- 某变种狼人杀 Dump
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038839&idx=1&sn=253b264c14e0dfd59ba1bfc7f790aec0
+    - author: 哆啦安全
+      release_time: 2025.05.15 18:42:43
+      title: AgentCPM-GUI面向端侧的GUI Agent
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498090&idx=1&sn=4b25120b55ea664a7c1d836710ac2ae1
     - author: 逆向与爬虫的故事
       release_time: 2025.05.15 13:18:00
       title: 2025给所有人一个大胆的搞钱建议!
@@ -128,10 +136,38 @@
       release_time: 2025.05.15 00:03:06
       title: JS逆向 -- 对于某FM的付费音频爬取过程的探
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038825&idx=1&sn=cabd32f287c9c83bde287484f877d4b6
+    - author: 哆啦安全
+      release_time: 2025.05.14 16:28:35
+      title: JS逆向破解的工具和方法及技巧
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498086&idx=1&sn=c8963dec75f0a8e59e579bcb609f5929
     - author: 逆向有你
       release_time: 2025.05.14 00:02:11
       title: 安卓逆向 -- 分析某库登录逻辑以及协议复现
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038813&idx=1&sn=f6826bf0a4cb730ac784ca575f2ba577
+    - author: 哆啦安全
+      release_time: 2025.05.13 07:32:30
+      title: Web3安全研究：现状、挑战与防御策略
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498074&idx=1&sn=5959ec0874cacf4983ddc72a9981c422
+    - author: 哆啦安全
+      release_time: 2025.05.12 07:02:47
+      title: 车机Android系统安全漏洞深入浅出
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498075&idx=1&sn=62f2e4f26c60824d2b53ff900b2481cd
+    - author: 哆啦安全
+      release_time: 2025.05.11 00:04:00
+      title: Android7至16系统PMS提升开机速度优化解决方案
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498071&idx=1&sn=7823a1aa48c340967ae7b8580f690cb2
+    - author: 哆啦安全
+      release_time: 2025.05.10 10:36:42
+      title: HarmonyOS Next(鸿蒙Next)系统提权思路和方法
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498060&idx=1&sn=94b4201e6dbf6a911133b696c8c1f0a3
+    - author: 哆啦安全
+      release_time: 2025.05.10 10:36:42
+      title: 谷歌Pixel3手机(逆向相关书籍推荐)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498060&idx=2&sn=33930810961e3d0998590b43985db727
+    - author: 哆啦安全
+      release_time: 2025.05.10 08:56:53
+      title: Slither是一个专为以太坊智能合约设计的静态分析框架
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498055&idx=2&sn=be6b7a36479544881bcb539f643d1569
     - author: 逆向有你
       release_time: 2025.05.10 00:02:58
       title: PC逆向 -- 某考吧题库软件破解分析
@@ -160,6 +196,10 @@
       release_time: 2025.05.07 08:00:00
       title: 一日一技：反爬虫的极致手段，几行代码直接炸了爬虫服务器
       url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486548&idx=1&sn=1b7266fe445b2f6a56fac7012915cb9c
+    - author: 影17
+      release_time: 2025.05.07 00:00:00
+      title: 某音a_bogus 1.0.1.19补环境分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489658&idx=1&sn=932872a2355468df9eefdcd11decf710
     - author: 逆向有你
       release_time: 2025.05.07 00:00:00
       title: 安卓逆向 -- 某Video Pro版修改思路
@@ -176,10 +216,6 @@
       release_time: 2025.05.06 18:00:00
       title: Python爬虫管理平台版本更新1.3
       url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486004&idx=1&sn=7fae9b1226ce084c09cbe225b81c78be
-    - author: 影17
-      release_time: 2025.05.06 17:54:45
-      title: 某音a_bogus 1.0.1.19补环境分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489638&idx=1&sn=ed755f9e3633804ade2ca62ea3432c7f
     - author: 菜鸟学Python编程
       release_time: 2025.05.06 17:26:00
       title: AST反混淆实战|复杂的逻辑表达式转if语句系列教程(1)
@@ -200,42 +236,6 @@
       release_time: 2025.05.06 08:24:00
       title: JS调试技巧：如何让时间和随机数“听你指挥”？
       url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486542&idx=1&sn=a521e0b7604668a474625e32c8b6b7ee
-    - author: 哆啦安全
-      release_time: 2025.05.05 11:18:08
-      title: 高版本Android函数地址索引解决方案
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498035&idx=1&sn=7b895839d6702495aa99a5e131c9bebd
-    - author: 哆啦安全
-      release_time: 2025.05.05 11:18:08
-      title: 安全资料
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498035&idx=2&sn=0e03343873d996da3f422699c1a244ad
-    - author: 逆向有你
-      release_time: 2025.05.05 00:00:00
-      title: JS逆向 -- 纯异步JS逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038708&idx=1&sn=62271cb412659eb2e1616d090511ee7e
-    - author: Spade sec
-      release_time: 2025.05.04 18:11:00
-      title: JS逆向系列20-某鱼sign分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485971&idx=1&sn=63fc3e62c00c22be9929cd49c08a543f
-    - author: 哆啦安全
-      release_time: 2025.05.04 10:33:47
-      title: DroidRun是一款基于AI代理的开源工具
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498026&idx=1&sn=3a76cf434da71834fd33bd0478ad461c
-    - author: 逆向有你
-      release_time: 2025.05.04 00:00:00
-      title: 安卓逆向 -- 某字母站XHS frida检测分析绕过
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038677&idx=1&sn=c703353b587d4fe0538b12b83e8af6cc
-    - author: SpiderLittleWhite
-      release_time: 2025.05.03 17:04:36
-      title: 【JS逆向】某点数据登录逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzk1NzkzMzQyOA==&mid=2247483776&idx=1&sn=9a8bd0bba129f053bf055883b6d8cd30
-    - author: Spade sec
-      release_time: 2025.05.03 13:00:00
-      title: 再谈xss水坑攻击
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485888&idx=1&sn=ee893c5af9eea6c6aef0e4f092a30fd2
-    - author: 二进制磨剑
-      release_time: 2025.05.03 09:00:00
-      title: 五一充电计划｜二进制磨剑课程限时 8 折
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485559&idx=1&sn=44ef4f16bca6673804e2c4ccb4acafce
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
