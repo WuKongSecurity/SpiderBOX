@@ -116,6 +116,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.05.16 21:01:00
+      title: 五年了
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565938&idx=1&sn=3e28d876b4530e7e103ef0362838e23a
     - author: 吾爱破解论坛
       release_time: 2025.05.16 16:40:54
       title: 【.NET逆向】Safeboxie / 萤火虫拟系统 / 安全沙箱 授权码逆向与机制绕过
@@ -140,6 +144,10 @@
       release_time: 2025.05.15 00:03:06
       title: JS逆向 -- 对于某FM的付费音频爬取过程的探
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038825&idx=1&sn=cabd32f287c9c83bde287484f877d4b6
+    - author: 菜鸟学Python编程
+      release_time: 2025.05.14 19:42:39
+      title: AST反混淆实战|复杂的逻辑表达式转if语句系列教程(3)
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565928&idx=1&sn=cab81dade5084deef8fb677b56f695f0
     - author: 哆啦安全
       release_time: 2025.05.14 16:28:35
       title: JS逆向破解的工具和方法及技巧
@@ -228,14 +236,6 @@
       release_time: 2025.05.06 14:08:00
       title: trace分析法——某短视频shield
       url: https://mp.weixin.qq.com/s?__biz=Mzg3NTcyMjcwOA==&mid=2247483909&idx=1&sn=01046dbf2a6cbeb8c262550761832ed0
-    - author: 哆啦安全
-      release_time: 2025.05.06 09:01:26
-      title: 提升GUI智能代理深思与推理能力的框架
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498039&idx=1&sn=5bd6d8b800824533b8831f99ae0171ac
-    - author: Coder小Q
-      release_time: 2025.05.06 08:30:00
-      title: 【密码学】基于编码的密码学学习笔记(三) 检错、纠错的能力
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491654&idx=1&sn=24d8ec642c4b60c693d6cd018322f9ff
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
