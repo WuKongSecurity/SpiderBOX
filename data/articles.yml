@@ -389,6 +389,10 @@
     - author: 移动安全星球
       release_time: 2025.05.16 09:57:35
       title: cursor-我愿称之为程序员的福音
+      url: https://blog.csdn.net/u010671061/article/details/147999872
+    - author: 移动安全星球
+      release_time: 2025.05.16 09:57:35
+      title: cursor-我愿称之为程序员的福音
       url: https://mspsecurity.blog.csdn.net/article/details/147999872
     - author: KerryS
       release_time: 2025.05.15 09:06:32
@@ -482,10 +486,6 @@
       release_time: 2025.05.06 13:56:52
       title: 某团小程序mtgsig,_token 生成逻辑分析
       url: https://blog.csdn.net/Zuko_chen/article/details/147733175
-    - author: Tokameine
-      release_time: 2025.05.05 19:44:44
-      title: '[原创]VirtualApp 原理速览 - 总集篇'
-      url: https://bbs.kanxue.com/thread-286728.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
