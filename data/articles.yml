@@ -1,6 +1,18 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: DrissionPage
+      release_time: 2025.05.16 23:38:57
+      title: 监听数据包-DrissionPage官方教程-p25
+      url: https://www.bilibili.com/video/BV1dfEbzgE5z
+    - author: DrissionPage
+      release_time: 2025.05.16 20:35:29
+      title: 操作复选框-DrissionPage官方教程-p24
+      url: https://www.bilibili.com/video/BV1V7E4zhEHk
+    - author: 名字叫阿柒
+      release_time: 2025.05.15 17:35:11
+      title: socket代理配合浏览器
+      url: https://www.bilibili.com/video/BV1WhECzdEjM
     - author: B站用户骚神
       release_time: 2025.05.13 11:47:12
       title: 全新V3骚代理插件，适配最新浏览器(支持s5和账密)，一键生成DP代理动态切换代码
@@ -101,21 +113,85 @@
       release_time: 2025.04.21 17:21:18
       title: 浏览器webjs环境hook成品展示，js逆向补环境利器
       url: https://www.bilibili.com/video/BV1tU5yzbEj8
-    - author: B站用户骚神
-      release_time: 2025.04.18 22:51:26
-      title: 骚代理-全新动态修改代理ip脚本，支持用户名密码
-      url: https://www.bilibili.com/video/BV17k5EzqEsZ
-    - author: 那个昵称已经有人用过
-      release_time: 2025.04.16 01:15:44
-      title: AI智能体10秒搭完篮球少年人物雕像。
-      url: https://www.bilibili.com/video/BV18WocYvECN
-    - author: 悦来客栈的老板
-      release_time: 2025.04.15 21:32:13
-      title: AST反混淆实战系列-纯函数的还原
-      url: https://www.bilibili.com/video/BV1VQdfYBEb6
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.05.17 00:00:00
+      title: PC逆向 -- 简单破解登录卡密软件
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038864&idx=1&sn=3dfc51aa05e5e6c61aedad7a622cd58e
+    - author: 菜鸟学Python编程
+      release_time: 2025.05.16 21:01:00
+      title: 五年了
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565938&idx=1&sn=3e28d876b4530e7e103ef0362838e23a
+    - author: 吾爱破解论坛
+      release_time: 2025.05.16 16:40:54
+      title: 【.NET逆向】Safeboxie / 萤火虫拟系统 / 安全沙箱 授权码逆向与机制绕过
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142562&idx=1&sn=f8aaf2571cab77315aca3ebe32685828
+    - author: 哆啦安全
+      release_time: 2025.05.16 09:01:20
+      title: 车载Android系统模糊测试解决方案
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498094&idx=1&sn=29ae50cab33f8d07b6ccb7b0f4e5add3
+    - author: 逆向有你
+      release_time: 2025.05.16 00:00:00
+      title: 安卓逆向 -- 某变种狼人杀 Dump
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038839&idx=1&sn=253b264c14e0dfd59ba1bfc7f790aec0
+    - author: 哆啦安全
+      release_time: 2025.05.15 18:42:43
+      title: AgentCPM-GUI面向端侧的GUI Agent
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498090&idx=1&sn=4b25120b55ea664a7c1d836710ac2ae1
+    - author: 逆向与爬虫的故事
+      release_time: 2025.05.15 13:18:00
+      title: 2025给所有人一个大胆的搞钱建议!
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5ODA3OTM1NA==&mid=2247493707&idx=1&sn=842946b78f17b1b8f1de1f97a9ce996f
+    - author: 逆向有你
+      release_time: 2025.05.15 00:03:06
+      title: JS逆向 -- 对于某FM的付费音频爬取过程的探
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038825&idx=1&sn=cabd32f287c9c83bde287484f877d4b6
+    - author: 菜鸟学Python编程
+      release_time: 2025.05.14 19:42:39
+      title: AST反混淆实战|复杂的逻辑表达式转if语句系列教程(3)
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565928&idx=1&sn=cab81dade5084deef8fb677b56f695f0
+    - author: 哆啦安全
+      release_time: 2025.05.14 16:28:35
+      title: JS逆向破解的工具和方法及技巧
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498086&idx=1&sn=c8963dec75f0a8e59e579bcb609f5929
+    - author: 逆向有你
+      release_time: 2025.05.14 00:02:11
+      title: 安卓逆向 -- 分析某库登录逻辑以及协议复现
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038813&idx=1&sn=f6826bf0a4cb730ac784ca575f2ba577
+    - author: 哆啦安全
+      release_time: 2025.05.13 07:32:30
+      title: Web3安全研究：现状、挑战与防御策略
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498074&idx=1&sn=5959ec0874cacf4983ddc72a9981c422
+    - author: 哆啦安全
+      release_time: 2025.05.12 07:02:47
+      title: 车机Android系统安全漏洞深入浅出
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498075&idx=1&sn=62f2e4f26c60824d2b53ff900b2481cd
+    - author: 哆啦安全
+      release_time: 2025.05.11 00:04:00
+      title: Android7至16系统PMS提升开机速度优化解决方案
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498071&idx=1&sn=7823a1aa48c340967ae7b8580f690cb2
+    - author: 哆啦安全
+      release_time: 2025.05.10 10:36:42
+      title: HarmonyOS Next(鸿蒙Next)系统提权思路和方法
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498060&idx=1&sn=94b4201e6dbf6a911133b696c8c1f0a3
+    - author: 哆啦安全
+      release_time: 2025.05.10 10:36:42
+      title: 谷歌Pixel3手机(逆向相关书籍推荐)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498060&idx=2&sn=33930810961e3d0998590b43985db727
+    - author: 哆啦安全
+      release_time: 2025.05.10 08:56:53
+      title: Slither是一个专为以太坊智能合约设计的静态分析框架
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498055&idx=2&sn=be6b7a36479544881bcb539f643d1569
+    - author: 逆向有你
+      release_time: 2025.05.10 00:02:58
+      title: PC逆向 -- 某考吧题库软件破解分析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038790&idx=1&sn=34ded29e1441b7424a7eae3d8663b2c9
+    - author: 逆向有你
+      release_time: 2025.05.09 08:47:47
+      title: 安卓逆向 -- 记录破解某灰产软件
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038768&idx=1&sn=4e8043828afaf99aa1455fe066711f70
     - author: LLLibra146
       release_time: 2025.05.08 08:00:00
       title: 无需登录，满血版DeepSeek R1，很强！
@@ -136,10 +212,6 @@
       release_time: 2025.05.07 08:00:00
       title: 一日一技：反爬虫的极致手段，几行代码直接炸了爬虫服务器
       url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486548&idx=1&sn=1b7266fe445b2f6a56fac7012915cb9c
-    - author: 影17
-      release_time: 2025.05.07 00:00:00
-      title: 某音a_bogus 1.0.1.19补环境分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489658&idx=1&sn=932872a2355468df9eefdcd11decf710
     - author: 逆向有你
       release_time: 2025.05.07 00:00:00
       title: 安卓逆向 -- 某Video Pro版修改思路
@@ -156,89 +228,33 @@
       release_time: 2025.05.06 18:00:00
       title: Python爬虫管理平台版本更新1.3
       url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486004&idx=1&sn=7fae9b1226ce084c09cbe225b81c78be
-    - author: 菜鸟学Python编程
-      release_time: 2025.05.06 17:26:00
-      title: AST反混淆实战|复杂的逻辑表达式转if语句系列教程(1)
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565920&idx=1&sn=c85e67dfd696f0590908adcdd07be485
-    - author: 平底锅煎蛋
-      release_time: 2025.05.06 14:08:00
-      title: trace分析法——某短视频shield
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTcyMjcwOA==&mid=2247483909&idx=1&sn=01046dbf2a6cbeb8c262550761832ed0
-    - author: 哆啦安全
-      release_time: 2025.05.06 09:01:26
-      title: 提升GUI智能代理深思与推理能力的框架
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498039&idx=1&sn=5bd6d8b800824533b8831f99ae0171ac
-    - author: Coder小Q
-      release_time: 2025.05.06 08:30:00
-      title: 【密码学】基于编码的密码学学习笔记(三) 检错、纠错的能力
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491654&idx=1&sn=24d8ec642c4b60c693d6cd018322f9ff
-    - author: LLLibra146
-      release_time: 2025.05.06 08:24:00
-      title: JS调试技巧：如何让时间和随机数“听你指挥”？
-      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486542&idx=1&sn=a521e0b7604668a474625e32c8b6b7ee
-    - author: 哆啦安全
-      release_time: 2025.05.05 11:18:08
-      title: 高版本Android函数地址索引解决方案
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498035&idx=1&sn=7b895839d6702495aa99a5e131c9bebd
-    - author: 哆啦安全
-      release_time: 2025.05.05 11:18:08
-      title: 安全资料
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498035&idx=2&sn=0e03343873d996da3f422699c1a244ad
-    - author: 逆向有你
-      release_time: 2025.05.05 00:00:00
-      title: JS逆向 -- 纯异步JS逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038708&idx=1&sn=62271cb412659eb2e1616d090511ee7e
-    - author: Spade sec
-      release_time: 2025.05.04 18:11:00
-      title: JS逆向系列20-某鱼sign分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485971&idx=1&sn=63fc3e62c00c22be9929cd49c08a543f
-    - author: 哆啦安全
-      release_time: 2025.05.04 10:33:47
-      title: DroidRun是一款基于AI代理的开源工具
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498026&idx=1&sn=3a76cf434da71834fd33bd0478ad461c
-    - author: 逆向有你
-      release_time: 2025.05.04 00:00:00
-      title: 安卓逆向 -- 某字母站XHS frida检测分析绕过
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038677&idx=1&sn=c703353b587d4fe0538b12b83e8af6cc
-    - author: SpiderLittleWhite
-      release_time: 2025.05.03 17:04:36
-      title: 【JS逆向】某点数据登录逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzk1NzkzMzQyOA==&mid=2247483776&idx=1&sn=9a8bd0bba129f053bf055883b6d8cd30
-    - author: Spade sec
-      release_time: 2025.05.03 13:00:00
-      title: 再谈xss水坑攻击
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485888&idx=1&sn=ee893c5af9eea6c6aef0e4f092a30fd2
-    - author: 二进制磨剑
-      release_time: 2025.05.03 09:00:00
-      title: 五一充电计划｜二进制磨剑课程限时 8 折
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485559&idx=1&sn=44ef4f16bca6673804e2c4ccb4acafce
-    - author: LLLibra146
-      release_time: 2025.05.03 09:00:00
-      title: AST 技巧：还在手动扣代码？AST技术帮你自动扣代码
-      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486516&idx=1&sn=863e9acd2d04a6cdd8bdcba5a6bbe989
-    - author: 哆啦安全
-      release_time: 2025.05.03 07:18:17
-      title: KernelSU Next是Android新兴的内核级Root解决方案
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498024&idx=1&sn=e9d659a5f2e312428aec6c3990e0c346
-    - author: 逆向有你
-      release_time: 2025.05.03 00:00:00
-      title: 安卓逆向 -- 某万能视频播放器破解方法改进
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038650&idx=1&sn=b7c004ccba27b7dfa33b63198280b710
-    - author: 二进制磨剑
-      release_time: 2025.05.02 09:35:57
-      title: Frida Stalker 深入浅出
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485556&idx=1&sn=e6601053e8854c91c0d14c32a4d1cfb5
-    - author: Spade sec
-      release_time: 2025.05.01 21:40:00
-      title: xss-labs level11 - level20
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247485853&idx=1&sn=3bc3414c1f9dac495e3c2f4ae801854a
-    - author: 哆啦安全
-      release_time: 2025.05.01 16:28:14
-      title: Docker+Android emu镜像的制作方法
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498020&idx=1&sn=614667ded3ab71081df0805402e57dfb
+    - author: 影17
+      release_time: 2025.05.06 17:54:45
+      title: 某音a_bogus 1.0.1.19补环境分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489638&idx=1&sn=ed755f9e3633804ade2ca62ea3432c7f
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: li083m
+      release_time: 2025.05.15 20:20:00
+      title: Tk-验证码hashcash之answer参数详解
+      url: https://www.52pojie.cn/thread-2031712-1-1.html
+    - author: 板砖亲你头
+      release_time: 2025.05.14 20:51:00
+      title: 音频网站逆向如何进行捞偏门
+      url: https://www.52pojie.cn/thread-2031462-1-1.html
+    - author: sky9464
+      release_time: 2025.05.14 19:54:00
+      title: 《某游快爆》APP sign值逆向
+      url: https://www.52pojie.cn/thread-2031450-1-1.html
+    - author: Rytter
+      release_time: 2025.05.14 15:09:00
+      title: Android逆向学习（十） IDA逆向编辑Android so文件
+      url: https://www.52pojie.cn/thread-2031349-1-1.html
+    - author: scz
+      release_time: 2025.05.14 13:28:00
+      title: WEB前端逆向在nodejs环境中复用webpack代码
+      url: https://www.52pojie.cn/thread-2031316-1-1.html
     - author: Rytter
       release_time: 2025.05.12 11:45:00
       title: Android逆向学习（九） Xposed快速上手（下）
@@ -339,29 +355,29 @@
       release_time: 2025.04.19 14:24:00
       title: 某当网登录滑块逆向
       url: https://www.52pojie.cn/thread-2025578-1-1.html
-    - author: chenchenchen777
-      release_time: 2025.04.18 19:11:00
-      title: android端手机虚拟机实现过程解析
-      url: https://www.52pojie.cn/thread-2025427-1-1.html
-    - author: 西二旗搬砖仔
-      release_time: 2025.04.17 17:55:00
-      title: hooker frida版just_trust_me.js 2025升级 支持boringssl unpinning
-      url: https://www.52pojie.cn/thread-2025107-1-1.html
-    - author: hailang7
-      release_time: 2025.04.17 02:47:00
-      title: 【安卓新手】雷电模拟器安装magisk和Lsposed
-      url: https://www.52pojie.cn/thread-2024885-1-1.html
-    - author: ZSAIm
-      release_time: 2025.04.16 23:47:00
-      title: frida-analykit + wireshark 流量抓包（上）
-      url: https://www.52pojie.cn/thread-2024874-1-1.html
-    - author: 芽衣
-      release_time: 2025.04.16 19:42:00
-      title: DevCheck 破解教程 设备信息查看 cpu使用率 充电信息
-      url: https://www.52pojie.cn/thread-2024807-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: mb_jepgtozh
+      release_time: 2025.05.16 20:24:19
+      title: '[原创] 某网站极验逆向 v3.1.2'
+      url: https://bbs.kanxue.com/thread-286858.htm
+    - author: 移动安全星球
+      release_time: 2025.05.16 09:57:35
+      title: cursor-我愿称之为程序员的福音
+      url: https://mspsecurity.blog.csdn.net/article/details/147999872
+    - author: KerryS
+      release_time: 2025.05.15 09:06:32
+      title: '[原创]stalker源码浅入浅出'
+      url: https://bbs.kanxue.com/thread-286837.htm
+    - author: 悦来客栈的老板
+      release_time: 2025.05.14 19:40:59
+      title: AST反混淆实战|复杂的逻辑表达式转if语句系列教程(3)
+      url: https://blog.csdn.net/qq523176585/article/details/147967661
+    - author: 狗都不学爬虫_
+      release_time: 2025.05.14 14:15:30
+      title: JS逆向-某xx航空 aws-waf-token 补环境
+      url: https://blog.csdn.net/qq_53444631/article/details/147952902
     - author: 棕熊
       release_time: 2025.05.13 09:05:17
       title: '[原创]AI逆向 一文掌握 IDA Pro MCP 逆向分析利器'
@@ -462,26 +478,6 @@
       release_time: 2025.04.30 23:18:51
       title: JS逆向 - 某团Mtgsig1.2 （补环境）
       url: https://blog.csdn.net/qq_53444631/article/details/147640641
-    - author: 3zureus
-      release_time: 2025.04.30 17:25:54
-      title: '[原创] SEC2025 安卓初赛'
-      url: https://bbs.kanxue.com/thread-286682.htm
-    - author: Nickname肖知寒
-      release_time: 2025.04.30 16:12:37
-      title: 旧版 chromium 源码编译，以 86.0.4240.198 版本为例
-      url: https://blog.csdn.net/weixin_45307278/article/details/147633918
-    - author: 无味
-      release_time: 2025.04.29 23:33:31
-      title: '[原创] 关于hunter检测的隐藏'
-      url: https://bbs.kanxue.com/thread-286674.htm
-    - author: 小羽~
-      release_time: 2025.04.29 11:24:12
-      title: '[原创]7shen unidbg版'
-      url: https://bbs.kanxue.com/thread-286669.htm
-    - author: 无味
-      release_time: 2025.04.28 19:06:07
-      title: '[原创]关于NativeDetector中的检测到Umount'
-      url: https://bbs.kanxue.com/thread-286664.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
