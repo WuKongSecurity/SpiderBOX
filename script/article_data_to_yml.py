@@ -18,6 +18,7 @@ def get_articles():
     }
     response = requests.get(ARTICLE_API, headers=headers)
     print("get articles status code: ", response.status_code)
+    print("get articles response: ", response.text)
     data = response.json()
     return data
 
@@ -81,7 +82,7 @@ def article_to_yml(data):
         write_yaml(current_data)
         print(f'update success / {time_now} / {os.path.abspath(YML_FILE)}')
     else:
-        print(f'no need update / {time_now} / / {os.path.abspath(YML_FILE)}')
+        print(f'no need update / {time_now} / {os.path.abspath(YML_FILE)}')
 
 
 def task():
