@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.05.20 08:28:29
+      title: AI+MCP自动控制浏览器 爬取电商网站信息，全程没写一句代码
+      url: https://www.bilibili.com/video/BV1hkJFzpE99
     - author: DrissionPage
       release_time: 2025.05.19 16:49:00
       title: 并发多开浏览器-DrissionPage官方教程-p27
@@ -113,10 +117,6 @@
       release_time: 2025.04.30 22:46:51
       title: JS逆向试听-猿人学爬虫逆向进阶课
       url: https://www.bilibili.com/video/BV1V8GtzSEHa
-    - author: 猿人学Python
-      release_time: 2025.04.30 22:20:35
-      title: 爬虫基础之正则表达式-猿人学爬虫基础课试听
-      url: https://www.bilibili.com/video/BV154GtzQE9f
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -371,6 +371,10 @@
       title: Ubuntu服务器部署多语言项目（Node.js/Python）方式实践
       url: https://blog.csdn.net/weixin_43845191/article/details/147240027
     - author: 悦来客栈的老板
+      release_time: 2025.05.19 09:02:28
+      title: AST反混淆插件| 围绕逻辑表达式的垃圾代码删除
+      url: https://blog.csdn.net/qq523176585/article/details/148083669
+    - author: 悦来客栈的老板
       release_time: 2025.05.18 21:05:11
       title: AST反混淆插件| if表达式或三目表达式的垃圾代码删除
       url: https://blog.csdn.net/qq523176585/article/details/148053333
@@ -482,10 +486,6 @@
       release_time: 2025.05.06 14:11:14
       title: 通用解析—bs4+jsonpath
       url: https://blog.csdn.net/Zuko_chen/article/details/147733587
-    - author: 始識
-      release_time: 2025.05.06 13:56:52
-      title: 某团小程序mtgsig,_token 生成逻辑分析
-      url: https://blog.csdn.net/Zuko_chen/article/details/147733175
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
