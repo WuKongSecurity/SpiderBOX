@@ -243,6 +243,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: anning666
+      release_time: 2025.05.20 17:12:00
+      title: 某投资网站登录密码逆向(适合小白新手)
+      url: https://www.52pojie.cn/thread-2032824-1-1.html
     - author: li083m
       release_time: 2025.05.15 20:20:00
       title: Tk-验证码hashcash之answer参数详解
@@ -359,10 +363,6 @@
       release_time: 2025.04.22 21:54:00
       title: 某盾il2cpp手游壳so加固的修复
       url: https://www.52pojie.cn/thread-2026442-1-1.html
-    - author: zzyzy
-      release_time: 2025.04.19 14:24:00
-      title: 某当网登录滑块逆向
-      url: https://www.52pojie.cn/thread-2025578-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
