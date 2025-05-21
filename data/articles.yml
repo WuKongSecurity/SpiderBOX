@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 名字叫阿柒
+      release_time: 2025.05.21 16:37:00
+      title: 闲置 macbookM1 当电视盒子，又顺便开发了个 遥控器，up 主 壕无人性
+      url: https://www.bilibili.com/video/BV1RSJBzwEGm
     - author: B站用户骚神
       release_time: 2025.05.20 08:28:29
       title: AI+MCP自动控制浏览器 爬取电商网站信息，全程没写一句代码
@@ -113,10 +117,6 @@
       release_time: 2025.04.30 22:51:07
       title: 安卓逆向试听课-猿人学爬虫逆向进阶课
       url: https://www.bilibili.com/video/BV1GaGtzEE9f
-    - author: 猿人学Python
-      release_time: 2025.04.30 22:46:51
-      title: JS逆向试听-猿人学爬虫逆向进阶课
-      url: https://www.bilibili.com/video/BV1V8GtzSEHa
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
