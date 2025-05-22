@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: ShriyGo
+      release_time: 2025.05.22 22:54:53
+      title: 数美空间验证-逆向分析
+      url: https://www.bilibili.com/video/BV1USJnzMEzt
     - author: r0ysue
       release_time: 2025.05.22 22:50:26
       title: r0mcp字符串搜索功能增强匹配函数名
