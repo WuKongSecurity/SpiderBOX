@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.05.22 09:51:44
+      title: DrissionPageMCP-让AI控制DrissionPage自动操作浏览器-骚神出品！！
+      url: https://www.bilibili.com/video/BV1SzJEzTEhx
     - author: 名字叫阿柒
       release_time: 2025.05.21 17:51:41
       title: macbook 电视盒子，通过遥控器电影到电视节目互相切换。壕无人性
@@ -113,10 +117,6 @@
       release_time: 2025.05.01 20:45:28
       title: 某wx读书APP Sign逆向（二）完整版
       url: https://www.bilibili.com/video/BV1cgGqzsEDk
-    - author: 猿人学Python
-      release_time: 2025.04.30 22:55:59
-      title: iOS逆向试听-猿人学爬虫逆向进阶课
-      url: https://www.bilibili.com/video/BV1V8GtzSEQ8
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
