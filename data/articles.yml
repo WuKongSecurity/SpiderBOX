@@ -2,6 +2,10 @@
   list:
   - links:
     - author: B站用户骚神
+      release_time: 2025.05.22 16:09:00
+      title: DrissionPageMCP-AI自动控制网页填表注册演示
+      url: https://www.bilibili.com/video/BV1uAJnz6ER2
+    - author: B站用户骚神
       release_time: 2025.05.22 09:51:44
       title: DrissionPageMCP-让AI控制DrissionPage自动操作浏览器-骚神出品！！
       url: https://www.bilibili.com/video/BV1SzJEzTEhx
@@ -113,10 +117,6 @@
       release_time: 2025.05.01 20:51:24
       title: 某wx读书APP Sign逆向（一）
       url: https://www.bilibili.com/video/BV1HgGqzsEz5
-    - author: 带带弟弟学爬虫
-      release_time: 2025.05.01 20:45:28
-      title: 某wx读书APP Sign逆向（二）完整版
-      url: https://www.bilibili.com/video/BV1cgGqzsEDk
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -243,6 +243,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 芽衣
+      release_time: 2025.05.22 11:43:00
+      title: 谷歌高分软件 吾绘笔记 破解教程
+      url: https://www.52pojie.cn/thread-2033270-1-1.html
     - author: anning666
       release_time: 2025.05.20 17:12:00
       title: 某投资网站登录密码逆向(适合小白新手)
@@ -359,10 +363,6 @@
       release_time: 2025.04.23 18:01:00
       title: 通杀安卓软件广告方法大全
       url: https://www.52pojie.cn/thread-2026697-1-1.html
-    - author: xianyuYuan
-      release_time: 2025.04.22 21:54:00
-      title: 某盾il2cpp手游壳so加固的修复
-      url: https://www.52pojie.cn/thread-2026442-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
