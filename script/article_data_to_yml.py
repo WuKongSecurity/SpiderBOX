@@ -16,7 +16,7 @@ def get_articles():
         'Authorization': f'Bearer {ARTICLE_TOKEN}',
         'User-Agent': ARTICLE_UA,
     }
-    response = requests.get(ARTICLE_API, headers=headers)
+    response = requests.get(ARTICLE_API, headers=headers, timeout=120)
     print("get articles status code: ", response.status_code)
     print("get articles response: ", response.text)
     data = response.json()
