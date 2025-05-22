@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2025.05.22 22:50:26
+      title: r0mcp字符串搜索功能增强匹配函数名
+      url: https://www.bilibili.com/video/BV1USJnzMEbS
     - author: B站用户骚神
       release_time: 2025.05.22 16:09:00
       title: DrissionPageMCP-AI自动控制网页填表注册演示
@@ -113,10 +117,6 @@
       release_time: 2025.05.03 21:41:14
       title: VLLM本地四卡跑CLINE辅助源码阅读添加中文注释
       url: https://www.bilibili.com/video/BV1MeGdzDEMn
-    - author: 带带弟弟学爬虫
-      release_time: 2025.05.01 20:51:24
-      title: 某wx读书APP Sign逆向（一）
-      url: https://www.bilibili.com/video/BV1HgGqzsEz5
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
