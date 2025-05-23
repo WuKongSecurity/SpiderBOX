@@ -7,7 +7,10 @@ from datetime import datetime
 ARTICLE_API = os.getenv('ARTICLE_API')
 ARTICLE_TOKEN = os.getenv('ARTICLE_TOKEN')
 ARTICLE_UA = os.getenv('ARTICLE_UA')  # 特殊 UA, API 防护例外规则
+PROXY = os.getenv('PROXY')
 YML_FILE = '../data/articles.yml'
+
+proxies = {'http': PROXY,'https': PROXY}
 
 
 def get_articles():
@@ -16,7 +19,7 @@ def get_articles():
         'Authorization': f'Bearer {ARTICLE_TOKEN}',
         'User-Agent': ARTICLE_UA,
     }
-    response = requests.get(ARTICLE_API, headers=headers, timeout=120)
+    response = requests.get(ARTICLE_API, headers=headers, proxies=proxies, timeout=120)
     print("get articles status code: ", response.status_code)
     print("get articles response: ", response.text)
     data = response.json()
