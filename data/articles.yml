@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.05.23 22:16:53
+      title: DrissionPageMCP+AI-自动抓包下载网站歌曲
+      url: https://www.bilibili.com/video/BV1LhjpzEEeP
     - author: 带带弟弟学爬虫
       release_time: 2025.05.23 14:54:35
       title: 求助byd抓包签到包
@@ -117,10 +121,6 @@
       release_time: 2025.05.05 00:47:56
       title: KS第一个算法
       url: https://www.bilibili.com/video/BV12GVKz1En2
-    - author: 带带弟弟学爬虫
-      release_time: 2025.05.05 00:36:49
-      title: KS第三个白盒AES算法
-      url: https://www.bilibili.com/video/BV1xGVKz1EXu
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
