@@ -32,6 +32,8 @@ jobs:
         env:
           ARTICLE_API: ${{ secrets.ARTICLE_API }}
           ARTICLE_TOKEN: ${{ secrets.ARTICLE_TOKEN }}
+          ARTICLE_UA: ${{ secrets.ARTICLE_UA }}
+          PROXY: ${{ secrets.PROXY }}
         working-directory: ./script
 
       # 在运行脚本后，列出 data 目录中的所有文件
