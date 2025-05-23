@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 带带弟弟学爬虫
+      release_time: 2025.05.23 14:54:35
+      title: 求助byd抓包签到包
+      url: https://www.bilibili.com/video/BV1ocjJz3EG9
     - author: B站用户骚神
       release_time: 2025.05.23 09:27:10
       title: Cursor+DrissionPageMCP 让AI帮我们自动化在线购物
@@ -117,10 +121,6 @@
       release_time: 2025.05.05 00:36:49
       title: KS第三个白盒AES算法
       url: https://www.bilibili.com/video/BV1xGVKz1EXu
-    - author: 带带弟弟学爬虫
-      release_time: 2025.05.05 00:34:24
-      title: KS第二个算法以及crc算法
-      url: https://www.bilibili.com/video/BV1tuVKzmEpJ
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
