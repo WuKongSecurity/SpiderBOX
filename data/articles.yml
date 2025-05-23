@@ -247,6 +247,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: buluo533
+      release_time: 2025.05.23 21:49:00
+      title: 某站w_rid加密参数分析
+      url: https://www.52pojie.cn/thread-2033704-1-1.html
+    - author: darksied
+      release_time: 2025.05.23 21:08:00
+      title: 篡改猴脚本“获取网盘直链”劫持京东商品详情页分析
+      url: https://www.52pojie.cn/thread-2033695-1-1.html
     - author: Aircraftcomman5
       release_time: 2025.05.23 17:45:00
       title: 某车辆对比信息X-sign-----------小白讲解10
@@ -359,14 +367,6 @@
       release_time: 2025.04.26 17:04:00
       title: 学破解第217天，《攻防世界easy-so》IDA和frida调试回忆
       url: https://www.52pojie.cn/thread-2027423-1-1.html
-    - author: ZSAIm
-      release_time: 2025.04.25 18:21:00
-      title: frida-analykit + wireshark流量抓包（下）-通杀flutter和webview等静链boringssl
-      url: https://www.52pojie.cn/thread-2027265-1-1.html
-    - author: cs850629238
-      release_time: 2025.04.25 00:22:00
-      title: 记一次某电网e充电小程序逆向
-      url: https://www.52pojie.cn/thread-2027025-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
