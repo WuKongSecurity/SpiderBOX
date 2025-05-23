@@ -14,6 +14,16 @@ proxies = {'http': PROXY,'https': PROXY}
 
 
 def get_articles():
+    headers_ip = {
+        "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "sec-ch-ua": 'Chromium";v="136", "Google Chrome";v="136", "Not.A/Brand";v="99"',
+    }
+    res_ip = requests.get("https://icanhazip.com/", headers=headers_ip, proxies=proxies, timeout=120)
+    print("res_ip status code: ", res_ip.status_code)
+    print("res_ip response: ", res_ip.text)
+
+    print("\n========================\n")
+
     headers = {
         'Content-Type': 'application/json',
         'Authorization': f'Bearer {ARTICLE_TOKEN}',
