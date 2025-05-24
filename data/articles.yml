@@ -371,6 +371,10 @@
     term: 吾爱破解
   - links:
     - author: 狗都不学爬虫_
+      release_time: 2025.05.24 13:35:55
+      title: JS逆向 - 狗dong参数Log及joyytokem（补环境）
+      url: https://blog.csdn.net/qq_53444631/article/details/148189730
+    - author: 狗都不学爬虫_
       release_time: 2025.05.24 12:17:10
       title: JS逆向-新版x球网 md5__1038参数（补环境）
       url: https://blog.csdn.net/qq_53444631/article/details/148188405
@@ -486,10 +490,6 @@
       release_time: 2025.05.07 17:22:01
       title: Seeking Alpha 美国股市分析网站 年报/季报批量自动化导出（爬虫）
       url: https://blog.csdn.net/weixin_41259961/article/details/147769043
-    - author: 始識
-      release_time: 2025.05.07 10:17:40
-      title: 某音a_bogus 1.0.1.19补环境分析
-      url: https://blog.csdn.net/Zuko_chen/article/details/147755051
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
