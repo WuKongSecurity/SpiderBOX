@@ -124,6 +124,42 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 秃头的逆向痴想
+      release_time: 2025.05.24 22:41:45
+      title: DWARF 栈回溯 & xCrash 调包侠
+      url: https://mp.weixin.qq.com/s?__biz=MzIzNDE3NjI0MQ==&mid=2247484093&idx=1&sn=3a39c4456db6f7efaa1cfc75e395360b
+    - author: 哆啦安全
+      release_time: 2025.05.24 18:29:53
+      title: ARM架构Android12系统qcow2镜像制作方法
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498136&idx=1&sn=cab0f6b0038e160b257e07c752d94e52
+    - author: 哆啦安全
+      release_time: 2025.05.24 18:29:53
+      title: Ubuntu25.10的两应用将全面换代
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498136&idx=2&sn=774fa85ad8d9bbf762447e065b537cc2
+    - author: 逆向有你
+      release_time: 2025.05.24 00:00:00
+      title: 安卓逆向 -- frida编译调试、框架学习
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039021&idx=1&sn=705fd1001f7948055a299d41bfcd2d0d
+    - author: 菜鸟学Python编程
+      release_time: 2025.05.23 17:40:00
+      title: AST反混淆插件| 浏览器全局对象参与计算反混淆系列插件(二)
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565964&idx=1&sn=4392e8f3df02b81a96cdd09a52d559c7
+    - author: 移动安全星球
+      release_time: 2025.05.23 15:12:16
+      title: Cursor首席设计师Ryo Lu的12条高效使用法
+      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486419&idx=1&sn=72c550774f86b8eef80534bd4adc9650
+    - author: 逆向有你
+      release_time: 2025.05.23 00:00:00
+      title: JS逆向 -- 记录一次某标准规范网的逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039003&idx=1&sn=43a5ebf963900ed1c539fd77f56961bd
+    - author: 菜鸟学Python编程
+      release_time: 2025.05.22 20:43:54
+      title: AST反混淆插件| 浏览器全局对象参与计算反混淆系列插件(一)
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565958&idx=1&sn=509738d791bf2403965772d4a7e672f2
+    - author: 影17
+      release_time: 2025.05.22 17:14:42
+      title: 途家app 补环境概述
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489691&idx=1&sn=b951cd550a553a70b17f3601213c6a5c
     - author: 爬虫逆向小林哥
       release_time: 2025.05.22 09:32:00
       title: “求推荐测试机！”被问麻了，这次直接上架我的自用款
@@ -208,42 +244,6 @@
       release_time: 2025.05.18 21:05:00
       title: AST反混淆插件| if表达式或三目表达式的垃圾代码删除
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565942&idx=1&sn=97cd73a774ba6d709aa8422b7ff5ef7c
-    - author: 季东ooo
-      release_time: 2025.05.17 23:59:47
-      title: 某音APP七shen参数分析之x-g篇
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjczODUwMw==&mid=2247484852&idx=1&sn=9542c8056fa17656d1f76878b5b006bf
-    - author: 哆啦安全
-      release_time: 2025.05.17 16:54:35
-      title: HarmonyOS Next(鸿蒙Next)针对APP抓包的工具和抓包方法
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498096&idx=1&sn=d860db578388a746b3423e99282e9cc3
-    - author: 软件安全与逆向分析
-      release_time: 2025.05.17 14:55:49
-      title: 安卓软件开发与逆向分析现已更新，Frida源码分析到尾声
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484818&idx=1&sn=bc40056295ae6199044810e4c2da10f2
-    - author: python学习爱好者
-      release_time: 2025.05.17 12:35:41
-      title: tiny s1 算法浅析
-      url: https://mp.weixin.qq.com/s?__biz=MzUzOTQ1OTUyMg==&mid=2247484344&idx=1&sn=d3410bdb4776185a26df04fed42c6e22
-    - author: 菜鸟学Python编程
-      release_time: 2025.05.17 09:00:00
-      title: AST反混淆插件|去控制流的一些简短又必须要用到的方法
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565932&idx=1&sn=ee3c421a41a94172423100011ace2657
-    - author: 逆向有你
-      release_time: 2025.05.17 00:00:00
-      title: PC逆向 -- 简单破解登录卡密软件
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038864&idx=1&sn=3dfc51aa05e5e6c61aedad7a622cd58e
-    - author: 菜鸟学Python编程
-      release_time: 2025.05.16 21:01:00
-      title: 五年了
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565938&idx=1&sn=3e28d876b4530e7e103ef0362838e23a
-    - author: 吾爱破解论坛
-      release_time: 2025.05.16 16:40:54
-      title: 【.NET逆向】Safeboxie / 萤火虫拟系统 / 安全沙箱 授权码逆向与机制绕过
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142562&idx=1&sn=f8aaf2571cab77315aca3ebe32685828
-    - author: 哆啦安全
-      release_time: 2025.05.16 09:01:20
-      title: 车载Android系统模糊测试解决方案
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498094&idx=1&sn=29ae50cab33f8d07b6ccb7b0f4e5add3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
