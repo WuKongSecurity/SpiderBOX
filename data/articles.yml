@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: r0ysue_
+      release_time: 2025.05.24 21:31:18
+      title: '5060显卡驱动PyCUDA开发环境搭建 '
+      url: https://blog.csdn.net/u010559109/article/details/148196526
     - author: 十二有bug
       release_time: 2025.05.24 15:13:26
       title: twitter不需要登入获取用户信息
@@ -486,10 +490,6 @@
       release_time: 2025.05.08 11:18:14
       title: '[原创]Linux提权具体方法'
       url: https://bbs.kanxue.com/thread-286764.htm
-    - author: 悦来客栈的老板
-      release_time: 2025.05.07 17:33:23
-      title: AST反混淆实战|复杂的逻辑表达式转if语句系列教程(2)
-      url: https://blog.csdn.net/qq523176585/article/details/147809512
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
