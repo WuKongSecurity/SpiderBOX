@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2025.05.24 20:32:45
+      title: 花指令对大模型在自动化逆向工作中的干扰致惑
+      url: https://www.bilibili.com/video/BV1rXjtzBEci
     - author: B站用户骚神
       release_time: 2025.05.23 22:16:53
       title: DrissionPageMCP+AI-自动抓包下载网站歌曲
@@ -117,10 +121,6 @@
       release_time: 2025.05.05 14:52:41
       title: js逆向补环境框架秒杀阿里滑块
       url: https://www.bilibili.com/video/BV1aZVqzLEUZ
-    - author: 带带弟弟学爬虫
-      release_time: 2025.05.05 00:47:56
-      title: KS第一个算法
-      url: https://www.bilibili.com/video/BV12GVKz1En2
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
