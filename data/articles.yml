@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 可乐还是百事好呀
+      release_time: 2025.05.25 16:16:55
+      title: “求推荐测试机！”，被问麻了，这次直接上架自用款，reqable + lsp环境配置
+      url: https://www.bilibili.com/video/BV1wejgzZEPk
     - author: 带带弟弟学爬虫
       release_time: 2025.05.25 13:22:36
       title: ida+mcp+cursor快速逆向某星球APP
@@ -117,10 +121,6 @@
       release_time: 2025.05.07 17:46:01
       title: 【零基础ai爬虫】deepseek自动写爬虫【包含课件和答疑】
       url: https://www.bilibili.com/video/BV1xZVbzVECT
-    - author: 小肩膀-逆向安全培训
-      release_time: 2025.05.07 17:38:36
-      title: 【零基础ai编程】MarsCode的配置【包含课件和答疑】
-      url: https://www.bilibili.com/video/BV1xZVbzVESW
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
