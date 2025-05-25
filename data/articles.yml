@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 吃苹果的牛顿顿
+      release_time: 2025.05.25 17:28:54
+      title: 基于Deepseek视觉语言模型识别与训练九宫格验证码
+      url: https://blog.csdn.net/qq_29402011/article/details/148211087
     - author: 带带弟弟学爬虫__
       release_time: 2025.05.25 12:56:05
       title: x星球请求返回值加密
@@ -402,22 +406,54 @@
       release_time: 2025.05.20 09:00:19
       title: AST反混淆插件| 删除一些执行后没有意义的节点
       url: https://blog.csdn.net/qq523176585/article/details/148121489
+    - author: 红皮西瓜绿了心
+      release_time: 2025.05.19 23:56:03
+      title: JS补环境技术指南
+      url: https://blog.csdn.net/m0_46265880/article/details/148077192
     - author: 九月镇灵将
       release_time: 2025.05.19 16:23:19
       title: Ubuntu服务器部署多语言项目（Node.js/Python）方式实践
       url: https://blog.csdn.net/weixin_43845191/article/details/147240027
+    - author: 红皮西瓜绿了心
+      release_time: 2025.05.19 11:20:45
+      title: Python爬虫消息中间件选型策略（Redis Stream、Kafka、RabbitMQ）
+      url: https://blog.csdn.net/m0_46265880/article/details/148059319
     - author: 悦来客栈的老板
       release_time: 2025.05.19 09:02:28
       title: AST反混淆插件| 围绕逻辑表达式的垃圾代码删除
       url: https://blog.csdn.net/qq523176585/article/details/148083669
+    - author: 红皮西瓜绿了心
+      release_time: 2025.05.18 23:47:13
+      title: 5大Python JSON处理库对比：性能、功能与选型建议
+      url: https://blog.csdn.net/m0_46265880/article/details/148052490
+    - author: 红皮西瓜绿了心
+      release_time: 2025.05.18 23:27:20
+      title: Python爬虫开发必备：5大HTTP发包库详解
+      url: https://blog.csdn.net/m0_46265880/article/details/148052211
     - author: 悦来客栈的老板
       release_time: 2025.05.18 21:05:11
       title: AST反混淆插件| if表达式或三目表达式的垃圾代码删除
       url: https://blog.csdn.net/qq523176585/article/details/148053333
+    - author: 红皮西瓜绿了心
+      release_time: 2025.05.18 16:27:12
+      title: 从Hook到补环境全流程：生成 QQ音乐 sign 签名算法
+      url: https://blog.csdn.net/m0_46265880/article/details/148044837
     - author: 土豆花开
       release_time: 2025.05.17 22:51:00
       title: '[原创] 自實現Linker加載so-Android安全：续貂'
       url: https://bbs.kanxue.com/thread-286870.htm
+    - author: 红皮西瓜绿了心
+      release_time: 2025.05.17 11:46:40
+      title: Python XPath语法完全指南：从基础到高级应用
+      url: https://blog.csdn.net/m0_46265880/article/details/148026040
+    - author: 红皮西瓜绿了心
+      release_time: 2025.05.17 11:31:40
+      title: Python爬虫常用正则表达式分类与示例
+      url: https://blog.csdn.net/m0_46265880/article/details/148025804
+    - author: 红皮西瓜绿了心
+      release_time: 2025.05.17 11:28:28
+      title: Python爬虫基础入门理论精要
+      url: https://blog.csdn.net/m0_46265880/article/details/148025736
     - author: 悦来客栈的老板
       release_time: 2025.05.17 09:04:37
       title: AST反混淆插件|去控制流的一些简短又必须要用到的方法
@@ -450,46 +486,10 @@
       release_time: 2025.05.13 09:05:17
       title: '[原创]AI逆向 一文掌握 IDA Pro MCP 逆向分析利器'
       url: https://bbs.kanxue.com/thread-286813.htm
-    - author: Python成长路
-      release_time: 2025.05.12 14:30:24
-      title: 【微信插件】自动同意好友请求并邀请进群
-      url: https://blog.csdn.net/Qwertyuiop2016/article/details/147896142
-    - author: Thehepta
-      release_time: 2025.05.11 16:32:23
-      title: '[原创]zygisk 注入对抗之dlclose'
-      url: https://bbs.kanxue.com/thread-286801.htm
-    - author: _Poseidon
-      release_time: 2025.05.11 14:32:27
-      title: '[原创]Linux入侵排查'
-      url: https://bbs.kanxue.com/thread-286798.htm
-    - author: 黎明与黄昏
-      release_time: 2025.05.11 14:32:23
-      title: '[原创]安卓逆向基础知识之ARM汇编和so层动态调试'
-      url: https://bbs.kanxue.com/thread-286799.htm
-    - author: zk935960518
-      release_time: 2025.05.09 23:45:08
-      title: 【某OTA网站】phantom-token 1004
-      url: https://blog.csdn.net/qq_40979337/article/details/147839447
-    - author: 櫬木汐
-      release_time: 2025.05.09 18:14:51
-      title: '[分享]app常见的libmsaoaidsec.so绕过姿势'
-      url: https://bbs.kanxue.com/thread-286784.htm
-    - author: 狗都不学爬虫_
-      release_time: 2025.05.09 11:44:37
-      title: 某音a_bogus（1.0.1.19） （补环境）
-      url: https://blog.csdn.net/qq_53444631/article/details/147816393
-    - author: 王辉辉的猫
-      release_time: 2025.05.08 18:05:10
-      title: 003.chromium编译进阶-禁用css动画和禁用canvas渲染
-      url: https://blog.csdn.net/w1101662433/article/details/147799654
-    - author: Nickname肖知寒
-      release_time: 2025.05.08 16:58:51
-      title: 美团直播 弹幕采集
-      url: https://blog.csdn.net/weixin_45307278/article/details/147797231
-    - author: Python成长路
-      release_time: 2025.05.08 13:24:09
-      title: 公众号采集监控的程序更新
-      url: https://blog.csdn.net/Qwertyuiop2016/article/details/147786245
+    - author: 红皮西瓜绿了心
+      release_time: 2025.05.12 18:29:17
+      title: TTShop x-bogus JSVMP 纯算
+      url: https://blog.csdn.net/m0_46265880/article/details/147900963
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
