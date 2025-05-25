@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: zzyzy
+      release_time: 2025.05.25 16:27:00
+      title: 某data网逆向和解混淆
+      url: https://www.52pojie.cn/thread-2034020-1-1.html
     - author: lenvy1
       release_time: 2025.05.25 02:54:00
       title: 记一次简单解析某免费影视站播放地址的全过程（适合小白练手）
@@ -363,10 +367,6 @@
       release_time: 2025.04.27 15:36:00
       title: AI与JSVMP的初次结合-深入浅出的逆向JSVMP
       url: https://www.52pojie.cn/thread-2027657-1-1.html
-    - author: wp00000008
-      release_time: 2025.04.27 01:50:00
-      title: 巨坑：frida 在vs code1.99.3 的终端中无法联网，请注意
-      url: https://www.52pojie.cn/thread-2027505-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
