@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 时一十一姐呀
+      release_time: 2025.05.25 22:33:43
+      title: js逆向-akamai_3.0之jsvmp-dvc参数8个插桩位置如何找
+      url: https://www.bilibili.com/video/BV1b1j3zuEpz
     - author: B站用户骚神
       release_time: 2025.05.25 20:13:36
       title: DrissionPageMCP+Ai 浏览器自动上传下载文件
@@ -117,10 +121,6 @@
       release_time: 2025.05.11 01:02:14
       title: 某美滑块验证码逆向
       url: https://www.bilibili.com/video/BV15R5Fz2Ea5
-    - author: 陈不不and挽风的逆向
-      release_time: 2025.05.07 19:34:56
-      title: 完美tls转发工具
-      url: https://www.bilibili.com/video/BV1pKVaz1EsX
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
