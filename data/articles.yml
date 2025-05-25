@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.05.25 20:13:36
+      title: DrissionPageMCP+Ai 浏览器自动上传下载文件
+      url: https://www.bilibili.com/video/BV1jDjGzRE74
     - author: 可乐还是百事好呀
       release_time: 2025.05.25 16:16:55
       title: “求推荐测试机！”，被问麻了，这次直接上架自用款，reqable + lsp环境配置
@@ -117,13 +121,13 @@
       release_time: 2025.05.07 19:34:56
       title: 完美tls转发工具
       url: https://www.bilibili.com/video/BV1pKVaz1EsX
-    - author: 小肩膀-逆向安全培训
-      release_time: 2025.05.07 17:46:01
-      title: 【零基础ai爬虫】deepseek自动写爬虫【包含课件和答疑】
-      url: https://www.bilibili.com/video/BV1xZVbzVECT
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小伍哥聊风控
+      release_time: 2025.05.25 20:21:43
+      title: 极大连通子图算法
+      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196901&idx=1&sn=5c03e783682e455c204575ef4a5405f1
     - author: 秃头的逆向痴想
       release_time: 2025.05.24 22:41:45
       title: DWARF 栈回溯 & xCrash 调包侠
@@ -240,10 +244,6 @@
       release_time: 2025.05.19 00:00:00
       title: 安卓逆向 -- 通用去广告大法
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038869&idx=1&sn=751f24ed352f8b0da47746d0351bff3e
-    - author: 菜鸟学Python编程
-      release_time: 2025.05.18 21:05:00
-      title: AST反混淆插件| if表达式或三目表达式的垃圾代码删除
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565942&idx=1&sn=97cd73a774ba6d709aa8422b7ff5ef7c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
