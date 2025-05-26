@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.05.27 00:00:00
+      title: 安卓逆向 -- CE动态调试APP应用
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039033&idx=1&sn=064c5606561cf54630e98043325facf1
     - author: 菜鸟学Python编程
       release_time: 2025.05.26 08:35:57
       title: AST反混淆插件| 浏览器全局对象参与计算反混淆系列插件(三)
@@ -240,10 +244,6 @@
       release_time: 2025.05.19 08:30:00
       title: 【密码学】基于编码的密码学学习笔记(五) 对偶码
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491688&idx=1&sn=92e9dc0ea87bd3179af7eb0118c71235
-    - author: 小伍哥聊风控
-      release_time: 2025.05.19 08:23:45
-      title: 数创金融杯【大模型应用】挑战赛，奖金38w
-      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196876&idx=1&sn=e779e2f8eb4717fbf77fca8c7fd7ff45
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
