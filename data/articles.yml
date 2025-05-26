@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 悦来客栈的老板
+      release_time: 2025.05.26 21:14:48
+      title: 字符串解密系列-旧版ob混淆的字符串解密及一键还原
+      url: https://www.bilibili.com/video/BV1rWjmzFEa2
     - author: 时一十一姐呀
       release_time: 2025.05.25 22:33:43
       title: js逆向-akamai_3.0之jsvmp-dvc参数8个插桩位置如何找
@@ -117,10 +121,6 @@
       release_time: 2025.05.11 10:41:43
       title: CLINE辅助重构功能移植开发r0mcp联合IDA调试
       url: https://www.bilibili.com/video/BV1TZETzaEbK
-    - author: 念初77
-      release_time: 2025.05.11 01:02:14
-      title: 某美滑块验证码逆向
-      url: https://www.bilibili.com/video/BV15R5Fz2Ea5
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
