@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.05.26 08:35:57
+      title: AST反混淆插件| 浏览器全局对象参与计算反混淆系列插件(三)
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565968&idx=1&sn=7c1fa0e8048b750a84d2100eae2dabfe
+    - author: LLLibra146
+      release_time: 2025.05.26 08:00:00
+      title: AST 技巧：模版(template)的高级用法
+      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486775&idx=1&sn=5000ec32b45960ece190d72b68dd2b76
     - author: 小伍哥聊风控
       release_time: 2025.05.25 20:21:43
       title: 极大连通子图算法
@@ -236,14 +244,6 @@
       release_time: 2025.05.19 08:23:45
       title: 数创金融杯【大模型应用】挑战赛，奖金38w
       url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196876&idx=1&sn=e779e2f8eb4717fbf77fca8c7fd7ff45
-    - author: LLLibra146
-      release_time: 2025.05.19 08:00:00
-      title: AST 使用技巧：如何快速分析混淆代码结构
-      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486674&idx=1&sn=2dd413afa3078c1864b5cf578aaee3c8
-    - author: 逆向有你
-      release_time: 2025.05.19 00:00:00
-      title: 安卓逆向 -- 通用去广告大法
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038869&idx=1&sn=751f24ed352f8b0da47746d0351bff3e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
