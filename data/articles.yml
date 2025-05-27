@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Coder小Q
+      release_time: 2025.05.27 08:30:00
+      title: 【密码学】基于编码的密码学学习笔记(七) McEliece 密码系统
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491700&idx=1&sn=191603b67e9b3ee523ee39b49e59b194
     - author: 逆向有你
       release_time: 2025.05.27 00:00:00
       title: 安卓逆向 -- CE动态调试APP应用
@@ -240,10 +244,6 @@
       release_time: 2025.05.19 09:02:00
       title: AST反混淆插件| 围绕逻辑表达式的垃圾代码删除
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565946&idx=1&sn=005f51c3fbe15f8d25a6aa6ea1745316
-    - author: Coder小Q
-      release_time: 2025.05.19 08:30:00
-      title: 【密码学】基于编码的密码学学习笔记(五) 对偶码
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491688&idx=1&sn=92e9dc0ea87bd3179af7eb0118c71235
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
