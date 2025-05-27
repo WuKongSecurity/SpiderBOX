@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2025.05.27 23:09:51
+      title: r0mcp增加函数名直接修改变量名变量类型减少50%API调用次数
+      url: https://www.bilibili.com/video/BV1RjjZzyEuB
     - author: 悦来客栈的老板
       release_time: 2025.05.26 21:14:48
       title: 字符串解密系列-旧版ob混淆的字符串解密及一键还原
@@ -117,10 +121,6 @@
       release_time: 2025.05.12 17:17:35
       title: 爬虫接单运营渠道试听-猿人学爬虫逆向课
       url: https://www.bilibili.com/video/BV1dvEjzME7P
-    - author: r0ysue
-      release_time: 2025.05.11 10:41:43
-      title: CLINE辅助重构功能移植开发r0mcp联合IDA调试
-      url: https://www.bilibili.com/video/BV1TZETzaEbK
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
