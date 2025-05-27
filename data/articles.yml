@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: q8917749
+      release_time: 2025.05.27 22:17:00
+      title: 某大厂waf逆向-- 用AST还原加强ob混淆壳
+      url: https://www.52pojie.cn/thread-2034613-1-1.html
     - author: zzyzy
       release_time: 2025.05.25 16:27:00
       title: 某data网逆向和解混淆
@@ -363,10 +367,6 @@
       release_time: 2025.04.28 22:44:00
       title: 图文级去广告教程（附带绿化版跳过广告软件）
       url: https://www.52pojie.cn/thread-2028018-1-1.html
-    - author: utf8
-      release_time: 2025.04.27 15:36:00
-      title: AI与JSVMP的初次结合-深入浅出的逆向JSVMP
-      url: https://www.52pojie.cn/thread-2027657-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
