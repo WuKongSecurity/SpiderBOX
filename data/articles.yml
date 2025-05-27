@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 猿人学Python
+      release_time: 2025.05.27 15:02:08
+      title: 猿人学第三届 JS 逆向&验证码破解比赛
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448549927&idx=1&sn=71abc63a0dc76292c048dd615c9270c2
     - author: 哆啦安全
       release_time: 2025.05.27 13:59:27
       title: APP渗透测试常见工具和方法
@@ -240,10 +244,6 @@
       release_time: 2025.05.20 00:00:00
       title: 2025PC逆向基础 -- 去除弹窗
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038900&idx=1&sn=b92b619bb02667e9f17a6231e1c7da00
-    - author: 哆啦安全
-      release_time: 2025.05.19 12:04:34
-      title: 车载系统破解工具和思路浅析
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498106&idx=1&sn=b600dbc67dc411044c8664bd5ce058f1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
