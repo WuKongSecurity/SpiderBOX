@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.05.27 13:59:27
+      title: APP渗透测试常见工具和方法
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498140&idx=1&sn=04d900654a9573b27bdc0d430d0bfeb6
     - author: Coder小Q
       release_time: 2025.05.27 08:30:00
       title: 【密码学】基于编码的密码学学习笔记(七) McEliece 密码系统
@@ -240,10 +244,6 @@
       release_time: 2025.05.19 12:04:34
       title: 车载系统破解工具和思路浅析
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498106&idx=1&sn=b600dbc67dc411044c8664bd5ce058f1
-    - author: 菜鸟学Python编程
-      release_time: 2025.05.19 09:02:00
-      title: AST反混淆插件| 围绕逻辑表达式的垃圾代码删除
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565946&idx=1&sn=005f51c3fbe15f8d25a6aa6ea1745316
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
