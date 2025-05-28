@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 和沐阳学逆向
+      release_time: 2025.05.28 20:02:45
+      title: 58.Linux安装IDAPro9.0
+      url: https://www.bilibili.com/video/BV1iGjqzoEZF
     - author: r0ysue
       release_time: 2025.05.27 23:09:51
       title: r0mcp增加函数名直接修改变量名变量类型减少50%API调用次数
@@ -117,10 +121,6 @@
       release_time: 2025.05.13 11:47:12
       title: 全新V3骚代理插件，适配最新浏览器(支持s5和账密)，一键生成DP代理动态切换代码
       url: https://www.bilibili.com/video/BV1pP7ozZEqH
-    - author: 猿人学Python
-      release_time: 2025.05.12 17:17:35
-      title: 爬虫接单运营渠道试听-猿人学爬虫逆向课
-      url: https://www.bilibili.com/video/BV1dvEjzME7P
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
