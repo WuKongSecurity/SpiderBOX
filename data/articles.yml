@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 理想真会玩
+      release_time: 2025.05.28 17:42:20
+      title: akamai3.0算法篇
+      url: https://mp.weixin.qq.com/s?__biz=MzIwODg1MjQ4OQ==&mid=2247485591&idx=1&sn=e2e19de8a46400369f605df2868eeb66
     - author: js android ios逆向
       release_time: 2025.05.28 16:25:00
       title: 某海外电商temu逆向分析
@@ -240,10 +244,6 @@
       release_time: 2025.05.21 08:00:00
       title: 如何在浏览器中使用 AST 实时反混淆？（附AST模版可直接使用）
       url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486762&idx=1&sn=75fb0876f53dccd07463ebebb7f50b07
-    - author: 逆向有你
-      release_time: 2025.05.21 00:00:00
-      title: 2025PC逆向 -- 跳过登陆界面及注册码界面
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038920&idx=1&sn=f27078150fc20dad57f752b057ea6d7d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
