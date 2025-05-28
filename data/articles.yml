@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.05.29 00:00:00
+      title: 安卓逆向 -- 使用frida完成某辞典永久会员过程
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039063&idx=1&sn=c8e8a36fda078a40c0efdc848c977ce7
     - author: 理想真会玩
       release_time: 2025.05.28 17:42:20
       title: akamai3.0算法篇
@@ -240,10 +244,6 @@
       release_time: 2025.05.21 08:44:30
       title: AI真的太强广了！能自动生成图书设计封面，附提示词与效果图
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484835&idx=1&sn=5b4af46bede273632c4bc3e5d9dcf0ad
-    - author: LLLibra146
-      release_time: 2025.05.21 08:00:00
-      title: 如何在浏览器中使用 AST 实时反混淆？（附AST模版可直接使用）
-      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486762&idx=1&sn=75fb0876f53dccd07463ebebb7f50b07
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
