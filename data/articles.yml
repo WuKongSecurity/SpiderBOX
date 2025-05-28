@@ -248,6 +248,10 @@
     term: 公众号
   - links:
     - author: q8917749
+      release_time: 2025.05.28 23:18:00
+      title: 某程token  jsvmp算法分析
+      url: https://www.52pojie.cn/thread-2034891-1-1.html
+    - author: q8917749
       release_time: 2025.05.27 22:17:00
       title: 某大厂waf逆向-- 用AST还原加强ob混淆壳
       url: https://www.52pojie.cn/thread-2034613-1-1.html
@@ -363,10 +367,6 @@
       release_time: 2025.04.29 09:27:00
       title: 关于AndroidKiller反编译报错、无法签名等问题解决方法
       url: https://www.52pojie.cn/thread-2028067-1-1.html
-    - author: anke1
-      release_time: 2025.04.28 22:44:00
-      title: 图文级去广告教程（附带绿化版跳过广告软件）
-      url: https://www.52pojie.cn/thread-2028018-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
