@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: LLLibra146
+      release_time: 2025.05.28 08:00:00
+      title: JS调试技巧：如何让时间和随机数“听你指挥”？升级版！
+      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486788&idx=1&sn=3732e7b7c76a18bec62fc23672b849e2
     - author: 逆向有你
       release_time: 2025.05.28 00:00:00
       title: godot 游戏提取aeskey
@@ -240,10 +244,6 @@
       release_time: 2025.05.20 11:49:38
       title: Frida源码分析公开课-frida-inject工作流程分析与代码调试试看
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484826&idx=1&sn=0f02493c40ec25a9fcbf434a8d8954f5
-    - author: 菜鸟学Python编程
-      release_time: 2025.05.20 09:00:00
-      title: AST反混淆插件| 删除一些执行后没有意义的节点
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565950&idx=1&sn=dcca2e737ba98191ae3be68df4ece890
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
