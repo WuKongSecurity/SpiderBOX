@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.05.28 14:10:39
+      title: HarmonyOS Next(鸿蒙Next)获取Root权限的解决方案
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498141&idx=1&sn=6db3e9de5b96f417b87940cfbc3e6ca7
     - author: LLLibra146
       release_time: 2025.05.28 08:00:00
       title: JS调试技巧：如何让时间和随机数“听你指挥”？升级版！
@@ -240,10 +244,6 @@
       release_time: 2025.05.20 12:03:32
       title: Cutter基于Rizin的图形化逆向工程框架
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498126&idx=1&sn=141c970b67dcb88143345889e953b13e
-    - author: 软件安全与逆向分析
-      release_time: 2025.05.20 11:49:38
-      title: Frida源码分析公开课-frida-inject工作流程分析与代码调试试看
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484826&idx=1&sn=0f02493c40ec25a9fcbf434a8d8954f5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
