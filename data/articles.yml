@@ -255,6 +255,10 @@
       release_time: 2025.05.29 20:56:00
       title: 保姆式解析某高质量听书网站音频地址全过程(适合小白练手)
       url: https://www.52pojie.cn/thread-2035137-1-1.html
+    - author: l2399007164
+      release_time: 2025.05.29 16:01:00
+      title: 记一次脱腾讯御安全的壳无意中的发现
+      url: https://www.52pojie.cn/thread-2035077-1-1.html
     - author: q8917749
       release_time: 2025.05.28 23:18:00
       title: 某程token  jsvmp算法分析
@@ -363,10 +367,6 @@
       release_time: 2025.05.03 10:45:00
       title: 使用AST技术自动扣代码的一些尝试
       url: https://www.52pojie.cn/thread-2028814-1-1.html
-    - author: zzyzy
-      release_time: 2025.05.01 12:48:00
-      title: 信息公示平台搜索滑块逆向
-      url: https://www.52pojie.cn/thread-2028581-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
