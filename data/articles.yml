@@ -251,6 +251,10 @@
       release_time: 2025.05.28 23:18:00
       title: 某程token  jsvmp算法分析
       url: https://www.52pojie.cn/thread-2034891-1-1.html
+    - author: OrionisLi
+      release_time: 2025.05.28 16:40:00
+      title: 关于新手的第一次对漫漫看的APP key的破解
+      url: https://www.52pojie.cn/thread-2034803-1-1.html
     - author: q8917749
       release_time: 2025.05.27 22:17:00
       title: 某大厂waf逆向-- 用AST还原加强ob混淆壳
@@ -363,10 +367,6 @@
       release_time: 2025.04.30 16:13:00
       title: 一木记账_APK内置数据-真正意义的免登录可离线使用可在线切换账号
       url: https://www.52pojie.cn/thread-2028436-1-1.html
-    - author: mdrv5bq
-      release_time: 2025.04.29 09:27:00
-      title: 关于AndroidKiller反编译报错、无法签名等问题解决方法
-      url: https://www.52pojie.cn/thread-2028067-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
