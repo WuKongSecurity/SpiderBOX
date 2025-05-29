@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Spade sec
+      release_time: 2025.05.29 23:16:38
+      title: PHP_webshell免杀-绕过主流引擎通杀方案
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486059&idx=1&sn=3705476c4651a2b9b4079fa3d91bfa01
     - author: js android ios逆向
       release_time: 2025.05.29 09:30:00
       title: 浅谈某短视频的sig4纯算思路
@@ -240,10 +244,6 @@
       release_time: 2025.05.21 09:00:00
       title: PHP_webshell免杀07-eval过长亭通杀方案
       url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486042&idx=1&sn=d2993bf03f28f05a9788417c8d93bb49
-    - author: 菜鸟学Python编程
-      release_time: 2025.05.21 09:00:00
-      title: AST反混淆插件| 变量定义与赋值语句无引用时的删除
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565954&idx=1&sn=3f78b5d90b150a97a5ad3a75078f5d31
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
