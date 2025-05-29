@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.05.29 16:45:11
+      title: 骚神插件9.7最新版-彻底搞定网页Xpath！！！
+      url: https://www.bilibili.com/video/BV1B77VzFEPd
     - author: 和沐阳学逆向
       release_time: 2025.05.28 20:02:45
       title: 58.Linux安装IDAPro9.0
@@ -117,10 +121,6 @@
       release_time: 2025.05.15 17:35:11
       title: socket代理配合浏览器
       url: https://www.bilibili.com/video/BV1WhECzdEjM
-    - author: B站用户骚神
-      release_time: 2025.05.13 11:47:12
-      title: 全新V3骚代理插件，适配最新浏览器(支持s5和账密)，一键生成DP代理动态切换代码
-      url: https://www.bilibili.com/video/BV1pP7ozZEqH
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
