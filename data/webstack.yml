@@ -1775,6 +1775,10 @@
           logo: kookeey.png
           url: https://www.kookeey.com/?aff=85299914
           description: 主营静态 ISP 代理、动态住宅代理、静态数据中心代理 3 大产品
+        - title: 922 S5proxy
+          logo: 922proxy.jpg
+          url: https://922proxy.com/login?utm-source=Amily&utm-keyword=?spiderbox
+          description: 纯净住宅 IP，仅需 $0.77/GB
 
 #        - title: WTFproxy
 #          logo: wtfproxy.png
@@ -2419,6 +2423,10 @@
           logo: m0_74794988.jpg
           url: https://blog.csdn.net/m0_74794988
           description: 香辣蟹好吃吗的 CSDN 主页
+        - title: 断点续行
+          logo: gh_b7ac0ec8d593.jpg
+          qrcode: images/qrcode/gh_b7ac0ec8d593.jpg
+          description: 公众号：断点续行
         - title: K哥爬虫
           logo: kgepachong.jpg
           qrcode: images/qrcode/kgepachong.jpg
@@ -2459,6 +2467,7 @@
           logo: XiaoWuGeRisk.jpg
           qrcode: images/qrcode/XiaoWuGeRisk.jpg
           description: 公众号：小伍哥聊风控
+
     - term: 视频博主
       links:
         - title: 信息网络吴律师
