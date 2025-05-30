@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.05.31 00:00:00
+      title: 安卓逆向 -- 某小说APP会员破解
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039103&idx=1&sn=5be7105bdb90fb93d886a5719310c43d
     - author: LLLibra146
       release_time: 2025.05.30 08:00:00
       title: 0基础1分钟解密任何HTTPS加密流量
@@ -240,10 +244,6 @@
       release_time: 2025.05.22 09:32:00
       title: “求推荐测试机！”被问麻了，这次直接上架我的自用款
       url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247486556&idx=1&sn=7317872e9c3da669e7aa62aede9b64c4
-    - author: 断点续行
-      release_time: 2025.05.22 00:06:34
-      title: 智识之眼：X鱼AI文字连线究极之路
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDgxNTAzNg==&mid=2247483726&idx=1&sn=ecb91448726dc09f7d6730e539348fbf
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
