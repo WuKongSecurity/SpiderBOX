@@ -390,6 +390,10 @@
       release_time: 2025.05.28 10:58:08
       title: Gerapy二次开发：在Ubuntu服务器中利用pyenv+supervisor实现项目部署
       url: https://blog.csdn.net/weixin_43845191/article/details/148278114
+    - author: 悦来客栈的老板
+      release_time: 2025.05.26 08:36:11
+      title: AST反混淆插件| 浏览器全局对象参与计算反混淆系列插件(三)
+      url: https://blog.csdn.net/qq523176585/article/details/148346214
     - author: 吃苹果的牛顿顿
       release_time: 2025.05.25 17:28:54
       title: 基于Deepseek视觉语言模型识别与训练九宫格验证码
@@ -486,10 +490,6 @@
       release_time: 2025.05.16 09:57:35
       title: cursor-我愿称之为程序员的福音
       url: https://blog.csdn.net/u010671061/article/details/147999872
-    - author: 移动安全星球
-      release_time: 2025.05.16 09:57:35
-      title: cursor-我愿称之为程序员的福音
-      url: https://mspsecurity.blog.csdn.net/article/details/147999872
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
