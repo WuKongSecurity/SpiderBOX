@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: nangongxt07
+      release_time: 2025.05.30 13:38:00
+      title: 表哥,你也不想你扣的算法和网页上的结果对比不一致吧
+      url: https://www.52pojie.cn/thread-2035300-1-1.html
     - author: hj170520
       release_time: 2025.05.29 22:09:00
       title: 某视频网站视频逆向（内容脱敏，学习思路）
@@ -363,10 +367,6 @@
       release_time: 2025.05.03 14:00:00
       title: 【JS逆向】某点数据登录逆向分析
       url: https://www.52pojie.cn/thread-2028837-1-1.html
-    - author: '1462326016'
-      release_time: 2025.05.03 10:45:00
-      title: 使用AST技术自动扣代码的一些尝试
-      url: https://www.52pojie.cn/thread-2028814-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
