@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: zzyzy
+      release_time: 2025.05.31 17:02:00
+      title: 某花顺登录滑块逆向
+      url: https://www.52pojie.cn/thread-2035508-1-1.html
     - author: nangongxt07
       release_time: 2025.05.30 13:38:00
       title: 表哥,你也不想你扣的算法和网页上的结果对比不一致吧
@@ -363,10 +367,6 @@
       release_time: 2025.05.03 23:35:00
       title: adb forward 不是随随便便的命令
       url: https://www.52pojie.cn/thread-2028901-1-1.html
-    - author: littlewhite11
-      release_time: 2025.05.03 14:00:00
-      title: 【JS逆向】某点数据登录逆向分析
-      url: https://www.52pojie.cn/thread-2028837-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
