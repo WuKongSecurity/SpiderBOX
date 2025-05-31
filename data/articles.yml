@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.05.31 11:00:45
+      title: iOS APP隐私合规检测的工具和方法
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498149&idx=1&sn=b0243c9fda9c961618e764a6419df00c
     - author: 逆向有你
       release_time: 2025.05.31 00:00:00
       title: 安卓逆向 -- 某小说APP会员破解
@@ -240,10 +244,6 @@
       release_time: 2025.05.22 17:14:42
       title: 途家app 补环境概述
       url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489691&idx=1&sn=b951cd550a553a70b17f3601213c6a5c
-    - author: 爬虫逆向小林哥
-      release_time: 2025.05.22 09:32:00
-      title: “求推荐测试机！”被问麻了，这次直接上架我的自用款
-      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247486556&idx=1&sn=7317872e9c3da669e7aa62aede9b64c4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
