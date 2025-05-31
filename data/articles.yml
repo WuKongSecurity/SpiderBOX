@@ -247,6 +247,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: nangongxt07
+      release_time: 2025.05.31 23:38:00
+      title: 表哥,你也不想碰上toString检测吧--toString检测,蜜罐陷阱
+      url: https://www.52pojie.cn/thread-2035568-1-1.html
+    - author: nangongxt07
+      release_time: 2025.05.31 20:55:00
+      title: 表哥,你也不想你扣的代码被格式化检测吧第二谈--正则匹配,格式化危机
+      url: https://www.52pojie.cn/thread-2035543-1-1.html
     - author: zzyzy
       release_time: 2025.05.31 17:02:00
       title: 某花顺登录滑块逆向
@@ -359,14 +367,6 @@
       release_time: 2025.05.05 23:13:00
       title: 去除HyperOS2对第三方应用安装系统应用的限制 论坛关于安卓系统的相关分析文章好少...
       url: https://www.52pojie.cn/thread-2029216-1-1.html
-    - author: Rytter
-      release_time: 2025.05.04 22:42:00
-      title: Android逆向学习（八）Xposed快速上手(上)
-      url: https://www.52pojie.cn/thread-2029038-1-1.html
-    - author: wp00000008
-      release_time: 2025.05.03 23:35:00
-      title: adb forward 不是随随便便的命令
-      url: https://www.52pojie.cn/thread-2028901-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
