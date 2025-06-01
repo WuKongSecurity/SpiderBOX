@@ -240,10 +240,6 @@
       release_time: 2025.05.23 00:00:00
       title: JS逆向 -- 记录一次某标准规范网的逆向分析
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039003&idx=1&sn=43a5ebf963900ed1c539fd77f56961bd
-    - author: 菜鸟学Python编程
-      release_time: 2025.05.22 20:43:54
-      title: AST反混淆插件| 浏览器全局对象参与计算反混淆系列插件(一)
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565958&idx=1&sn=509738d791bf2403965772d4a7e672f2
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
