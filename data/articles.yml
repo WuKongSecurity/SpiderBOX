@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 奋飞安全
+      release_time: 2025.06.03 09:58:02
+      title: 程序员跑路了，李老板要求把App换个图标和名称
+      url: https://mp.weixin.qq.com/s?__biz=MzI4NzMwNDI3OQ==&mid=2247484995&idx=1&sn=7f0d6bd4c85e57dc2af6a81dc9c6c73a
     - author: 哆啦安全
       release_time: 2025.06.03 08:57:07
       title: Android15+证书抓包问题(用户证书移系统后部分应用抓包失效)
@@ -136,10 +140,6 @@
       release_time: 2025.06.03 08:00:00
       title: JS调试技巧：避免控制台卡死的日志断点使用技巧
       url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486806&idx=1&sn=e0937f3dacc84a92c70ddbe4d160258a
-    - author: 微信运动
-      release_time: 2025.06.01 16:58:49
-      title: 这一次，与你分享运动的快乐
-      url: https://mp.weixin.qq.com/s?__biz=MzA3MTE4NzE5MQ==&mid=256732519&idx=1&sn=b082ea8ce0c7d09521672ee5dee794d8#rd
     - author: 哆啦安全
       release_time: 2025.05.31 11:00:45
       title: iOS APP隐私合规检测的工具和方法
