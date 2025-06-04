@@ -232,10 +232,6 @@
       release_time: 2025.05.24 22:41:45
       title: DWARF 栈回溯 & xCrash 调包侠
       url: https://mp.weixin.qq.com/s?__biz=MzIzNDE3NjI0MQ==&mid=2247484093&idx=1&sn=3a39c4456db6f7efaa1cfc75e395360b
-    - author: 哆啦安全
-      release_time: 2025.05.24 18:29:53
-      title: ARM架构Android12系统qcow2镜像制作方法
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498136&idx=1&sn=cab0f6b0038e160b257e07c752d94e52
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
