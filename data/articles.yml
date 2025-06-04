@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.06.04 15:39:22
+      title: 论黑客如何从bat到py到donut到ps1层层包裹木马，揭秘木马神秘运行流程
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142643&idx=1&sn=840e3b91a4919408d8bf3bed710cdfa3
     - author: 二进制磨剑
       release_time: 2025.06.04 08:30:00
       title: 硬件安全研究员震惊！STM32漏洞利用实现任意代码执行全过程曝光
@@ -232,10 +236,6 @@
       release_time: 2025.05.24 18:29:53
       title: ARM架构Android12系统qcow2镜像制作方法
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498136&idx=1&sn=cab0f6b0038e160b257e07c752d94e52
-    - author: 哆啦安全
-      release_time: 2025.05.24 18:29:53
-      title: Ubuntu25.10的两应用将全面换代
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498136&idx=2&sn=774fa85ad8d9bbf762447e065b537cc2
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
