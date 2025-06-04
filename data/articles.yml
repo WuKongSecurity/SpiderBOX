@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.06.05 00:00:00
+      title: JS逆向 -- 某壁纸网站逆向爬取
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039134&idx=1&sn=c8ecef0938ed52d47b6a0dedd449930c
     - author: 吾爱破解论坛
       release_time: 2025.06.04 15:39:22
       title: 论黑客如何从bat到py到donut到ps1层层包裹木马，揭秘木马神秘运行流程
