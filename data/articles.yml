@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: 2025.06.04 08:30:00
+      title: 硬件安全研究员震惊！STM32漏洞利用实现任意代码执行全过程曝光
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485584&idx=1&sn=6342934e6aa5ea24f539787d268c36ad
     - author: 奋飞安全
       release_time: 2025.06.03 09:58:02
       title: 程序员跑路了，李老板要求把App换个图标和名称
@@ -232,10 +236,6 @@
       release_time: 2025.05.24 18:29:53
       title: Ubuntu25.10的两应用将全面换代
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498136&idx=2&sn=774fa85ad8d9bbf762447e065b537cc2
-    - author: 断点续行
-      release_time: 2025.05.24 02:28:59
-      title: 智识之眼：X鱼乱帧文字究极之路 [二手贩子出品，必属精品]
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDgxNTAzNg==&mid=2247483747&idx=1&sn=dced6409e60bfd2a4cca48bcd8466584
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
