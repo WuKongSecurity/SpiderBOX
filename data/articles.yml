@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 断点续行
+      release_time: 2025.06.06 01:43:58
+      title: 智识之眼：推理验证码还能这么玩？
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDgxNTAzNg==&mid=2247483788&idx=1&sn=ef7ac23d633ebc26f04fb5084b4c391c
     - author: 平底锅煎蛋
       release_time: 2025.06.05 16:27:48
       title: unidbg补环境问题&算法关键点追踪
@@ -228,10 +232,6 @@
       release_time: 2025.05.27 13:59:27
       title: APP渗透测试常见工具和方法
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498140&idx=1&sn=04d900654a9573b27bdc0d430d0bfeb6
-    - author: Coder小Q
-      release_time: 2025.05.27 08:30:00
-      title: 【密码学】基于编码的密码学学习笔记(七) McEliece 密码系统
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491700&idx=1&sn=191603b67e9b3ee523ee39b49e59b194
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
