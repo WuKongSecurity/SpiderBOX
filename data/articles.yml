@@ -362,6 +362,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 东隐@nicegbp
+      release_time: 2025.06.05 19:58:25
+      title: 亚马逊无账号采集爬虫系统实战！
+      url: https://blog.csdn.net/weixin_73648943/article/details/148456682
     - author: 小白白
       release_time: 2025.06.03 00:39:21
       title: 解密并下载受DRM保护的MPD（DASH流媒体）加密视频
@@ -478,10 +482,6 @@
       release_time: 2025.05.17 22:51:00
       title: '[原创] 自實現Linker加載so-Android安全：续貂'
       url: https://bbs.kanxue.com/thread-286870.htm
-    - author: 红皮西瓜绿了心
-      release_time: 2025.05.17 11:46:40
-      title: Python XPath语法完全指南：从基础到高级应用
-      url: https://blog.csdn.net/m0_46265880/article/details/148026040
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
