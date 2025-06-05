@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 名字叫阿柒
+      release_time: 2025.06.05 11:00:27
+      title: macos 外接显示屏无信号解决方案
+      url: https://www.bilibili.com/video/BV1HgTszMEjA
+    - author: B站用户骚神
+      release_time: 2025.06.05 10:35:28
+      title: 花神插件-专为女性用户设计DrissionPage插件
+      url: https://www.bilibili.com/video/BV1j7TszYEjz
     - author: B站用户骚神
       release_time: 2025.05.29 16:45:11
       title: 骚神插件9.7最新版-彻底搞定网页Xpath！！！
@@ -113,17 +121,25 @@
       release_time: 2025.05.16 23:38:57
       title: 监听数据包-DrissionPage官方教程-p25
       url: https://www.bilibili.com/video/BV1dfEbzgE5z
-    - author: DrissionPage
-      release_time: 2025.05.16 20:35:29
-      title: 操作复选框-DrissionPage官方教程-p24
-      url: https://www.bilibili.com/video/BV1V7E4zhEHk
-    - author: 名字叫阿柒
-      release_time: 2025.05.15 17:35:11
-      title: socket代理配合浏览器
-      url: https://www.bilibili.com/video/BV1WhECzdEjM
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.06.05 10:24:00
+      title: 安卓逆向 -- 某Uniapp框架App hook方法
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039145&idx=1&sn=219f191ce5b2a06c61b56227303e46d8
+    - author: 哆啦安全
+      release_time: 2025.06.05 08:48:53
+      title: AI安全发展趋势(2025)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498163&idx=1&sn=74a81a1f79b44a0aef16a8a0e38f85c2
+    - author: 小伍哥聊风控
+      release_time: 2025.06.05 08:09:56
+      title: 自定义关系网络中节点图标
+      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196917&idx=1&sn=f44ff9920f553abcd305916111ebe32e
+    - author: LLLibra146
+      release_time: 2025.06.05 08:00:00
+      title: AST 技巧：压缩变量定义
+      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486822&idx=1&sn=d586892aae3118c6edb61eb9cd0a205b
     - author: 逆向有你
       release_time: 2025.06.05 00:00:00
       title: JS逆向 -- 某壁纸网站逆向爬取
@@ -220,22 +236,6 @@
       release_time: 2025.05.27 00:00:00
       title: 安卓逆向 -- CE动态调试APP应用
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039033&idx=1&sn=064c5606561cf54630e98043325facf1
-    - author: 菜鸟学Python编程
-      release_time: 2025.05.26 08:35:57
-      title: AST反混淆插件| 浏览器全局对象参与计算反混淆系列插件(三)
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565968&idx=1&sn=7c1fa0e8048b750a84d2100eae2dabfe
-    - author: LLLibra146
-      release_time: 2025.05.26 08:00:00
-      title: AST 技巧：模版(template)的高级用法
-      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486775&idx=1&sn=5000ec32b45960ece190d72b68dd2b76
-    - author: 小伍哥聊风控
-      release_time: 2025.05.25 20:21:43
-      title: 极大连通子图算法
-      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196901&idx=1&sn=5c03e783682e455c204575ef4a5405f1
-    - author: 秃头的逆向痴想
-      release_time: 2025.05.24 22:41:45
-      title: DWARF 栈回溯 & xCrash 调包侠
-      url: https://mp.weixin.qq.com/s?__biz=MzIzNDE3NjI0MQ==&mid=2247484093&idx=1&sn=3a39c4456db6f7efaa1cfc75e395360b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
