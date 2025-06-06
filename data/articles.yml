@@ -239,6 +239,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: anning666
+      release_time: 2025.06.06 09:18:00
+      title: 某狐首页登录密码逆向(小白新手进阶一点点)
+      url: https://www.52pojie.cn/thread-2036785-1-1.html
     - author: nangongxt07
       release_time: 2025.05.31 23:38:00
       title: 表哥,你也不想碰上toString检测吧--toString检测,蜜罐陷阱
@@ -355,10 +359,6 @@
       release_time: 2025.05.06 22:56:00
       title: 某日遊mmap模塊化保護簡單分析
       url: https://www.52pojie.cn/thread-2029498-1-1.html
-    - author: wuai920981023
-      release_time: 2025.05.05 23:13:00
-      title: 去除HyperOS2对第三方应用安装系统应用的限制 论坛关于安卓系统的相关分析文章好少...
-      url: https://www.52pojie.cn/thread-2029216-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
