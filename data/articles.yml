@@ -239,6 +239,10 @@
       release_time: 2025.06.07 16:44:00
       title: 超星某习通滑块验证登录逆向分析
       url: https://www.52pojie.cn/thread-2037138-1-1.html
+    - author: ZenoMiao
+      release_time: 2025.06.07 13:03:00
+      title: '[原创] 猿人学Web爬虫攻防第一题:js 混淆 - 源码乱码'
+      url: https://www.52pojie.cn/thread-2037096-1-1.html
     - author: anning666
       release_time: 2025.06.06 09:18:00
       title: 某狐首页登录密码逆向(小白新手进阶一点点)
@@ -351,10 +355,6 @@
       release_time: 2025.05.09 16:42:00
       title: vmp套vmp之探讨某d的_fingerprint参数生成
       url: https://www.52pojie.cn/thread-2030247-1-1.html
-    - author: syx594
-      release_time: 2025.05.08 19:45:00
-      title: 360手机浏览器-com.qihoo.browser_APK内置配置数据方法
-      url: https://www.52pojie.cn/thread-2030018-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
