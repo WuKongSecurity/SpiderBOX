@@ -2,6 +2,10 @@
   list:
   - links:
     - author: B站用户骚神
+      release_time: 2025.06.07 13:25:56
+      title: DrissionPage调试助手-专为DrissionPage设计的开发调试软件
+      url: https://www.bilibili.com/video/BV1YgTjzKETp
+    - author: B站用户骚神
       release_time: 2025.06.05 10:35:28
       title: 花神插件-专为女性用户设计DrissionPage插件
       url: https://www.bilibili.com/video/BV1j7TszYEjz
@@ -113,10 +117,6 @@
       release_time: 2025.05.17 10:47:58
       title: 通过线程池进行多开浏览器两种方法
       url: https://www.bilibili.com/video/BV11sEazcEve
-    - author: DrissionPage
-      release_time: 2025.05.16 23:38:57
-      title: 监听数据包-DrissionPage官方教程-p25
-      url: https://www.bilibili.com/video/BV1dfEbzgE5z
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
