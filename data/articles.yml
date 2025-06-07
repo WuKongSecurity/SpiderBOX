@@ -235,6 +235,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: buluo533
+      release_time: 2025.06.07 16:44:00
+      title: 超星某习通滑块验证登录逆向分析
+      url: https://www.52pojie.cn/thread-2037138-1-1.html
     - author: anning666
       release_time: 2025.06.06 09:18:00
       title: 某狐首页登录密码逆向(小白新手进阶一点点)
@@ -351,10 +355,6 @@
       release_time: 2025.05.08 19:45:00
       title: 360手机浏览器-com.qihoo.browser_APK内置配置数据方法
       url: https://www.52pojie.cn/thread-2030018-1-1.html
-    - author: ngiokweng
-      release_time: 2025.05.06 22:56:00
-      title: 某日遊mmap模塊化保護簡單分析
-      url: https://www.52pojie.cn/thread-2029498-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
