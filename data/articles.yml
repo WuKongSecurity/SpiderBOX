@@ -235,6 +235,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: anke1
+      release_time: 2025.06.08 17:37:00
+      title: 去除云注入之强制分享弹窗-算法助手分享
+      url: https://www.52pojie.cn/thread-2037313-1-1.html
     - author: flt
       release_time: 2025.06.08 11:18:00
       title: 某校图书馆预约系统分析
@@ -351,10 +355,6 @@
       release_time: 2025.05.11 14:29:00
       title: 安卓逆向入门笔记（七）—— ARM汇编和so层动态调试
       url: https://www.52pojie.cn/thread-2030597-1-1.html
-    - author: hj170520
-      release_time: 2025.05.11 05:04:00
-      title: 【js逆向】爱xx视频逆向分析
-      url: https://www.52pojie.cn/thread-2030526-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
