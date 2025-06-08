@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.06.08 22:22:11
+      title: 从零定制Android15：修改Build.prop与内核态绕过设备指纹检测
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498175&idx=1&sn=9f63d554e3edb626b2133fe2b7199a03
     - author: 菜鸟学Python编程
       release_time: 2025.06.08 10:44:01
       title: AST反混淆实战|手把手教你还原第三届猿人学比赛第二题混淆js(1)
@@ -224,10 +228,6 @@
       release_time: 2025.05.28 17:42:20
       title: akamai3.0算法篇
       url: https://mp.weixin.qq.com/s?__biz=MzIwODg1MjQ4OQ==&mid=2247485591&idx=1&sn=e2e19de8a46400369f605df2868eeb66
-    - author: js android ios逆向
-      release_time: 2025.05.28 16:25:00
-      title: 某海外电商temu逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0NzU3MjQzNA==&mid=2247485589&idx=1&sn=38794142f5e167f67ec172ce06aad048
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
