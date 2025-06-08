@@ -358,6 +358,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 琳宇
+      release_time: 2025.06.08 16:50:47
+      title: '[原创]指纹浏览器的编译与开发'
+      url: https://bbs.kanxue.com/thread-287151.htm
     - author: nothing233
       release_time: 2025.06.07 20:29:45
       title: '[原创]魔改chromium, 改变 cdp 中 console 的实现, 让 devtools 无法再通过 console 检测'
@@ -474,10 +478,6 @@
       release_time: 2025.05.26 08:36:11
       title: AST反混淆插件| 浏览器全局对象参与计算反混淆系列插件(三)
       url: https://blog.csdn.net/qq523176585/article/details/148346214
-    - author: 吃苹果的牛顿顿
-      release_time: 2025.05.25 17:28:54
-      title: 基于Deepseek视觉语言模型识别与训练九宫格验证码
-      url: https://blog.csdn.net/qq_29402011/article/details/148211087
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
