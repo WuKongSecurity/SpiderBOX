@@ -235,6 +235,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: flt
+      release_time: 2025.06.08 11:18:00
+      title: 某校图书馆预约系统分析
+      url: https://www.52pojie.cn/thread-2037247-1-1.html
     - author: buluo533
       release_time: 2025.06.07 16:44:00
       title: 超星某习通滑块验证登录逆向分析
@@ -351,10 +355,6 @@
       release_time: 2025.05.11 05:04:00
       title: 【js逆向】爱xx视频逆向分析
       url: https://www.52pojie.cn/thread-2030526-1-1.html
-    - author: utf8
-      release_time: 2025.05.09 16:42:00
-      title: vmp套vmp之探讨某d的_fingerprint参数生成
-      url: https://www.52pojie.cn/thread-2030247-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
