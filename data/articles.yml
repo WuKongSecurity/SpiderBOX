@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2025.06.10 00:31:23
+      title: 谷歌A2A协议和MCP的区别和误区
+      url: https://www.bilibili.com/video/BV1QYTBzfEsv
     - author: 小肩膀-逆向安全培训
       release_time: 2025.06.09 08:52:48
       title: 【ai编程】claude自动生成爬虫代码
@@ -113,13 +117,13 @@
       release_time: 2025.05.18 18:53:49
       title: 【安卓高级逆向】用模拟执行框架OLLVM 解决平坦流思路（二）
       url: https://www.bilibili.com/video/BV1aAJ3zUEvU
-    - author: r0ysue
-      release_time: 2025.05.17 21:12:20
-      title: 本地QwQ32B驱动r0mcp自动猜测修改局部变量名字
-      url: https://www.bilibili.com/video/BV1x1JNzdERY
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.06.10 00:00:00
+      title: 安卓逆向 -- 某漫画APP 去除强制更新
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039178&idx=1&sn=ace2af6cdcb4276eef04e3a4c94508a4
     - author: 菜鸟学Python编程
       release_time: 2025.06.09 20:23:28
       title: AST反混淆实战|手把手教你还原第三届猿人学比赛第二题混淆js(2)
