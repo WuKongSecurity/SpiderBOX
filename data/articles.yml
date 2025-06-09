@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 独步爬虫逆向
+      release_time: 2025.06.09 19:38:31
+      title: 猿人学比赛第三届第四题纯算法逆向
+      url: https://mp.weixin.qq.com/s?__biz=MzkzODYzNjg4OA==&mid=2247484319&idx=1&sn=43be74a14d68fd4417e09004e34cfb57
     - author: js android ios逆向
       release_time: 2025.06.09 19:30:52
       title: 字节系,ali系,ks,pdd最新抓包方案
