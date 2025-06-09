@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 小肩膀-逆向安全培训
+      release_time: 2025.06.09 08:52:48
+      title: 【ai编程】claude自动生成爬虫代码
+      url: https://www.bilibili.com/video/BV1yYT8zoEVB
     - author: B站用户骚神
       release_time: 2025.06.07 13:25:56
       title: DrissionPage调试助手-专为DrissionPage设计的开发调试软件
@@ -113,13 +117,13 @@
       release_time: 2025.05.17 21:12:20
       title: 本地QwQ32B驱动r0mcp自动猜测修改局部变量名字
       url: https://www.bilibili.com/video/BV1x1JNzdERY
-    - author: B站用户骚神
-      release_time: 2025.05.17 10:47:58
-      title: 通过线程池进行多开浏览器两种方法
-      url: https://www.bilibili.com/video/BV11sEazcEve
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 兔老大Android和iOS逆向
+      release_time: 2025.06.09 10:54:18
+      title: 【iOS逆向】iOS某大厂vmp参数还原
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzY5NjQxMg==&mid=2247484457&idx=1&sn=54740ea65f659f36dae93426aabb1bae
     - author: 哆啦安全
       release_time: 2025.06.08 22:22:11
       title: 从零定制Android15：修改Build.prop与内核态绕过设备指纹检测
@@ -220,14 +224,6 @@
       release_time: 2025.05.29 09:30:00
       title: 浅谈某短视频的sig4纯算思路
       url: https://mp.weixin.qq.com/s?__biz=Mzk0NzU3MjQzNA==&mid=2247485603&idx=1&sn=e20fc736b14344724d83cfa5bf9ce9c5
-    - author: 逆向有你
-      release_time: 2025.05.29 00:00:00
-      title: 安卓逆向 -- 使用frida完成某辞典永久会员过程
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039063&idx=1&sn=c8e8a36fda078a40c0efdc848c977ce7
-    - author: 理想真会玩
-      release_time: 2025.05.28 17:42:20
-      title: akamai3.0算法篇
-      url: https://mp.weixin.qq.com/s?__biz=MzIwODg1MjQ4OQ==&mid=2247485591&idx=1&sn=e2e19de8a46400369f605df2868eeb66
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -354,6 +350,14 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 差不多的张三
+      release_time: 2025.06.09 11:13:58
+      title: '[原创]【银行逆向百例】08小程序逆向之JsRpc+Yakit hijackSaveHTTPFlow热加载实现明文流量显示'
+      url: https://bbs.kanxue.com/thread-287164.htm
+    - author: 大肌肉兔
+      release_time: 2025.06.09 10:56:10
+      title: '[原创]iOS某大厂vmp参数还原'
+      url: https://bbs.kanxue.com/thread-287163.htm
     - author: calleng
       release_time: 2025.06.09 05:26:43
       title: '[原创][原创动画]结合案例讲解新版AS的Structure的用法'
@@ -466,14 +470,6 @@
       release_time: 2025.05.29 09:09:02
       title: Django项目部署（Ubuntu系统通过pyenv创建不同版本的python环境）
       url: https://blog.csdn.net/qq_49268524/article/details/148298345
-    - author: 小爬菜
-      release_time: 2025.05.29 08:55:02
-      title: Ubuntu系统如何部署Crawlab爬虫管理平台（通过docker部署）
-      url: https://blog.csdn.net/qq_49268524/article/details/148296013
-    - author: 井蛙不可语于海
-      release_time: 2025.05.28 18:25:51
-      title: 瑞数6代jsvmp简单分析（天津电子税x局）
-      url: https://blog.csdn.net/qq_39802740/article/details/148288166
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
