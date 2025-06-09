@@ -231,6 +231,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: dandelion2sunny
+      release_time: 2025.06.08 23:06:00
+      title: 猿人学第三届js逆向&验证码比赛第一题纯算思路
+      url: https://www.52pojie.cn/thread-2037361-1-1.html
     - author: anke1
       release_time: 2025.06.08 17:37:00
       title: 去除云注入之强制分享弹窗-算法助手分享
@@ -347,13 +351,13 @@
       release_time: 2025.05.12 11:45:00
       title: Android逆向学习（九） Xposed快速上手（下）
       url: https://www.52pojie.cn/thread-2030782-1-1.html
-    - author: sigewangdaiduie
-      release_time: 2025.05.11 14:29:00
-      title: 安卓逆向入门笔记（七）—— ARM汇编和so层动态调试
-      url: https://www.52pojie.cn/thread-2030597-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: calleng
+      release_time: 2025.06.09 05:26:43
+      title: '[原创][原创动画]结合案例讲解新版AS的Structure的用法'
+      url: https://bbs.kanxue.com/thread-287159.htm
     - author: 琳宇
       release_time: 2025.06.08 16:50:47
       title: '[原创]指纹浏览器的编译与开发'
@@ -470,10 +474,6 @@
       release_time: 2025.05.28 18:25:51
       title: 瑞数6代jsvmp简单分析（天津电子税x局）
       url: https://blog.csdn.net/qq_39802740/article/details/148288166
-    - author: 九月镇灵将
-      release_time: 2025.05.28 10:58:08
-      title: Gerapy二次开发：在Ubuntu服务器中利用pyenv+supervisor实现项目部署
-      url: https://blog.csdn.net/weixin_43845191/article/details/148278114
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
