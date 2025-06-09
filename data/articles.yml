@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.06.09 20:23:28
+      title: AST反混淆实战|手把手教你还原第三届猿人学比赛第二题混淆js(2)
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565985&idx=1&sn=1d945433294fdec870a974d9d00d1729
     - author: 独步爬虫逆向
       release_time: 2025.06.09 19:38:31
       title: 猿人学比赛第三届第四题纯算法逆向
@@ -220,10 +224,6 @@
       release_time: 2025.05.30 00:00:00
       title: PC逆向 -- 注册码校验分析
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039083&idx=1&sn=62ca40d795c94fc4e17e4a67848985ab
-    - author: Spade sec
-      release_time: 2025.05.29 23:16:38
-      title: PHP_webshell免杀-绕过主流引擎通杀方案
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486059&idx=1&sn=3705476c4651a2b9b4079fa3d91bfa01
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
