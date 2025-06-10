@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.06.10 17:37:37
+      title: 花神插件1.2
+      url: https://www.bilibili.com/video/BV1TTTkzPExN
     - author: 小肩膀-逆向安全培训
       release_time: 2025.06.10 16:48:51
       title: 【ai编程】claude自动生成爬虫代码2
@@ -113,10 +117,6 @@
       release_time: 2025.05.18 20:07:41
       title: ida9.1 pro 安装教程
       url: https://www.bilibili.com/video/BV1GmJVz4Ej4
-    - author: Alone逆向安全
-      release_time: 2025.05.18 19:27:00
-      title: 【安卓逆向】给模拟执行框架写一个控制台断点 识别算法特征
-      url: https://www.bilibili.com/video/BV1LCJVzFEEc
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
