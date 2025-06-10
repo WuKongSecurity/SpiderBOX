@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.06.10 22:14:18
+      title: Root检测对抗指南:魔改su命令实现静默安装与权限隐藏
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498180&idx=1&sn=f9aab268a2ec37c8827ffeef51aee31e
     - author: 小伍哥聊风控
       release_time: 2025.06.10 08:37:00
       title: 130篇文章汇总：风控策略挖掘、复杂网络、异常检测，风控求职、内容风控、大模型等
@@ -223,6 +227,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: lichao890427
+      release_time: 2025.06.10 21:42:00
+      title: Ollvm整合到XCode中的几种方法
+      url: https://www.52pojie.cn/thread-2037867-1-1.html
     - author: ZenoMiao
       release_time: 2025.06.10 17:34:00
       title: '[原创]Scrape spa14 wasm加密过程分析'
@@ -339,10 +347,6 @@
       release_time: 2025.05.14 19:54:00
       title: 《某游快爆》APP sign值逆向
       url: https://www.52pojie.cn/thread-2031450-1-1.html
-    - author: Rytter
-      release_time: 2025.05.14 15:09:00
-      title: Android逆向学习（十） IDA逆向编辑Android so文件
-      url: https://www.52pojie.cn/thread-2031349-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
