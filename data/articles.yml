@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 小肩膀-逆向安全培训
+      release_time: 2025.06.10 16:48:51
+      title: 【ai编程】claude自动生成爬虫代码2
+      url: https://www.bilibili.com/video/BV1GfTrzzEh5
     - author: r0ysue
       release_time: 2025.06.10 00:31:23
       title: 谷歌A2A协议和MCP的区别和误区
@@ -113,10 +117,6 @@
       release_time: 2025.05.18 19:27:00
       title: 【安卓逆向】给模拟执行框架写一个控制台断点 识别算法特征
       url: https://www.bilibili.com/video/BV1LCJVzFEEc
-    - author: Alone逆向安全
-      release_time: 2025.05.18 18:53:49
-      title: 【安卓高级逆向】用模拟执行框架OLLVM 解决平坦流思路（二）
-      url: https://www.bilibili.com/video/BV1aAJ3zUEvU
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
