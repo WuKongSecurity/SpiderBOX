@@ -120,6 +120,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小伍哥聊风控
+      release_time: 2025.06.10 08:37:00
+      title: 130篇文章汇总：风控策略挖掘、复杂网络、异常检测，风控求职、内容风控、大模型等
+      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196922&idx=1&sn=0151f982b7f34df6af23cc3a990e93a3
+    - author: LLLibra146
+      release_time: 2025.06.10 08:00:00
+      title: AST 技巧：还原逗号表达式
+      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486838&idx=1&sn=b9750265697942d130d95fcc27663b59
     - author: 逆向有你
       release_time: 2025.06.10 00:00:00
       title: 安卓逆向 -- 某漫画APP 去除强制更新
@@ -216,10 +224,6 @@
       release_time: 2025.05.31 11:00:45
       title: iOS APP隐私合规检测的工具和方法
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498149&idx=1&sn=b0243c9fda9c961618e764a6419df00c
-    - author: 逆向有你
-      release_time: 2025.05.31 00:00:00
-      title: 安卓逆向 -- 某小说APP会员破解
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039103&idx=1&sn=5be7105bdb90fb93d886a5719310c43d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
