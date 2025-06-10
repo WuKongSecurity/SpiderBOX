@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.06.11 00:00:00
+      title: PC逆向 -- 尝试破解实战-第一战经验分享
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039212&idx=1&sn=45f98a9a56a32503db0d6fb8783400b8
     - author: 哆啦安全
       release_time: 2025.06.10 22:14:18
       title: Root检测对抗指南:魔改su命令实现静默安装与权限隐藏
@@ -227,6 +231,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: ZenoMiao
+      release_time: 2025.06.10 21:51:00
+      title: '[原创] 网洛者 JJEncode加密 - 初体验 逆向分析'
+      url: https://www.52pojie.cn/thread-2037870-1-1.html
     - author: lichao890427
       release_time: 2025.06.10 21:42:00
       title: Ollvm整合到XCode中的几种方法
@@ -343,10 +351,6 @@
       release_time: 2025.05.14 20:51:00
       title: 音频网站逆向如何进行捞偏门
       url: https://www.52pojie.cn/thread-2031462-1-1.html
-    - author: sky9464
-      release_time: 2025.05.14 19:54:00
-      title: 《某游快爆》APP sign值逆向
-      url: https://www.52pojie.cn/thread-2031450-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
