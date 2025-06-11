@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 布鲁的Python之旅
+      release_time: 2025.06.11 11:23:39
+      title: Python爬虫管理系统1.4版本，及其下一个分布式版本计划进度
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486041&idx=1&sn=dd55d3fb2b6bd7493ef720eab8d466ef
     - author: 逆向有你
       release_time: 2025.06.11 00:00:00
       title: PC逆向 -- 尝试破解实战-第一战经验分享
