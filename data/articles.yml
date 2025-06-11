@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 影17
+      release_time: 2025.06.11 14:13:07
+      title: 某药web长后缀type__1241加密分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489741&idx=1&sn=3cc27adb45a7871f9fbded2525cddef4
     - author: 布鲁的Python之旅
       release_time: 2025.06.11 11:23:39
       title: Python爬虫管理系统1.4版本，及其下一个分布式版本计划进度
