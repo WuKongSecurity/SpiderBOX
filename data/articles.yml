@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.06.12 00:00:00
+      title: 安卓逆向 -- 某短视频33.x.0过boringssl检测抓包方案
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039225&idx=1&sn=989d6ce810e47fad9bf9638087c346c5
     - author: 影17
       release_time: 2025.06.11 14:13:07
       title: 某药web长后缀type__1241加密分析
@@ -228,10 +232,6 @@
       release_time: 2025.06.03 08:57:07
       title: Android15+证书抓包问题(用户证书移系统后部分应用抓包失效)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498158&idx=1&sn=a7d71c678022fe035f19fa8693b2b135
-    - author: Coder小Q
-      release_time: 2025.06.03 08:30:00
-      title: 【密码学】基于编码的密码学学习笔记(八) 线性码的距离
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491715&idx=1&sn=6c11925546e842baafc5bad5432453b4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
