@@ -240,6 +240,10 @@
     term: 公众号
   - links:
     - author: ZenoMiao
+      release_time: 2025.06.11 12:26:00
+      title: '[原创] 网洛者 AAEncode加密 - 初体验 逆向分析'
+      url: https://www.52pojie.cn/thread-2038005-1-1.html
+    - author: ZenoMiao
       release_time: 2025.06.10 21:51:00
       title: '[原创] 网洛者 JJEncode加密 - 初体验 逆向分析'
       url: https://www.52pojie.cn/thread-2037870-1-1.html
@@ -355,10 +359,6 @@
       release_time: 2025.05.15 20:20:00
       title: Tk-验证码hashcash之answer参数详解
       url: https://www.52pojie.cn/thread-2031712-1-1.html
-    - author: 板砖亲你头
-      release_time: 2025.05.14 20:51:00
-      title: 音频网站逆向如何进行捞偏门
-      url: https://www.52pojie.cn/thread-2031462-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
