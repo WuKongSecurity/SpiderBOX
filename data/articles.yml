@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 小肩膀-逆向安全培训
+      release_time: 2025.06.12 21:36:21
+      title: 【ai编程】claude自动生成爬虫代码3
+      url: https://www.bilibili.com/video/BV1gvMczoEZB
     - author: B站用户骚神
       release_time: 2025.06.12 15:02:15
       title: 骚神插件9.7.2-新增4大逆向功能【破解反调试】【破解加密json】【监听websocket】【模拟手机】
@@ -113,10 +117,6 @@
       release_time: 2025.05.19 15:53:42
       title: AST反混淆实战系列-条件表达式的简化
       url: https://www.bilibili.com/video/BV1tLEXzZEVJ
-    - author: DrissionPage
-      release_time: 2025.05.18 21:53:14
-      title: 并发多开标签页-DrissionPage官方教程-p26
-      url: https://www.bilibili.com/video/BV1kyJGzzEAS
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
