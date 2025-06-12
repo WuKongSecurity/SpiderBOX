@@ -228,10 +228,6 @@
       release_time: 2025.06.03 09:58:02
       title: 程序员跑路了，李老板要求把App换个图标和名称
       url: https://mp.weixin.qq.com/s?__biz=MzI4NzMwNDI3OQ==&mid=2247484995&idx=1&sn=7f0d6bd4c85e57dc2af6a81dc9c6c73a
-    - author: 哆啦安全
-      release_time: 2025.06.03 08:57:07
-      title: Android15+证书抓包问题(用户证书移系统后部分应用抓包失效)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498158&idx=1&sn=a7d71c678022fe035f19fa8693b2b135
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
