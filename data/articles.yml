@@ -2,6 +2,10 @@
   list:
   - links:
     - author: B站用户骚神
+      release_time: 2025.06.12 15:02:15
+      title: 骚神插件9.7.2-新增4大逆向功能【破解反调试】【破解加密json】【监听websocket】【模拟手机】
+      url: https://www.bilibili.com/video/BV14qTfzmEf5
+    - author: B站用户骚神
       release_time: 2025.06.10 17:37:37
       title: 花神插件1.2
       url: https://www.bilibili.com/video/BV1TTTkzPExN
@@ -113,13 +117,13 @@
       release_time: 2025.05.18 21:53:14
       title: 并发多开标签页-DrissionPage官方教程-p26
       url: https://www.bilibili.com/video/BV1kyJGzzEAS
-    - author: Alone逆向安全
-      release_time: 2025.05.18 20:07:41
-      title: ida9.1 pro 安装教程
-      url: https://www.bilibili.com/video/BV1GmJVz4Ej4
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 编角料
+      release_time: 2025.06.12 15:08:13
+      title: 【杂谈】毕业时节谈谈我在IT行业的几年感悟
+      url: https://mp.weixin.qq.com/s?__biz=MzU0MjUwMTA2OQ==&mid=2247486823&idx=1&sn=dfc1557f82aa6583fc0aec780836996b
     - author: 逆向有你
       release_time: 2025.06.12 00:00:00
       title: 安卓逆向 -- 某短视频33.x.0过boringssl检测抓包方案
@@ -224,10 +228,6 @@
       release_time: 2025.06.04 08:30:00
       title: 硬件安全研究员震惊！STM32漏洞利用实现任意代码执行全过程曝光
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485584&idx=1&sn=6342934e6aa5ea24f539787d268c36ad
-    - author: 奋飞安全
-      release_time: 2025.06.03 09:58:02
-      title: 程序员跑路了，李老板要求把App换个图标和名称
-      url: https://mp.weixin.qq.com/s?__biz=MzI4NzMwNDI3OQ==&mid=2247484995&idx=1&sn=7f0d6bd4c85e57dc2af6a81dc9c6c73a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
