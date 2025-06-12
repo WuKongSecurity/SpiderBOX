@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.06.13 00:00:00
+      title: PC逆向 -- 一次简单破解登录卡密软件
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039250&idx=1&sn=ac23ff7b30b82f4172bfe694beae01bc
     - author: 编角料
       release_time: 2025.06.12 15:08:13
       title: 【杂谈】毕业时节谈谈我在IT行业的几年感悟
