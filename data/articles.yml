@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 爬虫逆向小林哥
+      release_time: 2025.06.13 17:15:20
+      title: 你不知道的某音、某书Schema跳转协议
+      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247486582&idx=1&sn=01c1bb5a2d143d489682454bf6c61d93
     - author: 逆向有你
       release_time: 2025.06.13 00:00:00
       title: PC逆向 -- 一次简单破解登录卡密软件
@@ -228,10 +232,6 @@
       release_time: 2025.06.04 15:39:22
       title: 论黑客如何从bat到py到donut到ps1层层包裹木马，揭秘木马神秘运行流程
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142643&idx=1&sn=840e3b91a4919408d8bf3bed710cdfa3
-    - author: 二进制磨剑
-      release_time: 2025.06.04 08:30:00
-      title: 硬件安全研究员震惊！STM32漏洞利用实现任意代码执行全过程曝光
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485584&idx=1&sn=6342934e6aa5ea24f539787d268c36ad
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
