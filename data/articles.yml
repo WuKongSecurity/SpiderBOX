@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: coderwhy
+      release_time: 2025.06.13 19:00:00
+      title: 为什么我认为你"应该"留在编程领域，但不是"必须"
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247489024&idx=1&sn=c8da27a5516a58a7d9b69d4e6b475dea
     - author: 哆啦安全
       release_time: 2025.06.13 17:39:10
       title: 鸿蒙(HarmonyOS)应用的安全测试方法
