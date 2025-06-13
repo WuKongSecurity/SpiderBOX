@@ -236,6 +236,10 @@
     term: 公众号
   - links:
     - author: ZenoMiao
+      release_time: 2025.06.13 15:04:00
+      title: '[原创] 猿人学 学员14题 js_fuck 逆向分析'
+      url: https://www.52pojie.cn/thread-2038595-1-1.html
+    - author: ZenoMiao
       release_time: 2025.06.11 12:26:00
       title: '[原创] 网洛者 AAEncode加密 - 初体验 逆向分析'
       url: https://www.52pojie.cn/thread-2038005-1-1.html
@@ -351,10 +355,6 @@
       release_time: 2025.05.20 17:12:00
       title: 某投资网站登录密码逆向(适合小白新手)
       url: https://www.52pojie.cn/thread-2032824-1-1.html
-    - author: li083m
-      release_time: 2025.05.15 20:20:00
-      title: Tk-验证码hashcash之answer参数详解
-      url: https://www.52pojie.cn/thread-2031712-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
