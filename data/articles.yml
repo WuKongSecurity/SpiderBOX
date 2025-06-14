@@ -362,6 +362,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: r0ysue_
+      release_time: 2025.06.14 19:56:38
+      title: 03.利用显卡内核模块等特性为算法提速百倍
+      url: https://blog.csdn.net/u010559109/article/details/148657384
     - author: 逆向新手
       release_time: 2025.06.14 13:59:09
       title: js逆向-一个有趣的网站
@@ -478,10 +482,6 @@
       release_time: 2025.06.03 00:39:21
       title: 解密并下载受DRM保护的MPD（DASH流媒体）加密视频
       url: https://blog.csdn.net/u014643814/article/details/148389375
-    - author: dDostalker
-      release_time: 2025.06.02 11:29:45
-      title: '[原创]rust编译平台常见攻击利用方法'
-      url: https://bbs.kanxue.com/thread-287056.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
