@@ -235,6 +235,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: zzyzy
+      release_time: 2025.06.15 14:32:00
+      title: v5滑块验证逆向
+      url: https://www.52pojie.cn/thread-2038972-1-1.html
+    - author: buluo533
+      release_time: 2025.06.15 14:07:00
+      title: 某香医生sign值参数逆向分析
+      url: https://www.52pojie.cn/thread-2038968-1-1.html
     - author: ZenoMiao
       release_time: 2025.06.13 15:04:00
       title: '[原创] 猿人学 学员14题 js_fuck 逆向分析'
@@ -347,14 +355,6 @@
       release_time: 2025.05.23 21:08:00
       title: 篡改猴脚本“获取网盘直链”劫持京东商品详情页分析
       url: https://www.52pojie.cn/thread-2033695-1-1.html
-    - author: Aircraftcomman5
-      release_time: 2025.05.23 17:45:00
-      title: 某车辆对比信息X-sign-----------小白讲解10
-      url: https://www.52pojie.cn/thread-2033662-1-1.html
-    - author: hhyyqq
-      release_time: 2025.05.23 17:19:00
-      title: 算法助手模块激活教程
-      url: https://www.52pojie.cn/thread-2033653-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
