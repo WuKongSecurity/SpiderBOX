@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 布鲁的Python之旅
+      release_time: 2025.06.15 21:55:22
+      title: 【Python数分实战】数据可视化百度地图迁徙变化
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486060&idx=1&sn=785ca6ba3fb411ef0fadfce4d4891816
     - author: 菜鸟学Python编程
       release_time: 2025.06.15 21:21:55
       title: AST反混淆实战|手把手教你还原第三届猿人学比赛第二题混淆js(3)
@@ -228,10 +232,6 @@
       release_time: 2025.06.05 10:24:00
       title: 安卓逆向 -- 某Uniapp框架App hook方法
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039145&idx=1&sn=219f191ce5b2a06c61b56227303e46d8
-    - author: 哆啦安全
-      release_time: 2025.06.05 08:48:53
-      title: AI安全发展趋势(2025)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498163&idx=1&sn=74a81a1f79b44a0aef16a8a0e38f85c2
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
