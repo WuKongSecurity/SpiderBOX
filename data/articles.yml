@@ -362,6 +362,10 @@
       release_time: 2025.06.16 00:30:38
       title: 猿人学js逆向比赛第一届第四题
       url: https://blog.csdn.net/m0_62945506/article/details/148678828
+    - author: 悦来客栈的老板
+      release_time: 2025.06.15 21:22:13
+      title: AST反混淆实战|手把手教你还原第三届猿人学比赛第二题混淆js(3)
+      url: https://blog.csdn.net/qq523176585/article/details/148680837
     - author: ~贝母~
       release_time: 2025.06.15 19:54:50
       title: 猿人学js逆向比赛第一届第三题
@@ -474,10 +478,6 @@
       release_time: 2025.06.03 11:29:45
       title: '[转帖]【银行逆向百例】03小程序逆向之微信开发者工具反编译修复app.json'
       url: https://bbs.kanxue.com/thread-287063.htm
-    - author: 差不多的张三
-      release_time: 2025.06.03 11:29:45
-      title: '[转帖]【银行逆向百例】04小程序逆向之腾讯VMP加固静态分析+Yakit Codec模块编写'
-      url: https://bbs.kanxue.com/thread-287064.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
