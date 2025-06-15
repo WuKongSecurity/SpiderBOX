@@ -358,6 +358,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: ~贝母~
+      release_time: 2025.06.15 15:39:51
+      title: 猿人学js逆向比赛第一届第一题
+      url: https://blog.csdn.net/m0_62945506/article/details/148670975
     - author: 吴秋霖
       release_time: 2025.06.15 08:30:00
       title: 某网站极验4滑块验证码逆向分析
@@ -474,10 +478,6 @@
       release_time: 2025.06.03 11:29:45
       title: '[原创]【银行逆向百例】07小程序逆向之微信开发者工具反编译修复分包内容缺失+登录失败openid替换'
       url: https://bbs.kanxue.com/thread-287069.htm
-    - author: wx_小友
-      release_time: 2025.06.03 11:29:43
-      title: '[原创] libmsaoaidsec.so 过检测'
-      url: https://bbs.kanxue.com/thread-287058.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
