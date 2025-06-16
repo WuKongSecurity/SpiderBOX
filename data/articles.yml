@@ -2,6 +2,10 @@
   list:
   - links:
     - author: r0ysue
+      release_time: 2025.06.16 21:24:33
+      title: 谷歌A2A的AgentExecutor实现了技师的实际业务从挑选技师到上钟服务一条龙
+      url: https://www.bilibili.com/video/BV1jDNbzzE4h
+    - author: r0ysue
       release_time: 2025.06.13 01:18:41
       title: 谷歌A2A协议的AgentSkill就类似技师技能描述，办卡还能解锁extended_skill
       url: https://www.bilibili.com/video/BV1gyMNzTERK
@@ -113,10 +117,6 @@
       release_time: 2025.05.20 08:28:29
       title: AI+MCP自动控制浏览器 爬取电商网站信息，全程没写一句代码
       url: https://www.bilibili.com/video/BV1hkJFzpE99
-    - author: DrissionPage
-      release_time: 2025.05.19 16:49:00
-      title: 并发多开浏览器-DrissionPage官方教程-p27
-      url: https://www.bilibili.com/video/BV1kyJGzzEA7
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -228,10 +228,6 @@
       release_time: 2025.06.06 08:52:01
       title: Android APP隐私合规检测的工具和方法
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498169&idx=1&sn=178caba04379e4982c592f005d99bd0e
-    - author: 断点续行
-      release_time: 2025.06.06 01:43:58
-      title: 智识之眼：推理验证码还能这么玩？
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDgxNTAzNg==&mid=2247483788&idx=1&sn=ef7ac23d633ebc26f04fb5084b4c391c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
