@@ -397,7 +397,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
     lastPopupTime = new Date(lastPopupTime).getTime();
     const currentTime = new Date().getTime();
     const timeDifferenceInDays = Math.floor((currentTime - lastPopupTime) / (1000 * 60 * 60 * 24));
-    if (!lastPopupTime || timeDifferenceInDays >= 15) {  // 15 天内不再弹窗
+    if (!lastPopupTime || timeDifferenceInDays >= 30) {  // 30 天内不再弹窗
         alertify.confirm(
             "欢迎访问虫盒",
             "1️⃣ 站长公众号：<a href='https://static.spiderapi.cn/public/images/info/spider_skill_green.png' target='_blank'>虫技</a>丨<a href='https://www.itbob.cn/about/' target='_blank'>关于站长</a>丨<a href='https://spiderapi.cn/pages/changelog' target='_blank'>更新日志</a>丨<a href='https://bbs.wukongsec.com/' target='_blank'>在线反馈/交流/联系</a><br><br>" +
@@ -406,7 +406,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
             function () {},
             function () {
                 localStorage.setItem("_SPIDERBOX_SHOW_START_POPUP_", new Date().toISOString());
-                alertify.success('15 天内不再弹出');
+                alertify.success('30 天内不再弹出');
             }).set({
             labels: {ok: '俺知道了', cancel: '烦死了，近期不再弹出!'},
             'movable': false,
