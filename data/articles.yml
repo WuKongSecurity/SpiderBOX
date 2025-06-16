@@ -120,10 +120,6 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
-    - author: 布鲁的Python之旅
-      release_time: 2025.06.16 11:00:00
-      title: 团队准备解散了！
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486047&idx=1&sn=4f5ae5b1c60587570a99ccfa86896fb4
     - author: Coder小Q
       release_time: 2025.06.16 08:30:00
       title: 【密码学】基于编码的密码学学习笔记(九) 完美码(Perfect Code)
@@ -235,6 +231,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: xiaoc996
+      release_time: 2025.06.15 17:00:00
+      title: Android—Warlock设备指纹&安全检测开源
+      url: https://www.52pojie.cn/thread-2039003-1-1.html
     - author: zzyzy
       release_time: 2025.06.15 14:32:00
       title: v5滑块验证逆向
@@ -351,10 +351,6 @@
       release_time: 2025.05.23 21:49:00
       title: 某站w_rid加密参数分析
       url: https://www.52pojie.cn/thread-2033704-1-1.html
-    - author: darksied
-      release_time: 2025.05.23 21:08:00
-      title: 篡改猴脚本“获取网盘直链”劫持京东商品详情页分析
-      url: https://www.52pojie.cn/thread-2033695-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
