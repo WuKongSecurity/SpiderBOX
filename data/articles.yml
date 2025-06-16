@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.06.16 17:50:00
+      title: AST反混淆实战|手把手教你还原第三届猿人学比赛第二题混淆js(4)
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566009&idx=1&sn=dff5caf863bada3ddaf7d2cb3ae03c61
     - author: Coder小Q
       release_time: 2025.06.16 08:30:00
       title: 【密码学】基于编码的密码学学习笔记(九) 完美码(Perfect Code)
@@ -231,6 +235,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: renxiaofeixia
+      release_time: 2025.06.16 15:24:00
+      title: 某东网页版收发消息
+      url: https://www.52pojie.cn/thread-2039238-1-1.html
     - author: xiaoc996
       release_time: 2025.06.15 17:00:00
       title: Android—Warlock设备指纹&安全检测开源
@@ -347,10 +355,6 @@
       release_time: 2025.05.25 02:54:00
       title: 记一次简单解析某免费影视站播放地址的全过程（适合小白练手）
       url: https://www.52pojie.cn/thread-2033927-1-1.html
-    - author: buluo533
-      release_time: 2025.05.23 21:49:00
-      title: 某站w_rid加密参数分析
-      url: https://www.52pojie.cn/thread-2033704-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
