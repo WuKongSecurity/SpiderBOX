@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.06.16 17:50:00
+      title: AST反混淆实战|手把手教你还原第三届猿人学比赛第二题混淆js(4)
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566009&idx=1&sn=dff5caf863bada3ddaf7d2cb3ae03c61
     - author: Coder小Q
       release_time: 2025.06.16 08:30:00
       title: 【密码学】基于编码的密码学学习笔记(九) 完美码(Perfect Code)
