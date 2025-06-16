@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 布鲁的Python之旅
+      release_time: 2025.06.16 11:00:00
+      title: 团队准备解散了！
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486047&idx=1&sn=4f5ae5b1c60587570a99ccfa86896fb4
     - author: Coder小Q
       release_time: 2025.06.16 08:30:00
       title: 【密码学】基于编码的密码学学习笔记(九) 完美码(Perfect Code)
@@ -228,10 +232,6 @@
       release_time: 2025.06.06 01:43:58
       title: 智识之眼：推理验证码还能这么玩？
       url: https://mp.weixin.qq.com/s?__biz=Mzg4NDgxNTAzNg==&mid=2247483788&idx=1&sn=ef7ac23d633ebc26f04fb5084b4c391c
-    - author: 平底锅煎蛋
-      release_time: 2025.06.05 16:27:48
-      title: unidbg补环境问题&算法关键点追踪
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTcyMjcwOA==&mid=2247483931&idx=1&sn=1ce060e76ca777bc47ed143326e813dc
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
