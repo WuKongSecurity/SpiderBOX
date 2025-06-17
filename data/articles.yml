@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.06.18 00:00:00
+      title: 安卓逆向 -- 雷电模拟器安装magisk和Lsposed
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039325&idx=1&sn=b33c4d504d97be6069e086820d4b07ad
     - author: 布鲁的Python之旅
       release_time: 2025.06.17 17:16:29
       title: 关于携程酒店评论文本数据集的探索
