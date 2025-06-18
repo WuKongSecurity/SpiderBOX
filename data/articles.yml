@@ -120,6 +120,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 爬虫逆向小林哥
+      release_time: 2025.06.18 11:22:33
+      title: 集成几个开源xposed修复测试机环境检测
+      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247486602&idx=1&sn=5911e683db9f663e88a5d7208aa61970
     - author: 逆向有你
       release_time: 2025.06.18 00:00:00
       title: 安卓逆向 -- 雷电模拟器安装magisk和Lsposed
@@ -224,13 +228,17 @@
       release_time: 2025.06.08 22:22:11
       title: 从零定制Android15：修改Build.prop与内核态绕过设备指纹检测
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498175&idx=1&sn=9f63d554e3edb626b2133fe2b7199a03
-    - author: 菜鸟学Python编程
-      release_time: 2025.06.08 10:44:01
-      title: AST反混淆实战|手把手教你还原第三届猿人学比赛第二题混淆js(1)
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565978&idx=1&sn=03e09db9bb5d773011f09cd73b664d04
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: ZenoMiao
+      release_time: 2025.06.18 11:24:00
+      title: 重复了 帮忙删一些  谢谢
+      url: https://www.52pojie.cn/thread-2039701-1-1.html
+    - author: ZenoMiao
+      release_time: 2025.06.18 11:18:00
+      title: '[原创] 猿人学学员题34题 js加课例题1 逆向分析'
+      url: https://www.52pojie.cn/thread-2039700-1-1.html
     - author: renxiaofeixia
       release_time: 2025.06.16 15:24:00
       title: 某东网页版收发消息
@@ -343,14 +351,6 @@
       release_time: 2025.05.27 22:17:00
       title: 某大厂waf逆向-- 用AST还原加强ob混淆壳
       url: https://www.52pojie.cn/thread-2034613-1-1.html
-    - author: zzyzy
-      release_time: 2025.05.25 16:27:00
-      title: 某data网逆向和解混淆
-      url: https://www.52pojie.cn/thread-2034020-1-1.html
-    - author: lenvy1
-      release_time: 2025.05.25 02:54:00
-      title: 记一次简单解析某免费影视站播放地址的全过程（适合小白练手）
-      url: https://www.52pojie.cn/thread-2033927-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
