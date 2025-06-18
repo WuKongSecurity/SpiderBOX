@@ -117,6 +117,10 @@
       release_time: 2025.05.20 08:28:29
       title: AI+MCP自动控制浏览器 爬取电商网站信息，全程没写一句代码
       url: https://www.bilibili.com/video/BV1hkJFzpE99
+    - author: DrissionPage
+      release_time: 2025.05.19 16:49:00
+      title: 并发多开浏览器-DrissionPage官方教程-p27
+      url: https://www.bilibili.com/video/BV1kyJGzzEA7
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -228,6 +232,18 @@
       release_time: 2025.06.08 22:22:11
       title: 从零定制Android15：修改Build.prop与内核态绕过设备指纹检测
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498175&idx=1&sn=9f63d554e3edb626b2133fe2b7199a03
+    - author: 菜鸟学Python编程
+      release_time: 2025.06.08 10:44:01
+      title: AST反混淆实战|手把手教你还原第三届猿人学比赛第二题混淆js(1)
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565978&idx=1&sn=03e09db9bb5d773011f09cd73b664d04
+    - author: 断点续行
+      release_time: 2025.06.06 11:26:03
+      title: 智识之眼：闲鱼手写文？小明写的字
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDgxNTAzNg==&mid=2247483803&idx=1&sn=4e4242723af722d343c84bb3f92f29b0
+    - author: 逆向有你
+      release_time: 2025.06.06 11:22:48
+      title: JS逆向 -- 某试鸭web逆向题目
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039162&idx=1&sn=f256b8faa161ab5e2293e2b2afbd1d31
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -347,6 +363,10 @@
       release_time: 2025.05.27 22:17:00
       title: 某大厂waf逆向-- 用AST还原加强ob混淆壳
       url: https://www.52pojie.cn/thread-2034613-1-1.html
+    - author: zzyzy
+      release_time: 2025.05.25 16:27:00
+      title: 某data网逆向和解混淆
+      url: https://www.52pojie.cn/thread-2034020-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
