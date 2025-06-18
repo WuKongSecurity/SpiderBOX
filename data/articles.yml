@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 小肩膀-逆向安全培训
+      release_time: 2025.06.18 20:35:31
+      title: 【ai编程】ai自动逆向java1
+      url: https://www.bilibili.com/video/BV1acNEzAEYt
     - author: r0ysue
       release_time: 2025.06.16 21:24:33
       title: 谷歌A2A的AgentExecutor实现了技师的实际业务从挑选技师到上钟服务一条龙
@@ -117,13 +121,13 @@
       release_time: 2025.05.20 08:28:29
       title: AI+MCP自动控制浏览器 爬取电商网站信息，全程没写一句代码
       url: https://www.bilibili.com/video/BV1hkJFzpE99
-    - author: DrissionPage
-      release_time: 2025.05.19 16:49:00
-      title: 并发多开浏览器-DrissionPage官方教程-p27
-      url: https://www.bilibili.com/video/BV1kyJGzzEA7
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.06.18 21:00:00
+      title: AST反混淆实战|猿人学第二届比赛第四题代码片段还原(去控制流)
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566024&idx=1&sn=393efb40ec40759b7afc500b0584a64c
     - author: 哆啦安全
       release_time: 2025.06.18 16:21:56
       title: Magisk和LSPosed特征魔改绕过检测的思路和方法
@@ -240,10 +244,6 @@
       release_time: 2025.06.08 10:44:01
       title: AST反混淆实战|手把手教你还原第三届猿人学比赛第二题混淆js(1)
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565978&idx=1&sn=03e09db9bb5d773011f09cd73b664d04
-    - author: 断点续行
-      release_time: 2025.06.06 11:26:03
-      title: 智识之眼：闲鱼手写文？小明写的字
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDgxNTAzNg==&mid=2247483803&idx=1&sn=4e4242723af722d343c84bb3f92f29b0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
