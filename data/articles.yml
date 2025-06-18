@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小伍哥聊风控
+      release_time: 2025.06.18 23:04:29
+      title: 大模型+文本绘图，秒出思维导图，美观又高效！
+      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196944&idx=1&sn=f31469c35605639c855df09b7ad905b5
     - author: 菜鸟学Python编程
       release_time: 2025.06.18 21:00:00
       title: AST反混淆实战|猿人学第二届比赛第四题代码片段还原(去控制流)
@@ -240,10 +244,6 @@
       release_time: 2025.06.08 22:22:11
       title: 从零定制Android15：修改Build.prop与内核态绕过设备指纹检测
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498175&idx=1&sn=9f63d554e3edb626b2133fe2b7199a03
-    - author: 菜鸟学Python编程
-      release_time: 2025.06.08 10:44:01
-      title: AST反混淆实战|手把手教你还原第三届猿人学比赛第二题混淆js(1)
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647565978&idx=1&sn=03e09db9bb5d773011f09cd73b664d04
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
