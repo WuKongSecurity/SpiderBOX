@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: ngiokweng
+      release_time: 2025.06.19 22:43:00
+      title: 某Guard的SO加固探秘(有趣的GNUHash)
+      url: https://www.52pojie.cn/thread-2040136-1-1.html
     - author: Eureka8
       release_time: 2025.06.19 13:57:00
       title: 巧用Chrome-CDP远程调用Debug突破JS逆向
@@ -363,10 +367,6 @@
       release_time: 2025.05.28 23:18:00
       title: 某程token  jsvmp算法分析
       url: https://www.52pojie.cn/thread-2034891-1-1.html
-    - author: OrionisLi
-      release_time: 2025.05.28 16:40:00
-      title: 关于新手的第一次对漫漫看的APP key的破解
-      url: https://www.52pojie.cn/thread-2034803-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
