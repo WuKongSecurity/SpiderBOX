@@ -251,6 +251,10 @@
       release_time: 2025.06.19 13:57:00
       title: 巧用Chrome-CDP远程调用Debug突破JS逆向
       url: https://www.52pojie.cn/thread-2040010-1-1.html
+    - author: HackXK
+      release_time: 2025.06.18 19:00:00
+      title: 记一次某相机逆向
+      url: https://www.52pojie.cn/thread-2039817-1-1.html
     - author: ZenoMiao
       release_time: 2025.06.18 11:18:00
       title: '[原创] 猿人学学员题34题 js加课例题1 逆向分析'
@@ -363,10 +367,6 @@
       release_time: 2025.05.28 16:40:00
       title: 关于新手的第一次对漫漫看的APP key的破解
       url: https://www.52pojie.cn/thread-2034803-1-1.html
-    - author: q8917749
-      release_time: 2025.05.27 22:17:00
-      title: 某大厂waf逆向-- 用AST还原加强ob混淆壳
-      url: https://www.52pojie.cn/thread-2034613-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
