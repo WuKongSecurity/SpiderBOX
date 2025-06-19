@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.06.19 09:16:00
+      title: JS逆向 -- 某单词js逆向补环境
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039384&idx=1&sn=4ce48ad6f0a35e7dca4ca27042f6def6
+    - author: 二进制磨剑
+      release_time: 2025.06.19 09:00:00
+      title: IDA 暗黑风格主题(Dracula)，让你的 IDA 更加炫酷
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485598&idx=1&sn=8b21ed4513762ce8f2d0650da8b2855b
     - author: 小伍哥聊风控
       release_time: 2025.06.18 23:04:29
       title: 大模型+文本绘图，秒出思维导图，美观又高效！
@@ -236,14 +244,6 @@
       release_time: 2025.06.09 19:30:52
       title: 字节系,ali系,ks,pdd最新抓包方案
       url: https://mp.weixin.qq.com/s?__biz=Mzk0NzU3MjQzNA==&mid=2247485616&idx=1&sn=1b8e79afa57e4b3dcac03933d54464e6
-    - author: 兔老大Android和iOS逆向
-      release_time: 2025.06.09 10:54:18
-      title: 【iOS逆向】iOS某大厂vmp参数还原
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzY5NjQxMg==&mid=2247484457&idx=1&sn=54740ea65f659f36dae93426aabb1bae
-    - author: 哆啦安全
-      release_time: 2025.06.08 22:22:11
-      title: 从零定制Android15：修改Build.prop与内核态绕过设备指纹检测
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498175&idx=1&sn=9f63d554e3edb626b2133fe2b7199a03
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 白毅
+      release_time: 2025.06.19 07:13:01
+      title: '[讨论]？新技术，这么吊'
+      url: https://bbs.kanxue.com/thread-287291.htm
     - author: 小白白
       release_time: 2025.06.18 23:40:23
       title: 伪代码口诀
@@ -382,10 +386,18 @@
       release_time: 2025.06.18 20:23:25
       title: 猿人学js逆向比赛第一届第六题
       url: https://blog.csdn.net/m0_62945506/article/details/148747898
+    - author: 我是小趴菜
+      release_time: 2025.06.18 16:13:01
+      title: '[原创]某物App之算法分析'
+      url: https://bbs.kanxue.com/thread-287289.htm
     - author: ~贝母~
       release_time: 2025.06.18 15:03:51
       title: 猿人学js逆向比赛第一届第五题
       url: https://blog.csdn.net/m0_62945506/article/details/148740892
+    - author: CCTV果冻爽
+      release_time: 2025.06.18 12:13:01
+      title: '[原创]某短视频mssdk之get_seed协议分析'
+      url: https://bbs.kanxue.com/thread-287288.htm
     - author: 逆向新手
       release_time: 2025.06.17 16:18:00
       title: js逆向-参数与cookies的双重加密
@@ -398,6 +410,38 @@
       release_time: 2025.06.16 15:45:44
       title: JS逆向 - 新版 QQ music逆向（sign、表单、响应加密）
       url: https://blog.csdn.net/qq_53444631/article/details/148691066
+    - author: 差不多的张三
+      release_time: 2025.06.16 09:13:02
+      title: '[原创]【银行逆向百例】09小程序逆向之禁用调试模式+动态密钥+JsRpc+Yakit hijackSaveHTTPFlow热加载'
+      url: https://bbs.kanxue.com/thread-287265.htm
+    - author: Yangser
+      release_time: 2025.06.16 09:13:01
+      title: '[原创] 自定义Linker与SO加固技术'
+      url: https://bbs.kanxue.com/thread-287254.htm
+    - author: xiaoc996
+      release_time: 2025.06.16 09:13:01
+      title: '[原创]# Android—Warlock设备指纹or安全检测开源'
+      url: https://bbs.kanxue.com/thread-287255.htm
+    - author: 不歪
+      release_time: 2025.06.16 09:13:01
+      title: '[原创]OLLVM (一)字符串混淆'
+      url: https://bbs.kanxue.com/thread-287256.htm
+    - author: 不歪
+      release_time: 2025.06.16 09:13:01
+      title: '[原创]OLLVM (二)条件跳转分支混淆'
+      url: https://bbs.kanxue.com/thread-287257.htm
+    - author: 不歪
+      release_time: 2025.06.16 09:13:01
+      title: '[原创]OLLVM (三)控制流平坦化'
+      url: https://bbs.kanxue.com/thread-287258.htm
+    - author: 易码
+      release_time: 2025.06.16 09:13:01
+      title: '[原创]Android逆向之SO防护（从逆向角度谈SO防护）'
+      url: https://bbs.kanxue.com/thread-287260.htm
+    - author: 九天666
+      release_time: 2025.06.16 09:13:01
+      title: '[原创]OLLVM-BR间接混淆去除'
+      url: https://bbs.kanxue.com/thread-287262.htm
     - author: ~贝母~
       release_time: 2025.06.16 00:30:38
       title: 猿人学js逆向比赛第一届第四题
@@ -418,6 +462,10 @@
       release_time: 2025.06.15 15:39:51
       title: 猿人学js逆向比赛第一届第一题
       url: https://blog.csdn.net/m0_62945506/article/details/148670975
+    - author: 烬奇小云
+      release_time: 2025.06.15 09:13:01
+      title: '[原创]IDA动态调试环境搭建教程（小白版）'
+      url: https://bbs.kanxue.com/thread-287250.htm
     - author: 吴秋霖
       release_time: 2025.06.15 08:30:00
       title: 某网站极验4滑块验证码逆向分析
@@ -430,66 +478,18 @@
       release_time: 2025.06.14 13:59:09
       title: js逆向-一个有趣的网站
       url: https://blog.csdn.net/weixin_46672080/article/details/148652110
+    - author: anywhere杨
+      release_time: 2025.06.14 09:13:01
+      title: '[原创]论模拟器svc  hook  的实现'
+      url: https://bbs.kanxue.com/thread-287242.htm
     - author: 溏心蛋*
       release_time: 2025.06.13 11:02:29
       title: 专某局的登录流程分析，秒了~
       url: https://blog.csdn.net/L1416279170/article/details/148626044
-    - author: 逆向三十六计
-      release_time: 2025.06.11 17:36:09
-      title: h5st逆向分析
-      url: https://blog.csdn.net/jerry3747/article/details/148589117
-    - author: 爱喝水的木子
-      release_time: 2025.06.10 13:57:49
-      title: flask基于装饰器实现限速
-      url: https://blog.csdn.net/Linux_rm_rf_/article/details/148559378
-    - author: 悦来客栈的老板
-      release_time: 2025.06.09 20:23:46
-      title: AST反混淆实战|手把手教你还原第三届猿人学比赛第二题混淆js(2)
-      url: https://blog.csdn.net/qq523176585/article/details/148546455
-    - author: ~贝母~
-      release_time: 2025.06.09 13:09:11
-      title: 猿人学2025js逆向验证码比赛第一题(补环境）
-      url: https://blog.csdn.net/m0_62945506/article/details/148529474
-    - author: 差不多的张三
-      release_time: 2025.06.09 11:13:58
-      title: '[原创]【银行逆向百例】08小程序逆向之JsRpc+Yakit hijackSaveHTTPFlow热加载实现明文流量显示'
-      url: https://bbs.kanxue.com/thread-287164.htm
-    - author: 大肌肉兔
-      release_time: 2025.06.09 10:56:10
-      title: '[原创]iOS某大厂vmp参数还原'
-      url: https://bbs.kanxue.com/thread-287163.htm
-    - author: calleng
-      release_time: 2025.06.09 05:26:43
-      title: '[原创][原创动画]结合案例讲解新版AS的Structure的用法'
-      url: https://bbs.kanxue.com/thread-287159.htm
-    - author: 琳宇
-      release_time: 2025.06.08 16:50:47
-      title: '[原创]指纹浏览器的编译与开发'
-      url: https://bbs.kanxue.com/thread-287151.htm
-    - author: 悦来客栈的老板
-      release_time: 2025.06.08 10:44:23
-      title: AST反混淆实战|手把手教你还原第三届猿人学比赛第二题混淆js(1)
-      url: https://blog.csdn.net/qq523176585/article/details/148521195
-    - author: nothing233
-      release_time: 2025.06.07 20:29:45
-      title: '[原创]魔改chromium, 改变 cdp 中 console 的实现, 让 devtools 无法再通过 console 检测'
-      url: https://bbs.kanxue.com/thread-287148.htm
-    - author: nothing233
-      release_time: 2025.06.07 18:29:45
-      title: '[原创]V8 Inspector 看这一篇就够了'
-      url: https://bbs.kanxue.com/thread-287147.htm
-    - author: nothing233
-      release_time: 2025.06.07 11:29:45
-      title: '[原创]魔改chromium过无限debugger2.0，完美修改, 无法被检测'
-      url: https://bbs.kanxue.com/thread-287121.htm
-    - author: 棕熊
-      release_time: 2025.06.07 11:29:44
-      title: '[原创]qbdi-ios-tracer'
-      url: https://bbs.kanxue.com/thread-287137.htm
-    - author: CCTV果冻爽
-      release_time: 2025.06.07 11:29:43
-      title: '[原创]redroid镜像编译及预埋 adb_key认证'
-      url: https://bbs.kanxue.com/thread-287127.htm
+    - author: Yangser
+      release_time: 2025.06.13 09:13:01
+      title: '[分享]自定义linker加载so'
+      url: https://bbs.kanxue.com/thread-287217.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
