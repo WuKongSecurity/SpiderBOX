@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: Eureka8
+      release_time: 2025.06.19 13:57:00
+      title: 巧用Chrome-CDP远程调用Debug突破JS逆向
+      url: https://www.52pojie.cn/thread-2040010-1-1.html
     - author: ZenoMiao
       release_time: 2025.06.18 11:18:00
       title: '[原创] 猿人学学员题34题 js加课例题1 逆向分析'
@@ -363,13 +367,13 @@
       release_time: 2025.05.27 22:17:00
       title: 某大厂waf逆向-- 用AST还原加强ob混淆壳
       url: https://www.52pojie.cn/thread-2034613-1-1.html
-    - author: zzyzy
-      release_time: 2025.05.25 16:27:00
-      title: 某data网逆向和解混淆
-      url: https://www.52pojie.cn/thread-2034020-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: ~贝母~
+      release_time: 2025.06.19 18:13:58
+      title: 猿人学js逆向比赛第一届第七题
+      url: https://blog.csdn.net/m0_62945506/article/details/148772228
     - author: 狗都不学爬虫_
       release_time: 2025.06.19 11:09:52
       title: JS逆向 - （新版）进阶版 瑞树 cookie（F14B3CEF1、F14B3CEF0、F14B3CEF5）
@@ -486,10 +490,6 @@
       release_time: 2025.06.14 09:13:01
       title: '[原创]论模拟器svc  hook  的实现'
       url: https://bbs.kanxue.com/thread-287242.htm
-    - author: 溏心蛋*
-      release_time: 2025.06.13 11:02:29
-      title: 专某局的登录流程分析，秒了~
-      url: https://blog.csdn.net/L1416279170/article/details/148626044
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
