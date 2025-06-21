@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.06.21 14:18:21
+      title: DrissionPage高阶操作【逆向自动化】-网页自动打日志断点，获取并修改加密脚本【局部变量】【闭包变量】【函数传参】
+      url: https://www.bilibili.com/video/BV16mNyzoEk4
     - author: 小肩膀-逆向安全培训
       release_time: 2025.06.18 20:35:31
       title: 【ai编程】ai自动逆向java1
@@ -117,10 +121,6 @@
       release_time: 2025.05.21 16:37:00
       title: 闲置 macbookM1 当电视盒子，又顺便开发了个 遥控器，up 主 壕无人性
       url: https://www.bilibili.com/video/BV1RSJBzwEGm
-    - author: B站用户骚神
-      release_time: 2025.05.20 08:28:29
-      title: AI+MCP自动控制浏览器 爬取电商网站信息，全程没写一句代码
-      url: https://www.bilibili.com/video/BV1hkJFzpE99
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
