@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: utf8
+      release_time: 2025.06.21 11:01:00
+      title: 简单探究某站指纹参数算法
+      url: https://www.52pojie.cn/thread-2040484-1-1.html
     - author: buluo533
       release_time: 2025.06.20 22:04:00
       title: 乐某自研滑块逆向分析
@@ -363,10 +367,6 @@
       release_time: 2025.05.29 20:56:00
       title: 保姆式解析某高质量听书网站音频地址全过程(适合小白练手)
       url: https://www.52pojie.cn/thread-2035137-1-1.html
-    - author: l2399007164
-      release_time: 2025.05.29 16:01:00
-      title: 记一次脱腾讯御安全的壳无意中的发现
-      url: https://www.52pojie.cn/thread-2035077-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
