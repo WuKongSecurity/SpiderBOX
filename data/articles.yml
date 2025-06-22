@@ -371,6 +371,10 @@
     term: 吾爱破解
   - links:
     - author: Python成长路
+      release_time: 2025.06.22 10:44:37
+      title: 【微信插件】关键词自动回复
+      url: https://blog.csdn.net/Qwertyuiop2016/article/details/148824479
+    - author: Python成长路
       release_time: 2025.06.21 17:01:51
       title: 【微信插件】自动下载微信聊天中的图片、文件和视频
       url: https://blog.csdn.net/Qwertyuiop2016/article/details/148812291
@@ -486,10 +490,6 @@
       release_time: 2025.06.15 18:52:48
       title: 猿人学js逆向比赛第一届第二题
       url: https://blog.csdn.net/m0_62945506/article/details/148673808
-    - author: ~贝母~
-      release_time: 2025.06.15 15:39:51
-      title: 猿人学js逆向比赛第一届第一题
-      url: https://blog.csdn.net/m0_62945506/article/details/148670975
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
