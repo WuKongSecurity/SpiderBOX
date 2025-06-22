@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: aksyang
+      release_time: 2025.06.22 07:55:00
+      title: 谁帮忙看一下加密PHP文件感觉右后门
+      url: https://www.52pojie.cn/thread-2040642-1-1.html
     - author: utf8
       release_time: 2025.06.21 11:01:00
       title: 简单探究某站指纹参数算法
@@ -363,10 +367,6 @@
       release_time: 2025.05.29 22:09:00
       title: 某视频网站视频逆向（内容脱敏，学习思路）
       url: https://www.52pojie.cn/thread-2035143-1-1.html
-    - author: lenvy1
-      release_time: 2025.05.29 20:56:00
-      title: 保姆式解析某高质量听书网站音频地址全过程(适合小白练手)
-      url: https://www.52pojie.cn/thread-2035137-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
