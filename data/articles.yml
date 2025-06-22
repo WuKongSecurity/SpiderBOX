@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: lichuntian00
+      release_time: 2025.06.22 22:22:00
+      title: Web逆向之VMP还原全流程
+      url: https://www.52pojie.cn/thread-2040789-1-1.html
     - author: aksyang
       release_time: 2025.06.22 07:55:00
       title: 谁帮忙看一下加密PHP文件感觉右后门
@@ -363,10 +367,6 @@
       release_time: 2025.05.30 13:38:00
       title: 表哥,你也不想你扣的算法和网页上的结果对比不一致吧
       url: https://www.52pojie.cn/thread-2035300-1-1.html
-    - author: hj170520
-      release_time: 2025.05.29 22:09:00
-      title: 某视频网站视频逆向（内容脱敏，学习思路）
-      url: https://www.52pojie.cn/thread-2035143-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
