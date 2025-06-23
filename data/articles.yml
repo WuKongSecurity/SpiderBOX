@@ -2,6 +2,10 @@
   list:
   - links:
     - author: B站用户骚神
+      release_time: 2025.06.23 15:31:20
+      title: CloudFlare 5S盾自动点击程序，完美搞定所有5s盾
+      url: https://www.bilibili.com/video/BV1qoK8z7Efm
+    - author: B站用户骚神
       release_time: 2025.06.21 14:18:21
       title: DrissionPage高阶操作【逆向自动化】-网页自动打日志断点，获取并修改加密脚本【局部变量】【闭包变量】【函数传参】
       url: https://www.bilibili.com/video/BV16mNyzoEk4
@@ -117,10 +121,6 @@
       release_time: 2025.05.21 17:51:41
       title: macbook 电视盒子，通过遥控器电影到电视节目互相切换。壕无人性
       url: https://www.bilibili.com/video/BV1DoJBz4ErA
-    - author: 名字叫阿柒
-      release_time: 2025.05.21 16:37:00
-      title: 闲置 macbookM1 当电视盒子，又顺便开发了个 遥控器，up 主 壕无人性
-      url: https://www.bilibili.com/video/BV1RSJBzwEGm
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
