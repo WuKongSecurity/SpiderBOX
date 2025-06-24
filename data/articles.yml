@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2025.06.24 23:23:01
+      title: Kali源码编译脚本拉取镜像站点不用科学国内都可以访问
+      url: https://www.bilibili.com/video/BV1mVKLznEFo
     - author: B站用户骚神
       release_time: 2025.06.23 15:31:20
       title: CloudFlare 5S盾自动点击程序，完美搞定所有5s盾
@@ -117,10 +121,6 @@
       release_time: 2025.05.22 09:51:44
       title: DrissionPageMCP-让AI控制DrissionPage自动操作浏览器-骚神出品！！
       url: https://www.bilibili.com/video/BV1SzJEzTEhx
-    - author: 名字叫阿柒
-      release_time: 2025.05.21 17:51:41
-      title: macbook 电视盒子，通过遥控器电影到电视节目互相切换。壕无人性
-      url: https://www.bilibili.com/video/BV1DoJBz4ErA
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
