@@ -1683,14 +1683,14 @@
           logo: brightdata.png
           url: https://get.brightdata.com/17arn8
           description: Award winning proxy networks, powerful web scrapers, and ready-to-use datasets for download. Welcome to the world's number one web data platform.
-        - title: Thordata
-          logo: thordata.jpg
-          url: https://www.thordata.com/?ls=dhz&lk=spiderbox
-          description: Scale Your Access with 60 Million IPs at Affordable Prices. Reliable, high-quality proxy solutions tailored for businesses and distributors.
-        - title: NxtProxy
+        - title: nstproxy
           logo: nstproxy.jpg
           url: https://app.nstproxy.com/register?i=EKtJne
           description: nstproxy provide various types of proxies, including rotating residential proxies(city target and country target), datacenter proxies, ipv6 proxies, ISP proxies, and mobile proxies. Partner with nstproxy to get high-quality proxies that meet your needs for data collection, web scraping, and privacy protection.
+        - title: cliproxy
+          logo: cliproxy.png
+          url: https://share.cliproxy.com/share/aph4q79qa
+          description: Top residential proxy solution for efficient access to network data. Possess over 100 million real residential IP resources from 180+countries worldwide,100,000+ new IPs added every day.
         - title: DataBay
           logo: databay.jpg
           url: https://databay.com/r/A9468EC/
@@ -1763,6 +1763,10 @@
           logo: lycheeip.png
           url: https://www.lycheeip.com/?affId=dob20Dv4nu
           description: 全球高质量独享静态住宅 IP 双 ISP
+        - title: Thordata
+          logo: thordata.jpg
+          url: https://www.thordata.com/?ls=dhz&lk=spiderbox
+          description: Scale Your Access with 60 Million IPs at Affordable Prices. Reliable, high-quality proxy solutions tailored for businesses and distributors.
         - title: Blurpath 全球代理
           logo: blurpath.png
           url: https://blurpath.com?channel_code=https://spiderbox.cn/?utm_source=blurpath
@@ -1779,7 +1783,10 @@
           logo: 922proxy.jpg
           url: https://922proxy.com/login?utm-source=Amily&utm-keyword=?spiderbox
           description: 纯净住宅 IP，仅需 $0.77/GB
-
+        - title: RapidProxy
+          logo: rapidproxy.png
+          url: https://www.rapidproxy.io/?ref=itbob
+          description: 免费代理测试，通过 RapidProxy 访问超 7000 万优质 IP，支持 220+ 地理位置精准定位，实现高效数据采集，轻松规避验证码与 IP 封禁，流量永不过期
 #        - title: WTFproxy
 #          logo: wtfproxy.png
 #          url: https://www.wtfproxy.com/
