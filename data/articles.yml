@@ -386,6 +386,10 @@
       release_time: 2025.06.23 17:41:28
       title: AST反混淆实战|类阿卡迈控制流还原详解
       url: https://blog.csdn.net/qq523176585/article/details/148859835
+    - author: Codeooo
+      release_time: 2025.06.23 11:35:40
+      title: 最新版某手 sig 及 __NStokensig 分析
+      url: https://codeooo.blog.csdn.net/article/details/148773706
     - author: 王辉辉的猫
       release_time: 2025.06.23 09:19:13
       title: 004.chromium编译进阶-启动时传入cookies
@@ -418,6 +422,10 @@
       release_time: 2025.06.20 12:01:38
       title: AST反混淆插件| 浏览器环境简化专用插件
       url: https://blog.csdn.net/qq523176585/article/details/148802944
+    - author: Codeooo
+      release_time: 2025.06.20 10:03:13
+      title: 某航旅机票查票protobuf传输及so分析
+      url: https://codeooo.blog.csdn.net/article/details/148765095
     - author: 悦来客栈的老板
       release_time: 2025.06.19 20:22:29
       title: 实用小工具|使用cheerio库提取html内的js混淆代码
@@ -482,14 +490,6 @@
       release_time: 2025.06.16 09:13:01
       title: '[原创]# Android—Warlock设备指纹or安全检测开源'
       url: https://bbs.kanxue.com/thread-287255.htm
-    - author: 不歪
-      release_time: 2025.06.16 09:13:01
-      title: '[原创]OLLVM (一)字符串混淆'
-      url: https://bbs.kanxue.com/thread-287256.htm
-    - author: 不歪
-      release_time: 2025.06.16 09:13:01
-      title: '[原创]OLLVM (二)条件跳转分支混淆'
-      url: https://bbs.kanxue.com/thread-287257.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
