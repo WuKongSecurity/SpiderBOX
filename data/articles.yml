@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.06.25 10:59:19
+      title: 安卓逆向 -- APP去广告合集教程（附带绿化版跳过广告软件）
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039452&idx=1&sn=80bff74752787e56276f9c70db5cdae0
     - author: 菜鸟学Python编程
       release_time: 2025.06.24 17:12:00
       title: AST基础知识|babel库中path常用方法总结
@@ -240,10 +244,6 @@
       release_time: 2025.06.17 00:00:00
       title: PC逆向 -- 逆向一个网络游戏的痛苦经历
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039299&idx=1&sn=1e5d16b56fda0e40354596c941057af2
-    - author: 菜鸟学Python编程
-      release_time: 2025.06.16 17:50:00
-      title: AST反混淆实战|手把手教你还原第三届猿人学比赛第二题混淆js(4)
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566009&idx=1&sn=dff5caf863bada3ddaf7d2cb3ae03c61
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
