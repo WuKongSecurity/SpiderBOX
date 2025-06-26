@@ -1787,6 +1787,18 @@
           logo: rapidproxy.png
           url: https://www.rapidproxy.io/?ref=itbob
           description: 免费代理测试，通过 RapidProxy 访问超 7000 万优质 IP，支持 220+ 地理位置精准定位，实现高效数据采集，轻松规避验证码与 IP 封禁，流量永不过期
+        - title: ShopSocks5
+          logo: shopsocks5.jpg
+          url: https://shopsocks5.com/
+          description: Shopsocks5.com - Service Socks5 Residential - Static Datacenter Proxies - Cloud VPS
+        - title: LunaProxy
+          logo: lunaproxy.png
+          url: https://www.lunaproxy.com/?ls=spiderbox&lk=?06
+          description: 最实惠的住宅代理，享受来自195+位置的2亿个真实住宅IP，无限制收集LLM和任何网络数据。起价$0.77/GB。The most affordable residential proxy, enjoy 200 million real residential IPs from 195+ locations, unlimited collection of LLM and any network data. Starting from $0.77/GB.
+        - title: PIA S5 Proxy
+          logo: piaproxy.jpg
+          url: http://www.piaproxy.com/?co=spiderbox&ck=?06
+          description: 通过PIAProxy享受来自200+地区的3.5亿个Socks5代理，纯净住宅IP，无限流量，仅需$0.45/IP。Enjoy 350 million Socks5 proxies from 200+ regions through PIAProxy, pure residential IP, unlimited traffic, only $0.45/IP.
 #        - title: WTFproxy
 #          logo: wtfproxy.png
 #          url: https://www.wtfproxy.com/
