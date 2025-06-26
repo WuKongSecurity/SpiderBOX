@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小伍哥聊风控
+      release_time: 2025.06.26 08:29:00
+      title: 传销式购车欺诈手法分析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196950&idx=1&sn=9a64a93f53409501fbdd497175b8fc5c
     - author: 哆啦安全
       release_time: 2025.06.25 22:55:14
       title: 基于QEMU/KVM定制Android10至16系统
@@ -240,10 +244,6 @@
       release_time: 2025.06.18 21:00:00
       title: AST反混淆实战|猿人学第二届比赛第四题代码片段还原(去控制流)
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566024&idx=1&sn=393efb40ec40759b7afc500b0584a64c
-    - author: 哆啦安全
-      release_time: 2025.06.18 16:21:56
-      title: Magisk和LSPosed特征魔改绕过检测的思路和方法
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498209&idx=1&sn=bee4bf781c8b6f4a58c9ba8c861ad225
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
