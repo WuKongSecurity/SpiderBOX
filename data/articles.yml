@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: HackXK
+      release_time: 2025.06.26 22:32:00
+      title: iOS-WCYuanJiao美化插件逆向
+      url: https://www.52pojie.cn/thread-2041799-1-1.html
     - author: helory
       release_time: 2025.06.23 17:59:00
       title: 使用JS注入，实现互动影游的视频倍速播放，轻松刷剧情
@@ -363,10 +367,6 @@
       release_time: 2025.05.31 20:55:00
       title: 表哥,你也不想你扣的代码被格式化检测吧第二谈--正则匹配,格式化危机
       url: https://www.52pojie.cn/thread-2035543-1-1.html
-    - author: zzyzy
-      release_time: 2025.05.31 17:02:00
-      title: 某花顺登录滑块逆向
-      url: https://www.52pojie.cn/thread-2035508-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
