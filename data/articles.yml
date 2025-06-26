@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.06.26 18:09:37
+      title: 用DP修改浏览器指纹，FingerPrintV3，修改【WebGL指纹】【Canvas指纹】【插件】【经纬度】【时区】【显示器尺寸】【移动端】
+      url: https://www.bilibili.com/video/BV1P9KozNEFK
     - author: r0ysue
       release_time: 2025.06.24 23:23:01
       title: Kali源码编译脚本拉取镜像站点不用科学国内都可以访问
@@ -117,10 +121,6 @@
       release_time: 2025.05.22 16:09:00
       title: DrissionPageMCP-AI自动控制网页填表注册演示
       url: https://www.bilibili.com/video/BV1uAJnz6ER2
-    - author: B站用户骚神
-      release_time: 2025.05.22 09:51:44
-      title: DrissionPageMCP-让AI控制DrissionPage自动操作浏览器-骚神出品！！
-      url: https://www.bilibili.com/video/BV1SzJEzTEhx
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
