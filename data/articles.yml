@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 断点续行
+      release_time: 2025.06.26 11:55:35
+      title: 全网首发！收据单语义验证码识别
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDgxNTAzNg==&mid=2247483824&idx=1&sn=99cddb6a424b005243eaf07debd9fefe
     - author: 小伍哥聊风控
       release_time: 2025.06.26 08:29:00
       title: 传销式购车欺诈手法分析
@@ -240,10 +244,6 @@
       release_time: 2025.06.18 23:04:29
       title: 大模型+文本绘图，秒出思维导图，美观又高效！
       url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196944&idx=1&sn=f31469c35605639c855df09b7ad905b5
-    - author: 菜鸟学Python编程
-      release_time: 2025.06.18 21:00:00
-      title: AST反混淆实战|猿人学第二届比赛第四题代码片段还原(去控制流)
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566024&idx=1&sn=393efb40ec40759b7afc500b0584a64c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
