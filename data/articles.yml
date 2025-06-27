@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 名字叫阿柒
+      release_time: 2025.06.28 01:06:14
+      title: 妈妈再也不担心我夏天没有烧烤炉了。雷军，金凡！cao。别造车了，手机都设计不明白。
+      url: https://www.bilibili.com/video/BV1NsKkzZEsq
     - author: B站用户骚神
       release_time: 2025.06.26 18:09:37
       title: 用DP修改浏览器指纹，FingerPrintV3，修改【WebGL指纹】【Canvas指纹】【插件】【经纬度】【时区】【显示器尺寸】【移动端】
@@ -117,10 +121,6 @@
       release_time: 2025.05.22 22:50:26
       title: r0mcp字符串搜索功能增强匹配函数名
       url: https://www.bilibili.com/video/BV1USJnzMEbS
-    - author: B站用户骚神
-      release_time: 2025.05.22 16:09:00
-      title: DrissionPageMCP-AI自动控制网页填表注册演示
-      url: https://www.bilibili.com/video/BV1uAJnz6ER2
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
