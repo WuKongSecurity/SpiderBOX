@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 布鲁的Python之旅
+      release_time: 2025.06.27 11:00:00
+      title: DeepSeek彻底炸了！
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486108&idx=1&sn=1191b33af65a0ea8c6f8d1f8d33cbd2c
     - author: 逆向有你
       release_time: 2025.06.27 10:44:33
       title: JS逆向 -- 常见检测到开发者工具的制止手段
@@ -240,10 +244,6 @@
       release_time: 2025.06.19 09:16:00
       title: JS逆向 -- 某单词js逆向补环境
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039384&idx=1&sn=4ce48ad6f0a35e7dca4ca27042f6def6
-    - author: 二进制磨剑
-      release_time: 2025.06.19 09:00:00
-      title: IDA 暗黑风格主题(Dracula)，让你的 IDA 更加炫酷
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485598&idx=1&sn=8b21ed4513762ce8f2d0650da8b2855b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
