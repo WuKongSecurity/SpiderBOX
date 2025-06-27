@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.06.27 10:44:33
+      title: JS逆向 -- 常见检测到开发者工具的制止手段
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039457&idx=1&sn=b9c1dc41bfe58c418a0a7d6099ea10d5
     - author: 断点续行
       release_time: 2025.06.26 11:55:35
       title: 全网首发！收据单语义验证码识别
@@ -240,10 +244,6 @@
       release_time: 2025.06.19 09:00:00
       title: IDA 暗黑风格主题(Dracula)，让你的 IDA 更加炫酷
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485598&idx=1&sn=8b21ed4513762ce8f2d0650da8b2855b
-    - author: 小伍哥聊风控
-      release_time: 2025.06.18 23:04:29
-      title: 大模型+文本绘图，秒出思维导图，美观又高效！
-      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196944&idx=1&sn=f31469c35605639c855df09b7ad905b5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
