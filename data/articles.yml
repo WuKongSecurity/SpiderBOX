@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 兔老大Android和iOS逆向
+      release_time: 2025.06.28 16:30:48
+      title: Zygisk注入器 - 动动手指轻松注入并隐藏你的SO文件
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzY5NjQxMg==&mid=2247484459&idx=1&sn=6b0b9852bf947d35ab471d5fe6dc709d
     - author: 影17
       release_time: 2025.06.27 16:35:31
       title: tiktok 滑块验证逆向流程分析
@@ -240,10 +244,6 @@
       release_time: 2025.06.19 20:22:12
       title: 实用小工具|使用cheerio库提取html内的js混淆代码
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566028&idx=1&sn=9ea789a0b192d0354ff025c0e8f0e77b
-    - author: 布鲁的Python之旅
-      release_time: 2025.06.19 15:36:57
-      title: 没人比我更懂红楼梦！
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486079&idx=1&sn=d5288dfe9ca88e7f2490941dd0a8edb3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
