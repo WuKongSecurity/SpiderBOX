@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 冷月不是程序员
+      release_time: 2025.06.29 02:33:17
+      title: PyTorch孪生神经网络实战 介绍
+      url: https://www.bilibili.com/video/BV16ygXzbE7q
     - author: 名字叫阿柒
       release_time: 2025.06.28 01:06:14
       title: 妈妈再也不担心我夏天没有烧烤炉了。雷军，金凡！cao。别造车了，手机都设计不明白。
@@ -117,10 +121,6 @@
       release_time: 2025.05.22 22:54:53
       title: 数美空间验证-逆向分析
       url: https://www.bilibili.com/video/BV1USJnzMEzt
-    - author: r0ysue
-      release_time: 2025.05.22 22:50:26
-      title: r0mcp字符串搜索功能增强匹配函数名
-      url: https://www.bilibili.com/video/BV1USJnzMEbS
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
