@@ -144,6 +144,10 @@
       release_time: 2025.06.25 22:55:14
       title: 基于QEMU/KVM定制Android10至16系统
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498237&idx=1&sn=115f43d732a93f20fea2999017cd0257
+    - author: 如意私塾
+      release_time: 2025.06.25 22:24:33
+      title: 新书出版《Chromium指纹浏览器开发教程》
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483828&idx=1&sn=f4ac5b2394777dfab572108061ab7c16
     - author: 菜鸟学Python编程
       release_time: 2025.06.25 17:24:00
       title: AST基础知识|Scope和Binding常用方法及属性总结
@@ -240,10 +244,6 @@
       release_time: 2025.06.19 15:36:57
       title: 没人比我更懂红楼梦！
       url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486079&idx=1&sn=d5288dfe9ca88e7f2490941dd0a8edb3
-    - author: 逆向有你
-      release_time: 2025.06.19 09:16:00
-      title: JS逆向 -- 某单词js逆向补环境
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039384&idx=1&sn=4ce48ad6f0a35e7dca4ca27042f6def6
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
