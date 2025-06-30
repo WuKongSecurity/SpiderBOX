@@ -1,15 +1,30 @@
 - taxonomy: 广告赞助
   icon: far fa-star
   links:
-    - item: Bright Data
-#      url: https://get.brightdata.com/17arn8
-      url: https://get.brightdata.com/proxyb
-      image: lsj.png
-      description: Bright Data 亮数据，使用全球最大的 IP 网络，利用内置的抓取和解锁功能获得访问权，并简化数据提取
-    - item: 青果云
+    - title: 青果云
+      ads: true
       url: https://www.qg.net/product/proxyip.html?website=spiderbox
-      image: qgy.png
+      image: images/ads/qg4.jpg
       description: 国内领先的企业级代理IP服务商
+      track: ad_qgy
+    - title: Bright Data
+      ads: true
+      url: https://get.brightdata.com/proxyb
+      image: images/ads/lsj_1779x201.png
+      description: Bright Data 亮数据，使用全球最大的 IP 网络，利用内置的抓取和解锁功能获得访问权，并简化数据提取
+      track: ad_brightdata
+    - title: 协采云
+      ads: true
+      url: https://www.xiecaiyun.com/?channel=bob-ch
+      image: images/ads/xcy.jpg
+      description: 九年深耕，百万级代理 IP 节点自由调度，整合国内超过 90% 地区的动态代理 IP 汇聚成代理服务器池，并提供API接入，将高速稳定的代理池接入到您的自动化应用中
+      track: ad_xcy
+    - title: instaip 全球代理
+      ads: true
+      url: https://www.instaip.net?source=ChongShu
+      image: images/ads/instaip_1779x201.png
+      description: 全球覆盖超过 200+ 国家的稳定住宅 proxy
+      track: ad_instaip
     # - item: 芝麻 HTTP
     #   url: http://www.zmhttp.com/?utm-source=box&utm-keyword=?07
     #   image: images/ads/zmhttp.jpg

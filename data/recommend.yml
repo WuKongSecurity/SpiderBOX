@@ -1,4 +1,4 @@
-- taxonomy: 主站推荐
+- taxonomy: 常用推荐
   icon: far fa-star
   links:
     #    - title: 站长博客
@@ -33,14 +33,6 @@
       logo: yuanrenxue.jpg
       url: https://tool.yuanrenxue.cn/
       description: OB 在线解混淆，JS 代码转 AST，curl 转化为爬虫代码等
-
-    - title: 青果云
-      ads: true
-      url: https://www.qg.net/product/proxyip.html?website=spiderbox
-      image: images/ads/qg4.jpg
-      description: 国内领先的企业级代理IP服务商
-      track: ad_qgy
-
     - title: MDN Web API
       logo: mozilla.png
       url: https://developer.mozilla.org/docs/Web/API
@@ -65,13 +57,6 @@
 #      description: 国内领先的企业级代理IP服务商
 #      track: ad_tslm
 
-    - title: Bright Data
-      ads: true
-      url: https://get.brightdata.com/proxyb
-      image: images/ads/lsj_1779x201.png
-      description: Bright Data 亮数据，使用全球最大的 IP 网络，利用内置的抓取和解锁功能获得访问权，并简化数据提取
-      track: ad_brightdata
-
     - title: IP Checks
       logo: icanhazip.png
       url: https://api.ipchecks.top/
@@ -89,13 +74,6 @@
       url: https://tool.chinaz.com/tools/Unicode.aspx
       description: 在线 Unicode 编码转换
 
-    - title: 协采云
-      ads: true
-      url: https://www.xiecaiyun.com/?channel=bob-ch
-      image: images/ads/xcy.jpg
-      description: 九年深耕，百万级代理 IP 节点自由调度，整合国内超过 90% 地区的动态代理 IP 汇聚成代理服务器池，并提供API接入，将高速稳定的代理池接入到您的自动化应用中
-      track: ad_xcy
-
 #    - title: 站长微信公众号
 #      logo: bob.jpg
 #      qrcode: images/qrcode/IT_BOB.jpg
@@ -104,6 +82,14 @@
       logo: peet.jpg
       url: https://tls.peet.ws/
       description: TLS 指纹 API，查看 ja3、ja4 指纹
+    - title: Hook_JS
+      logo: github.png
+      url: https://github.com/0xsdeo/Hook_JS
+      description: 各种 JS Hook 脚本
+    - title: DrissionPage
+      logo: drissionpage.png
+      url: https://github.com/g1879/DrissionPage
+      description: 基于python的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和requests的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少
     - title: 猿人学·爬虫逆向进阶课
       logo: yuanrenxue.jpg
       url: https://shop45147253.m.youzan.com/wscgoods/detail/2okabph85ypv1
@@ -122,9 +108,3 @@
 #      url: https://googlechromelabs.github.io/chrome-for-testing/
 #      description: 获取 Chrome 所有版本（113 以后的）的安装包，以及 Chrome Driver 驱动
 
-    - title: instaip 全球代理
-      ads: true
-      url: https://www.instaip.net?source=ChongShu
-      image: images/ads/instaip_1779x201.png
-      description: 全球覆盖超过 200+ 国家的稳定住宅 proxy
-      track: ad_instaip

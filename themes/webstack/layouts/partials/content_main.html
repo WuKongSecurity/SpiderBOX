@@ -59,6 +59,19 @@
         {{ end }}
     {{ end }}
 
+    {{ range .Site.Data.advertisement }}
+        <div class="ad-container">
+            {{ range .links }}
+                {{ if .ads }}
+                    <a href="{{ .url }}" class="ad-link" target="_blank" rel="noopener">
+                        <img src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ .image }}" class="ad-image" alt="{{ .description }}" loading="lazy">
+                    </a>
+                {{ end }}
+            {{ end }}
+        </div>
+    {{ end }}
+    <br />
+
     <!--主站推荐-->
     {{ range .Site.Data.recommend }}
     <div class="d-flex flex-fill">
@@ -72,7 +85,7 @@
     <div class="row">
         {{ range .links }}
             {{ if .ads }}
-                <!-- 广告赞助 -->
+                <!-- 广告位（旧样式） -->
                 <div class="col-12 col-sm-6 col-md-4">
                 <div class="card">
                     {{ if .url }}
@@ -118,7 +131,7 @@
                                 </div>
                             </div>
                         </a>
-                        <a href="{{ .url }}" class="togo text-center text-muted is-views" data-id="689"
+                        <a href="{{ .url }}" class="togo text-center text-muted is-views" target="_blank" data-id="689"
                            data-toggle="tooltip" data-placement="right" title="直达" rel="nofollow">
                             <i class="far fa-arrow-alt-circle-right"></i>
                         </a>
@@ -180,7 +193,7 @@
                             </div>
                         </div>
                     </a>
-                    <a href="{{ .url }}" class="togo text-center text-muted is-views" data-id="689"
+                    <a href="{{ .url }}" class="togo text-center text-muted is-views" target="_blank" data-id="689"
                        data-toggle="tooltip" data-placement="right" title="直达" rel="nofollow">
                         <i class="far fa-arrow-alt-circle-right"></i>
                     </a>
@@ -239,7 +252,7 @@
                             </div>
                         </div>
                     </a>
-                    <a href="{{ .url }}" class="togo text-center text-muted is-views" data-id="689"
+                    <a href="{{ .url }}" class="togo text-center text-muted is-views" target="_blank" data-id="689"
                        data-toggle="tooltip" data-placement="right" title="直达" rel="nofollow">
                         <i class="far fa-arrow-alt-circle-right"></i>
                     </a>
