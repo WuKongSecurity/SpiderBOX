@@ -783,3 +783,7 @@ footer.main-footer .footer-text a:hover {
         border-radius: 4px;
     }
 }
+
+.menu-item-has-children {
+    margin-right: 16px;
+}
