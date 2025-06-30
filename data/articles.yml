@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 静夜随想
+      release_time: 2025.06.30 21:09:48
+      title: 第一次遇到uniapp逆向
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811073&idx=1&sn=04381c7c6bc31d7252c123d2dee1f417
+    - author: 菜鸟学Python编程
+      release_time: 2025.06.30 20:53:16
+      title: JS逆向|某平台反混淆练习第一题逆向详解
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566072&idx=1&sn=ba0d0d4e74c22a4c649a56546942eb18
     - author: 逆向有你
       release_time: 2025.06.30 09:35:00
       title: 安卓逆向学习 -- Xposed快速上手(上)
@@ -236,14 +244,6 @@
       release_time: 2025.06.21 12:17:14
       title: IDA 逆向分析不再重复劳动：MCP × LLM 的自动化实践
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485604&idx=1&sn=46b606d11fc9a39caa7d783e42f08e3f
-    - author: 吾爱破解论坛
-      release_time: 2025.06.21 09:00:00
-      title: 某米路由器漏洞挖掘分享
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142703&idx=1&sn=5c22b3c4912ba8eea137c2328a707b36
-    - author: 哆啦安全
-      release_time: 2025.06.20 21:29:08
-      title: Android10至16系统定制中实现同时打印JNI(Native)堆栈和Java堆栈
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498218&idx=1&sn=dc7a7c06a1654b28c0548a230465b429
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
