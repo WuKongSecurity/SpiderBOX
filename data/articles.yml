@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.06.30 09:35:00
+      title: 安卓逆向学习 -- Xposed快速上手(上)
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039476&idx=1&sn=75ea76132d9800bd6182671949cd9148
     - author: Spade sec
       release_time: 2025.06.29 21:21:20
       title: 随便聊聊
@@ -240,10 +244,6 @@
       release_time: 2025.06.20 21:29:08
       title: Android10至16系统定制中实现同时打印JNI(Native)堆栈和Java堆栈
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498218&idx=1&sn=dc7a7c06a1654b28c0548a230465b429
-    - author: 菜鸟学Python编程
-      release_time: 2025.06.20 12:00:00
-      title: AST反混淆插件| 浏览器环境简化专用插件
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566032&idx=1&sn=2ae9f29a76cd56fb78ca2940c52b7808
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
