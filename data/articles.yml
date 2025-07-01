@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制科学
+      release_time: 2025.07.02 00:00:02
+      title: frida如何对函数进行hook
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NDMzMzAwNQ==&mid=2247486014&idx=1&sn=e58c2996a609e61a964c21de7a00ee48
     - author: 菜鸟学Python编程
       release_time: 2025.07.01 20:12:09
       title: 微软历史上最臭名昭著的产品，回归了！
@@ -240,10 +244,6 @@
       release_time: 2025.06.23 20:34:00
       title: 直接还原某数vmp算法的大佬都太有毅力了
       url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811063&idx=1&sn=f95c8a52585a9ca59879411d7c338114
-    - author: 菜鸟学Python编程
-      release_time: 2025.06.23 17:41:00
-      title: AST反混淆实战|类阿卡迈控制流还原详解
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566043&idx=1&sn=f2f719422db696f68beb34dc7fe492a8
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
