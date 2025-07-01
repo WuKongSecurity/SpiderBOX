@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 和沐阳学逆向
+      release_time: 2025.07.01 11:12:05
+      title: 59.逆向工具IDApro的使用方法
+      url: https://www.bilibili.com/video/BV1i1gUzGEBJ
     - author: 冷月不是程序员
       release_time: 2025.06.30 23:02:01
       title: PyTorch孪生神经网络实战（二） 编写模型
@@ -117,13 +121,13 @@
       release_time: 2025.05.23 09:27:10
       title: Cursor+DrissionPageMCP 让AI帮我们自动化在线购物
       url: https://www.bilibili.com/video/BV1SdJ4ztEcn
-    - author: ShriyGo
-      release_time: 2025.05.22 22:54:53
-      title: 数美空间验证-逆向分析
-      url: https://www.bilibili.com/video/BV1USJnzMEzt
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 影17
+      release_time: 2025.07.01 11:31:20
+      title: 某度V2旋转验证流程分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489916&idx=1&sn=cb232da1cd8c09091cd9fbf5ba6d3cd7
     - author: Python头等奖
       release_time: 2025.07.01 09:33:52
       title: python爬虫逆向|某短视频平台bd风控参数分析笔记
@@ -240,10 +244,6 @@
       release_time: 2025.06.22 10:49:03
       title: 鸿蒙(HarmonyOS)2.0系统中定制堆栈跟踪方法
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498226&idx=1&sn=18681cbe4ccbf6e847c3fdc4aa162194
-    - author: Spade sec
-      release_time: 2025.06.22 09:00:00
-      title: PHP_webshell免杀02-绕过主流引擎通杀方案
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486069&idx=1&sn=3f4e0194345fbe96da1425d7c3877eb2
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 九月镇灵将
+      release_time: 2025.07.01 10:45:43
+      title: 某金采购平台滑块验证码识别
+      url: https://blog.csdn.net/weixin_43845191/article/details/149040370
     - author: 悦来客栈的老板
       release_time: 2025.06.30 20:53:36
       title: JS逆向|某平台反混淆练习第一题逆向详解
@@ -486,10 +490,6 @@
       release_time: 2025.06.18 20:23:25
       title: 猿人学js逆向比赛第一届第六题
       url: https://blog.csdn.net/m0_62945506/article/details/148747898
-    - author: 我是小趴菜
-      release_time: 2025.06.18 16:13:01
-      title: '[原创]某物App之算法分析'
-      url: https://bbs.kanxue.com/thread-287289.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
