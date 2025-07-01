@@ -1952,6 +1952,10 @@
           logo: iproyal.png
           url: https://iproyal.cn/?r=834888
           description: IPRoyal is one of the best and cheapest proxy service providers with 2M+ residential proxies and many other proxy types☑️! Start using it NOW!
+        - title: SmartProxy
+          logo: smartproxycn.jpg
+          url: https://www.smartproxycn.com/?keyword=lwgs1446
+          description: 9000万+纯净住宅IP，全球独享IP资源池，覆盖200+国家，免费测试
 #        - title: Ake
 #          logo: ake.png
 #          url: https://ake.net/
@@ -1960,10 +1964,10 @@
 #          logo: rayobyte.png
 #          url: https://rayobyte.com/
 #          description: We Are Rayobyte, The company that can take your business into the future no matter how much data you might need.
-        - title: Shifter
-          logo: shifter.png
-          url: https://shifter.io/
-          description: Shifter is the ultimate data toolkit for data collection providing access to residential proxy networks and data scraping APIs.
+#        - title: Shifter
+#          logo: shifter.png
+#          url: https://shifter.io/
+#          description: Shifter is the ultimate data toolkit for data collection providing access to residential proxy networks and data scraping APIs.
         - title: Pyproxy
           logo: pyproxy.png
           url: https://www.pyproxy.com/
@@ -2028,10 +2032,6 @@
           logo: piaproxy.jpg
           url: http://www.piaproxy.com/?co=spiderbox&ck=?06
           description: 通过PIAProxy享受来自200+地区的3.5亿个Socks5代理，纯净住宅IP，无限流量，仅需$0.45/IP。Enjoy 350 million Socks5 proxies from 200+ regions through PIAProxy, pure residential IP, unlimited traffic, only $0.45/IP.
-        - title: SmartProxy
-          logo: smartproxycn.jpg
-          url: https://www.smartproxycn.com/?keyword=lwgs1446
-          description: 9000万+纯净住宅IP，全球独享IP资源池，覆盖200+国家，免费测试
 
 #        - title: WTFproxy
 #          logo: wtfproxy.png
