@@ -368,14 +368,22 @@
 
     - term: 常用库/包
       links:
-        - title: PyExecJS
-          logo: github.png
-          url: https://github.com/doloopwhile/PyExecJS
-          description: 在 Python 中运行 JavaScript 代码，现已停止维护
+        - title: vm
+          logo: nodejs.png
+          url: https://nodejs.org/api/vm.html
+          description: node:vm 模块支持在 V8 虚拟机环境中编译和运行代码
         - title: vm2
           logo: github.png
           url: https://github.com/patriksimek/vm2
           description: Node.js 的高级虚拟机/沙箱，因为包含严重的安全问题，现已停止维护
+        - title: isolated-vm
+          logo: github.png
+          url: https://github.com/laverdet/isolated-vm
+          description: Node.js 的安全且隔离的 JS 环境，可作为 vm2 的替代品
+        - title: PyExecJS
+          logo: github.png
+          url: https://github.com/doloopwhile/PyExecJS
+          description: 在 Python 中运行 JavaScript 代码，现已停止维护
         - title: node_vm2
           logo: github.png
           url: https://github.com/eight04/node_vm2
@@ -1916,10 +1924,14 @@
           logo: ipidea.jpg
           url: https://share.ipidea.net/OLrYNd
           description: IPIDEA 是全球 HTTP 企业级代理 IP 服务方案提供商！为客户提供全球海外代理 IP，全球 HTTP 代理，Socks5 代理 IP
-        - title: Smartproxy
-          logo: smartproxy.png
-          url: https://smartproxy.com/
-          description: Access 40M+ high-quality IPs via Smartproxy – the top proxy service for web scraping. Enjoy location targeting &amp; easy data extraction now!
+        - title: Decodo
+          logo: decodo.png
+          url: https://decodo.com/
+          description: Smartproxy is Now Decodo. Get 125M+ global IPs via Decodo (Smartproxy) – 2025 Value Choice award winner for top data collection. Trusted by Proxyway.
+#        - title: Smartproxy
+#          logo: smartproxy.png
+#          url: https://smartproxy.com/
+#          description: Access 40M+ high-quality IPs via Smartproxy – the top proxy service for web scraping. Enjoy location targeting &amp; easy data extraction now!
         - title: Oxylabs
           logo: oxylabs.png
           url: https://oxylabs.io/
@@ -2016,6 +2028,11 @@
           logo: piaproxy.jpg
           url: http://www.piaproxy.com/?co=spiderbox&ck=?06
           description: 通过PIAProxy享受来自200+地区的3.5亿个Socks5代理，纯净住宅IP，无限流量，仅需$0.45/IP。Enjoy 350 million Socks5 proxies from 200+ regions through PIAProxy, pure residential IP, unlimited traffic, only $0.45/IP.
+        - title: SmartProxy
+          logo: smartproxycn.jpg
+          url: https://www.smartproxycn.com/?keyword=lwgs1446
+          description: 9000万+纯净住宅IP，全球独享IP资源池，覆盖200+国家，免费测试
+
 #        - title: WTFproxy
 #          logo: wtfproxy.png
 #          url: https://www.wtfproxy.com/
@@ -3179,10 +3196,18 @@
           url: https://chat.openai.com/
           logo: chatgpt.png
           description: ChatGPT，是 OpenAI 研发的一款聊天机器人程序，于2022年11月30日发布。ChatGPT 是人工智能技术驱动的自然语言处理工具，它能够基于在预训练阶段所见的模式和统计规律，来生成回答，还能根据聊天的上下文进行互动，真正像人类一样来聊天交流，甚至能完成撰写邮件、视频脚本、文案、翻译、代码，写论文等任务
-        - title: v0
-          url: https://v0.dev/
-          logo: v0.jpg
-          description: v0 是由 Vercel 推出的一款 AI 代码生成工具，可以快速生成前端组件代码
+        - title: DeepSeek
+          logo: deepseek.png
+          url: https://chat.deepseek.com/
+          description: DeepSeek
+        - title: Gemini
+          url: https://gemini.google.com/app
+          logo: gemini.png
+          description: Gemini是一款由Google DeepMind（谷歌母公司Alphabet下设立的人工智能实验室）于2023年12月6日发布的人工智能模型，可同时识别文本、图像、音频、视频和代码五种类型信息，还可以理解并生成主流编程语言（如Python、Java、C++）的高质量代码，并拥有全面的安全性评估
+        - title: 豆包
+          url: https://www.doubao.com/chat/
+          logo: doubao.jpg
+          description: 豆包是字节跳动公司基于云雀模型开发的 AI 工具，提供聊天机器人、写作助手以及英语学习助手等功能
         - title: 文心一言
           url: https://yiyan.baidu.com/
           logo: yiyan.png
@@ -3191,22 +3216,10 @@
           url: https://qianwen.aliyun.com/
           logo: qianwen.png
           description: 通义千问，是阿里云推出的一个超大规模的语言模型，功能包括多轮对话、文案创作、逻辑推理、多模态理解、多语言支持。能够跟人类进行多轮的交互，也融入了多模态的知识理解，且有文案创作能力，能够续写小说，编写邮件等
-        - title: 豆包
-          url: https://www.doubao.com/chat/
-          logo: doubao.jpg
-          description: 豆包是字节跳动公司基于云雀模型开发的 AI 工具，提供聊天机器人、写作助手以及英语学习助手等功能
         - title: NewBing
           url: https://www.bing.com/new
           logo: bing.png
           description: Bing 必应推出的 AI 聊天搜索，可以通过聊天方式创作所需图像，一站式提供搜索、聊天和创作等功能
-        - title: Google Bard
-          url: https://bard.google.com/
-          logo: bard.png
-          description: Bard 是谷歌在一个大型语言模型基础上，推出的聊天机器人。Bard 背后的力量是 Google 的对话应用语言模型，又名 LaMDA，Bard 是基于 LaMDA 的轻量级版本，使用更少的计算能力，使其能够扩展到更多的人，并提供额外的反馈
-        - title: Claude
-          url: https://claude.ai/
-          logo: claude.png
-          description: Claude 是由 Anthropic 公司开发的人工智能聊天机器人。它性格开朗、个性十足，并且有些唠叨，每次回答都尽可能把来龙去脉和相关的信息一一列出。Anthropic 成立于2021年，由一群来自 Google Brain，OpenAI 和 DeepMind 的人工智能大佬联合创立
         - title: Free ChatGPT Site List
           url: https://d0424.ai55.cc/
           logo: ai55.png
@@ -3230,10 +3243,22 @@
 
     - term: AI 代码编程
       links:
+        - title: Claude
+          url: https://claude.ai/
+          logo: claude.png
+          description: Claude 是由 Anthropic 公司开发的人工智能聊天机器人。它性格开朗、个性十足，并且有些唠叨，每次回答都尽可能把来龙去脉和相关的信息一一列出。Anthropic 成立于2021年，由一群来自 Google Brain，OpenAI 和 DeepMind 的人工智能大佬联合创立
+        - title: v0
+          url: https://v0.dev/
+          logo: v0.jpg
+          description: v0 是由 Vercel 推出的一款 AI 代码生成工具，可以快速生成前端组件代码
         - title: Copilot
           url: https://copilot.github.com/
           logo: copilot.png
           description: GitHub Copilot 是 GitHub 与 OpenAI 共同推出的一款 AI 编程工具，它基于 GitHub 及其他网站的源代码，可根据上文提示为程序员自动编写下文代码
+        - title: Cursor
+          url: https://www.cursor.so/
+          logo: cursor.png
+          description: Cursor 是一个可以与用户聊天的代码编辑器，它可以根据用户的输入来生成、修改和优化代码，无论是简单的变量声明，还是复杂的算法实现，Cursor都可以快速地给出合适的代码 。Cursor还可以提供实时的代码分析、错误检测、文档查询等功能，让你在编程过程中更加轻松和愉快
         - title: CodeGeeX
           url: https://codegeex.cn/
           logo: codegeex.png
@@ -3242,14 +3267,10 @@
           url: https://tongyi.aliyun.com/lingma/
           logo: qianwen.png
           description: 阿里推出的免费 AI 编程工具，基于通义大模型
-        - title: 豆包 MarsCode
-          url: https://www.marscode.cn/
-          logo: marscode.jpg
-          description: 豆包旗下的编程助手，提供智能补全、智能预测、智能问答等能力，节省开发时间，释放脑海中的创造力
-        - title: Cursor
-          url: https://www.cursor.so/
-          logo: cursor.png
-          description: Cursor 是一个可以与用户聊天的代码编辑器，它可以根据用户的输入来生成、修改和优化代码，无论是简单的变量声明，还是复杂的算法实现，Cursor都可以快速地给出合适的代码 。Cursor还可以提供实时的代码分析、错误检测、文档查询等功能，让你在编程过程中更加轻松和愉快
+        - title: Trae
+          url: https://www.trae.cn/
+          logo: trae.png
+          description: 字节跳动旗下原 MarsCode 编程助手，致力于成为真正的 AI 工程师（The Real AI Engineer），Trae 旗下的 AI IDE 产品，以智能生产力为核心，无缝融入你的开发流程，与你默契配合，更高质量、高效率完成每一个任务
         - title: CodeWhisperer
           url: https://aws.amazon.com/cn/codewhisperer/
           logo: codewhisperer.png
