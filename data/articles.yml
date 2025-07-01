@@ -9,10 +9,6 @@
       release_time: 2025.06.29 02:33:17
       title: PyTorch孪生神经网络实战 介绍
       url: https://www.bilibili.com/video/BV16ygXzbE7q
-    - author: 名字叫阿柒
-      release_time: 2025.06.28 01:06:14
-      title: 妈妈再也不担心我夏天没有烧烤炉了。雷军，金凡！cao。别造车了，手机都设计不明白。
-      url: https://www.bilibili.com/video/BV1NsKkzZEsq
     - author: B站用户骚神
       release_time: 2025.06.26 18:09:37
       title: 用DP修改浏览器指纹，FingerPrintV3，修改【WebGL指纹】【Canvas指纹】【插件】【经纬度】【时区】【显示器尺寸】【移动端】
@@ -121,9 +117,21 @@
       release_time: 2025.05.23 09:27:10
       title: Cursor+DrissionPageMCP 让AI帮我们自动化在线购物
       url: https://www.bilibili.com/video/BV1SdJ4ztEcn
+    - author: ShriyGo
+      release_time: 2025.05.22 22:54:53
+      title: 数美空间验证-逆向分析
+      url: https://www.bilibili.com/video/BV1USJnzMEzt
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Python头等奖
+      release_time: 2025.07.01 09:33:52
+      title: python爬虫逆向|某短视频平台bd风控参数分析笔记
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0NzMwMTM4OQ==&mid=2247484474&idx=1&sn=624bc97fdd76278b0d1f0e7e03f84317
+    - author: 哆啦安全
+      release_time: 2025.07.01 08:59:04
+      title: Android10至15实现系统调用Hook
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498255&idx=1&sn=1d967309bd1203f4a9d268a6396f0a56
     - author: 静夜随想
       release_time: 2025.06.30 21:09:48
       title: 第一次遇到uniapp逆向
@@ -236,14 +244,6 @@
       release_time: 2025.06.22 09:00:00
       title: PHP_webshell免杀02-绕过主流引擎通杀方案
       url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486069&idx=1&sn=3f4e0194345fbe96da1425d7c3877eb2
-    - author: 软件安全与逆向分析
-      release_time: 2025.06.21 15:45:00
-      title: Frida架构清明上河图，一张图感受Frida项目的庞大，17.2.4版本，133个仓库
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484845&idx=1&sn=33f5fc1e0afcac339cc35659b226cee7
-    - author: 二进制磨剑
-      release_time: 2025.06.21 12:17:14
-      title: IDA 逆向分析不再重复劳动：MCP × LLM 的自动化实践
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485604&idx=1&sn=46b606d11fc9a39caa7d783e42f08e3f
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
