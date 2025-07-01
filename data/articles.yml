@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: wipb30ybbui
+      release_time: 2025.07.01 11:26:00
+      title: 药监局瑞数6补环境生成cookie
+      url: https://www.52pojie.cn/thread-2042722-1-1.html
     - author: lhh521
       release_time: 2025.06.28 11:23:00
       title: 新手记录一次引流弹窗去除
@@ -363,10 +367,6 @@
       release_time: 2025.06.07 16:44:00
       title: 超星某习通滑块验证登录逆向分析
       url: https://www.52pojie.cn/thread-2037138-1-1.html
-    - author: ZenoMiao
-      release_time: 2025.06.07 13:03:00
-      title: '[原创] 猿人学Web爬虫攻防第一题:js 混淆 - 源码乱码'
-      url: https://www.52pojie.cn/thread-2037096-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
