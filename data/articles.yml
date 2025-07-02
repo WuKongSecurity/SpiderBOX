@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: HaveAnOrange
+      release_time: 2025.07.02 10:02:00
+      title: 某财富网滑块逆向
+      url: https://www.52pojie.cn/thread-2042937-1-1.html
     - author: buluo533
       release_time: 2025.07.02 08:15:00
       title: 某天御滑块逆向分析
@@ -363,10 +367,6 @@
       release_time: 2025.06.08 17:37:00
       title: 去除云注入之强制分享弹窗-算法助手分享
       url: https://www.52pojie.cn/thread-2037313-1-1.html
-    - author: flt
-      release_time: 2025.06.08 11:18:00
-      title: 某校图书馆预约系统分析
-      url: https://www.52pojie.cn/thread-2037247-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
