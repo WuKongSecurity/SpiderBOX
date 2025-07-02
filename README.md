@@ -15,7 +15,7 @@
   <table>
     <tr>
       <td align="center" style="padding: 20px;">
-        <a href="https://www.browserstack.com/open-source">
+        <a href="https://www.browserstack.com/open-source" target="_blank">
           <img src="https://user-images.githubusercontent.com/498917/52569900-852b3080-2e12-11e9-9bd0-f1e256b13e53.png" alt="BrowserStack" width="200">
         <br>
         <span>This project is tested with BrowserStack.</span>
