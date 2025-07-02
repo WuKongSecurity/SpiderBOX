@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: 2025.07.02 08:30:00
+      title: 【高考志愿 | 网络空间安全 | 信息安全】普通本科的大厂之路
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485617&idx=1&sn=d09e93c94ff0668aa1d41b2c75ab0f49
     - author: 二进制科学
       release_time: 2025.07.02 00:00:02
       title: frida如何对函数进行hook
@@ -240,13 +244,13 @@
       release_time: 2025.06.24 10:29:21
       title: Typora 1.10.8公钥替换
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142762&idx=1&sn=85b476bb9c3bd84facc57da9636d6dba
-    - author: 静夜随想
-      release_time: 2025.06.23 20:34:00
-      title: 直接还原某数vmp算法的大佬都太有毅力了
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811063&idx=1&sn=f95c8a52585a9ca59879411d7c338114
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: buluo533
+      release_time: 2025.07.02 08:15:00
+      title: 某天御滑块逆向分析
+      url: https://www.52pojie.cn/thread-2042898-1-1.html
     - author: wipb30ybbui
       release_time: 2025.07.01 11:26:00
       title: 药监局瑞数6补环境生成cookie
@@ -363,13 +367,13 @@
       release_time: 2025.06.08 11:18:00
       title: 某校图书馆预约系统分析
       url: https://www.52pojie.cn/thread-2037247-1-1.html
-    - author: buluo533
-      release_time: 2025.06.07 16:44:00
-      title: 超星某习通滑块验证登录逆向分析
-      url: https://www.52pojie.cn/thread-2037138-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 悦来客栈的老板
+      release_time: 2025.07.01 20:12:28
+      title: 微软历史上最臭名昭著的产品，回归了！
+      url: https://blog.csdn.net/qq523176585/article/details/149060871
     - author: Nickname肖知寒
       release_time: 2025.07.01 16:25:55
       title: instagram 获取作者作品列表id，无需登陆，无需CK
@@ -486,10 +490,6 @@
       release_time: 2025.06.19 07:13:01
       title: '[讨论]？新技术，这么吊'
       url: https://bbs.kanxue.com/thread-287291.htm
-    - author: 小白白
-      release_time: 2025.06.18 23:40:23
-      title: 伪代码口诀
-      url: https://blog.csdn.net/u014643814/article/details/148751143
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
