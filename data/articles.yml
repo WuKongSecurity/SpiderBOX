@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 零点520666
+      release_time: 2025.07.02 18:18:00
+      title: 13.喵喵盾JS代码混淆加固-全局控制流
+      url: https://www.bilibili.com/video/BV1AF34ztEKk
     - author: 和沐阳学逆向
       release_time: 2025.07.01 11:12:05
       title: 59.逆向工具IDApro的使用方法
@@ -117,10 +121,6 @@
       release_time: 2025.05.23 14:54:35
       title: 求助byd抓包签到包
       url: https://www.bilibili.com/video/BV1ocjJz3EG9
-    - author: B站用户骚神
-      release_time: 2025.05.23 09:27:10
-      title: Cursor+DrissionPageMCP 让AI帮我们自动化在线购物
-      url: https://www.bilibili.com/video/BV1SdJ4ztEcn
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
