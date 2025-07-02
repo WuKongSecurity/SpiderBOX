@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.07.02 21:38:06
+      title: AI+DrissionPage 破解各种验证码，【文字点选】【图形点选】【九宫格】【空间推理】
+      url: https://www.bilibili.com/video/BV1St34zMENf
     - author: 零点520666
       release_time: 2025.07.02 18:18:00
       title: 13.喵喵盾JS代码混淆加固-全局控制流
@@ -117,10 +121,6 @@
       release_time: 2025.05.23 22:16:53
       title: DrissionPageMCP+AI-自动抓包下载网站歌曲
       url: https://www.bilibili.com/video/BV1LhjpzEEeP
-    - author: 带带弟弟学爬虫
-      release_time: 2025.05.23 14:54:35
-      title: 求助byd抓包签到包
-      url: https://www.bilibili.com/video/BV1ocjJz3EG9
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
