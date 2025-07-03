@@ -378,10 +378,18 @@
       release_time: 2025.07.02 17:35:19
       title: 爬虫从入门到精通(22) |TLS指纹
       url: https://blog.csdn.net/qq_40558166/article/details/149073067
+    - author: Solar安全
+      release_time: 2025.07.02 17:21:55
+      title: '[原创]【病毒分析】缴纳了巨额赎金依旧无法解密？最新LockBit4.0解密器分析'
+      url: https://bbs.kanxue.com/thread-287459.htm
     - author: Tasfa
       release_time: 2025.07.02 16:57:08
       title: 混淆技术研究-混淆技术-源码分析(3)
       url: https://blog.csdn.net/qq_30135181/article/details/149073480
+    - author: LeoW丨
+      release_time: 2025.07.02 14:21:54
+      title: '[原创] 还原shc编译的shell脚本'
+      url: https://bbs.kanxue.com/thread-287439.htm
     - author: 悦来客栈的老板
       release_time: 2025.07.01 20:12:28
       title: 微软历史上最臭名昭著的产品，回归了！
@@ -394,6 +402,18 @@
       release_time: 2025.07.01 16:17:56
       title: instagram 作品下载，无需ck，无需登陆
       url: https://blog.csdn.net/weixin_45307278/article/details/149049262
+    - author: Lynnette
+      release_time: 2025.07.01 14:21:55
+      title: '[原创]iOS免越狱hook与越狱hook整合，附IMGUI'
+      url: https://bbs.kanxue.com/thread-287425.htm
+    - author: Rocky虞
+      release_time: 2025.07.01 14:21:54
+      title: '[原创]记录一下对某书的RPC调用点分析'
+      url: https://bbs.kanxue.com/thread-287422.htm
+    - author: 安卓逆向test
+      release_time: 2025.07.01 14:21:54
+      title: '[原创]在内核中直接使用uprobe的一些坑'
+      url: https://bbs.kanxue.com/thread-287430.htm
     - author: 九月镇灵将
       release_time: 2025.07.01 10:45:43
       title: 某金采购平台滑块验证码识别
@@ -402,14 +422,34 @@
       release_time: 2025.06.30 20:53:36
       title: JS逆向|某平台反混淆练习第一题逆向详解
       url: https://blog.csdn.net/qq523176585/article/details/149037173
+    - author: 郑z
+      release_time: 2025.06.30 14:21:54
+      title: '[原创] 编译frida-gum c版'
+      url: https://bbs.kanxue.com/thread-287401.htm
     - author: 狗都不学爬虫_
       release_time: 2025.06.30 12:30:02
       title: JS逆向 - 易某付滑块
       url: https://blog.csdn.net/qq_53444631/article/details/149019336
+    - author: Lynnette
+      release_time: 2025.06.29 14:21:54
+      title: '[原创]GirlHook 轻量化的LUA脚本Android Hook框架'
+      url: https://bbs.kanxue.com/thread-287393.htm
     - author: ~贝母~
       release_time: 2025.06.28 19:42:15
       title: 猿人学js逆向比赛第一届第十四题
       url: https://blog.csdn.net/m0_62945506/article/details/148980622
+    - author: Mr_Holiday
+      release_time: 2025.06.28 14:21:54
+      title: '[原创]PiScanner (AI Red Teaming —— Prompt Injection Scanner)'
+      url: https://bbs.kanxue.com/thread-287377.htm
+    - author: 富到流油^-^
+      release_time: 2025.06.28 14:21:54
+      title: '[下载][分享][推荐]万能播放器，FFmpet+opssl构成，支持本地文件和网络地址https等'
+      url: https://bbs.kanxue.com/thread-287380.htm
+    - author: 0x指纹
+      release_time: 2025.06.28 14:21:54
+      title: '[原创]安卓旧系统 OTA 包分析与漏洞提权适配'
+      url: https://bbs.kanxue.com/thread-287383.htm
     - author: 吴秋霖
       release_time: 2025.06.28 09:00:00
       title: 44位abogus补环境与纯算逆向分析
@@ -418,6 +458,14 @@
       release_time: 2025.06.28 01:43:49
       title: 最新版某手sig3深度算法还原分析
       url: https://codeooo.blog.csdn.net/article/details/148789587
+    - author: DirtyAngle
+      release_time: 2025.06.27 14:21:54
+      title: '[原创]jni trace for magisk'
+      url: https://bbs.kanxue.com/thread-287369.htm
+    - author: 棕熊
+      release_time: 2025.06.27 14:21:54
+      title: '[原创]你的最后一个Zygisk注入器 - 动动手指轻松注入并隐藏你的SO文件'
+      url: https://bbs.kanxue.com/thread-287370.htm
     - author: Nickname肖知寒
       release_time: 2025.06.26 10:05:00
       title: 抖音消息文字私信
@@ -442,54 +490,6 @@
       release_time: 2025.06.24 09:52:55
       title: 体育直播推流数据
       url: https://blog.csdn.net/w62181310/article/details/148864932
-    - author: 悦来客栈的老板
-      release_time: 2025.06.23 17:41:28
-      title: AST反混淆实战|类阿卡迈控制流还原详解
-      url: https://blog.csdn.net/qq523176585/article/details/148859835
-    - author: Codeooo
-      release_time: 2025.06.23 11:35:40
-      title: 最新版某手 sig 及 __NStokensig 分析
-      url: https://codeooo.blog.csdn.net/article/details/148773706
-    - author: 王辉辉的猫
-      release_time: 2025.06.23 09:19:13
-      title: 004.chromium编译进阶-启动时传入cookies
-      url: https://blog.csdn.net/w1101662433/article/details/148839005
-    - author: ~贝母~
-      release_time: 2025.06.23 02:02:43
-      title: 猿人学js逆向比赛第一届第十一题
-      url: https://blog.csdn.net/m0_62945506/article/details/148836067
-    - author: ~贝母~
-      release_time: 2025.06.22 13:43:45
-      title: 猿人学js逆向比赛第一届第十题
-      url: https://blog.csdn.net/m0_62945506/article/details/148826653
-    - author: Python成长路
-      release_time: 2025.06.22 10:44:37
-      title: 【微信插件】关键词自动回复
-      url: https://blog.csdn.net/Qwertyuiop2016/article/details/148824479
-    - author: Python成长路
-      release_time: 2025.06.21 17:01:51
-      title: 【微信插件】自动下载微信聊天中的图片、文件和视频
-      url: https://blog.csdn.net/Qwertyuiop2016/article/details/148812291
-    - author: ~贝母~
-      release_time: 2025.06.20 23:12:55
-      title: 猿人学js逆向比赛第一届第九题
-      url: https://blog.csdn.net/m0_62945506/article/details/148800993
-    - author: ~贝母~
-      release_time: 2025.06.20 15:28:35
-      title: 猿人学js逆向比赛第一届第八题
-      url: https://blog.csdn.net/m0_62945506/article/details/148793255
-    - author: 悦来客栈的老板
-      release_time: 2025.06.20 12:01:38
-      title: AST反混淆插件| 浏览器环境简化专用插件
-      url: https://blog.csdn.net/qq523176585/article/details/148802944
-    - author: Codeooo
-      release_time: 2025.06.20 10:03:13
-      title: 某航旅机票查票protobuf传输及so分析
-      url: https://codeooo.blog.csdn.net/article/details/148765095
-    - author: 悦来客栈的老板
-      release_time: 2025.06.19 20:22:29
-      title: 实用小工具|使用cheerio库提取html内的js混淆代码
-      url: https://blog.csdn.net/qq523176585/article/details/148779097
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
