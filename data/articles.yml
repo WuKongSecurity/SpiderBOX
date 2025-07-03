@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: ikun的嘴
+      release_time: 2025.07.03 11:51:47
+      title: 新手js逆向补环境如何快速进阶，一个视频带你成为补环境高手
+      url: https://www.bilibili.com/video/BV1ne3azzE8i
     - author: B站用户骚神
       release_time: 2025.07.02 21:38:06
       title: AI+DrissionPage 破解各种验证码，【文字点选】【图形点选】【九宫格】【空间推理】
@@ -117,10 +121,6 @@
       release_time: 2025.05.24 20:32:45
       title: 花指令对大模型在自动化逆向工作中的干扰致惑
       url: https://www.bilibili.com/video/BV1rXjtzBEci
-    - author: B站用户骚神
-      release_time: 2025.05.23 22:16:53
-      title: DrissionPageMCP+AI-自动抓包下载网站歌曲
-      url: https://www.bilibili.com/video/BV1LhjpzEEeP
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
