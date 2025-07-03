@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 零点520666
+      release_time: 2025.07.03 18:18:00
+      title: 14.喵喵盾JS代码混淆加固-高性能控制流
+      url: https://www.bilibili.com/video/BV1WF34ztETt
     - author: ikun的嘴
       release_time: 2025.07.03 11:51:47
       title: 新手js逆向补环境如何快速进阶，一个视频带你成为补环境高手
@@ -117,10 +121,6 @@
       release_time: 2025.05.25 13:22:36
       title: ida+mcp+cursor快速逆向某星球APP
       url: https://www.bilibili.com/video/BV1R1jMzrE7d
-    - author: r0ysue
-      release_time: 2025.05.24 20:32:45
-      title: 花指令对大模型在自动化逆向工作中的干扰致惑
-      url: https://www.bilibili.com/video/BV1rXjtzBEci
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
