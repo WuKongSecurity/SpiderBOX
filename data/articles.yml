@@ -370,6 +370,14 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Yangser
+      release_time: 2025.07.04 18:37:13
+      title: '[原创]基础so注入的实现'
+      url: https://bbs.kanxue.com/thread-287494.htm
+    - author: 猫先森_
+      release_time: 2025.07.04 18:04:24
+      title: shopee 虾皮 商品详情数据 评论数据
+      url: https://blog.csdn.net/weixin_41259961/article/details/149122513
     - author: 差不多的张三
       release_time: 2025.07.04 13:33:01
       title: '[原创]【银行逆向百例】11小程序逆向之修复页面未注册 位置权限 Yakit 魔术方法afterRequest修改明文数据'
@@ -482,14 +490,6 @@
       release_time: 2025.06.26 10:00:19
       title: 抖音陌生人消息监控
       url: https://blog.csdn.net/weixin_45307278/article/details/148919082
-    - author: Nickname肖知寒
-      release_time: 2025.06.26 09:55:09
-      title: 抖音好友消息监控
-      url: https://blog.csdn.net/weixin_45307278/article/details/148918887
-    - author: ~贝母~
-      release_time: 2025.06.24 22:03:39
-      title: 猿人学js逆向比赛第一届第十三题
-      url: https://blog.csdn.net/m0_62945506/article/details/148880539
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
