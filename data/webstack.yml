@@ -492,7 +492,10 @@
           logo: github.png
           url: https://github.com/T14Raptor/go-fAST
           description: 用 Go 编写的 JavaScript AST 解析器、遍历器和生成器
-
+        - title: chromiumHook
+          logo: github.png
+          url: https://github.com/LoseNine/chromiumHook
+          description: 魔改 chromium 浏览器，修改 v8，自动化打印浏览器的 JavaScript 脚本执行流程，方便指纹分析和逆向
 #        - title: diffbot
 #          logo: diffbot.png
 #          url: https://www.diffbot.com/
@@ -590,6 +593,10 @@
           logo: webhook.jpg
           url: https://github.com/valuespider/webHookTools
           description: 阿布的 js 反调试工具
+        - title: xPath Tester
+          logo: xpathhelper.jpg
+          url: https://xpathtester.dev/
+          description: 轻松实时检查 XPath 表达式，直接在浏览器中验证和调试 XPath 查询
         - title: XPath Helper
           logo: xpathhelper.jpg
           url: https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl
@@ -1104,6 +1111,10 @@
           logo: brightdata.png
           url: https://get.brightdata.com/sbitbob
           description: 远程连接指纹浏览器，运行您的 Puppeteer、Selenium 和 Playwright 脚本，并利用内置的 Captcha Solver 自动解决验证码，维护抓取和浏览器基础设施的运营开销为零
+        - title: Chromium_FingerPrint_Tutorial
+          logo: github.png
+          url: https://github.com/LoseNine/Chromium_FingerPrint_Tutorial
+          description: 《Chromium指纹浏览器开发教程》，作者：如意
         - title: camoufox
           logo: camoufox.png
           url: https://github.com/daijro/camoufox
@@ -1448,6 +1459,18 @@
           logo: cap.guru.png
           url: https://cap.guru/en/regen/?ref=157952
           description: 支持 reCAPTCHA、Arkose Labs FunCaptcha、Amazon（AWS）WAF、Geetest（极验）、TikTok、Binance、Temu 等
+        - title: Takion API
+          logo: takionapi.jpg
+          url: https://takionapi.tech/
+          description: 支持 Datadome、PerimeterX、Geetest（极验） 等
+        - title: RiskByPass
+          logo: riskbypass.png
+          url: https://riskbypass.com/
+          description: 支持 Akamai、Kasada、Shape、Cloudflare、DataDome、Arkose Labs FunCaptcha、Incapsula（Imperva、reese84） 等
+        - title: Captcha API
+          logo: captcha-api.png
+          url: https://www.captcha-api.com/
+          description: 支持 Akamai、Kasada、reCAPTCHA、hCaptcha、Cloudflare、Incapsula（Imperva、reese84）等
         - title: 知数云
           logo: zhishuyun.jpg
           url: https://data.zhishuyun.com?inviter_id=f4387498-c5b5-4f0d-8765-f44a44f8963b
@@ -1679,7 +1702,7 @@
           description: AI驱动的数据产品服务商，产品体系包括 IP 风险画像、IP 真假人、业务风控反欺诈等
         - title: IP 数据云
           logo: ipdatacloud.png
-          url: https://www.ipdatacloud.com/
+          url: https://www.ipdatacloud.com/?invitation_code=uFlqc3ayYTk4t6hxHPJto6b0hKbhiJlC
           description: 提供风险防控解决方案，针对各种场景下的代理、爬虫、真人率、秒拨等行为，利用领先的大数据算法，精准识别风险行为，提升平台安全风控能力，减少业务损失
         - title: 威胁猎人
           logo: threathunter.png
