@@ -2,6 +2,10 @@
   list:
   - links:
     - author: 零点520666
+      release_time: 2025.07.05 18:18:00
+      title: 15.喵喵盾JS代码混淆加固-动态混淆
+      url: https://www.bilibili.com/video/BV14X3xzAERe
+    - author: 零点520666
       release_time: 2025.07.03 18:18:00
       title: 14.喵喵盾JS代码混淆加固-高性能控制流
       url: https://www.bilibili.com/video/BV1WF34ztETt
@@ -117,10 +121,6 @@
       release_time: 2025.05.25 16:16:55
       title: “求推荐测试机！”，被问麻了，这次直接上架自用款，reqable + lsp环境配置
       url: https://www.bilibili.com/video/BV1wejgzZEPk
-    - author: 带带弟弟学爬虫
-      release_time: 2025.05.25 13:22:36
-      title: ida+mcp+cursor快速逆向某星球APP
-      url: https://www.bilibili.com/video/BV1R1jMzrE7d
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
