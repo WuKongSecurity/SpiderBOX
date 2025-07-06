@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 静夜随想
+      release_time: 2025.07.06 21:41:02
+      title: 重生之我在工位囚徒健身
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811083&idx=1&sn=f27dacfcd7582bc14c1c9d2c7a02a79b
     - author: 哆啦安全
       release_time: 2025.07.03 08:00:00
       title: Unity il2cpp游戏逆向分析浅析
@@ -240,10 +244,6 @@
       release_time: 2025.06.24 17:12:00
       title: AST基础知识|babel库中path常用方法总结
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566047&idx=1&sn=b28810a379d221115a5cc83c1f7fbd1f
-    - author: 布鲁的Python之旅
-      release_time: 2025.06.24 16:58:21
-      title: 【捞女游戏】Steam游戏热评
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486094&idx=1&sn=e201b8c21b55f128ddbdf416a4ddf101
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
