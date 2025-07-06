@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 零点520666
+      release_time: 2025.07.06 18:18:00
+      title: 16.喵喵盾JS代码混淆加固-局部混淆
+      url: https://www.bilibili.com/video/BV1KX3xzAEZf
     - author: 和沐阳学逆向
       release_time: 2025.07.06 16:54:16
       title: 60.(广子)iOS逆向助手的开发思路
@@ -117,10 +121,6 @@
       release_time: 2025.05.25 22:33:43
       title: js逆向-akamai_3.0之jsvmp-dvc参数8个插桩位置如何找
       url: https://www.bilibili.com/video/BV1b1j3zuEpz
-    - author: B站用户骚神
-      release_time: 2025.05.25 20:13:36
-      title: DrissionPageMCP+Ai 浏览器自动上传下载文件
-      url: https://www.bilibili.com/video/BV1jDjGzRE74
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
