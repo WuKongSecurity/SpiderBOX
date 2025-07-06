@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 和沐阳学逆向
+      release_time: 2025.07.06 16:54:16
+      title: 60.(广子)iOS逆向助手的开发思路
+      url: https://www.bilibili.com/video/BV1hE3eztELP
     - author: 零点520666
       release_time: 2025.07.05 18:18:00
       title: 15.喵喵盾JS代码混淆加固-动态混淆
@@ -117,10 +121,6 @@
       release_time: 2025.05.25 20:13:36
       title: DrissionPageMCP+Ai 浏览器自动上传下载文件
       url: https://www.bilibili.com/video/BV1jDjGzRE74
-    - author: 可乐还是百事好呀
-      release_time: 2025.05.25 16:16:55
-      title: “求推荐测试机！”，被问麻了，这次直接上架自用款，reqable + lsp环境配置
-      url: https://www.bilibili.com/video/BV1wejgzZEPk
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
