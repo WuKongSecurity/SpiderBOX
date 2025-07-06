@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.07.07 06:00:00
+      title: 7月7日，刚刚通知！
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498287&idx=1&sn=65ef17429ab0abf76b8f56aa99544b09
     - author: 静夜随想
       release_time: 2025.07.06 21:41:02
       title: 重生之我在工位囚徒健身
@@ -240,10 +244,6 @@
       release_time: 2025.06.25 10:59:19
       title: 安卓逆向 -- APP去广告合集教程（附带绿化版跳过广告软件）
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039452&idx=1&sn=80bff74752787e56276f9c70db5cdae0
-    - author: 菜鸟学Python编程
-      release_time: 2025.06.24 17:12:00
-      title: AST基础知识|babel库中path常用方法总结
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566047&idx=1&sn=b28810a379d221115a5cc83c1f7fbd1f
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
