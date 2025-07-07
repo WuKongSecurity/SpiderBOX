@@ -1935,6 +1935,10 @@
           logo: nstproxy.jpg
           url: https://app.nstproxy.com/register?i=EKtJne
           description: nstproxy provide various types of proxies, including rotating residential proxies(city target and country target), datacenter proxies, ipv6 proxies, ISP proxies, and mobile proxies. Partner with nstproxy to get high-quality proxies that meet your needs for data collection, web scraping, and privacy protection.
+        - title: IPIPGO 全球住宅 IP
+          logo: ipipgo.jpg
+          url: https://www.ipipgo.com?inviteLink=e9dv4Dho
+          description: IPIPGO 全球住宅 IP，企业级海外代理IP服务商，汇集全球245个国家/地区的9000万家庭住宅IP，涵盖静态、动态、原生跨境专线等方案，提供全面的免费测试，确保满足您的业务需求
         - title: Cliproxy
           logo: cliproxy.png
           url: https://cliproxy.com/?kwd=ty-spiderbox
@@ -2003,10 +2007,6 @@
           logo: ipfoxy.jpg
           url: https://www.ipfoxy.net/?r=lk_spiderbox
           description: 专注于为跨境玩家提供全球独享纯净IP代理
-        - title: IPIPGO 全球住宅 IP
-          logo: ipipgo.jpg
-          url: http://www.ipipgo.com/?promotionLink=8e9453
-          description: IPIPGO 全球住宅 IP，企业级海外代理IP服务商，汇集全球245个国家/地区的9000万家庭住宅IP，涵盖静态、动态、原生跨境专线等方案，提供全面的免费测试，确保满足您的业务需求
         - title: 神龙海外代理 IP
           logo: shenlongproxy.jpg
           url: http://www.shenlongproxy.com/?promotionLink=8e9453
@@ -2050,11 +2050,15 @@
         - title: LunaProxy
           logo: lunaproxy.png
           url: https://www.lunaproxy.com/?ls=spiderbox&lk=?06
-          description: 最实惠的住宅代理，享受来自195+位置的2亿个真实住宅IP，无限制收集LLM和任何网络数据。起价$0.77/GB。The most affordable residential proxy, enjoy 200 million real residential IPs from 195+ locations, unlimited collection of LLM and any network data. Starting from $0.77/GB.
+          description: 最实惠的住宅代理，享受来自 195+ 位置的 2 亿个真实住宅 IP，无限制收集 LLM 和任何网络数据。起价 $0.77/GB。The most affordable residential proxy, enjoy 200 million real residential IPs from 195+ locations, unlimited collection of LLM and any network data. Starting from $0.77/GB.
         - title: PIA S5 Proxy
           logo: piaproxy.jpg
           url: http://www.piaproxy.com/?co=spiderbox&ck=?06
-          description: 通过PIAProxy享受来自200+地区的3.5亿个Socks5代理，纯净住宅IP，无限流量，仅需$0.45/IP。Enjoy 350 million Socks5 proxies from 200+ regions through PIAProxy, pure residential IP, unlimited traffic, only $0.45/IP.
+          description: 通过 PIAProxy 享受来自 200+ 地区的 3.5 亿个 Socks5 代理，纯净住宅 IP，无限流量，仅需 $0.45/IP。Enjoy 350 million Socks5 proxies from 200+ regions through PIAProxy, pure residential IP, unlimited traffic, only $0.45/IP.
+        - title: ip2world
+          logo: ip2world.jpg
+          url: https://www.ip2world.com/?ref=FMSLWPZ2U4
+          description: Top-notch residential proxy service provides 90M+ IP proxies in 220+ locations, HTTP(S) & SOCKS5 proxies automatic rotation & S5 proxy manager software, static residential ISP proxies, proxy servers for python web scraping, e-commerce marketing brand, sneakers, ChatGPT, SEO, social media, browser data collection.
 
 #        - title: WTFproxy
 #          logo: wtfproxy.png

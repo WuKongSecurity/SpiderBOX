@@ -724,7 +724,7 @@ footer.main-footer .footer-text a:hover {
     height: 225px !important;
 }
 
-@media screen and (min-width: 1500px) {
+@media screen and (max-width: 1200px) {
     .hot-title {
         font-size: 14px;
     }
