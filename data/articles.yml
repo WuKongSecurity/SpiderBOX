@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 布鲁的Python之旅
+      release_time: 2025.07.07 17:10:06
+      title: Python爬虫管理平台分布式版本2.0，支持Windows分机调度
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486200&idx=1&sn=583b5869d2a0ad432f676dc4f347de29
     - author: Spade sec
       release_time: 2025.07.07 09:28:11
       title: JS逆向系列21-hook绕过表单禁止复制粘贴(其一)
@@ -240,10 +244,6 @@
       release_time: 2025.06.25 16:45:12
       title: 小红书安卓shield签名算法分析（一）
       url: https://mp.weixin.qq.com/s?__biz=MzU2NjQ2NzMyNw==&mid=2247490002&idx=1&sn=e319c0841f989a26d9277231ed604bab
-    - author: 逆向有你
-      release_time: 2025.06.25 10:59:19
-      title: 安卓逆向 -- APP去广告合集教程（附带绿化版跳过广告软件）
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039452&idx=1&sn=80bff74752787e56276f9c70db5cdae0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
