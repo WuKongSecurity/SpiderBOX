@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 静夜随想
+      release_time: 2025.07.07 20:41:00
+      title: 测试了下盾山加密补环境
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811084&idx=1&sn=69da6f0a12cc4f4b6fa6763ab7ecf047
     - author: 布鲁的Python之旅
       release_time: 2025.07.07 17:10:06
       title: Python爬虫管理平台分布式版本2.0，支持Windows分机调度
@@ -240,10 +244,6 @@
       release_time: 2025.06.25 17:02:04
       title: windows编译chromium,魔改 去除debugger
       url: https://mp.weixin.qq.com/s?__biz=MzI3MjQ3OTE3OA==&mid=2247483951&idx=1&sn=9fa7993878936e01cc48efee32192988
-    - author: 一生向风
-      release_time: 2025.06.25 16:45:12
-      title: 小红书安卓shield签名算法分析（一）
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NjQ2NzMyNw==&mid=2247490002&idx=1&sn=e319c0841f989a26d9277231ed604bab
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
