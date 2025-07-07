@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 零点520666
+      release_time: 2025.07.07 18:18:00
+      title: 17.喵喵盾JS代码混淆加固-混淆代码性能测试
+      url: https://www.bilibili.com/video/BV14X3xzAEag
     - author: B站用户骚神
       release_time: 2025.07.07 13:15:20
       title: 骚神插件9.7.3 新增【xpath动态生成】【逆向代码注入】【抓包代码生成】三大功能
@@ -117,10 +121,6 @@
       release_time: 2025.05.28 20:02:45
       title: 58.Linux安装IDAPro9.0
       url: https://www.bilibili.com/video/BV1iGjqzoEZF
-    - author: r0ysue
-      release_time: 2025.05.27 23:09:51
-      title: r0mcp增加函数名直接修改变量名变量类型减少50%API调用次数
-      url: https://www.bilibili.com/video/BV1RjjZzyEuB
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
