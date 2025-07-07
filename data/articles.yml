@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: buluo533
+      release_time: 2025.07.07 22:43:00
+      title: ast还原某程登陆滑块逆向分析
+      url: https://www.52pojie.cn/thread-2044075-1-1.html
     - author: chocolate.
       release_time: 2025.07.07 15:32:00
       title: 猿人学二十题 js 逆向分析
@@ -363,10 +367,6 @@
       release_time: 2025.06.10 21:42:00
       title: Ollvm整合到XCode中的几种方法
       url: https://www.52pojie.cn/thread-2037867-1-1.html
-    - author: ZenoMiao
-      release_time: 2025.06.10 17:34:00
-      title: '[原创]Scrape spa14 wasm加密过程分析'
-      url: https://www.52pojie.cn/thread-2037819-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
