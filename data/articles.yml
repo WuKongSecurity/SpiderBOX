@@ -422,6 +422,10 @@
       release_time: 2025.07.02 14:21:54
       title: '[原创] 还原shc编译的shell脚本'
       url: https://bbs.kanxue.com/thread-287439.htm
+    - author: Codeooo
+      release_time: 2025.07.02 10:23:27
+      title: X书shield算法分析
+      url: https://codeooo.blog.csdn.net/article/details/148905600
     - author: Nickname肖知寒
       release_time: 2025.07.01 16:25:55
       title: instagram 获取作者作品列表id，无需登陆，无需CK
@@ -486,10 +490,6 @@
       release_time: 2025.06.28 14:21:54
       title: '[原创]安卓旧系统 OTA 包分析与漏洞提权适配'
       url: https://bbs.kanxue.com/thread-287383.htm
-    - author: 吴秋霖
-      release_time: 2025.06.28 09:00:00
-      title: 44位abogus补环境与纯算逆向分析
-      url: https://crawler.blog.csdn.net/article/details/148652196
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
