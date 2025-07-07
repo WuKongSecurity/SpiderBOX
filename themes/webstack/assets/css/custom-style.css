@@ -538,7 +538,7 @@ footer.main-footer .footer-text a:hover {
     float: right;
     font-size: 14px;
     color: #555555;
-    margin-right: 2rem
+    /*margin-right: 2rem*/
 }
 
 .hot-body {
@@ -722,6 +722,18 @@ footer.main-footer .footer-text a:hover {
 
 .hot-body {
     height: 225px !important;
+}
+
+@media screen and (min-width: 1500px) {
+    .hot-title {
+        font-size: 14px;
+    }
+    .hot-list {
+        font-size: 13px;
+    }
+    .hot-time{
+        font-size: 13px;
+    }
 }
 
 /* 广告位置背景颜色透明 */
