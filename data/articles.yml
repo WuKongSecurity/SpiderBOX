@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.07.08 16:30:58
+      title: 【清理未活跃会员】清理2025年十七周年开放注册未活跃会员公告
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142764&idx=1&sn=5f752f92393f56008733cecea71bb997
     - author: 二进制磨剑
       release_time: 2025.07.08 12:44:49
       title: 【高考志愿 | 网络空间安全 | 信息安全】大一女生的逆向工程学习经历
@@ -240,10 +244,6 @@
       release_time: 2025.06.26 08:29:00
       title: 传销式购车欺诈手法分析
       url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196950&idx=1&sn=9a64a93f53409501fbdd497175b8fc5c
-    - author: 哆啦安全
-      release_time: 2025.06.25 22:55:14
-      title: 基于QEMU/KVM定制Android10至16系统
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498237&idx=1&sn=115f43d732a93f20fea2999017cd0257
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
