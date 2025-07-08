@@ -2057,7 +2057,7 @@
           description: 通过 PIAProxy 享受来自 200+ 地区的 3.5 亿个 Socks5 代理，纯净住宅 IP，无限流量，仅需 $0.45/IP。Enjoy 350 million Socks5 proxies from 200+ regions through PIAProxy, pure residential IP, unlimited traffic, only $0.45/IP.
         - title: ip2world
           logo: ip2world.jpg
-          url: https://www.ip2world.com/?ref=FMSLWPZ2U4
+          url: http://www.ip2world.com/?utm-source=hui&utm-keyword=?zq
           description: Top-notch residential proxy service provides 90M+ IP proxies in 220+ locations, HTTP(S) & SOCKS5 proxies automatic rotation & S5 proxy manager software, static residential ISP proxies, proxy servers for python web scraping, e-commerce marketing brand, sneakers, ChatGPT, SEO, social media, browser data collection.
 
 #        - title: WTFproxy
