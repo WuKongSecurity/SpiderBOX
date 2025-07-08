@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: aaa64696026
+      release_time: 2025.07.08 10:51:00
+      title: 解锁繁花剧场会员
+      url: https://www.52pojie.cn/thread-2044152-1-1.html
     - author: buluo533
       release_time: 2025.07.07 22:43:00
       title: ast还原某程登陆滑块逆向分析
@@ -363,10 +367,6 @@
       release_time: 2025.06.10 21:51:00
       title: '[原创] 网洛者 JJEncode加密 - 初体验 逆向分析'
       url: https://www.52pojie.cn/thread-2037870-1-1.html
-    - author: lichao890427
-      release_time: 2025.06.10 21:42:00
-      title: Ollvm整合到XCode中的几种方法
-      url: https://www.52pojie.cn/thread-2037867-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
