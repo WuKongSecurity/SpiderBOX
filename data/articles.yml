@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 和沐阳学逆向
+      release_time: 2025.07.08 23:33:24
+      title: 61.win_0基础搭建IDApro-MCP的AI逆向二进制环境
+      url: https://www.bilibili.com/video/BV1j3GHzBEiQ
     - author: 零点520666
       release_time: 2025.07.07 18:18:00
       title: 17.喵喵盾JS代码混淆加固-混淆代码性能测试
@@ -117,10 +121,6 @@
       release_time: 2025.05.29 16:45:11
       title: 骚神插件9.7最新版-彻底搞定网页Xpath！！！
       url: https://www.bilibili.com/video/BV1B77VzFEPd
-    - author: 和沐阳学逆向
-      release_time: 2025.05.28 20:02:45
-      title: 58.Linux安装IDAPro9.0
-      url: https://www.bilibili.com/video/BV1iGjqzoEZF
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
