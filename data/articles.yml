@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.07.08 10:36:55
+      title: PC逆向 -- 尝试破解微软经典扫雷小游戏，实现一秒通关
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039576&idx=1&sn=7f2c4e8d2108385e48fd1ec1c30652a0
+    - author: 哆啦安全
+      release_time: 2025.07.08 10:20:11
+      title: CTF设计指南
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498292&idx=1&sn=f3546b9adfd58da91e3975b5b0d70c70
     - author: 静夜随想
       release_time: 2025.07.07 20:41:00
       title: 测试了下盾山加密补环境
@@ -236,14 +244,6 @@
       release_time: 2025.06.25 22:24:33
       title: 新书出版《Chromium指纹浏览器开发教程》
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483828&idx=1&sn=f4ac5b2394777dfab572108061ab7c16
-    - author: 菜鸟学Python编程
-      release_time: 2025.06.25 17:24:00
-      title: AST基础知识|Scope和Binding常用方法及属性总结
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566052&idx=1&sn=c04b3dfd6ef0b36979c284cd0032ece7
-    - author: 黑脸怪
-      release_time: 2025.06.25 17:02:04
-      title: windows编译chromium,魔改 去除debugger
-      url: https://mp.weixin.qq.com/s?__biz=MzI3MjQ3OTE3OA==&mid=2247483951&idx=1&sn=9fa7993878936e01cc48efee32192988
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
