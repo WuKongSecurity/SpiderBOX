@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.07.08 18:08:39
+      title: 喵喵盾也是可以进行还原处理的，ᥬ😂᭄
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566081&idx=1&sn=7f4d09e03d5894d9e8496b76975a4fef
     - author: 吾爱破解论坛
       release_time: 2025.07.08 16:30:58
       title: 【清理未活跃会员】清理2025年十七周年开放注册未活跃会员公告
@@ -240,10 +244,6 @@
       release_time: 2025.06.26 11:55:35
       title: 全网首发！收据单语义验证码识别
       url: https://mp.weixin.qq.com/s?__biz=Mzg4NDgxNTAzNg==&mid=2247483824&idx=1&sn=99cddb6a424b005243eaf07debd9fefe
-    - author: 小伍哥聊风控
-      release_time: 2025.06.26 08:29:00
-      title: 传销式购车欺诈手法分析
-      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196950&idx=1&sn=9a64a93f53409501fbdd497175b8fc5c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
