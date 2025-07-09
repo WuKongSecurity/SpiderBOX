@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 静夜随想
+      release_time: 2025.07.09 19:58:08
+      title: Object.freeze在JavaScript逆向时的妙用
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811088&idx=1&sn=8877e96e04356a6f02fb143e75f69e9b
     - author: 逆向有你
       release_time: 2025.07.09 10:42:09
       title: 安卓逆向 -- Xposed快速上手（下）
@@ -240,10 +244,6 @@
       release_time: 2025.06.27 16:35:31
       title: tiktok 滑块验证逆向流程分析
       url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489862&idx=1&sn=173a5b7cd2da84adb3048b227750d16c
-    - author: 逆向有你
-      release_time: 2025.06.27 10:44:33
-      title: JS逆向 -- 常见检测到开发者工具的制止手段
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039457&idx=1&sn=b9c1dc41bfe58c418a0a7d6099ea10d5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
