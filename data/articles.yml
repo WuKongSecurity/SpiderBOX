@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.07.09 15:25:57
+      title: FastAPI+DrissionPage，远程操作浏览器自动化抓数据
+      url: https://www.bilibili.com/video/BV1sJGwzhE8D
     - author: 和沐阳学逆向
       release_time: 2025.07.08 23:33:24
       title: 61.win_0基础搭建IDApro-MCP的AI逆向二进制环境
@@ -117,10 +121,6 @@
       release_time: 2025.06.05 10:35:28
       title: 花神插件-专为女性用户设计DrissionPage插件
       url: https://www.bilibili.com/video/BV1j7TszYEjz
-    - author: B站用户骚神
-      release_time: 2025.05.29 16:45:11
-      title: 骚神插件9.7最新版-彻底搞定网页Xpath！！！
-      url: https://www.bilibili.com/video/BV1B77VzFEPd
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
