@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: DirtyAngle
+      release_time: 2025.07.09 18:26:43
+      title: '[原创]三百6初探'
+      url: https://bbs.kanxue.com/thread-287552.htm
     - author: 我不是卷王
       release_time: 2025.07.09 13:16:14
       title: '[原创]某加密部分检测'
@@ -486,10 +490,6 @@
       release_time: 2025.06.30 20:53:36
       title: JS逆向|某平台反混淆练习第一题逆向详解
       url: https://blog.csdn.net/qq523176585/article/details/149037173
-    - author: 郑z
-      release_time: 2025.06.30 14:21:54
-      title: '[原创] 编译frida-gum c版'
-      url: https://bbs.kanxue.com/thread-287401.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
