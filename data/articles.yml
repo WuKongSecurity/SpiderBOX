@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: justWant404
+      release_time: 2025.07.08 20:39:00
+      title: x红书水印去除Frida脚本和Xposed模块
+      url: https://www.52pojie.cn/thread-2044329-1-1.html
     - author: aaa64696026
       release_time: 2025.07.08 10:51:00
       title: 解锁繁花剧场会员
@@ -363,10 +367,6 @@
       release_time: 2025.06.11 12:26:00
       title: '[原创] 网洛者 AAEncode加密 - 初体验 逆向分析'
       url: https://www.52pojie.cn/thread-2038005-1-1.html
-    - author: ZenoMiao
-      release_time: 2025.06.10 21:51:00
-      title: '[原创] 网洛者 JJEncode加密 - 初体验 逆向分析'
-      url: https://www.52pojie.cn/thread-2037870-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
