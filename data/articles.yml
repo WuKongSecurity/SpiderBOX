@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 零点520666
+      release_time: 2025.07.10 20:00:00
+      title: 18.喵喵盾JS代码混淆加固-混淆组件
+      url: https://www.bilibili.com/video/BV1BVGGzLEKM
     - author: B站用户骚神
       release_time: 2025.07.09 15:25:57
       title: FastAPI+DrissionPage，远程操作浏览器自动化抓数据
@@ -117,10 +121,6 @@
       release_time: 2025.06.07 13:25:56
       title: DrissionPage调试助手-专为DrissionPage设计的开发调试软件
       url: https://www.bilibili.com/video/BV1YgTjzKETp
-    - author: B站用户骚神
-      release_time: 2025.06.05 10:35:28
-      title: 花神插件-专为女性用户设计DrissionPage插件
-      url: https://www.bilibili.com/video/BV1j7TszYEjz
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -247,6 +247,18 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: evlon
+      release_time: 2025.07.10 18:53:00
+      title: 油猴脚本-通过Hook来禁用disable-devtool插件
+      url: https://www.52pojie.cn/thread-2044857-1-1.html
+    - author: yyyyyyzh
+      release_time: 2025.07.09 16:35:00
+      title: Amarok密码“绕过”
+      url: https://www.52pojie.cn/thread-2044563-1-1.html
+    - author: hHunter
+      release_time: 2025.07.09 16:01:00
+      title: 某海外平台moboreels短视频app逆向分析研究
+      url: https://www.52pojie.cn/thread-2044552-1-1.html
     - author: justWant404
       release_time: 2025.07.08 20:39:00
       title: x红书水印去除Frida脚本和Xposed模块
@@ -355,18 +367,6 @@
       release_time: 2025.06.13 15:04:00
       title: '[原创] 猿人学 学员14题 js_fuck 逆向分析'
       url: https://www.52pojie.cn/thread-2038595-1-1.html
-    - author: Doratmon
-      release_time: 2025.06.13 14:29:00
-      title: 漫漫看APP key破解分析
-      url: https://www.52pojie.cn/thread-2038579-1-1.html
-    - author: lichuntian00
-      release_time: 2025.06.12 21:34:00
-      title: APP抓包之自定义SSLPing绕过
-      url: https://www.52pojie.cn/thread-2038422-1-1.html
-    - author: ZenoMiao
-      release_time: 2025.06.11 12:26:00
-      title: '[原创] 网洛者 AAEncode加密 - 初体验 逆向分析'
-      url: https://www.52pojie.cn/thread-2038005-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
