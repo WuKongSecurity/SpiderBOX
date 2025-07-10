@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 布鲁的Python之旅
+      release_time: 2025.07.10 17:13:29
+      title: 【开源项目】基于Django、vue3的Python后台管理系统
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486204&idx=1&sn=89b9b0f80cc811bc130c9ad77e30b4ca
     - author: 逆向有你
       release_time: 2025.07.10 09:52:23
       title: JS逆向 -- 某汇初逆向
@@ -232,10 +236,6 @@
       release_time: 2025.06.30 20:53:16
       title: JS逆向|某平台反混淆练习第一题逆向详解
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566072&idx=1&sn=ba0d0d4e74c22a4c649a56546942eb18
-    - author: 逆向有你
-      release_time: 2025.06.30 09:35:00
-      title: 安卓逆向学习 -- Xposed快速上手(上)
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039476&idx=1&sn=75ea76132d9800bd6182671949cd9148
     - author: 前沿逆向
       release_time: 2025.06.28 16:25:54
       title: Zygisk注入器 - 动动手指轻松注入并隐藏你的SO文件
