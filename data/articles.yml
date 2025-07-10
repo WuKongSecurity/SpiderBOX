@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.07.10 09:52:23
+      title: JS逆向 -- 某汇初逆向
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039612&idx=1&sn=4bddd86efcb15b0a8f5ea3fcd4bddfba
     - author: Spade sec
       release_time: 2025.07.10 08:44:09
       title: 【0day】Telegram私密群组/频道未授权访问
@@ -232,10 +236,6 @@
       release_time: 2025.06.30 09:35:00
       title: 安卓逆向学习 -- Xposed快速上手(上)
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039476&idx=1&sn=75ea76132d9800bd6182671949cd9148
-    - author: Spade sec
-      release_time: 2025.06.29 21:21:20
-      title: 随便聊聊
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486074&idx=1&sn=b1eb399eeea460165e97705ae34db3e2
     - author: 前沿逆向
       release_time: 2025.06.28 16:25:54
       title: Zygisk注入器 - 动动手指轻松注入并隐藏你的SO文件
