@@ -251,6 +251,10 @@
       release_time: 2025.07.10 23:36:00
       title: '[原创] 崔大Scrape十四题, 入门级wasm加密分析'
       url: https://www.52pojie.cn/thread-2044904-1-1.html
+    - author: likebbs
+      release_time: 2025.07.10 20:08:00
+      title: 码上爬-题四-JS逆向入门（首次发帖，请多关照，谢谢）
+      url: https://www.52pojie.cn/thread-2044873-1-1.html
     - author: evlon
       release_time: 2025.07.10 18:53:00
       title: 油猴脚本-通过Hook来禁用disable-devtool插件
@@ -363,10 +367,6 @@
       release_time: 2025.06.15 14:32:00
       title: v5滑块验证逆向
       url: https://www.52pojie.cn/thread-2038972-1-1.html
-    - author: buluo533
-      release_time: 2025.06.15 14:07:00
-      title: 某香医生sign值参数逆向分析
-      url: https://www.52pojie.cn/thread-2038968-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
