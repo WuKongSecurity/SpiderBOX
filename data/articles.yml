@@ -370,6 +370,14 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 安卓逆向test
+      release_time: 2025.07.11 17:21:42
+      title: 基本无视检测且稳定的Il2cppTrace模块
+      url: https://bbs.kanxue.com/thread-287580.htm
+    - author: Yangser
+      release_time: 2025.07.11 17:01:40
+      title: '[原创] 注入篇二 spawn模式的实现'
+      url: https://bbs.kanxue.com/thread-287579.htm
     - author: Rocky虞
       release_time: 2025.07.11 00:28:54
       title: '[原创] 记录一下tk的中间人拦截点位'
@@ -482,14 +490,6 @@
       release_time: 2025.07.01 16:25:55
       title: instagram 获取作者作品列表id，无需登陆，无需CK
       url: https://blog.csdn.net/weixin_45307278/article/details/149049535
-    - author: Nickname肖知寒
-      release_time: 2025.07.01 16:17:56
-      title: instagram 作品下载，无需ck，无需登陆
-      url: https://blog.csdn.net/weixin_45307278/article/details/149049262
-    - author: Lynnette
-      release_time: 2025.07.01 14:21:55
-      title: '[原创]iOS免越狱hook与越狱hook整合，附IMGUI'
-      url: https://bbs.kanxue.com/thread-287425.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
