@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.07.11 14:03:03
+      title: 使用DrissionPage 远程操控ubuntu 系统的谷歌浏览器
+      url: https://www.bilibili.com/video/BV14AuuzyE9S
     - author: 零点520666
       release_time: 2025.07.10 20:00:00
       title: 18.喵喵盾JS代码混淆加固-混淆组件
@@ -117,10 +121,6 @@
       release_time: 2025.06.09 08:52:48
       title: 【ai编程】claude自动生成爬虫代码
       url: https://www.bilibili.com/video/BV1yYT8zoEVB
-    - author: B站用户骚神
-      release_time: 2025.06.07 13:25:56
-      title: DrissionPage调试助手-专为DrissionPage设计的开发调试软件
-      url: https://www.bilibili.com/video/BV1YgTjzKETp
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
