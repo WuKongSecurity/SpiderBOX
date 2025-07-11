@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.07.11 15:44:54
+      title: 【开放注册公告】吾爱破解论坛2025年7月21日暑假开放注册公告
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142767&idx=1&sn=0a26835f2b52cb33700351503588c1e9
     - author: 静夜随想
       release_time: 2025.07.10 20:51:12
       title: Node服务内存泄漏问题排查
@@ -236,10 +240,6 @@
       release_time: 2025.07.01 08:59:04
       title: Android10至15实现系统调用Hook
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498255&idx=1&sn=1d967309bd1203f4a9d268a6396f0a56
-    - author: 静夜随想
-      release_time: 2025.06.30 21:09:48
-      title: 第一次遇到uniapp逆向
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811073&idx=1&sn=04381c7c6bc31d7252c123d2dee1f417
     - author: 前沿逆向
       release_time: 2025.06.28 16:25:54
       title: Zygisk注入器 - 动动手指轻松注入并隐藏你的SO文件
