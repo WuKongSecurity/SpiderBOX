@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: ikun的嘴
+      release_time: 2025.07.13 19:23:36
+      title: webpack秒杀系列
+      url: https://www.bilibili.com/video/BV1Y6uwzKErD
     - author: 带带弟弟学爬虫
       release_time: 2025.07.13 00:36:05
       title: 某cctv视频直播源-演示与遇到的问题
@@ -117,10 +121,6 @@
       release_time: 2025.06.10 17:37:37
       title: 花神插件1.2
       url: https://www.bilibili.com/video/BV1TTTkzPExN
-    - author: 小肩膀-逆向安全培训
-      release_time: 2025.06.10 16:48:51
-      title: 【ai编程】claude自动生成爬虫代码2
-      url: https://www.bilibili.com/video/BV1GfTrzzEh5
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
