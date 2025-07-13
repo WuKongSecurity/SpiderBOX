@@ -248,6 +248,10 @@
     term: 公众号
   - links:
     - author: ZenoMiao
+      release_time: 2025.07.13 10:33:00
+      title: '[原创] 某验3底图还原python算法改写'
+      url: https://www.52pojie.cn/thread-2045347-1-1.html
+    - author: ZenoMiao
       release_time: 2025.07.10 23:36:00
       title: '[原创] 崔大Scrape十四题, 入门级wasm加密分析'
       url: https://www.52pojie.cn/thread-2044904-1-1.html
@@ -363,10 +367,6 @@
       release_time: 2025.06.15 17:00:00
       title: Android—Warlock设备指纹&安全检测开源
       url: https://www.52pojie.cn/thread-2039003-1-1.html
-    - author: zzyzy
-      release_time: 2025.06.15 14:32:00
-      title: v5滑块验证逆向
-      url: https://www.52pojie.cn/thread-2038972-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
