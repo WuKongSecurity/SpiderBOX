@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 静夜随想
+      release_time: 2025.07.14 20:32:00
+      title: 魔改console引发的内存泄漏
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811116&idx=1&sn=3483ca5d87a2b46f49278272dfb8185a
+    - author: 爬虫逆向小林哥
+      release_time: 2025.07.14 20:24:03
+      title: 后劲真大，简简单单吹下凡人
+      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247486615&idx=1&sn=cd5b2edf4cd27e94a12829026336f524
     - author: Coder小Q
       release_time: 2025.07.14 08:30:00
       title: 【密码学】HQC算法解读
@@ -236,14 +244,6 @@
       release_time: 2025.07.01 13:07:35
       title: 【全网首发】tk X-Gnarly jsvmp算法还原
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjUxNTgyMg==&mid=2247484018&idx=2&sn=d7991e7ac02a007e7da748b4ecb8cee6
-    - author: 流星Studio
-      release_time: 2025.07.01 13:07:35
-      title: 某音滑块分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjUxNTgyMg==&mid=2247484018&idx=3&sn=672e0aeeb1431b6c04d2630a397c3bbf
-    - author: 影17
-      release_time: 2025.07.01 11:31:20
-      title: 某度V2旋转验证流程分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489916&idx=1&sn=cb232da1cd8c09091cd9fbf5ba6d3cd7
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
