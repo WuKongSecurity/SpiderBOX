@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Coder小Q
+      release_time: 2025.07.14 08:30:00
+      title: 【密码学】HQC算法解读
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491911&idx=1&sn=70e51e0b6273db9f54242c2b40528d66
+    - author: 菜鸟学Python编程
+      release_time: 2025.07.13 23:03:24
+      title: 本人即将推出一套2025年的最新AST反混淆实战视频，敬请期待。
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566083&idx=1&sn=c5f929070b242a89a244e74ebebfe1ee
     - author: 吾爱破解论坛
       release_time: 2025.07.11 15:44:54
       title: 【开放注册公告】吾爱破解论坛2025年7月21日暑假开放注册公告
@@ -193,6 +201,10 @@
       title: 【密码学】Falcon算法解读
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491867&idx=1&sn=6aba3d684a515d61b965b936ff4d9d23
     - author: 哆啦安全
+      release_time: 2025.07.07 06:00:00
+      title: Zygisk注入器 - 动动手指轻松注入并隐藏你的SO文件
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498287&idx=2&sn=33adf71010b2cfe4ec9b1a9ec3e68b8f
+    - author: 哆啦安全
       release_time: 2025.07.03 08:00:00
       title: Unity il2cpp游戏逆向分析浅析
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498268&idx=1&sn=69d33d79b9cfaa404997e9058ca37d54
@@ -232,18 +244,6 @@
       release_time: 2025.07.01 11:31:20
       title: 某度V2旋转验证流程分析
       url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489916&idx=1&sn=cb232da1cd8c09091cd9fbf5ba6d3cd7
-    - author: Python头等奖
-      release_time: 2025.07.01 09:33:52
-      title: python爬虫逆向|某短视频平台bd风控参数分析笔记
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0NzMwMTM4OQ==&mid=2247484474&idx=1&sn=624bc97fdd76278b0d1f0e7e03f84317
-    - author: 哆啦安全
-      release_time: 2025.07.01 08:59:04
-      title: Android10至15实现系统调用Hook
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498255&idx=1&sn=1d967309bd1203f4a9d268a6396f0a56
-    - author: 前沿逆向
-      release_time: 2025.06.28 16:25:54
-      title: Zygisk注入器 - 动动手指轻松注入并隐藏你的SO文件
-      url: https://mp.weixin.qq.com/s?__biz=Mzk4ODIzMTUwMA==&mid=2247483803&idx=1&sn=f51f1097030a49aca6b4bfe7279c70bf
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
