@@ -125,6 +125,10 @@
     term: 哔哩哔哩
   - links:
     - author: Spade sec
+      release_time: 2025.07.15 14:42:28
+      title: 警惕近期大规模GO开源库投毒事件
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486125&idx=1&sn=d6fd0394559ac72a20bb42579669f8c3
+    - author: Spade sec
       release_time: 2025.07.15 11:24:47
       title: 某开源库投毒
       url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486110&idx=1&sn=1b05ba7bce318ff0015af5bc1d422c8d
@@ -240,10 +244,6 @@
       release_time: 2025.07.01 17:12:17
       title: 移动安全之某app设备环境常规检测绕过
       url: https://mp.weixin.qq.com/s?__biz=MzU0MjUwMTA2OQ==&mid=2247486869&idx=1&sn=4f9df3503a2c2457bac5bc798ad2f5b9
-    - author: 逆向有你
-      release_time: 2025.07.01 15:44:00
-      title: JS逆向 -- 药某局 webpack js逆向扣代码
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039506&idx=1&sn=08d453320d96279dbde93457d8cafa09
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
