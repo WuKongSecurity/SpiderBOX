@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 芽衣
+      release_time: 2025.07.15 11:27:00
+      title: 修复mxplayer pro删除文件的bug 教程
+      url: https://www.52pojie.cn/thread-2045765-1-1.html
     - author: lideshan
       release_time: 2025.07.14 16:41:00
       title: 浏览器指纹追踪入门：常见检测手段 + 小白适用的绕过小技巧
@@ -363,10 +367,6 @@
       release_time: 2025.06.18 19:00:00
       title: 记一次某相机逆向
       url: https://www.52pojie.cn/thread-2039817-1-1.html
-    - author: ZenoMiao
-      release_time: 2025.06.18 11:18:00
-      title: '[原创] 猿人学学员题34题 js加课例题1 逆向分析'
-      url: https://www.52pojie.cn/thread-2039700-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
