@@ -2075,6 +2075,10 @@
           logo: omegaproxy.png
           url: https://www.omegaproxy.com/?keyword=aernqzqq
           description: 精选 220+ 个地区 9000 万+真实住宅 IP，纯净可靠，HTTP(S)/SOCKS5 协议，免费测试 500M
+        - title: Croxy
+          logo: croxy.png
+          url: https://croxy.com/
+          description: Croxy — 解锁全球数据，畅行无阻汇聚全球 195+ 国家/地区的 8000 多万优质住宅 IP，由世界顶级代理网络强力驱动。高速稳定，匿名隐私，无限扩展
 
 #        - title: WTFproxy
 #          logo: wtfproxy.png
