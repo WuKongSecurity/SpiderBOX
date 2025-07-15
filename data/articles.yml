@@ -247,10 +247,18 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: CereMonial
+      release_time: 2025.07.15 11:36:00
+      title: 安卓wifi热点调试思路-指定mac值
+      url: https://www.52pojie.cn/thread-2045805-1-1.html
     - author: 芽衣
       release_time: 2025.07.15 11:27:00
       title: 修复mxplayer pro删除文件的bug 教程
       url: https://www.52pojie.cn/thread-2045765-1-1.html
+    - author: Tartaglia
+      release_time: 2025.07.15 00:54:00
+      title: 记一次sh脚本验证分析
+      url: https://www.52pojie.cn/thread-2045731-1-1.html
     - author: lideshan
       release_time: 2025.07.14 16:41:00
       title: 浏览器指纹追踪入门：常见检测手段 + 小白适用的绕过小技巧
@@ -359,14 +367,6 @@
       release_time: 2025.06.19 22:43:00
       title: 某Guard的SO加固探秘(有趣的GNUHash)
       url: https://www.52pojie.cn/thread-2040136-1-1.html
-    - author: Eureka8
-      release_time: 2025.06.19 13:57:00
-      title: 巧用Chrome-CDP远程调用Debug突破JS逆向
-      url: https://www.52pojie.cn/thread-2040010-1-1.html
-    - author: HackXK
-      release_time: 2025.06.18 19:00:00
-      title: 记一次某相机逆向
-      url: https://www.52pojie.cn/thread-2039817-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
