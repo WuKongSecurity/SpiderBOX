@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: wp00000008
+      release_time: 2025.07.15 19:56:00
+      title: SoFixerMinus，对SoFixer的小小修补
+      url: https://www.52pojie.cn/thread-2045934-1-1.html
     - author: CereMonial
       release_time: 2025.07.15 11:36:00
       title: 安卓wifi热点调试思路-指定mac值
@@ -363,10 +367,6 @@
       release_time: 2025.06.20 22:04:00
       title: 乐某自研滑块逆向分析
       url: https://www.52pojie.cn/thread-2040415-1-1.html
-    - author: ngiokweng
-      release_time: 2025.06.19 22:43:00
-      title: 某Guard的SO加固探秘(有趣的GNUHash)
-      url: https://www.52pojie.cn/thread-2040136-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
