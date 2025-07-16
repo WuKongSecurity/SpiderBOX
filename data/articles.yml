@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.07.16 11:33:36
+      title: JS逆向 -- 某漫画网站图片还原逆向
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039647&idx=1&sn=a275d462fb6512baedad9e98cddf56f5
+    - author: 独步爬虫逆向
+      release_time: 2025.07.16 11:29:42
+      title: 从0-1打造一个简单的量化策略
+      url: https://mp.weixin.qq.com/s?__biz=MzkzODYzNjg4OA==&mid=2247484325&idx=1&sn=ab2eb1f86a2a6af5ed8904dae414fe22
     - author: 静夜随想
       release_time: 2025.07.15 20:50:02
       title: 如何定制sdenv补环境
@@ -236,14 +244,6 @@
       release_time: 2025.07.02 15:06:28
       title: 安卓逆向 -- 某游戏mmap模块化保护简单分析
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039539&idx=1&sn=e32bce17f6c50166d92609c871d73355
-    - author: 二进制磨剑
-      release_time: 2025.07.02 08:30:00
-      title: 【高考志愿 | 网络空间安全 | 信息安全】普通本科的大厂之路
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485617&idx=1&sn=d09e93c94ff0668aa1d41b2c75ab0f49
-    - author: 二进制科学
-      release_time: 2025.07.02 00:00:02
-      title: frida如何对函数进行hook
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NDMzMzAwNQ==&mid=2247486014&idx=1&sn=e58c2996a609e61a964c21de7a00ee48
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
