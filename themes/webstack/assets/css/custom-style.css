@@ -769,7 +769,7 @@ footer.main-footer .footer-text a:hover {
     width: 100%;
     height: auto;
     object-fit: cover;
-    aspect-ratio: 9 / 1; /* 保持宽高比（1200:150 = 8:1） */
+    aspect-ratio: 8 / 1; /* 保持宽高比（1200:150 = 8:1） */
 }
 
 /* 移动端优化 */
@@ -780,9 +780,9 @@ footer.main-footer .footer-text a:hover {
         padding: 8px;
     }
 
-    .ad-image {
-        /*aspect-ratio: 4 / 1; !* 移动端采用更高比例 *!*/
-    }
+    /*.ad-image {*/
+    /*    aspect-ratio: 4 / 1; !* 移动端采用更高比例 *!*/
+    /*}*/
 }
 
 /* 小屏手机优化 */
