@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: tuosen
+      release_time: 2025.07.17 10:49:29
+      title: '[原创]jadx字符串解密'
+      url: https://bbs.kanxue.com/thread-287636.htm
     - author: Mick Schumacher
       release_time: 2025.07.16 22:24:43
       title: akamai3简单分析
@@ -486,10 +490,6 @@
       release_time: 2025.07.07 10:30:12
       title: '[讨论]安卓手机文件误删，有办法恢复么？'
       url: https://bbs.kanxue.com/thread-287515.htm
-    - author: 富到流油^-^
-      release_time: 2025.07.06 10:57:01
-      title: '[推荐][分享][下载][讨论][原创]安卓开发工具'
-      url: https://bbs.kanxue.com/thread-287506.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
