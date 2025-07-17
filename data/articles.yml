@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 零点520666
+      release_time: 2025.07.17 18:30:00
+      title: 20.喵喵盾JS代码混淆加固-喵喵盾已知问题&bug提交奖励
+      url: https://www.bilibili.com/video/BV1UcgPzeEcD
     - author: DrissionPage
       release_time: 2025.07.16 23:12:23
       title: 托管浏览器共享cookies-DrissionPage官方教程-p28
@@ -117,10 +121,6 @@
       release_time: 2025.06.12 21:36:21
       title: 【ai编程】claude自动生成爬虫代码3
       url: https://www.bilibili.com/video/BV1gvMczoEZB
-    - author: B站用户骚神
-      release_time: 2025.06.12 15:02:15
-      title: 骚神插件9.7.2-新增4大逆向功能【破解反调试】【破解加密json】【监听websocket】【模拟手机】
-      url: https://www.bilibili.com/video/BV14qTfzmEf5
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -156,6 +156,10 @@
       release_time: 2025.07.15 11:04:51
       title: 安卓逆向 -- IDA逆向编辑Android so文件
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039632&idx=1&sn=37bcf3477cc244452002fafcab92e3b1
+    - author: Coder小Q
+      release_time: 2025.07.15 08:30:00
+      title: 【密码学】HQC算法解读
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491914&idx=1&sn=ddd2858a2c6efea508a5445255dcd5f1
     - author: 小伍哥聊风控
       release_time: 2025.07.14 23:03:25
       title: 招个风控策略-会大模型应用的
@@ -164,10 +168,6 @@
       release_time: 2025.07.14 20:32:00
       title: 魔改console引发的内存泄漏
       url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811116&idx=1&sn=3483ca5d87a2b46f49278272dfb8185a
-    - author: Coder小Q
-      release_time: 2025.07.14 08:30:00
-      title: 【密码学】HQC算法解读
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491911&idx=1&sn=70e51e0b6273db9f54242c2b40528d66
     - author: 菜鸟学Python编程
       release_time: 2025.07.13 23:03:24
       title: 本人即将推出一套2025年的最新AST反混淆实战视频，敬请期待。
