@@ -2079,6 +2079,10 @@
           logo: croxy.png
           url: https://croxy.com/
           description: Croxy — 解锁全球数据，畅行无阻汇聚全球 195+ 国家/地区的 8000 多万优质住宅 IP，由世界顶级代理网络强力驱动。高速稳定，匿名隐私，无限扩展
+        - title: Aproxy
+          logo: aproxy.png
+          url: https://aproxy.com/
+          description: Aproxy 的住宅代理网络覆盖 195 个国家和地区，拥有超过 7000 万个 IP 池，帮助快速绕过地理限制。通过多语言支持和即用型代码示例，轻松集成到项目中，享受高速低延迟的服务体验
 
 #        - title: WTFproxy
 #          logo: wtfproxy.png
