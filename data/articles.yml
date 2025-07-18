@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.07.17 17:54:44
+      title: 【开放注册公告】吾爱破解论坛2025年7月21日暑假开放注册公告
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142775&idx=1&sn=e3eeb825d308a69ecad21acbe8172ded
     - author: 哆啦安全
       release_time: 2025.07.17 08:59:45
       title: Android10至16系统ROM定制篇
@@ -156,10 +160,6 @@
       release_time: 2025.07.15 11:04:51
       title: 安卓逆向 -- IDA逆向编辑Android so文件
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039632&idx=1&sn=37bcf3477cc244452002fafcab92e3b1
-    - author: Coder小Q
-      release_time: 2025.07.15 08:30:00
-      title: 【密码学】HQC算法解读
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491914&idx=1&sn=ddd2858a2c6efea508a5445255dcd5f1
     - author: 小伍哥聊风控
       release_time: 2025.07.14 23:03:25
       title: 招个风控策略-会大模型应用的
@@ -168,14 +168,14 @@
       release_time: 2025.07.14 20:32:00
       title: 魔改console引发的内存泄漏
       url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811116&idx=1&sn=3483ca5d87a2b46f49278272dfb8185a
+    - author: Coder小Q
+      release_time: 2025.07.14 08:30:00
+      title: 【密码学】HQC算法解读
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491911&idx=1&sn=70e51e0b6273db9f54242c2b40528d66
     - author: 菜鸟学Python编程
       release_time: 2025.07.13 23:03:24
       title: 本人即将推出一套2025年的最新AST反混淆实战视频，敬请期待。
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566083&idx=1&sn=c5f929070b242a89a244e74ebebfe1ee
-    - author: 吾爱破解论坛
-      release_time: 2025.07.11 15:44:54
-      title: 【开放注册公告】吾爱破解论坛2025年7月21日暑假开放注册公告
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142767&idx=1&sn=0a26835f2b52cb33700351503588c1e9
     - author: 静夜随想
       release_time: 2025.07.10 20:51:12
       title: Node服务内存泄漏问题排查
