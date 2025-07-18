@@ -1083,6 +1083,10 @@
           logo: nstbrowser.png
           url: https://app.nstbrowser.io/r/spiderbox
           description: 可绕过 cloudflare，免费的反检测指纹浏览器&企业级云端浏览器方案，无缝接入云端集群服务，让网页抓取和自动化更简单的解决方案
+        - title: DuoPlus 指纹云手机
+          logo: duoplus.png
+          url: https://www.duoplus.cn/
+          description: DuoPlus 云手机，专注打造全球社媒营销、Tiktok、游戏挂机专用云手机，助您社媒营销全球化，开启全球社媒营销新境界
         - title: BrightData Scraping Browser
           logo: brightdata.png
           url: https://get.brightdata.com/sbitbob
