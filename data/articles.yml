@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: BinYoooo
+      release_time: 2025.07.20 07:39:00
+      title: 关于图标点选验证码识别方案
+      url: https://www.52pojie.cn/thread-2046823-1-1.html
     - author: wp00000008
       release_time: 2025.07.15 19:56:00
       title: SoFixerMinus，对SoFixer的小小修补
@@ -363,10 +367,6 @@
       release_time: 2025.06.21 11:01:00
       title: 简单探究某站指纹参数算法
       url: https://www.52pojie.cn/thread-2040484-1-1.html
-    - author: buluo533
-      release_time: 2025.06.20 22:04:00
-      title: 乐某自研滑块逆向分析
-      url: https://www.52pojie.cn/thread-2040415-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
