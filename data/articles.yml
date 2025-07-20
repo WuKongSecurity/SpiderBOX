@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 理想真会玩
+      release_time: 2025.07.20 17:14:24
+      title: 魔改浏览器过无限debugger
+      url: https://mp.weixin.qq.com/s?__biz=MzIwODg1MjQ4OQ==&mid=2247485605&idx=1&sn=65a26ec54113f90d592a8af26dfb3776
     - author: 哆啦安全
       release_time: 2025.07.20 07:42:44
       title: Android7至16输入系统流程及原理深入浅出
@@ -240,10 +244,6 @@
       release_time: 2025.07.07 09:28:11
       title: JS逆向系列21-hook绕过表单禁止复制粘贴(其一)
       url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486095&idx=1&sn=82c85683b3fae9632f807917dfa55a75
-    - author: Coder小Q
-      release_time: 2025.07.07 08:30:00
-      title: 【密码学】Falcon算法解读
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491867&idx=1&sn=6aba3d684a515d61b965b936ff4d9d23
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
