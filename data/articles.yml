@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: Alone逆向安全
+      release_time: 2025.07.20 23:39:51
+      title: windows开发arm64模拟执行框架：核心环境搭建指南 (Git + vcpkg + Unicorn)
+      url: https://www.bilibili.com/video/BV18agezREob
     - author: 冷月不是程序员
       release_time: 2025.07.20 19:59:03
       title: 2025 RISC-V上海中国峰会vlog
@@ -117,10 +121,6 @@
       release_time: 2025.06.23 15:31:20
       title: CloudFlare 5S盾自动点击程序，完美搞定所有5s盾
       url: https://www.bilibili.com/video/BV1qoK8z7Efm
-    - author: B站用户骚神
-      release_time: 2025.06.21 14:18:21
-      title: DrissionPage高阶操作【逆向自动化】-网页自动打日志断点，获取并修改加密脚本【局部变量】【闭包变量】【函数传参】
-      url: https://www.bilibili.com/video/BV16mNyzoEk4
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -164,6 +164,10 @@
       release_time: 2025.07.15 11:04:51
       title: 安卓逆向 -- IDA逆向编辑Android so文件
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039632&idx=1&sn=37bcf3477cc244452002fafcab92e3b1
+    - author: Coder小Q
+      release_time: 2025.07.15 08:30:00
+      title: 【密码学】HQC算法解读
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491914&idx=1&sn=ddd2858a2c6efea508a5445255dcd5f1
     - author: 小伍哥聊风控
       release_time: 2025.07.14 23:03:25
       title: 招个风控策略-会大模型应用的
@@ -172,10 +176,6 @@
       release_time: 2025.07.14 20:32:00
       title: 魔改console引发的内存泄漏
       url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811116&idx=1&sn=3483ca5d87a2b46f49278272dfb8185a
-    - author: Coder小Q
-      release_time: 2025.07.14 08:30:00
-      title: 【密码学】HQC算法解读
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491911&idx=1&sn=70e51e0b6273db9f54242c2b40528d66
     - author: 菜鸟学Python编程
       release_time: 2025.07.13 23:03:24
       title: 本人即将推出一套2025年的最新AST反混淆实战视频，敬请期待。
