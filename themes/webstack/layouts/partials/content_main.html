@@ -63,7 +63,7 @@
         <div class="ad-container">
             {{ range .links }}
                 {{ if .ads }}
-                    <a href="{{ .url }}" class="ad-link" target="_blank" rel="noopener">
+                    <a href="{{ .url }}" class="ad-link" target="_blank" rel="noopener" onclick="LA.track('{{ .track }}');">
                         <img src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ .image }}" class="ad-image" alt="{{ .description }}" loading="lazy">
                     </a>
                 {{ end }}
