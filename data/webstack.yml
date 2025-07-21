@@ -1085,7 +1085,7 @@
           description: 可绕过 cloudflare，免费的反检测指纹浏览器&企业级云端浏览器方案，无缝接入云端集群服务，让网页抓取和自动化更简单的解决方案
         - title: DuoPlus 指纹云手机
           logo: duoplus.png
-          url: https://www.duoplus.cn/
+          url: https://www.duoplus.cn/share/SpiderBox
           description: DuoPlus 云手机，专注打造全球社媒营销、Tiktok、游戏挂机专用云手机，助您社媒营销全球化，开启全球社媒营销新境界
         - title: BrightData Scraping Browser
           logo: brightdata.png
@@ -2087,6 +2087,14 @@
           logo: aproxy.png
           url: https://aproxy.com/
           description: Aproxy 的住宅代理网络覆盖 195 个国家和地区，拥有超过 7000 万个 IP 池，帮助快速绕过地理限制。通过多语言支持和即用型代码示例，轻松集成到项目中，享受高速低延迟的服务体验
+        - title: Nsocks
+          logo: nsocks.png
+          url: https://www.nsocks.com/
+          description: The Most Stable Residential Proxy Service. NSOCKS is your professional proxy provider. Use mobile and high-quality residential proxies around the world and reach your goals.
+        - title: Naproxy
+          logo: naproxy.jpg
+          url: https://www.naproxy.com/
+          description: NaProxy is trusted proxy IP service provider, use our proxy infrastructure to provide support for your crawlers.
 
 #        - title: WTFproxy
 #          logo: wtfproxy.png
