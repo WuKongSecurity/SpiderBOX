@@ -2,6 +2,10 @@
   list:
   - links:
     - author: Alone逆向安全
+      release_time: 2025.07.23 01:49:16
+      title: 2025 Android Studio的安装 ndk 开发环境搭建
+      url: https://www.bilibili.com/video/BV1xxgxzoEe8
+    - author: Alone逆向安全
       release_time: 2025.07.23 00:20:21
       title: idapro9.1 windows 安装教程
       url: https://www.bilibili.com/video/BV1uigpzWEvA
@@ -117,10 +121,6 @@
       release_time: 2025.06.30 23:02:01
       title: PyTorch孪生神经网络实战（二） 编写模型
       url: https://www.bilibili.com/video/BV13sgCzHEBa
-    - author: 冷月不是程序员
-      release_time: 2025.06.29 02:33:17
-      title: PyTorch孪生神经网络实战 介绍
-      url: https://www.bilibili.com/video/BV16ygXzbE7q
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
