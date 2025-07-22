@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: Alone逆向安全
+      release_time: 2025.07.23 00:20:21
+      title: idapro9.1 windows 安装教程
+      url: https://www.bilibili.com/video/BV1uigpzWEvA
     - author: 西门浪0v0
       release_time: 2025.07.21 20:16:03
       title: interlink（领克）react native 逆向
@@ -117,10 +121,6 @@
       release_time: 2025.06.29 02:33:17
       title: PyTorch孪生神经网络实战 介绍
       url: https://www.bilibili.com/video/BV16ygXzbE7q
-    - author: B站用户骚神
-      release_time: 2025.06.26 18:09:37
-      title: 用DP修改浏览器指纹，FingerPrintV3，修改【WebGL指纹】【Canvas指纹】【插件】【经纬度】【时区】【显示器尺寸】【移动端】
-      url: https://www.bilibili.com/video/BV1P9KozNEFK
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
