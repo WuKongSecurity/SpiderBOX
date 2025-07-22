@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: DirtyAngle
+      release_time: 2025.07.22 23:19:58
+      title: '[原创]qbdi trace工具及生成调用流程图'
+      url: https://bbs.kanxue.com/thread-287713.htm
     - author: ShriyGo
       release_time: 2025.07.21 20:49:07
       title: 【JS逆向】某条signature逆向补环境
@@ -486,10 +490,6 @@
       release_time: 2025.07.11 23:27:45
       title: 猿人学js逆向比赛第一届第十九题
       url: https://blog.csdn.net/m0_62945506/article/details/149285089
-    - author: ~贝母~
-      release_time: 2025.07.11 18:48:13
-      title: 猿人学js逆向比赛第一届第十八题
-      url: https://blog.csdn.net/m0_62945506/article/details/149280832
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
