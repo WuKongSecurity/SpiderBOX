@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: zhnn
+      release_time: 2025.07.22 10:16:00
+      title: js逆向实战案例之----X花顺cookie  V值逆向
+      url: https://www.52pojie.cn/thread-2047326-1-1.html
     - author: ShriyGo
       release_time: 2025.07.21 20:58:00
       title: 【JS逆向】某条signautre逆向补环境
@@ -363,10 +367,6 @@
       release_time: 2025.06.23 17:59:00
       title: 使用JS注入，实现互动影游的视频倍速播放，轻松刷剧情
       url: https://www.52pojie.cn/thread-2040975-1-1.html
-    - author: lichuntian00
-      release_time: 2025.06.22 22:22:00
-      title: Web逆向之VMP还原全流程
-      url: https://www.52pojie.cn/thread-2040789-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
