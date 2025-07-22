@@ -2787,6 +2787,10 @@
           logo: gh_720957e1794e.jpg
           qrcode: images/qrcode/gh_720957e1794e.jpg
           description: 公众号：前沿逆向
+        - title: 小小杨学编程
+          logo: gh_e207193238bc.jpg
+          qrcode: images/qrcode/gh_e207193238bc.jpg
+          description: 公众号：小小杨学编程
 #        - title: K哥爬虫
 #          logo: kgepachong.jpg
 #          qrcode: images/qrcode/kgepachong.jpg
@@ -3396,6 +3400,10 @@
 
     - term: AI 文档办公
       links:
+        - title: UP 简历
+          url: https://upcv.tech/?invite=INVHDPT2NRO
+          logo: upcv.png
+          description: 用 UP 简历，AI 助力求职 UP，5 分钟创建一份脱颖而出的专业求职简历，AI 智能优化内容，专业模板设计，助力您在激烈的求职竞争中脱颖而出
         - title: ChatDOC
           url: https://chatdoc.com/
           logo: chatdoc.png
