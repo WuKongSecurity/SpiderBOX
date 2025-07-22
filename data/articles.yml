@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 爬虫逆向小林哥
+      release_time: 2025.07.22 09:32:00
+      title: 【网页逆向】chan妈妈滑块ast反混淆
+      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247486643&idx=1&sn=d77f7313e6d0828dcd6495fa26b1c82d
+    - author: 静夜随想
+      release_time: 2025.07.21 20:49:07
+      title: 又收集到一个开源某数补环境方案
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811120&idx=1&sn=e6123b7e87e72eef7d87323e0fde6b50
+    - author: 逆向有你
+      release_time: 2025.07.21 17:34:40
+      title: 安卓逆向 -- 某游快爆APP sign值逆向
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039665&idx=1&sn=a29f156511504b5eaf5e20ff6b87605b
     - author: 理想真会玩
       release_time: 2025.07.20 17:14:24
       title: 魔改浏览器过无限debugger
@@ -232,18 +244,6 @@
       release_time: 2025.07.08 10:20:11
       title: CTF设计指南
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498292&idx=1&sn=f3546b9adfd58da91e3975b5b0d70c70
-    - author: 静夜随想
-      release_time: 2025.07.07 20:41:00
-      title: 测试了下盾山加密补环境
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811084&idx=1&sn=69da6f0a12cc4f4b6fa6763ab7ecf047
-    - author: 布鲁的Python之旅
-      release_time: 2025.07.07 17:10:06
-      title: Python爬虫管理平台分布式版本2.0，支持Windows分机调度
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486200&idx=1&sn=583b5869d2a0ad432f676dc4f347de29
-    - author: Spade sec
-      release_time: 2025.07.07 09:28:11
-      title: JS逆向系列21-hook绕过表单禁止复制粘贴(其一)
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486095&idx=1&sn=82c85683b3fae9632f807917dfa55a75
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
