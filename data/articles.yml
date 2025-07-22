@@ -136,6 +136,10 @@
       release_time: 2025.07.21 17:34:40
       title: 安卓逆向 -- 某游快爆APP sign值逆向
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039665&idx=1&sn=a29f156511504b5eaf5e20ff6b87605b
+    - author: 小小杨学编程
+      release_time: 2025.07.21 17:15:38
+      title: 顶象滑块关于本地二次验证纯算分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484300&idx=1&sn=a289fa4e3876a9ca886bcfc304d650c3
     - author: 理想真会玩
       release_time: 2025.07.20 17:14:24
       title: 魔改浏览器过无限debugger
@@ -204,6 +208,10 @@
       release_time: 2025.07.10 17:13:29
       title: 【开源项目】基于Django、vue3的Python后台管理系统
       url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486204&idx=1&sn=89b9b0f80cc811bc130c9ad77e30b4ca
+    - author: 小小杨学编程
+      release_time: 2025.07.10 14:00:53
+      title: funcaptcha验证逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484282&idx=1&sn=4b64edd460d768e3abee8c35a0ff9d7e
     - author: 逆向有你
       release_time: 2025.07.10 09:52:23
       title: JS逆向 -- 某汇初逆向
@@ -236,14 +244,6 @@
       release_time: 2025.07.08 12:44:49
       title: 【高考志愿 | 网络空间安全 | 信息安全】大一女生的逆向工程学习经历
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485624&idx=1&sn=9f2dc4f025ca7c2a35b549b22bcd5c70
-    - author: 逆向有你
-      release_time: 2025.07.08 10:36:55
-      title: PC逆向 -- 尝试破解微软经典扫雷小游戏，实现一秒通关
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039576&idx=1&sn=7f2c4e8d2108385e48fd1ec1c30652a0
-    - author: 哆啦安全
-      release_time: 2025.07.08 10:20:11
-      title: CTF设计指南
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498292&idx=1&sn=f3546b9adfd58da91e3975b5b0d70c70
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
