@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: iyue_t
+      release_time: 2025.07.23 22:37:55
+      title: '[原创] Pixel6 升级 Android15 后怎么降级? 价值 600'
+      url: https://bbs.kanxue.com/thread-287729.htm
     - author: 青衫不负雪
       release_time: 2025.07.23 20:04:45
       title: '[原创]某游戏盒登录分析(半成品)'
@@ -486,10 +490,6 @@
       release_time: 2025.07.12 20:14:08
       title: 猿人学js逆向比赛第一届第二十题
       url: https://blog.csdn.net/m0_62945506/article/details/149299344
-    - author: 狗都不学爬虫_
-      release_time: 2025.07.12 16:44:57
-      title: 某某航空 （新版）同盾 blackbox 补环境
-      url: https://blog.csdn.net/qq_53444631/article/details/149295609
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
