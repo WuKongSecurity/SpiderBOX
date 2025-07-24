@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: DrissionPage
+      release_time: 2025.07.24 23:21:57
+      title: 设置代理-DrissionPage官方教程-p29
+      url: https://www.bilibili.com/video/BV1E1b1zHECc
     - author: Alone逆向安全
       release_time: 2025.07.23 01:49:16
       title: 2025 Android Studio的安装 ndk 开发环境搭建
@@ -117,10 +121,6 @@
       release_time: 2025.07.01 11:12:05
       title: 59.逆向工具IDApro的使用方法
       url: https://www.bilibili.com/video/BV1i1gUzGEBJ
-    - author: 冷月不是程序员
-      release_time: 2025.06.30 23:02:01
-      title: PyTorch孪生神经网络实战（二） 编写模型
-      url: https://www.bilibili.com/video/BV13sgCzHEBa
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
