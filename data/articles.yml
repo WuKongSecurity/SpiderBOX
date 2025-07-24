@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: zhnn
+      release_time: 2025.07.23 21:09:00
+      title: JS逆向实战案例之———x日头条【a-bogus】分析
+      url: https://www.52pojie.cn/thread-2048032-1-1.html
     - author: JiGuro
       release_time: 2025.07.23 18:06:00
       title: 【逆向思路】Via浏览器去除白名单限制
@@ -363,10 +367,6 @@
       release_time: 2025.07.02 08:15:00
       title: 某天御滑块逆向分析
       url: https://www.52pojie.cn/thread-2042898-1-1.html
-    - author: wipb30ybbui
-      release_time: 2025.07.01 11:26:00
-      title: 药监局瑞数6补环境生成cookie
-      url: https://www.52pojie.cn/thread-2042722-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
