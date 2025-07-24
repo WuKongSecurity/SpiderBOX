@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 断点续行
+      release_time: 2025.07.24 16:52:29
+      title: 顶象二次验证分析，如何规避二次验证
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDgxNTAzNg==&mid=2247483876&idx=1&sn=417a205e50c9a1819a58e3992aa21cb8
+    - author: 吾爱破解论坛
+      release_time: 2025.07.24 11:13:07
+      title: 使用Ai8051模拟fx2lafw设备制作简易逻辑分析仪
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142790&idx=1&sn=9be767c0370aaec7b302484a41492fe5
     - author: 爬虫逆向小林哥
       release_time: 2025.07.22 09:32:00
       title: 【网页逆向】chan妈妈滑块ast反混淆
@@ -236,14 +244,6 @@
       release_time: 2025.07.08 18:08:39
       title: 喵喵盾也是可以进行还原处理的，ᥬ😂᭄
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566081&idx=1&sn=7f4d09e03d5894d9e8496b76975a4fef
-    - author: 吾爱破解论坛
-      release_time: 2025.07.08 16:30:58
-      title: 【清理未活跃会员】清理2025年十七周年开放注册未活跃会员公告
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142764&idx=1&sn=5f752f92393f56008733cecea71bb997
-    - author: 二进制磨剑
-      release_time: 2025.07.08 12:44:49
-      title: 【高考志愿 | 网络空间安全 | 信息安全】大一女生的逆向工程学习经历
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485624&idx=1&sn=9f2dc4f025ca7c2a35b549b22bcd5c70
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: New对象处
+      release_time: 2025.07.25 01:05:04
+      title: '[原创]浅入Shopee之字符串解密'
+      url: https://bbs.kanxue.com/thread-287745.htm
     - author: wandererHH
       release_time: 2025.07.24 21:35:44
       title: '[原创]HTB-DarkCorp：深入企业的域控攻防'
@@ -486,10 +490,6 @@
       release_time: 2025.07.14 10:22:47
       title: JS逆向 - 阉割版五秒盾（国内版）
       url: https://blog.csdn.net/qq_53444631/article/details/149322992
-    - author: 我不是卷王
-      release_time: 2025.07.13 20:41:55
-      title: '[原创]旧版某加密部分检测及解密'
-      url: https://bbs.kanxue.com/thread-287593.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
