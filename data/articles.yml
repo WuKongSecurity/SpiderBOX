@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 零点520666
+      release_time: 2025.07.25 20:00:00
+      title: 21.喵喵盾JS代码混淆加固-不透明谓词虚假分支
+      url: https://www.bilibili.com/video/BV133bXzoEst
     - author: DrissionPage
       release_time: 2025.07.24 23:21:57
       title: 设置代理-DrissionPage官方教程-p29
@@ -117,10 +121,6 @@
       release_time: 2025.07.02 18:18:00
       title: 13.喵喵盾JS代码混淆加固-全局控制流
       url: https://www.bilibili.com/video/BV1AF34ztEKk
-    - author: 和沐阳学逆向
-      release_time: 2025.07.01 11:12:05
-      title: 59.逆向工具IDApro的使用方法
-      url: https://www.bilibili.com/video/BV1i1gUzGEBJ
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
