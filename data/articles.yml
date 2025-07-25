@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.07.25 11:52:17
+      title: WebAssembly 逆向工程挑战赛
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142804&idx=1&sn=9ffd69d8231b5b91567a342f355770cb
     - author: 断点续行
       release_time: 2025.07.24 16:52:29
       title: 顶象二次验证分析，如何规避二次验证
@@ -240,10 +244,6 @@
       release_time: 2025.07.09 10:42:09
       title: 安卓逆向 -- Xposed快速上手（下）
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039597&idx=1&sn=abacfd318b2bf0c6548a966652a45856
-    - author: 菜鸟学Python编程
-      release_time: 2025.07.08 18:08:39
-      title: 喵喵盾也是可以进行还原处理的，ᥬ😂᭄
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566081&idx=1&sn=7f4d09e03d5894d9e8496b76975a4fef
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
