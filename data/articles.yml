@@ -2,6 +2,10 @@
   list:
   - links:
     - author: 零点520666
+      release_time: 2025.07.26 20:00:00
+      title: 09.实现BinaryExpression二项表达式编译
+      url: https://www.bilibili.com/video/BV1VAbDzsEfZ
+    - author: 零点520666
       release_time: 2025.07.25 20:00:00
       title: 21.喵喵盾JS代码混淆加固-不透明谓词虚假分支
       url: https://www.bilibili.com/video/BV133bXzoEst
@@ -117,10 +121,6 @@
       release_time: 2025.07.02 21:38:06
       title: AI+DrissionPage 破解各种验证码，【文字点选】【图形点选】【九宫格】【空间推理】
       url: https://www.bilibili.com/video/BV1St34zMENf
-    - author: 零点520666
-      release_time: 2025.07.02 18:18:00
-      title: 13.喵喵盾JS代码混淆加固-全局控制流
-      url: https://www.bilibili.com/video/BV1AF34ztEKk
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
