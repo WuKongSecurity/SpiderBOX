@@ -19,12 +19,17 @@
       image: images/ads/xcy_1200x150.png
       description: 九年深耕，百万级代理 IP 节点自由调度，整合国内超过 90% 地区的动态代理 IP 汇聚成代理服务器池，并提供API接入，将高速稳定的代理池接入到您的自动化应用中
       track: ad_xcy
-    - title: IPIPGO 全球住宅 IP
+    - title: 广告位招租
       ads: true
-      url: https://www.ipipgo.com?inviteLink=e9dv4Dho
-      image: images/ads/ipipgo_1200x150.png
-      description: IPIPGO 全球住宅 IP，企业级海外代理 IP 服务商，汇集全球 245 个国家/地区的 9000 万家庭住宅 IP，涵盖静态、动态、原生跨境专线等方案，提供全面的免费测试，确保满足您的业务需求
-      track: ad_ipipgo
+      url: https://static.wukongsec.com/public/images/info/wechat_art.webp
+      image: images/ads/ad_default.jpg
+
+#    - title: IPIPGO 全球住宅 IP
+#      ads: true
+#      url: https://www.ipipgo.com?inviteLink=e9dv4Dho
+#      image: images/ads/ipipgo_1200x150.png
+#      description: IPIPGO 全球住宅 IP，企业级海外代理 IP 服务商，汇集全球 245 个国家/地区的 9000 万家庭住宅 IP，涵盖静态、动态、原生跨境专线等方案，提供全面的免费测试，确保满足您的业务需求
+#      track: ad_ipipgo
     # - item: 芝麻 HTTP
     #   url: http://www.zmhttp.com/?utm-source=box&utm-keyword=?07
     #   image: images/ads/zmhttp.jpg
