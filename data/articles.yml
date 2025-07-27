@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 时一十一姐呀
+      release_time: 2025.07.27 17:52:55
+      title: windows同时安装多个版本的chrome浏览器
+      url: https://www.bilibili.com/video/BV1Lx8vz7EMg
     - author: B站用户骚神
       release_time: 2025.07.27 14:28:26
       title: dptool-专门为DrissionPage设计的工具网站
@@ -117,13 +121,13 @@
       release_time: 2025.07.03 18:18:00
       title: 14.喵喵盾JS代码混淆加固-高性能控制流
       url: https://www.bilibili.com/video/BV1WF34ztETt
-    - author: ikun的嘴
-      release_time: 2025.07.03 11:51:47
-      title: 新手js逆向补环境如何快速进阶，一个视频带你成为补环境高手
-      url: https://www.bilibili.com/video/BV1ne3azzE8i
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向OneByOne
+      release_time: 2025.07.27 17:55:03
+      title: windows同时安装多个版本的chrome
+      url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494035&idx=1&sn=7d0c837c6f3f5078dd157e5e482165c8
     - author: 哆啦安全
       release_time: 2025.07.27 09:25:33
       title: Android Studio配置gradle版本和国内下载源
@@ -240,10 +244,6 @@
       release_time: 2025.07.09 22:28:41
       title: Linux sudo命令高危漏洞(立即升级)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498295&idx=1&sn=bcddb041585ea3a56e0a52b22e136fca
-    - author: 静夜随想
-      release_time: 2025.07.09 19:58:08
-      title: Object.freeze在JavaScript逆向时的妙用
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811088&idx=1&sn=8877e96e04356a6f02fb143e75f69e9b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
