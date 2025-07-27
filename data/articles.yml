@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.07.27 14:28:26
+      title: dptool-专门为DrissionPage设计的工具网站
+      url: https://www.bilibili.com/video/BV1qz8iz4EdG
     - author: 零点520666
       release_time: 2025.07.26 20:00:00
       title: 09.实现BinaryExpression二项表达式编译
@@ -117,10 +121,6 @@
       release_time: 2025.07.03 11:51:47
       title: 新手js逆向补环境如何快速进阶，一个视频带你成为补环境高手
       url: https://www.bilibili.com/video/BV1ne3azzE8i
-    - author: B站用户骚神
-      release_time: 2025.07.02 21:38:06
-      title: AI+DrissionPage 破解各种验证码，【文字点选】【图形点选】【九宫格】【空间推理】
-      url: https://www.bilibili.com/video/BV1St34zMENf
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
