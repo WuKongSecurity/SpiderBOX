@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: WanQing
+      release_time: 2025.07.27 10:16:52
+      title: '[原创]Albatross 支持hook指令的强大hook和反射库'
+      url: https://bbs.kanxue.com/thread-287777.htm
     - author: 青衫不负雪
       release_time: 2025.07.25 23:30:27
       title: '[原创]某蜜雪APP之登录分析'
@@ -486,10 +490,6 @@
       release_time: 2025.07.15 15:58:22
       title: 005.chromium编译进阶-添加JWT验证启动
       url: https://blog.csdn.net/w1101662433/article/details/143991559
-    - author: Codeooo
-      release_time: 2025.07.15 10:42:02
-      title: 某东 jdgs参数unidbg环境检测patch分析
-      url: https://codeooo.blog.csdn.net/article/details/149018527
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
