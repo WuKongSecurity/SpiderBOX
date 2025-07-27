@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 零点520666
+      release_time: 2025.07.27 20:00:00
+      title: 10.js基本数据类型编译
+      url: https://www.bilibili.com/video/BV1eAbDzsEq3
     - author: 时一十一姐呀
       release_time: 2025.07.27 17:52:55
       title: windows同时安装多个版本的chrome浏览器
@@ -117,10 +121,6 @@
       release_time: 2025.07.05 18:18:00
       title: 15.喵喵盾JS代码混淆加固-动态混淆
       url: https://www.bilibili.com/video/BV14X3xzAERe
-    - author: 零点520666
-      release_time: 2025.07.03 18:18:00
-      title: 14.喵喵盾JS代码混淆加固-高性能控制流
-      url: https://www.bilibili.com/video/BV1WF34ztETt
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
