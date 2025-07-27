@@ -2,6 +2,18 @@
   list:
   - links:
     - author: 零点520666
+      release_time: 2025.07.27 20:00:00
+      title: 10.js基本数据类型编译
+      url: https://www.bilibili.com/video/BV1eAbDzsEq3
+    - author: 时一十一姐呀
+      release_time: 2025.07.27 17:52:55
+      title: windows同时安装多个版本的chrome浏览器
+      url: https://www.bilibili.com/video/BV1Lx8vz7EMg
+    - author: B站用户骚神
+      release_time: 2025.07.27 14:28:26
+      title: dptool-专门为DrissionPage设计的工具网站
+      url: https://www.bilibili.com/video/BV1qz8iz4EdG
+    - author: 零点520666
       release_time: 2025.07.26 20:00:00
       title: 09.实现BinaryExpression二项表达式编译
       url: https://www.bilibili.com/video/BV1VAbDzsEfZ
@@ -109,21 +121,17 @@
       release_time: 2025.07.05 18:18:00
       title: 15.喵喵盾JS代码混淆加固-动态混淆
       url: https://www.bilibili.com/video/BV14X3xzAERe
-    - author: 零点520666
-      release_time: 2025.07.03 18:18:00
-      title: 14.喵喵盾JS代码混淆加固-高性能控制流
-      url: https://www.bilibili.com/video/BV1WF34ztETt
-    - author: ikun的嘴
-      release_time: 2025.07.03 11:51:47
-      title: 新手js逆向补环境如何快速进阶，一个视频带你成为补环境高手
-      url: https://www.bilibili.com/video/BV1ne3azzE8i
-    - author: B站用户骚神
-      release_time: 2025.07.02 21:38:06
-      title: AI+DrissionPage 破解各种验证码，【文字点选】【图形点选】【九宫格】【空间推理】
-      url: https://www.bilibili.com/video/BV1St34zMENf
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向OneByOne
+      release_time: 2025.07.27 17:55:03
+      title: windows同时安装多个版本的chrome
+      url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494035&idx=1&sn=7d0c837c6f3f5078dd157e5e482165c8
+    - author: 哆啦安全
+      release_time: 2025.07.27 09:25:33
+      title: Android Studio配置gradle版本和国内下载源
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498337&idx=1&sn=757797d61b85511579cbc8464179953d
     - author: 吾爱破解论坛
       release_time: 2025.07.25 11:52:17
       title: WebAssembly 逆向工程挑战赛
@@ -236,14 +244,6 @@
       release_time: 2025.07.09 22:28:41
       title: Linux sudo命令高危漏洞(立即升级)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498295&idx=1&sn=bcddb041585ea3a56e0a52b22e136fca
-    - author: 静夜随想
-      release_time: 2025.07.09 19:58:08
-      title: Object.freeze在JavaScript逆向时的妙用
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811088&idx=1&sn=8877e96e04356a6f02fb143e75f69e9b
-    - author: 逆向有你
-      release_time: 2025.07.09 10:42:09
-      title: 安卓逆向 -- Xposed快速上手（下）
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039597&idx=1&sn=abacfd318b2bf0c6548a966652a45856
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,18 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: r0ysue_
+      release_time: 2025.07.27 18:34:52
+      title: r0env2024：开箱即用的AI工具集成Kali发新版
+      url: https://blog.csdn.net/u010559109/article/details/149693918
+    - author: 富到流油^-^
+      release_time: 2025.07.27 17:51:52
+      title: '[分享][下载][原创]手机日志捕捉分析工具WIN和ubuntu通用版'
+      url: https://bbs.kanxue.com/thread-287779.htm
+    - author: WanQing
+      release_time: 2025.07.27 10:16:52
+      title: '[原创]Albatross 支持hook指令的强大hook和反射库'
+      url: https://bbs.kanxue.com/thread-287777.htm
     - author: 青衫不负雪
       release_time: 2025.07.25 23:30:27
       title: '[原创]某蜜雪APP之登录分析'
@@ -478,18 +490,6 @@
       release_time: 2025.07.15 18:00:53
       title: '[原创]某壳部分检测字符串'
       url: https://bbs.kanxue.com/thread-287616.htm
-    - author: git_21210wzzzh2025
-      release_time: 2025.07.15 16:16:04
-      title: '[原创]tt x-gorgon分析'
-      url: https://bbs.kanxue.com/thread-287614.htm
-    - author: 王辉辉的猫
-      release_time: 2025.07.15 15:58:22
-      title: 005.chromium编译进阶-添加JWT验证启动
-      url: https://blog.csdn.net/w1101662433/article/details/143991559
-    - author: Codeooo
-      release_time: 2025.07.15 10:42:02
-      title: 某东 jdgs参数unidbg环境检测patch分析
-      url: https://codeooo.blog.csdn.net/article/details/149018527
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
