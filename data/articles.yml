@@ -247,6 +247,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: '13955925361'
+      release_time: 2025.07.27 19:17:00
+      title: 拼多多网页端商品信息获取
+      url: https://www.52pojie.cn/thread-2049016-1-1.html
+    - author: utf8
+      release_time: 2025.07.27 18:32:00
+      title: 某盾无感验证码逆向 - 1
+      url: https://www.52pojie.cn/thread-2049010-1-1.html
     - author: zhnn
       release_time: 2025.07.25 16:49:00
       title: Js逆向实战案例之 ------x企查【ymg_ssr】+反调试分析
@@ -359,17 +367,13 @@
       release_time: 2025.07.09 16:35:00
       title: Amarok密码“绕过”
       url: https://www.52pojie.cn/thread-2044563-1-1.html
-    - author: hHunter
-      release_time: 2025.07.09 16:01:00
-      title: 某海外平台moboreels短视频app逆向分析研究
-      url: https://www.52pojie.cn/thread-2044552-1-1.html
-    - author: justWant404
-      release_time: 2025.07.08 20:39:00
-      title: x红书水印去除Frida脚本和Xposed模块
-      url: https://www.52pojie.cn/thread-2044329-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 易之生生
+      release_time: 2025.07.28 14:55:16
+      title: '[原创]X浪脱壳分析'
+      url: https://bbs.kanxue.com/thread-287788.htm
     - author: 十一姐
       release_time: 2025.07.28 08:17:40
       title: drissionpage如何设置账号密码的代理？
@@ -486,10 +490,6 @@
       release_time: 2025.07.16 16:07:25
       title: JS逆向 - YandexSmartCaptcha (worker线程)
       url: https://blog.csdn.net/qq_53444631/article/details/149396340
-    - author: 青衫不负雪
-      release_time: 2025.07.16 15:30:15
-      title: '[原创]某恋爱APP登录请求分析'
-      url: https://bbs.kanxue.com/thread-287627.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
