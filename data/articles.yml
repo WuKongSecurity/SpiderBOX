@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Coder小Q
+      release_time: 2025.07.28 08:30:00
+      title: 【密码学】BAT算法解读
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492075&idx=1&sn=3ffc9328df1f17f951a1cd9b876ca1cc
     - author: 逆向OneByOne
       release_time: 2025.07.27 17:55:03
       title: windows同时安装多个版本的chrome
@@ -240,10 +244,6 @@
       release_time: 2025.07.10 08:44:09
       title: 【0day】Telegram私密群组/频道未授权访问
       url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486099&idx=1&sn=cd70d35575862813b29e724bd02777a8
-    - author: 哆啦安全
-      release_time: 2025.07.09 22:28:41
-      title: Linux sudo命令高危漏洞(立即升级)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498295&idx=1&sn=bcddb041585ea3a56e0a52b22e136fca
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
