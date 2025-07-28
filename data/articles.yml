@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 点点的逆向之旅
+      release_time: 2025.07.28 20:51:30
+      title: RecaptchaV3逆向学习
+      url: https://mp.weixin.qq.com/s?__biz=MzkwOTY2MTA3OQ==&mid=2247483929&idx=1&sn=efec35184173d96aa0aa3ceba8216920
     - author: 吾爱破解论坛
       release_time: 2025.07.28 18:12:40
       title: 某米无线键鼠2逆向初探
@@ -240,10 +244,6 @@
       release_time: 2025.07.10 20:51:12
       title: Node服务内存泄漏问题排查
       url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811095&idx=1&sn=94edd87f7779596213457e3d79fd066b
-    - author: 布鲁的Python之旅
-      release_time: 2025.07.10 17:13:29
-      title: 【开源项目】基于Django、vue3的Python后台管理系统
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486204&idx=1&sn=89b9b0f80cc811bc130c9ad77e30b4ca
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
