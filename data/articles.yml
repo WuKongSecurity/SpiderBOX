@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 黑脸怪
+      release_time: 2025.07.28 16:32:59
+      title: 抖音创作者发文风控参数分析 bd-ticket-guard-client-data
+      url: https://mp.weixin.qq.com/s?__biz=MzI3MjQ3OTE3OA==&mid=2247484056&idx=1&sn=81d46cea858acb498c0d84e251620f6a
     - author: 布鲁的Python之旅
       release_time: 2025.07.28 15:55:32
       title: TaskPyro爬虫管理平台在Linux环境下的一键安装、配置、启动、停止、升级、删除等功能
@@ -240,10 +244,6 @@
       release_time: 2025.07.10 14:00:53
       title: funcaptcha验证逆向分析
       url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484282&idx=1&sn=4b64edd460d768e3abee8c35a0ff9d7e
-    - author: 逆向有你
-      release_time: 2025.07.10 09:52:23
-      title: JS逆向 -- 某汇初逆向
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039612&idx=1&sn=4bddd86efcb15b0a8f5ea3fcd4bddfba
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
