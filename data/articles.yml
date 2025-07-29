@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: Mauns
+      release_time: 2025.07.29 18:55:00
+      title: apk拖进jadx-gui错误
+      url: https://www.52pojie.cn/thread-2049573-1-1.html
     - author: buluo533
       release_time: 2025.07.29 10:33:00
       title: 某酒店登录系统滑块逆向分析
@@ -363,10 +367,6 @@
       release_time: 2025.07.13 10:33:00
       title: '[原创] 某验3底图还原python算法改写'
       url: https://www.52pojie.cn/thread-2045347-1-1.html
-    - author: ZenoMiao
-      release_time: 2025.07.10 23:36:00
-      title: '[原创] 崔大Scrape十四题, 入门级wasm加密分析'
-      url: https://www.52pojie.cn/thread-2044904-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
