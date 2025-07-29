@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小小杨学编程
+      release_time: 2025.07.29 13:30:00
+      title: LeminCaptcha拖拽滑块验证分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484327&idx=1&sn=d5c5ee37da238c932bb454bdcff1e97f
     - author: 逆向OneByOne
       release_time: 2025.07.29 09:15:38
       title: 如何用AI编程cursor在10分钟开发爬虫插件
@@ -180,6 +184,10 @@
       release_time: 2025.07.24 11:13:07
       title: 使用Ai8051模拟fx2lafw设备制作简易逻辑分析仪
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142790&idx=1&sn=9be767c0370aaec7b302484a41492fe5
+    - author: 小小杨学编程
+      release_time: 2025.07.23 11:00:51
+      title: Arcaptcha滑块验证分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484315&idx=1&sn=9b4ab9a6d0d89c9f1b0b22a6571ef70e
     - author: 爬虫逆向小林哥
       release_time: 2025.07.22 09:32:00
       title: 【网页逆向】chan妈妈滑块ast反混淆
@@ -236,14 +244,6 @@
       release_time: 2025.07.15 14:42:28
       title: 警惕近期大规模GO开源库投毒事件
       url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486125&idx=1&sn=d6fd0394559ac72a20bb42579669f8c3
-    - author: Spade sec
-      release_time: 2025.07.15 11:24:47
-      title: 某开源库投毒
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486110&idx=1&sn=1b05ba7bce318ff0015af5bc1d422c8d
-    - author: 逆向有你
-      release_time: 2025.07.15 11:04:51
-      title: 安卓逆向 -- IDA逆向编辑Android so文件
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039632&idx=1&sn=37bcf3477cc244452002fafcab92e3b1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
