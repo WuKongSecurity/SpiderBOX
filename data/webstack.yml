@@ -1939,10 +1939,10 @@
           logo: nstproxy.jpg
           url: https://app.nstproxy.com/register?i=EKtJne
           description: nstproxy provide various types of proxies, including rotating residential proxies(city target and country target), datacenter proxies, ipv6 proxies, ISP proxies, and mobile proxies. Partner with nstproxy to get high-quality proxies that meet your needs for data collection, web scraping, and privacy protection.
-        - title: IPIPGO 全球住宅 IP
-          logo: ipipgo.jpg
-          url: https://www.ipipgo.com?inviteLink=e9dv4Dho
-          description: IPIPGO 全球住宅 IP，企业级海外代理IP服务商，汇集全球245个国家/地区的9000万家庭住宅IP，涵盖静态、动态、原生跨境专线等方案，提供全面的免费测试，确保满足您的业务需求
+#        - title: IPIPGO 全球住宅 IP
+#          logo: ipipgo.jpg
+#          url: https://www.ipipgo.com?inviteLink=e9dv4Dho
+#          description: IPIPGO 全球住宅 IP，企业级海外代理IP服务商，汇集全球245个国家/地区的9000万家庭住宅IP，涵盖静态、动态、原生跨境专线等方案，提供全面的免费测试，确保满足您的业务需求
         - title: Cliproxy
           logo: cliproxy.png
           url: https://cliproxy.com/?kwd=ty-spiderbox
@@ -2095,6 +2095,10 @@
           logo: naproxy.jpg
           url: https://www.naproxy.com/
           description: NaProxy is trusted proxy IP service provider, use our proxy infrastructure to provide support for your crawlers.
+        - title: ABCproxy
+          logo: abcproxy.jpg
+          url: https://www.abcproxy.com?utm-source=spbox&utm-keyword=?01
+          description: AI-powered 200m+ real IP proxy, HTTP(S)/SOCKS5, 99% uptime, unlimited bandwidth, rotating residential proxies, unlimited and mobile proxies etc, free trial web scraping API, get a 10% discount with oct11abc.
 
 #        - title: WTFproxy
 #          logo: wtfproxy.png
