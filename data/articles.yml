@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: Alone逆向安全
+      release_time: 2025.07.29 22:07:51
+      title: 污点传播的基本原理 arm64基于位级运算的离线污点分析高效率工具
+      url: https://www.bilibili.com/video/BV1pm8dzXEnm
     - author: 零点520666
       release_time: 2025.07.29 20:00:00
       title: 12.实现对象类型编译
@@ -117,10 +121,6 @@
       release_time: 2025.07.07 13:15:20
       title: 骚神插件9.7.3 新增【xpath动态生成】【逆向代码注入】【抓包代码生成】三大功能
       url: https://www.bilibili.com/video/BV1jA3Cz8EGN
-    - author: 猿人学
-      release_time: 2025.07.07 10:40:01
-      title: 猿人学深圳聚会花絮
-      url: https://www.bilibili.com/video/BV1yk36zKE6Z
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
