@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 时一十一姐呀
+      release_time: 2025.07.29 09:09:13
+      title: AI编程cursor在10分钟开发爬虫插件
+      url: https://www.bilibili.com/video/BV1zK8QzNE4K
     - author: 零点520666
       release_time: 2025.07.28 20:00:00
       title: 11.实现数组类型编译
@@ -117,13 +121,21 @@
       release_time: 2025.07.06 18:18:00
       title: 16.喵喵盾JS代码混淆加固-局部混淆
       url: https://www.bilibili.com/video/BV1KX3xzAEZf
-    - author: 和沐阳学逆向
-      release_time: 2025.07.06 16:54:16
-      title: 60.(广子)iOS逆向助手的开发思路
-      url: https://www.bilibili.com/video/BV1hE3eztELP
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向OneByOne
+      release_time: 2025.07.29 09:15:38
+      title: 如何用AI编程cursor在10分钟开发爬虫插件
+      url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494064&idx=1&sn=2605de67dfc046e356d922e2a2c2b47c
+    - author: 逆向有你
+      release_time: 2025.07.29 09:10:15
+      title: JS逆向 -- 某鸭脖 xmSign参数逆向
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039696&idx=1&sn=84b487aa8079232193ae7ec18b586a7c
+    - author: Spade sec
+      release_time: 2025.07.29 09:00:00
+      title: 反调试破除者--AntiDebug_Breaker
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486135&idx=1&sn=ad8ce8d004255cace177b3760c06796d
     - author: 哆啦安全
       release_time: 2025.07.28 22:36:42
       title: Android7至16输入系统源码分析
@@ -196,6 +208,10 @@
       release_time: 2025.07.20 07:42:44
       title: Android7至16输入系统流程及原理深入浅出
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498329&idx=1&sn=d017fa7b9cae04cdb0afc4fefd1ad7e8
+    - author: 吾爱破解论坛
+      release_time: 2025.07.17 17:54:44
+      title: 【开放注册公告】吾爱破解论坛2025年7月21日暑假开放注册公告
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142775&idx=1&sn=e3eeb825d308a69ecad21acbe8172ded
     - author: 哆啦安全
       release_time: 2025.07.17 08:59:45
       title: Android10至16系统ROM定制篇
@@ -228,25 +244,13 @@
       release_time: 2025.07.15 11:04:51
       title: 安卓逆向 -- IDA逆向编辑Android so文件
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039632&idx=1&sn=37bcf3477cc244452002fafcab92e3b1
-    - author: 小伍哥聊风控
-      release_time: 2025.07.14 23:03:25
-      title: 招个风控策略-会大模型应用的
-      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196956&idx=1&sn=25d17e5b09fa87ebcdb2dc9a2b84384f
-    - author: 静夜随想
-      release_time: 2025.07.14 20:32:00
-      title: 魔改console引发的内存泄漏
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811116&idx=1&sn=3483ca5d87a2b46f49278272dfb8185a
-    - author: Coder小Q
-      release_time: 2025.07.14 08:30:00
-      title: 【密码学】HQC算法解读
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247491911&idx=1&sn=70e51e0b6273db9f54242c2b40528d66
-    - author: 吾爱破解论坛
-      release_time: 2025.07.11 15:44:54
-      title: 【开放注册公告】吾爱破解论坛2025年7月21日暑假开放注册公告
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142767&idx=1&sn=0a26835f2b52cb33700351503588c1e9
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: buluo533
+      release_time: 2025.07.29 10:33:00
+      title: 某酒店登录系统滑块逆向分析
+      url: https://www.52pojie.cn/thread-2049410-1-1.html
     - author: '13955925361'
       release_time: 2025.07.27 19:17:00
       title: 拼多多网页端商品信息获取
@@ -363,10 +367,6 @@
       release_time: 2025.07.10 18:53:00
       title: 油猴脚本-通过Hook来禁用disable-devtool插件
       url: https://www.52pojie.cn/thread-2044857-1-1.html
-    - author: yyyyyyzh
-      release_time: 2025.07.09 16:35:00
-      title: Amarok密码“绕过”
-      url: https://www.52pojie.cn/thread-2044563-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
