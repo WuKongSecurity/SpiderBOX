@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: Alone逆向安全
+      release_time: 2025.07.31 01:11:18
+      title: (安卓逆向)王炸组合！我把Frida-Gum注入安卓，用Lua脚本实现了动态热重载
+      url: https://www.bilibili.com/video/BV1Vq8zzxEMc
     - author: 零点520666
       release_time: 2025.07.30 20:00:00
       title: 20.实现RegExpLiteral正则表达式编译
@@ -117,10 +121,6 @@
       release_time: 2025.07.08 23:33:24
       title: 61.win_0基础搭建IDApro-MCP的AI逆向二进制环境
       url: https://www.bilibili.com/video/BV1j3GHzBEiQ
-    - author: 零点520666
-      release_time: 2025.07.07 18:18:00
-      title: 17.喵喵盾JS代码混淆加固-混淆代码性能测试
-      url: https://www.bilibili.com/video/BV14X3xzAEag
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
