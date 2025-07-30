@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.07.30 09:23:02
+      title: 安卓逆向 -- 某绘笔记破解教程
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039708&idx=1&sn=9285413e171bad6b4ae8b69fb5783497
     - author: 小小杨学编程
       release_time: 2025.07.29 13:30:00
       title: LeminCaptcha拖拽滑块验证分析
@@ -240,10 +244,6 @@
       release_time: 2025.07.15 20:50:02
       title: 如何定制sdenv补环境
       url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811117&idx=1&sn=3e5b9f0e46d2bbde9fdf307c49681dd6
-    - author: Spade sec
-      release_time: 2025.07.15 14:42:28
-      title: 警惕近期大规模GO开源库投毒事件
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486125&idx=1&sn=d6fd0394559ac72a20bb42579669f8c3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
