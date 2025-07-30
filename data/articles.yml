@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 丫总逆向
+      release_time: 2025.07.30 14:59:21
+      title: 某平台网关请求签名rid逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzU1NjQ2Njg4OA==&mid=2247483865&idx=1&sn=be9eb4bace6c4c4eb2b953b93cb8ea34
     - author: 逆向有你
       release_time: 2025.07.30 09:23:02
       title: 安卓逆向 -- 某绘笔记破解教程
@@ -240,10 +244,6 @@
       release_time: 2025.07.16 11:29:42
       title: 从0-1打造一个简单的量化策略
       url: https://mp.weixin.qq.com/s?__biz=MzkzODYzNjg4OA==&mid=2247484325&idx=1&sn=ab2eb1f86a2a6af5ed8904dae414fe22
-    - author: 静夜随想
-      release_time: 2025.07.15 20:50:02
-      title: 如何定制sdenv补环境
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811117&idx=1&sn=3e5b9f0e46d2bbde9fdf307c49681dd6
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
