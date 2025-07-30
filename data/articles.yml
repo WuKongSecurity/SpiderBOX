@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小尘逆向之旅
+      release_time: 2025.07.30 22:59:00
+      title: 某手滑块逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDg0MjM0MQ==&mid=2247483738&idx=1&sn=b459356f84a1694d0270b1fa85172e86
     - author: 丫总逆向
       release_time: 2025.07.30 14:59:21
       title: 某平台网关请求签名rid逆向分析
@@ -240,10 +244,6 @@
       release_time: 2025.07.16 11:33:36
       title: JS逆向 -- 某漫画网站图片还原逆向
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039647&idx=1&sn=a275d462fb6512baedad9e98cddf56f5
-    - author: 独步爬虫逆向
-      release_time: 2025.07.16 11:29:42
-      title: 从0-1打造一个简单的量化策略
-      url: https://mp.weixin.qq.com/s?__biz=MzkzODYzNjg4OA==&mid=2247484325&idx=1&sn=ab2eb1f86a2a6af5ed8904dae414fe22
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
