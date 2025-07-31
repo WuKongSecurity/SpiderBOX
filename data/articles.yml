@@ -124,10 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向狗都不学
+      release_time: 2025.07.31 14:10:17
+      title: Akamai 3.0算法与风控
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247483858&idx=1&sn=ec11bfdb464e01f927edbc8c1c86d694
     - author: 哆啦安全
       release_time: 2025.07.31 09:50:29
       title: 逆向开发资料(2025)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498348&idx=1&sn=6f628e44fa7dcd99b53098cfaefb80fa
+    - author: 逆向狗都不学
+      release_time: 2025.07.31 00:42:40
+      title: Akamai 3.0反混淆
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247483839&idx=1&sn=07cbd2b50252505733aa901fd7ac192a
     - author: 小尘逆向之旅
       release_time: 2025.07.30 22:59:00
       title: 某手滑块逆向分析
@@ -236,14 +244,6 @@
       release_time: 2025.07.17 17:54:44
       title: 【开放注册公告】吾爱破解论坛2025年7月21日暑假开放注册公告
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142775&idx=1&sn=e3eeb825d308a69ecad21acbe8172ded
-    - author: 哆啦安全
-      release_time: 2025.07.17 08:59:45
-      title: Android10至16系统ROM定制篇
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498307&idx=1&sn=92e12d84dc343b14c408b23c05854aa4
-    - author: 黑脸怪
-      release_time: 2025.07.16 19:40:47
-      title: 抖音发文协议分析
-      url: https://mp.weixin.qq.com/s?__biz=MzI3MjQ3OTE3OA==&mid=2247484004&idx=1&sn=009ad5252b4add9da1c4650f718359ca
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
