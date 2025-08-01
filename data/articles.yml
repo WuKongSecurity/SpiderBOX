@@ -2,6 +2,10 @@
   list:
   - links:
     - author: 零点520666
+      release_time: 2025.08.01 20:00:00
+      title: 28.跳转指令原理讲解一
+      url: https://www.bilibili.com/video/BV1NJbDzCEmS
+    - author: 零点520666
       release_time: 2025.07.31 20:00:00
       title: 27.实现指令信息的输出
       url: https://www.bilibili.com/video/BV1KJbDzCEWB
@@ -117,10 +121,6 @@
       release_time: 2025.07.10 20:00:00
       title: 18.喵喵盾JS代码混淆加固-混淆组件
       url: https://www.bilibili.com/video/BV1BVGGzLEKM
-    - author: B站用户骚神
-      release_time: 2025.07.09 15:25:57
-      title: FastAPI+DrissionPage，远程操作浏览器自动化抓数据
-      url: https://www.bilibili.com/video/BV1sJGwzhE8D
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
