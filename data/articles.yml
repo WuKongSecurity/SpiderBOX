@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Coder小Q
+      release_time: 2025.08.01 08:30:00
+      title: 【密码学】回顾ML-DSA的数据压缩技术
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492096&idx=1&sn=29d98cf68f4ed25fb6a452878bf8b862
     - author: 沐阳科技资源
       release_time: 2025.07.31 22:43:14
       title: 2025年7月iOS逆向课程更新一览
@@ -240,10 +244,6 @@
       release_time: 2025.07.21 09:10:46
       title: Android PLT hook和Inline hook
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498332&idx=1&sn=09bfc325dadee095de05aa54e988757e
-    - author: 理想真会玩
-      release_time: 2025.07.20 17:14:24
-      title: 魔改浏览器过无限debugger
-      url: https://mp.weixin.qq.com/s?__biz=MzIwODg1MjQ4OQ==&mid=2247485605&idx=1&sn=65a26ec54113f90d592a8af26dfb3776
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
