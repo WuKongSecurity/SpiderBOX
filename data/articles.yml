@@ -2,6 +2,10 @@
   list:
   - links:
     - author: 零点520666
+      release_time: 2025.08.02 20:00:00
+      title: 53.课程成果测试&&课程总结
+      url: https://www.bilibili.com/video/BV1NJbDzCE1E
+    - author: 零点520666
       release_time: 2025.08.01 20:00:00
       title: 28.跳转指令原理讲解一
       url: https://www.bilibili.com/video/BV1NJbDzCEmS
@@ -117,10 +121,6 @@
       release_time: 2025.07.11 14:03:03
       title: 使用DrissionPage 远程操控ubuntu 系统的谷歌浏览器
       url: https://www.bilibili.com/video/BV14AuuzyE9S
-    - author: 零点520666
-      release_time: 2025.07.10 20:00:00
-      title: 18.喵喵盾JS代码混淆加固-混淆组件
-      url: https://www.bilibili.com/video/BV1BVGGzLEKM
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
