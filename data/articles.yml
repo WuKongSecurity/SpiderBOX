@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2025.08.03 16:20:27
+      title: 首台官方支持的pixel设备pixel3搭配StatixOS(安卓13)刷最新的Kali Nethunter2025.2内核是最新的定制版Alynx-2.1
+      url: https://www.bilibili.com/video/BV1WXh3zvEsD
     - author: 零点520666
       release_time: 2025.08.02 20:00:00
       title: 53.课程成果测试&&课程总结
@@ -117,10 +121,6 @@
       release_time: 2025.07.11 20:20:00
       title: 19.喵喵盾JS代码混淆加固-HTML网页文件混淆
       url: https://www.bilibili.com/video/BV1ZVGGzLEvr
-    - author: B站用户骚神
-      release_time: 2025.07.11 14:03:03
-      title: 使用DrissionPage 远程操控ubuntu 系统的谷歌浏览器
-      url: https://www.bilibili.com/video/BV14AuuzyE9S
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
