@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小伍哥聊风控
+      release_time: 2025.08.03 10:00:00
+      title: 基于文本的违禁词分类挑战赛-逻辑回归、BERT、大模型都给了一个baseline。
+      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196963&idx=1&sn=3ef0d2b79d0f954a7ac5f3d60b1d8201
     - author: 小小杨学编程
       release_time: 2025.08.01 18:22:00
       title: 币安登录滑块验证分析
@@ -240,10 +244,6 @@
       release_time: 2025.07.21 20:49:07
       title: 又收集到一个开源某数补环境方案
       url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811120&idx=1&sn=e6123b7e87e72eef7d87323e0fde6b50
-    - author: 逆向有你
-      release_time: 2025.07.21 17:34:40
-      title: 安卓逆向 -- 某游快爆APP sign值逆向
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039665&idx=1&sn=a29f156511504b5eaf5e20ff6b87605b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
