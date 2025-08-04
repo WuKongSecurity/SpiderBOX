@@ -124,10 +124,26 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.08.04 08:38:21
+      title: AI+逆向分析(逆向智能攻防趋势)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498359&idx=1&sn=cac9808c204db6441c124d1a90d6a802
+    - author: 二进制磨剑
+      release_time: 2025.08.04 08:30:00
+      title: Frida 17 API 重大变更与迁移指南
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485640&idx=1&sn=017b9c3859d8d7b9628a758b0f6f4f13
+    - author: 逆向狗都不学
+      release_time: 2025.08.04 07:35:28
+      title: Incapsula(reese84)反混淆
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247483878&idx=1&sn=64675b8fa43af3402c6f3c6be354700e
     - author: 小伍哥聊风控
       release_time: 2025.08.03 10:00:00
       title: 基于文本的违禁词分类挑战赛-逻辑回归、BERT、大模型都给了一个baseline。
       url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196963&idx=1&sn=3ef0d2b79d0f954a7ac5f3d60b1d8201
+    - author: 哆啦安全
+      release_time: 2025.08.02 07:01:20
+      title: 鸿蒙(HarmonyOS)安全深入浅出(四维防御软硬协调防护体系)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498353&idx=1&sn=69c638b947b62bafa0e25519434f20fa
     - author: 小小杨学编程
       release_time: 2025.08.01 18:22:00
       title: 币安登录滑块验证分析
@@ -228,22 +244,6 @@
       release_time: 2025.07.24 16:52:29
       title: 顶象二次验证分析，如何规避二次验证
       url: https://mp.weixin.qq.com/s?__biz=Mzg4NDgxNTAzNg==&mid=2247483876&idx=1&sn=417a205e50c9a1819a58e3992aa21cb8
-    - author: 吾爱破解论坛
-      release_time: 2025.07.24 11:13:07
-      title: 使用Ai8051模拟fx2lafw设备制作简易逻辑分析仪
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142790&idx=1&sn=9be767c0370aaec7b302484a41492fe5
-    - author: 小小杨学编程
-      release_time: 2025.07.23 11:00:51
-      title: Arcaptcha滑块验证分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484315&idx=1&sn=9b4ab9a6d0d89c9f1b0b22a6571ef70e
-    - author: 爬虫逆向小林哥
-      release_time: 2025.07.22 09:32:00
-      title: 【网页逆向】chan妈妈滑块ast反混淆
-      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247486643&idx=1&sn=d77f7313e6d0828dcd6495fa26b1c82d
-    - author: 静夜随想
-      release_time: 2025.07.21 20:49:07
-      title: 又收集到一个开源某数补环境方案
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811120&idx=1&sn=e6123b7e87e72eef7d87323e0fde6b50
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
