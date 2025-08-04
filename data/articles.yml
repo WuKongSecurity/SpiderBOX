@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向study
+      release_time: 2025.08.04 13:15:01
+      title: 某里v2滑块加密分析
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzYzNDU2NQ==&mid=2247483774&idx=1&sn=e784667f4afed1687ffbab1b10d708c0
     - author: 哆啦安全
       release_time: 2025.08.04 08:38:21
       title: AI+逆向分析(逆向智能攻防趋势)
@@ -240,10 +244,6 @@
       release_time: 2025.07.25 11:52:17
       title: WebAssembly 逆向工程挑战赛
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142804&idx=1&sn=9ffd69d8231b5b91567a342f355770cb
-    - author: 断点续行
-      release_time: 2025.07.24 16:52:29
-      title: 顶象二次验证分析，如何规避二次验证
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDgxNTAzNg==&mid=2247483876&idx=1&sn=417a205e50c9a1819a58e3992aa21cb8
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
