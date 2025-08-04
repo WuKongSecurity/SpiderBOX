@@ -247,6 +247,18 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: Aa865186652
+      release_time: 2025.08.03 10:20:00
+      title: Overt安全检测工具深度解析
+      url: https://www.52pojie.cn/thread-2050639-1-1.html
+    - author: JiGuro
+      release_time: 2025.08.02 17:04:00
+      title: 【逆向思路】Native化软件弹窗去除
+      url: https://www.52pojie.cn/thread-2050549-1-1.html
+    - author: JiGuro
+      release_time: 2025.08.01 20:34:00
+      title: 【全网首发】手撕谷歌服务校验
+      url: https://www.52pojie.cn/thread-2050389-1-1.html
     - author: cenglou5
       release_time: 2025.08.01 18:15:00
       title: 某500px登录参数逆向分析
@@ -355,18 +367,6 @@
       release_time: 2025.07.15 11:27:00
       title: 修复mxplayer pro删除文件的bug 教程
       url: https://www.52pojie.cn/thread-2045765-1-1.html
-    - author: Tartaglia
-      release_time: 2025.07.15 00:54:00
-      title: 记一次sh脚本验证分析
-      url: https://www.52pojie.cn/thread-2045731-1-1.html
-    - author: lideshan
-      release_time: 2025.07.14 16:41:00
-      title: 浏览器指纹追踪入门：常见检测手段 + 小白适用的绕过小技巧
-      url: https://www.52pojie.cn/thread-2045645-1-1.html
-    - author: justWant404
-      release_time: 2025.07.13 23:33:00
-      title: 海外电商APP希Y某参数分析
-      url: https://www.52pojie.cn/thread-2045468-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
