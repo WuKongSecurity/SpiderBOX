@@ -63,7 +63,7 @@ console.log("\n %c © WuKongSec %c wukongsec.com %c © BOB'S BLOG %c itbob.cn %c
 //             confirmButtonText: "俺知道了",
 //             cancelButtonText: "烦死了，近期不再弹出！",
 //             confirmButtonColor: "#0084ff",
-//             imageUrl: "https://static.spiderapi.cn/spiderbox/images/qrcode/IT_BOB.jpg",
+//             imageUrl: "https://static.wukongsec.com/spiderbox/images/qrcode/IT_BOB.jpg",
 //             // imageUrl: "https://spiderapi.cn/img/qrcode/gzh.png",
 //             // imageWidth: 300,
 //             // imageHeight: 300,
@@ -95,7 +95,7 @@ console.log("\n %c © WuKongSec %c wukongsec.com %c © BOB'S BLOG %c itbob.cn %c
 //             confirmButtonText: "俺知道了",
 //             confirmButtonColor: "#0084ff",
 //             imageWidth: 420,
-//             imageUrl: "https://static.spiderapi.cn/spiderbox/images/group.webp",
+//             imageUrl: "https://static.wukongsec.com/spiderbox/images/group.webp",
 //             imageAlt: "QQ / 微信交流群",
 //             showClass: {
 //                 popup: "swal2-show"
@@ -211,7 +211,7 @@ showDisclaimerElement.addEventListener("click", function () {
 //             confirmButtonText: "俺知道了",
 //             confirmButtonColor: "#0084ff",
 //             imageWidth: 420,
-//             imageUrl: "https://static.spiderapi.cn/spiderbox/images/sponsor.webp",
+//             imageUrl: "https://static.wukongsec.com/spiderbox/images/sponsor.webp",
 //             imageAlt: "微信 / 支付宝收款码",
 //             showClass: {
 //                 popup: "swal2-show"
@@ -400,9 +400,9 @@ window.addEventListener('DOMContentLoaded', (event) => {
     if (!lastPopupTime || timeDifferenceInDays >= 30) {  // 30 天内不再弹窗
         alertify.confirm(
             "欢迎访问虫盒",
-            "1️⃣ 站长公众号：<a href='https://static.spiderapi.cn/public/images/info/spider_skill_green.png' target='_blank'>虫技</a>丨<a href='https://www.itbob.cn/about/' target='_blank'>关于站长</a>丨<a href='https://spiderapi.cn/pages/changelog' target='_blank'>更新日志</a>丨<a href='https://bbs.wukongsec.com/' target='_blank'>在线反馈/交流/联系</a><br><br>" +
+            "1️⃣ 站长公众号：<a href='https://static.wukongsec.com/public/images/info/spider_skill_green.png' target='_blank'>虫技</a>丨<a href='https://www.itbob.cn/about/' target='_blank'>关于站长</a>丨<a href='https://spiderapi.cn/pages/changelog' target='_blank'>更新日志</a>丨<a href='https://bbs.wukongsec.com/' target='_blank'>在线反馈/交流/联系</a><br><br>" +
             "2️⃣ 尊重原创，遵守开源协议，一直被模仿，从未被超越，恶意抄袭<a href='https://mp.weixin.qq.com/s/7vFpmhvU8-DCONlvlklMTQ' target='_blank'>案例一</a>、<a href='https://mp.weixin.qq.com/s/3s36tg_mI-Dg4pddoi-eEA' target='_blank'>案例二</a><br><br>" +
-            "3️⃣ 添加站长微信: <a href='https://static.spiderapi.cn/public/images/info/wechat.jpg' target='_blank'>IT-BOB</a>，加入微信交流群，行业大佬云集，机器人实时推送全网优质文章",
+            "3️⃣ 添加站长微信: <a href='https://static.wukongsec.com/public/images/info/wechat.jpg' target='_blank'>IT-BOB</a>，加入微信交流群，行业大佬云集，机器人实时推送全网优质文章",
             function () {},
             function () {
                 localStorage.setItem("_SPIDERBOX_SHOW_START_POPUP_", new Date().toISOString());

@@ -3210,19 +3210,19 @@
           description: 看雪 Android 逆向课程，IDA 特训营、Unidbg 模拟、LLVM 与代码混淆、eBPF 安全开发、安卓高级月薪两万、三万计划等
         - title: 安卓 & WEB 网络协议课
           logo: geekbyte.jpg
-          url: https://static.spiderapi.cn/spiderbox/images/course/neo&geekbyte.jpg
+          url: https://static.wukongsec.com/spiderbox/images/course/neo&geekbyte.jpg
           description: geekbyte 大佬的安卓 & WEB 网络协议课，课程核心着重于介绍底层协议 HTTP、HTTP2、TLS1.2、TLS1.3 的原理与源码（包括 JA3 的开发与对抗，QUIC，OpenSSL，MbedTLS，wolfSSL 等），并将理论与实际代码相结合，深入讲解相关内容，微信：geekbyte
         - title: 陈不不 JSVMP 反编译课程
           logo: Chankipen.jpg
-          url: https://static.spiderapi.cn/spiderbox/images/course/jsvmp.jpg
+          url: https://static.wukongsec.com/spiderbox/images/course/jsvmp.jpg
           description: 陈不不大佬的 JSVMP 反编译课程，微信：Chankipen
         - title: 沐阳安卓、iOS 逆向
           logo: muyangjy888.jpg
-          url: https://static.spiderapi.cn/spiderbox/images/course/Ays971124.jpg
+          url: https://static.wukongsec.com/spiderbox/images/course/Ays971124.jpg
           description: 沐阳大佬的移动安全之安卓逆向、移动安全之iOS逆向，▶️备注BOB，沐阳微信：Ays971124
         - title: 珍惜安卓逆向
           logo: lyh296488320.jpg
-          url: https://static.spiderapi.cn/spiderbox/images/qrcode/lyh296488320.jpg
+          url: https://static.wukongsec.com/spiderbox/images/qrcode/lyh296488320.jpg
           description: 珍惜大佬的安卓逆向进阶、沙箱、内核 Hook 课程，添加珍惜获取课程目录，▶️备注BOB可获取内部优惠价，珍惜QQ：296488320，微信：lyh296488320
         - title: 零点从零实现 JSVMP
           logo: 4670123.jpg
