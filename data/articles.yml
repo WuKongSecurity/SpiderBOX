@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小小杨学编程
+      release_time: 2025.08.05 14:00:00
+      title: 某农采购网请求头加密分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484352&idx=1&sn=6d02cf1d99c1ac30d2df81f165d1dbdc
     - author: 小尘逆向之旅
       release_time: 2025.08.05 00:00:00
       title: 某美科技滑块逆向分析
@@ -240,10 +244,6 @@
       release_time: 2025.07.27 17:55:03
       title: windows同时安装多个版本的chrome
       url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494035&idx=1&sn=7d0c837c6f3f5078dd157e5e482165c8
-    - author: 哆啦安全
-      release_time: 2025.07.27 09:25:33
-      title: Android Studio配置gradle版本和国内下载源
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498337&idx=1&sn=757797d61b85511579cbc8464179953d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
