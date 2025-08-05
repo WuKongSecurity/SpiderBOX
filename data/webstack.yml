@@ -82,6 +82,10 @@
       logo: quickref.png
       url: https://quickref.hestudio.net/
       description: QuickRef 中文版，快速查阅各种编程语言、工具、数据库、键盘快捷键等基础用法
+    - title: XPath 备忘清单
+      logo: quickref.png
+      url: https://quickref.hestudio.net/docs/xpath.html
+      description: 这是一份 XPath 选择器备忘单，其中列出了常用的 XPath 定位方法和 CSS 选择器
     - title: Prometheus 官方文档
       logo: prometheus.png
       url: https://prometheus.io/docs/
@@ -1931,6 +1935,10 @@
 
     - term: 全球代理
       links:
+        - title: NetNut
+          logo: netnut.png
+          url: https://netnut.cn/?utm_medium=partner&utm_source=spiderbox
+          description: 覆盖全球 195 个国家，8500 万优质 IP，全方位满足网页数据抓取。NetNut 提供四种代理 IP 服务：动态住宅，静态ISP，移动代理，数据中心代理。NetNut 网站解锁代理服务器可以绕过验证码，安全地从全球网站中提取数据。轻松解决访问受限网站的问题
         - title: BrightData
           logo: brightdata.png
           url: https://get.brightdata.com/17arn8
@@ -2099,6 +2107,14 @@
           logo: abcproxy.jpg
           url: https://www.abcproxy.com?utm-source=spbox&utm-keyword=?01
           description: AI-powered 200m+ real IP proxy, HTTP(S)/SOCKS5, 99% uptime, unlimited bandwidth, rotating residential proxies, unlimited and mobile proxies etc, free trial web scraping API, get a 10% discount with oct11abc.
+        - title: ipfly
+          logo: ipfly.png
+          url: https://ipfly.net/activity/VFNRWEFXODY6TFZKOVhYQzM5NQ==
+          description: 9000万+优质IP资源，0.83/G起，动态流量永久有效
+        - title: 辣椒代理
+          logo: lajiaohttp.png
+          url: https://lajiaohttp.com/
+          description: 优选全球 190+ 国家或地区节点资源，专注提供稳定、快速、高效的海外 IP 代理服务，支持 HTTP、HTTPS 和 SOCKS5 等协议，价格透明、套餐灵活，助力跨境业务轻松起步
 
 #        - title: WTFproxy
 #          logo: wtfproxy.png

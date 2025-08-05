@@ -21,7 +21,7 @@
       track: ad_xcy
     - title: NetNut
       ads: true
-      url: https://netnut.cn/
+      url: https://netnut.cn/?utm_medium=partner&utm_source=spiderbox
       image: images/ads/netnut_1200x150.gif
       description: 覆盖全球 195 个国家，8500 万优质 IP，全方位满足网页数据抓取。NetNut 提供四种代理 IP 服务：动态住宅，静态 ISP，移动代理，数据中心代理
       track: ad_netnut
