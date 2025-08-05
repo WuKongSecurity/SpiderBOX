@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: YRRR
+      release_time: 2025.08.03 23:56:00
+      title: Android-app抓包-root真机配合Yakit抓包教程
+      url: https://www.52pojie.cn/thread-2050770-1-1.html
     - author: Aa865186652
       release_time: 2025.08.03 10:20:00
       title: Overt安全检测工具深度解析
@@ -363,10 +367,6 @@
       release_time: 2025.07.15 11:36:00
       title: 安卓wifi热点调试思路-指定mac值
       url: https://www.52pojie.cn/thread-2045805-1-1.html
-    - author: 芽衣
-      release_time: 2025.07.15 11:27:00
-      title: 修复mxplayer pro删除文件的bug 教程
-      url: https://www.52pojie.cn/thread-2045765-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
