@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: js android ios逆向
+      release_time: 2025.08.06 10:25:21
+      title: 如何在vmp中找到查表aes的密钥
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0NzU3MjQzNA==&mid=2247485625&idx=1&sn=4c226c0120421ba0ff7dd06a94dc80eb
+    - author: Coder小Q
+      release_time: 2025.08.06 08:36:53
+      title: 【密码学PQC】Saber算法解读
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492170&idx=1&sn=b5482ce94607e3c58eb3092487e85514
     - author: 小小杨学编程
       release_time: 2025.08.05 14:00:00
       title: 某农采购网请求头加密分析
@@ -236,14 +244,6 @@
       release_time: 2025.07.28 15:55:32
       title: TaskPyro爬虫管理平台在Linux环境下的一键安装、配置、启动、停止、升级、删除等功能
       url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486213&idx=1&sn=6ed58ce070ede88b9acd89cd44681999
-    - author: Coder小Q
-      release_time: 2025.07.28 08:30:00
-      title: 【密码学】BAT算法解读
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492075&idx=1&sn=3ffc9328df1f17f951a1cd9b876ca1cc
-    - author: 逆向OneByOne
-      release_time: 2025.07.27 17:55:03
-      title: windows同时安装多个版本的chrome
-      url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494035&idx=1&sn=7d0c837c6f3f5078dd157e5e482165c8
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 杨如画
+      release_time: 2025.08.06 10:25:27
+      title: '[原创]如何在vmp中找到查表aes的密钥'
+      url: https://bbs.kanxue.com/thread-287905.htm
     - author: wx_小友
       release_time: 2025.08.05 19:59:48
       title: 某宝签名加密的unidbg模拟
@@ -486,10 +490,6 @@
       release_time: 2025.07.21 20:49:07
       title: 【JS逆向】某条signature逆向补环境
       url: https://bbs.kanxue.com/thread-287695.htm
-    - author: 情迁
-      release_time: 2025.07.21 14:40:24
-      title: '[讨论]现在免费加固选哪条路线？我这公司揭不开锅了工资都拖延'
-      url: https://bbs.kanxue.com/thread-287687.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
