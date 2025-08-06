@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: mengxinb
+      release_time: 2025.08.06 16:59:00
+      title: VMOS Pro 3.1.1最新版全方位破解分析
+      url: https://www.52pojie.cn/thread-2051458-1-1.html
     - author: xwzios
       release_time: 2025.08.05 20:50:00
       title: iOS-WX美化插件逆向
@@ -363,13 +367,13 @@
       release_time: 2025.07.20 07:39:00
       title: 关于图标点选验证码识别方案
       url: https://www.52pojie.cn/thread-2046823-1-1.html
-    - author: wp00000008
-      release_time: 2025.07.15 19:56:00
-      title: SoFixerMinus，对SoFixer的小小修补
-      url: https://www.52pojie.cn/thread-2045934-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: wx_小友
+      release_time: 2025.08.06 18:49:28
+      title: '[原创] libmsaoaidsec.so 过检测 frida（或许还有debug）'
+      url: https://bbs.kanxue.com/thread-287913.htm
     - author: 杨如画
       release_time: 2025.08.06 10:25:27
       title: '[原创]如何在vmp中找到查表aes的密钥'
@@ -486,10 +490,6 @@
       release_time: 2025.07.22 23:19:58
       title: '[原创]qbdi trace工具及生成调用流程图'
       url: https://bbs.kanxue.com/thread-287713.htm
-    - author: ShriyGo
-      release_time: 2025.07.21 20:49:07
-      title: 【JS逆向】某条signature逆向补环境
-      url: https://bbs.kanxue.com/thread-287695.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
