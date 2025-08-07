@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 软件安全与逆向分析
+      release_time: 2025.08.07 19:09:55
+      title: 公开一个Frida通用检测方法！Frida源码分析正式完结撒花！安卓逆向第一阶段更新过半。
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484855&idx=1&sn=1661ff596b055b74c888574867948f1b
     - author: 逆向狗都不学
       release_time: 2025.08.07 17:51:14
       title: Incapsula(reese84)逆向
@@ -240,10 +244,6 @@
       release_time: 2025.07.28 22:36:42
       title: Android7至16输入系统源码分析
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498342&idx=1&sn=7fa9818abee91fda67d5d33da031e2b3
-    - author: 点点的逆向之旅
-      release_time: 2025.07.28 20:51:30
-      title: RecaptchaV3逆向学习
-      url: https://mp.weixin.qq.com/s?__biz=MzkwOTY2MTA3OQ==&mid=2247483929&idx=1&sn=efec35184173d96aa0aa3ceba8216920
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
