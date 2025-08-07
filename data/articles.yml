@@ -247,6 +247,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: shanjzhu
+      release_time: 2025.08.07 11:23:00
+      title: 极验3代滑块-扣代码及思路
+      url: https://www.52pojie.cn/thread-2051616-1-1.html
+    - author: shanjzhu
+      release_time: 2025.08.06 20:05:00
+      title: 极验3代滑块流程分析
+      url: https://www.52pojie.cn/thread-2051507-1-1.html
     - author: mengxinb
       release_time: 2025.08.06 16:59:00
       title: VMOS Pro 3.1.1最新版全方位破解分析
@@ -359,14 +367,6 @@
       release_time: 2025.07.21 20:58:00
       title: 【JS逆向】某条signautre逆向补环境
       url: https://www.52pojie.cn/thread-2047209-1-1.html
-    - author: zzzlanging
-      release_time: 2025.07.20 09:59:00
-      title: 某克浏览器小说阅读去广告初步
-      url: https://www.52pojie.cn/thread-2046845-1-1.html
-    - author: BinYoooo
-      release_time: 2025.07.20 07:39:00
-      title: 关于图标点选验证码识别方案
-      url: https://www.52pojie.cn/thread-2046823-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
