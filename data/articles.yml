@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 猿人学Python
+      release_time: 2025.08.07 15:04:20
+      title: 中专生逆袭：从2K打字员到20K的爬虫路
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448549938&idx=1&sn=b25203f93163dfcbb8f0ed8dc7a9a94d
     - author: js android ios逆向
       release_time: 2025.08.06 10:25:21
       title: 如何在vmp中找到查表aes的密钥
@@ -240,10 +244,6 @@
       release_time: 2025.07.28 16:32:59
       title: 抖音创作者发文风控参数分析 bd-ticket-guard-client-data
       url: https://mp.weixin.qq.com/s?__biz=MzI3MjQ3OTE3OA==&mid=2247484056&idx=1&sn=81d46cea858acb498c0d84e251620f6a
-    - author: 布鲁的Python之旅
-      release_time: 2025.07.28 15:55:32
-      title: TaskPyro爬虫管理平台在Linux环境下的一键安装、配置、启动、停止、升级、删除等功能
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486213&idx=1&sn=6ed58ce070ede88b9acd89cd44681999
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
