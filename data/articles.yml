@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向狗都不学
+      release_time: 2025.08.07 17:51:14
+      title: Incapsula(reese84)逆向
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247483907&idx=1&sn=1b4bd18da9c35731ab8b407dfc461f5d
     - author: 吾爱破解论坛
       release_time: 2025.08.07 15:16:09
       title: 获取windbgx离线安装包
@@ -240,10 +244,6 @@
       release_time: 2025.07.28 20:51:30
       title: RecaptchaV3逆向学习
       url: https://mp.weixin.qq.com/s?__biz=MzkwOTY2MTA3OQ==&mid=2247483929&idx=1&sn=efec35184173d96aa0aa3ceba8216920
-    - author: 吾爱破解论坛
-      release_time: 2025.07.28 18:12:40
-      title: 某米无线键鼠2逆向初探
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142821&idx=1&sn=10a54de892b370138f93adc3bee44f2b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
