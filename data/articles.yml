@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.08.08 11:19:46
+      title: 安卓逆向 -- 算法助手模块激活教程
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039769&idx=1&sn=c6f6e545b5ca792cda07210449bdced5
     - author: Coder小Q
       release_time: 2025.08.08 08:31:00
       title: 【密码学PQC】HAETAE算法解读
@@ -240,10 +244,6 @@
       release_time: 2025.07.29 09:15:38
       title: 如何用AI编程cursor在10分钟开发爬虫插件
       url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494064&idx=1&sn=2605de67dfc046e356d922e2a2c2b47c
-    - author: 逆向有你
-      release_time: 2025.07.29 09:10:15
-      title: JS逆向 -- 某鸭脖 xmSign参数逆向
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039696&idx=1&sn=84b487aa8079232193ae7ec18b586a7c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
