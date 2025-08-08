@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 逆向小呆呆
+      release_time: 2025.08.08 20:26:03
+      title: '[原创]关于frida17.0.0以上版本的pythonAPI运行js脚本导致bridge问题'
+      url: https://bbs.kanxue.com/thread-287941.htm
     - author: 沈聽白
       release_time: 2025.08.08 19:34:59
       title: '[原创] 某平台sig3纯算详细讲解'
@@ -486,10 +490,6 @@
       release_time: 2025.07.25 17:25:26
       title: '[原创]ThinkPHP框架代码审计（一）'
       url: https://bbs.kanxue.com/thread-287760.htm
-    - author: New对象处
-      release_time: 2025.07.25 01:05:04
-      title: '[原创]浅入Shopee之字符串解密'
-      url: https://bbs.kanxue.com/thread-287745.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
