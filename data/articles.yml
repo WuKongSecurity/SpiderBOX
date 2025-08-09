@@ -382,6 +382,10 @@
       release_time: 2025.08.09 16:15:59
       title: '[原创]Frida编译以及魔改教程'
       url: https://bbs.kanxue.com/thread-287947.htm
+    - author: Nickname肖知寒
+      release_time: 2025.08.09 15:50:08
+      title: 魔改chromium源码——解除 iframe 的同源策略
+      url: https://blog.csdn.net/weixin_45307278/article/details/150109933
     - author: 孤恒
       release_time: 2025.08.09 14:51:51
       title: '[原创]Apatch内核模块之栈回溯升级版以及遇到的问题'
@@ -486,10 +490,6 @@
       release_time: 2025.07.28 14:55:16
       title: '[原创]X浪脱壳分析'
       url: https://bbs.kanxue.com/thread-287788.htm
-    - author: 十一姐
-      release_time: 2025.07.28 08:17:40
-      title: drissionpage如何设置账号密码的代理？
-      url: https://blog.csdn.net/weixin_43411585/article/details/149706041
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
