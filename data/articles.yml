@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Wilelm
+      release_time: 2025.08.10 10:17:51
+      title: 怎么hook一个软件去自动完成任务
+      url: https://bbs.kanxue.com/thread-287960.htm
     - author: 梦幻的彼岸
       release_time: 2025.08.10 10:06:50
       title: '[原创]“钥匙”被盗：2025年凭据泄露的激增与防御之道'
@@ -486,10 +490,6 @@
       release_time: 2025.07.29 20:12:06
       title: '[原创]通过PongoOS打内核补丁禁用ASLR'
       url: https://bbs.kanxue.com/thread-287808.htm
-    - author: 梦幻的彼岸
-      release_time: 2025.07.28 17:11:51
-      title: '[分享]对一个混淆的Web Shell脚本进行深入剖析'
-      url: https://bbs.kanxue.com/thread-287791.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
