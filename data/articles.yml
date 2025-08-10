@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: BinYoooo
+      release_time: 2025.08.09 18:22:00
+      title: 某x滑块补环境分析
+      url: https://www.52pojie.cn/thread-2052187-1-1.html
     - author: LiSAimer
       release_time: 2025.08.08 14:04:00
       title: 某手势验证码纯算逆向分析
@@ -363,10 +367,6 @@
       release_time: 2025.07.22 21:04:00
       title: 某海外市场运营商app登录协议逆向
       url: https://www.52pojie.cn/thread-2047651-1-1.html
-    - author: zhnn
-      release_time: 2025.07.22 10:16:00
-      title: js逆向实战案例之----X花顺cookie  V值逆向
-      url: https://www.52pojie.cn/thread-2047326-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
