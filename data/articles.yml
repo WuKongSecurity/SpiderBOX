@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: buluo533
+      release_time: 2025.08.11 18:40:00
+      title: 某初滑块逆向分析
+      url: https://www.52pojie.cn/thread-2052600-1-1.html
     - author: xdzhou2006
       release_time: 2025.08.11 14:51:00
       title: Web视频解析接口解密
@@ -363,10 +367,6 @@
       release_time: 2025.07.23 21:09:00
       title: JS逆向实战案例之———x日头条【a-bogus】分析
       url: https://www.52pojie.cn/thread-2048032-1-1.html
-    - author: JiGuro
-      release_time: 2025.07.23 18:06:00
-      title: 【逆向思路】Via浏览器去除白名单限制
-      url: https://www.52pojie.cn/thread-2047991-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
