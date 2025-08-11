@@ -248,9 +248,17 @@
     term: 公众号
   - links:
     - author: BinYoooo
+      release_time: 2025.08.10 20:25:00
+      title: '[iOS逆向]入门-SO*L登录字段逆向分析'
+      url: https://www.52pojie.cn/thread-2052360-1-1.html
+    - author: BinYoooo
       release_time: 2025.08.09 18:22:00
       title: 某x滑块补环境分析
       url: https://www.52pojie.cn/thread-2052187-1-1.html
+    - author: Skeruy
+      release_time: 2025.08.09 17:16:00
+      title: OK影视pro的奖励算法分析
+      url: https://www.52pojie.cn/thread-2052174-1-1.html
     - author: LiSAimer
       release_time: 2025.08.08 14:04:00
       title: 某手势验证码纯算逆向分析
@@ -359,14 +367,6 @@
       release_time: 2025.07.23 12:29:00
       title: 探索一种无需任何权限获得用户唯一标识的方法
       url: https://www.52pojie.cn/thread-2047847-1-1.html
-    - author: evlon
-      release_time: 2025.07.23 11:46:00
-      title: 【反反调试】破解匿名函数的构造函数执行的debugger
-      url: https://www.52pojie.cn/thread-2047827-1-1.html
-    - author: hHunter
-      release_time: 2025.07.22 21:04:00
-      title: 某海外市场运营商app登录协议逆向
-      url: https://www.52pojie.cn/thread-2047651-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
