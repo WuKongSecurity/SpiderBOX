@@ -251,6 +251,10 @@
       release_time: 2025.08.11 14:51:00
       title: Web视频解析接口解密
       url: https://www.52pojie.cn/thread-2052533-1-1.html
+    - author: A4r0n
+      release_time: 2025.08.11 14:05:00
+      title: 使用Unidbg模拟执行去除OLLVM-BR混淆
+      url: https://www.52pojie.cn/thread-2052520-1-1.html
     - author: BinYoooo
       release_time: 2025.08.10 20:25:00
       title: '[iOS逆向]入门-SO*L登录字段逆向分析'
@@ -363,10 +367,6 @@
       release_time: 2025.07.23 18:06:00
       title: 【逆向思路】Via浏览器去除白名单限制
       url: https://www.52pojie.cn/thread-2047991-1-1.html
-    - author: henry42
-      release_time: 2025.07.23 16:30:00
-      title: 某灯具蓝牙遥控App逆向
-      url: https://www.52pojie.cn/thread-2047941-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
