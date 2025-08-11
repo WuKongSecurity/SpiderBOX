@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.08.11 11:06:22
+      title: 骚神插件9.7.4-新增语法定位提取器，支持四大定位语法【iframe】【文本】【xpath】【动作链】
+      url: https://www.bilibili.com/video/BV1Avb3zcE81
     - author: DrissionPage
       release_time: 2025.08.10 23:21:08
       title: 批量填写表单-DrissionPage官方教程-p30
@@ -117,10 +121,6 @@
       release_time: 2025.07.16 23:12:23
       title: 托管浏览器共享cookies-DrissionPage官方教程-p28
       url: https://www.bilibili.com/video/BV13duhzUEux
-    - author: ikun的嘴
-      release_time: 2025.07.13 19:23:36
-      title: webpack秒杀系列
-      url: https://www.bilibili.com/video/BV1Y6uwzKErD
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
