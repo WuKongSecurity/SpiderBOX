@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: xdzhou2006
+      release_time: 2025.08.11 14:51:00
+      title: Web视频解析接口解密
+      url: https://www.52pojie.cn/thread-2052533-1-1.html
     - author: BinYoooo
       release_time: 2025.08.10 20:25:00
       title: '[iOS逆向]入门-SO*L登录字段逆向分析'
@@ -363,10 +367,6 @@
       release_time: 2025.07.23 16:30:00
       title: 某灯具蓝牙遥控App逆向
       url: https://www.52pojie.cn/thread-2047941-1-1.html
-    - author: genouka
-      release_time: 2025.07.23 12:29:00
-      title: 探索一种无需任何权限获得用户唯一标识的方法
-      url: https://www.52pojie.cn/thread-2047847-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
