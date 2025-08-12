@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 软件安全与逆向分析
+      release_time: 2025.08.12 21:16:58
+      title: 一张图看懂kernelSU整个安全生态，安卓开发与逆向第一阶段更新过大半了！
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484869&idx=1&sn=0506537dfc3725fa764dfa4fc5077640
     - author: 哆啦安全
       release_time: 2025.08.12 14:38:25
       title: Magisk和LSPosed检测绕过
@@ -240,13 +244,17 @@
       release_time: 2025.07.31 14:10:17
       title: Akamai 3.0算法与风控
       url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247483858&idx=1&sn=ec11bfdb464e01f927edbc8c1c86d694
-    - author: 哆啦安全
-      release_time: 2025.07.31 09:50:29
-      title: 逆向开发资料(2025)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498348&idx=1&sn=6f628e44fa7dcd99b53098cfaefb80fa
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: qaq332
+      release_time: 2025.08.12 16:44:00
+      title: 某护家去除广告办法(新手入门)
+      url: https://www.52pojie.cn/thread-2052822-1-1.html
+    - author: xiaoshunya
+      release_time: 2025.08.11 19:28:00
+      title: 一木记账破解
+      url: https://www.52pojie.cn/thread-2052613-1-1.html
     - author: buluo533
       release_time: 2025.08.11 18:40:00
       title: 某初滑块逆向分析
@@ -359,17 +367,13 @@
       release_time: 2025.07.24 18:57:00
       title: 码上爬-题五：屠龙刀（JS加密-请求参数经过特殊处理）
       url: https://www.52pojie.cn/thread-2048339-1-1.html
-    - author: ipk2046
-      release_time: 2025.07.24 16:58:00
-      title: Mac上用Jeb调试手机上apk
-      url: https://www.52pojie.cn/thread-2048289-1-1.html
-    - author: zhnn
-      release_time: 2025.07.23 21:09:00
-      title: JS逆向实战案例之———x日头条【a-bogus】分析
-      url: https://www.52pojie.cn/thread-2048032-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: r8e8cd8
+      release_time: 2025.08.12 21:04:37
+      title: '[原创]个人整理的安卓逆向与安全分析思维导图（持续完善中）'
+      url: https://bbs.kanxue.com/thread-288004.htm
     - author: 沈聽白
       release_time: 2025.08.12 18:21:14
       title: '[原创]libtalaccsecurity.so sign与pwd算法分析'
@@ -486,10 +490,6 @@
       release_time: 2025.08.05 17:05:16
       title: '[原创]Apatch内核模块之svc监控和栈回溯'
       url: https://bbs.kanxue.com/thread-287893.htm
-    - author: xiaowaaa
-      release_time: 2025.08.05 14:50:40
-      title: '[原创]OLLVM学习'
-      url: https://bbs.kanxue.com/thread-287889.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
