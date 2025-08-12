@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 软件安全与逆向分析
+      release_time: 2025.08.12 09:41:05
+      title: 使用GDB调试安卓15内核
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484862&idx=1&sn=9dcd8bdf01795381957557725dab7072
     - author: 逆向有你
       release_time: 2025.08.12 09:18:02
       title: PC逆向 -- 关于RC4动调解密，无需使用脚本
@@ -240,10 +244,6 @@
       release_time: 2025.07.31 00:42:40
       title: Akamai 3.0反混淆
       url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247483839&idx=1&sn=07cbd2b50252505733aa901fd7ac192a
-    - author: 小尘逆向之旅
-      release_time: 2025.07.30 22:59:00
-      title: 某手滑块逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDg0MjM0MQ==&mid=2247483738&idx=1&sn=b459356f84a1694d0270b1fa85172e86
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
