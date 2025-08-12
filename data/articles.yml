@@ -374,6 +374,10 @@
       release_time: 2025.08.12 18:21:14
       title: '[原创]libtalaccsecurity.so sign与pwd算法分析'
       url: https://bbs.kanxue.com/thread-288002.htm
+    - author: 幻鳕
+      release_time: 2025.08.12 17:20:29
+      title: '[分享] macOS15   Kali 虚拟机跨机 ADB 调试 AVD'
+      url: https://bbs.kanxue.com/thread-288001.htm
     - author: 窜天猴
       release_time: 2025.08.12 12:01:17
       title: '[原创]VMP之我见'
@@ -486,10 +490,6 @@
       release_time: 2025.08.05 14:50:40
       title: '[原创]OLLVM学习'
       url: https://bbs.kanxue.com/thread-287889.htm
-    - author: 易之生生
-      release_time: 2025.08.05 13:06:21
-      title: '[原创]渣浪的S参数分析'
-      url: https://bbs.kanxue.com/thread-287884.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
