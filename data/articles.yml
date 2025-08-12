@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.08.12 09:18:02
+      title: PC逆向 -- 关于RC4动调解密，无需使用脚本
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039786&idx=1&sn=f0cbd15d1ea51343409801f51db280ad
+    - author: Coder小Q
+      release_time: 2025.08.12 08:30:00
+      title: 【密码学PQC】SMAUG-T算法解读
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492294&idx=1&sn=0564757c995b4ea99b1e3007f4e2551b
     - author: Spade sec
       release_time: 2025.08.10 10:30:00
       title: 荣耀SRC | 邀请你，挖秋天的第一个漏洞！
@@ -236,14 +244,6 @@
       release_time: 2025.07.30 22:59:00
       title: 某手滑块逆向分析
       url: https://mp.weixin.qq.com/s?__biz=Mzk2NDg0MjM0MQ==&mid=2247483738&idx=1&sn=b459356f84a1694d0270b1fa85172e86
-    - author: 丫总逆向
-      release_time: 2025.07.30 14:59:21
-      title: 某平台网关请求签名rid逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=MzU1NjQ2Njg4OA==&mid=2247483865&idx=1&sn=be9eb4bace6c4c4eb2b953b93cb8ea34
-    - author: 逆向有你
-      release_time: 2025.07.30 09:23:02
-      title: 安卓逆向 -- 某绘笔记破解教程
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039708&idx=1&sn=9285413e171bad6b4ae8b69fb5783497
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
