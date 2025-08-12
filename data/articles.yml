@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.08.12 14:38:25
+      title: Magisk和LSPosed检测绕过
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498367&idx=1&sn=c6157dfe3760475a1ac2de659e8325e6
     - author: 软件安全与逆向分析
       release_time: 2025.08.12 09:41:05
       title: 使用GDB调试安卓15内核
@@ -240,10 +244,6 @@
       release_time: 2025.07.31 09:50:29
       title: 逆向开发资料(2025)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498348&idx=1&sn=6f628e44fa7dcd99b53098cfaefb80fa
-    - author: 逆向狗都不学
-      release_time: 2025.07.31 00:42:40
-      title: Akamai 3.0反混淆
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247483839&idx=1&sn=07cbd2b50252505733aa901fd7ac192a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
