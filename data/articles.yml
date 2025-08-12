@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 窜天猴
+      release_time: 2025.08.12 12:01:17
+      title: '[原创]VMP之我见'
+      url: https://bbs.kanxue.com/thread-287997.htm
     - author: lvcoffee
       release_time: 2025.08.11 15:38:54
       title: '[原创]利用Frida工具，新版Instagram注册流程抓包'
@@ -486,10 +490,6 @@
       release_time: 2025.08.04 23:16:53
       title: '[原创]某设备注册学习'
       url: https://bbs.kanxue.com/thread-287881.htm
-    - author: 梦幻的彼岸
-      release_time: 2025.08.03 13:55:03
-      title: '[分享]UNC2891银行攻防战：ATM物理后门与Linux反取证揭秘'
-      url: https://bbs.kanxue.com/thread-287860.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
