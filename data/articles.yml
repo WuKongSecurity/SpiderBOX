@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2025.08.14 07:28:32
+      title: 想买有锁机，快来上闲鱼[旺柴]
+      url: https://www.bilibili.com/video/BV18gbqzGEB6
     - author: B站用户骚神
       release_time: 2025.08.11 11:06:22
       title: 骚神插件9.7.4-新增语法定位提取器，支持四大定位语法【iframe】【文本】【xpath】【动作链】
@@ -117,10 +121,6 @@
       release_time: 2025.07.17 18:30:00
       title: 20.喵喵盾JS代码混淆加固-喵喵盾已知问题&bug提交奖励
       url: https://www.bilibili.com/video/BV1UcgPzeEcD
-    - author: DrissionPage
-      release_time: 2025.07.16 23:12:23
-      title: 托管浏览器共享cookies-DrissionPage官方教程-p28
-      url: https://www.bilibili.com/video/BV13duhzUEux
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
