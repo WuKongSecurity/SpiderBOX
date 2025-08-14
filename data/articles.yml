@@ -247,6 +247,26 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: hj170520
+      release_time: 2025.08.14 03:21:00
+      title: 【js逆向】图书馆挠痒大作战
+      url: https://www.52pojie.cn/thread-2053165-1-1.html
+    - author: hj170520
+      release_time: 2025.08.13 19:48:00
+      title: 【js逆向】图书馆挠痒大作战
+      url: https://www.52pojie.cn/thread-2053111-1-1.html
+    - author: LiSAimer
+      release_time: 2025.08.13 16:30:00
+      title: 顶象滑块验证码纯算逆向分析
+      url: https://www.52pojie.cn/thread-2053068-1-1.html
+    - author: TaPai
+      release_time: 2025.08.13 10:47:00
+      title: 有谱么网站，新手谱子打印，跳过登录会员
+      url: https://www.52pojie.cn/thread-2052975-1-1.html
+    - author: 头脑发热的少年
+      release_time: 2025.08.12 18:00:00
+      title: 某东最新5.2版本的第8段环境参数加密逆向解析
+      url: https://www.52pojie.cn/thread-2052845-1-1.html
     - author: qaq332
       release_time: 2025.08.12 16:44:00
       title: 某护家去除广告办法(新手入门)
@@ -347,26 +367,6 @@
       release_time: 2025.07.25 16:49:00
       title: Js逆向实战案例之 ------x企查【ymg_ssr】+反调试分析
       url: https://www.52pojie.cn/thread-2048600-1-1.html
-    - author: ipk2046
-      release_time: 2025.07.25 16:25:00
-      title: Mac上Log插桩安卓手机应用
-      url: https://www.52pojie.cn/thread-2048591-1-1.html
-    - author: 漁滒
-      release_time: 2025.07.25 09:47:00
-      title: WebAssembly 逆向工程挑战赛
-      url: https://www.52pojie.cn/thread-2048465-1-1.html
-    - author: lideshan
-      release_time: 2025.07.25 09:03:00
-      title: 加密解密大乱斗：Python在手，让明文变“谜语”，黑客看了都摇头
-      url: https://www.52pojie.cn/thread-2048442-1-1.html
-    - author: yibaoshutiao
-      release_time: 2025.07.24 19:49:00
-      title: flutter逆向——分析某软件响应解密逻辑
-      url: https://www.52pojie.cn/thread-2048355-1-1.html
-    - author: likebbs
-      release_time: 2025.07.24 18:57:00
-      title: 码上爬-题五：屠龙刀（JS加密-请求参数经过特殊处理）
-      url: https://www.52pojie.cn/thread-2048339-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
