@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 沐阳科技资源
+      release_time: 2025.08.14 22:15:40
+      title: 炸裂，谷歌再送12个月Gemini Pro 会员！速领！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484367&idx=1&sn=ccb65f41d6c81e960e8e48e2bf6dc3a0
     - author: 静夜随想
       release_time: 2025.08.14 20:25:47
       title: 解决disable-devtool反调试
@@ -240,10 +244,6 @@
       release_time: 2025.08.02 07:01:20
       title: 鸿蒙(HarmonyOS)安全深入浅出(四维防御软硬协调防护体系)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498353&idx=1&sn=69c638b947b62bafa0e25519434f20fa
-    - author: 小小杨学编程
-      release_time: 2025.08.01 18:22:00
-      title: 币安登录滑块验证分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484339&idx=1&sn=e7d03a57d3fe7699bff8fcacf84245d3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
