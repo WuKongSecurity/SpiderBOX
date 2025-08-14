@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 猿人学Python
+      release_time: 2025.08.14 10:23:15
+      title: 从月薪2000到2W+的逆向大佬成长之路
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448549952&idx=1&sn=8a1f1de3fee1344e76b4a5bc1b1c280f
+    - author: 逆向有你
+      release_time: 2025.08.14 09:01:22
+      title: 安卓逆向 -- 某看APP key的破解
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039802&idx=1&sn=579037cc11e0fe0efa4af9b731ce2579
     - author: 流星Studio
       release_time: 2025.08.13 17:55:17
       title: 玩法上新！wx小程序无限多开
@@ -236,14 +244,6 @@
       release_time: 2025.08.01 13:14:16
       title: Claude code 池子内测
       url: https://mp.weixin.qq.com/s?__biz=MzkzODE5NTEyNg==&mid=2247485672&idx=1&sn=b64433f61862934b9f1bb2c1e28a4647
-    - author: Coder小Q
-      release_time: 2025.08.01 08:30:00
-      title: 【密码学】回顾ML-DSA的数据压缩技术
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492096&idx=1&sn=29d98cf68f4ed25fb6a452878bf8b862
-    - author: 沐阳科技资源
-      release_time: 2025.07.31 22:43:14
-      title: 2025年7月iOS逆向课程更新一览
-      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484365&idx=1&sn=f2bd4809644818a5f8ceb7003f1bfaeb
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: dadadasda
+      release_time: 2025.08.14 02:34:18
+      title: '[原创]古墓派反混淆与壳对抗：基于硬件断点的无痕HWBP-Trace算法demo开源'
+      url: https://bbs.kanxue.com/thread-288024.htm
     - author: 沈聽白
       release_time: 2025.08.14 00:58:27
       title: '[原创][原创]LibCrypt.so 魔改MD5'
@@ -486,10 +490,6 @@
       release_time: 2025.08.07 16:52:31
       title: '[原创]某右APP分析第一弹：过检测'
       url: https://bbs.kanxue.com/thread-287922.htm
-    - author: xiaowaaa
-      release_time: 2025.08.06 21:28:42
-      title: '[原创]2023年腾讯游戏安全竞赛安卓决赛题解复现'
-      url: https://bbs.kanxue.com/thread-287915.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
