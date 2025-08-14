@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 静夜随想
+      release_time: 2025.08.14 20:25:47
+      title: 解决disable-devtool反调试
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811130&idx=1&sn=c9a994f910326bec9dea0df626943d29
     - author: 猿人学Python
       release_time: 2025.08.14 10:23:15
       title: 从月薪2000到2W+的逆向大佬成长之路
@@ -240,10 +244,6 @@
       release_time: 2025.08.01 18:22:00
       title: 币安登录滑块验证分析
       url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484339&idx=1&sn=e7d03a57d3fe7699bff8fcacf84245d3
-    - author: Py学习日记
-      release_time: 2025.08.01 13:14:16
-      title: Claude code 池子内测
-      url: https://mp.weixin.qq.com/s?__biz=MzkzODE5NTEyNg==&mid=2247485672&idx=1&sn=b64433f61862934b9f1bb2c1e28a4647
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
