@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: MirageTurtle
+      release_time: 2025.08.15 10:52:00
+      title: 逻辑漏洞白嫖 LLM 接口站
+      url: https://www.52pojie.cn/thread-2053495-1-1.html
     - author: hj170520
       release_time: 2025.08.13 19:48:00
       title: 【js逆向】图书馆挠痒大作战
@@ -363,10 +367,6 @@
       release_time: 2025.07.25 16:49:00
       title: Js逆向实战案例之 ------x企查【ymg_ssr】+反调试分析
       url: https://www.52pojie.cn/thread-2048600-1-1.html
-    - author: ipk2046
-      release_time: 2025.07.25 16:25:00
-      title: Mac上Log插桩安卓手机应用
-      url: https://www.52pojie.cn/thread-2048591-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
