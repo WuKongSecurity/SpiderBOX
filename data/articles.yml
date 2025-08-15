@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Yangser
+      release_time: 2025.08.15 19:36:54
+      title: '[原创]CRC校验原理及绕过'
+      url: https://bbs.kanxue.com/thread-288059.htm
     - author: method
       release_time: 2025.08.15 17:51:45
       title: '[讨论]关于 ida9.1的arm64反汇编循环右移的吐槽'
@@ -487,10 +491,6 @@
       release_time: 2025.08.09 14:51:51
       title: '[原创]Apatch内核模块之栈回溯升级版以及遇到的问题'
       url: https://bbs.kanxue.com/thread-287946.htm
-    - author: 吴秋霖
-      release_time: 2025.08.09 09:00:00
-      title: 某金融APP防护检测分析
-      url: https://crawler.blog.csdn.net/article/details/149829255
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
