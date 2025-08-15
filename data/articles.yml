@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 静夜随想
+      release_time: 2025.08.15 19:04:14
+      title: 自动化还是得好好学一下
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811132&idx=1&sn=02c6a107f57562fe9e672e9ed09bc575
+    - author: 影17
+      release_time: 2025.08.15 17:29:40
+      title: 【flutter入门】某猫Signature逆向
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489981&idx=1&sn=6c7b98ff4cb1d2c0fd8625f301822b7a
     - author: Coder小Q
       release_time: 2025.08.15 08:35:51
       title: '【密码学】Rhyme: 一种基于3C采样的Fiat-Shamir格签名(算法解读)'
@@ -236,14 +244,6 @@
       release_time: 2025.08.04 08:30:00
       title: Frida 17 API 重大变更与迁移指南
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485640&idx=1&sn=017b9c3859d8d7b9628a758b0f6f4f13
-    - author: 逆向狗都不学
-      release_time: 2025.08.04 07:35:28
-      title: Incapsula(reese84)反混淆
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247483878&idx=1&sn=64675b8fa43af3402c6f3c6be354700e
-    - author: 小伍哥聊风控
-      release_time: 2025.08.03 10:00:00
-      title: 基于文本的违禁词分类挑战赛-逻辑回归、BERT、大模型都给了一个baseline。
-      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196963&idx=1&sn=3ef0d2b79d0f954a7ac5f3d60b1d8201
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
