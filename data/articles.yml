@@ -124,10 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
-    - author: 沐阳科技资源
-      release_time: 2025.08.14 22:15:40
-      title: 炸裂，谷歌再送12个月Gemini Pro 会员！速领！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484367&idx=1&sn=ccb65f41d6c81e960e8e48e2bf6dc3a0
+    - author: Coder小Q
+      release_time: 2025.08.15 08:35:51
+      title: '【密码学】Rhyme: 一种基于3C采样的Fiat-Shamir格签名(算法解读)'
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492509&idx=1&sn=da1ab45ccea9f1d7d71f260a32bdf48b
+    - author: 逆向狗都不学
+      release_time: 2025.08.15 07:56:51
+      title: funcaptcha反混淆
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247483928&idx=1&sn=3dffdfb2b564c3fcba4a5edd43e2b168
     - author: 静夜随想
       release_time: 2025.08.14 20:25:47
       title: 解决disable-devtool反调试
@@ -240,17 +244,9 @@
       release_time: 2025.08.03 10:00:00
       title: 基于文本的违禁词分类挑战赛-逻辑回归、BERT、大模型都给了一个baseline。
       url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196963&idx=1&sn=3ef0d2b79d0f954a7ac5f3d60b1d8201
-    - author: 哆啦安全
-      release_time: 2025.08.02 07:01:20
-      title: 鸿蒙(HarmonyOS)安全深入浅出(四维防御软硬协调防护体系)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498353&idx=1&sn=69c638b947b62bafa0e25519434f20fa
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
-    - author: hj170520
-      release_time: 2025.08.14 03:21:00
-      title: 【js逆向】图书馆挠痒大作战
-      url: https://www.52pojie.cn/thread-2053165-1-1.html
     - author: hj170520
       release_time: 2025.08.13 19:48:00
       title: 【js逆向】图书馆挠痒大作战
@@ -367,6 +363,10 @@
       release_time: 2025.07.25 16:49:00
       title: Js逆向实战案例之 ------x企查【ymg_ssr】+反调试分析
       url: https://www.52pojie.cn/thread-2048600-1-1.html
+    - author: ipk2046
+      release_time: 2025.07.25 16:25:00
+      title: Mac上Log插桩安卓手机应用
+      url: https://www.52pojie.cn/thread-2048591-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
