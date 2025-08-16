@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.08.16 14:15:17
+      title: VitePress+GithubPages 5分钟免费快速搭建个人博客网站
+      url: https://www.bilibili.com/video/BV12zYYz6EqE
     - author: ikun的嘴
       release_time: 2025.08.16 12:43:57
       title: js逆向补环境划时代技术，告别Proxy代理，秒杀阿里231检测系列
@@ -117,10 +121,6 @@
       release_time: 2025.07.19 20:36:03
       title: js补环境代理使用示例阿里bx-et
       url: https://www.bilibili.com/video/BV1uPuozJEt6
-    - author: ShriyGo
-      release_time: 2025.07.17 22:43:27
-      title: 5分钟搞定头条__ac_signature
-      url: https://www.bilibili.com/video/BV1MhgTzrETQ
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
