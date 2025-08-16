@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: ikun的嘴
+      release_time: 2025.08.16 12:43:57
+      title: js逆向补环境划时代技术，告别Proxy代理，秒杀阿里231检测系列
+      url: https://www.bilibili.com/video/BV1nvYezAE4u
     - author: r0ysue
       release_time: 2025.08.14 07:28:32
       title: 想买有锁机，快来上闲鱼[旺柴]
@@ -117,10 +121,6 @@
       release_time: 2025.07.17 22:43:27
       title: 5分钟搞定头条__ac_signature
       url: https://www.bilibili.com/video/BV1MhgTzrETQ
-    - author: 零点520666
-      release_time: 2025.07.17 18:30:00
-      title: 20.喵喵盾JS代码混淆加固-喵喵盾已知问题&bug提交奖励
-      url: https://www.bilibili.com/video/BV1UcgPzeEcD
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
