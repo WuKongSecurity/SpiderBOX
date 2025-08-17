@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 断点续行
+      release_time: 2025.08.16 14:05:25
+      title: 某里x82y验证码，x鱼连线九宫格轨迹
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDgxNTAzNg==&mid=2247483890&idx=1&sn=580fd3066e3e053ff1864a8dfe762cd4
+    - author: 小小杨学编程
+      release_time: 2025.08.16 11:38:47
+      title: 某物流程验证码分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484369&idx=1&sn=2069c08df173d186c72a72b1fa4a9eba
+    - author: 爬虫逆向小林哥
+      release_time: 2025.08.16 09:02:34
+      title: 【安卓逆向】安居客反调试与参数分析
+      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247486710&idx=1&sn=42c3d8d8d4a900b046302e81114c92f4
     - author: 静夜随想
       release_time: 2025.08.15 19:04:14
       title: 自动化还是得好好学一下
@@ -232,21 +244,13 @@
       release_time: 2025.08.05 00:00:00
       title: 某美科技滑块逆向分析
       url: https://mp.weixin.qq.com/s?__biz=Mzk2NDg0MjM0MQ==&mid=2247483753&idx=1&sn=d8245c95508cf86460429171a00f0093
-    - author: 逆向study
-      release_time: 2025.08.04 13:15:01
-      title: 某里v2滑块加密分析
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzYzNDU2NQ==&mid=2247483774&idx=1&sn=e784667f4afed1687ffbab1b10d708c0
-    - author: 哆啦安全
-      release_time: 2025.08.04 08:38:21
-      title: AI+逆向分析(逆向智能攻防趋势)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498359&idx=1&sn=cac9808c204db6441c124d1a90d6a802
-    - author: 二进制磨剑
-      release_time: 2025.08.04 08:30:00
-      title: Frida 17 API 重大变更与迁移指南
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485640&idx=1&sn=017b9c3859d8d7b9628a758b0f6f4f13
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: R44
+      release_time: 2025.08.17 12:42:00
+      title: 【js逆向】码上爬-题十二JSVMP入门逆向补环境
+      url: https://www.52pojie.cn/thread-2053916-1-1.html
     - author: MirageTurtle
       release_time: 2025.08.15 10:52:00
       title: 逻辑漏洞白嫖 LLM 接口站
@@ -363,10 +367,6 @@
       release_time: 2025.07.27 18:32:00
       title: 某盾无感验证码逆向 - 1
       url: https://www.52pojie.cn/thread-2049010-1-1.html
-    - author: zhnn
-      release_time: 2025.07.25 16:49:00
-      title: Js逆向实战案例之 ------x企查【ymg_ssr】+反调试分析
-      url: https://www.52pojie.cn/thread-2048600-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
