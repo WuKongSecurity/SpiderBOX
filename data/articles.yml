@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 白衣23
+      release_time: 2025.08.17 14:54:16
+      title: '[原创]编译和魔改frida-server'
+      url: https://bbs.kanxue.com/thread-288085.htm
     - author: SuEmiya
       release_time: 2025.08.17 00:37:59
       title: '[原创]某type_1017的ast解混淆思路'
@@ -487,10 +491,6 @@
       release_time: 2025.08.09 16:15:59
       title: '[原创]Frida编译以及魔改教程'
       url: https://bbs.kanxue.com/thread-287947.htm
-    - author: Nickname肖知寒
-      release_time: 2025.08.09 15:50:08
-      title: 魔改chromium源码——解除 iframe 的同源策略
-      url: https://blog.csdn.net/weixin_45307278/article/details/150109933
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
