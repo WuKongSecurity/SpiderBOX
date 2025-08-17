@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: HackXK
+      release_time: 2025.08.18 00:26:00
+      title: 果冻插件的逆向之旅
+      url: https://www.52pojie.cn/thread-2054017-1-1.html
     - author: R44
       release_time: 2025.08.17 12:42:00
       title: 【js逆向】码上爬-题十二JSVMP入门逆向补环境
@@ -363,10 +367,6 @@
       release_time: 2025.07.27 19:17:00
       title: 拼多多网页端商品信息获取
       url: https://www.52pojie.cn/thread-2049016-1-1.html
-    - author: utf8
-      release_time: 2025.07.27 18:32:00
-      title: 某盾无感验证码逆向 - 1
-      url: https://www.52pojie.cn/thread-2049010-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
