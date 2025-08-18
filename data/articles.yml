@@ -247,6 +247,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: '13955925361'
+      release_time: 2025.08.18 14:06:00
+      title: 360滑块验证码逆向
+      url: https://www.52pojie.cn/thread-2054148-1-1.html
+    - author: 无名
+      release_time: 2025.08.18 12:55:00
+      title: 【js逆向】码上爬 题七：干山鸟飞绝
+      url: https://www.52pojie.cn/thread-2054126-1-1.html
     - author: HackXK
       release_time: 2025.08.18 00:26:00
       title: 果冻插件的逆向之旅
@@ -359,14 +367,6 @@
       release_time: 2025.07.29 10:33:00
       title: 某酒店登录系统滑块逆向分析
       url: https://www.52pojie.cn/thread-2049410-1-1.html
-    - author: xwzios
-      release_time: 2025.07.29 10:22:00
-      title: ios 某抓包软件的加密规则不允许查看逆向分析
-      url: https://www.52pojie.cn/thread-2049407-1-1.html
-    - author: yanjiangpa
-      release_time: 2025.07.29 07:58:00
-      title: 鲨鱼记账 oppo加固脱修+解锁会员
-      url: https://www.52pojie.cn/thread-2049364-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
