@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.08.18 10:20:47
+      title: JS逆向 -- 过反调试
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039882&idx=1&sn=5c2577d9d3503a63d7103c6458b73e58
+    - author: Frida and So
+      release_time: 2025.08.18 09:20:53
+      title: Jsvmp反编译
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247484691&idx=1&sn=1bb39c0fdbbe46d8cb2ed1887aa5900c
+    - author: Coder小Q
+      release_time: 2025.08.18 08:30:00
+      title: 【密码学】Rhyme算法代码解读
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492540&idx=1&sn=dc121b804989cc7d70551efbc677b946
+    - author: 二进制磨剑
+      release_time: 2025.08.18 08:20:00
+      title: GPT‑5 + Cursor 智能体 + APKLab：手把手打造 Android 逆向自动化
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485666&idx=1&sn=5e73fd2d4d9a01beedd230af4922a3c0
     - author: 断点续行
       release_time: 2025.08.16 14:05:25
       title: 某里x82y验证码，x鱼连线九宫格轨迹
@@ -192,6 +208,10 @@
       release_time: 2025.08.12 08:30:00
       title: 【密码学PQC】SMAUG-T算法解读
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492294&idx=1&sn=0564757c995b4ea99b1e3007f4e2551b
+    - author: 二进制磨剑
+      release_time: 2025.08.11 08:00:25
+      title: GPT-5 + AGENT + MCP 逆向工程能力实测
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485652&idx=1&sn=e42f9306c3ff8453da7d73b3db328328
     - author: Spade sec
       release_time: 2025.08.10 10:30:00
       title: 荣耀SRC | 邀请你，挖秋天的第一个漏洞！
@@ -224,26 +244,6 @@
       release_time: 2025.08.07 15:16:09
       title: 获取windbgx离线安装包
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142827&idx=1&sn=61830a85df580e402789b957f0f04e4a
-    - author: 猿人学Python
-      release_time: 2025.08.07 15:04:20
-      title: 中专生逆袭：从2K打字员到20K的爬虫路
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448549938&idx=1&sn=b25203f93163dfcbb8f0ed8dc7a9a94d
-    - author: js android ios逆向
-      release_time: 2025.08.06 10:25:21
-      title: 如何在vmp中找到查表aes的密钥
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0NzU3MjQzNA==&mid=2247485625&idx=1&sn=4c226c0120421ba0ff7dd06a94dc80eb
-    - author: Coder小Q
-      release_time: 2025.08.06 08:36:53
-      title: 【密码学PQC】Saber算法解读
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492170&idx=1&sn=b5482ce94607e3c58eb3092487e85514
-    - author: 小小杨学编程
-      release_time: 2025.08.05 14:00:00
-      title: 某农采购网请求头加密分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484352&idx=1&sn=6d02cf1d99c1ac30d2df81f165d1dbdc
-    - author: 小尘逆向之旅
-      release_time: 2025.08.05 00:00:00
-      title: 某美科技滑块逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDg0MjM0MQ==&mid=2247483753&idx=1&sn=d8245c95508cf86460429171a00f0093
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
