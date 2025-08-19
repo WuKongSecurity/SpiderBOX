@@ -248,6 +248,10 @@
     term: 公众号
   - links:
     - author: hongmengshikong
+      release_time: 2025.08.19 18:31:00
+      title: 番茄轻断食app版本通杀
+      url: https://www.52pojie.cn/thread-2054459-1-1.html
+    - author: hongmengshikong
       release_time: 2025.08.18 20:13:00
       title: 体重日记Hook全版本通杀
       url: https://www.52pojie.cn/thread-2054224-1-1.html
@@ -363,10 +367,6 @@
       release_time: 2025.08.01 18:15:00
       title: 某500px登录参数逆向分析
       url: https://www.52pojie.cn/thread-2050371-1-1.html
-    - author: Mauns
-      release_time: 2025.07.29 18:55:00
-      title: apk拖进jadx-gui错误
-      url: https://www.52pojie.cn/thread-2049573-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
