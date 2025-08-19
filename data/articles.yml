@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 影17
+      release_time: 2025.08.19 11:15:19
+      title: 某蜂窝 zzzghostsigh 补环境+纯算
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247490023&idx=1&sn=f26bf7fdfa6e15c7681cc1499ecc899d
+    - author: 爬虫逆向小林哥
+      release_time: 2025.08.19 09:03:00
+      title: 【网页逆向】蝉**平台滑块与收码协议登录
+      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247486739&idx=1&sn=72e91617f6233c8d0e0f4605fef4a3db
+    - author: 逆向有你
+      release_time: 2025.08.19 09:01:55
+      title: 安卓逆向 -- 某Guard的SO加固探秘(有趣的GNUHash)
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039974&idx=1&sn=f7925e4390b62b8ed279bcdd66096b1d
     - author: 逆向有你
       release_time: 2025.08.18 10:20:47
       title: JS逆向 -- 过反调试
@@ -232,18 +244,6 @@
       release_time: 2025.08.08 08:00:00
       title: JS逆向实战：优雅去除 PVE “无效订阅”提示
       url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486859&idx=1&sn=c17b92b2ae8968ee8a3ed554fb6b44a0
-    - author: 软件安全与逆向分析
-      release_time: 2025.08.07 19:09:55
-      title: 公开一个Frida通用检测方法！Frida源码分析正式完结撒花！安卓逆向第一阶段更新过半。
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484855&idx=1&sn=1661ff596b055b74c888574867948f1b
-    - author: 逆向狗都不学
-      release_time: 2025.08.07 17:51:14
-      title: Incapsula(reese84)逆向
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247483907&idx=1&sn=1b4bd18da9c35731ab8b407dfc461f5d
-    - author: 吾爱破解论坛
-      release_time: 2025.08.07 15:16:09
-      title: 获取windbgx离线安装包
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142827&idx=1&sn=61830a85df580e402789b957f0f04e4a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -374,6 +374,10 @@
       release_time: 2025.08.18 17:23:20
       title: 深度解读梦境：科学与传统结合的解梦新体验
       url: https://guishou.blog.csdn.net/article/details/150497183
+    - author: 用户Z53Mexk87N
+      release_time: 2025.08.17 16:35:00
+      title: OLLVM学习以及平坦化源码分析
+      url: https://xz.aliyun.com/news/18642
     - author: 白衣23
       release_time: 2025.08.17 14:54:16
       title: '[原创]编译和魔改frida-server'
@@ -487,10 +491,6 @@
       release_time: 2025.08.10 03:08:11
       title: '[原创]关于某开源加固的代码还原'
       url: https://bbs.kanxue.com/thread-287954.htm
-    - author: 沈聽白
-      release_time: 2025.08.09 23:12:47
-      title: '[原创]Libve04.so TEA 加密'
-      url: https://bbs.kanxue.com/thread-287952.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
