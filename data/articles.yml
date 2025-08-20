@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 静夜随想
+      release_time: 2025.08.20 21:03:41
+      title: 数据清洗真的太重要了
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811136&idx=1&sn=6cfb951faa38c855b9a67b7095da51a6
     - author: Frida and So
       release_time: 2025.08.20 11:21:06
       title: 某东app检测
@@ -240,10 +244,6 @@
       release_time: 2025.08.12 09:41:05
       title: 使用GDB调试安卓15内核
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484862&idx=1&sn=9dcd8bdf01795381957557725dab7072
-    - author: 逆向有你
-      release_time: 2025.08.12 09:18:02
-      title: PC逆向 -- 关于RC4动调解密，无需使用脚本
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039786&idx=1&sn=f0cbd15d1ea51343409801f51db280ad
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
