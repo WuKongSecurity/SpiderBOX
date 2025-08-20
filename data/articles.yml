@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Frida and So
+      release_time: 2025.08.20 11:21:06
+      title: 某东app检测
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247484707&idx=1&sn=50f8faf641b4331155a333390441eb58
+    - author: 逆向有你
+      release_time: 2025.08.20 09:50:48
+      title: JS逆向 -- 某音滑块captchaBody分析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040008&idx=1&sn=cda582631bde9d645f3ce4459433a73e
+    - author: 小伍哥聊风控
+      release_time: 2025.08.20 08:29:00
+      title: 又水了一篇顶会！不知道博士咋毕业的，来看看我咋水的。
+      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196969&idx=1&sn=5e2d741fe3af2d3b010d9ee124e1b2d2
+    - author: 未闻Code
+      release_time: 2025.08.19 21:00:00
+      title: 40.9K Star 数据可视化神器！Json数据处理领域的“瑞士军刀”！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990904&idx=1&sn=2d36ad1d95a43705da57095e4d526235
     - author: 逆向狗都不学
       release_time: 2025.08.19 12:48:25
       title: funcaptcha逆向
@@ -156,6 +172,10 @@
       release_time: 2025.08.18 08:20:00
       title: GPT‑5 + Cursor 智能体 + APKLab：手把手打造 Android 逆向自动化
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485666&idx=1&sn=5e73fd2d4d9a01beedd230af4922a3c0
+    - author: 未闻Code
+      release_time: 2025.08.16 21:00:28
+      title: 烧掉十亿 Token 后，我总结的 Coding Agent 高阶玩法
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990901&idx=1&sn=dfb036cb0570e7a21f21cfcdcac18223
     - author: 断点续行
       release_time: 2025.08.16 14:05:25
       title: 某里x82y验证码，x鱼连线九宫格轨迹
@@ -208,6 +228,10 @@
       release_time: 2025.08.12 21:16:58
       title: 一张图看懂kernelSU整个安全生态，安卓开发与逆向第一阶段更新过大半了！
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484869&idx=1&sn=0506537dfc3725fa764dfa4fc5077640
+    - author: 未闻Code
+      release_time: 2025.08.12 21:00:00
+      title: 意义重大！Python 3.14 新模块 Zstandard 压缩来了
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990898&idx=1&sn=7d933216982ad68c5d067866c41e9f00
     - author: 哆啦安全
       release_time: 2025.08.12 14:38:25
       title: Magisk和LSPosed检测绕过
@@ -220,33 +244,13 @@
       release_time: 2025.08.12 09:18:02
       title: PC逆向 -- 关于RC4动调解密，无需使用脚本
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039786&idx=1&sn=f0cbd15d1ea51343409801f51db280ad
-    - author: Coder小Q
-      release_time: 2025.08.12 08:30:00
-      title: 【密码学PQC】SMAUG-T算法解读
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492294&idx=1&sn=0564757c995b4ea99b1e3007f4e2551b
-    - author: 二进制磨剑
-      release_time: 2025.08.11 08:00:25
-      title: GPT-5 + AGENT + MCP 逆向工程能力实测
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485652&idx=1&sn=e42f9306c3ff8453da7d73b3db328328
-    - author: Spade sec
-      release_time: 2025.08.10 10:30:00
-      title: 荣耀SRC | 邀请你，挖秋天的第一个漏洞！
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486139&idx=1&sn=54eb63ae860d0ce30d4f5ad152e756f6
-    - author: 丫总逆向
-      release_time: 2025.08.08 17:58:47
-      title: '阿里滑块_rand参数逆向: node计算基于CSS动画特性生成的参数'
-      url: https://mp.weixin.qq.com/s?__biz=MzU1NjQ2Njg4OA==&mid=2247483908&idx=1&sn=dbf6620e54b29aafe8626f600436dc1a
-    - author: 逆向有你
-      release_time: 2025.08.08 11:19:46
-      title: 安卓逆向 -- 算法助手模块激活教程
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039769&idx=1&sn=c6f6e545b5ca792cda07210449bdced5
-    - author: Coder小Q
-      release_time: 2025.08.08 08:31:00
-      title: 【密码学PQC】HAETAE算法解读
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492254&idx=1&sn=11c63b6e3656fb1ca4b4db7ccb972d15
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: buluo533
+      release_time: 2025.08.20 10:42:00
+      title: 多姿势某瓣app参数逆向分析
+      url: https://www.52pojie.cn/thread-2054564-1-1.html
     - author: hongmengshikong
       release_time: 2025.08.19 18:31:00
       title: 番茄轻断食app版本通杀
@@ -363,10 +367,6 @@
       release_time: 2025.08.01 20:34:00
       title: 【全网首发】手撕谷歌服务校验
       url: https://www.52pojie.cn/thread-2050389-1-1.html
-    - author: cenglou5
-      release_time: 2025.08.01 18:15:00
-      title: 某500px登录参数逆向分析
-      url: https://www.52pojie.cn/thread-2050371-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
