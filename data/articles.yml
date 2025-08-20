@@ -374,6 +374,10 @@
       release_time: 2025.08.19 18:37:15
       title: '[原创]meizu note6编译lineageOS18和集成KernelSU'
       url: https://bbs.kanxue.com/thread-288141.htm
+    - author: '1660635394122871'
+      release_time: 2025.08.19 00:20:00
+      title: 安卓Intent自动化灰盒模糊测试优化技术
+      url: https://xz.aliyun.com/news/18658
     - author: 鬼手56
       release_time: 2025.08.18 17:23:20
       title: 深度解读梦境：科学与传统结合的解梦新体验
@@ -487,10 +491,6 @@
       release_time: 2025.08.10 10:17:51
       title: 怎么hook一个软件去自动完成任务
       url: https://bbs.kanxue.com/thread-287960.htm
-    - author: 梦幻的彼岸
-      release_time: 2025.08.10 10:06:50
-      title: '[原创]“钥匙”被盗：2025年凭据泄露的激增与防御之道'
-      url: https://bbs.kanxue.com/thread-287959.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
