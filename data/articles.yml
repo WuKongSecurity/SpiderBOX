@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 爬虫spider
+      release_time: 2025.08.21 09:20:00
+      title: 抖音最新版抓包
+      url: https://mp.weixin.qq.com/s?__biz=MzUyODY3ODUzNw==&mid=2247484148&idx=1&sn=14e66ca22e477081eadbd4a1537722e6
+    - author: 哆啦安全
+      release_time: 2025.08.21 09:16:42
+      title: 深入解析 dex2oat：vdex、cdex、dex 格式转换全流程实战
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498378&idx=1&sn=5b530ed9ac91f758911ff00dbbc9339b
     - author: 静夜随想
       release_time: 2025.08.20 21:03:41
       title: 数据清洗真的太重要了
@@ -236,14 +244,6 @@
       release_time: 2025.08.12 21:00:00
       title: 意义重大！Python 3.14 新模块 Zstandard 压缩来了
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990898&idx=1&sn=7d933216982ad68c5d067866c41e9f00
-    - author: 哆啦安全
-      release_time: 2025.08.12 14:38:25
-      title: Magisk和LSPosed检测绕过
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498367&idx=1&sn=c6157dfe3760475a1ac2de659e8325e6
-    - author: 软件安全与逆向分析
-      release_time: 2025.08.12 09:41:05
-      title: 使用GDB调试安卓15内核
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484862&idx=1&sn=9dcd8bdf01795381957557725dab7072
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
