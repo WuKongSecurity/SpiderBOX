@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: HaveAnOrange
+      release_time: 2025.08.21 18:34:00
+      title: 码上爬-题十四：神枪手 请求参数处理
+      url: https://www.52pojie.cn/thread-2054956-1-1.html
     - author: '13955925361'
       release_time: 2025.08.20 19:02:00
       title: 中国国际航空航班信息获取与保存
@@ -363,10 +367,6 @@
       release_time: 2025.08.03 10:20:00
       title: Overt安全检测工具深度解析
       url: https://www.52pojie.cn/thread-2050639-1-1.html
-    - author: JiGuro
-      release_time: 2025.08.02 17:04:00
-      title: 【逆向思路】Native化软件弹窗去除
-      url: https://www.52pojie.cn/thread-2050549-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
