@@ -291,6 +291,10 @@
       release_time: 2025.08.15 10:52:00
       title: 逻辑漏洞白嫖 LLM 接口站
       url: https://www.52pojie.cn/thread-2053495-1-1.html
+    - author: Dellevin
+      release_time: 2025.08.14 00:00:00
+      title: 去除宝塔面板的推广以及专业版功能
+      url: https://www.52pojie.cn/thread-2053156-1-1.html
     - author: hj170520
       release_time: 2025.08.13 19:48:00
       title: 【js逆向】图书馆挠痒大作战
@@ -363,10 +367,6 @@
       release_time: 2025.08.03 23:56:00
       title: Android-app抓包-root真机配合Yakit抓包教程
       url: https://www.52pojie.cn/thread-2050770-1-1.html
-    - author: Aa865186652
-      release_time: 2025.08.03 10:20:00
-      title: Overt安全检测工具深度解析
-      url: https://www.52pojie.cn/thread-2050639-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
