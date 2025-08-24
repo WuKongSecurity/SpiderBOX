@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 静夜随想
+      release_time: 2025.08.24 19:57:39
+      title: 工位囚徒健身三个月后力量毫不足虑
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811146&idx=1&sn=45d0bec01edeeb726646565a939c78d1
     - author: 爬虫spider
       release_time: 2025.08.21 09:20:00
       title: 抖音最新版抓包
@@ -240,10 +244,6 @@
       release_time: 2025.08.12 21:16:58
       title: 一张图看懂kernelSU整个安全生态，安卓开发与逆向第一阶段更新过大半了！
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484869&idx=1&sn=0506537dfc3725fa764dfa4fc5077640
-    - author: 未闻Code
-      release_time: 2025.08.12 21:00:00
-      title: 意义重大！Python 3.14 新模块 Zstandard 压缩来了
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990898&idx=1&sn=7d933216982ad68c5d067866c41e9f00
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
