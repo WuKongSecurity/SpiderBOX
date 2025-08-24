@@ -251,6 +251,10 @@
       release_time: 2025.08.23 18:04:00
       title: 利用ida-pro-mcp，对ios某滤镜软件进行逆向分析
       url: https://www.52pojie.cn/thread-2055361-1-1.html
+    - author: ab19950220
+      release_time: 2025.08.23 15:05:00
+      title: 某Y院WX小程序挂号，算法还原
+      url: https://www.52pojie.cn/thread-2055333-1-1.html
     - author: SKY1
       release_time: 2025.08.21 22:59:00
       title: ROOT权限假象：DroidPlugin逆向的神秘逻辑（上篇）
@@ -363,10 +367,6 @@
       release_time: 2025.08.06 20:05:00
       title: 极验3代滑块流程分析
       url: https://www.52pojie.cn/thread-2051507-1-1.html
-    - author: mengxinb
-      release_time: 2025.08.06 16:59:00
-      title: VMOS Pro 3.1.1最新版全方位破解分析
-      url: https://www.52pojie.cn/thread-2051458-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
