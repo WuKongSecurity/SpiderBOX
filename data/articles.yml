@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.08.25 10:35:07
+      title: 深入ART Dex加载流程，玩转Android通用脱壳点
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498401&idx=1&sn=ffee5bbee0c60f71ccbd8d1f3b29aaf6
     - author: 小伍哥聊风控
       release_time: 2025.08.25 08:43:14
       title: 大模型会不会淘汰风控？
@@ -140,6 +144,22 @@
       release_time: 2025.08.24 19:57:39
       title: 工位囚徒健身三个月后力量毫不足虑
       url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811146&idx=1&sn=45d0bec01edeeb726646565a939c78d1
+    - author: 哆啦安全
+      release_time: 2025.08.23 08:23:36
+      title: Android Studio新老版本使用过程遇到的问题
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498397&idx=2&sn=4f402f61c98701b5247363ff20e85ed4
+    - author: 哆啦安全
+      release_time: 2025.08.23 08:23:36
+      title: readelf分析so文件:ELF结构解析全攻略
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498397&idx=1&sn=c1818b280ab07557cfb427a31d4720de
+    - author: 哆啦安全
+      release_time: 2025.08.23 08:23:36
+      title: Android项目升级插件到kotlin2.1.0后混淆网络请求异常
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498397&idx=3&sn=dddb08ef10fa5ac1de7d22fe17d965b0
+    - author: 哆啦安全
+      release_time: 2025.08.22 16:43:12
+      title: 手把手教你改造AAR：解包、注入逻辑、重打包，一条龙玩转第三方SDK
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498381&idx=1&sn=e391118a82335bf52a11cf2f49de0564
     - author: 爬虫spider
       release_time: 2025.08.21 09:20:00
       title: 抖音最新版抓包
@@ -224,26 +244,6 @@
       release_time: 2025.08.15 17:29:40
       title: 【flutter入门】某猫Signature逆向
       url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247489981&idx=1&sn=6c7b98ff4cb1d2c0fd8625f301822b7a
-    - author: Coder小Q
-      release_time: 2025.08.15 08:35:51
-      title: '【密码学】Rhyme: 一种基于3C采样的Fiat-Shamir格签名(算法解读)'
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492509&idx=1&sn=da1ab45ccea9f1d7d71f260a32bdf48b
-    - author: 逆向狗都不学
-      release_time: 2025.08.15 07:56:51
-      title: funcaptcha反混淆
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247483928&idx=1&sn=3dffdfb2b564c3fcba4a5edd43e2b168
-    - author: 静夜随想
-      release_time: 2025.08.14 20:25:47
-      title: 解决disable-devtool反调试
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811130&idx=1&sn=c9a994f910326bec9dea0df626943d29
-    - author: 猿人学Python
-      release_time: 2025.08.14 10:23:15
-      title: 从月薪2000到2W+的逆向大佬成长之路
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448549952&idx=1&sn=8a1f1de3fee1344e76b4a5bc1b1c280f
-    - author: 逆向有你
-      release_time: 2025.08.14 09:01:22
-      title: 安卓逆向 -- 某看APP key的破解
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039802&idx=1&sn=579037cc11e0fe0efa4af9b731ce2579
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 王辉辉的猫
+      release_time: 2025.08.25 09:46:12
+      title: 006.chromium编译进阶-任务栏图标加数字提示徽章
+      url: https://blog.csdn.net/w1101662433/article/details/150758686
     - author: 吴秋霖
       release_time: 2025.08.23 09:00:00
       title: ICP语序文字点选验证逆向分析（含Py纯算源码）
@@ -487,10 +491,6 @@
       release_time: 2025.08.12 18:21:14
       title: '[原创]libtalaccsecurity.so sign与pwd算法分析'
       url: https://bbs.kanxue.com/thread-288002.htm
-    - author: 幻鳕
-      release_time: 2025.08.12 17:20:29
-      title: '[分享] macOS15   Kali 虚拟机跨机 ADB 调试 AVD'
-      url: https://bbs.kanxue.com/thread-288001.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
