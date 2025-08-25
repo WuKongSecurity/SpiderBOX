@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Frida and So
+      release_time: 2025.08.25 14:39:23
+      title: 某东jdgs补环境
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247484726&idx=1&sn=27cbfa422cbb2c277129876a3852256e
     - author: 小小杨学编程
       release_time: 2025.08.25 11:56:00
       title: 某Y注册滑块验证分析
@@ -150,12 +154,12 @@
       url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811146&idx=1&sn=45d0bec01edeeb726646565a939c78d1
     - author: 哆啦安全
       release_time: 2025.08.23 08:23:36
-      title: Android Studio新老版本使用过程遇到的问题
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498397&idx=2&sn=4f402f61c98701b5247363ff20e85ed4
-    - author: 哆啦安全
-      release_time: 2025.08.23 08:23:36
       title: readelf分析so文件:ELF结构解析全攻略
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498397&idx=1&sn=c1818b280ab07557cfb427a31d4720de
+    - author: 哆啦安全
+      release_time: 2025.08.23 08:23:36
+      title: Android Studio新老版本使用过程遇到的问题
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498397&idx=2&sn=4f402f61c98701b5247363ff20e85ed4
     - author: 哆啦安全
       release_time: 2025.08.23 08:23:36
       title: Android项目升级插件到kotlin2.1.0后混淆网络请求异常
@@ -240,10 +244,6 @@
       release_time: 2025.08.16 09:02:34
       title: 【安卓逆向】安居客反调试与参数分析
       url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247486710&idx=1&sn=42c3d8d8d4a900b046302e81114c92f4
-    - author: 静夜随想
-      release_time: 2025.08.15 19:04:14
-      title: 自动化还是得好好学一下
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811132&idx=1&sn=02c6a107f57562fe9e672e9ed09bc575
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
