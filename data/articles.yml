@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: HackXK
+      release_time: 2025.08.25 15:26:00
+      title: WeChatMask遮罩插件的验证破解之路
+      url: https://www.52pojie.cn/thread-2055713-1-1.html
     - author: SKY1
       release_time: 2025.08.24 17:12:00
       title: ROOT权限假象：DroidPlugin 逆向的兼容性与价值探析（中篇）
@@ -363,10 +367,6 @@
       release_time: 2025.08.08 14:04:00
       title: 某手势验证码纯算逆向分析
       url: https://www.52pojie.cn/thread-2051922-1-1.html
-    - author: shanjzhu
-      release_time: 2025.08.07 11:23:00
-      title: 极验3代滑块-扣代码及思路
-      url: https://www.52pojie.cn/thread-2051616-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
