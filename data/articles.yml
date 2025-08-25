@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 静夜随想
+      release_time: 2025.08.25 19:18:51
+      title: 用Playwright和Flask写了个浏览器渲染服务
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811148&idx=1&sn=06d0871059e76d60537677678e367ee7
     - author: Frida and So
       release_time: 2025.08.25 14:39:23
       title: 某东jdgs补环境
@@ -240,10 +244,6 @@
       release_time: 2025.08.16 11:38:47
       title: 某物流程验证码分析
       url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484369&idx=1&sn=2069c08df173d186c72a72b1fa4a9eba
-    - author: 爬虫逆向小林哥
-      release_time: 2025.08.16 09:02:34
-      title: 【安卓逆向】安居客反调试与参数分析
-      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247486710&idx=1&sn=42c3d8d8d4a900b046302e81114c92f4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
