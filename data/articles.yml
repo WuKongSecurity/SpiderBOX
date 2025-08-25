@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: buluo533
+      release_time: 2025.08.25 16:10:00
+      title: 某验3AST分析及实现
+      url: https://www.52pojie.cn/thread-2055730-1-1.html
     - author: HackXK
       release_time: 2025.08.25 15:26:00
       title: WeChatMask遮罩插件的验证破解之路
@@ -363,10 +367,6 @@
       release_time: 2025.08.09 17:16:00
       title: OK影视pro的奖励算法分析
       url: https://www.52pojie.cn/thread-2052174-1-1.html
-    - author: LiSAimer
-      release_time: 2025.08.08 14:04:00
-      title: 某手势验证码纯算逆向分析
-      url: https://www.52pojie.cn/thread-2051922-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
