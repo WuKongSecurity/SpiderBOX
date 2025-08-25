@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 狗都不学爬虫_
+      release_time: 2025.08.25 17:11:22
+      title: JS逆向 - 盼之（decode__1174、sign）
+      url: https://blog.csdn.net/qq_53444631/article/details/150772182
     - author: 王辉辉的猫
       release_time: 2025.08.25 09:46:12
       title: 006.chromium编译进阶-任务栏图标加数字提示徽章
@@ -487,10 +491,6 @@
       release_time: 2025.08.12 21:04:37
       title: '[原创]个人整理的安卓逆向与安全分析思维导图（持续完善中）'
       url: https://bbs.kanxue.com/thread-288004.htm
-    - author: 沈聽白
-      release_time: 2025.08.12 18:21:14
-      title: '[原创]libtalaccsecurity.so sign与pwd算法分析'
-      url: https://bbs.kanxue.com/thread-288002.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
