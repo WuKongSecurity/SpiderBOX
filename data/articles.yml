@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.08.25 21:00:33
+      title: 从“码农”到“代码进化师”
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990910&idx=1&sn=159fa2bc8e05d51ad07374c7a79344e3
     - author: 静夜随想
       release_time: 2025.08.25 19:18:51
       title: 用Playwright和Flask写了个浏览器渲染服务
@@ -158,16 +162,20 @@
       url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811146&idx=1&sn=45d0bec01edeeb726646565a939c78d1
     - author: 哆啦安全
       release_time: 2025.08.23 08:23:36
-      title: readelf分析so文件:ELF结构解析全攻略
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498397&idx=1&sn=c1818b280ab07557cfb427a31d4720de
-    - author: 哆啦安全
-      release_time: 2025.08.23 08:23:36
       title: Android Studio新老版本使用过程遇到的问题
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498397&idx=2&sn=4f402f61c98701b5247363ff20e85ed4
     - author: 哆啦安全
       release_time: 2025.08.23 08:23:36
+      title: readelf分析so文件:ELF结构解析全攻略
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498397&idx=1&sn=c1818b280ab07557cfb427a31d4720de
+    - author: 哆啦安全
+      release_time: 2025.08.23 08:23:36
       title: Android项目升级插件到kotlin2.1.0后混淆网络请求异常
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498397&idx=3&sn=dddb08ef10fa5ac1de7d22fe17d965b0
+    - author: 未闻Code
+      release_time: 2025.08.22 21:04:19
+      title: 分享3 个令人惊艳的 GitHub 开源项目！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990907&idx=1&sn=c5112972ee2711e696065e6e53fa3779
     - author: 哆啦安全
       release_time: 2025.08.22 16:43:12
       title: 手把手教你改造AAR：解包、注入逻辑、重打包，一条龙玩转第三方SDK
@@ -236,14 +244,6 @@
       release_time: 2025.08.16 21:00:28
       title: 烧掉十亿 Token 后，我总结的 Coding Agent 高阶玩法
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990901&idx=1&sn=dfb036cb0570e7a21f21cfcdcac18223
-    - author: 断点续行
-      release_time: 2025.08.16 14:05:25
-      title: 某里x82y验证码，x鱼连线九宫格轨迹
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDgxNTAzNg==&mid=2247483890&idx=1&sn=580fd3066e3e053ff1864a8dfe762cd4
-    - author: 小小杨学编程
-      release_time: 2025.08.16 11:38:47
-      title: 某物流程验证码分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484369&idx=1&sn=2069c08df173d186c72a72b1fa4a9eba
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
