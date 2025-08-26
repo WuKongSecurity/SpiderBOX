@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.08.26 21:17:33
+      title: 一日一技：Python自带的参数占位符
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990931&idx=1&sn=6aa3ba3cc6f7d3126199db6d8612d8fb
     - author: 逆向有你
       release_time: 2025.08.26 11:25:18
       title: 安卓逆向 -- 引流弹窗去除
@@ -240,10 +244,6 @@
       release_time: 2025.08.18 09:20:53
       title: Jsvmp反编译
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247484691&idx=1&sn=1bb39c0fdbbe46d8cb2ed1887aa5900c
-    - author: Coder小Q
-      release_time: 2025.08.18 08:30:00
-      title: 【密码学】Rhyme算法代码解读
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492540&idx=1&sn=dc121b804989cc7d70551efbc677b946
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
