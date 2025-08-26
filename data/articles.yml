@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 猿人学Python
+      release_time: 2025.08.26 10:07:58
+      title: 做猿人学6年的感悟与思考
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448549961&idx=1&sn=7fbded0a5a7d8ce4a39d8d765d2745f8
     - author: 未闻Code
       release_time: 2025.08.25 21:00:33
       title: 从“码农”到“代码进化师”
@@ -240,10 +244,6 @@
       release_time: 2025.08.18 08:20:00
       title: GPT‑5 + Cursor 智能体 + APKLab：手把手打造 Android 逆向自动化
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485666&idx=1&sn=5e73fd2d4d9a01beedd230af4922a3c0
-    - author: 未闻Code
-      release_time: 2025.08.16 21:00:28
-      title: 烧掉十亿 Token 后，我总结的 Coding Agent 高阶玩法
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990901&idx=1&sn=dfb036cb0570e7a21f21cfcdcac18223
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
