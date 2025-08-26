@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 榫卯江湖
+      release_time: 2025.08.26 22:30:00
+      title: PacketScope--内核处理网络包的函数调用跟踪利器
+      url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485171&idx=1&sn=aef2ee2db96cd057956efd9b5eed7e14
     - author: 未闻Code
       release_time: 2025.08.26 21:17:33
       title: 一日一技：Python自带的参数占位符
@@ -174,12 +178,12 @@
       url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811146&idx=1&sn=45d0bec01edeeb726646565a939c78d1
     - author: 哆啦安全
       release_time: 2025.08.23 08:23:36
-      title: Android Studio新老版本使用过程遇到的问题
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498397&idx=2&sn=4f402f61c98701b5247363ff20e85ed4
-    - author: 哆啦安全
-      release_time: 2025.08.23 08:23:36
       title: readelf分析so文件:ELF结构解析全攻略
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498397&idx=1&sn=c1818b280ab07557cfb427a31d4720de
+    - author: 哆啦安全
+      release_time: 2025.08.23 08:23:36
+      title: Android Studio新老版本使用过程遇到的问题
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498397&idx=2&sn=4f402f61c98701b5247363ff20e85ed4
     - author: 哆啦安全
       release_time: 2025.08.23 08:23:36
       title: Android项目升级插件到kotlin2.1.0后混淆网络请求异常
@@ -240,10 +244,6 @@
       release_time: 2025.08.18 10:20:47
       title: JS逆向 -- 过反调试
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039882&idx=1&sn=5c2577d9d3503a63d7103c6458b73e58
-    - author: Frida and So
-      release_time: 2025.08.18 09:20:53
-      title: Jsvmp反编译
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247484691&idx=1&sn=1bb39c0fdbbe46d8cb2ed1887aa5900c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
