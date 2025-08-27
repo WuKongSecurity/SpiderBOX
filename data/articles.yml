@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.08.27 10:10:34
+      title: SSH+DrissionPage 远程操控服务器上的浏览器
+      url: https://www.bilibili.com/video/BV13dekzyEsP
     - author: Alone逆向安全
       release_time: 2025.08.22 23:16:30
       title: 安卓逆向神器开发 lua api 操作 frida gum 提高数十倍hook效率和隐蔽性
@@ -117,10 +121,6 @@
       release_time: 2025.07.20 19:59:03
       title: 2025 RISC-V上海中国峰会vlog
       url: https://www.bilibili.com/video/BV11igaz5EyL
-    - author: Alone逆向安全
-      release_time: 2025.07.19 23:23:22
-      title: clion 配置msvc 编译器 优雅的开发c++
-      url: https://www.bilibili.com/video/BV1t4udzyEof
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
