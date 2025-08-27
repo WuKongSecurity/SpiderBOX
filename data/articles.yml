@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Spade sec
+      release_time: 2025.08.27 09:00:00
+      title: JS逆向系列22-彻底解决前端无限debugger
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486218&idx=1&sn=b2c170f6b2ed50722f1d120e54bc9a4e
     - author: 榫卯江湖
       release_time: 2025.08.26 22:30:00
       title: PacketScope--内核处理网络包的函数调用跟踪利器
@@ -176,6 +180,10 @@
       release_time: 2025.08.24 19:57:39
       title: 工位囚徒健身三个月后力量毫不足虑
       url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811146&idx=1&sn=45d0bec01edeeb726646565a939c78d1
+    - author: Spade sec
+      release_time: 2025.08.23 21:53:15
+      title: 绿盟实习小记
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486150&idx=1&sn=6b621f153bdfae0e81238866030548cf
     - author: 哆啦安全
       release_time: 2025.08.23 08:23:36
       title: readelf分析so文件:ELF结构解析全攻略
@@ -236,14 +244,6 @@
       release_time: 2025.08.19 09:03:00
       title: 【网页逆向】蝉**平台滑块与收码协议登录
       url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247486739&idx=1&sn=72e91617f6233c8d0e0f4605fef4a3db
-    - author: 逆向有你
-      release_time: 2025.08.19 09:01:55
-      title: 安卓逆向 -- 某Guard的SO加固探秘(有趣的GNUHash)
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039974&idx=1&sn=f7925e4390b62b8ed279bcdd66096b1d
-    - author: 逆向有你
-      release_time: 2025.08.18 10:20:47
-      title: JS逆向 -- 过反调试
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039882&idx=1&sn=5c2577d9d3503a63d7103c6458b73e58
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
