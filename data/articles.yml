@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 静夜随想
+      release_time: 2025.08.27 20:35:00
+      title: 用Playwright和Express写了个浏览器渲染服务
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811152&idx=1&sn=a26519c2d706acf96ccdd91c91bcdb69
     - author: 逆向狗都不学
       release_time: 2025.08.27 11:26:23
       title: 阿里231反混淆
@@ -240,10 +244,6 @@
       release_time: 2025.08.19 12:48:25
       title: funcaptcha逆向
       url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247483955&idx=1&sn=7f98e890373591765d70a1f97ac22df9
-    - author: 影17
-      release_time: 2025.08.19 11:15:19
-      title: 某蜂窝 zzzghostsigh 补环境+纯算
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247490023&idx=1&sn=f26bf7fdfa6e15c7681cc1499ecc899d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
