@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.08.28 09:20:47
+      title: JS逆向 -- 某愿字体反混淆
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040064&idx=1&sn=2dae411d9338e8cdbc7537590ed64d90
+    - author: 独步爬虫逆向
+      release_time: 2025.08.28 09:07:04
+      title: 抄袭狗咬人事件 全网首发
+      url: https://mp.weixin.qq.com/s?__biz=MzkzODYzNjg4OA==&mid=2247484344&idx=1&sn=3fd4176fccb2d33742b9f5059c91a148
     - author: 静夜随想
       release_time: 2025.08.27 20:35:00
       title: 用Playwright和Express写了个浏览器渲染服务
@@ -194,12 +202,12 @@
       url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486150&idx=1&sn=6b621f153bdfae0e81238866030548cf
     - author: 哆啦安全
       release_time: 2025.08.23 08:23:36
-      title: Android Studio新老版本使用过程遇到的问题
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498397&idx=2&sn=4f402f61c98701b5247363ff20e85ed4
-    - author: 哆啦安全
-      release_time: 2025.08.23 08:23:36
       title: readelf分析so文件:ELF结构解析全攻略
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498397&idx=1&sn=c1818b280ab07557cfb427a31d4720de
+    - author: 哆啦安全
+      release_time: 2025.08.23 08:23:36
+      title: Android Studio新老版本使用过程遇到的问题
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498397&idx=2&sn=4f402f61c98701b5247363ff20e85ed4
     - author: 哆啦安全
       release_time: 2025.08.23 08:23:36
       title: Android项目升级插件到kotlin2.1.0后混淆网络请求异常
@@ -236,14 +244,6 @@
       release_time: 2025.08.20 08:29:00
       title: 又水了一篇顶会！不知道博士咋毕业的，来看看我咋水的。
       url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196969&idx=1&sn=5e2d741fe3af2d3b010d9ee124e1b2d2
-    - author: 未闻Code
-      release_time: 2025.08.19 21:00:00
-      title: 40.9K Star 数据可视化神器！Json数据处理领域的“瑞士军刀”！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990904&idx=1&sn=2d36ad1d95a43705da57095e4d526235
-    - author: 逆向狗都不学
-      release_time: 2025.08.19 12:48:25
-      title: funcaptcha逆向
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247483955&idx=1&sn=7f98e890373591765d70a1f97ac22df9
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
