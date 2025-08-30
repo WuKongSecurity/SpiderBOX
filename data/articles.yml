@@ -2,6 +2,10 @@
   list:
   - links:
     - author: B站用户骚神
+      release_time: 2025.08.30 14:34:37
+      title: WebSocket反向代理+DP远程控制浏览器
+      url: https://www.bilibili.com/video/BV1oUhvzsEgP
+    - author: B站用户骚神
       release_time: 2025.08.27 10:10:34
       title: SSH+DrissionPage 远程操控服务器上的浏览器
       url: https://www.bilibili.com/video/BV13dekzyEsP
@@ -117,10 +121,6 @@
       release_time: 2025.07.20 23:39:51
       title: windows开发arm64模拟执行框架：核心环境搭建指南 (Git + vcpkg + Unicorn)
       url: https://www.bilibili.com/video/BV18agezREob
-    - author: 冷月不是程序员
-      release_time: 2025.07.20 19:59:03
-      title: 2025 RISC-V上海中国峰会vlog
-      url: https://www.bilibili.com/video/BV11igaz5EyL
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
