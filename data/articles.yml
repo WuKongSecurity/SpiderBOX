@@ -259,6 +259,10 @@
       release_time: 2025.08.30 23:55:00
       title: 极验4代 九宫格协议分析
       url: https://www.52pojie.cn/thread-2056918-1-1.html
+    - author: Colinxu2020
+      release_time: 2025.08.30 17:25:00
+      title: 某高考逆向分析
+      url: https://www.52pojie.cn/thread-2056857-1-1.html
     - author: kangaroo711
       release_time: 2025.08.28 10:53:00
       title: 有谱么网站 修改非会员的吉他谱播放时长
@@ -363,10 +367,6 @@
       release_time: 2025.08.13 10:47:00
       title: 有谱么网站，新手谱子打印，跳过登录会员
       url: https://www.52pojie.cn/thread-2052975-1-1.html
-    - author: 头脑发热的少年
-      release_time: 2025.08.12 18:00:00
-      title: 某东最新5.2版本的第8段环境参数加密逆向解析
-      url: https://www.52pojie.cn/thread-2052845-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
