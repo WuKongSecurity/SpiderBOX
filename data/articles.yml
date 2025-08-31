@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: Command
+      release_time: 2025.08.31 22:38:00
+      title: 极验4代 九宫格验证码识别(Resnet)
+      url: https://www.52pojie.cn/thread-2057071-1-1.html
     - author: 无名
       release_time: 2025.08.31 20:07:00
       title: 某视频平台jsvmp纯算还原
@@ -363,10 +367,6 @@
       release_time: 2025.08.12 18:00:00
       title: 某东最新5.2版本的第8段环境参数加密逆向解析
       url: https://www.52pojie.cn/thread-2052845-1-1.html
-    - author: qaq332
-      release_time: 2025.08.12 16:44:00
-      title: 某护家去除广告办法(新手入门)
-      url: https://www.52pojie.cn/thread-2052822-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
