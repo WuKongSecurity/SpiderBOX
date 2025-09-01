@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.09.01 15:08:58
+      title: DrissionPage远程控制docker里浏览器
+      url: https://www.bilibili.com/video/BV1QFaHzyE9m
     - author: 逆向狗都不学
       release_time: 2025.09.01 11:17:17
       title: 某里231之AST反混淆
@@ -117,10 +121,6 @@
       release_time: 2025.07.21 20:16:03
       title: interlink（领克）react native 逆向
       url: https://www.bilibili.com/video/BV1kMgVzDEtL
-    - author: Alone逆向安全
-      release_time: 2025.07.21 00:30:17
-      title: windows开发arm64模拟执行框架：核心环境搭建指南 (capstone+keystone+Lief)
-      url: https://www.bilibili.com/video/BV1zLgeziEJd
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
