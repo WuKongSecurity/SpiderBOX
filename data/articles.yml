@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 逆向狗都不学
+      release_time: 2025.09.01 11:17:17
+      title: 某里231之AST反混淆
+      url: https://www.bilibili.com/video/BV1GqaJzrEug
     - author: B站用户骚神
       release_time: 2025.08.30 14:34:37
       title: WebSocket反向代理+DP远程控制浏览器
@@ -117,10 +121,6 @@
       release_time: 2025.07.21 00:30:17
       title: windows开发arm64模拟执行框架：核心环境搭建指南 (capstone+keystone+Lief)
       url: https://www.bilibili.com/video/BV1zLgeziEJd
-    - author: Alone逆向安全
-      release_time: 2025.07.20 23:39:51
-      title: windows开发arm64模拟执行框架：核心环境搭建指南 (Git + vcpkg + Unicorn)
-      url: https://www.bilibili.com/video/BV18agezREob
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -414,10 +414,6 @@
       release_time: 2025.08.22 09:46:07
       title: 补环境常见检测点以及瑞数补环境框架
       url: https://blog.csdn.net/weixin_69490628/article/details/150601514
-    - author: 安卓逆向许七安
-      release_time: 2025.08.21 19:01:46
-      title: 25年贵阳旅居食记
-      url: https://blog.csdn.net/weixin_45365693/article/details/150589345
     - author: 爱喝水的木子
       release_time: 2025.08.21 15:10:30
       title: Python爬虫面试求生指南：从‘Hello World’到‘法官，我冤枉啊！’的超长灵魂拷问
@@ -491,6 +487,10 @@
       release_time: 2025.08.14 02:34:18
       title: '[原创]古墓派反混淆与壳对抗：基于硬件断点的无痕HWBP-Trace算法demo开源'
       url: https://bbs.kanxue.com/thread-288024.htm
+    - author: 沈聽白
+      release_time: 2025.08.14 00:58:27
+      title: '[原创][原创]LibCrypt.so 魔改MD5'
+      url: https://bbs.kanxue.com/thread-288023.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
