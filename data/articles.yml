@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: coderwhy
+      release_time: 2025.09.01 17:24:18
+      title: 同学们，新书《JavaScript高级编程权威指南》已经进入封面设计阶段
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247489032&idx=1&sn=63b95653753d0d3859f9c7b85189a8c8
     - author: 逆向有你
       release_time: 2025.09.01 09:44:21
       title: 安卓逆向 -- 解锁某剧场会员
@@ -218,12 +222,12 @@
       url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486150&idx=1&sn=6b621f153bdfae0e81238866030548cf
     - author: 哆啦安全
       release_time: 2025.08.23 08:23:36
-      title: readelf分析so文件:ELF结构解析全攻略
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498397&idx=1&sn=c1818b280ab07557cfb427a31d4720de
-    - author: 哆啦安全
-      release_time: 2025.08.23 08:23:36
       title: Android Studio新老版本使用过程遇到的问题
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498397&idx=2&sn=4f402f61c98701b5247363ff20e85ed4
+    - author: 哆啦安全
+      release_time: 2025.08.23 08:23:36
+      title: readelf分析so文件:ELF结构解析全攻略
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498397&idx=1&sn=c1818b280ab07557cfb427a31d4720de
     - author: 哆啦安全
       release_time: 2025.08.23 08:23:36
       title: Android项目升级插件到kotlin2.1.0后混淆网络请求异常
@@ -240,10 +244,6 @@
       release_time: 2025.08.21 09:20:00
       title: 抖音最新版抓包
       url: https://mp.weixin.qq.com/s?__biz=MzUyODY3ODUzNw==&mid=2247484148&idx=1&sn=14e66ca22e477081eadbd4a1537722e6
-    - author: 哆啦安全
-      release_time: 2025.08.21 09:16:42
-      title: 深入解析 dex2oat：vdex、cdex、dex 格式转换全流程实战
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498378&idx=1&sn=5b530ed9ac91f758911ff00dbbc9339b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
