@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 和沐阳学逆向
+      release_time: 2025.09.01 22:12:33
+      title: 62.《安卓逆向》frida反调试之编译与魔改frida16.7.19
+      url: https://www.bilibili.com/video/BV1EuapztE8y
     - author: B站用户骚神
       release_time: 2025.09.01 15:08:58
       title: DrissionPage远程控制docker里浏览器
@@ -117,10 +121,6 @@
       release_time: 2025.07.23 00:20:21
       title: idapro9.1 windows 安装教程
       url: https://www.bilibili.com/video/BV1uigpzWEvA
-    - author: 西门浪0v0
-      release_time: 2025.07.21 20:16:03
-      title: interlink（领克）react native 逆向
-      url: https://www.bilibili.com/video/BV1kMgVzDEtL
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
