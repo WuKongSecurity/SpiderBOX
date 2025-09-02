@@ -140,6 +140,10 @@
       release_time: 2025.09.01 17:24:18
       title: 同学们，新书《JavaScript高级编程权威指南》已经进入封面设计阶段
       url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247489032&idx=1&sn=63b95653753d0d3859f9c7b85189a8c8
+    - author: 逆向成长日记
+      release_time: 2025.09.01 13:28:34
+      title: 全自动文本解析模块
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4NTg0MjMzNQ==&mid=2247484296&idx=1&sn=1854d8ff673608a6a1aac7247d4e4b7f
     - author: 逆向有你
       release_time: 2025.09.01 09:44:21
       title: 安卓逆向 -- 解锁某剧场会员
@@ -240,10 +244,6 @@
       release_time: 2025.08.23 08:23:36
       title: readelf分析so文件:ELF结构解析全攻略
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498397&idx=1&sn=c1818b280ab07557cfb427a31d4720de
-    - author: 哆啦安全
-      release_time: 2025.08.23 08:23:36
-      title: Android Studio新老版本使用过程遇到的问题
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498397&idx=2&sn=4f402f61c98701b5247363ff20e85ed4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
