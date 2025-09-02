@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.09.02 21:00:00
+      title: Python 魔法方法：用 Dunder 函数编写更简洁的代码
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990937&idx=1&sn=71b242a25a50b494568dbd57ac7eaa28
     - author: LLLibra146
       release_time: 2025.09.02 08:00:00
       title: AST技巧：快速复制AST节点名称
@@ -156,6 +160,10 @@
       release_time: 2025.09.01 08:30:00
       title: 【密码学】X-Wing：新一代混合密钥封装机制 算法解读
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492620&idx=1&sn=5458df37a1d677c1c92ffc08510a3bdb
+    - author: 未闻Code
+      release_time: 2025.08.30 21:03:40
+      title: 9K Star 开源工作流爆火！超轻量直观的AI Agent 工作流构建器！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990934&idx=1&sn=b1a6e94fea93930e248ec3a2ec09f91b
     - author: 哆啦安全
       release_time: 2025.08.29 17:19:02
       title: Dex2C把Java转Native(Android代码加固)
@@ -236,14 +244,6 @@
       release_time: 2025.08.24 19:57:39
       title: 工位囚徒健身三个月后力量毫不足虑
       url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811146&idx=1&sn=45d0bec01edeeb726646565a939c78d1
-    - author: Spade sec
-      release_time: 2025.08.23 21:53:15
-      title: 绿盟实习小记
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486150&idx=1&sn=6b621f153bdfae0e81238866030548cf
-    - author: 哆啦安全
-      release_time: 2025.08.23 08:23:36
-      title: readelf分析so文件:ELF结构解析全攻略
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498397&idx=1&sn=c1818b280ab07557cfb427a31d4720de
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
