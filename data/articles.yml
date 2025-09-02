@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: LLLibra146
+      release_time: 2025.09.02 08:00:00
+      title: AST技巧：快速复制AST节点名称
+      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486891&idx=1&sn=a7b068d65f5220aa1427d95383322ed0
     - author: 哆啦安全
       release_time: 2025.09.01 22:31:00
       title: 深入内核交互使用strace分析Android系统调用
@@ -240,10 +244,6 @@
       release_time: 2025.08.23 08:23:36
       title: Android Studio新老版本使用过程遇到的问题
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498397&idx=2&sn=4f402f61c98701b5247363ff20e85ed4
-    - author: 哆啦安全
-      release_time: 2025.08.23 08:23:36
-      title: Android项目升级插件到kotlin2.1.0后混淆网络请求异常
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498397&idx=3&sn=dddb08ef10fa5ac1de7d22fe17d965b0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
