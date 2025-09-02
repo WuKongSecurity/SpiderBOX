@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: xwzios
+      release_time: 2025.09.02 14:10:00
+      title: ios 某软件的逆向分析学习
+      url: https://www.52pojie.cn/thread-2057449-1-1.html
     - author: '13955925361'
       release_time: 2025.09.01 11:19:00
       title: 逆向过云片滑动验证码
@@ -363,10 +367,6 @@
       release_time: 2025.08.13 19:48:00
       title: 【js逆向】图书馆挠痒大作战
       url: https://www.52pojie.cn/thread-2053111-1-1.html
-    - author: LiSAimer
-      release_time: 2025.08.13 16:30:00
-      title: 顶象滑块验证码纯算逆向分析
-      url: https://www.52pojie.cn/thread-2053068-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
