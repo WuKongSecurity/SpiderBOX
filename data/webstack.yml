@@ -1119,6 +1119,10 @@
           logo: brightdata.png
           url: https://get.brightdata.com/sbitbob
           description: 远程连接指纹浏览器，运行您的 Puppeteer、Selenium 和 Playwright 脚本，并利用内置的 Captcha Solver 自动解决验证码，维护抓取和浏览器基础设施的运营开销为零
+        - title: OkBrowser 指纹浏览器
+          logo: okbrow.png
+          url: https://okbrow.com/
+          description: OKBrowser 是一款专注于 多账号安全管理与隐私保护 的指纹浏览器。它通过高度可定制的浏览器指纹模拟技术，帮助用户在同一台设备上创建多个独立的浏览器环境，从而有效避免账号之间的关联和风控
         - title: Chromium_FingerPrint_Tutorial
           logo: github.png
           url: https://github.com/LoseNine/Chromium_FingerPrint_Tutorial
@@ -2115,7 +2119,14 @@
           logo: lajiao.png
           url: https://lajiaohttp.com/
           description: 优选全球 190+ 国家或地区节点资源，专注提供稳定、快速、高效的海外 IP 代理服务，支持 HTTP、HTTPS 和 SOCKS5 等协议，价格透明、套餐灵活，助力跨境业务轻松起步
-
+        - title: OKKProxy
+          logo: okkproxy.png
+          url: https://okkproxy.com/
+          description: OKKProxy 是一家值得信赖的高级代理和网页抓取解决方案提供商，旨在支持无缝衔接的大规模数据收集。他们的工具可帮助企业绕过 IP 封禁和验证码等常见障碍，从而高效可靠地访问公共网页数据。OKKProxy 服务于众多行业，包括市场调研、电子商务、搜索引擎优化 (SEO) 和数据科学，并提供可扩展的代理网络和专业的客户支持
+        - title: BestProxy
+          logo: bestproxy.png
+          url: https://bestproxy.com/
+          description: 最佳住宅代理、灵活轮换住宅代理和无限住宅代理，来自 195 个国家/地区的 8000 多万个住宅代理 IP
 #        - title: WTFproxy
 #          logo: wtfproxy.png
 #          url: https://www.wtfproxy.com/
@@ -2787,10 +2798,10 @@
           logo: m0_74794988.jpg
           url: https://blog.csdn.net/m0_74794988
           description: 香辣蟹好吃吗的 CSDN 主页
-        - title: 断点续行
-          logo: gh_b7ac0ec8d593.jpg
-          qrcode: images/qrcode/gh_b7ac0ec8d593.jpg
-          description: 公众号：断点续行
+#        - title: 断点续行 # 疑似图灵夏洛，咸鱼抄袭，狗改不了吃屎
+#          logo: gh_b7ac0ec8d593.jpg
+#          qrcode: images/qrcode/gh_b7ac0ec8d593.jpg
+#          description: 公众号：断点续行
         - title: 张烫麻辣亮。
           logo: qq_40558166.jpg
           url: https://blog.csdn.net/qq_40558166
@@ -2811,6 +2822,10 @@
           logo: gh_e207193238bc.jpg
           qrcode: images/qrcode/gh_e207193238bc.jpg
           description: 公众号：小小杨学编程
+        - title: wangYи
+          logo: weixin_59616601.jpg
+          url: https://blog.csdn.net/weixin_59616601
+          description: wangYи的 CSDN 主页
 #        - title: K哥爬虫
 #          logo: kgepachong.jpg
 #          qrcode: images/qrcode/kgepachong.jpg
