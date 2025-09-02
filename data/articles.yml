@@ -371,6 +371,10 @@
     term: 吾爱破解
   - links:
     - author: w2sfot
+      release_time: 2025.09.02 09:44:00
+      title: 专业JS加密工具：JShaman客户端下载、安装、使用
+      url: https://blog.csdn.net/w2sft/article/details/151102807
+    - author: w2sfot
       release_time: 2025.09.01 09:55:35
       title: JS加密工具大全：JShaman篇
       url: https://blog.csdn.net/w2sft/article/details/151061756
@@ -487,10 +491,6 @@
       release_time: 2025.08.14 02:34:18
       title: '[原创]古墓派反混淆与壳对抗：基于硬件断点的无痕HWBP-Trace算法demo开源'
       url: https://bbs.kanxue.com/thread-288024.htm
-    - author: 沈聽白
-      release_time: 2025.08.14 00:58:27
-      title: '[原创][原创]LibCrypt.so 魔改MD5'
-      url: https://bbs.kanxue.com/thread-288023.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
