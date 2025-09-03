@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.09.03 11:39:26
+      title: JS逆向-控制台反调试使用的常见三种方式及hook思路
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040083&idx=1&sn=70a37bada51d485f73c0a91b5306499b
     - author: 未闻Code
       release_time: 2025.09.02 21:00:00
       title: Python 魔法方法：用 Dunder 函数编写更简洁的代码
@@ -240,10 +244,6 @@
       release_time: 2025.08.25 08:20:00
       title: '《第五期: 进阶逆向工程实战》重磅更新｜硬核逆向·实战设备指纹'
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485678&idx=1&sn=2c4735f06b30c42926d0f12f3991d0c7
-    - author: 静夜随想
-      release_time: 2025.08.24 19:57:39
-      title: 工位囚徒健身三个月后力量毫不足虑
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811146&idx=1&sn=45d0bec01edeeb726646565a939c78d1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
