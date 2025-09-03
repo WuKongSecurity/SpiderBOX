@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.09.03 09:56:06
+      title: 骚神插件获取元素定位代码的七种方法
+      url: https://www.bilibili.com/video/BV1uWauz6EGF
     - author: 和沐阳学逆向
       release_time: 2025.09.01 22:12:33
       title: 62.《安卓逆向》frida反调试之编译与魔改frida16.7.19
@@ -117,10 +121,6 @@
       release_time: 2025.07.23 01:49:16
       title: 2025 Android Studio的安装 ndk 开发环境搭建
       url: https://www.bilibili.com/video/BV1xxgxzoEe8
-    - author: Alone逆向安全
-      release_time: 2025.07.23 00:20:21
-      title: idapro9.1 windows 安装教程
-      url: https://www.bilibili.com/video/BV1uigpzWEvA
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: LiSAimer
+      release_time: 2025.09.02 18:38:00
+      title: 百度旋转验证码算法逆向分析
+      url: https://www.52pojie.cn/thread-2057521-1-1.html
     - author: xwzios
       release_time: 2025.09.02 14:10:00
       title: ios 某软件的逆向分析学习
@@ -363,10 +367,6 @@
       release_time: 2025.08.14 00:00:00
       title: 去除宝塔面板的推广以及专业版功能
       url: https://www.52pojie.cn/thread-2053156-1-1.html
-    - author: hj170520
-      release_time: 2025.08.13 19:48:00
-      title: 【js逆向】图书馆挠痒大作战
-      url: https://www.52pojie.cn/thread-2053111-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
