@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 布鲁的Python之旅
+      release_time: 2025.09.03 15:26:47
+      title: 【更新计划->画饼】TaskPyro爬虫管理平台
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486218&idx=1&sn=25278bcab3c76602f9c6f7d279d2ed0b
     - author: 逆向有你
       release_time: 2025.09.03 11:39:26
       title: JS逆向-控制台反调试使用的常见三种方式及hook思路
@@ -240,10 +244,6 @@
       release_time: 2025.08.25 08:30:00
       title: 【密码学】NewHope 算法解读
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492588&idx=1&sn=d1d84873de140e263271a273cf1856d3
-    - author: 二进制磨剑
-      release_time: 2025.08.25 08:20:00
-      title: '《第五期: 进阶逆向工程实战》重磅更新｜硬核逆向·实战设备指纹'
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485678&idx=1&sn=2c4735f06b30c42926d0f12f3991d0c7
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
