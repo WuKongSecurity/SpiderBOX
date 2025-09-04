@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: wangYи
+      release_time: 2025.09.04 14:57:45
+      title: 某森点点(某森便利店)SHA1逆向+TLS指纹,简单
+      url: https://blog.csdn.net/weixin_59616601/article/details/151154076
     - author: 爱喝水的木子
       release_time: 2025.09.02 11:49:49
       title: 内网穿透实现公网访问域名走本地局域网以及实现代理请求
@@ -486,11 +490,6 @@
       release_time: 2025.08.14 21:24:38
       title: '[分享] Apatch内核模块分享(环境隐藏)'
       url: https://bbs.kanxue.com/thread-288041.htm
-    - author: yushusu
-      release_time: 2025.08.14 16:12:10
-      title: '[原创]CVE-2025-4609 Incorrect handle provided in unspecified circumstances
-        in Mojo漏洞分析'
-      url: https://bbs.kanxue.com/thread-288036.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
