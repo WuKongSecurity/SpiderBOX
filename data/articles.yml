@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Frida and So
+      release_time: 2025.09.04 13:43:45
+      title: Frida 启动后 libc Hook 特征
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247484746&idx=1&sn=f8364c5d239332c9becde50b819fd550
     - author: 布鲁的Python之旅
       release_time: 2025.09.03 15:26:47
       title: 【更新计划->画饼】TaskPyro爬虫管理平台
@@ -240,10 +244,6 @@
       release_time: 2025.08.25 08:43:14
       title: 大模型会不会淘汰风控？
       url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196979&idx=1&sn=ba0372f8737588d5286c516fde0a9de2
-    - author: Coder小Q
-      release_time: 2025.08.25 08:30:00
-      title: 【密码学】NewHope 算法解读
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492588&idx=1&sn=d1d84873de140e263271a273cf1856d3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
