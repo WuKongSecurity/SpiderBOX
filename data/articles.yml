@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.09.04 15:02:06
+      title: 【PC样本分析】某多多上steamcdk激活码的操作分析
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142835&idx=1&sn=502b8333d3db86da16fe1ddf5ecd60ff
     - author: Frida and So
       release_time: 2025.09.04 13:43:45
       title: Frida 启动后 libc Hook 特征
@@ -240,10 +244,6 @@
       release_time: 2025.08.25 10:35:07
       title: 深入ART Dex加载流程，玩转Android通用脱壳点
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498401&idx=1&sn=ffee5bbee0c60f71ccbd8d1f3b29aaf6
-    - author: 小伍哥聊风控
-      release_time: 2025.08.25 08:43:14
-      title: 大模型会不会淘汰风控？
-      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196979&idx=1&sn=ba0372f8737588d5286c516fde0a9de2
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
