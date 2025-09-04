@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 爬虫逆向小林哥
+      release_time: 2025.09.04 17:27:59
+      title: 【网页逆向】QQ-music-新vmp(一期sign)
+      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247486785&idx=1&sn=de92fe21fa7420cd4cf9289f49492596
     - author: 吾爱破解论坛
       release_time: 2025.09.04 15:02:06
       title: 【PC样本分析】某多多上steamcdk激活码的操作分析
@@ -240,10 +244,6 @@
       release_time: 2025.08.25 11:56:00
       title: 某Y注册滑块验证分析
       url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484379&idx=1&sn=f44bc780faf46751bc3bf04f23832f76
-    - author: 哆啦安全
-      release_time: 2025.08.25 10:35:07
-      title: 深入ART Dex加载流程，玩转Android通用脱壳点
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498401&idx=1&sn=ffee5bbee0c60f71ccbd8d1f3b29aaf6
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
