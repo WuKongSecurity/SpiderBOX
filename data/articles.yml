@@ -136,6 +136,10 @@
       release_time: 2025.09.04 13:43:45
       title: Frida 启动后 libc Hook 特征
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247484746&idx=1&sn=f8364c5d239332c9becde50b819fd550
+    - author: CYRUS STUDIO
+      release_time: 2025.09.04 08:31:24
+      title: LLVM 全面解析：NDK 为什么离不开它？如何亲手编译调试 clang
+      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486326&idx=1&sn=cc88ba02b3a9fdb441662ee05b93e603
     - author: 布鲁的Python之旅
       release_time: 2025.09.03 15:26:47
       title: 【更新计划->画饼】TaskPyro爬虫管理平台
@@ -144,10 +148,18 @@
       release_time: 2025.09.03 11:39:26
       title: JS逆向-控制台反调试使用的常见三种方式及hook思路
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040083&idx=1&sn=70a37bada51d485f73c0a91b5306499b
+    - author: CYRUS STUDIO
+      release_time: 2025.09.03 08:31:47
+      title: 静态分析神器 + 动态调试利器：IDA Pro × Frida 混合调试实战
+      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486254&idx=1&sn=89a8f129870807fd4f83b7013b9ead33
     - author: 未闻Code
       release_time: 2025.09.02 21:00:00
       title: Python 魔法方法：用 Dunder 函数编写更简洁的代码
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990937&idx=1&sn=71b242a25a50b494568dbd57ac7eaa28
+    - author: CYRUS STUDIO
+      release_time: 2025.09.02 08:31:28
+      title: 静态分析根本不够！IDA Pro 动态调试 Android 应用的完整实战
+      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486204&idx=1&sn=905e555baf3a1f2b7e763c0bd2e9e6cc
     - author: LLLibra146
       release_time: 2025.09.02 08:00:00
       title: AST技巧：快速复制AST节点名称
@@ -172,6 +184,10 @@
       release_time: 2025.09.01 09:44:21
       title: 安卓逆向 -- 解锁某剧场会员
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040078&idx=1&sn=7ec653aba234feff24f45e1f96de9eaf
+    - author: CYRUS STUDIO
+      release_time: 2025.09.01 08:30:52
+      title: 别再手工写 Hook 了！Python + Frida 一网打尽 SO 层动态注册 JNI 调用
+      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486203&idx=1&sn=8598eff9cd0eca340818e380ae38b066
     - author: 二进制磨剑
       release_time: 2025.09.01 08:30:00
       title: APP 逆向工程技巧——反调试检测线程
@@ -180,14 +196,26 @@
       release_time: 2025.09.01 08:30:00
       title: 【密码学】X-Wing：新一代混合密钥封装机制 算法解读
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492620&idx=1&sn=5458df37a1d677c1c92ffc08510a3bdb
+    - author: CYRUS STUDIO
+      release_time: 2025.08.31 08:30:47
+      title: 深入内核交互：用 strace 看清 Android 每一个系统调用
+      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486202&idx=1&sn=626d5c6c311a048e30872d46d778b1e2
     - author: 未闻Code
       release_time: 2025.08.30 21:03:40
       title: 9K Star 开源工作流爆火！超轻量直观的AI Agent 工作流构建器！
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990934&idx=1&sn=b1a6e94fea93930e248ec3a2ec09f91b
+    - author: CYRUS STUDIO
+      release_time: 2025.08.30 08:31:29
+      title: 一文搞懂 SO 脱壳全流程：识别加壳、Frida Dump、原理深入解析
+      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486201&idx=1&sn=f506a6867137e4954a859208b8dc8f7c
     - author: 哆啦安全
       release_time: 2025.08.29 17:19:02
       title: Dex2C把Java转Native(Android代码加固)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498407&idx=1&sn=18514229eef50fea6122d90fe73e680d
+    - author: CYRUS STUDIO
+      release_time: 2025.08.29 08:30:49
+      title: 用 Dex2C 把 Java 变 Native：Android 代码加固全攻略
+      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486200&idx=1&sn=33fe1606ca881a6477d3ca8a57cc719a
     - author: 小小杨学编程
       release_time: 2025.08.28 17:26:00
       title: 某Y支付acsToken类vmp纯算分析
@@ -200,6 +228,10 @@
       release_time: 2025.08.28 09:07:04
       title: 抄袭狗咬人事件 全网首发
       url: https://mp.weixin.qq.com/s?__biz=MzkzODYzNjg4OA==&mid=2247484344&idx=1&sn=3fd4176fccb2d33742b9f5059c91a148
+    - author: CYRUS STUDIO
+      release_time: 2025.08.28 08:31:42
+      title: FART 脱壳某大厂 App + CodeItem 修复 dex + 反编译还原源码
+      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486199&idx=1&sn=6c53e86ba66178148ebabfd9080e0abc
     - author: 静夜随想
       release_time: 2025.08.27 20:35:00
       title: 用Playwright和Express写了个浏览器渲染服务
@@ -212,41 +244,13 @@
       release_time: 2025.08.27 09:00:00
       title: JS逆向系列22-彻底解决前端无限debugger
       url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486218&idx=1&sn=b2c170f6b2ed50722f1d120e54bc9a4e
-    - author: 榫卯江湖
-      release_time: 2025.08.26 22:30:00
-      title: PacketScope--内核处理网络包的函数调用跟踪利器
-      url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485171&idx=1&sn=aef2ee2db96cd057956efd9b5eed7e14
-    - author: 未闻Code
-      release_time: 2025.08.26 21:17:33
-      title: 一日一技：Python自带的参数占位符
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990931&idx=1&sn=6aa3ba3cc6f7d3126199db6d8612d8fb
-    - author: 逆向有你
-      release_time: 2025.08.26 11:25:18
-      title: 安卓逆向 -- 引流弹窗去除
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040032&idx=1&sn=b7e979380cb83276199e514089c9bd1a
-    - author: 猿人学Python
-      release_time: 2025.08.26 10:07:58
-      title: 做猿人学6年的感悟与思考
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448549961&idx=1&sn=7fbded0a5a7d8ce4a39d8d765d2745f8
-    - author: 未闻Code
-      release_time: 2025.08.25 21:00:33
-      title: 从“码农”到“代码进化师”
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990910&idx=1&sn=159fa2bc8e05d51ad07374c7a79344e3
-    - author: 静夜随想
-      release_time: 2025.08.25 19:18:51
-      title: 用Playwright和Flask写了个浏览器渲染服务
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811148&idx=1&sn=06d0871059e76d60537677678e367ee7
-    - author: Frida and So
-      release_time: 2025.08.25 14:39:23
-      title: 某东jdgs补环境
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247484726&idx=1&sn=27cbfa422cbb2c277129876a3852256e
-    - author: 小小杨学编程
-      release_time: 2025.08.25 11:56:00
-      title: 某Y注册滑块验证分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484379&idx=1&sn=f44bc780faf46751bc3bf04f23832f76
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: anning666
+      release_time: 2025.09.04 17:21:00
+      title: 某鱼sign参数逆向[适合小白新手]
+      url: https://www.52pojie.cn/thread-2057979-1-1.html
     - author: wuhuaguo888
       release_time: 2025.09.03 12:20:00
       title: '[修正版]某修仙肉鸽游戏协议逆向分析折腾记录'
@@ -363,10 +367,6 @@
       release_time: 2025.08.17 12:42:00
       title: 【js逆向】码上爬-题十二JSVMP入门逆向补环境
       url: https://www.52pojie.cn/thread-2053916-1-1.html
-    - author: MirageTurtle
-      release_time: 2025.08.15 10:52:00
-      title: 逻辑漏洞白嫖 LLM 接口站
-      url: https://www.52pojie.cn/thread-2053495-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
