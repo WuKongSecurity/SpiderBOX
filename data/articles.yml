@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 逆向狗都不学
+      release_time: 2025.09.05 17:36:05
+      title: JS逆向之补环境
+      url: https://www.bilibili.com/video/BV1QeabzeEaY
     - author: B站用户骚神
       release_time: 2025.09.03 09:56:06
       title: 骚神插件获取元素定位代码的七种方法
@@ -117,13 +121,25 @@
       release_time: 2025.07.24 23:21:57
       title: 设置代理-DrissionPage官方教程-p29
       url: https://www.bilibili.com/video/BV1E1b1zHECc
-    - author: Alone逆向安全
-      release_time: 2025.07.23 01:49:16
-      title: 2025 Android Studio的安装 ndk 开发环境搭建
-      url: https://www.bilibili.com/video/BV1xxgxzoEe8
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 丫总逆向
+      release_time: 2025.09.05 17:30:31
+      title: 企业级风控对抗框架CDPYZ
+      url: https://mp.weixin.qq.com/s?__biz=MzU1NjQ2Njg4OA==&mid=2247483937&idx=1&sn=5b26ebb8f793fd2bfcf5474d2f773588
+    - author: 未闻Code
+      release_time: 2025.09.05 11:39:57
+      title: 爆炸新闻：Anthropic指着脸骂中国了！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990944&idx=1&sn=b6623dbe2d9b4bd80314c3828e3a3a52
+    - author: CYRUS STUDIO
+      release_time: 2025.09.05 08:30:00
+      title: LLVM 不止能编译！自定义 Pass + 定制 clang 实现函数名加密
+      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486327&idx=1&sn=9f9ee041d0eba3592c8a69106b34b039
+    - author: 吾爱破解论坛
+      release_time: 2025.09.05 08:24:00
+      title: 【MacOS逆向] DaisyDisk v4.31 破解记录
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142859&idx=1&sn=b9d3e6fcb1cdd54a8f06e31f5ebbbe4d
     - author: 爬虫逆向小林哥
       release_time: 2025.09.04 17:27:59
       title: 【网页逆向】QQ-music-新vmp(一期sign)
@@ -228,22 +244,6 @@
       release_time: 2025.08.28 09:07:04
       title: 抄袭狗咬人事件 全网首发
       url: https://mp.weixin.qq.com/s?__biz=MzkzODYzNjg4OA==&mid=2247484344&idx=1&sn=3fd4176fccb2d33742b9f5059c91a148
-    - author: CYRUS STUDIO
-      release_time: 2025.08.28 08:31:42
-      title: FART 脱壳某大厂 App + CodeItem 修复 dex + 反编译还原源码
-      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486199&idx=1&sn=6c53e86ba66178148ebabfd9080e0abc
-    - author: 静夜随想
-      release_time: 2025.08.27 20:35:00
-      title: 用Playwright和Express写了个浏览器渲染服务
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811152&idx=1&sn=a26519c2d706acf96ccdd91c91bcdb69
-    - author: 逆向狗都不学
-      release_time: 2025.08.27 11:26:23
-      title: 阿里231反混淆
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247483976&idx=1&sn=48a9b2893d462be6e265ad0e3a6d497b
-    - author: Spade sec
-      release_time: 2025.08.27 09:00:00
-      title: JS逆向系列22-彻底解决前端无限debugger
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486218&idx=1&sn=b2c170f6b2ed50722f1d120e54bc9a4e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
