@@ -247,6 +247,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: ImpJ
+      release_time: 2025.09.05 11:26:00
+      title: 码上爬 题十九：法外狂徒 逆向思路
+      url: https://www.52pojie.cn/thread-2058139-1-1.html
+    - author: mysticz
+      release_time: 2025.09.04 20:18:00
+      title: 某习通混淆代码及滑动验证码全协议分析
+      url: https://www.52pojie.cn/thread-2058010-1-1.html
     - author: anning666
       release_time: 2025.09.04 17:21:00
       title: 某鱼sign参数逆向[适合小白新手]
@@ -359,14 +367,6 @@
       release_time: 2025.08.18 00:26:00
       title: 果冻插件的逆向之旅
       url: https://www.52pojie.cn/thread-2054017-1-1.html
-    - author: wdpangguo
-      release_time: 2025.08.17 15:01:00
-      title: 编译和魔改Frida
-      url: https://www.52pojie.cn/thread-2053944-1-1.html
-    - author: R44
-      release_time: 2025.08.17 12:42:00
-      title: 【js逆向】码上爬-题十二JSVMP入门逆向补环境
-      url: https://www.52pojie.cn/thread-2053916-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
