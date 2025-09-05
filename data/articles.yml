@@ -247,6 +247,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: mysticz
+      release_time: 2025.09.05 14:37:00
+      title: 手把手带你AST还原某验三代(一)
+      url: https://www.52pojie.cn/thread-2058187-1-1.html
+    - author: mysticz
+      release_time: 2025.09.05 14:21:00
+      title: 某小程序修复及发送参数，header头和返回参数加解密逆向
+      url: https://www.52pojie.cn/thread-2058182-1-1.html
     - author: ImpJ
       release_time: 2025.09.05 11:26:00
       title: 码上爬 题十九：法外狂徒 逆向思路
@@ -359,14 +367,6 @@
       release_time: 2025.08.18 14:06:00
       title: 360滑块验证码逆向
       url: https://www.52pojie.cn/thread-2054148-1-1.html
-    - author: 无名
-      release_time: 2025.08.18 12:55:00
-      title: 【js逆向】码上爬 题七：干山鸟飞绝
-      url: https://www.52pojie.cn/thread-2054126-1-1.html
-    - author: HackXK
-      release_time: 2025.08.18 00:26:00
-      title: 果冻插件的逆向之旅
-      url: https://www.52pojie.cn/thread-2054017-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
