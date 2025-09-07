@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 正己
+      release_time: 2025.09.07 15:03:00
+      title: 《安卓逆向这档事》第二十四课、Unidbg之补完环境我就睡(上)
+      url: https://www.52pojie.cn/thread-2058523-1-1.html
     - author: mysticz
       release_time: 2025.09.05 14:37:00
       title: 手把手带你AST还原某验三代(一)
@@ -363,10 +367,6 @@
       release_time: 2025.08.18 20:13:00
       title: 体重日记Hook全版本通杀
       url: https://www.52pojie.cn/thread-2054224-1-1.html
-    - author: '13955925361'
-      release_time: 2025.08.18 14:06:00
-      title: 360滑块验证码逆向
-      url: https://www.52pojie.cn/thread-2054148-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
