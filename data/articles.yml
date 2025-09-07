@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.09.07 21:50:38
+      title: 一款完美适配DrissionPage的绿色便携版谷歌浏览器
+      url: https://www.bilibili.com/video/BV1j3Y7zyEvc
     - author: r0ysue
       release_time: 2025.09.07 15:25:07
       title: Pixel6实战刷安卓16抓包环境且随意升降级刷机
@@ -117,10 +121,6 @@
       release_time: 2025.07.27 14:28:26
       title: dptool-专门为DrissionPage设计的工具网站
       url: https://www.bilibili.com/video/BV1qz8iz4EdG
-    - author: 零点520666
-      release_time: 2025.07.26 20:00:00
-      title: 09.实现BinaryExpression二项表达式编译
-      url: https://www.bilibili.com/video/BV1VAbDzsEfZ
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
