@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小小杨学编程
+      release_time: 2025.09.07 13:10:00
+      title: KS创作者平台56位__NS_sig3;魔改sha256纯和补
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484405&idx=1&sn=1cf7a90e99a4250d27d7d7f75297ed4f
+    - author: 哆啦安全
+      release_time: 2025.09.07 11:47:02
+      title: 魔改frida绕过App检测
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498420&idx=1&sn=eacd9e870e9d54422137f2815f1201cd
+    - author: CYRUS STUDIO
+      release_time: 2025.09.07 08:30:00
+      title: OLLVM 移植 LLVM18 踩坑：一步步调试修复控制流平坦化
+      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486329&idx=1&sn=a848d5aaf586f328a8933d545911fe19
+    - author: 丫总逆向
+      release_time: 2025.09.06 22:54:31
+      title: 关于CDPYZ的说明
+      url: https://mp.weixin.qq.com/s?__biz=MzU1NjQ2Njg4OA==&mid=2247483959&idx=1&sn=3c373314ba1848862dcdff9ab548850b
     - author: 丫总逆向
       release_time: 2025.09.05 17:30:31
       title: 企业级风控对抗框架CDPYZ
@@ -228,22 +244,6 @@
       release_time: 2025.08.29 17:19:02
       title: Dex2C把Java转Native(Android代码加固)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498407&idx=1&sn=18514229eef50fea6122d90fe73e680d
-    - author: CYRUS STUDIO
-      release_time: 2025.08.29 08:30:49
-      title: 用 Dex2C 把 Java 变 Native：Android 代码加固全攻略
-      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486200&idx=1&sn=33fe1606ca881a6477d3ca8a57cc719a
-    - author: 小小杨学编程
-      release_time: 2025.08.28 17:26:00
-      title: 某Y支付acsToken类vmp纯算分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484394&idx=1&sn=c0cd5295e6b06059c304c722636d2fe1
-    - author: 逆向有你
-      release_time: 2025.08.28 09:20:47
-      title: JS逆向 -- 某愿字体反混淆
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040064&idx=1&sn=2dae411d9338e8cdbc7537590ed64d90
-    - author: 独步爬虫逆向
-      release_time: 2025.08.28 09:07:04
-      title: 抄袭狗咬人事件 全网首发
-      url: https://mp.weixin.qq.com/s?__biz=MzkzODYzNjg4OA==&mid=2247484344&idx=1&sn=3fd4176fccb2d33742b9f5059c91a148
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
