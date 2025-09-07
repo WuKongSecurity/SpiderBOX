@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.09.07 17:06:30
+      title: 年更预警，三连准备！
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142876&idx=1&sn=fa4dbd9167fb182fe13ab53d0ae65733
     - author: 小小杨学编程
       release_time: 2025.09.07 13:10:00
       title: KS创作者平台56位__NS_sig3;魔改sha256纯和补
@@ -140,6 +144,10 @@
       release_time: 2025.09.06 22:54:31
       title: 关于CDPYZ的说明
       url: https://mp.weixin.qq.com/s?__biz=MzU1NjQ2Njg4OA==&mid=2247483959&idx=1&sn=3c373314ba1848862dcdff9ab548850b
+    - author: 吾爱破解论坛
+      release_time: 2025.09.06 08:35:50
+      title: “一款优秀的网页表格控件的逆向分析”-探讨完全AI编程实现逆向分析的可能性和价值
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142870&idx=1&sn=4d4449fecca8d84356537ca3c0bbeef9
     - author: 丫总逆向
       release_time: 2025.09.05 17:30:31
       title: 企业级风控对抗框架CDPYZ
@@ -236,14 +244,6 @@
       release_time: 2025.08.30 21:03:40
       title: 9K Star 开源工作流爆火！超轻量直观的AI Agent 工作流构建器！
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990934&idx=1&sn=b1a6e94fea93930e248ec3a2ec09f91b
-    - author: CYRUS STUDIO
-      release_time: 2025.08.30 08:31:29
-      title: 一文搞懂 SO 脱壳全流程：识别加壳、Frida Dump、原理深入解析
-      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486201&idx=1&sn=f506a6867137e4954a859208b8dc8f7c
-    - author: 哆啦安全
-      release_time: 2025.08.29 17:19:02
-      title: Dex2C把Java转Native(Android代码加固)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498407&idx=1&sn=18514229eef50fea6122d90fe73e680d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -371,6 +371,10 @@
     term: 吾爱破解
   - links:
     - author: 夜无霄
+      release_time: 2025.09.07 17:03:41
+      title: 安卓逆向（二）相关问题及解决方案
+      url: https://blog.csdn.net/qq_44906798/article/details/151291243
+    - author: 夜无霄
       release_time: 2025.09.07 15:08:47
       title: 安卓逆向（一）Ubuntu环境配置
       url: https://blog.csdn.net/qq_44906798/article/details/151288198
@@ -486,10 +490,6 @@
       release_time: 2025.08.15 19:36:54
       title: '[原创]CRC校验原理及绕过'
       url: https://bbs.kanxue.com/thread-288059.htm
-    - author: method
-      release_time: 2025.08.15 17:51:45
-      title: '[讨论]关于 ida9.1的arm64反汇编循环右移的吐槽'
-      url: https://bbs.kanxue.com/thread-288056.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
