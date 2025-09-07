@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2025.09.07 15:25:07
+      title: Pixel6实战刷安卓16抓包环境且随意升降级刷机
+      url: https://www.bilibili.com/video/BV1b6YGzJEzR
     - author: B站用户骚神
       release_time: 2025.09.06 10:02:05
       title: AI+DrissionPage 轻松搞定各种网页验证码，不花一点token
@@ -117,10 +121,6 @@
       release_time: 2025.07.26 20:00:00
       title: 09.实现BinaryExpression二项表达式编译
       url: https://www.bilibili.com/video/BV1VAbDzsEfZ
-    - author: 零点520666
-      release_time: 2025.07.25 20:00:00
-      title: 21.喵喵盾JS代码混淆加固-不透明谓词虚假分支
-      url: https://www.bilibili.com/video/BV133bXzoEst
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
