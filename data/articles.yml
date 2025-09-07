@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.09.07 21:00:00
+      title: 一日一技：Python自带的优先级调度器
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990952&idx=1&sn=c19a58ee5fc858722441a59fc1304f8e
     - author: 吾爱破解论坛
       release_time: 2025.09.07 17:06:30
       title: 年更预警，三连准备！
@@ -240,10 +244,6 @@
       release_time: 2025.08.31 08:30:47
       title: 深入内核交互：用 strace 看清 Android 每一个系统调用
       url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486202&idx=1&sn=626d5c6c311a048e30872d46d778b1e2
-    - author: 未闻Code
-      release_time: 2025.08.30 21:03:40
-      title: 9K Star 开源工作流爆火！超轻量直观的AI Agent 工作流构建器！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990934&idx=1&sn=b1a6e94fea93930e248ec3a2ec09f91b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
