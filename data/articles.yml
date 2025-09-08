@@ -2,6 +2,10 @@
   list:
   - links:
     - author: B站用户骚神
+      release_time: 2025.09.08 14:08:48
+      title: AI+DrissionPage破解 滑动拼图和空间语义验证码
+      url: https://www.bilibili.com/video/BV136a9zqEcU
+    - author: B站用户骚神
       release_time: 2025.09.07 21:50:38
       title: 一款完美适配DrissionPage的绿色便携版谷歌浏览器
       url: https://www.bilibili.com/video/BV1j3Y7zyEvc
@@ -117,10 +121,6 @@
       release_time: 2025.07.27 17:52:55
       title: windows同时安装多个版本的chrome浏览器
       url: https://www.bilibili.com/video/BV1Lx8vz7EMg
-    - author: B站用户骚神
-      release_time: 2025.07.27 14:28:26
-      title: dptool-专门为DrissionPage设计的工具网站
-      url: https://www.bilibili.com/video/BV1qz8iz4EdG
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
