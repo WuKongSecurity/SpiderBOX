@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: SuEmiya
+      release_time: 2025.09.08 00:13:00
+      title: '[原创]boss直聘__zp_stoken__的控制平坦流纯算逆向思路'
+      url: https://www.52pojie.cn/thread-2058603-1-1.html
     - author: 正己
       release_time: 2025.09.07 15:03:00
       title: 《安卓逆向这档事》第二十四课、Unidbg之补完环境我就睡(上)
@@ -363,10 +367,6 @@
       release_time: 2025.08.19 18:31:00
       title: 番茄轻断食app版本通杀
       url: https://www.52pojie.cn/thread-2054459-1-1.html
-    - author: hongmengshikong
-      release_time: 2025.08.18 20:13:00
-      title: 体重日记Hook全版本通杀
-      url: https://www.52pojie.cn/thread-2054224-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
