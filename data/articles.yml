@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.09.08 20:53:53
+      title: AST反混淆插件| 逻辑表达式的另类还原
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566089&idx=1&sn=70fba6da0012a64b1489d55f6c300ffd
+    - author: 土木佬的爬虫逆向日记
+      release_time: 2025.09.08 20:50:17
+      title: Python爬虫进阶：手把手带你AST还原某验三代(二)
+      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862059&idx=1&sn=08f5d222e755c87ab68378ea7e8adb96
     - author: 影17
       release_time: 2025.09.08 16:53:56
       title: 离线工具箱开发
@@ -236,14 +244,6 @@
       release_time: 2025.09.02 08:31:28
       title: 静态分析根本不够！IDA Pro 动态调试 Android 应用的完整实战
       url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486204&idx=1&sn=905e555baf3a1f2b7e763c0bd2e9e6cc
-    - author: LLLibra146
-      release_time: 2025.09.02 08:00:00
-      title: AST技巧：快速复制AST节点名称
-      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486891&idx=1&sn=a7b068d65f5220aa1427d95383322ed0
-    - author: 哆啦安全
-      release_time: 2025.09.01 22:31:00
-      title: 深入内核交互使用strace分析Android系统调用
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498414&idx=1&sn=317d1dfacb7481e7482572544c3b5ffb
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
