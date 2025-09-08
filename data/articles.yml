@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.09.08 10:31:16
+      title: 安卓逆向 -- x红书水印去除Frida脚本和Xposed模块
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040097&idx=1&sn=17c97b91a543e3f67cc5eabd6c9c712e
     - author: CYRUS STUDIO
       release_time: 2025.09.08 08:30:00
       title: 别让 so 裸奔！移植 OLLVM 到 NDK 并集成到 Android Studio
@@ -136,10 +140,6 @@
       release_time: 2025.09.08 08:30:00
       title: '【密码学】DAWN: 基于双重编码实现更小更快的NTRU加密 算法解读'
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492638&idx=1&sn=6bceb76d461ae97feb10daa4168ac768
-    - author: 小伍哥聊风控
-      release_time: 2025.09.08 08:27:00
-      title: 建议所有博士都去学一遍，赢麻了！！！
-      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196987&idx=1&sn=c5c0b1dcb91325bfba450bb9dfc48d65
     - author: 未闻Code
       release_time: 2025.09.07 21:00:00
       title: 一日一技：Python自带的优先级调度器
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 爱喝水的木子
+      release_time: 2025.09.08 10:55:58
+      title: scrapy核心组件工作流程
+      url: https://blog.csdn.net/Linux_rm_rf_/article/details/151315906
     - author: 夜无霄
       release_time: 2025.09.07 17:03:41
       title: 安卓逆向（二）相关问题及解决方案
@@ -486,10 +490,6 @@
       release_time: 2025.08.17 00:37:59
       title: '[原创]某type_1017的ast解混淆思路'
       url: https://bbs.kanxue.com/thread-288079.htm
-    - author: Yangser
-      release_time: 2025.08.15 19:36:54
-      title: '[原创]CRC校验原理及绕过'
-      url: https://bbs.kanxue.com/thread-288059.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
