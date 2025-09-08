@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: CYRUS STUDIO
+      release_time: 2025.09.08 08:30:00
+      title: 别让 so 裸奔！移植 OLLVM 到 NDK 并集成到 Android Studio
+      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486330&idx=1&sn=7402d86821bdbb269a5a88dcf6bfa641
+    - author: 二进制磨剑
+      release_time: 2025.09.08 08:30:00
+      title: Android 内核 Hook 技术实践 —— 重建内核符号表
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485693&idx=1&sn=f595f3a5ed4592273aae83de5f2aa01e
+    - author: Coder小Q
+      release_time: 2025.09.08 08:30:00
+      title: '【密码学】DAWN: 基于双重编码实现更小更快的NTRU加密 算法解读'
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492638&idx=1&sn=6bceb76d461ae97feb10daa4168ac768
+    - author: 小伍哥聊风控
+      release_time: 2025.09.08 08:27:00
+      title: 建议所有博士都去学一遍，赢麻了！！！
+      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196987&idx=1&sn=c5c0b1dcb91325bfba450bb9dfc48d65
     - author: 未闻Code
       release_time: 2025.09.07 21:00:00
       title: 一日一技：Python自带的优先级调度器
@@ -152,6 +168,10 @@
       release_time: 2025.09.06 08:35:50
       title: “一款优秀的网页表格控件的逆向分析”-探讨完全AI编程实现逆向分析的可能性和价值
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142870&idx=1&sn=4d4449fecca8d84356537ca3c0bbeef9
+    - author: CYRUS STUDIO
+      release_time: 2025.09.06 08:31:31
+      title: OLLVM 移植 LLVM 18 实战，轻松实现 C&C++ 代码混淆
+      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486328&idx=1&sn=4a6bccbd5c69b4c94109d35456a41ec9
     - author: 丫总逆向
       release_time: 2025.09.05 17:30:31
       title: 企业级风控对抗框架CDPYZ
@@ -224,26 +244,6 @@
       release_time: 2025.09.01 13:28:34
       title: 全自动文本解析模块
       url: https://mp.weixin.qq.com/s?__biz=Mzg4NTg0MjMzNQ==&mid=2247484296&idx=1&sn=1854d8ff673608a6a1aac7247d4e4b7f
-    - author: 逆向有你
-      release_time: 2025.09.01 09:44:21
-      title: 安卓逆向 -- 解锁某剧场会员
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040078&idx=1&sn=7ec653aba234feff24f45e1f96de9eaf
-    - author: CYRUS STUDIO
-      release_time: 2025.09.01 08:30:52
-      title: 别再手工写 Hook 了！Python + Frida 一网打尽 SO 层动态注册 JNI 调用
-      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486203&idx=1&sn=8598eff9cd0eca340818e380ae38b066
-    - author: 二进制磨剑
-      release_time: 2025.09.01 08:30:00
-      title: APP 逆向工程技巧——反调试检测线程
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485685&idx=1&sn=5aa416d1cfd9d98ba225eed4cb7d32c8
-    - author: Coder小Q
-      release_time: 2025.09.01 08:30:00
-      title: 【密码学】X-Wing：新一代混合密钥封装机制 算法解读
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492620&idx=1&sn=5458df37a1d677c1c92ffc08510a3bdb
-    - author: CYRUS STUDIO
-      release_time: 2025.08.31 08:30:47
-      title: 深入内核交互：用 strace 看清 Android 每一个系统调用
-      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486202&idx=1&sn=626d5c6c311a048e30872d46d778b1e2
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
