@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.09.09 15:00:01
+      title: 【Web逆向】极验4代 九宫格协议分析
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142931&idx=1&sn=95bf748fa13009fee779b9ca569cd962
     - author: 尖端对抗
       release_time: 2025.09.09 11:49:42
       title: magisk mount bind 学习
@@ -240,10 +244,6 @@
       release_time: 2025.09.04 08:31:24
       title: LLVM 全面解析：NDK 为什么离不开它？如何亲手编译调试 clang
       url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486326&idx=1&sn=cc88ba02b3a9fdb441662ee05b93e603
-    - author: 布鲁的Python之旅
-      release_time: 2025.09.03 15:26:47
-      title: 【更新计划->画饼】TaskPyro爬虫管理平台
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486218&idx=1&sn=25278bcab3c76602f9c6f7d279d2ed0b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
