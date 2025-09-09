@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: ipk2046
+      release_time: 2025.09.09 15:33:00
+      title: Mac上AS模拟器安装面具
+      url: https://www.52pojie.cn/thread-2059021-1-1.html
     - author: SuEmiya
       release_time: 2025.09.08 00:13:00
       title: '[原创]boss直聘__zp_stoken__的控制平坦流纯算逆向思路'
@@ -363,13 +367,13 @@
       release_time: 2025.08.21 18:34:00
       title: 码上爬-题十四：神枪手 请求参数处理
       url: https://www.52pojie.cn/thread-2054956-1-1.html
-    - author: '13955925361'
-      release_time: 2025.08.20 19:02:00
-      title: 中国国际航空航班信息获取与保存
-      url: https://www.52pojie.cn/thread-2054716-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 始識
+      release_time: 2025.09.09 16:50:04
+      title: 离线工具箱开发入门
+      url: https://blog.csdn.net/Zuko_chen/article/details/151365841
     - author: w2sfot
       release_time: 2025.09.09 11:49:12
       title: The Best 5 Binary Tree Coding Questions to Master JavaScript
@@ -486,10 +490,6 @@
       release_time: 2025.08.19 18:37:15
       title: '[原创]meizu note6编译lineageOS18和集成KernelSU'
       url: https://bbs.kanxue.com/thread-288141.htm
-    - author: '1660635394122871'
-      release_time: 2025.08.19 00:20:00
-      title: 安卓Intent自动化灰盒模糊测试优化技术
-      url: https://xz.aliyun.com/news/18658
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
