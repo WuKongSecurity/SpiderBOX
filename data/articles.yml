@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 猿人学Python
+      release_time: 2025.09.09 15:24:36
+      title: 从民办到大厂的JS逆向进阶之路-爬虫er100人
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448549973&idx=1&sn=0d759ce757c28573215c0b2ce067a089
     - author: 吾爱破解论坛
       release_time: 2025.09.09 15:00:01
       title: 【Web逆向】极验4代 九宫格协议分析
@@ -240,10 +244,6 @@
       release_time: 2025.09.04 13:43:45
       title: Frida 启动后 libc Hook 特征
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247484746&idx=1&sn=f8364c5d239332c9becde50b819fd550
-    - author: CYRUS STUDIO
-      release_time: 2025.09.04 08:31:24
-      title: LLVM 全面解析：NDK 为什么离不开它？如何亲手编译调试 clang
-      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486326&idx=1&sn=cc88ba02b3a9fdb441662ee05b93e603
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
