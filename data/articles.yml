@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.09.09 09:21:00
+      title: PC逆向 -- 微信逆向之多开+防撤回分析，小白也能看懂
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040116&idx=1&sn=026e09a0109f739cfd1c7ea92b2484af
+    - author: CYRUS STUDIO
+      release_time: 2025.09.09 08:30:00
+      title: C&C++ 代码安全再升级：用 OLLVM 给 so 加上字符串加密保护
+      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486331&idx=1&sn=ee84ecfda925d90c2c87c37aef7fbc59
     - author: 菜鸟学Python编程
       release_time: 2025.09.08 20:53:53
       title: AST反混淆插件| 逻辑表达式的另类还原
@@ -236,14 +244,6 @@
       release_time: 2025.09.03 08:31:47
       title: 静态分析神器 + 动态调试利器：IDA Pro × Frida 混合调试实战
       url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486254&idx=1&sn=89a8f129870807fd4f83b7013b9ead33
-    - author: 未闻Code
-      release_time: 2025.09.02 21:00:00
-      title: Python 魔法方法：用 Dunder 函数编写更简洁的代码
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990937&idx=1&sn=71b242a25a50b494568dbd57ac7eaa28
-    - author: CYRUS STUDIO
-      release_time: 2025.09.02 08:31:28
-      title: 静态分析根本不够！IDA Pro 动态调试 Android 应用的完整实战
-      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486204&idx=1&sn=905e555baf3a1f2b7e763c0bd2e9e6cc
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
