@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 沐阳逆向学习
+      release_time: 2025.09.09 21:07:42
+      title: 《LSPosed模块学习》1.环境搭建及概念讲解
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484385&idx=1&sn=59bbdcb3aa409ee4f78a994181a02076
+    - author: 未闻Code
+      release_time: 2025.09.09 21:00:00
+      title: 当提示词成为新代码，谁在定义AI时代的“新语言”？（文末赠书）
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990958&idx=1&sn=1d0825203d23ca656e332cb840289636
     - author: 猿人学Python
       release_time: 2025.09.09 15:24:36
       title: 从民办到大厂的JS逆向进阶之路-爬虫er100人
@@ -236,14 +244,6 @@
       release_time: 2025.09.04 17:27:59
       title: 【网页逆向】QQ-music-新vmp(一期sign)
       url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247486785&idx=1&sn=de92fe21fa7420cd4cf9289f49492596
-    - author: 吾爱破解论坛
-      release_time: 2025.09.04 15:02:06
-      title: 【PC样本分析】某多多上steamcdk激活码的操作分析
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142835&idx=1&sn=502b8333d3db86da16fe1ddf5ecd60ff
-    - author: Frida and So
-      release_time: 2025.09.04 13:43:45
-      title: Frida 启动后 libc Hook 特征
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247484746&idx=1&sn=f8364c5d239332c9becde50b819fd550
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
