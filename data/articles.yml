@@ -390,6 +390,10 @@
       release_time: 2025.09.09 11:49:12
       title: The Best 5 Binary Tree Coding Questions to Master JavaScript
       url: https://blog.csdn.net/w2sft/article/details/151357537
+    - author: 悦来客栈的老板
+      release_time: 2025.09.08 20:54:09
+      title: AST反混淆插件| 逻辑表达式的另类还原
+      url: https://blog.csdn.net/qq523176585/article/details/151470044
     - author: w2sfot
       release_time: 2025.09.08 16:24:38
       title: Passing Arguments as an Object in JavaScript
@@ -486,10 +490,6 @@
       release_time: 2025.08.21 15:10:30
       title: Python爬虫面试求生指南：从‘Hello World’到‘法官，我冤枉啊！’的超长灵魂拷问
       url: https://blog.csdn.net/Linux_rm_rf_/article/details/150583707
-    - author: 狗都不学爬虫_
-      release_time: 2025.08.21 11:33:01
-      title: JS逆向 - 猫眼票房（signKey、X-FOR-WITH）
-      url: https://blog.csdn.net/qq_53444631/article/details/150576931
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
