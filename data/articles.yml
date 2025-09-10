@@ -136,14 +136,6 @@
       release_time: 2025.09.10 08:30:00
       title: 如何防止 so 文件被轻松逆向？精准控制符号导出 + JNI 动态注册
       url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486354&idx=1&sn=335a6c6441a8870d905224c654ac4691
-    - author: Coder小Q
-      release_time: 2025.09.10 08:30:00
-      title: 【教师节】节日快乐
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492643&idx=1&sn=5dcaa2ad42e047e7d3cab6ea24bb7c02
-    - author: 吾爱破解论坛
-      release_time: 2025.09.10 08:00:00
-      title: （图作者 | @Aoemax）
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142914&idx=1&sn=561f0ce42b20ed08a584a4d0c59fbb85
     - author: 沐阳逆向学习
       release_time: 2025.09.09 21:07:42
       title: 《LSPosed模块学习》1.环境搭建及概念讲解
@@ -244,6 +236,14 @@
       release_time: 2025.09.05 17:30:31
       title: 企业级风控对抗框架CDPYZ
       url: https://mp.weixin.qq.com/s?__biz=MzU1NjQ2Njg4OA==&mid=2247483937&idx=1&sn=5b26ebb8f793fd2bfcf5474d2f773588
+    - author: 未闻Code
+      release_time: 2025.09.05 11:39:57
+      title: 爆炸新闻：Anthropic指着脸骂中国了！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990944&idx=1&sn=b6623dbe2d9b4bd80314c3828e3a3a52
+    - author: CYRUS STUDIO
+      release_time: 2025.09.05 08:30:00
+      title: LLVM 不止能编译！自定义 Pass + 定制 clang 实现函数名加密
+      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486327&idx=1&sn=9f9ee041d0eba3592c8a69106b34b039
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -371,6 +371,10 @@
     term: 吾爱破解
   - links:
     - author: 狗都不学爬虫_
+      release_time: 2025.09.10 17:06:39
+      title: JS逆向 - 最新雪qiu的md5__1038
+      url: https://blog.csdn.net/qq_53444631/article/details/151407708
+    - author: 狗都不学爬虫_
       release_time: 2025.09.10 10:41:06
       title: JS逆向 - 某度指数（请求头**Cipher-Text**）纯算 + 补环境
       url: https://blog.csdn.net/qq_53444631/article/details/151395467
@@ -486,10 +490,6 @@
       release_time: 2025.08.20 21:30:00
       title: chrome插件开发（一）
       url: https://blog.csdn.net/Loronto_/article/details/150558313
-    - author: 东隐@nicegbp
-      release_time: 2025.08.19 20:40:23
-      title: 记录akamai3.0小更新后的一次对比
-      url: https://blog.csdn.net/weixin_73648943/article/details/150533776
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
