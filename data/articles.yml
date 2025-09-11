@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.09.11 10:14:00
+      title: PC逆向 -- 对无限宝发现黑名单内进程自我结束的破解
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040155&idx=1&sn=5105c5002779547839d3808f49add1ce
+    - author: CYRUS STUDIO
+      release_time: 2025.09.11 08:30:00
+      title: Android 反调试攻防实战：多重检测手段解析与内核级绕过方案
+      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486355&idx=1&sn=20f205c47225916f874f4b676981a8f7
     - author: 编角料
       release_time: 2025.09.10 12:16:05
       title: 移动安全之某海外app环境检测排查
@@ -236,14 +244,6 @@
       release_time: 2025.09.05 17:30:31
       title: 企业级风控对抗框架CDPYZ
       url: https://mp.weixin.qq.com/s?__biz=MzU1NjQ2Njg4OA==&mid=2247483937&idx=1&sn=5b26ebb8f793fd2bfcf5474d2f773588
-    - author: 未闻Code
-      release_time: 2025.09.05 11:39:57
-      title: 爆炸新闻：Anthropic指着脸骂中国了！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990944&idx=1&sn=b6623dbe2d9b4bd80314c3828e3a3a52
-    - author: CYRUS STUDIO
-      release_time: 2025.09.05 08:30:00
-      title: LLVM 不止能编译！自定义 Pass + 定制 clang 实现函数名加密
-      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486327&idx=1&sn=9f9ee041d0eba3592c8a69106b34b039
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
