@@ -2,6 +2,10 @@
   list:
   - links:
     - author: B站用户骚神
+      release_time: 2025.09.11 17:11:01
+      title: DrissionPageMCP-AI全自动化调试和生成爬虫代码
+      url: https://www.bilibili.com/video/BV1zPHezPE4r
+    - author: B站用户骚神
       release_time: 2025.09.08 14:08:48
       title: AI+DrissionPage破解 滑动拼图和空间语义验证码
       url: https://www.bilibili.com/video/BV136a9zqEcU
@@ -117,10 +121,6 @@
       release_time: 2025.07.27 20:00:00
       title: 10.js基本数据类型编译
       url: https://www.bilibili.com/video/BV1eAbDzsEq3
-    - author: 时一十一姐呀
-      release_time: 2025.07.27 17:52:55
-      title: windows同时安装多个版本的chrome浏览器
-      url: https://www.bilibili.com/video/BV1Lx8vz7EMg
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
