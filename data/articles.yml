@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.09.11 21:24:51
+      title: 分享3 个近期爆火的 GitHub 开源项目
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990961&idx=1&sn=492b2865ec7351cbe1a1e5d79078410a
     - author: 沐阳逆向学习
       release_time: 2025.09.11 17:56:01
       title: TrollVNC：把你的 iPhone/iPad 屏幕投到任何电脑上！远程控制从未如此简单！
@@ -240,10 +244,6 @@
       release_time: 2025.09.07 08:30:00
       title: OLLVM 移植 LLVM18 踩坑：一步步调试修复控制流平坦化
       url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486329&idx=1&sn=a848d5aaf586f328a8933d545911fe19
-    - author: 丫总逆向
-      release_time: 2025.09.06 22:54:31
-      title: 关于CDPYZ的说明
-      url: https://mp.weixin.qq.com/s?__biz=MzU1NjQ2Njg4OA==&mid=2247483959&idx=1&sn=3c373314ba1848862dcdff9ab548850b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 夜无霄
+      release_time: 2025.09.11 21:21:39
+      title: 安卓逆向（三）逆向基本环境配置
+      url: https://blog.csdn.net/qq_44906798/article/details/151291451
     - author: 带带弟弟学爬虫__
       release_time: 2025.09.11 20:59:12
       title: 比亚迪新版五合一登陆、签到、查询、迁移
@@ -486,10 +490,6 @@
       release_time: 2025.08.23 09:00:00
       title: ICP语序文字点选验证逆向分析（含Py纯算源码）
       url: https://crawler.blog.csdn.net/article/details/150497266
-    - author: 汉斯鲁昂
-      release_time: 2025.08.22 09:46:07
-      title: 补环境常见检测点以及瑞数补环境框架
-      url: https://blog.csdn.net/weixin_69490628/article/details/150601514
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
