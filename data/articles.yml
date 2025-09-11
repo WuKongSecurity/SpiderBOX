@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: '13955925361'
+      release_time: 2025.09.11 23:26:00
+      title: 数美滑动验证码逆向
+      url: https://www.52pojie.cn/thread-2059636-1-1.html
     - author: Rytter
       release_time: 2025.09.11 20:35:00
       title: Android逆向学习（十一） IDA动态调试Android so文件
@@ -363,10 +367,6 @@
       release_time: 2025.08.24 17:12:00
       title: ROOT权限假象：DroidPlugin 逆向的兼容性与价值探析（中篇）
       url: https://www.52pojie.cn/thread-2055507-1-1.html
-    - author: xwzios
-      release_time: 2025.08.23 18:04:00
-      title: 利用ida-pro-mcp，对ios某滤镜软件进行逆向分析
-      url: https://www.52pojie.cn/thread-2055361-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
