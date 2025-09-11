@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 尖端对抗
+      release_time: 2025.09.11 10:37:29
+      title: magisk 模块实现分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxMTY1OTAwMQ==&mid=2247483734&idx=1&sn=2a7b200861f571d44fc0924e729675c4
     - author: 逆向有你
       release_time: 2025.09.11 10:14:00
       title: PC逆向 -- 对无限宝发现黑名单内进程自我结束的破解
@@ -240,10 +244,6 @@
       release_time: 2025.09.06 08:31:31
       title: OLLVM 移植 LLVM 18 实战，轻松实现 C&C++ 代码混淆
       url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486328&idx=1&sn=4a6bccbd5c69b4c94109d35456a41ec9
-    - author: 丫总逆向
-      release_time: 2025.09.05 17:30:31
-      title: 企业级风控对抗框架CDPYZ
-      url: https://mp.weixin.qq.com/s?__biz=MzU1NjQ2Njg4OA==&mid=2247483937&idx=1&sn=5b26ebb8f793fd2bfcf5474d2f773588
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
