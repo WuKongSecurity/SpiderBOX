@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 沐阳逆向学习
+      release_time: 2025.09.11 17:56:01
+      title: TrollVNC：把你的 iPhone/iPad 屏幕投到任何电脑上！远程控制从未如此简单！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484390&idx=1&sn=99bae27cf2ac084332f25fb8870c6072
     - author: 哆啦安全
       release_time: 2025.09.11 12:00:00
       title: Android反调试攻防实战(多重检测手段解析与内核级绕过方案)
@@ -240,10 +244,6 @@
       release_time: 2025.09.06 22:54:31
       title: 关于CDPYZ的说明
       url: https://mp.weixin.qq.com/s?__biz=MzU1NjQ2Njg4OA==&mid=2247483959&idx=1&sn=3c373314ba1848862dcdff9ab548850b
-    - author: 吾爱破解论坛
-      release_time: 2025.09.06 08:35:50
-      title: “一款优秀的网页表格控件的逆向分析”-探讨完全AI编程实现逆向分析的可能性和价值
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142870&idx=1&sn=4d4449fecca8d84356537ca3c0bbeef9
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
