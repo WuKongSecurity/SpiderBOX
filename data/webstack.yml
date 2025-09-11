@@ -1983,6 +1983,10 @@
           logo: stormproxies.png
           url: https://stormproxies.com/
           description: Residential Backconnect Rotating & Private Dedicated Proxy.
+        - title: BestProxy
+          logo: bestproxy.png
+          url: https://bestproxy.com/
+          description: 最佳住宅代理、灵活轮换住宅代理和无限住宅代理，来自 195 个国家/地区的 8000 多万个住宅代理 IP
         - title: SpeedyHub
           logo: speedyhub.png
           url: https://speedyhub.io/
@@ -2123,10 +2127,10 @@
           logo: okkproxy.png
           url: https://okkproxy.com/
           description: OKKProxy 是一家值得信赖的高级代理和网页抓取解决方案提供商，旨在支持无缝衔接的大规模数据收集。他们的工具可帮助企业绕过 IP 封禁和验证码等常见障碍，从而高效可靠地访问公共网页数据。OKKProxy 服务于众多行业，包括市场调研、电子商务、搜索引擎优化 (SEO) 和数据科学，并提供可扩展的代理网络和专业的客户支持
-        - title: BestProxy
-          logo: bestproxy.png
-          url: https://bestproxy.com/
-          description: 最佳住宅代理、灵活轮换住宅代理和无限住宅代理，来自 195 个国家/地区的 8000 多万个住宅代理 IP
+        - title: ProxyShare
+          logo: proxyshare.jpg
+          url: https://www.proxyshare.com/
+          description: ProxyShare 致力于为个人用户和企业用户提供安全、高性能的代理服务，帮助您轻松应对网络访问限制和隐私保护挑战
 #        - title: WTFproxy
 #          logo: wtfproxy.png
 #          url: https://www.wtfproxy.com/
@@ -2834,6 +2838,18 @@
           logo: gh_fd5b1e150976.jpg
           qrcode: images/qrcode/gh_fd5b1e150976.jpg
           description: 公众号：逆向成长日记
+        - title: CYRUS STUDIO
+          logo: gh_6e5c91d5e221.jpg
+          qrcode: images/qrcode/gh_6e5c91d5e221.jpg
+          description: 公众号：CYRUS STUDIO
+        - title: 测试工程师成长之路
+          logo: gh_e6489c451515.jpg
+          qrcode: images/qrcode/gh_e6489c451515.jpg
+          description: 公众号：测试工程师成长之路
+        - title: 土木佬的爬虫逆向日记
+          logo: gh_7a1826074dca.jpg
+          qrcode: images/qrcode/gh_7a1826074dca.jpg
+          description: 公众号：土木佬的爬虫逆向日记
 #        - title: K哥爬虫
 #          logo: kgepachong.jpg
 #          qrcode: images/qrcode/kgepachong.jpg
