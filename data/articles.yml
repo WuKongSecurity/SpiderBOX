@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.09.11 12:00:00
+      title: Android反调试攻防实战(多重检测手段解析与内核级绕过方案)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498424&idx=1&sn=113d6790da362e7005a6c6de080388e4
     - author: 尖端对抗
       release_time: 2025.09.11 10:37:29
       title: magisk 模块实现分析
@@ -240,10 +244,6 @@
       release_time: 2025.09.06 08:35:50
       title: “一款优秀的网页表格控件的逆向分析”-探讨完全AI编程实现逆向分析的可能性和价值
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142870&idx=1&sn=4d4449fecca8d84356537ca3c0bbeef9
-    - author: CYRUS STUDIO
-      release_time: 2025.09.06 08:31:31
-      title: OLLVM 移植 LLVM 18 实战，轻松实现 C&C++ 代码混淆
-      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486328&idx=1&sn=4a6bccbd5c69b4c94109d35456a41ec9
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
