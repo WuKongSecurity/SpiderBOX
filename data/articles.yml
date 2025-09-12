@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 尖端对抗
+      release_time: 2025.09.12 11:07:14
+      title: magisk selinux  劫持
+      url: https://mp.weixin.qq.com/s?__biz=MzkxMTY1OTAwMQ==&mid=2247483738&idx=1&sn=5bfc512926f1289d88aea96de4fd766d
+    - author: CYRUS STUDIO
+      release_time: 2025.09.12 08:30:00
+      title: 利用 Linux 信号机制（SIGTRAP）实现 Android 下的反调试
+      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486356&idx=1&sn=9bd937ecec9975841486019eebbf7891
     - author: 未闻Code
       release_time: 2025.09.11 21:24:51
       title: 分享3 个近期爆火的 GitHub 开源项目
@@ -236,14 +244,6 @@
       release_time: 2025.09.07 13:10:00
       title: KS创作者平台56位__NS_sig3;魔改sha256纯和补
       url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484405&idx=1&sn=1cf7a90e99a4250d27d7d7f75297ed4f
-    - author: 哆啦安全
-      release_time: 2025.09.07 11:47:02
-      title: 魔改frida绕过App检测
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498420&idx=1&sn=eacd9e870e9d54422137f2815f1201cd
-    - author: CYRUS STUDIO
-      release_time: 2025.09.07 08:30:00
-      title: OLLVM 移植 LLVM18 踩坑：一步步调试修复控制流平坦化
-      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486329&idx=1&sn=a848d5aaf586f328a8933d545911fe19
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
