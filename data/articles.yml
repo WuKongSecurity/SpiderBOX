@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.09.12 18:18:09
+      title: WinRAR之CVE-2025-6218漏洞复现与分析
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143022&idx=1&sn=e620d0a75b25b75f0323877c2c569600
     - author: 平底锅煎蛋
       release_time: 2025.09.12 15:36:00
       title: 安卓逆向——VMP算法分析
@@ -240,10 +244,6 @@
       release_time: 2025.09.07 21:00:00
       title: 一日一技：Python自带的优先级调度器
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990952&idx=1&sn=c19a58ee5fc858722441a59fc1304f8e
-    - author: 吾爱破解论坛
-      release_time: 2025.09.07 17:06:30
-      title: 年更预警，三连准备！
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142876&idx=1&sn=fa4dbd9167fb182fe13ab53d0ae65733
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
