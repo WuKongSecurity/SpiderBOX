@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 平底锅煎蛋
+      release_time: 2025.09.12 15:36:00
+      title: 安卓逆向——VMP算法分析
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTcyMjcwOA==&mid=2247483962&idx=1&sn=3cb0988ad6aac4d9c556d4ef5944471b
     - author: 尖端对抗
       release_time: 2025.09.12 11:07:14
       title: magisk selinux  劫持
@@ -240,10 +244,6 @@
       release_time: 2025.09.07 17:06:30
       title: 年更预警，三连准备！
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142876&idx=1&sn=fa4dbd9167fb182fe13ab53d0ae65733
-    - author: 小小杨学编程
-      release_time: 2025.09.07 13:10:00
-      title: KS创作者平台56位__NS_sig3;魔改sha256纯和补
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484405&idx=1&sn=1cf7a90e99a4250d27d7d7f75297ed4f
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
