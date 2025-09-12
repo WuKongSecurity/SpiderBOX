@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: YYYYnb
+      release_time: 2025.09.12 11:10:00
+      title: 【js逆向】码上爬-题16 补环境，第一次补环境成功记录一下！
+      url: https://www.52pojie.cn/thread-2059718-1-1.html
     - author: '13955925361'
       release_time: 2025.09.11 23:26:00
       title: 数美滑动验证码逆向
@@ -363,10 +367,6 @@
       release_time: 2025.08.25 15:26:00
       title: WeChatMask遮罩插件的验证破解之路
       url: https://www.52pojie.cn/thread-2055713-1-1.html
-    - author: SKY1
-      release_time: 2025.08.24 17:12:00
-      title: ROOT权限假象：DroidPlugin 逆向的兼容性与价值探析（中篇）
-      url: https://www.52pojie.cn/thread-2055507-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
