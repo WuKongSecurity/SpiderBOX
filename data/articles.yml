@@ -2,6 +2,10 @@
   list:
   - links:
     - author: B站用户骚神
+      release_time: 2025.09.13 09:51:49
+      title: AI+DrissionPage  轻松搞定CloudFlare 5秒盾
+      url: https://www.bilibili.com/video/BV1o4pjzEEJs
+    - author: B站用户骚神
       release_time: 2025.09.11 17:11:01
       title: DrissionPageMCP-AI全自动化调试和生成爬虫代码
       url: https://www.bilibili.com/video/BV1zPHezPE4r
@@ -117,10 +121,6 @@
       release_time: 2025.07.28 20:00:00
       title: 11.实现数组类型编译
       url: https://www.bilibili.com/video/BV1VAbDzsEZ6
-    - author: 零点520666
-      release_time: 2025.07.27 20:00:00
-      title: 10.js基本数据类型编译
-      url: https://www.bilibili.com/video/BV1eAbDzsEq3
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
