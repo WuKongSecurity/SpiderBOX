@@ -125,6 +125,18 @@
     term: 哔哩哔哩
   - links:
     - author: 哆啦安全
+      release_time: 2025.09.14 09:30:00
+      title: Python字节码反编译逆向分析(高级篇)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498532&idx=1&sn=1120b97fcd9f69afff065d31956e6ab7
+    - author: 哆啦安全
+      release_time: 2025.09.14 09:30:00
+      title: C&C++代码安全再升级(用OLLVM给so加上字符串加密保护)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498532&idx=2&sn=15a874e4077146e580e5e454b9d2c207
+    - author: CYRUS STUDIO
+      release_time: 2025.09.14 08:30:00
+      title: Frida 实战：Android JNI 数组 (jobjectArray) 操作全流程解析
+      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486421&idx=1&sn=3fde45420a5a1b448532e75731db0bef
+    - author: 哆啦安全
       release_time: 2025.09.13 13:23:04
       title: Flutter App抓包(原理分析和绕过SSL检测)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498469&idx=1&sn=85457d9b06fa0127c279061fc639efb7
@@ -232,18 +244,6 @@
       release_time: 2025.09.08 20:53:53
       title: AST反混淆插件| 逻辑表达式的另类还原
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566089&idx=1&sn=70fba6da0012a64b1489d55f6c300ffd
-    - author: 土木佬的爬虫逆向日记
-      release_time: 2025.09.08 20:50:17
-      title: Python爬虫进阶：手把手带你AST还原某验三代(二)
-      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862059&idx=1&sn=08f5d222e755c87ab68378ea7e8adb96
-    - author: 影17
-      release_time: 2025.09.08 16:53:56
-      title: 离线工具箱开发
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247490189&idx=1&sn=2b5e3fff819173d0ff34c79bac371828
-    - author: 吾爱破解论坛
-      release_time: 2025.09.08 14:46:51
-      title: 吾爱破解安卓逆向入门教程《安卓逆向这档事》二十四课、Unidbg之补完环境我就睡(上)
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142886&idx=1&sn=b29c4ceccdecbae4f45643e71c86d7bc
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
