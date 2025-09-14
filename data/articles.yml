@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.09.14 21:06:57
+      title: 从老罗和西贝，看战略咨询公司的悖论
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990967&idx=1&sn=f5097127e3a90ccf13690eef577a0bd9
     - author: 丫总逆向
       release_time: 2025.09.14 16:51:50
       title: Arkose Labs FunCAPTCHA识别
@@ -240,10 +244,6 @@
       release_time: 2025.09.09 09:21:00
       title: PC逆向 -- 微信逆向之多开+防撤回分析，小白也能看懂
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040116&idx=1&sn=026e09a0109f739cfd1c7ea92b2484af
-    - author: CYRUS STUDIO
-      release_time: 2025.09.09 08:30:00
-      title: C&C++ 代码安全再升级：用 OLLVM 给 so 加上字符串加密保护
-      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486331&idx=1&sn=ee84ecfda925d90c2c87c37aef7fbc59
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
