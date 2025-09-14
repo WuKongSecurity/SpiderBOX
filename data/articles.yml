@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: xifangczy
+      release_time: 2025.09.14 03:45:00
+      title: 某网站 DRM Clear Key 密钥获取
+      url: https://www.52pojie.cn/thread-2060041-1-1.html
     - author: 我是不会改名的
       release_time: 2025.09.13 23:24:00
       title: 某网站 clearkey SPC CKC解密分析
@@ -363,10 +367,6 @@
       release_time: 2025.08.27 00:17:00
       title: 彻底解决前端无限debugger
       url: https://www.52pojie.cn/thread-2056072-1-1.html
-    - author: buluo533
-      release_time: 2025.08.25 16:10:00
-      title: 某验3AST分析及实现
-      url: https://www.52pojie.cn/thread-2055730-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
