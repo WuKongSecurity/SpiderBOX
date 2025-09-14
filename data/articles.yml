@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 丫总逆向
+      release_time: 2025.09.14 16:51:50
+      title: Arkose Labs FunCAPTCHA识别
+      url: https://mp.weixin.qq.com/s?__biz=MzU1NjQ2Njg4OA==&mid=2247483983&idx=1&sn=96a2e7674346cefbe48412d36cff49cb
     - author: 哆啦安全
       release_time: 2025.09.14 09:30:00
       title: Python字节码反编译逆向分析(高级篇)
@@ -240,10 +244,6 @@
       release_time: 2025.09.09 08:30:00
       title: C&C++ 代码安全再升级：用 OLLVM 给 so 加上字符串加密保护
       url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486331&idx=1&sn=ee84ecfda925d90c2c87c37aef7fbc59
-    - author: 菜鸟学Python编程
-      release_time: 2025.09.08 20:53:53
-      title: AST反混淆插件| 逻辑表达式的另类还原
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566089&idx=1&sn=70fba6da0012a64b1489d55f6c300ffd
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
