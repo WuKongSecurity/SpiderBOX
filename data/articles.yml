@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: cure888
+      release_time: 2025.09.14 17:18:00
+      title: 某8旗下安某某App登录参数分析
+      url: https://www.52pojie.cn/thread-2060153-1-1.html
     - author: xifangczy
       release_time: 2025.09.14 03:45:00
       title: 某网站 DRM Clear Key 密钥获取
@@ -363,10 +367,6 @@
       release_time: 2025.08.27 12:53:00
       title: 新手记某小语种学习软件逆向入门过程
       url: https://www.52pojie.cn/thread-2056172-1-1.html
-    - author: 0xsdeo
-      release_time: 2025.08.27 00:17:00
-      title: 彻底解决前端无限debugger
-      url: https://www.52pojie.cn/thread-2056072-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
