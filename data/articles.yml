@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: CYRUS STUDIO
+      release_time: 2025.09.15 08:30:00
+      title: 一文搞懂 Frida Stalker：对抗 OLLVM 的算法还原利器
+      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486422&idx=1&sn=d383577874b852582c8e23d431ca55b2
+    - author: 测试工程师成长之路
+      release_time: 2025.09.15 08:30:00
+      title: 实测Maestro：原来移动UI自动化测试能这么省事！
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578101&idx=1&sn=cd4e1f24e585f516c1da8e66de0bcf80
+    - author: 二进制磨剑
+      release_time: 2025.09.15 08:30:00
+      title: PyArmor 实战：全面保护 Python AI 代码安全
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485700&idx=1&sn=28b221690e213d71966d6aefa11a4b82
+    - author: Coder小Q
+      release_time: 2025.09.15 08:30:00
+      title: 'LEAP: 高性能基于格结构的伪随机数生成器 算法解读'
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492671&idx=1&sn=e0ef6fac5e6f4cac275634cad0bccf14
     - author: 未闻Code
       release_time: 2025.09.14 21:06:57
       title: 从老罗和西贝，看战略咨询公司的悖论
@@ -228,22 +244,6 @@
       release_time: 2025.09.09 15:24:36
       title: 从民办到大厂的JS逆向进阶之路-爬虫er100人
       url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448549973&idx=1&sn=0d759ce757c28573215c0b2ce067a089
-    - author: 吾爱破解论坛
-      release_time: 2025.09.09 15:00:01
-      title: 【Web逆向】极验4代 九宫格协议分析
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142931&idx=1&sn=95bf748fa13009fee779b9ca569cd962
-    - author: 尖端对抗
-      release_time: 2025.09.09 11:49:42
-      title: magisk mount bind 学习
-      url: https://mp.weixin.qq.com/s?__biz=MzkxMTY1OTAwMQ==&mid=2247483730&idx=1&sn=0ff1f7f2c1e5577389f1d8c00f714a38
-    - author: 爬虫spider
-      release_time: 2025.09.09 11:40:00
-      title: 抖音最新版抓包
-      url: https://mp.weixin.qq.com/s?__biz=MzUyODY3ODUzNw==&mid=2247484168&idx=1&sn=44ba678673cab9d0a7dc82e8764ad6ed
-    - author: 逆向有你
-      release_time: 2025.09.09 09:21:00
-      title: PC逆向 -- 微信逆向之多开+防撤回分析，小白也能看懂
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040116&idx=1&sn=026e09a0109f739cfd1c7ea92b2484af
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
