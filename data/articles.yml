@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 一只勇敢的小佳
+      release_time: 2025.09.15 23:42:30
+      title: lsposed的java hook原理，frida java hook原理，frida的java hook无痕实现，相关问题解释
+      url: https://www.bilibili.com/video/BV1dxpqzzEj6
     - author: B站用户骚神
       release_time: 2025.09.13 09:51:49
       title: AI+DrissionPage  轻松搞定CloudFlare 5秒盾
@@ -117,10 +121,6 @@
       release_time: 2025.07.29 09:09:13
       title: AI编程cursor在10分钟开发爬虫插件
       url: https://www.bilibili.com/video/BV1zK8QzNE4K
-    - author: 零点520666
-      release_time: 2025.07.28 20:00:00
-      title: 11.实现数组类型编译
-      url: https://www.bilibili.com/video/BV1VAbDzsEZ6
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
