@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.09.16 14:48:18
+      title: fgum编译裁剪frida绕过部分对抗
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498542&idx=1&sn=6730778f8281932fce6ebfbed87ade53
     - author: 静夜随想
       release_time: 2025.09.16 11:21:41
       title: 用浏览器渲染代替补环境
@@ -240,10 +244,6 @@
       release_time: 2025.09.10 08:30:00
       title: 如何防止 so 文件被轻松逆向？精准控制符号导出 + JNI 动态注册
       url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486354&idx=1&sn=335a6c6441a8870d905224c654ac4691
-    - author: 沐阳逆向学习
-      release_time: 2025.09.09 21:07:42
-      title: 《LSPosed模块学习》1.环境搭建及概念讲解
-      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484385&idx=1&sn=59bbdcb3aa409ee4f78a994181a02076
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
