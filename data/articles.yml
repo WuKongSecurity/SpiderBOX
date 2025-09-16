@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 狗都不学爬虫_
+      release_time: 2025.09.16 10:27:32
+      title: JS逆向 - 丁丁（新版某里 **_brand** 参数） 补环境
+      url: https://blog.csdn.net/qq_53444631/article/details/151749790
     - author: 吴秋霖
       release_time: 2025.09.14 19:57:33
       title: 主流反爬虫、反作弊防护与风控对抗手段
@@ -486,10 +490,6 @@
       release_time: 2025.08.25 17:11:22
       title: JS逆向 - 盼之（decode__1174、sign）
       url: https://blog.csdn.net/qq_53444631/article/details/150772182
-    - author: 王辉辉的猫
-      release_time: 2025.08.25 09:46:12
-      title: 006.chromium编译进阶-任务栏图标加数字提示徽章
-      url: https://blog.csdn.net/w1101662433/article/details/150758686
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
