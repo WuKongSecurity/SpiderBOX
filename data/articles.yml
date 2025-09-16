@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 静夜随想
+      release_time: 2025.09.16 11:21:41
+      title: 用浏览器渲染代替补环境
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811159&idx=1&sn=2241601a807517c43a54406aa4fd379b
     - author: CYRUS STUDIO
       release_time: 2025.09.16 08:30:00
       title: Frida Stalker Trace 实战：指令级跟踪与寄存器变化监控全解析
@@ -240,10 +244,6 @@
       release_time: 2025.09.09 21:07:42
       title: 《LSPosed模块学习》1.环境搭建及概念讲解
       url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484385&idx=1&sn=59bbdcb3aa409ee4f78a994181a02076
-    - author: 未闻Code
-      release_time: 2025.09.09 21:00:00
-      title: 当提示词成为新代码，谁在定义AI时代的“新语言”？（文末赠书）
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990958&idx=1&sn=1d0825203d23ca656e332cb840289636
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
