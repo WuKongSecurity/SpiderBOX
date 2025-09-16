@@ -1123,6 +1123,10 @@
           logo: okbrow.png
           url: https://okbrow.com/
           description: OKBrowser 是一款专注于 多账号安全管理与隐私保护 的指纹浏览器。它通过高度可定制的浏览器指纹模拟技术，帮助用户在同一台设备上创建多个独立的浏览器环境，从而有效避免账号之间的关联和风控
+        - title: MostLogin 浏览器
+          logo: mostlogin.png
+          url: https://www.mostlogin.com/?invite-code=spiderbox1
+          description: MostLogin，一款完全免费的防关联指纹浏览器，包含：云手机+免费的API接口/RPA自动化/群控同步系统/团队管理等功能
         - title: Chromium_FingerPrint_Tutorial
           logo: github.png
           url: https://github.com/LoseNine/Chromium_FingerPrint_Tutorial
@@ -1483,6 +1487,10 @@
           logo: captcha-api.png
           url: https://www.captcha-api.com/
           description: 支持 Akamai、Kasada、reCAPTCHA、hCaptcha、Cloudflare、Incapsula（Imperva、reese84）等
+        - title: CaptchaSonic
+          logo: captchasonic.png
+          url: https://captchasonic.com/
+          description: 支持 TikTok Captcha、reCAPTCHA、Cloudflare、Amazon（AWS）WAF 等
         - title: 知数云
           logo: zhishuyun.jpg
           url: https://data.zhishuyun.com?inviter_id=f4387498-c5b5-4f0d-8765-f44a44f8963b
