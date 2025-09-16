@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.09.16 17:10:08
+      title: 安卓逆向 -- 某隐藏app密码绕过
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040172&idx=1&sn=3c7db4ff67cdd85f0e4bf55348b128d0
     - author: 哆啦安全
       release_time: 2025.09.16 14:48:18
       title: fgum编译裁剪frida绕过部分对抗
@@ -240,10 +244,6 @@
       release_time: 2025.09.10 10:15:00
       title: 安卓逆向 -- 某海外平台短视频app逆向分析研究
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040134&idx=1&sn=872594f432c980e008d331a17e8a3d59
-    - author: CYRUS STUDIO
-      release_time: 2025.09.10 08:30:00
-      title: 如何防止 so 文件被轻松逆向？精准控制符号导出 + JNI 动态注册
-      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486354&idx=1&sn=335a6c6441a8870d905224c654ac4691
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
