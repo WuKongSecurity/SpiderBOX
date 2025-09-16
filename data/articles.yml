@@ -125,6 +125,10 @@
     term: 哔哩哔哩
   - links:
     - author: CYRUS STUDIO
+      release_time: 2025.09.16 08:30:00
+      title: Frida Stalker Trace 实战：指令级跟踪与寄存器变化监控全解析
+      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486423&idx=1&sn=8eba2b5f361a9b50d750f9224731e7fb
+    - author: CYRUS STUDIO
       release_time: 2025.09.15 08:30:00
       title: 一文搞懂 Frida Stalker：对抗 OLLVM 的算法还原利器
       url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486422&idx=1&sn=d383577874b852582c8e23d431ca55b2
@@ -240,10 +244,6 @@
       release_time: 2025.09.09 21:00:00
       title: 当提示词成为新代码，谁在定义AI时代的“新语言”？（文末赠书）
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990958&idx=1&sn=1d0825203d23ca656e332cb840289636
-    - author: 猿人学Python
-      release_time: 2025.09.09 15:24:36
-      title: 从民办到大厂的JS逆向进阶之路-爬虫er100人
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448549973&idx=1&sn=0d759ce757c28573215c0b2ce067a089
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
