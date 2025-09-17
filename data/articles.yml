@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: coderwhy
+      release_time: 2025.09.17 20:29:02
+      title: 拥抱AI吧 - AI是一场知识平权的革命
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247489038&idx=1&sn=baf01fa5673317c4f6711982b5e4254b
+    - author: 沐阳逆向学习
+      release_time: 2025.09.17 20:00:00
+      title: 2.Xposed框架入门指南：详解Hook普通方法、构造函数与修改返回值
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484395&idx=1&sn=2f9c7dd7c1b2ce264bc1147956fa2b2b
     - author: 流星Studio
       release_time: 2025.09.17 17:30:14
       title: 小程序逆向-某雪冰城(sign 参数) WASM + 某达广场JSVMP
@@ -236,14 +244,6 @@
       release_time: 2025.09.11 21:24:51
       title: 分享3 个近期爆火的 GitHub 开源项目
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990961&idx=1&sn=492b2865ec7351cbe1a1e5d79078410a
-    - author: 沐阳逆向学习
-      release_time: 2025.09.11 17:56:01
-      title: TrollVNC：把你的 iPhone/iPad 屏幕投到任何电脑上！远程控制从未如此简单！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484390&idx=1&sn=99bae27cf2ac084332f25fb8870c6072
-    - author: 哆啦安全
-      release_time: 2025.09.11 12:00:00
-      title: Android反调试攻防实战(多重检测手段解析与内核级绕过方案)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498424&idx=1&sn=113d6790da362e7005a6c6de080388e4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
