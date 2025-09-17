@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.09.17 12:51:46
+      title: Android Dex VMP壳:自定义虚拟机+指令解释执行全流程
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498551&idx=1&sn=f0b8b81f7d490b1dd9771c50a91d3e26
     - author: 爬虫spider
       release_time: 2025.09.17 09:47:37
       title: 抖音及豆包最新版本抓包
@@ -240,10 +244,6 @@
       release_time: 2025.09.11 10:14:00
       title: PC逆向 -- 对无限宝发现黑名单内进程自我结束的破解
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040155&idx=1&sn=5105c5002779547839d3808f49add1ce
-    - author: CYRUS STUDIO
-      release_time: 2025.09.11 08:30:00
-      title: Android 反调试攻防实战：多重检测手段解析与内核级绕过方案
-      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486355&idx=1&sn=20f205c47225916f874f4b676981a8f7
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
