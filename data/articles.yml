@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.09.17 15:23:52
+      title: JS逆向 -- 某日番动漫网视频地址解密全过程
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040189&idx=1&sn=e93c7b0bc7ed45dcd28983c61686e1d0
     - author: 哆啦安全
       release_time: 2025.09.17 12:51:46
       title: Android Dex VMP壳:自定义虚拟机+指令解释执行全流程
@@ -240,10 +244,6 @@
       release_time: 2025.09.11 10:37:29
       title: magisk 模块实现分析
       url: https://mp.weixin.qq.com/s?__biz=MzkxMTY1OTAwMQ==&mid=2247483734&idx=1&sn=2a7b200861f571d44fc0924e729675c4
-    - author: 逆向有你
-      release_time: 2025.09.11 10:14:00
-      title: PC逆向 -- 对无限宝发现黑名单内进程自我结束的破解
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040155&idx=1&sn=5105c5002779547839d3808f49add1ce
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
