@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 冰履踏青云
+      release_time: 2025.09.17 18:18:48
+      title: Twitter/X 搜索headers x-client-transaction-id 参数
+      url: https://bingyun.blog.csdn.net/article/details/151798936
     - author: 狗都不学爬虫_
       release_time: 2025.09.17 15:50:46
       title: 小程序逆向 - 某雪冰城（sign 参数） WASM + VMP
@@ -486,10 +490,6 @@
       release_time: 2025.08.26 03:54:43
       title: 局域网共享文件夹
       url: https://blog.csdn.net/u014643814/article/details/150829545
-    - author: Loronto丶
-      release_time: 2025.08.25 23:30:00
-      title: chrome插件开发（二）
-      url: https://blog.csdn.net/Loronto_/article/details/150777752
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
