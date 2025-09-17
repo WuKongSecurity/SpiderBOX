@@ -247,6 +247,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: qixireal
+      release_time: 2025.09.17 15:17:00
+      title: zf逆向
+      url: https://www.52pojie.cn/thread-2060848-1-1.html
+    - author: buzaizb
+      release_time: 2025.09.17 11:50:00
+      title: 码上爬 1~7关js逆向代码
+      url: https://www.52pojie.cn/thread-2060789-1-1.html
     - author: cure888
       release_time: 2025.09.14 17:18:00
       title: 某8旗下安某某App登录参数分析
@@ -359,14 +367,6 @@
       release_time: 2025.08.28 10:20:00
       title: 某airpods弹窗软件hook困惑
       url: https://www.52pojie.cn/thread-2056362-1-1.html
-    - author: lyl610abc
-      release_time: 2025.08.27 22:19:00
-      title: OLLVM CFF 去平坦化原理
-      url: https://www.52pojie.cn/thread-2056288-1-1.html
-    - author: hrdom
-      release_time: 2025.08.27 12:53:00
-      title: 新手记某小语种学习软件逆向入门过程
-      url: https://www.52pojie.cn/thread-2056172-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
