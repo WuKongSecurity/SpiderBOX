@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 爬虫spider
+      release_time: 2025.09.17 09:47:37
+      title: 抖音及豆包最新版本抓包
+      url: https://mp.weixin.qq.com/s?__biz=MzUyODY3ODUzNw==&mid=2247484178&idx=1&sn=1600ad207c8d71eb80d1b85b944a88dd
+    - author: CYRUS STUDIO
+      release_time: 2025.09.17 08:30:00
+      title: 手写 Android Dex VMP 壳：自定义虚拟机 + 指令解释执行全流程
+      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486424&idx=1&sn=4d834d7e328a2ccbc435b2a0ea140282
     - author: 逆向有你
       release_time: 2025.09.16 17:10:08
       title: 安卓逆向 -- 某隐藏app密码绕过
@@ -236,14 +244,6 @@
       release_time: 2025.09.11 08:30:00
       title: Android 反调试攻防实战：多重检测手段解析与内核级绕过方案
       url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486355&idx=1&sn=20f205c47225916f874f4b676981a8f7
-    - author: 编角料
-      release_time: 2025.09.10 12:16:05
-      title: 移动安全之某海外app环境检测排查
-      url: https://mp.weixin.qq.com/s?__biz=MzU0MjUwMTA2OQ==&mid=2247486883&idx=1&sn=037b445441b43c9b65cf6d3b4abedc07
-    - author: 逆向有你
-      release_time: 2025.09.10 10:15:00
-      title: 安卓逆向 -- 某海外平台短视频app逆向分析研究
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040134&idx=1&sn=872594f432c980e008d331a17e8a3d59
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
