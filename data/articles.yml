@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.09.17 15:42:26
+      title: CodeBuddy Code+DrissionPageMCP 纯命令行自动化开发调试爬虫代码
+      url: https://www.bilibili.com/video/BV1nLpxzmE7v
     - author: 一只勇敢的小佳
       release_time: 2025.09.15 23:42:30
       title: lsposed的java hook原理，frida java hook原理，frida的java hook无痕实现，相关问题解释
@@ -117,10 +121,6 @@
       release_time: 2025.07.29 20:00:00
       title: 12.实现对象类型编译
       url: https://www.bilibili.com/video/BV1KJbDzCEsm
-    - author: 时一十一姐呀
-      release_time: 2025.07.29 09:09:13
-      title: AI编程cursor在10分钟开发爬虫插件
-      url: https://www.bilibili.com/video/BV1zK8QzNE4K
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
