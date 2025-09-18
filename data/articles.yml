@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小小杨学编程
+      release_time: 2025.09.18 12:26:00
+      title: 外某侠wasm纯算分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484415&idx=1&sn=bf20c996ecaaefc6150117658ba352e4
     - author: CYRUS STUDIO
       release_time: 2025.09.18 08:30:00
       title: 手写 Android Dex VMP 壳：指令流 AES 加密 + 动态加载全流程
@@ -240,10 +244,6 @@
       release_time: 2025.09.12 11:07:14
       title: magisk selinux  劫持
       url: https://mp.weixin.qq.com/s?__biz=MzkxMTY1OTAwMQ==&mid=2247483738&idx=1&sn=5bfc512926f1289d88aea96de4fd766d
-    - author: CYRUS STUDIO
-      release_time: 2025.09.12 08:30:00
-      title: 利用 Linux 信号机制（SIGTRAP）实现 Android 下的反调试
-      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486356&idx=1&sn=9bd937ecec9975841486019eebbf7891
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
