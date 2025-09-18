@@ -128,10 +128,6 @@
       release_time: 2025.09.18 08:30:00
       title: 手写 Android Dex VMP 壳：指令流 AES 加密 + 动态加载全流程
       url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486425&idx=1&sn=7e243d4fa01c11148d0470b19f2298f7
-    - author: 测试工程师成长之路
-      release_time: 2025.09.18 08:00:00
-      title: 最近，测试的招聘市场已经疯掉了…
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578107&idx=1&sn=79c73ed2b1f6df19f0a7bf2083a249f6
     - author: coderwhy
       release_time: 2025.09.17 20:29:02
       title: 拥抱AI吧 - AI是一场知识平权的革命
@@ -244,6 +240,10 @@
       release_time: 2025.09.12 11:07:14
       title: magisk selinux  劫持
       url: https://mp.weixin.qq.com/s?__biz=MzkxMTY1OTAwMQ==&mid=2247483738&idx=1&sn=5bfc512926f1289d88aea96de4fd766d
+    - author: CYRUS STUDIO
+      release_time: 2025.09.12 08:30:00
+      title: 利用 Linux 信号机制（SIGTRAP）实现 Android 下的反调试
+      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486356&idx=1&sn=9bd937ecec9975841486019eebbf7891
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
