@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.09.18 13:03:52
+      title: Android Dex VMP壳:指令流AES加密+动态加载全流程
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498554&idx=1&sn=be2446775e7b7807743c080d84842c7c
     - author: 小小杨学编程
       release_time: 2025.09.18 12:26:00
       title: 外某侠wasm纯算分析
@@ -240,10 +244,6 @@
       release_time: 2025.09.12 15:36:00
       title: 安卓逆向——VMP算法分析
       url: https://mp.weixin.qq.com/s?__biz=Mzg3NTcyMjcwOA==&mid=2247483962&idx=1&sn=3cb0988ad6aac4d9c556d4ef5944471b
-    - author: 尖端对抗
-      release_time: 2025.09.12 11:07:14
-      title: magisk selinux  劫持
-      url: https://mp.weixin.qq.com/s?__biz=MzkxMTY1OTAwMQ==&mid=2247483738&idx=1&sn=5bfc512926f1289d88aea96de4fd766d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -251,6 +251,10 @@
       release_time: 2025.09.17 15:17:00
       title: zf逆向
       url: https://www.52pojie.cn/thread-2060848-1-1.html
+    - author: KoCleo
+      release_time: 2025.09.17 14:15:00
+      title: '[小白＆老鸟向]MTK Client强大的联发科底层模式各流程解读及原理详解析'
+      url: https://www.52pojie.cn/thread-2060820-1-1.html
     - author: buzaizb
       release_time: 2025.09.17 11:50:00
       title: 码上爬 1~7关js逆向代码
@@ -363,10 +367,6 @@
       release_time: 2025.08.28 10:53:00
       title: 有谱么网站 修改非会员的吉他谱播放时长
       url: https://www.52pojie.cn/thread-2056379-1-1.html
-    - author: WilsonZtw
-      release_time: 2025.08.28 10:20:00
-      title: 某airpods弹窗软件hook困惑
-      url: https://www.52pojie.cn/thread-2056362-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
