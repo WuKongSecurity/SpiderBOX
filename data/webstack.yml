@@ -2139,6 +2139,10 @@
           logo: proxyshare.jpg
           url: https://www.proxyshare.com/
           description: ProxyShare 致力于为个人用户和企业用户提供安全、高性能的代理服务，帮助您轻松应对网络访问限制和隐私保护挑战
+        - title: MiyaIP
+          logo: miyaip.png
+          url: https://www.miyaip.com/signup?invitecode=SpiderBox
+          description: Miya 全球原生静态、动态住宅代理 IP
 #        - title: WTFproxy
 #          logo: wtfproxy.png
 #          url: https://www.wtfproxy.com/
