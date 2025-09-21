@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.09.21 21:00:00
+      title: 无限撤回，可视化操作，开源工具Lazygit爆火，狂揽65K星
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648990973&idx=1&sn=24288eb83a5a454dab875c054bcd4ce7
     - author: 哆啦安全
       release_time: 2025.09.21 11:36:45
       title: Android7至16系统调试工具(ADB调试)
@@ -240,10 +244,6 @@
       release_time: 2025.09.15 16:34:53
       title: 国家网信办发布《国家网络安全事件报告管理办法》（附正文+答记者问+一图读懂）
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519294&idx=1&sn=261cdba6cb8bdc01d3e2410b06ab6c44
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.09.15 16:34:53
-      title: 国家网信办发布《大型网络平台设立个人信息保护监督委员会规定（征求意见稿）》
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519294&idx=2&sn=e15a7d15c5eb96d36c52c3281c9b5341
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
