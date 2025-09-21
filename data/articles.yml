@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 冷月不是程序员
+      release_time: 2025.09.21 10:15:23
+      title: 在家也能嗨！云逛PyCon China 2025，全程第一视角体验
+      url: https://www.bilibili.com/video/BV1hqWFzhE2X
     - author: Alone逆向安全
       release_time: 2025.09.20 13:54:46
       title: 用frida gum写一个art java hook 原理分析
@@ -117,10 +121,6 @@
       release_time: 2025.07.30 20:00:00
       title: 20.实现RegExpLiteral正则表达式编译
       url: https://www.bilibili.com/video/BV1xJbDzCEiB
-    - author: Alone逆向安全
-      release_time: 2025.07.29 22:07:51
-      title: 污点传播的基本原理 arm64基于位级运算的离线污点分析高效率工具
-      url: https://www.bilibili.com/video/BV1pm8dzXEnm
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
