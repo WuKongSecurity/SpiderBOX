@@ -1348,6 +1348,10 @@
           logo: github.png
           url: https://github.com/JaveleyQAQ/WeChatOpenDevTools-Python
           description: WeChatOpenDevTool 微信小程序强制开启开发者工具
+        - title: WMPFDebugger
+          logo: github.png
+          url: https://github.com/evi0s/WMPFDebugger
+          description: Windows 微信小程序调试工具，通过 patch 一些 Chrome 调试协议（CDP）的过滤器和其他的条件判断来强制小程序连接到外部调试器（也就是远程调试，LanDebug 模式）
         - title: e0e1-wx
           logo: github.png
           url: https://github.com/eeeeeeeeee-code/e0e1-wx
