@@ -247,6 +247,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: ngiokweng
+      release_time: 2025.09.20 19:23:00
+      title: 初窺NP手遊保護
+      url: https://www.52pojie.cn/thread-2061538-1-1.html
+    - author: KoCleo
+      release_time: 2025.09.20 14:26:00
+      title: '[简单]记一次逆向去某学习机的ADB和APP安装限制'
+      url: https://www.52pojie.cn/thread-2061491-1-1.html
     - author: qixireal
       release_time: 2025.09.17 15:17:00
       title: zf逆向
@@ -359,14 +367,6 @@
       release_time: 2025.08.30 23:55:00
       title: 极验4代 九宫格协议分析
       url: https://www.52pojie.cn/thread-2056918-1-1.html
-    - author: Colinxu2020
-      release_time: 2025.08.30 17:25:00
-      title: 某高考逆向分析
-      url: https://www.52pojie.cn/thread-2056857-1-1.html
-    - author: kangaroo711
-      release_time: 2025.08.28 10:53:00
-      title: 有谱么网站 修改非会员的吉他谱播放时长
-      url: https://www.52pojie.cn/thread-2056379-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
