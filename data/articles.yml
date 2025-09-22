@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: buluo533
+      release_time: 2025.09.22 18:40:00
+      title: 超星某习通firda检测及定位签到分析
+      url: https://www.52pojie.cn/thread-2061922-1-1.html
     - author: ngiokweng
       release_time: 2025.09.20 19:23:00
       title: 初窺NP手遊保護
@@ -363,10 +367,6 @@
       release_time: 2025.08.31 20:07:00
       title: 某视频平台jsvmp纯算还原
       url: https://www.52pojie.cn/thread-2057046-1-1.html
-    - author: Command
-      release_time: 2025.08.30 23:55:00
-      title: 极验4代 九宫格协议分析
-      url: https://www.52pojie.cn/thread-2056918-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
