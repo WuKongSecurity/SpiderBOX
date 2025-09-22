@@ -374,6 +374,10 @@
       release_time: 2025.09.22 14:28:10
       title: 小程序逆向 - 某众点评（MTGSIG1.2 参数） VMP
       url: https://blog.csdn.net/qq_53444631/article/details/151961889
+    - author: 小子你干嘛
+      release_time: 2025.09.18 21:48:00
+      title: 基于dexdump+Objection+Frida的Android动态密文分析实战
+      url: https://xz.aliyun.com/news/18933
     - author: demone
       release_time: 2025.09.18 11:54:00
       title: 安卓逆向-从刷机到frida的入门与实践
@@ -486,10 +490,6 @@
       release_time: 2025.09.01 09:55:35
       title: JS加密工具大全：JShaman篇
       url: https://blog.csdn.net/w2sft/article/details/151061756
-    - author: 始識
-      release_time: 2025.08.29 09:41:23
-      title: 百度V2旋转验证码
-      url: https://blog.csdn.net/Zuko_chen/article/details/150974867
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
