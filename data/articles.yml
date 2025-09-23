@@ -2,6 +2,10 @@
   list:
   - links:
     - author: 冷月不是程序员
+      release_time: 2025.09.23 20:51:58
+      title: 杭州程序员通勤实录：地铁‘沙丁鱼’罐头体验卡
+      url: https://www.bilibili.com/video/BV1y7J1zTEmY
+    - author: 冷月不是程序员
       release_time: 2025.09.21 10:15:23
       title: 在家也能嗨！云逛PyCon China 2025，全程第一视角体验
       url: https://www.bilibili.com/video/BV1hqWFzhE2X
@@ -117,10 +121,6 @@
       release_time: 2025.07.31 01:11:18
       title: (安卓逆向)王炸组合！我把Frida-Gum注入安卓，用Lua脚本实现了动态热重载
       url: https://www.bilibili.com/video/BV1Vq8zzxEMc
-    - author: 零点520666
-      release_time: 2025.07.30 20:00:00
-      title: 20.实现RegExpLiteral正则表达式编译
-      url: https://www.bilibili.com/video/BV1xJbDzCEiB
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
