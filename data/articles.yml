@@ -2,6 +2,10 @@
   list:
   - links:
     - author: 冷月不是程序员
+      release_time: 2025.09.24 22:58:05
+      title: 教程系列-任务调度框架Apache-Airflow 虚拟机集群安装
+      url: https://www.bilibili.com/video/BV1Kknpz1E2w
+    - author: 冷月不是程序员
       release_time: 2025.09.23 20:51:58
       title: 杭州程序员通勤实录：地铁‘沙丁鱼’罐头体验卡
       url: https://www.bilibili.com/video/BV1y7J1zTEmY
@@ -117,10 +121,6 @@
       release_time: 2025.07.31 20:00:00
       title: 27.实现指令信息的输出
       url: https://www.bilibili.com/video/BV1KJbDzCEWB
-    - author: Alone逆向安全
-      release_time: 2025.07.31 01:11:18
-      title: (安卓逆向)王炸组合！我把Frida-Gum注入安卓，用Lua脚本实现了动态热重载
-      url: https://www.bilibili.com/video/BV1Vq8zzxEMc
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
