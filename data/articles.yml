@@ -371,6 +371,14 @@
     term: 吾爱破解
   - links:
     - author: 狗都不学爬虫_
+      release_time: 2025.09.24 17:55:36
+      title: JS逆向 - 盼之（ssxmod_itna、ssxmod_itna2）纯算 + 补环境
+      url: https://blog.csdn.net/qq_53444631/article/details/152046616
+    - author: 小子你干嘛
+      release_time: 2025.09.24 10:47:00
+      title: Linux 内核中/proc/self/maps 的实现与匿名空间释放机制探究
+      url: https://xz.aliyun.com/news/18939
+    - author: 狗都不学爬虫_
       release_time: 2025.09.22 14:28:10
       title: 小程序逆向 - 某众点评（MTGSIG1.2 参数） VMP
       url: https://blog.csdn.net/qq_53444631/article/details/151961889
@@ -482,14 +490,6 @@
       release_time: 2025.09.02 09:44:00
       title: 专业JS加密工具：JShaman客户端下载、安装、使用
       url: https://blog.csdn.net/w2sft/article/details/151102807
-    - author: wangYи
-      release_time: 2025.09.01 11:24:46
-      title: 某茗小程序接口逆向全流程详细解析
-      url: https://blog.csdn.net/weixin_59616601/article/details/150985078
-    - author: w2sfot
-      release_time: 2025.09.01 09:55:35
-      title: JS加密工具大全：JShaman篇
-      url: https://blog.csdn.net/w2sft/article/details/151061756
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
