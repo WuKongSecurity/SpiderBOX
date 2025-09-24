@@ -251,6 +251,10 @@
       release_time: 2025.09.24 20:11:00
       title: 一加系统短信漏洞
       url: https://www.52pojie.cn/thread-2062380-1-1.html
+    - author: LiSAimer
+      release_time: 2025.09.24 20:07:00
+      title: 某航司Reese84逆向分析-补环境篇
+      url: https://www.52pojie.cn/thread-2062377-1-1.html
     - author: TaPai
       release_time: 2025.09.24 10:28:00
       title: 网站小说具体章节下载
@@ -363,10 +367,6 @@
       release_time: 2025.09.02 14:10:00
       title: ios 某软件的逆向分析学习
       url: https://www.52pojie.cn/thread-2057449-1-1.html
-    - author: '13955925361'
-      release_time: 2025.09.01 11:19:00
-      title: 逆向过云片滑动验证码
-      url: https://www.52pojie.cn/thread-2057170-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
