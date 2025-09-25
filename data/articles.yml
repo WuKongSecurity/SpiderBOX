@@ -2,6 +2,10 @@
   list:
   - links:
     - author: 冷月不是程序员
+      release_time: 2025.09.25 21:12:25
+      title: 教程系列-任务调度框架Apache-Airflow 启动一个实例（三）
+      url: https://www.bilibili.com/video/BV14Gnbz8Evh
+    - author: 冷月不是程序员
       release_time: 2025.09.24 22:58:05
       title: 教程系列-任务调度框架Apache-Airflow 虚拟机集群安装
       url: https://www.bilibili.com/video/BV1Kknpz1E2w
@@ -117,10 +121,6 @@
       release_time: 2025.08.01 20:00:00
       title: 28.跳转指令原理讲解一
       url: https://www.bilibili.com/video/BV1NJbDzCEmS
-    - author: 零点520666
-      release_time: 2025.07.31 20:00:00
-      title: 27.实现指令信息的输出
-      url: https://www.bilibili.com/video/BV1KJbDzCEWB
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
