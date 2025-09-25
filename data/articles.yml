@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: zjmanboy
+      release_time: 2025.09.25 13:18:00
+      title: 记一次为浙江省某三线城市人民医院微信公众号发现漏洞的过程
+      url: https://www.52pojie.cn/thread-2062520-1-1.html
     - author: 林伊轩
       release_time: 2025.09.24 20:11:00
       title: 一加系统短信漏洞
@@ -363,10 +367,6 @@
       release_time: 2025.09.02 18:38:00
       title: 百度旋转验证码算法逆向分析
       url: https://www.52pojie.cn/thread-2057521-1-1.html
-    - author: xwzios
-      release_time: 2025.09.02 14:10:00
-      title: ios 某软件的逆向分析学习
-      url: https://www.52pojie.cn/thread-2057449-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
