@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: buzaizb
+      release_time: 2025.09.26 17:37:00
+      title: 码上爬 8~13关js逆向代码
+      url: https://www.52pojie.cn/thread-2062825-1-1.html
     - author: LiSAimer
       release_time: 2025.09.25 20:31:00
       title: 某里新版acw_sc__v2算法分析
@@ -363,10 +367,6 @@
       release_time: 2025.09.04 17:21:00
       title: 某鱼sign参数逆向[适合小白新手]
       url: https://www.52pojie.cn/thread-2057979-1-1.html
-    - author: wuhuaguo888
-      release_time: 2025.09.03 12:20:00
-      title: '[修正版]某修仙肉鸽游戏协议逆向分析折腾记录'
-      url: https://www.52pojie.cn/thread-2057659-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
