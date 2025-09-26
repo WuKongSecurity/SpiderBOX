@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.09.26 17:34:19
+      title: 用AI生成的DrissionPage官网镜像站
+      url: https://www.bilibili.com/video/BV12fngzLEyT
     - author: 冷月不是程序员
       release_time: 2025.09.25 21:12:25
       title: 教程系列-任务调度框架Apache-Airflow 启动一个实例（三）
@@ -117,10 +121,6 @@
       release_time: 2025.08.02 20:00:00
       title: 53.课程成果测试&&课程总结
       url: https://www.bilibili.com/video/BV1NJbDzCE1E
-    - author: 零点520666
-      release_time: 2025.08.01 20:00:00
-      title: 28.跳转指令原理讲解一
-      url: https://www.bilibili.com/video/BV1NJbDzCEmS
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
