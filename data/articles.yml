@@ -247,6 +247,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: daijunhao
+      release_time: 2025.09.27 16:45:00
+      title: 记录一次莫心理健康平台的登录分析
+      url: https://www.52pojie.cn/thread-2062977-1-1.html
+    - author: mysticz
+      release_time: 2025.09.27 11:13:00
+      title: Python爬虫进阶：acw_v2加密AST解混淆全流程
+      url: https://www.52pojie.cn/thread-2062929-1-1.html
     - author: mysticz
       release_time: 2025.09.27 11:06:00
       title: 某招投标服务平台AST详细解析
@@ -359,14 +367,6 @@
       release_time: 2025.09.05 14:37:00
       title: 手把手带你AST还原某验三代(一)
       url: https://www.52pojie.cn/thread-2058187-1-1.html
-    - author: mysticz
-      release_time: 2025.09.05 14:21:00
-      title: 某小程序修复及发送参数，header头和返回参数加解密逆向
-      url: https://www.52pojie.cn/thread-2058182-1-1.html
-    - author: ImpJ
-      release_time: 2025.09.05 11:26:00
-      title: 码上爬 题十九：法外狂徒 逆向思路
-      url: https://www.52pojie.cn/thread-2058139-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
