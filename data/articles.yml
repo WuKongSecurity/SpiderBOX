@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: mysticz
+      release_time: 2025.09.27 11:06:00
+      title: 某招投标服务平台AST详细解析
+      url: https://www.52pojie.cn/thread-2062927-1-1.html
     - author: buzaizb
       release_time: 2025.09.26 17:37:00
       title: 码上爬 8~13关js逆向代码
@@ -363,10 +367,6 @@
       release_time: 2025.09.04 20:18:00
       title: 某习通混淆代码及滑动验证码全协议分析
       url: https://www.52pojie.cn/thread-2058010-1-1.html
-    - author: anning666
-      release_time: 2025.09.04 17:21:00
-      title: 某鱼sign参数逆向[适合小白新手]
-      url: https://www.52pojie.cn/thread-2057979-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
