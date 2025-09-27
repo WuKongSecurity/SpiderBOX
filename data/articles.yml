@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 逆向狗都不学
+      release_time: 2025.09.27 10:47:06
+      title: AST反混淆之AST
+      url: https://www.bilibili.com/video/BV1AFnEzZETb
+    - author: 逆向狗都不学
+      release_time: 2025.09.27 10:31:49
+      title: AST反混淆之基础
+      url: https://www.bilibili.com/video/BV1cNnEzsE7g
     - author: B站用户骚神
       release_time: 2025.09.26 17:34:19
       title: 用AI生成的DrissionPage官网镜像站
@@ -113,14 +121,6 @@
       release_time: 2025.08.04 07:50:23
       title: 关于DrissionPage加载插件失效的三种解决方法
       url: https://www.bilibili.com/video/BV15qhLzwE12
-    - author: r0ysue
-      release_time: 2025.08.03 16:20:27
-      title: 首台官方支持的pixel设备pixel3搭配StatixOS(安卓13)刷最新的Kali Nethunter2025.2内核是最新的定制版Alynx-2.1
-      url: https://www.bilibili.com/video/BV1WXh3zvEsD
-    - author: 零点520666
-      release_time: 2025.08.02 20:00:00
-      title: 53.课程成果测试&&课程总结
-      url: https://www.bilibili.com/video/BV1NJbDzCE1E
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
