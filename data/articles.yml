@@ -251,6 +251,10 @@
       release_time: 2025.09.27 11:06:00
       title: 某招投标服务平台AST详细解析
       url: https://www.52pojie.cn/thread-2062927-1-1.html
+    - author: loveppya
+      release_time: 2025.09.26 17:45:00
+      title: 【实战】MT管理器全程搞定某视频APP！SSL绕过+VPN检测拦截全流程（附配图建议+Smal...
+      url: https://www.52pojie.cn/thread-2062829-1-1.html
     - author: buzaizb
       release_time: 2025.09.26 17:37:00
       title: 码上爬 8~13关js逆向代码
@@ -363,10 +367,6 @@
       release_time: 2025.09.05 11:26:00
       title: 码上爬 题十九：法外狂徒 逆向思路
       url: https://www.52pojie.cn/thread-2058139-1-1.html
-    - author: mysticz
-      release_time: 2025.09.04 20:18:00
-      title: 某习通混淆代码及滑动验证码全协议分析
-      url: https://www.52pojie.cn/thread-2058010-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
