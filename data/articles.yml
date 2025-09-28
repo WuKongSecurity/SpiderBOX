@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.09.28 10:50:44
+      title: 安卓逆向 -- 某海外市场运营商app登录协议逆向
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040244&idx=1&sn=d277901363e31db2a87cd08125f4c7b2
     - author: Coder小Q
       release_time: 2025.09.28 08:30:00
       title: 【密码学】一次一密&Kerckhoffs原理
@@ -136,6 +140,14 @@
       release_time: 2025.09.28 08:00:00
       title: 逆向分析(PE结构深入浅出)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498687&idx=2&sn=74565a0170ea7fb005e79de5c1e4743d
+    - author: 逆向有你
+      release_time: 2025.09.25 09:30:10
+      title: JS逆向 -- 某电子书阅读网站EPUB资源逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040233&idx=1&sn=2c5fd2c495ce22eeea7f019ec738a0ef
+    - author: 逆向有你
+      release_time: 2025.09.24 10:12:24
+      title: 安卓逆向 -- 记一次sh脚本验证分析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040214&idx=1&sn=9b5957c8b221fb3426eef604d7fc025f
     - author: 静夜随想
       release_time: 2025.09.22 20:35:00
       title: JavaScript逆向时遇到SourceMap配置错误反调试
@@ -232,18 +244,6 @@
       release_time: 2025.09.17 20:29:02
       title: 拥抱AI吧 - AI是一场知识平权的革命
       url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247489038&idx=1&sn=baf01fa5673317c4f6711982b5e4254b
-    - author: 沐阳逆向学习
-      release_time: 2025.09.17 20:00:00
-      title: 2.Xposed框架入门指南：详解Hook普通方法、构造函数与修改返回值
-      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484395&idx=1&sn=2f9c7dd7c1b2ce264bc1147956fa2b2b
-    - author: 流星Studio
-      release_time: 2025.09.17 17:30:14
-      title: 小程序逆向-某雪冰城(sign 参数) WASM + 某达广场JSVMP
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjUxNTgyMg==&mid=2247484059&idx=1&sn=8a73f185cd008fa044bc1211ea985178
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.09.17 16:49:14
-      title: 行业首例：特斯拉被判向“车顶维权”女车主提供事故前30分钟完整行车数据
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519322&idx=1&sn=71ea46b009a3869eaaf710c3b18b9617
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
