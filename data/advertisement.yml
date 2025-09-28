@@ -13,16 +13,16 @@
       image: images/ads/brightdata_1200x150.png
       description: Bright Data 亮数据，使用全球最大的 IP 网络，利用内置的抓取和解锁功能获得访问权，并简化数据提取
       track: ad_brightdata
-    - title: 协采云
-      ads: true
-      url: https://mp.weixin.qq.com/s/EFQ3rp1EuVWNQPrFCzrdoA
-      image: images/ads/xcy2_1200x150.png
-      description: 爬虫工程师周末时间竟然玩这个
 #    - title: 协采云
 #      ads: true
-#      url: https://www.xiecaiyun.com/?channel=bob-ch
-#      image: images/ads/xcy_1200x150.png
-#      description: 九年深耕，百万级代理 IP 节点自由调度，整合国内超过 90% 地区的动态代理 IP 汇聚成代理服务器池，并提供API接入，将高速稳定的代理池接入到您的自动化应用中
+#      url: https://mp.weixin.qq.com/s/EFQ3rp1EuVWNQPrFCzrdoA
+#      image: images/ads/xcy2_1200x150.png
+#      description: 爬虫工程师周末时间竟然玩这个
+    - title: 协采云
+      ads: true
+      url: https://www.xiecaiyun.com/?channel=bob-ch
+      image: images/ads/xcy_1200x150.png
+      description: 九年深耕，百万级代理 IP 节点自由调度，整合国内超过 90% 地区的动态代理 IP 汇聚成代理服务器池，并提供API接入，将高速稳定的代理池接入到您的自动化应用中
       track: ad_xcy
     - title: NetNut
       ads: true

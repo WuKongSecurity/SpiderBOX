@@ -2147,6 +2147,10 @@
           logo: miyaip.png
           url: https://www.miyaip.com/signup?invitecode=SpiderBox
           description: Miya 全球原生静态、动态住宅代理 IP
+        - title: Novada
+          logo: novada.png
+          url: https://www.novada.com/
+          description: Global residential and datacenter proxies for fast, reliable web scraping. Extract public data from any website at scale effortlessly.
 #        - title: WTFproxy
 #          logo: wtfproxy.png
 #          url: https://www.wtfproxy.com/
@@ -2866,6 +2870,10 @@
           logo: gh_7a1826074dca.jpg
           qrcode: images/qrcode/gh_7a1826074dca.jpg
           description: 公众号：土木佬的爬虫逆向日记
+        - title: 信息安全与通信保密杂志社
+          logo: gh_3e12dbf78ff8.jpg
+          qrcode: images/qrcode/gh_3e12dbf78ff8.jpg
+          description: 公众号：信息安全与通信保密杂志社
 #        - title: K哥爬虫
 #          logo: kgepachong.jpg
 #          qrcode: images/qrcode/kgepachong.jpg
