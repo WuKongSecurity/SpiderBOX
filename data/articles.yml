@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Coder小Q
+      release_time: 2025.09.28 08:30:00
+      title: 【密码学】一次一密&Kerckhoffs原理
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492690&idx=1&sn=b24ea8c7da3f4726e83557fe1f9166e5
+    - author: 哆啦安全
+      release_time: 2025.09.28 08:00:00
+      title: so脱壳全流程(识别加壳、Frida Dump、原理深入解析)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498687&idx=1&sn=4bee10b766aaa45c2cfcff4f8a701038
+    - author: 哆啦安全
+      release_time: 2025.09.28 08:00:00
+      title: 逆向分析(PE结构深入浅出)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498687&idx=2&sn=74565a0170ea7fb005e79de5c1e4743d
     - author: 静夜随想
       release_time: 2025.09.22 20:35:00
       title: JavaScript逆向时遇到SourceMap配置错误反调试
@@ -232,18 +244,6 @@
       release_time: 2025.09.17 16:49:14
       title: 行业首例：特斯拉被判向“车顶维权”女车主提供事故前30分钟完整行车数据
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519322&idx=1&sn=71ea46b009a3869eaaf710c3b18b9617
-    - author: 逆向有你
-      release_time: 2025.09.17 15:23:52
-      title: JS逆向 -- 某日番动漫网视频地址解密全过程
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040189&idx=1&sn=e93c7b0bc7ed45dcd28983c61686e1d0
-    - author: 哆啦安全
-      release_time: 2025.09.17 12:51:46
-      title: Android Dex VMP壳:自定义虚拟机+指令解释执行全流程
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498551&idx=1&sn=f0b8b81f7d490b1dd9771c50a91d3e26
-    - author: 爬虫spider
-      release_time: 2025.09.17 09:47:37
-      title: 抖音及豆包最新版本抓包
-      url: https://mp.weixin.qq.com/s?__biz=MzUyODY3ODUzNw==&mid=2247484178&idx=1&sn=1600ad207c8d71eb80d1b85b944a88dd
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
