@@ -2149,7 +2149,7 @@
           description: Miya 全球原生静态、动态住宅代理 IP
         - title: Novada
           logo: novada.png
-          url: https://www.novada.com/
+          url: http://www.novada.com/?utm_source=spiderbox
           description: Global residential and datacenter proxies for fast, reliable web scraping. Extract public data from any website at scale effortlessly.
 #        - title: WTFproxy
 #          logo: wtfproxy.png
