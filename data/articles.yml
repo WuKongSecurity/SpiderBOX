@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: buluo533
+      release_time: 2025.09.30 17:46:00
+      title: 某友校园论坛APP案例分析
+      url: https://www.52pojie.cn/thread-2063591-1-1.html
     - author: cxs808
       release_time: 2025.09.30 17:19:00
       title: 某迪汽车vx小程序逆向及每日签到--站在巨人的肩膀上确实可以少走弯路
@@ -363,10 +367,6 @@
       release_time: 2025.09.07 15:03:00
       title: 《安卓逆向这档事》第二十四课、Unidbg之补完环境我就睡(上)
       url: https://www.52pojie.cn/thread-2058523-1-1.html
-    - author: justWant404
-      release_time: 2025.09.05 20:04:00
-      title: 绕过某企业办公 APP 的截图限制
-      url: https://www.52pojie.cn/thread-2058264-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
