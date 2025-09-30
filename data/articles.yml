@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.09.30 09:37:28
+      title: DP+Playwright混合编程，【抓取/拦截/修改/替换】网页数据包
+      url: https://www.bilibili.com/video/BV1mVnkzKEDH
     - author: 一只勇敢的小佳
       release_time: 2025.09.27 18:32:23
       title: 小佳修改的最新lsposed，直接过海外大部分应用，基本检测不到，和原本几乎一致，兼容性非常强
@@ -117,10 +121,6 @@
       release_time: 2025.08.11 11:06:22
       title: 骚神插件9.7.4-新增语法定位提取器，支持四大定位语法【iframe】【文本】【xpath】【动作链】
       url: https://www.bilibili.com/video/BV1Avb3zcE81
-    - author: DrissionPage
-      release_time: 2025.08.10 23:21:08
-      title: 批量填写表单-DrissionPage官方教程-p30
-      url: https://www.bilibili.com/video/BV1KfbNzJEb7
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: jhdgff
+      release_time: 2025.09.29 22:44:00
+      title: 某验3纯算逆向分析
+      url: https://www.52pojie.cn/thread-2063429-1-1.html
     - author: daijunhao
       release_time: 2025.09.27 16:45:00
       title: 记录一次莫心理健康平台的登录分析
@@ -363,10 +367,6 @@
       release_time: 2025.09.05 19:30:00
       title: 论如何在忙成狗的日子里，靠师傅带飞顺便逆向个放松解压APP会员
       url: https://www.52pojie.cn/thread-2058263-1-1.html
-    - author: mysticz
-      release_time: 2025.09.05 14:37:00
-      title: 手把手带你AST还原某验三代(一)
-      url: https://www.52pojie.cn/thread-2058187-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
