@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: cxs808
+      release_time: 2025.09.30 17:19:00
+      title: 某迪汽车vx小程序逆向及每日签到--站在巨人的肩膀上确实可以少走弯路
+      url: https://www.52pojie.cn/thread-2063588-1-1.html
     - author: jhdgff
       release_time: 2025.09.29 22:44:00
       title: 某验3纯算逆向分析
@@ -363,10 +367,6 @@
       release_time: 2025.09.05 20:04:00
       title: 绕过某企业办公 APP 的截图限制
       url: https://www.52pojie.cn/thread-2058264-1-1.html
-    - author: mwwp
-      release_time: 2025.09.05 19:30:00
-      title: 论如何在忙成狗的日子里，靠师傅带飞顺便逆向个放松解压APP会员
-      url: https://www.52pojie.cn/thread-2058263-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
