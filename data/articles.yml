@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Sherlockhuman
+      release_time: 2025.09.29 23:36:00
+      title: 深入解析LLVM代码混淆技术：从基本块分割到控制流混淆的实现原理
+      url: https://xz.aliyun.com/news/19089
     - author: demone
       release_time: 2025.09.29 00:47:00
       title: 安卓逆向-frida hook Native层
@@ -486,10 +490,6 @@
       release_time: 2025.09.06 09:00:00
       title: 某APP签名与校验参数SO层逆向分析
       url: https://crawler.blog.csdn.net/article/details/150955295
-    - author: 张烫麻辣亮。
-      release_time: 2025.09.05 16:42:12
-      title: 【教程】快速入门golang
-      url: https://blog.csdn.net/qq_40558166/article/details/151226391
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
