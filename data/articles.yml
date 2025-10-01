@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 林伊轩
+      release_time: 2025.10.01 16:34:00
+      title: ColorOS短信漏洞修复方案
+      url: https://www.52pojie.cn/thread-2063725-1-1.html
     - author: buluo533
       release_time: 2025.09.30 17:46:00
       title: 某友校园论坛APP案例分析
@@ -363,10 +367,6 @@
       release_time: 2025.09.08 00:13:00
       title: '[原创]boss直聘__zp_stoken__的控制平坦流纯算逆向思路'
       url: https://www.52pojie.cn/thread-2058603-1-1.html
-    - author: 正己
-      release_time: 2025.09.07 15:03:00
-      title: 《安卓逆向这档事》第二十四课、Unidbg之补完环境我就睡(上)
-      url: https://www.52pojie.cn/thread-2058523-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
