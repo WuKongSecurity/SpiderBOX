@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: Ceciliana
+      release_time: 2025.10.01 23:54:00
+      title: 某店登录用户名与密码参数补环境
+      url: https://www.52pojie.cn/thread-2063774-1-1.html
     - author: 林伊轩
       release_time: 2025.10.01 16:34:00
       title: ColorOS短信漏洞修复方案
@@ -363,10 +367,6 @@
       release_time: 2025.09.09 15:33:00
       title: Mac上AS模拟器安装面具
       url: https://www.52pojie.cn/thread-2059021-1-1.html
-    - author: SuEmiya
-      release_time: 2025.09.08 00:13:00
-      title: '[原创]boss直聘__zp_stoken__的控制平坦流纯算逆向思路'
-      url: https://www.52pojie.cn/thread-2058603-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
