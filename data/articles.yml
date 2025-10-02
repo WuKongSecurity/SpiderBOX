@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: aoshid002
+      release_time: 2025.10.02 20:32:00
+      title: 抓包就自动闪退
+      url: https://www.52pojie.cn/thread-2063857-1-1.html
     - author: Ceciliana
       release_time: 2025.10.01 23:54:00
       title: 某店登录用户名与密码参数补环境
@@ -363,10 +367,6 @@
       release_time: 2025.09.10 15:26:00
       title: 允许截屏增强版 frida 脚本
       url: https://www.52pojie.cn/thread-2059272-1-1.html
-    - author: ipk2046
-      release_time: 2025.09.09 15:33:00
-      title: Mac上AS模拟器安装面具
-      url: https://www.52pojie.cn/thread-2059021-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
