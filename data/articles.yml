@@ -251,6 +251,10 @@
       release_time: 2025.10.03 20:38:00
       title: 《安卓逆向这档事》第二十五课、Unidbg之补完环境我就睡(中)
       url: https://www.52pojie.cn/thread-2063957-1-1.html
+    - author: JiGuro
+      release_time: 2025.10.03 18:52:00
+      title: 【解密实战】简单的图片加密分析
+      url: https://www.52pojie.cn/thread-2063949-1-1.html
     - author: aoshid002
       release_time: 2025.10.02 20:32:00
       title: 抓包就自动闪退
@@ -363,10 +367,6 @@
       release_time: 2025.09.11 23:26:00
       title: 数美滑动验证码逆向
       url: https://www.52pojie.cn/thread-2059636-1-1.html
-    - author: Rytter
-      release_time: 2025.09.11 20:35:00
-      title: Android逆向学习（十一） IDA动态调试Android so文件
-      url: https://www.52pojie.cn/thread-2059610-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
