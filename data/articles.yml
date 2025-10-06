@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 逆向狗都不学
+      release_time: 2025.10.06 11:52:28
+      title: AST反混淆实战之极验4
+      url: https://www.bilibili.com/video/BV1RgxVzVEF6
     - author: B站用户骚神
       release_time: 2025.09.30 09:37:28
       title: DP+Playwright混合编程，【抓取/拦截/修改/替换】网页数据包
@@ -117,10 +121,6 @@
       release_time: 2025.08.14 07:28:32
       title: 想买有锁机，快来上闲鱼[旺柴]
       url: https://www.bilibili.com/video/BV18gbqzGEB6
-    - author: B站用户骚神
-      release_time: 2025.08.11 11:06:22
-      title: 骚神插件9.7.4-新增语法定位提取器，支持四大定位语法【iframe】【文本】【xpath】【动作链】
-      url: https://www.bilibili.com/video/BV1Avb3zcE81
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
