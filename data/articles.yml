@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 冷月不是程序员
+      release_time: 2025.10.07 20:06:00
+      title: 教程系列-任务调度框架Apache-Airflow 集群部署（四）
+      url: https://www.bilibili.com/video/BV11pxRzjEHP
     - author: B站用户骚神
       release_time: 2025.10.07 12:00:49
       title: DrissionPage接管浏览器的八种方法
@@ -117,10 +121,6 @@
       release_time: 2025.08.16 14:15:17
       title: VitePress+GithubPages 5分钟免费快速搭建个人博客网站
       url: https://www.bilibili.com/video/BV12zYYz6EqE
-    - author: ikun的嘴
-      release_time: 2025.08.16 12:43:57
-      title: js逆向补环境划时代技术，告别Proxy代理，秒杀阿里231检测系列
-      url: https://www.bilibili.com/video/BV1nvYezAE4u
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
