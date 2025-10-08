@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: chendm
+      release_time: 2025.10.08 21:02:00
+      title: 不翻墙无痛畅通安装android-studio开发工具
+      url: https://www.52pojie.cn/thread-2064573-1-1.html
     - author: 正己
       release_time: 2025.10.03 20:38:00
       title: 《安卓逆向这档事》第二十五课、Unidbg之补完环境我就睡(中)
@@ -363,10 +367,6 @@
       release_time: 2025.09.12 11:10:00
       title: 【js逆向】码上爬-题16 补环境，第一次补环境成功记录一下！
       url: https://www.52pojie.cn/thread-2059718-1-1.html
-    - author: '13955925361'
-      release_time: 2025.09.11 23:26:00
-      title: 数美滑动验证码逆向
-      url: https://www.52pojie.cn/thread-2059636-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
