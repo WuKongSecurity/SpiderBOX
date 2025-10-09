@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 安卓反调试frida检测Neo
+      release_time: 2025.10.09 23:07:14
+      title: TLSv1.3-TLS_AES_256_GCM_SHA384下集
+      url: https://www.bilibili.com/video/BV1Bnx2z1Edu
+    - author: 安卓反调试frida检测Neo
+      release_time: 2025.10.09 23:04:04
+      title: TLSv1.3-TLS_AES_256_GCM_SHA384上集
+      url: https://www.bilibili.com/video/BV1Bpx2z5EMz
     - author: B站用户骚神
       release_time: 2025.10.09 17:39:10
       title: DrissionPage+pw浏览器上下文多开，实现动态代理IP切换，支持S5和账密
@@ -113,14 +121,6 @@
       release_time: 2025.09.01 15:08:58
       title: DrissionPage远程控制docker里浏览器
       url: https://www.bilibili.com/video/BV1QFaHzyE9m
-    - author: 逆向狗都不学
-      release_time: 2025.09.01 11:17:17
-      title: 某里231之AST反混淆
-      url: https://www.bilibili.com/video/BV1GqaJzrEug
-    - author: B站用户骚神
-      release_time: 2025.08.30 14:34:37
-      title: WebSocket反向代理+DP远程控制浏览器
-      url: https://www.bilibili.com/video/BV1oUhvzsEgP
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
