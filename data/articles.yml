@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 正己
+      release_time: 2025.10.09 10:21:00
+      title: 《安卓逆向这档事》第二十六课、Unidbg之补完环境我就睡(下)
+      url: https://www.52pojie.cn/thread-2064640-1-1.html
     - author: Ceciliana
       release_time: 2025.10.08 22:15:00
       title: 某平台登录参数扣代码
@@ -363,10 +367,6 @@
       release_time: 2025.09.14 03:45:00
       title: 某网站 DRM Clear Key 密钥获取
       url: https://www.52pojie.cn/thread-2060041-1-1.html
-    - author: 我是不会改名的
-      release_time: 2025.09.13 23:24:00
-      title: 某网站 clearkey SPC CKC解密分析
-      url: https://www.52pojie.cn/thread-2060029-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
