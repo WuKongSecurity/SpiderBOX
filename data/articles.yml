@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 静夜随想
+      release_time: 2025.10.10 20:37:12
+      title: 研究了下acw_sc__v2参数
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811175&idx=1&sn=a6eb72ec3b5a771b425b69cbeaa0ad40
     - author: 理想真会玩
       release_time: 2025.10.10 18:37:18
       title: Nstbrowser 指纹浏览器实践篇
@@ -240,10 +244,6 @@
       release_time: 2025.09.29 17:37:31
       title: 公安三所解读迪奥违规跨境传输个人信息案
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519375&idx=1&sn=c5c86b6bd05fef8f7d2304cb44abbcab
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.09.29 17:37:31
-      title: 腾讯、华为、荣耀、OPPO 等六家企业签署个人信息保护承诺书
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519375&idx=2&sn=a134258e7fb9f5a40ea93df4077d6072
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
