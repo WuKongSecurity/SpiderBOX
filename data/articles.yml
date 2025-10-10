@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.10.10 21:00:00
+      title: AST反混淆实战|某爬虫靶场第二题混淆代码还原详解(一)
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566102&idx=1&sn=ccd92621f7134781851fac9db6c35fb4
     - author: 静夜随想
       release_time: 2025.10.10 20:37:12
       title: 研究了下acw_sc__v2参数
@@ -220,6 +224,10 @@
       release_time: 2025.10.01 10:37:16
       title: 某视频滑块
       url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484483&idx=1&sn=11c895e32ad3f37a73a456afad267185
+    - author: 菜鸟学Python编程
+      release_time: 2025.09.30 21:51:07
+      title: 付费星球最新新增了很多实战案例，需要的可以冲冲看。
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566096&idx=1&sn=ae1faf65698e3aa03e52b5b3a6a699d0
     - author: 个人信息与数据保护实务评论
       release_time: 2025.09.30 16:48:26
       title: 中国个人信息违规出境处罚第一案述评：跨国企业系统化本土数据合规体系的必要性
@@ -236,14 +244,6 @@
       release_time: 2025.09.29 19:01:12
       title: 3.Xposed框架入门指南：深入解析Hook内部类与匿名类的实现技巧
       url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484401&idx=1&sn=860f2425c39a258bde33811e5843775d
-    - author: 哆啦安全
-      release_time: 2025.09.29 17:59:40
-      title: App抓包常用工具和方法
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498705&idx=1&sn=b2f78f55b6de4c71dbb92a6ea49397e7
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.09.29 17:37:31
-      title: 公安三所解读迪奥违规跨境传输个人信息案
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519375&idx=1&sn=c5c86b6bd05fef8f7d2304cb44abbcab
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
