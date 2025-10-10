@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.10.10 10:05:59
+      title: 安卓逆向 -- 某浏览器去除白名单限制
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040291&idx=1&sn=5408b3dccdb16e924f061981f50aab2e
+    - author: 逆向有你
+      release_time: 2025.10.10 10:05:59
+      title: 每日免费资源分享20251010
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040291&idx=2&sn=b778d02c866a80d58b7e9ef95ac92b5c
     - author: 个人信息与数据保护实务评论
       release_time: 2025.10.09 18:12:09
       title: 多人因贩卖个人信息获刑：通过社交平台寻找客户，查询信息530余条
@@ -236,14 +244,6 @@
       release_time: 2025.09.29 09:02:11
       title: 最大化收集Vue框架(SPA类型)下的js
       url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486350&idx=1&sn=062bfb9cb456f64401b25a757c1dfa24
-    - author: 测试工程师成长之路
-      release_time: 2025.09.29 08:30:00
-      title: 你还在苦苦摸索？FireCrawl 就是你的爬虫救星 ！
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578126&idx=1&sn=4ed49d1b5cfa480ea601e334bb774948
-    - author: 二进制磨剑
-      release_time: 2025.09.29 08:20:00
-      title: 用户态 & 内核态反调插件分享
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485740&idx=1&sn=53a6a8c5f64f01f278c0b98a4941addd
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
