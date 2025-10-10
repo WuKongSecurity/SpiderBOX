@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.10.10 15:18:34
+      title: APK智能加固检测工具V3.0
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498791&idx=1&sn=ab844dea29232e0f9f659537818cb642
     - author: 布鲁的Python之旅
       release_time: 2025.10.10 15:11:34
       title: 【更新】TaskPyro-Python爬虫管理平台最新2.2.2版本
@@ -164,6 +168,38 @@
       release_time: 2025.10.09 09:30:00
       title: 码上爬解题实战：Python秒解参数加密
       url: https://mp.weixin.qq.com/s?__biz=Mzg5ODA3OTM1NA==&mid=2247493714&idx=1&sn=04cbd397b905810b1b33bffba853863a
+    - author: 哆啦安全
+      release_time: 2025.10.07 12:52:23
+      title: 鸿蒙(HarmonyOS Next)系统日志调试增强工具
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498780&idx=1&sn=e007fd84edf874fd5644409151bb2458
+    - author: 哆啦安全
+      release_time: 2025.10.06 10:16:17
+      title: AOSP Pixel4 Android13系统定制(编译问题解决)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498767&idx=1&sn=89114aff3aeaff0bb936e3d5b867fa10
+    - author: 哆啦安全
+      release_time: 2025.10.05 08:23:20
+      title: 逆向分析工具(IDA9)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498755&idx=1&sn=3b0f2225549d12d28cbd516cf30507dc
+    - author: 哆啦安全
+      release_time: 2025.10.05 08:23:20
+      title: Android ADB 调试工具 V3.0
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498755&idx=2&sn=e22603676ef7fcb4724d486a70f4afcb
+    - author: 哆啦安全
+      release_time: 2025.10.03 17:36:00
+      title: 鸿蒙(HarmonyOS Next)系统提取手机本地已安装应用的hap包
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498740&idx=1&sn=a94a889924cc2870c3b241bf69f02001
+    - author: 哆啦安全
+      release_time: 2025.10.03 17:36:00
+      title: Mobile-Agent-v3：新的 GUI Agents 开源王者
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498740&idx=2&sn=d18f8fe2b2b72e43e1be1963d223c1e5
+    - author: 哆啦安全
+      release_time: 2025.10.02 17:18:19
+      title: FART脱壳:实现AJM壳级别的对抗功能+绕过全解析
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498718&idx=1&sn=0e118cb2558ded6f78ed452b77797555
+    - author: 哆啦安全
+      release_time: 2025.10.01 18:30:27
+      title: 基于Chrome开发者协议(CDP)的AI自动化JavaScript逆向分析工具
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498711&idx=1&sn=72016958edac50c297b1961fd17a3602
     - author: 小小杨学编程
       release_time: 2025.10.01 10:37:16
       title: 某视频滑块
@@ -176,6 +212,10 @@
       release_time: 2025.09.30 16:48:26
       title: 我国个人信息跨境安全管理领域首项国家标准发布（附全文及一图读懂）
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519411&idx=2&sn=ba7d9f2acd541399759fdbe31b4f577c
+    - author: 哆啦安全
+      release_time: 2025.09.30 10:09:33
+      title: so混淆加密|移植OLLVM到NDK并集成到 Android Studio
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498707&idx=1&sn=55e99d31ed67c61166ebeff20a184ffb
     - author: 沐阳逆向学习
       release_time: 2025.09.29 19:01:12
       title: 3.Xposed框架入门指南：深入解析Hook内部类与匿名类的实现技巧
@@ -204,46 +244,6 @@
       release_time: 2025.09.28 21:12:00
       title: 全自动AI内容工厂！全网内容到公众号一键转化，内容创作效率提升10倍！
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991016&idx=1&sn=ee66088190132964c6b280a91862c519
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.09.28 16:22:50
-      title: Meta“付费或同意”模式获准在英国落地，此前曾被欧盟处以2亿欧元罚款
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519373&idx=1&sn=9ad13aa6aef9e77c53dd9c3c53dd3620
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.09.28 16:22:50
-      title: 中国数据保护月度报告：重点提示及目录（2025年9月）
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519373&idx=2&sn=cad5afb354478bd40a1583845bceed37
-    - author: 逆向有你
-      release_time: 2025.09.28 10:50:44
-      title: 安卓逆向 -- 某海外市场运营商app登录协议逆向
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040244&idx=1&sn=d277901363e31db2a87cd08125f4c7b2
-    - author: Coder小Q
-      release_time: 2025.09.28 08:30:00
-      title: 【密码学】一次一密&Kerckhoffs原理
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492690&idx=1&sn=b24ea8c7da3f4726e83557fe1f9166e5
-    - author: 哆啦安全
-      release_time: 2025.09.28 08:00:00
-      title: so脱壳全流程(识别加壳、Frida Dump、原理深入解析)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498687&idx=1&sn=4bee10b766aaa45c2cfcff4f8a701038
-    - author: 哆啦安全
-      release_time: 2025.09.28 08:00:00
-      title: 逆向分析(PE结构深入浅出)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498687&idx=2&sn=74565a0170ea7fb005e79de5c1e4743d
-    - author: 哆啦安全
-      release_time: 2025.09.27 09:20:56
-      title: AI辅助编程新纪元:DeepSeek与豆包的高效开发实践
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498684&idx=1&sn=5937ad23ada006371d8297ad4f081fc4
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.09.26 17:25:29
-      title: 商务部等九部门：支持跨国公司内部个人信息跨境传输便捷化安排
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519360&idx=1&sn=1d263c0de003022a5410a90f811ff407
-    - author: 小小杨学编程
-      release_time: 2025.09.26 11:16:20
-      title: 某X支付JSVMP纯算还原encrypt_msg
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484450&idx=1&sn=827f7b63bf0dcc83233f79437eeded89
-    - author: 哆啦安全
-      release_time: 2025.09.26 00:02:54
-      title: Android应用加固工具完整代码实现(加固实战)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498672&idx=1&sn=5a77676b40e7a7a95d819490c6f2b004
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
