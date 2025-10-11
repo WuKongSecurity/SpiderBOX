@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.10.12 00:00:00
+      title: 安卓逆向 -- 某记账app加固脱修+解锁会员
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040337&idx=1&sn=a9eb787ffe879f4e8d723dec74cdc7e4
     - author: Spade sec
       release_time: 2025.10.11 23:34:36
       title: 长文 or 短文？
@@ -240,10 +244,6 @@
       release_time: 2025.10.05 08:23:20
       title: 逆向分析工具(IDA9)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498755&idx=1&sn=3b0f2225549d12d28cbd516cf30507dc
-    - author: 哆啦安全
-      release_time: 2025.10.05 08:23:20
-      title: Android ADB 调试工具 V3.0
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498755&idx=2&sn=e22603676ef7fcb4724d486a70f4afcb
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
