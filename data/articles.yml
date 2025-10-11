@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Frida and So
+      release_time: 2025.10.11 14:08:19
+      title: 魔改版Gadget绕过检测
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247484816&idx=1&sn=aa8af70bb7f3c6cb99c43a5c4afb5e9a
     - author: 菜鸟学Python编程
       release_time: 2025.10.11 10:15:06
       title: AST反混淆实战|某爬虫靶场第二题混淆代码还原详解(二)
@@ -196,6 +200,10 @@
       release_time: 2025.10.09 09:30:00
       title: 码上爬解题实战：Python秒解参数加密
       url: https://mp.weixin.qq.com/s?__biz=Mzg5ODA3OTM1NA==&mid=2247493714&idx=1&sn=04cbd397b905810b1b33bffba853863a
+    - author: Frida and So
+      release_time: 2025.10.07 16:01:04
+      title: 快手sig4补环境
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247484788&idx=1&sn=08e080dc5e6f3df5fc236c1eb5a15232
     - author: 哆啦安全
       release_time: 2025.10.07 12:52:23
       title: 鸿蒙(HarmonyOS Next)系统日志调试增强工具
@@ -236,14 +244,6 @@
       release_time: 2025.10.01 18:30:27
       title: 基于Chrome开发者协议(CDP)的AI自动化JavaScript逆向分析工具
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498711&idx=1&sn=72016958edac50c297b1961fd17a3602
-    - author: 小小杨学编程
-      release_time: 2025.10.01 10:37:16
-      title: 某视频滑块
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484483&idx=1&sn=11c895e32ad3f37a73a456afad267185
-    - author: 菜鸟学Python编程
-      release_time: 2025.09.30 21:51:07
-      title: 付费星球最新新增了很多实战案例，需要的可以冲冲看。
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566096&idx=1&sn=ae1faf65698e3aa03e52b5b3a6a699d0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
