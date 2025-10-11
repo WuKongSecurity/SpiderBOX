@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: plusboy
+      release_time: 2025.10.10 16:35:00
+      title: 行车记录仪 App 会员逆向分析
+      url: https://www.52pojie.cn/thread-2065004-1-1.html
     - author: 正己
       release_time: 2025.10.09 10:21:00
       title: 《安卓逆向这档事》第二十六课、Unidbg之补完环境我就睡(下)
@@ -363,10 +367,6 @@
       release_time: 2025.09.14 17:18:00
       title: 某8旗下安某某App登录参数分析
       url: https://www.52pojie.cn/thread-2060153-1-1.html
-    - author: xifangczy
-      release_time: 2025.09.14 03:45:00
-      title: 某网站 DRM Clear Key 密钥获取
-      url: https://www.52pojie.cn/thread-2060041-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
