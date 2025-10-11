@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Spade sec
+      release_time: 2025.10.11 23:34:36
+      title: 长文 or 短文？
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486592&idx=1&sn=5e674b593df41ab051f703bad0caee7e
     - author: 吾爱破解论坛
       release_time: 2025.10.11 18:08:25
       title: 吾爱破解安卓逆向入门教程《安卓逆向这档事》二十四课、Unidbg之补完环境我就睡(中)
@@ -240,10 +244,6 @@
       release_time: 2025.10.05 08:23:20
       title: Android ADB 调试工具 V3.0
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498755&idx=2&sn=e22603676ef7fcb4724d486a70f4afcb
-    - author: Spade sec
-      release_time: 2025.10.04 18:31:59
-      title: Vue router文档安全向学习(基础总结)
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486400&idx=1&sn=13889bd59142a86371d59704800badcc
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
