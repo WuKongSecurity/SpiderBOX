@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.10.11 18:08:25
+      title: 吾爱破解安卓逆向入门教程《安卓逆向这档事》二十四课、Unidbg之补完环境我就睡(中)
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143113&idx=1&sn=e4e6bd5995e65d55f54dd1b3fcbf5702
     - author: 个人信息与数据保护实务评论
       release_time: 2025.10.11 17:33:14
       title: 中国电子商会发布《生成式人工智能知识产权指南》团体标准
@@ -224,6 +228,10 @@
       release_time: 2025.10.06 10:16:17
       title: AOSP Pixel4 Android13系统定制(编译问题解决)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498767&idx=1&sn=89114aff3aeaff0bb936e3d5b867fa10
+    - author: 吾爱破解论坛
+      release_time: 2025.10.06 08:09:11
+      title: （图作者 | @Aoemax）
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143105&idx=1&sn=e5c65c407fb0f85eb24cd54c7e071ffc
     - author: 哆啦安全
       release_time: 2025.10.05 08:23:20
       title: 逆向分析工具(IDA9)
@@ -236,17 +244,13 @@
       release_time: 2025.10.04 18:31:59
       title: Vue router文档安全向学习(基础总结)
       url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486400&idx=1&sn=13889bd59142a86371d59704800badcc
-    - author: Spade sec
-      release_time: 2025.10.04 18:31:59
-      title: Vue router文档安全向学习(进阶总结)
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486400&idx=2&sn=b6e3a73d11e940ba282bdf0a9b1bf04f
-    - author: 哆啦安全
-      release_time: 2025.10.03 17:36:00
-      title: 鸿蒙(HarmonyOS Next)系统提取手机本地已安装应用的hap包
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498740&idx=1&sn=a94a889924cc2870c3b241bf69f02001
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 板砖亲你头
+      release_time: 2025.10.11 14:40:00
+      title: 基于 AST 手撕 xm-sign 生成逻辑：从环境补全到代码深度解析
+      url: https://www.52pojie.cn/thread-2065208-1-1.html
     - author: plusboy
       release_time: 2025.10.10 16:35:00
       title: 行车记录仪 App 会员逆向分析
@@ -363,10 +367,6 @@
       release_time: 2025.09.17 11:50:00
       title: 码上爬 1~7关js逆向代码
       url: https://www.52pojie.cn/thread-2060789-1-1.html
-    - author: cure888
-      release_time: 2025.09.14 17:18:00
-      title: 某8旗下安某某App登录参数分析
-      url: https://www.52pojie.cn/thread-2060153-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
