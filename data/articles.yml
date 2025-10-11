@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.10.11 14:53:32
+      title: JS逆向 -- 记一次简单的JS(ob高级)混淆算法逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040311&idx=1&sn=9fdc1afc58313e1561d4c309ed797d67
     - author: Frida and So
       release_time: 2025.10.11 14:08:19
       title: 魔改版Gadget绕过检测
@@ -240,10 +244,6 @@
       release_time: 2025.10.02 17:18:19
       title: FART脱壳:实现AJM壳级别的对抗功能+绕过全解析
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498718&idx=1&sn=0e118cb2558ded6f78ed452b77797555
-    - author: 哆啦安全
-      release_time: 2025.10.01 18:30:27
-      title: 基于Chrome开发者协议(CDP)的AI自动化JavaScript逆向分析工具
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498711&idx=1&sn=72016958edac50c297b1961fd17a3602
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
