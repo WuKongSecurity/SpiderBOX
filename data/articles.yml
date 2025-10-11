@@ -378,6 +378,10 @@
       release_time: 2025.10.11 15:55:55
       title: Wireshark常用过滤规则
       url: https://blog.csdn.net/weixin_45307278/article/details/153052070
+    - author: 悦来客栈的老板
+      release_time: 2025.10.11 10:15:25
+      title: AST反混淆实战|某爬虫靶场第二题混淆代码还原详解(二)
+      url: https://blog.csdn.net/qq523176585/article/details/153092242
     - author: GhHei
       release_time: 2025.10.10 23:06:42
       title: '[原创]Android-ARM64的VMP分析和还原'
@@ -486,10 +490,6 @@
       release_time: 2025.10.04 11:06:22
       title: '[原创]写一个简单的ollvm混淆还原'
       url: https://bbs.kanxue.com/thread-288667.htm
-    - author: Sherlockhuman
-      release_time: 2025.09.29 23:36:00
-      title: 深入解析LLVM代码混淆技术：从基本块分割到控制流混淆的实现原理
-      url: https://xz.aliyun.com/news/19089
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
