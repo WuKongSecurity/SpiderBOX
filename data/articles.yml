@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.10.11 17:33:14
+      title: 中国电子商会发布《生成式人工智能知识产权指南》团体标准
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519446&idx=1&sn=76a1efe599526e05b49b2600b21f74f3
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.10.11 17:33:14
+      title: 上海通管局通报大批金融APP/小程序违规收集处理个人信息
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519446&idx=2&sn=09e4862011819d3521c45bdd11c4acc0
     - author: 逆向有你
       release_time: 2025.10.11 14:53:32
       title: JS逆向 -- 记一次简单的JS(ob高级)混淆算法逆向分析
@@ -236,14 +244,6 @@
       release_time: 2025.10.03 17:36:00
       title: 鸿蒙(HarmonyOS Next)系统提取手机本地已安装应用的hap包
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498740&idx=1&sn=a94a889924cc2870c3b241bf69f02001
-    - author: 哆啦安全
-      release_time: 2025.10.03 17:36:00
-      title: Mobile-Agent-v3：新的 GUI Agents 开源王者
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498740&idx=2&sn=d18f8fe2b2b72e43e1be1963d223c1e5
-    - author: 哆啦安全
-      release_time: 2025.10.02 17:18:19
-      title: FART脱壳:实现AJM壳级别的对抗功能+绕过全解析
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498718&idx=1&sn=0e118cb2558ded6f78ed452b77797555
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
