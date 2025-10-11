@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.10.11 10:15:06
+      title: AST反混淆实战|某爬虫靶场第二题混淆代码还原详解(二)
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566108&idx=1&sn=5bb8548b22c2b61ee02e148d94895b38
     - author: SpiderDemo
       release_time: 2025.10.11 09:00:00
       title: SpiderDome网站新题-哈希，对称 , 非对称算法
@@ -240,10 +244,6 @@
       release_time: 2025.09.30 21:51:07
       title: 付费星球最新新增了很多实战案例，需要的可以冲冲看。
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566096&idx=1&sn=ae1faf65698e3aa03e52b5b3a6a699d0
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.09.30 16:48:26
-      title: 中国个人信息违规出境处罚第一案述评：跨国企业系统化本土数据合规体系的必要性
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519411&idx=1&sn=1801ccdc93545c8c293e7fe5ac4a6c38
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
