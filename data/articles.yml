@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: SpiderDemo
+      release_time: 2025.10.11 09:00:00
+      title: SpiderDome网站新题-哈希，对称 , 非对称算法
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMzg4NDI4Mw==&mid=2247484513&idx=1&sn=0739585d7cd2081f41cdac0a287b5f09
     - author: 菜鸟学Python编程
       release_time: 2025.10.10 21:00:00
       title: AST反混淆实战|某爬虫靶场第二题混淆代码还原详解(一)
@@ -204,6 +208,14 @@
       release_time: 2025.10.05 08:23:20
       title: Android ADB 调试工具 V3.0
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498755&idx=2&sn=e22603676ef7fcb4724d486a70f4afcb
+    - author: Spade sec
+      release_time: 2025.10.04 18:31:59
+      title: Vue router文档安全向学习(基础总结)
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486400&idx=1&sn=13889bd59142a86371d59704800badcc
+    - author: Spade sec
+      release_time: 2025.10.04 18:31:59
+      title: Vue router文档安全向学习(进阶总结)
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486400&idx=2&sn=b6e3a73d11e940ba282bdf0a9b1bf04f
     - author: 哆啦安全
       release_time: 2025.10.03 17:36:00
       title: 鸿蒙(HarmonyOS Next)系统提取手机本地已安装应用的hap包
@@ -232,18 +244,6 @@
       release_time: 2025.09.30 16:48:26
       title: 中国个人信息违规出境处罚第一案述评：跨国企业系统化本土数据合规体系的必要性
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519411&idx=1&sn=1801ccdc93545c8c293e7fe5ac4a6c38
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.09.30 16:48:26
-      title: 我国个人信息跨境安全管理领域首项国家标准发布（附全文及一图读懂）
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519411&idx=2&sn=ba7d9f2acd541399759fdbe31b4f577c
-    - author: 哆啦安全
-      release_time: 2025.09.30 10:09:33
-      title: so混淆加密|移植OLLVM到NDK并集成到 Android Studio
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498707&idx=1&sn=55e99d31ed67c61166ebeff20a184ffb
-    - author: 沐阳逆向学习
-      release_time: 2025.09.29 19:01:12
-      title: 3.Xposed框架入门指南：深入解析Hook内部类与匿名类的实现技巧
-      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484401&idx=1&sn=860f2425c39a258bde33811e5843775d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
