@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Solar安全
+      release_time: 2025.10.11 16:40:47
+      title: '[原创]【原创首发】全球首个“AI勒索软件”--纽约大学团队“PromptLock”深度剖析'
+      url: https://bbs.kanxue.com/thread-288737.htm
     - author: Nickname肖知寒
       release_time: 2025.10.11 15:55:55
       title: Wireshark常用过滤规则
@@ -486,10 +490,6 @@
       release_time: 2025.09.29 23:36:00
       title: 深入解析LLVM代码混淆技术：从基本块分割到控制流混淆的实现原理
       url: https://xz.aliyun.com/news/19089
-    - author: 努力的。。。
-      release_time: 2025.09.29 17:00:33
-      title: 结合ES搜索引擎和GUI图形界面设计 制作自己的音乐播放器
-      url: https://blog.csdn.net/2401_87946050/article/details/149152227
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
