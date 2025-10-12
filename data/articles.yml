@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.10.12 21:00:00
+      title: Google刚刚开源的一款AI工具，Gemini 2.5驱动浏览器自动化！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991035&idx=1&sn=daaed5cef8d99f60289edfbe50f1f53e
     - author: 搞点逆向778
       release_time: 2025.10.12 16:37:51
       title: 某书Tiny去花小记(上）
@@ -228,6 +232,10 @@
       release_time: 2025.10.09 09:30:00
       title: 码上爬解题实战：Python秒解参数加密
       url: https://mp.weixin.qq.com/s?__biz=Mzg5ODA3OTM1NA==&mid=2247493714&idx=1&sn=04cbd397b905810b1b33bffba853863a
+    - author: 未闻Code
+      release_time: 2025.10.08 21:03:27
+      title: Chatgpt pulse，会成为LLM版“今日头条”吗？（but 优质信息流）
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991032&idx=1&sn=89391d8ecd583050763205aac1d62cb2
     - author: Frida and So
       release_time: 2025.10.07 16:01:04
       title: 快手sig4补环境
@@ -236,14 +244,6 @@
       release_time: 2025.10.07 12:52:23
       title: 鸿蒙(HarmonyOS Next)系统日志调试增强工具
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498780&idx=1&sn=e007fd84edf874fd5644409151bb2458
-    - author: 哆啦安全
-      release_time: 2025.10.06 10:16:17
-      title: AOSP Pixel4 Android13系统定制(编译问题解决)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498767&idx=1&sn=89114aff3aeaff0bb936e3d5b867fa10
-    - author: 吾爱破解论坛
-      release_time: 2025.10.06 08:09:11
-      title: （图作者 | @Aoemax）
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143105&idx=1&sn=e5c65c407fb0f85eb24cd54c7e071ffc
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
