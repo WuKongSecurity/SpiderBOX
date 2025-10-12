@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 蜕无痕
+      release_time: 2025.10.12 21:31:59
+      title: '[原创]基于trace绕过CRC检测'
+      url: https://bbs.kanxue.com/thread-288745.htm
     - author: 烬奇小云
       release_time: 2025.10.12 14:07:41
       title: '[原创]IDA静态分析-逆向个人学习记录'
@@ -486,10 +490,6 @@
       release_time: 2025.10.06 11:06:22
       title: '[原创]Apk,jars,aars,wars,ears,jmods,zips混淆工具ProGuard7.7.0汉化'
       url: https://bbs.kanxue.com/thread-288686.htm
-    - author: 正己
-      release_time: 2025.10.05 11:06:22
-      title: '[原创]《安卓逆向这档事》第二十五课、Unidbg之补完环境我就睡(中)'
-      url: https://bbs.kanxue.com/thread-288678.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
