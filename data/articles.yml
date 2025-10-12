@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: nothing233
+      release_time: 2025.10.12 09:22:57
+      title: 'ptrace学习: 阅读 lldb 相关源码'
+      url: https://bbs.kanxue.com/thread-288740.htm
     - author: Solar安全
       release_time: 2025.10.11 16:40:47
       title: '[原创]【原创首发】全球首个“AI勒索软件”--纽约大学团队“PromptLock”深度剖析'
@@ -486,10 +490,6 @@
       release_time: 2025.10.04 21:26:26
       title: 使用ddddocr_trainer训练识别模型
       url: https://blog.csdn.net/bluedream21str/article/details/152519516
-    - author: 逆天而行
-      release_time: 2025.10.04 11:06:22
-      title: '[原创]写一个简单的ollvm混淆还原'
-      url: https://bbs.kanxue.com/thread-288667.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
