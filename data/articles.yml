@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: buluo533
+      release_time: 2025.10.12 22:04:00
+      title: 某黑盒app登录参数逆向分析
+      url: https://www.52pojie.cn/thread-2065441-1-1.html
     - author: Ceciliana
       release_time: 2025.10.12 21:50:00
       title: 某某Meta登录逆向
@@ -363,10 +367,6 @@
       release_time: 2025.09.20 14:26:00
       title: '[简单]记一次逆向去某学习机的ADB和APP安装限制'
       url: https://www.52pojie.cn/thread-2061491-1-1.html
-    - author: qixireal
-      release_time: 2025.09.17 15:17:00
-      title: zf逆向
-      url: https://www.52pojie.cn/thread-2060848-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
