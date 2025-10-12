@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.10.12 21:22:07
+      title: 本人将会继续更新反混淆插件百例系列以及海外各大厂的混淆还原，敬请期待。
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566115&idx=1&sn=37f670e210fd8c3f348b66336139d54e
     - author: 未闻Code
       release_time: 2025.10.12 21:00:00
       title: Google刚刚开源的一款AI工具，Gemini 2.5驱动浏览器自动化！
@@ -240,10 +244,6 @@
       release_time: 2025.10.07 16:01:04
       title: 快手sig4补环境
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247484788&idx=1&sn=08e080dc5e6f3df5fc236c1eb5a15232
-    - author: 哆啦安全
-      release_time: 2025.10.07 12:52:23
-      title: 鸿蒙(HarmonyOS Next)系统日志调试增强工具
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498780&idx=1&sn=e007fd84edf874fd5644409151bb2458
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
