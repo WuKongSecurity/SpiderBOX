@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 搞点逆向778
+      release_time: 2025.10.12 16:37:51
+      title: 某书Tiny去花小记(上）
+      url: https://mp.weixin.qq.com/s?__biz=MzUxMjE3Nzc3Mw==&mid=2247484267&idx=1&sn=44b784eeb80c323a68b77c796a70392e
     - author: 逆向有你
       release_time: 2025.10.12 00:00:00
       title: 安卓逆向 -- 某记账app加固脱修+解锁会员
@@ -240,10 +244,6 @@
       release_time: 2025.10.06 08:09:11
       title: （图作者 | @Aoemax）
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143105&idx=1&sn=e5c65c407fb0f85eb24cd54c7e071ffc
-    - author: 哆啦安全
-      release_time: 2025.10.05 08:23:20
-      title: 逆向分析工具(IDA9)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498755&idx=1&sn=3b0f2225549d12d28cbd516cf30507dc
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
