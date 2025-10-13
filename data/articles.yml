@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.10.14 00:00:00
+      title: JS逆向 -- 某东培训网络学院登录分析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040353&idx=1&sn=580b50d6f3aa6e4f97d84b013bfcf869
+    - author: 逆向有你
+      release_time: 2025.10.14 00:00:00
+      title: 每日免费资源更新（20251014）
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040353&idx=2&sn=0e5b7f740967b77692335e8ba9e06e63
     - author: 个人信息与数据保护实务评论
       release_time: 2025.10.13 16:12:20
       title: 澳洲航空系统被“黑”，约570万客户信息遭泄露
@@ -232,14 +240,6 @@
       release_time: 2025.10.10 15:18:34
       title: APK智能加固检测工具V3.0
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498791&idx=1&sn=ab844dea29232e0f9f659537818cb642
-    - author: 布鲁的Python之旅
-      release_time: 2025.10.10 15:11:34
-      title: 【更新】TaskPyro-Python爬虫管理平台最新2.2.2版本
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486223&idx=1&sn=084e06c0c1fa2b79bf956da7493afd98
-    - author: 逆向有你
-      release_time: 2025.10.10 10:05:59
-      title: 安卓逆向 -- 某浏览器去除白名单限制
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040291&idx=1&sn=5408b3dccdb16e924f061981f50aab2e
     - author: 小尘逆向之旅
       release_time: 2025.10.09 11:18:38
       title: 爬虫练习平台SpiderDemo发布！
