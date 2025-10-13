@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: SpiderDemo
+      release_time: 2025.10.13 09:00:00
+      title: 常见验证码训练思路（点选，滑块，计算题，gif等）
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMzg4NDI4Mw==&mid=2247484515&idx=1&sn=dee091514a40b7831c6abc89b2f687e9
+    - author: 测试工程师成长之路
+      release_time: 2025.10.13 08:30:00
+      title: 探索性测试：让测试更有灵魂的敏捷之道
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578161&idx=1&sn=462a139909702826ae03565584b73e77
+    - author: Coder小Q
+      release_time: 2025.10.13 08:30:00
+      title: 【密码学】选择明文攻击(CPA) & 选择密文攻击(CCA)
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492876&idx=1&sn=39af7928d6bf10222320d78a8545a3c8
+    - author: 榫卯江湖
+      release_time: 2025.10.13 08:08:00
+      title: eCaptureQ：给1.5万星标的开源项目eCapture装个酷炫的驾驶舱！
+      url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485182&idx=1&sn=f79470a17c89a1f3e67048512f08a8eb
     - author: 菜鸟学Python编程
       release_time: 2025.10.12 21:22:07
       title: 本人将会继续更新反混淆插件百例系列以及海外各大厂的混淆还原，敬请期待。
@@ -228,22 +244,6 @@
       release_time: 2025.10.09 10:27:48
       title: 携程抓包
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247484806&idx=1&sn=a066ce63d60c439fd80aad6fd0168131
-    - author: SpiderDome
-      release_time: 2025.10.09 09:47:11
-      title: 爬虫练习平台SpiderDome发布！
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMzg4NDI4Mw==&mid=2247484424&idx=1&sn=0e6d52262d015403522a610833062b1b
-    - author: 逆向与爬虫的故事
-      release_time: 2025.10.09 09:30:00
-      title: 码上爬解题实战：Python秒解参数加密
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5ODA3OTM1NA==&mid=2247493714&idx=1&sn=04cbd397b905810b1b33bffba853863a
-    - author: 未闻Code
-      release_time: 2025.10.08 21:03:27
-      title: Chatgpt pulse，会成为LLM版“今日头条”吗？（but 优质信息流）
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991032&idx=1&sn=89391d8ecd583050763205aac1d62cb2
-    - author: Frida and So
-      release_time: 2025.10.07 16:01:04
-      title: 快手sig4补环境
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247484788&idx=1&sn=08e080dc5e6f3df5fc236c1eb5a15232
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
