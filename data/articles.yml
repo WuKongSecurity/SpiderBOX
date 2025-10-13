@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.10.13 13:07:20
+      title: 自动生成鼠标移动和点击轨迹代码-骚神插件9.7.5
+      url: https://www.bilibili.com/video/BV1ar41zKEUy
     - author: ShriyGo
       release_time: 2025.10.10 21:56:26
       title: 百度旋转验证码分析
@@ -117,10 +121,6 @@
       release_time: 2025.08.30 14:34:37
       title: WebSocket反向代理+DP远程控制浏览器
       url: https://www.bilibili.com/video/BV1oUhvzsEgP
-    - author: B站用户骚神
-      release_time: 2025.08.27 10:10:34
-      title: SSH+DrissionPage 远程操控服务器上的浏览器
-      url: https://www.bilibili.com/video/BV13dekzyEsP
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
