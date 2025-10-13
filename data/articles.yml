@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2025.10.13 12:20:00
+      title: 详细介绍 | 付费浏览器内核定制+过自动化检测的研究教学圈子
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483841&idx=1&sn=c615438ebba7232cf1cd47355126650b
+    - author: 如意私塾
+      release_time: 2025.10.13 12:18:51
+      title: 打算做一个浏览器内核定制+过自动化检测的研究圈子
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483839&idx=1&sn=d1baae14fffabf0c35bfcfdc5f31438b
     - author: SpiderDemo
       release_time: 2025.10.13 09:00:00
       title: 常见验证码训练思路（点选，滑块，计算题，gif等）
@@ -236,14 +244,6 @@
       release_time: 2025.10.09 11:16:12
       title: 天爱行为验证wasm纯算分析
       url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484484&idx=1&sn=f67964e9e2ff6a4c1b842e065b3758c4
-    - author: 逆向有你
-      release_time: 2025.10.09 10:34:01
-      title: JS逆向 -- 记一次某免费音频听书网音频地址解析全过程
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040263&idx=1&sn=4973fbd45462961542e67e64208dd993
-    - author: Frida and So
-      release_time: 2025.10.09 10:27:48
-      title: 携程抓包
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247484806&idx=1&sn=a066ce63d60c439fd80aad6fd0168131
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
