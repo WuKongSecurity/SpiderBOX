@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.10.13 16:12:20
+      title: 澳洲航空系统被“黑”，约570万客户信息遭泄露
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519452&idx=1&sn=143de7850983c4dfdf24d1c058120eae
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.10.13 16:12:20
+      title: 最高人民法院发布互联网法院案件管辖规定（附全文+答记者问）
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519452&idx=2&sn=65777f0829d2e3c442d951aa01a10cc1
     - author: 哆啦安全
       release_time: 2025.10.13 14:34:51
       title: Android开发智能调试分析软件V4.0
@@ -232,14 +240,6 @@
       release_time: 2025.10.10 10:05:59
       title: 安卓逆向 -- 某浏览器去除白名单限制
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040291&idx=1&sn=5408b3dccdb16e924f061981f50aab2e
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.09 18:12:09
-      title: 多人因贩卖个人信息获刑：通过社交平台寻找客户，查询信息530余条
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519419&idx=1&sn=570eed424c5d4f7b52a5fe08649c2e0f
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.09 18:12:09
-      title: 欧盟数据保护委员会发布关于大规模IT系统审计周期的建议
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519419&idx=2&sn=7039ccd1417abb04151d707adea1a77c
     - author: 小尘逆向之旅
       release_time: 2025.10.09 11:18:38
       title: 爬虫练习平台SpiderDemo发布！
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: internnal_q
+      release_time: 2025.10.13 16:02:44
+      title: '[转帖]知识图谱构建'
+      url: https://bbs.kanxue.com/thread-288755.htm
     - author: 星云牛马
       release_time: 2025.10.12 21:41:16
       title: pingan好车主小程序 充电站、加油站列表`vmp+wasm`逆向
@@ -486,10 +490,6 @@
       release_time: 2025.10.07 11:06:22
       title: '[原创]飞车手游Java层分析到Xposed模块实战'
       url: https://bbs.kanxue.com/thread-288692.htm
-    - author: nianchu
-      release_time: 2025.10.07 11:06:22
-      title: '[原创]AI辅助逆向某咖啡白盒AES'
-      url: https://bbs.kanxue.com/thread-288694.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
