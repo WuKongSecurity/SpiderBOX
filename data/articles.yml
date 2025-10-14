@@ -128,18 +128,10 @@
       release_time: 2025.10.14 09:43:58
       title: 海外腾讯会议抓包
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247484827&idx=1&sn=ba15bd93d942e474c621d6f78a6fd466
-    - author: 小伍哥聊风控
-      release_time: 2025.10.14 08:29:00
-      title: 建议所有博士都去学一遍，真的赢麻了！！！
-      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650196996&idx=1&sn=71b842b70d55ddab0f39a08f5707694a
     - author: 逆向有你
       release_time: 2025.10.14 00:00:00
       title: JS逆向 -- 某东培训网络学院登录分析
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040353&idx=1&sn=580b50d6f3aa6e4f97d84b013bfcf869
-    - author: 逆向有你
-      release_time: 2025.10.14 00:00:00
-      title: 每日免费资源更新（20251014）
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040353&idx=2&sn=0e5b7f740967b77692335e8ba9e06e63
     - author: 个人信息与数据保护实务评论
       release_time: 2025.10.13 16:12:20
       title: 澳洲航空系统被“黑”，约570万客户信息遭泄露
@@ -244,6 +236,14 @@
       release_time: 2025.10.10 17:03:19
       title: TikTok跨境传输数据5.3亿欧元罚款决定全文公布
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519422&idx=1&sn=b61fb829d407517460ef6bc3da90b0ac
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.10.10 17:03:19
+      title: 雷诺汽车因第三方数据供应商遭黑客攻击导致客户信息泄露
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519422&idx=2&sn=4fa49167d3cbdb5762bcfe86218a2d61
+    - author: 哆啦安全
+      release_time: 2025.10.10 15:18:34
+      title: APK智能加固检测工具V3.0
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498791&idx=1&sn=ab844dea29232e0f9f659537818cb642
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,22 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 卡尺头
+      release_time: 2025.10.14 10:54:28
+      title: '[原创]虚拟相机vcamera v18破解'
+      url: https://bbs.kanxue.com/thread-288782.htm
+    - author: internnal_q
+      release_time: 2025.10.14 10:17:13
+      title: '[转帖]外文翻译'
+      url: https://bbs.kanxue.com/thread-288779.htm
+    - author: internnal_q
+      release_time: 2025.10.14 10:16:13
+      title: '[转帖]CTF对抗帖子'
+      url: https://bbs.kanxue.com/thread-288778.htm
+    - author: internnal_q
+      release_time: 2025.10.14 10:15:13
+      title: 安全工具
+      url: https://bbs.kanxue.com/thread-288777.htm
     - author: internnal_q
       release_time: 2025.10.14 09:45:49
       title: '[转帖]Web安全攻防'
@@ -474,22 +490,6 @@
       release_time: 2025.10.08 11:06:22
       title: '[原创]某盾设备指纹算法分析'
       url: https://bbs.kanxue.com/thread-288695.htm
-    - author: nianchu
-      release_time: 2025.10.08 11:06:22
-      title: '[原创]某咖啡(二)sign参数逆向分析'
-      url: https://bbs.kanxue.com/thread-288697.htm
-    - author: w2sfot
-      release_time: 2025.10.08 11:03:36
-      title: 免费JS加密工具、一键完成JS加密
-      url: https://blog.csdn.net/w2sft/article/details/152718741
-    - author: w2sfot
-      release_time: 2025.10.08 08:48:37
-      title: How to Deploy Your NestJS Apps on Vercel
-      url: https://blog.csdn.net/w2sft/article/details/152711016
-    - author: 努力的。。。
-      release_time: 2025.10.07 22:42:06
-      title: python-使用selenium在浏览器中执行js代码以实现逆向某些参数
-      url: https://blog.csdn.net/2401_87946050/article/details/152667533
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
