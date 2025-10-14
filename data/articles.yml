@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: Alone逆向安全
+      release_time: 2025.10.15 05:35:10
+      title: ida pro  9.1 qt 插件开发环境配置
+      url: https://www.bilibili.com/video/BV13N4ezwEwt
     - author: 逆向狗都不学
       release_time: 2025.10.14 07:35:28
       title: JS逆向实战之极验4
@@ -117,10 +121,6 @@
       release_time: 2025.09.01 15:08:58
       title: DrissionPage远程控制docker里浏览器
       url: https://www.bilibili.com/video/BV1QFaHzyE9m
-    - author: 逆向狗都不学
-      release_time: 2025.09.01 11:17:17
-      title: 某里231之AST反混淆
-      url: https://www.bilibili.com/video/BV1GqaJzrEug
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
