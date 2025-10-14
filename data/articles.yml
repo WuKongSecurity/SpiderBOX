@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.10.14 13:23:36
+      title: APK智能分析软件V4.0
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498809&idx=1&sn=5cb2b58386cf444f79992c3e0e9dfb4b
     - author: Frida and So
       release_time: 2025.10.14 09:43:58
       title: 海外腾讯会议抓包
@@ -240,10 +244,6 @@
       release_time: 2025.10.10 17:03:19
       title: 雷诺汽车因第三方数据供应商遭黑客攻击导致客户信息泄露
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519422&idx=2&sn=4fa49167d3cbdb5762bcfe86218a2d61
-    - author: 哆啦安全
-      release_time: 2025.10.10 15:18:34
-      title: APK智能加固检测工具V3.0
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498791&idx=1&sn=ab844dea29232e0f9f659537818cb642
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
