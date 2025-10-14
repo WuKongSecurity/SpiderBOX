@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.10.14 16:49:18
+      title: 欧盟就《关于DMA与GDPR协同适用的联合指南》公开征求意见
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519459&idx=1&sn=6d7e13fc449fdb174de516ea7d76d37f
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.10.14 16:49:18
+      title: 国家网络安全通报中心：34款App违法违规收集个人信息
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519459&idx=2&sn=c04147e16568f1cbfa5f1910192ce761
     - author: 如意私塾
       release_time: 2025.10.14 14:54:37
       title: 改造数据采集浏览器内核，实现看到的数据都爬下来
@@ -236,14 +244,6 @@
       release_time: 2025.10.10 20:37:12
       title: 研究了下acw_sc__v2参数
       url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811175&idx=1&sn=a6eb72ec3b5a771b425b69cbeaa0ad40
-    - author: 理想真会玩
-      release_time: 2025.10.10 18:37:18
-      title: Nstbrowser 指纹浏览器实践篇
-      url: https://mp.weixin.qq.com/s?__biz=MzIwODg1MjQ4OQ==&mid=2247485627&idx=1&sn=b4f0f947ffce898d21f7732f7f9e0174
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.10 17:03:19
-      title: TikTok跨境传输数据5.3亿欧元罚款决定全文公布
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519422&idx=1&sn=b61fb829d407517460ef6bc3da90b0ac
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
