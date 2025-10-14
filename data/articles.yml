@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2025.10.14 14:54:37
+      title: 改造数据采集浏览器内核，实现看到的数据都爬下来
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483846&idx=1&sn=9302bbae59da617e63044e0102537b0d
     - author: 哆啦安全
       release_time: 2025.10.14 13:23:36
       title: APK智能分析软件V4.0
@@ -240,10 +244,6 @@
       release_time: 2025.10.10 17:03:19
       title: TikTok跨境传输数据5.3亿欧元罚款决定全文公布
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519422&idx=1&sn=b61fb829d407517460ef6bc3da90b0ac
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.10 17:03:19
-      title: 雷诺汽车因第三方数据供应商遭黑客攻击导致客户信息泄露
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519422&idx=2&sn=4fa49167d3cbdb5762bcfe86218a2d61
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -394,6 +394,10 @@
       release_time: 2025.10.14 09:45:49
       title: '[转帖]Web安全攻防'
       url: https://bbs.kanxue.com/thread-288767.htm
+    - author: w2sfot
+      release_time: 2025.10.14 07:57:22
+      title: 一款好用的内存加速软件：《智能内存释放精灵》
+      url: https://blog.csdn.net/w2sft/article/details/153244109
     - author: wx_张三_488
       release_time: 2025.10.13 18:57:42
       title: '[原创]简单实现 DDoZ 客户端内存耗尽攻击'
@@ -410,6 +414,10 @@
       release_time: 2025.10.12 21:31:59
       title: '[原创]基于trace绕过CRC检测'
       url: https://bbs.kanxue.com/thread-288745.htm
+    - author: 努力的。。。
+      release_time: 2025.10.12 20:54:17
+      title: 基于 WebSocket 协议的实时弹幕通信机制分析-抖音
+      url: https://blog.csdn.net/2401_87946050/article/details/153136422
     - author: 烬奇小云
       release_time: 2025.10.12 14:07:41
       title: '[原创]IDA静态分析-逆向个人学习记录'
@@ -482,14 +490,6 @@
       release_time: 2025.10.09 11:06:22
       title: '[原创]某短视频 sig3 逆向纯算分析'
       url: https://bbs.kanxue.com/thread-288710.htm
-    - author: 正己
-      release_time: 2025.10.09 11:06:22
-      title: '[原创]《安卓逆向这档事》第二十六课、Unidbg之补完环境我就睡(下)'
-      url: https://bbs.kanxue.com/thread-288711.htm
-    - author: w2sfot
-      release_time: 2025.10.09 08:04:47
-      title: 神奇的JS代码加密：隐形！
-      url: https://blog.csdn.net/w2sft/article/details/152773824
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
