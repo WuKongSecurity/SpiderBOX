@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 搞点逆向778
+      release_time: 2025.10.14 21:25:47
+      title: 某书Tiny去花小记(下）
+      url: https://mp.weixin.qq.com/s?__biz=MzUxMjE3Nzc3Mw==&mid=2247484420&idx=1&sn=c2f018f3deb541ff98032c44e7fa4835
+    - author: 菜鸟学Python编程
+      release_time: 2025.10.14 21:00:00
+      title: AST反混淆实战|某爬虫靶场第二题混淆代码还原详解(三)
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566122&idx=1&sn=89cdfe85ae609cd90241b53aaf95aba1
     - author: 个人信息与数据保护实务评论
       release_time: 2025.10.14 16:49:18
       title: 欧盟就《关于DMA与GDPR协同适用的联合指南》公开征求意见
@@ -236,14 +244,6 @@
       release_time: 2025.10.11 09:00:00
       title: SpiderDome网站新题-哈希，对称 , 非对称算法
       url: https://mp.weixin.qq.com/s?__biz=MzkwMzg4NDI4Mw==&mid=2247484513&idx=1&sn=0739585d7cd2081f41cdac0a287b5f09
-    - author: 菜鸟学Python编程
-      release_time: 2025.10.10 21:00:00
-      title: AST反混淆实战|某爬虫靶场第二题混淆代码还原详解(一)
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566102&idx=1&sn=ccd92621f7134781851fac9db6c35fb4
-    - author: 静夜随想
-      release_time: 2025.10.10 20:37:12
-      title: 研究了下acw_sc__v2参数
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811175&idx=1&sn=a6eb72ec3b5a771b425b69cbeaa0ad40
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
