@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 努力的菜鸡
+      release_time: 2025.10.15 01:16:48
+      title: '[原创]某书x-mini-s1参数分析及vm还原'
+      url: https://bbs.kanxue.com/thread-288787.htm
     - author: 王辉辉的猫
       release_time: 2025.10.14 13:43:23
       title: 008.chromium编译进阶-cookie持久化存储
@@ -486,10 +490,6 @@
       release_time: 2025.10.09 11:06:22
       title: 某音旧版本X-Argus的加密key的获取
       url: https://bbs.kanxue.com/thread-288704.htm
-    - author: coder777
-      release_time: 2025.10.09 11:06:22
-      title: '[原创]某短视频 sig3 逆向纯算分析'
-      url: https://bbs.kanxue.com/thread-288710.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
