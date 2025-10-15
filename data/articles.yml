@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2025.10.15 12:04:25
+      title: 对TLS的迷信 | 爬虫人员对TLS指纹的神话
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483851&idx=1&sn=0b978742b1bf83d5109affba88bfc988
     - author: 小小杨学编程
       release_time: 2025.10.15 11:23:00
       title: 抖X视频最新JSVMP+WASM纯算法分析
@@ -240,10 +244,6 @@
       release_time: 2025.10.11 18:08:25
       title: 吾爱破解安卓逆向入门教程《安卓逆向这档事》二十四课、Unidbg之补完环境我就睡(中)
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143113&idx=1&sn=e4e6bd5995e65d55f54dd1b3fcbf5702
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.11 17:33:14
-      title: 中国电子商会发布《生成式人工智能知识产权指南》团体标准
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519446&idx=1&sn=76a1efe599526e05b49b2600b21f74f3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
