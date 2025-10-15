@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.10.15 16:53:00
+      title: 好库推荐|验证码(缺口)识别项目专题
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566126&idx=1&sn=e0a83138bfe4811507f6557bdc5a5fd5
     - author: 个人信息与数据保护实务评论
       release_time: 2025.10.15 16:38:17
       title: 奥地利裁定微软365教育版非法追踪学生数据，要求限期整改
@@ -240,10 +244,6 @@
       release_time: 2025.10.12 16:37:51
       title: 某书Tiny去花小记(上）
       url: https://mp.weixin.qq.com/s?__biz=MzUxMjE3Nzc3Mw==&mid=2247484267&idx=1&sn=44b784eeb80c323a68b77c796a70392e
-    - author: 逆向有你
-      release_time: 2025.10.12 00:00:00
-      title: 安卓逆向 -- 某记账app加固脱修+解锁会员
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040337&idx=1&sn=a9eb787ffe879f4e8d723dec74cdc7e4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
