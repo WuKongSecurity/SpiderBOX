@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.10.15 21:00:00
+      title: PDF 转换为 Markdown 的 5 大工具
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991039&idx=1&sn=36688794ce0ed517cd4faecacf225959
     - author: 菜鸟学Python编程
       release_time: 2025.10.15 16:53:00
       title: 好库推荐|验证码(缺口)识别项目专题
@@ -240,10 +244,6 @@
       release_time: 2025.10.12 21:00:00
       title: Google刚刚开源的一款AI工具，Gemini 2.5驱动浏览器自动化！
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991035&idx=1&sn=daaed5cef8d99f60289edfbe50f1f53e
-    - author: 搞点逆向778
-      release_time: 2025.10.12 16:37:51
-      title: 某书Tiny去花小记(上）
-      url: https://mp.weixin.qq.com/s?__biz=MzUxMjE3Nzc3Mw==&mid=2247484267&idx=1&sn=44b784eeb80c323a68b77c796a70392e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -374,6 +374,10 @@
       release_time: 2025.10.15 16:47:38
       title: '[原创] 2025-9月Solar应急响应月赛WP！'
       url: https://bbs.kanxue.com/thread-288799.htm
+    - author: 狗都不学爬虫_
+      release_time: 2025.10.15 14:49:10
+      title: JS逆向入门案例-《Qing创网》表单和响应加解密 -18
+      url: https://blog.csdn.net/qq_53444631/article/details/153316925
     - author: angelToms
       release_time: 2025.10.15 14:08:57
       title: '[原创]逆向之常用算法识别方式'
@@ -486,10 +490,6 @@
       release_time: 2025.10.09 17:06:21
       title: '[原创]unidbg还原pangle(TikTok 旗下)算法'
       url: https://bbs.kanxue.com/thread-288714.htm
-    - author: 狗都不学爬虫_
-      release_time: 2025.10.09 12:07:51
-      title: JS逆向 - 全国物流查询（sign）WASM
-      url: https://blog.csdn.net/qq_53444631/article/details/152789084
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
