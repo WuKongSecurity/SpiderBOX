@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.10.15 16:38:17
+      title: 奥地利裁定微软365教育版非法追踪学生数据，要求限期整改
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519461&idx=1&sn=ea882b6ef1f43b6132e4c403e1d759c4
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.10.15 16:38:17
+      title: Salesforce漏洞致越南航空730万条客户个人数据泄露
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519461&idx=2&sn=21615233897a7d58252b88187a069d57
     - author: 如意私塾
       release_time: 2025.10.15 12:04:25
       title: 对TLS的迷信 | 爬虫人员对TLS指纹的神话
@@ -236,14 +244,6 @@
       release_time: 2025.10.12 00:00:00
       title: 安卓逆向 -- 某记账app加固脱修+解锁会员
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040337&idx=1&sn=a9eb787ffe879f4e8d723dec74cdc7e4
-    - author: Spade sec
-      release_time: 2025.10.11 23:34:36
-      title: 长文 or 短文？
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486592&idx=1&sn=5e674b593df41ab051f703bad0caee7e
-    - author: 吾爱破解论坛
-      release_time: 2025.10.11 18:08:25
-      title: 吾爱破解安卓逆向入门教程《安卓逆向这档事》二十四课、Unidbg之补完环境我就睡(中)
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143113&idx=1&sn=e4e6bd5995e65d55f54dd1b3fcbf5702
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Solar安全
+      release_time: 2025.10.15 16:47:38
+      title: '[原创] 2025-9月Solar应急响应月赛WP！'
+      url: https://bbs.kanxue.com/thread-288799.htm
     - author: angelToms
       release_time: 2025.10.15 14:08:57
       title: '[原创]逆向之常用算法识别方式'
@@ -486,10 +490,6 @@
       release_time: 2025.10.09 12:07:51
       title: JS逆向 - 全国物流查询（sign）WASM
       url: https://blog.csdn.net/qq_53444631/article/details/152789084
-    - author: hexdeep
-      release_time: 2025.10.09 11:06:22
-      title: '[原创]新人贴，记录工作中解决bug用到的逆向知识'
-      url: https://bbs.kanxue.com/thread-288702.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
