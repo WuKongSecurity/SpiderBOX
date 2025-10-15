@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 奋飞安全
+      release_time: 2025.10.15 10:22:52
+      title: 别被外壳骗了，那只是柔软的伪装 - 某小说App Token算法分析
+      url: https://mp.weixin.qq.com/s?__biz=MzI4NzMwNDI3OQ==&mid=2247485006&idx=1&sn=77dba3f9334e0a0191b00cfcdb6bbb2f
+    - author: 逆向有你
+      release_time: 2025.10.15 10:08:00
+      title: 安卓逆向 -- 手撕某歌服务校验
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040404&idx=1&sn=7dd67f3f687e78c1d6bd15d44654711b
+    - author: 哆啦安全
+      release_time: 2025.10.15 09:11:54
+      title: APK智能分析软件(全面检测增强版)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498822&idx=1&sn=1f9cd34c03a6355caaaa757e00b828ea
+    - author: 哆啦安全
+      release_time: 2025.10.15 09:11:54
+      title: Android开发智能调试分析软件V2.0
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498822&idx=2&sn=20c981eb1767f59e451f18f49305e33b
     - author: Spade sec
       release_time: 2025.10.15 09:00:00
       title: AntiDebug_Breaker v1.5更新
@@ -228,22 +244,6 @@
       release_time: 2025.10.11 17:33:14
       title: 上海通管局通报大批金融APP/小程序违规收集处理个人信息
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519446&idx=2&sn=09e4862011819d3521c45bdd11c4acc0
-    - author: 逆向有你
-      release_time: 2025.10.11 14:53:32
-      title: JS逆向 -- 记一次简单的JS(ob高级)混淆算法逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040311&idx=1&sn=9fdc1afc58313e1561d4c309ed797d67
-    - author: Frida and So
-      release_time: 2025.10.11 14:08:19
-      title: 魔改版Gadget绕过检测
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247484816&idx=1&sn=aa8af70bb7f3c6cb99c43a5c4afb5e9a
-    - author: 菜鸟学Python编程
-      release_time: 2025.10.11 10:15:06
-      title: AST反混淆实战|某爬虫靶场第二题混淆代码还原详解(二)
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566108&idx=1&sn=5bb8548b22c2b61ee02e148d94895b38
-    - author: Spade sec
-      release_time: 2025.10.11 09:23:31
-      title: 爬虫练习平台SpiderDemo发布！
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486587&idx=1&sn=9c88b271cdc686c5b7e01aaca6dd3c7b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: tuosen
+      release_time: 2025.10.15 10:32:07
+      title: '[原创]谷歌上架之孟加拉马甲包逆向'
+      url: https://bbs.kanxue.com/thread-288789.htm
     - author: 努力的菜鸡
       release_time: 2025.10.15 01:16:48
       title: '[原创]某书x-mini-s1参数分析及vm还原'
@@ -486,10 +490,6 @@
       release_time: 2025.10.09 11:06:22
       title: 模块解决pixel7的32位兼容问题
       url: https://bbs.kanxue.com/thread-288703.htm
-    - author: 我一无所知
-      release_time: 2025.10.09 11:06:22
-      title: 某音旧版本X-Argus的加密key的获取
-      url: https://bbs.kanxue.com/thread-288704.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
