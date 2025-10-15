@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小小杨学编程
+      release_time: 2025.10.15 11:23:00
+      title: 抖X视频最新JSVMP+WASM纯算法分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484521&idx=1&sn=251039f9dc5f39315b24fd5934b3dce0
     - author: 奋飞安全
       release_time: 2025.10.15 10:22:52
       title: 别被外壳骗了，那只是柔软的伪装 - 某小说App Token算法分析
@@ -240,10 +244,6 @@
       release_time: 2025.10.11 17:33:14
       title: 中国电子商会发布《生成式人工智能知识产权指南》团体标准
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519446&idx=1&sn=76a1efe599526e05b49b2600b21f74f3
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.11 17:33:14
-      title: 上海通管局通报大批金融APP/小程序违规收集处理个人信息
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519446&idx=2&sn=09e4862011819d3521c45bdd11c4acc0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
