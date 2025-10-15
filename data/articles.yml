@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Spade sec
+      release_time: 2025.10.15 09:00:00
+      title: AntiDebug_Breaker v1.5更新
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486610&idx=1&sn=c963f80c0aa555ac7f024312d5c8587f
     - author: 搞点逆向778
       release_time: 2025.10.14 21:25:47
       title: 某书Tiny去花小记(下）
@@ -240,10 +244,6 @@
       release_time: 2025.10.11 09:23:31
       title: 爬虫练习平台SpiderDemo发布！
       url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486587&idx=1&sn=9c88b271cdc686c5b7e01aaca6dd3c7b
-    - author: SpiderDemo
-      release_time: 2025.10.11 09:00:00
-      title: SpiderDome网站新题-哈希，对称 , 非对称算法
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMzg4NDI4Mw==&mid=2247484513&idx=1&sn=0739585d7cd2081f41cdac0a287b5f09
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
