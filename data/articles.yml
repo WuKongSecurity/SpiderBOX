@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.10.16 09:08:00
+      title: PC逆向 -- 摸着石头过河,一个WPF程序的反编译全过程
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040438&idx=1&sn=6e824f84e7cbbe4a1ca8d4200a68bdda
+    - author: 测试工程师成长之路
+      release_time: 2025.10.16 08:00:00
+      title: 取代测试岗，又一新兴岗位在崛起！这才是测试人未来5年最好的就业方向！
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578168&idx=1&sn=1e31ab70bfbb4a423a8c09fb9970b2e4
     - author: 未闻Code
       release_time: 2025.10.15 21:00:00
       title: PDF 转换为 Markdown 的 5 大工具
@@ -236,14 +244,6 @@
       release_time: 2025.10.13 08:08:00
       title: eCaptureQ：给1.5万星标的开源项目eCapture装个酷炫的驾驶舱！
       url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485182&idx=1&sn=f79470a17c89a1f3e67048512f08a8eb
-    - author: 菜鸟学Python编程
-      release_time: 2025.10.12 21:22:07
-      title: 本人将会继续更新反混淆插件百例系列以及海外各大厂的混淆还原，敬请期待。
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566115&idx=1&sn=37f670e210fd8c3f348b66336139d54e
-    - author: 未闻Code
-      release_time: 2025.10.12 21:00:00
-      title: Google刚刚开源的一款AI工具，Gemini 2.5驱动浏览器自动化！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991035&idx=1&sn=daaed5cef8d99f60289edfbe50f1f53e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
