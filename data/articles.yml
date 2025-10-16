@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Frida and So
+      release_time: 2025.10.16 19:30:34
+      title: Flutter app抓包
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247484846&idx=1&sn=00f9a70e5b93c69b5a5d59dafa74db1b
     - author: 个人信息与数据保护实务评论
       release_time: 2025.10.16 17:25:29
       title: EDPB公布2026年将透明度要求作为执法重点
@@ -240,10 +244,6 @@
       release_time: 2025.10.13 16:12:20
       title: 最高人民法院发布互联网法院案件管辖规定（附全文+答记者问）
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519452&idx=2&sn=65777f0829d2e3c442d951aa01a10cc1
-    - author: 哆啦安全
-      release_time: 2025.10.13 14:34:51
-      title: Android开发智能调试分析软件V4.0
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498802&idx=1&sn=8fef7b92e5b35dee5b05582790c59611
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
