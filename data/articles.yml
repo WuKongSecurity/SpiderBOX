@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: LiSAimer
+      release_time: 2025.10.16 13:53:00
+      title: WebSocket通信逆向实战：加解密剖析与完整HTML重构（内附源码）
+      url: https://www.52pojie.cn/thread-2066191-1-1.html
     - author: buluo533
       release_time: 2025.10.12 22:04:00
       title: 某黑盒app登录参数逆向分析
@@ -363,10 +367,6 @@
       release_time: 2025.09.20 19:23:00
       title: 初窺NP手遊保護
       url: https://www.52pojie.cn/thread-2061538-1-1.html
-    - author: KoCleo
-      release_time: 2025.09.20 14:26:00
-      title: '[简单]记一次逆向去某学习机的ADB和APP安装限制'
-      url: https://www.52pojie.cn/thread-2061491-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
