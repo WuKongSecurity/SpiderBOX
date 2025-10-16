@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 猿人学Python
+      release_time: 2025.10.16 15:30:15
+      title: 大学留级一年 却出道即颠峰 ddddocr作者
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448549993&idx=1&sn=4cabbd17f46dcb59ecbf3c1962fa0504
     - author: 平底锅煎蛋
       release_time: 2025.10.16 11:52:10
       title: 安卓逆向VMP——码表复原
@@ -240,10 +244,6 @@
       release_time: 2025.10.13 08:30:00
       title: 探索性测试：让测试更有灵魂的敏捷之道
       url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578161&idx=1&sn=462a139909702826ae03565584b73e77
-    - author: Coder小Q
-      release_time: 2025.10.13 08:30:00
-      title: 【密码学】选择明文攻击(CPA) & 选择密文攻击(CCA)
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492876&idx=1&sn=39af7928d6bf10222320d78a8545a3c8
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
