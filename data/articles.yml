@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.10.16 16:08:06
+      title: 吾爱破解安卓逆向入门教程《安卓逆向这档事》二十五课、Unidbg之补完环境我就睡(下)
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143121&idx=1&sn=9caa5cd0ac9247326dcbbd36f581b28d
     - author: 猿人学Python
       release_time: 2025.10.16 15:30:15
       title: 大学留级一年 却出道即颠峰 ddddocr作者
@@ -240,10 +244,6 @@
       release_time: 2025.10.13 09:00:00
       title: 常见验证码训练思路（点选，滑块，计算题，gif等）
       url: https://mp.weixin.qq.com/s?__biz=MzkwMzg4NDI4Mw==&mid=2247484515&idx=1&sn=dee091514a40b7831c6abc89b2f687e9
-    - author: 测试工程师成长之路
-      release_time: 2025.10.13 08:30:00
-      title: 探索性测试：让测试更有灵魂的敏捷之道
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578161&idx=1&sn=462a139909702826ae03565584b73e77
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
