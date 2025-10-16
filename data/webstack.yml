@@ -1445,8 +1445,8 @@
           description: 支持 reCAPTCHA、hCaptcha、Arkose Labs FunCaptcha、Cloudflare Turnstile、PerimeterX（Human）、Geetest（极验）、Amazon（AWS） WAF、Lemin Captcha 等
         - title: CaptchaAI
           logo: captchaai.png
-          url: https://captchaai.com/
-          description: 支持 reCAPTCHA、hCaptcha 等
+          url: https://captchaai.com/lp/spiderbox-special-offer.255484
+          description: 支持 reCAPTCHA、文本英字符验证码等，通过此专属链接可获取 15% 折扣
         - title: Solve Captcha
           logo: solvecaptcha.jpg
           url: https://solvecaptcha.com/
@@ -2151,6 +2151,10 @@
           logo: novada.png
           url: http://www.novada.com/?utm_source=spiderbox
           description: Global residential and datacenter proxies for fast, reliable web scraping. Extract public data from any website at scale effortlessly.
+        - title: Proxied
+          logo: proxied.png
+          url: https://proxied.com/?utm_source=spiderbox&utm_medium=partner
+          description: 5g 移动代理, Dedicated Mobile Proxies.
 #        - title: WTFproxy
 #          logo: wtfproxy.png
 #          url: https://www.wtfproxy.com/
