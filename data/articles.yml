@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 平底锅煎蛋
+      release_time: 2025.10.16 11:52:10
+      title: 安卓逆向VMP——码表复原
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTcyMjcwOA==&mid=2247483992&idx=1&sn=9cdbcd654d9fd078149aec000faaf9a7
     - author: 逆向有你
       release_time: 2025.10.16 09:08:00
       title: PC逆向 -- 摸着石头过河,一个WPF程序的反编译全过程
@@ -240,10 +244,6 @@
       release_time: 2025.10.13 08:30:00
       title: 【密码学】选择明文攻击(CPA) & 选择密文攻击(CCA)
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492876&idx=1&sn=39af7928d6bf10222320d78a8545a3c8
-    - author: 榫卯江湖
-      release_time: 2025.10.13 08:08:00
-      title: eCaptureQ：给1.5万星标的开源项目eCapture装个酷炫的驾驶舱！
-      url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485182&idx=1&sn=f79470a17c89a1f3e67048512f08a8eb
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
