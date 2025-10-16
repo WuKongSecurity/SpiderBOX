@@ -375,6 +375,10 @@
       title: '[下载]xposed插件 HOOKUI 2.1已发布支持 直接mcp调用 ai控制 本地内存搜索'
       url: https://bbs.kanxue.com/thread-288827.htm
     - author: 悦来客栈的老板
+      release_time: 2025.10.16 17:00:39
+      title: AST反混淆实战|新版的5s盾混淆代码还原不了？不存在的。
+      url: https://blog.csdn.net/qq523176585/article/details/153439970
+    - author: 悦来客栈的老板
       release_time: 2025.10.15 16:53:37
       title: 好库推荐|验证码(缺口)识别项目专题
       url: https://blog.csdn.net/qq523176585/article/details/153374195
@@ -486,10 +490,6 @@
       release_time: 2025.10.10 16:19:44
       title: 系统加速小工具《系统提速精灵》
       url: https://blog.csdn.net/w2sft/article/details/152930073
-    - author: 王辉辉的猫
-      release_time: 2025.10.10 14:07:44
-      title: 007.chromium编译进阶-cookie明文存储
-      url: https://blog.csdn.net/w1101662433/article/details/152918810
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
