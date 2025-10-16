@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.10.16 17:25:29
+      title: EDPB公布2026年将透明度要求作为执法重点
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519477&idx=1&sn=e1e643167d2f59175bd3222e9abbe9e0
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.10.16 17:25:29
+      title: 英国知名外包公司Capita数百万数据被盗后被ICO罚款1400万英镑
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519477&idx=2&sn=3a5f376922e81115eb65bf2492a034eb
     - author: 菜鸟学Python编程
       release_time: 2025.10.16 17:00:00
       title: AST反混淆实战|新版的5s盾混淆代码还原不了？不存在的。
@@ -236,14 +244,6 @@
       release_time: 2025.10.13 14:34:51
       title: Android开发智能调试分析软件V4.0
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498802&idx=1&sn=8fef7b92e5b35dee5b05582790c59611
-    - author: 如意私塾
-      release_time: 2025.10.13 12:20:00
-      title: 详细介绍 | 付费浏览器内核定制+过自动化检测的研究教学圈子
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483841&idx=1&sn=c615438ebba7232cf1cd47355126650b
-    - author: 如意私塾
-      release_time: 2025.10.13 12:18:51
-      title: 打算做一个浏览器内核定制+过自动化检测的研究圈子
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483839&idx=1&sn=d1baae14fffabf0c35bfcfdc5f31438b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
