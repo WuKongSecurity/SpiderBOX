@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.10.16 17:00:00
+      title: AST反混淆实战|新版的5s盾混淆代码还原不了？不存在的。
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566136&idx=1&sn=8a87e6382d5d20e8a5a18bbad12fac63
     - author: 吾爱破解论坛
       release_time: 2025.10.16 16:08:06
       title: 吾爱破解安卓逆向入门教程《安卓逆向这档事》二十五课、Unidbg之补完环境我就睡(下)
@@ -240,10 +244,6 @@
       release_time: 2025.10.13 12:18:51
       title: 打算做一个浏览器内核定制+过自动化检测的研究圈子
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483839&idx=1&sn=d1baae14fffabf0c35bfcfdc5f31438b
-    - author: SpiderDemo
-      release_time: 2025.10.13 09:00:00
-      title: 常见验证码训练思路（点选，滑块，计算题，gif等）
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMzg4NDI4Mw==&mid=2247484515&idx=1&sn=dee091514a40b7831c6abc89b2f687e9
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
