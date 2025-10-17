@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 静夜随想
+      release_time: 2025.10.17 19:42:24
+      title: 听闻hexin-v更新了
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811179&idx=1&sn=917f902f472a7eafc068a1cf769b0546
     - author: 菜鸟学Python编程
       release_time: 2025.10.17 17:00:00
       title: AST基础知识|括号表达式类型知多少
@@ -240,10 +244,6 @@
       release_time: 2025.10.15 09:00:00
       title: AntiDebug_Breaker v1.5更新
       url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486610&idx=1&sn=c963f80c0aa555ac7f024312d5c8587f
-    - author: 搞点逆向778
-      release_time: 2025.10.14 21:25:47
-      title: 某书Tiny去花小记(下）
-      url: https://mp.weixin.qq.com/s?__biz=MzUxMjE3Nzc3Mw==&mid=2247484420&idx=1&sn=c2f018f3deb541ff98032c44e7fa4835
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
