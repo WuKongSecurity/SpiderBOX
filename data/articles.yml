@@ -378,6 +378,10 @@
       release_time: 2025.10.17 17:33:38
       title: '[讨论]我发布的hookui xposed插件 用ai mcp hook的文章咋没引起轰动啊这是为啥'
       url: https://bbs.kanxue.com/thread-288839.htm
+    - author: 悦来客栈的老板
+      release_time: 2025.10.17 17:01:16
+      title: AST基础知识|括号表达式类型知多少
+      url: https://blog.csdn.net/qq523176585/article/details/153502458
     - author: 鞠婧祎
       release_time: 2025.10.16 23:39:29
       title: '[分享]邪修能去企业级的去签工具（半成品）'
@@ -486,10 +490,6 @@
       release_time: 2025.10.11 10:15:25
       title: AST反混淆实战|某爬虫靶场第二题混淆代码还原详解(二)
       url: https://blog.csdn.net/qq523176585/article/details/153092242
-    - author: GhHei
-      release_time: 2025.10.10 23:06:42
-      title: '[原创]Android-ARM64的VMP分析和还原'
-      url: https://bbs.kanxue.com/thread-288731.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
