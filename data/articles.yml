@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 爬虫逆向小林哥
+      release_time: 2025.10.17 14:59:00
+      title: 【网页逆向】xhs-xs vmp wasm
+      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247486840&idx=1&sn=cda998c55e777976f61253a2acd69bf3
     - author: 二进制磨剑
       release_time: 2025.10.17 09:20:00
       title: '第 6 期: App 流量安全与协议逆向工程'
@@ -240,10 +244,6 @@
       release_time: 2025.10.14 16:49:18
       title: 国家网络安全通报中心：34款App违法违规收集个人信息
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519459&idx=2&sn=c04147e16568f1cbfa5f1910192ce761
-    - author: 如意私塾
-      release_time: 2025.10.14 14:54:37
-      title: 改造数据采集浏览器内核，实现看到的数据都爬下来
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483846&idx=1&sn=9302bbae59da617e63044e0102537b0d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
