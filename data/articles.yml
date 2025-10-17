@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: 2025.10.17 09:20:00
+      title: '第 6 期: App 流量安全与协议逆向工程'
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485750&idx=1&sn=559e87faf49548288f0e2af8e15ae357
+    - author: 极验
+      release_time: 2025.10.17 09:03:28
+      title: 2025 年击败 BotBrowser：极验如何阻止跨平台指纹浏览器
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649723944&idx=1&sn=395443c39b9ba5fd3947595fb4ea68db
+    - author: SpiderDemo
+      release_time: 2025.10.17 09:01:00
+      title: Spiderdemo网站新题---点击拼图验证码
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMzg4NDI4Mw==&mid=2247484523&idx=1&sn=2c87f2e85fd9b301f1404cfa88e38e5d
+    - author: Coder小Q
+      release_time: 2025.10.17 08:30:00
+      title: 【密码学】消息认证码(MAC)
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492901&idx=1&sn=731bbc07fad01b0761e244681f57efc4
     - author: 将往的爬虫逆向日记
       release_time: 2025.10.16 22:09:09
       title: Python爬虫入门：spiderdemo题解及详细思路（简单篇）
@@ -228,22 +244,6 @@
       release_time: 2025.10.14 14:54:37
       title: 改造数据采集浏览器内核，实现看到的数据都爬下来
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483846&idx=1&sn=9302bbae59da617e63044e0102537b0d
-    - author: 哆啦安全
-      release_time: 2025.10.14 13:23:36
-      title: APK智能分析软件V4.0
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498809&idx=1&sn=5cb2b58386cf444f79992c3e0e9dfb4b
-    - author: Frida and So
-      release_time: 2025.10.14 09:43:58
-      title: 海外腾讯会议抓包
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247484827&idx=1&sn=ba15bd93d942e474c621d6f78a6fd466
-    - author: 逆向有你
-      release_time: 2025.10.14 00:00:00
-      title: JS逆向 -- 某东培训网络学院登录分析
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040353&idx=1&sn=580b50d6f3aa6e4f97d84b013bfcf869
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.13 16:12:20
-      title: 澳洲航空系统被“黑”，约570万客户信息遭泄露
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519452&idx=1&sn=143de7850983c4dfdf24d1c058120eae
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 鞠婧祎
+      release_time: 2025.10.16 23:39:29
+      title: '[分享]邪修能去企业级的去签工具（半成品）'
+      url: https://bbs.kanxue.com/thread-288829.htm
     - author: 情迁
       release_time: 2025.10.16 18:14:18
       title: '[下载]xposed插件 HOOKUI 2.1已发布支持 直接mcp调用 ai控制 本地内存搜索'
@@ -486,10 +490,6 @@
       release_time: 2025.10.10 17:38:56
       title: 爬虫练习平台SpiderDemo 题目魔改md5+补环境逆向解析过程难度中等
       url: https://blog.csdn.net/weixin_59616601/article/details/152934799
-    - author: w2sfot
-      release_time: 2025.10.10 16:19:44
-      title: 系统加速小工具《系统提速精灵》
-      url: https://blog.csdn.net/w2sft/article/details/152930073
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
