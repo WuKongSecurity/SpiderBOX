@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.10.17 16:29:24
+      title: 携程因客户数据泄露风险面临韩国议会听证
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519489&idx=1&sn=a323d46615372eda7b4b92a5087615fa
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.10.17 16:29:24
+      title: 全球首个智能出行隐私保护国际标准启动制定
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519489&idx=2&sn=143d50853f3af95b67e3a0462bf46720
     - author: 爬虫逆向小林哥
       release_time: 2025.10.17 14:59:00
       title: 【网页逆向】xhs-xs vmp wasm
@@ -236,17 +244,13 @@
       release_time: 2025.10.14 21:00:00
       title: AST反混淆实战|某爬虫靶场第二题混淆代码还原详解(三)
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566122&idx=1&sn=89cdfe85ae609cd90241b53aaf95aba1
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.14 16:49:18
-      title: 欧盟就《关于DMA与GDPR协同适用的联合指南》公开征求意见
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519459&idx=1&sn=6d7e13fc449fdb174de516ea7d76d37f
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.14 16:49:18
-      title: 国家网络安全通报中心：34款App违法违规收集个人信息
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519459&idx=2&sn=c04147e16568f1cbfa5f1910192ce761
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: mysticz
+      release_time: 2025.10.17 15:49:00
+      title: Python爬虫入门：spiderdemo题解及详细思路（入门篇）
+      url: https://www.52pojie.cn/thread-2066443-1-1.html
     - author: LiSAimer
       release_time: 2025.10.16 13:53:00
       title: WebSocket通信逆向实战：加解密剖析与完整HTML重构（内附源码）
@@ -363,10 +367,6 @@
       release_time: 2025.09.22 18:40:00
       title: 超星某习通firda检测及定位签到分析
       url: https://www.52pojie.cn/thread-2061922-1-1.html
-    - author: ngiokweng
-      release_time: 2025.09.20 19:23:00
-      title: 初窺NP手遊保護
-      url: https://www.52pojie.cn/thread-2061538-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
