@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.10.17 17:00:00
+      title: AST基础知识|括号表达式类型知多少
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566143&idx=1&sn=232e37d4f85d278a67109215fe36cf54
     - author: 个人信息与数据保护实务评论
       release_time: 2025.10.17 16:29:24
       title: 携程因客户数据泄露风险面临韩国议会听证
@@ -240,10 +244,6 @@
       release_time: 2025.10.14 21:25:47
       title: 某书Tiny去花小记(下）
       url: https://mp.weixin.qq.com/s?__biz=MzUxMjE3Nzc3Mw==&mid=2247484420&idx=1&sn=c2f018f3deb541ff98032c44e7fa4835
-    - author: 菜鸟学Python编程
-      release_time: 2025.10.14 21:00:00
-      title: AST反混淆实战|某爬虫靶场第二题混淆代码还原详解(三)
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566122&idx=1&sn=89cdfe85ae609cd90241b53aaf95aba1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
