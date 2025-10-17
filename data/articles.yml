@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: RZERO
+      release_time: 2025.10.17 20:53:05
+      title: '[原创][开源自开发]JavaHumanify,将混淆过的 Java 代码自动去混淆 / 人性化命名'
+      url: https://bbs.kanxue.com/thread-288842.htm
     - author: 情迁
       release_time: 2025.10.17 17:33:38
       title: '[讨论]我发布的hookui xposed插件 用ai mcp hook的文章咋没引起轰动啊这是为啥'
@@ -486,10 +490,6 @@
       release_time: 2025.10.10 23:06:42
       title: '[原创]Android-ARM64的VMP分析和还原'
       url: https://bbs.kanxue.com/thread-288731.htm
-    - author: CSProtect1.0
-      release_time: 2025.10.10 22:41:40
-      title: '[原创]自定义linker壳'
-      url: https://bbs.kanxue.com/thread-288730.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
