@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.10.18 09:46:30
+      title: 去看女友的路上，他顺手拍下计算机史上最有名的照片！
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566145&idx=1&sn=71dc443df8cedfa4db54a548a65ca4c2
     - author: 静夜随想
       release_time: 2025.10.17 19:42:24
       title: 听闻hexin-v更新了
@@ -240,10 +244,6 @@
       release_time: 2025.10.15 09:11:54
       title: Android开发智能调试分析软件V2.0
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498822&idx=2&sn=20c981eb1767f59e451f18f49305e33b
-    - author: Spade sec
-      release_time: 2025.10.15 09:00:00
-      title: AntiDebug_Breaker v1.5更新
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486610&idx=1&sn=c963f80c0aa555ac7f024312d5c8587f
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
