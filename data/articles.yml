@@ -124,6 +124,30 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.10.20 09:42:02
+      title: 安卓逆向 -- Native化软件弹窗去除
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040516&idx=1&sn=cd16a089746f616439bea79ab6e14a57
+    - author: Spade sec
+      release_time: 2025.10.20 09:00:00
+      title: JS逆向系列23-Hook CryptoJS所有对称加密算法
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486739&idx=1&sn=461d4ca8e01805c233bfa5342bd87de2
+    - author: 测试工程师成长之路
+      release_time: 2025.10.20 08:30:00
+      title: Playwright 重磅更新：深入核心，发现那些改变游戏规则的特性
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578203&idx=1&sn=f41a3a7408db8fbc8756b723c104471b
+    - author: 如意私塾
+      release_time: 2025.10.19 22:12:25
+      title: 从零的最基础141指定版本chromium源码拉取和编译
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483861&idx=1&sn=e898a346e6514889b2a809a5a6b869ce
+    - author: 未闻Code
+      release_time: 2025.10.19 21:04:00
+      title: 开源屏幕感知AI助手，快捷键即调，随时看懂屏幕上的一切！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991042&idx=1&sn=4f1de45591bca3fd5861c950818f8a5c
+    - author: 菜鸟学Python编程
+      release_time: 2025.10.19 21:00:00
+      title: JS逆向神器|AntiDebug_Breaker v1.5更新
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566148&idx=1&sn=c57e74d634a3d708112db63a7e33dc0e
     - author: 菜鸟学Python编程
       release_time: 2025.10.18 09:46:30
       title: 去看女友的路上，他顺手拍下计算机史上最有名的照片！
@@ -220,30 +244,6 @@
       release_time: 2025.10.15 16:38:17
       title: Salesforce漏洞致越南航空730万条客户个人数据泄露
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519461&idx=2&sn=21615233897a7d58252b88187a069d57
-    - author: 如意私塾
-      release_time: 2025.10.15 12:04:25
-      title: 对TLS的迷信 | 爬虫人员对TLS指纹的神话
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483851&idx=1&sn=0b978742b1bf83d5109affba88bfc988
-    - author: 小小杨学编程
-      release_time: 2025.10.15 11:23:00
-      title: 抖X视频最新JSVMP+WASM纯算法分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484521&idx=1&sn=251039f9dc5f39315b24fd5934b3dce0
-    - author: 奋飞安全
-      release_time: 2025.10.15 10:22:52
-      title: 别被外壳骗了，那只是柔软的伪装 - 某小说App Token算法分析
-      url: https://mp.weixin.qq.com/s?__biz=MzI4NzMwNDI3OQ==&mid=2247485006&idx=1&sn=77dba3f9334e0a0191b00cfcdb6bbb2f
-    - author: 逆向有你
-      release_time: 2025.10.15 10:08:00
-      title: 安卓逆向 -- 手撕某歌服务校验
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040404&idx=1&sn=7dd67f3f687e78c1d6bd15d44654711b
-    - author: 哆啦安全
-      release_time: 2025.10.15 09:11:54
-      title: APK智能分析软件(全面检测增强版)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498822&idx=1&sn=1f9cd34c03a6355caaaa757e00b828ea
-    - author: 哆啦安全
-      release_time: 2025.10.15 09:11:54
-      title: Android开发智能调试分析软件V2.0
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498822&idx=2&sn=20c981eb1767f59e451f18f49305e33b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -375,6 +375,10 @@
       title: '[原创]VMP样本分析'
       url: https://bbs.kanxue.com/thread-288854.htm
     - author: 悦来客栈的老板
+      release_time: 2025.10.19 21:01:04
+      title: JS逆向神器|AntiDebug_Breaker v1.5更新
+      url: https://blog.csdn.net/qq523176585/article/details/153607141
+    - author: 悦来客栈的老板
       release_time: 2025.10.18 09:46:48
       title: 去看女友的路上，他顺手拍下计算机史上最有名的照片！
       url: https://blog.csdn.net/qq523176585/article/details/153547470
@@ -486,10 +490,6 @@
       release_time: 2025.10.12 09:22:57
       title: 'ptrace学习: 阅读 lldb 相关源码'
       url: https://bbs.kanxue.com/thread-288740.htm
-    - author: Solar安全
-      release_time: 2025.10.11 16:40:47
-      title: '[原创]【原创首发】全球首个“AI勒索软件”--纽约大学团队“PromptLock”深度剖析'
-      url: https://bbs.kanxue.com/thread-288737.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
