@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 孤恒
+      release_time: 2025.10.20 18:41:34
+      title: 教你玩转ida反编译（修改ida microcode）
+      url: https://bbs.kanxue.com/thread-288865.htm
     - author: lovesh
       release_time: 2025.10.20 16:45:33
       title: 苹果FairPlay中发现的混淆技术分析
@@ -486,10 +490,6 @@
       release_time: 2025.10.12 20:54:17
       title: 基于 WebSocket 协议的实时弹幕通信机制分析-抖音
       url: https://blog.csdn.net/2401_87946050/article/details/153136422
-    - author: 烬奇小云
-      release_time: 2025.10.12 14:07:41
-      title: '[原创]IDA静态分析-逆向个人学习记录'
-      url: https://bbs.kanxue.com/thread-288742.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
