@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.10.20 17:42:57
+      title: DrissionPage自动注册微软邮箱账号-上部
+      url: https://www.bilibili.com/video/BV1qKW2zME1w
     - author: ikun的嘴
       release_time: 2025.10.20 10:43:20
       title: 逆向实战案例1k的单子，md5,aes,rsa
@@ -117,10 +121,6 @@
       release_time: 2025.09.03 09:56:06
       title: 骚神插件获取元素定位代码的七种方法
       url: https://www.bilibili.com/video/BV1uWauz6EGF
-    - author: 和沐阳学逆向
-      release_time: 2025.09.01 22:12:33
-      title: 62.《安卓逆向》frida反调试之编译与魔改frida16.7.19
-      url: https://www.bilibili.com/video/BV1EuapztE8y
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
