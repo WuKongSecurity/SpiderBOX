@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.10.20 16:33:17
+      title: 国家网信办联合市场监管总局发布《个人信息出境认证办法》（附全文+答记者问）
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519495&idx=1&sn=8cd3d18995791d97c892bdc1d888e3bc
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.10.20 16:33:17
+      title: 江西银行苏州分行被罚67.2万，涉网络及数据安全违规
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519495&idx=2&sn=029730d0105100e79e81c40302bef775
     - author: 二进制磨剑
       release_time: 2025.10.20 10:15:36
       title: APP 代理与 VPN 检测实践分析
@@ -236,14 +244,6 @@
       release_time: 2025.10.15 21:00:00
       title: PDF 转换为 Markdown 的 5 大工具
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991039&idx=1&sn=36688794ce0ed517cd4faecacf225959
-    - author: 菜鸟学Python编程
-      release_time: 2025.10.15 16:53:00
-      title: 好库推荐|验证码(缺口)识别项目专题
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566126&idx=1&sn=e0a83138bfe4811507f6557bdc5a5fd5
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.15 16:38:17
-      title: 奥地利裁定微软365教育版非法追踪学生数据，要求限期整改
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519461&idx=1&sn=ea882b6ef1f43b6132e4c403e1d759c4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: lovesh
+      release_time: 2025.10.20 16:45:33
+      title: 苹果FairPlay中发现的混淆技术分析
+      url: https://bbs.kanxue.com/thread-288863.htm
     - author: HandsomeBro
       release_time: 2025.10.19 21:37:56
       title: '[原创]VMP样本分析'
@@ -486,10 +490,6 @@
       release_time: 2025.10.12 14:07:41
       title: '[原创]IDA静态分析-逆向个人学习记录'
       url: https://bbs.kanxue.com/thread-288742.htm
-    - author: nothing233
-      release_time: 2025.10.12 09:22:57
-      title: 'ptrace学习: 阅读 lldb 相关源码'
-      url: https://bbs.kanxue.com/thread-288740.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
