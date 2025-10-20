@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: ikun的嘴
+      release_time: 2025.10.20 10:43:20
+      title: 逆向实战案例1k的单子，md5,aes,rsa
+      url: https://www.bilibili.com/video/BV1EMsuzKEAp
     - author: Alone逆向安全
       release_time: 2025.10.15 05:35:10
       title: ida pro  9.1 qt 插件开发环境配置
@@ -117,13 +121,13 @@
       release_time: 2025.09.01 22:12:33
       title: 62.《安卓逆向》frida反调试之编译与魔改frida16.7.19
       url: https://www.bilibili.com/video/BV1EuapztE8y
-    - author: B站用户骚神
-      release_time: 2025.09.01 15:08:58
-      title: DrissionPage远程控制docker里浏览器
-      url: https://www.bilibili.com/video/BV1QFaHzyE9m
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: 2025.10.20 10:15:36
+      title: APP 代理与 VPN 检测实践分析
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485757&idx=1&sn=a65b80ea8fc2fcc1a0af345e5698ff50
     - author: 逆向有你
       release_time: 2025.10.20 09:42:02
       title: 安卓逆向 -- Native化软件弹窗去除
@@ -240,13 +244,13 @@
       release_time: 2025.10.15 16:38:17
       title: 奥地利裁定微软365教育版非法追踪学生数据，要求限期整改
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519461&idx=1&sn=ea882b6ef1f43b6132e4c403e1d759c4
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.15 16:38:17
-      title: Salesforce漏洞致越南航空730万条客户个人数据泄露
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519461&idx=2&sn=21615233897a7d58252b88187a069d57
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: n0rth5ea
+      release_time: 2025.10.20 03:00:00
+      title: 2025强网杯Qcalc思路
+      url: https://www.52pojie.cn/thread-2066799-1-1.html
     - author: mysticz
       release_time: 2025.10.17 15:49:00
       title: Python爬虫入门：spiderdemo题解及详细思路（入门篇）
@@ -363,10 +367,6 @@
       release_time: 2025.09.24 20:11:00
       title: 一加系统短信漏洞
       url: https://www.52pojie.cn/thread-2062380-1-1.html
-    - author: LiSAimer
-      release_time: 2025.09.24 20:07:00
-      title: 某航司Reese84逆向分析-补环境篇
-      url: https://www.52pojie.cn/thread-2062377-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
