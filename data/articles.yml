@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.10.20 17:00:00
+      title: JS逆向实战|Spiderdemo第五题混淆代码详解及纯算
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566163&idx=1&sn=d611d33bdbf9a7f8930a77fad6d06460
     - author: 个人信息与数据保护实务评论
       release_time: 2025.10.20 16:33:17
       title: 国家网信办联合市场监管总局发布《个人信息出境认证办法》（附全文+答记者问）
@@ -240,10 +244,6 @@
       release_time: 2025.10.16 08:00:00
       title: 取代测试岗，又一新兴岗位在崛起！这才是测试人未来5年最好的就业方向！
       url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578168&idx=1&sn=1e31ab70bfbb4a423a8c09fb9970b2e4
-    - author: 未闻Code
-      release_time: 2025.10.15 21:00:00
-      title: PDF 转换为 Markdown 的 5 大工具
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991039&idx=1&sn=36688794ce0ed517cd4faecacf225959
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
