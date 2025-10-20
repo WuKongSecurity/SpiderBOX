@@ -374,6 +374,10 @@
       release_time: 2025.10.20 18:41:34
       title: 教你玩转ida反编译（修改ida microcode）
       url: https://bbs.kanxue.com/thread-288865.htm
+    - author: 悦来客栈的老板
+      release_time: 2025.10.20 17:00:35
+      title: JS逆向实战|Spiderdemo第五题混淆代码详解及纯算
+      url: https://blog.csdn.net/qq523176585/article/details/153670328
     - author: lovesh
       release_time: 2025.10.20 16:45:33
       title: 苹果FairPlay中发现的混淆技术分析
@@ -486,10 +490,6 @@
       release_time: 2025.10.12 21:31:59
       title: '[原创]基于trace绕过CRC检测'
       url: https://bbs.kanxue.com/thread-288745.htm
-    - author: 努力的。。。
-      release_time: 2025.10.12 20:54:17
-      title: 基于 WebSocket 协议的实时弹幕通信机制分析-抖音
-      url: https://blog.csdn.net/2401_87946050/article/details/153136422
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
