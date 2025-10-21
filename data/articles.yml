@@ -2,6 +2,10 @@
   list:
   - links:
     - author: B站用户骚神
+      release_time: 2025.10.21 13:00:06
+      title: DrissionPage自动注册微软邮箱-（下）处理按压验证码
+      url: https://www.bilibili.com/video/BV1c3WXzFEZT
+    - author: B站用户骚神
       release_time: 2025.10.20 17:42:57
       title: DrissionPage自动注册微软邮箱账号-上部
       url: https://www.bilibili.com/video/BV1qKW2zME1w
@@ -117,10 +121,6 @@
       release_time: 2025.09.05 17:36:05
       title: JS逆向之补环境
       url: https://www.bilibili.com/video/BV1QeabzeEaY
-    - author: B站用户骚神
-      release_time: 2025.09.03 09:56:06
-      title: 骚神插件获取元素定位代码的七种方法
-      url: https://www.bilibili.com/video/BV1uWauz6EGF
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
