@@ -132,6 +132,10 @@
       release_time: 2025.10.21 15:40:55
       title: 最高检：前三季度全国起诉侵犯公民个人信息犯罪2100余件4400余人
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519502&idx=2&sn=ea87d661a63050c4fac08b62c4480f23
+    - author: 不落的逆向手札
+      release_time: 2025.10.21 13:13:43
+      title: 某黑盒样本案例分析
+      url: https://mp.weixin.qq.com/s?__biz=MzYzNTAzOTIxMw==&mid=2247483738&idx=1&sn=827bae25948d124cb692edbdd5785441
     - author: 哆啦安全
       release_time: 2025.10.21 11:03:42
       title: Android10以上定制版手机+移动端智能调试分析软件(VIP试用版)
@@ -240,10 +244,6 @@
       release_time: 2025.10.16 19:30:34
       title: Flutter app抓包
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247484846&idx=1&sn=00f9a70e5b93c69b5a5d59dafa74db1b
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.16 17:25:29
-      title: EDPB公布2026年将透明度要求作为执法重点
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519477&idx=1&sn=e1e643167d2f59175bd3222e9abbe9e0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
