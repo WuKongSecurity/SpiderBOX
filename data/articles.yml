@@ -124,6 +124,26 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.10.21 11:03:42
+      title: Android10以上定制版手机+移动端智能调试分析软件(VIP试用版)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498834&idx=1&sn=f53b3ca05027dc6a320b85307b9d3fea
+    - author: 小小杨学编程
+      release_time: 2025.10.21 10:40:00
+      title: 某步网wasm纯算、补环境分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484606&idx=1&sn=2aef83560931230fc8806a3d33e59df6
+    - author: 逆向有你
+      release_time: 2025.10.21 09:05:28
+      title: JS逆向 -- 某酒店模拟登录
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040538&idx=1&sn=8f653407815140e86b5ccfb76ac2d4b3
+    - author: Spade sec
+      release_time: 2025.10.21 09:00:00
+      title: JS逆向系列24-Hook CryptoJS所有对称加密算法（续）
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486761&idx=1&sn=7598fb5466be1b79fb1b9a110ae2c6a2
+    - author: Coder小Q
+      release_time: 2025.10.21 08:30:00
+      title: 【密码学】哈希函数(Hash Function)
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492941&idx=1&sn=9353f7afe1f0bccd7d77b00bad7f625e
     - author: 菜鸟学Python编程
       release_time: 2025.10.20 17:00:00
       title: JS逆向实战|Spiderdemo第五题混淆代码详解及纯算
@@ -224,26 +244,6 @@
       release_time: 2025.10.16 17:00:00
       title: AST反混淆实战|新版的5s盾混淆代码还原不了？不存在的。
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566136&idx=1&sn=8a87e6382d5d20e8a5a18bbad12fac63
-    - author: 吾爱破解论坛
-      release_time: 2025.10.16 16:08:06
-      title: 吾爱破解安卓逆向入门教程《安卓逆向这档事》二十五课、Unidbg之补完环境我就睡(下)
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143121&idx=1&sn=9caa5cd0ac9247326dcbbd36f581b28d
-    - author: 猿人学Python
-      release_time: 2025.10.16 15:30:15
-      title: 大学留级一年 却出道即颠峰 ddddocr作者
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448549993&idx=1&sn=4cabbd17f46dcb59ecbf3c1962fa0504
-    - author: 平底锅煎蛋
-      release_time: 2025.10.16 11:52:10
-      title: 安卓逆向VMP——码表复原
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTcyMjcwOA==&mid=2247483992&idx=1&sn=9cdbcd654d9fd078149aec000faaf9a7
-    - author: 逆向有你
-      release_time: 2025.10.16 09:08:00
-      title: PC逆向 -- 摸着石头过河,一个WPF程序的反编译全过程
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040438&idx=1&sn=6e824f84e7cbbe4a1ca8d4200a68bdda
-    - author: 测试工程师成长之路
-      release_time: 2025.10.16 08:00:00
-      title: 取代测试岗，又一新兴岗位在崛起！这才是测试人未来5年最好的就业方向！
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578168&idx=1&sn=1e31ab70bfbb4a423a8c09fb9970b2e4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
