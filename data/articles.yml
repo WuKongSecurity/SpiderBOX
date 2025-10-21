@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.10.21 17:27:00
+      title: JS逆向实战|Spiderdemo第二题逆向纯算分析
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566176&idx=1&sn=b189958546e5b3c4d7b9bef6091eb39c
     - author: 猿人学Python
       release_time: 2025.10.21 16:44:15
       title: 做猿人学爬虫课第六个年头了
@@ -240,10 +244,6 @@
       release_time: 2025.10.17 08:30:00
       title: 【密码学】消息认证码(MAC)
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492901&idx=1&sn=731bbc07fad01b0761e244681f57efc4
-    - author: 将往的爬虫逆向日记
-      release_time: 2025.10.16 22:09:09
-      title: Python爬虫入门：spiderdemo题解及详细思路（简单篇）
-      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862103&idx=1&sn=bc33720d32a84d93c5a6cdb0454915d3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
