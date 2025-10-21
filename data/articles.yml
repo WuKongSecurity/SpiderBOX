@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 猿人学Python
+      release_time: 2025.10.21 16:44:15
+      title: 做猿人学爬虫课第六个年头了
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550031&idx=1&sn=0b49e912432d742d140b58fb3097104d
     - author: 个人信息与数据保护实务评论
       release_time: 2025.10.21 15:40:55
       title: 国家网信办公布首批通过个保合规审计服务认证的专业机构
@@ -240,10 +244,6 @@
       release_time: 2025.10.16 22:09:09
       title: Python爬虫入门：spiderdemo题解及详细思路（简单篇）
       url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862103&idx=1&sn=bc33720d32a84d93c5a6cdb0454915d3
-    - author: Frida and So
-      release_time: 2025.10.16 19:30:34
-      title: Flutter app抓包
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247484846&idx=1&sn=00f9a70e5b93c69b5a5d59dafa74db1b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
