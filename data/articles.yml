@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2025.10.22 23:07:09
+      title: 爬虫未来漫谈 | JS逆向的式微和AI浏览器的崛起
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483867&idx=1&sn=011c60de2072fecd649256e2bbe04690
     - author: 未闻Code
       release_time: 2025.10.22 21:00:00
       title: Python 3.14 (π) 正式发布：值得尝试的酷炫新功能
@@ -240,10 +244,6 @@
       release_time: 2025.10.17 17:00:00
       title: AST基础知识|括号表达式类型知多少
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566143&idx=1&sn=232e37d4f85d278a67109215fe36cf54
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.17 16:29:24
-      title: 携程因客户数据泄露风险面临韩国议会听证
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519489&idx=1&sn=a323d46615372eda7b4b92a5087615fa
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
