@@ -371,6 +371,10 @@
     term: 吾爱破解
   - links:
     - author: 情迁
+      release_time: 2025.10.22 16:46:20
+      title: 国产codebuddy AI工具测试超强xposed插件HOOKUI的MCP分析某应用能力案例演示
+      url: https://bbs.kanxue.com/thread-288882.htm
+    - author: 情迁
       release_time: 2025.10.22 14:54:25
       title: '[下载]xposed插件HOOKUI更新|完善AI控制能力'
       url: https://bbs.kanxue.com/thread-288880.htm
@@ -486,10 +490,6 @@
       release_time: 2025.10.14 07:57:22
       title: 一款好用的内存加速软件：《智能内存释放精灵》
       url: https://blog.csdn.net/w2sft/article/details/153244109
-    - author: wx_张三_488
-      release_time: 2025.10.13 18:57:42
-      title: '[原创]简单实现 DDoZ 客户端内存耗尽攻击'
-      url: https://bbs.kanxue.com/thread-288762.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
