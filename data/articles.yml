@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 和沐阳学逆向
+      release_time: 2025.10.22 21:20:19
+      title: 63.《iOS逆向实战》某APP算法还原
+      url: https://www.bilibili.com/video/BV1wcsazgEMV
     - author: B站用户骚神
       release_time: 2025.10.21 13:00:06
       title: DrissionPage自动注册微软邮箱-（下）处理按压验证码
@@ -117,13 +121,13 @@
       release_time: 2025.09.06 10:02:05
       title: AI+DrissionPage 轻松搞定各种网页验证码，不花一点token
       url: https://www.bilibili.com/video/BV1vEaizZEtp
-    - author: 逆向狗都不学
-      release_time: 2025.09.05 17:36:05
-      title: JS逆向之补环境
-      url: https://www.bilibili.com/video/BV1QeabzeEaY
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.10.22 21:00:00
+      title: Python 3.14 (π) 正式发布：值得尝试的酷炫新功能
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991045&idx=1&sn=dc0c14bcc283e7d273c48cc4456ed83b
     - author: 个人信息与数据保护实务评论
       release_time: 2025.10.22 17:47:02
       title: 仅名字和身份证号就能查他人诊疗报告？上海多家知名医院互联网服务存隐私泄露隐患
@@ -240,10 +244,6 @@
       release_time: 2025.10.17 16:29:24
       title: 携程因客户数据泄露风险面临韩国议会听证
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519489&idx=1&sn=a323d46615372eda7b4b92a5087615fa
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.17 16:29:24
-      title: 全球首个智能出行隐私保护国际标准启动制定
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519489&idx=2&sn=143d50853f3af95b67e3a0462bf46720
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
