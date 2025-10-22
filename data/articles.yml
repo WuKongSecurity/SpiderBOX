@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.10.22 17:47:02
+      title: 仅名字和身份证号就能查他人诊疗报告？上海多家知名医院互联网服务存隐私泄露隐患
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519504&idx=1&sn=48b320967a377099b846d1dcc267424f
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.10.22 17:47:02
+      title: 工信部通报20款智能终端个人信息违规等行为
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519504&idx=2&sn=fa67bd3f1c2525e8de3136290fc51a88
     - author: 猿人学Python
       release_time: 2025.10.22 16:36:17
       title: 看守所 30 天实录-爬虫er100人
@@ -236,17 +244,17 @@
       release_time: 2025.10.17 16:29:24
       title: 全球首个智能出行隐私保护国际标准启动制定
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519489&idx=2&sn=143d50853f3af95b67e3a0462bf46720
-    - author: 爬虫逆向小林哥
-      release_time: 2025.10.17 14:59:00
-      title: 【网页逆向】xhs-xs vmp wasm
-      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247486840&idx=1&sn=cda998c55e777976f61253a2acd69bf3
-    - author: 二进制磨剑
-      release_time: 2025.10.17 09:20:00
-      title: '第 6 期: App 流量安全与协议逆向工程'
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485750&idx=1&sn=559e87faf49548288f0e2af8e15ae357
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: headedit
+      release_time: 2025.10.22 16:37:00
+      title: 逆向某讯的global-metadata.dat的解密算法
+      url: https://www.52pojie.cn/thread-2067386-1-1.html
+    - author: Rubyie123
+      release_time: 2025.10.22 11:23:00
+      title: 记一次为广东省某三线城市人民医院微信公众号发现漏洞的过程
+      url: https://www.52pojie.cn/thread-2067313-1-1.html
     - author: n0rth5ea
       release_time: 2025.10.20 03:00:00
       title: 2025强网杯Qcalc思路
@@ -359,14 +367,6 @@
       release_time: 2025.09.25 20:31:00
       title: 某里新版acw_sc__v2算法分析
       url: https://www.52pojie.cn/thread-2062618-1-1.html
-    - author: zjmanboy
-      release_time: 2025.09.25 13:18:00
-      title: 记一次为浙江省某三线城市人民医院微信公众号发现漏洞的过程
-      url: https://www.52pojie.cn/thread-2062520-1-1.html
-    - author: 林伊轩
-      release_time: 2025.09.24 20:11:00
-      title: 一加系统短信漏洞
-      url: https://www.52pojie.cn/thread-2062380-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
