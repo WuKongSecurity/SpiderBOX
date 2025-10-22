@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 猿人学Python
+      release_time: 2025.10.22 16:36:17
+      title: 看守所 30 天实录-爬虫er100人
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550042&idx=1&sn=054806d16a99bfa0a828ec5a16ea74fc
     - author: 哆啦安全
       release_time: 2025.10.22 09:54:30
       title: Android开发智能调试分析软件V5.0
@@ -240,10 +244,6 @@
       release_time: 2025.10.17 09:20:00
       title: '第 6 期: App 流量安全与协议逆向工程'
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485750&idx=1&sn=559e87faf49548288f0e2af8e15ae357
-    - author: 极验
-      release_time: 2025.10.17 09:03:28
-      title: 2025 年击败 BotBrowser：极验如何阻止跨平台指纹浏览器
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649723944&idx=1&sn=395443c39b9ba5fd3947595fb4ea68db
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
