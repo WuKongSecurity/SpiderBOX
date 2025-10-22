@@ -2155,6 +2155,10 @@
           logo: proxied.png
           url: https://proxied.com/?utm_source=spiderbox&utm_medium=partner
           description: 5g 移动代理, Dedicated Mobile Proxies.
+        - title: NovProxy
+          logo: novproxy.png
+          url: https://novproxy.com/?kwd=ty-spiderbox
+          description: 独立IP资源，免费测试，不限流量，套餐不限时间，全球195+国家地区纯净资源
 #        - title: WTFproxy
 #          logo: wtfproxy.png
 #          url: https://www.wtfproxy.com/
