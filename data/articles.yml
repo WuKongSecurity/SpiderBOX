@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.10.22 09:54:30
+      title: Android开发智能调试分析软件V5.0
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498843&idx=1&sn=c786f752d98595f35fa1366a7387d8ac
+    - author: Spade sec
+      release_time: 2025.10.22 09:00:00
+      title: 秒杀CryptoJS所有对称加密 工具集
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486777&idx=1&sn=a63b7e19b2f96c70ce871a22596fe907
     - author: 菜鸟学Python编程
       release_time: 2025.10.21 17:27:00
       title: JS逆向实战|Spiderdemo第二题逆向纯算分析
@@ -236,14 +244,6 @@
       release_time: 2025.10.17 09:03:28
       title: 2025 年击败 BotBrowser：极验如何阻止跨平台指纹浏览器
       url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649723944&idx=1&sn=395443c39b9ba5fd3947595fb4ea68db
-    - author: SpiderDemo
-      release_time: 2025.10.17 09:01:00
-      title: Spiderdemo网站新题---点击拼图验证码
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMzg4NDI4Mw==&mid=2247484523&idx=1&sn=2c87f2e85fd9b301f1404cfa88e38e5d
-    - author: Coder小Q
-      release_time: 2025.10.17 08:30:00
-      title: 【密码学】消息认证码(MAC)
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492901&idx=1&sn=731bbc07fad01b0761e244681f57efc4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
