@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.10.23 11:44:20
+      title: 安卓你想 -- app抓包root真机配合Yakit抓包教程
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040559&idx=1&sn=954986d60489f22f48466266c3e33fb9
     - author: 如意私塾
       release_time: 2025.10.22 23:07:09
       title: 爬虫未来漫谈 | JS逆向的式微和AI浏览器的崛起
@@ -240,10 +244,6 @@
       release_time: 2025.10.17 19:42:24
       title: 听闻hexin-v更新了
       url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811179&idx=1&sn=917f902f472a7eafc068a1cf769b0546
-    - author: 菜鸟学Python编程
-      release_time: 2025.10.17 17:00:00
-      title: AST基础知识|括号表达式类型知多少
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566143&idx=1&sn=232e37d4f85d278a67109215fe36cf54
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
