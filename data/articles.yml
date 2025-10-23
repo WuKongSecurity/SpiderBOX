@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.10.23 16:35:23
+      title: 网络安全法修正草案将二审 拟增加促进人工智能安全与发展内容
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519512&idx=1&sn=9e447b5b2dbe5afa338d969d2f22b4b7
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.10.23 16:35:23
+      title: 中国数据保护月度报告：重点提示及目录（2025年10月）
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519512&idx=2&sn=db61e75f49a3a39a93611426c122dc43
     - author: 逆向有你
       release_time: 2025.10.23 11:44:20
       title: 安卓你想 -- app抓包root真机配合Yakit抓包教程
@@ -236,14 +244,6 @@
       release_time: 2025.10.19 21:00:00
       title: JS逆向神器|AntiDebug_Breaker v1.5更新
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566148&idx=1&sn=c57e74d634a3d708112db63a7e33dc0e
-    - author: 菜鸟学Python编程
-      release_time: 2025.10.18 09:46:30
-      title: 去看女友的路上，他顺手拍下计算机史上最有名的照片！
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566145&idx=1&sn=71dc443df8cedfa4db54a548a65ca4c2
-    - author: 静夜随想
-      release_time: 2025.10.17 19:42:24
-      title: 听闻hexin-v更新了
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811179&idx=1&sn=917f902f472a7eafc068a1cf769b0546
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
