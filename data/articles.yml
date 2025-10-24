@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.10.24 17:00:23
+      title: 快时尚品牌MANGO因第三方营销服务商漏洞致客户个人信息泄露
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519528&idx=1&sn=c4599e0dea6a826f7d0892b99774e2f2
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.10.24 17:00:23
+      title: 湖南省网信办对某文化旅游公司未履行数据安全保护义务作出行政处罚
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519528&idx=2&sn=9ea9fe17be00fbb6657b8b3eafa4dfd0
+    - author: coderwhy
+      release_time: 2025.10.24 17:00:00
+      title: 1024 节日快乐！《JavaScript 高级编程权威指南》即将发售
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247489052&idx=1&sn=a720387e01762430e490b62cf1bf60c6
     - author: 逆向有你
       release_time: 2025.10.24 11:14:45
       title: JS逆向 -- 某东读书专业版EPUB资源简单分析
@@ -232,18 +244,6 @@
       release_time: 2025.10.20 09:42:02
       title: 安卓逆向 -- Native化软件弹窗去除
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040516&idx=1&sn=cd16a089746f616439bea79ab6e14a57
-    - author: Spade sec
-      release_time: 2025.10.20 09:00:00
-      title: JS逆向系列23-Hook CryptoJS所有对称加密算法
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486739&idx=1&sn=461d4ca8e01805c233bfa5342bd87de2
-    - author: 测试工程师成长之路
-      release_time: 2025.10.20 08:30:00
-      title: Playwright 重磅更新：深入核心，发现那些改变游戏规则的特性
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578203&idx=1&sn=f41a3a7408db8fbc8756b723c104471b
-    - author: 如意私塾
-      release_time: 2025.10.19 22:12:25
-      title: 从零的最基础141指定版本chromium源码拉取和编译
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483861&idx=1&sn=e898a346e6514889b2a809a5a6b869ce
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
