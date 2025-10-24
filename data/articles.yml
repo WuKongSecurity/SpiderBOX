@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: Alone逆向安全
+      release_time: 2025.10.24 14:19:45
+      title: ARM64 Inline Hook 框架实现 原理+实战：修改函数参数与返回值的完整过程！
+      url: https://www.bilibili.com/video/BV1VBsJzxEmm
     - author: 和沐阳学逆向
       release_time: 2025.10.22 21:20:19
       title: 63.《iOS逆向实战》某APP算法还原
@@ -117,10 +121,6 @@
       release_time: 2025.09.07 15:25:07
       title: Pixel6实战刷安卓16抓包环境且随意升降级刷机
       url: https://www.bilibili.com/video/BV1b6YGzJEzR
-    - author: B站用户骚神
-      release_time: 2025.09.06 10:02:05
-      title: AI+DrissionPage 轻松搞定各种网页验证码，不花一点token
-      url: https://www.bilibili.com/video/BV1vEaizZEtp
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
