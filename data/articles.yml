@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.10.24 11:14:45
+      title: JS逆向 -- 某东读书专业版EPUB资源简单分析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040573&idx=1&sn=aacec53e042f4a5295d582a97c572e4b
+    - author: Coder小Q
+      release_time: 2025.10.24 08:30:00
+      title: 【密码学】数字签名方案
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493015&idx=1&sn=b6af13aee3f429817225797257a65318
     - author: 个人信息与数据保护实务评论
       release_time: 2025.10.23 16:35:23
       title: 网络安全法修正草案将二审 拟增加促进人工智能安全与发展内容
@@ -236,14 +244,6 @@
       release_time: 2025.10.19 22:12:25
       title: 从零的最基础141指定版本chromium源码拉取和编译
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483861&idx=1&sn=e898a346e6514889b2a809a5a6b869ce
-    - author: 未闻Code
-      release_time: 2025.10.19 21:04:00
-      title: 开源屏幕感知AI助手，快捷键即调，随时看懂屏幕上的一切！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991042&idx=1&sn=4f1de45591bca3fd5861c950818f8a5c
-    - author: 菜鸟学Python编程
-      release_time: 2025.10.19 21:00:00
-      title: JS逆向神器|AntiDebug_Breaker v1.5更新
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566148&idx=1&sn=c57e74d634a3d708112db63a7e33dc0e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
