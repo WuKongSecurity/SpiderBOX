@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 极验
+      release_time: 2025.10.24 17:30:18
+      title: 【极验13周年】  从敬畏到共识，向新的山峰攀登
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649723983&idx=1&sn=024e94ec88a1e7c648f1674dbaaef098
     - author: 个人信息与数据保护实务评论
       release_time: 2025.10.24 17:00:23
       title: 快时尚品牌MANGO因第三方营销服务商漏洞致客户个人信息泄露
@@ -240,10 +244,6 @@
       release_time: 2025.10.20 10:15:36
       title: APP 代理与 VPN 检测实践分析
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485757&idx=1&sn=a65b80ea8fc2fcc1a0af345e5698ff50
-    - author: 逆向有你
-      release_time: 2025.10.20 09:42:02
-      title: 安卓逆向 -- Native化软件弹窗去除
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040516&idx=1&sn=cd16a089746f616439bea79ab6e14a57
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
