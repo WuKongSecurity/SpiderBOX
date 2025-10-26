@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 悦来客栈的老板
+      release_time: 2025.10.25 21:00:42
+      title: Python爬虫入门：spiderdemo题解及详细思路（简单篇）
+      url: https://blog.csdn.net/qq523176585/article/details/153906648
     - author: 吴秋霖
       release_time: 2025.10.24 22:00:00
       title: 某网站全协议逆向分析（登录、查询、锁单）
@@ -486,10 +490,6 @@
       release_time: 2025.10.14 13:43:23
       title: 008.chromium编译进阶-cookie持久化存储
       url: https://blog.csdn.net/w1101662433/article/details/153252470
-    - author: 卡尺头
-      release_time: 2025.10.14 10:54:28
-      title: '[原创]虚拟相机vcamera v18破解'
-      url: https://bbs.kanxue.com/thread-288782.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
