@@ -398,6 +398,10 @@
       release_time: 2025.10.23 10:58:08
       title: 浅谈淘四神的坑点
       url: https://bbs.kanxue.com/thread-288889.htm
+    - author: 一本杂志
+      release_time: 2025.10.22 23:48:11
+      title: 某象滑块逆向-滑块验证码逆向分析思路学习
+      url: https://blog.csdn.net/y662225dd/article/details/153752549
     - author: 情迁
       release_time: 2025.10.22 16:46:20
       title: 国产codebuddy AI工具测试超强xposed插件HOOKUI的MCP分析某应用能力案例演示
@@ -426,6 +430,10 @@
       release_time: 2025.10.20 16:45:33
       title: 苹果FairPlay中发现的混淆技术分析
       url: https://bbs.kanxue.com/thread-288863.htm
+    - author: 带带弟弟学爬虫__
+      release_time: 2025.10.20 15:48:05
+      title: mt系-小象超市抓包-安卓
+      url: https://blog.csdn.net/A_fanyifan/article/details/153632878
     - author: HandsomeBro
       release_time: 2025.10.19 21:37:56
       title: '[原创]VMP样本分析'
@@ -482,14 +490,6 @@
       release_time: 2025.10.15 10:32:07
       title: '[原创]谷歌上架之孟加拉马甲包逆向'
       url: https://bbs.kanxue.com/thread-288789.htm
-    - author: 努力的菜鸡
-      release_time: 2025.10.15 01:16:48
-      title: '[原创]某书x-mini-s1参数分析及vm还原'
-      url: https://bbs.kanxue.com/thread-288787.htm
-    - author: 悦来客栈的老板
-      release_time: 2025.10.14 21:01:09
-      title: AST反混淆实战|某爬虫靶场第二题混淆代码还原详解(三)
-      url: https://blog.csdn.net/qq523176585/article/details/153295590
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
