@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.10.27 16:54:35
+      title: 香港私隐专员公署发布年报，关注AI安全、严打起底个人隐私行为
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519533&idx=1&sn=a31190eb3e779a93e841a19d3a06e498
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.10.27 16:54:35
+      title: 明确处罚非法出售或非法向他人提供个人信息行为
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519533&idx=2&sn=3ad192beed54967da38b8182fc70a56a
     - author: Py学习日记
       release_time: 2025.10.27 16:21:04
       title: 零点哥哥的站，当然得好好把玩！
@@ -236,14 +244,6 @@
       release_time: 2025.10.22 09:00:00
       title: 秒杀CryptoJS所有对称加密 工具集
       url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486777&idx=1&sn=a63b7e19b2f96c70ce871a22596fe907
-    - author: 菜鸟学Python编程
-      release_time: 2025.10.21 17:27:00
-      title: JS逆向实战|Spiderdemo第二题逆向纯算分析
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566176&idx=1&sn=b189958546e5b3c4d7b9bef6091eb39c
-    - author: 猿人学Python
-      release_time: 2025.10.21 16:44:15
-      title: 做猿人学爬虫课第六个年头了
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550031&idx=1&sn=0b49e912432d742d140b58fb3097104d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
