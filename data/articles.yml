@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: JoyboyPass
+      release_time: 2025.10.27 16:07:00
+      title: 新手小白入门app：某路旅行请求头参数逆向分析
+      url: https://www.52pojie.cn/thread-2068279-1-1.html
     - author: cqy666
       release_time: 2025.10.26 21:25:00
       title: 安卓共享UID实现Cheat Engine(CE)免Root修改
@@ -363,10 +367,6 @@
       release_time: 2025.09.27 11:06:00
       title: 某招投标服务平台AST详细解析
       url: https://www.52pojie.cn/thread-2062927-1-1.html
-    - author: loveppya
-      release_time: 2025.09.26 17:45:00
-      title: 【实战】MT管理器全程搞定某视频APP！SSL绕过+VPN检测拦截全流程（附配图建议+Smal...
-      url: https://www.52pojie.cn/thread-2062829-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
