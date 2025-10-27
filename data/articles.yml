@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 逆向狗都不学
+      release_time: 2025.10.27 09:55:59
+      title: JS逆向实战之易盾(纯py实现)
+      url: https://www.bilibili.com/video/BV1TRsyzQEBr
     - author: Alone逆向安全
       release_time: 2025.10.24 14:19:45
       title: ARM64 Inline Hook 框架实现 原理+实战：修改函数参数与返回值的完整过程！
@@ -117,13 +121,37 @@
       release_time: 2025.09.07 21:50:38
       title: 一款完美适配DrissionPage的绿色便携版谷歌浏览器
       url: https://www.bilibili.com/video/BV1j3Y7zyEvc
-    - author: r0ysue
-      release_time: 2025.09.07 15:25:07
-      title: Pixel6实战刷安卓16抓包环境且随意升降级刷机
-      url: https://www.bilibili.com/video/BV1b6YGzJEzR
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.10.27 09:58:45
+      title: 安卓逆向 -- 某影视pro的奖励算法分析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040580&idx=1&sn=3d0379f24a8c817f80031ad0ac0e93e2
+    - author: Spade sec
+      release_time: 2025.10.27 09:00:00
+      title: Hook前端加密库CryptoJS && JSEncrypt RSA
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486812&idx=1&sn=5df5db57c0e132fbd5c3bd2b38b570e4
+    - author: 小伍哥聊风控
+      release_time: 2025.10.27 08:31:00
+      title: 信也科技DGraph金融反欺诈图算法挑战赛
+      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650197005&idx=1&sn=b8689eef1fda651e69095c8a530d5e42
+    - author: Coder小Q
+      release_time: 2025.10.27 08:30:00
+      title: 【密码学】公钥加密方案
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493045&idx=1&sn=177713b2e401bbb24268966e62d7d357
+    - author: 哆啦安全
+      release_time: 2025.10.26 21:42:54
+      title: APP自动化测试工具V1.0
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498884&idx=1&sn=b69d8169614a4e45f8c2b78e0a61e23e
+    - author: 未闻Code
+      release_time: 2025.10.26 21:00:00
+      title: 每个Python开发者都应了解的Enum技巧
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991063&idx=1&sn=a7861767e83e5c88e805ac854886b5c2
+    - author: 软件安全与逆向分析
+      release_time: 2025.10.26 19:52:50
+      title: 汇报一下安卓逆向第二阶段课程与电子书发布进度
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484898&idx=1&sn=75274c3cdfe26b7aaa4fef5e91fa21d9
     - author: 极验
       release_time: 2025.10.24 17:30:18
       title: 【极验13周年】  从敬畏到共识，向新的山峰攀登
@@ -216,34 +244,6 @@
       release_time: 2025.10.21 10:40:00
       title: 某步网wasm纯算、补环境分析
       url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484606&idx=1&sn=2aef83560931230fc8806a3d33e59df6
-    - author: 逆向有你
-      release_time: 2025.10.21 09:05:28
-      title: JS逆向 -- 某酒店模拟登录
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040538&idx=1&sn=8f653407815140e86b5ccfb76ac2d4b3
-    - author: Spade sec
-      release_time: 2025.10.21 09:00:00
-      title: JS逆向系列24-Hook CryptoJS所有对称加密算法（续）
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486761&idx=1&sn=7598fb5466be1b79fb1b9a110ae2c6a2
-    - author: Coder小Q
-      release_time: 2025.10.21 08:30:00
-      title: 【密码学】哈希函数(Hash Function)
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492941&idx=1&sn=9353f7afe1f0bccd7d77b00bad7f625e
-    - author: 菜鸟学Python编程
-      release_time: 2025.10.20 17:00:00
-      title: JS逆向实战|Spiderdemo第五题混淆代码详解及纯算
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566163&idx=1&sn=d611d33bdbf9a7f8930a77fad6d06460
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.20 16:33:17
-      title: 国家网信办联合市场监管总局发布《个人信息出境认证办法》（附全文+答记者问）
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519495&idx=1&sn=8cd3d18995791d97c892bdc1d888e3bc
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.20 16:33:17
-      title: 江西银行苏州分行被罚67.2万，涉网络及数据安全违规
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519495&idx=2&sn=029730d0105100e79e81c40302bef775
-    - author: 二进制磨剑
-      release_time: 2025.10.20 10:15:36
-      title: APP 代理与 VPN 检测实践分析
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485757&idx=1&sn=a65b80ea8fc2fcc1a0af345e5698ff50
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
