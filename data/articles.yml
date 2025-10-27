@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.10.27 11:20:51
+      title: 2025移动应用效能革命：AI智能调试平台深度解析与选型指南
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498907&idx=1&sn=cea90e872658e1dde47c1de987b96257
+    - author: 哆啦安全
+      release_time: 2025.10.27 11:20:51
+      title: Android7至16系统ROM定制篇(2025)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498907&idx=2&sn=e415293219c3b6a90252c523f99e1d81
     - author: 逆向有你
       release_time: 2025.10.27 09:58:45
       title: 安卓逆向 -- 某影视pro的奖励算法分析
@@ -152,6 +160,14 @@
       release_time: 2025.10.26 19:52:50
       title: 汇报一下安卓逆向第二阶段课程与电子书发布进度
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484898&idx=1&sn=75274c3cdfe26b7aaa4fef5e91fa21d9
+    - author: 哆啦安全
+      release_time: 2025.10.25 08:03:44
+      title: Android7至16系统和谷歌服务(一键刷机)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498879&idx=1&sn=fcd3d6972ff99f0e6ab360325cb2896e
+    - author: 哆啦安全
+      release_time: 2025.10.25 08:03:44
+      title: 移动端开发和安全自动化分析软件(付费版)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498879&idx=2&sn=391a03240d9bcca8ddabc38ff463294a
     - author: 极验
       release_time: 2025.10.24 17:30:18
       title: 【极验13周年】  从敬畏到共识，向新的山峰攀登
@@ -228,22 +244,6 @@
       release_time: 2025.10.21 15:40:55
       title: 国家网信办公布首批通过个保合规审计服务认证的专业机构
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519502&idx=1&sn=bd06c2aec7b13b9eb3f90f0016d0b7cd
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.21 15:40:55
-      title: 最高检：前三季度全国起诉侵犯公民个人信息犯罪2100余件4400余人
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519502&idx=2&sn=ea87d661a63050c4fac08b62c4480f23
-    - author: 不落的逆向手札
-      release_time: 2025.10.21 13:13:43
-      title: 某黑盒样本案例分析
-      url: https://mp.weixin.qq.com/s?__biz=MzYzNTAzOTIxMw==&mid=2247483738&idx=1&sn=827bae25948d124cb692edbdd5785441
-    - author: 哆啦安全
-      release_time: 2025.10.21 11:03:42
-      title: Android10以上定制版手机+移动端智能调试分析软件(VIP试用版)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498834&idx=1&sn=f53b3ca05027dc6a320b85307b9d3fea
-    - author: 小小杨学编程
-      release_time: 2025.10.21 10:40:00
-      title: 某步网wasm纯算、补环境分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484606&idx=1&sn=2aef83560931230fc8806a3d33e59df6
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
