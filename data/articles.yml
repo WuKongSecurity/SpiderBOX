@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Py学习日记
+      release_time: 2025.10.27 16:21:04
+      title: 零点哥哥的站，当然得好好把玩！
+      url: https://mp.weixin.qq.com/s?__biz=MzkzODE5NTEyNg==&mid=2247485719&idx=1&sn=dd5f14cd1e58e9b343eafdce4dc6588c
     - author: 哆啦安全
       release_time: 2025.10.27 11:20:51
       title: 2025移动应用效能革命：AI智能调试平台深度解析与选型指南
@@ -240,10 +244,6 @@
       release_time: 2025.10.21 16:44:15
       title: 做猿人学爬虫课第六个年头了
       url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550031&idx=1&sn=0b49e912432d742d140b58fb3097104d
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.21 15:40:55
-      title: 国家网信办公布首批通过个保合规审计服务认证的专业机构
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519502&idx=1&sn=bd06c2aec7b13b9eb3f90f0016d0b7cd
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
