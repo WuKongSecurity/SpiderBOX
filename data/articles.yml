@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2025.10.28 19:56:06
+      title: Chromium内核教程 | Fiber用户态轻量级线程
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483883&idx=1&sn=377cd45e49e52ddeb3b4fd15a741c576
     - author: 吾爱破解论坛
       release_time: 2025.10.28 17:43:21
       title: pyd_Hook
@@ -208,6 +212,10 @@
       release_time: 2025.10.26 19:52:50
       title: 汇报一下安卓逆向第二阶段课程与电子书发布进度
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484898&idx=1&sn=75274c3cdfe26b7aaa4fef5e91fa21d9
+    - author: 如意私塾
+      release_time: 2025.10.25 21:30:40
+      title: Chromium内核教程 | devtools面板字体和大小源码层定制
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483878&idx=1&sn=7e28aadfc1c1485ab20a61a71cb02208
     - author: Frida and So
       release_time: 2025.10.25 18:35:02
       title: x-mini-mua算法分析
@@ -236,14 +244,6 @@
       release_time: 2025.10.24 17:00:00
       title: 1024 节日快乐！《JavaScript 高级编程权威指南》即将发售
       url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247489052&idx=1&sn=a720387e01762430e490b62cf1bf60c6
-    - author: 逆向有你
-      release_time: 2025.10.24 11:14:45
-      title: JS逆向 -- 某东读书专业版EPUB资源简单分析
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040573&idx=1&sn=aacec53e042f4a5295d582a97c572e4b
-    - author: Coder小Q
-      release_time: 2025.10.24 08:30:00
-      title: 【密码学】数字签名方案
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493015&idx=1&sn=b6af13aee3f429817225797257a65318
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
