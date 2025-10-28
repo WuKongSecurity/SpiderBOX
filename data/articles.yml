@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.10.28 16:19:09
+      title: 《网络安全法》完成修改，2026年1月1日起施行
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519545&idx=1&sn=92b42c6866ddd6c2fad4885b341288b0
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.10.28 16:19:09
+      title: 欧盟初步认定Meta和TikTok违反《数字服务法》
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519545&idx=2&sn=8b954b25d3e513a8c5c553e2f33cf80a
     - author: Frida and So
       release_time: 2025.10.28 12:20:07
       title: 快手__NS_xfalcon算法分析
@@ -144,6 +152,10 @@
       release_time: 2025.10.28 09:09:55
       title: 移动端(APK/HAP/IPA)SDK安全检测分析工具
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498918&idx=2&sn=790c7aeb131f1f25a4026d3321c3bcba
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.10.27 17:01:39
+      title: 网络安全法修法，明确处罚非法出售或非法向他人提供个人信息行为
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519536&idx=2&sn=a61fc82d9d2bc0b3451c3e42e84d7dd9
     - author: 个人信息与数据保护实务评论
       release_time: 2025.10.27 16:54:35
       title: 香港私隐专员公署发布年报，关注AI安全、严打起底个人隐私行为
@@ -232,18 +244,6 @@
       release_time: 2025.10.23 16:35:23
       title: 网络安全法修正草案将二审 拟增加促进人工智能安全与发展内容
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519512&idx=1&sn=9e447b5b2dbe5afa338d969d2f22b4b7
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.23 16:35:23
-      title: 中国数据保护月度报告：重点提示及目录（2025年10月）
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519512&idx=2&sn=db61e75f49a3a39a93611426c122dc43
-    - author: 逆向有你
-      release_time: 2025.10.23 11:44:20
-      title: 安卓你想 -- app抓包root真机配合Yakit抓包教程
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040559&idx=1&sn=954986d60489f22f48466266c3e33fb9
-    - author: 如意私塾
-      release_time: 2025.10.22 23:07:09
-      title: 爬虫未来漫谈 | JS逆向的式微和AI浏览器的崛起
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483867&idx=1&sn=011c60de2072fecd649256e2bbe04690
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
