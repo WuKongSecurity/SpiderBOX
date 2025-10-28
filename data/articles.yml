@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: ikun的嘴
+      release_time: 2025.10.28 21:26:17
+      title: jsvmp如何找堆栈和指令集，听完就秒了
+      url: https://www.bilibili.com/video/BV11TyCBkEdV
     - author: 逆向狗都不学
       release_time: 2025.10.27 09:55:59
       title: JS逆向实战之易盾(纯py实现)
@@ -117,10 +121,6 @@
       release_time: 2025.09.08 14:08:48
       title: AI+DrissionPage破解 滑动拼图和空间语义验证码
       url: https://www.bilibili.com/video/BV136a9zqEcU
-    - author: B站用户骚神
-      release_time: 2025.09.07 21:50:38
-      title: 一款完美适配DrissionPage的绿色便携版谷歌浏览器
-      url: https://www.bilibili.com/video/BV1j3Y7zyEvc
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -259,6 +259,10 @@
       release_time: 2025.10.26 12:58:00
       title: c-sktrace：基于 C 实现的 sktrace 性能优化 demo
       url: https://www.52pojie.cn/thread-2068053-1-1.html
+    - author: ljl9090
+      release_time: 2025.10.22 20:56:00
+      title: spiderdemo中等题目简单分析
+      url: https://www.52pojie.cn/thread-2067423-1-1.html
     - author: headedit
       release_time: 2025.10.22 16:37:00
       title: 逆向某讯的global-metadata.dat的解密算法
@@ -363,10 +367,6 @@
       release_time: 2025.09.27 11:13:00
       title: Python爬虫进阶：acw_v2加密AST解混淆全流程
       url: https://www.52pojie.cn/thread-2062929-1-1.html
-    - author: mysticz
-      release_time: 2025.09.27 11:06:00
-      title: 某招投标服务平台AST详细解析
-      url: https://www.52pojie.cn/thread-2062927-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
