@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Frida and So
+      release_time: 2025.10.28 12:20:07
+      title: 快手__NS_xfalcon算法分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247484954&idx=1&sn=6232b58efc831c436457a33d8684fb1e
     - author: 影17
       release_time: 2025.10.28 10:30:42
       title: 某度点选VMP逆向分析
@@ -188,6 +192,10 @@
       release_time: 2025.10.26 19:52:50
       title: 汇报一下安卓逆向第二阶段课程与电子书发布进度
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484898&idx=1&sn=75274c3cdfe26b7aaa4fef5e91fa21d9
+    - author: Frida and So
+      release_time: 2025.10.25 18:35:02
+      title: x-mini-mua算法分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247484864&idx=1&sn=3a958ef275122913625ea740175c82e7
     - author: 哆啦安全
       release_time: 2025.10.25 08:03:44
       title: Android7至16系统和谷歌服务(一键刷机)
@@ -236,14 +244,6 @@
       release_time: 2025.10.22 23:07:09
       title: 爬虫未来漫谈 | JS逆向的式微和AI浏览器的崛起
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483867&idx=1&sn=011c60de2072fecd649256e2bbe04690
-    - author: 未闻Code
-      release_time: 2025.10.22 21:00:00
-      title: Python 3.14 (π) 正式发布：值得尝试的酷炫新功能
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991045&idx=1&sn=dc0c14bcc283e7d273c48cc4456ed83b
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.22 17:47:02
-      title: 仅名字和身份证号就能查他人诊疗报告？上海多家知名医院互联网服务存隐私泄露隐患
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519504&idx=1&sn=48b320967a377099b846d1dcc267424f
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
