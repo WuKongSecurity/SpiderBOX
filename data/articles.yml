@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.10.28 17:43:21
+      title: pyd_Hook
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143127&idx=1&sn=98c978db679a487095549473a4f0961b
     - author: 个人信息与数据保护实务评论
       release_time: 2025.10.28 16:19:09
       title: 《网络安全法》完成修改，2026年1月1日起施行
@@ -240,10 +244,6 @@
       release_time: 2025.10.24 08:30:00
       title: 【密码学】数字签名方案
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493015&idx=1&sn=b6af13aee3f429817225797257a65318
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.23 16:35:23
-      title: 网络安全法修正草案将二审 拟增加促进人工智能安全与发展内容
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519512&idx=1&sn=9e447b5b2dbe5afa338d969d2f22b4b7
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
