@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 影17
+      release_time: 2025.10.28 10:30:42
+      title: 某度点选VMP逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247490209&idx=1&sn=7ea0982b4f1977b05de29aaa6dbea9c7
+    - author: 逆向有你
+      release_time: 2025.10.28 10:26:05
+      title: JS逆向 -- 某通模拟登录
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040593&idx=1&sn=ae81562701ddf938a943cad1091fb56e
+    - author: 哆啦安全
+      release_time: 2025.10.28 09:09:55
+      title: 智能调试分析工具(下载地址和使用方法)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498918&idx=1&sn=292d2a4567e0ae572ad2dcdd1a51fbca
+    - author: 哆啦安全
+      release_time: 2025.10.28 09:09:55
+      title: 移动端(APK/HAP/IPA)SDK安全检测分析工具
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498918&idx=2&sn=790c7aeb131f1f25a4026d3321c3bcba
     - author: 个人信息与数据保护实务评论
       release_time: 2025.10.27 16:54:35
       title: 香港私隐专员公署发布年报，关注AI安全、严打起底个人隐私行为
@@ -228,22 +244,6 @@
       release_time: 2025.10.22 17:47:02
       title: 仅名字和身份证号就能查他人诊疗报告？上海多家知名医院互联网服务存隐私泄露隐患
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519504&idx=1&sn=48b320967a377099b846d1dcc267424f
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.22 17:47:02
-      title: 工信部通报20款智能终端个人信息违规等行为
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519504&idx=2&sn=fa67bd3f1c2525e8de3136290fc51a88
-    - author: 猿人学Python
-      release_time: 2025.10.22 16:36:17
-      title: 看守所 30 天实录-爬虫er100人
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550042&idx=1&sn=054806d16a99bfa0a828ec5a16ea74fc
-    - author: 哆啦安全
-      release_time: 2025.10.22 09:54:30
-      title: Android开发智能调试分析软件V5.0
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498843&idx=1&sn=c786f752d98595f35fa1366a7387d8ac
-    - author: Spade sec
-      release_time: 2025.10.22 09:00:00
-      title: 秒杀CryptoJS所有对称加密 工具集
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486777&idx=1&sn=a63b7e19b2f96c70ce871a22596fe907
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
