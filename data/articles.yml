@@ -124,6 +124,26 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Python头等奖
+      release_time: 2025.10.29 10:39:50
+      title: python爬虫逆向|丑团mtgsig1.2(4.1.1)AI辅助补环境
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0NzMwMTM4OQ==&mid=2247484493&idx=1&sn=cfd2113707af8915c444bab2b7501e3a
+    - author: 小小杨学编程
+      release_time: 2025.10.29 10:34:04
+      title: captchafox滑动验证码分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484637&idx=1&sn=144868a2fb2d83c7c372772261b1fdc7
+    - author: 哆啦安全
+      release_time: 2025.10.29 10:10:58
+      title: 产品列表(智能调试分析)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498943&idx=1&sn=066c2bb35ab540056110bf706e1588b7
+    - author: 哆啦安全
+      release_time: 2025.10.29 10:10:58
+      title: 智能调试分析工具V6.0(下载地址和使用方法)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498943&idx=2&sn=6533283d3cc14d3150ec2f6afdfb9937
+    - author: 逆向有你
+      release_time: 2025.10.29 09:59:21
+      title: 安卓逆向 -- 使用Unidbg模拟执行去除OLLVM-BR混淆
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040611&idx=1&sn=a46b715b29d4397f3147febe30321924
     - author: 如意私塾
       release_time: 2025.10.28 19:56:06
       title: Chromium内核教程 | Fiber用户态轻量级线程
@@ -224,26 +244,6 @@
       release_time: 2025.10.25 08:03:44
       title: Android7至16系统和谷歌服务(一键刷机)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498879&idx=1&sn=fcd3d6972ff99f0e6ab360325cb2896e
-    - author: 哆啦安全
-      release_time: 2025.10.25 08:03:44
-      title: 移动端开发和安全自动化分析软件(付费版)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498879&idx=2&sn=391a03240d9bcca8ddabc38ff463294a
-    - author: 极验
-      release_time: 2025.10.24 17:30:18
-      title: 【极验13周年】  从敬畏到共识，向新的山峰攀登
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649723983&idx=1&sn=024e94ec88a1e7c648f1674dbaaef098
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.24 17:00:23
-      title: 快时尚品牌MANGO因第三方营销服务商漏洞致客户个人信息泄露
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519528&idx=1&sn=c4599e0dea6a826f7d0892b99774e2f2
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.24 17:00:23
-      title: 湖南省网信办对某文化旅游公司未履行数据安全保护义务作出行政处罚
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519528&idx=2&sn=9ea9fe17be00fbb6657b8b3eafa4dfd0
-    - author: coderwhy
-      release_time: 2025.10.24 17:00:00
-      title: 1024 节日快乐！《JavaScript 高级编程权威指南》即将发售
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247489052&idx=1&sn=a720387e01762430e490b62cf1bf60c6
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
