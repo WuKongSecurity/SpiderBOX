@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.10.29 16:42:18
+      title: 【清理未活跃会员】清理2025年暑假开放注册未活跃会员公告
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143129&idx=1&sn=cdecd30abc651c649c2b1ed6a3b7e0f4
     - author: Python头等奖
       release_time: 2025.10.29 10:39:50
       title: python爬虫逆向|丑团mtgsig1.2(4.1.1)AI辅助补环境
@@ -240,10 +244,6 @@
       release_time: 2025.10.25 18:35:02
       title: x-mini-mua算法分析
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247484864&idx=1&sn=3a958ef275122913625ea740175c82e7
-    - author: 哆啦安全
-      release_time: 2025.10.25 08:03:44
-      title: Android7至16系统和谷歌服务(一键刷机)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498879&idx=1&sn=fcd3d6972ff99f0e6ab360325cb2896e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
