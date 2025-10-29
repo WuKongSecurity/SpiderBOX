@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.10.29 21:00:00
+      title: 7.5K Star！HKUDS开源AI全栈开发框架，产品经理的Demo神器！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991066&idx=1&sn=e31b614bf53e5fbbc9cbd18a53cd164e
     - author: 个人信息与数据保护实务评论
       release_time: 2025.10.29 18:10:01
       title: 《网络安全法》修订详文对照（附全文、修改决定及历次审议报告）
@@ -240,10 +244,6 @@
       release_time: 2025.10.26 19:52:50
       title: 汇报一下安卓逆向第二阶段课程与电子书发布进度
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484898&idx=1&sn=75274c3cdfe26b7aaa4fef5e91fa21d9
-    - author: 如意私塾
-      release_time: 2025.10.25 21:30:40
-      title: Chromium内核教程 | devtools面板字体和大小源码层定制
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483878&idx=1&sn=7e28aadfc1c1485ab20a61a71cb02208
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
