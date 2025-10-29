@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.10.29 18:10:01
+      title: 《网络安全法》修订详文对照（附全文、修改决定及历次审议报告）
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519547&idx=1&sn=5b64b6b2004a5c6e8ef4fe682f00dd7f
     - author: 吾爱破解论坛
       release_time: 2025.10.29 16:42:18
       title: 【清理未活跃会员】清理2025年暑假开放注册未活跃会员公告
@@ -240,10 +244,6 @@
       release_time: 2025.10.25 21:30:40
       title: Chromium内核教程 | devtools面板字体和大小源码层定制
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483878&idx=1&sn=7e28aadfc1c1485ab20a61a71cb02208
-    - author: Frida and So
-      release_time: 2025.10.25 18:35:02
-      title: x-mini-mua算法分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247484864&idx=1&sn=3a958ef275122913625ea740175c82e7
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
