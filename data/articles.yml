@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: Alone逆向安全
+      release_time: 2025.10.30 06:17:51
+      title: Arm64 inlinhook框架的实现原理 以及crc32内存校验的原理
+      url: https://www.bilibili.com/video/BV1pMytBoEqk
     - author: ikun的嘴
       release_time: 2025.10.28 21:26:17
       title: jsvmp如何找堆栈和指令集，听完就秒了
@@ -117,10 +121,6 @@
       release_time: 2025.09.11 17:11:01
       title: DrissionPageMCP-AI全自动化调试和生成爬虫代码
       url: https://www.bilibili.com/video/BV1zPHezPE4r
-    - author: B站用户骚神
-      release_time: 2025.09.08 14:08:48
-      title: AI+DrissionPage破解 滑动拼图和空间语义验证码
-      url: https://www.bilibili.com/video/BV136a9zqEcU
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
