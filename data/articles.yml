@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 极验
+      release_time: 2025.10.30 16:00:00
+      title: “鸡排哥”6元鸡排被炒到200 | 黄牛的技术进化
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724007&idx=1&sn=2d8878800d753b747a0451d11ba01ab3
+    - author: 吾爱破解论坛
+      release_time: 2025.10.30 15:55:14
+      title: 解开Windows微信4.0版本的手机聊天记录备份文件
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143139&idx=1&sn=13ef9a6628ab12824759842b35fa5de5
     - author: 如意私塾
       release_time: 2025.10.30 14:54:41
       title: Chromium内核教程 | 指纹浏览器的多进程指纹传递问题
@@ -236,14 +244,6 @@
       release_time: 2025.10.27 09:58:45
       title: 安卓逆向 -- 某影视pro的奖励算法分析
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040580&idx=1&sn=3d0379f24a8c817f80031ad0ac0e93e2
-    - author: Spade sec
-      release_time: 2025.10.27 09:00:00
-      title: Hook前端加密库CryptoJS && JSEncrypt RSA
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486812&idx=1&sn=5df5db57c0e132fbd5c3bd2b38b570e4
-    - author: 小伍哥聊风控
-      release_time: 2025.10.27 08:31:00
-      title: 信也科技DGraph金融反欺诈图算法挑战赛
-      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650197005&idx=1&sn=b8689eef1fda651e69095c8a530d5e42
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
