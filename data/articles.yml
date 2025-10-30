@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.10.30 12:01:26
+      title: Android病毒分析与安全检测系统-专业版V2.0
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498957&idx=1&sn=19cbd84b8107e29abdca7338306f5654
     - author: 逆向有你
       release_time: 2025.10.30 09:43:19
       title: JS逆向 -- 某云模拟登录
@@ -240,10 +244,6 @@
       release_time: 2025.10.27 08:30:00
       title: 【密码学】公钥加密方案
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493045&idx=1&sn=177713b2e401bbb24268966e62d7d357
-    - author: 哆啦安全
-      release_time: 2025.10.26 21:42:54
-      title: APP自动化测试工具V1.0
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498884&idx=1&sn=b69d8169614a4e45f8c2b78e0a61e23e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
