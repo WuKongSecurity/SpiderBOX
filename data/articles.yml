@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: xuxinhang
+      release_time: 2025.10.29 21:00:00
+      title: 解开Windows微信4.0版本的手机聊天记录备份文件
+      url: https://www.52pojie.cn/thread-2068774-1-1.html
     - author: JoyboyPass
       release_time: 2025.10.27 16:07:00
       title: 新手小白入门app：某路旅行请求头参数逆向分析
@@ -363,10 +367,6 @@
       release_time: 2025.09.27 16:45:00
       title: 记录一次莫心理健康平台的登录分析
       url: https://www.52pojie.cn/thread-2062977-1-1.html
-    - author: mysticz
-      release_time: 2025.09.27 11:13:00
-      title: Python爬虫进阶：acw_v2加密AST解混淆全流程
-      url: https://www.52pojie.cn/thread-2062929-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
