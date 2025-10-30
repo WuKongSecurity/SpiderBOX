@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.10.30 16:22:01
+      title: 工信部通报42款APP及SDK侵害用户权益行为
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519561&idx=1&sn=e6e050bdc2eb1b59b9838f5b8006a4ff
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.10.30 16:22:01
+      title: 欧盟EDPS发布关于生成式人工智能的修订版指南
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519561&idx=2&sn=7d38b2e59c74e6780a4221e8316e9d34
     - author: 极验
       release_time: 2025.10.30 16:00:00
       title: “鸡排哥”6元鸡排被炒到200 | 黄牛的技术进化
@@ -236,14 +244,6 @@
       release_time: 2025.10.27 11:20:51
       title: 2025移动应用效能革命：AI智能调试平台深度解析与选型指南
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498907&idx=1&sn=cea90e872658e1dde47c1de987b96257
-    - author: 哆啦安全
-      release_time: 2025.10.27 11:20:51
-      title: Android7至16系统ROM定制篇(2025)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498907&idx=2&sn=e415293219c3b6a90252c523f99e1d81
-    - author: 逆向有你
-      release_time: 2025.10.27 09:58:45
-      title: 安卓逆向 -- 某影视pro的奖励算法分析
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040580&idx=1&sn=3d0379f24a8c817f80031ad0ac0e93e2
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
