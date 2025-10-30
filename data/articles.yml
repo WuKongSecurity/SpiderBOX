@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.10.30 09:43:19
+      title: JS逆向 -- 某云模拟登录
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040645&idx=1&sn=78193831e92921d50616cc0c7cec6589
+    - author: 测试工程师成长之路
+      release_time: 2025.10.30 08:00:00
+      title: 10月，测试行情爆了。。
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578209&idx=1&sn=c8e4093c324f6aa93d556d2ba8db14bb
     - author: 未闻Code
       release_time: 2025.10.29 21:00:00
       title: 7.5K Star！HKUDS开源AI全栈开发框架，产品经理的Demo神器！
@@ -236,14 +244,6 @@
       release_time: 2025.10.26 21:42:54
       title: APP自动化测试工具V1.0
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498884&idx=1&sn=b69d8169614a4e45f8c2b78e0a61e23e
-    - author: 未闻Code
-      release_time: 2025.10.26 21:00:00
-      title: 每个Python开发者都应了解的Enum技巧
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991063&idx=1&sn=a7861767e83e5c88e805ac854886b5c2
-    - author: 软件安全与逆向分析
-      release_time: 2025.10.26 19:52:50
-      title: 汇报一下安卓逆向第二阶段课程与电子书发布进度
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484898&idx=1&sn=75274c3cdfe26b7aaa4fef5e91fa21d9
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
