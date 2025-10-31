@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 猿人学
+      release_time: 2025.10.31 09:09:33
+      title: 猿人学杭州爬虫er聚会花絮2025年2月22
+      url: https://www.bilibili.com/video/BV1Hi1NBAEgs
+    - author: 冷月不是程序员
+      release_time: 2025.10.30 21:14:38
+      title: 教程系列-任务调度框架Apache-Airflow 使用Syncthing同步dag（五）
+      url: https://www.bilibili.com/video/BV1RbyaBZEyz
     - author: Alone逆向安全
       release_time: 2025.10.30 06:17:51
       title: Arm64 inlinhook框架的实现原理 以及crc32内存校验的原理
@@ -113,14 +121,6 @@
       release_time: 2025.09.15 23:42:30
       title: lsposed的java hook原理，frida java hook原理，frida的java hook无痕实现，相关问题解释
       url: https://www.bilibili.com/video/BV1dxpqzzEj6
-    - author: B站用户骚神
-      release_time: 2025.09.13 09:51:49
-      title: AI+DrissionPage  轻松搞定CloudFlare 5秒盾
-      url: https://www.bilibili.com/video/BV1o4pjzEEJs
-    - author: B站用户骚神
-      release_time: 2025.09.11 17:11:01
-      title: DrissionPageMCP-AI全自动化调试和生成爬虫代码
-      url: https://www.bilibili.com/video/BV1zPHezPE4r
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -370,6 +370,30 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 果冻大砍刀
+      release_time: 2025.10.31 00:43:32
+      title: '[原创]基于浏览器脚本与中间人拦截的瑞数“异步”解决方案'
+      url: https://bbs.kanxue.com/thread-288946.htm
+    - author: w2sfot
+      release_time: 2025.10.30 09:38:57
+      title: JavaScript中使用eval进行代码加壳
+      url: https://blog.csdn.net/w2sft/article/details/154114571
+    - author: w2sfot
+      release_time: 2025.10.29 13:19:06
+      title: js中如何隐藏eval关键字？
+      url: https://blog.csdn.net/w2sft/article/details/154069102
+    - author: w2sfot
+      release_time: 2025.10.29 09:11:34
+      title: 10个JavaScript编程实用技巧
+      url: https://blog.csdn.net/w2sft/article/details/154058934
+    - author: w2sfot
+      release_time: 2025.10.28 19:41:21
+      title: JavaScript数组问题：寻找平衡点
+      url: https://blog.csdn.net/w2sft/article/details/154029518
+    - author: wangYи
+      release_time: 2025.10.28 17:44:26
+      title: 某程无忧WEB端逆向阿里系acw_sc__v2算法逆向详情解析(附源码)
+      url: https://blog.csdn.net/weixin_59616601/article/details/153961215
     - author: 九天666
       release_time: 2025.10.28 15:49:19
       title: '[原创]KernelSU检测之“时间侧信道攻击”'
@@ -378,18 +402,58 @@
       release_time: 2025.10.28 11:11:04
       title: 绕过 Instagram iOS 应用中的 SSL Pinning
       url: https://bbs.kanxue.com/thread-288925.htm
+    - author: w2sfot
+      release_time: 2025.10.28 11:00:30
+      title: Auto.js脚本加密
+      url: https://blog.csdn.net/w2sft/article/details/154010279
+    - author: w2sfot
+      release_time: 2025.10.27 20:48:17
+      title: Web前端开发：用JavaScript阻止表单提交
+      url: https://blog.csdn.net/w2sft/article/details/153981237
+    - author: 和沐阳学逆向
+      release_time: 2025.10.27 20:45:00
+      title: 3.Xposed框架入门指南：深入解析Hook内部类与匿名类的实现技巧
+      url: https://blog.csdn.net/qq_41155858/article/details/153973928
     - author: JellyXu
       release_time: 2025.10.27 18:42:07
       title: '[分享]Web题集中《又不是不能用》的几种解法'
       url: https://bbs.kanxue.com/thread-288918.htm
+    - author: 和沐阳学逆向
+      release_time: 2025.10.27 16:46:12
+      title: 4.Xposed框架进阶：修改App属性的两种核心技术——XposedHelpers与Java反射
+      url: https://blog.csdn.net/qq_41155858/article/details/153974723
+    - author: 和沐阳学逆向
+      release_time: 2025.10.26 19:15:00
+      title: 2.Xposed框架入门指南：详解Hook普通方法、构造函数与修改返回值
+      url: https://blog.csdn.net/qq_41155858/article/details/153923354
+    - author: 和沐阳学逆向
+      release_time: 2025.10.26 19:15:00
+      title: 1.Xposed框架入门指南：环境搭建及概念讲解
+      url: https://blog.csdn.net/qq_41155858/article/details/153923308
+    - author: w2sfot
+      release_time: 2025.10.26 15:01:01
+      title: JS前端开发性能优化技巧
+      url: https://blog.csdn.net/w2sft/article/details/153923065
+    - author: w2sfot
+      release_time: 2025.10.26 14:21:52
+      title: 什么？JS相同内容数组竟然不相等？！
+      url: https://blog.csdn.net/w2sft/article/details/153922180
     - author: vwvw
       release_time: 2025.10.26 13:32:30
       title: '[原创] c-sktrace：基于 C 实现的 sktrace 性能优化 demo'
       url: https://bbs.kanxue.com/thread-288909.htm
+    - author: w2sfot
+      release_time: 2025.10.26 11:03:54
+      title: JavaScript性能优化：reduce方法的巧妙运用
+      url: https://blog.csdn.net/w2sft/article/details/153917642
     - author: 悦来客栈的老板
       release_time: 2025.10.25 21:00:42
       title: Python爬虫入门：spiderdemo题解及详细思路（简单篇）
       url: https://blog.csdn.net/qq523176585/article/details/153906648
+    - author: w2sfot
+      release_time: 2025.10.25 10:29:21
+      title: JavaScript数据类型
+      url: https://blog.csdn.net/w2sft/article/details/153867659
     - author: 吴秋霖
       release_time: 2025.10.24 22:00:00
       title: 某网站全协议逆向分析（登录、查询、锁单）
@@ -402,6 +466,14 @@
       release_time: 2025.10.24 10:30:48
       title: '[分享]记录某数字壳.init_array都为0的解决办法'
       url: https://bbs.kanxue.com/thread-288897.htm
+    - author: wangYи
+      release_time: 2025.10.24 10:19:36
+      title: 某某茶姬小程序端AES加密及阿里type_xxx类尾缀逆向解析
+      url: https://blog.csdn.net/weixin_59616601/article/details/153782526
+    - author: 狗都不学爬虫_
+      release_time: 2025.10.23 16:02:02
+      title: JS逆向 - spiderdemo T6题（JSVMP喵喵盾、protobuf、css）纯算
+      url: https://blog.csdn.net/qq_53444631/article/details/153781127
     - author: SharkFall
       release_time: 2025.10.23 12:42:34
       title: '[原创] Android 加固技术回忆录(0x1) 一代TX加固完整分析'
@@ -418,78 +490,6 @@
       release_time: 2025.10.22 16:46:20
       title: 国产codebuddy AI工具测试超强xposed插件HOOKUI的MCP分析某应用能力案例演示
       url: https://bbs.kanxue.com/thread-288882.htm
-    - author: 情迁
-      release_time: 2025.10.22 14:54:25
-      title: '[下载]xposed插件HOOKUI更新|完善AI控制能力'
-      url: https://bbs.kanxue.com/thread-288880.htm
-    - author: 悦来客栈的老板
-      release_time: 2025.10.21 17:27:43
-      title: JS逆向实战|Spiderdemo第二题逆向纯算分析
-      url: https://blog.csdn.net/qq523176585/article/details/153710533
-    - author: mb_qajrlqra
-      release_time: 2025.10.21 10:27:15
-      title: 反调试，ptrace执行权限问题
-      url: https://bbs.kanxue.com/thread-288870.htm
-    - author: 孤恒
-      release_time: 2025.10.20 18:41:34
-      title: 教你玩转ida反编译（修改ida microcode）
-      url: https://bbs.kanxue.com/thread-288865.htm
-    - author: 悦来客栈的老板
-      release_time: 2025.10.20 17:00:35
-      title: JS逆向实战|Spiderdemo第五题混淆代码详解及纯算
-      url: https://blog.csdn.net/qq523176585/article/details/153670328
-    - author: lovesh
-      release_time: 2025.10.20 16:45:33
-      title: 苹果FairPlay中发现的混淆技术分析
-      url: https://bbs.kanxue.com/thread-288863.htm
-    - author: 带带弟弟学爬虫__
-      release_time: 2025.10.20 15:48:05
-      title: mt系-小象超市抓包-安卓
-      url: https://blog.csdn.net/A_fanyifan/article/details/153632878
-    - author: HandsomeBro
-      release_time: 2025.10.19 21:37:56
-      title: '[原创]VMP样本分析'
-      url: https://bbs.kanxue.com/thread-288854.htm
-    - author: 悦来客栈的老板
-      release_time: 2025.10.19 21:01:04
-      title: JS逆向神器|AntiDebug_Breaker v1.5更新
-      url: https://blog.csdn.net/qq523176585/article/details/153607141
-    - author: 悦来客栈的老板
-      release_time: 2025.10.18 09:46:48
-      title: 去看女友的路上，他顺手拍下计算机史上最有名的照片！
-      url: https://blog.csdn.net/qq523176585/article/details/153547470
-    - author: RZERO
-      release_time: 2025.10.17 20:53:05
-      title: '[原创][开源自开发]JavaHumanify,将混淆过的 Java 代码自动去混淆 / 人性化命名'
-      url: https://bbs.kanxue.com/thread-288842.htm
-    - author: 情迁
-      release_time: 2025.10.17 17:33:38
-      title: '[讨论]我发布的hookui xposed插件 用ai mcp hook的文章咋没引起轰动啊这是为啥'
-      url: https://bbs.kanxue.com/thread-288839.htm
-    - author: 悦来客栈的老板
-      release_time: 2025.10.17 17:01:16
-      title: AST基础知识|括号表达式类型知多少
-      url: https://blog.csdn.net/qq523176585/article/details/153502458
-    - author: 鞠婧祎
-      release_time: 2025.10.16 23:39:29
-      title: '[分享]邪修能去企业级的去签工具（半成品）'
-      url: https://bbs.kanxue.com/thread-288829.htm
-    - author: 情迁
-      release_time: 2025.10.16 18:14:18
-      title: '[下载]xposed插件 HOOKUI 2.1已发布支持 直接mcp调用 ai控制 本地内存搜索'
-      url: https://bbs.kanxue.com/thread-288827.htm
-    - author: 悦来客栈的老板
-      release_time: 2025.10.16 17:00:39
-      title: AST反混淆实战|新版的5s盾混淆代码还原不了？不存在的。
-      url: https://blog.csdn.net/qq523176585/article/details/153439970
-    - author: 悦来客栈的老板
-      release_time: 2025.10.15 16:53:37
-      title: 好库推荐|验证码(缺口)识别项目专题
-      url: https://blog.csdn.net/qq523176585/article/details/153374195
-    - author: Solar安全
-      release_time: 2025.10.15 16:47:38
-      title: '[原创] 2025-9月Solar应急响应月赛WP！'
-      url: https://bbs.kanxue.com/thread-288799.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
