@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.10.31 16:42:32
+      title: 北京四中院通报个人信息保护类案件审判情况及典型案例
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519594&idx=1&sn=3c0a1ee1061e7e6a8b48833183e6c518
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.10.31 16:42:32
+      title: 关于国家标准《数据安全技术 数据安全保护要求》征求意见稿征求意见的通知
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519594&idx=2&sn=38c4ab0cbfa25641434fbb4e027a475c
     - author: 爬虫spider
       release_time: 2025.10.31 14:07:05
       title: 抖音最新版抓包
@@ -236,14 +244,6 @@
       release_time: 2025.10.28 09:09:55
       title: 智能调试分析工具(下载地址和使用方法)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498918&idx=1&sn=292d2a4567e0ae572ad2dcdd1a51fbca
-    - author: 哆啦安全
-      release_time: 2025.10.28 09:09:55
-      title: 移动端(APK/HAP/IPA)SDK安全检测分析工具
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498918&idx=2&sn=790c7aeb131f1f25a4026d3321c3bcba
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.27 16:54:35
-      title: 香港私隐专员公署发布年报，关注AI安全、严打起底个人隐私行为
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519533&idx=1&sn=a31190eb3e779a93e841a19d3a06e498
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
