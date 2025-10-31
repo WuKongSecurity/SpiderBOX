@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 逆向狗都不学
+      release_time: 2025.10.31 14:48:51
+      title: JS逆向实战之数美(纯py实现)
+      url: https://www.bilibili.com/video/BV1Hf1KBNE3W
     - author: 猿人学
       release_time: 2025.10.31 09:09:33
       title: 猿人学杭州爬虫er聚会花絮2025年2月22
@@ -117,10 +121,6 @@
       release_time: 2025.09.17 15:42:26
       title: CodeBuddy Code+DrissionPageMCP 纯命令行自动化开发调试爬虫代码
       url: https://www.bilibili.com/video/BV1nLpxzmE7v
-    - author: 一只勇敢的小佳
-      release_time: 2025.09.15 23:42:30
-      title: lsposed的java hook原理，frida java hook原理，frida的java hook无痕实现，相关问题解释
-      url: https://www.bilibili.com/video/BV1dxpqzzEj6
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
