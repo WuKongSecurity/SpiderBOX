@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.10.31 18:33:43
+      title: 鸿蒙(HarmonyOS)应用安全检测分析工具V5.0
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498981&idx=1&sn=f0886963d294c4299d8dda5271fd3768
+    - author: 哆啦安全
+      release_time: 2025.10.31 18:33:43
+      title: Android App抓包防护与绕过技术
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498981&idx=2&sn=cee86db8f16c3ac4ee97d11a68809e38
     - author: 个人信息与数据保护实务评论
       release_time: 2025.10.31 16:42:32
       title: 北京四中院通报个人信息保护类案件审判情况及典型案例
@@ -236,14 +244,6 @@
       release_time: 2025.10.28 10:30:42
       title: 某度点选VMP逆向分析
       url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247490209&idx=1&sn=7ea0982b4f1977b05de29aaa6dbea9c7
-    - author: 逆向有你
-      release_time: 2025.10.28 10:26:05
-      title: JS逆向 -- 某通模拟登录
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040593&idx=1&sn=ae81562701ddf938a943cad1091fb56e
-    - author: 哆啦安全
-      release_time: 2025.10.28 09:09:55
-      title: 智能调试分析工具(下载地址和使用方法)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498918&idx=1&sn=292d2a4567e0ae572ad2dcdd1a51fbca
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
