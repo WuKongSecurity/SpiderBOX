@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.10.31 21:00:00
+      title: AI看不到的爱心，成了最棒的AI检测器。
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991085&idx=1&sn=893b5a25ee51738c222bf54d0d1ee485
     - author: 哆啦安全
       release_time: 2025.10.31 18:33:43
       title: 鸿蒙(HarmonyOS)应用安全检测分析工具V5.0
@@ -240,10 +244,6 @@
       release_time: 2025.10.28 12:20:07
       title: 快手__NS_xfalcon算法分析
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247484954&idx=1&sn=6232b58efc831c436457a33d8684fb1e
-    - author: 影17
-      release_time: 2025.10.28 10:30:42
-      title: 某度点选VMP逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247490209&idx=1&sn=7ea0982b4f1977b05de29aaa6dbea9c7
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
