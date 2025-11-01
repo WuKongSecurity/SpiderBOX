@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 可乐还是百事好呀
+      release_time: 2025.11.01 22:27:55
+      title: 28岁大龄剩男割BP分享
+      url: https://www.bilibili.com/video/BV1DGyQB3EL5
     - author: 逆向狗都不学
       release_time: 2025.10.31 14:48:51
       title: JS逆向实战之数美(纯py实现)
@@ -117,10 +121,6 @@
       release_time: 2025.09.20 13:54:46
       title: 用frida gum写一个art java hook 原理分析
       url: https://www.bilibili.com/video/BV1vJp9zUEBg
-    - author: B站用户骚神
-      release_time: 2025.09.17 15:42:26
-      title: CodeBuddy Code+DrissionPageMCP 纯命令行自动化开发调试爬虫代码
-      url: https://www.bilibili.com/video/BV1nLpxzmE7v
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
