@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.11.03 16:59:40
+      title: 【开放注册公告】吾爱破解论坛2025年11月11日光棍节开放注册公告
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143142&idx=1&sn=144f6488f76f87b3bf1f60ad23df4cb8
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.03 16:46:08
+      title: 国家网信办发布数据出境安全管理政策问答（2025年10月）
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519597&idx=1&sn=0c5f787455abac9ff577b9d41278b189
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.03 16:46:08
+      title: 一图读懂 | 《个人信息出境认证办法》核心要点
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519597&idx=2&sn=3b4c929614cbed730696bfb63c5e9aaf
     - author: 当爬虫遇到逆向
       release_time: 2025.11.03 15:01:54
       title: 某红薯新版xs（许久没登录了，来水一水补环境版）
@@ -232,18 +244,6 @@
       release_time: 2025.10.29 10:39:50
       title: python爬虫逆向|丑团mtgsig1.2(4.1.1)AI辅助补环境
       url: https://mp.weixin.qq.com/s?__biz=Mzk0NzMwMTM4OQ==&mid=2247484493&idx=1&sn=cfd2113707af8915c444bab2b7501e3a
-    - author: 小小杨学编程
-      release_time: 2025.10.29 10:34:04
-      title: captchafox滑动验证码分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484637&idx=1&sn=144868a2fb2d83c7c372772261b1fdc7
-    - author: 哆啦安全
-      release_time: 2025.10.29 10:10:58
-      title: 产品列表(智能调试分析)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498943&idx=1&sn=066c2bb35ab540056110bf706e1588b7
-    - author: 哆啦安全
-      release_time: 2025.10.29 10:10:58
-      title: 智能调试分析工具V6.0(下载地址和使用方法)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498943&idx=2&sn=6533283d3cc14d3150ec2f6afdfb9937
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
