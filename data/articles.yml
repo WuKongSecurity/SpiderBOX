@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 当爬虫遇到逆向
+      release_time: 2025.11.03 15:01:54
+      title: 某红薯新版xs（许久没登录了，来水一水补环境版）
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4MjE4NzA5NA==&mid=2247483940&idx=1&sn=901179e91f6855fbe28ad24c7c4af4f4
     - author: 哆啦安全
       release_time: 2025.11.03 12:00:00
       title: 鸿蒙(HarmonyOS)病毒检测工具V4.0
@@ -240,10 +244,6 @@
       release_time: 2025.10.29 10:10:58
       title: 智能调试分析工具V6.0(下载地址和使用方法)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498943&idx=2&sn=6533283d3cc14d3150ec2f6afdfb9937
-    - author: 逆向有你
-      release_time: 2025.10.29 09:59:21
-      title: 安卓逆向 -- 使用Unidbg模拟执行去除OLLVM-BR混淆
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040611&idx=1&sn=a46b715b29d4397f3147febe30321924
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
