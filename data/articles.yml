@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.11.03 12:00:00
+      title: 鸿蒙(HarmonyOS)病毒检测工具V4.0
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498992&idx=1&sn=a8c711ce3c18cf8071081aba0d8b1297
     - author: 二进制磨剑
       release_time: 2025.11.03 11:03:38
       title: 调试器检测手段汇总
@@ -136,6 +140,10 @@
       release_time: 2025.11.03 08:00:00
       title: 从“识别难”到“自动拦”：如何用LLM+eBPF实现栈内零延迟防御
       url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485216&idx=1&sn=b4337ab44edfe8993d84bd2a5017bef6
+    - author: 哆啦安全
+      release_time: 2025.11.01 10:25:35
+      title: Magisk Root隐藏方案：Shamiko模块原理解析
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498983&idx=1&sn=2f10965288fba5e84b5672624460d85b
     - author: 未闻Code
       release_time: 2025.10.31 21:00:00
       title: AI看不到的爱心，成了最棒的AI检测器。
@@ -236,14 +244,6 @@
       release_time: 2025.10.29 09:59:21
       title: 安卓逆向 -- 使用Unidbg模拟执行去除OLLVM-BR混淆
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040611&idx=1&sn=a46b715b29d4397f3147febe30321924
-    - author: 如意私塾
-      release_time: 2025.10.28 19:56:06
-      title: Chromium内核教程 | Fiber用户态轻量级线程
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483883&idx=1&sn=377cd45e49e52ddeb3b4fd15a741c576
-    - author: 吾爱破解论坛
-      release_time: 2025.10.28 17:43:21
-      title: pyd_Hook
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143127&idx=1&sn=98c978db679a487095549473a4f0961b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
