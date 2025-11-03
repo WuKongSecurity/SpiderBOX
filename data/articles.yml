@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: 2025.11.03 11:03:38
+      title: 调试器检测手段汇总
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485773&idx=1&sn=355a544fcd55655f9c1691cae19a9dfc
+    - author: 测试工程师成长之路
+      release_time: 2025.11.03 08:30:00
+      title: 告别脚本录到吐！现在，对着浏览器说人话，它就能帮你完成测试
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578252&idx=1&sn=1e7de172af6babdb5bb36f2d1dcfb6aa
+    - author: 榫卯江湖
+      release_time: 2025.11.03 08:00:00
+      title: 从“识别难”到“自动拦”：如何用LLM+eBPF实现栈内零延迟防御
+      url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485216&idx=1&sn=b4337ab44edfe8993d84bd2a5017bef6
     - author: 未闻Code
       release_time: 2025.10.31 21:00:00
       title: AI看不到的爱心，成了最棒的AI检测器。
@@ -232,18 +244,6 @@
       release_time: 2025.10.28 17:43:21
       title: pyd_Hook
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143127&idx=1&sn=98c978db679a487095549473a4f0961b
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.28 16:19:09
-      title: 《网络安全法》完成修改，2026年1月1日起施行
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519545&idx=1&sn=92b42c6866ddd6c2fad4885b341288b0
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.28 16:19:09
-      title: 欧盟初步认定Meta和TikTok违反《数字服务法》
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519545&idx=2&sn=8b954b25d3e513a8c5c553e2f33cf80a
-    - author: Frida and So
-      release_time: 2025.10.28 12:20:07
-      title: 快手__NS_xfalcon算法分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247484954&idx=1&sn=6232b58efc831c436457a33d8684fb1e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
