@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 东方玻璃
+      release_time: 2025.11.03 12:35:35
+      title: '[原创]入门OLLVM(上): 从LLVM到OLLVM-编译,使用,移植和源码分析'
+      url: https://bbs.kanxue.com/thread-288976.htm
     - author: angelToms
       release_time: 2025.11.02 19:46:26
       title: '[原创]逆向之常用算法识别二'
@@ -486,10 +490,6 @@
       release_time: 2025.10.24 14:54:52
       title: '[原创][原创]使用jQuery的常用方法与返回值分析'
       url: https://bbs.kanxue.com/thread-288900.htm
-    - author: wx_柠檬七喜
-      release_time: 2025.10.24 10:30:48
-      title: '[分享]记录某数字壳.init_array都为0的解决办法'
-      url: https://bbs.kanxue.com/thread-288897.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
