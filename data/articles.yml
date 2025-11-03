@@ -5,10 +5,6 @@
       release_time: 2025.11.02 09:56:28
       title: 教程系列-任务调度框架Apache-Airflow 远程开发和注意事项（六）
       url: https://www.bilibili.com/video/BV1qky9BbE9Z
-    - author: 可乐还是百事好呀
-      release_time: 2025.11.01 22:27:55
-      title: 28岁大龄剩男割BP分享
-      url: https://www.bilibili.com/video/BV1DGyQB3EL5
     - author: 逆向狗都不学
       release_time: 2025.10.31 14:48:51
       title: JS逆向实战之数美(纯py实现)
@@ -121,6 +117,10 @@
       release_time: 2025.09.26 17:34:19
       title: 用AI生成的DrissionPage官网镜像站
       url: https://www.bilibili.com/video/BV12fngzLEyT
+    - author: Alone逆向安全
+      release_time: 2025.09.20 13:54:46
+      title: 用frida gum写一个art java hook 原理分析
+      url: https://www.bilibili.com/video/BV1vJp9zUEBg
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
