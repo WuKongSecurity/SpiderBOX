@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Spade sec
+      release_time: 2025.11.04 09:00:00
+      title: JS逆向系列25-详解如何实现非对称自动化加解密
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486857&idx=1&sn=7dfb4efa7899624f3da01af7cc46357d
+    - author: Coder小Q
+      release_time: 2025.11.04 08:30:00
+      title: 【密码学】安全多方计算(半诚实对手)
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493095&idx=1&sn=e50bcaae6582da490515bda35c5d7a75
     - author: 吾爱破解论坛
       release_time: 2025.11.03 16:59:40
       title: 【开放注册公告】吾爱破解论坛2025年11月11日光棍节开放注册公告
@@ -236,14 +244,6 @@
       release_time: 2025.10.29 18:10:01
       title: 《网络安全法》修订详文对照（附全文、修改决定及历次审议报告）
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519547&idx=1&sn=5b64b6b2004a5c6e8ef4fe682f00dd7f
-    - author: 吾爱破解论坛
-      release_time: 2025.10.29 16:42:18
-      title: 【清理未活跃会员】清理2025年暑假开放注册未活跃会员公告
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143129&idx=1&sn=cdecd30abc651c649c2b1ed6a3b7e0f4
-    - author: Python头等奖
-      release_time: 2025.10.29 10:39:50
-      title: python爬虫逆向|丑团mtgsig1.2(4.1.1)AI辅助补环境
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0NzMwMTM4OQ==&mid=2247484493&idx=1&sn=cfd2113707af8915c444bab2b7501e3a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: w2sfot
+      release_time: 2025.11.04 08:35:56
+      title: js颜文字混淆
+      url: https://blog.csdn.net/w2sft/article/details/154382819
     - author: CuteHacker
       release_time: 2025.11.03 15:51:57
       title: '[原创] 某海外短视频TikTok验证码分享'
@@ -486,10 +490,6 @@
       release_time: 2025.10.25 10:29:21
       title: JavaScript数据类型
       url: https://blog.csdn.net/w2sft/article/details/153867659
-    - author: 吴秋霖
-      release_time: 2025.10.24 22:00:00
-      title: 某网站全协议逆向分析（登录、查询、锁单）
-      url: https://crawler.blog.csdn.net/article/details/149632174
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
