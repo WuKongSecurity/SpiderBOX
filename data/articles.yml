@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.11.04 14:22:44
+      title: 新版CloudFlare5秒盾自动点击程序，适配Win10,Win11
+      url: https://www.bilibili.com/video/BV1sE1kBgEKk
     - author: 冷月不是程序员
       release_time: 2025.11.03 23:04:15
       title: PyTorch孪生神经网络实战（三） Dataset模块设计与实现
@@ -117,10 +121,6 @@
       release_time: 2025.09.27 10:31:49
       title: AST反混淆之基础
       url: https://www.bilibili.com/video/BV1cNnEzsE7g
-    - author: B站用户骚神
-      release_time: 2025.09.26 17:34:19
-      title: 用AI生成的DrissionPage官网镜像站
-      url: https://www.bilibili.com/video/BV12fngzLEyT
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
