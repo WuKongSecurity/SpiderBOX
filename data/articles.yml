@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.11.04 21:00:00
+      title: 5K标星！开源AI Agent舆情分析神器，预测趋势一键搞定！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991088&idx=1&sn=0bd2dc8cee777a74079e8e6ce8f4ad8d
     - author: coderwhy
       release_time: 2025.11.04 16:57:38
       title: 互联网就业指导（一）- 核心竞争力和职业规划
@@ -240,10 +244,6 @@
       release_time: 2025.10.30 16:00:00
       title: “鸡排哥”6元鸡排被炒到200 | 黄牛的技术进化
       url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724007&idx=1&sn=2d8878800d753b747a0451d11ba01ab3
-    - author: 吾爱破解论坛
-      release_time: 2025.10.30 15:55:14
-      title: 解开Windows微信4.0版本的手机聊天记录备份文件
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143139&idx=1&sn=13ef9a6628ab12824759842b35fa5de5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: nothing233
+      release_time: 2025.11.04 21:07:48
+      title: '[原创]chromium 的启动'
+      url: https://bbs.kanxue.com/thread-288998.htm
     - author: 狗都不学爬虫_
       release_time: 2025.11.04 17:53:23
       title: JS逆向 - 163Email 登录 参数pVParam (Worker线程)
@@ -486,10 +490,6 @@
       release_time: 2025.10.26 14:21:52
       title: 什么？JS相同内容数组竟然不相等？！
       url: https://blog.csdn.net/w2sft/article/details/153922180
-    - author: vwvw
-      release_time: 2025.10.26 13:32:30
-      title: '[原创] c-sktrace：基于 C 实现的 sktrace 性能优化 demo'
-      url: https://bbs.kanxue.com/thread-288909.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
