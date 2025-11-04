@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: coderwhy
+      release_time: 2025.11.04 16:57:38
+      title: 互联网就业指导（一）- 核心竞争力和职业规划
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247489060&idx=1&sn=5b9bc60a3e57aee1e2efae1ce965d895
     - author: 个人信息与数据保护实务评论
       release_time: 2025.11.04 16:05:27
       title: 上海市通信管理局通报下架27款侵害用户权益行为APP（SDK）
@@ -240,10 +244,6 @@
       release_time: 2025.10.30 15:55:14
       title: 解开Windows微信4.0版本的手机聊天记录备份文件
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143139&idx=1&sn=13ef9a6628ab12824759842b35fa5de5
-    - author: 如意私塾
-      release_time: 2025.10.30 14:54:41
-      title: Chromium内核教程 | 指纹浏览器的多进程指纹传递问题
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483889&idx=1&sn=e0f8a929d11cc456a1f1744ba71100f0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
