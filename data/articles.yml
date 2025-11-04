@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.04 16:05:27
+      title: 上海市通信管理局通报下架27款侵害用户权益行为APP（SDK）
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519599&idx=1&sn=950d5ee833e9373a737f95a704d76f0a
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.04 16:05:27
+      title: 上海首例人工智能大模型著作权侵权案一审落槌
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519599&idx=2&sn=7239227179ea81f9637e7a57fe7259e2
     - author: 哆啦安全
       release_time: 2025.11.04 15:44:46
       title: Android Root Expert v4.5 - 专业多平台提权与刷机工具
@@ -236,14 +244,6 @@
       release_time: 2025.10.30 14:54:41
       title: Chromium内核教程 | 指纹浏览器的多进程指纹传递问题
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483889&idx=1&sn=e0f8a929d11cc456a1f1744ba71100f0
-    - author: 哆啦安全
-      release_time: 2025.10.30 12:01:26
-      title: Android病毒分析与安全检测系统-专业版V2.0
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498957&idx=1&sn=19cbd84b8107e29abdca7338306f5654
-    - author: 逆向有你
-      release_time: 2025.10.30 09:43:19
-      title: JS逆向 -- 某云模拟登录
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040645&idx=1&sn=78193831e92921d50616cc0c7cec6589
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
