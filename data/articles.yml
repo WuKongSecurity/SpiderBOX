@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.11.04 11:21:55
+      title: PC逆向 -- 一款适用于菜鸟的GPS位置模拟器进行位置模拟的方法和工具
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040683&idx=1&sn=62da19b7abda8bb536b07837df4fb244
     - author: Spade sec
       release_time: 2025.11.04 09:00:00
       title: JS逆向系列25-详解如何实现非对称自动化加解密
@@ -240,10 +244,6 @@
       release_time: 2025.10.29 21:00:00
       title: 7.5K Star！HKUDS开源AI全栈开发框架，产品经理的Demo神器！
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991066&idx=1&sn=e31b614bf53e5fbbc9cbd18a53cd164e
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.29 18:10:01
-      title: 《网络安全法》修订详文对照（附全文、修改决定及历次审议报告）
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519547&idx=1&sn=5b64b6b2004a5c6e8ef4fe682f00dd7f
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Shangwendada
+      release_time: 2025.11.04 11:28:38
+      title: '[原创]记录一次Unity加固的探索与实现'
+      url: https://bbs.kanxue.com/thread-288985.htm
     - author: w2sfot
       release_time: 2025.11.04 08:35:56
       title: js颜文字混淆
@@ -486,10 +490,6 @@
       release_time: 2025.10.25 21:00:42
       title: Python爬虫入门：spiderdemo题解及详细思路（简单篇）
       url: https://blog.csdn.net/qq523176585/article/details/153906648
-    - author: w2sfot
-      release_time: 2025.10.25 10:29:21
-      title: JavaScript数据类型
-      url: https://blog.csdn.net/w2sft/article/details/153867659
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
