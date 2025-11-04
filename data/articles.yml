@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: xiaowaaa
+      release_time: 2025.11.04 17:44:41
+      title: '[原创]签名校验攻防对抗基础学习'
+      url: https://bbs.kanxue.com/thread-288996.htm
     - author: Shangwendada
       release_time: 2025.11.04 11:28:38
       title: '[原创]记录一次Unity加固的探索与实现'
@@ -486,10 +490,6 @@
       release_time: 2025.10.26 11:03:54
       title: JavaScript性能优化：reduce方法的巧妙运用
       url: https://blog.csdn.net/w2sft/article/details/153917642
-    - author: 悦来客栈的老板
-      release_time: 2025.10.25 21:00:42
-      title: Python爬虫入门：spiderdemo题解及详细思路（简单篇）
-      url: https://blog.csdn.net/qq523176585/article/details/153906648
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
