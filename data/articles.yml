@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.11.04 15:44:46
+      title: Android Root Expert v4.5 - 专业多平台提权与刷机工具
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499002&idx=1&sn=2d76648e5e83d1677bed0f439963c6d8
+    - author: 哆啦安全
+      release_time: 2025.11.04 15:44:46
+      title: Android Root技术解析：以往到现在的三种主流方案
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499002&idx=2&sn=2ea11f27b275d5eb779ce56e1fd26a7c
     - author: 逆向有你
       release_time: 2025.11.04 11:21:55
       title: PC逆向 -- 一款适用于菜鸟的GPS位置模拟器进行位置模拟的方法和工具
@@ -236,17 +244,21 @@
       release_time: 2025.10.30 09:43:19
       title: JS逆向 -- 某云模拟登录
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040645&idx=1&sn=78193831e92921d50616cc0c7cec6589
-    - author: 测试工程师成长之路
-      release_time: 2025.10.30 08:00:00
-      title: 10月，测试行情爆了。。
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578209&idx=1&sn=c8e4093c324f6aa93d556d2ba8db14bb
-    - author: 未闻Code
-      release_time: 2025.10.29 21:00:00
-      title: 7.5K Star！HKUDS开源AI全栈开发框架，产品经理的Demo神器！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991066&idx=1&sn=e31b614bf53e5fbbc9cbd18a53cd164e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: Shangwendada
+      release_time: 2025.11.04 11:24:00
+      title: 记录一次Unity加固的探索与实现
+      url: https://www.52pojie.cn/thread-2069859-1-1.html
+    - author: wangguang
+      release_time: 2025.10.31 20:38:00
+      title: 某美验证码及风控浅析一
+      url: https://www.52pojie.cn/thread-2069214-1-1.html
+    - author: ai474427793
+      release_time: 2025.10.31 00:52:00
+      title: 另辟蹊径：基于浏览器脚本与中间人拦截的瑞数“异步”解决方案
+      url: https://www.52pojie.cn/thread-2069036-1-1.html
     - author: xuxinhang
       release_time: 2025.10.29 21:00:00
       title: 解开Windows微信4.0版本的手机聊天记录备份文件
@@ -355,18 +367,6 @@
       release_time: 2025.09.30 17:19:00
       title: 某迪汽车vx小程序逆向及每日签到--站在巨人的肩膀上确实可以少走弯路
       url: https://www.52pojie.cn/thread-2063588-1-1.html
-    - author: lsnow666
-      release_time: 2025.09.30 17:02:00
-      title: Android上的一个“全局穿透”的漏洞，Android16依然无解
-      url: https://www.52pojie.cn/thread-2063585-1-1.html
-    - author: jhdgff
-      release_time: 2025.09.29 22:44:00
-      title: 某验3纯算逆向分析
-      url: https://www.52pojie.cn/thread-2063429-1-1.html
-    - author: daijunhao
-      release_time: 2025.09.27 16:45:00
-      title: 记录一次莫心理健康平台的登录分析
-      url: https://www.52pojie.cn/thread-2062977-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
