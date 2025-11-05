@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.11.05 17:36:24
+      title: 【公告】吾爱破解论坛积分方案调整说明（2025年11月5日）
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143151&idx=1&sn=ec90f28e01eabf34e8bf45acc92caa91
     - author: 逆向有你
       release_time: 2025.11.05 16:27:15
       title: 安卓逆向 -- 某护家去除广告办法
@@ -240,10 +244,6 @@
       release_time: 2025.10.31 14:07:05
       title: 抖音最新版抓包
       url: https://mp.weixin.qq.com/s?__biz=MzUyODY3ODUzNw==&mid=2247484192&idx=1&sn=aba914adef37378086b8eea6d86e21ef
-    - author: 逆向有你
-      release_time: 2025.10.31 10:17:15
-      title: 安卓逆向 -- 某记账app破解
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040665&idx=1&sn=001bc68c2b94df43d727a234f9a04162
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
