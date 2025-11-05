@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 沐阳逆向学习
+      release_time: 2025.11.05 19:00:00
+      title: 送送送！送手机！送星球！双十一课程优惠活动
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484423&idx=1&sn=4cd3503ae0f3d59b1a48214314ab02e3
     - author: 吾爱破解论坛
       release_time: 2025.11.05 17:36:24
       title: 【公告】吾爱破解论坛积分方案调整说明（2025年11月5日）
@@ -240,10 +244,6 @@
       release_time: 2025.10.31 16:42:32
       title: 关于国家标准《数据安全技术 数据安全保护要求》征求意见稿征求意见的通知
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519594&idx=2&sn=38c4ab0cbfa25641434fbb4e027a475c
-    - author: 爬虫spider
-      release_time: 2025.10.31 14:07:05
-      title: 抖音最新版抓包
-      url: https://mp.weixin.qq.com/s?__biz=MzUyODY3ODUzNw==&mid=2247484192&idx=1&sn=aba914adef37378086b8eea6d86e21ef
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
