@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.11.05 16:27:15
+      title: 安卓逆向 -- 某护家去除广告办法
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040689&idx=1&sn=9fed295a809594db10f9ed3363230815
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.05 16:25:24
+      title: 逾百万患者病历数据泄露，美国医疗软件供应商赔偿近2000万美元
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519601&idx=1&sn=5e0249a2540db5d82b92df8e6604b68a
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.05 16:25:24
+      title: 官方通报70款手机软件违规收集使用个人信息
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519601&idx=2&sn=bdc525b531c9955174342f2e63cbe4d9
     - author: 哆啦安全
       release_time: 2025.11.05 11:52:14
       title: Android12定制版安全测试手机(Pixel3)
@@ -232,18 +244,6 @@
       release_time: 2025.10.31 10:17:15
       title: 安卓逆向 -- 某记账app破解
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040665&idx=1&sn=001bc68c2b94df43d727a234f9a04162
-    - author: Coder小Q
-      release_time: 2025.10.31 08:30:00
-      title: 【密码学】基于模拟的证明
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493071&idx=1&sn=929db0793f9cd86395ebe4061bbcad73
-    - author: Frida and So
-      release_time: 2025.10.30 21:41:04
-      title: 旧版京东vmp算法分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247484981&idx=1&sn=a047b869ed41460965b869aaa978f487
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.30 16:22:01
-      title: 工信部通报42款APP及SDK侵害用户权益行为
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519561&idx=1&sn=e6e050bdc2eb1b59b9838f5b8006a4ff
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
