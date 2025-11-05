@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2025.11.05 20:54:50
+      title: safari内核教程 | webkit的环境构建和编译
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483896&idx=1&sn=f2bd744f1d4ecda432ab7be2abaa0c06
     - author: 沐阳逆向学习
       release_time: 2025.11.05 19:00:00
       title: 送送送！送手机！送星球！双十一课程优惠活动
@@ -240,10 +244,6 @@
       release_time: 2025.10.31 16:42:32
       title: 北京四中院通报个人信息保护类案件审判情况及典型案例
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519594&idx=1&sn=3c0a1ee1061e7e6a8b48833183e6c518
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.31 16:42:32
-      title: 关于国家标准《数据安全技术 数据安全保护要求》征求意见稿征求意见的通知
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519594&idx=2&sn=38c4ab0cbfa25641434fbb4e027a475c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
