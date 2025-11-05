@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 逆向狗都不学
+      release_time: 2025.11.05 11:35:53
+      title: AST反混淆实战之顶象-2
+      url: https://www.bilibili.com/video/BV11H1WBsEjD
     - author: B站用户骚神
       release_time: 2025.11.04 14:22:44
       title: 新版CloudFlare5秒盾自动点击程序，适配Win10,Win11
@@ -117,13 +121,17 @@
       release_time: 2025.09.27 10:47:06
       title: AST反混淆之AST
       url: https://www.bilibili.com/video/BV1AFnEzZETb
-    - author: 逆向狗都不学
-      release_time: 2025.09.27 10:31:49
-      title: AST反混淆之基础
-      url: https://www.bilibili.com/video/BV1cNnEzsE7g
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.11.05 11:52:14
+      title: Android12定制版安全测试手机(Pixel3)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499010&idx=1&sn=daccb62419e5935162dde84b67cb71f2
+    - author: 哆啦安全
+      release_time: 2025.11.05 11:52:14
+      title: Unity图片资源逆向分析和提取工具(处理Texture专用版)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499010&idx=2&sn=0c776984588c59cf484955c1c9f783ea
     - author: 未闻Code
       release_time: 2025.11.04 21:00:00
       title: 5K标星！开源AI Agent舆情分析神器，预测趋势一键搞定！
@@ -236,14 +244,6 @@
       release_time: 2025.10.30 16:22:01
       title: 工信部通报42款APP及SDK侵害用户权益行为
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519561&idx=1&sn=e6e050bdc2eb1b59b9838f5b8006a4ff
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.30 16:22:01
-      title: 欧盟EDPS发布关于生成式人工智能的修订版指南
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519561&idx=2&sn=7d38b2e59c74e6780a4221e8316e9d34
-    - author: 极验
-      release_time: 2025.10.30 16:00:00
-      title: “鸡排哥”6元鸡排被炒到200 | 黄牛的技术进化
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724007&idx=1&sn=2d8878800d753b747a0451d11ba01ab3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
