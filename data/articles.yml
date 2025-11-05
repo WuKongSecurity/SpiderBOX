@@ -2,6 +2,10 @@
   list:
   - links:
     - author: 冷月不是程序员
+      release_time: 2025.11.05 23:09:02
+      title: PyTorch孪生神经网络实战（五） 训练你自己的数据集
+      url: https://www.bilibili.com/video/BV1yu14BcEpX
+    - author: 冷月不是程序员
       release_time: 2025.11.05 22:38:14
       title: PyTorch孪生神经网络实战（四） 实现训练模块
       url: https://www.bilibili.com/video/BV1DR1xB6Ed2
@@ -117,10 +121,6 @@
       release_time: 2025.09.30 09:37:28
       title: DP+Playwright混合编程，【抓取/拦截/修改/替换】网页数据包
       url: https://www.bilibili.com/video/BV1mVnkzKEDH
-    - author: 一只勇敢的小佳
-      release_time: 2025.09.27 18:32:23
-      title: 小佳修改的最新lsposed，直接过海外大部分应用，基本检测不到，和原本几乎一致，兼容性非常强
-      url: https://www.bilibili.com/video/BV1XHnEzkEPL
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
