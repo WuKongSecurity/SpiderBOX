@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 冷月不是程序员
+      release_time: 2025.11.05 22:38:14
+      title: PyTorch孪生神经网络实战（四） 实现训练模块
+      url: https://www.bilibili.com/video/BV1DR1xB6Ed2
     - author: 逆向狗都不学
       release_time: 2025.11.05 11:35:53
       title: AST反混淆实战之顶象-2
@@ -117,10 +121,6 @@
       release_time: 2025.09.27 18:32:23
       title: 小佳修改的最新lsposed，直接过海外大部分应用，基本检测不到，和原本几乎一致，兼容性非常强
       url: https://www.bilibili.com/video/BV1XHnEzkEPL
-    - author: 逆向狗都不学
-      release_time: 2025.09.27 10:47:06
-      title: AST反混淆之AST
-      url: https://www.bilibili.com/video/BV1AFnEzZETb
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
