@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.06 15:38:03
+      title: 北互案例：关联企业共享用户数据可被认定共同处理，需满足告知同意要求
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519612&idx=1&sn=6bda04085a79a4b6fb1c451f8d8c6169
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.06 15:38:03
+      title: 北京市通信管理局关于问题移动互联网应用程序的通报（2025年第十期）
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519612&idx=2&sn=ea0a468c7fd7fc25178e862fe5fa8130
     - author: 哆啦安全
       release_time: 2025.11.06 12:03:35
       title: 鸿蒙(HarmonyOS)病毒检测工具V5.0
@@ -236,14 +244,6 @@
       release_time: 2025.10.31 21:00:00
       title: AI看不到的爱心，成了最棒的AI检测器。
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991085&idx=1&sn=893b5a25ee51738c222bf54d0d1ee485
-    - author: 哆啦安全
-      release_time: 2025.10.31 18:33:43
-      title: 鸿蒙(HarmonyOS)应用安全检测分析工具V5.0
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498981&idx=1&sn=f0886963d294c4299d8dda5271fd3768
-    - author: 哆啦安全
-      release_time: 2025.10.31 18:33:43
-      title: Android App抓包防护与绕过技术
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498981&idx=2&sn=cee86db8f16c3ac4ee97d11a68809e38
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
