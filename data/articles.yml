@@ -371,6 +371,10 @@
     term: 吾爱破解
   - links:
     - author: 带带弟弟学爬虫__
+      release_time: 2025.11.06 12:30:01
+      title: 用药助手批量-采集数据
+      url: https://blog.csdn.net/A_fanyifan/article/details/154484257
+    - author: 带带弟弟学爬虫__
       release_time: 2025.11.06 11:32:15
       title: 新电途充电桩爬虫-设备注册过风控
       url: https://blog.csdn.net/A_fanyifan/article/details/154481691
@@ -486,10 +490,6 @@
       release_time: 2025.10.27 16:46:12
       title: 4.Xposed框架进阶：修改App属性的两种核心技术——XposedHelpers与Java反射
       url: https://blog.csdn.net/qq_41155858/article/details/153974723
-    - author: 和沐阳学逆向
-      release_time: 2025.10.26 19:15:00
-      title: 2.Xposed框架入门指南：详解Hook普通方法、构造函数与修改返回值
-      url: https://blog.csdn.net/qq_41155858/article/details/153923354
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
