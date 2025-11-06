@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 极验
+      release_time: 2025.11.06 16:02:44
+      title: 滑块or点选，验证码的样式为什么不止一种？
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724030&idx=1&sn=79f8af96a2356beb7b836eb59c45d2d4
     - author: 个人信息与数据保护实务评论
       release_time: 2025.11.06 15:38:03
       title: 北互案例：关联企业共享用户数据可被认定共同处理，需满足告知同意要求
@@ -240,10 +244,6 @@
       release_time: 2025.11.01 10:25:35
       title: Magisk Root隐藏方案：Shamiko模块原理解析
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498983&idx=1&sn=2f10965288fba5e84b5672624460d85b
-    - author: 未闻Code
-      release_time: 2025.10.31 21:00:00
-      title: AI看不到的爱心，成了最棒的AI检测器。
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991085&idx=1&sn=893b5a25ee51738c222bf54d0d1ee485
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
