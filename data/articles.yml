@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2025.11.06 22:49:38
+      title: 英雄帖 | 浏览器内核开发招聘帖
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483903&idx=1&sn=2c91dbcd6067566057672a8682069da1
     - author: 极验
       release_time: 2025.11.06 16:02:44
       title: 滑块or点选，验证码的样式为什么不止一种？
@@ -240,10 +244,6 @@
       release_time: 2025.11.03 08:00:00
       title: 从“识别难”到“自动拦”：如何用LLM+eBPF实现栈内零延迟防御
       url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485216&idx=1&sn=b4337ab44edfe8993d84bd2a5017bef6
-    - author: 哆啦安全
-      release_time: 2025.11.01 10:25:35
-      title: Magisk Root隐藏方案：Shamiko模块原理解析
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498983&idx=1&sn=2f10965288fba5e84b5672624460d85b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
