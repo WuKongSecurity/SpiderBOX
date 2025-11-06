@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.11.06 12:03:35
+      title: 鸿蒙(HarmonyOS)病毒检测工具V5.0
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499023&idx=1&sn=98e0aae1e66493baa523b2ee40e03c2a
     - author: 如意私塾
       release_time: 2025.11.05 20:54:50
       title: safari内核教程 | webkit的环境构建和编译
@@ -240,10 +244,6 @@
       release_time: 2025.10.31 18:33:43
       title: Android App抓包防护与绕过技术
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498981&idx=2&sn=cee86db8f16c3ac4ee97d11a68809e38
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.10.31 16:42:32
-      title: 北京四中院通报个人信息保护类案件审判情况及典型案例
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519594&idx=1&sn=3c0a1ee1061e7e6a8b48833183e6c518
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
