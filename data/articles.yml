@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.11.07 21:14:09
+      title: 6.6K标星！微软开源Agent自我优化框架，为智能体注入持续学习能力！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991091&idx=1&sn=2e1121973a4f5dff9e3506a3089d18a5
     - author: 个人信息与数据保护实务评论
       release_time: 2025.11.07 17:20:40
       title: 某企业未按规定发布漏洞信息，网警依法予以处罚
@@ -236,10 +240,6 @@
       release_time: 2025.11.04 09:00:00
       title: JS逆向系列25-详解如何实现非对称自动化加解密
       url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486857&idx=1&sn=7dfb4efa7899624f3da01af7cc46357d
-    - author: Coder小Q
-      release_time: 2025.11.04 08:30:00
-      title: 【密码学】安全多方计算(半诚实对手)
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493095&idx=1&sn=e50bcaae6582da490515bda35c5d7a75
     - author: 吾爱破解论坛
       release_time: 2025.11.03 16:59:40
       title: 【开放注册公告】吾爱破解论坛2025年11月11日光棍节开放注册公告
