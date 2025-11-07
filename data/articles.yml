@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.11.07 16:23:01
+      title: 鸿蒙(HarmonyOS)应用安全检测平台V6.6
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499040&idx=1&sn=ad71ce13827db04d5ed4e50ea5d0932f
+    - author: 哆啦安全
+      release_time: 2025.11.07 16:23:01
+      title: Objection使用指南：基于Frida的移动安全测试神器
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499040&idx=2&sn=d733975c4a24c51d3392378d39887eaa
     - author: 逆向有你
       release_time: 2025.11.07 11:38:58
       title: JS逆向 -- 某有声书网站参数逆向分析
@@ -236,14 +244,6 @@
       release_time: 2025.11.03 16:46:08
       title: 一图读懂 | 《个人信息出境认证办法》核心要点
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519597&idx=2&sn=3b4c929614cbed730696bfb63c5e9aaf
-    - author: 当爬虫遇到逆向
-      release_time: 2025.11.03 15:01:54
-      title: 某红薯新版xs（许久没登录了，来水一水补环境版）
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4MjE4NzA5NA==&mid=2247483940&idx=1&sn=901179e91f6855fbe28ad24c7c4af4f4
-    - author: 哆啦安全
-      release_time: 2025.11.03 12:00:00
-      title: 鸿蒙(HarmonyOS)病毒检测工具V4.0
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498992&idx=1&sn=a8c711ce3c18cf8071081aba0d8b1297
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
