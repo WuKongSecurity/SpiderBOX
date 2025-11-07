@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Spade sec
+      release_time: 2025.11.07 09:00:00
+      title: AntiDebug_Breaker v2.5更新
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486875&idx=1&sn=5aa41b82276bb6c955f377ad9136f024
+    - author: 不落的逆向手札
+      release_time: 2025.11.07 07:44:03
+      title: 某蜂窝样本案例分析
+      url: https://mp.weixin.qq.com/s?__biz=MzYzNTAzOTIxMw==&mid=2247483795&idx=1&sn=0e00d088dc52b98f42a0004cded6f9fb
     - author: 如意私塾
       release_time: 2025.11.06 22:49:38
       title: 英雄帖 | 浏览器内核开发招聘帖
@@ -236,14 +244,6 @@
       release_time: 2025.11.03 11:03:38
       title: 调试器检测手段汇总
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485773&idx=1&sn=355a544fcd55655f9c1691cae19a9dfc
-    - author: 测试工程师成长之路
-      release_time: 2025.11.03 08:30:00
-      title: 告别脚本录到吐！现在，对着浏览器说人话，它就能帮你完成测试
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578252&idx=1&sn=1e7de172af6babdb5bb36f2d1dcfb6aa
-    - author: 榫卯江湖
-      release_time: 2025.11.03 08:00:00
-      title: 从“识别难”到“自动拦”：如何用LLM+eBPF实现栈内零延迟防御
-      url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485216&idx=1&sn=b4337ab44edfe8993d84bd2a5017bef6
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
