@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.11.07 11:38:58
+      title: JS逆向 -- 某有声书网站参数逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040709&idx=1&sn=7e508ba7944771b3058588d3cdf61509
     - author: Spade sec
       release_time: 2025.11.07 09:00:00
       title: AntiDebug_Breaker v2.5更新
@@ -240,10 +244,6 @@
       release_time: 2025.11.03 12:00:00
       title: 鸿蒙(HarmonyOS)病毒检测工具V4.0
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498992&idx=1&sn=a8c711ce3c18cf8071081aba0d8b1297
-    - author: 二进制磨剑
-      release_time: 2025.11.03 11:03:38
-      title: 调试器检测手段汇总
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485773&idx=1&sn=355a544fcd55655f9c1691cae19a9dfc
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: w2sfot
+      release_time: 2025.11.07 11:26:37
+      title: JS压缩（javascript minify）
+      url: https://blog.csdn.net/w2sft/article/details/154524729
     - author: 审判者虔诚
       release_time: 2025.11.07 01:55:44
       title: '[原创]某修仙游戏分析'
@@ -486,10 +490,6 @@
       release_time: 2025.10.28 11:00:30
       title: Auto.js脚本加密
       url: https://blog.csdn.net/w2sft/article/details/154010279
-    - author: w2sfot
-      release_time: 2025.10.27 20:48:17
-      title: Web前端开发：用JavaScript阻止表单提交
-      url: https://blog.csdn.net/w2sft/article/details/153981237
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
