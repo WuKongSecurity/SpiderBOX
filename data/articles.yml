@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.07 17:20:40
+      title: 某企业未按规定发布漏洞信息，网警依法予以处罚
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519614&idx=1&sn=fbe702b3e3efcbdf4b6d43ad9a5d70ed
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.07 17:20:40
+      title: 媒体巨头日经新闻发生大规模数据泄露
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519614&idx=2&sn=7a2a8a2f3b1bee10873b2fd800b16378
     - author: 哆啦安全
       release_time: 2025.11.07 16:23:01
       title: 鸿蒙(HarmonyOS)应用安全检测平台V6.6
@@ -236,14 +244,6 @@
       release_time: 2025.11.03 16:59:40
       title: 【开放注册公告】吾爱破解论坛2025年11月11日光棍节开放注册公告
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143142&idx=1&sn=144f6488f76f87b3bf1f60ad23df4cb8
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.03 16:46:08
-      title: 国家网信办发布数据出境安全管理政策问答（2025年10月）
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519597&idx=1&sn=0c5f787455abac9ff577b9d41278b189
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.03 16:46:08
-      title: 一图读懂 | 《个人信息出境认证办法》核心要点
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519597&idx=2&sn=3b4c929614cbed730696bfb63c5e9aaf
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
