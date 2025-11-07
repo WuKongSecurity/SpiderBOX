@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: xiaoyangupup
+      release_time: 2025.11.07 00:36:00
+      title: 某视频网站signter简要分析
+      url: https://www.52pojie.cn/thread-2070601-1-1.html
     - author: buluo533
       release_time: 2025.11.06 22:41:00
       title: 某蜂窝app登录逆向分析
@@ -363,10 +367,6 @@
       release_time: 2025.10.03 18:52:00
       title: 【解密实战】简单的图片加密分析
       url: https://www.52pojie.cn/thread-2063949-1-1.html
-    - author: aoshid002
-      release_time: 2025.10.02 20:32:00
-      title: 抓包就自动闪退
-      url: https://www.52pojie.cn/thread-2063857-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
