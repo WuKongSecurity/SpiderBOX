@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: '13955925361'
+      release_time: 2025.11.08 18:54:00
+      title: 极验4 无感和滑块分享
+      url: https://www.52pojie.cn/thread-2071068-1-1.html
     - author: xiaoyangupup
       release_time: 2025.11.07 00:36:00
       title: 某视频网站signter简要分析
@@ -363,10 +367,6 @@
       release_time: 2025.10.03 20:38:00
       title: 《安卓逆向这档事》第二十五课、Unidbg之补完环境我就睡(中)
       url: https://www.52pojie.cn/thread-2063957-1-1.html
-    - author: JiGuro
-      release_time: 2025.10.03 18:52:00
-      title: 【解密实战】简单的图片加密分析
-      url: https://www.52pojie.cn/thread-2063949-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
