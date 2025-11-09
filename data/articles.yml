@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: Command
+      release_time: 2025.11.09 21:02:00
+      title: 以车载微信为例对微信协议请求进行抓包(理论全版本通杀)
+      url: https://www.52pojie.cn/thread-2071262-1-1.html
     - author: HackerWen
       release_time: 2025.11.09 16:44:00
       title: 一时兴起分析并绕过某网站验证码验证
@@ -363,10 +367,6 @@
       release_time: 2025.10.10 16:35:00
       title: 行车记录仪 App 会员逆向分析
       url: https://www.52pojie.cn/thread-2065004-1-1.html
-    - author: 正己
-      release_time: 2025.10.09 10:21:00
-      title: 《安卓逆向这档事》第二十六课、Unidbg之补完环境我就睡(下)
-      url: https://www.52pojie.cn/thread-2064640-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
