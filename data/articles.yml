@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.11.09 20:25:00
+      title: 最传奇的美国程序员，只使用中国的龙芯电脑......
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566188&idx=1&sn=8f27b5aa359b2adadda08e11844413b0
     - author: 哆啦安全
       release_time: 2025.11.09 16:54:37
       title: 鸿蒙(HarmonyOS)应用安全检测平台
@@ -236,10 +240,6 @@
       release_time: 2025.11.04 15:44:46
       title: Android Root Expert v4.5 - 专业多平台提权与刷机工具
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499002&idx=1&sn=2d76648e5e83d1677bed0f439963c6d8
-    - author: 哆啦安全
-      release_time: 2025.11.04 15:44:46
-      title: Android Root技术解析：以往到现在的三种主流方案
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499002&idx=2&sn=2ea11f27b275d5eb779ce56e1fd26a7c
     - author: 吾爱破解论坛
       release_time: 2025.11.03 16:59:40
       title: 【开放注册公告】吾爱破解论坛2025年11月11日光棍节开放注册公告
