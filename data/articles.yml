@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.11.08 20:59:27
+      title: 新版reese84的函数表达式简化效果
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566186&idx=1&sn=14876b59ca1d73ec96d8680ab0f40ea4
     - author: 未闻Code
       release_time: 2025.11.07 21:14:09
       title: 6.6K标星！微软开源Agent自我优化框架，为智能体注入持续学习能力！
@@ -236,10 +240,6 @@
       release_time: 2025.11.04 11:21:55
       title: PC逆向 -- 一款适用于菜鸟的GPS位置模拟器进行位置模拟的方法和工具
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040683&idx=1&sn=62da19b7abda8bb536b07837df4fb244
-    - author: Spade sec
-      release_time: 2025.11.04 09:00:00
-      title: JS逆向系列25-详解如何实现非对称自动化加解密
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486857&idx=1&sn=7dfb4efa7899624f3da01af7cc46357d
     - author: 吾爱破解论坛
       release_time: 2025.11.03 16:59:40
       title: 【开放注册公告】吾爱破解论坛2025年11月11日光棍节开放注册公告
