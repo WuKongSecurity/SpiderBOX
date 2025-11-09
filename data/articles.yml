@@ -2,6 +2,10 @@
   list:
   - links:
     - author: 冷月不是程序员
+      release_time: 2025.11.09 23:05:18
+      title: Windows电脑使用习惯分享
+      url: https://www.bilibili.com/video/BV1vukXBLEEt
+    - author: 冷月不是程序员
       release_time: 2025.11.05 23:09:02
       title: PyTorch孪生神经网络实战（五） 训练你自己的数据集
       url: https://www.bilibili.com/video/BV1yu14BcEpX
@@ -117,10 +121,6 @@
       release_time: 2025.10.06 11:52:28
       title: AST反混淆实战之极验4
       url: https://www.bilibili.com/video/BV1RgxVzVEF6
-    - author: B站用户骚神
-      release_time: 2025.09.30 09:37:28
-      title: DP+Playwright混合编程，【抓取/拦截/修改/替换】网页数据包
-      url: https://www.bilibili.com/video/BV1mVnkzKEDH
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
