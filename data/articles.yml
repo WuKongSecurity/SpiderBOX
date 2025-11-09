@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.11.09 16:54:37
+      title: 鸿蒙(HarmonyOS)应用安全检测平台
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499048&idx=1&sn=40261c471d0dc4f461e7422348601ef5
     - author: 菜鸟学Python编程
       release_time: 2025.11.08 20:59:27
       title: 新版reese84的函数表达式简化效果
@@ -236,10 +240,6 @@
       release_time: 2025.11.04 15:44:46
       title: Android Root技术解析：以往到现在的三种主流方案
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499002&idx=2&sn=2ea11f27b275d5eb779ce56e1fd26a7c
-    - author: 逆向有你
-      release_time: 2025.11.04 11:21:55
-      title: PC逆向 -- 一款适用于菜鸟的GPS位置模拟器进行位置模拟的方法和工具
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040683&idx=1&sn=62da19b7abda8bb536b07837df4fb244
     - author: 吾爱破解论坛
       release_time: 2025.11.03 16:59:40
       title: 【开放注册公告】吾爱破解论坛2025年11月11日光棍节开放注册公告
