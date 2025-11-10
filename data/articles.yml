@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.11.10 14:28:00
+      title: YOLO缺口识别+贝塞尔曲线人类鼠标轨迹，彻底搞定滑块拼图验证码
+      url: https://www.bilibili.com/video/BV1TECFBpEhB
     - author: 冷月不是程序员
       release_time: 2025.11.09 23:05:18
       title: Windows电脑使用习惯分享
@@ -117,10 +121,6 @@
       release_time: 2025.10.07 12:00:49
       title: DrissionPage接管浏览器的八种方法
       url: https://www.bilibili.com/video/BV17GxQz4EDg
-    - author: 逆向狗都不学
-      release_time: 2025.10.06 11:52:28
-      title: AST反混淆实战之极验4
-      url: https://www.bilibili.com/video/BV1RgxVzVEF6
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
