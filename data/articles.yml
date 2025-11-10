@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.11.10 21:11:09
+      title: 几分钟内开发一个网站，这款开源工具火了！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991094&idx=1&sn=3bce3eab439cc1e6226b125c0b2168dc
     - author: 个人信息与数据保护实务评论
       release_time: 2025.11.10 17:33:26
       title: 某科技公司未及时修复安全漏洞，网警依法处罚
@@ -240,13 +244,13 @@
       release_time: 2025.11.05 11:52:14
       title: Android12定制版安全测试手机(Pixel3)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499010&idx=1&sn=daccb62419e5935162dde84b67cb71f2
-    - author: 哆啦安全
-      release_time: 2025.11.05 11:52:14
-      title: Unity图片资源逆向分析和提取工具(处理Texture专用版)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499010&idx=2&sn=0c776984588c59cf484955c1c9f783ea
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: Siestazzz
+      release_time: 2025.11.10 14:55:00
+      title: 强网杯s9初赛 Qcalc wp
+      url: https://www.52pojie.cn/thread-2071440-1-1.html
     - author: Command
       release_time: 2025.11.09 21:02:00
       title: 以车载微信为例对微信协议请求进行抓包(理论全版本通杀)
@@ -363,13 +367,13 @@
       release_time: 2025.10.11 14:40:00
       title: 基于 AST 手撕 xm-sign 生成逻辑：从环境补全到代码深度解析
       url: https://www.52pojie.cn/thread-2065208-1-1.html
-    - author: plusboy
-      release_time: 2025.10.10 16:35:00
-      title: 行车记录仪 App 会员逆向分析
-      url: https://www.52pojie.cn/thread-2065004-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: xiaowaaa
+      release_time: 2025.11.10 21:33:21
+      title: '[原创]对某某漫画的算法还原测试'
+      url: https://bbs.kanxue.com/thread-289057.htm
     - author: 狗都不学爬虫_
       release_time: 2025.11.10 09:57:50
       title: JS逆向 - 某阉割盾 (waf_answer)
@@ -486,10 +490,6 @@
       release_time: 2025.10.29 13:19:06
       title: js中如何隐藏eval关键字？
       url: https://blog.csdn.net/w2sft/article/details/154069102
-    - author: w2sfot
-      release_time: 2025.10.29 09:11:34
-      title: 10个JavaScript编程实用技巧
-      url: https://blog.csdn.net/w2sft/article/details/154058934
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
