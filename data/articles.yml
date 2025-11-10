@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2025.11.10 23:00:34
+      title: firefox内核教程 | Gecko的环境构建和编译
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483911&idx=1&sn=5307570124e811537332f83148d7410d
     - author: 未闻Code
       release_time: 2025.11.10 21:11:09
       title: 几分钟内开发一个网站，这款开源工具火了！
@@ -240,10 +244,6 @@
       release_time: 2025.11.05 16:25:24
       title: 官方通报70款手机软件违规收集使用个人信息
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519601&idx=2&sn=bdc525b531c9955174342f2e63cbe4d9
-    - author: 哆啦安全
-      release_time: 2025.11.05 11:52:14
-      title: Android12定制版安全测试手机(Pixel3)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499010&idx=1&sn=daccb62419e5935162dde84b67cb71f2
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
