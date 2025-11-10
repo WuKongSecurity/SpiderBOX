@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: 2025.11.10 08:30:00
+      title: 双11 · 二进制磨剑 全系逆向课程限时特惠
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485782&idx=1&sn=db4ff1bd4d0a1d1fb30d8d0cb64cf0fe
+    - author: Coder小Q
+      release_time: 2025.11.10 08:30:00
+      title: 【密码学】零知识证明（模拟恶意敌手的视图）
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493195&idx=1&sn=169d8ef89c290fc108ac09adcdc783aa
+    - author: 哆啦安全
+      release_time: 2025.11.10 08:00:00
+      title: 环境搭建和配置(使用方法)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499061&idx=1&sn=7bbda0766c01fe0540851b2a088d5279
     - author: 菜鸟学Python编程
       release_time: 2025.11.09 20:25:00
       title: 最传奇的美国程序员，只使用中国的龙芯电脑......
@@ -156,6 +168,10 @@
       release_time: 2025.11.07 16:23:01
       title: Objection使用指南：基于Frida的移动安全测试神器
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499040&idx=2&sn=d733975c4a24c51d3392378d39887eaa
+    - author: 吾爱破解论坛
+      release_time: 2025.11.07 15:57:25
+      title: 【开放注册公告】吾爱破解论坛2025年11月11日光棍节开放注册公告
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143158&idx=1&sn=a6995fb20a83d854f718ed7d104fb662
     - author: 逆向有你
       release_time: 2025.11.07 11:38:58
       title: JS逆向 -- 某有声书网站参数逆向分析
@@ -228,22 +244,6 @@
       release_time: 2025.11.04 16:57:38
       title: 互联网就业指导（一）- 核心竞争力和职业规划
       url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247489060&idx=1&sn=5b9bc60a3e57aee1e2efae1ce965d895
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.04 16:05:27
-      title: 上海市通信管理局通报下架27款侵害用户权益行为APP（SDK）
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519599&idx=1&sn=950d5ee833e9373a737f95a704d76f0a
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.04 16:05:27
-      title: 上海首例人工智能大模型著作权侵权案一审落槌
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519599&idx=2&sn=7239227179ea81f9637e7a57fe7259e2
-    - author: 哆啦安全
-      release_time: 2025.11.04 15:44:46
-      title: Android Root Expert v4.5 - 专业多平台提权与刷机工具
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499002&idx=1&sn=2d76648e5e83d1677bed0f439963c6d8
-    - author: 吾爱破解论坛
-      release_time: 2025.11.03 16:59:40
-      title: 【开放注册公告】吾爱破解论坛2025年11月11日光棍节开放注册公告
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143142&idx=1&sn=144f6488f76f87b3bf1f60ad23df4cb8
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,10 +370,18 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 狗都不学爬虫_
+      release_time: 2025.11.10 09:57:50
+      title: JS逆向 - 某阉割盾 (waf_answer)
+      url: https://blog.csdn.net/qq_53444631/article/details/154636706
     - author: 霸服w
       release_time: 2025.11.10 00:26:36
       title: '[推荐]关于2025的ACE团队做了什么'
       url: https://bbs.kanxue.com/thread-289048.htm
+    - author: 悦来客栈的老板
+      release_time: 2025.11.09 20:26:06
+      title: 最传奇的美国程序员，只使用中国的龙芯电脑......
+      url: https://blog.csdn.net/qq523176585/article/details/154626751
     - author: BenBenWen
       release_time: 2025.11.09 16:45:49
       title: '[原创]一时兴起分析并绕过某网站验证码验证'
@@ -482,14 +490,6 @@
       release_time: 2025.10.29 09:11:34
       title: 10个JavaScript编程实用技巧
       url: https://blog.csdn.net/w2sft/article/details/154058934
-    - author: w2sfot
-      release_time: 2025.10.28 19:41:21
-      title: JavaScript数组问题：寻找平衡点
-      url: https://blog.csdn.net/w2sft/article/details/154029518
-    - author: wangYи
-      release_time: 2025.10.28 17:44:26
-      title: 某程无忧WEB端逆向阿里系acw_sc__v2算法逆向详情解析(附源码)
-      url: https://blog.csdn.net/weixin_59616601/article/details/153961215
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
