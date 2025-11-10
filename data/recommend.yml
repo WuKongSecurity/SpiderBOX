@@ -45,15 +45,10 @@
       logo: bin.png
       url: https://www.httpbin.org/
       description: HTTP 请求和响应测试服务
-    - title: UP 简历
-      logo: upcv.png
-      url: https://upcv.tech/?invite=INVHDPT2NRO
-      description: 用 UP 简历，AI 助力求职 UP，5 分钟创建一份脱颖而出的专业求职简历，AI 智能优化内容，专业模板设计，助力您在激烈的求职竞争中脱颖而出
-
-#    - title: XPath 备忘清单
-#      logo: quickref.png
-#      url: https://quickref.hestudio.net/docs/xpath.html
-#      description: 这是一份 XPath 选择器备忘单，其中列出了常用的 XPath 定位方法和 CSS 选择器
+    - title: XPath 备忘清单
+      logo: quickref.png
+      url: https://quickref.hestudio.net/docs/xpath.html
+      description: 这是一份 XPath 选择器备忘单，其中列出了常用的 XPath 定位方法和 CSS 选择器
 
 #    - title: 探数联盟
 #      ads: true

@@ -400,6 +400,10 @@
           logo: pyminiracer.png
           url: https://github.com/sqreen/PyMiniRacer
           description: PyMiniRacer 是 Python 中的 V8 桥接器
+        - title: never-jscore
+          logo: github.png
+          url: https://github.com/neverl805/never-jscore
+          description: 基于 rust deno_core 开发封装的 v8 引擎库,用于 python 高性能执行 js (execjs 的上位替代品)
         - title: PythonMonkey
           logo: github.png
           url: https://github.com/Distributive-Network/PythonMonkey
@@ -842,10 +846,14 @@
           logo: ja4.png
           url: https://ja4db.com/id/
           description: 快速查看 JA4 指纹，官方接口
-        - title: TrackMe - fp API
+        - title: TrackMe - fingerprinting API
           logo: peet.jpg
           url: https://tls.peet.ws/
           description: TLS 指纹 API，查看 ja3、ja4 指纹
+        - title: TrackMe - fingerprinting API
+          logo: wangluozhe.jpg
+          url: https://tls.wangluozhe.com/
+          description: TLS 指纹 API，查看 ja3、ja4 指纹，https://tls.peet.ws/ 开源镜像版本，作者 LeeGene (wangluozhe)，tls 开源库 requests 和 requests-go 作者
         - title: TLSJA3
           logo: geekbyter.jpg
           url: https://tlsja3.cn/tls
@@ -918,6 +926,10 @@
           logo: github.png
           url: https://github.com/deedy5/primp
           description: Python 库，可以模拟 Chrome, Firefox, Edge, Safari, OkHttp，模拟 Android, iOS, Linux, MacOS, Windows 操作系统，支持异步
+        - title: never_primp
+          logo: github.png
+          url: https://github.com/neverl805/never_primp
+          description: Python 库，基于 primp 进行优化重构的高效 tls 请求发包库
         - title: rnet
           logo: github.png
           url: https://github.com/0x676e67/rnet
@@ -1131,6 +1143,10 @@
           logo: github.png
           url: https://github.com/LoseNine/Chromium_FingerPrint_Tutorial
           description: 《Chromium指纹浏览器开发教程》，作者：如意
+        - title: BotBrowser
+          logo: github.png
+          url: https://github.com/botswin/BotBrowser
+          description: '🤖 Cross-platform browser for automation testing: Cloudflare, Akamai, Kasada, Shape, DataDome, PerimeterX, hCaptcha, FunCaptcha, Imperva, reCAPTCHA, ThreatMetrix, Adscore'
         - title: camoufox
           logo: camoufox.png
           url: https://github.com/daijro/camoufox
@@ -1558,14 +1574,18 @@
           logo: github.png
           url: https://github.com/openai/CLIP
           description: CLIP（对比语言-图像预训练），根据图像预测最相关的文本片段
-        - title: StupidOCR
+        - title: AntiCAP
           logo: github.png
-          url: https://github.com/81NewArk/StupidOCR
-          description: 应用于爬虫，注册，登录等场景的验证码识别，快速 便捷 通用的方法提供用户调用，堪称作者开发神器
+          url: https://github.com/81NewArk/AntiCAP
+          description: 验证码识别，点选，滑块，算术，旋转 OCR
         - title: CnOCR
           logo: github.png
           url: https://github.com/breezedeus/CnOCR
           description: CnOCR 是 Python3 下的文字识别（Optical Character Recognition，简称OCR）工具包，支持简体中文、繁体中文（部分模型）、英文和数字的常见字符识别，支持竖排文字的识别。自带了20+个训练好的模型，适用于不同应用场景
+        - title: captcha-recognizer
+          logo: github.png
+          url: https://github.com/chenwei-zhao/captcha-recognizer
+          description: 单缺口/多缺口滑块验证码识别，pip 安装使用, 可本地/服务器部署 API
         - title: SlideCrack
           logo: github.png
           url: https://github.com/crazyxw/SlideCrack
@@ -1692,6 +1712,10 @@
           logo: aisecurius.png
           url: https://www.aisecurius.com/
           description: 顶象国际版，国际版验证码 atbCAPTCHA
+        - title: 中国银联人机智能验证平台
+          logo: 95516.png
+          url: https://captcha.95516.com/
+          description: 中国银联人机智能验证平台，人机智能验证产品利用 AI 技术，对用户行为进行了多维度，全方位的安全校验，能有效防止模拟，暴力破解，撞库等攻击，可为登录，注册，抢券等业务提供有力保护，有效防止黄牛囤票，刷单等恶意行为
         - title: Luosimao
           logo: luosimao.jpg
           url: https://luosimao.com/service/captcha
@@ -1819,6 +1843,18 @@
           logo: fingerprint.png
           url: https://fingerprint.com/
           description: The Fingerprint device intelligence platform works across web and mobile applications to identify all visitors with 99.5% accuracy — even if they’re anonymous.
+        - title: CaptchaFox
+          logo: captchafox.png
+          url: https://captchafox.com/
+          description: Privacy-First Bot Protection, Protect your website from malicious bots, abusive spam and fraudsters in compliance with the GDPR.
+        - title: Vercel BotID
+          logo: vercel.png
+          url: https://vercel.com/docs/botid
+          description: Vercel BotID is an invisible CAPTCHA that protects against sophisticated bots without showing visible challenges or requiring manual intervention. It adds a protection layer for public, high-value routes, such as checkouts, signups, and APIs, that are common targets for bots imitating real users.
+        - title: Vercel Challenge
+          logo: vercel.png
+          url: https://vercel.com/docs/vercel-firewall/firewall-concepts#challenge
+          description: A security challenge verifies that incoming traffic originates from a real web browser with JavaScript capabilities. Only human visitors using a web browser can pass the challenge and access protected resources, while non-browser clients (bots, scripts, etc.) cannot.
 
     - term: 开源防护
       links:
@@ -1870,6 +1906,10 @@
           logo: github.png
           url: https://github.com/xykt/IPQuality
           description: IP 质量检测脚本
+        - title: cap
+          logo: cap.png
+          url: https://capjs.js.org/
+          description: The modern, open-source CAPTCHA. Lightweight, self-hosted, privacy-friendly, and designed to put you first. Switch from reCAPTCHA in minutes.
 
 - taxonomy: 代理数据
   icon: fas fa-map-marker-alt
@@ -2155,10 +2195,10 @@
           logo: proxied.png
           url: https://proxied.com/?utm_source=spiderbox&utm_medium=partner
           description: 5g 移动代理, Dedicated Mobile Proxies.
-        - title: NovProxy
-          logo: novproxy.png
-          url: https://novproxy.com/?kwd=ty-spiderbox
-          description: 独立IP资源，免费测试，不限流量，套餐不限时间，全球195+国家地区纯净资源
+        - title: IPIPD
+          logo: ipipd.jpg
+          url: https://ipipd.cn/
+          description: IPIPD 全球高品质代理 IP，为您提供覆盖全球 200+ 国家的纯净代理 IP 资源，拥有最全原生 IP 资源，海量真实住宅 IP 与高速机房 IP。高匿名性，有效规避封禁，保障您的数据采集、市场调研、社媒管理与广告验证等业务高效稳定运行，售后 7*24 在线服务
 #        - title: WTFproxy
 #          logo: wtfproxy.png
 #          url: https://www.wtfproxy.com/
@@ -3352,7 +3392,7 @@
       links:
         - title: ChatGPT
           url: https://chat.openai.com/
-          logo: chatgpt.png
+          logo: chatgpt.jpg
           description: ChatGPT，是 OpenAI 研发的一款聊天机器人程序，于2022年11月30日发布。ChatGPT 是人工智能技术驱动的自然语言处理工具，它能够基于在预训练阶段所见的模式和统计规律，来生成回答，还能根据聊天的上下文进行互动，真正像人类一样来聊天交流，甚至能完成撰写邮件、视频脚本、文案、翻译、代码，写论文等任务
         - title: DeepSeek
           logo: deepseek.png

@@ -6,13 +6,13 @@
       url: https://www.qg.net/product/proxyip.html?website=spiderbox
       image: images/ads/qgy_1200x150.gif
       description: 国内领先的企业级代理IP服务商
-      track: ad_qgy
+      track: gg_qgy
     - title: Bright Data
       ads: true
       url: https://get.brightdata.com/proxyb
       image: images/ads/brightdata_1200x150.png
       description: Bright Data 亮数据，使用全球最大的 IP 网络，利用内置的抓取和解锁功能获得访问权，并简化数据提取
-      track: ad_brightdata
+      track: gg_brightdata
 #    - title: 协采云
 #      ads: true
 #      url: https://mp.weixin.qq.com/s/EFQ3rp1EuVWNQPrFCzrdoA
@@ -23,13 +23,13 @@
       url: https://www.xiecaiyun.com/?channel=bob-ch
       image: images/ads/xcy_1200x150.png
       description: 九年深耕，百万级代理 IP 节点自由调度，整合国内超过 90% 地区的动态代理 IP 汇聚成代理服务器池，并提供API接入，将高速稳定的代理池接入到您的自动化应用中
-      track: ad_xcy
+      track: gg_xcy
     - title: NetNut
       ads: true
       url: https://netnut.cn/?utm_medium=partner&utm_source=spiderbox
       image: images/ads/netnut_1200x150.gif
       description: 覆盖全球 195 个国家，8500 万优质 IP，全方位满足网页数据抓取。NetNut 提供四种代理 IP 服务：动态住宅，静态 ISP，移动代理，数据中心代理
-      track: ad_netnut
+      track: gg_netnut
 
     # - title: 广告位招租
     #   ads: true
@@ -40,7 +40,7 @@
     #   url: https://www.ipipgo.com?inviteLink=e9dv4Dho
     #   image: images/ads/ipipgo_1200x150.png
     #   description: IPIPGO 全球住宅 IP，企业级海外代理 IP 服务商，汇集全球 245 个国家/地区的 9000 万家庭住宅 IP，涵盖静态、动态、原生跨境专线等方案，提供全面的免费测试，确保满足您的业务需求
-    #   track: ad_ipipgo
+    #   track: gg_ipipgo
     # - item: 芝麻 HTTP
     #   url: http://www.zmhttp.com/?utm-source=box&utm-keyword=?07
     #   image: images/ads/zmhttp.jpg

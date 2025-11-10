@@ -742,7 +742,7 @@ footer.main-footer .footer-text a:hover {
 }
 
 /* 广告位（新） */
-.ad-container {
+.gg-container {
     display: grid;
     gap: 10px; /* 更现代的标准间距 */
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -751,7 +751,7 @@ footer.main-footer .footer-text a:hover {
     margin: 0 0 15px auto; /* 居中容器 */
 }
 
-.ad-link {
+.gg-link {
     position: relative;
     display: block;
     overflow: hidden;
@@ -760,12 +760,12 @@ footer.main-footer .footer-text a:hover {
     transition: transform 0.2s ease; /* 悬停动画 */
 }
 
-.ad-link:hover {
+.gg-link:hover {
     transform: translateY(-8px); /* 悬停微动效 */
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
-.ad-image {
+.gg-image {
     width: 100%;
     height: auto;
     object-fit: cover;
@@ -774,24 +774,24 @@ footer.main-footer .footer-text a:hover {
 
 /* 移动端优化 */
 @media (max-width: 768px) {
-    .ad-container {
+    .gg-container {
         grid-template-columns: 1fr;
         gap: 12px;
         padding: 8px;
     }
 
-    /*.ad-image {*/
+    /*.gg-image {*/
     /*    aspect-ratio: 4 / 1; !* 移动端采用更高比例 *!*/
     /*}*/
 }
 
 /* 小屏手机优化 */
 @media (max-width: 480px) {
-    .ad-container {
+    .gg-container {
         gap: 8px;
     }
 
-    .ad-link {
+    .gg-link {
         border-radius: 4px;
     }
 }
