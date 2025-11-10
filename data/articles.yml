@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.10 17:33:26
+      title: 某科技公司未及时修复安全漏洞，网警依法处罚
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519616&idx=1&sn=e8363729e7d71c975ed505c916e1f606
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.10 17:33:26
+      title: 工信部通报39款APP及SDK侵害用户权益
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519616&idx=2&sn=b5d16fe940081ccc1938939eae4217a4
     - author: 二进制磨剑
       release_time: 2025.11.10 08:30:00
       title: 双11 · 二进制磨剑 全系逆向课程限时特惠
@@ -236,14 +244,6 @@
       release_time: 2025.11.05 11:52:14
       title: Unity图片资源逆向分析和提取工具(处理Texture专用版)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499010&idx=2&sn=0c776984588c59cf484955c1c9f783ea
-    - author: 未闻Code
-      release_time: 2025.11.04 21:00:00
-      title: 5K标星！开源AI Agent舆情分析神器，预测趋势一键搞定！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991088&idx=1&sn=0bd2dc8cee777a74079e8e6ce8f4ad8d
-    - author: coderwhy
-      release_time: 2025.11.04 16:57:38
-      title: 互联网就业指导（一）- 核心竞争力和职业规划
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247489060&idx=1&sn=5b9bc60a3e57aee1e2efae1ce965d895
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
