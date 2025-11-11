@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.11.11 15:21:17
+      title: APK高级加密工具 - 专业版 v4.0
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499077&idx=1&sn=04e0ccdcda7e9bbb5d348c3e9388d8ee
     - author: 如意私塾
       release_time: 2025.11.11 14:28:11
       title: 更新进度 | 浏览器内核研究和过检测教学
@@ -240,10 +244,6 @@
       release_time: 2025.11.05 20:54:50
       title: safari内核教程 | webkit的环境构建和编译
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483896&idx=1&sn=f2bd744f1d4ecda432ab7be2abaa0c06
-    - author: 沐阳逆向学习
-      release_time: 2025.11.05 19:00:00
-      title: 送送送！送手机！送星球！双十一课程优惠活动
-      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484423&idx=1&sn=4cd3503ae0f3d59b1a48214314ab02e3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
