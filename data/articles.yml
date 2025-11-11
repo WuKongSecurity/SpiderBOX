@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.11 16:14:37
+      title: 全球隐私标杆恐动摇，欧盟为提升竞争力拟放宽数据保护
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519619&idx=1&sn=d1515d95212e09553c331b26f1a163d7
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.11 16:14:37
+      title: 北京：自贸区数据出境负面清单将在全市推广
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519619&idx=2&sn=c91028a792a03f80ba88d652cffdb8eb
     - author: 哆啦安全
       release_time: 2025.11.11 15:21:17
       title: APK高级加密工具 - 专业版 v4.0
@@ -236,14 +244,6 @@
       release_time: 2025.11.06 15:38:03
       title: 北京市通信管理局关于问题移动互联网应用程序的通报（2025年第十期）
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519612&idx=2&sn=ea0a468c7fd7fc25178e862fe5fa8130
-    - author: 哆啦安全
-      release_time: 2025.11.06 12:03:35
-      title: 鸿蒙(HarmonyOS)病毒检测工具V5.0
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499023&idx=1&sn=98e0aae1e66493baa523b2ee40e03c2a
-    - author: 如意私塾
-      release_time: 2025.11.05 20:54:50
-      title: safari内核教程 | webkit的环境构建和编译
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483896&idx=1&sn=f2bd744f1d4ecda432ab7be2abaa0c06
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
