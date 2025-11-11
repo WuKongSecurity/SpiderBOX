@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2025.11.12 00:00:00
+      title: 浏览器指纹/风控国外论文研读 | 基于WebAssembly的浏览器CPU架构层指纹识别
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483922&idx=1&sn=d3913b6389efcf0eedc23a28439b567a
     - author: 个人信息与数据保护实务评论
       release_time: 2025.11.11 16:14:37
       title: 全球隐私标杆恐动摇，欧盟为提升竞争力拟放宽数据保护
@@ -240,10 +244,6 @@
       release_time: 2025.11.06 15:38:03
       title: 北互案例：关联企业共享用户数据可被认定共同处理，需满足告知同意要求
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519612&idx=1&sn=6bda04085a79a4b6fb1c451f8d8c6169
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.06 15:38:03
-      title: 北京市通信管理局关于问题移动互联网应用程序的通报（2025年第十期）
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519612&idx=2&sn=ea0a468c7fd7fc25178e862fe5fa8130
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
