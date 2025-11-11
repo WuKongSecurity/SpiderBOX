@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: MicroBlock
+      release_time: 2025.11.12 01:18:00
+      title: Frida 脚本一键持久化方案：将 Frida 脚本打包至 Xposed 模块、直接注入APP、so、dll
+      url: https://www.52pojie.cn/thread-2071836-1-1.html
     - author: xiayutianz
       release_time: 2025.11.11 17:02:00
       title: byd王朝白盒AES分析
@@ -363,10 +367,6 @@
       release_time: 2025.10.12 21:50:00
       title: 某某Meta登录逆向
       url: https://www.52pojie.cn/thread-2065436-1-1.html
-    - author: Ceciliana
-      release_time: 2025.10.11 21:38:00
-      title: 某平台登录：加速乐
-      url: https://www.52pojie.cn/thread-2065287-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
