@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: xiayutianz
+      release_time: 2025.11.11 17:02:00
+      title: byd王朝白盒AES分析
+      url: https://www.52pojie.cn/thread-2071762-1-1.html
     - author: Siestazzz
       release_time: 2025.11.10 14:55:00
       title: 强网杯s9初赛 Qcalc wp
@@ -363,10 +367,6 @@
       release_time: 2025.10.11 21:38:00
       title: 某平台登录：加速乐
       url: https://www.52pojie.cn/thread-2065287-1-1.html
-    - author: 板砖亲你头
-      release_time: 2025.10.11 14:40:00
-      title: 基于 AST 手撕 xm-sign 生成逻辑：从环境补全到代码深度解析
-      url: https://www.52pojie.cn/thread-2065208-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
