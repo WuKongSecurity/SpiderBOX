@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2025.11.11 14:28:11
+      title: 更新进度 | 浏览器内核研究和过检测教学
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483916&idx=1&sn=098a0d238c54a2bb9612ee727de1aa42
     - author: 软件安全与逆向分析
       release_time: 2025.11.11 12:25:48
       title: 双十一学习不停歇，购课送多重福利
@@ -240,10 +244,6 @@
       release_time: 2025.11.05 19:00:00
       title: 送送送！送手机！送星球！双十一课程优惠活动
       url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484423&idx=1&sn=4cd3503ae0f3d59b1a48214314ab02e3
-    - author: 吾爱破解论坛
-      release_time: 2025.11.05 17:36:24
-      title: 【公告】吾爱破解论坛积分方案调整说明（2025年11月5日）
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143151&idx=1&sn=ec90f28e01eabf34e8bf45acc92caa91
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
