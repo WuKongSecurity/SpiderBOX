@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.12 18:02:32
+      title: 电商圈“小旺神”判赔3000万元，划定数据权益保护边界
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519625&idx=1&sn=a2c5e780b680c623f131fa6246b80878
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.12 18:02:32
+      title: 现代汽车宣布遭遇安全漏洞，可能导致社会保障号码泄露
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519625&idx=2&sn=21dfa91b2bb17419b31dedd8f45c2561
     - author: 菜鸟学Python编程
       release_time: 2025.11.12 17:30:00
       title: JS逆向实战|AST反混淆 + AI纯算系列文章(一)
@@ -236,14 +244,6 @@
       release_time: 2025.11.07 16:23:01
       title: Objection使用指南：基于Frida的移动安全测试神器
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499040&idx=2&sn=d733975c4a24c51d3392378d39887eaa
-    - author: 吾爱破解论坛
-      release_time: 2025.11.07 15:57:25
-      title: 【开放注册公告】吾爱破解论坛2025年11月11日光棍节开放注册公告
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143158&idx=1&sn=a6995fb20a83d854f718ed7d104fb662
-    - author: 逆向有你
-      release_time: 2025.11.07 11:38:58
-      title: JS逆向 -- 某有声书网站参数逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040709&idx=1&sn=7e508ba7944771b3058588d3cdf61509
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
