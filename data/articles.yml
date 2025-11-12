@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.11.12 17:30:00
+      title: JS逆向实战|AST反混淆 + AI纯算系列文章(一)
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566198&idx=1&sn=ec72e1fa7a713cd68fe1cd9c614db89f
     - author: 丫总逆向
       release_time: 2025.11.12 16:03:03
       title: hcaptcha识别(一) opencv识别连线类拖拽验证
@@ -240,10 +244,6 @@
       release_time: 2025.11.07 11:38:58
       title: JS逆向 -- 某有声书网站参数逆向分析
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040709&idx=1&sn=7e508ba7944771b3058588d3cdf61509
-    - author: Spade sec
-      release_time: 2025.11.07 09:00:00
-      title: AntiDebug_Breaker v2.5更新
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486875&idx=1&sn=5aa41b82276bb6c955f377ad9136f024
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
