@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.11.12 11:59:30
+      title: 鸿蒙(HarmonyOS)应用安全检测平台V7.5
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499088&idx=1&sn=ae643980562a731887fdf4ccbc964368
+    - author: 哆啦安全
+      release_time: 2025.11.12 11:59:30
+      title: Unidbg入门指南：Android Native代码模拟利器
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499088&idx=2&sn=5ca811b90d9f00d086f734f205086152
     - author: 逆向有你
       release_time: 2025.11.12 11:18:08
       title: JS逆向 -- 某虾视频地址解析
@@ -236,14 +244,6 @@
       release_time: 2025.11.07 07:44:03
       title: 某蜂窝样本案例分析
       url: https://mp.weixin.qq.com/s?__biz=MzYzNTAzOTIxMw==&mid=2247483795&idx=1&sn=0e00d088dc52b98f42a0004cded6f9fb
-    - author: 如意私塾
-      release_time: 2025.11.06 22:49:38
-      title: 英雄帖 | 浏览器内核开发招聘帖
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483903&idx=1&sn=2c91dbcd6067566057672a8682069da1
-    - author: 极验
-      release_time: 2025.11.06 16:02:44
-      title: 滑块or点选，验证码的样式为什么不止一种？
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724030&idx=1&sn=79f8af96a2356beb7b836eb59c45d2d4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
