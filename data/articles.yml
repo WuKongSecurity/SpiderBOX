@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: wangYи
+      release_time: 2025.11.12 13:59:13
+      title: 某红薯新版x-s 参数 window.mnsv2 v4.2.6版本原型链补环境长篇解析
+      url: https://blog.csdn.net/weixin_59616601/article/details/154696991
     - author: _MicroBlock
       release_time: 2025.11.12 12:52:16
       title: '[原创] Frida 脚本无 Root 一键持久化方案：将 Frida 脚本打包至 Xposed 模块、直接注入APP、生成 .so,
@@ -487,10 +491,6 @@
       release_time: 2025.10.31 16:11:53
       title: '[原创] 2025-10月Solar应急响应月赛WP！'
       url: https://bbs.kanxue.com/thread-288953.htm
-    - author: w2sfot
-      release_time: 2025.10.31 12:11:14
-      title: 如何将React自定义语法转化为标准JavaScript语法？
-      url: https://blog.csdn.net/w2sft/article/details/154179887
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
