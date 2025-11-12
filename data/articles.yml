@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 丫总逆向
+      release_time: 2025.11.12 16:03:03
+      title: hcaptcha识别(一) opencv识别连线类拖拽验证
+      url: https://mp.weixin.qq.com/s?__biz=MzU1NjQ2Njg4OA==&mid=2247484002&idx=1&sn=63a684b559b919eb2cfaaa316695e161
     - author: 哆啦安全
       release_time: 2025.11.12 11:59:30
       title: 鸿蒙(HarmonyOS)应用安全检测平台V7.5
@@ -240,10 +244,6 @@
       release_time: 2025.11.07 09:00:00
       title: AntiDebug_Breaker v2.5更新
       url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486875&idx=1&sn=5aa41b82276bb6c955f377ad9136f024
-    - author: 不落的逆向手札
-      release_time: 2025.11.07 07:44:03
-      title: 某蜂窝样本案例分析
-      url: https://mp.weixin.qq.com/s?__biz=MzYzNTAzOTIxMw==&mid=2247483795&idx=1&sn=0e00d088dc52b98f42a0004cded6f9fb
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
