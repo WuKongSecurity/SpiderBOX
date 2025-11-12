@@ -370,10 +370,19 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: _MicroBlock
+      release_time: 2025.11.12 12:52:16
+      title: '[原创] Frida 脚本无 Root 一键持久化方案：将 Frida 脚本打包至 Xposed 模块、直接注入APP、生成 .so,
+        .dll'
+      url: https://bbs.kanxue.com/thread-289075.htm
     - author: 卡卡骨
       release_time: 2025.11.11 14:39:26
       title: '[原创]入门实战-某居客nsign参数分析'
       url: https://bbs.kanxue.com/thread-289064.htm
+    - author: mb_gbsvhixi
+      release_time: 2025.11.11 13:18:16
+      title: 'TikTok滑块: 全流程梳理及稳定性优化'
+      url: https://bbs.kanxue.com/thread-289058.htm
     - author: xiaowaaa
       release_time: 2025.11.10 21:33:21
       title: '[原创]对某某漫画的算法还原测试'
@@ -482,14 +491,6 @@
       release_time: 2025.10.31 12:11:14
       title: 如何将React自定义语法转化为标准JavaScript语法？
       url: https://blog.csdn.net/w2sft/article/details/154179887
-    - author: 果冻大砍刀
-      release_time: 2025.10.31 00:43:32
-      title: '[原创]基于浏览器脚本与中间人拦截的瑞数“异步”解决方案'
-      url: https://bbs.kanxue.com/thread-288946.htm
-    - author: w2sfot
-      release_time: 2025.10.30 09:38:57
-      title: JavaScript中使用eval进行代码加壳
-      url: https://blog.csdn.net/w2sft/article/details/154114571
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
