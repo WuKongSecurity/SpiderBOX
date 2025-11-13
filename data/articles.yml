@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: lichuntian00
+      release_time: 2025.11.13 17:10:00
+      title: 记一次SSL Pinning绕过
+      url: https://www.52pojie.cn/thread-2072499-1-1.html
     - author: aYanggg
       release_time: 2025.11.12 21:14:00
       title: 【Android逆向学习】编写Xposed模块 —— 绿泡泡朋友圈内容抓取演示（仅学习用途）
@@ -363,10 +367,6 @@
       release_time: 2025.10.17 11:02:00
       title: 某师在线教育平台刷课
       url: https://www.52pojie.cn/thread-2066374-1-1.html
-    - author: LiSAimer
-      release_time: 2025.10.16 13:53:00
-      title: WebSocket通信逆向实战：加解密剖析与完整HTML重构（内附源码）
-      url: https://www.52pojie.cn/thread-2066191-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
