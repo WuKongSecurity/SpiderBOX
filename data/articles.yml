@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.13 17:18:19
+      title: 8家银行因网络安全/数据安全被罚，涉国有行、股份行、城农商行等
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519656&idx=1&sn=147af453f48827ac2156c7bf91874908
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.13 17:18:19
+      title: 中央网信办严打一批涉学术论文买卖违法违规账号
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519656&idx=2&sn=8f977073a829671364d1693cdaea8ad1
     - author: 流星Studio
       release_time: 2025.11.13 12:56:47
       title: Vx4.x调试工具更新-内置浏览器调试来啦！
@@ -236,14 +244,6 @@
       release_time: 2025.11.08 20:59:27
       title: 新版reese84的函数表达式简化效果
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566186&idx=1&sn=14876b59ca1d73ec96d8680ab0f40ea4
-    - author: 未闻Code
-      release_time: 2025.11.07 21:14:09
-      title: 6.6K标星！微软开源Agent自我优化框架，为智能体注入持续学习能力！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991091&idx=1&sn=2e1121973a4f5dff9e3506a3089d18a5
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.07 17:20:40
-      title: 某企业未按规定发布漏洞信息，网警依法予以处罚
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519614&idx=1&sn=fbe702b3e3efcbdf4b6d43ad9a5d70ed
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
