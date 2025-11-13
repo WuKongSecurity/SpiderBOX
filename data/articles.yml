@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.11.13 21:00:00
+      title: AI时代超级思考者的两大思维工具：费米估算 x 费曼技巧
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991097&idx=1&sn=606a1070ad1dfaff4891f2ebdb0345da
     - author: 个人信息与数据保护实务评论
       release_time: 2025.11.13 17:18:19
       title: 8家银行因网络安全/数据安全被罚，涉国有行、股份行、城农商行等
@@ -240,10 +244,6 @@
       release_time: 2025.11.09 16:54:37
       title: 鸿蒙(HarmonyOS)应用安全检测平台
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499048&idx=1&sn=40261c471d0dc4f461e7422348601ef5
-    - author: 菜鸟学Python编程
-      release_time: 2025.11.08 20:59:27
-      title: 新版reese84的函数表达式简化效果
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566186&idx=1&sn=14876b59ca1d73ec96d8680ab0f40ea4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
