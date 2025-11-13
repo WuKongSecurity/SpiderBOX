@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 极验
+      release_time: 2025.11.13 10:01:00
+      title: 温峥嵘怒怼 AI 盗播：“你是温峥嵘，那我是谁？”
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724044&idx=1&sn=646d4d7500ab40f1de841125f29b14e4
     - author: 个人信息与数据保护实务评论
       release_time: 2025.11.12 18:02:32
       title: 电商圈“小旺神”判赔3000万元，划定数据权益保护边界
@@ -132,6 +136,10 @@
       release_time: 2025.11.12 18:02:32
       title: 现代汽车宣布遭遇安全漏洞，可能导致社会保障号码泄露
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519625&idx=2&sn=21dfa91b2bb17419b31dedd8f45c2561
+    - author: 码功
+      release_time: 2025.11.12 17:30:23
+      title: 补环境框架：sdenv模拟浏览器渲染过程中代码执行时机
+      url: https://mp.weixin.qq.com/s?__biz=MzkyNzY2Mzc5MQ==&mid=2247483799&idx=1&sn=bcfeb11b5c8f48de9cffffc7089f352f
     - author: 菜鸟学Python编程
       release_time: 2025.11.12 17:30:00
       title: JS逆向实战|AST反混淆 + AI纯算系列文章(一)
@@ -236,14 +244,6 @@
       release_time: 2025.11.07 17:20:40
       title: 媒体巨头日经新闻发生大规模数据泄露
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519614&idx=2&sn=7a2a8a2f3b1bee10873b2fd800b16378
-    - author: 哆啦安全
-      release_time: 2025.11.07 16:23:01
-      title: 鸿蒙(HarmonyOS)应用安全检测平台V6.6
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499040&idx=1&sn=ad71ce13827db04d5ed4e50ea5d0932f
-    - author: 哆啦安全
-      release_time: 2025.11.07 16:23:01
-      title: Objection使用指南：基于Frida的移动安全测试神器
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499040&idx=2&sn=d733975c4a24c51d3392378d39887eaa
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
