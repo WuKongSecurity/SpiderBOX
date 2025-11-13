@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 流星Studio
+      release_time: 2025.11.13 12:56:47
+      title: Vx4.x调试工具更新-内置浏览器调试来啦！
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjUxNTgyMg==&mid=2247484074&idx=1&sn=5963bcd71dd39c4f74ba2228bf80f6cf
     - author: 极验
       release_time: 2025.11.13 10:01:00
       title: 温峥嵘怒怼 AI 盗播：“你是温峥嵘，那我是谁？”
@@ -240,10 +244,6 @@
       release_time: 2025.11.07 17:20:40
       title: 某企业未按规定发布漏洞信息，网警依法予以处罚
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519614&idx=1&sn=fbe702b3e3efcbdf4b6d43ad9a5d70ed
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.07 17:20:40
-      title: 媒体巨头日经新闻发生大规模数据泄露
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519614&idx=2&sn=7a2a8a2f3b1bee10873b2fd800b16378
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 悦来客栈的老板
+      release_time: 2025.11.12 17:30:35
+      title: JS逆向实战|AST反混淆 + AI纯算系列文章(一)
+      url: https://blog.csdn.net/qq523176585/article/details/154785322
     - author: wangYи
       release_time: 2025.11.12 13:59:13
       title: 某红薯新版x-s 参数 window.mnsv2 v4.2.6版本原型链补环境长篇解析
@@ -487,10 +491,6 @@
       release_time: 2025.10.31 16:58:03
       title: '[原创] 某音短视频App滑块分享'
       url: https://bbs.kanxue.com/thread-288954.htm
-    - author: Solar安全
-      release_time: 2025.10.31 16:11:53
-      title: '[原创] 2025-10月Solar应急响应月赛WP！'
-      url: https://bbs.kanxue.com/thread-288953.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
