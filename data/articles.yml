@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: CuteHacker
+      release_time: 2025.11.14 17:01:35
+      title: '[原创] TikTok Web端协议算法分析'
+      url: https://bbs.kanxue.com/thread-289087.htm
     - author: w2sfot
       release_time: 2025.11.14 11:03:45
       title: js 字符串转 unicode，实现代码加密、反调试
@@ -487,10 +491,6 @@
       release_time: 2025.11.02 19:46:26
       title: '[原创]逆向之常用算法识别二'
       url: https://bbs.kanxue.com/thread-288970.htm
-    - author: 蒙奇·D
-      release_time: 2025.10.31 20:07:56
-      title: '[原创]浅入浅出Ios调试器与调试机制'
-      url: https://bbs.kanxue.com/thread-288958.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
