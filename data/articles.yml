@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.14 15:50:34
+      title: 网信部门处罚一微信小程序运营商，涉超范围获取位置信息、隐私政策不完善等行为
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519660&idx=1&sn=504ff482ffb0b244b06b27ec2876aa54
     - author: 逆向有你
       release_time: 2025.11.14 10:49:47
       title: 安卓逆向 -- 某修仙肉鸽游戏协议逆向分析折腾记录
@@ -240,10 +244,6 @@
       release_time: 2025.11.10 08:30:00
       title: 双11 · 二进制磨剑 全系逆向课程限时特惠
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485782&idx=1&sn=db4ff1bd4d0a1d1fb30d8d0cb64cf0fe
-    - author: Coder小Q
-      release_time: 2025.11.10 08:30:00
-      title: 【密码学】零知识证明（模拟恶意敌手的视图）
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493195&idx=1&sn=169d8ef89c290fc108ac09adcdc783aa
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
