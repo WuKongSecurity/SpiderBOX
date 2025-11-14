@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.11.14 23:00:08
+      title: 移动应用AI智能安全分析平台V9.0
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499105&idx=1&sn=7ad69611d75a98fffd9269d434c5a5d9
     - author: 逆向狗都不学
       release_time: 2025.11.14 20:28:03
       title: 顶象滑块逆向
@@ -240,10 +244,6 @@
       release_time: 2025.11.10 17:33:26
       title: 某科技公司未及时修复安全漏洞，网警依法处罚
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519616&idx=1&sn=e8363729e7d71c975ed505c916e1f606
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.10 17:33:26
-      title: 工信部通报39款APP及SDK侵害用户权益
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519616&idx=2&sn=b5d16fe940081ccc1938939eae4217a4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
