@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: mixssss
+      release_time: 2025.11.14 16:33:00
+      title: 前端加密函数利用 RPC 调用实现自动化
+      url: https://www.52pojie.cn/thread-2072858-1-1.html
     - author: lichuntian00
       release_time: 2025.11.13 17:10:00
       title: 记一次SSL Pinning绕过
@@ -363,10 +367,6 @@
       release_time: 2025.10.17 15:42:00
       title: 某塔面板 部分专业版功能 跳过校验
       url: https://www.52pojie.cn/thread-2066438-1-1.html
-    - author: cxs808
-      release_time: 2025.10.17 11:02:00
-      title: 某师在线教育平台刷课
-      url: https://www.52pojie.cn/thread-2066374-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
