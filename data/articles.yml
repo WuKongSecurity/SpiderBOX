@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 带带弟弟学爬虫
+      release_time: 2025.11.15 20:06:46
+      title: 美团系通用降级抓包-IOS
+      url: https://www.bilibili.com/video/BV1c9CyBTEAj
     - author: 逆向狗都不学
       release_time: 2025.11.14 20:09:05
       title: JS逆向实战之顶象(纯py实现)
@@ -117,10 +121,6 @@
       release_time: 2025.10.08 16:39:35
       title: 学习TLSv1.2-TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA 上集
       url: https://www.bilibili.com/video/BV1EfxYzGEjq
-    - author: 冷月不是程序员
-      release_time: 2025.10.07 20:06:00
-      title: 教程系列-任务调度框架Apache-Airflow 集群部署（四）
-      url: https://www.bilibili.com/video/BV11pxRzjEHP
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
