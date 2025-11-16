@@ -251,10 +251,26 @@
       release_time: 2025.11.16 10:39:00
       title: Android逆向学习
       url: https://www.52pojie.cn/thread-2073224-1-1.html
+    - author: 220e285
+      release_time: 2025.11.15 22:04:00
+      title: 关于安卓逆向的学习日记----2
+      url: https://www.52pojie.cn/thread-2073161-1-1.html
+    - author: kakahuote
+      release_time: 2025.11.15 19:35:00
+      title: frida使用2：核心API
+      url: https://www.52pojie.cn/thread-2073126-1-1.html
     - author: wangguang
       release_time: 2025.11.15 19:33:00
       title: 某盾无感逆向分析
       url: https://www.52pojie.cn/thread-2073124-1-1.html
+    - author: 220e285
+      release_time: 2025.11.15 18:08:00
+      title: 关于安卓逆向的学习日记
+      url: https://www.52pojie.cn/thread-2073110-1-1.html
+    - author: xiayutianz
+      release_time: 2025.11.15 17:31:00
+      title: 某对app算法分析
+      url: https://www.52pojie.cn/thread-2073103-1-1.html
     - author: mixssss
       release_time: 2025.11.14 16:33:00
       title: 前端加密函数利用 RPC 调用实现自动化
@@ -351,22 +367,6 @@
       release_time: 2025.10.26 12:58:00
       title: c-sktrace：基于 C 实现的 sktrace 性能优化 demo
       url: https://www.52pojie.cn/thread-2068053-1-1.html
-    - author: ljl9090
-      release_time: 2025.10.22 20:56:00
-      title: spiderdemo中等题目简单分析
-      url: https://www.52pojie.cn/thread-2067423-1-1.html
-    - author: headedit
-      release_time: 2025.10.22 16:37:00
-      title: 逆向某讯的global-metadata.dat的解密算法
-      url: https://www.52pojie.cn/thread-2067386-1-1.html
-    - author: Rubyie123
-      release_time: 2025.10.22 11:23:00
-      title: 记一次为广东省某三线城市人民医院微信公众号发现漏洞的过程
-      url: https://www.52pojie.cn/thread-2067313-1-1.html
-    - author: n0rth5ea
-      release_time: 2025.10.20 03:00:00
-      title: 2025强网杯Qcalc思路
-      url: https://www.52pojie.cn/thread-2066799-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
