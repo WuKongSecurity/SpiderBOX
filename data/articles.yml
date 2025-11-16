@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 沐阳逆向学习
+      release_time: 2025.11.16 19:00:00
+      title: jadx-ai-mcp环境搭建AI逆向分析JAVA代码
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484452&idx=1&sn=a32ba648aefb3141734606f502a7b6d4
     - author: 哆啦安全
       release_time: 2025.11.14 23:00:08
       title: 移动应用AI智能安全分析平台V9.0
@@ -240,10 +244,6 @@
       release_time: 2025.11.10 21:11:09
       title: 几分钟内开发一个网站，这款开源工具火了！
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991094&idx=1&sn=3bce3eab439cc1e6226b125c0b2168dc
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.10 17:33:26
-      title: 某科技公司未及时修复安全漏洞，网警依法处罚
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519616&idx=1&sn=e8363729e7d71c975ed505c916e1f606
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
