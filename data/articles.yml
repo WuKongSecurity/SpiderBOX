@@ -251,6 +251,10 @@
       release_time: 2025.11.16 10:39:00
       title: Android逆向学习
       url: https://www.52pojie.cn/thread-2073224-1-1.html
+    - author: wangguang
+      release_time: 2025.11.15 19:33:00
+      title: 某盾无感逆向分析
+      url: https://www.52pojie.cn/thread-2073124-1-1.html
     - author: mixssss
       release_time: 2025.11.14 16:33:00
       title: 前端加密函数利用 RPC 调用实现自动化
@@ -363,10 +367,6 @@
       release_time: 2025.10.20 03:00:00
       title: 2025强网杯Qcalc思路
       url: https://www.52pojie.cn/thread-2066799-1-1.html
-    - author: mysticz
-      release_time: 2025.10.17 15:49:00
-      title: Python爬虫入门：spiderdemo题解及详细思路（入门篇）
-      url: https://www.52pojie.cn/thread-2066443-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
