@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 和沐阳学逆向
+      release_time: 2025.11.16 19:00:00
+      title: 64.jadx-ai-mcp环境搭建AI逆向分析JAVA代码
+      url: https://www.bilibili.com/video/BV1dLCQBLEJC
     - author: 带带弟弟学爬虫
       release_time: 2025.11.15 20:06:46
       title: 美团系通用降级抓包-IOS
@@ -117,10 +121,6 @@
       release_time: 2025.10.08 16:42:33
       title: TLSv1.2-TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA 下集
       url: https://www.bilibili.com/video/BV1EfxYzGErK
-    - author: 安卓反调试frida检测Neo
-      release_time: 2025.10.08 16:39:35
-      title: 学习TLSv1.2-TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA 上集
-      url: https://www.bilibili.com/video/BV1EfxYzGEjq
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
