@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.11.17 14:48:43
+      title: JS逆向 -- 某音乐sign逆向-多角度
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040781&idx=1&sn=3fc8726255bc16939f76b0363099b577
     - author: 哆啦安全
       release_time: 2025.11.17 13:16:56
       title: Multi-Platform Root Expert v9.0 - 全平台提权与刷机工具
@@ -240,10 +244,6 @@
       release_time: 2025.11.11 15:21:17
       title: APK高级加密工具 - 专业版 v4.0
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499077&idx=1&sn=04e0ccdcda7e9bbb5d348c3e9388d8ee
-    - author: 如意私塾
-      release_time: 2025.11.11 14:28:11
-      title: 更新进度 | 浏览器内核研究和过检测教学
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483916&idx=1&sn=098a0d238c54a2bb9612ee727de1aa42
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
