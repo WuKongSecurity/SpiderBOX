@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 大肠刺身
+      release_time: 2025.11.17 22:40:54
+      title: '[原创]某老板直聘四层switch反混淆'
+      url: https://bbs.kanxue.com/thread-289114.htm
     - author: shanzj
       release_time: 2025.11.17 21:21:41
       title: '[原创]关于JSVMP纯算的一些取巧方式'
@@ -487,10 +491,6 @@
       release_time: 2025.11.05 09:53:41
       title: json文件加密
       url: https://blog.csdn.net/w2sft/article/details/154427439
-    - author: nothing233
-      release_time: 2025.11.04 21:07:48
-      title: '[原创]chromium 的启动'
-      url: https://bbs.kanxue.com/thread-288998.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
