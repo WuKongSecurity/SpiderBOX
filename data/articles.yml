@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.17 17:07:51
+      title: 罗技回应遭黑客攻击：泄露数据不涉及敏感信息
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519664&idx=1&sn=c0014cd5aad1be1ab68cb37979df789a
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.17 17:07:51
+      title: 官方通报40款移动应用违规收集使用个人信息
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519664&idx=2&sn=90f47bec6b120a3069f94de87eb58206
     - author: 逆向有你
       release_time: 2025.11.17 14:48:43
       title: JS逆向 -- 某音乐sign逆向-多角度
@@ -236,14 +244,6 @@
       release_time: 2025.11.11 16:14:37
       title: 全球隐私标杆恐动摇，欧盟为提升竞争力拟放宽数据保护
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519619&idx=1&sn=d1515d95212e09553c331b26f1a163d7
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.11 16:14:37
-      title: 北京：自贸区数据出境负面清单将在全市推广
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519619&idx=2&sn=c91028a792a03f80ba88d652cffdb8eb
-    - author: 哆啦安全
-      release_time: 2025.11.11 15:21:17
-      title: APK高级加密工具 - 专业版 v4.0
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499077&idx=1&sn=04e0ccdcda7e9bbb5d348c3e9388d8ee
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
