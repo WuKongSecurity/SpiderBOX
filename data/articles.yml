@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: xiayutianz
+      release_time: 2025.11.17 14:52:00
+      title: 魔改md5样本算法分析
+      url: https://www.52pojie.cn/thread-2073532-1-1.html
     - author: woainixiang
       release_time: 2025.11.17 09:57:00
       title: 某老板直聘四层switch反混淆
@@ -363,10 +367,6 @@
       release_time: 2025.10.27 16:07:00
       title: 新手小白入门app：某路旅行请求头参数逆向分析
       url: https://www.52pojie.cn/thread-2068279-1-1.html
-    - author: cqy666
-      release_time: 2025.10.26 21:25:00
-      title: 安卓共享UID实现Cheat Engine(CE)免Root修改
-      url: https://www.52pojie.cn/thread-2068115-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
