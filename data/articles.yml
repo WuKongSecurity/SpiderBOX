@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 冷月不是程序员
+      release_time: 2025.11.18 00:20:13
+      title: 从夯到拉锐评国内主流验证码
+      url: https://www.bilibili.com/video/BV1A7CzB4Eos
     - author: Alone逆向安全
       release_time: 2025.11.17 13:17:19
       title: 某小说企业壳 frida 过检测
@@ -117,10 +121,6 @@
       release_time: 2025.10.09 23:04:04
       title: TLSv1.3-TLS_AES_256_GCM_SHA384上集
       url: https://www.bilibili.com/video/BV1Bpx2z5EMz
-    - author: B站用户骚神
-      release_time: 2025.10.09 17:39:10
-      title: DrissionPage+pw浏览器上下文多开，实现动态代理IP切换，支持S5和账密
-      url: https://www.bilibili.com/video/BV13YxyzfE6p
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
