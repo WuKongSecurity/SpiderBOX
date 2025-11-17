@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: Alone逆向安全
+      release_time: 2025.11.17 13:17:19
+      title: 某小说企业壳 frida 过检测
+      url: https://www.bilibili.com/video/BV1VtCYBxErk
     - author: 和沐阳学逆向
       release_time: 2025.11.16 19:00:00
       title: 64.jadx-ai-mcp环境搭建AI逆向分析JAVA代码
@@ -117,13 +121,13 @@
       release_time: 2025.10.09 17:39:10
       title: DrissionPage+pw浏览器上下文多开，实现动态代理IP切换，支持S5和账密
       url: https://www.bilibili.com/video/BV13YxyzfE6p
-    - author: 安卓反调试frida检测Neo
-      release_time: 2025.10.08 16:42:33
-      title: TLSv1.2-TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA 下集
-      url: https://www.bilibili.com/video/BV1EfxYzGErK
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.11.17 13:16:56
+      title: Multi-Platform Root Expert v9.0 - 全平台提权与刷机工具
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499126&idx=1&sn=cff5ec83340484e42712fe5a2fd2a225
     - author: 布鲁的Python之旅
       release_time: 2025.11.17 10:36:28
       title: Python爬虫管理平台TaskPyro专业版-2.2.3
@@ -140,6 +144,10 @@
       release_time: 2025.11.16 19:00:00
       title: jadx-ai-mcp环境搭建AI逆向分析JAVA代码
       url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484452&idx=1&sn=a32ba648aefb3141734606f502a7b6d4
+    - author: 哆啦安全
+      release_time: 2025.11.15 16:07:54
+      title: 检查APK中的原生库(.so文件)是否符合16KB内存页对齐(谷歌上架审核)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499112&idx=1&sn=357b664d0837c11557907b385b7da46f
     - author: 哆啦安全
       release_time: 2025.11.14 23:00:08
       title: 移动应用AI智能安全分析平台V9.0
@@ -236,14 +244,6 @@
       release_time: 2025.11.11 14:28:11
       title: 更新进度 | 浏览器内核研究和过检测教学
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483916&idx=1&sn=098a0d238c54a2bb9612ee727de1aa42
-    - author: 软件安全与逆向分析
-      release_time: 2025.11.11 12:25:48
-      title: 双十一学习不停歇，购课送多重福利
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484905&idx=1&sn=7b3ed811cfe828c50e5509f5254faf89
-    - author: 小小杨学编程
-      release_time: 2025.11.11 10:41:00
-      title: 人机智能滑块缺口验证分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484656&idx=1&sn=45dde97f4e12c8aa412d60fa6e232b39
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
