@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Coder小Q
+      release_time: 2025.11.17 08:30:00
+      title: 【密码学】恶意对手下的安全性
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493290&idx=1&sn=1adf5c1d0abe536e564750177ab67836
+    - author: 测试工程师成长之路
+      release_time: 2025.11.17 08:30:00
+      title: “这个需求很简单！”——测试工程师的噩梦开场白
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578295&idx=1&sn=1d36733921c47f2667b272ccb529700a
     - author: 沐阳逆向学习
       release_time: 2025.11.16 19:00:00
       title: jadx-ai-mcp环境搭建AI逆向分析JAVA代码
@@ -236,14 +244,6 @@
       release_time: 2025.11.11 09:41:44
       title: 安卓逆向 -- 多姿势某瓣app参数逆向分析
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040735&idx=1&sn=c6873bd3b27cf65c9a9515e2ae68092c
-    - author: 如意私塾
-      release_time: 2025.11.10 23:00:34
-      title: firefox内核教程 | Gecko的环境构建和编译
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483911&idx=1&sn=5307570124e811537332f83148d7410d
-    - author: 未闻Code
-      release_time: 2025.11.10 21:11:09
-      title: 几分钟内开发一个网站，这款开源工具火了！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991094&idx=1&sn=3bce3eab439cc1e6226b125c0b2168dc
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
