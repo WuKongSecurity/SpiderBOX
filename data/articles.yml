@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: woainixiang
+      release_time: 2025.11.17 09:57:00
+      title: 某老板直聘四层switch反混淆
+      url: https://www.52pojie.cn/thread-2073419-1-1.html
     - author: xia0ji233
       release_time: 2025.11.16 10:39:00
       title: Android逆向学习
@@ -363,13 +367,17 @@
       release_time: 2025.10.26 21:25:00
       title: 安卓共享UID实现Cheat Engine(CE)免Root修改
       url: https://www.52pojie.cn/thread-2068115-1-1.html
-    - author: vw2x
-      release_time: 2025.10.26 12:58:00
-      title: c-sktrace：基于 C 实现的 sktrace 性能优化 demo
-      url: https://www.52pojie.cn/thread-2068053-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: nothing233
+      release_time: 2025.11.17 13:48:21
+      title: '[原创]capstone学习: 反汇编器如何实现的'
+      url: https://bbs.kanxue.com/thread-289103.htm
+    - author: taeyeon_ss
+      release_time: 2025.11.17 02:11:21
+      title: '[原创]一款单机斗地主手机游戏的分析'
+      url: https://bbs.kanxue.com/thread-289099.htm
     - author: 卡卡骨
       release_time: 2025.11.16 02:14:55
       title: '[原创]入门实战-Rui幸app白盒aes'
@@ -483,14 +491,6 @@
       release_time: 2025.11.04 11:28:38
       title: '[原创]记录一次Unity加固的探索与实现'
       url: https://bbs.kanxue.com/thread-288985.htm
-    - author: w2sfot
-      release_time: 2025.11.04 08:35:56
-      title: js颜文字混淆
-      url: https://blog.csdn.net/w2sft/article/details/154382819
-    - author: CuteHacker
-      release_time: 2025.11.03 15:51:57
-      title: '[原创] 某海外短视频TikTok验证码分享'
-      url: https://bbs.kanxue.com/thread-288977.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
