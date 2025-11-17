@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 布鲁的Python之旅
+      release_time: 2025.11.17 10:36:28
+      title: Python爬虫管理平台TaskPyro专业版-2.2.3
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486231&idx=1&sn=97047236405f9a46e110143b7ab95e59
     - author: Coder小Q
       release_time: 2025.11.17 08:30:00
       title: 【密码学】恶意对手下的安全性
@@ -240,10 +244,6 @@
       release_time: 2025.11.11 10:41:00
       title: 人机智能滑块缺口验证分析
       url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484656&idx=1&sn=45dde97f4e12c8aa412d60fa6e232b39
-    - author: 逆向有你
-      release_time: 2025.11.11 09:41:44
-      title: 安卓逆向 -- 多姿势某瓣app参数逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040735&idx=1&sn=c6873bd3b27cf65c9a9515e2ae68092c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
