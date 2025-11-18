@@ -124,6 +124,34 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2025.11.19 00:00:00
+      title: Chromium内核教程 | Mojo多进程通信编程（二）
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483938&idx=1&sn=8a4e50a83b7defe35a229210278badcb
+    - author: 未闻Code
+      release_time: 2025.11.18 21:06:17
+      title: 1.8K标星！一站式 AI 内容聚合神器，把全网优质科技资讯装进口袋！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991205&idx=1&sn=5aeed4d35928c174d846f525b8b06055
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.18 17:03:29
+      title: 爱尔兰高等法院裁定中止执行Tiktok数据传输禁令
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519671&idx=1&sn=53d309bb86b26ce9495fc1027fa32c2f
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.18 17:03:29
+      title: 未完成等保测评，两家单位被公安机关处罚
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519671&idx=2&sn=17438a3250be9033a47858cc5d3e08a7
+    - author: 如意私塾
+      release_time: 2025.11.18 16:39:56
+      title: 英雄帖2 | 指纹浏览器内核开发招聘帖
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483936&idx=1&sn=b25c626a0069ba368ccb439177a3c74a
+    - author: 哆啦安全
+      release_time: 2025.11.18 09:53:53
+      title: 云手机 Redroid Android 13 一键构建脚本
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499138&idx=1&sn=359eb29145e2aaf6a28062c5ee90b481
+    - author: 菜鸟学Python编程
+      release_time: 2025.11.18 09:52:39
+      title: AST反混淆插件| 嵌套在if语句Test节点里的逻辑表达式还原(二)
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566206&idx=1&sn=843b0e8362610b57756d44d44aea092e
     - author: 菜鸟学Python编程
       release_time: 2025.11.17 21:18:39
       title: AST反混淆插件| 嵌套在if语句Test节点里的逻辑表达式还原(一)
@@ -216,34 +244,6 @@
       release_time: 2025.11.13 10:01:00
       title: 温峥嵘怒怼 AI 盗播：“你是温峥嵘，那我是谁？”
       url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724044&idx=1&sn=646d4d7500ab40f1de841125f29b14e4
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.12 18:02:32
-      title: 电商圈“小旺神”判赔3000万元，划定数据权益保护边界
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519625&idx=1&sn=a2c5e780b680c623f131fa6246b80878
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.12 18:02:32
-      title: 现代汽车宣布遭遇安全漏洞，可能导致社会保障号码泄露
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519625&idx=2&sn=21dfa91b2bb17419b31dedd8f45c2561
-    - author: 码功
-      release_time: 2025.11.12 17:30:23
-      title: 补环境框架：sdenv模拟浏览器渲染过程中代码执行时机
-      url: https://mp.weixin.qq.com/s?__biz=MzkyNzY2Mzc5MQ==&mid=2247483799&idx=1&sn=bcfeb11b5c8f48de9cffffc7089f352f
-    - author: 菜鸟学Python编程
-      release_time: 2025.11.12 17:30:00
-      title: JS逆向实战|AST反混淆 + AI纯算系列文章(一)
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566198&idx=1&sn=ec72e1fa7a713cd68fe1cd9c614db89f
-    - author: 丫总逆向
-      release_time: 2025.11.12 16:03:03
-      title: hcaptcha识别(一) opencv识别连线类拖拽验证
-      url: https://mp.weixin.qq.com/s?__biz=MzU1NjQ2Njg4OA==&mid=2247484002&idx=1&sn=63a684b559b919eb2cfaaa316695e161
-    - author: 哆啦安全
-      release_time: 2025.11.12 11:59:30
-      title: 鸿蒙(HarmonyOS)应用安全检测平台V7.5
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499088&idx=1&sn=ae643980562a731887fdf4ccbc964368
-    - author: 哆啦安全
-      release_time: 2025.11.12 11:59:30
-      title: Unidbg入门指南：Android Native代码模拟利器
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499088&idx=2&sn=5ca811b90d9f00d086f734f205086152
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
