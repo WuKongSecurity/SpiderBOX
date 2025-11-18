@@ -33,10 +33,11 @@
                                             {{ .author }}
                                         {{ end }}
                                     {{ else }}
-                                        {{ if gt (len .author) 10 }}
-                                            {{ printf "%s..." (substr .author 0 10) }}
+                                        {{ $authorStr := string .author }}
+                                        {{ if gt (len $authorStr) 10 }}
+                                            {{ substr $authorStr 0 10 }}
                                         {{ else }}
-                                            {{ .author }}
+                                            {{ string $authorStr }}
                                         {{ end }}
                                     {{ end }}
                                     </span>
