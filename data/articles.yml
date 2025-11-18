@@ -248,6 +248,18 @@
     term: 公众号
   - links:
     - author: xiayutianz
+      release_time: 2025.11.18 18:04:00
+      title: de到app算法分析
+      url: https://www.52pojie.cn/thread-2073893-1-1.html
+    - author: 220e285
+      release_time: 2025.11.18 13:40:00
+      title: 关于安卓逆向的学习日记------（一）
+      url: https://www.52pojie.cn/thread-2073795-1-1.html
+    - author: shanjzhu
+      release_time: 2025.11.17 21:04:00
+      title: 关于JSVMP纯算的一些取巧方式
+      url: https://www.52pojie.cn/thread-2073641-1-1.html
+    - author: xiayutianz
       release_time: 2025.11.17 14:52:00
       title: 魔改md5样本算法分析
       url: https://www.52pojie.cn/thread-2073532-1-1.html
@@ -355,21 +367,17 @@
       release_time: 2025.10.31 20:38:00
       title: 某美验证码及风控浅析一
       url: https://www.52pojie.cn/thread-2069214-1-1.html
-    - author: ai474427793
-      release_time: 2025.10.31 00:52:00
-      title: 另辟蹊径：基于浏览器脚本与中间人拦截的瑞数“异步”解决方案
-      url: https://www.52pojie.cn/thread-2069036-1-1.html
-    - author: xuxinhang
-      release_time: 2025.10.29 21:00:00
-      title: 解开Windows微信4.0版本的手机聊天记录备份文件
-      url: https://www.52pojie.cn/thread-2068774-1-1.html
-    - author: JoyboyPass
-      release_time: 2025.10.27 16:07:00
-      title: 新手小白入门app：某路旅行请求头参数逆向分析
-      url: https://www.52pojie.cn/thread-2068279-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: wangYи
+      release_time: 2025.11.18 14:15:42
+      title: 某日头条a_bogus 1.0.1.7参数补环境详情分析
+      url: https://blog.csdn.net/weixin_59616601/article/details/154984983
+    - author: 悦来客栈的老板
+      release_time: 2025.11.18 09:53:00
+      title: AST反混淆插件| 嵌套在if语句Test节点里的逻辑表达式还原(二)
+      url: https://blog.csdn.net/qq523176585/article/details/154987466
     - author: 大肠刺身
       release_time: 2025.11.17 22:40:54
       title: '[原创]某老板直聘四层switch反混淆'
@@ -378,6 +386,10 @@
       release_time: 2025.11.17 21:21:41
       title: '[原创]关于JSVMP纯算的一些取巧方式'
       url: https://bbs.kanxue.com/thread-289111.htm
+    - author: 悦来客栈的老板
+      release_time: 2025.11.17 21:18:58
+      title: AST反混淆插件| 嵌套在if语句Test节点里的逻辑表达式还原(一)
+      url: https://blog.csdn.net/qq523176585/article/details/154987481
     - author: 和沐阳学逆向
       release_time: 2025.11.17 16:40:28
       title: jadx-ai-mcp环境搭建AI逆向分析JAVA代码
@@ -479,18 +491,6 @@
       release_time: 2025.11.06 12:30:01
       title: 用药助手批量-采集数据
       url: https://blog.csdn.net/A_fanyifan/article/details/154484257
-    - author: 带带弟弟学爬虫__
-      release_time: 2025.11.06 11:32:15
-      title: 新电途充电桩爬虫-设备注册过风控
-      url: https://blog.csdn.net/A_fanyifan/article/details/154481691
-    - author: 带带弟弟学爬虫__
-      release_time: 2025.11.06 11:13:39
-      title: 特来电APP数据采集
-      url: https://blog.csdn.net/A_fanyifan/article/details/154480738
-    - author: w2sfot
-      release_time: 2025.11.05 09:53:41
-      title: json文件加密
-      url: https://blog.csdn.net/w2sft/article/details/154427439
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
