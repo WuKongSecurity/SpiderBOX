@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.11.19 09:00:00
+      title: AST反混淆插件| 嵌套在if语句Test节点里的逻辑表达式还原(三)
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566210&idx=1&sn=713919be689445c17ddf180186ae8623
+    - author: 二进制磨剑
+      release_time: 2025.11.19 08:20:00
+      title: （AI安全）文本攻击与大模型越狱
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485788&idx=1&sn=47daacaef58ae7b151e505c9412c7028
+    - author: 哆啦安全
+      release_time: 2025.11.19 06:00:00
+      title: 11月19日，AI，宣布一大喜讯！
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499158&idx=1&sn=a7a8ce19639e295a28529736c0e2329f
+    - author: 哆啦安全
+      release_time: 2025.11.19 06:00:00
+      title: Android日志智能分析系统V2.0
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499158&idx=2&sn=643e86188db44f6c4dcf573163c88bd5
     - author: 如意私塾
       release_time: 2025.11.19 00:00:00
       title: Chromium内核教程 | Mojo多进程通信编程（二）
@@ -228,22 +244,6 @@
       release_time: 2025.11.13 21:00:00
       title: AI时代超级思考者的两大思维工具：费米估算 x 费曼技巧
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991097&idx=1&sn=606a1070ad1dfaff4891f2ebdb0345da
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.13 17:18:19
-      title: 8家银行因网络安全/数据安全被罚，涉国有行、股份行、城农商行等
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519656&idx=1&sn=147af453f48827ac2156c7bf91874908
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.13 17:18:19
-      title: 中央网信办严打一批涉学术论文买卖违法违规账号
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519656&idx=2&sn=8f977073a829671364d1693cdaea8ad1
-    - author: 流星Studio
-      release_time: 2025.11.13 12:56:47
-      title: Vx4.x调试工具更新-内置浏览器调试来啦！
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjUxNTgyMg==&mid=2247484074&idx=1&sn=5963bcd71dd39c4f74ba2228bf80f6cf
-    - author: 极验
-      release_time: 2025.11.13 10:01:00
-      title: 温峥嵘怒怼 AI 盗播：“你是温峥嵘，那我是谁？”
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724044&idx=1&sn=646d4d7500ab40f1de841125f29b14e4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
