@@ -438,6 +438,10 @@
       release_time: 2025.11.12 17:30:35
       title: JS逆向实战|AST反混淆 + AI纯算系列文章(一)
       url: https://blog.csdn.net/qq523176585/article/details/154785322
+    - author: 一个想当文人的黑客
+      release_time: 2025.11.12 16:50:00
+      title: 一文读懂Android APP抓包和反编译&frida脱壳&APP单/双向认证&Root隐藏绕过技巧
+      url: https://xz.aliyun.com/news/19304
     - author: wangYи
       release_time: 2025.11.12 13:59:13
       title: 某红薯新版x-s 参数 window.mnsv2 v4.2.6版本原型链补环境长篇解析
@@ -487,10 +491,6 @@
       release_time: 2025.11.07 01:55:44
       title: '[原创]某修仙游戏分析'
       url: https://bbs.kanxue.com/thread-289026.htm
-    - author: 陈可牛
-      release_time: 2025.11.07 01:46:43
-      title: '[原创]Android下的art的ArtMethod一些学习分享'
-      url: https://bbs.kanxue.com/thread-289025.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
