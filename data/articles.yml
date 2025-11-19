@@ -374,6 +374,10 @@
       release_time: 2025.11.19 11:51:55
       title: '[原创]针对 android VMP 分析，轻量级 Unicorn Trace 工具分享'
       url: https://bbs.kanxue.com/thread-289135.htm
+    - author: 悦来客栈的老板
+      release_time: 2025.11.19 09:00:45
+      title: AST反混淆插件| 嵌套在if语句Test节点里的逻辑表达式还原(三)
+      url: https://blog.csdn.net/qq523176585/article/details/155023358
     - author: wangYи
       release_time: 2025.11.18 14:15:42
       title: 某日头条a_bogus 1.0.1.7参数补环境详情分析
@@ -487,10 +491,6 @@
       release_time: 2025.11.07 01:46:43
       title: '[原创]Android下的art的ArtMethod一些学习分享'
       url: https://bbs.kanxue.com/thread-289025.htm
-    - author: wangYи
-      release_time: 2025.11.06 13:45:50
-      title: 某居客APP端抓包+接口逆向解析so层分析
-      url: https://blog.csdn.net/weixin_59616601/article/details/153929985
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
