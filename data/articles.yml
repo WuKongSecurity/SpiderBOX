@@ -134,10 +134,6 @@
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485788&idx=1&sn=47daacaef58ae7b151e505c9412c7028
     - author: 哆啦安全
       release_time: 2025.11.19 06:00:00
-      title: 11月19日，AI，宣布一大喜讯！
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499158&idx=1&sn=a7a8ce19639e295a28529736c0e2329f
-    - author: 哆啦安全
-      release_time: 2025.11.19 06:00:00
       title: Android日志智能分析系统V2.0
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499158&idx=2&sn=643e86188db44f6c4dcf573163c88bd5
     - author: 如意私塾
@@ -244,6 +240,10 @@
       release_time: 2025.11.13 21:00:00
       title: AI时代超级思考者的两大思维工具：费米估算 x 费曼技巧
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991097&idx=1&sn=606a1070ad1dfaff4891f2ebdb0345da
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.13 17:18:19
+      title: 8家银行因网络安全/数据安全被罚，涉国有行、股份行、城农商行等
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519656&idx=1&sn=147af453f48827ac2156c7bf91874908
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
