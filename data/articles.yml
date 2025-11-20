@@ -124,6 +124,34 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.11.20 11:02:28
+      title: 云手机Redroid Android13源码一键编译
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499164&idx=1&sn=ee03af9c29086b47c54b1bfadc9be286
+    - author: Coder小Q
+      release_time: 2025.11.20 08:30:00
+      title: '【密码学】Lore: 基于CRT-LWR(模数可变与余数压缩)的密钥封装机制(算法解读)'
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493325&idx=1&sn=41b62497d847cbaba26acfee76a13a9f
+    - author: 逆向狗都不学
+      release_time: 2025.11.19 21:15:44
+      title: Akamai 3哈希校验绕过
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247484033&idx=1&sn=6e624e6b25c0e89ce23f27eaf9da44f3
+    - author: 爬虫逆向小林哥
+      release_time: 2025.11.19 19:26:47
+      title: go-wasm基础和案例分析
+      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247486871&idx=1&sn=d7bac362aadb04f686d0af04daac9699
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.19 17:20:17
+      title: 欧盟通过新规，加快处理跨境数据保护投诉，提升GDPR执行效率
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519684&idx=1&sn=7979d83fae9730a9c22b90daf1df13ea
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.19 17:20:17
+      title: 湖南省委网信办下架23款侵害用户权益移动应用程序
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519684&idx=2&sn=12a21d6705362bca3dd093a07483bd47
+    - author: 逆向有你
+      release_time: 2025.11.19 10:59:32
+      title: 安卓逆向 -- IDA动态调试Android so文件
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040799&idx=1&sn=039096cc41bdfb262bca0ab5e89591ca
     - author: 菜鸟学Python编程
       release_time: 2025.11.19 09:00:00
       title: AST反混淆插件| 嵌套在if语句Test节点里的逻辑表达式还原(三)
@@ -216,34 +244,6 @@
       release_time: 2025.11.14 23:00:08
       title: 移动应用AI智能安全分析平台V9.0
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499105&idx=1&sn=7ad69611d75a98fffd9269d434c5a5d9
-    - author: 逆向狗都不学
-      release_time: 2025.11.14 20:28:03
-      title: 顶象滑块逆向
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247484009&idx=1&sn=814be590a780b478262ae519ddfe3e12
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.14 15:50:34
-      title: 网信部门处罚一微信小程序运营商，涉超范围获取位置信息、隐私政策不完善等行为
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519660&idx=1&sn=504ff482ffb0b244b06b27ec2876aa54
-    - author: 逆向有你
-      release_time: 2025.11.14 10:49:47
-      title: 安卓逆向 -- 某修仙肉鸽游戏协议逆向分析折腾记录
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040776&idx=1&sn=e8e22d45264c0aefaf135525039653ca
-    - author: 吾爱破解论坛
-      release_time: 2025.11.14 10:25:28
-      title: 【公告】关于必应搜索推送“吾爱破解”假冒网站的紧急声明
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143173&idx=1&sn=f35f2e4ded1b2521b7a740aa57067fe8
-    - author: 丫总逆向
-      release_time: 2025.11.13 22:38:37
-      title: hcaptcha识别(二)opencv识别给定差异图标
-      url: https://mp.weixin.qq.com/s?__biz=MzU1NjQ2Njg4OA==&mid=2247484062&idx=1&sn=778f4ccd886ac70236ba075bc01348ca
-    - author: 未闻Code
-      release_time: 2025.11.13 21:00:00
-      title: AI时代超级思考者的两大思维工具：费米估算 x 费曼技巧
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991097&idx=1&sn=606a1070ad1dfaff4891f2ebdb0345da
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.13 17:18:19
-      title: 8家银行因网络安全/数据安全被罚，涉国有行、股份行、城农商行等
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519656&idx=1&sn=147af453f48827ac2156c7bf91874908
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
