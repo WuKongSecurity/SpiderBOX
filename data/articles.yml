@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: coderwhy
+      release_time: 2025.11.20 18:47:00
+      title: 《JavaScript 高级权威指南》各个平台已经到货
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247489079&idx=1&sn=2b73787caec75d7ca3d51201ed932d14
     - author: 个人信息与数据保护实务评论
       release_time: 2025.11.20 16:38:25
       title: 北互案例：上市公司披露非核心员工工资信息，构成侵权
@@ -240,10 +244,6 @@
       release_time: 2025.11.17 08:30:00
       title: 【密码学】恶意对手下的安全性
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493290&idx=1&sn=1adf5c1d0abe536e564750177ab67836
-    - author: 测试工程师成长之路
-      release_time: 2025.11.17 08:30:00
-      title: “这个需求很简单！”——测试工程师的噩梦开场白
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578295&idx=1&sn=1d36733921c47f2667b272ccb529700a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
