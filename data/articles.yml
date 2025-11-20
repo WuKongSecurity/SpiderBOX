@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.11.20 12:20:27
+      title: 分享一个支持点选 滑块 算术 旋转 OCR本地打码服务
+      url: https://www.bilibili.com/video/BV1yQyFBXEXB
     - author: 逆向狗都不学
       release_time: 2025.11.19 21:19:44
       title: AST反混淆实战之Akamai-1
@@ -117,10 +121,6 @@
       release_time: 2025.10.10 21:56:26
       title: 百度旋转验证码分析
       url: https://www.bilibili.com/video/BV1k64HzUEns
-    - author: 安卓反调试frida检测Neo
-      release_time: 2025.10.09 23:07:14
-      title: TLSv1.3-TLS_AES_256_GCM_SHA384下集
-      url: https://www.bilibili.com/video/BV1Bnx2z1Edu
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
