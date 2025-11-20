@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.11.20 14:46:26
+      title: JS逆向 -- 利用土办法+AI编写的视频下载脚本过程复现
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040809&idx=1&sn=6a3af62023aba4661cbecef5602199c4
     - author: 哆啦安全
       release_time: 2025.11.20 11:02:28
       title: 云手机Redroid Android13源码一键编译
@@ -240,10 +244,6 @@
       release_time: 2025.11.15 16:07:54
       title: 检查APK中的原生库(.so文件)是否符合16KB内存页对齐(谷歌上架审核)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499112&idx=1&sn=357b664d0837c11557907b385b7da46f
-    - author: 哆啦安全
-      release_time: 2025.11.14 23:00:08
-      title: 移动应用AI智能安全分析平台V9.0
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499105&idx=1&sn=7ad69611d75a98fffd9269d434c5a5d9
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
