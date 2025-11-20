@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.20 16:38:25
+      title: 北互案例：上市公司披露非核心员工工资信息，构成侵权
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519686&idx=1&sn=0eadc1ecce7149d5e06b9e618e2af4a3
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.20 16:38:25
+      title: 中国数据保护月度报告：重点提示及目录（2025年11月）
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519686&idx=2&sn=e9793554615a761e7c336e3378f08c7b
     - author: 逆向有你
       release_time: 2025.11.20 14:46:26
       title: JS逆向 -- 利用土办法+AI编写的视频下载脚本过程复现
@@ -236,14 +244,6 @@
       release_time: 2025.11.17 08:30:00
       title: “这个需求很简单！”——测试工程师的噩梦开场白
       url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578295&idx=1&sn=1d36733921c47f2667b272ccb529700a
-    - author: 沐阳逆向学习
-      release_time: 2025.11.16 19:00:00
-      title: jadx-ai-mcp环境搭建AI逆向分析JAVA代码
-      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484452&idx=1&sn=a32ba648aefb3141734606f502a7b6d4
-    - author: 哆啦安全
-      release_time: 2025.11.15 16:07:54
-      title: 检查APK中的原生库(.so文件)是否符合16KB内存页对齐(谷歌上架审核)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499112&idx=1&sn=357b664d0837c11557907b385b7da46f
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Solar安全
+      release_time: 2025.11.20 16:46:07
+      title: '[原创]【病毒分析】专挑制造业下手！揭秘BEAST图形化勒索软件（Windows版）的加密逻辑与免杀手段'
+      url: https://bbs.kanxue.com/thread-289159.htm
     - author: 卡卡骨
       release_time: 2025.11.20 03:29:01
       title: '[原创]入门实战-知乎x-zse-96参数分析'
@@ -487,10 +491,6 @@
       release_time: 2025.11.09 16:45:49
       title: '[原创]一时兴起分析并绕过某网站验证码验证'
       url: https://bbs.kanxue.com/thread-289043.htm
-    - author: 努力的。。。
-      release_time: 2025.11.07 20:52:16
-      title: python-执行js代码常见包(特点与内置引擎）和pyinstaller打包node依赖
-      url: https://blog.csdn.net/2401_87946050/article/details/154535359
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
