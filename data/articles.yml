@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.11.21 19:17:36
+      title: Python逆向分析工具V2.5
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499173&idx=1&sn=5d01c14376a5507ca8cd6513d73c9544
     - author: 个人信息与数据保护实务评论
       release_time: 2025.11.21 16:29:11
       title: 湖南某学校监控系统存在数据泄漏风险被网信办处罚
@@ -240,10 +244,6 @@
       release_time: 2025.11.17 14:48:43
       title: JS逆向 -- 某音乐sign逆向-多角度
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040781&idx=1&sn=3fc8726255bc16939f76b0363099b577
-    - author: 哆啦安全
-      release_time: 2025.11.17 13:16:56
-      title: Multi-Platform Root Expert v9.0 - 全平台提权与刷机工具
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499126&idx=1&sn=cff5ec83340484e42712fe5a2fd2a225
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
