@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 静夜随想
+      release_time: 2025.11.21 19:52:13
+      title: 听闻某数又更新了
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811183&idx=1&sn=e4dd43763a31a131d47a2c70c52e0af8
     - author: 哆啦安全
       release_time: 2025.11.21 19:17:36
       title: Python逆向分析工具V2.5
@@ -240,10 +244,6 @@
       release_time: 2025.11.17 17:07:51
       title: 官方通报40款移动应用违规收集使用个人信息
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519664&idx=2&sn=90f47bec6b120a3069f94de87eb58206
-    - author: 逆向有你
-      release_time: 2025.11.17 14:48:43
-      title: JS逆向 -- 某音乐sign逆向-多角度
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040781&idx=1&sn=3fc8726255bc16939f76b0363099b577
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
