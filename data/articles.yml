@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: cqy666
+      release_time: 2025.11.22 01:24:00
+      title: 安卓共享UID新增Frida支持免Root修改
+      url: https://www.52pojie.cn/thread-2074757-1-1.html
     - author: xiayutianz
       release_time: 2025.11.21 18:03:00
       title: 他x星qiu算法分析
@@ -363,10 +367,6 @@
       release_time: 2025.11.06 13:59:00
       title: 某通安卓内置 WebView JS 脚本逆向
       url: https://www.52pojie.cn/thread-2070437-1-1.html
-    - author: jzbb99
-      release_time: 2025.11.05 12:50:00
-      title: frida主动调用函数的问题
-      url: https://www.52pojie.cn/thread-2070096-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
