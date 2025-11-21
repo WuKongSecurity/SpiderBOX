@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: xiayutianz
+      release_time: 2025.11.21 18:03:00
+      title: 他x星qiu算法分析
+      url: https://www.52pojie.cn/thread-2074694-1-1.html
     - author: fyr666
       release_time: 2025.11.20 22:32:00
       title: 从零开始绕过 DexProtector 加固的 Frida 检测
@@ -363,10 +367,6 @@
       release_time: 2025.11.05 12:50:00
       title: frida主动调用函数的问题
       url: https://www.52pojie.cn/thread-2070096-1-1.html
-    - author: fryant
-      release_time: 2025.11.04 20:46:00
-      title: 某乖生活app桶自洁接口加密参数分析
-      url: https://www.52pojie.cn/thread-2069979-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
