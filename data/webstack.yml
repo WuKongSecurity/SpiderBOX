@@ -2207,15 +2207,10 @@
           logo: cherryproxy.png
           url: https://www.cherryproxy.com/?utm-source=zbw&utm-keyword=?spiderbox
           description: Cherry Proxy 提供高品质的住宅代理服务器、动态/静态 IP 地址，既适用于商业用途也适合家庭使用，并支持多种业务场景。它覆盖全球 195 多个国家和地区，确保极高的匿名性和安全性。量大价格越便宜
-        - title: Cherry Proxy
-          logo: cherryproxy.png
-          url: https://www.cherryproxy.com/?utm-source=zbw&utm-keyword=?spiderbox
-          description: Cherry Proxy 提供高品质的住宅代理服务器、动态/静态 IP 地址，既适用于商业用途也适合家庭使用，并支持多种业务场景。它覆盖全球 195 多个国家和地区，确保极高的匿名性和安全性。量大价格越便宜
         - title: IPWeb
           logo: ipweb.png
           url: https://www.ipweb.cc
           description: IPWeb 是全球领先的 IP 代理服务商，提供多样化的 IP 解决方案，支持亿万级 TCP 并发连接，覆盖全球 220+ 国家/地区，可定位到州/城市级别，无使用次数或调用频率限制，每天更新数百万高纯净住宅 IP，平均响应时间仅 0.2 秒，专家级技术支持团队全天候服务
-
 #        - title: WTFproxy
 #          logo: wtfproxy.png
 #          url: https://www.wtfproxy.com/
