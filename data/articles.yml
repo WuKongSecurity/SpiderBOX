@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.11.21 21:16:08
+      title: 爆火的浏览器自动化工具，狂揽 17.8k+ Star！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991208&idx=1&sn=af23e7d81f6e09c8ff35a3d105b4ccf8
     - author: 静夜随想
       release_time: 2025.11.21 19:52:13
       title: 听闻某数又更新了
@@ -240,10 +244,6 @@
       release_time: 2025.11.17 17:07:51
       title: 罗技回应遭黑客攻击：泄露数据不涉及敏感信息
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519664&idx=1&sn=c0014cd5aad1be1ab68cb37979df789a
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.17 17:07:51
-      title: 官方通报40款移动应用违规收集使用个人信息
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519664&idx=2&sn=90f47bec6b120a3069f94de87eb58206
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
