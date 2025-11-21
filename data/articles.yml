@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.21 16:29:11
+      title: 湖南某学校监控系统存在数据泄漏风险被网信办处罚
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519700&idx=1&sn=d952653e0572c571059da4f6e20b984b
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.21 16:29:11
+      title: 西班牙法院责令Meta因违规处理用户数据支付4.79亿欧元赔偿金
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519700&idx=2&sn=33eb675e6b2ebe12ef95699269d26a3e
     - author: coderwhy
       release_time: 2025.11.20 18:47:00
       title: 《JavaScript 高级权威指南》各个平台已经到货
@@ -236,14 +244,6 @@
       release_time: 2025.11.17 13:16:56
       title: Multi-Platform Root Expert v9.0 - 全平台提权与刷机工具
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499126&idx=1&sn=cff5ec83340484e42712fe5a2fd2a225
-    - author: 布鲁的Python之旅
-      release_time: 2025.11.17 10:36:28
-      title: Python爬虫管理平台TaskPyro专业版-2.2.3
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486231&idx=1&sn=97047236405f9a46e110143b7ab95e59
-    - author: Coder小Q
-      release_time: 2025.11.17 08:30:00
-      title: 【密码学】恶意对手下的安全性
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493290&idx=1&sn=1adf5c1d0abe536e564750177ab67836
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
