@@ -78,10 +78,10 @@
 #      logo: bob.jpg
 #      qrcode: images/qrcode/IT_BOB.jpg
 #      description: 站长公众号：虫技
-    - title: TrackMe - fp API
-      logo: peet.jpg
-      url: https://tls.peet.ws/
-      description: TLS 指纹 API，查看 ja3、ja4 指纹
+    - title: TrackMe - fingerprinting API
+      logo: wangluozhe.jpg
+      url: https://tls.wangluozhe.com/
+      description: TLS 指纹 API，查看 ja3、ja4 指纹，https://tls.peet.ws/ 开源镜像版本，作者 LeeGene (wangluozhe)，tls 开源库 requests 和 requests-go 作者
     - title: Hook_JS
       logo: github.png
       url: https://github.com/0xsdeo/Hook_JS
