@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 带带弟弟学爬虫__
+      release_time: 2025.11.23 13:35:54
+      title: 千岛app逆向
+      url: https://blog.csdn.net/A_fanyifan/article/details/155160765
     - author: 霜降白羽
       release_time: 2025.11.22 06:11:17
       title: '[原创] 不改 NDK 也能用新版 LLVM Pass：Windows 下基于插件的 NDK 27 集成方法'
@@ -487,10 +491,6 @@
       release_time: 2025.11.11 13:18:16
       title: 'TikTok滑块: 全流程梳理及稳定性优化'
       url: https://bbs.kanxue.com/thread-289058.htm
-    - author: xiaowaaa
-      release_time: 2025.11.10 21:33:21
-      title: '[原创]对某某漫画的算法还原测试'
-      url: https://bbs.kanxue.com/thread-289057.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
