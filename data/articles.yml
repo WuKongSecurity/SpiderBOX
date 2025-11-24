@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.11.24 15:24:31
+      title: 鸿蒙(HarmonyOS)应用安全检测平台-VIP会员版
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499201&idx=1&sn=950f1c13d51a2d3517b495fe118c4d32
     - author: 逆向有你
       release_time: 2025.11.24 10:10:25
       title: 安卓逆向 -- 某安App登录参数分析
@@ -144,6 +148,10 @@
       release_time: 2025.11.23 15:37:12
       title: Android日志智能化分析系统V3.5
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499189&idx=1&sn=4d63ad4d72057487aba49bb2e13b1e9b
+    - author: 哆啦安全
+      release_time: 2025.11.22 14:21:40
+      title: APK/SO文件对齐工具V4.5-Google Play APP上架专用
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499181&idx=1&sn=807d61dc8adf58480f64a6049d3afc27
     - author: 未闻Code
       release_time: 2025.11.21 21:16:08
       title: 爆火的浏览器自动化工具，狂揽 17.8k+ Star！
@@ -236,14 +244,6 @@
       release_time: 2025.11.18 17:03:29
       title: 未完成等保测评，两家单位被公安机关处罚
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519671&idx=2&sn=17438a3250be9033a47858cc5d3e08a7
-    - author: 如意私塾
-      release_time: 2025.11.18 16:39:56
-      title: 英雄帖2 | 指纹浏览器内核开发招聘帖
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483936&idx=1&sn=b25c626a0069ba368ccb439177a3c74a
-    - author: 哆啦安全
-      release_time: 2025.11.18 09:53:53
-      title: 云手机 Redroid Android 13 一键构建脚本
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499138&idx=1&sn=359eb29145e2aaf6a28062c5ee90b481
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
