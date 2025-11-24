@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.11.24 21:00:00
+      title: pandas“将”迎来v3.0.0大版本更新，带来这些性能变化！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991257&idx=1&sn=8023a6b1e11677c00ed6c31c49f4b07e
     - author: 个人信息与数据保护实务评论
       release_time: 2025.11.24 17:15:28
       title: 某无人机管理平台遭攻击导致数据泄露，被公安部门处罚
@@ -240,10 +244,6 @@
       release_time: 2025.11.19 00:00:00
       title: Chromium内核教程 | Mojo多进程通信编程（二）
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483938&idx=1&sn=8a4e50a83b7defe35a229210278badcb
-    - author: 未闻Code
-      release_time: 2025.11.18 21:06:17
-      title: 1.8K标星！一站式 AI 内容聚合神器，把全网优质科技资讯装进口袋！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991205&idx=1&sn=5aeed4d35928c174d846f525b8b06055
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
