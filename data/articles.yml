@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: m9411
+      release_time: 2025.11.23 17:05:00
+      title: 某软件去除登录及注册对话框尝试
+      url: https://www.52pojie.cn/thread-2075024-1-1.html
     - author: pzx521521
       release_time: 2025.11.23 15:50:00
       title: 中国移动 光猫 TEWA-7560B 开启telnet 及超级管理员密码 破解过程
@@ -363,10 +367,6 @@
       release_time: 2025.11.07 21:58:00
       title: 某消费金融算法分析
       url: https://www.52pojie.cn/thread-2070898-1-1.html
-    - author: xiaoyangupup
-      release_time: 2025.11.07 00:36:00
-      title: 某视频网站signter简要分析
-      url: https://www.52pojie.cn/thread-2070601-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
