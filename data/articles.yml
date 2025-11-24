@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: cqy666
+      release_time: 2025.11.24 18:24:00
+      title: 一键启动CeServer或Frida服务整合root版
+      url: https://www.52pojie.cn/thread-2075344-1-1.html
     - author: m9411
       release_time: 2025.11.23 17:05:00
       title: 某软件去除登录及注册对话框尝试
@@ -363,10 +367,6 @@
       release_time: 2025.11.08 18:13:00
       title: 无视某易针对libil2cpp.so的加固获取api
       url: https://www.52pojie.cn/thread-2071058-1-1.html
-    - author: xiayutianz
-      release_time: 2025.11.07 21:58:00
-      title: 某消费金融算法分析
-      url: https://www.52pojie.cn/thread-2070898-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
