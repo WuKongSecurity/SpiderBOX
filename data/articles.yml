@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.24 17:15:28
+      title: 某无人机管理平台遭攻击导致数据泄露，被公安部门处罚
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519702&idx=1&sn=d4c7c2232f8a24507b5105d8162735e8
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.24 17:15:28
+      title: 国家网信办发布《大型网络平台个人信息保护规定（征求意见稿）》
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519702&idx=2&sn=8b7f8ea09e4e7eee68be4317882ea121
     - author: 哆啦安全
       release_time: 2025.11.24 15:24:31
       title: 鸿蒙(HarmonyOS)应用安全检测平台-VIP会员版
@@ -236,14 +244,6 @@
       release_time: 2025.11.18 21:06:17
       title: 1.8K标星！一站式 AI 内容聚合神器，把全网优质科技资讯装进口袋！
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991205&idx=1&sn=5aeed4d35928c174d846f525b8b06055
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.18 17:03:29
-      title: 爱尔兰高等法院裁定中止执行Tiktok数据传输禁令
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519671&idx=1&sn=53d309bb86b26ce9495fc1027fa32c2f
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.18 17:03:29
-      title: 未完成等保测评，两家单位被公安机关处罚
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519671&idx=2&sn=17438a3250be9033a47858cc5d3e08a7
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
