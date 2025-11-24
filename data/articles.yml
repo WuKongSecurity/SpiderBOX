@@ -124,6 +124,26 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.11.24 10:10:25
+      title: 安卓逆向 -- 某安App登录参数分析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040827&idx=1&sn=32b6397daaeaecb5c11ad7ec29799277
+    - author: 测试工程师成长之路
+      release_time: 2025.11.24 08:30:00
+      title: 所有测试人，招聘的新方向，赢麻了！！！
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578316&idx=1&sn=d2c3f51fcd6c944f2c989f2e20d7718b
+    - author: Coder小Q
+      release_time: 2025.11.24 08:30:00
+      title: 【密码学】抛硬币协议
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493355&idx=1&sn=ea529988a0102ea067b554168c61dc91
+    - author: 二进制磨剑
+      release_time: 2025.11.24 08:30:00
+      title: Andord Conscrypt 与 TLS 证书安全 —— APP HTTPS 流量解密困境
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485796&idx=1&sn=aafb3d2c65f3d4bb3a0509f71b0b4ffd
+    - author: 哆啦安全
+      release_time: 2025.11.23 15:37:12
+      title: Android日志智能化分析系统V3.5
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499189&idx=1&sn=4d63ad4d72057487aba49bb2e13b1e9b
     - author: 未闻Code
       release_time: 2025.11.21 21:16:08
       title: 爆火的浏览器自动化工具，狂揽 17.8k+ Star！
@@ -224,26 +244,6 @@
       release_time: 2025.11.18 09:53:53
       title: 云手机 Redroid Android 13 一键构建脚本
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499138&idx=1&sn=359eb29145e2aaf6a28062c5ee90b481
-    - author: 菜鸟学Python编程
-      release_time: 2025.11.18 09:52:39
-      title: AST反混淆插件| 嵌套在if语句Test节点里的逻辑表达式还原(二)
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566206&idx=1&sn=843b0e8362610b57756d44d44aea092e
-    - author: 菜鸟学Python编程
-      release_time: 2025.11.17 21:18:39
-      title: AST反混淆插件| 嵌套在if语句Test节点里的逻辑表达式还原(一)
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566202&idx=1&sn=6fd5d2d633b32174ba3b1eb6da22adb5
-    - author: 未闻Code
-      release_time: 2025.11.17 21:15:55
-      title: 火遍大模型圈的 AI Agent，迎来一本聚焦落地的中文实战书！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991106&idx=1&sn=f05435bfb7d4258f9fa6f8ed868019a9
-    - author: 如意私塾
-      release_time: 2025.11.17 18:08:56
-      title: Chromium内核教程 | Mojo多进程通信编程（一）
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483931&idx=1&sn=36e1c20bf45ff6863ae855a8791e3966
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.17 17:07:51
-      title: 罗技回应遭黑客攻击：泄露数据不涉及敏感信息
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519664&idx=1&sn=c0014cd5aad1be1ab68cb37979df789a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -402,6 +402,10 @@
       release_time: 2025.11.19 20:27:49
       title: '[原创]百度加固检测部分分析'
       url: https://bbs.kanxue.com/thread-289143.htm
+    - author: 风瞬息
+      release_time: 2025.11.19 18:35:00
+      title: APK逆向：视频盗用+原创替换的实战分析
+      url: https://xz.aliyun.com/news/19357
     - author: vior
       release_time: 2025.11.19 11:51:55
       title: '[原创]针对 android VMP 分析，轻量级 Unicorn Trace 工具分享'
@@ -487,10 +491,6 @@
       release_time: 2025.11.11 14:39:26
       title: '[原创]入门实战-某居客nsign参数分析'
       url: https://bbs.kanxue.com/thread-289064.htm
-    - author: mb_gbsvhixi
-      release_time: 2025.11.11 13:18:16
-      title: 'TikTok滑块: 全流程梳理及稳定性优化'
-      url: https://bbs.kanxue.com/thread-289058.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
