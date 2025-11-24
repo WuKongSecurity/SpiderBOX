@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.11.24 15:48:30
+      title: 新版骚神插件9.7.6，新增网络加密数据破解和反调试控制台！！！
+      url: https://www.bilibili.com/video/BV1QTUkBtEbs
     - author: 冷月不是程序员
       release_time: 2025.11.24 00:30:34
       title: 验证码背后的战争：我们正在被算法“考试”？
@@ -117,10 +121,6 @@
       release_time: 2025.10.15 05:35:10
       title: ida pro  9.1 qt 插件开发环境配置
       url: https://www.bilibili.com/video/BV13N4ezwEwt
-    - author: 逆向狗都不学
-      release_time: 2025.10.14 07:35:28
-      title: JS逆向实战之极验4
-      url: https://www.bilibili.com/video/BV1kV4XzBEyS
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
