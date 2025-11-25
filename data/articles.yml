@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 爬虫逆向小林哥
+      release_time: 2025.11.25 09:02:00
+      title: 【网页逆向】红薯Xs又更新之-mns0301
+      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247486899&idx=1&sn=36b8cf2b3e255480501261d57aa497b3
+    - author: 极验
+      release_time: 2025.11.25 09:00:00
+      title: 反制仿冒应用：如何从被动止损到主动风控？
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724064&idx=1&sn=d3e926c8048d2b8a108ccc2f1f4ebcda
     - author: 未闻Code
       release_time: 2025.11.24 21:00:00
       title: pandas“将”迎来v3.0.0大版本更新，带来这些性能变化！
@@ -236,14 +244,6 @@
       release_time: 2025.11.19 08:20:00
       title: （AI安全）文本攻击与大模型越狱
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485788&idx=1&sn=47daacaef58ae7b151e505c9412c7028
-    - author: 哆啦安全
-      release_time: 2025.11.19 06:00:00
-      title: Android日志智能分析系统V2.0
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499158&idx=2&sn=643e86188db44f6c4dcf573163c88bd5
-    - author: 如意私塾
-      release_time: 2025.11.19 00:00:00
-      title: Chromium内核教程 | Mojo多进程通信编程（二）
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483938&idx=1&sn=8a4e50a83b7defe35a229210278badcb
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
