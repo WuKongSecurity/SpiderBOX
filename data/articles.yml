@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.11.25 18:02:37
+      title: APP自动化测试工具V2.8
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499216&idx=1&sn=62ecda244835b75080a0620f5bc710e5
     - author: 个人信息与数据保护实务评论
       release_time: 2025.11.25 15:25:47
       title: 涉及个人信息识别、去标识化、匿名化，全国网安标委就3项指南公开征求意见
@@ -240,10 +244,6 @@
       release_time: 2025.11.19 17:20:17
       title: 湖南省委网信办下架23款侵害用户权益移动应用程序
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519684&idx=2&sn=12a21d6705362bca3dd093a07483bd47
-    - author: 逆向有你
-      release_time: 2025.11.19 10:59:32
-      title: 安卓逆向 -- IDA动态调试Android so文件
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040799&idx=1&sn=039096cc41bdfb262bca0ab5e89591ca
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
