@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.25 15:25:47
+      title: 涉及个人信息识别、去标识化、匿名化，全国网安标委就3项指南公开征求意见
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519710&idx=1&sn=ceda1bc0e1542a27bf97209752c6b825
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.25 15:25:47
+      title: 下线54款违规AI应用、26个网站AI功能，上海开展“AI滥用”专项执法
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519710&idx=2&sn=a21cb2151019bec97f00b600c39b2053
     - author: 爬虫逆向小林哥
       release_time: 2025.11.25 09:02:00
       title: 【网页逆向】红薯Xs又更新之-mns0301
@@ -236,14 +244,6 @@
       release_time: 2025.11.19 10:59:32
       title: 安卓逆向 -- IDA动态调试Android so文件
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040799&idx=1&sn=039096cc41bdfb262bca0ab5e89591ca
-    - author: 菜鸟学Python编程
-      release_time: 2025.11.19 09:00:00
-      title: AST反混淆插件| 嵌套在if语句Test节点里的逻辑表达式还原(三)
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566210&idx=1&sn=713919be689445c17ddf180186ae8623
-    - author: 二进制磨剑
-      release_time: 2025.11.19 08:20:00
-      title: （AI安全）文本攻击与大模型越狱
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485788&idx=1&sn=47daacaef58ae7b151e505c9412c7028
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
