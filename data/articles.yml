@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 将往的爬虫逆向日记
+      release_time: 2025.11.26 09:00:00
+      title: Python爬虫进阶：某数后缀纯算(一)
+      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862124&idx=1&sn=2d570b361fb2b6f20788fa5a01535c52
+    - author: Coder小Q
+      release_time: 2025.11.26 08:30:00
+      title: 【小工具】基于 Rust 的 PCAP 到 HAR 转换工具
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493399&idx=1&sn=71f134ee28c0b8abe7810295d137f617
     - author: 菜鸟学Python编程
       release_time: 2025.11.25 20:03:38
       title: AST反混淆插件| 函数定义中的params参数还原
@@ -236,14 +244,6 @@
       release_time: 2025.11.19 21:15:44
       title: Akamai 3哈希校验绕过
       url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247484033&idx=1&sn=6e624e6b25c0e89ce23f27eaf9da44f3
-    - author: 爬虫逆向小林哥
-      release_time: 2025.11.19 19:26:47
-      title: go-wasm基础和案例分析
-      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247486871&idx=1&sn=d7bac362aadb04f686d0af04daac9699
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.19 17:20:17
-      title: 欧盟通过新规，加快处理跨境数据保护投诉，提升GDPR执行效率
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519684&idx=1&sn=7979d83fae9730a9c22b90daf1df13ea
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -382,10 +382,18 @@
       release_time: 2025.11.24 16:29:39
       title: '[原创]对某移动安全sdk的深入探究'
       url: https://bbs.kanxue.com/thread-289196.htm
+    - author: '1413880495123422'
+      release_time: 2025.11.24 11:45:00
+      title: 面向强加固 Android 应用的 Intent-aware 灰盒 fuzzer
+      url: https://xz.aliyun.com/news/90678
     - author: 带带弟弟学爬虫__
       release_time: 2025.11.23 13:35:54
       title: 千岛app逆向
       url: https://blog.csdn.net/A_fanyifan/article/details/155160765
+    - author: 用户KG9ysaJWwI
+      release_time: 2025.11.22 16:23:00
+      title: VCTF ez_app wp & 安卓逆向分析
+      url: https://xz.aliyun.com/news/90665
     - author: 霜降白羽
       release_time: 2025.11.22 06:11:17
       title: '[原创] 不改 NDK 也能用新版 LLVM Pass：Windows 下基于插件的 NDK 27 集成方法'
@@ -482,14 +490,6 @@
       release_time: 2025.11.14 01:58:11
       title: frida拦截http、https请求
       url: https://bbs.kanxue.com/thread-289085.htm
-    - author: 悦来客栈的老板
-      release_time: 2025.11.12 17:30:35
-      title: JS逆向实战|AST反混淆 + AI纯算系列文章(一)
-      url: https://blog.csdn.net/qq523176585/article/details/154785322
-    - author: 一个想当文人的黑客
-      release_time: 2025.11.12 16:50:00
-      title: 一文读懂Android APP抓包和反编译&frida脱壳&APP单/双向认证&Root隐藏绕过技巧
-      url: https://xz.aliyun.com/news/19304
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
