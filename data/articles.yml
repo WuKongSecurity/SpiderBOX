@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: philia114514
+      release_time: 2025.11.26 22:10:00
+      title: 一简单app绕检测
+      url: https://www.52pojie.cn/thread-2075901-1-1.html
     - author: cqy666
       release_time: 2025.11.24 18:24:00
       title: 一键启动CeServer或Frida服务整合root版
@@ -363,10 +367,6 @@
       release_time: 2025.11.09 16:44:00
       title: 一时兴起分析并绕过某网站验证码验证
       url: https://www.52pojie.cn/thread-2071222-1-1.html
-    - author: '13955925361'
-      release_time: 2025.11.08 18:54:00
-      title: 极验4 无感和滑块分享
-      url: https://www.52pojie.cn/thread-2071068-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
