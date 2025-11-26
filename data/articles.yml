@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 冰履踏青云
+      release_time: 2025.11.26 15:35:12
+      title: 某书最新版 x-s、x-s-common Python纯算实现 4.86.0
+      url: https://bingyun.blog.csdn.net/article/details/155274752
     - author: 张烫麻辣亮。
       release_time: 2025.11.25 22:05:52
       title: 爬虫从入门到精通(23) |Appium+mitmproxy
@@ -486,10 +490,6 @@
       release_time: 2025.11.14 17:01:35
       title: '[原创] TikTok Web端协议算法分析'
       url: https://bbs.kanxue.com/thread-289087.htm
-    - author: w2sfot
-      release_time: 2025.11.14 11:03:45
-      title: js 字符串转 unicode，实现代码加密、反调试
-      url: https://blog.csdn.net/w2sft/article/details/154830778
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
