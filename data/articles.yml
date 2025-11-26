@@ -339,6 +339,10 @@
       release_time: 2025.11.12 19:46:00
       title: frida使用1：环境搭建
       url: https://www.52pojie.cn/thread-2072185-1-1.html
+    - author: chenzhenyang
+      release_time: 2025.11.12 12:31:00
+      title: 腾讯 tcplayer 深度定制 hls 解密逻辑如何下载 m3u8 文件？
+      url: https://www.52pojie.cn/thread-2072004-1-1.html
     - author: MicroBlock
       release_time: 2025.11.12 01:18:00
       title: Frida 脚本一键持久化方案：将 Frida 脚本打包至 Xposed 模块、直接注入APP、so、dll
@@ -363,10 +367,6 @@
       release_time: 2025.11.08 18:54:00
       title: 极验4 无感和滑块分享
       url: https://www.52pojie.cn/thread-2071068-1-1.html
-    - author: SnowscapeSouthw
-      release_time: 2025.11.08 18:13:00
-      title: 无视某易针对libil2cpp.so的加固获取api
-      url: https://www.52pojie.cn/thread-2071058-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
