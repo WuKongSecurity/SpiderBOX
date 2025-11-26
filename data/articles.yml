@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.26 17:11:32
+      title: 上海发布医疗服务类互联网企业网络数据安全和个人信息保护合规指引
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519712&idx=1&sn=f21b61dff1962d702b52ec4b55e7ebe6
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.26 17:11:32
+      title: 网信部门依法集中查处一批存在人工智能生成合成内容标识违法违规问题的移动互联网应用程序
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519712&idx=2&sn=8a8ad491b99ef13756933acfd9cd43ab
     - author: Frida and So
       release_time: 2025.11.26 12:53:39
       title: Lsp 绕过 Tiktok 国内限制
@@ -236,14 +244,6 @@
       release_time: 2025.11.20 14:46:26
       title: JS逆向 -- 利用土办法+AI编写的视频下载脚本过程复现
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040809&idx=1&sn=6a3af62023aba4661cbecef5602199c4
-    - author: 哆啦安全
-      release_time: 2025.11.20 11:02:28
-      title: 云手机Redroid Android13源码一键编译
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499164&idx=1&sn=ee03af9c29086b47c54b1bfadc9be286
-    - author: Coder小Q
-      release_time: 2025.11.20 08:30:00
-      title: '【密码学】Lore: 基于CRT-LWR(模数可变与余数压缩)的密钥封装机制(算法解读)'
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493325&idx=1&sn=41b62497d847cbaba26acfee76a13a9f
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
