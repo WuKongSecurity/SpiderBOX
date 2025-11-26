@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Frida and So
+      release_time: 2025.11.26 12:53:39
+      title: Lsp 绕过 Tiktok 国内限制
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247484989&idx=1&sn=c4e485e9a44b71414993c1a34669de42
     - author: 将往的爬虫逆向日记
       release_time: 2025.11.26 09:00:00
       title: Python爬虫进阶：某数后缀纯算(一)
@@ -240,10 +244,6 @@
       release_time: 2025.11.20 08:30:00
       title: '【密码学】Lore: 基于CRT-LWR(模数可变与余数压缩)的密钥封装机制(算法解读)'
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493325&idx=1&sn=41b62497d847cbaba26acfee76a13a9f
-    - author: 逆向狗都不学
-      release_time: 2025.11.19 21:15:44
-      title: Akamai 3哈希校验绕过
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247484033&idx=1&sn=6e624e6b25c0e89ce23f27eaf9da44f3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
