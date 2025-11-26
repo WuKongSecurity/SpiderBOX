@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.11.26 18:05:32
+      title: Steam游戏：【大富翁11】官方调试窗口
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143234&idx=1&sn=229e348e297ceb25bd234bda3305f650
     - author: 个人信息与数据保护实务评论
       release_time: 2025.11.26 17:11:32
       title: 上海发布医疗服务类互联网企业网络数据安全和个人信息保护合规指引
@@ -240,10 +244,6 @@
       release_time: 2025.11.20 16:38:25
       title: 中国数据保护月度报告：重点提示及目录（2025年11月）
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519686&idx=2&sn=e9793554615a761e7c336e3378f08c7b
-    - author: 逆向有你
-      release_time: 2025.11.20 14:46:26
-      title: JS逆向 -- 利用土办法+AI编写的视频下载脚本过程复现
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040809&idx=1&sn=6a3af62023aba4661cbecef5602199c4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
