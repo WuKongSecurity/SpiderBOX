@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.11.27 21:00:00
+      title: Pandas GroupBy提速神技：40分钟到4秒
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991260&idx=1&sn=598a8e2bc42b028f6f9cbbe211a5078d
     - author: 个人信息与数据保护实务评论
       release_time: 2025.11.27 17:41:37
       title: 上海通管局通报71款APP/小程序，涉多家知名中外企业
@@ -240,10 +244,6 @@
       release_time: 2025.11.22 14:21:40
       title: APK/SO文件对齐工具V4.5-Google Play APP上架专用
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499181&idx=1&sn=807d61dc8adf58480f64a6049d3afc27
-    - author: 未闻Code
-      release_time: 2025.11.21 21:16:08
-      title: 爆火的浏览器自动化工具，狂揽 17.8k+ Star！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991208&idx=1&sn=af23e7d81f6e09c8ff35a3d105b4ccf8
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
