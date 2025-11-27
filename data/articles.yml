@@ -251,6 +251,10 @@
       release_time: 2025.11.26 22:10:00
       title: 一简单app绕检测
       url: https://www.52pojie.cn/thread-2075901-1-1.html
+    - author: jianchi
+      release_time: 2025.11.26 18:49:00
+      title: 新人偶然逛到坛友的网页,顺便解一个加密练手
+      url: https://www.52pojie.cn/thread-2075870-1-1.html
     - author: cqy666
       release_time: 2025.11.24 18:24:00
       title: 一键启动CeServer或Frida服务整合root版
@@ -363,10 +367,6 @@
       release_time: 2025.11.09 21:02:00
       title: 以车载微信为例对微信协议请求进行抓包(理论全版本通杀)
       url: https://www.52pojie.cn/thread-2071262-1-1.html
-    - author: HackerWen
-      release_time: 2025.11.09 16:44:00
-      title: 一时兴起分析并绕过某网站验证码验证
-      url: https://www.52pojie.cn/thread-2071222-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
