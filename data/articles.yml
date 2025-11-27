@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 爬虫逆向小林哥
+      release_time: 2025.11.27 13:33:30
+      title: 【网页逆向】mns0301-魔改rc4深入分析
+      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247486926&idx=1&sn=dea6a8189e1bc8aef65079f6f36e06b8
     - author: 将往的爬虫逆向日记
       release_time: 2025.11.27 12:40:00
       title: Python爬虫进阶：spiderdemo困难题JSVMP-T6题解
@@ -240,10 +244,6 @@
       release_time: 2025.11.21 19:17:36
       title: Python逆向分析工具V2.5
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499173&idx=1&sn=5d01c14376a5507ca8cd6513d73c9544
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.21 16:29:11
-      title: 湖南某学校监控系统存在数据泄漏风险被网信办处罚
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519700&idx=1&sn=d952653e0572c571059da4f6e20b984b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
