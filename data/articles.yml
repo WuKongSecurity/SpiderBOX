@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 不落的逆向手札
+      release_time: 2025.11.27 09:04:17
+      title: 逆向资料整理汇总
+      url: https://mp.weixin.qq.com/s?__biz=MzYzNTAzOTIxMw==&mid=2247483810&idx=1&sn=94b1f1ecc00a8fea3c353a004b302aef
+    - author: 哆啦安全
+      release_time: 2025.11.27 08:17:35
+      title: Android病毒分析工具V2.8-VIP会员版
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499238&idx=1&sn=a80d902deaef8cfd1dfa080f751b5878
     - author: 哆啦安全
       release_time: 2025.11.26 23:51:16
       title: Unity手游资源校验移除工具
@@ -236,14 +244,6 @@
       release_time: 2025.11.21 16:29:11
       title: 西班牙法院责令Meta因违规处理用户数据支付4.79亿欧元赔偿金
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519700&idx=2&sn=33eb675e6b2ebe12ef95699269d26a3e
-    - author: coderwhy
-      release_time: 2025.11.20 18:47:00
-      title: 《JavaScript 高级权威指南》各个平台已经到货
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247489079&idx=1&sn=2b73787caec75d7ca3d51201ed932d14
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.20 16:38:25
-      title: 北互案例：上市公司披露非核心员工工资信息，构成侵权
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519686&idx=1&sn=0eadc1ecce7149d5e06b9e618e2af4a3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
