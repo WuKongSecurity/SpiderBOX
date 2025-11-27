@@ -374,6 +374,10 @@
       release_time: 2025.11.27 21:43:45
       title: '[原创]如何在OLLVM混淆中探寻算法二之libpdd_secure.so指纹算法分析(上篇)'
       url: https://bbs.kanxue.com/thread-289233.htm
+    - author: CSProtect1.0
+      release_time: 2025.11.27 16:53:43
+      title: '[原创]ELF最小加载器'
+      url: https://bbs.kanxue.com/thread-289231.htm
     - author: mb_vhwdzyqo
       release_time: 2025.11.27 16:32:51
       title: '[原创]记录一款Unity il2cpp 手游封包的逆向'
@@ -486,10 +490,6 @@
       release_time: 2025.11.17 13:48:21
       title: '[原创]capstone学习: 反汇编器如何实现的'
       url: https://bbs.kanxue.com/thread-289103.htm
-    - author: taeyeon_ss
-      release_time: 2025.11.17 02:11:21
-      title: '[原创]一款单机斗地主手机游戏的分析'
-      url: https://bbs.kanxue.com/thread-289099.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
