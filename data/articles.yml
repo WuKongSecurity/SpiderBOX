@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 将往的爬虫逆向日记
+      release_time: 2025.11.27 12:40:00
+      title: Python爬虫进阶：spiderdemo困难题JSVMP-T6题解
+      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862134&idx=1&sn=2f898746ae70bdf17e39d2407b0cf046
     - author: 不落的逆向手札
       release_time: 2025.11.27 09:04:17
       title: 逆向资料整理汇总
@@ -240,10 +244,6 @@
       release_time: 2025.11.21 16:29:11
       title: 湖南某学校监控系统存在数据泄漏风险被网信办处罚
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519700&idx=1&sn=d952653e0572c571059da4f6e20b984b
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.21 16:29:11
-      title: 西班牙法院责令Meta因违规处理用户数据支付4.79亿欧元赔偿金
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519700&idx=2&sn=33eb675e6b2ebe12ef95699269d26a3e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
