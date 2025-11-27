@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.27 17:41:37
+      title: 上海通管局通报71款APP/小程序，涉多家知名中外企业
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519728&idx=1&sn=6786e6920ce8b259e662bb83b49104be
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.27 17:41:37
+      title: 印度通过《数字个人数据保护法》，开启数字新时代
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519728&idx=2&sn=4ef321c73533c1d9d3f42a5a9edeba8c
     - author: 爬虫逆向小林哥
       release_time: 2025.11.27 13:33:30
       title: 【网页逆向】mns0301-魔改rc4深入分析
@@ -236,14 +244,6 @@
       release_time: 2025.11.21 21:16:08
       title: 爆火的浏览器自动化工具，狂揽 17.8k+ Star！
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991208&idx=1&sn=af23e7d81f6e09c8ff35a3d105b4ccf8
-    - author: 静夜随想
-      release_time: 2025.11.21 19:52:13
-      title: 听闻某数又更新了
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811183&idx=1&sn=e4dd43763a31a131d47a2c70c52e0af8
-    - author: 哆啦安全
-      release_time: 2025.11.21 19:17:36
-      title: Python逆向分析工具V2.5
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499173&idx=1&sn=5d01c14376a5507ca8cd6513d73c9544
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
