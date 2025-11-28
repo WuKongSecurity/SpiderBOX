@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: tuhouni
+      release_time: 2025.11.28 15:29:00
+      title: 极验滑块第4代逆向分析
+      url: https://www.52pojie.cn/thread-2076316-1-1.html
     - author: mysticz
       release_time: 2025.11.27 12:36:00
       title: Python爬虫进阶：spiderdemo困难题JSVMP-T6题解
@@ -363,10 +367,6 @@
       release_time: 2025.11.11 17:02:00
       title: byd王朝白盒AES分析
       url: https://www.52pojie.cn/thread-2071762-1-1.html
-    - author: Siestazzz
-      release_time: 2025.11.10 14:55:00
-      title: 强网杯s9初赛 Qcalc wp
-      url: https://www.52pojie.cn/thread-2071440-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
