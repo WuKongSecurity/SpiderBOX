@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.28 16:31:36
+      title: 涉及医院、金融/餐饮小程序、售楼部，网信部门发布个人信息保护执法典型案例
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519730&idx=1&sn=2a4524bb381c8860f1b6d009899df1b1
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.11.28 16:31:36
+      title: 2.5万台售货机合规改造，查处案件19件，上海推动人脸识别技术应用长效治理
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519730&idx=2&sn=33c0c0738cc787ad0d5a8dff23263aca
     - author: 未闻Code
       release_time: 2025.11.27 21:00:00
       title: Pandas GroupBy提速神技：40分钟到4秒
@@ -236,14 +244,6 @@
       release_time: 2025.11.24 08:30:00
       title: Andord Conscrypt 与 TLS 证书安全 —— APP HTTPS 流量解密困境
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485796&idx=1&sn=aafb3d2c65f3d4bb3a0509f71b0b4ffd
-    - author: 哆啦安全
-      release_time: 2025.11.23 15:37:12
-      title: Android日志智能化分析系统V3.5
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499189&idx=1&sn=4d63ad4d72057487aba49bb2e13b1e9b
-    - author: 哆啦安全
-      release_time: 2025.11.22 14:21:40
-      title: APK/SO文件对齐工具V4.5-Google Play APP上架专用
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499181&idx=1&sn=807d61dc8adf58480f64a6049d3afc27
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
