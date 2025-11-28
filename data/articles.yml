@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 编角料
+      release_time: 2025.11.28 20:15:00
+      title: 移动安全之以逆向角度管中窥豹海外风控机制
+      url: https://mp.weixin.qq.com/s?__biz=MzU0MjUwMTA2OQ==&mid=2247486891&idx=1&sn=d7620f4cdcde3d1c17eb180dea8eb74b
     - author: 个人信息与数据保护实务评论
       release_time: 2025.11.28 16:31:36
       title: 涉及医院、金融/餐饮小程序、售楼部，网信部门发布个人信息保护执法典型案例
@@ -240,10 +244,6 @@
       release_time: 2025.11.24 08:30:00
       title: 【密码学】抛硬币协议
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493355&idx=1&sn=ea529988a0102ea067b554168c61dc91
-    - author: 二进制磨剑
-      release_time: 2025.11.24 08:30:00
-      title: Andord Conscrypt 与 TLS 证书安全 —— APP HTTPS 流量解密困境
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485796&idx=1&sn=aafb3d2c65f3d4bb3a0509f71b0b4ffd
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
