@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.11.30 21:00:00
+      title: 20K Star开源黑马！真正的AI无代码开发平台！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991263&idx=1&sn=7460e33a80bde516db254cccdef8d9ab
     - author: 如意私塾
       release_time: 2025.11.29 19:30:44
       title: 浏览器指纹/风控国外论文研读 | 通过网络日志与鼠标行为生物识别来检测高级网络机器人--ACM期刊
@@ -240,10 +244,6 @@
       release_time: 2025.11.24 10:10:25
       title: 安卓逆向 -- 某安App登录参数分析
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040827&idx=1&sn=32b6397daaeaecb5c11ad7ec29799277
-    - author: 测试工程师成长之路
-      release_time: 2025.11.24 08:30:00
-      title: 所有测试人，招聘的新方向，赢麻了！！！
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578316&idx=1&sn=d2c3f51fcd6c944f2c989f2e20d7718b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
