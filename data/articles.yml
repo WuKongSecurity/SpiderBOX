@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2025.11.29 19:30:44
+      title: 浏览器指纹/风控国外论文研读 | 通过网络日志与鼠标行为生物识别来检测高级网络机器人--ACM期刊
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483961&idx=1&sn=4eb4abd8bc8a327da418e678d1f6babf
     - author: 编角料
       release_time: 2025.11.28 20:15:00
       title: 移动安全之以逆向角度管中窥豹海外风控机制
@@ -240,10 +244,6 @@
       release_time: 2025.11.24 08:30:00
       title: 所有测试人，招聘的新方向，赢麻了！！！
       url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578316&idx=1&sn=d2c3f51fcd6c944f2c989f2e20d7718b
-    - author: Coder小Q
-      release_time: 2025.11.24 08:30:00
-      title: 【密码学】抛硬币协议
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493355&idx=1&sn=ea529988a0102ea067b554168c61dc91
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
