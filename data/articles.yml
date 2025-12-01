@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.12.01 08:43:32
+      title: Android APP自动化测试平台V3.5
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499274&idx=1&sn=862481454964cfb08710c40e6c97f559
+    - author: Coder小Q
+      release_time: 2025.12.01 08:30:00
+      title: 【杂谈】英语7选5引发的思考
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493421&idx=1&sn=8bd16abdaf74777e8e0ffb1b9d65ea19
+    - author: 测试工程师成长之路
+      release_time: 2025.12.01 08:30:00
+      title: QA 进阶必看：AI 工程师如何用 LLM 为测试团队打造“最强大脑”？
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578441&idx=1&sn=736ae228dd8ff4cb11af93a2a457b952
     - author: 未闻Code
       release_time: 2025.11.30 21:00:00
       title: 20K Star开源黑马！真正的AI无代码开发平台！
@@ -132,6 +144,14 @@
       release_time: 2025.11.29 19:30:44
       title: 浏览器指纹/风控国外论文研读 | 通过网络日志与鼠标行为生物识别来检测高级网络机器人--ACM期刊
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483961&idx=1&sn=4eb4abd8bc8a327da418e678d1f6babf
+    - author: 哆啦安全
+      release_time: 2025.11.29 14:30:35
+      title: 云手机Android13源码编译(Redroid ARM64一键启动方法)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499252&idx=1&sn=9f6032c92e9a86eaa5d8d5c6ca36b7b5
+    - author: 哆啦安全
+      release_time: 2025.11.29 14:30:35
+      title: Python程序打包成各种类型的应用程序
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499252&idx=2&sn=73c6b708a8ae4cc73cecb695fd45deb2
     - author: 编角料
       release_time: 2025.11.28 20:15:00
       title: 移动安全之以逆向角度管中窥豹海外风控机制
@@ -224,29 +244,13 @@
       release_time: 2025.11.25 09:00:00
       title: 反制仿冒应用：如何从被动止损到主动风控？
       url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724064&idx=1&sn=d3e926c8048d2b8a108ccc2f1f4ebcda
-    - author: 未闻Code
-      release_time: 2025.11.24 21:00:00
-      title: pandas“将”迎来v3.0.0大版本更新，带来这些性能变化！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991257&idx=1&sn=8023a6b1e11677c00ed6c31c49f4b07e
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.24 17:15:28
-      title: 某无人机管理平台遭攻击导致数据泄露，被公安部门处罚
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519702&idx=1&sn=d4c7c2232f8a24507b5105d8162735e8
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.24 17:15:28
-      title: 国家网信办发布《大型网络平台个人信息保护规定（征求意见稿）》
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519702&idx=2&sn=8b7f8ea09e4e7eee68be4317882ea121
-    - author: 哆啦安全
-      release_time: 2025.11.24 15:24:31
-      title: 鸿蒙(HarmonyOS)应用安全检测平台-VIP会员版
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499201&idx=1&sn=950f1c13d51a2d3517b495fe118c4d32
-    - author: 逆向有你
-      release_time: 2025.11.24 10:10:25
-      title: 安卓逆向 -- 某安App登录参数分析
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040827&idx=1&sn=32b6397daaeaecb5c11ad7ec29799277
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: hy256
+      release_time: 2025.11.30 21:01:00
+      title: SpiderDemo T3  protobuf混淆解析挑战题解
+      url: https://www.52pojie.cn/thread-2076729-1-1.html
     - author: tuhouni
       release_time: 2025.11.28 15:29:00
       title: 极验滑块第4代逆向分析
@@ -363,10 +367,6 @@
       release_time: 2025.11.12 01:18:00
       title: Frida 脚本一键持久化方案：将 Frida 脚本打包至 Xposed 模块、直接注入APP、so、dll
       url: https://www.52pojie.cn/thread-2071836-1-1.html
-    - author: xiayutianz
-      release_time: 2025.11.11 17:02:00
-      title: byd王朝白盒AES分析
-      url: https://www.52pojie.cn/thread-2071762-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
