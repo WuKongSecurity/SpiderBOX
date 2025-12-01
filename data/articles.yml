@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.12.01 16:36:52
+      title: 上海发布5起不履行个人信息保护义务的典型案例
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519733&idx=1&sn=e02f4e2b3ecd1a74a42f894c089451fb
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.12.01 16:36:52
+      title: 公安部发布《公安机关网络空间安全监督检查办法（征求意见稿）》
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519733&idx=2&sn=0e7a6072280d4821ca79993f20d16988
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.12.01 16:36:52
+      title: 韩国电商巨头Coupang约3370万用户信息被泄露
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519733&idx=3&sn=ae425bec1cd6254903bb2dda4c9f7f2f
     - author: 逆向有你
       release_time: 2025.12.01 11:29:09
       title: JS逆向 -- 某q深入浅出 JSVMP
@@ -232,18 +244,6 @@
       release_time: 2025.11.25 20:03:38
       title: AST反混淆插件| 函数定义中的params参数还原
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566214&idx=1&sn=fe95fa9da3ba89f3ff2d10458c3ac1ab
-    - author: 哆啦安全
-      release_time: 2025.11.25 18:02:37
-      title: APP自动化测试工具V2.8
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499216&idx=1&sn=62ecda244835b75080a0620f5bc710e5
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.25 15:25:47
-      title: 涉及个人信息识别、去标识化、匿名化，全国网安标委就3项指南公开征求意见
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519710&idx=1&sn=ceda1bc0e1542a27bf97209752c6b825
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.25 15:25:47
-      title: 下线54款违规AI应用、26个网站AI功能，上海开展“AI滥用”专项执法
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519710&idx=2&sn=a21cb2151019bec97f00b600c39b2053
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
