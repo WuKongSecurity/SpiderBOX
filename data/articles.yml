@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.12.01 11:29:09
+      title: JS逆向 -- 某q深入浅出 JSVMP
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040834&idx=1&sn=152f7fb5fd2ded872412317179ad0df0
     - author: 软件安全与逆向分析
       release_time: 2025.12.01 09:40:40
       title: 安卓版本eBPF工具BCC、bpftrace与开发SDK更新下载
@@ -240,10 +244,6 @@
       release_time: 2025.11.25 15:25:47
       title: 下线54款违规AI应用、26个网站AI功能，上海开展“AI滥用”专项执法
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519710&idx=2&sn=a21cb2151019bec97f00b600c39b2053
-    - author: 爬虫逆向小林哥
-      release_time: 2025.11.25 09:02:00
-      title: 【网页逆向】红薯Xs又更新之-mns0301
-      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247486899&idx=1&sn=36b8cf2b3e255480501261d57aa497b3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
