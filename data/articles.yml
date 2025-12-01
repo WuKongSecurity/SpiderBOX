@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 软件安全与逆向分析
+      release_time: 2025.12.01 09:40:40
+      title: 安卓版本eBPF工具BCC、bpftrace与开发SDK更新下载
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484917&idx=1&sn=4d210806e85b6169afc336d324adb9c7
     - author: 哆啦安全
       release_time: 2025.12.01 08:43:32
       title: Android APP自动化测试平台V3.5
@@ -240,10 +244,6 @@
       release_time: 2025.11.25 09:02:00
       title: 【网页逆向】红薯Xs又更新之-mns0301
       url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247486899&idx=1&sn=36b8cf2b3e255480501261d57aa497b3
-    - author: 极验
-      release_time: 2025.11.25 09:00:00
-      title: 反制仿冒应用：如何从被动止损到主动风控？
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724064&idx=1&sn=d3e926c8048d2b8a108ccc2f1f4ebcda
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
