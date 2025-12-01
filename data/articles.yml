@@ -251,6 +251,14 @@
       release_time: 2025.11.30 21:01:00
       title: SpiderDemo T3  protobuf混淆解析挑战题解
       url: https://www.52pojie.cn/thread-2076729-1-1.html
+    - author: bananashipsBBQ
+      release_time: 2025.11.29 15:18:00
+      title: 对某移动安全sdk的深入探究
+      url: https://www.52pojie.cn/thread-2076506-1-1.html
+    - author: Barih
+      release_time: 2025.11.28 20:57:00
+      title: 某DB去开屏广告+本地vip（ProxyPin重写）
+      url: https://www.52pojie.cn/thread-2076382-1-1.html
     - author: tuhouni
       release_time: 2025.11.28 15:29:00
       title: 极验滑块第4代逆向分析
@@ -359,14 +367,6 @@
       release_time: 2025.11.12 19:46:00
       title: frida使用1：环境搭建
       url: https://www.52pojie.cn/thread-2072185-1-1.html
-    - author: chenzhenyang
-      release_time: 2025.11.12 12:31:00
-      title: 腾讯 tcplayer 深度定制 hls 解密逻辑如何下载 m3u8 文件？
-      url: https://www.52pojie.cn/thread-2072004-1-1.html
-    - author: MicroBlock
-      release_time: 2025.11.12 01:18:00
-      title: Frida 脚本一键持久化方案：将 Frida 脚本打包至 Xposed 模块、直接注入APP、so、dll
-      url: https://www.52pojie.cn/thread-2071836-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
