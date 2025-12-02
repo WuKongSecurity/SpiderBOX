@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 漠染千舟
+      release_time: 2025.12.03 01:55:28
+      title: js代理对象的全面检测
+      url: https://www.bilibili.com/video/BV1VSStB4En6
     - author: 逆向狗都不学
       release_time: 2025.12.02 18:13:11
       title: 本地AST还原Akamai混淆代码
@@ -117,10 +121,6 @@
       release_time: 2025.11.05 23:09:02
       title: PyTorch孪生神经网络实战（五） 训练你自己的数据集
       url: https://www.bilibili.com/video/BV1yu14BcEpX
-    - author: 冷月不是程序员
-      release_time: 2025.11.05 22:38:14
-      title: PyTorch孪生神经网络实战（四） 实现训练模块
-      url: https://www.bilibili.com/video/BV1DR1xB6Ed2
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
