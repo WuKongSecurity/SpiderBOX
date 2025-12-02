@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.12.02 15:57:01
+      title: 大成数据保护与反垄断团队实习生招募（有留用机会）
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519743&idx=1&sn=dffea1882f771684b99571822d35a256
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.12.02 15:57:01
+      title: 收集住客个人信息未脱敏脱密，2家酒店被公安机关处罚
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519743&idx=2&sn=e4329dc89e40043f29154b9acb4e6eee
     - author: Frida and So
       release_time: 2025.12.02 13:06:00
       title: 设备指纹采集方案征集
@@ -236,14 +244,6 @@
       release_time: 2025.11.26 17:11:32
       title: 网信部门依法集中查处一批存在人工智能生成合成内容标识违法违规问题的移动互联网应用程序
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519712&idx=2&sn=8a8ad491b99ef13756933acfd9cd43ab
-    - author: Frida and So
-      release_time: 2025.11.26 12:53:39
-      title: Lsp 绕过 Tiktok 国内限制
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247484989&idx=1&sn=c4e485e9a44b71414993c1a34669de42
-    - author: 将往的爬虫逆向日记
-      release_time: 2025.11.26 09:00:00
-      title: Python爬虫进阶：某数后缀纯算(一)
-      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862124&idx=1&sn=2d570b361fb2b6f20788fa5a01535c52
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
