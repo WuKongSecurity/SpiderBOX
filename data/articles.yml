@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 逆向狗都不学
+      release_time: 2025.12.02 18:13:11
+      title: 本地AST还原Akamai混淆代码
+      url: https://www.bilibili.com/video/BV13xSsBjE3S
     - author: 小肩膀-逆向安全培训
       release_time: 2025.11.29 17:20:45
       title: 01.现代C++讲解目标
@@ -117,10 +121,6 @@
       release_time: 2025.11.05 22:38:14
       title: PyTorch孪生神经网络实战（四） 实现训练模块
       url: https://www.bilibili.com/video/BV1DR1xB6Ed2
-    - author: 逆向狗都不学
-      release_time: 2025.11.05 11:35:53
-      title: AST反混淆实战之顶象-2
-      url: https://www.bilibili.com/video/BV11H1WBsEjD
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
