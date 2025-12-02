@@ -386,6 +386,10 @@
       release_time: 2025.12.02 13:59:09
       title: '[原创]一个 ELF 文件的运行'
       url: https://bbs.kanxue.com/thread-289299.htm
+    - author: ♬﹏↓孤、影
+      release_time: 2025.12.02 10:05:43
+      title: '[讨论][原创]某智能课桌逆向密码校验分析'
+      url: https://bbs.kanxue.com/thread-289296.htm
     - author: 灯-等灯等灯~
       release_time: 2025.12.01 23:24:01
       title: '[原创]修改dex字节码'
@@ -486,10 +490,6 @@
       release_time: 2025.11.20 20:37:11
       title: 安卓逆向（四）frida基本使用方法
       url: https://blog.csdn.net/qq_44906798/article/details/155074904
-    - author: Solar安全
-      release_time: 2025.11.20 16:46:07
-      title: '[原创]【病毒分析】专挑制造业下手！揭秘BEAST图形化勒索软件（Windows版）的加密逻辑与免杀手段'
-      url: https://bbs.kanxue.com/thread-289159.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
