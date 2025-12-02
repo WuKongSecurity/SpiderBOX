@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.12.02 07:00:00
+      title: 云手机Android13系统定制虚拟摄像头(Redroid魔改篇)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499277&idx=1&sn=23830f69a0bed1bcde482dcf50ab18bb
     - author: 个人信息与数据保护实务评论
       release_time: 2025.12.01 16:36:52
       title: 上海发布5起不履行个人信息保护义务的典型案例
@@ -240,10 +244,6 @@
       release_time: 2025.11.26 08:30:00
       title: 【小工具】基于 Rust 的 PCAP 到 HAR 转换工具
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493399&idx=1&sn=71f134ee28c0b8abe7810295d137f617
-    - author: 菜鸟学Python编程
-      release_time: 2025.11.25 20:03:38
-      title: AST反混淆插件| 函数定义中的params参数还原
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566214&idx=1&sn=fe95fa9da3ba89f3ff2d10458c3ac1ab
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
