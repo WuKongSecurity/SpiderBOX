@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 独步爬虫逆向
+      release_time: 2025.12.03 15:58:40
+      title: never-jscore：Python中最强大的JavaScript执行引擎
+      url: https://mp.weixin.qq.com/s?__biz=MzkzODYzNjg4OA==&mid=2247484367&idx=1&sn=e91e417932685b9486a8a3980a0ebb51
     - author: 菜鸟学Python编程
       release_time: 2025.12.03 13:49:36
       title: AST反混淆插件| (变量的)赋值语句处在该变量所有引用后面时的删除。
@@ -240,10 +244,6 @@
       release_time: 2025.11.27 09:04:17
       title: 逆向资料整理汇总
       url: https://mp.weixin.qq.com/s?__biz=MzYzNTAzOTIxMw==&mid=2247483810&idx=1&sn=94b1f1ecc00a8fea3c353a004b302aef
-    - author: 哆啦安全
-      release_time: 2025.11.27 08:17:35
-      title: Android病毒分析工具V2.8-VIP会员版
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499238&idx=1&sn=a80d902deaef8cfd1dfa080f751b5878
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: wangYи
+      release_time: 2025.12.03 15:31:20
+      title: ios逆向某幸咖啡 抓包+脱壳+frida-trace+ida分析
+      url: https://blog.csdn.net/weixin_59616601/article/details/155500563
     - author: PenguinAndy
       release_time: 2025.12.03 15:12:52
       title: '[原创] 分享一个 LSPosed + Dobby 框架的 Unity il2CppDumper 工具'
@@ -486,10 +490,6 @@
       release_time: 2025.11.25 21:07:17
       title: '[原创]如何在OLLVM混淆中探寻算法一之libyzwg.so算法分析'
       url: https://bbs.kanxue.com/thread-289209.htm
-    - author: 悦来客栈的老板
-      release_time: 2025.11.25 20:04:48
-      title: AST反混淆插件| 函数定义中的params参数还原
-      url: https://blog.csdn.net/qq523176585/article/details/155273718
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
