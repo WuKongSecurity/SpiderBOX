@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.12.03 10:54:20
+      title: 安卓逆向 -- 去除某学习机APP安装限制
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040853&idx=1&sn=ac0514497a456f1df2d5590320852899
     - author: 菜鸟学Python编程
       release_time: 2025.12.02 20:49:26
       title: AST反混淆插件|变量(赋值后)在作用域内无引用时的删除。
@@ -240,10 +244,6 @@
       release_time: 2025.11.26 18:05:32
       title: Steam游戏：【大富翁11】官方调试窗口
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143234&idx=1&sn=229e348e297ceb25bd234bda3305f650
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.26 17:11:32
-      title: 上海发布医疗服务类互联网企业网络数据安全和个人信息保护合规指引
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519712&idx=1&sn=f21b61dff1962d702b52ec4b55e7ebe6
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: SecureNexusLab
+      release_time: 2025.12.03 10:37:07
+      title: '[原创] Clean Master恶意浏览器插件样本分析'
+      url: https://bbs.kanxue.com/thread-289308.htm
     - author: 逆向新手
       release_time: 2025.12.03 08:45:33
       title: js逆向-CloudFlare免费版分析
@@ -486,10 +490,6 @@
       release_time: 2025.11.23 13:35:54
       title: 千岛app逆向
       url: https://blog.csdn.net/A_fanyifan/article/details/155160765
-    - author: 用户KG9ysaJWwI
-      release_time: 2025.11.22 16:23:00
-      title: VCTF ez_app wp & 安卓逆向分析
-      url: https://xz.aliyun.com/news/90665
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
