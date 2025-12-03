@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.12.03 16:30:31
+      title: 【GitHub Actions】5分钟快速搭建一个私人公开网站，不花一分钱
+      url: https://www.bilibili.com/video/BV1AjSYBsEgJ
     - author: 漠染千舟
       release_time: 2025.12.03 02:01:50
       title: win11文件名bug
@@ -117,13 +121,13 @@
       release_time: 2025.11.14 20:09:05
       title: JS逆向实战之顶象(纯py实现)
       url: https://www.bilibili.com/video/BV1WPCgBkEGa
-    - author: B站用户骚神
-      release_time: 2025.11.10 14:28:00
-      title: YOLO缺口识别+贝塞尔曲线人类鼠标轨迹，彻底搞定滑块拼图验证码
-      url: https://www.bilibili.com/video/BV1TECFBpEhB
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 随心记事
+      release_time: 2025.12.03 16:43:32
+      title: Wormhole 逆向破解
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0NTMyNzI4MQ==&mid=2247484876&idx=1&sn=674b8bf8ac50e85f7d78fe6ca01985c1
     - author: 独步爬虫逆向
       release_time: 2025.12.03 15:58:40
       title: never-jscore：Python中最强大的JavaScript执行引擎
@@ -240,10 +244,6 @@
       release_time: 2025.11.27 12:40:00
       title: Python爬虫进阶：spiderdemo困难题JSVMP-T6题解
       url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862134&idx=1&sn=2f898746ae70bdf17e39d2407b0cf046
-    - author: 不落的逆向手札
-      release_time: 2025.11.27 09:04:17
-      title: 逆向资料整理汇总
-      url: https://mp.weixin.qq.com/s?__biz=MzYzNTAzOTIxMw==&mid=2247483810&idx=1&sn=94b1f1ecc00a8fea3c353a004b302aef
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
