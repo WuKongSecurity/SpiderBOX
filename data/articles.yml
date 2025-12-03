@@ -430,6 +430,10 @@
       release_time: 2025.11.30 18:48:07
       title: js逆向-wasm初体验
       url: https://blog.csdn.net/weixin_46672080/article/details/155425532
+    - author: fastcoll111
+      release_time: 2025.11.30 14:14:00
+      title: 从启动到脱壳：深入 Android 应用加固与 DEX 透明加载原理
+      url: https://xz.aliyun.com/news/90734
     - author: zzzhangyu
       release_time: 2025.11.30 13:11:11
       title: '[原创]去间接跳转/模拟执行学习'
@@ -486,10 +490,6 @@
       release_time: 2025.11.25 20:04:48
       title: AST反混淆插件| 函数定义中的params参数还原
       url: https://blog.csdn.net/qq523176585/article/details/155273718
-    - author: bananaships
-      release_time: 2025.11.24 16:29:39
-      title: '[原创]对某移动安全sdk的深入探究'
-      url: https://bbs.kanxue.com/thread-289196.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
