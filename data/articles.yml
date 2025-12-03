@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 220e285
+      release_time: 2025.12.03 00:31:00
+      title: 关于安卓逆向的学习日记------（二）
+      url: https://www.52pojie.cn/thread-2077262-1-1.html
     - author: hy256
       release_time: 2025.11.30 21:01:00
       title: SpiderDemo T3  protobuf混淆解析挑战题解
@@ -363,10 +367,6 @@
       release_time: 2025.11.12 21:14:00
       title: 【Android逆向学习】编写Xposed模块 —— 绿泡泡朋友圈内容抓取演示（仅学习用途）
       url: https://www.52pojie.cn/thread-2072215-1-1.html
-    - author: kakahuote
-      release_time: 2025.11.12 19:46:00
-      title: frida使用1：环境搭建
-      url: https://www.52pojie.cn/thread-2072185-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
