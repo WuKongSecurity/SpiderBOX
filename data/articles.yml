@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.12.03 21:00:00
+      title: 一日一技：从 pairwise 到 nwise，让滑动窗口通用化
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991283&idx=1&sn=0406695b1f2492eb7783d0e3563461b5
     - author: 如意私塾
       release_time: 2025.12.03 18:54:41
       title: 培训开课广告 | AI+逆向工程
@@ -236,10 +240,6 @@
       release_time: 2025.11.27 17:41:37
       title: 上海通管局通报71款APP/小程序，涉多家知名中外企业
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519728&idx=1&sn=6786e6920ce8b259e662bb83b49104be
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.27 17:41:37
-      title: 印度通过《数字个人数据保护法》，开启数字新时代
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519728&idx=2&sn=4ef321c73533c1d9d3f42a5a9edeba8c
     - author: 将往的爬虫逆向日记
       release_time: 2025.11.27 12:40:00
       title: Python爬虫进阶：spiderdemo困难题JSVMP-T6题解
@@ -371,6 +371,10 @@
     term: 吾爱破解
   - links:
     - author: 教教我吧~
+      release_time: 2025.12.03 21:28:52
+      title: '[原创]某安全so库深度解析'
+      url: https://bbs.kanxue.com/thread-289316.htm
+    - author: 教教我吧~
       release_time: 2025.12.03 20:21:17
       title: Android Native 数盟安全报告
       url: https://bbs.kanxue.com/thread-289315.htm
@@ -486,10 +490,6 @@
       release_time: 2025.11.26 16:39:14
       title: '[原创]【病毒分析】虚拟化平台的噩梦！揭秘BEAST勒索软件（Linux/ESXi版）的加密机制与对抗策略'
       url: https://bbs.kanxue.com/thread-289216.htm
-    - author: 冰履踏青云
-      release_time: 2025.11.26 15:35:12
-      title: 某书最新版 x-s、x-s-common Python纯算实现 4.86.0
-      url: https://bingyun.blog.csdn.net/article/details/155274752
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
