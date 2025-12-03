@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: yixiua
+      release_time: 2025.12.03 15:16:00
+      title: 某对frida检测
+      url: https://www.52pojie.cn/thread-2077394-1-1.html
     - author: 220e285
       release_time: 2025.12.03 00:31:00
       title: 关于安卓逆向的学习日记------（二）
@@ -363,13 +367,13 @@
       release_time: 2025.11.13 17:10:00
       title: 记一次SSL Pinning绕过
       url: https://www.52pojie.cn/thread-2072499-1-1.html
-    - author: aYanggg
-      release_time: 2025.11.12 21:14:00
-      title: 【Android逆向学习】编写Xposed模块 —— 绿泡泡朋友圈内容抓取演示（仅学习用途）
-      url: https://www.52pojie.cn/thread-2072215-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 教教我吧~
+      release_time: 2025.12.03 20:21:17
+      title: Android Native 数盟安全报告
+      url: https://bbs.kanxue.com/thread-289315.htm
     - author: BediveRe_
       release_time: 2025.12.03 17:29:42
       title: '[原创]利用frida和dexlib2进行字符串反混淆'
@@ -486,10 +490,6 @@
       release_time: 2025.11.26 15:35:12
       title: 某书最新版 x-s、x-s-common Python纯算实现 4.86.0
       url: https://bingyun.blog.csdn.net/article/details/155274752
-    - author: 张烫麻辣亮。
-      release_time: 2025.11.25 22:05:52
-      title: 爬虫从入门到精通(23) |Appium+mitmproxy
-      url: https://blog.csdn.net/qq_40558166/article/details/155112851
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
