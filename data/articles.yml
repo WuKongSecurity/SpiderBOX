@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.12.03 11:56:59
+      title: Android智能取证系统V1.1.8
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499290&idx=1&sn=20c1ede489fa06badb12657eecb2cd0d
     - author: 逆向有你
       release_time: 2025.12.03 10:54:20
       title: 安卓逆向 -- 去除某学习机APP安装限制
@@ -240,10 +244,6 @@
       release_time: 2025.11.26 23:51:16
       title: Unity手游资源校验移除工具
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499230&idx=1&sn=f9b01d2115bef33b038288dcafca9ea2
-    - author: 吾爱破解论坛
-      release_time: 2025.11.26 18:05:32
-      title: Steam游戏：【大富翁11】官方调试窗口
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143234&idx=1&sn=229e348e297ceb25bd234bda3305f650
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
