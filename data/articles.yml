@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.12.03 13:49:36
+      title: AST反混淆插件| (变量的)赋值语句处在该变量所有引用后面时的删除。
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566224&idx=1&sn=f1d9afd9332c16ab0bbdfdb8fd39e19d
     - author: 哆啦安全
       release_time: 2025.12.03 11:56:59
       title: Android智能取证系统V1.1.8
@@ -240,10 +244,6 @@
       release_time: 2025.11.27 08:17:35
       title: Android病毒分析工具V2.8-VIP会员版
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499238&idx=1&sn=a80d902deaef8cfd1dfa080f751b5878
-    - author: 哆啦安全
-      release_time: 2025.11.26 23:51:16
-      title: Unity手游资源校验移除工具
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499230&idx=1&sn=f9b01d2115bef33b038288dcafca9ea2
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
