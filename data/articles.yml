@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: PenguinAndy
+      release_time: 2025.12.03 15:12:52
+      title: '[原创] 分享一个 LSPosed + Dobby 框架的 Unity il2CppDumper 工具'
+      url: https://bbs.kanxue.com/thread-289310.htm
     - author: SecureNexusLab
       release_time: 2025.12.03 10:37:07
       title: '[原创] Clean Master恶意浏览器插件样本分析'
@@ -486,10 +490,6 @@
       release_time: 2025.11.24 16:29:39
       title: '[原创]对某移动安全sdk的深入探究'
       url: https://bbs.kanxue.com/thread-289196.htm
-    - author: '1413880495123422'
-      release_time: 2025.11.24 11:45:00
-      title: 面向强加固 Android 应用的 Intent-aware 灰盒 fuzzer
-      url: https://xz.aliyun.com/news/90678
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
