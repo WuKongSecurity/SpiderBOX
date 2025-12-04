@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.12.04 16:02:40
+      title: AST反混淆实战|多种方法解决混淆js中奇形怪状的变量名
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566239&idx=1&sn=0f9b5c332ca5320d1ba52a01eed1056d
     - author: 哆啦安全
       release_time: 2025.12.04 11:15:35
       title: Android10至16系统定制脱壳机(安全测试机)
@@ -240,10 +244,6 @@
       release_time: 2025.11.27 21:00:00
       title: Pandas GroupBy提速神技：40分钟到4秒
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991260&idx=1&sn=598a8e2bc42b028f6f9cbbe211a5078d
-    - author: 将往的爬虫逆向日记
-      release_time: 2025.11.27 12:40:00
-      title: Python爬虫进阶：spiderdemo困难题JSVMP-T6题解
-      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862134&idx=1&sn=2f898746ae70bdf17e39d2407b0cf046
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
