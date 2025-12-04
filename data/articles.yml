@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 宛枫
+      release_time: 2025.12.04 12:53:01
+      title: 哪位大佬有ida 9.2.250908版本分享一下呗？
+      url: https://bbs.kanxue.com/thread-289320.htm
     - author: 丶咖啡猫丶
       release_time: 2025.12.04 11:07:33
       title: '[原创]某出行app设备指纹分析（一）'
@@ -486,10 +490,6 @@
       release_time: 2025.11.27 19:28:22
       title: Python爬虫进阶：spiderdemo困难题JSVMP-T6题解
       url: https://blog.csdn.net/qq523176585/article/details/155353853
-    - author: CSProtect1.0
-      release_time: 2025.11.27 16:53:43
-      title: '[原创]ELF最小加载器'
-      url: https://bbs.kanxue.com/thread-289231.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
