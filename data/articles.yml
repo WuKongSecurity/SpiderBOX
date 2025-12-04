@@ -406,6 +406,14 @@
       release_time: 2025.12.03 10:37:07
       title: '[原创] Clean Master恶意浏览器插件样本分析'
       url: https://bbs.kanxue.com/thread-289308.htm
+    - author: bcloud
+      release_time: 2025.12.03 10:17:00
+      title: 一次app脱壳分析渗透测试
+      url: https://xz.aliyun.com/news/90748
+    - author: bcloud
+      release_time: 2025.12.03 10:05:00
+      title: 登录接口codeSign值签名逆向绕过至自动加密脚本更新
+      url: https://xz.aliyun.com/news/90747
     - author: 逆向新手
       release_time: 2025.12.03 08:45:33
       title: js逆向-CloudFlare免费版分析
@@ -482,14 +490,6 @@
       release_time: 2025.11.29 10:01:29
       title: JShaman出了Java代码混淆？看看好不好用
       url: https://blog.csdn.net/w2sft/article/details/155378115
-    - author: KanXue_NG
-      release_time: 2025.11.27 21:43:45
-      title: '[原创]如何在OLLVM混淆中探寻算法二之libpdd_secure.so指纹算法分析(上篇)'
-      url: https://bbs.kanxue.com/thread-289233.htm
-    - author: 悦来客栈的老板
-      release_time: 2025.11.27 19:28:22
-      title: Python爬虫进阶：spiderdemo困难题JSVMP-T6题解
-      url: https://blog.csdn.net/qq523176585/article/details/155353853
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
