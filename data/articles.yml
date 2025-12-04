@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.12.04 16:46:04
+      title: 国家计算机病毒应急处理中心检测发现69款违法违规收集使用个人信息的移动应用
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519749&idx=1&sn=890f73a2feca26cd88c710a6f968d046
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.12.04 16:46:04
+      title: 美国运通法国子公司违反Cookie同意机制遭法国监管机构重罚
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519749&idx=2&sn=1dd8e536864325478087659c9c5aafe3
     - author: 菜鸟学Python编程
       release_time: 2025.12.04 16:02:40
       title: AST反混淆实战|多种方法解决混淆js中奇形怪状的变量名
@@ -236,14 +244,6 @@
       release_time: 2025.11.28 16:31:36
       title: 涉及医院、金融/餐饮小程序、售楼部，网信部门发布个人信息保护执法典型案例
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519730&idx=1&sn=2a4524bb381c8860f1b6d009899df1b1
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.28 16:31:36
-      title: 2.5万台售货机合规改造，查处案件19件，上海推动人脸识别技术应用长效治理
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519730&idx=2&sn=33c0c0738cc787ad0d5a8dff23263aca
-    - author: 未闻Code
-      release_time: 2025.11.27 21:00:00
-      title: Pandas GroupBy提速神技：40分钟到4秒
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991260&idx=1&sn=598a8e2bc42b028f6f9cbbe211a5078d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -386,6 +386,10 @@
       release_time: 2025.12.03 20:21:17
       title: Android Native 数盟安全报告
       url: https://bbs.kanxue.com/thread-289315.htm
+    - author: 风瞬息
+      release_time: 2025.12.03 19:57:00
+      title: MSRSCI.jar远控组件分析：加密机制、插件加载与内网穿透行为揭秘
+      url: https://xz.aliyun.com/news/90751
     - author: BediveRe_
       release_time: 2025.12.03 17:29:42
       title: '[原创]利用frida和dexlib2进行字符串反混淆'
@@ -486,10 +490,6 @@
       release_time: 2025.11.29 13:32:15
       title: '[原创]AI时代-逆向工作者该如何用好这一利器'
       url: https://bbs.kanxue.com/thread-289245.htm
-    - author: w2sfot
-      release_time: 2025.11.29 10:01:29
-      title: JShaman出了Java代码混淆？看看好不好用
-      url: https://blog.csdn.net/w2sft/article/details/155378115
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
