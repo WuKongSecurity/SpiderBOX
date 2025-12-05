@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.12.05 10:00:04
+      title: AST反混淆实战|reese84_jsvmp反编译前的优化处理
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566243&idx=1&sn=30036f2ccb66398755bc6bf0db8b22cd
+    - author: 逆向有你
+      release_time: 2025.12.05 09:41:43
+      title: JS逆向 -- 某贝漫画逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040872&idx=1&sn=6de465b4409e0dfbaab14a89a7747bf6
+    - author: 二进制磨剑
+      release_time: 2025.12.05 08:30:00
+      title: 深入风控逆向：TLS 指纹如何守住 App 接口
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485804&idx=1&sn=6dae8e38829ac61bcb82e1a288f13633
     - author: 个人信息与数据保护实务评论
       release_time: 2025.12.04 16:46:04
       title: 国家计算机病毒应急处理中心检测发现69款违法违规收集使用个人信息的移动应用
@@ -232,18 +244,6 @@
       release_time: 2025.11.29 14:30:35
       title: 云手机Android13源码编译(Redroid ARM64一键启动方法)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499252&idx=1&sn=9f6032c92e9a86eaa5d8d5c6ca36b7b5
-    - author: 哆啦安全
-      release_time: 2025.11.29 14:30:35
-      title: Python程序打包成各种类型的应用程序
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499252&idx=2&sn=73c6b708a8ae4cc73cecb695fd45deb2
-    - author: 编角料
-      release_time: 2025.11.28 20:15:00
-      title: 移动安全之以逆向角度管中窥豹海外风控机制
-      url: https://mp.weixin.qq.com/s?__biz=MzU0MjUwMTA2OQ==&mid=2247486891&idx=1&sn=d7620f4cdcde3d1c17eb180dea8eb74b
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.11.28 16:31:36
-      title: 涉及医院、金融/餐饮小程序、售楼部，网信部门发布个人信息保护执法典型案例
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519730&idx=1&sn=2a4524bb381c8860f1b6d009899df1b1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
