@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 若水0014
+      release_time: 2025.12.05 18:40:06
+      title: C++虚函数和多态的自制替代方案fast_interface
+      url: https://www.bilibili.com/video/BV1mD25BqE3w
     - author: B站用户骚神
       release_time: 2025.12.05 17:11:22
       title: 【英语学习】Talk about jobs
@@ -117,10 +121,6 @@
       release_time: 2025.11.18 00:20:13
       title: 从夯到拉锐评国内主流验证码
       url: https://www.bilibili.com/video/BV1A7CzB4Eos
-    - author: Alone逆向安全
-      release_time: 2025.11.17 13:17:19
-      title: 某小说企业壳 frida 过检测
-      url: https://www.bilibili.com/video/BV1VtCYBxErk
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
