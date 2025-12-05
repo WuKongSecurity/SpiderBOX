@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 静夜随想
+      release_time: 2025.12.05 19:35:43
+      title: 再探某Vaptcha手势验证码
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811188&idx=1&sn=c5bbde7b34c62281537f89611a4542a0
     - author: 哆啦安全
       release_time: 2025.12.05 11:57:30
       title: Android10至16系统ROM定制(脱壳和安全测试)
@@ -240,10 +244,6 @@
       release_time: 2025.12.01 08:30:00
       title: QA 进阶必看：AI 工程师如何用 LLM 为测试团队打造“最强大脑”？
       url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578441&idx=1&sn=736ae228dd8ff4cb11af93a2a457b952
-    - author: 未闻Code
-      release_time: 2025.11.30 21:00:00
-      title: 20K Star开源黑马！真正的AI无代码开发平台！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991263&idx=1&sn=7460e33a80bde516db254cccdef8d9ab
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
