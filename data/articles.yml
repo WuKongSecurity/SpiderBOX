@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.12.05 17:11:22
+      title: 【英语学习】Talk about jobs
+      url: https://www.bilibili.com/video/BV1XH2LBjEJk
+    - author: 悦来客栈的老板
+      release_time: 2025.12.05 16:47:15
+      title: 手把手教你还原ob混淆(一)
+      url: https://www.bilibili.com/video/BV1Yc2jBSEJV
     - author: r0ysue
       release_time: 2025.12.04 21:37:51
       title: 黑产工具案例：直播推流 + 虚拟摄像头 + 多开分身 + 改机指纹
@@ -113,14 +121,6 @@
       release_time: 2025.11.17 13:17:19
       title: 某小说企业壳 frida 过检测
       url: https://www.bilibili.com/video/BV1VtCYBxErk
-    - author: 和沐阳学逆向
-      release_time: 2025.11.16 19:00:00
-      title: 64.jadx-ai-mcp环境搭建AI逆向分析JAVA代码
-      url: https://www.bilibili.com/video/BV1dLCQBLEJC
-    - author: 带带弟弟学爬虫
-      release_time: 2025.11.15 20:06:46
-      title: 美团系通用降级抓包-IOS
-      url: https://www.bilibili.com/video/BV1c9CyBTEAj
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
