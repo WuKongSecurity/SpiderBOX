@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 三六零SRC
+      release_time: 2025.12.05 21:59:52
+      title: VMP的手动分析和AI还原
+      url: https://bbs.kanxue.com/thread-289335.htm
     - author: qiluword
       release_time: 2025.12.05 10:50:49
       title: '[原创]从零开始，手把手教你，搭建docker，复现CVE-2024-39907漏洞'
@@ -486,10 +490,6 @@
       release_time: 2025.11.30 14:14:00
       title: 从启动到脱壳：深入 Android 应用加固与 DEX 透明加载原理
       url: https://xz.aliyun.com/news/90734
-    - author: zzzhangyu
-      release_time: 2025.11.30 13:11:11
-      title: '[原创]去间接跳转/模拟执行学习'
-      url: https://bbs.kanxue.com/thread-289256.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
