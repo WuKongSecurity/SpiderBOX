@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.12.05 11:57:30
+      title: Android10至16系统ROM定制(脱壳和安全测试)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499310&idx=1&sn=0da9c01836b9816d75c6d1ded64fd43c
+    - author: 哆啦安全
+      release_time: 2025.12.05 11:57:30
+      title: 重塑服务边界：从"应用生态"到"无感体验"的移动交互革命
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499310&idx=2&sn=b8382cdaa776d5895678277ee365a596
     - author: 菜鸟学Python编程
       release_time: 2025.12.05 10:00:04
       title: AST反混淆实战|reese84_jsvmp反编译前的优化处理
@@ -236,14 +244,6 @@
       release_time: 2025.11.30 21:00:00
       title: 20K Star开源黑马！真正的AI无代码开发平台！
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991263&idx=1&sn=7460e33a80bde516db254cccdef8d9ab
-    - author: 如意私塾
-      release_time: 2025.11.29 19:30:44
-      title: 浏览器指纹/风控国外论文研读 | 通过网络日志与鼠标行为生物识别来检测高级网络机器人--ACM期刊
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483961&idx=1&sn=4eb4abd8bc8a327da418e678d1f6babf
-    - author: 哆啦安全
-      release_time: 2025.11.29 14:30:35
-      title: 云手机Android13源码编译(Redroid ARM64一键启动方法)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499252&idx=1&sn=9f6032c92e9a86eaa5d8d5c6ca36b7b5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
