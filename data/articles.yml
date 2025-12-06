@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 吴秋霖
+      release_time: 2025.12.06 19:50:07
+      title: profileData纯算逆向分析
+      url: https://crawler.blog.csdn.net/article/details/155562176
     - author: 和沐阳学逆向
       release_time: 2025.12.06 17:40:38
       title: 6. Xposed 替换函数调用及 XposedBridge 相关 API 讲解
@@ -486,10 +490,6 @@
       release_time: 2025.12.02 13:59:09
       title: '[原创]一个 ELF 文件的运行'
       url: https://bbs.kanxue.com/thread-289299.htm
-    - author: ♬﹏↓孤、影
-      release_time: 2025.12.02 10:05:43
-      title: '[讨论][原创]某智能课桌逆向密码校验分析'
-      url: https://bbs.kanxue.com/thread-289296.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
