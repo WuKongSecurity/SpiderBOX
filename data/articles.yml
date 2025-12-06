@@ -374,6 +374,10 @@
       release_time: 2025.12.06 19:50:07
       title: profileData纯算逆向分析
       url: https://crawler.blog.csdn.net/article/details/155562176
+    - author: xiusi
+      release_time: 2025.12.06 19:19:53
+      title: '[原创]深入浅出 Android Hook 技术：Frida 框架入门系列'
+      url: https://bbs.kanxue.com/thread-289346.htm
     - author: 和沐阳学逆向
       release_time: 2025.12.06 17:40:38
       title: 6. Xposed 替换函数调用及 XposedBridge 相关 API 讲解
@@ -486,10 +490,6 @@
       release_time: 2025.12.02 18:05:42
       title: JS逆向 - 某税局新版验证码（拼图+旋转）
       url: https://blog.csdn.net/qq_53444631/article/details/155500628
-    - author: nothing233
-      release_time: 2025.12.02 13:59:09
-      title: '[原创]一个 ELF 文件的运行'
-      url: https://bbs.kanxue.com/thread-289299.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
