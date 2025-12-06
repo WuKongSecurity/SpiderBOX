@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 冷月不是程序员
+      release_time: 2025.12.06 20:32:35
+      title: 偷偷告诉你：现在入行互联网，比5年前更容易！
+      url: https://www.bilibili.com/video/BV1SR2XBEE8Z
     - author: 若水0014
       release_time: 2025.12.05 18:40:06
       title: C++虚函数和多态的自制替代方案fast_interface
@@ -117,10 +121,6 @@
       release_time: 2025.11.19 21:19:44
       title: AST反混淆实战之Akamai-1
       url: https://www.bilibili.com/video/BV1VqypBaEwU
-    - author: 冷月不是程序员
-      release_time: 2025.11.18 00:20:13
-      title: 从夯到拉锐评国内主流验证码
-      url: https://www.bilibili.com/video/BV1A7CzB4Eos
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
