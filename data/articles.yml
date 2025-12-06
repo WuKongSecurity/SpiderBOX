@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 和沐阳学逆向
+      release_time: 2025.12.06 17:40:38
+      title: 6. Xposed 替换函数调用及 XposedBridge 相关 API 讲解
+      url: https://blog.csdn.net/qq_41155858/article/details/155645203
     - author: 卡卡骨
       release_time: 2025.12.06 15:27:56
       title: '[原创]编译和链接、装载过程'
@@ -486,10 +490,6 @@
       release_time: 2025.12.02 10:05:43
       title: '[讨论][原创]某智能课桌逆向密码校验分析'
       url: https://bbs.kanxue.com/thread-289296.htm
-    - author: 灯-等灯等灯~
-      release_time: 2025.12.01 23:24:01
-      title: '[原创]修改dex字节码'
-      url: https://bbs.kanxue.com/thread-289274.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
