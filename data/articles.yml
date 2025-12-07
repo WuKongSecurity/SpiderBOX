@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.12.07 09:18:58
+      title: 【生活妙招】20种实用生活小妙招！！
+      url: https://www.bilibili.com/video/BV1ee2ZBMEYk
     - author: 冷月不是程序员
       release_time: 2025.12.06 20:32:35
       title: 偷偷告诉你：现在入行互联网，比5年前更容易！
@@ -117,10 +121,6 @@
       release_time: 2025.11.20 12:20:27
       title: 分享一个支持点选 滑块 算术 旋转 OCR本地打码服务
       url: https://www.bilibili.com/video/BV1yQyFBXEXB
-    - author: 逆向狗都不学
-      release_time: 2025.11.19 21:19:44
-      title: AST反混淆实战之Akamai-1
-      url: https://www.bilibili.com/video/BV1VqypBaEwU
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -390,6 +390,10 @@
       release_time: 2025.12.06 13:29:31
       title: '[原创]如何对抗Unidbg无限Debugger问题'
       url: https://bbs.kanxue.com/thread-289343.htm
+    - author: 悦来客栈的老板
+      release_time: 2025.12.06 10:01:44
+      title: 移动安全之以逆向角度管中窥豹海外风控机制
+      url: https://blog.csdn.net/qq523176585/article/details/155651073
     - author: 三六零SRC
       release_time: 2025.12.05 21:59:52
       title: VMP的手动分析和AI还原
@@ -486,10 +490,6 @@
       release_time: 2025.12.02 19:48:30
       title: python备份mongodb数据库全量备份
       url: https://blog.csdn.net/Linux_rm_rf_/article/details/155502010
-    - author: 狗都不学爬虫_
-      release_time: 2025.12.02 18:05:42
-      title: JS逆向 - 某税局新版验证码（拼图+旋转）
-      url: https://blog.csdn.net/qq_53444631/article/details/155500628
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
