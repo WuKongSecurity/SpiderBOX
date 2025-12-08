@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: CCTV果冻爽
+      release_time: 2025.12.08 12:18:59
+      title: 某 SDK 搜集设备信息的快速逆向分析
+      url: https://bbs.kanxue.com/thread-289356.htm
     - author: 悦来客栈的老板
       release_time: 2025.12.07 10:01:08
       title: 失恋以后，他发明了一门超越C的编程语言！
@@ -486,10 +490,6 @@
       release_time: 2025.12.02 20:58:35
       title: '[原创]如何在OLLVM混淆中探寻算法二之libpdd_secure.so指纹算法分析(下篇)'
       url: https://bbs.kanxue.com/thread-289301.htm
-    - author: 悦来客栈的老板
-      release_time: 2025.12.02 20:49:45
-      title: AST反混淆插件|变量(赋值后)在作用域内无引用时的删除。
-      url: https://blog.csdn.net/qq523176585/article/details/155528861
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
