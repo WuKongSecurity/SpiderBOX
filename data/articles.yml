@@ -371,6 +371,10 @@
     term: 吾爱破解
   - links:
     - author: xiusi
+      release_time: 2025.12.08 16:59:18
+      title: 经典 Frida 检测 libmsaoaidsec.so 绕过
+      url: https://bbs.kanxue.com/thread-289359.htm
+    - author: xiusi
       release_time: 2025.12.08 16:37:06
       title: '[原创]Frida 常见检测与绕过'
       url: https://bbs.kanxue.com/thread-289358.htm
@@ -486,10 +490,6 @@
       release_time: 2025.12.03 08:45:33
       title: js逆向-CloudFlare免费版分析
       url: https://blog.csdn.net/weixin_46672080/article/details/155516603
-    - author: Ayuer
-      release_time: 2025.12.02 22:33:48
-      title: '[原创]初探Android Linker 动态库SO的加载流程（3）'
-      url: https://bbs.kanxue.com/thread-289306.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
