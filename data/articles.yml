@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Frida and So
+      release_time: 2025.12.08 16:06:09
+      title: Akamai本地字符串解密
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247485036&idx=1&sn=c67aaef1a602e4aef70dccb83a32476b
     - author: 未闻Code
       release_time: 2025.12.07 21:00:00
       title: 开源 AI 黑客，狂揽 13900+ GitHub Star！
@@ -240,10 +244,6 @@
       release_time: 2025.12.01 11:29:09
       title: JS逆向 -- 某q深入浅出 JSVMP
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040834&idx=1&sn=152f7fb5fd2ded872412317179ad0df0
-    - author: 软件安全与逆向分析
-      release_time: 2025.12.01 09:40:40
-      title: 安卓版本eBPF工具BCC、bpftrace与开发SDK更新下载
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484917&idx=1&sn=4d210806e85b6169afc336d324adb9c7
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,14 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 审判者虔诚
+      release_time: 2025.12.08 16:00:54
+      title: '[原创]AI时代免费工具：用通义灵码和MCP工具构建逆向分析工作流'
+      url: https://bbs.kanxue.com/thread-289357.htm
+    - author: 追风暴的人
+      release_time: 2025.12.08 16:00:42
+      title: jd h5st 5.2 分析记录
+      url: https://blog.csdn.net/m0_51159233/article/details/155709008
     - author: CCTV果冻爽
       release_time: 2025.12.08 12:18:59
       title: 某 SDK 搜集设备信息的快速逆向分析
@@ -482,14 +490,6 @@
       release_time: 2025.12.02 22:32:48
       title: '[原创]初探Android Linker 动态库SO的加载流程（2）'
       url: https://bbs.kanxue.com/thread-289305.htm
-    - author: Ayuer
-      release_time: 2025.12.02 22:31:48
-      title: '[原创]初探Android Linker 动态库SO的加载流程（1）'
-      url: https://bbs.kanxue.com/thread-289304.htm
-    - author: KanXue_NG
-      release_time: 2025.12.02 20:58:35
-      title: '[原创]如何在OLLVM混淆中探寻算法二之libpdd_secure.so指纹算法分析(下篇)'
-      url: https://bbs.kanxue.com/thread-289301.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
