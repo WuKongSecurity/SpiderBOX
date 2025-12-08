@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 审判者压缩
+      release_time: 2025.12.08 21:25:00
+      title: '[原创]AI时代免费工具：用通义灵码和MCP工具构建逆向分析工作流'
+      url: https://www.52pojie.cn/thread-2078564-1-1.html
     - author: xiayutianz
       release_time: 2025.12.06 16:24:00
       title: 某应用AntiToken算法分析
@@ -363,10 +367,6 @@
       release_time: 2025.11.15 19:33:00
       title: 某盾无感逆向分析
       url: https://www.52pojie.cn/thread-2073124-1-1.html
-    - author: 220e285
-      release_time: 2025.11.15 18:08:00
-      title: 关于安卓逆向的学习日记
-      url: https://www.52pojie.cn/thread-2073110-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
