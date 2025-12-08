@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 测试工程师成长之路
+      release_time: 2025.12.08 08:30:00
+      title: Cypress 重磅更新！用自然语言写测试，人人都是测试高手
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578451&idx=1&sn=9e57366f4cc49c2e43e354437d1f17f5
+    - author: 未闻Code
+      release_time: 2025.12.07 21:00:00
+      title: 开源 AI 黑客，狂揽 13900+ GitHub Star！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991286&idx=1&sn=23e28d20aa77e2de2960454cf33358b3
+    - author: Frida and So
+      release_time: 2025.12.07 13:57:11
+      title: 拼夕夕anti-token算法
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247485016&idx=1&sn=53281e8428384873e5f21ecf39a5fb53
+    - author: 菜鸟学Python编程
+      release_time: 2025.12.07 10:00:00
+      title: 失恋以后，他发明了一门超越C的编程语言！
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566247&idx=1&sn=072b5ed1ff94f0afbdc52ca5e94f7dfe
     - author: 静夜随想
       release_time: 2025.12.05 19:35:43
       title: 再探某Vaptcha手势验证码
@@ -228,22 +244,6 @@
       release_time: 2025.12.01 11:29:09
       title: JS逆向 -- 某q深入浅出 JSVMP
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040834&idx=1&sn=152f7fb5fd2ded872412317179ad0df0
-    - author: 软件安全与逆向分析
-      release_time: 2025.12.01 09:40:40
-      title: 安卓版本eBPF工具BCC、bpftrace与开发SDK更新下载
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484917&idx=1&sn=4d210806e85b6169afc336d324adb9c7
-    - author: 哆啦安全
-      release_time: 2025.12.01 08:43:32
-      title: Android APP自动化测试平台V3.5
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499274&idx=1&sn=862481454964cfb08710c40e6c97f559
-    - author: Coder小Q
-      release_time: 2025.12.01 08:30:00
-      title: 【杂谈】英语7选5引发的思考
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493421&idx=1&sn=8bd16abdaf74777e8e0ffb1b9d65ea19
-    - author: 测试工程师成长之路
-      release_time: 2025.12.01 08:30:00
-      title: QA 进阶必看：AI 工程师如何用 LLM 为测试团队打造“最强大脑”？
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578441&idx=1&sn=736ae228dd8ff4cb11af93a2a457b952
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -374,6 +374,10 @@
       release_time: 2025.12.07 20:58:42
       title: Cursor接入国产人工智能（DeepSeek V3.2，MiniMax M2..)低费用！&快响应！
       url: https://blog.csdn.net/2401_87946050/article/details/155676788
+    - author: 悦来客栈的老板
+      release_time: 2025.12.07 10:01:08
+      title: 失恋以后，他发明了一门超越C的编程语言！
+      url: https://blog.csdn.net/qq523176585/article/details/155681501
     - author: 吴秋霖
       release_time: 2025.12.06 19:50:07
       title: profileData纯算逆向分析
@@ -486,10 +490,6 @@
       release_time: 2025.12.02 20:58:35
       title: '[原创]如何在OLLVM混淆中探寻算法二之libpdd_secure.so指纹算法分析(下篇)'
       url: https://bbs.kanxue.com/thread-289301.htm
-    - author: 悦来客栈的老板
-      release_time: 2025.12.02 20:49:45
-      title: AST反混淆插件|变量(赋值后)在作用域内无引用时的删除。
-      url: https://blog.csdn.net/qq523176585/article/details/155528861
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
