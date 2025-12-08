@@ -1,22 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
-    - author: B站用户骚神
-      release_time: 2025.12.07 09:18:58
-      title: 【生活妙招】20种实用生活小妙招！！
-      url: https://www.bilibili.com/video/BV1ee2ZBMEYk
-    - author: 冷月不是程序员
-      release_time: 2025.12.06 20:32:35
-      title: 偷偷告诉你：现在入行互联网，比5年前更容易！
-      url: https://www.bilibili.com/video/BV1SR2XBEE8Z
     - author: 若水0014
       release_time: 2025.12.05 18:40:06
       title: C++虚函数和多态的自制替代方案fast_interface
       url: https://www.bilibili.com/video/BV1mD25BqE3w
-    - author: B站用户骚神
-      release_time: 2025.12.05 17:11:22
-      title: 【英语学习】Talk about jobs
-      url: https://www.bilibili.com/video/BV1XH2LBjEJk
     - author: 悦来客栈的老板
       release_time: 2025.12.05 16:47:15
       title: 手把手教你还原ob混淆(一)
@@ -25,10 +13,6 @@
       release_time: 2025.12.04 21:37:51
       title: 黑产工具案例：直播推流 + 虚拟摄像头 + 多开分身 + 改机指纹
       url: https://www.bilibili.com/video/BV19f2iBrEoG
-    - author: B站用户骚神
-      release_time: 2025.12.03 16:30:31
-      title: 【GitHub Actions】5分钟快速搭建一个私人公开网站，不花一分钱
-      url: https://www.bilibili.com/video/BV1AjSYBsEgJ
     - author: 漠染千舟
       release_time: 2025.12.03 02:01:50
       title: win11文件名bug
@@ -121,13 +105,25 @@
       release_time: 2025.11.20 12:20:27
       title: 分享一个支持点选 滑块 算术 旋转 OCR本地打码服务
       url: https://www.bilibili.com/video/BV1yQyFBXEXB
+    - author: 逆向狗都不学
+      release_time: 2025.11.19 21:19:44
+      title: AST反混淆实战之Akamai-1
+      url: https://www.bilibili.com/video/BV1VqypBaEwU
+    - author: 冷月不是程序员
+      release_time: 2025.11.18 00:20:13
+      title: 从夯到拉锐评国内主流验证码
+      url: https://www.bilibili.com/video/BV1A7CzB4Eos
+    - author: Alone逆向安全
+      release_time: 2025.11.17 13:17:19
+      title: 某小说企业壳 frida 过检测
+      url: https://www.bilibili.com/video/BV1VtCYBxErk
+    - author: 和沐阳学逆向
+      release_time: 2025.11.16 19:00:00
+      title: 64.jadx-ai-mcp环境搭建AI逆向分析JAVA代码
+      url: https://www.bilibili.com/video/BV1dLCQBLEJC
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
-    - author: 测试工程师成长之路
-      release_time: 2025.12.08 08:30:00
-      title: Cypress 重磅更新！用自然语言写测试，人人都是测试高手
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578451&idx=1&sn=9e57366f4cc49c2e43e354437d1f17f5
     - author: 未闻Code
       release_time: 2025.12.07 21:00:00
       title: 开源 AI 黑客，狂揽 13900+ GitHub Star！
@@ -244,6 +240,10 @@
       release_time: 2025.12.01 11:29:09
       title: JS逆向 -- 某q深入浅出 JSVMP
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040834&idx=1&sn=152f7fb5fd2ded872412317179ad0df0
+    - author: 软件安全与逆向分析
+      release_time: 2025.12.01 09:40:40
+      title: 安卓版本eBPF工具BCC、bpftrace与开发SDK更新下载
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484917&idx=1&sn=4d210806e85b6169afc336d324adb9c7
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,10 +370,6 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
-    - author: 努力的。。。
-      release_time: 2025.12.07 20:58:42
-      title: Cursor接入国产人工智能（DeepSeek V3.2，MiniMax M2..)低费用！&快响应！
-      url: https://blog.csdn.net/2401_87946050/article/details/155676788
     - author: 悦来客栈的老板
       release_time: 2025.12.07 10:01:08
       title: 失恋以后，他发明了一门超越C的编程语言！
@@ -490,6 +486,10 @@
       release_time: 2025.12.02 20:58:35
       title: '[原创]如何在OLLVM混淆中探寻算法二之libpdd_secure.so指纹算法分析(下篇)'
       url: https://bbs.kanxue.com/thread-289301.htm
+    - author: 悦来客栈的老板
+      release_time: 2025.12.02 20:49:45
+      title: AST反混淆插件|变量(赋值后)在作用域内无引用时的删除。
+      url: https://blog.csdn.net/qq523176585/article/details/155528861
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
