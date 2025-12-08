@@ -251,6 +251,10 @@
       release_time: 2025.12.06 16:24:00
       title: 某应用AntiToken算法分析
       url: https://www.52pojie.cn/thread-2078117-1-1.html
+    - author: zcg9783
+      release_time: 2025.12.06 13:18:00
+      title: 记一次去除某设备的各种限制
+      url: https://www.52pojie.cn/thread-2078087-1-1.html
     - author: luliucheng
       release_time: 2025.12.05 23:24:00
       title: '[全网首发但已失效] 123 盘提取带中文提取码的文件'
@@ -363,10 +367,6 @@
       release_time: 2025.11.15 18:08:00
       title: 关于安卓逆向的学习日记
       url: https://www.52pojie.cn/thread-2073110-1-1.html
-    - author: xiayutianz
-      release_time: 2025.11.15 17:31:00
-      title: 某对app算法分析
-      url: https://www.52pojie.cn/thread-2073103-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
