@@ -235,6 +235,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 嘟嘟ЯR
+      release_time: 2025.12.09 19:36:00
+      title: 分享lb投屏,免更新的不完美修改方法
+      url: https://www.52pojie.cn/thread-2078788-1-1.html
     - author: emart
       release_time: 2025.12.09 15:59:00
       title: 某考勤终端摄像头虚拟化方案分享
@@ -351,10 +355,6 @@
       release_time: 2025.11.15 22:04:00
       title: 关于安卓逆向的学习日记----2
       url: https://www.52pojie.cn/thread-2073161-1-1.html
-    - author: kakahuote
-      release_time: 2025.11.15 19:35:00
-      title: frida使用2：核心API
-      url: https://www.52pojie.cn/thread-2073126-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
