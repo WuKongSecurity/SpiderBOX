@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.12.09 21:46:37
+      title: 云手机Redroid Android13虚拟摄像头方案
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499330&idx=1&sn=fe82057fab50f671bf3365e9a0bdd130
     - author: 个人信息与数据保护实务评论
       release_time: 2025.12.09 17:14:10
       title: 国家网信办就《网络数据安全风险评估办法（征求意见稿）》公开征求意见
@@ -228,10 +232,6 @@
       release_time: 2025.12.03 10:54:20
       title: 安卓逆向 -- 去除某学习机APP安装限制
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040853&idx=1&sn=ac0514497a456f1df2d5590320852899
-    - author: 菜鸟学Python编程
-      release_time: 2025.12.02 20:49:26
-      title: AST反混淆插件|变量(赋值后)在作用域内无引用时的删除。
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566220&idx=1&sn=3a98b8432573450b9ed32435eb2ae2c4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
