@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: emart
+      release_time: 2025.12.09 15:59:00
+      title: 某考勤终端摄像头虚拟化方案分享
+      url: https://www.52pojie.cn/thread-2078733-1-1.html
     - author: 审判者压缩
       release_time: 2025.12.08 21:25:00
       title: '[原创]AI时代免费工具：用通义灵码和MCP工具构建逆向分析工作流'
@@ -363,10 +367,6 @@
       release_time: 2025.11.15 19:35:00
       title: frida使用2：核心API
       url: https://www.52pojie.cn/thread-2073126-1-1.html
-    - author: wangguang
-      release_time: 2025.11.15 19:33:00
-      title: 某盾无感逆向分析
-      url: https://www.52pojie.cn/thread-2073124-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
