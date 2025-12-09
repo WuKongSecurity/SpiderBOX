@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 悦来客栈的老板
+      release_time: 2025.12.09 10:11:47
+      title: 手把手教你还原ob混淆(二)
+      url: https://www.bilibili.com/video/BV1nm2SB4Euj
     - author: 若水0014
       release_time: 2025.12.05 18:40:06
       title: C++虚函数和多态的自制替代方案fast_interface
@@ -117,10 +121,6 @@
       release_time: 2025.11.17 13:17:19
       title: 某小说企业壳 frida 过检测
       url: https://www.bilibili.com/video/BV1VtCYBxErk
-    - author: 和沐阳学逆向
-      release_time: 2025.11.16 19:00:00
-      title: 64.jadx-ai-mcp环境搭建AI逆向分析JAVA代码
-      url: https://www.bilibili.com/video/BV1dLCQBLEJC
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
