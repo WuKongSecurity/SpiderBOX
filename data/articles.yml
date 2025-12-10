@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 悦来客栈的老板
+      release_time: 2025.12.10 10:24:29
+      title: 手把手教你还原ob混淆(三)
+      url: https://www.bilibili.com/video/BV11AmxBAEVL
     - author: B站用户骚神
       release_time: 2025.12.09 14:43:10
       title: 【DrissionPageMCP】让AI自动帮你写爬虫代码！！
@@ -117,10 +121,6 @@
       release_time: 2025.11.19 21:19:44
       title: AST反混淆实战之Akamai-1
       url: https://www.bilibili.com/video/BV1VqypBaEwU
-    - author: 冷月不是程序员
-      release_time: 2025.11.18 00:20:13
-      title: 从夯到拉锐评国内主流验证码
-      url: https://www.bilibili.com/video/BV1A7CzB4Eos
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
