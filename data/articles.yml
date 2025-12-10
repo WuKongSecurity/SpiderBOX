@@ -235,6 +235,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: buluo533
+      release_time: 2025.12.10 21:13:00
+      title: AST自动插桩jsvmp的简单实现
+      url: https://www.52pojie.cn/thread-2079058-1-1.html
     - author: 嘟嘟ЯR
       release_time: 2025.12.09 19:36:00
       title: 分享lb投屏,免更新的不完美修改方法
@@ -351,10 +355,6 @@
       release_time: 2025.11.16 10:39:00
       title: Android逆向学习
       url: https://www.52pojie.cn/thread-2073224-1-1.html
-    - author: 220e285
-      release_time: 2025.11.15 22:04:00
-      title: 关于安卓逆向的学习日记----2
-      url: https://www.52pojie.cn/thread-2073161-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
