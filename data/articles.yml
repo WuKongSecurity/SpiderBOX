@@ -235,6 +235,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: HackXK
+      release_time: 2025.12.10 23:24:00
+      title: iOS微信自定义头像插件逆向分析与破解
+      url: https://www.52pojie.cn/thread-2079083-1-1.html
     - author: buluo533
       release_time: 2025.12.10 21:13:00
       title: AST自动插桩jsvmp的简单实现
@@ -351,10 +355,6 @@
       release_time: 2025.11.17 09:57:00
       title: 某老板直聘四层switch反混淆
       url: https://www.52pojie.cn/thread-2073419-1-1.html
-    - author: xia0ji233
-      release_time: 2025.11.16 10:39:00
-      title: Android逆向学习
-      url: https://www.52pojie.cn/thread-2073224-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
