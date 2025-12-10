@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Coder小Q
+      release_time: 2025.12.10 08:30:00
+      title: 【密码学】隐私 AI 推理--ML和FHE的结合
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493438&idx=1&sn=7f92a5887b99355552fd37eb5399bef1
+    - author: 二进制磨剑
+      release_time: 2025.12.10 08:30:00
+      title: FlowPrint：在全加密时代构建移动应用流量指纹的新方法
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485822&idx=1&sn=596cedef047d2388b1b1d4c1ba80b046
     - author: 哆啦安全
       release_time: 2025.12.09 21:46:37
       title: 云手机Redroid Android13虚拟摄像头方案
@@ -140,6 +148,10 @@
       release_time: 2025.12.09 16:52:14
       title: Boss直聘内推，最近找工作的同学看过来～
       url: https://mp.weixin.qq.com/s?__biz=MzkwMTE3NzI5NA==&mid=2247484150&idx=1&sn=f604615ce95f1f878f3afb80373da040
+    - author: 無色逆向
+      release_time: 2025.12.09 08:26:44
+      title: 阿里V2滑动验证码算法分析-下篇
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MjYyNTgxMQ==&mid=2247484308&idx=1&sn=56a16f40384e16dd6e657689b236a0f9
     - author: Spade sec
       release_time: 2025.12.08 22:16:29
       title: 今日有感
@@ -188,6 +200,10 @@
       release_time: 2025.12.05 08:30:00
       title: 深入风控逆向：TLS 指纹如何守住 App 接口
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485804&idx=1&sn=6dae8e38829ac61bcb82e1a288f13633
+    - author: 無色逆向
+      release_time: 2025.12.05 08:06:50
+      title: 阿里V2滑动验证码算法分析-上篇
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MjYyNTgxMQ==&mid=2247484255&idx=1&sn=2644af5431bd4a062eb331214ef3aab6
     - author: 个人信息与数据保护实务评论
       release_time: 2025.12.04 16:46:04
       title: 国家计算机病毒应急处理中心检测发现69款违法违规收集使用个人信息的移动应用
@@ -216,22 +232,6 @@
       release_time: 2025.12.03 16:43:32
       title: Wormhole 逆向破解
       url: https://mp.weixin.qq.com/s?__biz=Mzk0NTMyNzI4MQ==&mid=2247484876&idx=1&sn=674b8bf8ac50e85f7d78fe6ca01985c1
-    - author: 独步爬虫逆向
-      release_time: 2025.12.03 15:58:40
-      title: never-jscore：Python中最强大的JavaScript执行引擎
-      url: https://mp.weixin.qq.com/s?__biz=MzkzODYzNjg4OA==&mid=2247484367&idx=1&sn=e91e417932685b9486a8a3980a0ebb51
-    - author: 菜鸟学Python编程
-      release_time: 2025.12.03 13:49:36
-      title: AST反混淆插件| (变量的)赋值语句处在该变量所有引用后面时的删除。
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566224&idx=1&sn=f1d9afd9332c16ab0bbdfdb8fd39e19d
-    - author: 哆啦安全
-      release_time: 2025.12.03 11:56:59
-      title: Android智能取证系统V1.1.8
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499290&idx=1&sn=20c1ede489fa06badb12657eecb2cd0d
-    - author: 逆向有你
-      release_time: 2025.12.03 10:54:20
-      title: 安卓逆向 -- 去除某学习机APP安装限制
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040853&idx=1&sn=ac0514497a456f1df2d5590320852899
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
