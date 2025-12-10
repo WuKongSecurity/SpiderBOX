@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 不落的逆向手札
+      release_time: 2025.12.10 21:29:43
+      title: AST自动插桩jsvmp的简单实现
+      url: https://mp.weixin.qq.com/s?__biz=MzYzNTAzOTIxMw==&mid=2247483821&idx=1&sn=6e353e7fb183ccc7dd2a82009ce4fbc6
     - author: 静夜随想
       release_time: 2025.12.10 20:29:55
       title: 滑块还是自动化来得舒服
@@ -228,10 +232,6 @@
       release_time: 2025.12.04 11:15:35
       title: Android10至16系统定制脱壳机(安全测试机)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499305&idx=2&sn=4233f7b147f37f207d10fa24647d9c65
-    - author: 未闻Code
-      release_time: 2025.12.03 21:00:00
-      title: 一日一技：从 pairwise 到 nwise，让滑动窗口通用化
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991283&idx=1&sn=0406695b1f2492eb7783d0e3563461b5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
