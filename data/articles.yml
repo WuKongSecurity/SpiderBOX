@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 静夜随想
+      release_time: 2025.12.10 20:29:55
+      title: 滑块还是自动化来得舒服
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811198&idx=1&sn=a6201c2ff897a03c890086b8962cdd51
     - author: 哆啦安全
       release_time: 2025.12.10 16:31:18
       title: APP自动化测试工具V4.3
@@ -228,10 +232,6 @@
       release_time: 2025.12.03 21:00:00
       title: 一日一技：从 pairwise 到 nwise，让滑动窗口通用化
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991283&idx=1&sn=0406695b1f2492eb7783d0e3563461b5
-    - author: 如意私塾
-      release_time: 2025.12.03 18:54:41
-      title: 培训开课广告 | AI+逆向工程
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483973&idx=1&sn=e55576921b0bd21acbcaab9a096cb8e4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
