@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.12.10 16:31:18
+      title: APP自动化测试工具V4.3
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499351&idx=1&sn=2593ce2b0ecaa1b43589247dcc2856a5
     - author: Coder小Q
       release_time: 2025.12.10 08:30:00
       title: 【密码学】隐私 AI 推理--ML和FHE的结合
@@ -228,10 +232,6 @@
       release_time: 2025.12.03 18:54:41
       title: 培训开课广告 | AI+逆向工程
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483973&idx=1&sn=e55576921b0bd21acbcaab9a096cb8e4
-    - author: 随心记事
-      release_time: 2025.12.03 16:43:32
-      title: Wormhole 逆向破解
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0NTMyNzI4MQ==&mid=2247484876&idx=1&sn=674b8bf8ac50e85f7d78fe6ca01985c1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
