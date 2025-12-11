@@ -359,6 +359,10 @@
     term: 吾爱破解
   - links:
     - author: A0tem
+      release_time: 2025.12.11 17:37:55
+      title: '[原创]学习通风控参数分析&Frida绕过(下)'
+      url: https://bbs.kanxue.com/thread-289405.htm
+    - author: A0tem
       release_time: 2025.12.11 16:32:50
       title: '[原创]学某通风控参数分析&Frida绕过(上)'
       url: https://bbs.kanxue.com/thread-289404.htm
@@ -474,10 +478,6 @@
       release_time: 2025.12.03 17:29:42
       title: '[原创]利用frida和dexlib2进行字符串反混淆'
       url: https://bbs.kanxue.com/thread-289313.htm
-    - author: wangYи
-      release_time: 2025.12.03 15:31:20
-      title: ios逆向某幸咖啡 抓包+脱壳+frida-trace+ida分析
-      url: https://blog.csdn.net/weixin_59616601/article/details/155500563
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
