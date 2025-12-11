@@ -2211,6 +2211,10 @@
           logo: ipweb.png
           url: https://www.ipweb.cc
           description: IPWeb 是全球领先的 IP 代理服务商，提供多样化的 IP 解决方案，支持亿万级 TCP 并发连接，覆盖全球 220+ 国家/地区，可定位到州/城市级别，无使用次数或调用频率限制，每天更新数百万高纯净住宅 IP，平均响应时间仅 0.2 秒，专家级技术支持团队全天候服务
+        - title: 1024proxy
+          logo: 1024proxy.png
+          url: https://1024proxy.com/?kwd=channel-spiderbox
+          description: 支持免费试用，流量套餐只需 $0.49/GB，独立 IP 池，每日更新 10w+ ips，提供低价优质 IP
 #        - title: WTFproxy
 #          logo: wtfproxy.png
 #          url: https://www.wtfproxy.com/
