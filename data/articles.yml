@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.12.11 21:00:00
+      title: 这个 GitHub 项目整理了海量 Nano Banana Pro 超火玩法。
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991289&idx=1&sn=233f48e37cacad6bab433b015f841239
     - author: 菜鸟学Python编程
       release_time: 2025.12.11 20:04:40
       title: AST反混淆技术：从混乱代码到清晰逻辑的解码之道
@@ -232,13 +236,13 @@
       release_time: 2025.12.05 10:00:04
       title: AST反混淆实战|reese84_jsvmp反编译前的优化处理
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566243&idx=1&sn=30036f2ccb66398755bc6bf0db8b22cd
-    - author: 逆向有你
-      release_time: 2025.12.05 09:41:43
-      title: JS逆向 -- 某贝漫画逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040872&idx=1&sn=6de465b4409e0dfbaab14a89a7747bf6
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: jackp0t
+      release_time: 2025.12.11 10:23:00
+      title: frida检测对抗————libmsaoaidsec.so绕过
+      url: https://www.52pojie.cn/thread-2079166-1-1.html
     - author: HackXK
       release_time: 2025.12.10 23:24:00
       title: iOS微信自定义头像插件逆向分析与破解
@@ -355,10 +359,6 @@
       release_time: 2025.11.17 21:04:00
       title: 关于JSVMP纯算的一些取巧方式
       url: https://www.52pojie.cn/thread-2073641-1-1.html
-    - author: xiayutianz
-      release_time: 2025.11.17 14:52:00
-      title: 魔改md5样本算法分析
-      url: https://www.52pojie.cn/thread-2073532-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
