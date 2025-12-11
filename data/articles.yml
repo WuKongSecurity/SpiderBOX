@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.12.11 17:01:31
+      title: 赋能而非取代：AI为国际争端解决提供高效流程支持
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519763&idx=1&sn=0e715a897e39209ba623b621d446776f
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.12.11 17:01:31
+      title: CCRC认证培训：CCRC-PIPA 个人信息保护评估师
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519763&idx=2&sn=03a78828ca76cb51a68d22d877536536
     - author: 软件安全与逆向分析
       release_time: 2025.12.11 11:18:25
       title: 双十二学习不停歇，购课送多重福利
@@ -228,14 +236,6 @@
       release_time: 2025.12.04 16:46:04
       title: 国家计算机病毒应急处理中心检测发现69款违法违规收集使用个人信息的移动应用
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519749&idx=1&sn=890f73a2feca26cd88c710a6f968d046
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.12.04 16:46:04
-      title: 美国运通法国子公司违反Cookie同意机制遭法国监管机构重罚
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519749&idx=2&sn=1dd8e536864325478087659c9c5aafe3
-    - author: 菜鸟学Python编程
-      release_time: 2025.12.04 16:02:40
-      title: AST反混淆实战|多种方法解决混淆js中奇形怪状的变量名
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566239&idx=1&sn=0f9b5c332ca5320d1ba52a01eed1056d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -362,6 +362,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: A0tem
+      release_time: 2025.12.11 16:32:50
+      title: '[原创]学某通风控参数分析&Frida绕过(上)'
+      url: https://bbs.kanxue.com/thread-289404.htm
     - author: 三六零SRC
       release_time: 2025.12.11 11:48:33
       title: '[原创]浅谈SQL注入手工测试思路'
@@ -478,10 +482,6 @@
       release_time: 2025.12.03 15:31:20
       title: ios逆向某幸咖啡 抓包+脱壳+frida-trace+ida分析
       url: https://blog.csdn.net/weixin_59616601/article/details/155500563
-    - author: PenguinAndy
-      release_time: 2025.12.03 15:12:52
-      title: '[原创] 分享一个 LSPosed + Dobby 框架的 Unity il2CppDumper 工具'
-      url: https://bbs.kanxue.com/thread-289310.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
