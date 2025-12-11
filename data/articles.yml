@@ -239,6 +239,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: HackXK
+      release_time: 2025.12.11 22:05:00
+      title: iOS应用逆向攻防实战-雅俗共赏
+      url: https://www.52pojie.cn/thread-2079337-1-1.html
     - author: jackp0t
       release_time: 2025.12.11 10:23:00
       title: frida检测对抗————libmsaoaidsec.so绕过
@@ -355,10 +359,6 @@
       release_time: 2025.11.18 13:40:00
       title: 关于安卓逆向的学习日记------（一）
       url: https://www.52pojie.cn/thread-2073795-1-1.html
-    - author: shanjzhu
-      release_time: 2025.11.17 21:04:00
-      title: 关于JSVMP纯算的一些取巧方式
-      url: https://www.52pojie.cn/thread-2073641-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
