@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 软件安全与逆向分析
+      release_time: 2025.12.11 11:18:25
+      title: 双十二学习不停歇，购课送多重福利
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484928&idx=1&sn=ed67d2c5b93776deec13bc1b8db40f33
     - author: 极验
       release_time: 2025.12.11 09:00:00
       title: X（推特）上线IP属地：一场最低成本的反黑手段
@@ -358,6 +362,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 三六零SRC
+      release_time: 2025.12.11 11:48:33
+      title: '[原创]浅谈SQL注入手工测试思路'
+      url: https://bbs.kanxue.com/thread-289400.htm
     - author: rettozero
       release_time: 2025.12.10 23:35:47
       title: '[原创]纯静态解决遇到的各类global-metadata加密问题'
@@ -474,10 +482,6 @@
       release_time: 2025.12.03 15:12:52
       title: '[原创] 分享一个 LSPosed + Dobby 框架的 Unity il2CppDumper 工具'
       url: https://bbs.kanxue.com/thread-289310.htm
-    - author: 悦来客栈的老板
-      release_time: 2025.12.03 13:49:51
-      title: AST反混淆插件| (变量的)赋值语句处在该变量所有引用后面时的删除。
-      url: https://blog.csdn.net/qq523176585/article/details/155561570
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
