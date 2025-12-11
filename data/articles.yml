@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 极验
+      release_time: 2025.12.11 09:00:00
+      title: X（推特）上线IP属地：一场最低成本的反黑手段
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724074&idx=1&sn=7783658b73676f88185688e324e32e24
     - author: 不落的逆向手札
       release_time: 2025.12.10 21:29:43
       title: AST自动插桩jsvmp的简单实现
@@ -228,10 +232,6 @@
       release_time: 2025.12.04 16:02:40
       title: AST反混淆实战|多种方法解决混淆js中奇形怪状的变量名
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566239&idx=1&sn=0f9b5c332ca5320d1ba52a01eed1056d
-    - author: 哆啦安全
-      release_time: 2025.12.04 11:15:35
-      title: Android10至16系统定制脱壳机(安全测试机)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499305&idx=2&sn=4233f7b147f37f207d10fa24647d9c65
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
