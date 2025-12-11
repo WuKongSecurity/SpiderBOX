@@ -239,6 +239,10 @@
       release_time: 2025.12.10 23:24:00
       title: iOS微信自定义头像插件逆向分析与破解
       url: https://www.52pojie.cn/thread-2079083-1-1.html
+    - author: '15028352577'
+      release_time: 2025.12.10 21:52:00
+      title: 某qMusicSign参数vmp逆向分析
+      url: https://www.52pojie.cn/thread-2079071-1-1.html
     - author: buluo533
       release_time: 2025.12.10 21:13:00
       title: AST自动插桩jsvmp的简单实现
@@ -351,10 +355,6 @@
       release_time: 2025.11.17 14:52:00
       title: 魔改md5样本算法分析
       url: https://www.52pojie.cn/thread-2073532-1-1.html
-    - author: woainixiang
-      release_time: 2025.11.17 09:57:00
-      title: 某老板直聘四层switch反混淆
-      url: https://www.52pojie.cn/thread-2073419-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
