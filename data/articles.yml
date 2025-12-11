@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.12.11 20:04:40
+      title: AST反混淆技术：从混乱代码到清晰逻辑的解码之道
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566251&idx=1&sn=e0b8258c468a1184638d123b70d29ffc
+    - author: 逆向狗都不学
+      release_time: 2025.12.11 19:59:39
+      title: Akamai动态JS绑定常量与din数组元素排序
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247484067&idx=1&sn=b60da4faf726f53050b0e6ba4df591b5
     - author: 个人信息与数据保护实务评论
       release_time: 2025.12.11 17:01:31
       title: 赋能而非取代：AI为国际争端解决提供高效流程支持
@@ -204,6 +212,10 @@
       release_time: 2025.12.07 10:00:00
       title: 失恋以后，他发明了一门超越C的编程语言！
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566247&idx=1&sn=072b5ed1ff94f0afbdc52ca5e94f7dfe
+    - author: 菜鸟学Python编程
+      release_time: 2025.12.06 10:03:12
+      title: 移动安全之以逆向角度管中窥豹海外风控机制
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566245&idx=1&sn=649c9c875900543d1ecd7c93d8b96c5d
     - author: 静夜随想
       release_time: 2025.12.05 19:35:43
       title: 再探某Vaptcha手势验证码
@@ -224,14 +236,6 @@
       release_time: 2025.12.05 09:41:43
       title: JS逆向 -- 某贝漫画逆向分析
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040872&idx=1&sn=6de465b4409e0dfbaab14a89a7747bf6
-    - author: 二进制磨剑
-      release_time: 2025.12.05 08:30:00
-      title: 深入风控逆向：TLS 指纹如何守住 App 接口
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485804&idx=1&sn=6dae8e38829ac61bcb82e1a288f13633
-    - author: 無色逆向
-      release_time: 2025.12.05 08:06:50
-      title: 阿里V2滑动验证码算法分析-上篇
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MjYyNTgxMQ==&mid=2247484255&idx=1&sn=2644af5431bd4a062eb331214ef3aab6
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
