@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.12.12 15:16:58
+      title: frida魔改绕过检测(Android和iOS)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499371&idx=1&sn=1964a912ab735c3205b840ff83fd21e0
     - author: 逆向有你
       release_time: 2025.12.12 11:21:29
       title: 安卓逆向 -- 某友APP案例分析
