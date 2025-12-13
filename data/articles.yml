@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: Alone逆向安全
+      release_time: 2025.12.13 12:14:04
+      title: 安卓逆向-某黑盒app逆向 hkey纯算7位(ttd离线分析)
+      url: https://www.bilibili.com/video/BV1sYmQBBEjk
     - author: 悦来客栈的老板
       release_time: 2025.12.10 10:24:29
       title: 手把手教你还原ob混淆(三)
@@ -117,10 +121,6 @@
       release_time: 2025.11.20 12:20:27
       title: 分享一个支持点选 滑块 算术 旋转 OCR本地打码服务
       url: https://www.bilibili.com/video/BV1yQyFBXEXB
-    - author: 逆向狗都不学
-      release_time: 2025.11.19 21:19:44
-      title: AST反混淆实战之Akamai-1
-      url: https://www.bilibili.com/video/BV1VqypBaEwU
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
