@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 和沐阳学逆向
+      release_time: 2025.12.13 19:56:13
+      title: 65.Open-AutoGLM 快速上手：一句指令实现 APP 自动化操作
+      url: https://www.bilibili.com/video/BV1qGmdBBEQm
     - author: Alone逆向安全
       release_time: 2025.12.13 12:14:04
       title: 安卓逆向-某黑盒app逆向 hkey纯算7位(ttd离线分析)
@@ -117,10 +121,6 @@
       release_time: 2025.11.21 14:35:26
       title: rootless越狱恢复完整流程
       url: https://www.bilibili.com/video/BV1kBU5BYEVF
-    - author: B站用户骚神
-      release_time: 2025.11.20 12:20:27
-      title: 分享一个支持点选 滑块 算术 旋转 OCR本地打码服务
-      url: https://www.bilibili.com/video/BV1yQyFBXEXB
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
