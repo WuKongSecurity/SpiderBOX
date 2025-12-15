@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 测试工程师成长之路
+      release_time: 2025.12.15 08:30:00
+      title: 超越Selenium？Playwright上下文实战，重塑自动化测试
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578462&idx=1&sn=63e67a2cd95a90f9dd56fe8663d32635
+    - author: 未闻Code
+      release_time: 2025.12.14 21:00:00
+      title: 10K Star！这个 AGENTS.md 开源项目太赞了，AI 编程助手彻底悟了！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991292&idx=1&sn=ab422bd2a7ed560eeb9858b4248beabf
     - author: 哆啦安全
       release_time: 2025.12.12 15:16:58
       title: frida魔改绕过检测(Android和iOS)
@@ -224,10 +232,6 @@
       release_time: 2025.12.07 13:57:11
       title: 拼夕夕anti-token算法
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247485016&idx=1&sn=53281e8428384873e5f21ecf39a5fb53
-    - author: 菜鸟学Python编程
-      release_time: 2025.12.07 10:00:00
-      title: 失恋以后，他发明了一门超越C的编程语言！
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566247&idx=1&sn=072b5ed1ff94f0afbdc52ca5e94f7dfe
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
