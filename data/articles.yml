@@ -1,10 +1,6 @@
 - icon: fas fa-list
   list:
   - links:
-    - author: 名字叫阿柒
-      release_time: 2025.12.14 00:17:04
-      title: 这是什么虫哦！
-      url: https://www.bilibili.com/video/BV1MomoBtE7h
     - author: 和沐阳学逆向
       release_time: 2025.12.13 19:56:13
       title: 65.Open-AutoGLM 快速上手：一句指令实现 APP 自动化操作
@@ -121,17 +117,21 @@
       release_time: 2025.11.24 00:30:34
       title: 验证码背后的战争：我们正在被算法“考试”？
       url: https://www.bilibili.com/video/BV129UKBnERJ
+    - author: r0ysue
+      release_time: 2025.11.21 14:35:26
+      title: rootless越狱恢复完整流程
+      url: https://www.bilibili.com/video/BV1kBU5BYEVF
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.12.15 10:26:03
+      title: 2025补天白帽黑客盛典议程公布，白帽黑客云集广州，12月19日等你来！
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040921&idx=1&sn=bfc92fe434dbe07a45f581480459eac0
     - author: 测试工程师成长之路
       release_time: 2025.12.15 08:30:00
       title: 超越Selenium？Playwright上下文实战，重塑自动化测试
       url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578462&idx=1&sn=63e67a2cd95a90f9dd56fe8663d32635
-    - author: 未闻Code
-      release_time: 2025.12.14 21:00:00
-      title: 10K Star！这个 AGENTS.md 开源项目太赞了，AI 编程助手彻底悟了！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991292&idx=1&sn=ab422bd2a7ed560eeb9858b4248beabf
     - author: 哆啦安全
       release_time: 2025.12.12 15:16:58
       title: frida魔改绕过检测(Android和iOS)
@@ -144,10 +144,6 @@
       release_time: 2025.12.11 23:56:33
       title: 某乎App最新X-Zse-96魔改AES白盒
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjczODUwMw==&mid=2247484910&idx=1&sn=efff788a02971960e094a1bcaf7ee7c2
-    - author: 未闻Code
-      release_time: 2025.12.11 21:00:00
-      title: 这个 GitHub 项目整理了海量 Nano Banana Pro 超火玩法。
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991289&idx=1&sn=233f48e37cacad6bab433b015f841239
     - author: 菜鸟学Python编程
       release_time: 2025.12.11 20:04:40
       title: AST反混淆技术：从混乱代码到清晰逻辑的解码之道
@@ -228,10 +224,6 @@
       release_time: 2025.12.07 21:00:00
       title: 开源 AI 黑客，狂揽 13900+ GitHub Star！
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991286&idx=1&sn=23e28d20aa77e2de2960454cf33358b3
-    - author: Frida and So
-      release_time: 2025.12.07 13:57:11
-      title: 拼夕夕anti-token算法
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247485016&idx=1&sn=53281e8428384873e5f21ecf39a5fb53
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
