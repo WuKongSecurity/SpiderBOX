@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.12.16 14:13:26
+      title: FlowMouse - 心流鼠标手势 v1.0【Chrome浏览器插件】
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143240&idx=1&sn=05e7aec87f70a98f00622a705295a8fa
     - author: 逆向有你
       release_time: 2025.12.16 10:38:44
       title: 稿费翻倍 | 25年刊编撰启动，聚焦AI安全新战场
@@ -228,10 +232,6 @@
       release_time: 2025.12.09 08:26:44
       title: 阿里V2滑动验证码算法分析-下篇
       url: https://mp.weixin.qq.com/s?__biz=Mzg5MjYyNTgxMQ==&mid=2247484308&idx=1&sn=56a16f40384e16dd6e657689b236a0f9
-    - author: Spade sec
-      release_time: 2025.12.08 22:16:29
-      title: 今日有感
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486883&idx=1&sn=dafd8c2114e369212400ada46676d826
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
