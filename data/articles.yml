@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.12.16 10:38:44
+      title: 稿费翻倍 | 25年刊编撰启动，聚焦AI安全新战场
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040932&idx=1&sn=851e175f8aef4787d8672a40dffbe0eb
     - author: 哆啦安全
       release_time: 2025.12.16 08:48:27
       title: Android开发智能调试分析软件V7.2
@@ -132,6 +136,10 @@
       release_time: 2025.12.16 08:40:00
       title: IDA NO MCP 一句话挖掘某路由器固件漏洞，小白也能轻松审计固件漏洞
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485834&idx=1&sn=ae892e2d0f37775c1d7c0a57c55b5207
+    - author: 冰敷逆向笔记
+      release_time: 2025.12.15 19:03:02
+      title: 苏宁滑块VMP深入剖析(一)
+      url: https://mp.weixin.qq.com/s?__biz=MzI0NDg0ODE1MQ==&mid=2247483835&idx=1&sn=c8cbe3a3243060d5a57e4a6928e67a57
     - author: 逆向有你
       release_time: 2025.12.15 10:26:03
       title: 2025补天白帽黑客盛典议程公布，白帽黑客云集广州，12月19日等你来！
@@ -160,6 +168,10 @@
       release_time: 2025.12.11 19:59:39
       title: Akamai动态JS绑定常量与din数组元素排序
       url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247484067&idx=1&sn=b60da4faf726f53050b0e6ba4df591b5
+    - author: 小鱼神1024
+      release_time: 2025.12.11 18:08:28
+      title: 挖矿小游戏-jshook对抗 | AST插件还原多层For-Swtich控制流实战
+      url: https://mp.weixin.qq.com/s?__biz=MzkxOTYwMjIzNA==&mid=2247484308&idx=1&sn=72d256fb351719cdcff6077771dfd904
     - author: 个人信息与数据保护实务评论
       release_time: 2025.12.11 17:01:31
       title: 赋能而非取代：AI为国际争端解决提供高效流程支持
