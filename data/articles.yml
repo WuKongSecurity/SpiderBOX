@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 和沐阳学逆向
+      release_time: 2025.12.16 17:11:29
+      title: 66.解放双手！用 AutoGLM 在 iPhone 上实现 AI 自动操控
+      url: https://www.bilibili.com/video/BV1gEqhBwE67
     - author: B站用户骚神
       release_time: 2025.12.16 15:46:22
       title: 【骚神插件】v9.7.7 新增万能元素定位，DrissionPage、PlayWright、Selenium、JS通杀！
@@ -117,10 +121,6 @@
       release_time: 2025.11.26 02:46:32
       title: 染字决03 "引擎"检测+击溃vm2
       url: https://www.bilibili.com/video/BV1PwUXBkEvJ
-    - author: B站用户骚神
-      release_time: 2025.11.24 15:48:30
-      title: 新版骚神插件9.7.6，新增网络加密数据破解和反调试控制台！！！
-      url: https://www.bilibili.com/video/BV1QTUkBtEbs
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
