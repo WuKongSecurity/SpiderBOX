@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.12.16 16:45:03
+      title: 阅读指南｜2025个人信息与数据保护新书目汇总
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519791&idx=1&sn=4d5fee773b091a190e49b2596cba2a0f
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.12.16 16:45:03
+      title: 无网安制度、无审核机制致AI生成内容违法违规，一网站平台被网信部门查处
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519791&idx=2&sn=56ae155c89cf24bf69b14960ce421b6c
     - author: 菜鸟学Python编程
       release_time: 2025.12.16 16:18:38
       title: 拿到Photoshop的源码了，发现两个意想不到的秘密......
@@ -236,14 +244,6 @@
       release_time: 2025.12.10 21:29:43
       title: AST自动插桩jsvmp的简单实现
       url: https://mp.weixin.qq.com/s?__biz=MzYzNTAzOTIxMw==&mid=2247483821&idx=1&sn=6e353e7fb183ccc7dd2a82009ce4fbc6
-    - author: 静夜随想
-      release_time: 2025.12.10 20:29:55
-      title: 滑块还是自动化来得舒服
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811198&idx=1&sn=a6201c2ff897a03c890086b8962cdd51
-    - author: 哆啦安全
-      release_time: 2025.12.10 16:31:18
-      title: APP自动化测试工具V4.3
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499351&idx=1&sn=2593ce2b0ecaa1b43589247dcc2856a5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
