@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.12.16 15:02:04
+      title: 【DrissionPage小技巧】-海象运算符简化元素查找逻辑
+      url: https://www.bilibili.com/video/BV1TKqaBFErD
     - author: 和沐阳学逆向
       release_time: 2025.12.13 19:56:13
       title: 65.Open-AutoGLM 快速上手：一句指令实现 APP 自动化操作
@@ -117,10 +121,6 @@
       release_time: 2025.11.24 00:30:34
       title: 验证码背后的战争：我们正在被算法“考试”？
       url: https://www.bilibili.com/video/BV129UKBnERJ
-    - author: r0ysue
-      release_time: 2025.11.21 14:35:26
-      title: rootless越狱恢复完整流程
-      url: https://www.bilibili.com/video/BV1kBU5BYEVF
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
