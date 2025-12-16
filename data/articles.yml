@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.12.16 16:18:38
+      title: 拿到Photoshop的源码了，发现两个意想不到的秘密......
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566253&idx=1&sn=19b99c0bd096d3592a85fa76d4673df2
     - author: 吾爱破解论坛
       release_time: 2025.12.16 14:13:26
       title: FlowMouse - 心流鼠标手势 v1.0【Chrome浏览器插件】
@@ -140,10 +144,42 @@
       release_time: 2025.12.16 08:40:00
       title: IDA NO MCP 一句话挖掘某路由器固件漏洞，小白也能轻松审计固件漏洞
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485834&idx=1&sn=ae892e2d0f37775c1d7c0a57c55b5207
+    - author: LK安全
+      release_time: 2025.12.15 19:08:10
+      title: 黑客猎杀黑客•意大利黑客军火商HackingTeam被攻陷全纪录
+      url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486766&idx=1&sn=eda764db12d865651a05ed9c7e20e0f3
+    - author: LK安全
+      release_time: 2025.12.15 19:07:01
+      title: 一篇文章教会你企业SRC捡洞之JSONP(教程+实战案例)
+      url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486762&idx=1&sn=b9cb6738b70ee6493cf22175e6e9bf45
+    - author: LK安全
+      release_time: 2025.12.15 19:06:49
+      title: SRC实战系列2-挖掘edu没帐号？看我社工+爆破大法(学员投稿)
+      url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486751&idx=1&sn=e53b4f31b6db69208c912de8233c3c26
+    - author: LK安全
+      release_time: 2025.12.15 19:05:54
+      title: 一篇文章教会你企业SRC捡洞之CORS(教程+实战案例)
+      url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486716&idx=1&sn=e011383ff4d1af1b836c733b18e15244
+    - author: LK安全
+      release_time: 2025.12.15 19:05:02
+      title: 聊聊我眼中的"Web漏洞挖掘"
+      url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486694&idx=1&sn=19f82016f2b04dd34318b52c856da802
+    - author: LK安全
+      release_time: 2025.12.15 19:04:24
+      title: 看完这篇再挖不到漏洞，请顺着网线来砍我
+      url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486686&idx=1&sn=cbd68c8179320c42afeb7e4aeb053c20
+    - author: LK安全
+      release_time: 2025.12.15 19:03:38
+      title: 什么？一次红队行动差点让我财富自由了
+      url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486649&idx=1&sn=951bf4e5352c762493d236e82878c799
     - author: 冰敷逆向笔记
       release_time: 2025.12.15 19:03:02
       title: 苏宁滑块VMP深入剖析(一)
       url: https://mp.weixin.qq.com/s?__biz=MzI0NDg0ODE1MQ==&mid=2247483835&idx=1&sn=c8cbe3a3243060d5a57e4a6928e67a57
+    - author: LK安全
+      release_time: 2025.12.15 19:02:14
+      title: 实战渗透-第一视角带你入侵海外某单位(1)
+      url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486613&idx=1&sn=9a6453044835f17e64c5655f64c98972
     - author: 逆向有你
       release_time: 2025.12.15 10:26:03
       title: 2025补天白帽黑客盛典议程公布，白帽黑客云集广州，12月19日等你来！
@@ -152,6 +188,10 @@
       release_time: 2025.12.15 08:30:00
       title: 超越Selenium？Playwright上下文实战，重塑自动化测试
       url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578462&idx=1&sn=63e67a2cd95a90f9dd56fe8663d32635
+    - author: LK安全
+      release_time: 2025.12.12 22:31:07
+      title: 安卓app攻防系列3-记一次对flutter app的抓包
+      url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486792&idx=1&sn=473d7efac67e68477e478bd222184e06
     - author: 哆啦安全
       release_time: 2025.12.12 15:16:58
       title: frida魔改绕过检测(Android和iOS)
@@ -204,34 +244,6 @@
       release_time: 2025.12.10 16:31:18
       title: APP自动化测试工具V4.3
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499351&idx=1&sn=2593ce2b0ecaa1b43589247dcc2856a5
-    - author: Coder小Q
-      release_time: 2025.12.10 08:30:00
-      title: 【密码学】隐私 AI 推理--ML和FHE的结合
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493438&idx=1&sn=7f92a5887b99355552fd37eb5399bef1
-    - author: 二进制磨剑
-      release_time: 2025.12.10 08:30:00
-      title: FlowPrint：在全加密时代构建移动应用流量指纹的新方法
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485822&idx=1&sn=596cedef047d2388b1b1d4c1ba80b046
-    - author: 哆啦安全
-      release_time: 2025.12.09 21:46:37
-      title: 云手机Redroid Android13虚拟摄像头方案
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499330&idx=1&sn=fe82057fab50f671bf3365e9a0bdd130
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.12.09 17:14:10
-      title: 国家网信办就《网络数据安全风险评估办法（征求意见稿）》公开征求意见
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519751&idx=1&sn=bb6671bc1cd8580c648889160eaa1e5d
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.12.09 17:14:10
-      title: 辅警盗用数字证书非法售卖公民个人信息，牟利超11.7万获刑
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519751&idx=2&sn=89825a146f4004da304879db754d5040
-    - author: 爬虫术与道
-      release_time: 2025.12.09 16:52:14
-      title: Boss直聘内推，最近找工作的同学看过来～
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMTE3NzI5NA==&mid=2247484150&idx=1&sn=f604615ce95f1f878f3afb80373da040
-    - author: 無色逆向
-      release_time: 2025.12.09 08:26:44
-      title: 阿里V2滑动验证码算法分析-下篇
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MjYyNTgxMQ==&mid=2247484308&idx=1&sn=56a16f40384e16dd6e657689b236a0f9
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
