@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.12.17 22:13:23
+      title: Smali/AAR/JAR/DEX/APK逆向分析转换工具V2.5
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499404&idx=1&sn=4557961adf884684f5d71f7761fabdce
     - author: 菜鸟学Python编程
       release_time: 2025.12.17 21:04:05
       title: AST反混淆插件|去控制流前对运算符的简化操作
@@ -240,10 +244,6 @@
       release_time: 2025.12.11 19:59:39
       title: Akamai动态JS绑定常量与din数组元素排序
       url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247484067&idx=1&sn=b60da4faf726f53050b0e6ba4df591b5
-    - author: 小鱼神1024
-      release_time: 2025.12.11 18:08:28
-      title: 挖矿小游戏-jshook对抗 | AST插件还原多层For-Swtich控制流实战
-      url: https://mp.weixin.qq.com/s?__biz=MzkxOTYwMjIzNA==&mid=2247484308&idx=1&sn=72d256fb351719cdcff6077771dfd904
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
