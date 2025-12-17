@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 人九
+      release_time: 2025.12.18 00:23:05
+      title: '[原创] 某强祖师 手游 逆向 分析'
+      url: https://bbs.kanxue.com/thread-289489.htm
     - author: H1m
       release_time: 2025.12.17 16:43:27
       title: FRIDA2
@@ -486,10 +490,6 @@
       release_time: 2025.12.06 13:29:31
       title: '[原创]如何对抗Unidbg无限Debugger问题'
       url: https://bbs.kanxue.com/thread-289343.htm
-    - author: 悦来客栈的老板
-      release_time: 2025.12.06 10:01:44
-      title: 移动安全之以逆向角度管中窥豹海外风控机制
-      url: https://blog.csdn.net/qq523176585/article/details/155651073
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
