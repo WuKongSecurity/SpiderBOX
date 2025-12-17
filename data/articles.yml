@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: Nulsec
+      release_time: 2025.12.16 22:27:00
+      title: 某短视频指纹和纯算 sig3 逆向分析
+      url: https://www.52pojie.cn/thread-2080428-1-1.html
     - author: HackXK
       release_time: 2025.12.12 11:01:00
       title: 分析“安装巨魔”验证逆向
@@ -363,10 +367,6 @@
       release_time: 2025.11.20 01:28:00
       title: 某度加固检测部分分析
       url: https://www.52pojie.cn/thread-2074220-1-1.html
-    - author: xiayutianz
-      release_time: 2025.11.18 18:04:00
-      title: de到app算法分析
-      url: https://www.52pojie.cn/thread-2073893-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
