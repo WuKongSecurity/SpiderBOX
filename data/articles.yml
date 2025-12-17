@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.12.17 10:50:04
+      title: JS逆向 -- 某房指数一个简单的aes加解密
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040933&idx=1&sn=74b2e2a85ec500e621165dd6213dabe4
+    - author: Coder小Q
+      release_time: 2025.12.17 08:30:00
+      title: 【密码学】当Wordle遇上零知识证明
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493488&idx=1&sn=5d2732782580b609fd770f63d00f2776
     - author: 冰敷逆向笔记
       release_time: 2025.12.16 18:20:48
       title: 苏宁滑块VMP深入剖析(二)：补环境篇
@@ -236,14 +244,6 @@
       release_time: 2025.12.11 17:01:31
       title: CCRC认证培训：CCRC-PIPA 个人信息保护评估师
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519763&idx=2&sn=03a78828ca76cb51a68d22d877536536
-    - author: 软件安全与逆向分析
-      release_time: 2025.12.11 11:18:25
-      title: 双十二学习不停歇，购课送多重福利
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484928&idx=1&sn=ed67d2c5b93776deec13bc1b8db40f33
-    - author: 极验
-      release_time: 2025.12.11 09:00:00
-      title: X（推特）上线IP属地：一场最低成本的反黑手段
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724074&idx=1&sn=7783658b73676f88185688e324e32e24
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
