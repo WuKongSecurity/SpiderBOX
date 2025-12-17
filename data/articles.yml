@@ -370,6 +370,18 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: H1m
+      release_time: 2025.12.17 16:43:27
+      title: FRIDA2
+      url: https://bbs.kanxue.com/thread-289488.htm
+    - author: 爱喝水的木子
+      release_time: 2025.12.17 16:40:58
+      title: MiMo-V2-Flash
+      url: https://blog.csdn.net/Linux_rm_rf_/article/details/156021661
+    - author: H1m
+      release_time: 2025.12.17 16:39:27
+      title: '[原创]安卓FRIDA'
+      url: https://bbs.kanxue.com/thread-289487.htm
     - author: s1nec-1o
       release_time: 2025.12.16 17:22:23
       title: '[原创]手把手还原 sig3 算法'
@@ -478,18 +490,6 @@
       release_time: 2025.12.06 10:01:44
       title: 移动安全之以逆向角度管中窥豹海外风控机制
       url: https://blog.csdn.net/qq523176585/article/details/155651073
-    - author: 三六零SRC
-      release_time: 2025.12.05 21:59:52
-      title: VMP的手动分析和AI还原
-      url: https://bbs.kanxue.com/thread-289335.htm
-    - author: qiluword
-      release_time: 2025.12.05 10:50:49
-      title: '[原创]从零开始，手把手教你，搭建docker，复现CVE-2024-39907漏洞'
-      url: https://bbs.kanxue.com/thread-289326.htm
-    - author: 悦来客栈的老板
-      release_time: 2025.12.05 10:00:21
-      title: AST反混淆实战|reese84_jsvmp反编译前的优化处理
-      url: https://blog.csdn.net/qq523176585/article/details/155620441
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
