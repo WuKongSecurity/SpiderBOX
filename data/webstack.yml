@@ -1952,10 +1952,10 @@
           logo: zdaye.png
           url: https://www.zdaye.com/
           description: 站大爷始创于 2012 年，专注企业级高品质代理 IP 领域，2000万活跃代理 IP 池赋能大数据，为 HTTP 代理 IP 和 Socks5 代理服务器提供了丰富的 API 接口和技术文档，且实时更新免费代理服务器资源为入门开发者学习用
-        - title: 闪臣代理
+        - title: 闪臣 HTTP 代理
           logo: shanchendaili.png
-          url: https://www.shanchendaili.com/
-          description: 闪臣代理是动态 IP 代理服务器提供商，拥有全国城市高匿名静态 IP 动态 IP，随机拨号一键更换，支持 PC、iOS、安卓，高效稳定免费试用
+          url: https://schyl.shanchendaili.com/?spiderbox
+          description: 闪臣 HTTP 代理，高匿名千万级海量 IP，每日更新百万 IP 池，可每日去重 IP，国内外 IP 覆盖齐全，支持 http(s)/socks5 三大协议，多种套餐选择，支持高并发！API 与账号密码模式均可选择，国内专业 IP 代理资源供应商，持续专注 IP 代理服务深耕！现在新用户注册实名后自动到账户免费 1W 国内 IP 试用，欢迎大家咨询使用喔
         - title: 小象代理
           logo: xiaoxiangdaili.png
           url: https://www.xiaoxiangdaili.com/
@@ -2926,14 +2926,78 @@
           logo: gh_6e5c91d5e221.jpg
           qrcode: images/qrcode/gh_6e5c91d5e221.jpg
           description: 公众号：CYRUS STUDIO
-        - title: 测试工程师成长之路
-          logo: gh_e6489c451515.jpg
-          qrcode: images/qrcode/gh_e6489c451515.jpg
-          description: 公众号：测试工程师成长之路
         - title: 土木佬的爬虫逆向日记
           logo: gh_7a1826074dca.jpg
           qrcode: images/qrcode/gh_7a1826074dca.jpg
           description: 公众号：土木佬的爬虫逆向日记
+        - title: 不落的逆向手札
+          logo: gh_af1d4dcb38bc.jpg
+          qrcode: images/qrcode/gh_af1d4dcb38bc.jpg
+          description: 公众号：不落的逆向手札
+        - title: 一枚酸心果子
+          logo: gh_75d32d225339.jpg
+          qrcode: images/qrcode/gh_75d32d225339.jpg
+          description: 公众号：一枚酸心果子
+        - title: 码功
+          logo: gh_bb6c155f5acb.jpg
+          qrcode: images/qrcode/gh_bb6c155f5acb.jpg
+          description: 公众号：码功
+        - title: 無色逆向
+          logo: gh_507b37088505.jpg
+          qrcode: images/qrcode/gh_507b37088505.jpg
+          description: 公众号：無色逆向
+        - title: 剑客古月的安全屋
+          logo: gh_90d1c5be986b.jpg
+          qrcode: images/qrcode/gh_90d1c5be986b.jpg
+          description: 公众号：剑客古月的安全屋
+        - title: 故意滴随便记录
+          logo: gh_f83161692ea8.jpg
+          qrcode: images/qrcode/gh_f83161692ea8.jpg
+          description: 公众号：故意滴随便记录
+        - title: 冰敷逆向笔记
+          logo: gh_d56d23a625f8.jpg
+          qrcode: images/qrcode/gh_d56d23a625f8.jpg
+          description: 公众号：冰敷逆向笔记
+        - title: 反爬破解社
+          logo: gh_864c90fdac30.jpg
+          qrcode: images/qrcode/gh_864c90fdac30.jpg
+          description: 公众号：反爬破解社
+        - title: 虫迹追踪
+          logo: gh_b1c0540cfdb9.jpg
+          qrcode: images/qrcode/gh_b1c0540cfdb9.jpg
+          description: 公众号：虫迹追踪
+        - title: 千机锦奕
+          logo: gh_8b1b243453dd.jpg
+          qrcode: images/qrcode/gh_8b1b243453dd.jpg
+          description: 公众号：千机锦奕
+        - title: 小李Blog
+          logo: gh_ddb321faea63.jpg
+          qrcode: images/qrcode/gh_ddb321faea63.jpg
+          description: 公众号：小李Blog
+        - title: 65逆向
+          logo: gh_521fad651f21.jpg
+          qrcode: images/qrcode/gh_521fad651f21.jpg
+          description: 公众号：65逆向
+        - title: 小鱼神1024
+          logo: gh_f044ffd847e2.jpg
+          qrcode: images/qrcode/gh_f044ffd847e2.jpg
+          description: 公众号：小鱼神1024
+        - title: 爬虫进化论
+          logo: gh_0ca16ee923b2.jpg
+          qrcode: images/qrcode/gh_0ca16ee923b2.jpg
+          description: 公众号：爬虫进化论
+        - title: LK安全
+          logo: gh_c3a017ea74d6.jpg
+          qrcode: images/qrcode/gh_c3a017ea74d6.jpg
+          description: 公众号：LK安全
+        - title: 狂虫日记
+          logo: gh_21467d907c57.jpg
+          qrcode: images/qrcode/gh_21467d907c57.jpg
+          description: 公众号：狂虫日记
+        - title: 测试工程师成长之路
+          logo: gh_e6489c451515.jpg
+          qrcode: images/qrcode/gh_e6489c451515.jpg
+          description: 公众号：测试工程师成长之路
         - title: 信息安全与通信保密杂志社
           logo: gh_3e12dbf78ff8.jpg
           qrcode: images/qrcode/gh_3e12dbf78ff8.jpg
