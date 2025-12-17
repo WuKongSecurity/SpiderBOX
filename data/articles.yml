@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.12.17 21:04:05
+      title: AST反混淆插件|去控制流前对运算符的简化操作
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566257&idx=1&sn=e3087021bf28d65edc7cc25dff41294a
     - author: 未闻Code
       release_time: 2025.12.17 21:00:00
       title: JustHTML：一次关于 AI 辅助编程的工程实践
@@ -240,10 +244,6 @@
       release_time: 2025.12.11 18:08:28
       title: 挖矿小游戏-jshook对抗 | AST插件还原多层For-Swtich控制流实战
       url: https://mp.weixin.qq.com/s?__biz=MzkxOTYwMjIzNA==&mid=2247484308&idx=1&sn=72d256fb351719cdcff6077771dfd904
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.12.11 17:01:31
-      title: 赋能而非取代：AI为国际争端解决提供高效流程支持
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519763&idx=1&sn=0e715a897e39209ba623b621d446776f
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
