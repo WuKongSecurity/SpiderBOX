@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: αβγδεξπ
+      release_time: 2025.12.18 19:35:17
+      title: '[原创] ιldb 脚本 ——  你才叫 lldb，我叫 "约塔 ldb"'
+      url: https://bbs.kanxue.com/thread-289492.htm
     - author: 逆向新手
       release_time: 2025.12.18 18:05:23
       title: js逆向-某省特种设备aes加密研究
@@ -486,10 +490,6 @@
       release_time: 2025.12.08 12:18:59
       title: 某 SDK 搜集设备信息的快速逆向分析
       url: https://bbs.kanxue.com/thread-289356.htm
-    - author: 悦来客栈的老板
-      release_time: 2025.12.07 10:01:08
-      title: 失恋以后，他发明了一门超越C的编程语言！
-      url: https://blog.csdn.net/qq523176585/article/details/155681501
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
