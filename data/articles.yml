@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2025.12.18 20:42:12
+      title: 过检测 | 自己制作的自动化框架+自己改的内核
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483988&idx=1&sn=0d716b506b686542b7d9329a34ff8f2f
     - author: 码功
       release_time: 2025.12.18 18:00:00
       title: 纯算逆向：rs-reverse版本更新v1.16.1
@@ -240,10 +244,6 @@
       release_time: 2025.12.15 19:02:14
       title: 实战渗透-第一视角带你入侵海外某单位(1)
       url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486613&idx=1&sn=9a6453044835f17e64c5655f64c98972
-    - author: 逆向有你
-      release_time: 2025.12.15 10:26:03
-      title: 2025补天白帽黑客盛典议程公布，白帽黑客云集广州，12月19日等你来！
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040921&idx=1&sn=bfc92fe434dbe07a45f581480459eac0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
