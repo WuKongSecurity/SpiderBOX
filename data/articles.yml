@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2025.12.18 10:12:20
+      title: AST反混淆插件|去控制流前if语句转三目表达式
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566261&idx=1&sn=12aab78afb1507abe7a14dbb8986b1c4
     - author: 哆啦安全
       release_time: 2025.12.17 22:13:23
       title: Smali/AAR/JAR/DEX/APK逆向分析转换工具V2.5
@@ -240,10 +244,6 @@
       release_time: 2025.12.11 20:04:40
       title: AST反混淆技术：从混乱代码到清晰逻辑的解码之道
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566251&idx=1&sn=e0b8258c468a1184638d123b70d29ffc
-    - author: 逆向狗都不学
-      release_time: 2025.12.11 19:59:39
-      title: Akamai动态JS绑定常量与din数组元素排序
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247484067&idx=1&sn=b60da4faf726f53050b0e6ba4df591b5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
