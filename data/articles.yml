@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.12.18 16:28:36
+      title: 未按照要求进行整改，上海市通信管理局下架38款APP
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519798&idx=1&sn=a41cbe4a1ba4ec8eced25b39f6dac90b
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.12.18 16:28:36
+      title: 国家能源局出台新规 加强能源行业数据安全管理
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519798&idx=2&sn=8dfc37f9b649b0bd21a20536ff36e396
+    - author: 虫迹追踪
+      release_time: 2025.12.18 16:27:25
+      title: js逆向-某省特种设备aes加密研究
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDU2MTYwMQ==&mid=2247485171&idx=1&sn=0d3d4a72736c35aa4bceff6664b9a7d1
+    - author: 冰敷逆向笔记
+      release_time: 2025.12.18 16:25:10
+      title: 苏宁滑块VMP深入剖析(三)：纯算篇
+      url: https://mp.weixin.qq.com/s?__biz=MzI0NDg0ODE1MQ==&mid=2247483856&idx=1&sn=184543b202ff91206c8e9e62004de08d
     - author: 码功
       release_time: 2025.12.18 15:06:24
       title: rs-reverse项目适配新网站之flag配置项获取
@@ -228,22 +244,6 @@
       release_time: 2025.12.15 08:30:00
       title: 超越Selenium？Playwright上下文实战，重塑自动化测试
       url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578462&idx=1&sn=63e67a2cd95a90f9dd56fe8663d32635
-    - author: 码功
-      release_time: 2025.12.14 01:38:56
-      title: 补环境框架：sdenv版本更新v1.1.1
-      url: https://mp.weixin.qq.com/s?__biz=MzkyNzY2Mzc5MQ==&mid=2247483808&idx=1&sn=2c0b1998fab654202dc529b3057aa657
-    - author: LK安全
-      release_time: 2025.12.12 22:31:07
-      title: 安卓app攻防系列3-记一次对flutter app的抓包
-      url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486792&idx=1&sn=473d7efac67e68477e478bd222184e06
-    - author: 哆啦安全
-      release_time: 2025.12.12 15:16:58
-      title: frida魔改绕过检测(Android和iOS)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499371&idx=1&sn=1964a912ab735c3205b840ff83fd21e0
-    - author: 逆向有你
-      release_time: 2025.12.12 11:21:29
-      title: 安卓逆向 -- 某友APP案例分析
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040911&idx=1&sn=da29079359223e8a71b45f106366a11d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
