@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.12.18 13:17:04
+      title: 【DrissionPage专用绿色开发版谷歌浏览器】下载程序（开源）
+      url: https://www.bilibili.com/video/BV1bsqHBKEnZ
     - author: 和沐阳学逆向
       release_time: 2025.12.16 17:11:29
       title: 66.解放双手！用 AutoGLM 在 iPhone 上实现 AI 自动操控
@@ -117,10 +121,6 @@
       release_time: 2025.11.29 16:51:23
       title: 03.firefox火狐浏览器编译和vs加载
       url: https://www.bilibili.com/video/BV1fAUZBjE7X
-    - author: 漠染千舟
-      release_time: 2025.11.26 02:46:32
-      title: 染字决03 "引擎"检测+击溃vm2
-      url: https://www.bilibili.com/video/BV1PwUXBkEvJ
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: yumeiko
+      release_time: 2025.12.18 13:22:04
+      title: '[原创]某东登录中的安全验证码分析'
+      url: https://bbs.kanxue.com/thread-289491.htm
     - author: 鬼手56
       release_time: 2025.12.18 11:59:12
       title: 告别黑盒 Agent：用多 Agent 与半 Agent 思路，落地 hatchify 与 Claude Agent Skills
@@ -486,10 +490,6 @@
       release_time: 2025.12.06 19:19:53
       title: '[原创]深入浅出 Android Hook 技术：Frida 框架入门系列'
       url: https://bbs.kanxue.com/thread-289346.htm
-    - author: 和沐阳学逆向
-      release_time: 2025.12.06 17:40:38
-      title: 6. Xposed 替换函数调用及 XposedBridge 相关 API 讲解
-      url: https://blog.csdn.net/qq_41155858/article/details/155645203
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
