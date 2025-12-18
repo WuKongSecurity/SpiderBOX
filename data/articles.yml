@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 码功
+      release_time: 2025.12.18 15:06:24
+      title: rs-reverse项目适配新网站之flag配置项获取
+      url: https://mp.weixin.qq.com/s?__biz=MzkyNzY2Mzc5MQ==&mid=2247483825&idx=1&sn=0218af3b3142b8a2c6546438a26c8411
     - author: 菜鸟学Python编程
       release_time: 2025.12.18 10:12:20
       title: AST反混淆插件|去控制流前if语句转三目表达式
@@ -224,6 +228,10 @@
       release_time: 2025.12.15 08:30:00
       title: 超越Selenium？Playwright上下文实战，重塑自动化测试
       url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578462&idx=1&sn=63e67a2cd95a90f9dd56fe8663d32635
+    - author: 码功
+      release_time: 2025.12.14 01:38:56
+      title: 补环境框架：sdenv版本更新v1.1.1
+      url: https://mp.weixin.qq.com/s?__biz=MzkyNzY2Mzc5MQ==&mid=2247483808&idx=1&sn=2c0b1998fab654202dc529b3057aa657
     - author: LK安全
       release_time: 2025.12.12 22:31:07
       title: 安卓app攻防系列3-记一次对flutter app的抓包
@@ -236,14 +244,6 @@
       release_time: 2025.12.12 11:21:29
       title: 安卓逆向 -- 某友APP案例分析
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040911&idx=1&sn=da29079359223e8a71b45f106366a11d
-    - author: 季东ooo
-      release_time: 2025.12.11 23:56:33
-      title: 某乎App最新X-Zse-96魔改AES白盒
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjczODUwMw==&mid=2247484910&idx=1&sn=efff788a02971960e094a1bcaf7ee7c2
-    - author: 菜鸟学Python编程
-      release_time: 2025.12.11 20:04:40
-      title: AST反混淆技术：从混乱代码到清晰逻辑的解码之道
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566251&idx=1&sn=e0b8258c468a1184638d123b70d29ffc
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
