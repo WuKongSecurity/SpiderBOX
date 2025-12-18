@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 中二
+      release_time: 2025.12.17 21:22:00
+      title: Tbooking验证码逆向分析
+      url: https://www.52pojie.cn/thread-2080682-1-1.html
     - author: Nulsec
       release_time: 2025.12.16 22:27:00
       title: 某短视频指纹和纯算 sig3 逆向分析
@@ -363,10 +367,6 @@
       release_time: 2025.11.20 22:32:00
       title: 从零开始绕过 DexProtector 加固的 Frida 检测
       url: https://www.52pojie.cn/thread-2074484-1-1.html
-    - author: NpcZ
-      release_time: 2025.11.20 01:28:00
-      title: 某度加固检测部分分析
-      url: https://www.52pojie.cn/thread-2074220-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
