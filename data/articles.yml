@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Python成长路
+      release_time: 2025.12.19 16:50:41
+      title: 学习逆向的一百多个公众号整理汇总
+      url: https://blog.csdn.net/Qwertyuiop2016/article/details/156059133
     - author: αβγδεξπ
       release_time: 2025.12.18 19:35:17
       title: '[原创] ιldb 脚本 ——  你才叫 lldb，我叫 "约塔 ldb"'
@@ -486,10 +490,6 @@
       release_time: 2025.12.08 16:00:42
       title: jd h5st 5.2 分析记录
       url: https://blog.csdn.net/m0_51159233/article/details/155709008
-    - author: CCTV果冻爽
-      release_time: 2025.12.08 12:18:59
-      title: 某 SDK 搜集设备信息的快速逆向分析
-      url: https://bbs.kanxue.com/thread-289356.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
