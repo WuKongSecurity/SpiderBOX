@@ -394,6 +394,10 @@
       release_time: 2025.12.18 11:59:12
       title: 告别黑盒 Agent：用多 Agent 与半 Agent 思路，落地 hatchify 与 Claude Agent Skills
       url: https://guishou.blog.csdn.net/article/details/156015302
+    - author: 悦来客栈的老板
+      release_time: 2025.12.18 10:12:42
+      title: AST反混淆插件|去控制流前if语句转三目表达式
+      url: https://blog.csdn.net/qq523176585/article/details/156089785
     - author: 人九
       release_time: 2025.12.18 00:23:05
       title: '[原创] 某强祖师 手游 逆向 分析'
@@ -486,10 +490,6 @@
       release_time: 2025.12.08 16:00:54
       title: '[原创]AI时代免费工具：用通义灵码和MCP工具构建逆向分析工作流'
       url: https://bbs.kanxue.com/thread-289357.htm
-    - author: 追风暴的人
-      release_time: 2025.12.08 16:00:42
-      title: jd h5st 5.2 分析记录
-      url: https://blog.csdn.net/m0_51159233/article/details/155709008
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
