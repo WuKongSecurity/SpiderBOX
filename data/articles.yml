@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 陈不不and挽风的逆向
+      release_time: 2025.12.19 22:13:45
+      title: cyjsvmp在线版大更新
+      url: https://www.bilibili.com/video/BV18YBFB5E3d
     - author: 时一十一姐呀
       release_time: 2025.12.19 08:30:13
       title: p2-Easy Scraper插件单页列表抓取
@@ -117,10 +121,6 @@
       release_time: 2025.11.29 16:53:55
       title: 02.firefox代码拉取
       url: https://www.bilibili.com/video/BV1EAUZB7Ekv
-    - author: 小肩膀-逆向安全培训
-      release_time: 2025.11.29 16:53:47
-      title: 02.chromium文档阅读和vs配置
-      url: https://www.bilibili.com/video/BV1BAUZBjESY
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
