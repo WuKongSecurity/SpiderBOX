@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 奋飞安全
+      release_time: 2025.12.19 14:25:56
+      title: 给你的Ida插上翅膀
+      url: https://mp.weixin.qq.com/s?__biz=MzI4NzMwNDI3OQ==&mid=2247485015&idx=1&sn=956e5bba1ad3b789c221e97b45b12e0e
     - author: Python成长路
       release_time: 2025.12.19 08:42:35
       title: 学习逆向的一百多个公众号整理汇总
@@ -240,10 +244,6 @@
       release_time: 2025.12.15 19:06:49
       title: SRC实战系列2-挖掘edu没帐号？看我社工+爆破大法(学员投稿)
       url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486751&idx=1&sn=e53b4f31b6db69208c912de8233c3c26
-    - author: LK安全
-      release_time: 2025.12.15 19:05:54
-      title: 一篇文章教会你企业SRC捡洞之CORS(教程+实战案例)
-      url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486716&idx=1&sn=e011383ff4d1af1b836c733b18e15244
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
