@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 布鲁的Python之旅
+      release_time: 2025.12.19 14:36:08
+      title: 【Web开发-01】Python构建心衰预测系统
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486235&idx=1&sn=810814552bd77ac923b2ca77e100e362
     - author: 奋飞安全
       release_time: 2025.12.19 14:25:56
       title: 给你的Ida插上翅膀
@@ -240,10 +244,6 @@
       release_time: 2025.12.15 19:07:01
       title: 一篇文章教会你企业SRC捡洞之JSONP(教程+实战案例)
       url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486762&idx=1&sn=b9cb6738b70ee6493cf22175e6e9bf45
-    - author: LK安全
-      release_time: 2025.12.15 19:06:49
-      title: SRC实战系列2-挖掘edu没帐号？看我社工+爆破大法(学员投稿)
-      url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486751&idx=1&sn=e53b4f31b6db69208c912de8233c3c26
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
