@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Python成长路
+      release_time: 2025.12.19 08:42:35
+      title: 学习逆向的一百多个公众号整理汇总
+      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247485929&idx=1&sn=d9624defa4cb0879d236e1754e007122
+    - author: 逆向OneByOne
+      release_time: 2025.12.19 08:40:11
+      title: Easy-Scraper爬虫插件
+      url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494085&idx=1&sn=b4fabfbb75769f6f520134d60f844297
+    - author: 二进制磨剑
+      release_time: 2025.12.19 08:30:00
+      title: 【AI安全挑战】在夜之城，连“人性”都是可以被操纵的
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485841&idx=1&sn=2fba8321e33ccc8c3100fea2b6c6b980
+    - author: 不落的逆向手札
+      release_time: 2025.12.19 07:48:37
+      title: 基于ima的逆向资料知识库
+      url: https://mp.weixin.qq.com/s?__biz=MzYzNTAzOTIxMw==&mid=2247483831&idx=1&sn=3add4e7b366c2585d8eeda2ff0c5d5e1
     - author: 如意私塾
       release_time: 2025.12.18 20:42:12
       title: 过检测 | 自己制作的自动化框架+自己改的内核
@@ -156,6 +172,10 @@
       release_time: 2025.12.18 10:12:20
       title: AST反混淆插件|去控制流前if语句转三目表达式
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566261&idx=1&sn=12aab78afb1507abe7a14dbb8986b1c4
+    - author: Python成长路
+      release_time: 2025.12.18 08:42:23
+      title: 视频号下载助手小版本优化
+      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247485921&idx=1&sn=80fc911b86bb2944ece7335aebea5fc2
     - author: 哆啦安全
       release_time: 2025.12.17 22:13:23
       title: Smali/AAR/JAR/DEX/APK逆向分析转换工具V2.5
@@ -224,26 +244,6 @@
       release_time: 2025.12.15 19:05:54
       title: 一篇文章教会你企业SRC捡洞之CORS(教程+实战案例)
       url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486716&idx=1&sn=e011383ff4d1af1b836c733b18e15244
-    - author: LK安全
-      release_time: 2025.12.15 19:05:02
-      title: 聊聊我眼中的"Web漏洞挖掘"
-      url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486694&idx=1&sn=19f82016f2b04dd34318b52c856da802
-    - author: LK安全
-      release_time: 2025.12.15 19:04:24
-      title: 看完这篇再挖不到漏洞，请顺着网线来砍我
-      url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486686&idx=1&sn=cbd68c8179320c42afeb7e4aeb053c20
-    - author: LK安全
-      release_time: 2025.12.15 19:03:38
-      title: 什么？一次红队行动差点让我财富自由了
-      url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486649&idx=1&sn=951bf4e5352c762493d236e82878c799
-    - author: 冰敷逆向笔记
-      release_time: 2025.12.15 19:03:02
-      title: 苏宁滑块VMP深入剖析(一)
-      url: https://mp.weixin.qq.com/s?__biz=MzI0NDg0ODE1MQ==&mid=2247483835&idx=1&sn=c8cbe3a3243060d5a57e4a6928e67a57
-    - author: LK安全
-      release_time: 2025.12.15 19:02:14
-      title: 实战渗透-第一视角带你入侵海外某单位(1)
-      url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486613&idx=1&sn=9a6453044835f17e64c5655f64c98972
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
