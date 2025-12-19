@@ -2,6 +2,10 @@
   list:
   - links:
     - author: 陈不不and挽风的逆向
+      release_time: 2025.12.19 22:32:21
+      title: wasm-vmp二进制加壳工具免费使用
+      url: https://www.bilibili.com/video/BV1ywBFBvEsM
+    - author: 陈不不and挽风的逆向
       release_time: 2025.12.19 22:13:45
       title: cyjsvmp在线版大更新
       url: https://www.bilibili.com/video/BV18YBFB5E3d
@@ -117,10 +121,6 @@
       release_time: 2025.11.29 16:54:32
       title: 03.141版本chromium源码拉取
       url: https://www.bilibili.com/video/BV1kRUoBQEQc
-    - author: 小肩膀-逆向安全培训
-      release_time: 2025.11.29 16:53:55
-      title: 02.firefox代码拉取
-      url: https://www.bilibili.com/video/BV1EAUZB7Ekv
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 220e285
+      release_time: 2025.12.19 21:50:00
+      title: 安卓逆向新手关于某运动健康app的脱壳修复(未完成)
+      url: https://www.52pojie.cn/thread-2081184-1-1.html
     - author: 中二
       release_time: 2025.12.17 21:22:00
       title: Tbooking验证码逆向分析
@@ -363,10 +367,6 @@
       release_time: 2025.11.21 18:03:00
       title: 他x星qiu算法分析
       url: https://www.52pojie.cn/thread-2074694-1-1.html
-    - author: fyr666
-      release_time: 2025.11.20 22:32:00
-      title: 从零开始绕过 DexProtector 加固的 Frida 检测
-      url: https://www.52pojie.cn/thread-2074484-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
