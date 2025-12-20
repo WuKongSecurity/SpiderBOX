@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: Milo1210
+      release_time: 2025.12.20 00:56:00
+      title: 安卓逆向实战：某 App 360脱壳、加密协议还原与请求伪造全记录（学习记录贴）
+      url: https://www.52pojie.cn/thread-2081208-1-1.html
     - author: 220e285
       release_time: 2025.12.19 21:50:00
       title: 安卓逆向新手关于某运动健康app的脱壳修复(未完成)
@@ -363,10 +367,6 @@
       release_time: 2025.11.22 01:24:00
       title: 安卓共享UID新增Frida支持免Root修改
       url: https://www.52pojie.cn/thread-2074757-1-1.html
-    - author: xiayutianz
-      release_time: 2025.11.21 18:03:00
-      title: 他x星qiu算法分析
-      url: https://www.52pojie.cn/thread-2074694-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
