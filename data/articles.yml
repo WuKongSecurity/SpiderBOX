@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 虫迹追踪
+      release_time: 2025.12.21 12:19:03
+      title: js逆向-手把手教你扣代码
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDU2MTYwMQ==&mid=2247485201&idx=1&sn=65c23e7761571fa3354a461d357770c6
     - author: 布鲁的Python之旅
       release_time: 2025.12.19 14:36:08
       title: 【Web开发-01】Python构建心衰预测系统
@@ -240,10 +244,6 @@
       release_time: 2025.12.15 19:08:10
       title: 黑客猎杀黑客•意大利黑客军火商HackingTeam被攻陷全纪录
       url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486766&idx=1&sn=eda764db12d865651a05ed9c7e20e0f3
-    - author: LK安全
-      release_time: 2025.12.15 19:07:01
-      title: 一篇文章教会你企业SRC捡洞之JSONP(教程+实战案例)
-      url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486762&idx=1&sn=b9cb6738b70ee6493cf22175e6e9bf45
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
