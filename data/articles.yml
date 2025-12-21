@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 带带弟弟学爬虫
+      release_time: 2025.12.21 15:48:25
+      title: 安卓flutter--xx一番赏 (更新)
+      url: https://www.bilibili.com/video/BV16bqmBbELR
     - author: 陈不不and挽风的逆向
       release_time: 2025.12.19 22:32:21
       title: wasm-vmp二进制加壳工具免费使用
@@ -117,10 +121,6 @@
       release_time: 2025.11.29 16:54:35
       title: 02.safari代码拉取和环境配置
       url: https://www.bilibili.com/video/BV1BAUZBjEf2
-    - author: 小肩膀-逆向安全培训
-      release_time: 2025.11.29 16:54:32
-      title: 03.141版本chromium源码拉取
-      url: https://www.bilibili.com/video/BV1kRUoBQEQc
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
