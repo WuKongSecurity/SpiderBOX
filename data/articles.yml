@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 布鲁的Python之旅
+      release_time: 2025.12.22 15:00:01
+      title: 【Web开发-02】Python构建豆瓣电影推荐系统
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486248&idx=1&sn=6545e6e0627de29508c00efdfa07b24a
     - author: 逆向有你
       release_time: 2025.12.22 10:25:44
       title: 安卓逆向 -- 【解密实战】简单的图片加密分析
@@ -240,10 +244,6 @@
       release_time: 2025.12.16 14:13:26
       title: FlowMouse - 心流鼠标手势 v1.0【Chrome浏览器插件】
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143240&idx=1&sn=05e7aec87f70a98f00622a705295a8fa
-    - author: 逆向有你
-      release_time: 2025.12.16 10:38:44
-      title: 稿费翻倍 | 25年刊编撰启动，聚焦AI安全新战场
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040932&idx=1&sn=851e175f8aef4787d8672a40dffbe0eb
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
