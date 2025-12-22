@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 时一十一姐呀
+      release_time: 2025.12.22 09:07:07
+      title: 阿里10+数据相关岗位热招感兴趣的可以看看~
+      url: https://www.bilibili.com/video/BV1uRBHBzE6R
     - author: 带带弟弟学爬虫
       release_time: 2025.12.21 15:48:25
       title: 安卓flutter--xx一番赏 (更新)
@@ -117,13 +121,21 @@
       release_time: 2025.11.29 16:54:37
       title: 04-1.141版本chromium编译
       url: https://www.bilibili.com/video/BV1wRUoBXEoo
-    - author: 小肩膀-逆向安全培训
-      release_time: 2025.11.29 16:54:35
-      title: 02.safari代码拉取和环境配置
-      url: https://www.bilibili.com/video/BV1BAUZBjEf2
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.12.22 10:25:44
+      title: 安卓逆向 -- 【解密实战】简单的图片加密分析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040983&idx=1&sn=6925d185a0b882055a9e36acaef1d5f2
+    - author: 逆向OneByOne
+      release_time: 2025.12.22 09:00:00
+      title: 阿里有10+数据相关岗位热招快来快来
+      url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494122&idx=1&sn=55b5e1c878486902273f1ec9f3c6a3ed
+    - author: 二进制磨剑
+      release_time: 2025.12.22 09:00:00
+      title: BinLab | 免费 | LLVM 动手写编译器
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485846&idx=1&sn=4e87f373f71706be1caf3f05d6523535
     - author: 虫迹追踪
       release_time: 2025.12.21 12:19:03
       title: js逆向-手把手教你扣代码
@@ -232,18 +244,6 @@
       release_time: 2025.12.16 10:38:44
       title: 稿费翻倍 | 25年刊编撰启动，聚焦AI安全新战场
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040932&idx=1&sn=851e175f8aef4787d8672a40dffbe0eb
-    - author: 哆啦安全
-      release_time: 2025.12.16 08:48:27
-      title: Android开发智能调试分析软件V7.2
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499384&idx=1&sn=49938ef6b67dcde53eda6362ff57fcf7
-    - author: 二进制磨剑
-      release_time: 2025.12.16 08:40:00
-      title: IDA NO MCP 一句话挖掘某路由器固件漏洞，小白也能轻松审计固件漏洞
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485834&idx=1&sn=ae892e2d0f37775c1d7c0a57c55b5207
-    - author: LK安全
-      release_time: 2025.12.15 19:08:10
-      title: 黑客猎杀黑客•意大利黑客军火商HackingTeam被攻陷全纪录
-      url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486766&idx=1&sn=eda764db12d865651a05ed9c7e20e0f3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
