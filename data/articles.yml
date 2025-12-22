@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 静夜随想
+      release_time: 2025.12.22 20:39:21
+      title: 一个非常好用的自动化参数
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811203&idx=1&sn=5f65ce0d405d1c5bbe204f168772039c
     - author: 布鲁的Python之旅
       release_time: 2025.12.22 15:00:01
       title: 【Web开发-02】Python构建豆瓣电影推荐系统
@@ -240,10 +244,6 @@
       release_time: 2025.12.16 16:18:38
       title: 拿到Photoshop的源码了，发现两个意想不到的秘密......
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566253&idx=1&sn=19b99c0bd096d3592a85fa76d4673df2
-    - author: 吾爱破解论坛
-      release_time: 2025.12.16 14:13:26
-      title: FlowMouse - 心流鼠标手势 v1.0【Chrome浏览器插件】
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143240&idx=1&sn=05e7aec87f70a98f00622a705295a8fa
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
