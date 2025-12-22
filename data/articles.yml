@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 0xsdeo
+      release_time: 2025.12.22 14:45:00
+      title: Hook CryptoJS所有对称加密算法
+      url: https://www.52pojie.cn/thread-2081618-1-1.html
     - author: Dellevin
       release_time: 2025.12.21 22:46:00
       title: 宝塔面板去除专业版推广精简面板不必要功能
@@ -363,10 +367,6 @@
       release_time: 2025.11.23 15:50:00
       title: 中国移动 光猫 TEWA-7560B 开启telnet 及超级管理员密码 破解过程
       url: https://www.52pojie.cn/thread-2075005-1-1.html
-    - author: zsmz
-      release_time: 2025.11.23 06:12:00
-      title: steam hcaptcha 一些环境监测点分享
-      url: https://www.52pojie.cn/thread-2074942-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
