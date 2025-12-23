@@ -247,6 +247,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: HackXK
+      release_time: 2025.12.23 14:35:00
+      title: '[iOS逆向] 一款外挂辅助的分析逆向'
+      url: https://www.52pojie.cn/thread-2081862-1-1.html
+    - author: gggqqqxxx
+      release_time: 2025.12.23 12:16:00
+      title: 某wx小游戏反编译逆向分析
+      url: https://www.52pojie.cn/thread-2081826-1-1.html
     - author: 0xsdeo
       release_time: 2025.12.22 14:45:00
       title: Hook CryptoJS所有对称加密算法
@@ -359,14 +367,6 @@
       release_time: 2025.11.24 18:24:00
       title: 一键启动CeServer或Frida服务整合root版
       url: https://www.52pojie.cn/thread-2075344-1-1.html
-    - author: m9411
-      release_time: 2025.11.23 17:05:00
-      title: 某软件去除登录及注册对话框尝试
-      url: https://www.52pojie.cn/thread-2075024-1-1.html
-    - author: pzx521521
-      release_time: 2025.11.23 15:50:00
-      title: 中国移动 光猫 TEWA-7560B 开启telnet 及超级管理员密码 破解过程
-      url: https://www.52pojie.cn/thread-2075005-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
