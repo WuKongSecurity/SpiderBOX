@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小白技术社
+      release_time: 2025.12.23 12:00:00
+      title: 重生之我用AI写APatch的FRP模块
+      url: https://mp.weixin.qq.com/s?__biz=MzI4NTE1NDMwMA==&mid=2247485318&idx=1&sn=8186e099677b09fa85eb33d8cb32eb15
     - author: 無色逆向
       release_time: 2025.12.23 10:17:10
       title: 腾讯滑块验证码vmp逆向分析-补环境篇
@@ -240,10 +244,6 @@
       release_time: 2025.12.16 18:20:48
       title: 苏宁滑块VMP深入剖析(二)：补环境篇
       url: https://mp.weixin.qq.com/s?__biz=MzI0NDg0ODE1MQ==&mid=2247483841&idx=1&sn=ee5e4a38820df6114e19e10d10385073
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.12.16 16:45:03
-      title: 阅读指南｜2025个人信息与数据保护新书目汇总
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519791&idx=1&sn=4d5fee773b091a190e49b2596cba2a0f
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
