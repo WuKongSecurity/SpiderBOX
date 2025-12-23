@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.12.23 21:06:00
+      title: 一日一技：忘记 Celery，拥抱 arq
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991320&idx=1&sn=d5bfc3b36868f4e97173b8fc8f33fc5d
+    - author: 虫迹追踪
+      release_time: 2025.12.23 20:35:18
+      title: js逆向-某公共资源交易服务平台加密分析
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDU2MTYwMQ==&mid=2247485223&idx=1&sn=63c76698ce07a9c4c8780f8c99b28802
     - author: 冰敷逆向笔记
       release_time: 2025.12.23 18:09:36
       title: 使用AST还原字面量混淆的【公式化解法】
@@ -236,14 +244,6 @@
       release_time: 2025.12.18 08:42:23
       title: 视频号下载助手小版本优化
       url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247485921&idx=1&sn=80fc911b86bb2944ece7335aebea5fc2
-    - author: 哆啦安全
-      release_time: 2025.12.17 22:13:23
-      title: Smali/AAR/JAR/DEX/APK逆向分析转换工具V2.5
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499404&idx=1&sn=4557961adf884684f5d71f7761fabdce
-    - author: 菜鸟学Python编程
-      release_time: 2025.12.17 21:04:05
-      title: AST反混淆插件|去控制流前对运算符的简化操作
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566257&idx=1&sn=e3087021bf28d65edc7cc25dff41294a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
