@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 冰敷逆向笔记
+      release_time: 2025.12.23 18:09:36
+      title: 使用AST还原字面量混淆的【公式化解法】
+      url: https://mp.weixin.qq.com/s?__biz=MzI0NDg0ODE1MQ==&mid=2247483861&idx=1&sn=6d585905232932bcf6ecbc4ff22c23c7
     - author: 布鲁的Python之旅
       release_time: 2025.12.23 17:15:01
       title: 【Web开发-03】Python运动员伤病风险预测系统
@@ -240,10 +244,6 @@
       release_time: 2025.12.17 21:04:05
       title: AST反混淆插件|去控制流前对运算符的简化操作
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566257&idx=1&sn=e3087021bf28d65edc7cc25dff41294a
-    - author: 未闻Code
-      release_time: 2025.12.17 21:00:00
-      title: JustHTML：一次关于 AI 辅助编程的工程实践
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991299&idx=1&sn=0e2044cffeeda030feb0c5e110a5f23a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
