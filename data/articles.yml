@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.12.23 16:14:53
+      title: 中汽协：重庆长安等9家车企43款车型汽车数据处理5项安全要求
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519822&idx=1&sn=dfaad03cbf0fc973e1e4a04e54f746b8
+    - author: 极验
+      release_time: 2025.12.23 15:58:43
+      title: 快手 P0 级事故：“内容审核”已死，“前置拦截”当立
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724085&idx=1&sn=83de27cbd0d1765825f05c1469944c53
     - author: 小白技术社
       release_time: 2025.12.23 12:00:00
       title: 重生之我用AI写APatch的FRP模块
@@ -236,14 +244,6 @@
       release_time: 2025.12.17 10:50:04
       title: JS逆向 -- 某房指数一个简单的aes加解密
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040933&idx=1&sn=74b2e2a85ec500e621165dd6213dabe4
-    - author: Coder小Q
-      release_time: 2025.12.17 08:30:00
-      title: 【密码学】当Wordle遇上零知识证明
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493488&idx=1&sn=5d2732782580b609fd770f63d00f2776
-    - author: 冰敷逆向笔记
-      release_time: 2025.12.16 18:20:48
-      title: 苏宁滑块VMP深入剖析(二)：补环境篇
-      url: https://mp.weixin.qq.com/s?__biz=MzI0NDg0ODE1MQ==&mid=2247483841&idx=1&sn=ee5e4a38820df6114e19e10d10385073
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
