@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 布鲁的Python之旅
+      release_time: 2025.12.23 17:15:01
+      title: 【Web开发-03】Python运动员伤病风险预测系统
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486257&idx=1&sn=1782631109812dbcb8a7d27e20dba16d
     - author: 个人信息与数据保护实务评论
       release_time: 2025.12.23 16:14:53
       title: 中汽协：重庆长安等9家车企43款车型汽车数据处理5项安全要求
@@ -240,10 +244,6 @@
       release_time: 2025.12.17 21:00:00
       title: JustHTML：一次关于 AI 辅助编程的工程实践
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991299&idx=1&sn=0e2044cffeeda030feb0c5e110a5f23a
-    - author: 逆向有你
-      release_time: 2025.12.17 10:50:04
-      title: JS逆向 -- 某房指数一个简单的aes加解密
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040933&idx=1&sn=74b2e2a85ec500e621165dd6213dabe4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
