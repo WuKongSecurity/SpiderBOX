@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 無色逆向
+      release_time: 2025.12.23 10:17:10
+      title: 腾讯滑块验证码vmp逆向分析-补环境篇
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MjYyNTgxMQ==&mid=2247484407&idx=1&sn=d17bd5edc46b5e973103e3ded2c81c47
     - author: 小小杨学编程
       release_time: 2025.12.22 21:24:00
       title: 某商城小程序JSVMP纯算分析
@@ -240,10 +244,6 @@
       release_time: 2025.12.16 16:45:03
       title: 阅读指南｜2025个人信息与数据保护新书目汇总
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519791&idx=1&sn=4d5fee773b091a190e49b2596cba2a0f
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.12.16 16:45:03
-      title: 无网安制度、无审核机制致AI生成内容违法违规，一网站平台被网信部门查处
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519791&idx=2&sn=56ae155c89cf24bf69b14960ce421b6c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -410,6 +410,10 @@
       release_time: 2025.12.18 00:23:05
       title: '[原创] 某强祖师 手游 逆向 分析'
       url: https://bbs.kanxue.com/thread-289489.htm
+    - author: 用户vlhq4llSzI
+      release_time: 2025.12.17 21:52:00
+      title: 基于Frida的OLLVM混淆代码动态分析技术研究
+      url: https://xz.aliyun.com/news/90884
     - author: 悦来客栈的老板
       release_time: 2025.12.17 21:04:24
       title: AST反混淆插件|去控制流前对运算符的简化操作
@@ -486,10 +490,6 @@
       release_time: 2025.12.08 19:45:54
       title: JS代码压缩
       url: https://blog.csdn.net/w2sft/article/details/155714397
-    - author: xiusi
-      release_time: 2025.12.08 16:59:18
-      title: 经典 Frida 检测 libmsaoaidsec.so 绕过
-      url: https://bbs.kanxue.com/thread-289359.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
