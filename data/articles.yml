@@ -382,6 +382,10 @@
       release_time: 2025.12.19 16:50:41
       title: 学习逆向的一百多个公众号整理汇总
       url: https://blog.csdn.net/Qwertyuiop2016/article/details/156059133
+    - author: bcloud
+      release_time: 2025.12.19 15:06:00
+      title: 某App渗透测试实战：从信息泄漏到OSS凭据暴露的多维度漏洞分析
+      url: https://xz.aliyun.com/news/90901
     - author: αβγδεξπ
       release_time: 2025.12.18 19:35:17
       title: '[原创] ιldb 脚本 ——  你才叫 lldb，我叫 "约塔 ldb"'
@@ -486,10 +490,6 @@
       release_time: 2025.12.08 20:53:17
       title: '[原创]新版某马拉雅Ollvm混淆Signature参数解析'
       url: https://bbs.kanxue.com/thread-289361.htm
-    - author: w2sfot
-      release_time: 2025.12.08 19:45:54
-      title: JS代码压缩
-      url: https://blog.csdn.net/w2sft/article/details/155714397
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
