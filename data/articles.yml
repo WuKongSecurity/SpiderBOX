@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 無色逆向
+      release_time: 2025.12.24 09:47:45
+      title: 腾讯滑块验证码vmp逆向分析-算法篇
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MjYyNTgxMQ==&mid=2247484445&idx=1&sn=76112ce639e75b46453db286ea5ee388
     - author: 未闻Code
       release_time: 2025.12.23 21:06:00
       title: 一日一技：忘记 Celery，拥抱 arq
@@ -240,10 +244,6 @@
       release_time: 2025.12.18 10:12:20
       title: AST反混淆插件|去控制流前if语句转三目表达式
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566261&idx=1&sn=12aab78afb1507abe7a14dbb8986b1c4
-    - author: Python成长路
-      release_time: 2025.12.18 08:42:23
-      title: 视频号下载助手小版本优化
-      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247485921&idx=1&sn=80fc911b86bb2944ece7335aebea5fc2
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
