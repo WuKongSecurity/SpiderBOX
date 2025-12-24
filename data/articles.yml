@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.12.24 21:00:00
+      title: 我零基础，自学了AI应用开发
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991321&idx=1&sn=9c0eca99394d49b02b77f307782a88f0
     - author: 無色逆向
       release_time: 2025.12.24 09:47:45
       title: 腾讯滑块验证码vmp逆向分析-算法篇
@@ -240,10 +244,6 @@
       release_time: 2025.12.18 15:06:24
       title: rs-reverse项目适配新网站之flag配置项获取
       url: https://mp.weixin.qq.com/s?__biz=MzkyNzY2Mzc5MQ==&mid=2247483825&idx=1&sn=0218af3b3142b8a2c6546438a26c8411
-    - author: 菜鸟学Python编程
-      release_time: 2025.12.18 10:12:20
-      title: AST反混淆插件|去控制流前if语句转三目表达式
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566261&idx=1&sn=12aab78afb1507abe7a14dbb8986b1c4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
