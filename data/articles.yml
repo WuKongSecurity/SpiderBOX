@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.12.25 15:10:57
+      title: JS逆向 -- 某省过验证码逆向
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041035&idx=1&sn=567898bcd91ceaac66ee3c5d825347b0
+    - author: 哆啦安全
+      release_time: 2025.12.25 15:05:57
+      title: APK安全加固平台V5.2
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499425&idx=1&sn=f92ff3d7add367c335b2164d2408912a
     - author: 将往的爬虫逆向日记
       release_time: 2025.12.25 11:30:00
       title: AST从入门到入土：简单的控制流平坦化
@@ -200,6 +208,10 @@
       release_time: 2025.12.21 12:19:03
       title: js逆向-手把手教你扣代码
       url: https://mp.weixin.qq.com/s?__biz=Mzg4NDU2MTYwMQ==&mid=2247485201&idx=1&sn=65c23e7761571fa3354a461d357770c6
+    - author: 哆啦安全
+      release_time: 2025.12.20 10:36:32
+      title: Unity手游无Root注入工具
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499408&idx=1&sn=5260012899e6425667e8d24a354dd9d7
     - author: 布鲁的Python之旅
       release_time: 2025.12.19 14:36:08
       title: 【Web开发-01】Python构建心衰预测系统
@@ -232,18 +244,6 @@
       release_time: 2025.12.18 18:00:00
       title: 纯算逆向：rs-reverse版本更新v1.16.1
       url: https://mp.weixin.qq.com/s?__biz=MzkyNzY2Mzc5MQ==&mid=2247483815&idx=1&sn=346c4f16bd1b70d1d6b0df220c68906a
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.12.18 16:28:36
-      title: 未按照要求进行整改，上海市通信管理局下架38款APP
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519798&idx=1&sn=a41cbe4a1ba4ec8eced25b39f6dac90b
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.12.18 16:28:36
-      title: 国家能源局出台新规 加强能源行业数据安全管理
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519798&idx=2&sn=8dfc37f9b649b0bd21a20536ff36e396
-    - author: 虫迹追踪
-      release_time: 2025.12.18 16:27:25
-      title: js逆向-某省特种设备aes加密研究
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDU2MTYwMQ==&mid=2247485171&idx=1&sn=0d3d4a72736c35aa4bceff6664b9a7d1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
