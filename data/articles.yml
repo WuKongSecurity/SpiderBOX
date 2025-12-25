@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 爬虫逆向小林哥
+      release_time: 2025.12.25 09:00:00
+      title: 【网页逆向】xhs-x-s-c-b1参数纯算分析
+      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247486963&idx=1&sn=7d2aaf8b325dfecc92d418f9b24e094c
     - author: 未闻Code
       release_time: 2025.12.24 21:00:00
       title: 我零基础，自学了AI应用开发
@@ -240,10 +244,6 @@
       release_time: 2025.12.18 16:25:10
       title: 苏宁滑块VMP深入剖析(三)：纯算篇
       url: https://mp.weixin.qq.com/s?__biz=MzI0NDg0ODE1MQ==&mid=2247483856&idx=1&sn=184543b202ff91206c8e9e62004de08d
-    - author: 码功
-      release_time: 2025.12.18 15:06:24
-      title: rs-reverse项目适配新网站之flag配置项获取
-      url: https://mp.weixin.qq.com/s?__biz=MzkyNzY2Mzc5MQ==&mid=2247483825&idx=1&sn=0218af3b3142b8a2c6546438a26c8411
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
