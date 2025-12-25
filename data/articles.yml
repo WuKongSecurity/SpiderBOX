@@ -378,6 +378,10 @@
       release_time: 2025.12.24 01:56:13
       title: 某验全家桶分析，秒了~
       url: https://blog.csdn.net/L1416279170/article/details/156206606
+    - author: 逐影安全
+      release_time: 2025.12.23 10:41:00
+      title: 【原创解决方案附工具】Pixel 全链路渗透测试环境构建附原创工具
+      url: https://xz.aliyun.com/news/90929
     - author: 逆向新手
       release_time: 2025.12.21 12:21:18
       title: js逆向-手把手教你扣代码
@@ -486,10 +490,6 @@
       release_time: 2025.12.11 11:48:33
       title: '[原创]浅谈SQL注入手工测试思路'
       url: https://bbs.kanxue.com/thread-289400.htm
-    - author: rettozero
-      release_time: 2025.12.10 23:35:47
-      title: '[原创]纯静态解决遇到的各类global-metadata加密问题'
-      url: https://bbs.kanxue.com/thread-289395.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
