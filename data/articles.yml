@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 将往的爬虫逆向日记
+      release_time: 2025.12.25 11:30:00
+      title: AST从入门到入土：简单的控制流平坦化
+      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862143&idx=1&sn=42ec5faad49b96e4acfeded716a4e677
     - author: 爬虫逆向小林哥
       release_time: 2025.12.25 09:00:00
       title: 【网页逆向】xhs-x-s-c-b1参数纯算分析
@@ -240,10 +244,6 @@
       release_time: 2025.12.18 16:27:25
       title: js逆向-某省特种设备aes加密研究
       url: https://mp.weixin.qq.com/s?__biz=Mzg4NDU2MTYwMQ==&mid=2247485171&idx=1&sn=0d3d4a72736c35aa4bceff6664b9a7d1
-    - author: 冰敷逆向笔记
-      release_time: 2025.12.18 16:25:10
-      title: 苏宁滑块VMP深入剖析(三)：纯算篇
-      url: https://mp.weixin.qq.com/s?__biz=MzI0NDg0ODE1MQ==&mid=2247483856&idx=1&sn=184543b202ff91206c8e9e62004de08d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
