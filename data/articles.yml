@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 奋飞安全
+      release_time: 2025.12.25 15:58:46
+      title: 不让我用？这个真不能忍 - 某视频App强制启动
+      url: https://mp.weixin.qq.com/s?__biz=MzI4NzMwNDI3OQ==&mid=2247485043&idx=1&sn=3c741b6dad1c52027eb62013f112f3fd
     - author: 逆向有你
       release_time: 2025.12.25 15:10:57
       title: JS逆向 -- 某省过验证码逆向
@@ -240,10 +244,6 @@
       release_time: 2025.12.18 20:42:12
       title: 过检测 | 自己制作的自动化框架+自己改的内核
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483988&idx=1&sn=0d716b506b686542b7d9329a34ff8f2f
-    - author: 码功
-      release_time: 2025.12.18 18:00:00
-      title: 纯算逆向：rs-reverse版本更新v1.16.1
-      url: https://mp.weixin.qq.com/s?__biz=MzkyNzY2Mzc5MQ==&mid=2247483815&idx=1&sn=346c4f16bd1b70d1d6b0df220c68906a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -378,6 +378,10 @@
       release_time: 2025.12.24 01:56:13
       title: 某验全家桶分析，秒了~
       url: https://blog.csdn.net/L1416279170/article/details/156206606
+    - author: 用户aWuR48joYy
+      release_time: 2025.12.23 19:32:00
+      title: 某某校园 App 协议与逆向分析
+      url: https://xz.aliyun.com/news/90938
     - author: 逐影安全
       release_time: 2025.12.23 10:41:00
       title: 【原创解决方案附工具】Pixel 全链路渗透测试环境构建附原创工具
@@ -486,10 +490,6 @@
       release_time: 2025.12.11 16:32:50
       title: '[原创]学某通风控参数分析&Frida绕过(上)'
       url: https://bbs.kanxue.com/thread-289404.htm
-    - author: 三六零SRC
-      release_time: 2025.12.11 11:48:33
-      title: '[原创]浅谈SQL注入手工测试思路'
-      url: https://bbs.kanxue.com/thread-289400.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
