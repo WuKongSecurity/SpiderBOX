@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.12.25 16:27:30
+      title: 国家市场监管总局、国家网信办联合发布：关于变更个人信息出境认证依据标准的公告
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519825&idx=1&sn=b1526997b48512184756300e39f33eaa
+    - author: 个人信息与数据保护实务评论
+      release_time: 2025.12.25 16:27:30
+      title: 网安协会发布2025年第6批完成个人信息收集使用优化改进的App清单
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519825&idx=2&sn=4cda9b47f106c1bfc5378f4ff8fbe10a
+    - author: 布鲁的Python之旅
+      release_time: 2025.12.25 16:24:02
+      title: Python+PyQt5开发的英雄联盟的数据分析及预测的GUI系统
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486270&idx=1&sn=96cfc671ed10d0b47a6e4a28a1024a30
     - author: 奋飞安全
       release_time: 2025.12.25 15:58:46
       title: 不让我用？这个真不能忍 - 某视频App强制启动
@@ -232,18 +244,6 @@
       release_time: 2025.12.19 08:40:11
       title: Easy-Scraper爬虫插件
       url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494085&idx=1&sn=b4fabfbb75769f6f520134d60f844297
-    - author: 二进制磨剑
-      release_time: 2025.12.19 08:30:00
-      title: 【AI安全挑战】在夜之城，连“人性”都是可以被操纵的
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485841&idx=1&sn=2fba8321e33ccc8c3100fea2b6c6b980
-    - author: 不落的逆向手札
-      release_time: 2025.12.19 07:48:37
-      title: 基于ima的逆向资料知识库
-      url: https://mp.weixin.qq.com/s?__biz=MzYzNTAzOTIxMw==&mid=2247483831&idx=1&sn=3add4e7b366c2585d8eeda2ff0c5d5e1
-    - author: 如意私塾
-      release_time: 2025.12.18 20:42:12
-      title: 过检测 | 自己制作的自动化框架+自己改的内核
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483988&idx=1&sn=0d716b506b686542b7d9329a34ff8f2f
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
