@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 移动安全星球
+      release_time: 2025.12.26 18:53:00
+      title: 招聘招聘招聘
+      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486423&idx=1&sn=20e2317da643e4da981a2bbfc47793bd
     - author: Python头等奖
       release_time: 2025.12.26 16:23:47
       title: python爬虫逆向|jadx用上AI辅助逆向分析并附带某宝抓包hook代码
@@ -240,10 +244,6 @@
       release_time: 2025.12.23 20:35:18
       title: js逆向-某公共资源交易服务平台加密分析
       url: https://mp.weixin.qq.com/s?__biz=Mzg4NDU2MTYwMQ==&mid=2247485223&idx=1&sn=63c76698ce07a9c4c8780f8c99b28802
-    - author: 冰敷逆向笔记
-      release_time: 2025.12.23 18:09:36
-      title: 使用AST还原字面量混淆的【公式化解法】
-      url: https://mp.weixin.qq.com/s?__biz=MzI0NDg0ODE1MQ==&mid=2247483861&idx=1&sn=6d585905232932bcf6ecbc4ff22c23c7
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
