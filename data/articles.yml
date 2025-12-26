@@ -124,6 +124,46 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.12.26 09:03:10
+      title: 安卓逆向 -- 某讯的global-metadata.dat的解密算法
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041074&idx=1&sn=13bac3f01bd05df0d81e06fedab9a31b
+    - author: Coder小Q
+      release_time: 2025.12.26 08:30:00
+      title: 【密码学】LAKE 算法解读
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493533&idx=1&sn=b0d4ecc9e1879f9adc0c04eb9715fa9e
+    - author: 零基础爬虫第一天
+      release_time: 2025.12.25 23:40:54
+      title: 一个cdp的检测
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484000&idx=1&sn=184b928e55e5f18a1a10c958bad3601f
+    - author: 零基础爬虫第一天
+      release_time: 2025.12.25 23:36:54
+      title: 【DrissionPage源码-6】dp如何监听network和console
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247483993&idx=1&sn=eb338a45d2f7e61185267295fdbab9a7
+    - author: 零基础爬虫第一天
+      release_time: 2025.12.25 23:28:58
+      title: 【DrissionPage源码-5】dp如何将元素id 转成 ChromiumElement
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247483988&idx=1&sn=0c210fe2599c9a79edaa446f8f29256b
+    - author: 零基础爬虫第一天
+      release_time: 2025.12.25 23:24:51
+      title: 【DrissionPage源码-4】dp如何找到元素
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247483983&idx=1&sn=1b823e4f6a7af1e372929c793bfcefed
+    - author: 零基础爬虫第一天
+      release_time: 2025.12.25 23:19:11
+      title: 【DrissionPage源码-3】dp如何修改浏览器信息
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247483978&idx=1&sn=24893f47fc2c0b1bfbc1b8314726bff5
+    - author: 零基础爬虫第一天
+      release_time: 2025.12.25 23:15:09
+      title: 【DrissionPage源码-2】dp如何控制浏览器
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247483973&idx=1&sn=1ecd728d90c174047481c8cf0e5735f4
+    - author: 零基础爬虫第一天
+      release_time: 2025.12.25 23:10:00
+      title: 【DrissionPage源码-1】dp和selenium的异同
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247483968&idx=1&sn=d9a31600f781c52b413e48eecdeab283
+    - author: 零基础爬虫第一天
+      release_time: 2025.12.25 22:52:16
+      title: 【DrissionPage源码-0】了解CDP
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247483962&idx=1&sn=06926b8291c3bf23e03bd4f20b59dcc2
     - author: 个人信息与数据保护实务评论
       release_time: 2025.12.25 16:27:30
       title: 国家市场监管总局、国家网信办联合发布：关于变更个人信息出境认证依据标准的公告
@@ -160,10 +200,18 @@
       release_time: 2025.12.24 21:00:00
       title: 我零基础，自学了AI应用开发
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991321&idx=1&sn=9c0eca99394d49b02b77f307782a88f0
+    - author: 零基础爬虫第一天
+      release_time: 2025.12.24 19:55:40
+      title: 【node源码-6】async-hook c层修改及测试
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247483957&idx=1&sn=82f33770c965da4501dccf496ce7216c
     - author: 無色逆向
       release_time: 2025.12.24 09:47:45
       title: 腾讯滑块验证码vmp逆向分析-算法篇
       url: https://mp.weixin.qq.com/s?__biz=Mzg5MjYyNTgxMQ==&mid=2247484445&idx=1&sn=76112ce639e75b46453db286ea5ee388
+    - author: 零基础爬虫第一天
+      release_time: 2025.12.23 21:17:55
+      title: 【node源码-5】Async Hooks使用
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247483950&idx=1&sn=851c36cdeffcf7ee1d96c514f4aa7e04
     - author: 未闻Code
       release_time: 2025.12.23 21:06:00
       title: 一日一技：忘记 Celery，拥抱 arq
@@ -196,54 +244,6 @@
       release_time: 2025.12.23 10:17:10
       title: 腾讯滑块验证码vmp逆向分析-补环境篇
       url: https://mp.weixin.qq.com/s?__biz=Mzg5MjYyNTgxMQ==&mid=2247484407&idx=1&sn=d17bd5edc46b5e973103e3ded2c81c47
-    - author: 小小杨学编程
-      release_time: 2025.12.22 21:24:00
-      title: 某商城小程序JSVMP纯算分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484665&idx=1&sn=e648c089a603b32590cb5efde2093708
-    - author: 静夜随想
-      release_time: 2025.12.22 20:39:21
-      title: 一个非常好用的自动化参数
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811203&idx=1&sn=5f65ce0d405d1c5bbe204f168772039c
-    - author: 布鲁的Python之旅
-      release_time: 2025.12.22 15:00:01
-      title: 【Web开发-02】Python构建豆瓣电影推荐系统
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486248&idx=1&sn=6545e6e0627de29508c00efdfa07b24a
-    - author: 逆向有你
-      release_time: 2025.12.22 10:25:44
-      title: 安卓逆向 -- 【解密实战】简单的图片加密分析
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040983&idx=1&sn=6925d185a0b882055a9e36acaef1d5f2
-    - author: 逆向OneByOne
-      release_time: 2025.12.22 09:00:00
-      title: 阿里有10+数据相关岗位热招快来快来
-      url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494122&idx=1&sn=55b5e1c878486902273f1ec9f3c6a3ed
-    - author: 二进制磨剑
-      release_time: 2025.12.22 09:00:00
-      title: BinLab | 免费 | LLVM 动手写编译器
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485846&idx=1&sn=4e87f373f71706be1caf3f05d6523535
-    - author: 虫迹追踪
-      release_time: 2025.12.21 12:19:03
-      title: js逆向-手把手教你扣代码
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDU2MTYwMQ==&mid=2247485201&idx=1&sn=65c23e7761571fa3354a461d357770c6
-    - author: 哆啦安全
-      release_time: 2025.12.20 10:36:32
-      title: Unity手游无Root注入工具
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499408&idx=1&sn=5260012899e6425667e8d24a354dd9d7
-    - author: 布鲁的Python之旅
-      release_time: 2025.12.19 14:36:08
-      title: 【Web开发-01】Python构建心衰预测系统
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486235&idx=1&sn=810814552bd77ac923b2ca77e100e362
-    - author: 奋飞安全
-      release_time: 2025.12.19 14:25:56
-      title: 给你的Ida插上翅膀
-      url: https://mp.weixin.qq.com/s?__biz=MzI4NzMwNDI3OQ==&mid=2247485015&idx=1&sn=956e5bba1ad3b789c221e97b45b12e0e
-    - author: Python成长路
-      release_time: 2025.12.19 08:42:35
-      title: 学习逆向的一百多个公众号整理汇总
-      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247485929&idx=1&sn=d9624defa4cb0879d236e1754e007122
-    - author: 逆向OneByOne
-      release_time: 2025.12.19 08:40:11
-      title: Easy-Scraper爬虫插件
-      url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494085&idx=1&sn=b4fabfbb75769f6f520134d60f844297
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
