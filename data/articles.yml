@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 中二
+      release_time: 2025.12.26 14:59:00
+      title: 某御验证码逆向分析
+      url: https://www.52pojie.cn/thread-2082553-1-1.html
     - author: HackXK
       release_time: 2025.12.23 14:35:00
       title: '[iOS逆向] 一款外挂辅助的分析逆向'
@@ -363,10 +367,6 @@
       release_time: 2025.11.26 18:49:00
       title: 新人偶然逛到坛友的网页,顺便解一个加密练手
       url: https://www.52pojie.cn/thread-2075870-1-1.html
-    - author: cqy666
-      release_time: 2025.11.24 18:24:00
-      title: 一键启动CeServer或Frida服务整合root版
-      url: https://www.52pojie.cn/thread-2075344-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
