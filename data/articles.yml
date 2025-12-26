@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Python头等奖
+      release_time: 2025.12.26 16:23:47
+      title: python爬虫逆向|jadx用上AI辅助逆向分析并附带某宝抓包hook代码
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0NzMwMTM4OQ==&mid=2247484517&idx=1&sn=e7faf9177437b9b15366711279110a4a
     - author: 逆向狗都不学
       release_time: 2025.12.26 15:08:06
       title: JSVMP反编译之QQ音乐
@@ -240,10 +244,6 @@
       release_time: 2025.12.23 18:09:36
       title: 使用AST还原字面量混淆的【公式化解法】
       url: https://mp.weixin.qq.com/s?__biz=MzI0NDg0ODE1MQ==&mid=2247483861&idx=1&sn=6d585905232932bcf6ecbc4ff22c23c7
-    - author: 布鲁的Python之旅
-      release_time: 2025.12.23 17:15:01
-      title: 【Web开发-03】Python运动员伤病风险预测系统
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486257&idx=1&sn=1782631109812dbcb8a7d27e20dba16d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
