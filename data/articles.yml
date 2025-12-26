@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 软件安全与逆向分析
+      release_time: 2025.12.26 20:53:19
+      title: 感谢这一年来大家的支持，安卓逆向第二阶段即将迎来结束！
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484966&idx=1&sn=bdafca7d570beddc095b9d1d440b7eb2
+    - author: 如意私塾
+      release_time: 2025.12.26 20:14:45
+      title: 浏览器指纹模拟 | 纯CDP框架模拟浏览器指纹
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247483995&idx=1&sn=6ef38ecf4674d2d691482f37d4abb590
     - author: 移动安全星球
       release_time: 2025.12.26 18:53:00
       title: 招聘招聘招聘
@@ -236,14 +244,6 @@
       release_time: 2025.12.23 21:17:55
       title: 【node源码-5】Async Hooks使用
       url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247483950&idx=1&sn=851c36cdeffcf7ee1d96c514f4aa7e04
-    - author: 未闻Code
-      release_time: 2025.12.23 21:06:00
-      title: 一日一技：忘记 Celery，拥抱 arq
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991320&idx=1&sn=d5bfc3b36868f4e97173b8fc8f33fc5d
-    - author: 虫迹追踪
-      release_time: 2025.12.23 20:35:18
-      title: js逆向-某公共资源交易服务平台加密分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDU2MTYwMQ==&mid=2247485223&idx=1&sn=63c76698ce07a9c4c8780f8c99b28802
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
