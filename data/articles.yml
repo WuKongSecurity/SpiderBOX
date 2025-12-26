@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.12.26 12:15:40
+      title: FlowMouse - 心流鼠标手势 v1.1 RC 发布【开源Chrome插件】
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143249&idx=1&sn=ee661a7a1d694568d197bac1d7c0cd41
     - author: 逆向有你
       release_time: 2025.12.26 09:03:10
       title: 安卓逆向 -- 某讯的global-metadata.dat的解密算法
@@ -240,10 +244,6 @@
       release_time: 2025.12.23 12:00:00
       title: 重生之我用AI写APatch的FRP模块
       url: https://mp.weixin.qq.com/s?__biz=MzI4NTE1NDMwMA==&mid=2247485318&idx=1&sn=8186e099677b09fa85eb33d8cb32eb15
-    - author: 無色逆向
-      release_time: 2025.12.23 10:17:10
-      title: 腾讯滑块验证码vmp逆向分析-补环境篇
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MjYyNTgxMQ==&mid=2247484407&idx=1&sn=d17bd5edc46b5e973103e3ded2c81c47
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
