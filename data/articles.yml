@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向狗都不学
+      release_time: 2025.12.26 15:08:06
+      title: JSVMP反编译之QQ音乐
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247484104&idx=1&sn=43b2aa448a19f0610b154874d51fd0bf
+    - author: 将往的爬虫逆向日记
+      release_time: 2025.12.26 15:00:00
+      title: AST从入门到入土：简单的控制流平坦化(补充)
+      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862147&idx=1&sn=db9357e6f763fba4979eca4c8966986c
+    - author: 剑客古月的安全屋
+      release_time: 2025.12.26 14:55:25
+      title: ai安全-SFT&真正稳定的安全大模型，靠的不是模型
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNDY0NjY3MQ==&mid=2247485624&idx=1&sn=5233a866ebdcf298c3b754dfb894313c
     - author: 吾爱破解论坛
       release_time: 2025.12.26 12:15:40
       title: FlowMouse - 心流鼠标手势 v1.1 RC 发布【开源Chrome插件】
@@ -232,18 +244,6 @@
       release_time: 2025.12.23 17:15:01
       title: 【Web开发-03】Python运动员伤病风险预测系统
       url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486257&idx=1&sn=1782631109812dbcb8a7d27e20dba16d
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.12.23 16:14:53
-      title: 中汽协：重庆长安等9家车企43款车型汽车数据处理5项安全要求
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519822&idx=1&sn=dfaad03cbf0fc973e1e4a04e54f746b8
-    - author: 极验
-      release_time: 2025.12.23 15:58:43
-      title: 快手 P0 级事故：“内容审核”已死，“前置拦截”当立
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724085&idx=1&sn=83de27cbd0d1765825f05c1469944c53
-    - author: 小白技术社
-      release_time: 2025.12.23 12:00:00
-      title: 重生之我用AI写APatch的FRP模块
-      url: https://mp.weixin.qq.com/s?__biz=MzI4NTE1NDMwMA==&mid=2247485318&idx=1&sn=8186e099677b09fa85eb33d8cb32eb15
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
