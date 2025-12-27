@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: LaoBwait
+      release_time: 2025.12.26 23:53:00
+      title: 【JS逆向】某大型电商平台参数逆向分析
+      url: https://www.52pojie.cn/thread-2082647-1-1.html
     - author: 中二
       release_time: 2025.12.26 14:59:00
       title: 某御验证码逆向分析
@@ -363,10 +367,6 @@
       release_time: 2025.11.26 22:10:00
       title: 一简单app绕检测
       url: https://www.52pojie.cn/thread-2075901-1-1.html
-    - author: jianchi
-      release_time: 2025.11.26 18:49:00
-      title: 新人偶然逛到坛友的网页,顺便解一个加密练手
-      url: https://www.52pojie.cn/thread-2075870-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
