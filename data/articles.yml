@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Python成长路
+      release_time: 2025.12.27 23:31:43
+      title: 将公众号所有历史文章打包成知识库
+      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247485939&idx=1&sn=caaa9f33164c7ab9602e78425a289e1d
+    - author: 软件安全与逆向分析
+      release_time: 2025.12.27 14:31:49
+      title: Cuttlefish安卓模拟器最新DEB包下载获取脚本
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484971&idx=1&sn=a128c2cf69e40c6fbb481a2b2c43b100
+    - author: 哆啦安全
+      release_time: 2025.12.27 11:48:39
+      title: APP逆向分析工具V4.5
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499437&idx=1&sn=d16d6e56aece786a75b2783c0ad2fd7b
     - author: 软件安全与逆向分析
       release_time: 2025.12.26 20:53:19
       title: 感谢这一年来大家的支持，安卓逆向第二阶段即将迎来结束！
@@ -232,18 +244,6 @@
       release_time: 2025.12.24 21:00:00
       title: 我零基础，自学了AI应用开发
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991321&idx=1&sn=9c0eca99394d49b02b77f307782a88f0
-    - author: 零基础爬虫第一天
-      release_time: 2025.12.24 19:55:40
-      title: 【node源码-6】async-hook c层修改及测试
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247483957&idx=1&sn=82f33770c965da4501dccf496ce7216c
-    - author: 無色逆向
-      release_time: 2025.12.24 09:47:45
-      title: 腾讯滑块验证码vmp逆向分析-算法篇
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MjYyNTgxMQ==&mid=2247484445&idx=1&sn=76112ce639e75b46453db286ea5ee388
-    - author: 零基础爬虫第一天
-      release_time: 2025.12.23 21:17:55
-      title: 【node源码-5】Async Hooks使用
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247483950&idx=1&sn=851c36cdeffcf7ee1d96c514f4aa7e04
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
