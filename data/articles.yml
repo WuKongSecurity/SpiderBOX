@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Python成长路
+      release_time: 2025.12.27 23:50:54
+      title: 下载多个公众号全部历史文章打造逆向知识库
+      url: https://blog.csdn.net/Qwertyuiop2016/article/details/156343276
     - author: 狗都不学爬虫_
       release_time: 2025.12.25 13:45:11
       title: JS逆向 - 某程 w-payload-source 纯算、补环境分析
@@ -486,10 +490,6 @@
       release_time: 2025.12.11 17:37:55
       title: '[原创]学习通风控参数分析&Frida绕过(下)'
       url: https://bbs.kanxue.com/thread-289405.htm
-    - author: A0tem
-      release_time: 2025.12.11 16:32:50
-      title: '[原创]学某通风控参数分析&Frida绕过(上)'
-      url: https://bbs.kanxue.com/thread-289404.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
