@@ -124,14 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.12.28 21:00:00
+      title: 比 Everything 更好用，狂揽 12000+ GitHub Star！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991324&idx=1&sn=48da68b11494495499b3f80c706c18f8
     - author: 黑脸怪
       release_time: 2025.12.28 19:10:35
       title: TikTok X-Gnarly,X-Bogus 加解密详细分析
       url: https://mp.weixin.qq.com/s?__biz=MzI3MjQ3OTE3OA==&mid=2247484228&idx=1&sn=ff5544470b975b749eda0a9bd84ef592
-    - author: 爬虫逆向小林哥
-      release_time: 2025.12.28 12:00:00
-      title: 永久激活密钥：68MF6-8QU9Y-NG81K-A6K9J-62ZVD
-      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487010&idx=1&sn=8110509f6ea61cb2b8b8bd4d8d4c8c88
     - author: Python成长路
       release_time: 2025.12.27 23:31:43
       title: 将公众号所有历史文章打包成知识库
