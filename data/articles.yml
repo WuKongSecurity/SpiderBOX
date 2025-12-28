@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 爬虫逆向小林哥
+      release_time: 2025.12.28 12:00:00
+      title: 永久激活密钥：68MF6-8QU9Y-NG81K-A6K9J-62ZVD
+      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487010&idx=1&sn=8110509f6ea61cb2b8b8bd4d8d4c8c88
     - author: Python成长路
       release_time: 2025.12.27 23:31:43
       title: 将公众号所有历史文章打包成知识库
@@ -240,10 +244,6 @@
       release_time: 2025.12.25 09:00:00
       title: 【网页逆向】xhs-x-s-c-b1参数纯算分析
       url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247486963&idx=1&sn=7d2aaf8b325dfecc92d418f9b24e094c
-    - author: 未闻Code
-      release_time: 2025.12.24 21:00:00
-      title: 我零基础，自学了AI应用开发
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991321&idx=1&sn=9c0eca99394d49b02b77f307782a88f0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
