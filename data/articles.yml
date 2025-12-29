@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.12.29 15:03:03
+      title: 利用AI自动化搞定各种高端验证码，不花一分钱！
+      url: https://www.bilibili.com/video/BV1tDvHBhE7T
     - author: 冷月不是程序员
       release_time: 2025.12.23 00:38:13
       title: 想入行网络爬虫到底要学什么？一个视频告诉你
@@ -117,10 +121,6 @@
       release_time: 2025.11.29 17:05:35
       title: 浏览器内核定制系列大课教程介绍
       url: https://www.bilibili.com/video/BV1AoUoBHEV5
-    - author: 小肩膀-逆向安全培训
-      release_time: 2025.11.29 16:58:27
-      title: 01.safari内核编译虚拟机配置
-      url: https://www.bilibili.com/video/BV1BAUZBjESw
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
