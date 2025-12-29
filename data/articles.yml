@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2025.12.29 09:07:46
+      title: PC逆向 -- 某一卡通软件逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041097&idx=1&sn=818bdf21462c73a456bc4260dc86f97e
+    - author: SpiderDemo
+      release_time: 2025.12.29 08:50:00
+      title: SpiderDemo-JS代码混淆器(内测版)
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMzg4NDI4Mw==&mid=2247484611&idx=1&sn=b9262e282b8adb084954d632375da916
+    - author: 测试工程师成长之路
+      release_time: 2025.12.29 08:30:00
+      title: 同步还是异步？90%的测试都选错了，难怪Playwright脚本越跑越慢！
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578518&idx=1&sn=08b6d3e1abe7ff4f11f271cb720608ce
     - author: 未闻Code
       release_time: 2025.12.28 21:00:00
       title: 比 Everything 更好用，狂揽 12000+ GitHub Star！
@@ -232,18 +244,6 @@
       release_time: 2025.12.25 15:58:46
       title: 不让我用？这个真不能忍 - 某视频App强制启动
       url: https://mp.weixin.qq.com/s?__biz=MzI4NzMwNDI3OQ==&mid=2247485043&idx=1&sn=3c741b6dad1c52027eb62013f112f3fd
-    - author: 逆向有你
-      release_time: 2025.12.25 15:10:57
-      title: JS逆向 -- 某省过验证码逆向
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041035&idx=1&sn=567898bcd91ceaac66ee3c5d825347b0
-    - author: 哆啦安全
-      release_time: 2025.12.25 15:05:57
-      title: APK安全加固平台V5.2
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499425&idx=1&sn=f92ff3d7add367c335b2164d2408912a
-    - author: 将往的爬虫逆向日记
-      release_time: 2025.12.25 11:30:00
-      title: AST从入门到入土：简单的控制流平坦化
-      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862143&idx=1&sn=42ec5faad49b96e4acfeded716a4e677
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
