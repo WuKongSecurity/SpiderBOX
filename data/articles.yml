@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 将往的爬虫逆向日记
+      release_time: 2025.12.29 14:06:44
+      title: AST从入门到入土:无脑还原spiderdemo高级混淆
+      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862159&idx=1&sn=285af54513a7573dcded2d5d4fefa55c
     - author: 逆向有你
       release_time: 2025.12.29 09:07:46
       title: PC逆向 -- 某一卡通软件逆向分析
@@ -240,10 +244,6 @@
       release_time: 2025.12.25 16:24:02
       title: Python+PyQt5开发的英雄联盟的数据分析及预测的GUI系统
       url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486270&idx=1&sn=96cfc671ed10d0b47a6e4a28a1024a30
-    - author: 奋飞安全
-      release_time: 2025.12.25 15:58:46
-      title: 不让我用？这个真不能忍 - 某视频App强制启动
-      url: https://mp.weixin.qq.com/s?__biz=MzI4NzMwNDI3OQ==&mid=2247485043&idx=1&sn=3c741b6dad1c52027eb62013f112f3fd
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 八月欢喜
+      release_time: 2025.12.29 14:06:12
+      title: 【tiktok】协议登录解析 x-mssdk-info
+      url: https://blog.csdn.net/weixin_52283613/article/details/156383584
     - author: Python成长路
       release_time: 2025.12.27 23:50:54
       title: 下载多个公众号全部历史文章打造逆向知识库
@@ -486,10 +490,6 @@
       release_time: 2025.12.11 20:05:31
       title: AST反混淆技术：从混乱代码到清晰逻辑的解码之道
       url: https://blog.csdn.net/qq523176585/article/details/155958334
-    - author: A0tem
-      release_time: 2025.12.11 17:37:55
-      title: '[原创]学习通风控参数分析&Frida绕过(下)'
-      url: https://bbs.kanxue.com/thread-289405.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
