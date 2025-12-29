@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 带带弟弟学爬虫
+      release_time: 2025.12.30 00:35:22
+      title: 某flutter记账软件AES-dump字符串速通
+      url: https://www.bilibili.com/video/BV1T7vxB6EdB
     - author: B站用户骚神
       release_time: 2025.12.29 15:03:03
       title: 利用AI自动化搞定各种高端验证码，不花一分钱！
@@ -117,10 +121,6 @@
       release_time: 2025.11.29 17:08:24
       title: chromium浏览器开发mojo多进程通信介绍
       url: https://www.bilibili.com/video/BV1woUoBHE93
-    - author: 小肩膀-逆向安全培训
-      release_time: 2025.11.29 17:05:35
-      title: 浏览器内核定制系列大课教程介绍
-      url: https://www.bilibili.com/video/BV1AoUoBHEV5
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
