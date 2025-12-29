@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2025.12.29 19:48:28
+      title: 一日一技：过年如何跟亲戚解释大模型、AGI和人类的未来
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991330&idx=1&sn=fd6e8182f288688c12abe284a4355132
     - author: 将往的爬虫逆向日记
       release_time: 2025.12.29 14:06:44
       title: AST从入门到入土:无脑还原spiderdemo高级混淆
@@ -240,10 +244,6 @@
       release_time: 2025.12.25 16:27:30
       title: 网安协会发布2025年第6批完成个人信息收集使用优化改进的App清单
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519825&idx=2&sn=4cda9b47f106c1bfc5378f4ff8fbe10a
-    - author: 布鲁的Python之旅
-      release_time: 2025.12.25 16:24:02
-      title: Python+PyQt5开发的英雄联盟的数据分析及预测的GUI系统
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486270&idx=1&sn=96cfc671ed10d0b47a6e4a28a1024a30
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
