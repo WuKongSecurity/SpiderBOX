@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: CgfFan
+      release_time: 2025.12.30 15:30:24
+      title: wasm加密，荔枝网x-itouchtv-ca-key、x-itouchtv-ca-signature 参数加密分析
+      url: https://blog.csdn.net/m0_38098782/article/details/156422404
     - author: 九月镇灵将
       release_time: 2025.12.29 21:23:31
       title: 某东手势轨迹验证码多种识别方案汇总——训练
@@ -486,10 +490,6 @@
       release_time: 2025.12.17 16:40:58
       title: MiMo-V2-Flash
       url: https://blog.csdn.net/Linux_rm_rf_/article/details/156021661
-    - author: H1m
-      release_time: 2025.12.17 16:39:27
-      title: '[原创]安卓FRIDA'
-      url: https://bbs.kanxue.com/thread-289487.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
