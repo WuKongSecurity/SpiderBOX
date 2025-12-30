@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 零基础爬虫第一天
+      release_time: 2025.12.31 00:11:48
+      title: 一个cdp的检测（2）
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484015&idx=1&sn=b37586e1d17dd64ff0974f57b56467d4
     - author: Spade sec
       release_time: 2025.12.30 21:00:00
       title: 我的2025年终总结
@@ -240,10 +244,6 @@
       release_time: 2025.12.25 23:36:54
       title: 【DrissionPage源码-6】dp如何监听network和console
       url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247483993&idx=1&sn=eb338a45d2f7e61185267295fdbab9a7
-    - author: 零基础爬虫第一天
-      release_time: 2025.12.25 23:28:58
-      title: 【DrissionPage源码-5】dp如何将元素id 转成 ChromiumElement
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247483988&idx=1&sn=0c210fe2599c9a79edaa446f8f29256b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
