@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2025.12.30 14:51:57
+      title: Agent Skills 打造最强DrissionPage专用智能体！！MCP+知识库+工作流，三合一！
+      url: https://www.bilibili.com/video/BV1Cev8B5Etp
     - author: 带带弟弟学爬虫
       release_time: 2025.12.30 00:35:22
       title: 某flutter记账软件AES-dump字符串速通
@@ -117,10 +121,6 @@
       release_time: 2025.11.29 17:08:45
       title: 魔改浏览器过CDP机器人检测演示
       url: https://www.bilibili.com/video/BV1woUoBHEvW
-    - author: 小肩膀-逆向安全培训
-      release_time: 2025.11.29 17:08:24
-      title: chromium浏览器开发mojo多进程通信介绍
-      url: https://www.bilibili.com/video/BV1woUoBHE93
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
