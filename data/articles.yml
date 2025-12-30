@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Spade sec
+      release_time: 2025.12.30 21:00:00
+      title: 我的2025年终总结
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486899&idx=1&sn=4984344d827289d49dc258bddfe40a3e
     - author: 小白逆向成长日记
       release_time: 2025.12.30 18:10:12
       title: 某东h5st利用ai纯算分析
@@ -240,10 +244,6 @@
       release_time: 2025.12.25 23:28:58
       title: 【DrissionPage源码-5】dp如何将元素id 转成 ChromiumElement
       url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247483988&idx=1&sn=0c210fe2599c9a79edaa446f8f29256b
-    - author: 零基础爬虫第一天
-      release_time: 2025.12.25 23:24:51
-      title: 【DrissionPage源码-4】dp如何找到元素
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247483983&idx=1&sn=1b823e4f6a7af1e372929c793bfcefed
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
