@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2025.12.30 14:00:30
+      title: Android智能调试分析工具V7.5
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499445&idx=1&sn=f96192373e9e1b97cf3f3ccaa342542d
     - author: 未闻Code
       release_time: 2025.12.30 10:44:46
       title: 一日一知：Meta为什么会收购Manus
@@ -240,10 +244,6 @@
       release_time: 2025.12.25 22:52:16
       title: 【DrissionPage源码-0】了解CDP
       url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247483962&idx=1&sn=06926b8291c3bf23e03bd4f20b59dcc2
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.12.25 16:27:30
-      title: 国家市场监管总局、国家网信办联合发布：关于变更个人信息出境认证依据标准的公告
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519825&idx=1&sn=b1526997b48512184756300e39f33eaa
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
