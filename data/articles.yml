@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2025.12.31 17:46:43
+      title: 【PC样本分析】VT0检测样本分析(一)
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143289&idx=1&sn=d5a6484ae6f22e385ead09ce82f5d087
     - author: python爬虫和阿J的逆向
       release_time: 2025.12.31 17:35:00
       title: 【某里V2】震惊！消失多年的失踪人口回归
@@ -240,10 +244,6 @@
       release_time: 2025.12.26 18:53:00
       title: 招聘招聘招聘
       url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486423&idx=1&sn=20e2317da643e4da981a2bbfc47793bd
-    - author: Python头等奖
-      release_time: 2025.12.26 16:23:47
-      title: python爬虫逆向|jadx用上AI辅助逆向分析并附带某宝抓包hook代码
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0NzMwMTM4OQ==&mid=2247484517&idx=1&sn=e7faf9177437b9b15366711279110a4a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
