@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: 2025.12.31 14:23:52
+      title: 二进制磨剑 · 2025 年度总结 · 技术文章汇总· 收藏
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485869&idx=1&sn=30d3b0678b94b2a20ea3fe64fdb00577
     - author: 爬虫逆向小林哥
       release_time: 2025.12.31 10:53:19
       title: 年终篇-dy游客搜索风控日志上报
@@ -240,10 +244,6 @@
       release_time: 2025.12.26 14:55:25
       title: ai安全-SFT&真正稳定的安全大模型，靠的不是模型
       url: https://mp.weixin.qq.com/s?__biz=MzkxNDY0NjY3MQ==&mid=2247485624&idx=1&sn=5233a866ebdcf298c3b754dfb894313c
-    - author: 吾爱破解论坛
-      release_time: 2025.12.26 12:15:40
-      title: FlowMouse - 心流鼠标手势 v1.1 RC 发布【开源Chrome插件】
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143249&idx=1&sn=ee661a7a1d694568d197bac1d7c0cd41
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
