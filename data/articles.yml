@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Coder小Q
+      release_time: 2025.12.31 08:30:00
+      title: 2025年终总结：在挑战中重塑，在前行中沉淀
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493552&idx=1&sn=cdc196d6800e35050b15e674adc1160c
     - author: 零基础爬虫第一天
       release_time: 2025.12.31 00:11:48
       title: 一个cdp的检测（2）
@@ -240,10 +244,6 @@
       release_time: 2025.12.25 23:40:54
       title: 一个cdp的检测
       url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484000&idx=1&sn=184b928e55e5f18a1a10c958bad3601f
-    - author: 零基础爬虫第一天
-      release_time: 2025.12.25 23:36:54
-      title: 【DrissionPage源码-6】dp如何监听network和console
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247483993&idx=1&sn=eb338a45d2f7e61185267295fdbab9a7
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
