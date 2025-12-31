@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: python爬虫和阿J的逆向
+      release_time: 2025.12.31 17:35:00
+      title: 【某里V2】震惊！消失多年的失踪人口回归
+      url: https://mp.weixin.qq.com/s?__biz=MzkxOTIyODcyOA==&mid=2247485660&idx=1&sn=602f9452cd7817ce55003278557a1817
     - author: 极验
       release_time: 2025.12.31 16:17:42
       title: 一元复始，万象更新！极验祝愿大家元旦快乐！
@@ -240,10 +244,6 @@
       release_time: 2025.12.26 16:23:47
       title: python爬虫逆向|jadx用上AI辅助逆向分析并附带某宝抓包hook代码
       url: https://mp.weixin.qq.com/s?__biz=Mzk0NzMwMTM4OQ==&mid=2247484517&idx=1&sn=e7faf9177437b9b15366711279110a4a
-    - author: 逆向狗都不学
-      release_time: 2025.12.26 15:08:06
-      title: JSVMP反编译之QQ音乐
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247484104&idx=1&sn=43b2aa448a19f0610b154874d51fd0bf
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
