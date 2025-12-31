@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小道安全
+      release_time: 2025.12.31 22:00:57
+      title: 再见2025，你好2026
+      url: https://mp.weixin.qq.com/s?__biz=MzUxODkyODE0Mg==&mid=2247490897&idx=1&sn=6a3ca2029473e675974f4313fe1cb05a
     - author: 将往的爬虫逆向日记
       release_time: 2025.12.31 21:44:17
       title: 2025年终总结
@@ -240,10 +244,6 @@
       release_time: 2025.12.27 14:31:49
       title: Cuttlefish安卓模拟器最新DEB包下载获取脚本
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484971&idx=1&sn=a128c2cf69e40c6fbb481a2b2c43b100
-    - author: 哆啦安全
-      release_time: 2025.12.27 11:48:39
-      title: APP逆向分析工具V4.5
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499437&idx=1&sn=d16d6e56aece786a75b2783c0ad2fd7b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
