@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 爬虫逆向小林哥
+      release_time: 2025.12.31 10:53:19
+      title: 年终篇-dy游客搜索风控日志上报
+      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487014&idx=1&sn=e81554e35b74a5a87b20e9394e525c7e
+    - author: 奋飞安全
+      release_time: 2025.12.31 10:17:29
+      title: Jadx也想要翅膀
+      url: https://mp.weixin.qq.com/s?__biz=MzI4NzMwNDI3OQ==&mid=2247485051&idx=1&sn=b3698f0f3f1b006107e82e9184710f47
+    - author: 逆向有你
+      release_time: 2025.12.31 09:40:30
+      title: 安卓逆向 -- 某旅行app请求头参数逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041121&idx=1&sn=04b9dcbba194e28c256c7c1a2eacafc3
     - author: Coder小Q
       release_time: 2025.12.31 08:30:00
       title: 2025年终总结：在挑战中重塑，在前行中沉淀
@@ -232,18 +244,6 @@
       release_time: 2025.12.26 12:15:40
       title: FlowMouse - 心流鼠标手势 v1.1 RC 发布【开源Chrome插件】
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143249&idx=1&sn=ee661a7a1d694568d197bac1d7c0cd41
-    - author: 逆向有你
-      release_time: 2025.12.26 09:03:10
-      title: 安卓逆向 -- 某讯的global-metadata.dat的解密算法
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041074&idx=1&sn=13bac3f01bd05df0d81e06fedab9a31b
-    - author: Coder小Q
-      release_time: 2025.12.26 08:30:00
-      title: 【密码学】LAKE 算法解读
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493533&idx=1&sn=b0d4ecc9e1879f9adc0c04eb9715fa9e
-    - author: 零基础爬虫第一天
-      release_time: 2025.12.25 23:40:54
-      title: 一个cdp的检测
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484000&idx=1&sn=184b928e55e5f18a1a10c958bad3601f
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
