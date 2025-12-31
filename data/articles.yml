@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: qq196796483
+      release_time: 2025.12.31 14:52:00
+      title: JS逆向外贸教育平台，调度器的理解
+      url: https://www.52pojie.cn/thread-2083501-1-1.html
     - author: Hawcett
       release_time: 2025.12.29 16:34:00
       title: 地表最强 Android so加载全景图
@@ -255,6 +259,10 @@
       release_time: 2025.12.29 09:46:00
       title: '[Android] 记一次对VR播放器 4XVR Player 的本地验证逻辑分析与逆向实战'
       url: https://www.52pojie.cn/thread-2082996-1-1.html
+    - author: wolfSpicy
+      release_time: 2025.12.28 12:36:00
+      title: 欧易谷歌插件转换成网页
+      url: https://www.52pojie.cn/thread-2082856-1-1.html
     - author: LaoBwait
       release_time: 2025.12.26 23:53:00
       title: 【JS逆向】某大型电商平台参数逆向分析
@@ -359,14 +367,6 @@
       release_time: 2025.11.29 15:18:00
       title: 对某移动安全sdk的深入探究
       url: https://www.52pojie.cn/thread-2076506-1-1.html
-    - author: Barih
-      release_time: 2025.11.28 20:57:00
-      title: 某DB去开屏广告+本地vip（ProxyPin重写）
-      url: https://www.52pojie.cn/thread-2076382-1-1.html
-    - author: tuhouni
-      release_time: 2025.11.28 15:29:00
-      title: 极验滑块第4代逆向分析
-      url: https://www.52pojie.cn/thread-2076316-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
