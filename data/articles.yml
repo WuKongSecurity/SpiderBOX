@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 极验
+      release_time: 2025.12.31 16:17:42
+      title: 一元复始，万象更新！极验祝愿大家元旦快乐！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724096&idx=1&sn=0d32957e037afbc1f6e6818cea4e288b
+    - author: 猿人学Python
+      release_time: 2025.12.31 15:56:31
+      title: 2025 回顾
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550071&idx=1&sn=4b6e170a4cdf748ae6ab9162262e601d
     - author: 二进制磨剑
       release_time: 2025.12.31 14:23:52
       title: 二进制磨剑 · 2025 年度总结 · 技术文章汇总· 收藏
@@ -236,14 +244,6 @@
       release_time: 2025.12.26 15:08:06
       title: JSVMP反编译之QQ音乐
       url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247484104&idx=1&sn=43b2aa448a19f0610b154874d51fd0bf
-    - author: 将往的爬虫逆向日记
-      release_time: 2025.12.26 15:00:00
-      title: AST从入门到入土：简单的控制流平坦化(补充)
-      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862147&idx=1&sn=db9357e6f763fba4979eca4c8966986c
-    - author: 剑客古月的安全屋
-      release_time: 2025.12.26 14:55:25
-      title: ai安全-SFT&真正稳定的安全大模型，靠的不是模型
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNDY0NjY3MQ==&mid=2247485624&idx=1&sn=5233a866ebdcf298c3b754dfb894313c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
