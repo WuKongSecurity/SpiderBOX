@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: Alone逆向安全
+      release_time: 2026.01.02 03:03:09
+      title: 安卓逆向-某vmp crc32快速定位还原明文(ttd反向污点追踪的威力)
+      url: https://www.bilibili.com/video/BV1wCvRBLEeU
     - author: 那个昵称已经有人用过
       release_time: 2026.01.01 19:09:44
       title: eCapture：使用eBPF解锁加密流量
@@ -117,10 +121,6 @@
       release_time: 2025.12.02 18:13:11
       title: 本地AST还原Akamai混淆代码
       url: https://www.bilibili.com/video/BV13xSsBjE3S
-    - author: 小肩膀-逆向安全培训
-      release_time: 2025.11.29 17:20:45
-      title: 01.现代C++讲解目标
-      url: https://www.bilibili.com/video/BV1vGUZBgEeB
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
