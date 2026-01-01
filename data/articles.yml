@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 那个昵称已经有人用过
+      release_time: 2026.01.01 19:09:44
+      title: eCapture：使用eBPF解锁加密流量
+      url: https://www.bilibili.com/video/BV1gcvQB7E8b
     - author: B站用户骚神
       release_time: 2025.12.30 14:51:57
       title: Agent Skills 打造最强DrissionPage专用智能体！！MCP+知识库+工作流，三合一！
@@ -117,10 +121,6 @@
       release_time: 2025.11.29 17:20:45
       title: 01.现代C++讲解目标
       url: https://www.bilibili.com/video/BV1vGUZBgEeB
-    - author: 小肩膀-逆向安全培训
-      release_time: 2025.11.29 17:08:45
-      title: 魔改浏览器过CDP机器人检测演示
-      url: https://www.bilibili.com/video/BV1woUoBHEvW
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
