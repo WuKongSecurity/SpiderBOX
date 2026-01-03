@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 凛音姫
+      release_time: 2026.01.03 12:00:00
+      title: 【js逆向练习案例-16】 tiktok web滑块 edata vmp纯算
+      url: https://www.bilibili.com/video/BV1H5icBbE9h
     - author: Alone逆向安全
       release_time: 2026.01.02 03:03:09
       title: 安卓逆向-某vmp crc32快速定位还原明文(ttd反向污点追踪的威力)
@@ -117,10 +121,6 @@
       release_time: 2025.12.03 01:55:28
       title: js代理对象的全面检测
       url: https://www.bilibili.com/video/BV1VSStB4En6
-    - author: 逆向狗都不学
-      release_time: 2025.12.02 18:13:11
-      title: 本地AST还原Akamai混淆代码
-      url: https://www.bilibili.com/video/BV13xSsBjE3S
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
