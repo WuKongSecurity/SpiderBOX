@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2026.01.04 11:21:06
+      title: JS逆向 -- jy无感取巧思路
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041144&idx=1&sn=318253da6a27fe8c7fd457fe37c428d9
+    - author: 软件安全与逆向分析
+      release_time: 2026.01.02 13:45:16
+      title: 课程会给LSParanoid脱壳机？是的！安卓逆向第二阶段将以这一集结尾
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484979&idx=1&sn=33897a38af830cbca8dfed02e65703d5
     - author: 小道安全
       release_time: 2025.12.31 22:00:57
       title: 再见2025，你好2026
@@ -236,14 +244,6 @@
       release_time: 2025.12.28 19:10:35
       title: TikTok X-Gnarly,X-Bogus 加解密详细分析
       url: https://mp.weixin.qq.com/s?__biz=MzI3MjQ3OTE3OA==&mid=2247484228&idx=1&sn=ff5544470b975b749eda0a9bd84ef592
-    - author: Python成长路
-      release_time: 2025.12.27 23:31:43
-      title: 将公众号所有历史文章打包成知识库
-      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247485939&idx=1&sn=caaa9f33164c7ab9602e78425a289e1d
-    - author: 软件安全与逆向分析
-      release_time: 2025.12.27 14:31:49
-      title: Cuttlefish安卓模拟器最新DEB包下载获取脚本
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484971&idx=1&sn=a128c2cf69e40c6fbb481a2b2c43b100
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
