@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2026.01.04 14:48:17
+      title: 【DrissionRecord】抓取京东数据详情并自动保存成Excel
+      url: https://www.bilibili.com/video/BV1q3i7BvENB
     - author: 凛音姫
       release_time: 2026.01.03 12:00:00
       title: 【js逆向练习案例-16】 tiktok web滑块 edata vmp纯算
@@ -117,10 +121,6 @@
       release_time: 2025.12.03 02:01:29
       title: 击溃vm2源码解读
       url: https://www.bilibili.com/video/BV15mStBZEu8
-    - author: 漠染千舟
-      release_time: 2025.12.03 01:55:28
-      title: js代理对象的全面检测
-      url: https://www.bilibili.com/video/BV1VSStB4En6
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
