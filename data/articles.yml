@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 布鲁的Python之旅
+      release_time: 2026.01.04 16:38:42
+      title: 【Web开发-04】Python肥胖水平预测系统
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486284&idx=1&sn=4aacdd1fca504fec70dbd8a0d2988933
     - author: 二进制磨剑
       release_time: 2026.01.04 15:26:19
       title: Protobuf 逆向实战：从 Wire Format 到完整 .proto 文件
@@ -236,10 +240,6 @@
       release_time: 2025.12.29 14:06:44
       title: AST从入门到入土:无脑还原spiderdemo高级混淆
       url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862159&idx=1&sn=285af54513a7573dcded2d5d4fefa55c
-    - author: 逆向有你
-      release_time: 2025.12.29 09:07:46
-      title: PC逆向 -- 某一卡通软件逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041097&idx=1&sn=818bdf21462c73a456bc4260dc86f97e
     - author: SpiderDemo
       release_time: 2025.12.29 08:50:00
       title: SpiderDemo-JS代码混淆器(内测版)
