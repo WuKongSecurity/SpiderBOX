@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2026.01.04 15:04:02
+      title: Typora v1.12.4 安全分析：反反调试与激活劫持
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143298&idx=1&sn=8ebde0e233f094bb3abfed000163d468
     - author: 逆向有你
       release_time: 2026.01.04 11:21:06
       title: JS逆向 -- jy无感取巧思路
@@ -132,6 +136,10 @@
       release_time: 2026.01.02 13:45:16
       title: 课程会给LSParanoid脱壳机？是的！安卓逆向第二阶段将以这一集结尾
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484979&idx=1&sn=33897a38af830cbca8dfed02e65703d5
+    - author: 吾爱破解论坛
+      release_time: 2026.01.01 08:23:30
+      title: （图作者 | @Aoemax）
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143265&idx=1&sn=a8eab828a4dc1172c0594425826533e6
     - author: 小道安全
       release_time: 2025.12.31 22:00:57
       title: 再见2025，你好2026
@@ -236,14 +244,6 @@
       release_time: 2025.12.29 08:30:00
       title: 同步还是异步？90%的测试都选错了，难怪Playwright脚本越跑越慢！
       url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578518&idx=1&sn=08b6d3e1abe7ff4f11f271cb720608ce
-    - author: 未闻Code
-      release_time: 2025.12.28 21:00:00
-      title: 比 Everything 更好用，狂揽 12000+ GitHub Star！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991324&idx=1&sn=48da68b11494495499b3f80c706c18f8
-    - author: 黑脸怪
-      release_time: 2025.12.28 19:10:35
-      title: TikTok X-Gnarly,X-Bogus 加解密详细分析
-      url: https://mp.weixin.qq.com/s?__biz=MzI3MjQ3OTE3OA==&mid=2247484228&idx=1&sn=ff5544470b975b749eda0a9bd84ef592
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
