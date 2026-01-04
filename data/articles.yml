@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: steven026
+      release_time: 2026.01.04 03:52:00
+      title: Typora v1.12.4 安全分析：反反调试与激活劫持
+      url: https://www.52pojie.cn/thread-2084047-1-1.html
     - author: qq196796483
       release_time: 2025.12.31 14:52:00
       title: JS逆向外贸教育平台，调度器的理解
@@ -363,13 +367,17 @@
       release_time: 2025.11.30 21:01:00
       title: SpiderDemo T3  protobuf混淆解析挑战题解
       url: https://www.52pojie.cn/thread-2076729-1-1.html
-    - author: bananashipsBBQ
-      release_time: 2025.11.29 15:18:00
-      title: 对某移动安全sdk的深入探究
-      url: https://www.52pojie.cn/thread-2076506-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 九月镇灵将
+      release_time: 2026.01.04 11:19:31
+      title: dddd_trainer训练某保险公司官网复杂算术验证码（繁体字+阿拉伯数字+计算符）
+      url: https://blog.csdn.net/weixin_43845191/article/details/156561477
+    - author: 九月镇灵将
+      release_time: 2026.01.04 10:45:04
+      title: 自制文本标注工具（适配dddd_trainer，提供源码）
+      url: https://blog.csdn.net/weixin_43845191/article/details/156561547
     - author: 溏心蛋*
       release_time: 2025.12.31 17:51:43
       title: akamai___sensor_data___秒了~
@@ -482,14 +490,6 @@
       release_time: 2025.12.17 21:52:00
       title: 基于Frida的OLLVM混淆代码动态分析技术研究
       url: https://xz.aliyun.com/news/90884
-    - author: 悦来客栈的老板
-      release_time: 2025.12.17 21:04:24
-      title: AST反混淆插件|去控制流前对运算符的简化操作
-      url: https://blog.csdn.net/qq523176585/article/details/156030755
-    - author: H1m
-      release_time: 2025.12.17 16:43:27
-      title: FRIDA2
-      url: https://bbs.kanxue.com/thread-289488.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
