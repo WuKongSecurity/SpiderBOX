@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: 2026.01.04 15:26:19
+      title: Protobuf 逆向实战：从 Wire Format 到完整 .proto 文件
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485873&idx=1&sn=c88a10efc985aa60f95a1145177db82a
     - author: 吾爱破解论坛
       release_time: 2026.01.04 15:04:02
       title: Typora v1.12.4 安全分析：反反调试与激活劫持
@@ -240,10 +244,6 @@
       release_time: 2025.12.29 08:50:00
       title: SpiderDemo-JS代码混淆器(内测版)
       url: https://mp.weixin.qq.com/s?__biz=MzkwMzg4NDI4Mw==&mid=2247484611&idx=1&sn=b9262e282b8adb084954d632375da916
-    - author: 测试工程师成长之路
-      release_time: 2025.12.29 08:30:00
-      title: 同步还是异步？90%的测试都选错了，难怪Playwright脚本越跑越慢！
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578518&idx=1&sn=08b6d3e1abe7ff4f11f271cb720608ce
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
