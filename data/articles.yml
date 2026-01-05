@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: jet58
+      release_time: 2026.01.04 17:41:00
+      title: 一次完整的 Unity Mono 安卓游戏逆向：Frida Hook 绕过碰撞死亡判定
+      url: https://www.52pojie.cn/thread-2084229-1-1.html
     - author: steven026
       release_time: 2026.01.04 03:52:00
       title: Typora v1.12.4 安全分析：反反调试与激活劫持
@@ -363,10 +367,6 @@
       release_time: 2025.12.03 15:16:00
       title: 某对frida检测
       url: https://www.52pojie.cn/thread-2077394-1-1.html
-    - author: 220e285
-      release_time: 2025.12.03 00:31:00
-      title: 关于安卓逆向的学习日记------（二）
-      url: https://www.52pojie.cn/thread-2077262-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
