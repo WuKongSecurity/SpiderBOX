@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2026.01.05 09:25:03
+      title: 安卓逆向 -- 记录一次Unity加固的探索与实现
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041186&idx=1&sn=6df9ff66b6322c92510feab4b1d9906d
+    - author: 吾爱破解论坛
+      release_time: 2026.01.05 08:20:00
+      title: 某AppCDRM 直播m3u8 SM4-CBC解密分析
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143309&idx=1&sn=9db84dc9e6bef400bc6b7ba8ad5f4ad0
     - author: 布鲁的Python之旅
       release_time: 2026.01.04 16:38:42
       title: 【Web开发-04】Python肥胖水平预测系统
@@ -236,14 +244,6 @@
       release_time: 2025.12.29 19:48:28
       title: 一日一技：过年如何跟亲戚解释大模型、AGI和人类的未来
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991330&idx=1&sn=fd6e8182f288688c12abe284a4355132
-    - author: 将往的爬虫逆向日记
-      release_time: 2025.12.29 14:06:44
-      title: AST从入门到入土:无脑还原spiderdemo高级混淆
-      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862159&idx=1&sn=285af54513a7573dcded2d5d4fefa55c
-    - author: SpiderDemo
-      release_time: 2025.12.29 08:50:00
-      title: SpiderDemo-JS代码混淆器(内测版)
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMzg4NDI4Mw==&mid=2247484611&idx=1&sn=b9262e282b8adb084954d632375da916
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
