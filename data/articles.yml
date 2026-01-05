@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2026.01.05 21:00:00
+      title: 3.2 万人收藏的 Claude Skills，才是 AI 这条路上最值得研究的一套范式！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991340&idx=1&sn=90938a6a12935001bdcd6180767f5d6e
+    - author: 零基础爬虫第一天
+      release_time: 2026.01.05 20:23:11
+      title: 【node源码-8】node源码接入jsdom
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484023&idx=1&sn=e631042f9f7269cee81384fb644a9edd
     - author: 移动安全星球
       release_time: 2026.01.05 14:32:12
       title: 2026开年安全警报拉响：新规落地、AI攻防升级，这些风险就在你我身边
@@ -236,14 +244,6 @@
       release_time: 2025.12.30 15:16:39
       title: aws-waf-token纯算分析
       url: https://mp.weixin.qq.com/s?__biz=MzkzODkxMjAyOQ==&mid=2247483727&idx=1&sn=511f4a79fdb6584017ae6f4e2a2f1e9e
-    - author: 哆啦安全
-      release_time: 2025.12.30 14:00:30
-      title: Android智能调试分析工具V7.5
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499445&idx=1&sn=f96192373e9e1b97cf3f3ccaa342542d
-    - author: 未闻Code
-      release_time: 2025.12.30 10:44:46
-      title: 一日一知：Meta为什么会收购Manus
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991337&idx=1&sn=9a472a8160d0bafa8b03b04685a92b94
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
