@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 移动安全星球
+      release_time: 2026.01.05 14:32:12
+      title: 2026开年安全警报拉响：新规落地、AI攻防升级，这些风险就在你我身边
+      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486428&idx=1&sn=35337cda53f90e07197ed04d4ed2772e
     - author: 逆向有你
       release_time: 2026.01.05 09:25:03
       title: 安卓逆向 -- 记录一次Unity加固的探索与实现
@@ -240,10 +244,6 @@
       release_time: 2025.12.30 10:44:46
       title: 一日一知：Meta为什么会收购Manus
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991337&idx=1&sn=9a472a8160d0bafa8b03b04685a92b94
-    - author: 未闻Code
-      release_time: 2025.12.29 19:48:28
-      title: 一日一技：过年如何跟亲戚解释大模型、AGI和人类的未来
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991330&idx=1&sn=fd6e8182f288688c12abe284a4355132
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
