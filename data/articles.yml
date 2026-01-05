@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: w2sfot
+      release_time: 2026.01.05 08:41:35
+      title: ' JSX转JS（Jsx2Js）将JSX代码转化成Js代码'
+      url: https://blog.csdn.net/w2sft/article/details/156589122
     - author: 九月镇灵将
       release_time: 2026.01.04 11:19:31
       title: dddd_trainer训练某保险公司官网复杂算术验证码（繁体字+阿拉伯数字+计算符）
@@ -486,10 +490,6 @@
       release_time: 2025.12.18 00:23:05
       title: '[原创] 某强祖师 手游 逆向 分析'
       url: https://bbs.kanxue.com/thread-289489.htm
-    - author: 用户vlhq4llSzI
-      release_time: 2025.12.17 21:52:00
-      title: 基于Frida的OLLVM混淆代码动态分析技术研究
-      url: https://xz.aliyun.com/news/90884
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
