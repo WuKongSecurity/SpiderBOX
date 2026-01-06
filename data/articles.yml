@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: Alone逆向安全
+      release_time: 2026.01.06 12:00:02
+      title: 安卓逆向-app逆向 vmp的屠龙刀(TTD反向污点分析秒杀SHA256算法)
+      url: https://www.bilibili.com/video/BV1FSqcBbEMv
     - author: B站用户骚神
       release_time: 2026.01.04 14:48:17
       title: 【DrissionRecord】抓取京东数据详情并自动保存成Excel
@@ -117,10 +121,6 @@
       release_time: 2025.12.03 02:01:50
       title: win11文件名bug
       url: https://www.bilibili.com/video/BV1NNSbBjEXD
-    - author: 漠染千舟
-      release_time: 2025.12.03 02:01:29
-      title: 击溃vm2源码解读
-      url: https://www.bilibili.com/video/BV15mStBZEu8
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
