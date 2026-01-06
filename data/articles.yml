@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: dddd0526
+      release_time: 2026.01.06 15:45:00
+      title: 某讯jsvmp(一)
+      url: https://www.52pojie.cn/thread-2084662-1-1.html
     - author: 丁宝振
       release_time: 2026.01.06 09:53:00
       title: MT管理器破解某诗词类APP会员保姆级教程，更新7.3.0版本拉
@@ -363,10 +367,6 @@
       release_time: 2025.12.06 13:18:00
       title: 记一次去除某设备的各种限制
       url: https://www.52pojie.cn/thread-2078087-1-1.html
-    - author: luliucheng
-      release_time: 2025.12.05 23:24:00
-      title: '[全网首发但已失效] 123 盘提取带中文提取码的文件'
-      url: https://www.52pojie.cn/thread-2078001-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
