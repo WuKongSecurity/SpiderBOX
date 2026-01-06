@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 清新
+      release_time: 2026.01.06 23:12:00
+      title: iOS逆向开发（一） 时隔8年分享些知识
+      url: https://www.52pojie.cn/thread-2084767-1-1.html
     - author: dddd0526
       release_time: 2026.01.06 15:45:00
       title: 某讯jsvmp(一)
@@ -363,10 +367,6 @@
       release_time: 2025.12.06 16:24:00
       title: 某应用AntiToken算法分析
       url: https://www.52pojie.cn/thread-2078117-1-1.html
-    - author: zcg9783
-      release_time: 2025.12.06 13:18:00
-      title: 记一次去除某设备的各种限制
-      url: https://www.52pojie.cn/thread-2078087-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
