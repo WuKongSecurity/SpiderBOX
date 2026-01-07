@@ -124,6 +124,42 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2026.01.07 11:54:36
+      title: 无源NFC墨水屏制作
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143370&idx=1&sn=88a662c68c1fd5eeb9abc1f163a6f073
+    - author: 榫卯江湖
+      release_time: 2026.01.07 08:08:00
+      title: 某APP样本安全检测绕过：小试SVC系统调用HOOK
+      url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485256&idx=1&sn=a2b5b2da64e5daacde633a2ddcca1009
+    - author: 静夜随想
+      release_time: 2026.01.06 20:41:04
+      title: 用AI写了个金手指计数器微信小程序
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811221&idx=1&sn=7189b14ba4e10c6430f133bd82270c26
+    - author: 如意私塾
+      release_time: 2026.01.06 18:38:14
+      title: CDP框架自制 | CDP远程执行获取爬虫加密参数
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484001&idx=1&sn=8ebccda34c4377fca82572bbebe32a72
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.01.06 17:23:37
+      title: Deepseek承诺改进“AI幻觉”风险披露措施，意大利监管机构结束调查
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519835&idx=1&sn=6a795bbc2efbdbf4427fe1653263aa32
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.01.06 17:23:37
+      title: 93款违法违规App/SDK被通报，涉违规收集个人信息等行为
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519835&idx=2&sn=b231560daa70d996619bff384e7b3e1e
+    - author: 哆啦安全
+      release_time: 2026.01.06 14:50:20
+      title: Android Apk逆向分析工具(jadx-ai-mcp)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499459&idx=1&sn=f2d28d2957373ad15deb88a321038162
+    - author: 吾爱破解论坛
+      release_time: 2026.01.06 12:10:00
+      title: 某御验证码逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143353&idx=1&sn=295c7efe23a40fc4aa10810732c383f8
+    - author: LK安全
+      release_time: 2026.01.06 11:55:45
+      title: app攻防系列2-移动端抓包技术详解
+      url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486837&idx=1&sn=dff3a0e60cf1c9dbc076c7ebb503f5a0
     - author: 逆向有你
       release_time: 2026.01.06 09:31:57
       title: JS逆向 -- 某当网登录滑块逆向
@@ -208,42 +244,6 @@
       release_time: 2025.12.31 15:56:31
       title: 2025 回顾
       url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550071&idx=1&sn=4b6e170a4cdf748ae6ab9162262e601d
-    - author: 二进制磨剑
-      release_time: 2025.12.31 14:23:52
-      title: 二进制磨剑 · 2025 年度总结 · 技术文章汇总· 收藏
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485869&idx=1&sn=30d3b0678b94b2a20ea3fe64fdb00577
-    - author: 爬虫逆向小林哥
-      release_time: 2025.12.31 10:53:19
-      title: 年终篇-dy游客搜索风控日志上报
-      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487014&idx=1&sn=e81554e35b74a5a87b20e9394e525c7e
-    - author: 奋飞安全
-      release_time: 2025.12.31 10:17:29
-      title: Jadx也想要翅膀
-      url: https://mp.weixin.qq.com/s?__biz=MzI4NzMwNDI3OQ==&mid=2247485051&idx=1&sn=b3698f0f3f1b006107e82e9184710f47
-    - author: 逆向有你
-      release_time: 2025.12.31 09:40:30
-      title: 安卓逆向 -- 某旅行app请求头参数逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041121&idx=1&sn=04b9dcbba194e28c256c7c1a2eacafc3
-    - author: Coder小Q
-      release_time: 2025.12.31 08:30:00
-      title: 2025年终总结：在挑战中重塑，在前行中沉淀
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493552&idx=1&sn=cdc196d6800e35050b15e674adc1160c
-    - author: 零基础爬虫第一天
-      release_time: 2025.12.31 00:11:48
-      title: 一个cdp的检测（2）
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484015&idx=1&sn=b37586e1d17dd64ff0974f57b56467d4
-    - author: Spade sec
-      release_time: 2025.12.30 21:00:00
-      title: 我的2025年终总结
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486899&idx=1&sn=4984344d827289d49dc258bddfe40a3e
-    - author: 小白逆向成长日记
-      release_time: 2025.12.30 18:10:12
-      title: 某东h5st利用ai纯算分析
-      url: https://mp.weixin.qq.com/s?__biz=MzA4ODA3NDA1NQ==&mid=2247484675&idx=1&sn=ce639d7671c21ae039f4b1913d21eb78
-    - author: 个人信息与数据保护实务评论
-      release_time: 2025.12.30 17:45:30
-      title: 国家网信办：每年1月底前报送上一年度未成年人个保合规审计情况
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519833&idx=1&sn=4b2e200d1545221f89a33d8d4b738de4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
