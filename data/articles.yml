@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 软件安全与逆向分析
+      release_time: 2026.01.07 18:09:05
+      title: 基于编译器Pass技术对安卓DEX混淆代码与花指令进行优化
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484987&idx=1&sn=094d7731af56aefac6a08e9eae52bba5
     - author: 吾爱破解论坛
       release_time: 2026.01.07 11:54:36
       title: 无源NFC墨水屏制作
@@ -240,10 +244,6 @@
       release_time: 2025.12.31 16:17:42
       title: 一元复始，万象更新！极验祝愿大家元旦快乐！
       url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724096&idx=1&sn=0d32957e037afbc1f6e6818cea4e288b
-    - author: 猿人学Python
-      release_time: 2025.12.31 15:56:31
-      title: 2025 回顾
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550071&idx=1&sn=4b6e170a4cdf748ae6ab9162262e601d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
