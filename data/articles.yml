@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 零基础爬虫第一天
+      release_time: 2026.01.07 19:33:42
+      title: 【node源码-9】魔改node自动补原型和函数保护
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484029&idx=1&sn=4c01abafe999b9f9e6bcde7ac46baeb1
     - author: 软件安全与逆向分析
       release_time: 2026.01.07 18:09:05
       title: 基于编译器Pass技术对安卓DEX混淆代码与花指令进行优化
@@ -240,10 +244,6 @@
       release_time: 2025.12.31 17:35:00
       title: 【某里V2】震惊！消失多年的失踪人口回归
       url: https://mp.weixin.qq.com/s?__biz=MzkxOTIyODcyOA==&mid=2247485660&idx=1&sn=602f9452cd7817ce55003278557a1817
-    - author: 极验
-      release_time: 2025.12.31 16:17:42
-      title: 一元复始，万象更新！极验祝愿大家元旦快乐！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724096&idx=1&sn=0d32957e037afbc1f6e6818cea4e288b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
