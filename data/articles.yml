@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2026.01.08 11:25:08
+      title: 记录下基于符号执行求解发现vmp分支的思路
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143396&idx=1&sn=cb60cd138d0357996c23903aeeea966f
     - author: 逆向有你
       release_time: 2026.01.08 11:00:00
       title: 沈阳深蓝2025年HW项目结算完毕
@@ -240,10 +244,6 @@
       release_time: 2025.12.31 20:11:58
       title: 【node源码-7】node自定义对象及函数实现
       url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484019&idx=1&sn=4c6dcf27e45214bcb93b6a26b1e6fd54
-    - author: 影17
-      release_time: 2025.12.31 17:56:02
-      title: 某洲入门级SO逆向
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247490260&idx=1&sn=3879a1113c1194ba455ef707111f1cee
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
