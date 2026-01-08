@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 极验
+      release_time: 2026.01.08 09:00:00
+      title: Spotify遭“合法洗库”：AI时代，数据正从“资产”沦为“养料”
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724108&idx=1&sn=e2675874f9a1314a2a83bdb857e1e9cd
     - author: 零基础爬虫第一天
       release_time: 2026.01.07 19:33:42
       title: 【node源码-9】魔改node自动补原型和函数保护
@@ -240,10 +244,6 @@
       release_time: 2025.12.31 17:46:43
       title: 【PC样本分析】VT0检测样本分析(一)
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143289&idx=1&sn=d5a6484ae6f22e385ead09ce82f5d087
-    - author: python爬虫和阿J的逆向
-      release_time: 2025.12.31 17:35:00
-      title: 【某里V2】震惊！消失多年的失踪人口回归
-      url: https://mp.weixin.qq.com/s?__biz=MzkxOTIyODcyOA==&mid=2247485660&idx=1&sn=602f9452cd7817ce55003278557a1817
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
