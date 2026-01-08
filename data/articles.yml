@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向狗都不学
+      release_time: 2026.01.08 15:29:01
+      title: JSVMP反编译之JD
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247484143&idx=1&sn=3c46f224c4ea4bdd39721d55d3e06862
     - author: 哆啦安全
       release_time: 2026.01.08 12:09:48
       title: 逆向交流群|Android智能调试工具(下载地址)
@@ -240,10 +244,6 @@
       release_time: 2025.12.31 22:00:57
       title: 再见2025，你好2026
       url: https://mp.weixin.qq.com/s?__biz=MzUxODkyODE0Mg==&mid=2247490897&idx=1&sn=6a3ca2029473e675974f4313fe1cb05a
-    - author: 将往的爬虫逆向日记
-      release_time: 2025.12.31 21:44:17
-      title: 2025年终总结
-      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862171&idx=1&sn=3b71f72421b2d02433ad9fc0c638cda4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
