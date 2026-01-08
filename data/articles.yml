@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.01.08 17:00:35
+      title: 工信部等八部门联合印发《“人工智能+制造”专项行动实施意见》
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519841&idx=1&sn=12f0e61b81abe26519e40d261e23a4db
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.01.08 17:00:35
+      title: 裁判文书审判员隐名？最高法回应：显属不当，已安排整改
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519841&idx=2&sn=eda5916622e399194bb40d14ddf95fd0
+    - author: 布鲁的Python之旅
+      release_time: 2026.01.08 17:00:00
+      title: 电影票房数据分析与可视化系统 (2025版)
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486299&idx=1&sn=eca20b1747d846906277e5054f678ff6
     - author: 逆向狗都不学
       release_time: 2026.01.08 15:29:01
       title: JSVMP反编译之JD
@@ -232,18 +244,6 @@
       release_time: 2026.01.04 11:21:06
       title: JS逆向 -- jy无感取巧思路
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041144&idx=1&sn=318253da6a27fe8c7fd457fe37c428d9
-    - author: 软件安全与逆向分析
-      release_time: 2026.01.02 13:45:16
-      title: 课程会给LSParanoid脱壳机？是的！安卓逆向第二阶段将以这一集结尾
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484979&idx=1&sn=33897a38af830cbca8dfed02e65703d5
-    - author: 吾爱破解论坛
-      release_time: 2026.01.01 08:23:30
-      title: （图作者 | @Aoemax）
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143265&idx=1&sn=a8eab828a4dc1172c0594425826533e6
-    - author: 小道安全
-      release_time: 2025.12.31 22:00:57
-      title: 再见2025，你好2026
-      url: https://mp.weixin.qq.com/s?__biz=MzUxODkyODE0Mg==&mid=2247490897&idx=1&sn=6a3ca2029473e675974f4313fe1cb05a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
