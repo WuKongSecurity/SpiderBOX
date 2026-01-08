@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2026.01.08 21:04:00
+      title: 100 个典型示例 + 8 大实战案例，这本新书让你的代码真正“飞”起来！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991352&idx=1&sn=dfd69496a2e1d69fdfefe5235c5d2774
     - author: 个人信息与数据保护实务评论
       release_time: 2026.01.08 17:00:35
       title: 工信部等八部门联合印发《“人工智能+制造”专项行动实施意见》
@@ -240,10 +244,6 @@
       release_time: 2026.01.04 15:04:02
       title: Typora v1.12.4 安全分析：反反调试与激活劫持
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143298&idx=1&sn=8ebde0e233f094bb3abfed000163d468
-    - author: 逆向有你
-      release_time: 2026.01.04 11:21:06
-      title: JS逆向 -- jy无感取巧思路
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041144&idx=1&sn=318253da6a27fe8c7fd457fe37c428d9
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
