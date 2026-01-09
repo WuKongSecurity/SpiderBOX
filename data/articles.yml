@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 和沐阳学逆向
+      release_time: 2026.01.09 19:30:00
+      title: 67.iOS 18 越狱教程：palera1n + 巨魔安装全流程
+      url: https://www.bilibili.com/video/BV1JWrPBmEpr
     - author: ikun的嘴
       release_time: 2026.01.09 16:47:01
       title: 腾讯系验证码纯算秒杀风控
@@ -117,10 +121,6 @@
       release_time: 2025.12.09 10:11:47
       title: 手把手教你还原ob混淆(二)
       url: https://www.bilibili.com/video/BV1nm2SB4Euj
-    - author: 若水0014
-      release_time: 2025.12.05 18:40:06
-      title: C++虚函数和多态的自制替代方案fast_interface
-      url: https://www.bilibili.com/video/BV1mD25BqE3w
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
