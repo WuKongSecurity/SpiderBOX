@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 九月镇灵将
+      release_time: 2026.01.11 14:29:52
+      title: gif动态验证码多种识别方案汇总（非训练版）
+      url: https://blog.csdn.net/weixin_43845191/article/details/156802555
     - author: Rocky虞
       release_time: 2026.01.09 19:07:45
       title: '[原创]【JS逆向】某书x-s 4.2.9 mns0301 分析'
@@ -486,10 +490,6 @@
       release_time: 2025.12.25 13:45:11
       title: JS逆向 - 某程 w-payload-source 纯算、补环境分析
       url: https://blog.csdn.net/qq_53444631/article/details/156267650
-    - author: 溏心蛋*
-      release_time: 2025.12.24 01:56:13
-      title: 某验全家桶分析，秒了~
-      url: https://blog.csdn.net/L1416279170/article/details/156206606
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
