@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 带带弟弟学爬虫
+      release_time: 2026.01.11 19:57:15
+      title: frida dump 秒杀chuanxiao + 新课推广
+      url: https://www.bilibili.com/video/BV1A26ZBBEH2
     - author: 和沐阳学逆向
       release_time: 2026.01.09 19:30:00
       title: 67.iOS 18 越狱教程：palera1n + 巨魔安装全流程
@@ -117,10 +121,6 @@
       release_time: 2025.12.09 14:43:10
       title: 【DrissionPageMCP】让AI自动帮你写爬虫代码！！
       url: https://www.bilibili.com/video/BV1Q42QBUEm7
-    - author: 悦来客栈的老板
-      release_time: 2025.12.09 10:11:47
-      title: 手把手教你还原ob混淆(二)
-      url: https://www.bilibili.com/video/BV1nm2SB4Euj
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: HackXK
+      release_time: 2026.01.11 19:57:00
+      title: 倩女幽魂之-教师招聘考试 一剑碎虚空
+      url: https://www.52pojie.cn/thread-2085830-1-1.html
     - author: 3xsh0re
       release_time: 2026.01.09 15:12:00
       title: 某站评论获取接口分析
@@ -363,10 +367,6 @@
       release_time: 2025.12.10 21:13:00
       title: AST自动插桩jsvmp的简单实现
       url: https://www.52pojie.cn/thread-2079058-1-1.html
-    - author: 嘟嘟ЯR
-      release_time: 2025.12.09 19:36:00
-      title: 分享lb投屏,免更新的不完美修改方法
-      url: https://www.52pojie.cn/thread-2078788-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
