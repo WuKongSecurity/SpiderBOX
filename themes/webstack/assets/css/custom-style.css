@@ -1,6 +1,11 @@
 @font-face {
     font-family: "OxaniumRegular";
-    src: url("https://static.spiderapi.cn/public/fonts/OxaniumRegular-Lite-222.woff2");
+    src: url("https://static.wukongsec.com/public/fonts/OxaniumRegular-Lite-222.woff2");
+}
+
+@font-face {
+    font-family: "DingTalk-JinBuTi";
+    src: url("https://static.wukongsec.com/public/fonts/DingTalk-JinBuTi-Lite-3000.woff2");
 }
 
 @font-face {
@@ -10,11 +15,11 @@
 
 /* 自定义鼠标指针样式 */
 * {
-    cursor: url("https://static.spiderapi.cn/spiderbox/images/mouse/pointer.cur"), auto;
+    cursor: url("https://static.wukongsec.com/spiderbox/images/mouse/pointer.cur"), auto;
 }
 
 div {
-    cursor: url("https://static.spiderapi.cn/spiderbox/images/mouse/default.cur"), auto;
+    cursor: url("https://static.wukongsec.com/spiderbox/images/mouse/default.cur"), auto;
 }
 
 input {
@@ -470,8 +475,30 @@ footer.main-footer .footer-text a:hover {
 }
 
 .hot-body::-webkit-scrollbar {
-    width: 5px;
-    height: 2px
+    width: 3px;
+    height: 3px
+}
+
+.hot-panel::-webkit-scrollbar-thumb {
+    background-color: #82828280;
+    -webkit-border-radius: 4px;
+    border-radius: 4px
+}
+
+.hot-panel::-webkit-scrollbar {
+    width: 3px !important;
+    height: 3px !important
+}
+
+.sidebar-menu::-webkit-scrollbar-thumb {
+    background-color: #82828280;
+    -webkit-border-radius: 4px;
+    border-radius: 4px
+}
+
+.sidebar-menu::-webkit-scrollbar {
+    width: 3px !important;
+    height: 3px !important
 }
 
 .hot-panel {
@@ -516,7 +543,7 @@ footer.main-footer .footer-text a:hover {
     float: right;
     font-size: 14px;
     color: #555555;
-    margin-right: 2rem
+    /*margin-right: 2rem*/
 }
 
 .hot-body {
@@ -700,4 +727,80 @@ footer.main-footer .footer-text a:hover {
 
 .hot-body {
     height: 225px !important;
+}
+
+@media screen and (max-width: 1200px) {
+    .hot-title {
+        font-size: 14px;
+    }
+    .hot-list {
+        font-size: 13px;
+    }
+    .hot-time{
+        font-size: 13px;
+    }
+}
+
+/* 广告位置背景颜色透明 */
+.col-12 .card {
+    background-color: transparent !important;
+}
+
+/* 广告位（新） */
+.gg-container {
+    display: grid;
+    gap: 10px; /* 更现代的标准间距 */
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    /*padding: 12px;*/
+    /*max-width: 1600px; !* 限制最大宽度避免在大屏幕上过宽 *! */
+    margin: 0 0 15px auto; /* 居中容器 */
+}
+
+.gg-link {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    border-radius: 8px; /* 添加圆角 */
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* 添加柔和阴影 */
+    transition: transform 0.2s ease; /* 悬停动画 */
+}
+
+.gg-link:hover {
+    transform: translateY(-8px); /* 悬停微动效 */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.gg-image {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    aspect-ratio: 8 / 1; /* 保持宽高比（1200:150 = 8:1） */
+}
+
+/* 移动端优化 */
+@media (max-width: 768px) {
+    .gg-container {
+        grid-template-columns: 1fr;
+        gap: 12px;
+        padding: 8px;
+    }
+
+    /*.gg-image {*/
+    /*    aspect-ratio: 4 / 1; !* 移动端采用更高比例 *!*/
+    /*}*/
+}
+
+/* 小屏手机优化 */
+@media (max-width: 480px) {
+    .gg-container {
+        gap: 8px;
+    }
+
+    .gg-link {
+        border-radius: 4px;
+    }
+}
+
+.menu-item-has-children {
+    margin-right: 16px;
 }

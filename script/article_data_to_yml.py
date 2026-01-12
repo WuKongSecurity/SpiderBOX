@@ -6,15 +6,32 @@ from datetime import datetime
 
 ARTICLE_API = os.getenv('ARTICLE_API')
 ARTICLE_TOKEN = os.getenv('ARTICLE_TOKEN')
+ARTICLE_UA = os.getenv('ARTICLE_UA')  # 特殊 UA, API 防护例外规则
+PROXY = os.getenv('PROXY')
 YML_FILE = '../data/articles.yml'
+
+proxies = {'http': PROXY,'https': PROXY}
 
 
 def get_articles():
+    headers_ip = {
+        "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "sec-ch-ua": 'Chromium";v="136", "Google Chrome";v="136", "Not.A/Brand";v="99"',
+    }
+    res_ip = requests.get("https://icanhazip.com/", headers=headers_ip, proxies=proxies, timeout=120)
+    print("res_ip status code: ", res_ip.status_code)
+    print("res_ip response: ", res_ip.text)
+
+    print("\n========================\n")
+
     headers = {
         'Content-Type': 'application/json',
-        'Authorization': f'Bearer {ARTICLE_TOKEN}'
+        'Authorization': f'Bearer {ARTICLE_TOKEN}',
+        'User-Agent': ARTICLE_UA,
     }
-    response = requests.get(ARTICLE_API, headers=headers)
+    response = requests.get(ARTICLE_API, headers=headers, proxies=proxies, timeout=120)
+    print("get articles status code: ", response.status_code)
+    print("get articles response: ", response.text)
     data = response.json()
     return data
 
@@ -46,7 +63,7 @@ def article_to_yml(data):
 
 
     current_data = [{
-        'taxonomy': '最新文章',
+        'taxonomy': '最新文章/视频',
         'icon': 'fas fa-list',
         'list': [
             {
@@ -78,7 +95,7 @@ def article_to_yml(data):
         write_yaml(current_data)
         print(f'update success / {time_now} / {os.path.abspath(YML_FILE)}')
     else:
-        print(f'no need update / {time_now} / / {os.path.abspath(YML_FILE)}')
+        print(f'no need update / {time_now} / {os.path.abspath(YML_FILE)}')
 
 
 def task():

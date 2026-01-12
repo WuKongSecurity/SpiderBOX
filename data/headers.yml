@@ -5,16 +5,41 @@
 #   icon: fas fa-blog
 #   link: https://www.itbob.cn/
 
-- item: 在线反馈/交流/联系
+- item: 联系站长/交流群
   icon: fas fa-comments
-  link: https://txc.qq.com/products/678094
+  link: https://bbs.wukongsec.com/
+#  link: https://txc.qq.com/products/678094
+
+- item: 虫系列
+  icon: fas fa-spider
+  link: ""
+  list:
+    - name: 虫盒 - Spider BOX
+      icon: fas fa-caret-right
+      link: https://spiderbox.cn/
+    - name: 虫术 - Spider API
+      icon: fas fa-caret-right
+      link: https://spiderapi.cn/
+    - name: 虫规 - Spider GRC
+      icon: fas fa-caret-right
+      link: https://spidergrc.cn/
+    - name: 虫技 - 微信公众号
+      icon: fas fa-caret-right
+      link: https://static.wukongsec.com/public/images/info/spider_skill_green.png
+    - name: 悟空信息安全
+      icon: fas fa-caret-right
+      link: https://wukongsec.com/
+    - name: 关于站长
+      icon: fas fa-caret-right
+      link: https://www.itbob.cn/about/
 
 - item: 免责声明
   popup: true
   icon: fas fa-user-secret
   popupID: show-disclaimer
 
-- item: 赞助我们
+
+- item: 赞助
   # popup: true
   icon: fas fa-dollar-sign
   # popupID: show-sponsor
@@ -34,20 +59,3 @@
 #    - name: 收录 / 纠错
 #      icon: fas fa-caret-right
 #      link: https://github.com/TRHX/SpiderBOX/issues
-
-- item: 虫系列
-  icon: fas fa-spider
-  link: ""
-  list:
-    - name: 虫盒 - Spider BOX
-      icon: fas fa-caret-right
-      link: https://spiderbox.cn/
-    - name: 虫术 - Spider API
-      icon: fas fa-caret-right
-      link: https://spiderapi.cn/
-    - name: 虫规 - Spider GRC
-      icon: fas fa-caret-right
-      link: https://spidergrc.cn/
-    - name: 虫技 - 微信公众号
-      icon: fas fa-caret-right
-      link: https://static.spiderapi.cn/public/images/info/spider_skill_green.png

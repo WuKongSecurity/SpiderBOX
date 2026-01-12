@@ -12,6 +12,8 @@
     {{ if $.Site.Params.seo.baiduSiteVer }}
     <meta name="baidu-site-verification" content="{{ $.Site.Params.seo.baiduSiteVer }}" />
     {{ end }}
+    <!-- impact.com smartproxy -->
+    <meta name='impact-site-verification' value='e4c2e336-617f-4886-a842-dc77d225eac9'>
 
     <title>{{ .Site.Title }}</title>
     <link rel="icon" href="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ $.Site.Params.images.favicon }}" type="image/x-icon">
@@ -43,7 +45,7 @@
     <!-- 51.LA 网站统计 -->
     {{ with .Site.Params.seo.tj51laid }}
     <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
-    <script>LA.init({id:"{{ $.Site.Params.seo.tj51laid }}",ck:"{{ $.Site.Params.seo.tj51lack }}"})</script>    
+    <script>LA.init({id:"{{ $.Site.Params.seo.tj51laid }}",ck:"{{ $.Site.Params.seo.tj51lack }}",autoTrack:true})</script>
     {{ end }} 
     <!-- end 51.LA 网站统计 -->
 

@@ -24,7 +24,23 @@
                                 {{ $index = add $index 1 }} <!-- 计数器自增 -->
                                 <li class="hot-list">
                                     <span class="hot-index">{{ $index }}</span>
-                                    <a href="{{ .url }}" target="_blank">{{ .title }}</a><span class="hot-rank">{{ .author }}</span>
+                                    <a href="{{ .url }}" target="_blank">{{ .title }}</a>
+                                    <span class="hot-rank" title="{{ .author }}">
+                                    {{ if gt (len (findRE "[\u4e00-\u9fff]" .author)) 0 }}
+                                        {{ if gt (len .author) 15 }}
+                                            {{ printf "%s..." (substr .author 0 5) }}
+                                        {{ else }}
+                                            {{ .author }}
+                                        {{ end }}
+                                    {{ else }}
+                                        {{ $authorStr := string .author }}
+                                        {{ if gt (len $authorStr) 10 }}
+                                            {{ substr $authorStr 0 10 }}
+                                        {{ else }}
+                                            {{ string $authorStr }}
+                                        {{ end }}
+                                    {{ end }}
+                                    </span>
                                 </li>
                                 {{ end }}
                             </ul>
@@ -44,6 +60,19 @@
         {{ end }}
     {{ end }}
 
+    {{ range .Site.Data.advertisement }}
+        <div class="gg-container">
+            {{ range .links }}
+                {{ if .ads }}
+                    <a href="{{ .url }}" class="gg-link" target="_blank" rel="noopener" onclick="LA.track('{{ .track }}');">
+                        <img src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ .image }}" class="gg-image" alt="{{ .description }}" loading="lazy">
+                    </a>
+                {{ end }}
+            {{ end }}
+        </div>
+    {{ end }}
+    <br />
+
     <!--主站推荐-->
     {{ range .Site.Data.recommend }}
     <div class="d-flex flex-fill">
@@ -57,11 +86,11 @@
     <div class="row">
         {{ range .links }}
             {{ if .ads }}
-                <!-- 广告赞助 -->
+                <!-- 广告位（旧样式） -->
                 <div class="col-12 col-sm-6 col-md-4">
                 <div class="card">
                     {{ if .url }}
-                    <a href="{{ .url }}" target="_blank" data-url="{{ .url }}">
+                    <a href="{{ .url }}" target="_blank" data-url="{{ .url }}" onclick="LA.track('{{ .track }}');">
                         <img src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ .image }}" class="card-img-top" alt="{{ .description }}">
                     </a>
                     {{ else }}
@@ -103,7 +132,7 @@
                                 </div>
                             </div>
                         </a>
-                        <a href="{{ .url }}" class="togo text-center text-muted is-views" data-id="689"
+                        <a href="{{ .url }}" class="togo text-center text-muted is-views" target="_blank" data-id="689"
                            data-toggle="tooltip" data-placement="right" title="直达" rel="nofollow">
                             <i class="far fa-arrow-alt-circle-right"></i>
                         </a>
@@ -118,12 +147,13 @@
 
     {{ range .Site.Data.webstack }}
     {{ if .list }}
+    {{ $taxonomy := .taxonomy }} <!-- 避免同名二级导航定位不正确的问题 -->
     {{ range .list }}
     <!--正文网址导航-->
     <!-- {{ .term }} -->
     <div class="d-flex flex-fill">
         <h4 class="text-gray text-lg mb-4">
-            <i class="fas fa-stream site-tag mr-1" id="{{ md5 .term }}"></i>
+            <i class="fas fa-stream site-tag mr-1" id="{{ md5 (printf "%s-%s" $taxonomy .term) }}"></i>
             {{ .term }}
         </h4>
         <div class="flex-fill"></div>
@@ -164,7 +194,7 @@
                             </div>
                         </div>
                     </a>
-                    <a href="{{ .url }}" class="togo text-center text-muted is-views" data-id="689"
+                    <a href="{{ .url }}" class="togo text-center text-muted is-views" target="_blank" data-id="689"
                        data-toggle="tooltip" data-placement="right" title="直达" rel="nofollow">
                         <i class="far fa-arrow-alt-circle-right"></i>
                     </a>
@@ -223,7 +253,7 @@
                             </div>
                         </div>
                     </a>
-                    <a href="{{ .url }}" class="togo text-center text-muted is-views" data-id="689"
+                    <a href="{{ .url }}" class="togo text-center text-muted is-views" target="_blank" data-id="689"
                        data-toggle="tooltip" data-placement="right" title="直达" rel="nofollow">
                         <i class="far fa-arrow-alt-circle-right"></i>
                     </a>

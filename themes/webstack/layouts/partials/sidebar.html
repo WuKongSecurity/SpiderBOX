@@ -77,9 +77,16 @@
                                     <span>{{ .taxonomy }}</span>
                                     <i class="fas fa-chevron-right sidebar-more text-sm"></i>
                                 </a>
+<<<<<<< HEAD
                                 <ul>
                                     {{ range .list }}
                                     <li><a href="#{{ md5 .term }}" class="smooth"><span>{{ .term }}</span></a></li>
+=======
+                                {{ $taxonomy := .taxonomy }} <!-- 避免同名二级导航定位不正确的问题 -->
+                                <ul>
+                                    {{ range .list }}
+                                    <li><a href="#{{ md5 (printf "%s-%s" $taxonomy .term) }}" class="smooth"><span>{{ .term }}</span></a></li>
+>>>>>>> origin/main
                                     {{ end }}
                                 </ul>
                             </li>

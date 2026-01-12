@@ -1,22 +1,6 @@
-- taxonomy: 主站推荐
+- taxonomy: 常用推荐
   icon: far fa-star
   links:
-    - title: 站长微信公众号
-      logo: bob.jpg
-      qrcode: images/qrcode/IT_BOB.jpg
-      description: 站长公众号：虫技
-    #    - title: 芝麻代理 IP
-    #      logo: logozm.png
-    #      url: http://www.zmhttp.com/?utm-source=spiderbox&utm-keyword=?07
-    #      description: 企业级 HTTP/Socks5 动（静）态代理 IP 服务提供商
-    #    - title: 极光静态 IP
-    #      logo: jiguangdaili.png
-    #      url: http://static.jiguangdaili.com/?utm-source=spiderbox&utm-keyword=?07
-    #      description: 最便宜的静态代理 IP，对口账号、游戏矩阵业务
-    #    - title: 品易代理 IP
-    #      logo: py.png
-    #      url: http://http.py.cn/?utm-source=spiderbox&utm-keyword=?07
-    #      description: 流量计费形式的动态代理 IP，不限 IP 提取数量
     #    - title: 站长博客
     #      logo: bob.jpg
     #      url: https://www.itbob.cn/
@@ -33,22 +17,21 @@
     #      logo: spidergrc.png
     #      url: https://spidergrc.cn/
     #      description: 虫规 - 数据采集合规性建设
-    - title: 十一姐知识星球
-      logo: weixin_43411585.jpg
-      qrcode: images/qrcode/shiyi_zsxq.jpg
-      url: https://t.zsxq.com/14tPsY8si
-      description: 各种JS逆向/验证码逆向/图像识别训练/自动化爬虫干货分享
     - title: ChatGPT
       logo: chatgpt.jpg
       url: https://chatgpt.com/
       description: ChatGPT
+    - title: DeepSeek
+      logo: deepseek.png
+      url: https://chat.deepseek.com/
+      description: DeepSeek
     - title: 爬虫工具库
       logo: spidertools.png
       url: https://spidertools.cn/
       description: feapder 作者出品的爬虫工具库，加解密，json 格式化，header 格式化，cookie 格式化，curl 转 requests，url 参数提取、编码解码，文本对比等
     - title: 猿人学爬虫工具箱
       logo: yuanrenxue.jpg
-      url: https://tool.yuanrenxue.cn/decode_obfuscator
+      url: https://tool.yuanrenxue.cn/
       description: OB 在线解混淆，JS 代码转 AST，curl 转化为爬虫代码等
     - title: MDN Web API
       logo: mozilla.png
@@ -58,10 +41,26 @@
       logo: astexplorer.png
       url: https://astexplorer.net/
       description: 使用各种解析器生成代码的 AST 的 Web 工具
+    - title: httpbin
+      logo: bin.png
+      url: https://www.httpbin.org/
+      description: HTTP 请求和响应测试服务
     - title: XPath 备忘清单
       logo: quickref.png
       url: https://quickref.hestudio.net/docs/xpath.html
       description: 这是一份 XPath 选择器备忘单，其中列出了常用的 XPath 定位方法和 CSS 选择器
+
+#    - title: 探数联盟
+#      ads: true
+#      url: https://qm.qq.com/q/lTE6iG0hGM
+#      image: images/ads/ad_tslm.jpg
+#      description: 国内领先的企业级代理IP服务商
+#      track: ad_tslm
+
+    - title: IP Checks
+      logo: icanhazip.png
+      url: https://api.ipchecks.top/
+      description: 默认快速查看当前 IP 详细信息，查看指定 IP 信息示例：https://api.ipchecks.top/?ip=0.0.0.0
     - title: 在线正则表达式验证
       logo: re.png
       url: https://tooltt.com/regexp/
@@ -70,30 +69,42 @@
       logo: be.png
       url: https://base64.us/
       description: 在线 Base64 编码解码
-    - title: IP Checks
-      logo: icanhazip.png
-      url: https://api.ipchecks.top/
-      description: 快速查看当前 IP 详细信息
-    - title: httpbin
-      logo: bin.png
-      url: https://www.httpbin.org/
-      description: HTTP 请求和响应测试服务
-    - title: Chrome for Testing availability
-      logo: chromedriver.jpg
-      url: https://googlechromelabs.github.io/chrome-for-testing/
-      description: 获取 Chrome 所有版本（113 以后的）的安装包，以及 Chrome Driver 驱动
-    - title: SpiderAPI
-      logo: spiderapi.png
-      url: https://spiderapi.cn/
-      description: 爬虫逆向常用 API，各种框架、库、命令参考
+    - title: 在线 Unicode 编码转换
+      logo: un.png
+      url: https://tool.chinaz.com/tools/Unicode.aspx
+      description: 在线 Unicode 编码转换
 
-    - title: 青果云
-      ads: true
-      url: https://www.qg.net/product/proxyip.html?web=spiderbox
-      image: images/ads/qgy_593x67.gif
-      description: 国内领先的企业级代理IP服务商
-    - title: Bright Data
-      ads: true
-      url: https://get.brightdata.com/proxyb
-      image: images/ads/lsj_1779x201.png
-      description: Bright Data 亮数据，使用全球最大的 IP 网络，利用内置的抓取和解锁功能获得访问权，并简化数据提取
+#    - title: 站长微信公众号
+#      logo: bob.jpg
+#      qrcode: images/qrcode/IT_BOB.jpg
+#      description: 站长公众号：虫技
+    - title: TrackMe - fingerprinting API
+      logo: wangluozhe.jpg
+      url: https://tls.wangluozhe.com/
+      description: TLS 指纹 API，查看 ja3、ja4 指纹，https://tls.peet.ws/ 开源镜像版本，作者 LeeGene (wangluozhe)，tls 开源库 requests 和 requests-go 作者
+    - title: Hook_JS
+      logo: github.png
+      url: https://github.com/0xsdeo/Hook_JS
+      description: 各种 JS Hook 脚本
+    - title: DrissionPage
+      logo: drissionpage.png
+      url: https://github.com/g1879/DrissionPage
+      description: 基于python的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和requests的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少
+    - title: 猿人学·爬虫逆向进阶课
+      logo: yuanrenxue.jpg
+      url: https://shop45147253.m.youzan.com/wscgoods/detail/2okabph85ypv1
+      description: 一次付费，终身免费更新，附带工作内推、线下见面会、模拟面试等，内容涉及 JS 逆向、APP 逆向、iOS 逆向、机器学习验证码等，▶️备注BOB可获取内部优惠价，平哥微信：dismissmewp、dismissmewp1
+    - title: 猿人学·反爬虫&风控对抗课
+      logo: yuanrenxue.jpg
+      url: https://shop45147253.m.youzan.com/wscgoods/detail/2xli2kj7ku3a5zk
+      description: 全网首家反爬风控课程，一次付费，终身免费更新，附带工作内推、线下见面会、模拟面试等，▶️备注BOB可获取内部优惠价，平哥微信：dismissmewp、dismissmewp1
+    - title: 十一姐知识星球
+      logo: weixin_43411585.jpg
+      qrcode: images/qrcode/shiyi_zsxq.jpg
+      url: https://t.zsxq.com/14tPsY8si
+      description: 各种JS逆向/验证码逆向/图像识别训练/自动化爬虫干货分享
+#    - title: Chrome for Testing availability
+#      logo: chromedriver.jpg
+#      url: https://googlechromelabs.github.io/chrome-for-testing/
+#      description: 获取 Chrome 所有版本（113 以后的）的安装包，以及 Chrome Driver 驱动
+
