@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: dddd0526
+      release_time: 2026.01.12 16:49:00
+      title: 某讯jsvmp(二)
+      url: https://www.52pojie.cn/thread-2086034-1-1.html
     - author: szh12123
       release_time: 2026.01.12 00:45:00
       title: 看小白如何一步步逆向acs-token参数
@@ -363,10 +367,6 @@
       release_time: 2025.12.10 23:24:00
       title: iOS微信自定义头像插件逆向分析与破解
       url: https://www.52pojie.cn/thread-2079083-1-1.html
-    - author: '15028352577'
-      release_time: 2025.12.10 21:52:00
-      title: 某qMusicSign参数vmp逆向分析
-      url: https://www.52pojie.cn/thread-2079071-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
