@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 影17
+      release_time: 2026.01.12 12:23:28
+      title: APP逆向之某某超市V2
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247490312&idx=1&sn=70f19c1c92bb6c9e8f07a6e5f2f030b0
+    - author: 逆向有你
+      release_time: 2026.01.12 11:06:22
+      title: 安卓逆向 --  某消费金融算法分析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041281&idx=1&sn=a02f7ada708c100184bc4806241e2f8c
     - author: Python成长路
       release_time: 2026.01.12 08:45:00
       title: 用微信聊天记录做一个年度报告
@@ -236,14 +244,6 @@
       release_time: 2026.01.06 17:23:37
       title: 93款违法违规App/SDK被通报，涉违规收集个人信息等行为
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519835&idx=2&sn=b231560daa70d996619bff384e7b3e1e
-    - author: 哆啦安全
-      release_time: 2026.01.06 14:50:20
-      title: Android Apk逆向分析工具(jadx-ai-mcp)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499459&idx=1&sn=f2d28d2957373ad15deb88a321038162
-    - author: 吾爱破解论坛
-      release_time: 2026.01.06 12:10:00
-      title: 某御验证码逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143353&idx=1&sn=295c7efe23a40fc4aa10810732c383f8
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
