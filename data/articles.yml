@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 逆向狗都不学
+      release_time: 2026.01.12 21:49:24
+      title: AST反混淆实战之某里234-1
+      url: https://www.bilibili.com/video/BV17wrYBxEPk
     - author: B站用户骚神
       release_time: 2026.01.12 17:53:35
       title: 骚神VIP插件大更新 v9.7.8，为【网页自动化】和【JS逆向】设计的专业谷歌浏览器插件
@@ -117,10 +121,6 @@
       release_time: 2025.12.13 12:14:04
       title: 安卓逆向-某黑盒app逆向 hkey纯算7位(ttd离线分析)
       url: https://www.bilibili.com/video/BV1sYmQBBEjk
-    - author: 悦来客栈的老板
-      release_time: 2025.12.10 10:24:29
-      title: 手把手教你还原ob混淆(三)
-      url: https://www.bilibili.com/video/BV11AmxBAEVL
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: fyr666
+      release_time: 2026.01.12 17:08:00
+      title: '[原创] 从零开始绕过 DexProtector 加固的 Frida 检测（二）-app更新后的检测快速处理'
+      url: https://www.52pojie.cn/thread-2086038-1-1.html
     - author: dddd0526
       release_time: 2026.01.12 16:49:00
       title: 某讯jsvmp(二)
@@ -363,10 +367,6 @@
       release_time: 2025.12.11 10:23:00
       title: frida检测对抗————libmsaoaidsec.so绕过
       url: https://www.52pojie.cn/thread-2079166-1-1.html
-    - author: HackXK
-      release_time: 2025.12.10 23:24:00
-      title: iOS微信自定义头像插件逆向分析与破解
-      url: https://www.52pojie.cn/thread-2079083-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
