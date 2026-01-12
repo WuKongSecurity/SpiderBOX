@@ -124,6 +124,50 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Python成长路
+      release_time: 2026.01.12 08:45:00
+      title: 用微信聊天记录做一个年度报告
+      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247485971&idx=1&sn=8ab6f20c2e3a54256e34eeb280e6890d
+    - author: 测试工程师成长之路
+      release_time: 2026.01.12 08:30:00
+      title: 代码在本地跑得好好的，一上Jenkins就报错？多半是路径没玩明白！
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578536&idx=1&sn=c03321e12c2361a76d35265ba482ffd1
+    - author: 二进制磨剑
+      release_time: 2026.01.12 08:30:00
+      title: APP 指纹绕过反爬虫实战：TLS 握手层面的攻防对抗
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485902&idx=1&sn=d4ccbad286ce6917bca19c540703ea1d
+    - author: 零基础爬虫第一天
+      release_time: 2026.01.12 07:00:00
+      title: 【khbox补环境-3】原型链与 Illegal Invocation 保护机制
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484058&idx=1&sn=e55e8751e45d314f024a169d490ff27b
+    - author: 小白逆向成长日记
+      release_time: 2026.01.11 09:43:16
+      title: tiktok，X-Bogus、X-Gnarly纯算分析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4ODA3NDA1NQ==&mid=2247484723&idx=1&sn=02a865c74e5807e5f4687b1228c61b0d
+    - author: 沐阳逆向学习
+      release_time: 2026.01.09 19:30:00
+      title: iOS 18 越狱教程：palera1n + 巨魔安装全流程
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484481&idx=1&sn=5ed1b6c594dd3105ea3b26aeb0b17c56
+    - author: 木子打杂spider
+      release_time: 2026.01.09 11:55:46
+      title: nav定制个人导航
+      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDMwMzM4Mw==&mid=2247484121&idx=1&sn=5b6accfc92b9c578e6c60cf0c4fb3045
+    - author: 冰敷逆向笔记
+      release_time: 2026.01.09 10:10:44
+      title: 以腾讯滑块为例，VMP的公式化解法
+      url: https://mp.weixin.qq.com/s?__biz=MzI0NDg0ODE1MQ==&mid=2247483867&idx=1&sn=434c9c818894e449a462795bab925fa5
+    - author: Python成长路
+      release_time: 2026.01.09 10:08:35
+      title: vs2022无法正常使用copilot的解决方案
+      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247485953&idx=1&sn=1f8887b6065fa4a15ba5e0868629ddf5
+    - author: 将往的爬虫逆向日记
+      release_time: 2026.01.09 09:00:00
+      title: AST从入门到入土：基于AST的吾爱破解自动签到解析
+      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862180&idx=1&sn=6b476f3b1eb425a69331918e652b599a
+    - author: 吾爱破解论坛
+      release_time: 2026.01.09 08:00:00
+      title: 【MacOS逆向】某软件许可证系统离线激活分析与Keygen
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143423&idx=1&sn=cbb5f29bb43bf424f1e8392823e5ea30
     - author: 未闻Code
       release_time: 2026.01.08 21:04:00
       title: 100 个典型示例 + 8 大实战案例，这本新书让你的代码真正“飞”起来！
@@ -200,50 +244,6 @@
       release_time: 2026.01.06 12:10:00
       title: 某御验证码逆向分析
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143353&idx=1&sn=295c7efe23a40fc4aa10810732c383f8
-    - author: LK安全
-      release_time: 2026.01.06 11:55:45
-      title: app攻防系列2-移动端抓包技术详解
-      url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486837&idx=1&sn=dff3a0e60cf1c9dbc076c7ebb503f5a0
-    - author: 逆向有你
-      release_time: 2026.01.06 09:31:57
-      title: JS逆向 -- 某当网登录滑块逆向
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041218&idx=1&sn=fbf5626028305ec1a6a184e6a9bc87a1
-    - author: 移动安全星球
-      release_time: 2026.01.06 09:00:00
-      title: 围观大佬们的25年年终奖！这波属实酸了
-      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486467&idx=1&sn=92f07eb35161d3d0046ce82699a3796d
-    - author: 未闻Code
-      release_time: 2026.01.05 21:00:00
-      title: 3.2 万人收藏的 Claude Skills，才是 AI 这条路上最值得研究的一套范式！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991340&idx=1&sn=90938a6a12935001bdcd6180767f5d6e
-    - author: 零基础爬虫第一天
-      release_time: 2026.01.05 20:23:11
-      title: 【node源码-8】node源码接入jsdom
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484023&idx=1&sn=e631042f9f7269cee81384fb644a9edd
-    - author: 移动安全星球
-      release_time: 2026.01.05 14:32:12
-      title: 2026开年安全警报拉响：新规落地、AI攻防升级，这些风险就在你我身边
-      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486428&idx=1&sn=35337cda53f90e07197ed04d4ed2772e
-    - author: 逆向有你
-      release_time: 2026.01.05 09:25:03
-      title: 安卓逆向 -- 记录一次Unity加固的探索与实现
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041186&idx=1&sn=6df9ff66b6322c92510feab4b1d9906d
-    - author: 吾爱破解论坛
-      release_time: 2026.01.05 08:20:00
-      title: 某AppCDRM 直播m3u8 SM4-CBC解密分析
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143309&idx=1&sn=9db84dc9e6bef400bc6b7ba8ad5f4ad0
-    - author: 布鲁的Python之旅
-      release_time: 2026.01.04 16:38:42
-      title: 【Web开发-04】Python肥胖水平预测系统
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486284&idx=1&sn=4aacdd1fca504fec70dbd8a0d2988933
-    - author: 二进制磨剑
-      release_time: 2026.01.04 15:26:19
-      title: Protobuf 逆向实战：从 Wire Format 到完整 .proto 文件
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485873&idx=1&sn=c88a10efc985aa60f95a1145177db82a
-    - author: 吾爱破解论坛
-      release_time: 2026.01.04 15:04:02
-      title: Typora v1.12.4 安全分析：反反调试与激活劫持
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143298&idx=1&sn=8ebde0e233f094bb3abfed000163d468
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
