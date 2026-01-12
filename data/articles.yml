@@ -382,6 +382,14 @@
       release_time: 2026.01.11 14:29:52
       title: gif动态验证码多种识别方案汇总（非训练版）
       url: https://blog.csdn.net/weixin_43845191/article/details/156802555
+    - author: 小子你干嘛
+      release_time: 2026.01.10 12:33:00
+      title: Android风控之CPU数量检测原理与对抗方案
+      url: https://xz.aliyun.com/news/91096
+    - author: 小子你干嘛
+      release_time: 2026.01.10 12:23:00
+      title: Android Linux内核模块实战：内核修改与风控对抗
+      url: https://xz.aliyun.com/news/91094
     - author: Rocky虞
       release_time: 2026.01.09 19:07:45
       title: '[原创]【JS逆向】某书x-s 4.2.9 mns0301 分析'
@@ -482,14 +490,6 @@
       release_time: 2025.12.29 14:06:12
       title: 【tiktok】协议登录解析 x-mssdk-info
       url: https://blog.csdn.net/weixin_52283613/article/details/156383584
-    - author: Python成长路
-      release_time: 2025.12.27 23:50:54
-      title: 下载多个公众号全部历史文章打造逆向知识库
-      url: https://blog.csdn.net/Qwertyuiop2016/article/details/156343276
-    - author: 九月镇灵将
-      release_time: 2025.12.26 09:22:53
-      title: ddddocr源码（非最新版代码）代码抽离与接口部署调用方案
-      url: https://blog.csdn.net/weixin_43845191/article/details/156272925
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
