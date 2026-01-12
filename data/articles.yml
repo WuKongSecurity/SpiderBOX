@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2026.01.12 17:53:35
+      title: 骚神VIP插件大更新 v9.7.8，为【网页自动化】和【JS逆向】设计的专业谷歌浏览器插件
+      url: https://www.bilibili.com/video/BV1twreB5Ehc
     - author: 带带弟弟学爬虫
       release_time: 2026.01.11 19:57:15
       title: frida dump 秒杀chuanxiao + 新课推广
@@ -117,10 +121,6 @@
       release_time: 2025.12.10 10:24:29
       title: 手把手教你还原ob混淆(三)
       url: https://www.bilibili.com/video/BV11AmxBAEVL
-    - author: B站用户骚神
-      release_time: 2025.12.09 14:43:10
-      title: 【DrissionPageMCP】让AI自动帮你写爬虫代码！！
-      url: https://www.bilibili.com/video/BV1Q42QBUEm7
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
