@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 将往的爬虫逆向日记
+      release_time: 2026.01.13 21:26:08
+      title: 自动化爬虫：AI+自动化过spiderdemo困难题T31无感验证码
+      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862188&idx=1&sn=3ff7ab551af0410fd530728f12aa5d8d
     - author: 矛和盾的故事
       release_time: 2026.01.13 19:00:00
       title: iOS DeviceCheck：苹果设备身份链与黑灰产对抗的攻防博弈
@@ -240,10 +244,6 @@
       release_time: 2026.01.07 19:33:42
       title: 【node源码-9】魔改node自动补原型和函数保护
       url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484029&idx=1&sn=4c01abafe999b9f9e6bcde7ac46baeb1
-    - author: 软件安全与逆向分析
-      release_time: 2026.01.07 18:09:05
-      title: 基于编译器Pass技术对安卓DEX混淆代码与花指令进行优化
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484987&idx=1&sn=094d7731af56aefac6a08e9eae52bba5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
