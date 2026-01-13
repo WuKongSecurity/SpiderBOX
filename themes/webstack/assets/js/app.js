@@ -1181,3 +1181,211 @@ function ioConfirm(message, btnCallBack) {
  * Last modified  : 2019-11-14 22:34:00
  */
 function ChromBookmarkConverter(){this.bookmarks={folders:[]},this.stripUnneededTags=function(a){return a=a.replace(/<p>/gi,""),a=a.replace(/<P>/gi,""),a=a.replace(/<dt>/gi,""),a=a.replace(/<DT>/gi,"")},this.processChromeBookmarksContent=function(a){var c,b=this;a=this.stripUnneededTags(a),c=$.parseHTML(a),$.each(c,function(a,c){if("DL"==c.tagName){var d={type:"folder",title:"未命名",items:[]};b.bookmarks.folders.push(d),b.processDL(c,1,d)}})},this.processDL=function(a,b,c){var d=this,e=0,f={},g={type:"folder",title:"",add_date:"",last_modified:"",items:[]},h={},i=$(a),j=!1;$.each(i.children(),function(a,i){var k,l,m,n,o,p,q,r,s;e+=1,k=b+"."+e,1==j&&i.tagName.toLowerCase()!="DL".toLowerCase()&&(j=!1,console.log("h3",f),g.items.push(f)),i.tagName.toLowerCase()=="DL".toLowerCase()&&(g={type:"folder",title:f.title,add_date:f.add_date,last_modified:f.last_modified,items:[]},1==j&&(j=!1),d.bookmarks.folders.push(g),d.processDL(i,k,g)),i.tagName.toLowerCase()=="H3".toLowerCase()&&(l=$(i),m=l.text()?l.text():"未命名",n=l.attr("add_date"),o=l.attr("last_modified"),f={type:"header",title:m,add_date:n,last_modified:o},j=!0),"a"==i.tagName.toLowerCase()&&isURL($(i).attr("href"))&&""!=$(i).text()&&(p=$(i),q=p.text(),r=p.attr("href"),s=p.attr("add_date"),p.attr("icon"),h={type:"link",title:q,href:r,add_date:s},c.items.push(h))})}}
+
+// 标签式二级菜单交互（移植自TLS-Toolbox，简洁高效）
+(function($){
+    $(document).ready(function() {
+        // 缓存常用DOM元素，提高性能
+        var $tabContainers = $('.tab-container');
+
+        // 为每个tab-menu下的a标签添加点击事件（改为监听a标签）
+        $('.tab-menu a').click(function(e) {
+            // 阻止默认跳转行为，使用自定义处理
+            e.preventDefault();
+
+            var $this = $(this);
+            var $tabItem = $this.find('.tab-item');
+            var tabId = $tabItem.data('tab');
+
+            // console.log('[Tab] 点击标签:', $tabItem.text(), 'data-tab:', tabId);
+
+            // 移除同级标签的active类
+            $this.closest('.tab-menu').find('.tab-item').removeClass('active');
+
+            // 为当前点击的标签添加active类
+            $tabItem.addClass('active');
+
+            // 获取标签容器
+            var $tabContainer = $this.closest('.tab-container');
+
+            // 切换内容显示
+            $tabContainer.find('.tab-content.active').removeClass('active');
+            $tabContainer.find('.tab-content[data-tab="' + tabId + '"]').addClass('active');
+
+            // 更新URL哈希（不触发页面跳转）
+            var hash = $this.attr('href');
+            if (history.pushState) {
+                history.pushState(null, null, hash);
+            } else {
+                location.hash = hash;
+            }
+
+            // console.log('[Tab] 标签激活成功');
+            return false;
+        });
+
+        // 初始化：激活每个标签组的第一个标签
+        $tabContainers.each(function() {
+            var $container = $(this);
+            $container.find('.tab-menu a:first .tab-item').addClass('active');
+            $container.find('.tab-content:first').addClass('active');
+        });
+
+        // console.log('[Tab] 初始化完成，标签组数量:', $tabContainers.length);
+
+        // 处理来自URL的标签激活请求
+        function activateTabFromHash() {
+            var hash = window.location.hash;
+            if (hash) {
+                // console.log('[Tab] URL hash检测:', hash);
+
+                var tabElement = $(hash);
+                if (tabElement.length && tabElement.hasClass('tab-item')) {
+                    // console.log('[Tab] 找到标签元素，触发点击');
+                    // 直接激活标签，不等待
+                    tabElement.click();
+
+                    // 立即滚动到正确的位置
+                    setTimeout(function() {
+                        var pos = tabElement.offset().top - 100;
+                        $("html,body").animate({
+                            scrollTop: pos
+                        }, 200); // 减少动画时间
+                    }, 50);
+                } else {
+                    console.log('[Tab] 未找到标签元素');
+                }
+            }
+        }
+
+        // 初始化时立即检查URL哈希值
+        activateTabFromHash();
+
+        // 监听URL哈希变化
+        $(window).on('hashchange', activateTabFromHash);
+    });
+
+    // 站内搜索功能
+    // 初始化全局搜索数据
+    window.searchAllLinks = [];
+
+    // 收集搜索数据
+    function collectSearchData() {
+        var allLinks = [];
+        $('.url-card').each(function() {
+            var $card = $(this);
+            var $link = $card.find('a.card');
+            var title = $card.find('strong').text().trim();
+            var description = $card.find('.text-muted.text-xs').text().trim();
+            var url = $link.attr('href');
+            var logo = $card.find('img').attr('data-src') || $card.find('img').attr('src');
+            // 获取分类信息 - 向上查找最近的h4标签
+            var $categoryElement = $card.closest('.row').prevAll('.d-flex.flex-fill:first').find('h4');
+            var category = $categoryElement.text().trim();
+
+            if (title && url) {
+                allLinks.push({
+                    title: title,
+                    description: description,
+                    url: url,
+                    logo: logo,
+                    category: category
+                });
+            }
+        });
+
+        window.searchAllLinks = allLinks;
+        // console.log('搜索数据收集完成，共', allLinks.length, '个链接');
+    }
+
+    // 页面加载完成后收集数据
+    $(window).on('load', function() {
+        setTimeout(collectSearchData, 500);
+    });
+
+    // 搜索功能事件绑定
+    $(document).ready(function() {
+        // 搜索输入事件
+        $(document).on('input', '#local-search-input', function() {
+            var keyword = $(this).val().toLowerCase().trim();
+            var $resultsContainer = $('#local-search-results');
+
+            // if (keyword === '') {
+            //     $resultsContainer.html('<p class="text-muted text-center">请输入搜索关键词...</p>');
+            //     return;
+            // }
+
+            // 使用全局变量中的链接数据
+            var searchData = window.searchAllLinks || [];
+
+            if (searchData.length === 0) {
+                $resultsContainer.html('<p class="text-muted text-center">搜索数据加载中，请稍候...</p>');
+                return;
+            }
+
+            // 搜索匹配的链接
+            var results = searchData.filter(function(link) {
+                return link.title.toLowerCase().includes(keyword) ||
+                    link.description.toLowerCase().includes(keyword) ||
+                    link.category.toLowerCase().includes(keyword);
+            });
+
+            // 显示搜索结果
+            if (results.length > 0) {
+                var html = '<div class="search-results-list">';
+                results.forEach(function(result) {
+                    html += '<div class="search-result-item mb-3 p-3 border rounded">';
+                    html += '<a href="' + result.url + '" target="_blank" class="d-flex align-items-center text-decoration-none">';
+                    if (result.logo) {
+                        html += '<img src="' + result.logo + '" alt="' + result.title + '" class="mr-3" style="width: 40px; height: 40px; object-fit: contain;">';
+                    }
+                    html += '<div class="flex-fill">';
+                    html += '<h6 class="mb-1">' + result.title + '</h6>';
+                    html += '<p class="mb-0 text-muted small">' + result.description + '</p>';
+                    html += '<small class="text-primary">' + result.category + '</small>';
+                    html += '</div>';
+                    html += '</a>';
+                    html += '</div>';
+                });
+                html += '</div>';
+                $resultsContainer.html(html);
+            } else {
+                $resultsContainer.html('<p class="text-muted text-center">未找到匹配的结果...</p>');
+            }
+        });
+
+        // 模态框打开时聚焦搜索框
+        $('#local-search-modal').on('shown.bs.modal', function() {
+            $('#local-search-input').focus();
+            // 如果数据还未加载，尝试重新收集
+            if (window.searchAllLinks.length === 0) {
+                collectSearchData();
+            }
+        });
+
+        // 模态框关闭时清空搜索
+        $('#local-search-modal').on('hidden.bs.modal', function() {
+            $('#local-search-input').val('');
+            // $('#local-search-results').html('<p class="text-muted text-center">请输入搜索关键词...</p>');
+        });
+    });
+})(jQuery);
+
+
+$(document).ready(function() {
+    // 为右下角搜索图标添加 tooltip
+    $('[data-toggle="modal"][data-original-title]').each(function() {
+        var $this = $(this);
+
+        $this.tooltip({
+            title: $this.data('original-title'),
+            placement: 'left',
+            trigger: 'hover'
+        });
+
+        // 点击 modal 触发器时隐藏 tooltip
+        $this.on('click', function() {
+            $this.tooltip('hide');
+        });
+    });
+});

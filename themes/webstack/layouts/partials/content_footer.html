@@ -1,14 +1,18 @@
 <footer class="main-footer footer-type-1 text-xs">
     <div id="footer-tools" class="d-flex flex-column">
         <!-- 右下角返回顶部  -->
-        <a href="javascript:" id="go-to-up" class="btn rounded-circle go-up m-1" rel="go-top">
+        <a href="javascript:" id="go-to-up" class="btn rounded-circle go-up m-1" data-toggle="tooltip" rel="go-top" title="返回顶部">
             <i class="fas fa-arrow-up"></i>
         </a>
         <!-- 右下角搜索  -->
-        <a href="javascript:" data-toggle="modal" data-target="#search-modal" class="btn rounded-circle m-1"
-            rel="search" one-link-mark="yes" title="搜索">
+        <!-- 站内搜索  -->
+        <a href="javascript:" data-toggle="modal" data-target="#local-search-modal" class="btn rounded-circle m-1" rel="local-search" data-original-title="站内搜索">
             <i class="fas fa-search"></i>
         </a>
+        <!-- 外链搜索 -->
+<!--        <a href="javascript:" data-toggle="modal" data-target="#search-modal" class="btn rounded-circle m-1" rel="search" one-link-mark="yes" title="搜索">-->
+<!--            <i class="fas fa-search"></i>-->
+<!--        </a>-->
         <!-- 右下角联系我们 -->
         <a href="{{ .Site.Params.Info.emailHref }}" class="btn rounded-circle kefu m-1" target="_blank"
             data-toggle="tooltip" data-placement="left" title="联系我们">
@@ -26,16 +30,7 @@
         <div class="footer-text">
             本站收录内容源自互联网，不对其网站内容或交易负责。如有内容侵犯权益，请<a href="{{ .Site.Params.Info.emailHref }}" target="_blank" title="{{ .Site.Params.Info.email }}" style="color: #007bff;">联系站长</a>删除相关内容！
             <br /><br />
-            <span>
-                <a href="https://beian.miit.gov.cn/" target="_blank"><img src="{{ .Site.Params.cdnURLPubilc }}images/logo/icp_48x48.png" alt="ICP 备案号" style="width:auto; height:20px; margin-bottom:8px"> 鄂ICP备19003281号-8</a>丨
-                <a href="https://beian.mps.gov.cn/" target="_blank"><img src="{{ .Site.Params.cdnURLPubilc }}images/logo/mps_48x48.png" class="nofancybox" alt="MPS 公网安备" style="width:auto; height:20px; margin-bottom:6px"> 鄂公网安备42280202422960</a>丨
-                <a href="https://github.com/shenweiyan/WebStack-Hugo" target="_blank"><img src="{{ .Site.Params.cdnURLPubilc }}images/logo/hugo_48x48.png" alt="WebStack" style="width:auto; height:18px; margin-bottom:4px"> WebStack</a>丨
-                <a href="https://edgeone.ai/" target="_blank"><img src="{{ .Site.Params.cdnURLPubilc }}images/logo/tencent_edgeone_48x48.png" alt="Tencent EdgeOne" style="width:auto; height:17px; margin-bottom:4px"> Tencent EdgeOne</a>丨
-                <!-- <a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral" target="_blank"><img src="{{ .Site.Params.cdnURLPubilc }}images/logo/upyun.png" alt="又拍云联盟赞助 CDN/COS 服务" style="width:auto; height:18px; margin-bottom:3px"></a>丨 -->
-                <a href="https://v6.51.la/land/3FcHt9RWSQ8XvN5u" target="_blank"><img src="https://sdk.51.la/icon/1-1.png" alt="51la 网站统计" style="width:auto; height:12px; margin-bottom:2px"></a>
-            </span>
-            <br /><br />
-            Copyright <i class="far fa-copyright"></i> 2023 - <script>document.write(new Date().getFullYear());</script><a href="https://wukongsec.com/" target="_blank">&nbsp;WuKong Security.</a>丨
+            Copyright <i class="far fa-copyright"></i> 2023 - <script>document.write(new Date().getFullYear());</script><a href="https://wukongsec.com/" target="_blank">&nbsp;WuKong Security</a> &<a href="https://www.itbob.cn/about/" target="_blank">&nbsp;BOB.</a>丨
             <span id="sitetime">正在载入网站运行时间...</span>丨
             <script>
                 //网站运行时长
@@ -47,15 +42,26 @@
                     var RunHours = Math.floor(RunDateM % (24 * 3600 * 1000) / (3600 * 1000));
                     var RunMinutes = Math.floor(RunDateM % (24 * 3600 * 1000) % (3600 * 1000) / (60 * 1000));
                     var RunSeconds = Math.round(RunDateM % (24 * 3600 * 1000) % (3600 * 1000) % (60 * 1000) / 1000);
-                    document.getElementById(id).innerHTML = "小破站已运行了 "
-                        + "<font style='color:#FFA500;font-weight:bold'>" + RunDays + "</font>" + " 天 "
+                    document.getElementById(id).innerHTML = "虫盒已经运行了 "
+                        + "<font style='color:#D92529;font-weight:bold'>" + RunDays + "</font>" + " 天 "
                         + "<font style='color:#1DBF97;font-weight:bold'>" + RunHours + "</font>" + " 小时 "
                         + "<font style='color:#8A2BE2;font-weight:bold'>" + RunMinutes + "</font>" + " 分 "
                         + "<font style='color:#007EC6;font-weight:bold'>" + RunSeconds + "</font>" + " 秒 ";
                 }
                 setInterval("ShowRunTime('sitetime')", 1000);
             </script>
-            <script id="LA-DATA-WIDGET" crossorigin="anonymous" charset="UTF-8" src="https://v6-widget.51.la/v6/3FcHt9RWSQ8XvN5u/quote.js?theme=#515C6B,#333333,#515C6B,#007BFF,#FFFFFF,#007BFF,12&f=14&display=0,0,0,1,0,1,0,1"></script>
+            <span id="show-disclaimer" style="color: #007bff">免责声明</span>
+            <!-- 网站统计显示 -->
+            <!-- <script id="LA-DATA-WIDGET" crossorigin="anonymous" charset="UTF-8" src="https://v6-widget.51.la/v6/3FcHt9RWSQ8XvN5u/quote.js?theme=#515C6B,#333333,#515C6B,#007BFF,#FFFFFF,#007BFF,12&f=14&display=0,0,0,1,0,1,0,1"></script>-->
+            <br /><br />
+            <span>
+                <a href="https://beian.miit.gov.cn/" target="_blank"><img src="{{ .Site.Params.cdnURLPubilc }}images/logo/icp_48x48.png" alt="ICP 备案号" style="width:auto; height:20px; margin-bottom:8px"> 鄂ICP备19003281号-8</a>丨
+                <a href="https://beian.mps.gov.cn/" target="_blank"><img src="{{ .Site.Params.cdnURLPubilc }}images/logo/mps_48x48.png" class="nofancybox" alt="MPS 公网安备" style="width:auto; height:20px; margin-bottom:6px"> 鄂公网安备42280202422960</a>丨
+                <a href="https://github.com/shenweiyan/WebStack-Hugo" target="_blank"><img src="{{ .Site.Params.cdnURLPubilc }}images/logo/hugo_48x48.png" alt="WebStack" style="width:auto; height:18px; margin-bottom:4px"> WebStack</a>丨
+                <a href="https://edgeone.ai/" target="_blank"><img src="{{ .Site.Params.cdnURLPubilc }}images/logo/tencent_edgeone_48x48.png" alt="Tencent EdgeOne" style="width:auto; height:17px; margin-bottom:4px"> Tencent EdgeOne</a>丨
+                <!-- <a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral" target="_blank"><img src="{{ .Site.Params.cdnURLPubilc }}images/logo/upyun.png" alt="又拍云联盟赞助 CDN/COS 服务" style="width:auto; height:18px; margin-bottom:3px"></a>丨 -->
+                <a href="https://v6.51.la/land/3FcHt9RWSQ8XvN5u" target="_blank"><img src="{{ .Site.Params.cdnURLPubilc }}images/logo/51la.png" alt="51la 网站统计" style="width:auto; height:12px; margin-bottom:2px"></a>
+            </span>
         </div>
     </div>
 </footer>

@@ -4,6 +4,10 @@
 # - item: 站长博客
 #   icon: fas fa-blog
 #   link: https://www.itbob.cn/
+- item: 站内搜索
+  search: true
+  icon: fas fa-search
+  link: "#"
 
 - item: 联系站长/交流群
   icon: fas fa-comments
@@ -33,10 +37,10 @@
       icon: fas fa-caret-right
       link: https://www.itbob.cn/about/
 
-- item: 免责声明
-  popup: true
-  icon: fas fa-user-secret
-  popupID: show-disclaimer
+#- item: 免责声明
+#  popup: true
+#  icon: fas fa-user-secret
+#  popupID: show-disclaimer
 
 
 - item: 赞助

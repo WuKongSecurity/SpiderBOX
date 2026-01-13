@@ -148,18 +148,33 @@
     {{ range .Site.Data.webstack }}
     {{ if .list }}
     {{ $taxonomy := .taxonomy }} <!-- 避免同名二级导航定位不正确的问题 -->
-    {{ range .list }}
-    <!--正文网址导航-->
-    <!-- {{ .term }} -->
+    {{ $tabs := .tabs }} <!-- 获取 tabs 数据 -->
+
+    <!-- 一级分类标题 -->
     <div class="d-flex flex-fill">
         <h4 class="text-gray text-lg mb-4">
-            <i class="fas fa-stream site-tag mr-1" id="{{ md5 (printf "%s-%s" $taxonomy .term) }}"></i>
-            {{ .term }}
+            <i class="{{ .icon }} site-tag mr-1" id="{{ md5 .taxonomy }}"></i>
+            {{ .taxonomy }}
         </h4>
-        <div class="flex-fill"></div>
-        <!--a class='btn-move text-xs' href='#'>more+</a-->
     </div>
-    <!--获取内容列表-->
+
+    <!-- 标签式二级菜单容器 -->
+    <div class="tab-container">
+        <!-- 标签菜单导航 -->
+        <div class="tab-menu">
+            {{ range $index, $tab := .tabs }}
+            <a href="#{{ md5 (printf "%s-%s" $taxonomy $tab.name) }}" class="smooth">
+                <span class="tab-item" data-tab="{{ $index }}" id="{{ md5 (printf "%s-%s" $taxonomy $tab.name) }}">{{ $tab.name }}</span>
+            </a>
+            {{ end }}
+        </div>
+
+        <!-- 标签内容区域 -->
+        {{ range $index, $tab := .tabs }}
+        <!--正文网址导航-->
+        <!-- {{ $tab.name }} -->
+        <div class="tab-content" data-tab="{{ $index }}">
+        <!--获取内容列表-->
     <div class="row">
         {{ range .links }}
         <div class="url-card col-6  col-sm-6 col-md-4 col-xl-5a col-xxl-6a">
@@ -202,9 +217,11 @@
         </div>
         {{ end }}
     </div><!--end row-->
+        </div><!--end tab-content-->
+        <!--END {{ $tab.name }} -->
+        {{ end }}
+    </div><!--end tab-container-->
     <br />
-    <!--END {{ .term }} -->
-    {{ end }}
     {{ else }}
     <!-- 时间样式 -->
     <!--主站推荐-->

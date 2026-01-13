@@ -27,7 +27,13 @@
                         <ul class="navbar-nav site-menu" style="margin-right: 16px;">
                             {{ range .Site.Data.headers }}
                             <li {{ if .list }}class="menu-item-has-children" {{ end }}>
-                                {{ if .popup }}
+                                <!-- 站内搜索按钮 -->
+                                {{ if .search }}
+                                <a href="javascript:" data-toggle="modal" data-target="#local-search-modal">
+                                    <i class="{{ .icon }} fa-lg mr-2"></i>
+                                    <span>{{ .item }}</span>
+                                </a>
+                                {{ else if .popup }}
                                 <a>
                                     <i class="{{ .icon }} fa-lg mr-2"></i>
                                     <span id="{{ .popupID }}">{{ .item }}</span>
@@ -124,7 +130,7 @@
                         {{ with .Site.Params.yiyan }}
                         <li class="nav-item mr-3 mr-lg-0 d-none d-xxl-block">
                             <script>
-                                fetch('https://v1.hitokoto.cn/?max_length=15')
+                                fetch('https://v1.hitokoto.cn/?max_length=15&c=i&c=k')
                                     .then(response => response.json())
                                     .then(data => {
                                         const hitokoto = document.getElementById('hitokoto_text')
@@ -152,4 +158,26 @@
             </div>
         </div>
         <div class="placeholder" style="height:74px"></div>
+    </div>
+
+    <!-- 站内搜索模态框 -->
+    <div class="modal fade" id="local-search-modal" tabindex="-1" role="dialog" aria-labelledby="localSearchModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="localSearchModalLabel">站内搜索</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="search-container">
+                        <input type="text" id="local-search-input" class="form-control" placeholder="输入关键字，搜索已收录的网站、工具..." autocomplete="off">
+                        <div id="local-search-results" class="mt-3">
+                            <!-- 搜索结果将显示在这里 -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>

@@ -729,7 +729,7 @@ footer.main-footer .footer-text a:hover {
     height: 225px !important;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1600px) {
     .hot-title {
         font-size: 14px;
     }
@@ -803,4 +803,178 @@ footer.main-footer .footer-text a:hover {
 
 .menu-item-has-children {
     margin-right: 16px;
+}
+
+/* 标签式二级菜单样式 - 现代化设计（移植自TLS-Toolbox） */
+.tab-container {
+    /*margin-top: 15px;*/
+    /*margin-bottom: 20px;*/
+}
+
+.tab-content {
+    display: none;
+}
+
+.tab-content.active {
+    display: block;
+}
+
+.tab-content .row {
+    /*margin-top: 15px;*/
+}
+
+/* 二级菜单样式一 */
+/*.tab-menu {*/
+/*    margin-bottom: 20px;*/
+/*    border-bottom: 2px solid #e8eaf6;*/
+/*    overflow-x: auto;*/
+/*    white-space: nowrap;*/
+/*    padding-bottom: 0;*/
+/*    display: flex;*/
+/*    gap: 8px;*/
+/*    -webkit-overflow-scrolling: touch;*/
+/*}*/
+
+/*.tab-menu .tab-item {*/
+/*    display: inline-block;*/
+/*    padding: 10px 20px;*/
+/*    margin-right: 0;*/
+/*    border-radius: 8px 8px 0 0;*/
+/*    cursor: pointer;*/
+/*    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);*/
+/*    color: #666;*/
+/*    background-color: transparent;*/
+/*    border: none;*/
+/*    border-bottom: 3px solid transparent;*/
+/*    font-size: 14px;*/
+/*    font-weight: 500;*/
+/*    line-height: 1.5;*/
+/*    position: relative;*/
+/*    user-select: none;*/
+/*}*/
+
+/*.tab-menu .tab-item:hover {*/
+/*    color: #333;*/
+/*    background-color: rgba(0, 132, 255, 0.08);*/
+/*    border-bottom-color: rgba(0, 132, 255, 0.3);*/
+/*}*/
+
+/*.tab-menu .tab-item.active {*/
+/*    color: #0084ff;*/
+/*    background-color: rgba(0, 132, 255, 0.12);*/
+/*    border-bottom-color: #0084ff;*/
+/*    font-weight: 600;*/
+/*}*/
+
+/*!* 暗黑模式下的标签样式 *!*/
+/*.io-black-mode .tab-menu {*/
+/*    border-bottom-color: #424242;*/
+/*}*/
+
+/*.io-black-mode .tab-menu .tab-item {*/
+/*    color: #bbb;*/
+/*    background-color: transparent;*/
+/*    border-bottom-color: transparent;*/
+/*}*/
+
+/*.io-black-mode .tab-menu .tab-item:hover {*/
+/*    color: #ddd;*/
+/*    background-color: rgba(144, 202, 249, 0.1);*/
+/*    border-bottom-color: rgba(144, 202, 249, 0.3);*/
+/*}*/
+
+/*.io-black-mode .tab-menu .tab-item.active {*/
+/*    color: #90caf9;*/
+/*    background-color: rgba(144, 202, 249, 0.15);*/
+/*    border-bottom-color: #90caf9;*/
+/*    font-weight: 600;*/
+/*}*/
+
+/* 响应式样式 - 移动端标签 */
+/*@media screen and (max-width: 767px) {*/
+/*    .tab-menu {*/
+/*        padding-bottom: 10px;*/
+/*    }*/
+
+/*    .tab-menu .tab-item {*/
+/*        padding: 6px 12px;*/
+/*        margin-bottom: 5px;*/
+/*        font-size: 13px;*/
+/*    }*/
+/*}*/
+
+/* 分类之间的间距 */
+/*.tab-container + br,*/
+/*h4 + .tab-container {*/
+/*    margin-bottom: 15px;*/
+/*}*/
+
+/* 二级菜单样式二 */
+/* --- 默认 (白天/io-grey-mode) 样式 --- */
+.tab-menu {
+    display: inline-flex; /* 使宽度自适应内容 */
+    gap: 8px;
+    overflow-x: auto;
+    white-space: nowrap;
+    margin-bottom: 20px;
+    padding: 9px 6px;
+    background-color: #ffffff; /* 白天模式：非常浅的灰色背景 (匹配图片) */
+    border-radius: 25px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none;  /* IE and Edge */
+    max-width: 100%;
+}
+
+.tab-menu::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Opera */
+}
+
+.tab-item {
+    padding: 5px 12px;
+    border-radius: 25px;
+    background: transparent; /* 白天模式：透明标签背景 */
+    color: #6c757d; /* 白天模式：灰色文字 (匹配图片) */
+    font-weight: 500;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    margin-right: 0;
+    flex-shrink: 0;
+}
+
+.tab-item:hover {
+    color: #212529; /* 白天模式：悬停时黑色文字 */
+    background-color: #e5e5e5; /* 白天模式：悬停时稍深灰色背景 */
+}
+
+.tab-item.active {
+    background: #0084ff; /* 激活时蓝色背景 (匹配图片) */
+    color: #fff; /* 激活时白色文字 */
+    font-weight: 600;
+    transform: scale(1.03);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+}
+
+/* --- 暗黑 (io-black-mode) 模式下的调整 --- */
+body.io-black-mode .tab-menu { /* 使用 io-black-mode */
+    background-color: #2a2a2e; /* 暗黑模式：深灰色容器背景 (匹配图片) */
+    box-shadow: none;
+}
+body.io-black-mode .tab-item { /* 使用 io-black-mode */
+    background: #40404009; /* 暗黑模式：稍浅灰色标签背景 (匹配图片) */
+    color: #adb5bd; /* 暗黑模式：稍亮灰色文字 (匹配图片) */
+}
+body.io-black-mode .tab-item:hover { /* 使用 io-black-mode */
+    color: #fff; /* 暗黑模式：悬停时白色文字 */
+    background-color: #555555; /* 暗黑模式：悬停时更亮的灰色背景 */
+}
+body.io-black-mode .tab-item.active { /* 使用 io-black-mode */
+    background: #4a89f7; /* 暗黑模式：激活时蓝色背景 (匹配图片) */
+    color: #fff; /* 暗黑模式：激活时白色文字 */
+    transform: scale(1.03);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+.subcat-hidden {
+    display: none !important;
 }

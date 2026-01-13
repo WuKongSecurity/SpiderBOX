@@ -115,6 +115,13 @@
   icon: fas fa-tools
   list:
     - term: 在线工具
+    - term: 抓包工具
+    - term: 接口调试
+    - term: 监控管理
+    - term: 常用库/包
+    - term: 其他工具
+  tabs:
+    - name: 在线工具
       links:
 #        - title: 爬虫工具库
 #          logo: spidertools.png
@@ -213,7 +220,7 @@
           url: https://uutool.cn/img-coord/
           description: 在线图片坐标拾取工具，可以快速拾取图片中指定点的坐标，在验证码逆向中比较有用
 
-    - term: 抓包工具
+    - name: 抓包工具
       links:
         - title: Fiddler
           logo: fiddler.png
@@ -276,7 +283,7 @@
           url: https://github.com/r0ysue/r0capture
           description: 安卓应用层抓包通杀脚本
 
-    - term: 接口调试
+    - name: 接口调试
       links:
         - title: Postman
           logo: postman.png
@@ -331,7 +338,7 @@
           url: https://pan.baidu.com/s/1enE1c6sCmH19YEQlMYRNZg?pwd=sbox
           description: 小七编程助手，网盘提取密码：sbox
 
-    - term: 监控管理
+    - name: 监控管理
       links:
         - title: Crawlab
           logo: crawlab.png
@@ -370,7 +377,7 @@
           url: https://github.com/taskPyroer/taskpyro
           description: 轻量级 Python 任务调度与爬虫管理平台，可视化操作，环境隔离，资源占用小，支持 Scrapy 等主流爬虫框架，支持 Selenium、Playwright、DrissionPage 等浏览器自动化工具，支持 node 环境下的 js 逆向代码
 
-    - term: 常用库/包
+    - name: 常用库/包
       links:
         - title: vm
           logo: nodejs.png
@@ -509,7 +516,7 @@
 #          url: https://www.diffbot.com/
 #          description: 智能解析算法应用，通过人工智能技术，让“机器”识别网页内容，抓取关键内容，并输出软件可以直接识别的结构化数据。
 
-    - term: 其他工具
+    - name: 其他工具
       links:
         - title: SmsForwarder
           logo: smsforwarder.png
@@ -552,6 +559,16 @@
   icon: fab fa-js
   list:
     - term: 效率插件
+    - term: 必备库/包
+    - term: 混淆/反混淆
+    - term: 设备指纹
+    - term: TLS 指纹
+    - term: 环境框架
+    - term: 自动化/RPC
+    - term: 指纹浏览器
+
+  tabs:
+    - name: 效率插件
       links:
         - title: Fiddler 编程猫插件
           logo: bianchengmiao.jpg
@@ -642,7 +659,7 @@
           url: https://github.com/JSREI/ast-hook-for-js-RE
           description: 浏览器端的内存漫游解决方案，借助此工具你可以随意检索浏览器内存中的数据
 
-    - term: 必备库/包
+    - name: 必备库/包
       links:
         - title: PyExecJS
           logo: github.png
@@ -705,7 +722,7 @@
 #          url: https://www.diffbot.com/
 #          description: 智能解析算法应用，通过人工智能技术，让“机器”识别网页内容，抓取关键内容，并输出软件可以直接识别的结构化数据。
 
-    - term: 混淆/反混淆
+    - name: 混淆/反混淆
       links:
         - title: OB 在线混淆
           logo: obfuscator.png
@@ -804,7 +821,7 @@
           url: https://github.com/daisixuan/Geetest-AST-
           description: 一键反混淆所有版本的极验混淆 JS
 
-    - term: 设备指纹
+    - name: 设备指纹
       links:
         - title: CreepJS
           logo: creepjs.png
@@ -887,7 +904,7 @@
           url: https://github.com/bosniankicks/Chrome-BD
           description: Chrome Bot Detection，基于每个发行版本，每个版本都有新的更新或旧的浏览器机器人检测方法
 
-    - term: TLS 指纹
+    - name: TLS 指纹
       links:
         - title: JA3
           logo: ja3.png
@@ -1022,7 +1039,7 @@
           url: https://github.com/0x676e67/wreq
           description: Rust 库，模拟浏览器的 TLS、JA3/JA4 和 HTTP/2 指纹
 
-    - term: 环境框架
+    - name: 环境框架
       links:
         - title: qxVm
           logo: github.png
@@ -1053,7 +1070,7 @@
           url: https://github.com/xuxiaobo-bobo/boda_jsEnv
           description: js补环境框架
 
-    - term: 自动化/RPC
+    - name: 自动化/RPC
       links:
         - title: Selenium
           logo: selenium.png
@@ -1156,7 +1173,7 @@
           url: https://github.com/SuperMonster003/AutoJs6
           description: Auto.js 是一款 Android 平台支持无障碍服务的 JavaScript 自动化工具软件，现已停止维护，AutoJS6 在 Auto.js 最终项目的基础上进行二次开发
 
-    - term: 指纹浏览器
+    - name: 指纹浏览器
       links:
         - title: NstBrowser
           logo: nstbrowser.png
@@ -1243,6 +1260,11 @@
   icon: fab fa-android
   list:
     - term: 脱壳工具
+    - term: Hook工具
+    - term: APP 反编译
+    - term: APP 其他
+  tabs:
+    - name: 脱壳工具
       links:
         - title: FRIDA-DEXDump
           logo: github.png
@@ -1269,7 +1291,7 @@
           url: https://github.com/P4nda0s/panda-dex-dumper
           description: 用 rust 实现的脱壳工具，不需要 frida
 
-    - term: Hook工具
+    - name: Hook工具
       links:
         - title: Frida
           logo: frida.png
@@ -1316,7 +1338,7 @@
           url: https://github.com/dqzg12300/fridaUiTools
           description: fridaUiTools 是一个界面化整理脚本的工具
 
-    - term: APP 反编译
+    - name: APP 反编译
       links:
         - title: Android Crack Tool
           logo: github.png
@@ -1379,7 +1401,7 @@
           url: https://github.com/NationalSecurityAgency/ghidra
           description: Ghidra 是一个由美国国家安全局研究局创建和维护的、开源的软件逆向工程 (SRE) 框架 。该框架包括一套功能齐全的高端软件分析工具，使用户能够在包括 Windows、macOS 和 Linux 在内的各种平台上分析编译的代码。功能包括反汇编、汇编、反编译、绘图和脚本编写，以及数百种其他功能
 
-    - term: APP 其他
+    - name: APP 其他
       links:
         - title: Magisk
           logo: Magisk.png
@@ -1418,6 +1440,8 @@
   icon: fab fa-weixin
   list:
     - term: 小程序相关
+  tabs:
+    - name: 小程序相关
       links:
         - title: 微信开发者工具
           logo: weixin.jpg
@@ -1477,6 +1501,13 @@
   icon: fas fa-user-check
   list:
     - term: 识别打码
+    - term: 开源识别
+    - term: 轨迹相关
+    - term: 国内防护
+    - term: 国际防护
+    - term: 开源防护
+  tabs:
+    - name: 识别打码
       links:
         - title: 云码识别
           logo: jfbym.png
@@ -1619,7 +1650,7 @@
           url: https://www.zjdanli.com/
           description: 支持 reCAPTCHA、hCaptcha、Akamai、Incapsula（Imperva、reese84）、PerimeterX（Human）、Kasada、TLS 转发等
 
-    - term: 开源识别
+    - name: 开源识别
       links:
         - title: Awesome Captcha
           logo: github.png
@@ -1690,7 +1721,7 @@
           url: https://github.com/tomysky/crack_20_captcha
           description: 常见20种验证码识别思路
 
-    - term: 轨迹相关
+    - name: 轨迹相关
       links:
         - title: Easing functions
           logo: easings.png
@@ -1729,7 +1760,7 @@
           url: https://github.com/itmorn/robot-mouse-track
           description: 本项目通过对鼠标轨迹的特征分析，判定是否是人的行为还是机器行为。常见应用场景：网站反爬虫、在线考试系统脚本刷题
 
-    - term: 国内防护
+    - name: 国内防护
       links:
         - title: 阿里云验证码
           logo: aliyun.png
@@ -1820,7 +1851,7 @@
           url: https://threathunter.cn/
           description: 以情报构筑数字化安全基石，产品体系包括业务风险画像（IP 风险、手机邮箱风险、银行卡风险、设备风险等）、风险情报服务、API安全管理等
 
-    - term: 国际防护
+    - name: 国际防护
       links:
         - title: Kasada
           logo: kasada.png
@@ -1919,7 +1950,7 @@
           url: https://vercel.com/docs/vercel-firewall/firewall-concepts#challenge
           description: A security challenge verifies that incoming traffic originates from a real web browser with JavaScript capabilities. Only human visitors using a web browser can pass the challenge and access protected resources, while non-browser clients (bots, scripts, etc.) cannot.
 
-    - term: 开源防护
+    - name: 开源防护
       links:
         - title: 天爱开源验证码
           logo: tianai.jpg
@@ -1978,6 +2009,9 @@
   icon: fas fa-map-marker-alt
   list:
     - term: 国内代理
+    - term: 全球代理
+  tabs:
+    - name: 国内代理
       links:
         - title: 青果网络
           logo: qg.jpg
@@ -2052,7 +2086,7 @@
           url: https://www.xiaoxiongip.com?from=rYhWq7
           description: 小熊 ip 是一家企业级大数据 HTTP 动态 IP 服务提供商，为上百家企业用户提供海量优质高匿 HTTP 代理 IP，产品延迟低,稳定可靠，自建机房海量 IP，是企业级用户的首选
 
-    - term: 全球代理
+    - name: 全球代理
       links:
         - title: NetNut
           logo: netnut.png
@@ -2296,6 +2330,13 @@
   icon: fas fa-handshake
   list:
     - term: 优质项目
+    - term: 文章博主
+    - term: 视频博主
+    - term: 交流论坛
+    - term: 练习平台
+    - term: 知识付费
+  tabs:
+    - name: 优质项目
       links:
         - title: sperm
           logo: github.png
@@ -2386,7 +2427,7 @@
           url: https://github.com/threathunterX/nebula
           description: 星云业务风控系统，主工程
 
-    - term: 文章博主
+    - name: 文章博主
       links:
         # 大哥先顶上
         - title: 国家安全部
@@ -3118,7 +3159,7 @@
           qrcode: images/qrcode/XiaoWuGeRisk.jpg
           description: 公众号：小伍哥聊风控
 
-    - term: 视频博主
+    - name: 视频博主
       links:
         - title: 信息网络吴律师
           logo: wuwm.jpg
@@ -3360,7 +3401,7 @@
 #          logo: 409871996.jpg
 #          url: https://space.bilibili.com/409871996
 #          description: 玩转Code的 bilibili 主页
-    - term: 交流论坛
+    - name: 交流论坛
       links:
         - title: 看雪安全社区
           logo: kanxue.png
@@ -3414,7 +3455,7 @@
           logo: thewebscraping.jpg
           url: https://substack.thewebscraping.club/
           description: 国外的一个爬虫俱乐部。
-    - term: 练习平台
+    - name: 练习平台
       links:
         - title: 猿人学第一届 JS 逆向刷题平台
           logo: yuanrenxue.jpg
@@ -3468,7 +3509,7 @@
 #          logo: evilrecluse.png
 #          url: http://learnspider.evilrecluse.top/
 #          description: 欧拉VS木大 是一个爬虫训练场，你可以在这里锻炼你的爬虫基础能力
-    - term: 知识付费
+    - name: 知识付费
       links:
         - title: 猿人学·爬虫逆向进阶课
           logo: yuanrenxue.jpg
@@ -3544,6 +3585,11 @@
   icon: fas fa-robot fa-lg
   list:
     - term: AI 聊天对话
+    - term: AI 代码编程
+    - term: AI 图像绘画
+    - term: AI 文档办公
+  tabs:
+    - name: AI 聊天对话
       links:
         - title: ChatGPT
           url: https://chat.openai.com/
@@ -3594,7 +3640,7 @@
 #          logo: 360.png
 #          description: 360 智脑为 360 自研千亿参数大语言模型，已具备生成与创作、多轮对话、代码能力、文本分类、文本改写、阅读理解、逻辑与推理、知识问答、多模态、翻译等十大核心能力，维度涵盖数百项细分功能，可覆盖大模型全部应用场景
 
-    - term: AI 代码编程
+    - name: AI 代码编程
       links:
         - title: Claude
           url: https://claude.ai/
@@ -3637,7 +3683,7 @@
           logo: browse.png
           description: Browse AI 是一个网页数据抓取和监控爬虫工具，可以让你在几分钟内训练一个机器人，从任何网站提取你需要的数据，并且无需编写任何代码。你可以将抓取到的数据保存为电子表格，或者通过 API，Google Sheets，Zapier 等方式与其他应用程序集成
 
-    - term: AI 图像绘画
+    - name: AI 图像绘画
       links:
         - title: Midjourney
           url: https://www.midjourney.com/
@@ -3684,7 +3730,7 @@
           logo: mewx.png
           description: 使用 MewXAI星月熊 在几秒内创建令人惊叹的下一代艺术二维码和艺术字。 从此告别单调的黑白二维码和文字，留下令人深刻的印象！
 
-    - term: AI 文档办公
+    - name: AI 文档办公
       links:
         - title: UP 简历
           url: https://upcv.tech/?invite=INVHDPT2NRO
