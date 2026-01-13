@@ -371,6 +371,10 @@
     term: 吾爱破解
   - links:
     - author: 九月镇灵将
+      release_time: 2026.01.13 14:18:43
+      title: gif动态验证码识别训练思路
+      url: https://blog.csdn.net/weixin_43845191/article/details/156874226
+    - author: 九月镇灵将
       release_time: 2026.01.12 22:13:03
       title: gif动态验证码帧隐藏场景通用算法思考与尝试实现
       url: https://blog.csdn.net/weixin_43845191/article/details/156865443
@@ -486,10 +490,6 @@
       release_time: 2025.12.29 21:23:31
       title: 某东手势轨迹验证码多种识别方案汇总——训练
       url: https://blog.csdn.net/weixin_43845191/article/details/156395504
-    - author: 九月镇灵将
-      release_time: 2025.12.29 21:19:47
-      title: 某东手势轨迹验证码多种识别汇总——标注
-      url: https://blog.csdn.net/weixin_43845191/article/details/156361608
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
