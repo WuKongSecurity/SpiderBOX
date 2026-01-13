@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 软件安全与逆向分析
+      release_time: 2026.01.13 10:43:42
+      title: redex中文技术手册
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484995&idx=1&sn=192ff6cee29c7bf92558f0881bfdb623
+    - author: Coder小Q
+      release_time: 2026.01.13 08:30:00
+      title: 【密码学】基于ML-DSA的门限签名
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493558&idx=1&sn=6a7d1d5e472a5cc65e08b3de6c565abe
+    - author: 哆啦安全
+      release_time: 2026.01.13 07:32:16
+      title: 移动设备取证秘籍:让你轻松获取关键证据！
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499509&idx=1&sn=64c9b884241baf72bdae0c687cd76478
+    - author: Frida and So
+      release_time: 2026.01.12 14:41:09
+      title: x-mini-s1算法分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247485086&idx=1&sn=864786b6ecae03f294bdd033421e4338
     - author: 影17
       release_time: 2026.01.12 12:23:28
       title: APP逆向之某某超市V2
@@ -228,22 +244,6 @@
       release_time: 2026.01.07 08:08:00
       title: 某APP样本安全检测绕过：小试SVC系统调用HOOK
       url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485256&idx=1&sn=a2b5b2da64e5daacde633a2ddcca1009
-    - author: 静夜随想
-      release_time: 2026.01.06 20:41:04
-      title: 用AI写了个金手指计数器微信小程序
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811221&idx=1&sn=7189b14ba4e10c6430f133bd82270c26
-    - author: 如意私塾
-      release_time: 2026.01.06 18:38:14
-      title: CDP框架自制 | CDP远程执行获取爬虫加密参数
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484001&idx=1&sn=8ebccda34c4377fca82572bbebe32a72
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.01.06 17:23:37
-      title: Deepseek承诺改进“AI幻觉”风险披露措施，意大利监管机构结束调查
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519835&idx=1&sn=6a795bbc2efbdbf4427fe1653263aa32
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.01.06 17:23:37
-      title: 93款违法违规App/SDK被通报，涉违规收集个人信息等行为
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519835&idx=2&sn=b231560daa70d996619bff384e7b3e1e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
