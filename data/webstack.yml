@@ -422,7 +422,7 @@
         - title: pybestV8
           logo: github.png
           url: https://github.com/wangluozhe/pybestV8
-          description: bestV8 Python 版本，是一个快速且易于使用的 JS 执行库，并且支持上下文操作
+          description: bestV8 Python 版本，是一个快速且易于使用的 JS 执行库，并且支持上下文操作，作者 LeeGene (wangluozhe，tls 开源库 requests 和 requests-go 作者)
         - title: Js2Py
           logo: github.png
           url: https://github.com/PiotrDabkowski/Js2Py
@@ -559,7 +559,6 @@
   icon: fab fa-js
   list:
     - term: 效率插件
-    - term: 必备库/包
     - term: 混淆/反混淆
     - term: 设备指纹
     - term: TLS 指纹
@@ -658,69 +657,6 @@
           logo: github.png
           url: https://github.com/JSREI/ast-hook-for-js-RE
           description: 浏览器端的内存漫游解决方案，借助此工具你可以随意检索浏览器内存中的数据
-
-    - name: 必备库/包
-      links:
-        - title: PyExecJS
-          logo: github.png
-          url: https://github.com/doloopwhile/PyExecJS
-          description: 在 Python 中运行 JavaScript 代码，现已停止维护
-        - title: vm2
-          logo: github.png
-          url: https://github.com/patriksimek/vm2
-          description: Node.js 的高级虚拟机/沙箱，因为包含严重的安全问题，现已停止维护
-        - title: node_vm2
-          logo: github.png
-          url: https://github.com/eight04/node_vm2
-          description: node_vm2 是 Python3 到 Node.js + vm2 的绑定，帮助您安全地执行 JavaScript
-        - title: deno_vm
-          logo: github.png
-          url: https://github.com/eight04/deno_vm
-          description: deno_vm 是 Python3 到 Deno + worker-vm 的绑定，帮助您安全地执行 JavaScript
-        - title: PyMiniRacer
-          logo: pyminiracer.png
-          url: https://github.com/sqreen/PyMiniRacer
-          description: PyMiniRacer 是 Python 中的 V8 桥接器
-        - title: PythonMonkey
-          logo: github.png
-          url: https://github.com/Distributive-Network/PythonMonkey
-          description: 嵌入到 Python VM 中的 Mozilla SpiderMonkey JavaScript 引擎，使用 Python 引擎提供 JS 宿主环境
-        - title: bestV8
-          logo: github.png
-          url: https://github.com/BestToYou/bestV8_release
-          description: 一个可以跑 js 的逆向工具
-        - title: pybestV8
-          logo: github.png
-          url: https://github.com/wangluozhe/pybestV8
-          description: bestV8 Python 版本，是一个快速且易于使用的 JS 执行库，并且支持上下文操作
-        - title: Js2Py
-          logo: github.png
-          url: https://github.com/PiotrDabkowski/Js2Py
-          description: js2py 是一个专门为 Python 设计的库，允许在 Python 中执行 JavaScript 代码，并且提供了较完整的 JavaScript 解释器。它支持更复杂的 JavaScript 特性，如闭包和异常处理
-        - title: blackboxprotobuf
-          logo: github.png
-          url: https://github.com/nccgroup/blackboxprotobuf
-          description: blackboxprotobuf 是一个 Python 库，可在黑盒的情况下直接把 Protobuf 数据解析为 JSON 数据
-        - title: fake-useragent
-          logo: github.png
-          url: https://github.com/fake-useragent/fake-useragent
-          description: 随机 UA
-        - title: vthread
-          logo: github.png
-          url: https://github.com/cilame/vthread
-          description: Python 更加方便的多线程库，以最小的代码侵入，做到最高效的多线程、线程池 coding 效率。在不改变源代码的情况下，一行代码即可实现线程池操作
-        - title: GeneralNewsExtractor
-          logo: gne.jpg
-          url: https://github.com/GeneralNewsExtractor/GeneralNewsExtractor
-          description: 新闻网页正文通用抽取器 Beta 版
-        - title: newspaper
-          logo: newspaper.jpg
-          url: https://github.com/codelucas/newspaper
-          description: Python3 中的新闻、全文和文章元数据提取
-#        - title: diffbot
-#          logo: diffbot.png
-#          url: https://www.diffbot.com/
-#          description: 智能解析算法应用，通过人工智能技术，让“机器”识别网页内容，抓取关键内容，并输出软件可以直接识别的结构化数据。
 
     - name: 混淆/反混淆
       links:
@@ -933,7 +869,7 @@
         - title: TrackMe - fingerprinting API
           logo: wangluozhe.jpg
           url: https://tls.wangluozhe.com/
-          description: TLS 指纹 API，查看 ja3、ja4 指纹，https://tls.peet.ws/ 开源镜像版本，作者 LeeGene (wangluozhe)，tls 开源库 requests 和 requests-go 作者
+          description: TLS 指纹 API，查看 ja3、ja4 指纹，https://tls.peet.ws/ 开源镜像版本，作者 LeeGene (wangluozhe，tls 开源库 requests 和 requests-go 作者)
         - title: TLSJA3
           logo: geekbyter.jpg
           url: https://tlsja3.cn/tls
@@ -985,7 +921,7 @@
         - title: requests-go
           logo: github.png
           url: https://github.com/wangluozhe/requests-go
-          description: Python 库，支持 tls 指纹修改（如ja3）和 http2 的 http 请求库
+          description: Python 库，支持 tls 指纹修改（如ja3）和 http2 的 http 请求库，作者 LeeGene (wangluozhe，tls 开源库 requests 和 requests-go 作者)
         - title: curl_cffi
           logo: github.png
           url: https://github.com/yifeikong/curl_cffi
@@ -1021,7 +957,7 @@
         - title: requests
           logo: github.png
           url: https://github.com/wangluozhe/requests
-          description: Golang 库，用于快速请求 HTTP 或 HTTPS，并支持修改 ja3、ja4 指纹
+          description: Golang 库，用于快速请求 HTTP 或 HTTPS，并支持修改 ja3、ja4 指纹，作者 LeeGene (wangluozhe，tls 开源库 requests 和 requests-go 作者)
         - title: requests
           logo: github.png
           url: https://github.com/gospider007/requests
@@ -1826,14 +1762,10 @@
           logo: kgcaptcha.png
           url: https://www.kgcaptcha.com/
           description: 开创行为验证新时代，行为AI技术结合先进的风控引擎，基于生物行为特征，利用深度学习构建安全防御体系，持续进化提升人机区分能力，保障业务稳定的同时提升用户体验。有效区分真实用户和机器自动化脚本攻击，避免机器请求造成业务损失
-        - title: ciyverify
-          logo: github.png
-          url: https://github.com/2833844911/ciyverify
-          description: 陈不不开发的滑块验证码，加密方式为 JSVMP
-        - title: 锐捷
-          logo: ruijie.jpg
-          url: https://captcha.ruijie.com.cn/
-          description: 行为验证码采用嵌入式集成方式，接入方便，安全，高效。抛弃了传统字符型验证码展示-填写字符-比对答案的流程，采用验证码展示-采集用户行为-分析用户行为流程，用户只需要产生指定的行为轨迹，不需要键盘手动输入，极大优化了传统验证码用户体验不佳的问题；同时，快速、准确的返回人机判定结果
+#        - title: 锐捷
+#          logo: ruijie.jpg
+#          url: https://captcha.ruijie.com.cn/
+#          description: 行为验证码采用嵌入式集成方式，接入方便，安全，高效。抛弃了传统字符型验证码展示-填写字符-比对答案的流程，采用验证码展示-采集用户行为-分析用户行为流程，用户只需要产生指定的行为轨迹，不需要键盘手动输入，极大优化了传统验证码用户体验不佳的问题；同时，快速、准确的返回人机判定结果
         - title: 瑞数信息
           logo: riversecurity.png
           url: https://www.riversecurity.com/
@@ -1850,6 +1782,11 @@
           logo: threathunter.png
           url: https://threathunter.cn/
           description: 以情报构筑数字化安全基石，产品体系包括业务风险画像（IP 风险、手机邮箱风险、银行卡风险、设备风险等）、风险情报服务、API安全管理等
+        - title: WlzShield Captcha
+          logo: wangluozhe.jpg
+          url: https://captcha.wangluozhe.com/
+          description: 安全、有趣、易集成的 HTML5 验证码解决方案，作者 LeeGene (wangluozhe，tls 开源库 requests 和 requests-go 作者)
+
 
     - name: 国际防护
       links:
@@ -2096,22 +2033,22 @@
           logo: brightdata.png
           url: https://get.brightdata.com/17arn8
           description: Award winning proxy networks, powerful web scrapers, and ready-to-use datasets for download. Welcome to the world's number one web data platform.
-        - title: nstproxy
-          logo: nstproxy.jpg
-          url: https://app.nstproxy.com/register?i=EKtJne
-          description: nstproxy provide various types of proxies, including rotating residential proxies(city target and country target), datacenter proxies, ipv6 proxies, ISP proxies, and mobile proxies. Partner with nstproxy to get high-quality proxies that meet your needs for data collection, web scraping, and privacy protection.
 #        - title: IPIPGO 全球住宅 IP
 #          logo: ipipgo.jpg
 #          url: https://www.ipipgo.com?inviteLink=e9dv4Dho
 #          description: IPIPGO 全球住宅 IP，企业级海外代理IP服务商，汇集全球245个国家/地区的9000万家庭住宅IP，涵盖静态、动态、原生跨境专线等方案，提供全面的免费测试，确保满足您的业务需求
+        - title: kookeey 全球业务级代理 IP
+          logo: kookeey.png
+          url: https://www.kookeey.com/?aff=85299914
+          description: 主营静态 ISP 代理、动态住宅代理、静态数据中心代理 3 大产品
+        - title: nstproxy
+          logo: nstproxy.jpg
+          url: https://app.nstproxy.com/register?i=EKtJne
+          description: nstproxy provide various types of proxies, including rotating residential proxies(city target and country target), datacenter proxies, ipv6 proxies, ISP proxies, and mobile proxies. Partner with nstproxy to get high-quality proxies that meet your needs for data collection, web scraping, and privacy protection.
         - title: Cliproxy
           logo: cliproxy.png
           url: https://cliproxy.com/?kwd=ty-spiderbox
           description: 免费测试，最新IP池，联系客服可获得 10%-40%的套餐额外资源赠送。不限流量，套餐永不过期，全球195+国家地区纯净资源
-        - title: DataBay
-          logo: databay.jpg
-          url: https://databay.com/r/A9468EC/
-          description: Access 23M+ Real-Device IPs with our Top Proxy Solution. Enhance data collection from various locations using reliable proxies for success.
         - title: IPIDEA
           logo: ipidea.jpg
           url: https://share.ipidea.net/OLrYNd
@@ -2204,10 +2141,10 @@
           logo: swiftproxy.jpg
           url: https://www.swiftproxy.net/?ref=spiderbox
           description: 9000万+全球高质量纯净动态、静态住宅IP，支持免费测试，动态流量不过期
-        - title: kookeey 全球业务级代理 IP
-          logo: kookeey.png
-          url: https://www.kookeey.com/?aff=85299914
-          description: 主营静态 ISP 代理、动态住宅代理、静态数据中心代理 3 大产品
+        - title: DataBay
+          logo: databay.jpg
+          url: https://databay.com/r/A9468EC/
+          description: Access 23M+ Real-Device IPs with our Top Proxy Solution. Enhance data collection from various locations using reliable proxies for success.
         - title: 922 S5proxy
           logo: 922proxy.jpg
           url: https://922proxy.com/login?utm-source=Amily&utm-keyword=?spiderbox
