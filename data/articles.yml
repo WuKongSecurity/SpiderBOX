@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 無色逆向
+      release_time: 2026.01.14 17:27:07
+      title: hCaptcha无感逆向分析-补环境
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MjYyNTgxMQ==&mid=2247484515&idx=1&sn=335562dca2d16432f63cce72ac6803a3
+    - author: 如意私塾
+      release_time: 2026.01.14 17:03:21
+      title: CDP框架群控 | 每个定制浏览器窗口不同socks5密码代理
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484007&idx=1&sn=2275ef92a235130b5a021a8ee8adf9c9
     - author: 二进制磨剑
       release_time: 2026.01.14 14:22:52
       title: 2026年，AI编程只能写前端？有人用Claude“手搓”了一个操作系统，含网络协议栈
@@ -236,14 +244,6 @@
       release_time: 2026.01.09 08:00:00
       title: 【MacOS逆向】某软件许可证系统离线激活分析与Keygen
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143423&idx=1&sn=cbb5f29bb43bf424f1e8392823e5ea30
-    - author: 未闻Code
-      release_time: 2026.01.08 21:04:00
-      title: 100 个典型示例 + 8 大实战案例，这本新书让你的代码真正“飞”起来！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991352&idx=1&sn=dfd69496a2e1d69fdfefe5235c5d2774
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.01.08 17:00:35
-      title: 工信部等八部门联合印发《“人工智能+制造”专项行动实施意见》
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519841&idx=1&sn=12f0e61b81abe26519e40d261e23a4db
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
