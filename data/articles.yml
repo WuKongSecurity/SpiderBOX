@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2026.01.14 12:39:28
+      title: 404 那只猫，现在手机也能好好“圈”了
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143492&idx=1&sn=2b35e3524c10a82beb0003f7a79173c5
     - author: 木子打杂spider
       release_time: 2026.01.14 11:33:29
       title: 终于出来了
@@ -196,6 +200,14 @@
       release_time: 2026.01.11 09:43:16
       title: tiktok，X-Bogus、X-Gnarly纯算分析
       url: https://mp.weixin.qq.com/s?__biz=MzA4ODA3NDA1NQ==&mid=2247484723&idx=1&sn=02a865c74e5807e5f4687b1228c61b0d
+    - author: 吾爱破解论坛
+      release_time: 2026.01.11 08:37:35
+      title: 某短视频指纹和纯算 sig3 逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143477&idx=1&sn=1b3920382e039bdba49d844aa0b0dd05
+    - author: 吾爱破解论坛
+      release_time: 2026.01.10 08:34:25
+      title: 对vmp3.2虚拟机内爆破的一点研究
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143450&idx=1&sn=7564fe4f3811b99c11fe49d894c74046
     - author: 沐阳逆向学习
       release_time: 2026.01.09 19:30:00
       title: iOS 18 越狱教程：palera1n + 巨魔安装全流程
@@ -232,18 +244,6 @@
       release_time: 2026.01.08 17:00:35
       title: 裁判文书审判员隐名？最高法回应：显属不当，已安排整改
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519841&idx=2&sn=eda5916622e399194bb40d14ddf95fd0
-    - author: 布鲁的Python之旅
-      release_time: 2026.01.08 17:00:00
-      title: 电影票房数据分析与可视化系统 (2025版)
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486299&idx=1&sn=eca20b1747d846906277e5054f678ff6
-    - author: 逆向狗都不学
-      release_time: 2026.01.08 15:29:01
-      title: JSVMP反编译之JD
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247484143&idx=1&sn=3c46f224c4ea4bdd39721d55d3e06862
-    - author: 哆啦安全
-      release_time: 2026.01.08 12:09:48
-      title: 逆向交流群|Android智能调试工具(下载地址)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499472&idx=1&sn=0b0a5245ce898f0a53aaa6a36bdd4a6b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
