@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: 2026.01.14 14:22:52
+      title: 2026年，AI编程只能写前端？有人用Claude“手搓”了一个操作系统，含网络协议栈
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485912&idx=1&sn=43a89ce97b5391a35cec0f93713f1b09
     - author: 吾爱破解论坛
       release_time: 2026.01.14 12:39:28
       title: 404 那只猫，现在手机也能好好“圈”了
@@ -240,10 +244,6 @@
       release_time: 2026.01.08 17:00:35
       title: 工信部等八部门联合印发《“人工智能+制造”专项行动实施意见》
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519841&idx=1&sn=12f0e61b81abe26519e40d261e23a4db
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.01.08 17:00:35
-      title: 裁判文书审判员隐名？最高法回应：显属不当，已安排整改
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519841&idx=2&sn=eda5916622e399194bb40d14ddf95fd0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
