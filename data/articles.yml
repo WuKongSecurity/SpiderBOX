@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 静夜随想
+      release_time: 2026.01.14 20:32:00
+      title: 听说你Selenium和Playwright自动化无敌，来试试这两个站点吧
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811225&idx=1&sn=f5dd3f4e02be144b779bb8fdb14fa9ad
     - author: 無色逆向
       release_time: 2026.01.14 17:27:07
       title: hCaptcha无感逆向分析-补环境
@@ -240,10 +244,6 @@
       release_time: 2026.01.09 09:00:00
       title: AST从入门到入土：基于AST的吾爱破解自动签到解析
       url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862180&idx=1&sn=6b476f3b1eb425a69331918e652b599a
-    - author: 吾爱破解论坛
-      release_time: 2026.01.09 08:00:00
-      title: 【MacOS逆向】某软件许可证系统离线激活分析与Keygen
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143423&idx=1&sn=cbb5f29bb43bf424f1e8392823e5ea30
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
