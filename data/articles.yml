@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2026.01.14 21:27:57
+      title: 产品经理和技术团队的博弈：要功能还是要稳定性？
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991358&idx=1&sn=e345473db99bcce275e9c6768a6878b7
+    - author: lsq665
+      release_time: 2026.01.14 21:26:12
+      title: 某里算术编码还原
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5NzkyOTAxNw==&mid=2247483743&idx=1&sn=2c8f8239f2f6cc61b2aa8aa551644756
     - author: 静夜随想
       release_time: 2026.01.14 20:32:00
       title: 听说你Selenium和Playwright自动化无敌，来试试这两个站点吧
@@ -220,6 +228,10 @@
       release_time: 2026.01.11 08:37:35
       title: 某短视频指纹和纯算 sig3 逆向分析
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143477&idx=1&sn=1b3920382e039bdba49d844aa0b0dd05
+    - author: 未闻Code
+      release_time: 2026.01.10 21:02:38
+      title: Gemini 3 Pro加持！这款开源神器 Clipsketch AI，帮你自动抓帧、画图、写爆文！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991355&idx=1&sn=d7a8b82663c0e50875c53f752715de3c
     - author: 吾爱破解论坛
       release_time: 2026.01.10 08:34:25
       title: 对vmp3.2虚拟机内爆破的一点研究
@@ -232,18 +244,6 @@
       release_time: 2026.01.09 11:55:46
       title: nav定制个人导航
       url: https://mp.weixin.qq.com/s?__biz=Mzk2NDMwMzM4Mw==&mid=2247484121&idx=1&sn=5b6accfc92b9c578e6c60cf0c4fb3045
-    - author: 冰敷逆向笔记
-      release_time: 2026.01.09 10:10:44
-      title: 以腾讯滑块为例，VMP的公式化解法
-      url: https://mp.weixin.qq.com/s?__biz=MzI0NDg0ODE1MQ==&mid=2247483867&idx=1&sn=434c9c818894e449a462795bab925fa5
-    - author: Python成长路
-      release_time: 2026.01.09 10:08:35
-      title: vs2022无法正常使用copilot的解决方案
-      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247485953&idx=1&sn=1f8887b6065fa4a15ba5e0868629ddf5
-    - author: 将往的爬虫逆向日记
-      release_time: 2026.01.09 09:00:00
-      title: AST从入门到入土：基于AST的吾爱破解自动签到解析
-      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862180&idx=1&sn=6b476f3b1eb425a69331918e652b599a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
