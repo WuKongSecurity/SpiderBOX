@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.01.14 09:08:01
+      title: Python代码保护工具V2.0
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499516&idx=1&sn=add7720ed6f07e968015ee9b1305d939
+    - author: 榫卯江湖
+      release_time: 2026.01.14 08:36:46
+      title: Android Binder 拦截实战：从源码调试到对抗分析
+      url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485306&idx=1&sn=7a12b2b36e6ec824cfa636b943d8ba80
     - author: 将往的爬虫逆向日记
       release_time: 2026.01.13 21:26:08
       title: 自动化爬虫：AI+自动化过spiderdemo困难题T31无感验证码
@@ -236,14 +244,6 @@
       release_time: 2026.01.08 11:00:00
       title: 沈阳深蓝2025年HW项目结算完毕
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041223&idx=1&sn=873e23ff5c548e3fa341e445c3ef0ebd
-    - author: 极验
-      release_time: 2026.01.08 09:00:00
-      title: Spotify遭“合法洗库”：AI时代，数据正从“资产”沦为“养料”
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724108&idx=1&sn=e2675874f9a1314a2a83bdb857e1e9cd
-    - author: 零基础爬虫第一天
-      release_time: 2026.01.07 19:33:42
-      title: 【node源码-9】魔改node自动补原型和函数保护
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484029&idx=1&sn=4c01abafe999b9f9e6bcde7ac46baeb1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -371,6 +371,10 @@
     term: 吾爱破解
   - links:
     - author: 九月镇灵将
+      release_time: 2026.01.14 09:04:39
+      title: 最大面积验证码通用解法
+      url: https://blog.csdn.net/weixin_43845191/article/details/156932799
+    - author: 九月镇灵将
       release_time: 2026.01.13 14:18:43
       title: gif动态验证码识别训练思路
       url: https://blog.csdn.net/weixin_43845191/article/details/156874226
@@ -486,10 +490,6 @@
       release_time: 2025.12.30 15:30:24
       title: wasm加密，荔枝网x-itouchtv-ca-key、x-itouchtv-ca-signature 参数加密分析
       url: https://blog.csdn.net/m0_38098782/article/details/156422404
-    - author: 九月镇灵将
-      release_time: 2025.12.29 21:23:31
-      title: 某东手势轨迹验证码多种识别方案汇总——训练
-      url: https://blog.csdn.net/weixin_43845191/article/details/156395504
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
