@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2026.01.15 15:02:56
+      title: 心流鼠标手势获得谷歌商店精选认证！
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143497&idx=1&sn=28428491a08debb04e8a42ad3b388ff9
     - author: 哆啦安全
       release_time: 2026.01.15 12:52:09
       title: 鸿蒙HarmonyOS Next系统提取HAP包指南
@@ -240,10 +244,6 @@
       release_time: 2026.01.11 09:43:16
       title: tiktok，X-Bogus、X-Gnarly纯算分析
       url: https://mp.weixin.qq.com/s?__biz=MzA4ODA3NDA1NQ==&mid=2247484723&idx=1&sn=02a865c74e5807e5f4687b1228c61b0d
-    - author: 吾爱破解论坛
-      release_time: 2026.01.11 08:37:35
-      title: 某短视频指纹和纯算 sig3 逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143477&idx=1&sn=1b3920382e039bdba49d844aa0b0dd05
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
