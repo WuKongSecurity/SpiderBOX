@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.01.15 12:52:09
+      title: 鸿蒙HarmonyOS Next系统提取HAP包指南
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499521&idx=1&sn=01a24f213e2bfdd08f0fa20a287823bb
+    - author: 布鲁的Python之旅
+      release_time: 2026.01.15 10:20:35
+      title: 告别低效运维！TaskPyro 2.2.4爬虫管理平台发布：轻松驾驭300+脚本与1000+定时任务
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486305&idx=1&sn=f59d120ae48d7a1765b04175727a506b
     - author: 小小杨学编程
       release_time: 2026.01.15 09:12:00
       title: 某电子商务盾山类VMP纯算分析
@@ -236,14 +244,6 @@
       release_time: 2026.01.11 08:37:35
       title: 某短视频指纹和纯算 sig3 逆向分析
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143477&idx=1&sn=1b3920382e039bdba49d844aa0b0dd05
-    - author: 未闻Code
-      release_time: 2026.01.10 21:02:38
-      title: Gemini 3 Pro加持！这款开源神器 Clipsketch AI，帮你自动抓帧、画图、写爆文！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991355&idx=1&sn=d7a8b82663c0e50875c53f752715de3c
-    - author: 吾爱破解论坛
-      release_time: 2026.01.10 08:34:25
-      title: 对vmp3.2虚拟机内爆破的一点研究
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143450&idx=1&sn=7564fe4f3811b99c11fe49d894c74046
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -371,6 +371,10 @@
     term: 吾爱破解
   - links:
     - author: 九月镇灵将
+      release_time: 2026.01.15 12:39:05
+      title: 某象字体识别验证码识别全流程
+      url: https://blog.csdn.net/weixin_43845191/article/details/156909917
+    - author: 九月镇灵将
       release_time: 2026.01.14 09:04:39
       title: 最大面积验证码通用解法
       url: https://blog.csdn.net/weixin_43845191/article/details/156932799
@@ -486,10 +490,6 @@
       release_time: 2026.01.04 10:45:04
       title: 自制文本标注工具（适配dddd_trainer，提供源码）
       url: https://blog.csdn.net/weixin_43845191/article/details/156561547
-    - author: 溏心蛋*
-      release_time: 2025.12.31 17:51:43
-      title: akamai___sensor_data___秒了~
-      url: https://blog.csdn.net/L1416279170/article/details/156463030
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
