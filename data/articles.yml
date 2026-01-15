@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小小杨学编程
+      release_time: 2026.01.15 09:12:00
+      title: 某电子商务盾山类VMP纯算分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484684&idx=1&sn=76778e1a87f46f25b7797623b2ce1273
+    - author: Coder小Q
+      release_time: 2026.01.15 08:30:00
+      title: 【密码学】基于ML-DSA的门限签名(代码解读)
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493609&idx=1&sn=3a3cb9ccd47aad45a01dc16a14a34bbe
     - author: 未闻Code
       release_time: 2026.01.14 21:27:57
       title: 产品经理和技术团队的博弈：要功能还是要稳定性？
@@ -236,14 +244,6 @@
       release_time: 2026.01.10 08:34:25
       title: 对vmp3.2虚拟机内爆破的一点研究
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143450&idx=1&sn=7564fe4f3811b99c11fe49d894c74046
-    - author: 沐阳逆向学习
-      release_time: 2026.01.09 19:30:00
-      title: iOS 18 越狱教程：palera1n + 巨魔安装全流程
-      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484481&idx=1&sn=5ed1b6c594dd3105ea3b26aeb0b17c56
-    - author: 木子打杂spider
-      release_time: 2026.01.09 11:55:46
-      title: nav定制个人导航
-      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDMwMzM4Mw==&mid=2247484121&idx=1&sn=5b6accfc92b9c578e6c60cf0c4fb3045
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
