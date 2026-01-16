@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2026.01.16 17:30:00
+      title: JS逆向实战|使用Claude Code + MCP逆向某反混淆练习靶场
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566272&idx=1&sn=099e6207907c44dade665ff20ea5685c
     - author: 影17
       release_time: 2026.01.15 19:04:37
       title: 叮咚买菜sesi & nars逆向流程分析
@@ -240,10 +244,6 @@
       release_time: 2026.01.12 08:30:00
       title: 代码在本地跑得好好的，一上Jenkins就报错？多半是路径没玩明白！
       url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578536&idx=1&sn=c03321e12c2361a76d35265ba482ffd1
-    - author: 二进制磨剑
-      release_time: 2026.01.12 08:30:00
-      title: APP 指纹绕过反爬虫实战：TLS 握手层面的攻防对抗
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485902&idx=1&sn=d4ccbad286ce6917bca19c540703ea1d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
