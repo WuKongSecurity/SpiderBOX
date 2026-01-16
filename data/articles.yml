@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 爬虫逆向小林哥
+      release_time: 2026.01.16 17:53:32
+      title: __NS_hxfalcon  vmp长文分析
+      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487091&idx=1&sn=7f7ff122e712e5ff799e74dc6b681c89
     - author: 菜鸟学Python编程
       release_time: 2026.01.16 17:30:00
       title: JS逆向实战|使用Claude Code + MCP逆向某反混淆练习靶场
@@ -240,10 +244,6 @@
       release_time: 2026.01.12 08:45:00
       title: 用微信聊天记录做一个年度报告
       url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247485971&idx=1&sn=8ab6f20c2e3a54256e34eeb280e6890d
-    - author: 测试工程师成长之路
-      release_time: 2026.01.12 08:30:00
-      title: 代码在本地跑得好好的，一上Jenkins就报错？多半是路径没玩明白！
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578536&idx=1&sn=c03321e12c2361a76d35265ba482ffd1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
