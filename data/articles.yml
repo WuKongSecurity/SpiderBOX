@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.01.16 23:59:54
+      title: AI对于普通人来说是翻身的机会(2026)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499526&idx=1&sn=fbf5fcf04b71b10dec8d14d6f4730aa7
     - author: 未闻Code
       release_time: 2026.01.16 21:04:49
       title: 多次霸榜 GitHub，斩获 22700+ Star，又一个 Claude Code 神器开源！
@@ -240,10 +244,6 @@
       release_time: 2026.01.12 12:23:28
       title: APP逆向之某某超市V2
       url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247490312&idx=1&sn=70f19c1c92bb6c9e8f07a6e5f2f030b0
-    - author: 逆向有你
-      release_time: 2026.01.12 11:06:22
-      title: 安卓逆向 --  某消费金融算法分析
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041281&idx=1&sn=a02f7ada708c100184bc4806241e2f8c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
