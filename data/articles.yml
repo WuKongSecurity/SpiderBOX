@@ -374,6 +374,10 @@
       release_time: 2026.01.17 01:14:35
       title: 某物data魔改与变种算法还原（含加解密Py纯算）
       url: https://crawler.blog.csdn.net/article/details/156852947
+    - author: 悦来客栈的老板
+      release_time: 2026.01.16 17:31:02
+      title: JS逆向实战|使用Claude Code + MCP逆向某反混淆练习靶场
+      url: https://blog.csdn.net/qq523176585/article/details/157040512
     - author: 九月镇灵将
       release_time: 2026.01.15 17:09:12
       title: 基于ddddocr+Hu矩计算方法识别某象差异点击验证码
@@ -486,10 +490,6 @@
       release_time: 2026.01.04 19:07:44
       title: '[原创]如何手搓反汇编引擎-原理（ARM）'
       url: https://bbs.kanxue.com/thread-289662.htm
-    - author: 王麻子本人
-      release_time: 2026.01.04 19:07:44
-      title: '[原创] OLLVM（Hikari） 间接跳转 源码学习以及还原思路'
-      url: https://bbs.kanxue.com/thread-289668.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
