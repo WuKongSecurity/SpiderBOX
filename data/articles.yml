@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 吴秋霖
+      release_time: 2026.01.17 01:14:35
+      title: 某物data魔改与变种算法还原（含加解密Py纯算）
+      url: https://crawler.blog.csdn.net/article/details/156852947
     - author: 九月镇灵将
       release_time: 2026.01.15 17:09:12
       title: 基于ddddocr+Hu矩计算方法识别某象差异点击验证码
@@ -486,10 +490,6 @@
       release_time: 2026.01.04 19:07:44
       title: '[原创] OLLVM（Hikari） 间接跳转 源码学习以及还原思路'
       url: https://bbs.kanxue.com/thread-289668.htm
-    - author: fjqisba
-      release_time: 2026.01.04 19:07:44
-      title: '[原创]miasm+patch指令法处理BR指令反混淆脚本'
-      url: https://bbs.kanxue.com/thread-289670.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
