@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2026.01.16 21:04:49
+      title: 多次霸榜 GitHub，斩获 22700+ Star，又一个 Claude Code 神器开源！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991361&idx=1&sn=2be6c046b06a2c605c3dce969df7f5ce
     - author: 爬虫逆向小林哥
       release_time: 2026.01.16 17:53:32
       title: __NS_hxfalcon  vmp长文分析
@@ -240,10 +244,6 @@
       release_time: 2026.01.12 11:06:22
       title: 安卓逆向 --  某消费金融算法分析
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041281&idx=1&sn=a02f7ada708c100184bc4806241e2f8c
-    - author: Python成长路
-      release_time: 2026.01.12 08:45:00
-      title: 用微信聊天记录做一个年度报告
-      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247485971&idx=1&sn=8ab6f20c2e3a54256e34eeb280e6890d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
