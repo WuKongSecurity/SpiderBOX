@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: syx594
+      release_time: 2026.01.17 12:53:00
+      title: Solid Explorer_文件管理工具解锁完整版教程
+      url: https://www.52pojie.cn/thread-2087056-1-1.html
     - author: fyr666
       release_time: 2026.01.12 17:08:00
       title: '[原创] 从零开始绕过 DexProtector 加固的 Frida 检测（二）-app更新后的检测快速处理'
@@ -363,10 +367,6 @@
       release_time: 2025.12.11 22:05:00
       title: iOS应用逆向攻防实战-雅俗共赏
       url: https://www.52pojie.cn/thread-2079337-1-1.html
-    - author: jackp0t
-      release_time: 2025.12.11 10:23:00
-      title: frida检测对抗————libmsaoaidsec.so绕过
-      url: https://www.52pojie.cn/thread-2079166-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
