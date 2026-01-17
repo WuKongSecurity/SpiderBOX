@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: W4nk3r
+      release_time: 2026.01.17 19:01:00
+      title: 解刨“牛皮癣”：深度逆向分析某恶意安卓应用的“赖皮”操作
+      url: https://www.52pojie.cn/thread-2087107-1-1.html
     - author: syx594
       release_time: 2026.01.17 12:53:00
       title: Solid Explorer_文件管理工具解锁完整版教程
@@ -363,10 +367,6 @@
       release_time: 2025.12.12 11:01:00
       title: 分析“安装巨魔”验证逆向
       url: https://www.52pojie.cn/thread-2079431-1-1.html
-    - author: HackXK
-      release_time: 2025.12.11 22:05:00
-      title: iOS应用逆向攻防实战-雅俗共赏
-      url: https://www.52pojie.cn/thread-2079337-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
