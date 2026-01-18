@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 只记得当时月色溶溶
+      release_time: 2026.01.18 19:06:51
+      title: qtrace&注入
+      url: https://www.bilibili.com/video/BV14vksB9E5d
     - author: 逆向狗都不学
       release_time: 2026.01.12 21:49:24
       title: AST反混淆实战之某里234-1
@@ -117,10 +121,6 @@
       release_time: 2025.12.13 19:56:13
       title: 65.Open-AutoGLM 快速上手：一句指令实现 APP 自动化操作
       url: https://www.bilibili.com/video/BV1qGmdBBEQm
-    - author: Alone逆向安全
-      release_time: 2025.12.13 12:14:04
-      title: 安卓逆向-某黑盒app逆向 hkey纯算7位(ttd离线分析)
-      url: https://www.bilibili.com/video/BV1sYmQBBEjk
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
