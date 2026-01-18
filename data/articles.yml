@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: Alone逆向安全
+      release_time: 2026.01.18 20:08:23
+      title: app逆向-高级 ARM64正向污点传播实战：穿透VMP虚拟化，精准打击AES算法区
+      url: https://www.bilibili.com/video/BV1NxktBtEXB
     - author: 只记得当时月色溶溶
       release_time: 2026.01.18 19:06:51
       title: qtrace&注入
@@ -117,10 +121,6 @@
       release_time: 2025.12.16 15:02:04
       title: 【DrissionPage小技巧】-海象运算符简化元素查找逻辑
       url: https://www.bilibili.com/video/BV1TKqaBFErD
-    - author: 和沐阳学逆向
-      release_time: 2025.12.13 19:56:13
-      title: 65.Open-AutoGLM 快速上手：一句指令实现 APP 自动化操作
-      url: https://www.bilibili.com/video/BV1qGmdBBEQm
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
