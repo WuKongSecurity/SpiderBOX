@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小小杨学编程
+      release_time: 2026.01.19 14:00:00
+      title: 小程序-丑团滑块验证-纯算分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484698&idx=1&sn=849605aa92a3cefc64f9943f36a59fb2
     - author: 影17
       release_time: 2026.01.19 10:00:00
       title: 某咚 sesi & nars逆向流程分析
@@ -240,10 +244,6 @@
       release_time: 2026.01.13 19:00:00
       title: iOS DeviceCheck：苹果设备身份链与黑灰产对抗的攻防博弈
       url: https://mp.weixin.qq.com/s?__biz=MzU3MDc0MTY1MA==&mid=2247484121&idx=1&sn=7edc9a634643c1387094163d87aace78
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.01.13 17:50:39
-      title: 国家网信办发布2026年第1期个人信息保护政策法规问答，涉及人脸识别与个保负责人报送
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519848&idx=2&sn=1bbc8e53e55867df4cdf6fd802c3a436
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
