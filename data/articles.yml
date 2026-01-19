@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 和沐阳学逆向
+      release_time: 2026.01.19 10:18:43
+      title: 68.安卓逆向实战——【全流程】APP 逆向抓包与协议分析：从 Frida Hook 到 Python 实现带 Sign 请求（熊猫外卖实战）
+      url: https://www.bilibili.com/video/BV1f1kaBFEmR
     - author: Alone逆向安全
       release_time: 2026.01.18 20:08:23
       title: app逆向-高级 ARM64正向污点传播实战：穿透VMP虚拟化，精准打击AES算法区
@@ -117,13 +121,13 @@
       release_time: 2025.12.16 15:46:22
       title: 【骚神插件】v9.7.7 新增万能元素定位，DrissionPage、PlayWright、Selenium、JS通杀！
       url: https://www.bilibili.com/video/BV1PVqaBsEhg
-    - author: B站用户骚神
-      release_time: 2025.12.16 15:02:04
-      title: 【DrissionPage小技巧】-海象运算符简化元素查找逻辑
-      url: https://www.bilibili.com/video/BV1TKqaBFErD
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 影17
+      release_time: 2026.01.19 10:00:00
+      title: 某咚 sesi & nars逆向流程分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247490623&idx=1&sn=07041db8e32777c7eb153e3f728fe9c6
     - author: 哆啦安全
       release_time: 2026.01.19 09:00:00
       title: Deepseek，再见了!
@@ -240,10 +244,6 @@
       release_time: 2026.01.13 17:50:39
       title: 国家网信办发布2026年第1期个人信息保护政策法规问答，涉及人脸识别与个保负责人报送
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519848&idx=2&sn=1bbc8e53e55867df4cdf6fd802c3a436
-    - author: 软件安全与逆向分析
-      release_time: 2026.01.13 10:43:42
-      title: redex中文技术手册
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484995&idx=1&sn=192ff6cee29c7bf92558f0881bfdb623
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
