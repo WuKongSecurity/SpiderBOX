@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: KillLog
+      release_time: 2026.01.18 08:23:00
+      title: Lsposed编译过程
+      url: https://www.52pojie.cn/thread-2087170-1-1.html
     - author: W4nk3r
       release_time: 2026.01.17 19:01:00
       title: 解刨“牛皮癣”：深度逆向分析某恶意安卓应用的“赖皮”操作
@@ -363,10 +367,6 @@
       release_time: 2025.12.16 22:27:00
       title: 某短视频指纹和纯算 sig3 逆向分析
       url: https://www.52pojie.cn/thread-2080428-1-1.html
-    - author: HackXK
-      release_time: 2025.12.12 11:01:00
-      title: 分析“安装巨魔”验证逆向
-      url: https://www.52pojie.cn/thread-2079431-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
