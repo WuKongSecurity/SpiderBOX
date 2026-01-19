@@ -125,6 +125,18 @@
     term: 哔哩哔哩
   - links:
     - author: 哆啦安全
+      release_time: 2026.01.19 09:00:00
+      title: Deepseek，再见了!
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499536&idx=1&sn=c975abc52275cd1a4cbdb67f9ed8c6e1
+    - author: Frida and So
+      release_time: 2026.01.19 08:41:42
+      title: x-mini-sig
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247485098&idx=1&sn=d834742490fc22c05bbe0267a7a5cf6e
+    - author: 测试工程师成长之路
+      release_time: 2026.01.19 08:30:00
+      title: 测试工程师狂喜！这款工具让4大自动化框架定位器一键生成，直接起飞
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578565&idx=1&sn=608fa8473ebcc8f5bdcb74b0aad150e6
+    - author: 哆啦安全
       release_time: 2026.01.18 18:45:33
       title: 定制版ROM机型(逆向分析)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499531&idx=1&sn=ee476cbd2bb4eb4dabf678005c33063b
@@ -232,18 +244,6 @@
       release_time: 2026.01.13 10:43:42
       title: redex中文技术手册
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484995&idx=1&sn=192ff6cee29c7bf92558f0881bfdb623
-    - author: Coder小Q
-      release_time: 2026.01.13 08:30:00
-      title: 【密码学】基于ML-DSA的门限签名
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493558&idx=1&sn=6a7d1d5e472a5cc65e08b3de6c565abe
-    - author: 哆啦安全
-      release_time: 2026.01.13 07:32:16
-      title: 移动设备取证秘籍:让你轻松获取关键证据！
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499509&idx=1&sn=64c9b884241baf72bdae0c687cd76478
-    - author: Frida and So
-      release_time: 2026.01.12 14:41:09
-      title: x-mini-s1算法分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247485086&idx=1&sn=864786b6ecae03f294bdd033421e4338
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
