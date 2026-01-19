@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 剑客古月的安全屋
+      release_time: 2026.01.19 16:27:26
+      title: ai基础-PPO&DPO&GRPO&实战
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNDY0NjY3MQ==&mid=2247485638&idx=1&sn=8461d751fabe8d5da2f7fd6289e42f54
     - author: 二进制磨剑
       release_time: 2026.01.19 16:04:18
       title: 学习推荐 | 第三期 | 混淆与反混淆
@@ -240,10 +244,6 @@
       release_time: 2026.01.14 11:16:04
       title: 2025北极星账户诊断报告
       url: https://mp.weixin.qq.com/s?__biz=MzI0NDg0ODE1MQ==&mid=2247483873&idx=1&sn=576ed6dc0559258989f7b7b3fcf198ed
-    - author: 哆啦安全
-      release_time: 2026.01.14 09:08:01
-      title: Python代码保护工具V2.0
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499516&idx=1&sn=add7720ed6f07e968015ee9b1305d939
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
