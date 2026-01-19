@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: 2026.01.19 16:04:18
+      title: 学习推荐 | 第三期 | 混淆与反混淆
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485922&idx=1&sn=836b286b13eedd23a15440e408023f9d
     - author: Frida and So
       release_time: 2026.01.19 15:05:48
       title: Frida检测及绕过新思路
@@ -152,6 +156,10 @@
       release_time: 2026.01.18 18:45:33
       title: 定制版ROM机型(逆向分析)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499531&idx=1&sn=ee476cbd2bb4eb4dabf678005c33063b
+    - author: 二进制磨剑
+      release_time: 2026.01.17 12:50:31
+      title: 开源推荐｜学员作品｜Launch：全网最全的 Android 环境检测工具
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485919&idx=1&sn=df236d74c65bb7a2d7dcf1933c50e491
     - author: 哆啦安全
       release_time: 2026.01.16 23:59:54
       title: AI对于普通人来说是翻身的机会(2026)
@@ -236,14 +244,6 @@
       release_time: 2026.01.14 09:08:01
       title: Python代码保护工具V2.0
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499516&idx=1&sn=add7720ed6f07e968015ee9b1305d939
-    - author: 榫卯江湖
-      release_time: 2026.01.14 08:36:46
-      title: Android Binder 拦截实战：从源码调试到对抗分析
-      url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485306&idx=1&sn=7a12b2b36e6ec824cfa636b943d8ba80
-    - author: 将往的爬虫逆向日记
-      release_time: 2026.01.13 21:26:08
-      title: 自动化爬虫：AI+自动化过spiderdemo困难题T31无感验证码
-      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862188&idx=1&sn=3ff7ab551af0410fd530728f12aa5d8d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
