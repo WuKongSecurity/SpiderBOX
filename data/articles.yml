@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 静夜随想
+      release_time: 2026.01.19 18:40:06
+      title: console.table用来检测浏览器自动化
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811229&idx=1&sn=6480f4c6f34330d149016763b66cdeea
     - author: 菜鸟学Python编程
       release_time: 2026.01.19 17:30:00
       title: JS逆向实战|使用AI逆向猿人学第三届第二题jsvmp的加密参数
@@ -240,10 +244,6 @@
       release_time: 2026.01.14 12:39:28
       title: 404 那只猫，现在手机也能好好“圈”了
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143492&idx=1&sn=2b35e3524c10a82beb0003f7a79173c5
-    - author: 木子打杂spider
-      release_time: 2026.01.14 11:33:29
-      title: 终于出来了
-      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDMwMzM4Mw==&mid=2247484139&idx=1&sn=9e0c38d282cdc66ebff571babddfab8b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 狗都不学爬虫_
+      release_time: 2026.01.19 18:31:51
+      title: JS逆向 - 最新版某某安全中心滑块验证(wasm设备指纹)
+      url: https://blog.csdn.net/qq_53444631/article/details/157139576
     - author: 九月镇灵将
       release_time: 2026.01.19 17:44:52
       title: 基于YOLO姿态检测实现vaptcha手势验证码训练识别全过程
@@ -486,10 +490,6 @@
       release_time: 2026.01.05 17:18:17
       title: claude code白嫖30美金额度教程
       url: https://blog.csdn.net/weixin_45307278/article/details/156611778
-    - author: 带带弟弟学爬虫__
-      release_time: 2026.01.05 13:11:47
-      title: fancygo 解密演示
-      url: https://blog.csdn.net/A_fanyifan/article/details/156601081
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
