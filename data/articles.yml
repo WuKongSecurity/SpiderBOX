@@ -2,6 +2,10 @@
   list:
   - links:
     - author: 和沐阳学逆向
+      release_time: 2026.01.20 19:40:45
+      title: 70.Android eBPF环境搭建与eCapture抓包
+      url: https://www.bilibili.com/video/BV1h9kjBzEKv
+    - author: 和沐阳学逆向
       release_time: 2026.01.19 19:30:00
       title: 69.安卓逆向——eBPF入门与Linux环境搭建
       url: https://www.bilibili.com/video/BV15fkeBFEaf
@@ -117,10 +121,6 @@
       release_time: 2025.12.18 13:17:04
       title: 【DrissionPage专用绿色开发版谷歌浏览器】下载程序（开源）
       url: https://www.bilibili.com/video/BV1bsqHBKEnZ
-    - author: 和沐阳学逆向
-      release_time: 2025.12.16 17:11:29
-      title: 66.解放双手！用 AutoGLM 在 iPhone 上实现 AI 自动操控
-      url: https://www.bilibili.com/video/BV1gEqhBwE67
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
