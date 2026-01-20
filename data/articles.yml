@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.01.20 12:09:49
+      title: UABEA中文汉化版(游戏逆向分析工具)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499544&idx=1&sn=84290737b6c50621c45169f9126dbdbb
+    - author: 哆啦安全
+      release_time: 2026.01.20 12:09:49
+      title: 全网保姆级Cursor使用教程(VIP收藏)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499544&idx=2&sn=e01aadf79db44bbee9fe11d7544f089a
     - author: Coder小Q
       release_time: 2026.01.20 08:30:00
       title: 【密码学】MatRiCT 算法解读
@@ -236,14 +244,6 @@
       release_time: 2026.01.14 21:26:12
       title: 某里算术编码还原
       url: https://mp.weixin.qq.com/s?__biz=Mzg5NzkyOTAxNw==&mid=2247483743&idx=1&sn=2c8f8239f2f6cc61b2aa8aa551644756
-    - author: 静夜随想
-      release_time: 2026.01.14 20:32:00
-      title: 听说你Selenium和Playwright自动化无敌，来试试这两个站点吧
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811225&idx=1&sn=f5dd3f4e02be144b779bb8fdb14fa9ad
-    - author: 無色逆向
-      release_time: 2026.01.14 17:27:07
-      title: hCaptcha无感逆向分析-补环境
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MjYyNTgxMQ==&mid=2247484515&idx=1&sn=335562dca2d16432f63cce72ac6803a3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
