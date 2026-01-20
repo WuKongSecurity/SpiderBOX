@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: slb116763814
+      release_time: 2026.01.20 22:03:00
+      title: 小米平板1刷成林萧战RR系统后当作时钟
+      url: https://www.52pojie.cn/thread-2087734-1-1.html
     - author: HackXK
       release_time: 2026.01.20 15:12:00
       title: H5GG 类型插件中被添加的验证系统
@@ -363,10 +367,6 @@
       release_time: 2025.12.19 21:50:00
       title: 安卓逆向新手关于某运动健康app的脱壳修复(未完成)
       url: https://www.52pojie.cn/thread-2081184-1-1.html
-    - author: 中二
-      release_time: 2025.12.17 21:22:00
-      title: Tbooking验证码逆向分析
-      url: https://www.52pojie.cn/thread-2080682-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
