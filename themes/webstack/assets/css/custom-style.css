@@ -978,3 +978,254 @@ body.io-black-mode .tab-item.active { /* 使用 io-black-mode */
 .subcat-hidden {
     display: none !important;
 }
+
+
+/* 联系页面 */
+.contact-page {
+    margin-top: 20px;
+}
+
+.contact-page a {
+    color: #0084ff;
+}
+
+.contact-page a:hover {
+    color: #006bde;
+    font-weight: 600;
+}
+
+body.io-black-mode .contact-page a {
+    color: #0084ff;
+}
+
+body.io-black-mode .contact-page a:hover {
+    color: #006bde;
+    font-weight: 600;
+}
+
+.contact-page .page-title {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 6px;
+}
+
+.contact-page .page-subtitle {
+    color: #666;
+    margin-bottom: 8px;
+}
+
+.contact-page .page-intro-text {
+    color: #777;
+    margin-bottom: 20px;
+}
+
+.contact-card {
+    background: #ffffff;
+    border-radius: 12px;
+    padding: 18px 20px;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.06);
+    border: 1px solid #f0f0f0;
+}
+
+.io-black-mode .contact-card {
+    background: #1d1f24;
+    border-color: #2a2d34;
+    color: #d8d8d8;
+}
+
+.section-title {
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-bottom: 12px;
+}
+
+.contact-item {
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    padding: 8px 0;
+    border-bottom: 1px dashed #e8e8e8;
+}
+
+.contact-item:last-child {
+    border-bottom: none;
+}
+
+.io-black-mode .contact-item {
+    border-color: #333;
+}
+
+.contact-label {
+    color: #888;
+    min-width: 72px;
+}
+
+.contact-value a {
+    color: #0084ff;
+}
+
+.qrcode {
+    width: 180px;
+    height: 180px;
+    padding: 8px;
+    background: #f6f6f6;
+    border-radius: 10px;
+    object-fit: contain;
+}
+
+.io-black-mode .qrcode {
+    background: #2a2d34;
+}
+
+.qrcode-caption {
+    margin-top: 8px;
+    color: #777;
+}
+
+.faq-item {
+    border: none;
+    margin-bottom: 8px;
+}
+
+.faq-item .card-header {
+    background: #f8f9fb;
+    border: 1px solid #eceff3;
+    border-radius: 8px;
+    padding: 0;
+}
+
+.io-black-mode .faq-item .card-header {
+    background: #23262d;
+    border-color: #2f333b;
+}
+
+.faq-item .btn-link {
+    color: inherit;
+    text-decoration: none;
+    padding: 12px 14px;
+    font-weight: 600;
+}
+
+.faq-q {
+    color: #0084ff;
+    margin-right: 6px;
+}
+
+.update-list {
+    border-left: 2px solid #eceff3;
+    padding-left: 14px;
+}
+
+.io-black-mode .update-list {
+    border-color: #2f333b;
+}
+
+.update-item {
+    margin-bottom: 14px;
+}
+
+.update-date {
+    font-size: 0.9rem;
+    color: #888;
+}
+
+.update-title {
+    font-weight: 700;
+    margin: 4px 0 6px;
+}
+
+.update-notes {
+    margin: 0;
+    padding-left: 18px;
+    color: #666;
+}
+
+.io-black-mode .update-notes {
+    color: #bbb;
+}
+
+@media (max-width: 991px) {
+    .contact-page .page-title {
+        font-size: 1.6rem;
+    }
+}
+
+/* 更新日志样式 */
+.update-header .update-toggle {
+    padding: 0;
+    text-decoration: none;
+    color: inherit;
+}
+
+.update-header .update-toggle:focus {
+    text-decoration: none;
+}
+
+.update-header .update-date {
+    margin-right: 10px;
+    color: #888;
+    font-size: 0.9rem;
+}
+
+.update-header .update-title {
+    font-weight: 700;
+}
+
+.update-notes {
+    margin: 8px 0 0;
+    padding-left: 18px;
+}
+
+.update-subnotes {
+    margin-top: 6px;
+    padding-left: 18px;
+    color: #666;
+}
+
+.io-black-mode .update-subnotes {
+    color: #bbb;
+}
+
+/* contact 页面顶栏固定样式 */
+body.contact-fixed-header .big-header-banner .page-header {
+    color: initial;
+    backdrop-filter: blur(10px);
+    background: rgba(255, 255, 255, 0.7);
+}
+
+body.contact-fixed-header .big-header-banner .page-header .navbar-nav > li > a,
+body.contact-fixed-header .big-header-banner .navbar-menu a:not(.dropdown-item) {
+    color: #333;
+}
+
+body.contact-fixed-header .big-header-banner .page-header .navbar-nav > li > a:hover,
+body.contact-fixed-header .big-header-banner .navbar-menu a:not(.dropdown-item):hover {
+    color: #0084ff;
+}
+body.contact-fixed-header .big-header-banner .header-mini-btn label:hover path {
+    stroke: #0084ff;
+}
+
+body.contact-fixed-header .big-header-banner .header-mini-btn path {
+    stroke: #333;
+}
+/* contact 页夜间模式顶栏 */
+body.io-black-mode.contact-fixed-header .big-header-banner .page-header {
+    color: #e6e6e6;
+    background: #2c2e2f;
+}
+
+body.io-black-mode.contact-fixed-header .big-header-banner .page-header .navbar-nav > li > a,
+body.io-black-mode.contact-fixed-header .big-header-banner .navbar-menu a:not(.dropdown-item) {
+    color: #e6e6e6;
+}
+
+body.io-black-mode.contact-fixed-header .big-header-banner .page-header .navbar-nav > li > a:hover,
+body.io-black-mode.contact-fixed-header .big-header-banner .navbar-menu a:not(.dropdown-item):hover {
+    color: #ffffff;
+}
+
+body.io-black-mode.contact-fixed-header .big-header-banner .header-mini-btn path,
+body.io-black-mode.contact-fixed-header .big-header-banner .header-mini-btn label:hover path {
+    stroke: #e6e6e6;
+}

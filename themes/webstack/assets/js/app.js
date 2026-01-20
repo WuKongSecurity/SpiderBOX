@@ -1270,19 +1270,20 @@ function ChromBookmarkConverter(){this.bookmarks={folders:[]},this.stripUnneeded
     window.searchAllLinks = [];
 
     // 收集搜索数据
-    function collectSearchData() {
+    function collectSearchData($root) {
         var allLinks = [];
-        $('.url-card').each(function() {
+        var $scope = $root || $(document);
+    
+        $scope.find('.url-card').each(function() {
             var $card = $(this);
             var $link = $card.find('a.card');
             var title = $card.find('strong').text().trim();
             var description = $card.find('.text-muted.text-xs').text().trim();
             var url = $link.attr('href');
             var logo = $card.find('img').attr('data-src') || $card.find('img').attr('src');
-            // 获取分类信息 - 向上查找最近的h4标签
             var $categoryElement = $card.closest('.row').prevAll('.d-flex.flex-fill:first').find('h4');
             var category = $categoryElement.text().trim();
-
+    
             if (title && url) {
                 allLinks.push({
                     title: title,
@@ -1293,9 +1294,29 @@ function ChromBookmarkConverter(){this.bookmarks={folders:[]},this.stripUnneeded
                 });
             }
         });
-
+    
         window.searchAllLinks = allLinks;
         // console.log('搜索数据收集完成，共', allLinks.length, '个链接');
+    }
+
+    var searchDataLoading = false;
+
+    function loadSearchDataFromHome(callback) {
+        if (searchDataLoading || (window.searchAllLinks && window.searchAllLinks.length > 0)) {
+            if (callback) callback();
+            return;
+        }
+        searchDataLoading = true;
+
+        fetch('/')
+            .then(function(res) { return res.text(); })
+            .then(function(html) {
+                collectSearchData($(html));
+            })
+            .finally(function() {
+                searchDataLoading = false;
+                if (callback) callback();
+            });
     }
 
     // 页面加载完成后收集数据
@@ -1320,6 +1341,9 @@ function ChromBookmarkConverter(){this.bookmarks={folders:[]},this.stripUnneeded
 
             if (searchData.length === 0) {
                 $resultsContainer.html('<p class="text-muted text-center">搜索数据加载中，请稍候...</p>');
+                loadSearchDataFromHome(function() {
+                    $('#local-search-input').trigger('input');
+                });
                 return;
             }
 

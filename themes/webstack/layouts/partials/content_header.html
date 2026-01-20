@@ -39,7 +39,7 @@
                                     <span id="{{ .popupID }}">{{ .item }}</span>
                                 </a>
                                 {{else}}
-                                <a href="{{ .link }}" target="_blank">
+                                <a href="{{ .link }}" {{ with .target }}target="{{ . }}"{{ else }}target="_blank"{{ end }}>
                                     <i class="{{ .icon }} fa-lg mr-2"></i>
                                     <span>{{ .item }}</span>
                                 </a>
@@ -48,7 +48,7 @@
                                     {{ range .list }}
                                     <li {{ if .list }}class="menu-item-has-children" {{ end }}>
                                         {{ if .link }}
-                                        <a href="{{ .link }}" target="_blank">
+                                        <a href="{{ .link }}" {{ with .target }}target="{{ . }}"{{ else }}target="_blank"{{ end }}>
                                             <i class="{{ .icon }} fa-lg mr-2"></i>
                                             {{ if .popup }}
                                                 <span id="{{ .popupID }}">{{ .name }}</span>

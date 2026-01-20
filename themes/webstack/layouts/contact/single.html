@@ -1,0 +1,113 @@
+{{ partial "header.html" . }}
+{{ partial "sidebar.html" . }}
+{{ partial "content_header.html" . }}
+
+<main class="contact-page container pb-5">
+  <div class="page-intro">
+    <h1 class="page-title">{{ .Title }}</h1>
+    {{ with .Params.subtitle }}<p class="page-subtitle">{{ . }}</p>{{ end }}
+    {{ with .Params.intro }}<div class="page-intro-text">{{ . | markdownify }}</div>{{ end }}
+  </div>
+
+  <div class="row">
+    <div class="col-lg-5">
+      <div class="contact-card mb-4">
+        <h3 class="section-title">联系方式</h3>
+        <div class="contact-list">
+          {{ range .Params.contacts }}
+          <div class="contact-item">
+            <div class="contact-label">{{ .label }}</div>
+            <div class="contact-value">
+              {{ if .link }}
+                <a href="{{ .link }}" target="_blank" rel="noopener">{{ .value }}</a>
+              {{ else }}
+                {{ .value }}
+              {{ end }}
+            </div>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+
+      <div class="contact-card mb-4">
+        <h3 class="section-title">赞助我</h3>
+        {{ with .Params.support }}
+        <div class="qrcode-wrap text-center">
+          <img class="qrcode" src="{{ .image }}" alt="{{ .alt }}">
+          {{ with .caption }}<div class="qrcode-caption">{{ . | markdownify }}</div>{{ end }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+
+    <div class="col-lg-7">
+      <div class="contact-card mb-4">
+        <h3 class="section-title">常见 Q&A</h3>
+        <div id="faq-accordion">
+          {{ range $index, $qa := .Params.qna }}
+          <div class="card faq-item">
+            <div class="card-header" id="faq-heading-{{ $index }}">
+              <button class="btn btn-link btn-block text-left collapsed" type="button"
+                      data-toggle="collapse" data-target="#faq-collapse-{{ $index }}"
+                      aria-expanded="{{ if eq $index 0 }}true{{ else }}false{{ end }}"
+                      aria-controls="faq-collapse-{{ $index }}">
+                <span class="faq-q">Q{{ add $index 1 }}.</span> {{ $qa.question }}
+              </button>
+            </div>
+            <div id="faq-collapse-{{ $index }}" class="collapse"
+                 aria-labelledby="faq-heading-{{ $index }}" data-parent="#faq-accordion">
+              <div class="card-body">{{ $qa.answer | markdownify }}</div>
+            </div>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+
+      <div class="contact-card">
+        <h3 class="section-title">更新日志</h3>
+        <div id="changelog-accordion" class="update-list">
+          {{ range $index, $log := .Params.changelog }}
+          <div class="update-item">
+            <div class="update-header" id="changelog-heading-{{ $index }}">
+              <button class="btn btn-link btn-block text-left collapsed update-toggle" type="button"
+                      data-toggle="collapse" data-target="#changelog-collapse-{{ $index }}"
+                      aria-expanded="false" aria-controls="changelog-collapse-{{ $index }}">
+                <span class="update-date">{{ $log.date }}</span>
+                <span class="update-title">{{ $log.title }}</span>
+              </button>
+            </div>
+            <div id="changelog-collapse-{{ $index }}" class="collapse"
+                 aria-labelledby="changelog-heading-{{ $index }}" data-parent="#changelog-accordion">
+              {{ with $log.items }}
+              <ul class="update-notes">
+                {{ range . }}
+                <li>
+                  {{ .text | markdownify }}
+                  {{ with .children }}
+                  <ul class="update-subnotes">
+                    {{ range . }}
+                    <li>{{ . | markdownify }}</li>
+                    {{ end }}
+                  </ul>
+                  {{ end }}
+                </li>
+                {{ end }}
+              </ul>
+              {{ end }}
+            </div>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.body.classList.add("contact-fixed-header");
+  });
+</script>
+
+{{ partial "content_footer.html" . }}
+{{ partial "footer.html" . }}

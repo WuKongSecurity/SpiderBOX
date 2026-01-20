@@ -43,11 +43,12 @@
             <div class="sidebar-menu flex-fill">
                 <div class="sidebar-scroll">
                     <div class="sidebar-menu-inner">
+                        {{ $page := . }}
                         <ul>
                             {{ range .Site.Data.articles }}
                             {{ if .list }}
                             <li class="sidebar-item">
-                                <a href="#{{ md5 .taxonomy }}" class="smooth">
+                                <a href="{{ if $page.IsHome }}#{{ md5 .taxonomy }}{{ else }}/#{{ md5 .taxonomy }}{{ end }}" class="smooth">
                                     <i class="{{ .icon }} fa-lg icon-fw icon-lg mr-2"></i>
                                     <span>{{ .taxonomy }}</span>
                                 </a>
@@ -58,7 +59,7 @@
                             {{ range .Site.Data.recommend }}
                             {{ if .links }}
                             <li class="sidebar-item">
-                                <a href="#{{ md5 .taxonomy }}" class="smooth">
+                                <a href="{{ if $page.IsHome }}#{{ md5 .taxonomy }}{{ else }}/#{{ md5 .taxonomy }}{{ end }}" class="smooth">
                                     <i class="{{ .icon }} fa-lg icon-fw icon-lg mr-2"></i>
                                     <span>{{ .taxonomy }}</span>
                                 </a>
@@ -72,7 +73,7 @@
                             <li class="sidebar-item">
                                 <!-- 原来是跳转到第一个子目录位置 -->
                                 <a href="javascript:void(0)" class="smooth change-href"
-                                   data-change="#{{ md5 $taxonomy }}-tab-0">
+                                data-change="{{ if $page.IsHome }}#{{ md5 $taxonomy }}-tab-0{{ else }}/#{{ md5 $taxonomy }}-tab-0{{ end }}">
                                     <i class="{{ .icon }} icon-fw icon-lg mr-2"></i>
                                     <span>{{ .taxonomy }}</span>
                                     <i class="fas fa-chevron-right sidebar-more text-sm"></i>
@@ -80,13 +81,13 @@
                                 <ul>
                                     {{ range $index, $tab := .tabs }}
 <!--                                    <li><a href="#{{ md5 $taxonomy }}-tab-{{ $index }}" class="smooth"><span>{{ $tab.name }}</span></a></li>-->
-                                    <li><a href="#{{ md5 (printf "%s-%s" $taxonomy $tab.name) }}" class="smooth"><span>{{ $tab.name }}</span></a></li>
+                                    <li><a href="{{ if $page.IsHome }}#{{ md5 (printf "%s-%s" $taxonomy $tab.name) }}{{ else }}/#{{ md5 (printf "%s-%s" $taxonomy $tab.name) }}{{ end }}" class="smooth"><span>{{ $tab.name }}</span></a></li>
                                     {{ end }}
                                 </ul>
                             </li>
                             {{ else }}
                             <li class="sidebar-item">
-                                <a href="#{{ md5 .taxonomy }}" class="smooth">
+                                <a href="{{ if $page.IsHome }}#{{ md5 .taxonomy }}{{ else }}/#{{ md5 .taxonomy }}{{ end }}" class="smooth">
                                     <i class="{{ .icon }} fa-lg icon-fw icon-lg mr-2"></i>
                                     <span>{{ .taxonomy }}</span>
                                 </a>
@@ -99,6 +100,7 @@
             </div>
             <div class="border-top py-2 border-color">
                 <div class="flex-bottom">
+                    {{ $page := . }}
                     <ul>
                         <li id="menu-item-github"
                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-github sidebar-item">
@@ -107,9 +109,16 @@
                                 <span>GitHub</span>
                             </a>
                         </li>
+                        <li id="menu-item-github"
+                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-github sidebar-item">
+                            <a target="_blank" rel="noopener" href="{{ $.Site.Params.submit }}">
+                                <i class="fas fa-plus-circle icon-fw icon-lg mr-2"></i>
+                                <span>提交收录</span>
+                            </a>
+                        </li>
                         <li id="menu-item-friendlink"
                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-friendlink sidebar-item">
-                            <a href="#friendlink" class="smooth">
+                            <a href="{{ if $page.IsHome }}#friendlink{{ else }}/#friendlink{{ end }}">
                                 <i class="fas fa-link icon-fw icon-lg mr-2"></i>
                                 <span>友情链接</span>
                             </a>

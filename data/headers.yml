@@ -9,9 +9,9 @@
   icon: fas fa-search
   link: "#"
 
-- item: 联系站长/交流群
-  icon: fas fa-comments
-  link: https://bbs.wukongsec.com/
+# - item: 联系站长/交流群
+#   icon: fas fa-comments
+#   link: https://bbs.wukongsec.com/
 #  link: https://txc.qq.com/products/678094
 
 - item: 虫系列
@@ -43,11 +43,16 @@
 #  popupID: show-disclaimer
 
 
-- item: 赞助
-  # popup: true
-  icon: fas fa-dollar-sign
-  # popupID: show-sponsor
-  link: https://spiderapi.cn/pages/sponsor/
+# - item: 赞助
+#   # popup: true
+#   icon: fas fa-dollar-sign
+#   # popupID: show-sponsor
+#   link: https://spiderapi.cn/pages/sponsor/
+
+- item: 收录/反馈/合作/交流群
+  icon: fas fa-comments
+  link: /contact/
+  target: _self
 
 #- item: 交流联系
 #  icon: fas fa-spider
