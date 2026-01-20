@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Coder小Q
+      release_time: 2026.01.20 08:30:00
+      title: 【密码学】MatRiCT 算法解读
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493615&idx=1&sn=f7881bad81ccfab47b8323a83f4a6a65
     - author: 零基础爬虫第一天
       release_time: 2026.01.19 20:58:29
       title: 【爬虫框架-9】funspiderV2思路
@@ -240,10 +244,6 @@
       release_time: 2026.01.14 17:27:07
       title: hCaptcha无感逆向分析-补环境
       url: https://mp.weixin.qq.com/s?__biz=Mzg5MjYyNTgxMQ==&mid=2247484515&idx=1&sn=335562dca2d16432f63cce72ac6803a3
-    - author: 如意私塾
-      release_time: 2026.01.14 17:03:21
-      title: CDP框架群控 | 每个定制浏览器窗口不同socks5密码代理
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484007&idx=1&sn=2275ef92a235130b5a021a8ee8adf9c9
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -382,6 +382,10 @@
       release_time: 2026.01.19 17:40:32
       title: 基于ddddocr+ResNet50余弦识别某象差异点击验证码
       url: https://blog.csdn.net/weixin_43845191/article/details/157098639
+    - author: 悦来客栈的老板
+      release_time: 2026.01.19 17:30:22
+      title: JS逆向实战|使用AI逆向猿人学第三届第二题jsvmp的加密参数
+      url: https://blog.csdn.net/qq523176585/article/details/157149615
     - author: 吴秋霖
       release_time: 2026.01.17 01:14:35
       title: 某物data魔改与变种算法还原（含加解密Py纯算）
@@ -486,10 +490,6 @@
       release_time: 2026.01.05 19:07:44
       title: '[原创]如何在OLLVM中探寻算法三之libjdg.so模拟执行篇'
       url: https://bbs.kanxue.com/thread-289680.htm
-    - author: Nickname肖知寒
-      release_time: 2026.01.05 17:18:17
-      title: claude code白嫖30美金额度教程
-      url: https://blog.csdn.net/weixin_45307278/article/details/156611778
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
