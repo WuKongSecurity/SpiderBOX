@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 软件安全与逆向分析
+      release_time: 2026.01.21 15:40:30
+      title: Frida17.6轻量级Hook技术方案解析
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485002&idx=1&sn=1f0e7077f192703dbc07935a63113980
     - author: 个人信息与数据保护实务评论
       release_time: 2026.01.20 15:42:21
       title: 上海通报两起数据出境违规典型案例：未申报出境与无必要出境行为均遭处罚
@@ -240,10 +244,6 @@
       release_time: 2026.01.15 12:52:09
       title: 鸿蒙HarmonyOS Next系统提取HAP包指南
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499521&idx=1&sn=01a24f213e2bfdd08f0fa20a287823bb
-    - author: 布鲁的Python之旅
-      release_time: 2026.01.15 10:20:35
-      title: 告别低效运维！TaskPyro 2.2.4爬虫管理平台发布：轻松驾驭300+脚本与1000+定时任务
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486305&idx=1&sn=f59d120ae48d7a1765b04175727a506b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
