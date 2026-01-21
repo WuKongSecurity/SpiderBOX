@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 西门浪0v0
+      release_time: 2026.01.21 21:36:12
+      title: 某黑盒八位hkey分析
+      url: https://www.bilibili.com/video/BV1K6z7B4EHn
     - author: B站用户骚神
       release_time: 2026.01.21 15:03:40
       title: DrissionPage 实时监控web3社交信息并自动保存到数据库
@@ -117,10 +121,6 @@
       release_time: 2025.12.19 08:26:11
       title: p4-Easy Scraper详情抓取
       url: https://www.bilibili.com/video/BV1UmqRBbE7P
-    - author: 时一十一姐呀
-      release_time: 2025.12.19 08:17:38
-      title: p1-Easy Scraper爬虫插件安装
-      url: https://www.bilibili.com/video/BV1DyqRBhEMm
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
