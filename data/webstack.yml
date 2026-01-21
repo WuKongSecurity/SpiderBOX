@@ -554,6 +554,10 @@
           logo: github.png
           url: https://github.com/gchq/CyberChef
           description: 网络瑞士军刀 - 用于加密破解、编码、压缩和数据分析的 Web 应用程序
+        - title: Large Text File Viewer
+          logo: github.png
+          url: https://github.com/acejarvis/large-text-viewer
+          description: 一款完全用 Rust 编写的大型文本文件查看器，可处理大于 10GB 的文本文件读取
 
 - taxonomy: WEB 相关
   icon: fab fa-js
@@ -1226,6 +1230,10 @@
           logo: github.png
           url: https://github.com/P4nda0s/panda-dex-dumper
           description: 用 rust 实现的脱壳工具，不需要 frida
+        - title: panda-dex-dumper
+          logo: github.png
+          url: https://56.al/upload.php
+          description: APK 加固安全测试，在线脱壳网站
 
     - name: Hook工具
       links:
@@ -1342,7 +1350,7 @@
         - title: Magisk
           logo: Magisk.png
           url: https://github.com/topjohnwu/Magisk
-          description: Magisk是一套用于定制 Android的开源工具,支持高于 Android4.2的设备。涵盖了 Android定制的基本部分:root、引导脚本、 SELInux修补、移除AVB2.0/dm- verity/强制加密等。
+          description: Magisk 是一套用于定制 Android 的开源工具,支持高于 Android4.2的设备。涵盖了 Android定制的基本部分:root、引导脚本、 SELInux修补、移除AVB2.0/dm- verity/强制加密等。
         - title: APatch
           logo: apatch.png
           url: https://github.com/bmax121/APatch
@@ -1370,7 +1378,75 @@
         - title: ADBGUI
           logo: github.png
           url: https://github.com/bigsinger/adbgui
-          description: 使用 C# 编写的界面版 adb 操作工具，方便高效。
+          description: 使用 C# 编写的界面版 adb 操作工具，方便高效
+        - title: IDA Domain API
+          logo: github.png
+          url: https://github.com/HexRaysSA/ida-domain
+          description: IDA Pro 逆向工程平台的 Python 接口
+        - title: ebpf-go
+          logo: ebpf-go.png
+          url: https://github.com/cilium/ebpf
+          description: ebpf-go 是一个纯 Go 库，用于读取、修改和加载 eBPF 程序，并将它们附加到 Linux 内核中的各种钩子
+        - title: BCC
+          logo: bcc.png
+          url: https://github.com/iovisor/bcc
+          description: BCC - 用于基于 BPF 的 Linux IO 分析、网络、监控等的工具
+        - title: bpftrace
+          logo: bpftrace.png
+          url: https://github.com/bpftrace/bpftrace
+          description: bpftrace 是一款适用于 Linux 的通用跟踪工具和语言。它利用 eBPF 提供强大高效的跟踪功能，同时将开销降至最低
+        - title: QBDI
+          logo: qbdi.jpg
+          url: https://github.com/QBDI/QBDI
+          description: 基于 LLVM 的动态二进制插桩框架，是一个模块化的跨平台以及跨架构的 DBI 框架
+        - title: renef
+          logo: renef.png
+          url: https://github.com/ahmeth4n/renef
+          description: renef 是一款面向 Android ARM64 应用的动态检测工具包，主要专注于原生代码分析。它通过 Lua 脚本提供运行时操作功能，允许 hook 原生函数、扫描和修补内存以及分析正在运行的进程
+        - title: SunnyNet
+          logo: github.png
+          url: https://github.com/qtgolang/SunnyNet
+          description: SunnyNet 网络中间件，是一个功能强大的跨平台网络分析组件，专为二次开发而设计。它提供了完整的网络流量捕获和修改功能，支持多种协议类型
+        - title: Launch
+          logo: github.png
+          url: https://github.com/1193776794/launch_
+          description: 一款开源的 Android 安全检测与设备指纹采集工具
+        - title: safetynet-fix
+          logo: github.png
+          url: https://github.com/kdrag0n/safetynet-fix
+          description: Magisk 模块用于绕过 Google 的 SafetyNet 和 Play Integrity 认证
+        - title: ZygiskNext
+          logo: github.png
+          url: https://github.com/Dr-TSNG/ZygiskNext
+          description: Zygisk 的独立实现，为 KernelSU 提供 Zygisk API 支持，并取代 Magisk 内置的 Zygisk
+        - title: ZygiskFrida
+          logo: github.png
+          url: https://github.com/lico-n/ZygiskFrida
+          description: ZygiskFrida 是一个 zygisk 模块，允许您以更隐蔽的方式将 Frida 小工具注入 Android 应用程序
+        - title: Zygisk-Il2CppDumper
+          logo: github.png
+          url: https://github.com/Perfare/Zygisk-Il2CppDumper
+          description: Zygisk 版 Il2CppDumper，在游戏运行时 dump il2cpp 数据，可以绕过保护，加密以及混淆
+        - title: cloudphone-risk-detector
+          logo: github.png
+          url: https://github.com/1494389516/cloudphone-risk-detector
+          description: iOS 设备风险检测应用，用于检测越狱状态、VPN/代理、云手机环境等风险信号
+        - title: XRef Android
+          logo: github.png
+          url: https://xrefandroid.com/
+          description: 在线阅读源代码，一个面向 Android 和 OpenHarmony 开发者的专业网站
+        - title: armconverter
+          logo: armconverter.png
+          url: https://armconverter.com/
+          description: 在线 ARM、HEX 互相转换
+        - title: Linux System Call Table
+          logo: github.png
+          url: https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md
+          description: svc 指令
+        - title: Magisk 中文文档
+          logo: Magisk.png
+          url: https://jesse205.github.io/MagiskChineseDocument/
+          description: Magisk 中文文档
 
 - taxonomy: XCX 相关
   icon: fab fa-weixin
@@ -3100,6 +3176,10 @@
           logo: XiaoWuGeRisk.jpg
           qrcode: images/qrcode/XiaoWuGeRisk.jpg
           description: 公众号：小伍哥聊风控
+        - title: oacia
+          logo: m0_46265880.jpg
+          url: https://oacia.dev/
+          description: oacia 主页
 
     - name: 视频博主
       links:
