@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 無色逆向
+      release_time: 2026.01.21 18:05:21
+      title: 某航司亚马逊aws-waf-token算法逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MjYyNTgxMQ==&mid=2247484560&idx=1&sn=0bf6711a7271cb8159854ef50602ed3f
     - author: 软件安全与逆向分析
       release_time: 2026.01.21 15:40:30
       title: Frida17.6轻量级Hook技术方案解析
@@ -240,10 +244,6 @@
       release_time: 2026.01.15 15:02:56
       title: 心流鼠标手势获得谷歌商店精选认证！
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143497&idx=1&sn=28428491a08debb04e8a42ad3b388ff9
-    - author: 哆啦安全
-      release_time: 2026.01.15 12:52:09
-      title: 鸿蒙HarmonyOS Next系统提取HAP包指南
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499521&idx=1&sn=01a24f213e2bfdd08f0fa20a287823bb
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
