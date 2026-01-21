@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2026.01.21 15:03:40
+      title: DrissionPage 实时监控web3社交信息并自动保存到数据库
+      url: https://www.bilibili.com/video/BV1d9zVBcE8Y
     - author: 和沐阳学逆向
       release_time: 2026.01.20 19:40:45
       title: 70.Android eBPF环境搭建与eCapture抓包
@@ -117,10 +121,6 @@
       release_time: 2025.12.19 08:17:38
       title: p1-Easy Scraper爬虫插件安装
       url: https://www.bilibili.com/video/BV1DyqRBhEMm
-    - author: B站用户骚神
-      release_time: 2025.12.18 13:17:04
-      title: 【DrissionPage专用绿色开发版谷歌浏览器】下载程序（开源）
-      url: https://www.bilibili.com/video/BV1bsqHBKEnZ
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -255,6 +255,10 @@
       release_time: 2026.01.20 15:12:00
       title: H5GG 类型插件中被添加的验证系统
       url: https://www.52pojie.cn/thread-2087647-1-1.html
+    - author: jet58
+      release_time: 2026.01.20 14:56:00
+      title: 神庙逃亡（Temple Run）IL2CPP 逆向实战：从 APK 到 Frida 实现角色无敌
+      url: https://www.52pojie.cn/thread-2087643-1-1.html
     - author: KillLog
       release_time: 2026.01.18 08:23:00
       title: Lsposed编译过程
@@ -363,10 +367,6 @@
       release_time: 2025.12.20 00:56:00
       title: 安卓逆向实战：某 App 360脱壳、加密协议还原与请求伪造全记录（学习记录贴）
       url: https://www.52pojie.cn/thread-2081208-1-1.html
-    - author: 220e285
-      release_time: 2025.12.19 21:50:00
-      title: 安卓逆向新手关于某运动健康app的脱壳修复(未完成)
-      url: https://www.52pojie.cn/thread-2081184-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
