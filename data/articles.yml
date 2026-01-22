@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 和沐阳学逆向
+      release_time: 2026.01.22 20:35:28
+      title: 71.ebpf开发之穿透安卓沙箱：巧用 /proc 机制实现 bpftrace 无感追踪 JNI
+      url: https://www.bilibili.com/video/BV1rdBfBYEUD
     - author: ikun的嘴
       release_time: 2026.01.22 11:05:08
       title: 最新阿里234补环境秒杀系列
@@ -117,13 +121,13 @@
       release_time: 2025.12.19 08:30:13
       title: p2-Easy Scraper插件单页列表抓取
       url: https://www.bilibili.com/video/BV1UmqRBbEt4
-    - author: 时一十一姐呀
-      release_time: 2025.12.19 08:26:16
-      title: p3-Easy Scraper插件翻页列表抓取
-      url: https://www.bilibili.com/video/BV1umqRB8Eq2
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 静夜随想
+      release_time: 2026.01.22 20:19:19
+      title: iframe特性在Web反爬中的运用
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811238&idx=1&sn=5d19c81d2ce1ea38c44fd861b76bb45d
     - author: 吾爱破解论坛
       release_time: 2026.01.22 17:05:12
       title: 【权威发布】吾爱破解论坛2025年优秀、精华TOP榜（上）
@@ -240,10 +244,6 @@
       release_time: 2026.01.16 21:04:49
       title: 多次霸榜 GitHub，斩获 22700+ Star，又一个 Claude Code 神器开源！
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991361&idx=1&sn=2be6c046b06a2c605c3dce969df7f5ce
-    - author: 爬虫逆向小林哥
-      release_time: 2026.01.16 17:53:32
-      title: __NS_hxfalcon  vmp长文分析
-      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487091&idx=1&sn=7f7ff122e712e5ff799e74dc6b681c89
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
