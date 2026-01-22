@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2026.01.22 17:05:12
+      title: 【权威发布】吾爱破解论坛2025年优秀、精华TOP榜（上）
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143502&idx=1&sn=e4d5f2c29be38c68f965be8efc1233ca
     - author: 个人信息与数据保护实务评论
       release_time: 2026.01.22 16:41:40
       title: 最高检发布个人信息保护检察公益诉讼典型案例，聚焦停车扫码、人脸识别等重点场景
@@ -240,10 +244,6 @@
       release_time: 2026.01.16 17:53:32
       title: __NS_hxfalcon  vmp长文分析
       url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487091&idx=1&sn=7f7ff122e712e5ff799e74dc6b681c89
-    - author: 菜鸟学Python编程
-      release_time: 2026.01.16 17:30:00
-      title: JS逆向实战|使用Claude Code + MCP逆向某反混淆练习靶场
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566272&idx=1&sn=099e6207907c44dade665ff20ea5685c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
