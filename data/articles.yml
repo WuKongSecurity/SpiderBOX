@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Frida and So
+      release_time: 2026.01.23 10:26:25
+      title: Lsp魔改成果展示
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247485119&idx=1&sn=0cb15f4b1090175f7328f571aba60e16
     - author: 静夜随想
       release_time: 2026.01.22 20:19:19
       title: iframe特性在Web反爬中的运用
@@ -240,10 +244,6 @@
       release_time: 2026.01.16 23:59:54
       title: AI对于普通人来说是翻身的机会(2026)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499526&idx=1&sn=fbf5fcf04b71b10dec8d14d6f4730aa7
-    - author: 未闻Code
-      release_time: 2026.01.16 21:04:49
-      title: 多次霸榜 GitHub，斩获 22700+ Star，又一个 Claude Code 神器开源！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991361&idx=1&sn=2be6c046b06a2c605c3dce969df7f5ce
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
