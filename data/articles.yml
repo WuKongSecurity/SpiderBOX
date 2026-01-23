@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2026.01.23 21:00:00
+      title: 我发现了一个新思路：像写代码一样自动化生成短视频。
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991367&idx=1&sn=f3d9a3a9864ef5e625b0475478899ea5
     - author: 哆啦安全
       release_time: 2026.01.23 16:45:45
       title: Unity Il2cpp手游逆向分析
@@ -240,13 +244,13 @@
       release_time: 2026.01.18 23:31:40
       title: 【游戏逆向】H5页游之置空反调试+Websocket协议分析+添加任意buff
       url: https://mp.weixin.qq.com/s?__biz=MzkyNjY3OTI4Ng==&mid=2247485399&idx=1&sn=e2a062fe5087d3a8ab3e8e8cbd1a11ee
-    - author: 哆啦安全
-      release_time: 2026.01.18 18:45:33
-      title: 定制版ROM机型(逆向分析)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499531&idx=1&sn=ee476cbd2bb4eb4dabf678005c33063b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: dddd0526
+      release_time: 2026.01.23 16:45:00
+      title: 某音ab参数逆向分析
+      url: https://www.52pojie.cn/thread-2088330-1-1.html
     - author: HackXK
       release_time: 2026.01.23 13:48:00
       title: 酷我破解js脚本分析
@@ -363,10 +367,6 @@
       release_time: 2025.12.23 14:35:00
       title: '[iOS逆向] 一款外挂辅助的分析逆向'
       url: https://www.52pojie.cn/thread-2081862-1-1.html
-    - author: gggqqqxxx
-      release_time: 2025.12.23 12:16:00
-      title: 某wx小游戏反编译逆向分析
-      url: https://www.52pojie.cn/thread-2081826-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
