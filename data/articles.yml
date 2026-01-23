@@ -248,6 +248,10 @@
     term: 公众号
   - links:
     - author: soma20
+      release_time: 2026.01.22 16:59:00
+      title: Dex结构(下)
+      url: https://www.52pojie.cn/thread-2088132-1-1.html
+    - author: soma20
       release_time: 2026.01.21 19:58:00
       title: DEX结构解析(上)
       url: https://www.52pojie.cn/thread-2087942-1-1.html
@@ -363,10 +367,6 @@
       release_time: 2025.12.22 14:45:00
       title: Hook CryptoJS所有对称加密算法
       url: https://www.52pojie.cn/thread-2081618-1-1.html
-    - author: Dellevin
-      release_time: 2025.12.21 22:46:00
-      title: 宝塔面板去除专业版推广精简面板不必要功能
-      url: https://www.52pojie.cn/thread-2081502-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
