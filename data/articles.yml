@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 虫迹追踪
+      release_time: 2026.01.23 15:19:16
+      title: js逆向-使用trae辅助分析
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDU2MTYwMQ==&mid=2247485257&idx=1&sn=8b920d9a2865376e3e83d439e59e4ad7
     - author: Frida and So
       release_time: 2026.01.23 10:26:25
       title: Lsp魔改成果展示
@@ -240,10 +244,6 @@
       release_time: 2026.01.17 12:50:31
       title: 开源推荐｜学员作品｜Launch：全网最全的 Android 环境检测工具
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485919&idx=1&sn=df236d74c65bb7a2d7dcf1933c50e491
-    - author: 哆啦安全
-      release_time: 2026.01.16 23:59:54
-      title: AI对于普通人来说是翻身的机会(2026)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499526&idx=1&sn=fbf5fcf04b71b10dec8d14d6f4730aa7
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
