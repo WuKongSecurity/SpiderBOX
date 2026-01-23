@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 涛之雨
+      release_time: 2026.01.23 23:47:00
+      title: pdf.js 通用pdf下载教程
+      url: https://www.52pojie.cn/thread-2088383-1-1.html
     - author: dddd0526
       release_time: 2026.01.23 16:45:00
       title: 某音ab参数逆向分析
@@ -363,10 +367,6 @@
       release_time: 2025.12.26 14:59:00
       title: 某御验证码逆向分析
       url: https://www.52pojie.cn/thread-2082553-1-1.html
-    - author: HackXK
-      release_time: 2025.12.23 14:35:00
-      title: '[iOS逆向] 一款外挂辅助的分析逆向'
-      url: https://www.52pojie.cn/thread-2081862-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
