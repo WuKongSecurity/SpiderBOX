@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: Henglie
+      release_time: 2026.01.24 15:54:00
+      title: 浏览器扩展破解（德尔塔行动账号隐藏分强度分析插件）
+      url: https://www.52pojie.cn/thread-2088478-1-1.html
     - author: 涛之雨
       release_time: 2026.01.23 23:47:00
       title: pdf.js 通用pdf下载教程
@@ -363,10 +367,6 @@
       release_time: 2025.12.26 23:53:00
       title: 【JS逆向】某大型电商平台参数逆向分析
       url: https://www.52pojie.cn/thread-2082647-1-1.html
-    - author: 中二
-      release_time: 2025.12.26 14:59:00
-      title: 某御验证码逆向分析
-      url: https://www.52pojie.cn/thread-2082553-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
