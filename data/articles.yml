@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Python成长路
+      release_time: 2026.01.25 15:46:00
+      title: 视频号下载更新：极大的优化了内存占用
+      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247485979&idx=1&sn=08aa61ddb24c4ab66a3961b69cadaed4
+    - author: 哆啦安全
+      release_time: 2026.01.25 14:32:14
+      title: 手机"数字员工"大比拼：移动AI智能体框架，谁是你的效率神器？
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499569&idx=1&sn=4b3237e0e436b3402af8b66de4451f9c
+    - author: 零基础爬虫第一天
+      release_time: 2026.01.25 09:50:35
+      title: 【khbox补环境-5】addon补环境 v0版完成
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484071&idx=1&sn=4521ed57a13d9ef3110939716ee65003
     - author: 未闻Code
       release_time: 2026.01.23 21:00:00
       title: 我发现了一个新思路：像写代码一样自动化生成短视频。
@@ -232,18 +244,6 @@
       release_time: 2026.01.19 08:41:42
       title: x-mini-sig
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247485098&idx=1&sn=d834742490fc22c05bbe0267a7a5cf6e
-    - author: 测试工程师成长之路
-      release_time: 2026.01.19 08:30:00
-      title: 测试工程师狂喜！这款工具让4大自动化框架定位器一键生成，直接起飞
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578565&idx=1&sn=608fa8473ebcc8f5bdcb74b0aad150e6
-    - author: 挖个洞先
-      release_time: 2026.01.18 23:51:19
-      title: 【游戏逆向】H5游戏引擎LayaAir页游逆向之websocket分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkyNjY3OTI4Ng==&mid=2247485838&idx=1&sn=dc7cb5c72df3b3afd2f4bae557a46639
-    - author: 挖个洞先
-      release_time: 2026.01.18 23:31:40
-      title: 【游戏逆向】H5页游之置空反调试+Websocket协议分析+添加任意buff
-      url: https://mp.weixin.qq.com/s?__biz=MzkyNjY3OTI4Ng==&mid=2247485399&idx=1&sn=e2a062fe5087d3a8ab3e8e8cbd1a11ee
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
