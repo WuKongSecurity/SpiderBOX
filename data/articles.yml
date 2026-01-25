@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: HackXK
+      release_time: 2026.01.25 21:59:00
+      title: 酷我音乐纯净版VIP教程
+      url: https://www.52pojie.cn/thread-2088657-1-1.html
     - author: Henglie
       release_time: 2026.01.24 15:54:00
       title: 浏览器扩展破解（德尔塔行动账号隐藏分强度分析插件）
@@ -363,10 +367,6 @@
       release_time: 2025.12.28 12:36:00
       title: 欧易谷歌插件转换成网页
       url: https://www.52pojie.cn/thread-2082856-1-1.html
-    - author: LaoBwait
-      release_time: 2025.12.26 23:53:00
-      title: 【JS逆向】某大型电商平台参数逆向分析
-      url: https://www.52pojie.cn/thread-2082647-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
