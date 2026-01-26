@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 搞点逆向778
+      release_time: 2026.01.26 22:21:44
+      title: 某东jdg白盒aes逆向
+      url: https://mp.weixin.qq.com/s?__biz=MzUxMjE3Nzc3Mw==&mid=2247484499&idx=1&sn=d8045f84edbfbe64698a851693a960f4
     - author: 未闻Code
       release_time: 2026.01.26 21:12:03
       title: JupyterLab 迎来最强 AI 助手：Notebook Intelligence 深度体验
@@ -240,10 +244,6 @@
       release_time: 2026.01.19 18:40:06
       title: console.table用来检测浏览器自动化
       url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811229&idx=1&sn=6480f4c6f34330d149016763b66cdeea
-    - author: 菜鸟学Python编程
-      release_time: 2026.01.19 17:30:00
-      title: JS逆向实战|使用AI逆向猿人学第三届第二题jsvmp的加密参数
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566288&idx=1&sn=bb68cc75b593bb61439cb7a32d9730fb
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
