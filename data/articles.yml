@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2026.01.26 17:20:57
+      title: 安卓逆向 -- 以车载微信为例对微信协议请求进行抓包(理论全版本通杀)
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041296&idx=1&sn=d0eb1e81adb48b28da6e238574d38727
     - author: 逆向与爬虫的故事
       release_time: 2026.01.26 09:00:00
       title: B 站 412 背后藏了什么？一次逆向分析记录
@@ -240,10 +244,6 @@
       release_time: 2026.01.19 16:27:26
       title: ai基础-PPO&DPO&GRPO&实战
       url: https://mp.weixin.qq.com/s?__biz=MzkxNDY0NjY3MQ==&mid=2247485638&idx=1&sn=8461d751fabe8d5da2f7fd6289e42f54
-    - author: 二进制磨剑
-      release_time: 2026.01.19 16:04:18
-      title: 学习推荐 | 第三期 | 混淆与反混淆
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485922&idx=1&sn=836b286b13eedd23a15440e408023f9d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -251,6 +251,10 @@
       release_time: 2026.01.25 21:59:00
       title: 酷我音乐纯净版VIP教程
       url: https://www.52pojie.cn/thread-2088657-1-1.html
+    - author: seventeenJoy
+      release_time: 2026.01.25 13:22:00
+      title: 某记账App永久会员功能分析
+      url: https://www.52pojie.cn/thread-2088595-1-1.html
     - author: Henglie
       release_time: 2026.01.24 15:54:00
       title: 浏览器扩展破解（德尔塔行动账号隐藏分强度分析插件）
@@ -363,13 +367,17 @@
       release_time: 2025.12.29 09:46:00
       title: '[Android] 记一次对VR播放器 4XVR Player 的本地验证逻辑分析与逆向实战'
       url: https://www.52pojie.cn/thread-2082996-1-1.html
-    - author: wolfSpicy
-      release_time: 2025.12.28 12:36:00
-      title: 欧易谷歌插件转换成网页
-      url: https://www.52pojie.cn/thread-2082856-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 带带弟弟学爬虫__
+      release_time: 2026.01.26 17:21:00
+      title: 速通新Baidu Frida检测
+      url: https://blog.csdn.net/A_fanyifan/article/details/157398169
+    - author: 带带弟弟学爬虫__
+      release_time: 2026.01.26 16:51:43
+      title: 伪爱加密企业 Frida反调试
+      url: https://blog.csdn.net/A_fanyifan/article/details/157397546
     - author: 吴秋霖
       release_time: 2026.01.23 22:03:36
       title: 某网站WebSocket协议逆向分析
@@ -482,14 +490,6 @@
       release_time: 2026.01.12 22:13:03
       title: gif动态验证码帧隐藏场景通用算法思考与尝试实现
       url: https://blog.csdn.net/weixin_43845191/article/details/156865443
-    - author: Python成长路
-      release_time: 2026.01.12 10:00:07
-      title: vs2022无法正常使用copilot的解决方案
-      url: https://blog.csdn.net/Qwertyuiop2016/article/details/156850811
-    - author: 小子你干嘛
-      release_time: 2026.01.11 23:02:00
-      title: 基于ART源码理解Android 虚拟机编译机制
-      url: https://xz.aliyun.com/news/91118
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
