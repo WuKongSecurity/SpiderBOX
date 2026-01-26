@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2026.01.26 21:12:03
+      title: JupyterLab 迎来最强 AI 助手：Notebook Intelligence 深度体验
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991390&idx=1&sn=553e74b93c225087d42b68b09b20279e
     - author: 逆向有你
       release_time: 2026.01.26 17:20:57
       title: 安卓逆向 -- 以车载微信为例对微信协议请求进行抓包(理论全版本通杀)
@@ -240,10 +244,6 @@
       release_time: 2026.01.19 17:30:00
       title: JS逆向实战|使用AI逆向猿人学第三届第二题jsvmp的加密参数
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566288&idx=1&sn=bb68cc75b593bb61439cb7a32d9730fb
-    - author: 剑客古月的安全屋
-      release_time: 2026.01.19 16:27:26
-      title: ai基础-PPO&DPO&GRPO&实战
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNDY0NjY3MQ==&mid=2247485638&idx=1&sn=8461d751fabe8d5da2f7fd6289e42f54
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -255,6 +255,10 @@
       release_time: 2026.01.25 13:22:00
       title: 某记账App永久会员功能分析
       url: https://www.52pojie.cn/thread-2088595-1-1.html
+    - author: qaiu
+      release_time: 2026.01.25 11:52:00
+      title: 某雷云盘验证码逆向思路总结
+      url: https://www.52pojie.cn/thread-2088578-1-1.html
     - author: Henglie
       release_time: 2026.01.24 15:54:00
       title: 浏览器扩展破解（德尔塔行动账号隐藏分强度分析插件）
@@ -363,10 +367,6 @@
       release_time: 2025.12.29 16:34:00
       title: 地表最强 Android so加载全景图
       url: https://www.52pojie.cn/thread-2083097-1-1.html
-    - author: testify
-      release_time: 2025.12.29 09:46:00
-      title: '[Android] 记一次对VR播放器 4XVR Player 的本地验证逻辑分析与逆向实战'
-      url: https://www.52pojie.cn/thread-2082996-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
