@@ -110,6 +110,10 @@
       logo: chrome.png
       url: https://developer.chrome.com/release-notes
       description: Chrome 版本更新日志
+    - title: 国家语言代码列表
+      logo: fincher.png
+      url: https://www.fincher.org/Utilities/CountryLanguageList.shtml
+      description: 不同国家对应的语言代码列表
 
 - taxonomy: 常用工具
   icon: fas fa-tools
@@ -203,6 +207,10 @@
           logo: sms-activate.jpg
           url: https://sms-activate.org/
           description: 在线接收短信的虚拟号码服务，国外产品，常用于国外各个平台的收码场景，注意：国内法律不允许这种服务存在
+        - title: Hero SMS
+          logo: hero-sms.jpg
+          url: https://hero-sms.com/
+          description: 在线接收短信的虚拟号码服务，覆盖 180 多个国家，每日提供 50 多万号码，支持 WhatsApp、Telegram、Instagram、Gmail、TikTok 等平台，注意：国内法律不允许这种服务存在
         - title: Kopeechka
           logo: kopeechka.jpg
           url: https://kopeechka.store/
@@ -219,6 +227,18 @@
           logo: imgcoord.png
           url: https://uutool.cn/img-coord/
           description: 在线图片坐标拾取工具，可以快速拾取图片中指定点的坐标，在验证码逆向中比较有用
+        - title: Temp Mail
+          logo: temp-mail.png
+          url: https://temp-mail.org/
+          description: 在线临时邮箱
+        - title: Fake Credit Card Number Generator
+          logo: temp-mail.png
+          url: https://www.creditcardvalidator.org/generator
+          description: 虚假信用卡号生成器，含有效的 IIN（发卡机构识别码），且能够通过 Luhn 算法验证。如有需要，还可以生成 CVC（安全码）和有效期。这些卡号可用于测试支付验证系统等
+        - title: JSON Diff
+          logo: json-diff.png
+          url: https://json-diff.com/
+          description: 在线 json 数据差异对比工具
 
     - name: 抓包工具
       links:
@@ -558,6 +578,10 @@
           logo: github.png
           url: https://github.com/acejarvis/large-text-viewer
           description: 一款完全用 Rust 编写的大型文本文件查看器，可处理大于 10GB 的文本文件读取
+        - title: Excalidraw Whiteboard
+          logo: excalidraw.png
+          url: https://excalidraw.com/
+          description: 一款免费开源的手绘风格在线白板工具，支持实时协作和无限画布，无需注册即可直接使用，适合快速绘制草图、思维导图和架构图
 
 - taxonomy: WEB 相关
   icon: fab fa-js
@@ -760,6 +784,18 @@
           logo: github.png
           url: https://github.com/daisixuan/Geetest-AST-
           description: 一键反混淆所有版本的极验混淆 JS
+        - title: whamm
+          logo: whamm.png
+          url: https://github.com/ejrgilbert/whamm
+          description: wasm 插桩工具，是一个用于 wasm 应用程序监控和操作的工具，是一种受 DTrace 的 D 语言启发的 DSL
+        - title: InvisibleJS
+          logo: github.png
+          url: https://github.com/oscarmine/InvisibleJS
+          description: 使用零宽度字符将 JavaScript 源代码隐藏起来
+        - title: jsunpack
+          logo: jsunpack.png
+          url: https://www.jsunpack.tech/
+          description: jsunpack 是一款 在线JS解密工具。通过 AI 驱动的 AST 引擎，一键还原 Webpack、Vue、React 混淆代码，智能恢复变量语义并推导 TypeScript 类型，让源码阅读更清晰、更易读
 
     - name: 设备指纹
       links:
@@ -970,14 +1006,22 @@
           logo: github.png
           url: https://github.com/Noooste/azuretls-client
           description: Golang 库，支持 ja3、ja4、http1.1、http2、http3 指纹模拟，支持模拟 Chrome、Firefox、Safari、Edge
+        - title: httpcloak
+          logo: github.png
+          url: https://github.com/sardanioss/httpcloak
+          description: Golang 库，模拟 TLS/JA3/JA4、Akamai 指纹，完美模拟 Chrome、Firefox 和 Safari，支持 HTTP/1.1、HTTP/2、HTTP/3、QUIC
         - title: CycleTLS
           logo: CycleTLS.jpg
           url: https://github.com/Danny-Dasilva/CycleTLS
-          description: 在 Golang 和 Javascript 中模拟 TLS/JA3 指纹
+          description: Golang 和 Javascript 库，模拟 TLS/JA3/JA4 指纹，支持 HTTP/3 和 QUIC，支持 WebSocket
         - title: wreq
           logo: github.png
           url: https://github.com/0x676e67/wreq
           description: Rust 库，模拟浏览器的 TLS、JA3/JA4 和 HTTP/2 指纹
+        - title: impit
+          logo: github.png
+          url: https://github.com/apify/impit
+          description: Rust 库，模拟浏览器向网站发送请求，支持 HTTP/1.1、HTTP/2 和 HTTP/3
 
     - name: 环境框架
       links:
@@ -1009,6 +1053,10 @@
           logo: github.png
           url: https://github.com/xuxiaobo-bobo/boda_jsEnv
           description: js补环境框架
+        - title: js-sandbox-env-framework
+          logo: github.png
+          url: https://github.com/lasawang/js-sandbox-env-framework
+          description: JS 逆向沙箱化补环境框架，支持 Proxy 递归代理、环境注入、AI 辅助补环境
 
     - name: 自动化/RPC
       links:
@@ -1092,6 +1140,14 @@
           logo: github.png
           url: https://github.com/lixi5338619/magical_spider
           description: 神奇的蜘蛛🕷，一个几乎适用于所有web端站点的采集方案
+        - title: chromiumoxide
+          logo: github.png
+          url: https://github.com/mattsse/chromiumoxide
+          description: Chrome Devtools 协议 rust API
+        - title: chaser-oxide
+          logo: github.png
+          url: https://github.com/ccheshirecat/chaser-oxide
+          description: 基于 Rust 的 chromiumoxide 分支，经过修改以增强浏览器自动化，不可检测、高性能浏览器自动化程序。针对 Chromium 的协议级隐身功能
         - title: Splash
           logo: splash.png
           url: https://github.com/scrapinghub/splash
@@ -1195,6 +1251,10 @@
           logo: github.png
           url: https://github.com/musiclover789/luna
           description: Luna 指纹浏览器，支持浏览器指纹、防关联相关功能的浏览器，支持第三方框架、如 playwright、puppeteer
+        - title: OKBrowser
+          logo: OKBrowser.png
+          url: https://github.com/za515217965/OKBrowser
+          description: OKBrowser 指纹浏览器，安全&企业级私有化部署，反检测指纹浏览器方案，免费的 web3 空投专用指纹浏览器
 
 - taxonomy: APP 相关
   icon: fab fa-android
@@ -1447,11 +1507,16 @@
           logo: Magisk.png
           url: https://jesse205.github.io/MagiskChineseDocument/
           description: Magisk 中文文档
+        - title: AndroidProjects
+          logo: github.png
+          url: https://github.com/djskncxm/AndroidProjects
+          description: 安卓底层改机分析蓝队·半年系统学习路线
 
 - taxonomy: XCX 相关
   icon: fab fa-weixin
   list:
     - term: 小程序相关
+    - term: 微信相关
   tabs:
     - name: 小程序相关
       links:
@@ -1507,6 +1572,101 @@
           logo: github.png
           url: https://github.com/ttttupup/wxhelper
           description: Hook WeChat / 微信逆向
+
+    - name: 微信相关
+      links:
+        - title: wechat-dump
+          logo: github.png
+          url: https://github.com/ppwwyyxx/wechat-dump
+          description: 安卓微信消息记录分析工具
+        - title: WeFlow
+          logo: github.png
+          url: https://github.com/hicccc77/WeFlow
+          description: WeFlow 是一个完全本地的微信实时聊天记录查看、分析与导出工具。它可以实时获取你的微信聊天记录并将其导出，还可以根据你的聊天记录为你生成独一无二的分析报告
+        - title: CipherTalk
+          logo: github.png
+          url: https://github.com/ILoveBingLu/CipherTalk
+          description: 一款现代化的微信聊天记录查看与分析工具
+        - title: EchoTrace
+          logo: github.png
+          url: https://github.com/ycccccccy/echotrace
+          description: EchoTrace 是一个本地、安全的微信聊天记录导出、分析与年度报告生成工具
+        - title: wx_key
+          logo: github.png
+          url: https://github.com/ycccccccy/wx_key
+          description: 获取微信 4.0 版本以上数据库密钥和图片密钥的工具
+        - title: WeChatDataAnalysis
+          logo: WeChatDataAnalysis.png
+          url: https://github.com/LifeArchiveProject/WeChatDataAnalysis
+          description: 一个专门用于微信 4.x 版本数据库解密的工具（支持聊天记录实时更新）
+        - title: wx_channel
+          logo: github.png
+          url: https://github.com/nobiyou/wx_channel
+          description: 微信视频号下载工具，一键下载微信视频号所有页面视频，支持批量下载、加密视频解密、自动去重
+        - title:
+          logo: github.png
+          url:
+          description:
+        - title:
+          logo: github.png
+          url:
+          description:
+        - title:
+          logo: github.png
+          url:
+          description:
+        - title:
+          logo: github.png
+          url:
+          description:
+        - title:
+          logo: github.png
+          url:
+          description:
+        - title:
+          logo: github.png
+          url:
+          description:
+        - title:
+          logo: github.png
+          url:
+          description:
+        - title:
+          logo: github.png
+          url:
+          description:
+        - title:
+          logo: github.png
+          url:
+          description:
+        - title:
+          logo: github.png
+          url:
+          description:
+        - title:
+          logo: github.png
+          url:
+          description:
+        - title:
+          logo: github.png
+          url:
+          description:
+        - title:
+          logo: github.png
+          url:
+          description:
+        - title:
+          logo: github.png
+          url:
+          description:
+        - title:
+          logo: github.png
+          url:
+          description:
+        - title:
+          logo: github.png
+          url:
+          description:
 
 
 - taxonomy: 人机验证
@@ -1732,6 +1892,10 @@
           logo: github.png
           url: https://github.com/tomysky/crack_20_captcha
           description: 常见20种验证码识别思路
+        - title: capx
+          logo: github.png
+          url: https://github.com/mahdi-marjani/capx
+          description: 使用 Selenium + YOLO 解决 reCAPTCHA v2
 
     - name: 轨迹相关
       links:
@@ -1862,6 +2026,10 @@
           logo: wangluozhe.jpg
           url: https://captcha.wangluozhe.com/
           description: 安全、有趣、易集成的 HTML5 验证码解决方案，作者 LeeGene (wangluozhe，tls 开源库 requests 和 requests-go 作者)
+        - title: 微步在线
+          logo: threatbook.jpg
+          url: https://threatbook.cn/
+          description: 微步在线，网络威胁发现和响应专家，开创并引领中国威胁情报行业的发展，提供流量检测、终端安全、云上安全、安全DNS、网关、蜜罐、沙箱、威胁分析和情报共享、安全服务等全方位威胁检测产品及服务
 
 
     - name: 国际防护
@@ -2444,6 +2612,22 @@
           logo: github.png
           url: https://github.com/threathunterX/nebula
           description: 星云业务风控系统，主工程
+        - title: high-quality-biz
+          logo: github.png
+          url: https://github.com/kanadeblisst00/high-quality-biz
+          description: 整理的一百多个安卓和 js 逆向相关的公众号
+        - title: CrawlerTutorial
+          logo: github.png
+          url: https://github.com/NanmiCoder/CrawlerTutorial
+          description: 爬虫入门、爬虫进阶、高级爬虫
+        - title: MediaCrawler
+          logo: github.png
+          url: https://github.com/NanmiCoder/MediaCrawler
+          description: 多平台自媒体数据采集工具，支持小红书、抖音、快手、B站、微博、贴吧、知乎等主流平台的公开信息抓取。基于 playwright 浏览器自动化框架实现
+        - title: Crawler Illegal Cases In China
+          logo: github.png
+          url: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China
+          description: 所有中国大陆爬虫开发者涉诉与违规相关的新闻、资料与法律法规。致力于帮助在中国大陆工作的爬虫行业从业者了解我国相关法律，避免触碰数据合规红线
 
     - name: 文章博主
       links:
@@ -3602,6 +3786,13 @@
           logo: zsxq.png
           url: https://t.zsxq.com/qjlfm
           description: 专注 Jsvmp 及 Wasm 的算法还原，分享海外爬虫技术方案与反爬对抗思路!
+
+    - name: 自建博客
+      links:
+        - title: antibot.blog
+          logo: antibot.jpg
+          url: https://antibot.blog/
+          description: 老外的博客，涉及到 PerimeterX、Twitter 等逆向
 
 - taxonomy: 人工智能
   icon: fas fa-robot fa-lg
