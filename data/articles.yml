@@ -124,6 +124,26 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向与爬虫的故事
+      release_time: 2026.01.26 09:00:00
+      title: B 站 412 背后藏了什么？一次逆向分析记录
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5ODA3OTM1NA==&mid=2247493782&idx=1&sn=06e57ec4fc564af504498711172a696e
+    - author: 测试工程师成长之路
+      release_time: 2026.01.26 08:30:00
+      title: 测试人别熬了！32岁程序员猝死警示：工作有边界，生命无备份
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578589&idx=1&sn=d8c35000504ba1df3aa4631582a49f96
+    - author: Pythonlx
+      release_time: 2026.01.26 08:08:00
+      title: 开源项目推荐-JS补环境框架
+      url: https://mp.weixin.qq.com/s?__biz=MzU4NzkwNTU3Ng==&mid=2247485236&idx=1&sn=0b30ed5f0e306d0291b322c85648b73f
+    - author: 二进制磨剑
+      release_time: 2026.01.26 08:00:00
+      title: 天堂之门：WoW64 下的跨架构魔法
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485927&idx=1&sn=6ae7029727a32e32ea630f8710bbacc1
+    - author: 二进制磨剑
+      release_time: 2026.01.26 08:00:00
+      title: 【课程完结！内容揭秘！】7 天打造 IDA 9.0 大师：从零基础到逆向精英
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485927&idx=2&sn=b54172b4b09d7a5edebcd18e613aa08a
     - author: Python成长路
       release_time: 2026.01.25 15:46:00
       title: 视频号下载更新：极大的优化了内存占用
@@ -224,26 +244,6 @@
       release_time: 2026.01.19 16:04:18
       title: 学习推荐 | 第三期 | 混淆与反混淆
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485922&idx=1&sn=836b286b13eedd23a15440e408023f9d
-    - author: Frida and So
-      release_time: 2026.01.19 15:05:48
-      title: Frida检测及绕过新思路
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247485108&idx=1&sn=c27593f61300215ffc3a5268a3170847
-    - author: 小小杨学编程
-      release_time: 2026.01.19 14:00:00
-      title: 小程序-丑团滑块验证-纯算分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484698&idx=1&sn=849605aa92a3cefc64f9943f36a59fb2
-    - author: 影17
-      release_time: 2026.01.19 10:00:00
-      title: 某咚 sesi & nars逆向流程分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247490623&idx=1&sn=07041db8e32777c7eb153e3f728fe9c6
-    - author: 哆啦安全
-      release_time: 2026.01.19 09:00:00
-      title: Deepseek，再见了!
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499536&idx=1&sn=c975abc52275cd1a4cbdb67f9ed8c6e1
-    - author: Frida and So
-      release_time: 2026.01.19 08:41:42
-      title: x-mini-sig
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247485098&idx=1&sn=d834742490fc22c05bbe0267a7a5cf6e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
