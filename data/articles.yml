@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2026.01.27 11:44:00
+      title: JS逆向实战|使用AI逆向某站cookie参数w_tsfp(jsvmp)纯算
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566301&idx=1&sn=644649e955a9e79a414359a6bd5bde00
     - author: 哆啦安全
       release_time: 2026.01.27 07:54:50
       title: 从危机到机遇：30至45岁技术人的职业转型蓝图
@@ -240,10 +244,6 @@
       release_time: 2026.01.20 08:30:00
       title: 【密码学】MatRiCT 算法解读
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493615&idx=1&sn=f7881bad81ccfab47b8323a83f4a6a65
-    - author: 零基础爬虫第一天
-      release_time: 2026.01.19 20:58:29
-      title: 【爬虫框架-9】funspiderV2思路
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484066&idx=1&sn=ea8af827b01b362ffd665a4b04e4923c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
