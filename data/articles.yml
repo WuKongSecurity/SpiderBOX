@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2026.01.28 10:09:24
+      title: AI视频是2026年普通人低门槛的变现赛道，0基础也能接住这波红利。
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041301&idx=1&sn=57517e5e5e2e70d49390ab0f72f3ca06
     - author: 个人信息与数据保护实务评论
       release_time: 2026.01.27 16:25:16
       title: 违反《网数条例》，数据受托处理者单位个人均被处罚
@@ -240,10 +244,6 @@
       release_time: 2026.01.20 15:42:21
       title: 北京公布个人信息保护负责人及未成年人审计报送工作咨询电话
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519856&idx=2&sn=baac576232acf940104c5f21a0b7cc95
-    - author: 哆啦安全
-      release_time: 2026.01.20 12:09:49
-      title: UABEA中文汉化版(游戏逆向分析工具)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499544&idx=1&sn=84290737b6c50621c45169f9126dbdbb
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 扁舟·TF
+      release_time: 2026.01.27 12:02:56
+      title: 将 javascript 第三方库打包成一个可执行的 js 文件
+      url: https://blog.csdn.net/weixin_44791631/article/details/157429742
     - author: 悦来客栈的老板
       release_time: 2026.01.27 11:44:55
       title: JS逆向实战|使用AI逆向某站cookie参数w_tsfp(jsvmp)纯算
@@ -486,10 +490,6 @@
       release_time: 2026.01.14 09:04:39
       title: 最大面积验证码通用解法
       url: https://blog.csdn.net/weixin_43845191/article/details/156932799
-    - author: 九月镇灵将
-      release_time: 2026.01.13 14:18:43
-      title: gif动态验证码识别训练思路
-      url: https://blog.csdn.net/weixin_43845191/article/details/156874226
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
