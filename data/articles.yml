@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: HackXK
+      release_time: 2026.01.27 21:53:00
+      title: 夸克网盘VIP画质教程
+      url: https://www.52pojie.cn/thread-2089079-1-1.html
     - author: Command
       release_time: 2026.01.27 17:49:00
       title: 手把手教你给某讯滑块的JSVMP写反编译器 (如宝宝辅食一样易懂)
@@ -363,10 +367,6 @@
       release_time: 2026.01.02 22:09:00
       title: 新版QQ音乐下载获取
       url: https://www.52pojie.cn/thread-2083880-1-1.html
-    - author: qq196796483
-      release_time: 2025.12.31 14:52:00
-      title: JS逆向外贸教育平台，调度器的理解
-      url: https://www.52pojie.cn/thread-2083501-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
