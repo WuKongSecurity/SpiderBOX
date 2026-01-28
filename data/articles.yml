@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 编角料
+      release_time: 2026.01.28 19:02:00
+      title: 移动安全技能树完整版
+      url: https://mp.weixin.qq.com/s?__biz=MzU0MjUwMTA2OQ==&mid=2247486919&idx=1&sn=f24f95deef6f82c62ad71f1e911ed3a8
     - author: 吾爱破解论坛
       release_time: 2026.01.28 16:33:27
       title: 手把手教你给某讯滑块的JSVMP写反编译器 (如宝宝辅食一样易懂)
@@ -240,10 +244,6 @@
       release_time: 2026.01.21 18:05:21
       title: 某航司亚马逊aws-waf-token算法逆向分析
       url: https://mp.weixin.qq.com/s?__biz=Mzg5MjYyNTgxMQ==&mid=2247484560&idx=1&sn=0bf6711a7271cb8159854ef50602ed3f
-    - author: 软件安全与逆向分析
-      release_time: 2026.01.21 15:40:30
-      title: Frida17.6轻量级Hook技术方案解析
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485002&idx=1&sn=1f0e7077f192703dbc07935a63113980
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
