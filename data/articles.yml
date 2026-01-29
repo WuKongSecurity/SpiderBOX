@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 和沐阳学逆向与Ai
+      release_time: 2026.01.29 16:27:33
+      title: 72. 【国内首发】通义千问+Moltbot/clawdbot+飞书回复：教你零成本搭建“满血版”私人 AI 助理，秒杀 ChatGPT！
+      url: https://www.bilibili.com/video/BV1hm6FBQE5s
     - author: Alone逆向安全
       release_time: 2026.01.27 12:11:49
       title: 自研SO分析神器：JNI自动转发真机，环境检测全部失效 告别补环境的噩梦
@@ -117,13 +121,21 @@
       release_time: 2025.12.19 22:32:21
       title: wasm-vmp二进制加壳工具免费使用
       url: https://www.bilibili.com/video/BV1ywBFBvEsM
-    - author: 陈不不and挽风的逆向
-      release_time: 2025.12.19 22:13:45
-      title: cyjsvmp在线版大更新
-      url: https://www.bilibili.com/video/BV18YBFB5E3d
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.01.29 16:45:53
+      title: 巴西与欧盟达成互认数据跨境流动保护充分性决定
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519868&idx=1&sn=d0d7544cd968d6773050d2e6e715d13f
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.01.29 16:45:53
+      title: 国家互联网信息办公室关于《金融信息服务数据分类分级指南（征求意见稿）》公开征求意见的通知
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519868&idx=2&sn=e1825d194f9db324e93fbe5f5932e2b4
+    - author: 沐阳逆向学习
+      release_time: 2026.01.29 16:41:48
+      title: 通义千问+Moltbot+飞书回复：教你零成本搭建“满血版”私人 AI 助理，秒杀 ChatGPT！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484486&idx=1&sn=ee3689a313102253a899afbf4508f74f
     - author: 编角料
       release_time: 2026.01.28 19:02:00
       title: 移动安全技能树完整版
@@ -232,18 +244,6 @@
       release_time: 2026.01.22 16:41:40
       title: 《GB/T 46903-2025 数据安全技术 个人信息保护合规审计要求》等国家标准正式发布
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519861&idx=2&sn=85db9dba1992335cb88d19a4aa6b4543
-    - author: 哆啦安全
-      release_time: 2026.01.22 15:47:41
-      title: Android病毒分析工具V3.2
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499561&idx=1&sn=caaed291dda8a9f4fd43a7dd7104c8f0
-    - author: 反爬破解社
-      release_time: 2026.01.22 15:23:34
-      title: AST 语法树硬刚某宝：提取控制器
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483788&idx=1&sn=54f58ea1562399866d616a100bea8530
-    - author: 無色逆向
-      release_time: 2026.01.21 18:05:21
-      title: 某航司亚马逊aws-waf-token算法逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MjYyNTgxMQ==&mid=2247484560&idx=1&sn=0bf6711a7271cb8159854ef50602ed3f
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: weixin_46084750
+      release_time: 2026.01.29 11:29:43
+      title: 魔改Chromium：debugger 失效与控制台防检测
+      url: https://blog.csdn.net/weixin_46084750/article/details/157504409
     - author: 扁舟·TF
       release_time: 2026.01.27 12:02:56
       title: 将 javascript 第三方库打包成一个可执行的 js 文件
@@ -486,10 +490,6 @@
       release_time: 2026.01.15 12:39:05
       title: 某象字体识别验证码识别全流程
       url: https://blog.csdn.net/weixin_43845191/article/details/156909917
-    - author: 九月镇灵将
-      release_time: 2026.01.14 09:04:39
-      title: 最大面积验证码通用解法
-      url: https://blog.csdn.net/weixin_43845191/article/details/156932799
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
