@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 反爬破解社
+      release_time: 2026.01.29 20:57:21
+      title: AST 语法树硬刚某宝：无用分支破解思路
+      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483795&idx=1&sn=9d773f2c2fe4b22409ffa7f3499bfb7a
     - author: python爬虫和阿J的逆向
       release_time: 2026.01.29 17:40:00
       title: Browser Cluster 浏览器自动化集群爬虫系统
@@ -240,13 +244,13 @@
       release_time: 2026.01.22 20:19:19
       title: iframe特性在Web反爬中的运用
       url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811238&idx=1&sn=5d19c81d2ce1ea38c44fd861b76bb45d
-    - author: 吾爱破解论坛
-      release_time: 2026.01.22 17:05:12
-      title: 【权威发布】吾爱破解论坛2025年优秀、精华TOP榜（上）
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143502&idx=1&sn=e4d5f2c29be38c68f965be8efc1233ca
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 看鱼
+      release_time: 2026.01.29 14:55:00
+      title: 某18+论坛CF盾验证扣代码
+      url: https://www.52pojie.cn/thread-2089394-1-1.html
     - author: HackXK
       release_time: 2026.01.27 21:53:00
       title: 夸克网盘VIP画质教程
@@ -363,10 +367,6 @@
       release_time: 2026.01.04 03:52:00
       title: Typora v1.12.4 安全分析：反反调试与激活劫持
       url: https://www.52pojie.cn/thread-2084047-1-1.html
-    - author: '13955925361'
-      release_time: 2026.01.02 22:09:00
-      title: 新版QQ音乐下载获取
-      url: https://www.52pojie.cn/thread-2083880-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
