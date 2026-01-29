@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 妄为写代码
+      release_time: 2026.01.29 21:21:17
+      title: 逆向安全视角：一文读懂腾讯Soter生物认证
+      url: https://mp.weixin.qq.com/s?__biz=MzU5ODgyOTUzNw==&mid=2247484225&idx=1&sn=29e404d8805271741a7a27346de5bc2a
     - author: 反爬破解社
       release_time: 2026.01.29 20:57:21
       title: AST 语法树硬刚某宝：无用分支破解思路
@@ -240,10 +244,6 @@
       release_time: 2026.01.23 10:26:25
       title: Lsp魔改成果展示
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247485119&idx=1&sn=0cb15f4b1090175f7328f571aba60e16
-    - author: 静夜随想
-      release_time: 2026.01.22 20:19:19
-      title: iframe特性在Web反爬中的运用
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Njg2MDY0OQ==&mid=2652811238&idx=1&sn=5d19c81d2ce1ea38c44fd861b76bb45d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
