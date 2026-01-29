@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: python爬虫和阿J的逆向
+      release_time: 2026.01.29 17:40:00
+      title: Browser Cluster 浏览器自动化集群爬虫系统
+      url: https://mp.weixin.qq.com/s?__biz=MzkxOTIyODcyOA==&mid=2247485691&idx=1&sn=2fb4b6fe199e1cf018d48135bef30c80
     - author: 菜鸟学Python编程
       release_time: 2026.01.29 17:30:00
       title: JS逆向实战|使用AI逆向某音乐参数sign(jsvmp)纯算
@@ -240,10 +244,6 @@
       release_time: 2026.01.22 17:05:12
       title: 【权威发布】吾爱破解论坛2025年优秀、精华TOP榜（上）
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143502&idx=1&sn=e4d5f2c29be38c68f965be8efc1233ca
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.01.22 16:41:40
-      title: 最高检发布个人信息保护检察公益诉讼典型案例，聚焦停车扫码、人脸识别等重点场景
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519861&idx=1&sn=f88d3222adee84016bfabc97099a6422
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
