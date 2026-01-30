@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: epiphanyep
+      release_time: 2026.01.29 18:28:00
+      title: 【web逆向】小白之路-极验4滑块
+      url: https://www.52pojie.cn/thread-2089451-1-1.html
     - author: 看鱼
       release_time: 2026.01.29 14:55:00
       title: 某18+论坛CF盾验证扣代码
@@ -363,10 +367,6 @@
       release_time: 2026.01.04 17:41:00
       title: 一次完整的 Unity Mono 安卓游戏逆向：Frida Hook 绕过碰撞死亡判定
       url: https://www.52pojie.cn/thread-2084229-1-1.html
-    - author: steven026
-      release_time: 2026.01.04 03:52:00
-      title: Typora v1.12.4 安全分析：反反调试与激活劫持
-      url: https://www.52pojie.cn/thread-2084047-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
