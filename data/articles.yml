@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 冰敷逆向笔记
+      release_time: 2026.01.30 17:45:01
+      title: 京东h5st纯算分析
+      url: https://mp.weixin.qq.com/s?__biz=MzI0NDg0ODE1MQ==&mid=2247483886&idx=1&sn=473e5b66da0d6f048ce0752518a32354
+    - author: 菜鸟学Python编程
+      release_time: 2026.01.30 17:30:00
+      title: AST还原实战|猿人学第二届第二题加密参数token纯算分析
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566323&idx=1&sn=77368ed6888557830d6e317214ecc7d1
+    - author: 哆啦安全
+      release_time: 2026.01.30 10:13:20
+      title: Android逆向技能树(2026版)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499587&idx=1&sn=e87a25ae813f9fd8032bae90f2fec586
     - author: 妄为写代码
       release_time: 2026.01.29 21:21:17
       title: 逆向安全视角：一文读懂腾讯Soter生物认证
@@ -232,18 +244,6 @@
       release_time: 2026.01.23 21:00:00
       title: 我发现了一个新思路：像写代码一样自动化生成短视频。
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991367&idx=1&sn=f3d9a3a9864ef5e625b0475478899ea5
-    - author: 哆啦安全
-      release_time: 2026.01.23 16:45:45
-      title: Unity Il2cpp手游逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499565&idx=1&sn=54a1b2de7971becd51745d8888b7b087
-    - author: 虫迹追踪
-      release_time: 2026.01.23 15:19:16
-      title: js逆向-使用trae辅助分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDU2MTYwMQ==&mid=2247485257&idx=1&sn=8b920d9a2865376e3e83d439e59e4ad7
-    - author: Frida and So
-      release_time: 2026.01.23 10:26:25
-      title: Lsp魔改成果展示
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247485119&idx=1&sn=0cb15f4b1090175f7328f571aba60e16
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
