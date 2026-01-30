@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 悦来客栈的老板
+      release_time: 2026.01.29 17:30:50
+      title: JS逆向实战|使用AI逆向某音乐参数sign(jsvmp)纯算
+      url: https://blog.csdn.net/qq523176585/article/details/157533751
     - author: weixin_46084750
       release_time: 2026.01.29 11:29:43
       title: 魔改Chromium：debugger 失效与控制台防检测
@@ -486,10 +490,6 @@
       release_time: 2026.01.15 15:52:20
       title: 盒马生鲜-unidbg
       url: https://blog.csdn.net/A_fanyifan/article/details/156987705
-    - author: 九月镇灵将
-      release_time: 2026.01.15 12:39:05
-      title: 某象字体识别验证码识别全流程
-      url: https://blog.csdn.net/weixin_43845191/article/details/156909917
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
