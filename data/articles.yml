@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 零基础爬虫第一天
+      release_time: 2026.02.01 11:43:33
+      title: 【khbox补环境-5.1】持续踩坑
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484078&idx=1&sn=f8f6f453b3207889fc968be4b04fe2db
     - author: 冰敷逆向笔记
       release_time: 2026.01.30 17:45:01
       title: 京东h5st纯算分析
@@ -236,14 +240,6 @@
       release_time: 2026.01.25 14:32:14
       title: 手机"数字员工"大比拼：移动AI智能体框架，谁是你的效率神器？
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499569&idx=1&sn=4b3237e0e436b3402af8b66de4451f9c
-    - author: 零基础爬虫第一天
-      release_time: 2026.01.25 09:50:35
-      title: 【khbox补环境-5】addon补环境 v0版完成
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484071&idx=1&sn=4521ed57a13d9ef3110939716ee65003
-    - author: 未闻Code
-      release_time: 2026.01.23 21:00:00
-      title: 我发现了一个新思路：像写代码一样自动化生成短视频。
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991367&idx=1&sn=f3d9a3a9864ef5e625b0475478899ea5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
