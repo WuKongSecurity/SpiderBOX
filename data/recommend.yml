@@ -82,10 +82,10 @@
       logo: wangluozhe.jpg
       url: https://tls.wangluozhe.com/
       description: TLS 指纹 API，查看 ja3、ja4 指纹，https://tls.peet.ws/ 开源镜像版本，作者 LeeGene (wangluozhe)，tls 开源库 requests 和 requests-go 作者
-    - title: Hook_JS
-      logo: github.png
-      url: https://github.com/0xsdeo/Hook_JS
-      description: 各种 JS Hook 脚本
+    - title: AntiDebug Breaker
+      logo: AntiDebug_Breaker.png
+      url: https://github.com/0xsdeo/AntiDebug_Breaker
+      description: 反调试破除者，提供各种 Hook、绕过无限 Debugger、Vue 渗透测试等功能
     - title: DrissionPage
       logo: drissionpage.png
       url: https://github.com/g1879/DrissionPage

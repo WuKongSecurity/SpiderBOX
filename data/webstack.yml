@@ -302,6 +302,10 @@
           logo: github.png
           url: https://github.com/r0ysue/r0capture
           description: 安卓应用层抓包通杀脚本
+        - title: ProxyDroid
+          logo: proxydroid.png
+          url: https://proxydroid.com/
+          description: 基于 Android 系统的开源代理工具应用软件，需通过 root 权限实现设备代理配置功能，支持 HTTP、SOCKS4、SOCKS5 等多种代理协议及全局代理模式
 
     - name: 接口调试
       links:
@@ -495,6 +499,10 @@
           logo: github.png
           url: https://github.com/0xsdeo/Hook_JS
           description: 各种 JS Hook 脚本
+        - title: HookJS_Template
+          logo: github.png
+          url: https://github.com/0xsdeo/HookJS_Template
+          description: JS Hook 通用模板
         - title: crawler-js-hook-framework-public
           logo: github.png
           url: https://github.com/JSREI/crawler-js-hook-framework-public
@@ -685,6 +693,14 @@
           logo: github.png
           url: https://github.com/JSREI/ast-hook-for-js-RE
           description: 浏览器端的内存漫游解决方案，借助此工具你可以随意检索浏览器内存中的数据
+        - title: AntiDebug Breaker
+          logo: AntiDebug_Breaker.png
+          url: https://github.com/0xsdeo/AntiDebug_Breaker
+          description: 反调试破除者，提供各种 Hook、绕过无限 Debugger、Vue 渗透测试等功能
+        - title: FakeCryptoJS
+          logo: github.png
+          url: https://github.com/keecth/FakeCryptoJS
+          description: CryptoJS 常规加解密自吐密钥、加解密方式，快速定位加解密位置(无视混淆)。SRC 和常规渗透神器
 
     - name: 混淆/反混淆
       links:
@@ -796,6 +812,10 @@
           logo: jsunpack.png
           url: https://www.jsunpack.tech/
           description: jsunpack 是一款 在线JS解密工具。通过 AI 驱动的 AST 引擎，一键还原 Webpack、Vue、React 混淆代码，智能恢复变量语义并推导 TypeScript 类型，让源码阅读更清晰、更易读
+        - title: ClarityJS
+          logo: github.png
+          url: https://github.com/AugustineFulgur/ClarityJS
+          description: JavaScript Deconfusion Tool. JavaScript 解混淆工具，提供多种解混淆配置，支持自定义模块
 
     - name: 设备指纹
       links:
@@ -879,6 +899,10 @@
           logo: github.png
           url: https://github.com/bosniankicks/Chrome-BD
           description: Chrome Bot Detection，基于每个发行版本，每个版本都有新的更新或旧的浏览器机器人检测方法
+        - title: Chrome X-Browser-Validation Header
+          logo: github.png
+          url: https://github.com/dsekz/chrome-x-browser-validation-header
+          description: 用于 Chrome 私有 x-browser-validation header 头的逆向工程和生成工具包，该 header 头用于完整性验证
 
     - name: TLS 指纹
       links:
@@ -958,6 +982,10 @@
           logo: github.png
           url: https://github.com/sleeyax/burp-awesome-tls
           description: Burp 扩展程序，允许您伪造任何浏览器的 TLS 指纹，可规避 TLS 指纹识别，绕过 WAF，欺骗任何浏览器，同时降低了被各种 WAF（例如 CloudFlare、PerimeterX、Akamai、DataDome 等）指纹识别的可能性
+        - title: eBPF web fingerprint
+          logo: github.png
+          url: https://github.com/robalb/ebpf-web-fingerprint
+          description: 一个基于 eBPF 的 Go 语言库和 Web 服务器，用于快速 TCP 和 TLS 指纹识别
         - title: requests-go
           logo: github.png
           url: https://github.com/wangluozhe/requests-go
@@ -1010,6 +1038,10 @@
           logo: github.png
           url: https://github.com/sardanioss/httpcloak
           description: Golang 库，模拟 TLS/JA3/JA4、Akamai 指纹，完美模拟 Chrome、Firefox 和 Safari，支持 HTTP/1.1、HTTP/2、HTTP/3、QUIC
+        - title: Surf
+          logo: surf.png
+          url: https://github.com/enetx/surf
+          description: Golang 库，具有 Chrome/Firefox 浏览器模拟、HTTP/3 QUIC 指纹识别、JA3/JA4 TLS 模拟和反机器人绕过功能
         - title: CycleTLS
           logo: CycleTLS.jpg
           url: https://github.com/Danny-Dasilva/CycleTLS
@@ -1057,6 +1089,10 @@
           logo: github.png
           url: https://github.com/lasawang/js-sandbox-env-framework
           description: JS 逆向沙箱化补环境框架，支持 Proxy 递归代理、环境注入、AI 辅助补环境
+        - title: js-env
+          logo: github.png
+          url: https://github.com/RuoShui-0014/js-env
+          description: 基于 isolated-vm 魔改虚拟机实现的 js 环境框架，封装了一套非 js 标准的代理和 native 函数创建的方法
 
     - name: 自动化/RPC
       links:
@@ -1148,6 +1184,10 @@
           logo: github.png
           url: https://github.com/ccheshirecat/chaser-oxide
           description: 基于 Rust 的 chromiumoxide 分支，经过修改以增强浏览器自动化，不可检测、高性能浏览器自动化程序。针对 Chromium 的协议级隐身功能
+        - title: nodriver
+          logo: github.png
+          url: https://github.com/ultrafunkamsterdam/nodriver
+          description: Undetected-Chromedriver Python 包的官方继任者，可以躲避大多数反机器人解决方案的检测，不再使用 WebDriver，不再使用 Selenium
         - title: Splash
           logo: splash.png
           url: https://github.com/scrapinghub/splash
@@ -1255,6 +1295,14 @@
           logo: OKBrowser.png
           url: https://github.com/za515217965/OKBrowser
           description: OKBrowser 指纹浏览器，安全&企业级私有化部署，反检测指纹浏览器方案，免费的 web3 空投专用指纹浏览器
+        - title: YSbrowser
+          logo: github.png
+          url: https://github.com/selfshore/YSbrowser
+          description: 魔改的 chromium，指纹浏览器，过掉 F12 反调试，支持自定义浏览器版本、时区、语言、cpu 核心数、屏幕等指纹
+        - title: 指纹浏览器资源导航
+          logo: ebrowser.png
+          url: https://www.ebrowser.cn/
+          description: 指纹浏览器资源导航
 
 - taxonomy: APP 相关
   icon: fab fa-android
@@ -1511,6 +1559,30 @@
           logo: github.png
           url: https://github.com/djskncxm/AndroidProjects
           description: 安卓底层改机分析蓝队·半年系统学习路线
+        - title: ApkToolPlus
+          logo: ApkToolPlus.png
+          url: https://github.com/CYRUS-STUDIO/ApkToolPlus
+          description: ApkToolPlus 是一个可视化的跨平台 apk 分析工具，apk 反编译，签名，apk 加固，dex 加密，防逆向，防止二次打包，apk 常见信息查看等
+        - title: frida_dex_dump
+          logo: github.png
+          url: https://github.com/CYRUS-STUDIO/frida_dex_dump
+          description: 基于 frida 的 dex 脱壳工具
+        - title: frida-ssl-pinning-bypass
+          logo: github.png
+          url: https://github.com/CYRUS-STUDIO/frida-ssl-pinning-bypass
+          description: Java + Native 全自动 SSL Pinning 绕过脚本
+        - title: Android Framework 知识库
+          logo: DSXBmSG9VbEROUXF5.png
+          url: https://docs.qq.com/doc/DSXBmSG9VbEROUXF5
+          description: Android Framework 知识库
+        - title: appproxy
+          logo: github.png
+          url: https://github.com/ys1231/appproxy
+          description: 基于 flutter 的 android vpn 代理工具，支持 HTTP, SOCKS5 协议
+        - title: Move Certificate
+          logo: github.png
+          url: https://github.com/ys1231/MoveCertificate
+          description: 是一个 Magisk/KernelSU/APatch 模块，用于移动用户证书到系统证书，支持 Android 7-15
 
 - taxonomy: XCX 相关
   icon: fab fa-weixin
@@ -1603,71 +1675,14 @@
           logo: github.png
           url: https://github.com/nobiyou/wx_channel
           description: 微信视频号下载工具，一键下载微信视频号所有页面视频，支持批量下载、加密视频解密、自动去重
-        - title:
+        - title: DbkeyHook
           logo: github.png
-          url:
-          description:
-        - title:
+          url: https://github.com/gzygood/DbkeyHook
+          description: PC 微信 4.0.3.39 以后版本 hook 获取 dbkey
+        - title: RevokeHook
           logo: github.png
-          url:
-          description:
-        - title:
-          logo: github.png
-          url:
-          description:
-        - title:
-          logo: github.png
-          url:
-          description:
-        - title:
-          logo: github.png
-          url:
-          description:
-        - title:
-          logo: github.png
-          url:
-          description:
-        - title:
-          logo: github.png
-          url:
-          description:
-        - title:
-          logo: github.png
-          url:
-          description:
-        - title:
-          logo: github.png
-          url:
-          description:
-        - title:
-          logo: github.png
-          url:
-          description:
-        - title:
-          logo: github.png
-          url:
-          description:
-        - title:
-          logo: github.png
-          url:
-          description:
-        - title:
-          logo: github.png
-          url:
-          description:
-        - title:
-          logo: github.png
-          url:
-          description:
-        - title:
-          logo: github.png
-          url:
-          description:
-        - title:
-          logo: github.png
-          url:
-          description:
-
+          url: https://github.com/EEEEhex/RevokeHook
+          description: 微信 4.0 防撤回 hook + 字符串解密脚本
 
 - taxonomy: 人机验证
   icon: fas fa-user-check
@@ -1896,6 +1911,10 @@
           logo: github.png
           url: https://github.com/mahdi-marjani/capx
           description: 使用 Selenium + YOLO 解决 reCAPTCHA v2
+        - title: hcaptcha-challenger
+          logo: github.png
+          url: https://github.com/QIN2DIM/hcaptcha-challenger
+          description: 利用多模态大型语言模型优雅应对 hCaptcha 挑战
 
     - name: 轨迹相关
       links:
@@ -2185,6 +2204,19 @@
           logo: cap.png
           url: https://capjs.js.org/
           description: The modern, open-source CAPTCHA. Lightweight, self-hosted, privacy-friendly, and designed to put you first. Switch from reCAPTCHA in minutes.
+        - title: captcha
+          logo: github.png
+          url: https://github.com/raodv/captcha
+          description: 行为验证码(滑动拼图、点选文字)，前后端(java)交互，包含 h5/Android/IOS/flutter/uni-app 的源码和实现
+        - title: easy-captcha
+          logo: github.png
+          url: https://github.com/pig-mesh/easy-captcha
+          description: Java 图形验证码，支持 gif、中文、算术等类型，可用于 Java Web、JavaSE 等项目
+        - title: Illusion CAPTCHA
+          logo: github.png
+          url: https://github.com/imssm99/illusion-captcha
+          description: 将视觉错觉应用于验证码，以提高其对人类用户的可用性，视觉错觉源于人脑复杂的运作机制，因此机器很难识别它们
+
 
 - taxonomy: 代理数据
   icon: fas fa-map-marker-alt
@@ -3703,6 +3735,10 @@
           logo: github.png
           url: https://github.com/JSREI/tcp-rate-limit-goat
           description: 一个按照 TCP 连接进行限速反爬的示例靶场
+        - title: WAREC
+          logo: github.png
+          url: https://juliendoutre.github.io/warec/index.html
+          description: WASM 逆向挑战
 #        - title: Crawler Lab
 #          logo: crawler-lab.png
 #          url: https://www.crawler-lab.com/
@@ -3793,6 +3829,10 @@
           logo: antibot.jpg
           url: https://antibot.blog/
           description: 老外的博客，涉及到 PerimeterX、Twitter 等逆向
+        - title: CYRUS STUDIO
+          logo: cyrus-studio.jpg
+          url: https://cyrus-studio.github.io/blog/
+          description: 安卓逆向博主，公众号：CYRUS STUDIO，ApkToolPlus 作者
 
 - taxonomy: 人工智能
   icon: fas fa-robot fa-lg
