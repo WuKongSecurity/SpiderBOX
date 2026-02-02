@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 风と自由
+      release_time: 2026.02.02 18:17:15
+      title: Aurorium环境隔离
+      url: https://www.bilibili.com/video/BV1A8FNzME4a
     - author: Alone逆向安全
       release_time: 2026.02.01 12:02:21
       title: OLLVMVMP 二进制对抗  2026年 App逆向协议还原独家课程
@@ -117,10 +121,6 @@
       release_time: 2025.12.23 00:38:13
       title: 想入行网络爬虫到底要学什么？一个视频告诉你
       url: https://www.bilibili.com/video/BV15DBxBZEP2
-    - author: 时一十一姐呀
-      release_time: 2025.12.22 09:07:07
-      title: 阿里10+数据相关岗位热招感兴趣的可以看看~
-      url: https://www.bilibili.com/video/BV1uRBHBzE6R
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
