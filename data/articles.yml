@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.02.02 12:10:48
+      title: Fultter逆向分析方法
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499597&idx=1&sn=1f3f117bc74178852ba26a06dbda745a
     - author: 逆向有你
       release_time: 2026.02.02 09:51:37
       title: PC逆向 -- 某锁屏预览图片解密（记一次小白使用AI逆向加密算法）
@@ -152,6 +156,10 @@
       release_time: 2026.02.01 11:43:33
       title: 【khbox补环境-5.1】持续踩坑
       url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484078&idx=1&sn=f8f6f453b3207889fc968be4b04fe2db
+    - author: 哆啦安全
+      release_time: 2026.01.31 10:51:57
+      title: 鸿蒙HarmonyOS应用逆向技能树(2026版)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499591&idx=1&sn=76c943c446196f09afde8ee9c9f34e73
     - author: 冰敷逆向笔记
       release_time: 2026.01.30 17:45:01
       title: 京东h5st纯算分析
@@ -232,14 +240,6 @@
       release_time: 2026.01.26 21:12:03
       title: JupyterLab 迎来最强 AI 助手：Notebook Intelligence 深度体验
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991390&idx=1&sn=553e74b93c225087d42b68b09b20279e
-    - author: 逆向有你
-      release_time: 2026.01.26 17:20:57
-      title: 安卓逆向 -- 以车载微信为例对微信协议请求进行抓包(理论全版本通杀)
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041296&idx=1&sn=d0eb1e81adb48b28da6e238574d38727
-    - author: 逆向与爬虫的故事
-      release_time: 2026.01.26 09:00:00
-      title: B 站 412 背后藏了什么？一次逆向分析记录
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5ODA3OTM1NA==&mid=2247493782&idx=1&sn=06e57ec4fc564af504498711172a696e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
