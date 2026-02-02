@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 我最菜
+      release_time: 2026.02.02 16:51:04
+      title: 这哪里是技术，这是魔法！
+      url: https://mp.weixin.qq.com/s?__biz=MzU5NDc4NDcxNQ==&mid=2247484408&idx=1&sn=84525aa04c8b38bd3e2998c79a4d84f2
+    - author: 吾爱破解论坛
+      release_time: 2026.02.02 16:50:00
+      title: 【权威发布】吾爱破解论坛2025年原创区、悬赏值TOP榜（下）
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143516&idx=1&sn=f8b2b5eb7ddd35b03c76e81079e12cfd
+    - author: 我最菜
+      release_time: 2026.02.02 16:20:27
+      title: 重生之全世界逆向能力下降100倍！
+      url: https://mp.weixin.qq.com/s?__biz=MzU5NDc4NDcxNQ==&mid=2247484404&idx=1&sn=698f3545e1c6d95600ffbdcd7d352ac4
     - author: 哆啦安全
       release_time: 2026.02.02 12:10:48
       title: Fultter逆向分析方法
@@ -232,14 +244,6 @@
       release_time: 2026.01.27 07:54:50
       title: 从危机到机遇：30至45岁技术人的职业转型蓝图
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499573&idx=1&sn=2b91b81547b8c189e9d5cb576e793e0b
-    - author: 搞点逆向778
-      release_time: 2026.01.26 22:21:44
-      title: 某东jdg白盒aes逆向
-      url: https://mp.weixin.qq.com/s?__biz=MzUxMjE3Nzc3Mw==&mid=2247484499&idx=1&sn=d8045f84edbfbe64698a851693a960f4
-    - author: 未闻Code
-      release_time: 2026.01.26 21:12:03
-      title: JupyterLab 迎来最强 AI 助手：Notebook Intelligence 深度体验
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991390&idx=1&sn=553e74b93c225087d42b68b09b20279e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
