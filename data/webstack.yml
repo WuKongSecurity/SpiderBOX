@@ -724,6 +724,10 @@
           logo: 4670123.jpg
           url: https://www.ldvmp.com/
           description: 零点大佬开发的 JS 混淆加密
+        - title: SpiderDemo Obfuscator
+          logo: spiderdemo.png
+          url: https://www.spiderdemo.cn/tools/obfuscator/
+          description: 基于 AST 的专业级 JavaScript 代码混淆工具
         - title: Safekodo
           logo: safekodo.png
           url: https://www.safekodo.com/
@@ -1208,6 +1212,14 @@
           logo: autojs6.png
           url: https://github.com/SuperMonster003/AutoJs6
           description: Auto.js 是一款 Android 平台支持无障碍服务的 JavaScript 自动化工具软件，现已停止维护，AutoJS6 在 Auto.js 最终项目的基础上进行二次开发
+        - title: Auto.js
+          logo: github.png
+          url: https://github.com/TonyJiangWJ/Auto.js
+          description: 在 Auto.js 最终项目的基础上进行二次开发，修复和增加了一些内容
+        - title: AutoX
+          logo: github.png
+          url: https://github.com/aiselp/AutoX
+          description: 在 Auto.js 4.1 版本基础上进行二次开发的项目，增加了一些内容
 
     - name: 指纹浏览器
       links:
@@ -1583,6 +1595,22 @@
           logo: github.png
           url: https://github.com/ys1231/MoveCertificate
           description: 是一个 Magisk/KernelSU/APatch 模块，用于移动用户证书到系统证书，支持 Android 7-15
+        - title: kpm-backtrace
+          logo: github.png
+          url: https://github.com/lidongyooo/kpm-backtrace
+          description: Apatch 模块，内核堆栈回溯
+        - title: vm-trace-release
+          logo: github.png
+          url: https://github.com/jiqiu2022/vm-trace-release
+          description: vm trace 的发布仓库，相关 so 调用脚本例子都会放在里面
+        - title: vm-trace-release
+          logo: github.png
+          url: https://github.com/jiqiu2022/vm-trace-release
+          description: vm trace 的发布仓库，相关 so 调用脚本例子都会放在里面
+        - title: stalker_trace_so
+          logo: github.png
+          url: https://github.com/oacia/stalker_trace_so
+          description: 一个 IDA 插件，利用 frida-stalker 在加载 so 时打印出所有函数调用，解决 frida-trace 无法在 so 加载时 trace 的问题
 
 - taxonomy: XCX 相关
   icon: fab fa-weixin
@@ -2298,6 +2326,14 @@
           logo: xiaoxiongip.png
           url: https://www.xiaoxiongip.com?from=rYhWq7
           description: 【需实名】小熊 ip 是一家企业级大数据 HTTP 动态 IP 服务提供商，为上百家企业用户提供海量优质高匿 HTTP 代理 IP，产品延迟低,稳定可靠，自建机房海量 IP，是企业级用户的首选
+        - title: IPDEEP 全球代理 IP
+          logo: ipdeep.png
+          url: https://www.ipdeep.cn/?extendid=2a47M2FlYzI0NDY0MDEzODMyMDkzNzY4
+          description: 【需实名】提供静态、移动、动态、数据中心 IP，新用户注册免费赠送 200MB，7*24 小时技术支持
+        - title: SmartProxy
+          logo: smartproxycn.jpg
+          url: https://www.smartproxycn.com/?keyword=lwgs1446
+          description: 【需实名】9000万+纯净住宅IP，全球独享IP资源池，覆盖200+国家，免费测试
         - title: 因体技术
           logo: iinti.jpg
           url: https://iinti.cn/
@@ -2342,6 +2378,10 @@
           logo: decodo.png
           url: https://decodo.com/
           description: Smartproxy is Now Decodo. Get 125M+ global IPs via Decodo (Smartproxy) – 2025 Value Choice award winner for top data collection. Trusted by Proxyway.
+        - title: SmartProxy
+          logo: smartproxycn.jpg
+          url: https://www.smartproxy.org/register/?invitation_code=PMGYZG
+          description: SmartProxy is the Best Global Residential Service Provider. Unleash Limitless Web Data Extraction with SmartProxy's 100M+ Premium Residential Proxies. Experience Blazing-Fast Internet Access and Expand Your Data Collection Projects
 #        - title: Smartproxy
 #          logo: smartproxy.png
 #          url: https://smartproxy.com/
@@ -2370,10 +2410,6 @@
           logo: iproyal.png
           url: https://iproyal.cn/?r=834888
           description: IPRoyal is one of the best and cheapest proxy service providers with 2M+ residential proxies and many other proxy types☑️! Start using it NOW!
-        - title: SmartProxy
-          logo: smartproxycn.jpg
-          url: https://www.smartproxycn.com/?keyword=lwgs1446
-          description: 9000万+纯净住宅IP，全球独享IP资源池，覆盖200+国家，免费测试
 #        - title: Ake
 #          logo: ake.png
 #          url: https://ake.net/
@@ -2530,6 +2566,14 @@
           logo: 1024proxy.png
           url: https://1024proxy.com/?kwd=channel-spiderbox
           description: 支持免费试用，流量套餐只需 $0.49/GB，独立 IP 池，每日更新 10w+ ips，提供低价优质 IP
+        - title: B2Proxy
+          logo: b2proxy.png
+          url: https://www.b2proxy.com/?utm_t=1&utm_i=125
+          description: 独立8000万+IP资源，1GB免费试用，流量无有效期，不限量低至$10/小时，纯净原生静态$2/IP起
+        - title: IPOasis
+          logo: ipoasis.png
+          url: https://www.ipoasis.com/
+          description: A global platform for premium IP resources empowering you to seamlessly connect creative business
 #        - title: WTFproxy
 #          logo: wtfproxy.png
 #          url: https://www.wtfproxy.com/
@@ -3739,6 +3783,10 @@
           logo: github.png
           url: https://juliendoutre.github.io/warec/index.html
           description: WASM 逆向挑战
+        - title: SpiderDemo
+          logo: spiderdemo.png
+          url: https://www.spiderdemo.cn/
+          description: SpiderDemo 是一个专业的反爬虫技术练习平台，提供 JS 逆向、验证码识别、WASM、Protobuf 等多种反爬挑战题目，帮助开发者提升爬虫与反爬技能
 #        - title: Crawler Lab
 #          logo: crawler-lab.png
 #          url: https://www.crawler-lab.com/
