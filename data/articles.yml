@@ -125,6 +125,14 @@
     term: 哔哩哔哩
   - links:
     - author: 我最菜
+      release_time: 2026.02.02 17:49:15
+      title: 降维打击，名为 Frida 的手术刀
+      url: https://mp.weixin.qq.com/s?__biz=MzU5NDc4NDcxNQ==&mid=2247484418&idx=1&sn=48bb51d1c37991a529023df63d960898
+    - author: 我最菜
+      release_time: 2026.02.02 17:17:20
+      title: F12，那是神的领域
+      url: https://mp.weixin.qq.com/s?__biz=MzU5NDc4NDcxNQ==&mid=2247484414&idx=1&sn=cc0d3ffffda83c91561fbc06ecf0cbd6
+    - author: 我最菜
       release_time: 2026.02.02 16:51:04
       title: 这哪里是技术，这是魔法！
       url: https://mp.weixin.qq.com/s?__biz=MzU5NDc4NDcxNQ==&mid=2247484408&idx=1&sn=84525aa04c8b38bd3e2998c79a4d84f2
@@ -236,17 +244,25 @@
       release_time: 2026.01.27 16:25:16
       title: 大成数据保护与反垄断团队实习生招募（有留用机会）
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519863&idx=2&sn=0e6a62d07c480f74600329ca7adc6e59
-    - author: 菜鸟学Python编程
-      release_time: 2026.01.27 11:44:00
-      title: JS逆向实战|使用AI逆向某站cookie参数w_tsfp(jsvmp)纯算
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566301&idx=1&sn=644649e955a9e79a414359a6bd5bde00
-    - author: 哆啦安全
-      release_time: 2026.01.27 07:54:50
-      title: 从危机到机遇：30至45岁技术人的职业转型蓝图
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499573&idx=1&sn=2b91b81547b8c189e9d5cb576e793e0b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: seventeenJoy
+      release_time: 2026.02.01 18:40:00
+      title: 记某小说分析脱壳与去广告
+      url: https://www.52pojie.cn/thread-2089927-1-1.html
+    - author: Bysubai
+      release_time: 2026.02.01 16:13:00
+      title: ShadowSafe加固逆向分析
+      url: https://www.52pojie.cn/thread-2089904-1-1.html
+    - author: Stray3337
+      release_time: 2026.01.31 22:51:00
+      title: 默往聊天app加密协议分析，一个宣称是端到端加密的即时通讯应用
+      url: https://www.52pojie.cn/thread-2089842-1-1.html
+    - author: shawnj
+      release_time: 2026.01.31 17:18:00
+      title: libassist.so 一个NX Lua 自动化脚本注册码分析
+      url: https://www.52pojie.cn/thread-2089798-1-1.html
     - author: epiphanyep
       release_time: 2026.01.29 18:28:00
       title: 【web逆向】小白之路-极验4滑块
@@ -351,22 +367,6 @@
       release_time: 2026.01.07 21:18:00
       title: 某气骑士分析记录
       url: https://www.52pojie.cn/thread-2084995-1-1.html
-    - author: 清新
-      release_time: 2026.01.06 23:12:00
-      title: iOS逆向开发（一） 时隔8年分享些知识
-      url: https://www.52pojie.cn/thread-2084767-1-1.html
-    - author: dddd0526
-      release_time: 2026.01.06 15:45:00
-      title: 某讯jsvmp(一)
-      url: https://www.52pojie.cn/thread-2084662-1-1.html
-    - author: 丁宝振
-      release_time: 2026.01.06 09:53:00
-      title: MT管理器破解某诗词类APP会员保姆级教程，更新7.3.0版本拉
-      url: https://www.52pojie.cn/thread-2084569-1-1.html
-    - author: jet58
-      release_time: 2026.01.04 17:41:00
-      title: 一次完整的 Unity Mono 安卓游戏逆向：Frida Hook 绕过碰撞死亡判定
-      url: https://www.52pojie.cn/thread-2084229-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
@@ -374,6 +374,10 @@
       release_time: 2026.02.02 11:07:06
       title: Browser Cluster 浏览器自动化集群爬虫系统
       url: https://happy-aj.blog.csdn.net/article/details/157646246
+    - author: Bat-Hibara
+      release_time: 2026.01.31 00:38:00
+      title: 免杀—0行为反沙盒，一招鲜吃遍天
+      url: https://xz.aliyun.com/news/91529
     - author: 悦来客栈的老板
       release_time: 2026.01.29 17:30:50
       title: JS逆向实战|使用AI逆向某音乐参数sign(jsvmp)纯算
@@ -476,20 +480,16 @@
       url: https://crawler.blog.csdn.net/article/details/156852947
     - author: 悦来客栈的老板
       release_time: 2026.01.16 17:31:02
+      title: ＜span class=“js_title_inner“＞JS逆向实战|使用Claude Code + MCP逆向某反混淆练习靶场＜/span＞
+      url: https://blog.csdn.net/qq523176585/article/details/157654093
+    - author: 悦来客栈的老板
+      release_time: 2026.01.16 17:31:02
       title: JS逆向实战|使用Claude Code + MCP逆向某反混淆练习靶场
       url: https://blog.csdn.net/qq523176585/article/details/157040512
     - author: mb_xkddanpb
       release_time: 2026.01.16 13:56:24
       title: '[原创]判断号码是否注册Soul的分析'
       url: https://bbs.kanxue.com/thread-289768.htm
-    - author: _0xA1pha
-      release_time: 2026.01.16 13:56:24
-      title: 使用JADX-MCP高效反混淆
-      url: https://bbs.kanxue.com/thread-289776.htm
-    - author: 九月镇灵将
-      release_time: 2026.01.15 17:09:12
-      title: 基于ddddocr+Hu矩计算方法识别某象差异点击验证码
-      url: https://blog.csdn.net/weixin_43845191/article/details/156985506
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
