@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2026.02.02 21:05:28
+      title: 当10万+ AI 开始“加密聊天”：我们在期待怎样的类人化agents？
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991407&idx=1&sn=740b0a8a34d17d025a93088f7e0c45d0
     - author: 我最菜
       release_time: 2026.02.02 17:49:15
       title: 降维打击，名为 Frida 的手术刀
@@ -240,10 +244,6 @@
       release_time: 2026.01.27 16:25:16
       title: 违反《网数条例》，数据受托处理者单位个人均被处罚
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519863&idx=1&sn=89f851ae72ae2bf019df96357725dd88
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.01.27 16:25:16
-      title: 大成数据保护与反垄断团队实习生招募（有留用机会）
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519863&idx=2&sn=0e6a62d07c480f74600329ca7adc6e59
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
