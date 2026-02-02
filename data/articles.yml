@@ -124,6 +124,30 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2026.02.02 09:51:37
+      title: PC逆向 -- 某锁屏预览图片解密（记一次小白使用AI逆向加密算法）
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041314&idx=1&sn=4275fe78deb2d2ea9e2c6f5c53b03e94
+    - author: 小伍哥聊风控
+      release_time: 2026.02.02 08:36:00
+      title: 风控中的图片聚类-基于Sentence-transformers
+      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650197099&idx=1&sn=39c9d069b9d46fc0a011d46b8e2c7b0b
+    - author: 二进制磨剑
+      release_time: 2026.02.02 08:30:00
+      title: 拒绝“裸奔”！带你手搓一个 Android 加壳器（附源码解析）
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485933&idx=1&sn=372d14a1bd8d0022b14b3c0a111822d4
+    - author: Python成长路
+      release_time: 2026.02.02 08:15:00
+      title: 免费的实时监控公众号推文助手(支持微信版本4.1)
+      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247485986&idx=1&sn=f281857cf500e56895a6608122586e36
+    - author: 测试工程师成长之路
+      release_time: 2026.02.02 08:00:00
+      title: 你的 Windows 还在“裸奔”？这款开源效率神器，让我的工作效率提升了 300%！
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578591&idx=1&sn=66cc8dd47844e7a8699092f06e1edda7
+    - author: 极验
+      release_time: 2026.02.02 07:00:00
+      title: 2026，行为验证还防得住AI吗？极验的“第 9 种答案”
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724139&idx=1&sn=d82a24a7c85b86045a954f61b4b75a80
     - author: 零基础爬虫第一天
       release_time: 2026.02.01 11:43:33
       title: 【khbox补环境-5.1】持续踩坑
@@ -216,30 +240,6 @@
       release_time: 2026.01.26 09:00:00
       title: B 站 412 背后藏了什么？一次逆向分析记录
       url: https://mp.weixin.qq.com/s?__biz=Mzg5ODA3OTM1NA==&mid=2247493782&idx=1&sn=06e57ec4fc564af504498711172a696e
-    - author: 测试工程师成长之路
-      release_time: 2026.01.26 08:30:00
-      title: 测试人别熬了！32岁程序员猝死警示：工作有边界，生命无备份
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578589&idx=1&sn=d8c35000504ba1df3aa4631582a49f96
-    - author: Pythonlx
-      release_time: 2026.01.26 08:08:00
-      title: 开源项目推荐-JS补环境框架
-      url: https://mp.weixin.qq.com/s?__biz=MzU4NzkwNTU3Ng==&mid=2247485236&idx=1&sn=0b30ed5f0e306d0291b322c85648b73f
-    - author: 二进制磨剑
-      release_time: 2026.01.26 08:00:00
-      title: 天堂之门：WoW64 下的跨架构魔法
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485927&idx=1&sn=6ae7029727a32e32ea630f8710bbacc1
-    - author: 二进制磨剑
-      release_time: 2026.01.26 08:00:00
-      title: 【课程完结！内容揭秘！】7 天打造 IDA 9.0 大师：从零基础到逆向精英
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485927&idx=2&sn=b54172b4b09d7a5edebcd18e613aa08a
-    - author: Python成长路
-      release_time: 2026.01.25 15:46:00
-      title: 视频号下载更新：极大的优化了内存占用
-      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247485979&idx=1&sn=08aa61ddb24c4ab66a3961b69cadaed4
-    - author: 哆啦安全
-      release_time: 2026.01.25 14:32:14
-      title: 手机"数字员工"大比拼：移动AI智能体框架，谁是你的效率神器？
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499569&idx=1&sn=4b3237e0e436b3402af8b66de4451f9c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -366,6 +366,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 阿J~
+      release_time: 2026.02.02 11:07:06
+      title: Browser Cluster 浏览器自动化集群爬虫系统
+      url: https://happy-aj.blog.csdn.net/article/details/157646246
     - author: 悦来客栈的老板
       release_time: 2026.01.29 17:30:50
       title: JS逆向实战|使用AI逆向某音乐参数sign(jsvmp)纯算
@@ -482,10 +486,6 @@
       release_time: 2026.01.15 17:09:12
       title: 基于ddddocr+Hu矩计算方法识别某象差异点击验证码
       url: https://blog.csdn.net/weixin_43845191/article/details/156985506
-    - author: 带带弟弟学爬虫__
-      release_time: 2026.01.15 15:52:20
-      title: 盒马生鲜-unidbg
-      url: https://blog.csdn.net/A_fanyifan/article/details/156987705
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
