@@ -30,6 +30,10 @@
       logo: mozilla.png
       url: https://developer.mozilla.org/docs/Web/API
       description: Web API 接口参考
+    - title: Can I Use
+      logo: caniuse.png
+      url: https://caniuse.com/
+      description: Can I Use 也就是 Web API 查询网站，提供最新的浏览器支持表，用于统计桌面和移动网络浏览器对前端网络技术的支持情况
     - title: Android API
       logo: android.png
       url: https://developer.android.com/reference
@@ -712,6 +716,10 @@
           logo: obfuscator.png
           url: https://jsvmp.com/
           description: OB 在线混淆
+        - title: UglifyJS 3
+          logo: UglifyJS.png
+          url: https://skalman.github.io/UglifyJS-online/
+          description: UglifyJS 3 是一款优秀的 JavaScript 代码压缩工具！它是一款久经考验的工具，被 jQuery 等库广泛使用
         - title: JS 盾
           logo: jsvmpnet.png
           url: https://jsvmp.net/
@@ -1820,6 +1828,30 @@
           logo: captchasonic.png
           url: https://captchasonic.com/
           description: 支持 TikTok Captcha、reCAPTCHA、Cloudflare、Amazon（AWS）WAF 等
+        - title: solv.now
+          logo: solv.now.png
+          url: https://solv.now/
+          description: 支持 Cloudflare Challenge、Cloudflare Turnstile、DataDome
+        - title: SadCaptcha
+          logo: sadcaptcha.png
+          url: https://www.sadcaptcha.com/
+          description: TikTok、Shopee 图像打码
+        - title: ClearCaptcha
+          logo: clearcaptcha.png
+          url: https://clearcaptcha.com/
+          description: 支持 Akamai、Incapsula（Imperva、reese84）、hCaptcha、reCAPTCHA、Amazon（AWS）WAF、Geetest（极验）、PerimeterX（Human）、Kasada、Shape（F5）、Cloudflare Challenge、Cloudflare Turnstile、NuCaptcha、FunCaptcha 等
+        - title: MeshPrivacy
+          logo: meshprivacy.png
+          url: https://www.meshprivacy.com/
+          description: 支持 Akamai、DataDome、Incapsula（Imperva、reese84）、Amazon（AWS）WAF、hCaptcha、Cloudflare Challenge、Cloudflare Turnstile、Kasada、PerimeterX（Human）、reCAPTCHA、FunCaptcha 等
+        - title: captcha.fun
+          logo: captcha.fun.png
+          url: https://www.captcha.fun/
+          description: 支持 reCAPTCHA v3 等
+        - title: 1captcha
+          logo: 1captcha.png
+          url: https://1captcha.vip/
+          description: 支持 reCAPTCHA v2、reCAPTCHA v3、Cloudflare Challenge、Cloudflare Turnstile、ImageToText
         - title: 知数云
           logo: zhishuyun.jpg
           url: https://data.zhishuyun.com?inviter_id=f4387498-c5b5-4f0d-8765-f44a44f8963b
@@ -2177,6 +2209,10 @@
           logo: vercel.png
           url: https://vercel.com/docs/vercel-firewall/firewall-concepts#challenge
           description: A security challenge verifies that incoming traffic originates from a real web browser with JavaScript capabilities. Only human visitors using a web browser can pass the challenge and access protected resources, while non-browser clients (bots, scripts, etc.) cannot.
+        - title: Humera
+          logo: humera.png
+          url: https://humera.io/
+          description: Human Verification without the Friction. Built for fintechs and high-transactional platforms that need invisible, enterprise-grade bot detection.
 
     - name: 开源防护
       links:
@@ -2244,7 +2280,14 @@
           logo: github.png
           url: https://github.com/imssm99/illusion-captcha
           description: 将视觉错觉应用于验证码，以提高其对人类用户的可用性，视觉错觉源于人脑复杂的运作机制，因此机器很难识别它们
-
+        - title: cap
+          logo: tiagozip.png
+          url: https://github.com/tiagozip/cap
+          description: Cap 是一款轻量级、现代化的开源验证码替代方案，采用 SHA-256 工作量证明机制 。它速度快、私密性强，而且集成起来极其简单
+        - title: AJ-Captcha
+          logo: gitee.png
+          url: https://gitee.com/belief-team/captcha
+          description: AJ-Captcha 行为验证码，包含滑动拼图、文字点选两种方式，UI 支持弹出和嵌入两种方式。后端提供 Java 实现，前端提供了 php、angular、html、vue、uni-app、flutter、android、ios 等代码示例
 
 - taxonomy: 代理数据
   icon: fas fa-map-marker-alt
