@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 狗都不学爬虫_
+      release_time: 2026.02.03 23:35:29
+      title: JS逆向 -最新版 盼之（decode__1174、ssxmod_itna、ssxmod_itna2）纯算
+      url: https://blog.csdn.net/qq_53444631/article/details/157700533
     - author: 红皮西瓜绿了心
       release_time: 2026.02.03 22:22:23
       title: TK X-Gnarly：基于 AI 辅助的 JSVMP 纯算还原方案
@@ -486,10 +490,6 @@
       release_time: 2026.01.18 13:56:24
       title: palera1n越狱 某音、大部分app闪退
       url: https://bbs.kanxue.com/thread-289795.htm
-    - author: wohowo
-      release_time: 2026.01.18 13:56:24
-      title: '[原创]freeRASP签名检测和其他设备环境的绕过方案'
-      url: https://bbs.kanxue.com/thread-289794.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
