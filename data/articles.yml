@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: debugal
+      release_time: 2026.02.02 20:28:00
+      title: 浅修改一下安卓定位
+      url: https://www.52pojie.cn/thread-2090140-1-1.html
     - author: seventeenJoy
       release_time: 2026.02.01 18:40:00
       title: 记某小说分析脱壳与去广告
@@ -363,10 +367,6 @@
       release_time: 2026.01.09 09:24:00
       title: AST从入门到入土：还原简单的动态JS混淆字符串
       url: https://www.52pojie.cn/thread-2085320-1-1.html
-    - author: Rytter
-      release_time: 2026.01.07 21:18:00
-      title: 某气骑士分析记录
-      url: https://www.52pojie.cn/thread-2084995-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
