@@ -124,10 +124,30 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 我最菜
+      release_time: 2026.02.03 10:25:25
+      title: 他心里有我！
+      url: https://mp.weixin.qq.com/s?__biz=MzU5NDc4NDcxNQ==&mid=2247484445&idx=1&sn=f15adc545b7696436d3b664cc0195c00
+    - author: 我最菜
+      release_time: 2026.02.03 09:17:54
+      title: 逆向，男人最好的医美。
+      url: https://mp.weixin.qq.com/s?__biz=MzU5NDc4NDcxNQ==&mid=2247484440&idx=1&sn=f10b5866e9e23e7b70273f1db84857d9
+    - author: 我最菜
+      release_time: 2026.02.03 09:15:16
+      title: 前女友？不过是路边的NPC
+      url: https://mp.weixin.qq.com/s?__biz=MzU5NDc4NDcxNQ==&mid=2247484435&idx=1&sn=9f49f9271dae3ca20bad80f7a5eeccf8
+    - author: 我最菜
+      release_time: 2026.02.03 09:12:33
+      title: 你管这叫“生物体征检测”？
+      url: https://mp.weixin.qq.com/s?__biz=MzU5NDc4NDcxNQ==&mid=2247484431&idx=1&sn=1797d34922b444c6b3db26c4e1df1822
     - author: 未闻Code
       release_time: 2026.02.02 21:05:28
       title: 当10万+ AI 开始“加密聊天”：我们在期待怎样的类人化agents？
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991407&idx=1&sn=740b0a8a34d17d025a93088f7e0c45d0
+    - author: 我最菜
+      release_time: 2026.02.02 18:24:07
+      title: Base64也算加密？校花的沦陷
+      url: https://mp.weixin.qq.com/s?__biz=MzU5NDc4NDcxNQ==&mid=2247484427&idx=1&sn=b9e53ea88480f7a5038d4f75fac4ceb3
     - author: 我最菜
       release_time: 2026.02.02 17:49:15
       title: 降维打击，名为 Frida 的手术刀
@@ -224,26 +244,6 @@
       release_time: 2026.01.29 16:41:48
       title: 通义千问+Moltbot+飞书回复：教你零成本搭建“满血版”私人 AI 助理，秒杀 ChatGPT！
       url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484486&idx=1&sn=ee3689a313102253a899afbf4508f74f
-    - author: 编角料
-      release_time: 2026.01.28 19:02:00
-      title: 移动安全技能树完整版
-      url: https://mp.weixin.qq.com/s?__biz=MzU0MjUwMTA2OQ==&mid=2247486919&idx=1&sn=f24f95deef6f82c62ad71f1e911ed3a8
-    - author: 吾爱破解论坛
-      release_time: 2026.01.28 16:33:27
-      title: 手把手教你给某讯滑块的JSVMP写反编译器 (如宝宝辅食一样易懂)
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143512&idx=1&sn=4438947015b9ae3202953b4a24c6ade9
-    - author: 哆啦安全
-      release_time: 2026.01.28 13:34:22
-      title: 智能分析产品(28款神器)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499581&idx=1&sn=b6bdba593a84dc49e0cbcf3a9a7adb2f
-    - author: 逆向有你
-      release_time: 2026.01.28 10:09:24
-      title: AI视频是2026年普通人低门槛的变现赛道，0基础也能接住这波红利。
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041301&idx=1&sn=57517e5e5e2e70d49390ab0f72f3ca06
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.01.27 16:25:16
-      title: 违反《网数条例》，数据受托处理者单位个人均被处罚
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519863&idx=1&sn=89f851ae72ae2bf019df96357725dd88
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -379,6 +379,10 @@
       title: 免杀—0行为反沙盒，一招鲜吃遍天
       url: https://xz.aliyun.com/news/91529
     - author: 悦来客栈的老板
+      release_time: 2026.01.30 17:31:00
+      title: AST还原实战|猿人学第二届第二题加密参数token纯算分析
+      url: https://blog.csdn.net/qq523176585/article/details/157685121
+    - author: 悦来客栈的老板
       release_time: 2026.01.29 17:30:50
       title: JS逆向实战|使用AI逆向某音乐参数sign(jsvmp)纯算
       url: https://blog.csdn.net/qq523176585/article/details/157533751
@@ -448,6 +452,10 @@
       url: https://blog.csdn.net/weixin_43845191/article/details/157098639
     - author: 悦来客栈的老板
       release_time: 2026.01.19 17:30:22
+      title: ＜span class=“js_title_inner“＞JS逆向实战|使用AI逆向猿人学第三届第二题jsvmp的加密参数＜/span＞
+      url: https://blog.csdn.net/qq523176585/article/details/157682595
+    - author: 悦来客栈的老板
+      release_time: 2026.01.19 17:30:22
       title: JS逆向实战|使用AI逆向猿人学第三届第二题jsvmp的加密参数
       url: https://blog.csdn.net/qq523176585/article/details/157149615
     - author: 温泉划水鱼
@@ -482,14 +490,6 @@
       release_time: 2026.01.16 17:31:02
       title: ＜span class=“js_title_inner“＞JS逆向实战|使用Claude Code + MCP逆向某反混淆练习靶场＜/span＞
       url: https://blog.csdn.net/qq523176585/article/details/157654093
-    - author: 悦来客栈的老板
-      release_time: 2026.01.16 17:31:02
-      title: JS逆向实战|使用Claude Code + MCP逆向某反混淆练习靶场
-      url: https://blog.csdn.net/qq523176585/article/details/157040512
-    - author: mb_xkddanpb
-      release_time: 2026.01.16 13:56:24
-      title: '[原创]判断号码是否注册Soul的分析'
-      url: https://bbs.kanxue.com/thread-289768.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
