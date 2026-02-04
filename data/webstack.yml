@@ -1327,12 +1327,14 @@
 - taxonomy: APP 相关
   icon: fab fa-android
   list:
-    - term: 脱壳工具
+    - term: 脱壳/砸壳
     - term: Hook工具
     - term: APP 反编译
     - term: APP 其他
+    - term: iOS 越狱
+    - term: iOS 其他
   tabs:
-    - name: 脱壳工具
+    - name: 脱壳/砸壳
       links:
         - title: FRIDA-DEXDump
           logo: github.png
@@ -1362,6 +1364,26 @@
           logo: github.png
           url: https://56.al/upload.php
           description: APK 加固安全测试，在线脱壳网站
+        - title: Youpk/unpacker
+          logo: github.png
+          url: https://github.com/youlor/unpacker
+          description: 基于 ART 主动调用的脱壳机
+        - title: MikRom
+          logo: github.png
+          url: https://github.com/dqzg12300/MikRom
+          description: mikrom 是一个基于 rom 定制的逆向工具，请配合 MikManager 来使用
+        - title: frida_dump
+          logo: github.png
+          url: https://github.com/lasting-yang/frida_dump
+          description: frida dump dex, frida dump so
+        - title: frida-ios-dump
+          logo: github.png
+          url: https://github.com/AloneMonkey/frida-ios-dump
+          description: 从越狱设备中提取已解密的 IPA 文件
+        - title: dumpdecrypted
+          logo: github.png
+          url: https://github.com/stefanesser/dumpdecrypted
+          description: ios 脱壳工具
 
     - name: Hook工具
       links:
@@ -1619,6 +1641,56 @@
           logo: github.png
           url: https://github.com/oacia/stalker_trace_so
           description: 一个 IDA 插件，利用 frida-stalker 在加载 so 时打印出所有函数调用，解决 frida-trace 无法在 so 加载时 trace 的问题
+        - title: stackplz
+          logo: github.png
+          url: https://github.com/SeeFlowerX/stackplz
+          description: 基于 eBPF 的堆栈追踪工具
+
+    - name: iOS 越狱
+      links:
+        - title: unc0ver
+          logo: unc0ver.png
+          url: https://unc0ver.dev/
+          description: 最先进的越狱工具
+        - title: RootHide Bootstrap
+          logo: bootstrap.jpg
+          url: https://github.com/roothide/Bootstrap
+          description: RootHide Bootstrap 是一款半越狱工具 ，无需完全越狱即可为 iPhone 和 iPad 带来类似越狱的功能
+        - title: Dopamine
+          logo: dopamine.jpg
+          url: https://github.com/opa334/Dopamine
+          description: Dopamine 是一款适用于 iOS 15 和 16 的半完美越狱工具
+        - title: Palera1n
+          logo: palera1n.jpg
+          url: https://palera.in/
+          description: Dopamine 是一款适用于 iPhone、iPad、MacBook 和 Apple TV 15 及更高版本的越狱工具
+        - title: KernBypass
+          logo: github.png
+          url: https://github.com/akusio/KernBypass-Public
+          description: 基于 chroot 的内核级越狱检测绕过
+        - title: KernBypass Unofficial
+          logo: github.png
+          url: https://github.com/ichitaso/KernBypass-Unofficial
+          description: 基于 chroot 的内核级越狱检测绕过，基于原作者 KernBypass 开发
+        - title: shadow
+          logo: github.png
+          url: https://github.com/jjolano/shadow
+          description: 针对最新 iOS 越狱的越狱检测绕过方案
+        - title: Dopamine2-roothide
+          logo: github.png
+          url: https://github.com/roothide/Dopamine2-roothide
+          description: iOS 越狱隐藏
+
+    - name: iOS 其他
+      links:
+        - title: senumy
+          logo: senumy.png
+          url: https://senumy.com/
+          description: IPA 商店，提供 iOS 越狱工具、插件、修改版游戏和 Double Plus (Mod) 应用等
+        - title: TrollStore 巨魔商店
+          logo: TrollStore.png
+          url: https://github.com/opa334/TrollStore
+          description: TrollStore 巨魔商店，是利用 iOS、iPadOS 的 CoreTrust 漏洞进行永久签名的工具，巨魔不是越狱，他可以让你的设备任意安装软件并且不会掉签，并且突破部分权限
 
 - taxonomy: XCX 相关
   icon: fab fa-weixin
@@ -3779,7 +3851,16 @@
         - title: The Web Scraping Club
           logo: thewebscraping.jpg
           url: https://substack.thewebscraping.club/
-          description: 国外的一个爬虫俱乐部。
+          description: 国外的一个爬虫俱乐部
+        - title: 睿论坛
+          logo: iosre.jpg
+          url: https://iosre.com/
+          description: 睿论坛，ios 技术交流论坛
+        - title: 威锋
+          logo: feng.jpg
+          url: https://www.feng.com/
+          description: 威锋，千万果粉大本营，是中文苹果用户首选的苹果媒体及苹果社区。来威锋，看苹果资讯、讨论当下科技热点、分享玩机心得、优惠购买苹果产品、参与科技酷品试玩活动，获得更多苹果服务。威锋提供 7*24 小时的苹果资讯，科技原创观点、Apple 软硬件、智能硬件评测等，涵盖 Apple 的 iPhone、Mac、iPad、Apple Watch 等全系列产品及周边。威锋社区犹如宝藏，沉淀了几亿个关于苹果系统（macOS、iOS）、插件软件壁纸游戏资源、玩机技巧、开箱晒货、摄影、配件硬件等与苹果科技相关的分享讨论
+
     - name: 练习平台
       links:
         - title: 猿人学第一届 JS 逆向刷题平台
@@ -3864,6 +3945,10 @@
           logo: ikanxue.jpg
           url: https://www.kanxue.com/book-list-1-31.htm
           description: 看雪 Android 逆向课程，IDA 特训营、Unidbg 模拟、LLVM 与代码混淆、eBPF 安全开发、安卓高级月薪两万、三万计划等
+        - title: 非虫课程
+          logo: feicong.jpg
+          url: https://github.com/feicong/ebpf-course
+          description: 非虫大佬的安卓软件安全与逆向分析、eBPF 安全开发、安卓系统与内核定制、Frida 源码分析与对抗、沙箱开发等课程
         - title: 安卓 & WEB 网络协议课
           logo: geekbyte.jpg
           url: https://static.wukongsec.com/spiderbox/images/course/neo&geekbyte.jpg
@@ -3924,6 +4009,10 @@
           logo: cyrus-studio.jpg
           url: https://cyrus-studio.github.io/blog/
           description: 安卓逆向博主，公众号：CYRUS STUDIO，ApkToolPlus 作者
+        - title: SeeFlowerX
+          logo: seeflower.jpg
+          url: https://blog.seeflower.dev/
+          description: 安卓逆向博主，脸哥的博客
 
 - taxonomy: 人工智能
   icon: fas fa-robot fa-lg
