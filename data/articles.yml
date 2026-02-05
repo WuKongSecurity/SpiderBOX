@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2026.02.05 15:17:43
+      title: 新刊赠书！《奇安信攻防社区·2025专刊》，AI安全风向标！
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041339&idx=1&sn=27f03977f8c318a2e1a2670ba56d67ad
+    - author: 吾爱破解论坛
+      release_time: 2026.02.05 14:57:57
+      title: 心流鼠标手势 FlowMouse v1.2强势来袭！
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143524&idx=1&sn=1905d60bc33e23853aceed6b2f7a78ee
     - author: 不落的逆向手札
       release_time: 2026.02.05 12:55:55
       title: 从编译原理开始手搓复杂控制流还原
@@ -236,14 +244,6 @@
       release_time: 2026.02.02 08:15:00
       title: 免费的实时监控公众号推文助手(支持微信版本4.1)
       url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247485986&idx=1&sn=f281857cf500e56895a6608122586e36
-    - author: 测试工程师成长之路
-      release_time: 2026.02.02 08:00:00
-      title: 你的 Windows 还在“裸奔”？这款开源效率神器，让我的工作效率提升了 300%！
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578591&idx=1&sn=66cc8dd47844e7a8699092f06e1edda7
-    - author: 极验
-      release_time: 2026.02.02 07:00:00
-      title: 2026，行为验证还防得住AI吗？极验的“第 9 种答案”
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724139&idx=1&sn=d82a24a7c85b86045a954f61b4b75a80
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
