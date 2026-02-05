@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.02.05 17:31:40
+      title: 工业和信息化部等八部门关于印发《汽车数据出境安全指引（2026版）》的通知
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519876&idx=1&sn=f433d899c1cf941ce2845604c624c93c
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.02.05 17:31:40
+      title: 国家计算机病毒应急处理中心检测发现72款违法违规收集使用个人信息的移动应用
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519876&idx=2&sn=bd0265519de8692243248460a1642e75
+    - author: 無色逆向
+      release_time: 2026.02.05 16:50:54
+      title: FunCaptcha算法逆向分析与音频验证识别
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MjYyNTgxMQ==&mid=2247484616&idx=1&sn=0c42150cb4ab7b1fee01c9646a70e88a
     - author: 逆向有你
       release_time: 2026.02.05 15:17:43
       title: 新刊赠书！《奇安信攻防社区·2025专刊》，AI安全风向标！
@@ -232,18 +244,6 @@
       release_time: 2026.02.02 09:51:37
       title: PC逆向 -- 某锁屏预览图片解密（记一次小白使用AI逆向加密算法）
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041314&idx=1&sn=4275fe78deb2d2ea9e2c6f5c53b03e94
-    - author: 小伍哥聊风控
-      release_time: 2026.02.02 08:36:00
-      title: 风控中的图片聚类-基于Sentence-transformers
-      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650197099&idx=1&sn=39c9d069b9d46fc0a011d46b8e2c7b0b
-    - author: 二进制磨剑
-      release_time: 2026.02.02 08:30:00
-      title: 拒绝“裸奔”！带你手搓一个 Android 加壳器（附源码解析）
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485933&idx=1&sn=372d14a1bd8d0022b14b3c0a111822d4
-    - author: Python成长路
-      release_time: 2026.02.02 08:15:00
-      title: 免费的实时监控公众号推文助手(支持微信版本4.1)
-      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247485986&idx=1&sn=f281857cf500e56895a6608122586e36
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -251,6 +251,10 @@
       release_time: 2026.02.04 22:03:00
       title: 某道乐跑企业壳过检测脱壳分析
       url: https://www.52pojie.cn/thread-2090538-1-1.html
+    - author: seventeenJoy
+      release_time: 2026.02.04 18:23:00
+      title: 浅分析某k小说绑定弹窗和会员
+      url: https://www.52pojie.cn/thread-2090516-1-1.html
     - author: ChiZhu
       release_time: 2026.02.03 18:30:00
       title: Instant临时邮箱 React Native修改
@@ -363,10 +367,6 @@
       release_time: 2026.01.12 00:45:00
       title: 看小白如何一步步逆向acs-token参数
       url: https://www.52pojie.cn/thread-2085866-1-1.html
-    - author: HackXK
-      release_time: 2026.01.11 19:57:00
-      title: 倩女幽魂之-教师招聘考试 一剑碎虚空
-      url: https://www.52pojie.cn/thread-2085830-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
