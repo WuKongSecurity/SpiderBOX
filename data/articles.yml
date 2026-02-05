@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 不落的逆向手札
+      release_time: 2026.02.05 12:55:55
+      title: 从编译原理开始手搓复杂控制流还原
+      url: https://mp.weixin.qq.com/s?__biz=MzYzNTAzOTIxMw==&mid=2247483872&idx=1&sn=b8bb48e879e487ec42e9a1a983329bec
+    - author: 哆啦安全
+      release_time: 2026.02.05 08:00:00
+      title: UnityIl2CPP游戏逆向智能分析工具V3.5
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499617&idx=1&sn=d611f63058cf7240b0abf79933eb7c94
     - author: 逆向狗都不学
       release_time: 2026.02.04 15:51:38
       title: 阿里234反混淆
@@ -236,14 +244,6 @@
       release_time: 2026.02.02 07:00:00
       title: 2026，行为验证还防得住AI吗？极验的“第 9 种答案”
       url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724139&idx=1&sn=d82a24a7c85b86045a954f61b4b75a80
-    - author: 零基础爬虫第一天
-      release_time: 2026.02.01 11:43:33
-      title: 【khbox补环境-5.1】持续踩坑
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484078&idx=1&sn=f8f6f453b3207889fc968be4b04fe2db
-    - author: 哆啦安全
-      release_time: 2026.01.31 10:51:57
-      title: 鸿蒙HarmonyOS应用逆向技能树(2026版)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499591&idx=1&sn=76c943c446196f09afde8ee9c9f34e73
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
