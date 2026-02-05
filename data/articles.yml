@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 冷月不是程序员
+      release_time: 2026.02.05 22:00:18
+      title: 都2026年了火狐浏览器还值得使用吗？
+      url: https://www.bilibili.com/video/BV1bhFezFEjm
     - author: B站用户骚神
       release_time: 2026.02.04 09:54:59
       title: 【DrissionPage高端技巧】跨标签页的数据监听
@@ -117,13 +121,13 @@
       release_time: 2025.12.30 14:51:57
       title: Agent Skills 打造最强DrissionPage专用智能体！！MCP+知识库+工作流，三合一！
       url: https://www.bilibili.com/video/BV1Cev8B5Etp
-    - author: 带带弟弟学爬虫
-      release_time: 2025.12.30 00:35:22
-      title: 某flutter记账软件AES-dump字符串速通
-      url: https://www.bilibili.com/video/BV1T7vxB6EdB
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 零基础爬虫第一天
+      release_time: 2026.02.05 21:08:14
+      title: 【khbox-6】V0.1 功能实现
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484085&idx=1&sn=81b8deefbb05559c7ccb43a4a5778bc4
     - author: 个人信息与数据保护实务评论
       release_time: 2026.02.05 17:31:40
       title: 工业和信息化部等八部门关于印发《汽车数据出境安全指引（2026版）》的通知
@@ -240,10 +244,6 @@
       release_time: 2026.02.02 12:10:48
       title: Fultter逆向分析方法
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499597&idx=1&sn=1f3f117bc74178852ba26a06dbda745a
-    - author: 逆向有你
-      release_time: 2026.02.02 09:51:37
-      title: PC逆向 -- 某锁屏预览图片解密（记一次小白使用AI逆向加密算法）
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041314&idx=1&sn=4275fe78deb2d2ea9e2c6f5c53b03e94
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
