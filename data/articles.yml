@@ -2,6 +2,10 @@
   list:
   - links:
     - author: 冷月不是程序员
+      release_time: 2026.02.06 21:39:28
+      title: 国际版火狐浏览器下载方法
+      url: https://www.bilibili.com/video/BV1xQFkzmEXk
+    - author: 冷月不是程序员
       release_time: 2026.02.05 22:00:18
       title: 都2026年了火狐浏览器还值得使用吗？
       url: https://www.bilibili.com/video/BV1bhFezFEjm
@@ -117,13 +121,17 @@
       release_time: 2026.01.01 19:09:44
       title: eCapture：使用eBPF解锁加密流量
       url: https://www.bilibili.com/video/BV1gcvQB7E8b
-    - author: B站用户骚神
-      release_time: 2025.12.30 14:51:57
-      title: Agent Skills 打造最强DrissionPage专用智能体！！MCP+知识库+工作流，三合一！
-      url: https://www.bilibili.com/video/BV1Cev8B5Etp
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 不落的逆向手札
+      release_time: 2026.02.06 21:26:44
+      title: 某海外电商滑块验证码逆向与风控绕过分析
+      url: https://mp.weixin.qq.com/s?__biz=MzYzNTAzOTIxMw==&mid=2247483888&idx=1&sn=5ea44112df27a0d7d61611e53336ae43
+    - author: 未闻Code
+      release_time: 2026.02.06 21:16:09
+      title: 一人顶一个团队，这款 Claude Code 编程神器爆火！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991412&idx=1&sn=1bcbc43e3dc44fa711e79a62b5d6f2cd
     - author: 哆啦安全
       release_time: 2026.02.06 18:13:25
       title: Android高版本系统Root思路和方法
@@ -236,14 +244,6 @@
       release_time: 2026.02.02 16:51:04
       title: 这哪里是技术，这是魔法！
       url: https://mp.weixin.qq.com/s?__biz=MzU5NDc4NDcxNQ==&mid=2247484408&idx=1&sn=84525aa04c8b38bd3e2998c79a4d84f2
-    - author: 吾爱破解论坛
-      release_time: 2026.02.02 16:50:00
-      title: 【权威发布】吾爱破解论坛2025年原创区、悬赏值TOP榜（下）
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143516&idx=1&sn=f8b2b5eb7ddd35b03c76e81079e12cfd
-    - author: 我最菜
-      release_time: 2026.02.02 16:20:27
-      title: 重生之全世界逆向能力下降100倍！
-      url: https://mp.weixin.qq.com/s?__biz=MzU5NDc4NDcxNQ==&mid=2247484404&idx=1&sn=698f3545e1c6d95600ffbdcd7d352ac4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
