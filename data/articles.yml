@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: Alone逆向安全
+      release_time: 2026.02.07 23:07:19
+      title: 【硬核】C++手撸Unidbg！plt hook与指令trace实现
+      url: https://www.bilibili.com/video/BV1zBFxzpEah
     - author: 冷月不是程序员
       release_time: 2026.02.06 21:39:28
       title: 国际版火狐浏览器下载方法
@@ -117,10 +121,6 @@
       release_time: 2026.01.02 03:03:09
       title: 安卓逆向-某vmp crc32快速定位还原明文(ttd反向污点追踪的威力)
       url: https://www.bilibili.com/video/BV1wCvRBLEeU
-    - author: 那个昵称已经有人用过
-      release_time: 2026.01.01 19:09:44
-      title: eCapture：使用eBPF解锁加密流量
-      url: https://www.bilibili.com/video/BV1gcvQB7E8b
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
