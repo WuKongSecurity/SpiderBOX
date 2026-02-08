@@ -31,7 +31,7 @@
       url: https://developer.mozilla.org/docs/Web/API
       description: Web API 接口参考
     - title: Can I Use
-      logo: caniuse.png
+      logo: caniuse.jpg
       url: https://caniuse.com/
       description: Can I Use 也就是 Web API 查询网站，提供最新的浏览器支持表，用于统计桌面和移动网络浏览器对前端网络技术的支持情况
     - title: Android API
@@ -115,7 +115,7 @@
       url: https://developer.chrome.com/release-notes
       description: Chrome 版本更新日志
     - title: 国家语言代码列表
-      logo: fincher.png
+      logo: fincher.jpg
       url: https://www.fincher.org/Utilities/CountryLanguageList.shtml
       description: 不同国家对应的语言代码列表
 
@@ -232,15 +232,15 @@
           url: https://uutool.cn/img-coord/
           description: 在线图片坐标拾取工具，可以快速拾取图片中指定点的坐标，在验证码逆向中比较有用
         - title: Temp Mail
-          logo: temp-mail.png
+          logo: temp-mail.jpg
           url: https://temp-mail.org/
           description: 在线临时邮箱
         - title: Fake Credit Card Number Generator
-          logo: temp-mail.png
+          logo: creditcardvalidator.png
           url: https://www.creditcardvalidator.org/generator
           description: 虚假信用卡号生成器，含有效的 IIN（发卡机构识别码），且能够通过 Luhn 算法验证。如有需要，还可以生成 CVC（安全码）和有效期。这些卡号可用于测试支付验证系统等
         - title: JSON Diff
-          logo: json-diff.png
+          logo: json-diff.jpg
           url: https://json-diff.com/
           description: 在线 json 数据差异对比工具
 
@@ -307,7 +307,7 @@
           url: https://github.com/r0ysue/r0capture
           description: 安卓应用层抓包通杀脚本
         - title: ProxyDroid
-          logo: proxydroid.png
+          logo: proxydroid.jpg
           url: https://proxydroid.com/
           description: 基于 Android 系统的开源代理工具应用软件，需通过 root 权限实现设备代理配置功能，支持 HTTP、SOCKS4、SOCKS5 等多种代理协议及全局代理模式
 
@@ -591,7 +591,7 @@
           url: https://github.com/acejarvis/large-text-viewer
           description: 一款完全用 Rust 编写的大型文本文件查看器，可处理大于 10GB 的文本文件读取
         - title: Excalidraw Whiteboard
-          logo: excalidraw.png
+          logo: excalidraw.jpg
           url: https://excalidraw.com/
           description: 一款免费开源的手绘风格在线白板工具，支持实时协作和无限画布，无需注册即可直接使用，适合快速绘制草图、思维导图和架构图
 
@@ -717,7 +717,7 @@
           url: https://jsvmp.com/
           description: OB 在线混淆
         - title: UglifyJS 3
-          logo: UglifyJS.png
+          logo: github.png
           url: https://skalman.github.io/UglifyJS-online/
           description: UglifyJS 3 是一款优秀的 JavaScript 代码压缩工具！它是一款久经考验的工具，被 jQuery 等库广泛使用
         - title: JS 盾
@@ -1320,7 +1320,7 @@
           url: https://github.com/selfshore/YSbrowser
           description: 魔改的 chromium，指纹浏览器，过掉 F12 反调试，支持自定义浏览器版本、时区、语言、cpu 核心数、屏幕等指纹
         - title: 指纹浏览器资源导航
-          logo: ebrowser.png
+          logo: ebrowser.jpg
           url: https://www.ebrowser.cn/
           description: 指纹浏览器资源导航
 
@@ -1649,7 +1649,7 @@
     - name: iOS 越狱
       links:
         - title: unc0ver
-          logo: unc0ver.png
+          logo: unc0ver.jpg
           url: https://unc0ver.dev/
           description: 最先进的越狱工具
         - title: RootHide Bootstrap
@@ -1657,11 +1657,11 @@
           url: https://github.com/roothide/Bootstrap
           description: RootHide Bootstrap 是一款半越狱工具 ，无需完全越狱即可为 iPhone 和 iPad 带来类似越狱的功能
         - title: Dopamine
-          logo: dopamine.jpg
+          logo: dopamine.png
           url: https://github.com/opa334/Dopamine
           description: Dopamine 是一款适用于 iOS 15 和 16 的半完美越狱工具
         - title: Palera1n
-          logo: palera1n.jpg
+          logo: palera1n.png
           url: https://palera.in/
           description: Dopamine 是一款适用于 iPhone、iPad、MacBook 和 Apple TV 15 及更高版本的越狱工具
         - title: KernBypass
@@ -1909,7 +1909,7 @@
           url: https://www.sadcaptcha.com/
           description: TikTok、Shopee 图像打码
         - title: ClearCaptcha
-          logo: clearcaptcha.png
+          logo: clearcaptcha.jpg
           url: https://clearcaptcha.com/
           description: 支持 Akamai、Incapsula（Imperva、reese84）、hCaptcha、reCAPTCHA、Amazon（AWS）WAF、Geetest（极验）、PerimeterX（Human）、Kasada、Shape（F5）、Cloudflare Challenge、Cloudflare Turnstile、NuCaptcha、FunCaptcha 等
         - title: MeshPrivacy
@@ -1917,11 +1917,11 @@
           url: https://www.meshprivacy.com/
           description: 支持 Akamai、DataDome、Incapsula（Imperva、reese84）、Amazon（AWS）WAF、hCaptcha、Cloudflare Challenge、Cloudflare Turnstile、Kasada、PerimeterX（Human）、reCAPTCHA、FunCaptcha 等
         - title: captcha.fun
-          logo: captcha.fun.png
+          logo: captcha.fun.jpg
           url: https://www.captcha.fun/
           description: 支持 reCAPTCHA v3 等
         - title: 1captcha
-          logo: 1captcha.png
+          logo: 1captcha.jpg
           url: https://1captcha.vip/
           description: 支持 reCAPTCHA v2、reCAPTCHA v3、Cloudflare Challenge、Cloudflare Turnstile、ImageToText
         - title: 知数云
@@ -2178,7 +2178,7 @@
           url: https://captcha.wangluozhe.com/
           description: 安全、有趣、易集成的 HTML5 验证码解决方案，作者 LeeGene (wangluozhe，tls 开源库 requests 和 requests-go 作者)
         - title: 微步在线
-          logo: threatbook.jpg
+          logo: threatbook.png
           url: https://threatbook.cn/
           description: 微步在线，网络威胁发现和响应专家，开创并引领中国威胁情报行业的发展，提供流量检测、终端安全、云上安全、安全DNS、网关、蜜罐、沙箱、威胁分析和情报共享、安全服务等全方位威胁检测产品及服务
 
@@ -2282,7 +2282,7 @@
           url: https://vercel.com/docs/vercel-firewall/firewall-concepts#challenge
           description: A security challenge verifies that incoming traffic originates from a real web browser with JavaScript capabilities. Only human visitors using a web browser can pass the challenge and access protected resources, while non-browser clients (bots, scripts, etc.) cannot.
         - title: Humera
-          logo: humera.png
+          logo: humera.jpg
           url: https://humera.io/
           description: Human Verification without the Friction. Built for fintechs and high-transactional platforms that need invisible, enterprise-grade bot detection.
 
@@ -2336,10 +2336,6 @@
           logo: github.png
           url: https://github.com/xykt/IPQuality
           description: IP 质量检测脚本
-        - title: cap
-          logo: cap.png
-          url: https://capjs.js.org/
-          description: The modern, open-source CAPTCHA. Lightweight, self-hosted, privacy-friendly, and designed to put you first. Switch from reCAPTCHA in minutes.
         - title: captcha
           logo: github.png
           url: https://github.com/raodv/captcha
@@ -2682,13 +2678,17 @@
           url: https://1024proxy.com/?kwd=channel-spiderbox
           description: 支持免费试用，流量套餐只需 $0.49/GB，独立 IP 池，每日更新 10w+ ips，提供低价优质 IP
         - title: B2Proxy
-          logo: b2proxy.png
+          logo: b2proxy.jpg
           url: https://www.b2proxy.com/?utm_t=1&utm_i=125
           description: 独立8000万+IP资源，1GB免费试用，流量无有效期，不限量低至$10/小时，纯净原生静态$2/IP起
         - title: IPOasis
-          logo: ipoasis.png
+          logo: ipoasis.jpg
           url: https://www.ipoasis.com/
           description: A global platform for premium IP resources empowering you to seamlessly connect creative business
+        - title: KindProxy
+          logo: kindproxy.png
+          url: https://www.kindproxy.com/
+          description: 全球优质住宅IP代理提供商，提供高纯净度动态IP（5GB套餐仅需$0.85/GB），独享原生的静态IP（低至$3.4/IP/30天）
 #        - title: WTFproxy
 #          logo: wtfproxy.png
 #          url: https://www.wtfproxy.com/
@@ -3552,7 +3552,7 @@
           qrcode: images/qrcode/XiaoWuGeRisk.jpg
           description: 公众号：小伍哥聊风控
         - title: oacia
-          logo: m0_46265880.jpg
+          logo: oacia.jpg
           url: https://oacia.dev/
           description: oacia 主页
 
@@ -3853,7 +3853,7 @@
           url: https://substack.thewebscraping.club/
           description: 国外的一个爬虫俱乐部
         - title: 睿论坛
-          logo: iosre.jpg
+          logo: iosre.png
           url: https://iosre.com/
           description: 睿论坛，ios 技术交流论坛
         - title: 威锋
@@ -4002,7 +4002,7 @@
     - name: 自建博客
       links:
         - title: antibot.blog
-          logo: antibot.jpg
+          logo: vercel.png
           url: https://antibot.blog/
           description: 老外的博客，涉及到 PerimeterX、Twitter 等逆向
         - title: CYRUS STUDIO
