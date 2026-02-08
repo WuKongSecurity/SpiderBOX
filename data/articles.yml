@@ -2,6 +2,10 @@
   list:
   - links:
     - author: Alone逆向安全
+      release_time: 2026.02.08 22:05:50
+      title: 【硬核】C++手撸Unidbg so 模拟执行框架！直透JNI补环境的原理
+      url: https://www.bilibili.com/video/BV1DJcwz3Ese
+    - author: Alone逆向安全
       release_time: 2026.02.07 23:07:19
       title: 【硬核】C++手撸Unidbg！plt hook与指令trace实现
       url: https://www.bilibili.com/video/BV1zBFxzpEah
@@ -117,10 +121,6 @@
       release_time: 2026.01.03 12:00:00
       title: 【js逆向练习案例-16】 tiktok web滑块 edata vmp纯算
       url: https://www.bilibili.com/video/BV1H5icBbE9h
-    - author: Alone逆向安全
-      release_time: 2026.01.02 03:03:09
-      title: 安卓逆向-某vmp crc32快速定位还原明文(ttd反向污点追踪的威力)
-      url: https://www.bilibili.com/video/BV1wCvRBLEeU
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
