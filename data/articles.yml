@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 和沐阳学逆向与Ai
+      release_time: 2026.02.09 19:00:00
+      title: 73.一文搞懂 LLM 和 Agent 的区别
+      url: https://www.bilibili.com/video/BV1qVcMzzEQu
     - author: Alone逆向安全
       release_time: 2026.02.08 22:05:50
       title: 【硬核】C++手撸Unidbg so 模拟执行框架！直透JNI补环境的原理
@@ -117,13 +121,13 @@
       release_time: 2026.01.04 14:48:17
       title: 【DrissionRecord】抓取京东数据详情并自动保存成Excel
       url: https://www.bilibili.com/video/BV1q3i7BvENB
-    - author: 凛音姫
-      release_time: 2026.01.03 12:00:00
-      title: 【js逆向练习案例-16】 tiktok web滑块 edata vmp纯算
-      url: https://www.bilibili.com/video/BV1H5icBbE9h
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 沐阳逆向学习
+      release_time: 2026.02.09 19:00:00
+      title: 一：LLM 与 Agent — 从"只会聊天"到"能干活"
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484497&idx=1&sn=ebc6f7a33b4e4668c09802a5869662c5
     - author: 菜鸟学Python编程
       release_time: 2026.02.09 17:44:00
       title: JS反混淆的艺术：在混乱中重构代码之美(一)
@@ -240,10 +244,6 @@
       release_time: 2026.02.03 16:33:36
       title: 国家网信办发布数据出境安全管理政策法规问答（2026年1月）
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519874&idx=2&sn=fc405a99df41f3ff95a9e8bf82f13824
-    - author: 软件安全与逆向分析
-      release_time: 2026.02.03 16:06:19
-      title: 木鱼分析沙箱新版本重磅内测来袭
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485019&idx=1&sn=70c07de1f8d3c5e9caeb468936a8e994
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
