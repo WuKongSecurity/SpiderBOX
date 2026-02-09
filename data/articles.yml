@@ -124,6 +124,30 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.02.09 10:26:02
+      title: KernelSU vs Magisk对比
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499667&idx=1&sn=387c8d247e2a56b2621503f85c9719ff
+    - author: 零基础爬虫第一天
+      release_time: 2026.02.09 07:10:00
+      title: 【khbox-7】v1完善
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484092&idx=1&sn=6fb08bb86e624e3e5813fb98ffaa9676
+    - author: 未闻Code
+      release_time: 2026.02.08 21:00:00
+      title: 一日一技：骚操作，利用 WSLg 实现人机接力，让OpenClaw绕过浏览器检测
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991433&idx=1&sn=17cbf3a12f88836353e284357f9fb9a7
+    - author: 不落的逆向手札
+      release_time: 2026.02.08 13:54:16
+      title: 基础预处理脚本（一）
+      url: https://mp.weixin.qq.com/s?__biz=MzYzNTAzOTIxMw==&mid=2247483912&idx=1&sn=3c3ed50cfc7476bec22f42731e7d292f
+    - author: 哆啦安全
+      release_time: 2026.02.08 11:35:04
+      title: Android安全智能分析工具
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499666&idx=1&sn=66c3048664047b018c63734cc4c64538
+    - author: 哆啦安全
+      release_time: 2026.02.07 13:27:49
+      title: Android设备数据恢复技术方案(2026版)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499649&idx=1&sn=fdf502ffc1dbdf92ce1cfe4a9c693613
     - author: 不落的逆向手札
       release_time: 2026.02.06 21:26:44
       title: 某海外电商滑块验证码逆向与风控绕过分析
@@ -220,30 +244,6 @@
       release_time: 2026.02.03 09:15:16
       title: 前女友？不过是路边的NPC
       url: https://mp.weixin.qq.com/s?__biz=MzU5NDc4NDcxNQ==&mid=2247484435&idx=1&sn=9f49f9271dae3ca20bad80f7a5eeccf8
-    - author: 我最菜
-      release_time: 2026.02.03 09:12:33
-      title: 你管这叫“生物体征检测”？
-      url: https://mp.weixin.qq.com/s?__biz=MzU5NDc4NDcxNQ==&mid=2247484431&idx=1&sn=1797d34922b444c6b3db26c4e1df1822
-    - author: 未闻Code
-      release_time: 2026.02.02 21:05:28
-      title: 当10万+ AI 开始“加密聊天”：我们在期待怎样的类人化agents？
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991407&idx=1&sn=740b0a8a34d17d025a93088f7e0c45d0
-    - author: 我最菜
-      release_time: 2026.02.02 18:24:07
-      title: Base64也算加密？校花的沦陷
-      url: https://mp.weixin.qq.com/s?__biz=MzU5NDc4NDcxNQ==&mid=2247484427&idx=1&sn=b9e53ea88480f7a5038d4f75fac4ceb3
-    - author: 我最菜
-      release_time: 2026.02.02 17:49:15
-      title: 降维打击，名为 Frida 的手术刀
-      url: https://mp.weixin.qq.com/s?__biz=MzU5NDc4NDcxNQ==&mid=2247484418&idx=1&sn=48bb51d1c37991a529023df63d960898
-    - author: 我最菜
-      release_time: 2026.02.02 17:17:20
-      title: F12，那是神的领域
-      url: https://mp.weixin.qq.com/s?__biz=MzU5NDc4NDcxNQ==&mid=2247484414&idx=1&sn=cc0d3ffffda83c91561fbc06ecf0cbd6
-    - author: 我最菜
-      release_time: 2026.02.02 16:51:04
-      title: 这哪里是技术，这是魔法！
-      url: https://mp.weixin.qq.com/s?__biz=MzU5NDc4NDcxNQ==&mid=2247484408&idx=1&sn=84525aa04c8b38bd3e2998c79a4d84f2
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
