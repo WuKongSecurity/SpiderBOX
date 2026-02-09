@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2026.02.09 11:54:49
+      title: PC逆向 -- 某三角X辅助逆向
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041351&idx=1&sn=cc76ea27bede4a151276bb0021125a71
     - author: 哆啦安全
       release_time: 2026.02.09 10:26:02
       title: KernelSU vs Magisk对比
@@ -240,13 +244,17 @@
       release_time: 2026.02.03 09:17:54
       title: 逆向，男人最好的医美。
       url: https://mp.weixin.qq.com/s?__biz=MzU5NDc4NDcxNQ==&mid=2247484440&idx=1&sn=f10b5866e9e23e7b70273f1db84857d9
-    - author: 我最菜
-      release_time: 2026.02.03 09:15:16
-      title: 前女友？不过是路边的NPC
-      url: https://mp.weixin.qq.com/s?__biz=MzU5NDc4NDcxNQ==&mid=2247484435&idx=1&sn=9f49f9271dae3ca20bad80f7a5eeccf8
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: xww2652008969
+      release_time: 2026.02.09 01:11:00
+      title: 某抑云eapi加密分析
+      url: https://www.52pojie.cn/thread-2091183-1-1.html
+    - author: LivedForward
+      release_time: 2026.02.06 21:53:00
+      title: 保卫萝卜3 v5.8.3修改教程
+      url: https://www.52pojie.cn/thread-2090901-1-1.html
     - author: soma20
       release_time: 2026.02.05 17:47:00
       title: GOT表与PLT延迟绑定
@@ -359,14 +367,6 @@
       release_time: 2026.01.17 12:53:00
       title: Solid Explorer_文件管理工具解锁完整版教程
       url: https://www.52pojie.cn/thread-2087056-1-1.html
-    - author: fyr666
-      release_time: 2026.01.12 17:08:00
-      title: '[原创] 从零开始绕过 DexProtector 加固的 Frida 检测（二）-app更新后的检测快速处理'
-      url: https://www.52pojie.cn/thread-2086038-1-1.html
-    - author: dddd0526
-      release_time: 2026.01.12 16:49:00
-      title: 某讯jsvmp(二)
-      url: https://www.52pojie.cn/thread-2086034-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
