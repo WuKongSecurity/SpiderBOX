@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2026.02.09 17:44:00
+      title: JS反混淆的艺术：在混乱中重构代码之美(一)
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566329&idx=1&sn=fdc9485ad037d49d7ee3646a5e1f5fd9
     - author: 将往的爬虫逆向日记
       release_time: 2026.02.09 14:02:17
       title: Python爬虫进阶：spiderdemo第25题的一些检测方法
@@ -240,10 +244,6 @@
       release_time: 2026.02.03 16:06:19
       title: 木鱼分析沙箱新版本重磅内测来袭
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485019&idx=1&sn=70c07de1f8d3c5e9caeb468936a8e994
-    - author: python爬虫和阿J的逆向
-      release_time: 2026.02.03 15:28:47
-      title: Browser Cluster 浏览器自动化爬虫系统-功能说明
-      url: https://mp.weixin.qq.com/s?__biz=MzkxOTIyODcyOA==&mid=2247485733&idx=1&sn=db335474f6bd6e8f5d9c4934720f2627
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
