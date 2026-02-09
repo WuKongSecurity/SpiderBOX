@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 将往的爬虫逆向日记
+      release_time: 2026.02.09 14:02:17
+      title: Python爬虫进阶：spiderdemo第25题的一些检测方法
+      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862199&idx=1&sn=5f8c2f9175cd3535c0459ac177a29105
+    - author: 将往的爬虫逆向日记
+      release_time: 2026.02.09 14:02:17
+      title: 基于电力交易业务定制的 Chromium 浏览器
+      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862199&idx=2&sn=6f0eab440d3bea5a8cef7b000b1446b4
     - author: 逆向有你
       release_time: 2026.02.09 11:54:49
       title: PC逆向 -- 某三角X辅助逆向
@@ -236,14 +244,6 @@
       release_time: 2026.02.03 15:28:47
       title: Browser Cluster 浏览器自动化爬虫系统-功能说明
       url: https://mp.weixin.qq.com/s?__biz=MzkxOTIyODcyOA==&mid=2247485733&idx=1&sn=db335474f6bd6e8f5d9c4934720f2627
-    - author: 我最菜
-      release_time: 2026.02.03 10:25:25
-      title: 他心里有我！
-      url: https://mp.weixin.qq.com/s?__biz=MzU5NDc4NDcxNQ==&mid=2247484445&idx=1&sn=f15adc545b7696436d3b664cc0195c00
-    - author: 我最菜
-      release_time: 2026.02.03 09:17:54
-      title: 逆向，男人最好的医美。
-      url: https://mp.weixin.qq.com/s?__biz=MzU5NDc4NDcxNQ==&mid=2247484440&idx=1&sn=f10b5866e9e23e7b70273f1db84857d9
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
