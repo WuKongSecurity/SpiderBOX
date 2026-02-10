@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 和沐阳学逆向与Ai
+      release_time: 2026.02.10 18:59:47
+      title: 74.MCP — 解决工具接不上的问题
+      url: https://www.bilibili.com/video/BV1NDFQzgE1U
     - author: Alone逆向安全
       release_time: 2026.02.09 23:46:35
       title: frida gum stalker cpp版本  寄存器+内存+JNI syscall 全追踪
@@ -117,13 +121,17 @@
       release_time: 2026.01.06 14:11:59
       title: Arm64用unicorn模拟一个函数的调用
       url: https://www.bilibili.com/video/BV1QCqFBCEKo
-    - author: Alone逆向安全
-      release_time: 2026.01.06 12:00:02
-      title: 安卓逆向-app逆向 vmp的屠龙刀(TTD反向污点分析秒杀SHA256算法)
-      url: https://www.bilibili.com/video/BV1FSqcBbEMv
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 沐阳逆向学习
+      release_time: 2026.02.10 19:08:54
+      title: 二：MCP — 解决"工具接不上"的问题
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484508&idx=1&sn=e1f8c17b2aee8f6ba72d42799bcb4b7b
+    - author: 哆啦安全
+      release_time: 2026.02.10 18:33:47
+      title: Android安全检测分析工具软件V7.6
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499668&idx=1&sn=de97c5dee7d33073f4df44f81aef1c81
     - author: 个人信息与数据保护实务评论
       release_time: 2026.02.10 18:02:12
       title: 北京网信办对快手平台作出行政处罚，罚款1.191亿元
@@ -236,17 +244,13 @@
       release_time: 2026.02.05 12:55:55
       title: 从编译原理开始手搓复杂控制流还原
       url: https://mp.weixin.qq.com/s?__biz=MzYzNTAzOTIxMw==&mid=2247483872&idx=1&sn=b8bb48e879e487ec42e9a1a983329bec
-    - author: 哆啦安全
-      release_time: 2026.02.05 08:00:00
-      title: UnityIl2CPP游戏逆向智能分析工具V3.5
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499617&idx=1&sn=d611f63058cf7240b0abf79933eb7c94
-    - author: 逆向狗都不学
-      release_time: 2026.02.04 15:51:38
-      title: 阿里234反混淆
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247484164&idx=1&sn=111e0e691181ca68d6046f4ae11c561a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: fengmapleye
+      release_time: 2026.02.10 16:24:00
+      title: HybridCLR拆解记录 (Part. I)
+      url: https://www.52pojie.cn/thread-2091447-1-1.html
     - author: xww2652008969
       release_time: 2026.02.09 01:11:00
       title: 某抑云eapi加密分析
@@ -363,10 +367,6 @@
       release_time: 2026.01.17 19:01:00
       title: 解刨“牛皮癣”：深度逆向分析某恶意安卓应用的“赖皮”操作
       url: https://www.52pojie.cn/thread-2087107-1-1.html
-    - author: syx594
-      release_time: 2026.01.17 12:53:00
-      title: Solid Explorer_文件管理工具解锁完整版教程
-      url: https://www.52pojie.cn/thread-2087056-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
