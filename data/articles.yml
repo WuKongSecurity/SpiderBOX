@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: Alone逆向安全
+      release_time: 2026.02.11 02:09:26
+      title: 同样的SO，unidbg写200行Java，我只写80行C++  极致性能模拟框架
+      url: https://www.bilibili.com/video/BV1ncFXzYEDu
     - author: 带带弟弟学爬虫
       release_time: 2026.02.10 23:38:25
       title: 最新新版某梆过frida检测-演示视频
@@ -117,10 +121,6 @@
       release_time: 2026.01.09 16:47:01
       title: 腾讯系验证码纯算秒杀风控
       url: https://www.bilibili.com/video/BV1uSrKBBE2H
-    - author: B站用户骚神
-      release_time: 2026.01.08 10:29:07
-      title: 顶级音乐改编！AI和人类协作，乡村摇滚 Beat It!
-      url: https://www.bilibili.com/video/BV1wniDBBEdX
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
