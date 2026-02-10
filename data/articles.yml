@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 带带弟弟学爬虫
+      release_time: 2026.02.10 23:38:25
+      title: 最新新版某梆过frida检测-演示视频
+      url: https://www.bilibili.com/video/BV1XdFXzREUL
     - author: 和沐阳学逆向与Ai
       release_time: 2026.02.10 18:59:47
       title: 74.MCP — 解决工具接不上的问题
@@ -117,10 +121,6 @@
       release_time: 2026.01.08 10:29:07
       title: 顶级音乐改编！AI和人类协作，乡村摇滚 Beat It!
       url: https://www.bilibili.com/video/BV1wniDBBEdX
-    - author: Alone逆向安全
-      release_time: 2026.01.06 14:11:59
-      title: Arm64用unicorn模拟一个函数的调用
-      url: https://www.bilibili.com/video/BV1QCqFBCEKo
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
