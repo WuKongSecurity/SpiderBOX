@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 和沐阳学逆向与Ai
+      release_time: 2026.02.11 19:00:00
+      title: 75.Skill — AI的技能包机制
+      url: https://www.bilibili.com/video/BV1sVF9zVEfA
     - author: B站用户骚神
       release_time: 2026.02.11 12:18:06
       title: DrissionPage多线程爬取网络小说
@@ -117,10 +121,6 @@
       release_time: 2026.01.11 19:57:15
       title: frida dump 秒杀chuanxiao + 新课推广
       url: https://www.bilibili.com/video/BV1A26ZBBEH2
-    - author: 和沐阳学逆向
-      release_time: 2026.01.09 19:30:00
-      title: 67.iOS 18 越狱教程：palera1n + 巨魔安装全流程
-      url: https://www.bilibili.com/video/BV1JWrPBmEpr
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
