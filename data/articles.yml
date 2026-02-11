@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: Alone逆向安全
+      release_time: 2026.02.12 00:02:16
+      title: 安卓逆向 某黑盒最新ollvm混淆 8位heky hmacsha512+crc32 算法分析
+      url: https://www.bilibili.com/video/BV1gUctz7E4x
     - author: 和沐阳学逆向与Ai
       release_time: 2026.02.11 19:00:00
       title: 75.Skill — AI的技能包机制
@@ -117,10 +121,6 @@
       release_time: 2026.01.12 17:53:35
       title: 骚神VIP插件大更新 v9.7.8，为【网页自动化】和【JS逆向】设计的专业谷歌浏览器插件
       url: https://www.bilibili.com/video/BV1twreB5Ehc
-    - author: 带带弟弟学爬虫
-      release_time: 2026.01.11 19:57:15
-      title: frida dump 秒杀chuanxiao + 新课推广
-      url: https://www.bilibili.com/video/BV1A26ZBBEH2
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 狗都不学爬虫_
+      release_time: 2026.02.11 23:31:48
+      title: JS逆向 - 某住会同盾blackbox纯算分析
+      url: https://blog.csdn.net/qq_53444631/article/details/157980479
     - author: 爱喝水的木子
       release_time: 2026.02.11 16:43:15
       title: windows超级好用的神仙软件
@@ -486,10 +490,6 @@
       release_time: 2026.01.20 13:56:24
       title: '[原创]联通营业厅App登录分析'
       url: https://bbs.kanxue.com/thread-289805.htm
-    - author: 狗都不学爬虫_
-      release_time: 2026.01.19 18:31:51
-      title: JS逆向 - 最新版某某安全中心滑块验证(wasm设备指纹)
-      url: https://blog.csdn.net/qq_53444631/article/details/157139576
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
