@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2026.02.11 12:18:06
+      title: DrissionPage多线程爬取网络小说
+      url: https://www.bilibili.com/video/BV1LbcxzpE1m
     - author: Alone逆向安全
       release_time: 2026.02.11 02:09:26
       title: 同样的SO，unidbg写200行Java，我只写80行C++  极致性能模拟框架
@@ -117,10 +121,6 @@
       release_time: 2026.01.09 19:30:00
       title: 67.iOS 18 越狱教程：palera1n + 巨魔安装全流程
       url: https://www.bilibili.com/video/BV1JWrPBmEpr
-    - author: ikun的嘴
-      release_time: 2026.01.09 16:47:01
-      title: 腾讯系验证码纯算秒杀风控
-      url: https://www.bilibili.com/video/BV1uSrKBBE2H
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 吴秋霖
+      release_time: 2026.02.11 12:48:22
+      title: md5_1038参数逆向分析（含Py纯算）
+      url: https://crawler.blog.csdn.net/article/details/157648940
     - author: 悦来客栈的老板
       release_time: 2026.02.09 17:44:34
       title: JS反混淆的艺术：在混乱中重构代码之美(一)
@@ -486,10 +490,6 @@
       release_time: 2026.01.19 17:44:52
       title: 基于YOLO姿态检测实现vaptcha手势验证码训练识别全过程
       url: https://blog.csdn.net/weixin_43845191/article/details/156802480
-    - author: 九月镇灵将
-      release_time: 2026.01.19 17:40:32
-      title: 基于ddddocr+ResNet50余弦识别某象差异点击验证码
-      url: https://blog.csdn.net/weixin_43845191/article/details/157098639
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
