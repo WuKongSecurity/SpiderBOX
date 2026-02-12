@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: soma20
+      release_time: 2026.02.12 09:30:00
+      title: 从 App 启动流程看 Android 整体加固
+      url: https://www.52pojie.cn/thread-2091717-1-1.html
     - author: fengmapleye
       release_time: 2026.02.10 16:24:00
       title: HybridCLR拆解记录 (Part. I)
@@ -363,10 +367,6 @@
       release_time: 2026.01.18 08:23:00
       title: Lsposed编译过程
       url: https://www.52pojie.cn/thread-2087170-1-1.html
-    - author: W4nk3r
-      release_time: 2026.01.17 19:01:00
-      title: 解刨“牛皮癣”：深度逆向分析某恶意安卓应用的“赖皮”操作
-      url: https://www.52pojie.cn/thread-2087107-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
