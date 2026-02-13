@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: flt
+      release_time: 2026.02.13 12:06:00
+      title: 某两个Zotero插件激活的分析
+      url: https://www.52pojie.cn/thread-2091907-1-1.html
     - author: soma20
       release_time: 2026.02.12 09:30:00
       title: 从 App 启动流程看 Android 整体加固
@@ -363,10 +367,6 @@
       release_time: 2026.01.20 14:56:00
       title: 神庙逃亡（Temple Run）IL2CPP 逆向实战：从 APK 到 Frida 实现角色无敌
       url: https://www.52pojie.cn/thread-2087643-1-1.html
-    - author: KillLog
-      release_time: 2026.01.18 08:23:00
-      title: Lsposed编译过程
-      url: https://www.52pojie.cn/thread-2087170-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
