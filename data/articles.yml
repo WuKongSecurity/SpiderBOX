@@ -251,6 +251,10 @@
       release_time: 2026.02.13 12:06:00
       title: 某两个Zotero插件激活的分析
       url: https://www.52pojie.cn/thread-2091907-1-1.html
+    - author: Adong1996
+      release_time: 2026.02.13 10:45:00
+      title: 某大行app脱壳全流程分析
+      url: https://www.52pojie.cn/thread-2091895-1-1.html
     - author: soma20
       release_time: 2026.02.12 09:30:00
       title: 从 App 启动流程看 Android 整体加固
@@ -363,10 +367,6 @@
       release_time: 2026.01.20 15:12:00
       title: H5GG 类型插件中被添加的验证系统
       url: https://www.52pojie.cn/thread-2087647-1-1.html
-    - author: jet58
-      release_time: 2026.01.20 14:56:00
-      title: 神庙逃亡（Temple Run）IL2CPP 逆向实战：从 APK 到 Frida 实现角色无敌
-      url: https://www.52pojie.cn/thread-2087643-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
