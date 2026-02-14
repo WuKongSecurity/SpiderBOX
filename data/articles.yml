@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: buluo533
+      release_time: 2026.02.14 12:50:00
+      title: funcaptcha类ob逆向解混淆处理
+      url: https://www.52pojie.cn/thread-2092043-1-1.html
     - author: flt
       release_time: 2026.02.13 12:06:00
       title: 某两个Zotero插件激活的分析
@@ -363,10 +367,6 @@
       release_time: 2026.01.20 22:03:00
       title: 小米平板1刷成林萧战RR系统后当作时钟
       url: https://www.52pojie.cn/thread-2087734-1-1.html
-    - author: HackXK
-      release_time: 2026.01.20 15:12:00
-      title: H5GG 类型插件中被添加的验证系统
-      url: https://www.52pojie.cn/thread-2087647-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
