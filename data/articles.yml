@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2026.02.15 20:43:40
+      title: '[链接]心流鼠标手势 - FlowMouse v1.2 Chro'
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143645&idx=1&sn=0e8e895546419bca2b5b7f29f60922ca
     - author: 沐阳逆向学习
       release_time: 2026.02.10 19:08:54
       title: 二：MCP — 解决"工具接不上"的问题
@@ -240,10 +244,6 @@
       release_time: 2026.02.05 14:57:57
       title: 心流鼠标手势 FlowMouse v1.2强势来袭！
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143524&idx=1&sn=1905d60bc33e23853aceed6b2f7a78ee
-    - author: 不落的逆向手札
-      release_time: 2026.02.05 12:55:55
-      title: 从编译原理开始手搓复杂控制流还原
-      url: https://mp.weixin.qq.com/s?__biz=MzYzNTAzOTIxMw==&mid=2247483872&idx=1&sn=b8bb48e879e487ec42e9a1a983329bec
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
