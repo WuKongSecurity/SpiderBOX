@@ -124,10 +124,30 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.02.16 00:00:00
+      title: 爬虫黑产能力测验-来自DataDome和BotD两大反爬服务的检测报告
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484040&idx=1&sn=8f375a1801fee86c00301c4c47322d5c
+    - author: 哆啦安全
+      release_time: 2026.02.15 23:57:26
+      title: Android和iOS安全技能树(2026版)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499680&idx=1&sn=408eac575efdf57df28d072130231c62
+    - author: 哆啦安全
+      release_time: 2026.02.15 23:57:26
+      title: Claude AI编程(Claude Code + Projects)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499680&idx=2&sn=a1f6367be19926414f34b1017f85661b
+    - author: 如意私塾
+      release_time: 2026.02.15 23:56:20
+      title: 浏览器指纹/风控国外论文研读 | 你的爬虫为什么被封禁-Datadome反爬虫公司的研究
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484030&idx=1&sn=89601eabbe2bc9c8ed0f6f659032d4bb
     - author: 吾爱破解论坛
       release_time: 2026.02.15 20:43:40
       title: '[链接]心流鼠标手势 - FlowMouse v1.2 Chro'
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143645&idx=1&sn=0e8e895546419bca2b5b7f29f60922ca
+    - author: 哆啦安全
+      release_time: 2026.02.13 23:43:22
+      title: AI手机核心技术深度解析与定制开发实战
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499673&idx=1&sn=05a2299462506cc6f55e2cbc6e9cf00e
     - author: 沐阳逆向学习
       release_time: 2026.02.10 19:08:54
       title: 二：MCP — 解决"工具接不上"的问题
@@ -224,26 +244,6 @@
       release_time: 2026.02.05 21:08:14
       title: 【khbox-6】V0.1 功能实现
       url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484085&idx=1&sn=81b8deefbb05559c7ccb43a4a5778bc4
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.02.05 17:31:40
-      title: 工业和信息化部等八部门关于印发《汽车数据出境安全指引（2026版）》的通知
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519876&idx=1&sn=f433d899c1cf941ce2845604c624c93c
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.02.05 17:31:40
-      title: 国家计算机病毒应急处理中心检测发现72款违法违规收集使用个人信息的移动应用
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519876&idx=2&sn=bd0265519de8692243248460a1642e75
-    - author: 無色逆向
-      release_time: 2026.02.05 16:50:54
-      title: FunCaptcha算法逆向分析与音频验证识别
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MjYyNTgxMQ==&mid=2247484616&idx=1&sn=0c42150cb4ab7b1fee01c9646a70e88a
-    - author: 逆向有你
-      release_time: 2026.02.05 15:17:43
-      title: 新刊赠书！《奇安信攻防社区·2025专刊》，AI安全风向标！
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041339&idx=1&sn=27f03977f8c318a2e1a2670ba56d67ad
-    - author: 吾爱破解论坛
-      release_time: 2026.02.05 14:57:57
-      title: 心流鼠标手势 FlowMouse v1.2强势来袭！
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143524&idx=1&sn=1905d60bc33e23853aceed6b2f7a78ee
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
