@@ -251,6 +251,10 @@
       release_time: 2026.02.15 08:52:00
       title: 整体加固Demo及加壳工具的编写
       url: https://www.52pojie.cn/thread-2092131-1-1.html
+    - author: TKStudio
+      release_time: 2026.02.14 13:45:00
+      title: 某学网逆向之单词PK分数篡改
+      url: https://www.52pojie.cn/thread-2092050-1-1.html
     - author: buluo533
       release_time: 2026.02.14 12:50:00
       title: funcaptcha类ob逆向解混淆处理
@@ -363,10 +367,6 @@
       release_time: 2026.01.22 16:59:00
       title: Dex结构(下)
       url: https://www.52pojie.cn/thread-2088132-1-1.html
-    - author: soma20
-      release_time: 2026.01.21 19:58:00
-      title: DEX结构解析(上)
-      url: https://www.52pojie.cn/thread-2087942-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
