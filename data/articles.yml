@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 冷月不是程序员
+      release_time: 2026.02.24 23:28:56
+      title: 火狐简史：开源浏览器如何改变世界
+      url: https://www.bilibili.com/video/BV14GfSBeErY
     - author: r0ysue
       release_time: 2026.02.20 11:01:46
       title: 豆包手机真是太聪明辣！
@@ -117,10 +121,6 @@
       release_time: 2026.01.19 19:30:00
       title: 69.安卓逆向——eBPF入门与Linux环境搭建
       url: https://www.bilibili.com/video/BV15fkeBFEaf
-    - author: 和沐阳学逆向
-      release_time: 2026.01.19 10:18:43
-      title: 68.安卓逆向实战——【全流程】APP 逆向抓包与协议分析：从 Frida Hook 到 Python 实现带 Sign 请求（熊猫外卖实战）
-      url: https://www.bilibili.com/video/BV1f1kaBFEmR
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
