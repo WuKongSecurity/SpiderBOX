@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.02.25 00:02:16
+      title: 浏览器指纹/风控爬虫论文-服务端商业指纹检测模式-2026最新论文
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484098&idx=1&sn=7ded29fdfe4084a1e7aa0d5e4d9bc8f8
     - author: 个人信息与数据保护实务评论
       release_time: 2026.02.24 18:46:54
       title: 中国数据违规出境执法典型案例梳理与要点评析
@@ -240,10 +244,6 @@
       release_time: 2026.02.16 20:00:00
       title: 【2026 新春快乐】小 Q 祝各位大佬们春节快乐
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493813&idx=1&sn=a0d658910849f38a22ffff470167a784
-    - author: 吾爱破解论坛
-      release_time: 2026.02.16 08:13:00
-      title: （图作者 | @Aoemax）
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143634&idx=1&sn=e19b5ebbee5cfdfe7e8c1bcf0bb8ae6d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
