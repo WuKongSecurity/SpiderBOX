@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2026.02.24 15:42:52
+      title: 为什么 AI 永远无法对结果负责？一个关于“硅基恐惧”的绝望推演
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991487&idx=1&sn=c7eeaea72872f019a5ec3ffcf5af86c5
     - author: 二进制磨剑
       release_time: 2026.02.24 13:21:27
       title: 【早鸟】第七期：iOS 逆向工程 — 从零基础到实战对抗
@@ -240,10 +244,6 @@
       release_time: 2026.02.15 23:57:26
       title: Android和iOS安全技能树(2026版)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499680&idx=1&sn=408eac575efdf57df28d072130231c62
-    - author: 哆啦安全
-      release_time: 2026.02.15 23:57:26
-      title: Claude AI编程(Claude Code + Projects)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499680&idx=2&sn=a1f6367be19926414f34b1017f85661b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
