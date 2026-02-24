@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.02.24 13:00:50
+      title: 如意制作 | 纯国产AIBote Agent自动化接管控制web/win/android
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484092&idx=1&sn=f1bdba8528acb76cf655cfb269202bd6
     - author: LK安全
       release_time: 2026.02.24 10:05:00
       title: app攻防系列4-记一次绕过证书检验的抓包
@@ -240,10 +244,6 @@
       release_time: 2026.02.15 20:43:40
       title: '[链接]心流鼠标手势 - FlowMouse v1.2 Chro'
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143645&idx=1&sn=0e8e895546419bca2b5b7f29f60922ca
-    - author: 不落的逆向手札
-      release_time: 2026.02.14 11:46:52
-      title: funcaptcha类ob解混淆
-      url: https://mp.weixin.qq.com/s?__biz=MzYzNTAzOTIxMw==&mid=2247483935&idx=1&sn=e345e29d8693d1a1a562630f798ab4d1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
