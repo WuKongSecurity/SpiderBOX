@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 逆向狗都不学
+      release_time: 2026.02.25 13:47:56
+      title: AST反混淆实战之某里234-9
+      url: https://www.bilibili.com/video/BV1CcftBaEUc
     - author: 冷月不是程序员
       release_time: 2026.02.24 23:28:56
       title: 火狐简史：开源浏览器如何改变世界
@@ -117,10 +121,6 @@
       release_time: 2026.01.20 19:40:45
       title: 70.Android eBPF环境搭建与eCapture抓包
       url: https://www.bilibili.com/video/BV1h9kjBzEKv
-    - author: 和沐阳学逆向
-      release_time: 2026.01.19 19:30:00
-      title: 69.安卓逆向——eBPF入门与Linux环境搭建
-      url: https://www.bilibili.com/video/BV15fkeBFEaf
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: xiaowaaa
+      release_time: 2026.02.25 11:29:00
+      title: 某密企业版加固思路分析
+      url: https://www.52pojie.cn/thread-2093062-1-1.html
     - author: LiXieZengHui
       release_time: 2026.02.23 20:20:00
       title: 某音a_bogus详细分析-含50位数组生成过程
@@ -363,10 +367,6 @@
       release_time: 2026.01.27 17:49:00
       title: 手把手教你给某讯滑块的JSVMP写反编译器 (如宝宝辅食一样易懂)
       url: https://www.52pojie.cn/thread-2089027-1-1.html
-    - author: HackXK
-      release_time: 2026.01.25 21:59:00
-      title: 酷我音乐纯净版VIP教程
-      url: https://www.52pojie.cn/thread-2088657-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
