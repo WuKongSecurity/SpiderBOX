@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.02.25 11:08:01
+      title: Ubuntu虚拟机上部署OpenClaw
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499708&idx=1&sn=42297f94642c6462967b23ac4c4395ff
     - author: 如意私塾
       release_time: 2026.02.25 00:02:16
       title: 浏览器指纹/风控爬虫论文-服务端商业指纹检测模式-2026最新论文
@@ -240,10 +244,6 @@
       release_time: 2026.02.17 00:00:00
       title: 新春第一声问候：新年快乐，马到成功！
       url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724278&idx=1&sn=bca180dabfae27c2f4745c2c1fd6c18a
-    - author: Coder小Q
-      release_time: 2026.02.16 20:00:00
-      title: 【2026 新春快乐】小 Q 祝各位大佬们春节快乐
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493813&idx=1&sn=a0d658910849f38a22ffff470167a784
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
