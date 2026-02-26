@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 爱喝水的木子
+      release_time: 2026.02.26 16:43:44
+      title: Openclaw安装与配置_精简
+      url: https://blog.csdn.net/Linux_rm_rf_/article/details/158427443
     - author: w2sfot
       release_time: 2026.02.25 14:21:37
       title: 加密html网页中的JS代码
@@ -486,10 +490,6 @@
       release_time: 2026.01.21 13:56:24
       title: '[原创]侧信道检测APatch Root'
       url: https://bbs.kanxue.com/thread-289811.htm
-    - author: 吴秋霖
-      release_time: 2026.01.20 18:25:01
-      title: 某网站x-s补环境（Cursor版）
-      url: https://crawler.blog.csdn.net/article/details/157133794
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
