@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 带带弟弟学爬虫
+      release_time: 2026.02.26 12:23:36
+      title: 12.增强IDA对Fluuter的反编译能力(2026课程)
+      url: https://www.bilibili.com/video/BV1rnfiBDEvL
     - author: 逆向狗都不学
       release_time: 2026.02.25 13:47:56
       title: AST反混淆实战之某里234-9
@@ -117,10 +121,6 @@
       release_time: 2026.01.21 15:03:40
       title: DrissionPage 实时监控web3社交信息并自动保存到数据库
       url: https://www.bilibili.com/video/BV1d9zVBcE8Y
-    - author: 和沐阳学逆向
-      release_time: 2026.01.20 19:40:45
-      title: 70.Android eBPF环境搭建与eCapture抓包
-      url: https://www.bilibili.com/video/BV1h9kjBzEKv
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
