@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: PokerS429
+      release_time: 2026.02.26 16:50:00
+      title: 爱某网参数逆向分析全流程
+      url: https://www.52pojie.cn/thread-2093320-1-1.html
     - author: xiaowaaa
       release_time: 2026.02.25 11:29:00
       title: 某密企业版加固思路分析
@@ -363,10 +367,6 @@
       release_time: 2026.01.27 21:53:00
       title: 夸克网盘VIP画质教程
       url: https://www.52pojie.cn/thread-2089079-1-1.html
-    - author: Command
-      release_time: 2026.01.27 17:49:00
-      title: 手把手教你给某讯滑块的JSVMP写反编译器 (如宝宝辅食一样易懂)
-      url: https://www.52pojie.cn/thread-2089027-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
