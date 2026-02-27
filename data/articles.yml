@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.02.28 00:00:00
+      title: 浏览器指纹/风控爬虫论文-解决浏览器指纹不稳定问题-用一个阈值容差算法把指纹浏览器追踪时间拉到55天
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484150&idx=1&sn=caf28f6af26fd8a33676edd99565abb1
     - author: 未闻Code
       release_time: 2026.02.27 21:09:23
       title: 一日一技：使用 Git Worktree 实现代码的“影分身术”
@@ -240,10 +244,6 @@
       release_time: 2026.02.23 09:53:28
       title: AI大模型的“巨人肩膀”：从选架构到因材施教，一场关于算力与数据的降维打击(理解整个AI时代)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499701&idx=1&sn=c1f53d4280ca79659fb79932b2468ede
-    - author: 测试工程师成长之路
-      release_time: 2026.02.23 08:30:00
-      title: 测试效率封神｜Python自研一站式工具箱，内网团队直接用
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578782&idx=1&sn=250983fdc062998e9d417f64bbe77c55
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
