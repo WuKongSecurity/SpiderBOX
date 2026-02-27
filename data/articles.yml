@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.02.27 16:55:35
+      title: 浏览器指纹/风控爬虫论文-2026年的TLS指纹风控检测
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484143&idx=1&sn=a90fa7492fa9372f737f30263a6ca995
     - author: 逆向有你
       release_time: 2026.02.27 09:10:36
       title: 安卓逆向 -- 某对app算法分析
@@ -240,10 +244,6 @@
       release_time: 2026.02.22 21:00:00
       title: 超 3 万人收藏的零成本、省 Token 的 Claude Code 持久化记忆插件！
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991481&idx=1&sn=1e97ffa2b0e345e65583b3c33bd456e2
-    - author: 吾爱破解论坛
-      release_time: 2026.02.22 11:08:19
-      title: '[链接]【2026春节】解题领红包活动开始喽，'
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143664&idx=1&sn=5e142ed20bace450208ece886d30f4b1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
