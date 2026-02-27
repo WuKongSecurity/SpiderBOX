@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2026.02.27 21:54:30
+      title: 豆包你轻点，别滑过了
+      url: https://www.bilibili.com/video/BV1ejADzsEnH
     - author: 带带弟弟学爬虫
       release_time: 2026.02.26 12:23:36
       title: 12.增强IDA对Fluuter的反编译能力(2026课程)
@@ -117,13 +121,13 @@
       release_time: 2026.01.21 21:36:12
       title: 某黑盒八位hkey分析
       url: https://www.bilibili.com/video/BV1K6z7B4EHn
-    - author: B站用户骚神
-      release_time: 2026.01.21 15:03:40
-      title: DrissionPage 实时监控web3社交信息并自动保存到数据库
-      url: https://www.bilibili.com/video/BV1d9zVBcE8Y
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2026.02.27 21:09:23
+      title: 一日一技：使用 Git Worktree 实现代码的“影分身术”
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991497&idx=1&sn=f341ac823dec1d1687b3fd0a3009c2b1
     - author: 软件安全与逆向分析
       release_time: 2026.02.27 20:25:08
       title: iOS虚拟手机实现原理解析
@@ -240,10 +244,6 @@
       release_time: 2026.02.23 08:30:00
       title: 测试效率封神｜Python自研一站式工具箱，内网团队直接用
       url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578782&idx=1&sn=250983fdc062998e9d417f64bbe77c55
-    - author: 不落的逆向手札
-      release_time: 2026.02.22 22:08:05
-      title: 基础预处理脚本（二）
-      url: https://mp.weixin.qq.com/s?__biz=MzYzNTAzOTIxMw==&mid=2247483954&idx=1&sn=936f9af05a7bd9706f05a38e536321fb
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
