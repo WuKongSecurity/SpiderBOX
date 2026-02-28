@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 挖个洞先
+      release_time: 2026.02.28 22:34:39
+      title: 【AI安全】提示词绕过+远程未授权创建定时任务RCE
+      url: https://mp.weixin.qq.com/s?__biz=MzkyNjY3OTI4Ng==&mid=2247485947&idx=1&sn=88f7c6b5971f99e0408a300c8ab09278
     - author: 吾爱破解论坛
       release_time: 2026.02.28 17:18:29
       title: '[链接]【春节】解题领红包 之十一 {MCP 中'
@@ -240,10 +244,6 @@
       release_time: 2026.02.24 08:30:00
       title: 【密码学】CTRU-Light 算法解析
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247494006&idx=1&sn=f9f8447e246d75e584efe4a4533be14a
-    - author: 极验
-      release_time: 2026.02.24 08:20:59
-      title: 开工大吉！新的一年，我们并肩同行
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724280&idx=1&sn=9ba533fbc522fe52a2cb103e76f6555f
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
