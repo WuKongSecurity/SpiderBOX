@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2026.02.28 17:18:29
+      title: '[链接]【春节】解题领红包 之十一 {MCP 中'
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143682&idx=1&sn=2a5e9a789d1c1d40e5d64184920a3533
     - author: 哆啦安全
       release_time: 2026.02.28 13:14:31
       title: 深度解剖Android风控检测的内核层对抗与防御思路
@@ -240,10 +244,6 @@
       release_time: 2026.02.24 08:20:59
       title: 开工大吉！新的一年，我们并肩同行
       url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724280&idx=1&sn=9ba533fbc522fe52a2cb103e76f6555f
-    - author: 如意私塾
-      release_time: 2026.02.23 19:02:28
-      title: 浏览器指纹/风控爬虫论文-爬虫风控端自动检测最新浏览器指纹并应用：无止境的浏览器指纹监测点
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484069&idx=1&sn=c1632ffabffc70dd0bf0a2461943af06
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
