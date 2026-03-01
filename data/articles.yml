@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.03.01 14:50:09
+      title: 浏览器指纹/风控爬虫论文-反过来追踪检测canvas指纹的服务商
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484155&idx=1&sn=b55e9f9062458f7ce594561a9d8ccd18
+    - author: 哆啦安全
+      release_time: 2026.03.01 14:48:06
+      title: Wi-Fi信号和深度学习技术(穿透墙壁等障碍物-感知和估计人体的三维姿态)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499746&idx=1&sn=8b46c924e042b3253d86017773f1c2f0
+    - author: 零基础爬虫第一天
+      release_time: 2026.03.01 08:04:08
+      title: 【khbox-10】KhBox Template Factory V2重构详解
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484152&idx=1&sn=100bd87683e6238a6f294ea0789c349a
     - author: 挖个洞先
       release_time: 2026.02.28 22:34:39
       title: 【AI安全】提示词绕过+远程未授权创建定时任务RCE
@@ -232,18 +244,6 @@
       release_time: 2026.02.24 10:00:00
       title: 浏览器指纹/风控爬虫论文-有效检测爬虫是否用住宅代理-美国能源部下属Sandia国家实验室
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484075&idx=1&sn=b685f51485d27bc81a1b0c7a48230f26
-    - author: 逆向有你
-      release_time: 2026.02.24 09:26:34
-      title: PC逆向 -- 使用ce修改器修改植物大战僵尸杂交版3.6
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041381&idx=1&sn=5afd49efe2dba8ca332ed872f5dd7376
-    - author: Spade sec
-      release_time: 2026.02.24 09:00:00
-      title: AntiDebug_Breaker正式上架谷歌插件应用商店
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486947&idx=1&sn=6408badf78bd0e60926933068c9268a9
-    - author: Coder小Q
-      release_time: 2026.02.24 08:30:00
-      title: 【密码学】CTRU-Light 算法解析
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247494006&idx=1&sn=f9f8447e246d75e584efe4a4533be14a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
