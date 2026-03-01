@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Spade sec
+      release_time: 2026.03.01 23:02:58
+      title: 我是如何看待与拥抱AI的
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486954&idx=1&sn=36df4d2fb76e984e802132a4fd048a9d
     - author: 如意私塾
       release_time: 2026.03.01 14:50:09
       title: 浏览器指纹/风控爬虫论文-反过来追踪检测canvas指纹的服务商
@@ -240,10 +244,6 @@
       release_time: 2026.02.24 10:05:00
       title: app攻防系列4-记一次绕过证书检验的抓包
       url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486847&idx=1&sn=2d49569298418aa0bff96d980446774c
-    - author: 如意私塾
-      release_time: 2026.02.24 10:00:00
-      title: 浏览器指纹/风控爬虫论文-有效检测爬虫是否用住宅代理-美国能源部下属Sandia国家实验室
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484075&idx=1&sn=b685f51485d27bc81a1b0c7a48230f26
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
