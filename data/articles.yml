@@ -2,6 +2,10 @@
   list:
   - links:
     - author: r0ysue
+      release_time: 2026.03.01 10:45:21
+      title: 豆包评斩首伊朗哈梅内伊
+      url: https://www.bilibili.com/video/BV1oMAqzpEWJ
+    - author: r0ysue
       release_time: 2026.02.27 21:54:30
       title: 豆包你轻点，别滑过了
       url: https://www.bilibili.com/video/BV1ejADzsEnH
@@ -117,10 +121,6 @@
       release_time: 2026.01.22 11:05:08
       title: 最新阿里234补环境秒杀系列
       url: https://www.bilibili.com/video/BV16zzpBaEeY
-    - author: 西门浪0v0
-      release_time: 2026.01.21 21:36:12
-      title: 某黑盒八位hkey分析
-      url: https://www.bilibili.com/video/BV1K6z7B4EHn
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
