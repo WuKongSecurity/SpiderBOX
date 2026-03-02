@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小白技术社
+      release_time: 2026.03.02 11:51:11
+      title: 逆向老炮用 AI 开挂！手搓了一个能让多空模型“打架”的炒股面板
+      url: https://mp.weixin.qq.com/s?__biz=MzI4NTE1NDMwMA==&mid=2247485344&idx=1&sn=a1188545a4c19545cd77019c014c8314
     - author: 哆啦安全
       release_time: 2026.03.02 08:46:14
       title: AI智能体 | 工作流 | Ubuntu环境一键部署OpenClaw
@@ -240,10 +244,6 @@
       release_time: 2026.02.24 15:42:52
       title: 为什么 AI 永远无法对结果负责？一个关于“硅基恐惧”的绝望推演
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991487&idx=1&sn=c7eeaea72872f019a5ec3ffcf5af86c5
-    - author: 二进制磨剑
-      release_time: 2026.02.24 13:21:27
-      title: 【早鸟】第七期：iOS 逆向工程 — 从零基础到实战对抗
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485956&idx=1&sn=8b433cbaa8d28916ca9253c8e5caff97
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
