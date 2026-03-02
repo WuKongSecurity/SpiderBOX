@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 黑脸怪
+      release_time: 2026.03.02 13:33:00
+      title: reese84
+      url: https://mp.weixin.qq.com/s?__biz=MzI3MjQ3OTE3OA==&mid=2247484281&idx=1&sn=634fb07b93248d50b3b33fd4d4736a1f
     - author: 小白技术社
       release_time: 2026.03.02 11:51:11
       title: 逆向老炮用 AI 开挂！手搓了一个能让多空模型“打架”的炒股面板
@@ -240,10 +244,6 @@
       release_time: 2026.02.24 18:46:54
       title: 湖南省委网信办下架2款侵害用户权益移动应用程序
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519887&idx=2&sn=5667c47f091e3b3a5c18cc309a8df50e
-    - author: 未闻Code
-      release_time: 2026.02.24 15:42:52
-      title: 为什么 AI 永远无法对结果负责？一个关于“硅基恐惧”的绝望推演
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991487&idx=1&sn=c7eeaea72872f019a5ec3ffcf5af86c5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
