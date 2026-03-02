@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.03.02 08:46:14
+      title: AI智能体 | 工作流 | Ubuntu环境一键部署OpenClaw
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499774&idx=1&sn=6586fd9a45ebf52555cabbbe24b32ec9
+    - author: 测试工程师成长之路
+      release_time: 2026.03.02 08:30:00
+      title: 告别“张三李四”！Faker让自动化测试数据“活”起来
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578789&idx=1&sn=8658ca0fdea79660db8726e612cd8305
     - author: 如意私塾
       release_time: 2026.03.02 00:12:56
       title: 当你访问一个盗版电影网站看免费内容时，你到底付出了什么？
@@ -236,14 +244,6 @@
       release_time: 2026.02.24 13:21:27
       title: 【早鸟】第七期：iOS 逆向工程 — 从零基础到实战对抗
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485956&idx=1&sn=8b433cbaa8d28916ca9253c8e5caff97
-    - author: 二进制磨剑
-      release_time: 2026.02.24 13:21:27
-      title: 新春打卡活动，有多少卷王春节在学习？
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485956&idx=2&sn=75962bd490cc30d7212e108d51adad6b
-    - author: 如意私塾
-      release_time: 2026.02.24 13:00:50
-      title: 如意制作 | 纯国产AIBote Agent自动化接管控制web/win/android
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484092&idx=1&sn=f1bdba8528acb76cf655cfb269202bd6
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
