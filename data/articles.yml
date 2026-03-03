@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: K23
+      release_time: 2026.03.03 16:55:00
+      title: flutter逆向---某影视app协议sign加密
+      url: https://www.52pojie.cn/thread-2094241-1-1.html
     - author: YYYYnb
       release_time: 2026.03.01 22:07:00
       title: '[iOS逆向] 某相机 Frida反检测绕过 + VIP解锁 + Theos插件制作 全流程'
@@ -363,10 +367,6 @@
       release_time: 2026.01.31 22:51:00
       title: 默往聊天app加密协议分析，一个宣称是端到端加密的即时通讯应用
       url: https://www.52pojie.cn/thread-2089842-1-1.html
-    - author: shawnj
-      release_time: 2026.01.31 17:18:00
-      title: libassist.so 一个NX Lua 自动化脚本注册码分析
-      url: https://www.52pojie.cn/thread-2089798-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
