@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2026.03.03 19:38:25
+      title: Claude Code 工程师：我们花了一年，才学会像 Agent 一样思考
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991500&idx=1&sn=2d74f3d82eb18edb00f4890ba8fae5b3
     - author: 如意私塾
       release_time: 2026.03.03 17:58:57
       title: 浏览器指纹/风控爬虫论文-基于WebAssembly混淆的浏览器指纹识别防御评估
@@ -240,10 +244,6 @@
       release_time: 2026.02.27 08:32:25
       title: Android内核定制绕过风控检测的底层技术实现(完整版)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499718&idx=1&sn=c6a162101508b59904f1e8162a199dfd
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.02.26 16:45:33
-      title: 因违法处理儿童用户个人信息，Reddit被ICO罚款1447万英镑
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519896&idx=1&sn=142f9fcddaae5e07215543695b5c6178
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
