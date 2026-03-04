@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2026.03.04 16:25:12
+      title: 豆包手机操作米家空调家电
+      url: https://www.bilibili.com/video/BV1pTPKz2EmC
     - author: 悦来客栈的老板
       release_time: 2026.03.04 15:29:27
       title: 字符串解密系列-最新版阿卡迈字符串一键还原
@@ -117,10 +121,6 @@
       release_time: 2026.01.27 12:11:49
       title: 自研SO分析神器：JNI自动转发真机，环境检测全部失效 告别补环境的噩梦
       url: https://www.bilibili.com/video/BV1Wi6KBWEFR
-    - author: 和沐阳学逆向
-      release_time: 2026.01.22 20:35:28
-      title: 71.ebpf开发之穿透安卓沙箱：巧用 /proc 机制实现 bpftrace 无感追踪 JNI
-      url: https://www.bilibili.com/video/BV1rdBfBYEUD
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
