@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 随心记事
+      release_time: 2026.03.04 20:48:57
+      title: 【上篇】破解Hopper v6 Demo：从午夜迷宫到极光永夜的完整逆向史诗
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0NTMyNzI4MQ==&mid=2247484913&idx=1&sn=f6ab24969f74c51a3af5709d12ce813c
     - author: 未闻Code
       release_time: 2026.03.04 19:42:32
       title: 一日一技：我写了个 Chrome 插件，让你再也不用重置密码
@@ -240,10 +244,6 @@
       release_time: 2026.02.28 13:14:31
       title: 深度解剖Android风控检测的内核层对抗与防御思路
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499724&idx=1&sn=01fff074d60758ed12e6e28e544a8616
-    - author: Coder小Q
-      release_time: 2026.02.28 08:30:00
-      title: 【密码学】BKZ算法的二次相遇
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247494576&idx=1&sn=e83e1161609cbbef6861e3c4a7cadfaf
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
