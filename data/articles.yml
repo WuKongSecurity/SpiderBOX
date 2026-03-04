@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: WXjzc
+      release_time: 2026.03.04 09:58:00
+      title: 2026春节红包解题-安卓中级
+      url: https://www.52pojie.cn/thread-2094348-1-1.html
     - author: YYYYnb
       release_time: 2026.03.03 21:36:00
       title: '[iOS 逆向] 某App 开启无限VIP试用之旅 — 从 Frida 探测到 Theos 插件全流程'
@@ -363,10 +367,6 @@
       release_time: 2026.02.01 18:40:00
       title: 记某小说分析脱壳与去广告
       url: https://www.52pojie.cn/thread-2089927-1-1.html
-    - author: Bysubai
-      release_time: 2026.02.01 16:13:00
-      title: ShadowSafe加固逆向分析
-      url: https://www.52pojie.cn/thread-2089904-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
