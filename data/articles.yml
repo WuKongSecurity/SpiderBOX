@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 破解小白：）
+      release_time: 2026.03.04 15:02:00
+      title: 【零基础可复现】2026 春节 Android 中级题（Java→so→unidbg 全流程）
+      url: https://www.52pojie.cn/thread-2094408-1-1.html
     - author: WXjzc
       release_time: 2026.03.04 09:58:00
       title: 2026春节红包解题-安卓中级
@@ -363,10 +367,6 @@
       release_time: 2026.02.02 20:28:00
       title: 浅修改一下安卓定位
       url: https://www.52pojie.cn/thread-2090140-1-1.html
-    - author: seventeenJoy
-      release_time: 2026.02.01 18:40:00
-      title: 记某小说分析脱壳与去广告
-      url: https://www.52pojie.cn/thread-2089927-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
