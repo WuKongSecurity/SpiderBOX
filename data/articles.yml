@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: epiphanyep
+      release_time: 2026.03.04 17:40:00
+      title: 【Web逆向】小白之路-极验4滑块
+      url: https://www.52pojie.cn/thread-2094469-1-1.html
     - author: 破解小白：）
       release_time: 2026.03.04 15:02:00
       title: 【零基础可复现】2026 春节 Android 中级题（Java→so→unidbg 全流程）
@@ -363,10 +367,6 @@
       release_time: 2026.02.03 18:30:00
       title: Instant临时邮箱 React Native修改
       url: https://www.52pojie.cn/thread-2090325-1-1.html
-    - author: debugal
-      release_time: 2026.02.02 20:28:00
-      title: 浅修改一下安卓定位
-      url: https://www.52pojie.cn/thread-2090140-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
