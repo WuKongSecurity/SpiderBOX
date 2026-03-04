@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2026.03.04 19:42:32
+      title: 一日一技：我写了个 Chrome 插件，让你再也不用重置密码
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991513&idx=1&sn=c80ebc6dffa1058097ac3b6905a176e3
     - author: 移动安全星球
       release_time: 2026.03.04 12:00:00
       title: 宝妈必备｜67种儿童常用药全攻略（按症状分类，护士妈妈手把手教你用对药）
@@ -240,10 +244,6 @@
       release_time: 2026.02.28 08:30:00
       title: 【密码学】BKZ算法的二次相遇
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247494576&idx=1&sn=e83e1161609cbbef6861e3c4a7cadfaf
-    - author: 如意私塾
-      release_time: 2026.02.28 00:00:00
-      title: 浏览器指纹/风控爬虫论文-解决浏览器指纹不稳定问题-用一个阈值容差算法把指纹浏览器追踪时间拉到55天
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484150&idx=1&sn=caf28f6af26fd8a33676edd99565abb1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
