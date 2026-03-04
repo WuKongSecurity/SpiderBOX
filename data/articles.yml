@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 悦来客栈的老板
+      release_time: 2026.03.04 15:29:27
+      title: 字符串解密系列-最新版阿卡迈字符串一键还原
+      url: https://www.bilibili.com/video/BV1MYPKzfE1z
     - author: r0ysue
       release_time: 2026.03.01 10:45:21
       title: 豆包评斩首伊朗哈梅内伊
@@ -117,10 +121,6 @@
       release_time: 2026.01.22 20:35:28
       title: 71.ebpf开发之穿透安卓沙箱：巧用 /proc 机制实现 bpftrace 无感追踪 JNI
       url: https://www.bilibili.com/video/BV1rdBfBYEUD
-    - author: ikun的嘴
-      release_time: 2026.01.22 11:05:08
-      title: 最新阿里234补环境秒杀系列
-      url: https://www.bilibili.com/video/BV16zzpBaEeY
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
