@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.03.04 22:05:12
+      title: 微信小程序的隐蔽指纹搜集 | 403万个小程序中1310个在做无权限指纹追踪，京东模板占一半
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484172&idx=1&sn=c0825892324c15d2f585302464c82ac2
     - author: 随心记事
       release_time: 2026.03.04 20:48:57
       title: 【上篇】破解Hopper v6 Demo：从午夜迷宫到极光永夜的完整逆向史诗
@@ -240,10 +244,6 @@
       release_time: 2026.02.28 17:18:29
       title: '[链接]【春节】解题领红包 之十一 {MCP 中'
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143682&idx=1&sn=2a5e9a789d1c1d40e5d64184920a3533
-    - author: 哆啦安全
-      release_time: 2026.02.28 13:14:31
-      title: 深度解剖Android风控检测的内核层对抗与防御思路
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499724&idx=1&sn=01fff074d60758ed12e6e28e544a8616
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 吴秋霖
+      release_time: 2026.03.04 22:16:11
+      title: pdd小程序纯算逆向分析（codex版）
+      url: https://crawler.blog.csdn.net/article/details/158498163
     - author: Python成长路
       release_time: 2026.03.02 11:29:27
       title: 如何实时监听并通知公众号的发文
@@ -486,10 +490,6 @@
       release_time: 2026.01.22 11:56:25
       title: '[原创](JS逆向)某讯jsvmp(二)'
       url: https://bbs.kanxue.com/thread-289828.htm
-    - author: rettozero
-      release_time: 2026.01.21 21:56:24
-      title: '[原创]metadata案例分享与游戏菜单制作'
-      url: https://bbs.kanxue.com/thread-289817.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
