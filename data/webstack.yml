@@ -4309,6 +4309,7 @@
     - term: AI 文本对话
     - term: AI 代码编程
     - term: AI 图像视频
+    - term: AI 音频音乐
     - term: AI 文档办公
     - term: AI 其他资源
   tabs:
@@ -4350,12 +4351,6 @@
           url: https://claude.ai/new
           logo: claude.png
           description: Claude 是由美国人工智能公司 Anthropic 开发的大型语言模型家族，2023 年 3 月 15 日发布初代版本，创始团队包含 OpenAI 前核心成员及 GPT-3 开发人员。该模型采用 Constitutional AI 训练方法，支持多模态处理、代码生成及跨模态推理，并注重安全性与伦理规范
-
-        - title: 扣子
-          url: https://www.coze.cn/
-          logo: coze.png
-          description: 扣子是字节跳动推出的 AI Bot 开发平台，是强大的 AI 办公助手，基于 Agent 技术，集成了 AI 写作、AI PPT 生成、AI 表格处理、AI 设计、AI 播客、AI 生图与 AI 视频等全功能。扣子助力财经分析、市场营销等多场景办公任务自动化，全面提升工作效率
-
 #        - title: NewBing
 #          url: https://www.bing.com/new
 #          logo: bing.png
@@ -4375,46 +4370,54 @@
 
     - name: AI 代码编程
       links:
-        - title: Claude
-          url: https://claude.ai/
+        - title: Cursor
+          url: https://www.cursor.so/
+          logo: cursor.png
+          description: Cursor 是由 Anysphere 公司开发的人工智能编程助手，基于大语言模型提供代码补全、解释、重构与自然语言生成函数功能，支持接入 GPT-4o、Claude 3.7 Sonnet 等外部模型。作为推动“氛围编程”范式的代表性初创公司之一，该工具采用 Electron+CodeMirror 架构，内置 LSP 语言服务和 Chat 交互模块，集成自研 cursor-small 模型及多款第三方模型，通过 Composer 试验性功能实现多文件协同编辑与多智能体协作，引入 Claude 模型将代码补全速度提升两倍。到 2025 年初，该工具已成为 GitHub Copilot 的竞争对手之一，Visa、Reddit 等企业在招聘中明确要求具备 Cursor 操作经验
+        - title: Codex
+          url: https://openai.com/codex/
+          logo: codex.png
+          description: Codex 是 2025 年 10 月 OpenAI 公司开发的 AI 代码生成训练模型，基于 GPT-3 架构改进，专注于将自然语言指令转换为多种编程语言代码。该模型通过混合训练自然语言和公开代码数据构建，采用 Transformer 架构并具备 14KB 代码记忆容量，支持 Python、JavaScript、Java 等主流语言，作为 GitHub Copilot 的技术基础，核心功能包括代码生成、补全优化及多语言翻译。2025 年 5 月升级为云端软件工程代理后，新增并行处理代码编写、调试和测试功能，集成至 ChatGPT 生态并向企业用户开放。同年 6 月通过 ChatGPT Codex 子系统实现多方案生成功能，允许用户为单一任务获取多个代码方案并自主选择最优解
+        - title: Claude Code
+          url: https://claude.com/product/claude-code
           logo: claude.png
-          description: Claude 是由 Anthropic 公司开发的人工智能聊天机器人。它性格开朗、个性十足，并且有些唠叨，每次回答都尽可能把来龙去脉和相关的信息一一列出。Anthropic 成立于2021年，由一群来自 Google Brain，OpenAI 和 DeepMind 的人工智能大佬联合创立
+          description: Claude 是由美国人工智能公司 Anthropic 开发的大型语言模型家族，2023 年 3 月 15 日发布初代版本，创始团队包含 OpenAI 前核心成员及 GPT-3 开发人员。该模型采用 Constitutional AI 训练方法，支持多模态处理、代码生成及跨模态推理，并注重安全性与伦理规范
+        - title: Trae
+          url: https://www.trae.cn/
+          logo: trae.png
+          description: Trae 是字节跳动发布的 AI 原生编程工具。2025 年 1 月 19 日，字节跳动发布了一款面向专业的开发者提供服务的全新 AI Coding 产品 Trae。该工具本质上是 AI 原生集成开发环境工具，支持实时续写代码、智能排查 Bug、自动构建项目、一键预览效果、解答技术难题等，内置 Builder 模式、侧边对话（Chat 模式）和内嵌对话功能，可帮助开发者从 0 到 1 开发完整项目。国内版针对中国开发场景和习惯进行优化，支持用户自定义接入大模型 API
+        - title: Grok
+          url: https://grok.com/
+          logo: grok.png
+          description: Grok 是由埃隆·马斯克旗下 xAI 公司开发的人工智能大模型系列，首发布于 2023 年 11 月，其命名源自科幻经典《异乡异客》，寓意深度理解。该模型通过 3140 亿参数的混合专家架构，在数学推理（HumanEval 达 63.2%）和代码生成领域超越了GPT-3.5，并搭载实时联网功能，可直接访问 X 平台数据。其标志性幽默应答风格借鉴《银河系漫游指南》，支持多模态交互与记忆功能
         - title: v0
           url: https://v0.dev/
           logo: v0.jpg
           description: v0 是由 Vercel 推出的一款 AI 代码生成工具，可以快速生成前端组件代码
         - title: Copilot
-          url: https://copilot.github.com/
+          url: https://github.com/features/copilot
           logo: copilot.png
           description: GitHub Copilot 是 GitHub 与 OpenAI 共同推出的一款 AI 编程工具，它基于 GitHub 及其他网站的源代码，可根据上文提示为程序员自动编写下文代码
-        - title: Cursor
-          url: https://www.cursor.so/
-          logo: cursor.png
-          description: Cursor 是一个可以与用户聊天的代码编辑器，它可以根据用户的输入来生成、修改和优化代码，无论是简单的变量声明，还是复杂的算法实现，Cursor都可以快速地给出合适的代码 。Cursor还可以提供实时的代码分析、错误检测、文档查询等功能，让你在编程过程中更加轻松和愉快
         - title: CodeGeeX
           url: https://codegeex.cn/
           logo: codegeex.png
-          description: CodeGeeX 是清华和智谱 AI 联合打造的多语言代码生成模型
+          description: CodeGeeX 是清华和智谱 AI 联合打造的多语言代码生成模型，基于 Transformer 架构设计，采用自回归解码器机制，使用华为 MindSpore 框架在昇腾 910 AI 处理器集群完成训练。模型包含 40 层自注意力机制，最大支持 2048 序列长度，训练数据融合 The Pile、CodeParrot 等开源代码数据集，总语料规模达 1587 亿标识符
         - title: 通义灵码
           url: https://tongyi.aliyun.com/lingma/
           logo: qianwen.png
-          description: 阿里推出的免费 AI 编程工具，基于通义大模型
-        - title: Trae
-          url: https://www.trae.cn/
-          logo: trae.png
-          description: 字节跳动旗下原 MarsCode 编程助手，致力于成为真正的 AI 工程师（The Real AI Engineer），Trae 旗下的 AI IDE 产品，以智能生产力为核心，无缝融入你的开发流程，与你默契配合，更高质量、高效率完成每一个任务
-        - title: CodeWhisperer
-          url: https://aws.amazon.com/cn/codewhisperer/
-          logo: codewhisperer.png
-          description: CodeWhisperer，亚马逊推出的实时AI编程助手，是一项基于机器学习的服务，它可以分析开发者在集成开发环境（IDE）中的注释和代码，并根据其内容生成多种代码建议
-        - title: Codeium
-          url: https://codeium.com/
-          logo: codeium.png
-          description: Codeium 是一种人工智能驱动的代码完成工具，旨在简化编码过程
+          description: 通义灵码是由阿里云提供的智能编码辅助工具，提供代码智能生成、智能问答、多文件修改、编程智能体等能力，为开发者带来智能化研发体验，引领 AI 原生研发新范式
         - title: Browse AI
           url: https://www.browse.ai/
           logo: browse.png
           description: Browse AI 是一个网页数据抓取和监控爬虫工具，可以让你在几分钟内训练一个机器人，从任何网站提取你需要的数据，并且无需编写任何代码。你可以将抓取到的数据保存为电子表格，或者通过 API，Google Sheets，Zapier 等方式与其他应用程序集成
+#        - title: CodeWhisperer
+#          url: https://aws.amazon.com/cn/codewhisperer/
+#          logo: codewhisperer.png
+#          description: CodeWhisperer，亚马逊推出的实时AI编程助手，是一项基于机器学习的服务，它可以分析开发者在集成开发环境（IDE）中的注释和代码，并根据其内容生成多种代码建议
+#        - title: Codeium
+#          url: https://codeium.com/
+#          logo: codeium.png
+#          description: Codeium 是一种人工智能驱动的代码完成工具，旨在简化编码过程
 
     - name: AI 图像视频
       links:
@@ -4447,10 +4450,6 @@
           # logo: labs.png
           logo: dall-e.png
           description: DALL·E 是 OpenAI 发布的一个用文本生成图像的模型，2023 年 9 月推出的 DALL·E 3 版本通过与 ChatGPT 深度集成，实现了自然语言对话生成图像的功能优化，支持用户通过对话调整图像细节并自动生成精准提示词。该版本新增了限制暴力内容生成、禁止模仿艺术家风格等安全机制，同时允许创作者自主决定作品是否用于 AI 训练
-        - title: 通义万相
-          url: https://wanxiang.aliyun.com/
-          logo: qianwen.png
-          description: 通义万相是阿里云通义大模型旗下的 AI 绘画创作模型，由阿里巴巴研发，基于组合式生成模型 Composer 构建，视觉生成大模型通过原生多模态统一框架进行训练，具备图像、视频、声音等多模态生成能力。在画面质量、语义理解、运动幅度、物理规律遵循、艺术质感能力上均达到领先水平
         - title: 可灵
           url: https://app.klingai.com/
           logo: klingai.png
@@ -4463,6 +4462,18 @@
           url: https://www.vidu.cn/
           logo: vidu.png
           description: Vidu 是北京生数科技有限公司联合清华大学于 2024 年 4 月 27 日发布的中国首个长时长、高一致性、高动态性视频大模型，采用全球首个 Diffusion 与 Transformer 融合的 U-ViT 架构（早于 Sora 的 DiT 方案），初始版本支持生成 4 秒、8 秒的高动态性视频（分辨率达 1080P），首批功能包括文生视频、图生视频及参考生视频。该模型可精确模拟物理规律生成光影、人物表情等细节，支持多镜头切换及中国元素融合
+        - title: 通义万相
+          url: https://wanxiang.aliyun.com/
+          logo: qianwen.png
+          description: 通义万相是阿里云通义大模型旗下的 AI 绘画创作模型，由阿里巴巴研发，基于组合式生成模型 Composer 构建，视觉生成大模型通过原生多模态统一框架进行训练，具备图像、视频、声音等多模态生成能力。在画面质量、语义理解、运动幅度、物理规律遵循、艺术质感能力上均达到领先水平
+        - title: 万相营造
+          url: https://agi.taobao.com/
+          logo: qianwen.png
+          description: 万相营造是阿里旗下推出的基于大模型技术进行多模态智能创意生成的平台，支持广告推广、运营、设计，根据既有的货品素材、营销运营诉求进行 AI 创意生成。用户可以根据需求，制作包括商品图、服饰模特图、服饰平铺图上身试穿、家居图、一键图文、营销文案、营销脚本及视频生成。同时提供设计师常用的多种 AI 工具能力，协助设计师快速完成扩图、抠图、图像高清处理等日常基础工作
+        - title: 腾讯混元 AI 视频
+          url: https://video.hunyuan.tencent.com/
+          logo: hunyuan.png
+          description: 腾讯混元 AI 视频是腾讯推出的强大的AI视频生成工具，具备高度的创新性和实用性。用户可以通过平台生成高质量的视频内容，支持创意视频制作、特效生成，动画与游戏开发，满足多样化的需求。用户可以通过上传一张图片进行简短描述，让图片动起来生成5秒的短视频。支持对口型、动作驱动和背景音效自动生成等功能。能根据文本提示生成相应的视频内容。在画质、物体运动、镜头切换等方面表现出色，能理解和遵循复杂的提示词，生成具有大片质感的视频
         - title: Runway
           url: https://runwayml.com/
           logo: runwayml.png
@@ -4479,6 +4490,10 @@
           url: https://labs.google/fx/tools/flow
           logo: flow.jpg
           description: Flow 是由谷歌公司于 2025 年 5 月 21 日在 I/O 开发者大会上发布的 AI 电影创作应用，面向美国地区用户开放。该工具整合了谷歌的 Veo 视频生成模型、Imagen 图像生成技术和 Gemini 自然语言处理能力，支持用户通过文字指令生成 8 秒音画同步视频片段，并提供镜头运动轨迹控制、场景延展及转场效果编辑等影视制作功能。Flow 采用订阅制服务模式，提供 Pro 和 Ultra 不同层级的服务
+        - title: 云幕同声
+          url: https://www.yunmuts.com/
+          logo: yunmuts.jpg
+          description: 云幕同声是新一代的 AI 视频翻译工具，使用最新的声音复刻模型实现高保真的 AI 视频翻译。在短剧出海领域的效果尤为优秀。98% 还原音色、优秀的音画同步算法、融入 AI 人声分离模型、支持后期效果精细调整
         - title: Civitai
           url: https://civitai.com/
           logo: civitai.png
@@ -4503,10 +4518,15 @@
           url: https://jpghd.com/
           logo: jpghd.png
           description: 人工智能老照片无损修复，利用2023年最先进人工智能 AI 将老照片无损高清修复（支持老照片修复、老照片上色和魔法动态照片）
+        - title: 稿定 AI 消除
+          url: https://www.gaoding.com/tools-ai-eliminate
+          logo: gaoding.png
+          description: 稿定 AI 消除是稿定设计推出的在线AI图像杂物消除工具，能快速识别并去除图片中的文字、水印、污点、多余物体等元素，智能修复背景，让画面保持自然美观。操作简单，用户只需上传图片，涂抹或框选需要消除的部分，可一键完成处理
         - title: AI 艺术二维码
           url: https://qr.mewx.art/?invite_code=RVP98wzb
           logo: mewx.png
           description: 使用 MewXAI 星月熊在几秒内创建令人惊叹的下一代艺术二维码和艺术字。从此告别单调的黑白二维码和文字，留下令人深刻的印象
+
     #        - title: MakeLogoAI
     #          url: https://makelogo.ai/
     #          logo: makelogo.png
@@ -4517,8 +4537,69 @@
     #          description: 文心一格，是百度文心大模型家族的成员，是一个 AI 艺术和创意辅助平台，让你轻松驾驭多种风格的绘画。只需输入文字和选择风格，就能快速生成国风、油画、水彩、动漫等十余种不同风格的高清画作
     #     https://qianwen.aliyun.com/landing?family=fun # TODO
 
+    - name: AI 音频音乐
+      links:
+        - title: MiniMax
+          url: https://www.minimaxi.com/audio
+          logo: minimaxi.png
+          description: MiniMax，全称上海稀宇科技有限公司，又名稀宇科技，MiniMax 自主研发了一系列多模态通用大模型，具备强大的代码和 Agent 能力，以及超长上下文处理能力，能够理解、生成并整合包括文本、音频、图像、视频和音乐在内的多种模态
+        - title: ElevenLabs
+          url: https://elevenlabs.io/
+          logo: elevenlabs.png
+          description: ElevenLabs 是于 2022 年创立的英国人工智能公司，总部位于伦敦，专注于开发文本转语音（TTS）、语音克隆及 AI 音频生成技术。2026 年 1 月，其被列为营收排名前十的“原生人工智能”企业之一。 其核心产品包括支持 29 种语言（后扩展至 70 种）的语音合成模型 Eleven v3，可通过情感标签控制语调，并提供语音克隆、AI 配音、多角色对话生成等功能，应用于有声读物、游戏配音、多语言本地化等领域
+        - title: IndexTTS2
+          url: https://indextts2.org/
+          logo: indextts2.png
+          description: 情感表达与时长可控的自回归零样本语音合成突破，创新性地提出了一种通用且适用于自回归模型的语音时长控制方法。该方法支持两种生成模式：一种可显式指定生成 token 数量以精确控制语音时长；另一种则自由自回归生成语音，同时忠实还原输入提示的韵律特征。此外，IndexTTS2 实现了情感表达与说话人身份的解耦，可独立控制音色和情感。在零样本设置下，模型能准确复刻目标音色（来自音色提示），同时完美还原指定的情感语调（来自风格提示）
+        - title: Suno
+          url: https://suno.com/
+          logo: suno.png
+          description: Suno AI 是一款AI音乐创作平台，由机器学习专家 Mikey Shulman、Keenan Freyberg、Georg Kucsko 和 Martin Camacho 共同创立，创始团队位于麻省剑桥，曾开发文本转语音程序 Bark，后转向音乐生成领域。2024 年 3 月推出 V3 音乐生成模型，支持通过歌词生成歌曲并指定AI歌手音色，新增 Custom Mode（自定义模式）和 Instrumental（纯音乐模式），可在数秒内生成 2 分钟高质量音频
+        - title: Udio
+          url: https://www.udio.com/
+          logo: udio.png
+          description: Udio 是一家专注于音乐生成领域的生成式人工智能初创公司，由前谷歌 DeepMind 研究人员团队于 2023 年创立，总部位于美国加利福尼亚州。该公司核心产品为 AI 音乐生成平台，用户可通过输入文本提示快速生成包含歌词、人声及伴奏的完整音乐作品，支持多语言创作、流派选择及歌曲延长功能，测试阶段提供每月 1200 首免费生成额度。2024 年 4 月完成种子轮融资 1000 万美元，主要投资方包括 Andreessen Horowitz（a16z）、Instagram 联合创始人迈克·克里格及音乐人 will.i.am 等。2024 年 7 月推出的 Udio v1.5 版本升级至 48kHz 立体声音轨，新增音调控制、音轨拆分及音频重混功能，提升乐器分离度与音乐性，同期发布可视化编辑工具 Sessions，支持创作者移动、扩展或替换歌曲的主歌、副歌等结构部分
+        - title: Stable Audio
+          url: https://stableaudio.com/
+          logo: stableaudio.png
+          description: Stable Audio Open 是由 Stability AI 推出的开源文本生成音频模型，专注于生成短时长音效及音乐片段。该模型基于扩散变换器（DiT）架构，通过文本提示可生成最长 47 秒的音频内容，适用于鼓点、乐器旋律、环境音效等场景。其训练数据来自 Freesound 和 Free Music Archive 的公开授权资源，并强调对创作者权利的尊重
+        - title: 通义百聆
+          url: https://tongyi.aliyun.com/tongyi/landing/?family=fun
+          logo: qianwen.png
+          description: 通义百聆是阿里巴巴在 2025 年杭州云栖大会上发布的语音模型家族，包含语音识别大模型 Fun-ASR 和语音合成大模型 Fun-CosyVoice，定位于企业级语音基座大模型。其语音识别基于数千万小时真实语料训练，具备多语言处理能力，语音合成提供上百种预制音色，适用于客服、有声书等多种场景
+
+    - name: AI 数字人
+      links:
+        - title: HeyGen
+          url: https://www.heygen.com/
+          logo: heygen.png
+          description: HeyGen 是一款基于人工智能技术的视频翻译工具，可通过多语言音视频处理实现口型同步的跨语言内容生成。该工具支持 50 余种语言和 300 多种声音类型，能够生成与母语音色相近且口型匹配的翻译视频。其前身为 AI 视频翻译平台 Movio，核心技术依托自主研发的多模态内容生成引擎 Surreal Engine
+        - title: InfiniteTalk
+          url: https://github.com/MeiGen-AI/InfiniteTalk
+          logo: InfiniteTalk.png
+          description:  InfiniteTalk 是一种无限时长的语音视频生成模型，支持音频驱动的视频到视频和图像到视频的转换。给定一个输入视频和音频轨道，InfiniteTalk 可以合成一个具有精确唇音同步的新视频，同时还能将头部运动、身体姿势和面部表情与音频对齐。与仅关注唇音的传统配音方法不同，InfiniteTalk 能够生成无限长度的视频，并保持精确的唇音同步和一致的身份保留。此外，InfiniteTalk 还可以用作图像-音频到视频的转换模型，以图像和音频作为输入
+        - title: 通义星尘
+          url: https://xingchen.aliyun.com/xingchen/
+          logo: qianwen.png
+          description: 通义星尘是阿里云于 2023 年 10 月 31 日在云栖大会发布的8大行业模型之一，基于通义千问大模型构建的个性化角色对话平台。该平台支持深度定义人设及角色定制，提供拟人化对话、数字分身复刻和多智能体协作功能，覆盖侦探推理、情感树洞、睡前故事、职场陪练、恋爱陪伴等多样化场景。其技术框架集成多模态交互能力，支持自定义 RAG 知识库和 Function-call 接口调用，可接入业务专属 API。通过 70+ 维度角色设定，实现虚拟社交、IP 复刻、教育服务等领域的数字人实时交互
+
     - name: AI 文档办公
       links:
+        - title: NotebookLM
+          url: https://notebooklm.google/
+          logo: upcv.png
+          description: NotebookLM 提供强大的界面，让您轻松切换阅读、提问和写作，AI 助手将随时为您提供帮助。当您整理了一组基于资料的笔记后，您可以使用 NotebookLM 将它们转化为 PPT 演示文稿、视频概览、音频概览、思维导图、信息图、大纲、博客文章、商业计划等
+        - title: IMA
+          url: https://ima.qq.com/
+          logo: ima.png
+          description: IMA 是腾讯公司于 2024 年 11 月 15 日推出的智能办公产品，基于混元大模型与 RAG 架构构建知识管理系统，提供 AI 问答、多模态文本创作、图像生成等功能，整合微信公众号生态（可检索超 500 万篇公众号内容）并支持本地文件智能解析
+        - title: 通义听悟
+          url: https://tingwu.aliyun.com/
+          logo: qianwen.png
+          description: 通义听悟是阿里云于 2023 年 6 月推出的基于大模型的工作学习 AI 助手，系通义家族首个面向消费级用户的产品。该产品依托通义千问大模型与语音 AI 技术，可实现音视频内容转写、全文摘要、章节速览、发言总结等功能，支持会议、讲座等场景的信息提炼与知识资产沉淀，并与阿里云盘深度打通，支持云盘内音视频分析及字幕匹配
+
+
+
         - title: UP 简历
           url: https://upcv.tech/?invite=INVHDPT2NRO
           logo: upcv.png
@@ -4576,6 +4657,33 @@
           logo: napkin.png
           description: 将文字转为精美的可视化效果，多种样式可选
 
+    - name: AI Agent
+      links:
+        - title: OpenClaw
+          url: https://openclaw.ai/
+          logo: openclaw.png
+          description: OpenClaw（原 Clawdbot、Moltbot） 是开源免费的个人 AI 助手，能在个人电脑（如 Mac、Windows、Linux）上运行，支持通过 WhatsApp、Telegram、iMessage 等聊天软件接收指令并直接操作电脑完成任务。能整理文件、修复代码、管理邮件，支持接入 Anthropic、OpenAI 等顶尖模型。具备永久记忆功能，能记住用户偏好和上下文自我进化，根据新指令开发新技能。OpenClaw 强大的灵活性和扩展性使其成为提升个人效率和生产力的理想工具
+        - title: 扣子
+          url: https://www.coze.cn/
+          logo: coze.png
+          description: 扣子是字节跳动推出的 AI Bot 开发平台，是强大的 AI 办公助手，基于 Agent 技术，集成了 AI 写作、AI PPT 生成、AI 表格处理、AI 设计、AI 播客、AI 生图与 AI 视频等全功能。扣子助力财经分析、市场营销等多场景办公任务自动化，全面提升工作效率
+        - title: 讯飞星辰
+          url: https://agent.xfyun.cn/
+          logo: agent.xfyun.png
+          description: 新一代智能体 Agent 开发平台，支持通过提示词 Prompt、工作流 Workflow 灵活创建专业智能体。平台已整合丰富的模型、插件、MCP Server，支持一站式效果测评，助力开发者快速搭建生产级智能体。创建后可发布到讯飞星火 App、微信公众号，或发布成 API、MCP Server
+        - title: AutoGLM
+          url: https://autoglm.zhipuai.cn/
+          logo: autoglm.png
+          description: AutoGLM 是由北京智谱兴曜科技有限公司于 2025 年 3 月 31 日发布的 AI 智能体，是超级报告助手，依托深度搜索与专业网站抓取快速获取高质量信息，自动生成结构化研究报告，并一键产出 PPT、网页等成果。同时支持 Agent 网页自动操作、视频总结与代码执行等能力，让调研到交付全流程更高效
+        - title: n8n
+          url: https://n8n.io/
+          logo: n8n.png
+          description: n8n 是一个工作流自动化平台，它独特地将人工智能功能与业务流程自动化相结合，为技术团队提供了代码的灵活性和无代码的速度
+        - title: 通义 DeepResearch
+          url: https://tongyi-agent.github.io/zh/
+          logo: qianwen.png
+          description: 通义 DeepResearch 是深度研究 Agent 模型，拥有 3B 激活参数，性能对标基于 OpenAI o3、DeepSeek V3.1 和 Claude-4-Sonnet 等旗舰模型的 ReAct Agent
+
     - name: AI 其他资源
       links:
         - title: Free ChatGPT Site List
@@ -4585,6 +4693,10 @@
         - title: AI 工具集
           url: https://ai-bot.cn/
           logo: ai-bot.png
-          description: AI 工具集
+          description: 网址导航，AI 工具集
+        - title: AI 神器大全
+          url: https://aishenqi.net/
+          logo: aishenqi.png
+          description: 网址导航，AI 神器大全
 
 # https://open.weixin.qq.com/qr/code?username=ruanlyi
