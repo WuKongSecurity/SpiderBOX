@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 随心记事
+      release_time: 2026.03.05 11:36:21
+      title: 【万字笔记】我与 Hopper disassembler v6 的五天攻防战：从第一个断点到完全接管
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0NTMyNzI4MQ==&mid=2247484927&idx=1&sn=821da6c5335136667b7cbdb8326cd157
+    - author: 哆啦安全
+      release_time: 2026.03.05 11:35:29
+      title: 手机遗失与系统崩溃：即时通讯、笔记、财务应用数据拯救策略
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499805&idx=1&sn=71134cc7a12be09e4494e3beca76d920
+    - author: 菜鸟学Python编程
+      release_time: 2026.03.05 11:30:00
+      title: JS反混淆的艺术：在混乱中重构代码之美(二)
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566341&idx=1&sn=a505790a381baaa263663b50e29e1889
     - author: 移动安全星球
       release_time: 2026.03.05 09:21:00
       title: 家长必看｜6种儿童高发病症（感冒/流感/支原体等），护士妈妈教你精准区分、科学护理
@@ -232,18 +244,6 @@
       release_time: 2026.03.02 11:51:11
       title: 逆向老炮用 AI 开挂！手搓了一个能让多空模型“打架”的炒股面板
       url: https://mp.weixin.qq.com/s?__biz=MzI4NTE1NDMwMA==&mid=2247485344&idx=1&sn=a1188545a4c19545cd77019c014c8314
-    - author: 哆啦安全
-      release_time: 2026.03.02 08:46:14
-      title: AI智能体 | 工作流 | Ubuntu环境一键部署OpenClaw
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499774&idx=1&sn=6586fd9a45ebf52555cabbbe24b32ec9
-    - author: 测试工程师成长之路
-      release_time: 2026.03.02 08:30:00
-      title: 告别“张三李四”！Faker让自动化测试数据“活”起来
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578789&idx=1&sn=8658ca0fdea79660db8726e612cd8305
-    - author: 如意私塾
-      release_time: 2026.03.02 00:12:56
-      title: 当你访问一个盗版电影网站看免费内容时，你到底付出了什么？
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484161&idx=1&sn=759c65715487bbd7df2736a2c4d281e5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
