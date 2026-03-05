@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.03.05 16:11:39
+      title: 浏览器指纹/风控爬虫论文-使用浏览器会话指纹替代单页面指纹识别
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484179&idx=1&sn=57ff5516c14666285db950f300be9b4f
+    - author: 吾爱破解论坛
+      release_time: 2026.03.05 16:08:38
+      title: 【清理未活跃会员】清理2025年光棍节开放注册未活跃会员公告
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143702&idx=1&sn=5bd78dd72cdbff49adec446035e3b75f
     - author: 随心记事
       release_time: 2026.03.05 11:36:21
       title: 【万字笔记】我与 Hopper disassembler v6 的五天攻防战：从第一个断点到完全接管
@@ -236,14 +244,6 @@
       release_time: 2026.03.02 15:48:08
       title: '[链接]【2026春节】解题领红包活动 即将收'
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143691&idx=1&sn=81ed0490f6f66a5189f4ec4aec4aa808
-    - author: 黑脸怪
-      release_time: 2026.03.02 13:33:00
-      title: reese84
-      url: https://mp.weixin.qq.com/s?__biz=MzI3MjQ3OTE3OA==&mid=2247484281&idx=1&sn=634fb07b93248d50b3b33fd4d4736a1f
-    - author: 小白技术社
-      release_time: 2026.03.02 11:51:11
-      title: 逆向老炮用 AI 开挂！手搓了一个能让多空模型“打架”的炒股面板
-      url: https://mp.weixin.qq.com/s?__biz=MzI4NTE1NDMwMA==&mid=2247485344&idx=1&sn=a1188545a4c19545cd77019c014c8314
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
