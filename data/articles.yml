@@ -382,6 +382,10 @@
       release_time: 2026.03.02 11:29:27
       title: 如何实时监听并通知公众号的发文
       url: https://blog.csdn.net/Qwertyuiop2016/article/details/158572484
+    - author: 用户yO5Jq1o1mI
+      release_time: 2026.03.01 22:55:00
+      title: APatch部署及KPM实现InlineHook及SyscallHook技术
+      url: https://xz.aliyun.com/news/91659
     - author: 爱喝水的木子
       release_time: 2026.02.26 16:43:44
       title: Openclaw安装与配置_精简
@@ -486,10 +490,6 @@
       release_time: 2026.01.26 16:51:43
       title: 伪爱加密企业 Frida反调试
       url: https://blog.csdn.net/A_fanyifan/article/details/157397546
-    - author: 吴秋霖
-      release_time: 2026.01.23 22:03:36
-      title: 某网站WebSocket协议逆向分析
-      url: https://crawler.blog.csdn.net/article/details/157220479
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
