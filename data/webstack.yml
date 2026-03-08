@@ -4585,9 +4585,29 @@
 
     - name: AI 文档办公
       links:
+        - title: WPS AI
+          url: https://ai.wps.cn/
+          logo: wps.png
+          description: WPS 缩写、扩写、续写、风格转变，一键生成完整 PPT，无论是论文、合同，或简历等长文 PDF 文档，都能交给 WPS AI 梳理。发起询问，总结数据，快速概括
+        - title: 讯飞智文
+          url: https://zhiwen.xfyun.cn/
+          logo: zhiwen.xfyun.png
+          description: 讯飞智文，由科大讯飞推出的一键生成 PPT、Word 产品。根据一句话、长文本、音视频等指令智能生成文档，同时支持在线编辑、美化、排版、导出、一键动效、自动生成演讲稿等功能，让 AI 全流程服务到底
+        - title: AiPPT
+          url: https://www.aippt.cn/
+          logo: aippt.png
+          description: 聚焦 AI 大模型与 PPT 场景结合，提供一键生成 PPT 服务（其产品矩阵包括爱设计 AIGC 内容中台、365 编辑器、爱设计在线设计工具、AiH5 等超过 10 余款 AI 驱动的内容创作工具），支持多格式文档导入、在线编辑及演示功能，并推出企业定制版与 API 开放平台
+        - title: 扣子
+          url: https://www.coze.cn/overview?invite_code=e0f08a7ab1cd4ab8ba8c7f5979027c60
+          logo: coze.png
+          description: 扣子是字节跳动推出的 AI Bot 开发平台，是强大的 AI 办公助手，基于 Agent 技术，集成了 AI 写作、AI PPT 生成、AI 表格处理、AI 设计、AI 播客、AI 生图与 AI 视频等全功能。扣子助力财经分析、市场营销等多场景办公任务自动化，全面提升工作效率
+        - title: Kimi
+          url: https://www.kimi.com/
+          logo: kimi.png
+          description: Kimi 是北京月之暗面科技有限公司于 2023 年 10 月 9 日推出的智能助手，专注于长文本处理领域，是全球首个支持输入 20 万汉字的 AI 产品，具备长文总结、联网搜索、数据处理、代码编写等核心功能，主要应用于学术论文翻译、法律问题分析和 API 文档理解等场景
         - title: NotebookLM
           url: https://notebooklm.google/
-          logo: upcv.png
+          logo: notebooklm.png
           description: NotebookLM 提供强大的界面，让您轻松切换阅读、提问和写作，AI 助手将随时为您提供帮助。当您整理了一组基于资料的笔记后，您可以使用 NotebookLM 将它们转化为 PPT 演示文稿、视频概览、音频概览、思维导图、信息图、大纲、博客文章、商业计划等
         - title: IMA
           url: https://ima.qq.com/
@@ -4597,9 +4617,6 @@
           url: https://tingwu.aliyun.com/
           logo: qianwen.png
           description: 通义听悟是阿里云于 2023 年 6 月推出的基于大模型的工作学习 AI 助手，系通义家族首个面向消费级用户的产品。该产品依托通义千问大模型与语音 AI 技术，可实现音视频内容转写、全文摘要、章节速览、发言总结等功能，支持会议、讲座等场景的信息提炼与知识资产沉淀，并与阿里云盘深度打通，支持云盘内音视频分析及字幕匹配
-
-
-
         - title: UP 简历
           url: https://upcv.tech/?invite=INVHDPT2NRO
           logo: upcv.png
@@ -4607,43 +4624,39 @@
         - title: ChatDOC
           url: https://chatdoc.com/
           logo: chatdoc.png
-          description: ChatDOC 是一款基于 ChatGPT 的文件阅读助手，可以快速从文档（.pdf、.doc、.docx、.md、.epub、扫描文件）中提取、定位和汇总信息。
+          description: ChatDOC 是一款基于 ChatGPT 的文件阅读助手，可以快速从文档（.pdf、.doc、.docx、.md、.epub、扫描文件）中提取、定位和汇总信息
         - title: ChatPDF
           url: https://www.chatpdf.com/
           logo: chatpdf.png
-          description: AI 识别 PDF 内容并且发起对话
-        - title: PandaGPT
-          url: https://www.pandagpt.io/
-          logo: pandagpt.png
-          description: AI 阅读文档，生成知识图谱，回答问题。
-        - title: WPS AI
-          url: https://ai.wps.cn/
-          logo: wps.png
-          description: WPS 缩写、扩写、续写、风格转变，一键生成完整 PPT，无论是论文、合同，或简历等长文 PDF 文档，都能交给 WPS AI 梳理。发起询问，总结数据，快速概括。
+          description: ChatPDF 将 ChatGPT 风格的智能和 PDF AI 技术结合在一起，以实现更智能的文档理解。总结、聊天和分析
+#        - title: PandaGPT
+#          url: https://www.pandagpt.io/
+#          logo: pandagpt.png
+#          description: AI 阅读文档，生成知识图谱，回答问题
         - title: Notion AI
           url: https://www.notion.so/product/ai
           logo: notion.png
-          description: Notion AI 写作神器，可以根据输入的关键词智能推荐相关的文章素材，提高文章的质量和准确度。
+          description: 基于 GPT-3 模型构建，提供文本生成、润色、翻译、待办事项识别及智能文档管理功能。该工具具备跨平台协作和权限管理能力，可通过自然语言指令生成文档大纲、会议记录等内容，并与 Google Drive、Dropbox 等第三方平台数据同步。涵盖基础 AI 功能及企业级服务权限，集成文档翻译、流程图生成、数据库自动填充功能
         - title: SciSpace
           url: https://typeset.io/
           logo: typeset.png
-          description: SciSpace，论文阅读神器，基于 ChatGPT 的科研论文辅助阅读理解平台。
+          description: 论文阅读神器，是一款基于人工智能的科研辅助工具，主要用于学术文献分析与理解。该工具支持用户通过高亮文本、公式或表格获取论文摘要与解释，并提供文献检索、多语言切换、数据导入与预处理功能。其核心组件包含 PDF 交互式问答、文献综述辅助模块，支持 13 种语言互译及文献关键信息剪辑保存
         - title: ExplainPaper
           url: https://www.explainpaper.com/
           logo: explainpaper.png
-          description: explainpaper，ai学术论文，文献阅读助手。
-        - title: Effidit
-          url: https://effidit.qq.com/
-          logo: effidit.png
-          description: Effidit 是腾讯人工智能实验室开发的一款写作助手，旨在探索利用人工智能技术提高写作效率和创作体验。
+          description: 一款专注于学术文献阅读的 AI 工具，它通过使用人工智能模型来简化和解释研究论文中的复杂部分，使得论文更容易阅读和理解
+#        - title: Effidit
+#          url: https://effidit.qq.com/
+#          logo: effidit.png
+#          description: Effidit 是腾讯人工智能实验室开发的一款写作助手，旨在探索利用人工智能技术提高写作效率和创作体验
         - title: 爱改写
           url: https://www.aigaixie.com/
           logo: aigaixie.png
-          description: 基于 NLP 自然语言技术支持为您提供中英文查词解释、释义改写、同义词识别、文本纠错、内容原创度查询一站式服务。
-        - title: 火山写作
-          url: https://www.writingo.net/
-          logo: writingo.png
-          description: 火山写作是由字节跳动推出的，集成创作、润色、纠错、改写、翻译等能力的中英文 AI 写作助手
+          description: 一款集 AI 检测、生成内容识别、智能去痕与文本优化于一体的内容改写平台。支持论文降 AI 率、自媒体去痕、小说优化、同义词替换与文本纠错，让 AI 生成内容更自然、更原创、更可信
+#        - title: 火山写作
+#          url: https://www.writingo.net/
+#          logo: writingo.png
+#          description: 火山写作是由字节跳动推出的，集成创作、润色、纠错、改写、翻译等能力的中英文 AI 写作助手
         - title: Flourish
           url: https://flourish.studio/
           logo: flourish.png
@@ -4664,7 +4677,7 @@
           logo: openclaw.png
           description: OpenClaw（原 Clawdbot、Moltbot） 是开源免费的个人 AI 助手，能在个人电脑（如 Mac、Windows、Linux）上运行，支持通过 WhatsApp、Telegram、iMessage 等聊天软件接收指令并直接操作电脑完成任务。能整理文件、修复代码、管理邮件，支持接入 Anthropic、OpenAI 等顶尖模型。具备永久记忆功能，能记住用户偏好和上下文自我进化，根据新指令开发新技能。OpenClaw 强大的灵活性和扩展性使其成为提升个人效率和生产力的理想工具
         - title: 扣子
-          url: https://www.coze.cn/
+          url: https://www.coze.cn/overview?invite_code=e0f08a7ab1cd4ab8ba8c7f5979027c60
           logo: coze.png
           description: 扣子是字节跳动推出的 AI Bot 开发平台，是强大的 AI 办公助手，基于 Agent 技术，集成了 AI 写作、AI PPT 生成、AI 表格处理、AI 设计、AI 播客、AI 生图与 AI 视频等全功能。扣子助力财经分析、市场营销等多场景办公任务自动化，全面提升工作效率
         - title: 讯飞星辰
@@ -4698,5 +4711,17 @@
           url: https://aishenqi.net/
           logo: aishenqi.png
           description: 网址导航，AI 神器大全
+        - title: 非猪 AI 导航
+          url: https://feizhuke.com/
+          logo: feizhuke.png
+          description: 网址导航，非猪 AI 导航
+        - title: AI 神器大全
+          url: https://aishenqi.net/
+          logo: aishenqi.png
+          description: 网址导航，AI 神器大全
+        - title: AIGC 工具导航
+          url: https://www.aigc.cn/
+          logo: aigc.png
+          description: 网址导航，AIGC 工具导航
 
 # https://open.weixin.qq.com/qr/code?username=ruanlyi
