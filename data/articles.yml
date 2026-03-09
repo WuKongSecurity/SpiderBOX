@@ -2,6 +2,10 @@
   list:
   - links:
     - author: r0ysue
+      release_time: 2026.03.09 16:42:56
+      title: 豆包手机尽说大实话
+      url: https://www.bilibili.com/video/BV16dPQz6EMa
+    - author: r0ysue
       release_time: 2026.03.04 16:25:12
       title: 豆包手机操作米家空调家电
       url: https://www.bilibili.com/video/BV1pTPKz2EmC
@@ -117,10 +121,6 @@
       release_time: 2026.01.29 16:27:33
       title: 72. 【国内首发】通义千问+Moltbot/clawdbot+飞书回复：教你零成本搭建“满血版”私人 AI 助理，秒杀 ChatGPT！
       url: https://www.bilibili.com/video/BV1hm6FBQE5s
-    - author: Alone逆向安全
-      release_time: 2026.01.27 12:11:49
-      title: 自研SO分析神器：JNI自动转发真机，环境检测全部失效 告别补环境的噩梦
-      url: https://www.bilibili.com/video/BV1Wi6KBWEFR
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
