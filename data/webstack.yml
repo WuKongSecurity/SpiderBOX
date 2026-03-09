@@ -1995,6 +1995,11 @@
           logo: netnut.png
           url: https://netnut.cn/?utm_medium=partner&utm_source=spiderbox
           description: 覆盖全球 195 个国家，8500 万优质 IP，全方位满足网页数据抓取。NetNut 提供四种代理 IP 服务：动态住宅，静态ISP，移动代理，数据中心代理。NetNut 网站解锁代理服务器可以绕过验证码，安全地从全球网站中提取数据。轻松解决访问受限网站的问题
+        - title: RapidProxy
+          logo: rapidproxy.png
+#          url: https://www.rapidproxy.io/?ref=itbob
+          url: https://www.rapidproxy.io/?ref=spiderbox
+          description: 免费代理测试，通过 RapidProxy 访问超 7000 万优质 IP，支持 220+ 地理位置精准定位，实现高效数据采集，轻松规避验证码与 IP 封禁，流量永不过期
         - title: BrightData
           logo: brightdata.png
           url: https://get.brightdata.com/17arn8
@@ -2115,10 +2120,6 @@
           logo: 922proxy.jpg
           url: https://922proxy.com/login?utm-source=Amily&utm-keyword=?spiderbox
           description: 纯净住宅 IP，仅需 $0.77/GB
-        - title: RapidProxy
-          logo: rapidproxy.png
-          url: https://www.rapidproxy.io/?ref=itbob
-          description: 免费代理测试，通过 RapidProxy 访问超 7000 万优质 IP，支持 220+ 地理位置精准定位，实现高效数据采集，轻松规避验证码与 IP 封禁，流量永不过期
         - title: ShopSocks5
           logo: shopsocks5.jpg
           url: https://shopsocks5.com/
