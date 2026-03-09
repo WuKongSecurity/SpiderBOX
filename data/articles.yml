@@ -247,10 +247,22 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: seventeenJoy
+      release_time: 2026.03.09 11:16:00
+      title: App 逆向核心 Hook 脚本集合：全面解析与实用技巧
+      url: https://www.52pojie.cn/thread-2095379-1-1.html
     - author: 桐姥爷
       release_time: 2026.03.09 02:49:00
       title: 某招聘网站的反调试与反反调试策略
       url: https://www.52pojie.cn/thread-2095322-1-1.html
+    - author: seventeenJoy
+      release_time: 2026.03.08 10:16:00
+      title: 某讯会员思路分析
+      url: https://www.52pojie.cn/thread-2095199-1-1.html
+    - author: xww2652008969
+      release_time: 2026.03.08 01:49:00
+      title: 某网站视频接口漏洞分析
+      url: https://www.52pojie.cn/thread-2095178-1-1.html
     - author: 漁滒
       release_time: 2026.03.05 18:00:00
       title: cctv视频解密，wasm vmp分析
@@ -355,18 +367,6 @@
       release_time: 2026.02.12 09:30:00
       title: 从 App 启动流程看 Android 整体加固
       url: https://www.52pojie.cn/thread-2091717-1-1.html
-    - author: fengmapleye
-      release_time: 2026.02.10 16:24:00
-      title: HybridCLR拆解记录 (Part. I)
-      url: https://www.52pojie.cn/thread-2091447-1-1.html
-    - author: xww2652008969
-      release_time: 2026.02.09 01:11:00
-      title: 某抑云eapi加密分析
-      url: https://www.52pojie.cn/thread-2091183-1-1.html
-    - author: LivedForward
-      release_time: 2026.02.06 21:53:00
-      title: 保卫萝卜3 v5.8.3修改教程
-      url: https://www.52pojie.cn/thread-2090901-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
