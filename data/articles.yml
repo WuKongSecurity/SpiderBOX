@@ -370,6 +370,18 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Tasfa
+      release_time: 2026.03.09 11:50:46
+      title: 【Attention系列】SWA:滑动窗口注意力机制
+      url: https://blog.csdn.net/qq_30135181/article/details/158840933
+    - author: Tasfa
+      release_time: 2026.03.09 11:11:28
+      title: 【AI系列】从零开始学习大模型GPT (3)- Build a Large Language Model (From Scratch)
+      url: https://blog.csdn.net/qq_30135181/article/details/158840047
+    - author: Python成长路
+      release_time: 2026.03.09 10:28:44
+      title: 如何自动同意微信好友请求
+      url: https://blog.csdn.net/Qwertyuiop2016/article/details/158838990
     - author: 移动安全星球
       release_time: 2026.03.09 08:59:46
       title: OpenClaw 安装与排错完整笔记（实战记录）
@@ -478,18 +490,6 @@
       release_time: 2026.01.29 17:30:50
       title: JS逆向实战|使用AI逆向某音乐参数sign(jsvmp)纯算
       url: https://blog.csdn.net/qq523176585/article/details/157533751
-    - author: weixin_46084750
-      release_time: 2026.01.29 11:29:43
-      title: 魔改Chromium：debugger 失效与控制台防检测
-      url: https://blog.csdn.net/weixin_46084750/article/details/157504409
-    - author: 扁舟·TF
-      release_time: 2026.01.27 12:02:56
-      title: 将 javascript 第三方库打包成一个可执行的 js 文件
-      url: https://blog.csdn.net/weixin_44791631/article/details/157429742
-    - author: 悦来客栈的老板
-      release_time: 2026.01.27 11:44:55
-      title: JS逆向实战|使用AI逆向某站cookie参数w_tsfp(jsvmp)纯算
-      url: https://blog.csdn.net/qq523176585/article/details/157457850
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
