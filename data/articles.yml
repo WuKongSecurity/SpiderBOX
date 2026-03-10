@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 冷月不是程序员
+      release_time: 2026.03.10 22:02:47
+      title: 数据泄露警告！OpenClaw慎用
+      url: https://www.bilibili.com/video/BV1PrcQzgEMF
     - author: r0ysue
       release_time: 2026.03.09 16:42:56
       title: 豆包手机尽说大实话
@@ -117,10 +121,6 @@
       release_time: 2026.02.01 01:38:50
       title: App 逆向 so dump 自动修复小工具
       url: https://www.bilibili.com/video/BV1Kv6JBaEAv
-    - author: 和沐阳学逆向与Ai
-      release_time: 2026.01.29 16:27:33
-      title: 72. 【国内首发】通义千问+Moltbot/clawdbot+飞书回复：教你零成本搭建“满血版”私人 AI 助理，秒杀 ChatGPT！
-      url: https://www.bilibili.com/video/BV1hm6FBQE5s
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
