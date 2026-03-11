@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 陈不不and挽风的逆向
+      release_time: 2026.03.12 02:05:21
+      title: cycronet 谷歌浏览器tls/ja3检测终点站，pip安装使用
+      url: https://www.bilibili.com/video/BV1g1wwz7EmY
     - author: 冷月不是程序员
       release_time: 2026.03.10 22:02:47
       title: 数据泄露警告！OpenClaw慎用
@@ -117,10 +121,6 @@
       release_time: 2026.02.01 12:02:21
       title: OLLVMVMP 二进制对抗  2026年 App逆向协议还原独家课程
       url: https://www.bilibili.com/video/BV1Wu6xBCEzM
-    - author: Alone逆向安全
-      release_time: 2026.02.01 01:38:50
-      title: App 逆向 so dump 自动修复小工具
-      url: https://www.bilibili.com/video/BV1Kv6JBaEAv
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
