@@ -927,6 +927,10 @@
           logo: github.png
           url: https://github.com/dsekz/chrome-x-browser-validation-header
           description: 用于 Chrome 私有 x-browser-validation header 头的逆向工程和生成工具包，该 header 头用于完整性验证
+        - title: Browser Fingerprint Collector
+          logo: github.png
+          url: https://github.com/zhizhuodemao/fingerprint-collector
+          description: 多层网络指纹采集与分析工具，支持 TLS/HTTP2/TCP/浏览器指纹采集，提供跨层一致性检测和安全分析
 
     - name: TLS 指纹
       links:
@@ -1010,6 +1014,10 @@
           logo: github.png
           url: https://github.com/robalb/ebpf-web-fingerprint
           description: 一个基于 eBPF 的 Go 语言库和 Web 服务器，用于快速 TCP 和 TLS 指纹识别
+        - title: proxy-checker-rs
+          logo: github.png
+          url: https://github.com/YCCDSZXH/proxy-checker-rs
+          description: 该存储库提供了一个开源的服务器端 API，用于检测客户端是否在使用代理。检测方法比较 TLS 和 TCP 层的往返时间 (RTT)。这种差异分析有助于识别代理的存在
         - title: requests-go
           logo: github.png
           url: https://github.com/wangluozhe/requests-go
@@ -1711,6 +1719,18 @@
           logo: github.png
           url: https://github.com/Dr-TSNG/Hide-My-Applist
           description: 该模块提供了一些检测方式用于测试您是否成功地隐藏了某些特定的包名，如 Magisk/Edxposed Manager；同时可作为 Xposed 模块用于隐藏应用列表或特定应用，保护隐私
+        - title: QtScrcpy
+          logo: github.png
+          url: https://github.com/barry-ran/QtScrcpy
+          description: QtScrcpy 可以通过 USB / 网络连接 Android 设备，并进行显示和控制。无需 root 权限，同时支持 GNU/Linux ，Windows 和 MacOS 三大主流桌面平台
+        - title: ZAFrida UI
+          logo: github.png
+          url: https://github.com/yilongmd/zafrida-ui
+          description: ZAFrida UI 是一款集成在 PyCharm 和 JetBrains 系列 IDE 中的 Frida 图形化操作插件。它旨在解决 Frida 命令行操作繁琐、脚本管理混乱的问题，提供了一套完整的 UI 交互界面 来管理设备、进程、脚本和日志
+        - title: 010Editor
+          logo: 010editor.png
+          url: https://www.sweetscape.com/010editor/
+          description: 010Editor 是一款二进制修改工具，可以直接对 exe 文件进行修改、保存。同时对一些藏有 flag 的文件，也有奇效！当然，它的使用也极其简单，只需要将文件拖入即可。修改完成后，直接保存即可
 
     - name: iOS 越狱
       links:
@@ -4349,6 +4369,10 @@
           logo: 4670123.jpg
           url: https://mp.weixin.qq.com/s/ktZWSzDGMYTdSjceuPoWKg
           description: 零点大佬的课程，从零实现 JSVMP，喵喵盾作者：https://www.ldvmp.com/，零点微信：CyyWon
+        - title: 如意浏览器内核研究培训
+          logo: Charleval.jpg
+          url: https://www.yuque.com/u21565569/ihuyk3/xgc6hqd94fb69xxp
+          description: 如意大佬的课程，chromium/firefox/safari 浏览器内核研究培训，从零基础到自己做出浏览器内核
         - title: 大数据安全技术学习星球
           logo: zsxq.png
           url: https://t.zsxq.com/FjMHh
@@ -4393,6 +4417,10 @@
           logo: seeflower.jpg
           url: https://blog.seeflower.dev/
           description: 安卓逆向博主，脸哥的博客
+        - title: Chen Shuai
+          logo: zhizhuodemao.jpg
+          url: https://zhizhuodemao.github.io/
+          description: 致力于研究 AI 与逆向的结合
 
     - name: 正版书籍
       links:
@@ -4480,6 +4508,7 @@
 - taxonomy: 人工智能
   icon: fas fa-robot fa-lg
   list:
+    - term: AI 辅助逆向
     - term: AI 文本对话
     - term: AI 代码编程
     - term: AI 图像视频
@@ -4487,6 +4516,101 @@
     - term: AI 文档办公
     - term: AI 其他资源
   tabs:
+    - name: AI 辅助逆向
+      links:
+        - title: AI_JS_DEBUGGER
+          url: https://github.com/Valerian7/AI_JS_DEBUGGER
+          logo: github.png
+          description: 本项目是基于 Chrome 开发者协议 (CDP) 的 AI 自动化 JavaScript 逆向分析工具，通过 AI 自动调试前端 JS，自动分析加解密算法、密钥等，自动生成分析报告以及 mitmproxy 脚本
+        - title: Android Reverse Engineering Skill
+          url: https://github.com/SimoneAvogadro/android-reverse-engineering-skill
+          logo: github.png
+          description: Claude Code Skill，可以反编译 Android APK/XAPK/JAR/AAR 文件，并提取应用程序使用的 HTTP API —— Retrofit 接口、OkHttp 调用、硬编码的 URL、认证模式，方便在没有原始源代码的情况下分析它们
+        - title: IDA-NO-MCP
+          url: https://github.com/P4nda0s/IDA-NO-MCP
+          logo: github.png
+          description: 告别 IDA MCP 复杂、冗长、卡顿的交互模式。AI 逆向，无需额外配置
+        - title: Reverse Engineering Skills
+          url: https://github.com/P4nda0s/reverse-skills
+          logo: github.png
+          description: 为 Claude Code 提供逆向工程分析技能的插件市场。专为 IDA-NO-MCP 设计 - 从 IDA 导出反编译结果，然后使用 Claude Code 进行分析
+        - title: reverse-skill
+          url: https://github.com/715494637/reverse-skill
+          logo: github.png
+          description: 面向 Web JS 逆向分析的技能仓库，覆盖请求链定位、运行时诊断、AST 混淆恢复、JSVMP、worker、WASM、webpack/runtime 与协议语义分析
+        - title: JS Reverse MCP
+          url: https://github.com/zhizhuodemao/js-reverse-mcp
+          logo: github.png
+          description: JavaScript 逆向工程 MCP 服务器，让你的 AI 编码助手（如 Claude、Cursor、Copilot）能够调试和分析网页中的 JavaScript 代码。基于 Patchright 反检测引擎，内置多层反爬绕过能力，可在知乎、Google 等有风控检测的站点正常工作
+        - title: Android Proxy MCP
+          url: https://github.com/zhizhuodemao/android_proxy_mcp
+          logo: github.png
+          description: 基于 MCP 的 Android 抓包服务，让 AI 助手通过自然语言分析网络请求
+        - title: Frida MCP
+          url: https://github.com/zhizhuodemao/frida-mcp
+          logo: github.png
+          description: 一个用于 Frida 动态调试的 MCP 工具，支持自定义 Frida 路径和名称端口,自动管理 Frida
+        - title: ADB MCP
+          url: https://github.com/zhizhuodemao/adb-mcp
+          logo: github.png
+          description: 一个全面的安卓调试桥 (ADB) 操作的 MCP 服务器，提供完整的安卓设备管理功能
+        - title: ai-reverse-toolkit
+          url: https://github.com/zhizhuodemao/ai-reverse-toolkit
+          logo: github.png
+          description: 用于逆向分析的 AI 的 skills，rules 和 prompt
+        - title: IDA Pro MCP
+          url: https://github.com/mrexodia/ida-pro-mcp
+          logo: github.png
+          description: 通过 MCP 将 IDA Pro 与 AI 模型连接起来的 AI 逆向工程助手
+        - title: JADX-AI-MCP
+          url: https://github.com/zinja-coder/jadx-ai-mcp
+          logo: github.png
+          description: JADX-AI-MCP 是 JADX 反编译器的插件，它直接与模型上下文协议（MCP）集成，以提供使用 LLMs（如 Claude）的实时逆向工程支持
+        - title: JADX-MCP-SERVER
+          url: https://github.com/zinja-coder/jadx-mcp-server
+          logo: github.png
+          description: JADX MCP Server 是一个独立的 Python 服务器，通过 MCP（模型上下文协议）与 jadx-gui 的修改版（参见：jadx-ai-mcp）交互。它允许 LLMs 实时与反编译的 Android 应用上下文进行通信
+        - title: apktool-mcp-server
+          url: https://github.com/zinja-coder/apktool-mcp-server
+          logo: github.png
+          description: apktool-mcp-server 是 Apktool 的 MCP 服务器，提供使用 Claude 等 LLMs 的实时逆向工程支持
+        - title: JADX-GUI-AI
+          url: https://github.com/cncsnet1/jadx-gui-ai
+          logo: jadx-gui-ai.png
+          description: JADX-GUI-AI 是一个在 JADX 基础上增强的智能反编译工具，集成了 AI 辅助功能，可以帮助开发者更好地理解和分析反编译后的代码
+        - title: Chrome DevTools MCP
+          url: https://github.com/ChromeDevTools/chrome-devtools-mcp
+          logo: github.png
+          description: chrome-devtools-mcp 让您的 Agent（如 Gemini、Claude、Cursor 或 Copilot）能够控制和检查实时 Chrome 浏览器。它充当 MCP 服务器，为您的 AI 编码助手提供对 Chrome DevTools 全部功能的访问，以实现可靠的自动化、深入的调试和性能分析
+        - title: js-reverse-automation--skill
+          url: https://github.com/Fausto-404/js-reverse-automation--skill
+          logo: github.png
+          description: 结合 chrome-devtools-mcp 的能力并加上 Skill 的规范，实现 JSRPC + Flask + autoDecoder 方案的前端 JS 逆向自动化分析，提升 JS 逆向的效率
+        - title: jshook-skill
+          url: https://github.com/wuji66dde/jshook-skill
+          logo: github.png
+          description: AI 驱动 JS 逆向：反混淆、加密识别、CDP 调试、Hook 注入、反检测
+        - title: jshook-reverse-tool
+          url: https://github.com/wuji66dde/jshook-reverse-tool
+          logo: github.png
+          description: jshook-reverse-tool 是一个基于 MCP 的 JavaScript 逆向工程工具，通过 80+ 个专业工具，让 Claude、ChatGPT 等 AI 助手能够自动化完成复杂的网页分析、调试和逆向任务
+        - title: re-skill
+          url: https://github.com/vgrichina/re-skill
+          logo: github.png
+          description: 一种启动并推动 retro games 逆向工程项目的 Claude 代码技能。指向一个 ROM 或二进制文件，它将搭建一个完整的逆向工程工作空间——然后迭代地反汇编、注释、提取资源，并将游戏移植到 Web 画布上，所有操作均通过 CLI 完成
+        - title: Agent Skills
+          url: https://github.com/betab0t/skills/
+          logo: github.png
+          description: 一个不断更新的用于 AI coding agents 逆向工程的技能集合
+        - title: Tencent SkillHub
+          url: https://skillhub.tencent.com/
+          logo: skillhub.tencent.png
+          description: 专为中国用户优化的 Skills 社区，SkillHub 精选 Top 50 高质量 AI Skills，经过安全审核与多维度评估，助你发现最实用的 AI 技能
+        - title: Playwright MCP
+          url: https://github.com/microsoft/playwright-mcp
+          logo: github.png
+          description: 一个使用 Playwright 提供浏览器自动化功能的 MCP 服务器。该服务器使 LLMs 能够通过结构化的可访问性快照与网页交互，从而无需截图或视觉调优模型
+
     - name: AI 文本对话
       links:
         - title: ChatGPT
@@ -4870,6 +4994,10 @@
           url: https://tongyi-agent.github.io/zh/
           logo: qianwen.png
           description: 通义 DeepResearch 是深度研究 Agent 模型，拥有 3B 激活参数，性能对标基于 OpenAI o3、DeepSeek V3.1 和 Claude-4-Sonnet 等旗舰模型的 ReAct Agent
+        - title: Awesome OpenClaw Skills
+          url: https://github.com/VoltAgent/awesome-openclaw-skills
+          logo: github.png
+          description: OpenClaw 是一款在本地运行的 AI 助手，直接在您的机器上运行。技能（skills）扩展了其功能，使其能够与外部服务交互、自动化工作流程并执行专业任务。这个仓库帮助您发现并安装适合您需求的技能
 
     - name: AI 其他资源
       links:
