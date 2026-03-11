@@ -7,7 +7,7 @@ contacts:
   - label: 站长邮箱
     value: admin@itbob.cn
     link: mailto:admin@itbob.cn
-  - label: 站长微信
+  - label: 站长微信/微信交流群 <font color="red">(推荐)</font>
     value: IT-BOB
     link: https://static.wukongsec.com/public/images/info/wechat_art.webp
   - label: 站长 QQ
@@ -26,7 +26,7 @@ contacts:
     value: 反馈/建议/收录/合作
     link: https://wj.qq.com/s2/25576072/4e39/
 support:
-  image: https://static.wukongsec.com/public/images/info/wxzf_art.webp
+  image: https://static.wukongsec.com/public/images/info/sponsor.webp
   alt: 赞助二维码
   caption: 您的支持是我保持更新的动力，<a href="https://spiderapi.cn/pages/sponsor/#%E4%B8%AA%E4%BA%BA%E8%B5%9E%E5%8A%A9-%E6%94%AF%E5%87%BA%E8%AE%B0%E5%BD%95" target="_blank">赞助名单</a>
 qna:
@@ -45,7 +45,7 @@ qna:
      7.悟空风控检测系统，暂未对外开放。</br>
      </br>由于工作繁忙，部分网站开发处于停滞状态，有时间会继续完善。
   - question: 站长简介
-    answer: 原K哥爬虫公众号创始人，后被公司背刺离职，离职后仍然剽窃站长思路，<a href="https://mp.weixin.qq.com/s/7vFpmhvU8-DCONlvlklMTQ" target="_blank">抄袭本人网站</a>。站长擅长数据挖掘、逆向和正向安全、浏览器指纹、风控对抗，18年开始写博客，长期无偿分享技术，累计访问量超百万，公众号：<a href="https://static.wukongsec.com/public/images/info/spider_skill_green.png" target="_blank">虫技</a>
+    answer: 原“K哥爬虫”公众号创始人，隶属于快代理，后被迫从该公司离职，离职后仍然持续背刺站长，<a href="https://mp.weixin.qq.com/s/7vFpmhvU8-DCONlvlklMTQ" target="_blank">抄袭本人网站</a>。</br>站长擅长数据挖掘、逆向和正向安全、浏览器指纹、风控对抗，18年开始写博客，长期无偿分享技术，全网累计访问量超百万，公众号：<a href="https://static.wukongsec.com/public/images/info/spider_skill_green.png" target="_blank">虫技</a>
 changelog:
   - date: 2026.01.20
     title: v1.3 发布
@@ -97,4 +97,1210 @@ changelog:
     title: 项目成立
     items:
       - text: 项目初始化完成，进入开发阶段
+
+monitor:
+  desc: |
+    ▶ 以下为【最新文章/视频】博主监控名单，博主发布最新文章/视频均会被采集收录。本站不会保存文章内容，只对标题、链接等基本信息进行缓存！</br>▶ 名单展示按照收录先后顺序排名，个人精力有限，难免有遗漏，有爬虫、逆向、风控领域相关的自媒体账号可以推荐给站长进行收录。</br>▶ 长期未活跃，或者发布的文章视频质量不高、只放两张截图引流，啥技术也不说的，以及培训机构账号矩阵均不会被收录，感谢理解！
+  groups:
+    - title: 微信公众号名单
+      baseIdLink: http://open.weixin.qq.com/qr/code?username=
+      headers:
+        - label: 公众号 ID
+          key: id
+        - label: 昵称
+          key: name
+        - label: 收录时间
+          key: date
+        - label: 备注
+          key: note
+      items:
+        - id: gh_56313daabcfb
+          name: 逆向有你
+          date: 2024.12.08
+          note:
+        - id: gh_3d394cc6d03a
+          name: 虫技
+          date: 2024.12.08
+          note:
+        - id: gh_cf2cd6bfe39e
+          name: 二进制磨剑
+          date: 2024.12.08
+          note:
+        - id: gh_a377081d4221
+          name: 编角料
+          date: 2024.12.08
+          note:
+        - id: gh_115024bacc7b
+          name: 小伍哥聊风控
+          date: 2024.12.08
+          note:
+        - id: gh_84c656527267
+          name: 逆向OneByOne
+          date: 2024.12.08
+          note:
+        - id: gh_47b382347c2c
+          name: LuckyFuture
+          date: 2024.12.08
+          note:
+        - id: gh_385efb80e1a2
+          name: 菜鸟学Python编程
+          date: 2024.12.08
+          note:
+        - id: gh_d348fd15708a
+          name: 小白逆向之旅
+          date: 2024.12.08
+          note:
+        - id: gh_c4d92cc9b0d9
+          name: 时光python之旅
+          date: 2024.12.08
+          note:
+        - id: gh_497711e793fa
+          name: python爬虫与js逆向
+          date: 2024.12.08
+          note:
+        - id: gh_b237fabfe467
+          name: Pythonlx
+          date: 2024.12.08
+          note:
+        - id: gh_d01a80bce240
+          name: python爬虫和阿J的逆向
+          date: 2024.12.08
+          note:
+        - id: gh_bc164eb4eb54
+          name: 妄为写代码
+          date: 2024.12.08
+          note:
+        - id: gh_a556e07807f6
+          name: 咸鱼学Python
+          date: 2024.12.08
+          note:
+        - id: gh_63223f7795f5
+          name: 爬虫术与道
+          date: 2024.12.08
+          note:
+        - id: gh_fdf8c8d2d9a8
+          name: 矛和盾的故事
+          date: 2024.12.08
+          note:
+        - id: gh_988035dcd8a1
+          name: 逆向简史
+          date: 2024.12.08
+          note:
+        - id: gh_c637bce93320
+          name: js 安卓 iOS逆向
+          date: 2024.12.08
+          note:
+        - id: gh_6489a49d398e
+          name: 爬虫逆向之旅
+          date: 2024.12.08
+          note:
+        - id: gh_4e76add430dc
+          name: y小白的笔记
+          date: 2024.12.08
+          note:
+        - id: gh_96fbc717689e
+          name: 影17
+          date: 2024.12.08
+          note:
+        - id: gh_ab8489df7681
+          name: 榫卯江湖
+          date: 2024.12.08
+          note:
+        - id: gh_c6b6687c06b6
+          name: Coder小Q
+          date: 2024.12.08
+          note:
+        - id: gh_5297376f8e94
+          name: 小鸿爱摸鱼
+          date: 2024.12.08
+          note:
+        - id: gh_2ef7d8a36a80
+          name: 资源堂
+          date: 2024.12.08
+          note:
+        - id: gh_2873653fd7af
+          name: 未闻Code
+          date: 2024.12.08
+          note:
+        - id: gh_b0c56f22b958
+          name: 柳絮的学习杂记
+          date: 2024.12.08
+          note:
+        - id: gh_1e9cdae72d92
+          name: 沐阳科技资源
+          date: 2024.12.08
+          note:
+        - id: gh_25c90dc826ec
+          name: Py学习日记
+          date: 2024.12.08
+          note:
+        - id: gh_822bfba8a24c
+          name: 理想主义的Pythonista
+          date: 2024.12.08
+          note:
+        - id: gh_68214466aa2d
+          name: Python头等奖
+          date: 2024.12.08
+          note:
+        - id: gh_ecfb7c1ab2c3
+          name: Spider乾坤
+          date: 2024.12.08
+          note:
+        - id: gh_1f8dda29abf5
+          name: 陈不不and挽风的逆向
+          date: 2024.12.08
+          note:
+        - id: gh_c6faa38684cd
+          name: jqiu爬虫分析日记
+          date: 2024.12.08
+          note:
+        - id: gh_ac5cd11c73dc
+          name: python学习爱好者
+          date: 2024.12.08
+          note:
+        - id: gh_75f1f3757c88
+          name: 软件安全与逆向分析
+          date: 2024.12.08
+          note:
+        - id: gh_fb242c15300f
+          name: 吾爱破解论坛
+          date: 2024.12.08
+          note:
+        - id: gh_6266a9c8972e
+          name: 爬虫逆向小林哥
+          date: 2024.12.08
+          note:
+        - id: gh_01fa7b4fd87a
+          name: 静夜随想
+          date: 2024.12.08
+          note:
+        - id: gh_d7f3741e0b6a
+          name: 二进制科学
+          date: 2024.12.08
+          note:
+        - id: gh_e417c9dad740
+          name: 关于代码那点事
+          date: 2024.12.08
+          note:
+        - id: gh_b663e477c97a
+          name: 搞点逆向778
+          date: 2024.12.08
+          note:
+        - id: gh_c08b6fb82c4b
+          name: 秃头的逆向痴想
+          date: 2024.12.08
+          note:
+        - id: gh_f8b47f4cefab
+          name: 学渣搞逆向
+          date: 2024.12.08
+          note:
+        - id: gh_45c14a16fa8c
+          name: 兔老大Android和iOS逆向
+          date: 2024.12.08
+          note:
+        - id: gh_32adddcadde2
+          name: ReverseCode
+          date: 2024.12.08
+          note:
+        - id: gh_fc6c78a6258d
+          name: 逆向lin狗
+          date: 2024.12.08
+          note:
+        - id: gh_999f52233e07
+          name: 移动端Android和iOS开发技术分享
+          date: 2024.12.08
+          note:
+        - id: gh_712d30bbf771
+          name: ck的学习笔记
+          date: 2024.12.08
+          note:
+        - id: gh_31d739e3790e
+          name: 理想真会玩
+          date: 2024.12.08
+          note:
+        - id: gh_a1a940f17ec3
+          name: 小道安全
+          date: 2024.12.08
+          note:
+        - id: gh_5a4674891c7f
+          name: 独步爬虫逆向
+          date: 2024.12.08
+          note:
+        - id: gh_2c45214772d7
+          name: coderwhy
+          date: 2024.12.08
+          note:
+        - id: gh_d42cfaff9df1
+          name: 猿人学Python
+          date: 2024.12.08
+          note:
+        - id: gh_060e91811143
+          name: 哆啦安全
+          date: 2024.12.08
+          note:
+        - id: gh_7409f69068a6
+          name: 逆向与爬虫的故事
+          date: 2024.12.08
+          note:
+        - id: gh_596760b42515
+          name: 随心记事
+          date: 2024.12.08
+          note:
+        - id: gh_90625a2cad3c
+          name: 逆向study
+          date: 2024.12.08
+          note:
+        - id: gh_5c23643f97c5
+          name: 爬虫兄弟搞搞逆向
+          date: 2024.12.08
+          note:
+        - id: gh_70ba5e7f407e
+          name: 奋飞安全
+          date: 2024.12.08
+          note:
+        - id: gh_543c6301f39a
+          name: 爬虫spider
+          date: 2024.12.08
+          note:
+        - id: gh_d8e965e6d0d5
+          name: 网虫Spider
+          date: 2024.12.08
+          note:
+        - id: gh_7549aad3f188
+          name: 逆向日记
+          date: 2024.12.08
+          note:
+        - id: gh_3a7447778ff3
+          name: 菜鸡的逆向日记
+          date: 2024.12.08
+          note:
+        - id: gh_2ebb4542401d
+          name: 爬虫逆向技术分享
+          date: 2024.12.08
+          note:
+        - id: gh_8cc3b5d08c10
+          name: 进击的爬虫
+          date: 2024.12.08
+          note:
+        - id: gh_3150b538dd34
+          name: 虫术
+          date: 2024.12.08
+          note:
+        - id: gh_5a7594c29646
+          name: s0ing
+          date: 2024.12.08
+          note:
+        - id: gh_1e33544a8a79
+          name: 逆向路漫漫
+          date: 2024.12.08
+          note:
+        - id: gh_6e84ebf77454
+          name: 移动安全星球
+          date: 2024.12.08
+          note:
+        - id: gh_00be36c213ec
+          name: 爬虫45度
+          date: 2024.12.08
+          note:
+        - id: gh_90310c90023f
+          name: python和逆向
+          date: 2024.12.08
+          note:
+        - id: gh_722036c354e6
+          name: 逆向攻与防
+          date: 2024.12.08
+          note:
+        - id: gh_f89880d79473
+          name: 菜鸡弟弟的逆向之路
+          date: 2024.12.08
+          note:
+        - id: gh_1dae307aa4ab
+          name: virjar是渣渣
+          date: 2024.12.08
+          note:
+        - id: gh_6ced1cafca19
+          name: 燕幕自安
+          date: 2024.12.08
+          note:
+        - id: gh_165293133bc5
+          name: pang的逆向
+          date: 2024.12.08
+          note:
+        - id: gh_1fe6eccfd5b3
+          name: 夏日技术友人帐
+          date: 2024.12.08
+          note:
+        - id: gh_c7d0788ebde0
+          name: 面向小白的逆向笔记
+          date: 2024.12.08
+          note:
+        - id: gh_b46c4f4dc23b
+          name: NightTeam
+          date: 2024.12.08
+          note:
+        - id: gh_0ff9662604df
+          name: 平底锅煎蛋
+          date: 2024.12.08
+          note:
+        - id: gh_95c3d3d2063e
+          name: python小丑鱼
+          date: 2024.12.08
+          note:
+        - id: gh_84afbde963bf
+          name: 我最菜
+          date: 2024.12.08
+          note:
+        - id: gh_8a34b8979a2a
+          name: 逆向小友
+          date: 2024.12.08
+          note:
+        - id: gh_01989da4e3dd
+          name: 爬虫大菜鸡
+          date: 2024.12.08
+          note:
+        - id: gh_0fb3e29ff94c
+          name: 爬虫逆向技术栈
+          date: 2024.12.08
+          note:
+        - id: gh_4cbd1c372f2a
+          name: 花花学逆向
+          date: 2024.12.08
+          note:
+        - id: gh_f561c4f69250
+          name: 爬虫逆向笔记
+          date: 2024.12.08
+          note:
+        - id: gh_737846ec76a6
+          name: 一生向风
+          date: 2024.12.08
+          note:
+        - id: gh_339fd590d9cf
+          name: Bug攻防
+          date: 2024.12.08
+          note:
+        - id: gh_86aab598880e
+          name: K哥爬虫
+          date: 2024.12.08
+          note: 2025.01.17 移除监控，背刺员工
+        - id: gh_e3bc789ec364
+          name: Spade sec
+          date: 2024.12.09
+          note:
+        - id: gh_b47cae6218b8
+          name: 当爬虫遇到逆向
+          date: 2024.12.09
+          note:
+        - id: gh_f7eefacb8595
+          name: 我真的不是蜘蛛
+          date: 2024.12.09
+          note:
+        - id: gh_e98a8ed7253b
+          name: DrissionPage
+          date: 2024.12.14
+          note:
+        - id: gh_4a62837bac85
+          name: lsq665
+          date: 2024.12.15
+          note:
+        - id: gh_3f2c705b036c
+          name: R逆向
+          date: 2024.12.15
+          note:
+        - id: gh_0f9cbd788793
+          name: 季东ooo
+          date: 2024.12.25
+          note:
+        - id: gh_6e5158a8d7b9
+          name: SpiderLittleWhite
+          date: 2025.01.01
+          note:
+        - id: gh_fdc416568214
+          name: 逆向学习之旅
+          date: 2025.01.02
+          note: 2025.01.17 移除监控，水文无营养
+        - id: gh_c9e9a29ec824
+          name: 一只野生码农
+          date: 2025.01.24
+          note:
+        - id: gh_64d2c7ba7e9e
+          name: 秋裤的学习笔记
+          date: 2025.01.25
+          note:
+        - id: gh_bb0763730675
+          name: 小白技术社
+          date: 2025.02.21
+          note:
+        - id: gh_2b9089a430e7
+          name: 知一Tracer
+          date: 2025.03.11
+          note:
+        - id: gh_162a86a090c4
+          name: Millder He
+          date: 2025.03.11
+          note:
+        - id: gh_10d7d04417bb
+          name: LLLibra146
+          date: 2025.03.11
+          note:
+        - id: gh_d15f34dcb857
+          name: 菜狗学逆向
+          date: 2025.03.13
+          note:
+        - id: gh_c7caaf1d27e0
+          name: 丫总逆向
+          date: 2025.03.19
+          note:
+        - id: gh_f4d52ca82e1c
+          name: 逆向狗都不学
+          date: 2025.03.28
+          note:
+        - id: gh_b7ac0ec8d593
+          name: 断点续行
+          date: 2025.05.30
+          note: 2025.08.27 移除监控，图灵夏洛，<a href="https://mp.weixin.qq.com/s/xDhhE9foH2g4lSQdsfKYPg" target="_blank">长期抄袭</a>
+        - id: gh_1d8f1034d4b9
+          name: 如意私塾
+          date: 2025.06.30
+          note:
+        - id: gh_581c511793b7
+          name: 点点的逆向之旅
+          date: 2025.06.30
+          note:
+        - id: gh_720957e1794e
+          name: 前沿逆向
+          date: 2025.06.30
+          note:
+        - id: gh_e207193238bc
+          name: 小小杨学编程
+          date: 2025.07.22
+          note:
+        - id: gh_fa4e6c500a73
+          name: 尖端对抗
+          date: 2025.09.03
+          note:
+        - id: gh_fd5b1e150976
+          name: 逆向成长日记
+          date: 2025.09.03
+          note:
+
+    - title: 哔哩哔哩博主名单
+      baseIdLink: https://space.bilibili.com/
+      headers:
+        - label: 哔哩哔哩 MID
+          key: id
+        - label: 昵称
+          key: name
+        - label: 收录时间
+          key: date
+        - label: 备注
+          key: note
+      items:
+        - id: 308704191
+          name: 时一十一姐呀	
+          date: 2024.12.08	
+          note:
+        - id: 358732858
+          name: 凛音姫	
+          date: 2024.12.08	
+          note:
+        - id: 27577421
+          name: 安卓反调试frida检测Neo	
+          date: 2024.12.08	
+          note:
+        - id: 31025974
+          name: r0ysue	
+          date: 2024.12.08	
+          note:
+        - id: 534838862
+          name: 小肩膀-逆向安全培训	
+          date: 2024.12.08	
+          note:
+        - id: 434541052
+          name: 珍惜Any	
+          date: 2024.12.08	
+          note:
+        - id: 439348342
+          name: 和沐阳学逆向	
+          date: 2024.12.08	
+          note:
+        - id: 1366032025
+          name: 西门浪0v0	
+          date: 2024.12.08	
+          note:
+        - id: 4670123
+          name: 零点520666	
+          date: 2024.12.08	
+          note:
+        - id: 48179703
+          name: B站用户骚神	
+          date: 2024.12.08	
+          note:
+        - id: 480809815
+          name: 风と自由	
+          date: 2024.12.08	
+          note:
+        - id: 1796457925
+          name: 悦来客栈的老板	
+          date: 2024.12.08	
+          note:
+        - id: 227452348
+          name: 陈不不and挽风的逆向	
+          date: 2024.12.08	
+          note:
+        - id: 500303
+          name: 二进制科学	
+          date: 2024.12.08	
+          note:
+        - id: 358764286
+          name: 会飞ヾ的鱼	
+          date: 2024.12.08	
+          note:
+        - id: 392040559
+          name: 白面OVO	
+          date: 2024.12.08	
+          note:
+        - id: 3493257935850246
+          name: nothing__233	
+          date: 2024.12.08	
+          note:
+        - id: 450412693
+          name: HD236300	
+          date: 2024.12.08	
+          note:
+        - id: 383977952
+          name: 名字叫阿柒	
+          date: 2024.12.08	
+          note:
+        - id: 1533897577
+          name: 漠染千舟	
+          date: 2024.12.08	
+          note:
+        - id: 633101470
+          name: 波波老师带你学爬虫	
+          date: 2024.12.08	
+          note: 2024.12.12 移除监控，疑似培训机构
+        - id: 3461578481470147
+          name: 逆向狗都不学	
+          date: 2024.12.08	
+          note:
+        - id: 521068039
+          name: 若水0014	
+          date: 2024.12.08	
+          note:
+        - id: 182558639
+          name: 可乐还是百事好呀	
+          date: 2024.12.08	
+          note:
+        - id: 38940666
+          name: 一燕来去一年冬	
+          date: 2024.12.08	
+          note:
+        - id: 392333105
+          name: 猿人学Python	
+          date: 2024.12.08	
+          note:
+        - id: 397037741
+          name: ikun的嘴	
+          date: 2024.12.08	
+          note:
+        - id: 397155590
+          name: QiQi指的是琦琦	
+          date: 2024.12.08	
+          note:
+        - id: 362235493
+          name: 下雨天sana	
+          date: 2024.12.08	
+          note:
+        - id: 392204112
+          name: 冒蓝火的黑骑士	
+          date: 2024.12.09	
+          note:
+        - id: 1683992739
+          name: 带带弟弟学爬虫	
+          date: 2024.12.15	
+          note:
+        - id: 419760403
+          name: 如何追mio酱	
+          date: 2024.12.15	
+          note:
+        - id: 1886803835
+          name: 一只勇敢的小佳	
+          date: 2024.12.15	
+          note:
+        - id: 494103250
+          name: Alone_666	
+          date: 2024.12.15	
+          note:
+        - id: 170999
+          name: 梨婵	
+          date: 2024.12.15	
+          note:
+        - id: 11445958
+          name: 那个昵称已经有人用过	
+          date: 2024.12.15	
+          note:
+        - id: 599967016
+          name: -云松	
+          date: 2024.12.15	
+          note:
+        - id: 20526000
+          name: DrissionPage	
+          date: 2024.12.15	
+          note:
+        - id: 164671536
+          name: 冷月不是程序员	
+          date: 2024.12.15	
+          note:
+        - id: 701939513
+          name: 念初77	
+          date: 2024.12.15	
+          note:
+        - id: 101698074
+          name: ShriyGo	
+          date: 2024.12.15
+          note:
+          
+    - title: CSDN 博主名单
+      baseIdLink: https://blog.csdn.net/
+      headers:
+        - label: CSDN ID
+          key: id
+        - label: 昵称
+          key: name
+        - label: 收录时间
+          key: date
+        - label: 备注
+          key: note
+      items:
+        - id: weixin_43411585
+          name: 十一姐
+          date: 2024.12.08
+          note: 
+        - id: weixin_43582101
+          name: 考古学家lx(李玺)
+          date: 2024.12.08
+          note: 
+        - id: qq523176585
+          name: 悦来客栈的老板
+          date: 2024.12.08
+          note: 
+        - id: qq_38474570
+          name: 鬼手56
+          date: 2024.12.08
+          note: 
+        - id: weixin_44772112
+          name: 成功你要成仁啊
+          date: 2024.12.08
+          note: 
+        - id: qq_26079939
+          name: 阿J~
+          date: 2024.12.08
+          note: 
+        - id: qiulin_wu
+          name: 吴秋霖
+          date: 2024.12.08
+          note: 
+        - id: weixin_43505430
+          name: 逆向与爬虫的故事
+          date: 2024.12.08
+          note: 
+        - id: xmx_000
+          name: 杨如画.
+          date: 2024.12.08
+          note: 
+        - id: qq_40979337
+          name: zk935960518
+          date: 2024.12.08
+          note: 
+        - id: qq_43308242
+          name: 时光亦不回首
+          date: 2024.12.08
+          note: 
+        - id: w1101662433
+          name: 王辉辉的猫
+          date: 2024.12.08
+          note: 
+        - id: qq_44657571
+          name: 逆向学习之旅
+          date: 2024.12.08
+          note: 
+        - id: weixin_47115747
+          name: '`Jay'
+          date: 2024.12.08
+          note: 
+        - id: weixin_44437016
+          name: y小白的笔记
+          date: 2024.12.08
+          note: 
+        - id: u010559109
+          name: r0ysue_
+          date: 2024.12.08
+          note: 
+        - id: m0_52336378
+          name: 半离岛
+          date: 2024.12.08
+          note: 
+        - id: jia666666
+          name: jia666666
+          date: 2024.12.08
+          note: 
+        - id: qq_36780279
+          name: 星云牛马
+          date: 2024.12.08
+          note: 
+        - id: pyzzd
+          name: BuerCC
+          date: 2024.12.08
+          note: 
+        - id: weixin_46874932
+          name: Sping__
+          date: 2024.12.08
+          note: 
+        - id: weixin_44691004
+          name: A九三
+          date: 2024.12.08
+          note: 
+        - id: weixin_45307278
+          name: Nickname肖知寒
+          date: 2024.12.08
+          note: 
+        - id: qq_63701832
+          name: coleak
+          date: 2024.12.08
+          note: 
+        - id: weixin_45541986
+          name: 一位路过的程序员
+          date: 2024.12.08
+          note: 
+        - id: qq_38851536
+          name: 白龙~
+          date: 2024.12.08
+          note: 
+        - id: qq_44749634
+          name: 写BUG专家
+          date: 2024.12.08
+          note: 
+        - id: jerry3747
+          name: 逆向三十六计
+          date: 2024.12.08
+          note: 
+        - id: weixin_38927522
+          name: Codeooo
+          date: 2024.12.08
+          note: 
+        - id: c_kongfei
+          name: 小道安全
+          date: 2024.12.08
+          note: 
+        - id: qq_43704986
+          name: Mint.Coder
+          date: 2024.12.08
+          note: 
+        - id: m0_51159233
+          name: 追风暴的人
+          date: 2024.12.08
+          note: 
+        - id: big_god_
+          name: 活捉一只小菜鸟~
+          date: 2024.12.08
+          note: 
+        - id: weixin_44862184
+          name: 挽风逆向
+          date: 2024.12.08
+          note: 
+        - id: weixin_58584029
+          name: 西楚傲天
+          date: 2024.12.08
+          note: 
+        - id: Y_morph
+          name: geekbyte.
+          date: 2024.12.08
+          note: 
+        - id: zjq592767809
+          name: 渔滒
+          date: 2024.12.08
+          note: 
+        - id: weixin_44504978
+          name: _花爷
+          date: 2024.12.08
+          note: 
+        - id: Qiled
+          name: Qiled
+          date: 2024.12.08
+          note: 
+        - id: qq_46013295
+          name: 不不不我要摸鱼
+          date: 2024.12.08
+          note: 
+        - id: qq_41155858
+          name: 和沐阳学逆向
+          date: 2024.12.08
+          note: 
+        - id: u010671061
+          name: 移动安全星球
+          date: 2024.12.08
+          note: 
+        - id: qq_33403388
+          name: 十二有bug
+          date: 2024.12.08
+          note: 
+        - id: u013046615
+          name: 预买桂花同载酒终
+          date: 2024.12.08
+          note: 
+        - id: qq409732112
+          name: 公过水蚊
+          date: 2024.12.08
+          note: 
+        - id: weixin_46672080
+          name: 逆向新手
+          date: 2024.12.08
+          note: 
+        - id: qq_38154948
+          name: 拉灯的小手
+          date: 2024.12.08
+          note: 
+        - id: u014431237
+          name: AnxiangLemon
+          date: 2024.12.08
+          note: 
+        - id: qq_44657899
+          name: 天问_Herbert555
+          date: 2024.12.08
+          note: 
+        - id: yyz_yinyuanzhang
+          name: Mick Schumacher
+          date: 2024.12.08
+          note: 
+        - id: Bennett_
+          name: LuoYe丶
+          date: 2024.12.08
+          note: 
+        - id: qq_21050249
+          name: 故意~
+          date: 2024.12.08
+          note: 
+        - id: qq_43572758
+          name: 看见我书了吗
+          date: 2024.12.08
+          note: 
+        - id: Zuko_chen
+          name: 始識
+          date: 2024.12.08
+          note: 
+        - id: NUT_0
+          name: NUT_0
+          date: 2024.12.08
+          note: 
+        - id: weixin_52283613
+          name: 八月欢喜
+          date: 2024.12.08
+          note: 
+        - id: hdd706
+          name: hdd706
+          date: 2024.12.08
+          note: 
+        - id: qq_38977435
+          name: Amazing__W
+          date: 2024.12.08
+          note: 
+        - id: qq_49268524
+          name: 小爬菜
+          date: 2024.12.08
+          note: 
+        - id: ckcookies
+          name: ckcookies
+          date: 2024.12.08
+          note: 
+        - id: weixin_42277380
+          name: 飞向天空的鹰
+          date: 2024.12.08
+          note: 
+        - id: A_fanyifan
+          name: 带带弟弟学爬虫__
+          date: 2024.12.08
+          note: 
+        - id: 2401_84054263
+          name: callback-function
+          date: 2024.12.08
+          note: 
+        - id: mamenqi_csdn
+          name: 傲娇的小苹果
+          date: 2024.12.08
+          note: 
+        - id: w62181310
+          name: 轩辕丿
+          date: 2024.12.08
+          note: 
+        - id: m0_46631208
+          name: 白寸(渴～知)
+          date: 2024.12.08
+          note: 
+        - id: weixin_39010615
+          name: 孤独的三毛
+          date: 2024.12.08
+          note: 
+        - id: 2301_78252288
+          name: 2301_78252288
+          date: 2024.12.08
+          note: 
+        - id: weixin_52001594
+          name: 花庭
+          date: 2024.12.08
+          note: 
+        - id: m0_75266682
+          name: 老师我太想进步了！
+          date: 2024.12.08
+          note: 
+        - id: y662225dd
+          name: 一本杂志
+          date: 2024.12.08
+          note: 
+        - id: u010226586
+          name: 我是花臂不花
+          date: 2024.12.08
+          note: 
+        - id: ljc545w
+          name: 勇敢自由
+          date: 2024.12.08
+          note: 
+        - id: qq_36551453
+          name: 码王吴彦祖
+          date: 2024.12.08
+          note: 
+        - id: qq_44906798
+          name: 夜无霄
+          date: 2024.12.08
+          note: 
+        - id: weixin_69490628
+          name: 汉斯鲁昂
+          date: 2024.12.08
+          note: 
+        - id: Qwertyuiop2016
+          name: Python成长路
+          date: 2024.12.08
+          note: 
+        - id: Leetengteng
+          name: 别None了
+          date: 2024.12.08
+          note: 
+        - id: welggy
+          name: onejane
+          date: 2024.12.08
+          note: 
+        - id: weixin_44791631
+          name: 扁舟·TF
+          date: 2024.12.08
+          note: 
+        - id: qq_47459180
+          name: Wy01688king
+          date: 2024.12.08
+          note: 
+        - id: L1416279170
+          name: 溏心蛋*
+          date: 2024.12.08
+          note: 
+        - id: weixin_43845191
+          name: 九月镇灵将
+          date: 2024.12.08
+          note: 
+        - id: m0_62945506
+          name: 贝母
+          date: 2024.12.08
+          note: 
+        - id: m0_38098782
+          name: CgfFan
+          date: 2024.12.08
+          note: 
+        - id: weixin_41259961
+          name: 猫先森_
+          date: 2024.12.08
+          note: 
+        - id: laoyaogegeg
+          name: LY㊋
+          date: 2024.12.08
+          note: 
+        - id: sergiojune
+          name: sergiojune
+          date: 2024.12.08
+          note: 
+        - id: bluedream21str
+          name: 心之筑
+          date: 2024.12.08
+          note: 
+        - id: Fleehom
+          name: Crazy ProMonkey
+          date: 2024.12.08
+          note: 
+        - id: Python_DJ
+          name: Python 键盘上的舞者
+          date: 2024.12.08
+          note: 
+        - id: weixin_43459158
+          name: AJackpot
+          date: 2024.12.08
+          note: 
+        - id: 2401_83253228
+          name: 比奇堡~
+          date: 2024.12.08
+          note: 
+        - id: weixin_44236034
+          name: Good Iead
+          date: 2024.12.08
+          note: 
+        - id: qq_15326513
+          name: qq_15326513
+          date: 2024.12.08
+          note: 
+        - id: qq_30135181
+          name: Tasfa
+          date: 2024.12.08
+          note: 
+        - id: qq_39802740
+          name: 井蛙不可语于海
+          date: 2024.12.08
+          note: 
+        - id: u014643814
+          name: 小白白
+          date: 2024.12.08
+          note: 
+        - id: w2sft
+          name: w2sfot
+          date: 2024.12.08
+          note: 
+        - id: kdl_csdn
+          name: K哥爬虫
+          date: 2024.12.08
+          note: 
+        - id: qq_53444631
+          name: 狗都不学爬虫_
+          date: 2024.12.11
+          note: 
+        - id: m0_61226167
+          name: 不爱逆向的小白
+          date: 2024.12.11
+          note: 
+        - id: u013046615
+          name: 爬虫小恐龙
+          date: 2024.12.11
+          note: 
+        - id: m0_46265880
+          name: 红皮西瓜绿了心
+          date: 2025.05.26
+          note: 
+        - id: weixin_44327634
+          name: 冰履踏青云
+          date: 2025.05.26
+          note: 
+        - id: weixin_45365693
+          name: 安卓逆向许七安
+          date: 2025.05.26
+          note: 
+        - id: weixin_71462234
+          name: 逆向 小白
+          date: 2025.05.26
+          note: 
+        - id: Linux_rm_rf_
+          name: 爱喝水的木子
+          date: 2025.05.26
+          note: 
+        - id: qq_29402011
+          name: 吃苹果的牛顿顿
+          date: 2025.05.26
+          note: 
+        - id: yanminghe66666
+          name: 我真的不是蜘蛛
+          date: 2025.05.26
+          note: 
+        - id: paycho
+          name: 陈虚渊
+          date: 2025.05.26
+          note: 
+        - id: weixin_73648943
+          name: 东隐@nicegbp
+          date: 2025.05.26
+          note: 
+        - id: 2401_87946050
+          name: 努力的。。。
+          date: 2025.05.26
+          note: 
+        - id: Loronto_
+          name: Loronto丶
+          date: 2025.05.26
+          note: 
+        - id: m0_74794988
+          name: 香辣蟹好吃吗
+          date: 2025.05.26
+          note: 
+        - id: qq_40558166
+          name: 张烫麻辣亮。
+          date: 2025.06.28
+          note: 
+        - id: weixin_59616601
+          name: wangYи
+          date: 2025.09.03
+          note: 
+
+    - title: 吾爱破解收录链接
+      baseIdLink:
+      headers:
+        - label: 板块链接
+          key: id
+        - label: 板块名称
+          key: name
+        - label: 收录时间
+          key: date
+        - label: 备注
+          key: note
+      items:
+        - id: <a href="https://www.52pojie.cn/forum.php?mod=forumdisplay&fid=5&filter=author&orderby=dateline&typeid=378" target="_blank">378</a>
+          name: 『脱壳破解区』- web 逆向
+          date: 2024.12.08
+          note: 
+        - id: <a href="https://www.52pojie.cn/forum.php?mod=forumdisplay&fid=65&filter=author&orderby=dateline" target="_blank">65</a>
+          name: 『移动安全区』
+          date: 2024.12.08
+          note: 
+
+    - title: 看雪论坛收录链接
+      baseIdLink:
+      headers:
+        - label: 板块链接
+          key: id
+        - label: 板块名称
+          key: name
+        - label: 收录时间
+          key: date
+        - label: 备注
+          key: note
+      items:
+        - id: <a href="https://bbs.kanxue.com/forum-161-1.htm?orderby=tid&digest=0" target="_blank">forum-161-1</a>
+          name: 看雪社区 > 移动安全 > Android安全
+          date: 2024.12.08
+          note: 
+        - id: <a href="https://bbs.kanxue.com/forum-166-1.htm?orderby=tid&digest=0" target="_blank">forum-166-1</a>
+          name: 看雪社区 > 移动安全 > iOS安全
+          date: 2024.12.08
+          note: 
+        - id: <a href="https://bbs.kanxue.com/forum-151-1.htm?orderby=tid&digest=0" target="_blank">forum-151-1</a>
+          name: 看雪社区 > CTF > WEB安全
+          date: 2024.12.08
+          note: 
+
+    - title: 先知社区收录链接
+      baseIdLink: https://xz.aliyun.com/node/
+      headers:
+        - label: 板块链接
+          key: id
+        - label: 板块名称
+          key: name
+        - label: 收录时间
+          key: date
+        - label: 备注
+          key: note
+      items:
+        - id: 17
+          name: 社区版块 - 移动安全
+          date: 2024.12.08
+          note: 
 ---

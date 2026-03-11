@@ -1065,8 +1065,8 @@ body.io-black-mode .contact-page a:hover {
 }
 
 .qrcode {
-    width: 180px;
-    height: 180px;
+    width: 380px;
+    height: auto;
     padding: 8px;
     background: #f6f6f6;
     border-radius: 10px;
@@ -1228,4 +1228,116 @@ body.io-black-mode.contact-fixed-header .big-header-banner .navbar-menu a:not(.d
 body.io-black-mode.contact-fixed-header .big-header-banner .header-mini-btn path,
 body.io-black-mode.contact-fixed-header .big-header-banner .header-mini-btn label:hover path {
     stroke: #e6e6e6;
+}
+
+/* 【最新文章/视频】博主监控名单栏目样式 */
+.monitor-desc {
+    color: #777;
+    margin-bottom: 12px;
+}
+
+.monitor-item + .monitor-item {
+    margin-top: 8px;
+}
+
+.monitor-header .monitor-toggle {
+    padding: 8px 0;
+    text-decoration: none;
+    color: inherit;
+}
+
+.monitor-title {
+    font-weight: 700;
+}
+
+.monitor-table-wrap {
+    margin-top: 6px;
+}
+
+.monitor-table thead th {
+    font-weight: 700;
+    color: #666;
+}
+
+.monitor-table td, .monitor-table th {
+    vertical-align: middle;
+}
+
+.io-black-mode .monitor-desc,
+.io-black-mode .monitor-table thead th {
+    color: #bbb;
+}
+
+.contact-columns {
+    align-items: stretch;
+}
+
+.contact-col {
+    display: flex;
+}
+
+.contact-col-inner {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+/* 让列内最后一个卡片贴底 */
+.contact-col-inner > .contact-card:last-child {
+    margin-top: auto;
+}
+
+/* 监控名单折叠标题更显眼 */
+.monitor-header .monitor-toggle {
+    padding: 10px 12px;
+    border: 1px solid #e9ecef;
+    border-radius: 8px;
+    background: #f8f9fb;
+    font-weight: 600;
+    position: relative;
+}
+
+.monitor-header .monitor-toggle::after {
+    content: "▸";
+    position: absolute;
+    right: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    transition: transform .2s ease;
+    color: #888;
+}
+
+/* 展开时箭头旋转 */
+.monitor-header .monitor-toggle[aria-expanded="true"]::after {
+    transform: translateY(-50%) rotate(90deg);
+}
+
+/* hover 提示可点 */
+.monitor-header .monitor-toggle:hover {
+    background: #eef4ff;
+    border-color: #d8e6ff;
+    color: #1b1f24;
+}
+
+/* 夜间模式 */
+.io-black-mode .monitor-header .monitor-toggle {
+    background: #23262d;
+    border-color: #2f333b;
+    color: #e6e6e6;
+}
+.io-black-mode .monitor-header .monitor-toggle::after {
+    color: #b3b3b3;
+}
+.io-black-mode .monitor-header .monitor-toggle:hover {
+    background: #2b3038;
+    border-color: #3a3f48;
+}
+.io-black-mode .monitor-table {
+    color: #e6e6e6;
+}
+.io-black-mode .monitor-table td {
+    color: #e6e6e6;
+}
+.io-black-mode .monitor-table thead th {
+    color: #cfcfcf;
 }
