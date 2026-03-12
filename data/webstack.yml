@@ -416,6 +416,10 @@
           logo: taskpyro.png
           url: https://github.com/taskPyroer/taskpyro
           description: 轻量级 Python 任务调度与爬虫管理平台，可视化操作，环境隔离，资源占用小，支持 Scrapy 等主流爬虫框架，支持 Selenium、Playwright、DrissionPage 等浏览器自动化工具，支持 node 环境下的 js 逆向代码
+        - title: Scrapling
+          logo: Scrapling.png
+          url: https://github.com/D4Vinci/Scrapling
+          description: Scrapling 是一个自适应 Web Scraping 框架，能处理从单个请求到大规模爬取的一切需求。它的解析器能够从网站变化中学习，并在页面更新时自动重新定位您的元素。它的 Fetcher 能够开箱即用地绕过 Cloudflare Turnstile 等反机器人系统。它的 Spider 框架让您可以扩展到并发、多 Session 爬取，支持暂停/恢复和自动 Proxy 轮换——只需几行 Python 代码。一个库，零妥协
 
     - name: 常用库/包
       links:
@@ -685,6 +689,10 @@
           logo: xpathhelperwizard.jpg
           url: https://chrome.google.com/webstore/detail/xpath-helper-wizard/jadhpggafkbmpdpmpgigopmodldgfcki
           description: 创建 XPath 查询选择相似元素并可视化结果，XPath Helper Wizard 创建的 xpath 很短，并且在网站更改时不太可能中断
+        - title: Xpath-Tool
+          logo: github.png
+          url: https://github.com/kk520879/Xpath-Tool
+          description: 一个强大的 Chrome 扩展，帮助开发者和数据分析师快速、准确地生成和测试网页元素的 XPath 路径
         - title: PageScraper
           logo: github.png
           url: https://github.com/Hopetree/PageScraper
@@ -1054,6 +1062,10 @@
           logo: github.png
           url: https://github.com/synodriver/cycurl
           description: Python 库，通过 cython 实现 curl-impersonate 的超快速 Python 绑定。一个可以模拟浏览器 tls/ja3/http2 指纹的 http 客户端
+        - title: cyCronet
+          logo: github.png
+          url: https://github.com/2833844911/cyCronet
+          description: Python 库，作者陈不不，基于 cronet，彻底完整模拟谷歌浏览器请求协议指纹，没有任何检测点，可自定义 tls 套件，设置代理，使用方式和 requests 类似
         - title: requests
           logo: github.png
           url: https://github.com/wangluozhe/requests
@@ -1812,6 +1824,10 @@
           logo: github.png
           url: https://github.com/FANGG3/attd-tracer-qbdi
           description: attd-tracer-qbdi 是 ATTD-GUI 的 Trace 采集器，基于 QBDI 和 Frida 的 Trace
+        - title: Trace UI
+          logo: github.png
+          url: https://github.com/imj01y/trace-ui
+          description: 高性能 ARM64 执行 trace 可视化分析工具。基于 Tauri 2 + React 构建的桌面应用，专为安全研究员设计，支持千万行或亿行级大规模 trace 的流畅浏览、函数调用树折叠、反向污点追踪、内存/寄存器实时查看等功能
 
     - name: so 修复
       links:
@@ -1864,6 +1880,10 @@
           logo: wangpan.png
           url: https://pan.baidu.com/s/1RDWCSvWE-TOu6d5qJfSCmA?pwd=sbox
           description: 微信小程序解密工具，网盘提取密码：sbox
+        - title: wedecode
+          logo: github.png
+          url: https://github.com/biggerstar/wedecode
+          description: 全自动化，微信小程序 wxapkg 源代码还原工具, 线上代码安全审计，支持 Windows, Macos, Linux
         - title: wechat-dump-rs
           logo: github.png
           url: https://github.com/0xlane/wechat-dump-rs
@@ -2002,6 +2022,10 @@
           logo: ez-captcha.jpg
           url: https://dashboard.ez-captcha.com/#/register?inviteCode=QYanEJYmWFj
           description: 支持 reCAPTCHA、Arkose Labs FunCaptcha、DataDome、Akamai、Akamai BMP、Kasada、TLS 转发等
+        - title: CapMonster
+          logo: capmonster.jpg
+          url: https://capmonster.cloud/
+          description: 支持 reCAPTCHA、hCaptcha、Arkose Labs FunCaptcha、Cloudflare Turnstile、Cloudflare Bot Challenge、DataDome、Incapsula（Imperva、reese84）、Tencent（腾讯）、Geetest（极验）、Amazon（AWS） WAF、FaucetPay Captcha 等
         - title: CaptchaAI
           logo: captchaai.png
           url: https://captchaai.com/lp/spiderbox-special-offer.255484
@@ -2062,12 +2086,11 @@
           logo: brightdata.png
           url: https://get.brightdata.com/captcha
           description: 支持 reCAPTCHA、hCaptcha、Arkose Labs FunCaptcha、Cloudflare Turnstile、PerimeterX（Human）、Geetest（极验）、Amazon（AWS） WAF、Yandex Captcha、SimpleCaptcha、KeyCAPTCHA、Capy Puzzle Captcha 等
-
+        - title: HyperSolutions
+          logo: hypersolutions.png
+          url: https://hypersolutions.co/
+          description: 支持 Akamai、Incapsula（Imperva、reese84）、DataDome、Kasada 等
         # 待定
-        - title: CapMonster
-          logo: capmonster.jpg
-          url: https://capmonster.cloud/
-          description: 支持 reCAPTCHA、hCaptcha、Arkose Labs FunCaptcha、Cloudflare Turnstile、Cloudflare Bot Challenge、DataDome、Incapsula（Imperva、reese84）、Tencent（腾讯）、Geetest（极验）、Amazon（AWS） WAF、FaucetPay Captcha 等
         - title: MeshPrivacy
           logo: meshprivacy.png
           url: https://www.meshprivacy.com/
@@ -2516,6 +2539,7 @@
   list:
     - term: 国内代理
     - term: 全球代理
+    - term: 数据代理商
   tabs:
     - name: 国内代理商
       links:
@@ -2936,6 +2960,13 @@
 #          logo: cherryproxy.png
 #          url: https://www.cherryproxy.com/?utm-source=zbw&utm-keyword=?spiderbox
 #          description: Cherry Proxy 提供高品质的住宅代理服务器、动态/静态 IP 地址，既适用于商业用途也适合家庭使用，并支持多种业务场景。它覆盖全球 195 多个国家和地区，确保极高的匿名性和安全性。量大价格越便宜
+    - name: 数据代理商
+      links:
+        # ad ==============================
+        - title: Tikhub
+          logo: tikhub.png
+          url: https://tikhub.io/
+          description: 16 个社交媒体 API + AI 模型 官方价格低至 3 折，统一 API 基础设施，支持社交媒体数据提取与 AI 模型访问 — OpenAI、Claude、Gemini、DeepSeek 等
 
 - taxonomy: 交流学习
   icon: fas fa-handshake
@@ -3758,6 +3789,14 @@
           logo: gh_22c0226eeaee.jpg
           qrcode: images/qrcode/gh_22c0226eeaee.jpg
           description: 公众号：小白逆向成长日记
+        - title: GSCL Sec
+          logo: gh_d37e8e097e2c.jpg
+          qrcode: images/qrcode/gh_d37e8e097e2c.jpg
+          description: 公众号：GSCL Sec
+        - title: 坚粿安全
+          logo: gh_3823396f80ab.jpg
+          qrcode: images/qrcode/gh_3823396f80ab.jpg
+          description: 公众号：坚粿安全
 #        - title: K哥爬虫
 #          logo: kgepachong.jpg
 #          qrcode: images/qrcode/kgepachong.jpg
