@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2026.03.12 19:58:07
+      title: 港大刚刚开源了 CLI-Anything！一个命令让任意软件秒变 AI Agent 原生工具！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991521&idx=1&sn=213553424c9be03911c2ddb09ceeb461
     - author: 爬虫逆向小林哥
       release_time: 2026.03.12 17:41:26
       title: 【网页逆向】某书collect日志上报protobuf
@@ -240,10 +244,6 @@
       release_time: 2026.03.10 09:34:30
       title: JS逆向 -- 信息公示平台搜索滑块逆向
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041499&idx=1&sn=c4b6e7dd1909ae81c74a25160c142070
-    - author: 虫术
-      release_time: 2026.03.10 09:05:00
-      title: AI 大模型早报 | OpenAI 收购安全平台，Anthropic 硬刚美国国防部
-      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486703&idx=1&sn=d73e9b3b6744edc10db2f27309db0587
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
