@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 将往的爬虫逆向日记
+      release_time: 2026.03.12 22:31:42
+      title: 开发者检测以及建了个交流群
+      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862231&idx=1&sn=12692b4ce8fad6173e03d0c23173ef8f
     - author: 未闻Code
       release_time: 2026.03.12 19:58:07
       title: 港大刚刚开源了 CLI-Anything！一个命令让任意软件秒变 AI Agent 原生工具！
@@ -240,10 +244,6 @@
       release_time: 2026.03.10 10:56:13
       title: 基于Frida的脱壳工具
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499829&idx=1&sn=9b9fc7c4e346c082a2179decf5509498
-    - author: 逆向有你
-      release_time: 2026.03.10 09:34:30
-      title: JS逆向 -- 信息公示平台搜索滑块逆向
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041499&idx=1&sn=c4b6e7dd1909ae81c74a25160c142070
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
