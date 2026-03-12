@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 珍惜Any
+      release_time: 2026.03.12 23:32:02
+      title: 12福星vs14福星8-1决胜局挑战手机的极限
+      url: https://www.bilibili.com/video/BV1r5cyzyECw
+    - author: 冷月不是程序员
+      release_time: 2026.03.12 23:25:56
+      title: 只用了10天？JavaScript 如何从“临时工”变成世界之王
+      url: https://www.bilibili.com/video/BV1zjcyzVE4s
     - author: 猿人学
       release_time: 2026.03.12 14:19:27
       title: 2026.3.7 猿人学小伙伴成都聚会花絮-汇聚中国爬虫er
@@ -113,14 +121,6 @@
       release_time: 2026.02.04 09:54:59
       title: 【DrissionPage高端技巧】跨标签页的数据监听
       url: https://www.bilibili.com/video/BV1hVf9BJEpq
-    - author: 漠染千舟
-      release_time: 2026.02.03 01:15:19
-      title: 阿里V3滑块
-      url: https://www.bilibili.com/video/BV1NiFuzSEi7
-    - author: 风と自由
-      release_time: 2026.02.02 18:17:15
-      title: Aurorium环境隔离
-      url: https://www.bilibili.com/video/BV1A8FNzME4a
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -188,6 +188,10 @@
       release_time: 2026.03.11 14:57:20
       title: 全AI分析某B*D 4.* UI 魔改包报告
       url: https://mp.weixin.qq.com/s?__biz=MzI4NTE1NDMwMA==&mid=2247485373&idx=1&sn=2eb11f776040d4b393f9d9807d63be20
+    - author: 坚粿安全
+      release_time: 2026.03.11 11:14:16
+      title: 【小程序逆向】某银行金融小程序完整逆向过程
+      url: https://mp.weixin.qq.com/s?__biz=MzE5ODcxNjQxMQ==&mid=2247483854&idx=1&sn=dad50f18d721674ff82e299e8671c482
     - author: 虫术
       release_time: 2026.03.11 09:04:23
       title: AI 科技新闻早报 | 2026 年 3 月 11 日 星期三
@@ -240,13 +244,13 @@
       release_time: 2026.03.10 11:18:35
       title: tiktok X-Gnarly逆向
       url: https://mp.weixin.qq.com/s?__biz=MzUyODY3ODUzNw==&mid=2247484206&idx=1&sn=b985d997416155d9142766f433e28d99
-    - author: 哆啦安全
-      release_time: 2026.03.10 10:56:13
-      title: 基于Frida的脱壳工具
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499829&idx=1&sn=9b9fc7c4e346c082a2179decf5509498
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: Ma5k
+      release_time: 2026.03.12 16:09:00
+      title: xx快跑逆向记录
+      url: https://www.52pojie.cn/thread-2096113-1-1.html
     - author: qig123
       release_time: 2026.03.11 18:16:00
       title: 运行Ai逆向分析发生的趣事
@@ -363,10 +367,6 @@
       release_time: 2026.02.14 12:50:00
       title: funcaptcha类ob逆向解混淆处理
       url: https://www.52pojie.cn/thread-2092043-1-1.html
-    - author: flt
-      release_time: 2026.02.13 12:06:00
-      title: 某两个Zotero插件激活的分析
-      url: https://www.52pojie.cn/thread-2091907-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
