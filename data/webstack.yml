@@ -2537,8 +2537,8 @@
 - taxonomy: 代理数据
   icon: fas fa-map-marker-alt
   list:
-    - term: 国内代理
-    - term: 全球代理
+    - term: 国内代理商
+    - term: 全球代理商
     - term: 数据代理商
   tabs:
     - name: 国内代理商
@@ -2816,6 +2816,10 @@
           # url: https://www.lycheeip.com/?affId=dob20Dv4nu
           url: https://www.lycheeip.com/home/ip?affId=hERvl5HWbB
           description: AI + 算法级全球代理 IP 甄选，全球高质量独享静态、动态住宅 IP 双 ISP
+        - title: OnesProxy
+          logo: onesproxy.png
+          url: https://app.onesproxy.com/api/channel_agent/track?user_source=1&invite_code=BVU825679
+          description: OnesProxy 专注于提供优质的海外代理 IP 产品及服务，精准覆盖 190 个国家，提供静态原生住宅及动态住宅 IP，灵活应对多种业务场景。亿级住宅代理池，优质家宽IP，适配爬虫、批量注册、广告联盟等多种业务场景，极具竞争力的市场价格；提供多个国家的原生住宅 IP，源自真实家庭宽带，能完美适配电商、社交平台校验，降低账号异常风险；高纯净 IP，杜绝滥用关联问题；满足追求性价比，提供稳定机房 IP，低至 $0.38 起，节省运营成本
 
         # 5% ==============================
         - title: Cliproxy
