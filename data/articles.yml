@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 猿人学
+      release_time: 2026.03.12 14:19:27
+      title: 2026.3.7 猿人学小伙伴成都聚会花絮-汇聚中国爬虫er
+      url: https://www.bilibili.com/video/BV1VFcrztEfN
     - author: 陈不不and挽风的逆向
       release_time: 2026.03.12 02:05:21
       title: cycronet 谷歌浏览器tls/ja3检测终点站，pip安装使用
@@ -117,136 +121,136 @@
       release_time: 2026.02.02 18:17:15
       title: Aurorium环境隔离
       url: https://www.bilibili.com/video/BV1A8FNzME4a
-    - author: Alone逆向安全
-      release_time: 2026.02.01 12:02:21
-      title: OLLVMVMP 二进制对抗  2026年 App逆向协议还原独家课程
-      url: https://www.bilibili.com/video/BV1Wu6xBCEzM
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
-    - author: 零基础爬虫第一天
-      release_time: 2026.03.05 20:38:12
-      title: 最短路径把khbox代码编译进 Node.js
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484206&idx=1&sn=bfaebe2ee4a1447f46e8248318caee80
-    - author: 零基础爬虫第一天
-      release_time: 2026.03.05 20:29:46
-      title: 【khbox-13】 WebGL对抗分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484201&idx=1&sn=dc61bffd66aa18ad0848097ce26d0d95
-    - author: 零基础爬虫第一天
-      release_time: 2026.03.05 20:26:09
-      title: webgl检测原理及api分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484190&idx=1&sn=367ea22f383a2a7c4e44ac0e247b490b
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.03.05 17:57:08
-      title: 最高法发布典型案例，“网络开盒”构成侵犯公民个人信息罪
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519919&idx=1&sn=bb0b5d61d29e479273e67ac50024e0cb
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.03.05 17:57:08
-      title: Meta未经同意追踪用户数据，德国法院裁定其支付赔偿金
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519919&idx=2&sn=a8ab315a5ff9e8d65864796bd847bb08
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.03.05 17:57:08
-      title: 全国政协委员建议取消在居民身份证上印刷“住址”信息
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519919&idx=3&sn=0bd7efd68bf189f84f39062a39fb1888
-    - author: 如意私塾
-      release_time: 2026.03.05 16:11:39
-      title: 浏览器指纹/风控爬虫论文-使用浏览器会话指纹替代单页面指纹识别
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484179&idx=1&sn=57ff5516c14666285db950f300be9b4f
-    - author: 吾爱破解论坛
-      release_time: 2026.03.05 16:08:38
-      title: 【清理未活跃会员】清理2025年光棍节开放注册未活跃会员公告
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143702&idx=1&sn=5bd78dd72cdbff49adec446035e3b75f
-    - author: 随心记事
-      release_time: 2026.03.05 11:36:21
-      title: 【万字笔记】我与 Hopper disassembler v6 的五天攻防战：从第一个断点到完全接管
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0NTMyNzI4MQ==&mid=2247484927&idx=1&sn=821da6c5335136667b7cbdb8326cd157
+    - author: 剑客古月的安全屋
+      release_time: 2026.03.12 12:13:12
+      title: ai攻防-基于模型激活空间的越狱攻防
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNDY0NjY3MQ==&mid=2247485643&idx=1&sn=b1263b961959795a6be6e95cd4f92066
     - author: 哆啦安全
-      release_time: 2026.03.05 11:35:29
-      title: 手机遗失与系统崩溃：即时通讯、笔记、财务应用数据拯救策略
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499805&idx=1&sn=71134cc7a12be09e4494e3beca76d920
-    - author: 菜鸟学Python编程
-      release_time: 2026.03.05 11:30:00
-      title: JS反混淆的艺术：在混乱中重构代码之美(二)
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566341&idx=1&sn=a505790a381baaa263663b50e29e1889
-    - author: 移动安全星球
-      release_time: 2026.03.05 09:21:00
-      title: 家长必看｜6种儿童高发病症（感冒/流感/支原体等），护士妈妈教你精准区分、科学护理
-      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486471&idx=1&sn=cccb8ee5292aaa1e53c2d7888382eda7
-    - author: 小小杨学编程
-      release_time: 2026.03.05 09:12:00
-      title: vercel盾Worker+Wasm流程分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484710&idx=1&sn=8e72b15e01855fd31a6a5b243a3b0f2e
-    - author: 将往的爬虫逆向日记
-      release_time: 2026.03.05 09:04:38
-      title: 基于电力交易业务定制浏览器(更新)
-      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862206&idx=1&sn=7f7eb478fd877722f28f3234a67b90fd
-    - author: 未闻Code
-      release_time: 2026.03.05 09:00:00
-      title: 一日一技：读 OpenAI 的 Harness Engineering，我学到的几件事
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991514&idx=1&sn=fc05f8dcecce8bb74e0ae0a2e1a796a3
+      release_time: 2026.03.12 12:00:00
+      title: Android安全研究神器 | 移动渗透测试利器
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499845&idx=1&sn=3b73985c4b9183911c417ac5a59434ed
+    - author: 虫术
+      release_time: 2026.03.12 09:21:09
+      title: 🦞 腾讯云 OpenClaw 接入四大主流办公平台完整指南
+      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486814&idx=1&sn=08689dcfec40e5ef0fc007cfbf66fb79
+    - author: 虫术
+      release_time: 2026.03.12 09:21:09
+      title: 3 月 12 日科技早报：AI 圈发生了这 5 件大事
+      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486814&idx=2&sn=c3ddfbf797989cb9e1035167ec639307
+    - author: Coder小Q
+      release_time: 2026.03.12 08:30:00
+      title: 【密码学】格同构问题：后量子密码学的新困难性基础
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247494694&idx=1&sn=049aa5a9ba22cc0ccf4e840cc016ad7d
+    - author: 爬虫逆向小林哥
+      release_time: 2026.03.11 18:20:00
+      title: 带壳淘系应用ssl延时hook
+      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487107&idx=1&sn=a44d355b826854da8b38e4414b67174b
+    - author: 爬虫spider
+      release_time: 2026.03.11 17:30:00
+      title: 抖音so最新版抓包
+      url: https://mp.weixin.qq.com/s?__biz=MzUyODY3ODUzNw==&mid=2247484210&idx=1&sn=5aee08fc18ae0b7ab828496c08a40bca
     - author: 二进制磨剑
-      release_time: 2026.03.05 08:30:00
-      title: 逆向不再靠玄学：Claude + Skills 稳定恢复符号与结构体工作流
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485963&idx=1&sn=72aeed82f9c9bdc49a6dc829d07b6386
-    - author: Coder小Q
-      release_time: 2026.03.05 08:30:00
-      title: 【密码学】Falcon-MRM 代码实现
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247494689&idx=1&sn=01da90036505ab8e3489ecfd81164010
-    - author: 如意私塾
-      release_time: 2026.03.04 22:05:12
-      title: 微信小程序的隐蔽指纹搜集 | 403万个小程序中1310个在做无权限指纹追踪，京东模板占一半
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484172&idx=1&sn=c0825892324c15d2f585302464c82ac2
-    - author: 随心记事
-      release_time: 2026.03.04 20:48:57
-      title: 【上篇】破解Hopper v6 Demo：从午夜迷宫到极光永夜的完整逆向史诗
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0NTMyNzI4MQ==&mid=2247484913&idx=1&sn=f6ab24969f74c51a3af5709d12ce813c
-    - author: 未闻Code
-      release_time: 2026.03.04 19:42:32
-      title: 一日一技：我写了个 Chrome 插件，让你再也不用重置密码
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991513&idx=1&sn=c80ebc6dffa1058097ac3b6905a176e3
-    - author: 移动安全星球
-      release_time: 2026.03.04 12:00:00
-      title: 宝妈必备｜67种儿童常用药全攻略（按症状分类，护士妈妈手把手教你用对药）
-      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486469&idx=1&sn=e75419b46eef0951233f55f325a1e13c
+      release_time: 2026.03.11 15:07:00
+      title: 安全预警 | 邪恶中转站？你的 OpenClaw 和  Claude Code 正在被黑客控制！
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486002&idx=1&sn=87705d11579c9a6e70f39ba67376f95b
+    - author: 小白技术社
+      release_time: 2026.03.11 14:57:20
+      title: 全AI分析某B*D 4.* UI 魔改包报告
+      url: https://mp.weixin.qq.com/s?__biz=MzI4NTE1NDMwMA==&mid=2247485373&idx=1&sn=2eb11f776040d4b393f9d9807d63be20
+    - author: 虫术
+      release_time: 2026.03.11 09:04:23
+      title: AI 科技新闻早报 | 2026 年 3 月 11 日 星期三
+      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486775&idx=1&sn=4ecc500a6a7482b06b0b92dc33879d9f
+    - author: 虫术
+      release_time: 2026.03.11 09:04:23
+      title: 阿里云上线 OpenClaw 官方部署方案！国内大厂 AI 布局大盘点
+      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486775&idx=2&sn=1983f5a6c57fbfb08639e5f3051ba10f
+    - author: 虫术
+      release_time: 2026.03.11 09:04:23
+      title: 百度智能云 OpenClaw 部署指南！轻量服务器首购 9.9 元起
+      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486775&idx=3&sn=f181b7497901a4ef94f0b616565fc6ad
+    - author: 虫术
+      release_time: 2026.03.11 09:04:23
+      title: 腾讯云 OpenClaw 官方部署指南！5 分钟接入企微/QQ/钉钉/飞书
+      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486775&idx=4&sn=4964bd73198a123cbf73325aee5fc01e
     - author: 哆啦安全
-      release_time: 2026.03.04 09:09:43
-      title: Android日志智能分析系统V3.6
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499793&idx=1&sn=e4a9ebda69c42458e2a7075a0ea684cc
-    - author: Coder小Q
-      release_time: 2026.03.04 08:30:00
-      title: 【密码学】FALCON 消息恢复模式算法解读
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247494650&idx=1&sn=148d259ef3d05bc7816537046b4a4c72
-    - author: 零基础爬虫第一天
-      release_time: 2026.03.03 23:21:42
-      title: 【khbox-12】WebRtc对抗分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484184&idx=1&sn=2c245ca32c406e379857698d2ba7af5c
-    - author: 零基础爬虫第一天
-      release_time: 2026.03.03 23:11:49
-      title: WebRTC 检测原理及核心 API 解析
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484177&idx=1&sn=3d869c5a5e85242d75c92d738419eb83
-    - author: 未闻Code
-      release_time: 2026.03.03 19:38:25
-      title: Claude Code 工程师：我们花了一年，才学会像 Agent 一样思考
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991500&idx=1&sn=2d74f3d82eb18edb00f4890ba8fae5b3
+      release_time: 2026.03.11 09:00:00
+      title: 永久激活密钥：998BC-CBDOK-MJ678A-F4XWK
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499838&idx=1&sn=5532facc193b8a5dd18b341ac0b089f3
+    - author: Python成长路
+      release_time: 2026.03.11 08:25:00
+      title: 根据关键词自动邀请微信好友进群
+      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486012&idx=1&sn=54a061cfb36c0b11f208563010dc1e0c
+    - author: 将往的爬虫逆向日记
+      release_time: 2026.03.10 22:58:28
+      title: 基于电力交易业务定制魔改浏览器(更新2)
+      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862223&idx=1&sn=83ca3aad3afd0b0729112b87531bb4a4
+    - author: 二进制磨剑
+      release_time: 2026.03.10 19:09:45
+      title: 开源 | Android Agent：智能体驱动 APK 自动化测试与自动化操作
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485986&idx=1&sn=3c74a5cab3c71cc5f22bd87fa96ee5d4
     - author: 如意私塾
-      release_time: 2026.03.03 17:58:57
-      title: 浏览器指纹/风控爬虫论文-基于WebAssembly混淆的浏览器指纹识别防御评估
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484166&idx=1&sn=0cc519eea3b4e62b4f318251b6c52683
-    - author: 随心记事
-      release_time: 2026.03.03 17:25:53
-      title: 【上篇】破解Hopper v6 Demo：从午夜迷宫到黎明破局的完整逆向之旅
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0NTMyNzI4MQ==&mid=2247484901&idx=1&sn=23d66abe859d1bb7b8910286835dce38
+      release_time: 2026.03.10 18:50:42
+      title: 浏览器指纹/风控爬虫论文-Chromium有1748个启动参数，其中几十个会改变你的浏览器指纹
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484203&idx=1&sn=028ab90dd6acca8124b82b9cb70b60ea
     - author: 个人信息与数据保护实务评论
-      release_time: 2026.03.03 16:29:59
-      title: 湖南省网信办公布2025年执法情况：175家单位被现场检查，31家单位被处警告以上处罚
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519898&idx=1&sn=092da55a69fea51a91380e7aad8093ee
+      release_time: 2026.03.10 15:44:51
+      title: 个人信息与隐私保护：人脸认证时千万记得穿衣服
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519921&idx=1&sn=c6d11d6b2e48c0253092136ca34840d5
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.03.10 15:44:51
+      title: 最高法工作报告：2025年审结数据权属、交易纠纷908件，个人信息保护纠纷915件
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519921&idx=2&sn=6f486e8819bd0acad55fdb3f2d1de66b
+    - author: 吾爱破解论坛
+      release_time: 2026.03.10 15:40:25
+      title: 【开放注册公告】吾爱破解论坛2026年3月13日十八周年开放注册公告
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143717&idx=1&sn=2a0810d5228d4389603afabf38f46134
+    - author: 爬虫spider
+      release_time: 2026.03.10 11:18:35
+      title: tiktok X-Gnarly逆向
+      url: https://mp.weixin.qq.com/s?__biz=MzUyODY3ODUzNw==&mid=2247484206&idx=1&sn=b985d997416155d9142766f433e28d99
+    - author: 哆啦安全
+      release_time: 2026.03.10 10:56:13
+      title: 基于Frida的脱壳工具
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499829&idx=1&sn=9b9fc7c4e346c082a2179decf5509498
     - author: 逆向有你
-      release_time: 2026.03.03 11:14:23
-      title: 安卓逆向 -- Hook学习笔记
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041481&idx=1&sn=93c19de22a8bc51d1efcf9d2d8150645
+      release_time: 2026.03.10 09:34:30
+      title: JS逆向 -- 信息公示平台搜索滑块逆向
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041499&idx=1&sn=c4b6e7dd1909ae81c74a25160c142070
+    - author: 虫术
+      release_time: 2026.03.10 09:05:00
+      title: AI 大模型早报 | OpenAI 收购安全平台，Anthropic 硬刚美国国防部
+      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486703&idx=1&sn=d73e9b3b6744edc10db2f27309db0587
+    - author: 虫术
+      release_time: 2026.03.10 09:05:00
+      title: 苹果 3 月 4 日发布会总结：iPhone 17e 来了，这 5 款新品谁最值得买？
+      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486703&idx=2&sn=941c21073c3aa18a3a8ad88e5c846c7d
+    - author: 虫术
+      release_time: 2026.03.10 09:05:00
+      title: 小龙虾🦞OpenClaw爆火，3 天 10k star，网友：这也太香了！
+      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486703&idx=3&sn=f9d245ea9800d534be32ff3063b1adba
+    - author: 极验
+      release_time: 2026.03.10 09:00:00
+      title: 预告｜极验 2026 春季校招开启！三大高校行程公布，应届生 & 实习生岗位同步招募
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724295&idx=1&sn=3927d81316b779f6d3b00a25286c8dd6
+    - author: Python成长路
+      release_time: 2026.03.10 08:35:00
+      title: 微信如何自动下载群聊里的图片
+      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486006&idx=1&sn=cc35dcedc5f6948f2df5a46f8f0caac1
+    - author: 未闻Code
+      release_time: 2026.03.09 20:04:23
+      title: GitHub 狂飙 2.5 万标星，这款「会自愈」的 Python 爬虫框架杀疯了！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991518&idx=1&sn=6757fcc67101601347b073f17a564696
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: qig123
+      release_time: 2026.03.11 18:16:00
+      title: 运行Ai逆向分析发生的趣事
+      url: https://www.52pojie.cn/thread-2095926-1-1.html
     - author: sigewangdaiduie
       release_time: 2026.03.10 17:33:00
       title: 安卓逆向入门笔记（八）—— frida Hook
@@ -363,10 +367,6 @@
       release_time: 2026.02.13 12:06:00
       title: 某两个Zotero插件激活的分析
       url: https://www.52pojie.cn/thread-2091907-1-1.html
-    - author: Adong1996
-      release_time: 2026.02.13 10:45:00
-      title: 某大行app脱壳全流程分析
-      url: https://www.52pojie.cn/thread-2091895-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
