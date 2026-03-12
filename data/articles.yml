@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 爬虫逆向小林哥
+      release_time: 2026.03.12 17:41:26
+      title: 【网页逆向】某书collect日志上报protobuf
+      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487134&idx=1&sn=9aa722673d17f0da7429c7375ee52cff
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.03.12 17:07:58
+      title: 业主举报违建个人信息遭泄露，物业经理被上海警方行政处罚
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519923&idx=1&sn=07e7459da4712d83420bc609af35ecb8
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.03.12 17:07:58
+      title: 乐天信用卡公司因用户信息泄露被罚近百亿韩元
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519923&idx=2&sn=57524d86f252c8ceba86da9002adb910
     - author: 一生向风
       release_time: 2026.03.12 15:21:20
       title: 高性能 ARM64 执行 trace 可视化分析工具—— trace-ui
@@ -232,18 +244,6 @@
       release_time: 2026.03.10 09:05:00
       title: AI 大模型早报 | OpenAI 收购安全平台，Anthropic 硬刚美国国防部
       url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486703&idx=1&sn=d73e9b3b6744edc10db2f27309db0587
-    - author: 虫术
-      release_time: 2026.03.10 09:05:00
-      title: 苹果 3 月 4 日发布会总结：iPhone 17e 来了，这 5 款新品谁最值得买？
-      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486703&idx=2&sn=941c21073c3aa18a3a8ad88e5c846c7d
-    - author: 虫术
-      release_time: 2026.03.10 09:05:00
-      title: 小龙虾🦞OpenClaw爆火，3 天 10k star，网友：这也太香了！
-      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486703&idx=3&sn=f9d245ea9800d534be32ff3063b1adba
-    - author: 极验
-      release_time: 2026.03.10 09:00:00
-      title: 预告｜极验 2026 春季校招开启！三大高校行程公布，应届生 & 实习生岗位同步招募
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724295&idx=1&sn=3927d81316b779f6d3b00a25286c8dd6
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
