@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 逆向狗都不学
+      release_time: 2026.03.13 23:05:09
+      title: Android逆向学习
+      url: https://www.bilibili.com/video/BV1pXwEz2ELS
     - author: B站用户骚神
       release_time: 2026.03.13 18:18:26
       title: 代码录制、逆向封印破解、一键复制-骚神插件9.7.9新鲜出炉！！
@@ -117,10 +121,6 @@
       release_time: 2026.02.06 21:39:28
       title: 国际版火狐浏览器下载方法
       url: https://www.bilibili.com/video/BV1xQFkzmEXk
-    - author: 冷月不是程序员
-      release_time: 2026.02.05 22:00:18
-      title: 都2026年了火狐浏览器还值得使用吗？
-      url: https://www.bilibili.com/video/BV1bhFezFEjm
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
