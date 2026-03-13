@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 零基础爬虫第一天
+      release_time: 2026.03.13 19:43:01
+      title: KhBox 属性拦截修复
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484229&idx=1&sn=e7d59928f974b9d764a1d4875814b7f9
     - author: 虫术
       release_time: 2026.03.13 09:31:25
       title: OpenClaw 技能包开发实战指南，掘金热榜霸榜话题
@@ -240,10 +244,6 @@
       release_time: 2026.03.10 22:58:28
       title: 基于电力交易业务定制魔改浏览器(更新2)
       url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862223&idx=1&sn=83ca3aad3afd0b0729112b87531bb4a4
-    - author: 二进制磨剑
-      release_time: 2026.03.10 19:09:45
-      title: 开源 | Android Agent：智能体驱动 APK 自动化测试与自动化操作
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485986&idx=1&sn=3c74a5cab3c71cc5f22bd87fa96ee5d4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
