@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2026.03.13 18:18:26
+      title: 代码录制、逆向封印破解、一键复制-骚神插件9.7.9新鲜出炉！！
+      url: https://www.bilibili.com/video/BV1MgcDzkEEh
     - author: 珍惜Any
       release_time: 2026.03.12 23:32:02
       title: 12福星vs14福星8-1决胜局挑战手机的极限
@@ -117,10 +121,6 @@
       release_time: 2026.02.05 22:00:18
       title: 都2026年了火狐浏览器还值得使用吗？
       url: https://www.bilibili.com/video/BV1bhFezFEjm
-    - author: B站用户骚神
-      release_time: 2026.02.04 09:54:59
-      title: 【DrissionPage高端技巧】跨标签页的数据监听
-      url: https://www.bilibili.com/video/BV1hVf9BJEpq
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
