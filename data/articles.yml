@@ -124,6 +124,26 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 虫术
+      release_time: 2026.03.13 09:31:25
+      title: OpenClaw 技能包开发实战指南，掘金热榜霸榜话题
+      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486853&idx=1&sn=91238ed30a35d9fb6582dcb60e4eff8d
+    - author: 虫术
+      release_time: 2026.03.13 09:31:25
+      title: Grammarly AI"身份克隆"被起诉，AI 伦理再引争议
+      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486853&idx=2&sn=623e703e9126446a72056e7f2c2f4fc6
+    - author: 虫术
+      release_time: 2026.03.13 09:31:25
+      title: Meta 收购 Moltbook，AI Agent 要有自己的"社交网络"了
+      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486853&idx=3&sn=9a657cd33f9f5d65abef9fa4d1bdc531
+    - author: 虫术
+      release_time: 2026.03.13 09:31:25
+      title: Claude 新增可视化输出，AI 助手进入"看图说话"时代
+      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486853&idx=4&sn=88570667cef8d707e3555a453c9a5bdb
+    - author: 哆啦安全
+      release_time: 2026.03.13 09:05:21
+      title: Android逆向工程师的“护城河”在哪？
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499851&idx=1&sn=6bedc2e025c8473aa519bba8aae46100
     - author: 将往的爬虫逆向日记
       release_time: 2026.03.12 22:31:42
       title: 开发者检测以及建了个交流群
@@ -224,26 +244,6 @@
       release_time: 2026.03.10 19:09:45
       title: 开源 | Android Agent：智能体驱动 APK 自动化测试与自动化操作
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485986&idx=1&sn=3c74a5cab3c71cc5f22bd87fa96ee5d4
-    - author: 如意私塾
-      release_time: 2026.03.10 18:50:42
-      title: 浏览器指纹/风控爬虫论文-Chromium有1748个启动参数，其中几十个会改变你的浏览器指纹
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484203&idx=1&sn=028ab90dd6acca8124b82b9cb70b60ea
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.03.10 15:44:51
-      title: 个人信息与隐私保护：人脸认证时千万记得穿衣服
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519921&idx=1&sn=c6d11d6b2e48c0253092136ca34840d5
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.03.10 15:44:51
-      title: 最高法工作报告：2025年审结数据权属、交易纠纷908件，个人信息保护纠纷915件
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519921&idx=2&sn=6f486e8819bd0acad55fdb3f2d1de66b
-    - author: 吾爱破解论坛
-      release_time: 2026.03.10 15:40:25
-      title: 【开放注册公告】吾爱破解论坛2026年3月13日十八周年开放注册公告
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143717&idx=1&sn=2a0810d5228d4389603afabf38f46134
-    - author: 爬虫spider
-      release_time: 2026.03.10 11:18:35
-      title: tiktok X-Gnarly逆向
-      url: https://mp.weixin.qq.com/s?__biz=MzUyODY3ODUzNw==&mid=2247484206&idx=1&sn=b985d997416155d9142766f433e28d99
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
