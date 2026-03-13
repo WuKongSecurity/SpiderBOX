@@ -125,6 +125,14 @@
     term: 哔哩哔哩
   - links:
     - author: 零基础爬虫第一天
+      release_time: 2026.03.13 19:55:04
+      title: khbox1.2更新
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484248&idx=1&sn=3481b75bbff3e3402ce22e67cd1a58e5
+    - author: 零基础爬虫第一天
+      release_time: 2026.03.13 19:46:31
+      title: KhBox 跨 Context Promise 问题与解决方案
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484233&idx=1&sn=966acb8e2e46590dba50b18700ddcb65
+    - author: 零基础爬虫第一天
       release_time: 2026.03.13 19:43:01
       title: KhBox 属性拦截修复
       url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484229&idx=1&sn=e7d59928f974b9d764a1d4875814b7f9
@@ -236,14 +244,6 @@
       release_time: 2026.03.11 09:00:00
       title: 永久激活密钥：998BC-CBDOK-MJ678A-F4XWK
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499838&idx=1&sn=5532facc193b8a5dd18b341ac0b089f3
-    - author: Python成长路
-      release_time: 2026.03.11 08:25:00
-      title: 根据关键词自动邀请微信好友进群
-      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486012&idx=1&sn=54a061cfb36c0b11f208563010dc1e0c
-    - author: 将往的爬虫逆向日记
-      release_time: 2026.03.10 22:58:28
-      title: 基于电力交易业务定制魔改浏览器(更新2)
-      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862223&idx=1&sn=83ca3aad3afd0b0729112b87531bb4a4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
