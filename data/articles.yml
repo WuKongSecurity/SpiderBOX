@@ -247,6 +247,18 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: fanchenSir
+      release_time: 2026.03.14 18:37:00
+      title: 某个AI小说生成器源码破解，跳过二维码扫码登录使用
+      url: https://www.52pojie.cn/thread-2096608-1-1.html
+    - author: mxyoor
+      release_time: 2026.03.14 14:24:00
+      title: 小白借助 AI 复盘某班课鉴权链路分析
+      url: https://www.52pojie.cn/thread-2096514-1-1.html
+    - author: ShawDS
+      release_time: 2026.03.14 12:25:00
+      title: 【JS逆向入门】国*医*服务平台 国密SM4、SM2加密解密分析
+      url: https://www.52pojie.cn/thread-2096479-1-1.html
     - author: Ma5k
       release_time: 2026.03.12 16:09:00
       title: xx快跑逆向记录
@@ -355,18 +367,6 @@
       release_time: 2026.02.20 21:36:00
       title: 跳舞的线(DancingLine)游戏内购破解
       url: https://www.52pojie.cn/thread-2092521-1-1.html
-    - author: soma20
-      release_time: 2026.02.15 08:52:00
-      title: 整体加固Demo及加壳工具的编写
-      url: https://www.52pojie.cn/thread-2092131-1-1.html
-    - author: TKStudio
-      release_time: 2026.02.14 13:45:00
-      title: 某学网逆向之单词PK分数篡改
-      url: https://www.52pojie.cn/thread-2092050-1-1.html
-    - author: buluo533
-      release_time: 2026.02.14 12:50:00
-      title: funcaptcha类ob逆向解混淆处理
-      url: https://www.52pojie.cn/thread-2092043-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
