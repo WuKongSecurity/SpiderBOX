@@ -124,6 +124,70 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: GSCL Sec
+      release_time: 2026.03.16 09:11:32
+      title: Codex Skill做JS逆向初体验
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4MDgyNzY4Nw==&mid=2247484209&idx=1&sn=f839cd53667e970a5d609805453bea40
+    - author: LLLibra146
+      release_time: 2026.03.16 09:00:00
+      title: Codex + MCP：我用这套组合做了一次全自动 JS 逆向尝试
+      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486925&idx=1&sn=741a553ae0de73e827ee24d59c5c486a
+    - author: 秃头的逆向痴想
+      release_time: 2026.03.16 09:00:00
+      title: 深入 OBPO 还原控制流的核心原理
+      url: https://mp.weixin.qq.com/s?__biz=MzIzNDE3NjI0MQ==&mid=2247484161&idx=1&sn=ed90e2d57d2b7efb06f2576f6d2ecafe
+    - author: 爬虫进化论
+      release_time: 2026.03.16 08:51:09
+      title: 某直聘app逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMzM5MzE1MQ==&mid=2247484772&idx=1&sn=fc2f9bd94f35ce66e486313f7696fb28
+    - author: Python成长路
+      release_time: 2026.03.16 08:45:00
+      title: 通过群聊批量对微信好友进行标签分类
+      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486023&idx=1&sn=59e62c7ecad3f93b9e2757432f40417b
+    - author: 爬虫进化论
+      release_time: 2026.03.16 08:42:52
+      title: 某咖啡app逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMzM5MzE1MQ==&mid=2247484653&idx=1&sn=4fd10b0e3d516edae1bf560e39260285
+    - author: 测试工程师成长之路
+      release_time: 2026.03.16 08:30:00
+      title: 测试视角｜如何编写高质量的 AI Skill？避坑+实操全攻略
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578810&idx=1&sn=77c3ae468a89f03d74f983a6b52cb863
+    - author: 二进制磨剑
+      release_time: 2026.03.16 08:30:00
+      title: 第七期 | iOS 逆向工程 — 从零基础到实战对抗
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486009&idx=1&sn=5ebcf3ecb4869a234d561006262d2558
+    - author: 虫术
+      release_time: 2026.03.15 20:13:00
+      title: 研究发现：AI 越聪明，集体结果越差？
+      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486999&idx=1&sn=0f8ec3e7c88ae1e79013490b0f4d6c38
+    - author: 虫术
+      release_time: 2026.03.15 20:13:00
+      title: 17k！这个无头浏览器专为 AI 设计
+      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486999&idx=2&sn=49083c76b248a03f4e3162ab4410b58d
+    - author: 虫术
+      release_time: 2026.03.15 20:13:00
+      title: Meta 收购 AI 社交网络，AI 代理要"上网"了？
+      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486999&idx=3&sn=e19fdae498bbeee7bb1dbd5888444cf0
+    - author: Python成长路
+      release_time: 2026.03.15 17:23:38
+      title: 多个龙虾(openclaw)平替方案对比
+      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486015&idx=1&sn=398f6ed88cebd6ecd17116a9bce59ad0
+    - author: 爬虫进化论
+      release_time: 2026.03.15 15:38:24
+      title: 某蜂窝app逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMzM5MzE1MQ==&mid=2247484543&idx=1&sn=0646913955e5b6368183f691c39b6bc9
+    - author: 爬虫进化论
+      release_time: 2026.03.15 15:32:54
+      title: 某md5魔改样本学习
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMzM5MzE1MQ==&mid=2247484497&idx=1&sn=599a9b369c950c7f838b8457c0a28538
+    - author: 爬虫进化论
+      release_time: 2026.03.15 15:25:45
+      title: 某多多app逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMzM5MzE1MQ==&mid=2247484461&idx=1&sn=ebd3e32cfe0d2f348d9d74733455cbb0
+    - author: 零基础爬虫第一天
+      release_time: 2026.03.15 12:20:01
+      title: 从AST到JSVMP（入坑记录）
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484292&idx=1&sn=2fe792159bf0651761168ae02712b224
     - author: 零基础爬虫第一天
       release_time: 2026.03.13 19:55:04
       title: khbox1.2更新
@@ -180,70 +244,6 @@
       release_time: 2026.03.12 15:21:20
       title: 高性能 ARM64 执行 trace 可视化分析工具—— trace-ui
       url: https://mp.weixin.qq.com/s?__biz=MzU2NjQ2NzMyNw==&mid=2247490032&idx=1&sn=e0c7c2676a3c657357dc976e9501bb0b
-    - author: 逆向有你
-      release_time: 2026.03.12 15:05:05
-      title: 从零开始绕过 DexProtector 加固的 Frida 检测
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041528&idx=1&sn=47789a027b8890d1175cd877207f3255
-    - author: 剑客古月的安全屋
-      release_time: 2026.03.12 12:13:12
-      title: ai攻防-基于模型激活空间的越狱攻防
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNDY0NjY3MQ==&mid=2247485643&idx=1&sn=b1263b961959795a6be6e95cd4f92066
-    - author: 哆啦安全
-      release_time: 2026.03.12 12:00:00
-      title: Android安全研究神器 | 移动渗透测试利器
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499845&idx=1&sn=3b73985c4b9183911c417ac5a59434ed
-    - author: 虫术
-      release_time: 2026.03.12 09:21:09
-      title: 🦞 腾讯云 OpenClaw 接入四大主流办公平台完整指南
-      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486814&idx=1&sn=08689dcfec40e5ef0fc007cfbf66fb79
-    - author: 虫术
-      release_time: 2026.03.12 09:21:09
-      title: 3 月 12 日科技早报：AI 圈发生了这 5 件大事
-      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486814&idx=2&sn=c3ddfbf797989cb9e1035167ec639307
-    - author: Coder小Q
-      release_time: 2026.03.12 08:30:00
-      title: 【密码学】格同构问题：后量子密码学的新困难性基础
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247494694&idx=1&sn=049aa5a9ba22cc0ccf4e840cc016ad7d
-    - author: 爬虫逆向小林哥
-      release_time: 2026.03.11 18:20:00
-      title: 带壳淘系应用ssl延时hook
-      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487107&idx=1&sn=a44d355b826854da8b38e4414b67174b
-    - author: 爬虫spider
-      release_time: 2026.03.11 17:30:00
-      title: 抖音so最新版抓包
-      url: https://mp.weixin.qq.com/s?__biz=MzUyODY3ODUzNw==&mid=2247484210&idx=1&sn=5aee08fc18ae0b7ab828496c08a40bca
-    - author: 二进制磨剑
-      release_time: 2026.03.11 15:07:00
-      title: 安全预警 | 邪恶中转站？你的 OpenClaw 和  Claude Code 正在被黑客控制！
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486002&idx=1&sn=87705d11579c9a6e70f39ba67376f95b
-    - author: 小白技术社
-      release_time: 2026.03.11 14:57:20
-      title: 全AI分析某B*D 4.* UI 魔改包报告
-      url: https://mp.weixin.qq.com/s?__biz=MzI4NTE1NDMwMA==&mid=2247485373&idx=1&sn=2eb11f776040d4b393f9d9807d63be20
-    - author: 坚粿安全
-      release_time: 2026.03.11 11:14:16
-      title: 【小程序逆向】某银行金融小程序完整逆向过程
-      url: https://mp.weixin.qq.com/s?__biz=MzE5ODcxNjQxMQ==&mid=2247483854&idx=1&sn=dad50f18d721674ff82e299e8671c482
-    - author: 虫术
-      release_time: 2026.03.11 09:04:23
-      title: AI 科技新闻早报 | 2026 年 3 月 11 日 星期三
-      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486775&idx=1&sn=4ecc500a6a7482b06b0b92dc33879d9f
-    - author: 虫术
-      release_time: 2026.03.11 09:04:23
-      title: 阿里云上线 OpenClaw 官方部署方案！国内大厂 AI 布局大盘点
-      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486775&idx=2&sn=1983f5a6c57fbfb08639e5f3051ba10f
-    - author: 虫术
-      release_time: 2026.03.11 09:04:23
-      title: 百度智能云 OpenClaw 部署指南！轻量服务器首购 9.9 元起
-      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486775&idx=3&sn=f181b7497901a4ef94f0b616565fc6ad
-    - author: 虫术
-      release_time: 2026.03.11 09:04:23
-      title: 腾讯云 OpenClaw 官方部署指南！5 分钟接入企微/QQ/钉钉/飞书
-      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247486775&idx=4&sn=4964bd73198a123cbf73325aee5fc01e
-    - author: 哆啦安全
-      release_time: 2026.03.11 09:00:00
-      title: 永久激活密钥：998BC-CBDOK-MJ678A-F4XWK
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499838&idx=1&sn=5532facc193b8a5dd18b341ac0b089f3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
