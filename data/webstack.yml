@@ -3801,6 +3801,18 @@
           logo: gh_3823396f80ab.jpg
           qrcode: images/qrcode/gh_3823396f80ab.jpg
           description: 公众号：坚粿安全
+        - title: 逆不逆
+          logo: gh_573e8f142d55.jpg
+          qrcode: images/qrcode/gh_573e8f142d55.jpg
+          description: 公众号：逆不逆
+        - title: 泡泡以安
+          logo: gh_78c60799511a.jpg
+          qrcode: images/qrcode/gh_78c60799511a.jpg
+          description: 公众号：泡泡以安
+        - title: 小恰学逆向
+          logo: gh_e2658a87d1ba.jpg
+          qrcode: images/qrcode/gh_e2658a87d1ba.jpg
+          description: 公众号：小恰学逆向
 #        - title: K哥爬虫
 #          logo: kgepachong.jpg
 #          qrcode: images/qrcode/kgepachong.jpg
@@ -4653,6 +4665,10 @@
           url: https://github.com/microsoft/playwright-mcp
           logo: github.png
           description: 一个使用 Playwright 提供浏览器自动化功能的 MCP 服务器。该服务器使 LLMs 能够通过结构化的可访问性快照与网页交互，从而无需截图或视觉调优模型
+        - title: chrome-cdp-skill
+          url: https://github.com/pasky/chrome-cdp-skill
+          logo: github.png
+          description: 让你的 AI agent 访问你的实时 Chrome 会话，开箱即用，连接你已经打开的标签页
 
     - name: AI 文本对话
       links:
