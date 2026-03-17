@@ -748,6 +748,10 @@
           logo: jshaman.jpg
           url: https://www.jshaman.com/
           description: 专注于 JavaScript 源代码安全：JS 混淆、JS 加密，专业的 JS 代码保护服务提供商
+        - title: MeowShield
+          logo: meowshield.jpg
+          url: https://meowshield.com/
+          description: 喵喵盾，零点大佬开发的 JS 混淆加密
         - title: 喵喵盾
           logo: 4670123.jpg
           url: https://www.ldvmp.com/
@@ -4476,6 +4480,10 @@
           logo: zhizhuodemao.jpg
           url: https://zhizhuodemao.github.io/
           description: 致力于研究 AI 与逆向的结合
+        - title: Duck_Spider_OS
+          logo: spiderduck.jpg
+          url: https://spiderduck.top/
+          description: 指令与密文之下的世界，比界面更复杂，也更值得探索——这里记录着对系统深度理解的尝试
 
     - name: 正版书籍
       links:
@@ -4669,6 +4677,14 @@
           url: https://github.com/pasky/chrome-cdp-skill
           logo: github.png
           description: 让你的 AI agent 访问你的实时 Chrome 会话，开箱即用，连接你已经打开的标签页
+        - title: revula
+          url: https://github.com/president-xd/revula
+          logo: github.png
+          description: Revula 是一个基于 Python 开发的开源项目，核心定位是「通用逆向工程自动化生产级 MCP 服务器」，通过 MCP协议统一调度将近30款主流逆向工具和70种扩展工具，为各类客户端（如 Claude Desktop、VS Code、自定义脚本）提供统一的逆向服务接口
+        - title: jshookmcp
+          url: https://github.com/vmoranv/jshookmcp
+          logo: github.png
+          description: 面向 AI 辅助 JavaScript 分析与安全分析的 MCP（模型上下文协议）服务器，提供 245 个内置工具——其中 16 个域下 238 个域工具，外加 8 个内置元工具——并支持从 plugins/ 与 workflows/ 目录运行时动态扩展。集成浏览器自动化、Chrome DevTools Protocol 调试、网络监控、智能 JavaScript Hook、LLM 驱动代码分析、进程/内存操作、WASM 工具链、二进制编码、反反调试、GraphQL 发现、Source Map 重建、AST 变换、加密重构、平台包分析、Burp Suite / Native 分析工具桥接及高层复合工作流编排
 
     - name: AI 文本对话
       links:
