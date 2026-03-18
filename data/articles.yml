@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 猿人学Python
+      release_time: 2026.03.18 14:32:08
+      title: 出了20多位JS逆向大佬的网站改版了
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550082&idx=1&sn=2796dd8050971af3395b687055a1ce2e
+    - author: 逆向有你
+      release_time: 2026.03.18 11:54:44
+      title: JS逆向 -- 某点数据登录逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041557&idx=1&sn=97db327ed0c1cc1be02ea40009278e5f
+    - author: 吾爱破解论坛
+      release_time: 2026.03.18 11:31:32
+      title: 心流鼠标手势已上架火狐商店
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143747&idx=1&sn=e317f34eaaeb618298161413779a87eb
     - author: 爬虫逆向之旅
       release_time: 2026.03.18 10:00:00
       title: 在ai浪潮下的一点小感慨
@@ -232,21 +244,13 @@
       release_time: 2026.03.17 09:18:43
       title: 3.17 科技早报：Anthropic 投 1 亿/微软健康 AI/Meta 收购 AI 社交
       url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247487064&idx=4&sn=bd4c8ca937224eb3dc33cd31130e2aea
-    - author: 泡泡以安
-      release_time: 2026.03.17 09:07:00
-      title: AES 加密算法详解：从原理到安卓逆向实战
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485338&idx=1&sn=13a32ea111507fab7ed60f333888bafa
-    - author: GSCL Sec
-      release_time: 2026.03.17 08:00:00
-      title: 微信小程序自动化解包工具-wedecode
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4MDgyNzY4Nw==&mid=2247484225&idx=1&sn=f43da092cc214fad78f078253e500d28
-    - author: Python成长路
-      release_time: 2026.03.17 07:45:00
-      title: 在vscode copilot里使用IDA mcp
-      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486040&idx=1&sn=19bd979d2a723f6b1816c2ea947f12ca
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 过往233
+      release_time: 2026.03.18 00:15:00
+      title: 慢脚ai全链路js分析补环境
+      url: https://www.52pojie.cn/thread-2097554-1-1.html
     - author: utf8
       release_time: 2026.03.16 22:46:00
       title: 初探 Flutter 的猫腻
@@ -363,10 +367,6 @@
       release_time: 2026.02.23 12:00:00
       title: 小白如何通过大模型跑通unidbg调用sgmain生成某ckey参数
       url: https://www.52pojie.cn/thread-2092757-1-1.html
-    - author: 过往233
-      release_time: 2026.02.23 06:43:00
-      title: 某red书最新'x-s'ai纯算+补环境
-      url: https://www.52pojie.cn/thread-2092725-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
