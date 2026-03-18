@@ -2228,6 +2228,10 @@
           logo: github.png
           url: https://github.com/QIN2DIM/hcaptcha-challenger
           description: 利用多模态大型语言模型优雅应对 hCaptcha 挑战
+        - title: FlareSolverr
+          logo: github.png
+          url: https://github.com/FlareSolverr/FlareSolverr
+          description: FlareSolverr 启动一个代理服务器，并在空闲状态下使用少量资源等待用户请求。当有请求到达时，它使用 Selenium 和 undetected-chromedriver 创建一个网络浏览器（Chrome）。它用用户参数打开 URL，并等待 Cloudflare 挑战解决（或超时）。然后将 HTML 代码和 cookies 发送回用户，这些 cookies 可以用其他 HTTP 客户端绕过 Cloudflare
 
     - name: 轨迹相关
       links:
@@ -4685,6 +4689,10 @@
           url: https://github.com/vmoranv/jshookmcp
           logo: github.png
           description: 面向 AI 辅助 JavaScript 分析与安全分析的 MCP（模型上下文协议）服务器，提供 245 个内置工具——其中 16 个域下 238 个域工具，外加 8 个内置元工具——并支持从 plugins/ 与 workflows/ 目录运行时动态扩展。集成浏览器自动化、Chrome DevTools Protocol 调试、网络监控、智能 JavaScript Hook、LLM 驱动代码分析、进程/内存操作、WASM 工具链、二进制编码、反反调试、GraphQL 发现、Source Map 重建、AST 变换、加密重构、平台包分析、Burp Suite / Native 分析工具桥接及高层复合工作流编排
+        - title: Web Content Fetcher
+          url: https://github.com/shirenchuang/web-content-fetcher
+          logo: github.png
+          description: Web Content Fetcher 是一个 skill，是一个轻量级的网页正文提取工具，能够自动将任意网页转换为干净的 Markdown 格式，保留标题、链接、图片和列表结构,支持 Jina Reader / Scrapling / web_fetch 三级降级策略，完美支持微信公众号文章（Jina 无法读取的场景）
 
     - name: AI 文本对话
       links:
