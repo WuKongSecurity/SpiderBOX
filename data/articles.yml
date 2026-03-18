@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.03.18 17:26:22
+      title: 西湖边上的聚会 | 十年逆向教育
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484211&idx=1&sn=f4e8eb1e88a7e1a4ecbc25ddcdbd9bc3
     - author: 猿人学Python
       release_time: 2026.03.18 14:32:08
       title: 出了20多位JS逆向大佬的网站改版了
@@ -240,10 +244,6 @@
       release_time: 2026.03.17 09:18:43
       title: 119B 参数开源！Mistral Small 4 干翻闭源模型，Apache 2 许可随便用
       url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247487064&idx=3&sn=081e68ce69e3f1d537a856344ccdfa1a
-    - author: 虫术
-      release_time: 2026.03.17 09:18:43
-      title: 3.17 科技早报：Anthropic 投 1 亿/微软健康 AI/Meta 收购 AI 社交
-      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247487064&idx=4&sn=bd4c8ca937224eb3dc33cd31130e2aea
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
