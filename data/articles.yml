@@ -124,26 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
-    - author: 虫术
-      release_time: 2026.03.19 09:28:39
-      title: Perplexity Comet iOS 版发布！AI 浏览器大战升级，谁才是终极形态？
-      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247487237&idx=1&sn=3213b94a25f09b8525f909d805b0ab9e
-    - author: 虫术
-      release_time: 2026.03.19 09:28:39
-      title: 为什么你总忍不住刷手机？这个心理学效应正在控制你！
-      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247487237&idx=2&sn=6598e77c9acacd07d4e0aed370da720b
-    - author: 虫术
-      release_time: 2026.03.19 09:28:39
-      title: 3.19 科技早报：Anthropic 起诉 Pentagon/Adobe CEO 离职/索尼打击 AI 盗版
-      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247487237&idx=3&sn=2f849604e8cbd1b610c15530d43f0a08
-    - author: 虫术
-      release_time: 2026.03.19 09:28:39
-      title: Google 推出"Vibe Design"！用语音就能设计 UI，设计师要失业了？
-      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247487237&idx=4&sn=428630c28161f5b0693b887743588ed4
-    - author: 虫术
-      release_time: 2026.03.19 09:28:39
-      title: AI 生成的 Val Kilmer 将主演新电影！演员要失业了？这 3 个风险你必须知道
-      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247487237&idx=5&sn=34e1887a0ff731ebaabf9284999739b0
+    - author: 吾爱破解论坛
+      release_time: 2026.03.19 14:52:42
+      title: 2026解题领红包基本完成(少MCP和Win高级, 但很有梗)
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143773&idx=1&sn=0dd95b85bffd6c929bb32e28fd8ee121
+    - author: 泡泡以安
+      release_time: 2026.03.19 13:46:10
+      title: 某音乐 App 逆向（一）：加密通信全解析
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485505&idx=1&sn=1bf048c2130f50b5c3f52f300c61149e
+    - author: 泡泡以安
+      release_time: 2026.03.19 13:46:10
+      title: 某音乐 App 逆向（二）：calc签名算法深度逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485505&idx=2&sn=c10629c225b8e39ab622c757026c7f22
     - author: GSCL Sec
       release_time: 2026.03.19 08:00:00
       title: MCP加持下全自动化绕过验签&加密app
@@ -192,30 +184,6 @@
       release_time: 2026.03.18 09:33:00
       title: 深入MD5：逆向工程师如何识别和还原标准与魔改算法
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485427&idx=1&sn=976817152e3d4986267cf8951c3768f7
-    - author: 虫术
-      release_time: 2026.03.18 09:16:30
-      title: 8 个心理学效应，让程序员效率翻倍
-      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247487090&idx=1&sn=6779aff2e9e173bdae0ba83ee84153a7
-    - author: 虫术
-      release_time: 2026.03.18 09:16:30
-      title: 今日科技热点日历：3 月 18 日 AI 圈发生了什么
-      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247487090&idx=2&sn=3c5e66e72a4707bbee25418394eb2eb8
-    - author: 虫术
-      release_time: 2026.03.18 09:16:30
-      title: 本周值得关注的 5 个 AI 新工具
-      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247487090&idx=3&sn=735972a75bd1dcebecd65c0884f8097b
-    - author: 虫术
-      release_time: 2026.03.18 09:16:30
-      title: DLSS 5 被质疑实时生成式 AI 滤镜，Nvidia 回应：他们完全错了
-      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247487090&idx=4&sn=29c4967dbacc94e36b914b6b7456c2ba
-    - author: 虫术
-      release_time: 2026.03.18 09:16:30
-      title: 3000 星/天！这个 AI 代理技能框架正在疯传
-      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247487090&idx=5&sn=b2d3c5b3185067a5791b0f44cbb8b8fb
-    - author: 虫术
-      release_time: 2026.03.18 09:16:30
-      title: Nvidia 发布 NemoClaw——给 AI 代理戴上安全枷锁
-      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247487090&idx=6&sn=16be0a4d16b6c017c85a49bde9ba99bf
     - author: GSCL Sec
       release_time: 2026.03.18 08:00:00
       title: 更好用的js逆向AI MCP工具js-reverse mcp工具
@@ -244,9 +212,45 @@
       release_time: 2026.03.17 19:01:00
       title: OpenClaw 对接飞书插件 — 让 AI 助手住进你的飞书
       url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484518&idx=1&sn=431ce126f507137e3fb164573519c65a
+    - author: 流星Studio
+      release_time: 2026.03.17 18:03:01
+      title: 教你如何在PC上玩QQ经典农场-摸鱼偷菜小助手
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjUxNTgyMg==&mid=2247484155&idx=1&sn=eac911e0361298e59ab1f59d77c822b6
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.03.17 16:54:54
+      title: “AI换脸”黑灰产曝光，山东警方破获重大侵犯公民个人信息案
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519925&idx=1&sn=28b88d830d7ed372dca7ef5c09c1311d
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.03.17 16:54:54
+      title: 荷兰最高院：留存证件照非GDPR生物特征数据，反洗钱与数据保护冲突待欧盟释法
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519925&idx=2&sn=a62e23ce8c32dc2df686bb059d53b9f1
+    - author: GSCL Sec
+      release_time: 2026.03.17 16:48:47
+      title: 安卓逆向AI神器开源！Claude一键反编译APK自动扒接口
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4MDgyNzY4Nw==&mid=2247484227&idx=1&sn=150fb7f1da4f7ab30c63366113d85c92
+    - author: python爬虫和阿J的逆向
+      release_time: 2026.03.17 16:12:21
+      title: 使用 Trae + gemini3-pro+GPT-5.3还原 QQ 音乐 sign 的 JS VMP 算法
+      url: https://mp.weixin.qq.com/s?__biz=MzkxOTIyODcyOA==&mid=2247485772&idx=1&sn=59e61eedd613d02c0843fb31a2af327b
+    - author: 哆啦安全
+      release_time: 2026.03.17 11:18:52
+      title: 移动设备取证系统(专业版)V2.6
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499882&idx=1&sn=8eb173e5716c17f3b4489cf751bea389
+    - author: Pythonlx
+      release_time: 2026.03.17 11:09:46
+      title: Revula-逆向工具链路自动化MCP服务
+      url: https://mp.weixin.qq.com/s?__biz=MzU4NzkwNTU3Ng==&mid=2247485269&idx=1&sn=eb0ed8e627b1ccbc095a05852f77b19b
+    - author: 爬虫spider
+      release_time: 2026.03.17 11:05:24
+      title: 如何用claude写爬虫框架
+      url: https://mp.weixin.qq.com/s?__biz=MzUyODY3ODUzNw==&mid=2247484220&idx=1&sn=91717e171adbb624498075d0909e2f57
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: n1ng
+      release_time: 2026.03.18 23:05:00
+      title: 从0到1构建一个注入工具之注入器篇（二）
+      url: https://www.52pojie.cn/thread-2097864-1-1.html
     - author: 过往233
       release_time: 2026.03.18 00:15:00
       title: 慢脚ai全链路js分析补环境
@@ -363,10 +367,6 @@
       release_time: 2026.02.23 20:20:00
       title: 某音a_bogus详细分析-含50位数组生成过程
       url: https://www.52pojie.cn/thread-2092806-1-1.html
-    - author: albao
-      release_time: 2026.02.23 12:00:00
-      title: 小白如何通过大模型跑通unidbg调用sgmain生成某ckey参数
-      url: https://www.52pojie.cn/thread-2092757-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
