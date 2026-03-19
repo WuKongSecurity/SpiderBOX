@@ -2,6 +2,10 @@
   list:
   - links:
     - author: 和沐阳学逆向与Ai
+      release_time: 2026.03.18 19:00:00
+      title: 77.OpenClaw 对接 QQ、企业微信和个人微信
+      url: https://www.bilibili.com/video/BV1GnwvzCEBW
+    - author: 和沐阳学逆向与Ai
       release_time: 2026.03.17 15:09:22
       title: 76.OpenClaw 对接飞书插件 — 让 AI 助手住进你的飞书
       url: https://www.bilibili.com/video/BV1CmwDzgEQV
@@ -117,13 +121,53 @@
       release_time: 2026.02.08 22:05:50
       title: 【硬核】C++手撸Unidbg so 模拟执行框架！直透JNI补环境的原理
       url: https://www.bilibili.com/video/BV1DJcwz3Ese
-    - author: Alone逆向安全
-      release_time: 2026.02.07 23:07:19
-      title: 【硬核】C++手撸Unidbg！plt hook与指令trace实现
-      url: https://www.bilibili.com/video/BV1zBFxzpEah
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 虫术
+      release_time: 2026.03.19 09:28:39
+      title: Perplexity Comet iOS 版发布！AI 浏览器大战升级，谁才是终极形态？
+      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247487237&idx=1&sn=3213b94a25f09b8525f909d805b0ab9e
+    - author: 虫术
+      release_time: 2026.03.19 09:28:39
+      title: 为什么你总忍不住刷手机？这个心理学效应正在控制你！
+      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247487237&idx=2&sn=6598e77c9acacd07d4e0aed370da720b
+    - author: 虫术
+      release_time: 2026.03.19 09:28:39
+      title: 3.19 科技早报：Anthropic 起诉 Pentagon/Adobe CEO 离职/索尼打击 AI 盗版
+      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247487237&idx=3&sn=2f849604e8cbd1b610c15530d43f0a08
+    - author: 虫术
+      release_time: 2026.03.19 09:28:39
+      title: Google 推出"Vibe Design"！用语音就能设计 UI，设计师要失业了？
+      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247487237&idx=4&sn=428630c28161f5b0693b887743588ed4
+    - author: 虫术
+      release_time: 2026.03.19 09:28:39
+      title: AI 生成的 Val Kilmer 将主演新电影！演员要失业了？这 3 个风险你必须知道
+      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247487237&idx=5&sn=34e1887a0ff731ebaabf9284999739b0
+    - author: GSCL Sec
+      release_time: 2026.03.19 08:00:00
+      title: MCP加持下全自动化绕过验签&加密app
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4MDgyNzY4Nw==&mid=2247484240&idx=1&sn=f12b66d8666e7c4cb2f520a86b7f5e6f
+    - author: 哆啦安全
+      release_time: 2026.03.19 07:47:58
+      title: 二进制逆向分析-APK智能分析工具V1.1
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499900&idx=1&sn=0349f63504403ab25246fa33581f0597
+    - author: python爬虫和阿J的逆向
+      release_time: 2026.03.18 23:41:17
+      title: 使用Trae + Chrome CDP Skill实现小红书XS补环境算法
+      url: https://mp.weixin.qq.com/s?__biz=MzkxOTIyODcyOA==&mid=2247485779&idx=1&sn=5f2f1a6c59410e08d233544ebbfca7ef
+    - author: 菜鸟学Python编程
+      release_time: 2026.03.18 21:16:55
+      title: 高性能 ARM64 执行 trace 可视化分析工具—— trace-ui
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566350&idx=1&sn=6c70f7cf5acc463e2bdca7e3bb6c8012
+    - author: 沐阳逆向学习
+      release_time: 2026.03.18 19:01:00
+      title: OpenClaw 对接 QQ、企业微信和个人微信
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484523&idx=1&sn=4cec32ef4926f291dbe8f1821634e368
+    - author: 逆不逆
+      release_time: 2026.03.18 18:37:27
+      title: 最新版dy抓包&RPC&Unidbg模拟执行生成7神
+      url: https://mp.weixin.qq.com/s?__biz=MzYyNTY2NDgyNA==&mid=2247483779&idx=1&sn=8f6f21304ac3a4a36f982cdc994c4e6c
     - author: 如意私塾
       release_time: 2026.03.18 17:26:22
       title: 西湖边上的聚会 | 十年逆向教育
@@ -200,50 +244,6 @@
       release_time: 2026.03.17 19:01:00
       title: OpenClaw 对接飞书插件 — 让 AI 助手住进你的飞书
       url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484518&idx=1&sn=431ce126f507137e3fb164573519c65a
-    - author: 流星Studio
-      release_time: 2026.03.17 18:03:01
-      title: 教你如何在PC上玩QQ经典农场-摸鱼偷菜小助手
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjUxNTgyMg==&mid=2247484155&idx=1&sn=eac911e0361298e59ab1f59d77c822b6
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.03.17 16:54:54
-      title: “AI换脸”黑灰产曝光，山东警方破获重大侵犯公民个人信息案
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519925&idx=1&sn=28b88d830d7ed372dca7ef5c09c1311d
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.03.17 16:54:54
-      title: 荷兰最高院：留存证件照非GDPR生物特征数据，反洗钱与数据保护冲突待欧盟释法
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519925&idx=2&sn=a62e23ce8c32dc2df686bb059d53b9f1
-    - author: GSCL Sec
-      release_time: 2026.03.17 16:48:47
-      title: 安卓逆向AI神器开源！Claude一键反编译APK自动扒接口
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4MDgyNzY4Nw==&mid=2247484227&idx=1&sn=150fb7f1da4f7ab30c63366113d85c92
-    - author: python爬虫和阿J的逆向
-      release_time: 2026.03.17 16:12:21
-      title: 使用 Trae + gemini3-pro+GPT-5.3还原 QQ 音乐 sign 的 JS VMP 算法
-      url: https://mp.weixin.qq.com/s?__biz=MzkxOTIyODcyOA==&mid=2247485772&idx=1&sn=59e61eedd613d02c0843fb31a2af327b
-    - author: 哆啦安全
-      release_time: 2026.03.17 11:18:52
-      title: 移动设备取证系统(专业版)V2.6
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499882&idx=1&sn=8eb173e5716c17f3b4489cf751bea389
-    - author: Pythonlx
-      release_time: 2026.03.17 11:09:46
-      title: Revula-逆向工具链路自动化MCP服务
-      url: https://mp.weixin.qq.com/s?__biz=MzU4NzkwNTU3Ng==&mid=2247485269&idx=1&sn=eb0ed8e627b1ccbc095a05852f77b19b
-    - author: 爬虫spider
-      release_time: 2026.03.17 11:05:24
-      title: 如何用claude写爬虫框架
-      url: https://mp.weixin.qq.com/s?__biz=MzUyODY3ODUzNw==&mid=2247484220&idx=1&sn=91717e171adbb624498075d0909e2f57
-    - author: 虫术
-      release_time: 2026.03.17 09:18:43
-      title: Nvidia GTC 2026 炸场！Vera CPU+OpenClaw 安全版，AI 代理时代来了
-      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247487064&idx=1&sn=11ac37aa5b1541653b5277b1c34d268f
-    - author: 虫术
-      release_time: 2026.03.17 09:18:43
-      title: OpenAI Codex 子代理正式 GA！自定义配置 + 多模型分配，实战教程
-      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247487064&idx=2&sn=28853ecb4991f0acc984323bf6dc2612
-    - author: 虫术
-      release_time: 2026.03.17 09:18:43
-      title: 119B 参数开源！Mistral Small 4 干翻闭源模型，Apache 2 许可随便用
-      url: https://mp.weixin.qq.com/s?__biz=MzUxNjcwNDM5NQ==&mid=2247487064&idx=3&sn=081e68ce69e3f1d537a856344ccdfa1a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 悦来客栈的老板
+      release_time: 2026.03.18 21:17:24
+      title: 高性能 ARM64 执行 trace 可视化分析工具—— trace-ui
+      url: https://blog.csdn.net/qq523176585/article/details/159237439
     - author: 考古学家lx(李玺)
       release_time: 2026.03.18 09:52:12
       title: Revula-逆向工具链路自动化MCP服务
@@ -486,10 +490,6 @@
       release_time: 2026.02.03 23:35:29
       title: JS逆向 -最新版 盼之（decode__1174、ssxmod_itna、ssxmod_itna2）纯算
       url: https://blog.csdn.net/qq_53444631/article/details/157700533
-    - author: 红皮西瓜绿了心
-      release_time: 2026.02.03 22:22:23
-      title: TK X-Gnarly：基于 AI 辅助的 JSVMP 纯算还原方案
-      url: https://blog.csdn.net/m0_46265880/article/details/157696744
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
