@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 移动安全星球
+      release_time: 2026.03.20 12:00:00
+      title: 移动安全全栈技术基石与2025年防御范式深度报告
+      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486476&idx=1&sn=65d975ec9f686337ef657c41f03e7080
+    - author: 哆啦安全
+      release_time: 2026.03.20 11:00:47
+      title: 从零到一：手把手教你反混淆Android代码
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499904&idx=1&sn=10059d5d713820e6d627df19c5438981
+    - author: python爬虫和阿J的逆向
+      release_time: 2026.03.20 10:48:24
+      title: 零代码搞定复杂Web自动化：全新的「可视化流程编排」来啦！
+      url: https://mp.weixin.qq.com/s?__biz=MzkxOTIyODcyOA==&mid=2247485788&idx=1&sn=eccd7396bbc88bfc4b1ea8553480d99f
     - author: 泡泡以安
       release_time: 2026.03.20 09:11:00
       title: 某音乐 App 逆向（三）：calc签名算法完整还原
@@ -228,18 +240,6 @@
       release_time: 2026.03.18 08:00:00
       title: 更好用的js逆向AI MCP工具js-reverse mcp工具
       url: https://mp.weixin.qq.com/s?__biz=Mzg4MDgyNzY4Nw==&mid=2247484238&idx=1&sn=1b83af1e5168e9bd162d4832f68923da
-    - author: 哆啦安全
-      release_time: 2026.03.18 07:44:52
-      title: AI影响最大的职业TOP50
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499891&idx=1&sn=ed9604a30c0734717f3fbeed8516e79c
-    - author: 零基础爬虫第一天
-      release_time: 2026.03.18 07:40:00
-      title: 【vmp-1】rs-while的构造器初探
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484297&idx=1&sn=f08c0a6bf70cb497a43f47ad40487312
-    - author: 小小杨学编程
-      release_time: 2026.03.17 21:20:00
-      title: AI秒杀海外hcaptcha盾
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484720&idx=1&sn=62434bc3033e27a315c57f70a1ab8b86
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
