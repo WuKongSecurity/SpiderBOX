@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2026.03.20 20:58:45
+      title: Claude Code 上线新功能要革OpenClaw的命!
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991532&idx=1&sn=191610fa2f2833a4f7f67fdfae5a86bc
     - author: Pythonlx
       release_time: 2026.03.20 15:58:13
       title: 一文搭建免费的AI逆向工具链
@@ -240,10 +244,6 @@
       release_time: 2026.03.18 10:00:00
       title: 在ai浪潮下的一点小感慨
       url: https://mp.weixin.qq.com/s?__biz=MzkxNzMwNTMzOA==&mid=2247509598&idx=1&sn=da0a0fd854d42335c4ac56dbf0ea5148
-    - author: 泡泡以安
-      release_time: 2026.03.18 09:33:00
-      title: 深入MD5：逆向工程师如何识别和还原标准与魔改算法
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485427&idx=1&sn=976817152e3d4986267cf8951c3768f7
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
