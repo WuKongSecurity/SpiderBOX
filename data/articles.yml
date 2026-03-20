@@ -2,6 +2,10 @@
   list:
   - links:
     - author: 和沐阳学逆向与Ai
+      release_time: 2026.03.19 20:33:55
+      title: 78.别再烧Token了！OpenClaw省钱实战，月费直降90%
+      url: https://www.bilibili.com/video/BV1sewyzRECZ
+    - author: 和沐阳学逆向与Ai
       release_time: 2026.03.18 19:00:00
       title: 77.OpenClaw 对接 QQ、企业微信和个人微信
       url: https://www.bilibili.com/video/BV1GnwvzCEBW
@@ -117,13 +121,49 @@
       release_time: 2026.02.09 19:00:00
       title: 73.一文搞懂 LLM 和 Agent 的区别
       url: https://www.bilibili.com/video/BV1qVcMzzEQu
-    - author: Alone逆向安全
-      release_time: 2026.02.08 22:05:50
-      title: 【硬核】C++手撸Unidbg so 模拟执行框架！直透JNI补环境的原理
-      url: https://www.bilibili.com/video/BV1DJcwz3Ese
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 泡泡以安
+      release_time: 2026.03.20 09:11:00
+      title: 某音乐 App 逆向（三）：calc签名算法完整还原
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485543&idx=1&sn=5d6ae2955e6e18eea8cc749142a3536e
+    - author: 吾爱破解论坛
+      release_time: 2026.03.20 08:11:00
+      title: 【2026春节】解题领红包大部分题题解
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143784&idx=1&sn=f671b97b26d0749d1f272382d3dcbcb3
+    - author: 逆向有你
+      release_time: 2026.03.20 08:01:06
+      title: 安卓逆向 -- 某度加固检测部分分析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041564&idx=1&sn=997a73189546628981dbfa3b084cdc48
+    - author: 软件安全与逆向分析
+      release_time: 2026.03.19 20:44:45
+      title: 拆解iOS应用逆向实战中的反调试与反篡改
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485071&idx=1&sn=ed0907e603198e77e3eca08dfce80a9a
+    - author: 沐阳逆向学习
+      release_time: 2026.03.19 20:40:40
+      title: 别再烧Token了！OpenClaw省钱实战，月费直降90%
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484528&idx=1&sn=ed0dd5b04f68baac0f74b45a50732eb3
+    - author: 猿人学Python
+      release_time: 2026.03.19 18:02:16
+      title: Vibe coding 用 AI 做 JS 逆向食用教程
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550187&idx=1&sn=ac40d01b17633789ad81b23eb481274a
+    - author: 极验
+      release_time: 2026.03.19 17:21:11
+      title: iOS 虚拟化出事了！黑灰产又有新手段，百万运营看懵
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724334&idx=1&sn=446a6317c7e11e52f623d1e8d34e1ffb
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.03.19 17:11:18
+      title: 负面清单落地见效 历峰（海南）率先完成免税领域个人信息出境备案
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519929&idx=1&sn=c717d57d480de6541ecf28285336d776
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.03.19 17:11:18
+      title: 知名医疗器械巨头遭网络攻击，数万台设备被远程擦除数据
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519929&idx=2&sn=e21a415c94c87fe88042a1cd1dfc111d
+    - author: 如意私塾
+      release_time: 2026.03.19 17:06:57
+      title: 浏览器指纹/风控爬虫论文-WebGPU时代，5毫秒就能给你的设备画像
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484217&idx=1&sn=1a1699877a684e24238929862b7379bc
     - author: 吾爱破解论坛
       release_time: 2026.03.19 14:52:42
       title: 2026解题领红包基本完成(少MCP和Win高级, 但很有梗)
@@ -200,50 +240,6 @@
       release_time: 2026.03.17 21:20:00
       title: AI秒杀海外hcaptcha盾
       url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484720&idx=1&sn=62434bc3033e27a315c57f70a1ab8b86
-    - author: 未闻Code
-      release_time: 2026.03.17 20:13:19
-      title: Claude 推出新特性：/loop，未来有机会 24h 运行？
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991524&idx=1&sn=82d032a8e12350a437bb70e41aa9139e
-    - author: 吾爱破解论坛
-      release_time: 2026.03.17 19:34:49
-      title: 吾爱破解论坛精华集2025
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143739&idx=1&sn=0d5313ef19149873b1de75e95ffeb331
-    - author: 沐阳逆向学习
-      release_time: 2026.03.17 19:01:00
-      title: OpenClaw 对接飞书插件 — 让 AI 助手住进你的飞书
-      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484518&idx=1&sn=431ce126f507137e3fb164573519c65a
-    - author: 流星Studio
-      release_time: 2026.03.17 18:03:01
-      title: 教你如何在PC上玩QQ经典农场-摸鱼偷菜小助手
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjUxNTgyMg==&mid=2247484155&idx=1&sn=eac911e0361298e59ab1f59d77c822b6
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.03.17 16:54:54
-      title: “AI换脸”黑灰产曝光，山东警方破获重大侵犯公民个人信息案
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519925&idx=1&sn=28b88d830d7ed372dca7ef5c09c1311d
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.03.17 16:54:54
-      title: 荷兰最高院：留存证件照非GDPR生物特征数据，反洗钱与数据保护冲突待欧盟释法
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519925&idx=2&sn=a62e23ce8c32dc2df686bb059d53b9f1
-    - author: GSCL Sec
-      release_time: 2026.03.17 16:48:47
-      title: 安卓逆向AI神器开源！Claude一键反编译APK自动扒接口
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4MDgyNzY4Nw==&mid=2247484227&idx=1&sn=150fb7f1da4f7ab30c63366113d85c92
-    - author: python爬虫和阿J的逆向
-      release_time: 2026.03.17 16:12:21
-      title: 使用 Trae + gemini3-pro+GPT-5.3还原 QQ 音乐 sign 的 JS VMP 算法
-      url: https://mp.weixin.qq.com/s?__biz=MzkxOTIyODcyOA==&mid=2247485772&idx=1&sn=59e61eedd613d02c0843fb31a2af327b
-    - author: 哆啦安全
-      release_time: 2026.03.17 11:18:52
-      title: 移动设备取证系统(专业版)V2.6
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499882&idx=1&sn=8eb173e5716c17f3b4489cf751bea389
-    - author: Pythonlx
-      release_time: 2026.03.17 11:09:46
-      title: Revula-逆向工具链路自动化MCP服务
-      url: https://mp.weixin.qq.com/s?__biz=MzU4NzkwNTU3Ng==&mid=2247485269&idx=1&sn=eb0ed8e627b1ccbc095a05852f77b19b
-    - author: 爬虫spider
-      release_time: 2026.03.17 11:05:24
-      title: 如何用claude写爬虫框架
-      url: https://mp.weixin.qq.com/s?__biz=MzUyODY3ODUzNw==&mid=2247484220&idx=1&sn=91717e171adbb624498075d0909e2f57
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
