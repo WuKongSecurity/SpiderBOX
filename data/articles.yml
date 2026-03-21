@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 冷月不是程序员
+      release_time: 2026.03.21 22:34:48
+      title: 优美胜于丑陋：重温Python三十年的设计哲学
+      url: https://www.bilibili.com/video/BV1ciAAzTEvT
     - author: 和沐阳学逆向与Ai
       release_time: 2026.03.19 20:33:55
       title: 78.别再烧Token了！OpenClaw省钱实战，月费直降90%
@@ -117,10 +121,6 @@
       release_time: 2026.02.09 23:46:35
       title: frida gum stalker cpp版本  寄存器+内存+JNI syscall 全追踪
       url: https://www.bilibili.com/video/BV1HMF1zyEEG
-    - author: 和沐阳学逆向与Ai
-      release_time: 2026.02.09 19:00:00
-      title: 73.一文搞懂 LLM 和 Agent 的区别
-      url: https://www.bilibili.com/video/BV1qVcMzzEQu
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
