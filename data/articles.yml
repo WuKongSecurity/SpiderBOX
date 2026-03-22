@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: LLLibra146
+      release_time: 2026.03.22 12:00:00
+      title: 微信官方支持 OpenClaw 了
+      url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486955&idx=1&sn=576acf806e2bce527ac2d3b1dfe5737e
+    - author: 哆啦安全
+      release_time: 2026.03.22 10:12:16
+      title: 手搓APK:从零手动编译Android安装包
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499918&idx=1&sn=3b0a5282973b17e0fadf5183cd26e3ca
+    - author: 吾爱破解论坛
+      release_time: 2026.03.22 08:17:00
+      title: 吾爱破解 2026 春节所有题 WP
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143823&idx=1&sn=57a9b6a177ee699784b31dec11599551
     - author: 未闻Code
       release_time: 2026.03.20 20:58:45
       title: Claude Code 上线新功能要革OpenClaw的命!
@@ -224,26 +236,6 @@
       release_time: 2026.03.18 18:37:27
       title: 最新版dy抓包&RPC&Unidbg模拟执行生成7神
       url: https://mp.weixin.qq.com/s?__biz=MzYyNTY2NDgyNA==&mid=2247483779&idx=1&sn=8f6f21304ac3a4a36f982cdc994c4e6c
-    - author: 如意私塾
-      release_time: 2026.03.18 17:26:22
-      title: 西湖边上的聚会 | 十年逆向教育
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484211&idx=1&sn=f4e8eb1e88a7e1a4ecbc25ddcdbd9bc3
-    - author: 猿人学Python
-      release_time: 2026.03.18 14:32:08
-      title: 出了20多位JS逆向大佬的网站改版了
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550082&idx=1&sn=2796dd8050971af3395b687055a1ce2e
-    - author: 逆向有你
-      release_time: 2026.03.18 11:54:44
-      title: JS逆向 -- 某点数据登录逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041557&idx=1&sn=97db327ed0c1cc1be02ea40009278e5f
-    - author: 吾爱破解论坛
-      release_time: 2026.03.18 11:31:32
-      title: 心流鼠标手势已上架火狐商店
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143747&idx=1&sn=e317f34eaaeb618298161413779a87eb
-    - author: 爬虫逆向之旅
-      release_time: 2026.03.18 10:00:00
-      title: 在ai浪潮下的一点小感慨
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzMwNTMzOA==&mid=2247509598&idx=1&sn=da0a0fd854d42335c4ac56dbf0ea5148
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
