@@ -311,15 +311,15 @@
           url: https://proxydroid.com/
           description: 基于 Android 系统的开源代理工具应用软件，需通过 root 权限实现设备代理配置功能，支持 HTTP、SOCKS4、SOCKS5 等多种代理协议及全局代理模式
         - title: BurpSuite
-          logo: BurpSuite.jpg
+          logo: BurpSuite.png
           url: https://portswigger.net/burp
           description: Burp Suite 是一款 Web 应用程序安全测试集成平台。该平台通过代理服务器拦截 HTTP/S 通信流量，提供 Spider 爬虫、Scanner 漏洞扫描（专业版功能）、Intruder 自动化攻击等工具链
         - title: Brook
-          logo: brook.jpg
+          logo: brook.png
           url: https://www.txthinking.com/brook.html
           description: 一个跨平台的可编程网络工具
         - title: Postern
-          logo: postern.jpg
+          logo: postern.png
           url: https://apkpure.net/postern/com.tunnelworkshop.postern/download
           description: Postern 是一个 Android 下的全局代理工具
 
@@ -417,7 +417,7 @@
           url: https://github.com/taskPyroer/taskpyro
           description: 轻量级 Python 任务调度与爬虫管理平台，可视化操作，环境隔离，资源占用小，支持 Scrapy 等主流爬虫框架，支持 Selenium、Playwright、DrissionPage 等浏览器自动化工具，支持 node 环境下的 js 逆向代码
         - title: Scrapling
-          logo: Scrapling.png
+          logo: Scrapling.jpg
           url: https://github.com/D4Vinci/Scrapling
           description: Scrapling 是一个自适应 Web Scraping 框架，能处理从单个请求到大规模爬取的一切需求。它的解析器能够从网站变化中学习，并在页面更新时自动重新定位您的元素。它的 Fetcher 能够开箱即用地绕过 Cloudflare Turnstile 等反机器人系统。它的 Spider 框架让您可以扩展到并发、多 Session 爬取，支持暂停/恢复和自动 Proxy 轮换——只需几行 Python 代码。一个库，零妥协
 
@@ -1794,7 +1794,7 @@
           url: https://senumy.com/
           description: IPA 商店，提供 iOS 越狱工具、插件、修改版游戏和 Double Plus (Mod) 应用等
         - title: TrollStore 巨魔商店
-          logo: TrollStore.png
+          logo: TrollStore.jpg
           url: https://github.com/opa334/TrollStore
           description: TrollStore 巨魔商店，是利用 iOS、iPadOS 的 CoreTrust 漏洞进行永久签名的工具，巨魔不是越狱，他可以让你的设备任意安装软件并且不会掉签，并且突破部分权限
         - title: 轻松签
@@ -2005,7 +2005,7 @@
           url: https://solvecaptcha.com?from=572096
           description: 支持 reCAPTCHA、Arkose Labs FunCaptcha、Cloudflare Turnstile、Amazon（AWS） WAF 等
         - title: CapVerified
-          logo: capverified.jpg
+          logo: capverified.png
           url: https://capverified.com?referral=HO0MesXjku
           description: 支持 reCAPTCHA v3、hCaptcha、CaptchaFox 等
         - title: BestCaptchaSolver
@@ -2567,7 +2567,7 @@
 
         # 30% ==============================
         - title: 有代理
-          logo: youdaili.jpg
+          logo: youdaili.png
           url: https://www.youdaili.com/?ref=EkksSW5MTn
           description: 【需实名】有代理是企业级 HTTP 代理 IP 定制云服务商，提供超千万的短效 http 代理 ip、动态 ip 代理、静态 ip 代理、socks 代理、隧道代理、长效国内代理 ip 购买。代理 ip 池日去重超千万，爬虫代理 ip 定制赋能企业大数据采集。买 ip 代理就上有代理
 
@@ -4489,7 +4489,7 @@
           url: https://zhizhuodemao.github.io/
           description: 致力于研究 AI 与逆向的结合
         - title: Duck_Spider_OS
-          logo: spiderduck.jpg
+          logo: spiderduck.png
           url: https://spiderduck.top/
           description: 指令与密文之下的世界，比界面更复杂，也更值得探索——这里记录着对系统深度理解的尝试
         - title: Buzzer's blog
@@ -4500,83 +4500,83 @@
     - name: 正版书籍
       links:
         - title: Python3 网络爬虫开发实战（第2版）
-          logo: book_13527222.png
+          logo: book_13527222.jpg
           url: https://item.jd.com/13527222.html
           description: 崔庆才著，本书介绍了如何利用 Python 3 开发网络爬虫。本书为第 2 版，相比于第 1 版，为每个知识点的实战项目配备了针对性的练习平台，避免了案例过期的问题。另外，主要增加了异步爬虫、JavaScript 逆向、App 逆向、页面智能解析、深度学习识别验证码、Kubernetes 运维及部署等知识点，同时也对各个爬虫知识点涉及的请求、存储、解析、测试等工具进行了丰富和更新
         - title: Python3 反爬虫原理与绕过实战
-          logo: book_12794078.png
+          logo: book_12794078.jpg
           url: https://item.jd.com/12794078.html
           description: 韦世东著，本书首先介绍了开发环境的配置，接着讨论了 Web 网站的构成和页面渲染、动态网页和静态网页对爬虫造成的影响，紧接着详细介绍了信息校验型反爬虫、动态渲染反爬虫、文本混淆反爬虫知识、特征识别反爬虫的原理、实现和绕过，然后概览了 App 数据爬取的关键和常用的反爬虫手段，最后介绍了常见的编码和加密原理、JavaScript 代码混淆知识、前端禁止事件以及与爬虫相关的法律知识和风险点
         - title: 爬虫逆向进阶实战
-          logo: book_13142571.png
+          logo: book_13142571.jpg
           url: https://item.jd.com/13142571.html
           description: 李玺著，本书以爬虫逆向方向的相关技术和岗位要求进行撰写，总结了爬虫的架构体系、主流框架和未来发展ꎮ 书中包括各种自动化工具、抓包工具、逆向工具的使用，核心内容以 Web Js 逆向、安卓逆向、小程序逆向为主。结合三十多个实战案例进行分析，内容从易到难，循序渐进，另外还对主流的反爬虫技术进行了讲解，包括传输协议、验证码体系、字符集映射、行为和指纹等
         - title: 反爬虫 AST 原理与还原混淆实战
-          logo: book_10099859383510.png
+          logo: book_10099859383510.jpg
           url: https://item.jd.com/10099859383510.html
           description: 李岳阳，卓斌（网名小肩膀）著，本书从 AST 这一个知识点出发，由浅入深，带领读者掌握反爬虫 AST 的原理，并帮助读者培养解决实际问题的能力。本书共 11 章，分为四部分，首部分（第1～4章）介绍开发环境的搭建方法、Web 调试的必备技巧以及爬虫与反爬虫的基本知识；第二部分（第5～6章）讲解混淆 JavaScript 代码的手工逆向方法与 JavaScript 代码安全防护的原理；第三部分（第7～8章）讲解 AST 的原理与API的使用方法；第四部分（第9～11章）以 AST 为基础，讲解自动化的 JavaScript 代码防护与还原方案，并带领读者进行实战训练
         - title: 安卓 Frida 逆向与抓包实战
-          logo: book_10116371577375.png
+          logo: book_10116371577375.jpg
           url: https://item.jd.com/10116371577375.html
           description: 陈佳林（网名 r0ysue）著，本书以详细介绍了 Hook 框架 Frida 在安卓逆向工程与抓包中的应用，主要内容包括如何搭建完美运行 Frida 的安卓逆向分析环境，使用 Frida 对安卓 App 各项组件、框架和代码进行 Hook，如何批量自动化 Hook，以及全自动导出结果。针对爬虫工程师最为迫切需要的抓包技术，详细阐述了各种应用层框架的抓包实战，HTTP(S) 及其框架抓包的核心原理及工具使用，通过 Frida 进行的 Hook 抓包，还进一步介绍了 Frida 对 native 层的Hook,以及一系列“通杀”“自吐”脚本的研发过程和核心原理。本书内容详尽，突出实操，适合安卓开发人员，安卓应用安全工程师，逆向分析工程师，爬虫工程师，以及大数据分析工程师和安全研究人员使用
         - title: 安卓 Frida 逆向与协议分析
-          logo: book_10116544664043.png
+          logo: book_10116544664043.jpg
           url: https://item.jd.com/10116544664043.html
           description: 陈佳林（网名 r0ysue）著，本书翔实地介绍流行的 Frida 工具在安卓逆向工程中的应用，内容包括：如何安装和使用 Frida、基本环境的搭建、Frida-tools、Frida 脚本、Frida API、批量自动化 Trace 和分析、RPC 远程方法调用、在无须逆向算法具体实现的情况下对 Frida 工具的调用，并提供了大量 App 逆向与协议分析案例，书中还介绍了更加稳定的 Xposod 框架的使用方法，以及从安卓源码开始定制属于自己的抓包沙箱，打造无法被绕过的抓包环境等内容。本书案例丰富，注重实操，适合安卓应用安全工程师、安卓逆向分析工程师、爬虫工程师以及大数据采集和分析工程师使用
         - title: Frida Android SO 逆向深入实践
-          logo: book_10099910829960.png
+          logo: book_10099910829960.jpg
           url: https://item.jd.com/10099910829960.html
           description: 陈佳林（网名 r0ysue）著，主要介绍使用 Frida 辅助分析 SO 进行逆向工程项目开发。首先从基础开始介绍 NDK 编译套件，开发编译包含 SO 的应用软件并进行动静态分析调试；接着介绍如何将算法移植到 SO 中保护 App，并使用模拟执行框架加载 SO 运行算法，使用 GDB、HyperPwn、Objection、Frida 联合调试 SO 中的算法；此外，还将介绍 ARM/ELF 的文件格式和反编译工具 IDA，Frida/Jnitrace Hook/Invoke JNI，JNI 与反射及简单风控案例设计分析，onCreate 的 Native 化，分析 Android 源码追踪 JNI 的绑定流程。最后介绍哈希和对称加解密算法的核心原理与实现细节，以及使用 Frida 辅助逆向分析的工作流程
         - title: unidbg 逆向工程：原理与实践
-          logo: book_13991341.png
+          logo: book_13991341.jpg
           url: https://item.jd.com/13991341.html
           description: 陈佳林（网名 r0ysue）著，这是一本从原理和实践角度讲解 unidbg 的著作，不仅深入解析了 unidbg 的使用方法、工作原理、实现细节，而且详细讲解了如何用 unidbg 解决生产环境中的各种逆向工程难题。它是作者多年安全工作经验的总结，得到了 unidbg 框架作者的高度评价和推荐
         - title: 移动安全攻防进阶 — Android 与 iOS 逆向理论与案例实战
-          logo: book_14365942.png
+          logo: book_14365942.jpg
           url: https://item.jd.com/14365942.html
           description: 叶绍琛，陈鑫杰，蔡国兆著，本书从 Android 虚拟机的技术原理开始，着重解析了 Java 层 Dalvik 虚拟机和 ART 虚拟机的 Android 系统中的运行机制，从而引出 Native 层的 Native 开发和 ARM 汇编语言等更底层的技术栈。在攻防全局观上主要介绍 ATT&CK 框架的技战术，将攻防过程中的技术点映射到矩阵中，ATT&CK 框架中的移动安全攻防框架可以作为移动安全攻防的全局指导。通过对移动应用第一代加固壳到第三代加固壳的技术原理的剖析及技术实现的讲解，可以看到攻防对抗逐渐走向底层的原生层，通过学习基于 OLLVM 的加固壳开发以及 VMP 加固壳的代码实现，全面掌握主流应用加固的技术方案。通过对真实世界实网攻防中遭遇的恶意程序、APT 攻击样本等进行逆向分析，详细介绍其中的技术原理和代码实现，以帮助读者从一线攻防案例中获取攻防对抗经验
         - title: Android 进阶之光
-          logo: book_12125491.png
+          logo: book_12125491.jpg
           url: https://item.jd.com/12125491.html
           description: 刘望舒著，是一本 Android 进阶类书籍。本书共分为 11 章。第 1 章介绍 Android 5.0 到 Android 7.0 的新特性。第 2 章介绍 Material Design。第3章介绍 View 体系，包括 View 的事件分发、工作流程、自定义 View 等知识点。第 4 章介绍多线程的知识。第 5 章介绍网络编程与网络框架的知识。第 6 章介绍常用的设计模式。第 7 章介绍事件总线。第 8 到第 10 章介绍架构设计所需要的知识点。第 11 章简单介绍 Android 系统框架与 MediaPlayer 框架。本书详细并深入讲解 Android 开发者必备的和前沿的知识，适合有一定开发基础的开发者阅读，这有助于他们提高技术水平；同时，本书系统的知识体系结构也令高级开发者从中获益良多
         - title: Android 进阶之光（第2版）
-          logo: book_13127482.png
+          logo: book_13127482.jpg
           url: https://item.jd.com/13127482.html
           description: 刘望舒著，是一本 Android 进阶类书籍。第 2 版图书将内容扩展到 Android 10，升级了部分第三方框架版本，比如 OkHttp 4 和 RxJava 3，修订第 1 版的细节多达400余处。本书共分为 11 章。第 1 章介绍 Android 5.0 到 Android 7.0 的新特性。第 2 章介绍 Material Design。第3章介绍 View 体系，包括 View 的事件分发、工作流程、自定义 View 等知识点。第 4 章介绍多线程的知识。第 5 章介绍网络编程与网络框架的知识。第 6 章介绍常用的设计模式。第 7 章介绍事件总线。第 8 到第 10 章介绍架构设计所需要的知识点。第 11 章简单介绍 Android 系统框架与 MediaPlayer 框架。本书详细并深入讲解 Android 开发者必备的和前沿的知识，适合有一定开发基础的开发者阅读，这有助于他们提高技术水平；同时，本书系统的知识体系结构也令高级开发者从中获益良多
         - title: Android 进阶解密
-          logo: book_12438713.png
+          logo: book_12438713.jpg
           url: https://item.jd.com/12438713.html
           description: 刘望舒著，是一本 Android 进阶书籍，主要针对 Android 8.0 系统源码并结合应用开发相关知识进行介绍。本书共分为 17 章，从 3 个方面来组织内容。 第 1 方面介绍 Android 应用开发所需要掌握的系统源码知识，第二方面介绍 JNI、ClassLoader、Java 虚拟机、DVM&ART 虚拟机和 Hook 等技术，第三方面介绍热修复原理、插件化原理、绘制优化和内存优化等与应用开发相关的知识点。3 个方面有所关联并形成一个知识体系，从而使 Android 开发者能通过阅读本书达到融会贯通的目的
         - title: Android 进阶指北
-          logo: book_12972072.png
+          logo: book_12972072.jpg
           url: https://item.jd.com/12972072.html
           description: 刘望舒著，是一本 Android 进阶图书，结合《Android 进阶之光》和《Android 进阶解密》两本书介绍的知识，一同建立起 Android 应用开发进阶知识体系。全书共分 13 章，主要从 3 个方面来组织内容：1、Android 应用开发所需要掌握的系统源码知识，包括系统源码的下载、编译、调试，包管理机制，输入系统，Native Binder，Java Binder；2、应用开发必需的知识点，包括 Groovy 基础、Gradle 核心思想、Gradle 的 Android 插件、Android Jetpack 架构组件；3、与跨平台开发相关的知识点，包括跨平台技术演进、Dart 基础、Flutter 基础
         - title: 深入理解 Android：Java 虚拟机 ART
-          logo: book_12510921.png
+          logo: book_12510921.jpg
           url: https://item.jd.com/12510921.html
           description: 邓凡平著，是一部从源代码角度分析和讲解 Android 虚拟机 ART 的鸿篇巨著，全书共 14 章：第 1 章介绍了在学习 ART 虚拟机前需要准备的工具和环境，以及本书的内容结构和阅读注意事项，建议仔细读和反复读；第 2~4 章详细讲解了 Class 文件、dex 文件和 ELF 文件的格式和内容，理解 Class 文件是学习 JVM 的一步，dex 和 ELF 者是学习 Dalvik 虚拟机和 ART 虚拟机的的前提和基础；第 5 章详细讲解了 ART 虚拟机的实现语言 C++11，是阅读 ART 源代码必备的知识；第 6~8 章详细讲解了 ART 虚拟机中与编译和 Runtime 相关的大量知识，这是虚拟机的核心和难点；第 9 章详细讲解了 dex 字节码转机器码的核心进程 dex2oat 以及 .oat 和 .art 的文件格式；第 10~11 章详细讲解了虚拟机的解释执行、JIT 部分以及异常的投递和处理的过程，以及 JNI 在 ART 虚拟机中的实现；第 12~14 章详细讲解了虚拟机中 Java 线程的执行、内存分配和释放、垃圾回收的原理与实现
         - title: Android 软件安全权威指南
-          logo: book_12522178.png
+          logo: book_12522178.jpg
           url: https://item.jd.com/12522178.html
           description: 丰生强（网名非虫）著，本书从平台搭建和语言基础开始，循序渐进地讲解了 Android 平台上的软件安全技术，提供了对 Windows、Linux、macOS 三个平台的支持，涉及与 Android 软件安全相关的环境搭建、文件格式、静态分析、动态调试、Hook 与注入、软件保护技术、软件壳等主题，涵盖 OAT、ELF 等新的文件格式。本书将 Java 与 Native 层的软件安全技术分开讲解，加入了与软件壳相关的章节，内容安排细致、合理。本书的每一章都以实例讲解的方式来展开内容，实践性较强
         - title: Android 软件安全与逆向分析
-          logo: book_11186337.png
+          logo: book_11186337.jpg
           url: https://item.jd.com/11186337.html
           description: 丰生强（网名非虫）著，本书由浅入深、循序渐进地讲解了 Android 系统的软件安全、逆向分析与加密解密技术。包括 Android 软件逆向分析和系统安全方面的必备知识及概念、如何静态分析 Android 软件、如何动态调试 Android 软件、Android 软件的破解与反破解技术的探讨，以及对典型 Android 病毒的全面剖析。强实践性。缺乏可操作性，是 Android 安全方面现有论文、白皮书、技术文章大的问题之一，很多人读到后可能对内容有了一些概念，却不知道从何下手。这本书的几乎每一个部分，都结合实际例子，一步步讲解如何操作。强时效性。作者在写作的同时，持续跟随业界新进展，刚刚发布不久的 Santoku 虚拟机、APIMonitor 等工具，以及 Androguard 的新特性等，已然出现在了这本书中
         - title: macOS 软件安全与逆向分析
-          logo: book_12137171.png
+          logo: book_12137171.jpg
           url: https://item.jd.com/12137171.html
           description: 丰生强（网名非虫），邢俊杰著，本书深入介绍了 macOS 系统的软件安全、逆向分析与加密解密技术，主要包括 macOS 软件的开发基础、macOS 系统工作机制、macOS 软件调试接口与机制、二进制程序的格式、反汇编技术、逆向与动态调试技术、反破解技术以及系统安全与反病毒
         - title: eBPF 开发指南从原理到应用
-          logo: book_10132040684560.png
+          logo: book_10132040684560.jpg
           url: https://item.jd.com/10132040684560.html
           description: 丰生强（网名非虫），李泊冰著，本书详细介绍了 eBPF 核心技术及其应用。全书可分为 eBPF 基础知识、进阶应用和实际案例三大部分，覆盖了 eBPF 的编程接口、架构及其在性能分析、安全监控和网络协议等方面的应用。读者将通过 C、Go 和Python 等语言学习 eBPF 编程，并掌握其在系统监控、数据分析和性能提升方面的实际技巧。本书适合不同层次的读者，包括对操作系统或应用程序监控感兴趣的学生和初学者、希望利用 eBPF 进行内核代码调试和优化的 Linux 内核开发人员、使用 eBPF 监控系统事件和分析恶意软件的安全工程师和逆向工程师、通过 eBPF 收集性能数据以优化软件和系统性能的性能分析师和应用程序安全，以及希望优化虚拟化软件性能和管理的虚拟化开发人员
         - title: 加密与解密（第4版）
-          logo: book_12395765.png
+          logo: book_12395765.jpg
           url: https://item.jd.com/12395765.html
           description: 段钢著，作者是看雪学院的创始人和运营管理者，本书以软件逆向为切入点，讲述了软件安全领域相关的基础知识和技能。读者阅读本书后，很容易就能在逆向分析、漏洞分析、安全编程、病毒分析等领域进行扩展。这些知识点的相互关联，将促使读者开阔思路，使所学融会贯通，领悟更多的学习方法，提升自身的学习能力
         - title: 数字风控体系：设计与实践
-          logo: book_14380164.png
+          logo: book_14380164.jpg
           url: https://item.jd.com/14380164.html
           description: 唐会军（数美科技创始人兼 CEO）著，本书系统地讲解了基于人工智能技术搭建数字风控体系的原理与实践，并通过典型行业的风控实践对风控体系的每个部分进行了详细的讲解。以帮助风控从业人员从黑产、用户行为事件、特征、模型算法、策略、处置方法等方面系统地理解风控系统原理，并掌握将这些原理在业务中落地的能力，建立完整的风控运营体系。同时，也希望能够帮助企业的CEO/CTO/CIO/产品经理/产品运营等产品规划、设计、运营人员理解风控的必要性和原理，在产品规划设计运营中兼顾风险控制，以便更好地推动产品的发展
 
@@ -4878,7 +4878,7 @@
           description: 海螺 AI（Hailuo AI）是一个基于先进的 AI 生成技术打造的对话式智能助理，由被称为“大模型四小龙”的 MiniMax 公司开发，海螺 AI 具备多模态交互能力，能够提供语音通话、文本交互、图像识别等功能。在海螺 AI，用户可以实现文生视频和图生视频，相比同类产品，海螺的生成画质逼真，电影级运镜算是一个亮点
         - title: Vidu
           url: https://www.vidu.cn/
-          logo: vidu.png
+          logo: vidu.jpg
           description: Vidu 是北京生数科技有限公司联合清华大学于 2024 年 4 月 27 日发布的中国首个长时长、高一致性、高动态性视频大模型，采用全球首个 Diffusion 与 Transformer 融合的 U-ViT 架构（早于 Sora 的 DiT 方案），初始版本支持生成 4 秒、8 秒的高动态性视频（分辨率达 1080P），首批功能包括文生视频、图生视频及参考生视频。该模型可精确模拟物理规律生成光影、人物表情等细节，支持多镜头切换及中国元素融合
         - title: 通义万相
           url: https://wanxiang.aliyun.com/
@@ -4906,11 +4906,11 @@
           description: FLUX.2 是视觉智能实验室 Black Forest Labs 于 2025 年 11 月发布的新一代图像生成模型。是一个拥有 320 亿参数的整流流 Transformer 模型，能够根据文本指令生成、编辑和组合图像。它支持多参考图像生成功能，可保持角色与风格一致性，并支持高达 400 万像素的高分辨率图像处理。其系列包含 FLUX.2 [dev] 等版本，部分以开放权重形式提供
         - title: Flow
           url: https://labs.google/fx/tools/flow
-          logo: flow.jpg
+          logo: flow.png
           description: Flow 是由谷歌公司于 2025 年 5 月 21 日在 I/O 开发者大会上发布的 AI 电影创作应用，面向美国地区用户开放。该工具整合了谷歌的 Veo 视频生成模型、Imagen 图像生成技术和 Gemini 自然语言处理能力，支持用户通过文字指令生成 8 秒音画同步视频片段，并提供镜头运动轨迹控制、场景延展及转场效果编辑等影视制作功能。Flow 采用订阅制服务模式，提供 Pro 和 Ultra 不同层级的服务
         - title: 云幕同声
           url: https://www.yunmuts.com/
-          logo: yunmuts.jpg
+          logo: yunmuts.png
           description: 云幕同声是新一代的 AI 视频翻译工具，使用最新的声音复刻模型实现高保真的 AI 视频翻译。在短剧出海领域的效果尤为优秀。98% 还原音色、优秀的音画同步算法、融入 AI 人声分离模型、支持后期效果精细调整
         - title: Civitai
           url: https://civitai.com/
@@ -4918,7 +4918,7 @@
           description: Civitai 是一个专注于稳定扩散（Stable Diffusion）AI 艺术模型的免费开源模型共享平台，提供检查点训练模型、LoRA 模型等多种类型，支持图像生成、自然语言处理、音频创作等领域的应用。用户可浏览、上传和下载模型，通过社区互动分享生成图片及提示词
         - title: Artlist
           url: https://artlist.io/
-          logo: artlist.png
+          logo: artlist.jpg
           description: Artlist 是一个面向创作者提供 AI 工具与数字资产的创意平台。该公司成立于 2016 年，总部位于以色列，以“让创作更自由”为使命。其通过订阅制模式，为用户提供海量的免版税音乐、音效及视频素材。核心资源包括涵盖多种风格的 2.8 万首歌曲、7.2 万+音效以及超过 100 万段高清视频素材。平台还提供 AI 图像生成、AI 语音合成等 AI 工具
         - title: Adobe Firefly
           url: https://firefly.adobe.com/
@@ -4975,7 +4975,7 @@
           description: Suno AI 是一款AI音乐创作平台，由机器学习专家 Mikey Shulman、Keenan Freyberg、Georg Kucsko 和 Martin Camacho 共同创立，创始团队位于麻省剑桥，曾开发文本转语音程序 Bark，后转向音乐生成领域。2024 年 3 月推出 V3 音乐生成模型，支持通过歌词生成歌曲并指定AI歌手音色，新增 Custom Mode（自定义模式）和 Instrumental（纯音乐模式），可在数秒内生成 2 分钟高质量音频
         - title: Udio
           url: https://www.udio.com/
-          logo: udio.png
+          logo: udio.jpg
           description: Udio 是一家专注于音乐生成领域的生成式人工智能初创公司，由前谷歌 DeepMind 研究人员团队于 2023 年创立，总部位于美国加利福尼亚州。该公司核心产品为 AI 音乐生成平台，用户可通过输入文本提示快速生成包含歌词、人声及伴奏的完整音乐作品，支持多语言创作、流派选择及歌曲延长功能，测试阶段提供每月 1200 首免费生成额度。2024 年 4 月完成种子轮融资 1000 万美元，主要投资方包括 Andreessen Horowitz（a16z）、Instagram 联合创始人迈克·克里格及音乐人 will.i.am 等。2024 年 7 月推出的 Udio v1.5 版本升级至 48kHz 立体声音轨，新增音调控制、音轨拆分及音频重混功能，提升乐器分离度与音乐性，同期发布可视化编辑工具 Sessions，支持创作者移动、扩展或替换歌曲的主歌、副歌等结构部分
         - title: Stable Audio
           url: https://stableaudio.com/
@@ -4994,7 +4994,7 @@
           description: HeyGen 是一款基于人工智能技术的视频翻译工具，可通过多语言音视频处理实现口型同步的跨语言内容生成。该工具支持 50 余种语言和 300 多种声音类型，能够生成与母语音色相近且口型匹配的翻译视频。其前身为 AI 视频翻译平台 Movio，核心技术依托自主研发的多模态内容生成引擎 Surreal Engine
         - title: InfiniteTalk
           url: https://github.com/MeiGen-AI/InfiniteTalk
-          logo: InfiniteTalk.png
+          logo: InfiniteTalk.jpg
           description:  InfiniteTalk 是一种无限时长的语音视频生成模型，支持音频驱动的视频到视频和图像到视频的转换。给定一个输入视频和音频轨道，InfiniteTalk 可以合成一个具有精确唇音同步的新视频，同时还能将头部运动、身体姿势和面部表情与音频对齐。与仅关注唇音的传统配音方法不同，InfiniteTalk 能够生成无限长度的视频，并保持精确的唇音同步和一致的身份保留。此外，InfiniteTalk 还可以用作图像-音频到视频的转换模型，以图像和音频作为输入
         - title: 通义星尘
           url: https://xingchen.aliyun.com/xingchen/
@@ -5017,7 +5017,7 @@
           description: 聚焦 AI 大模型与 PPT 场景结合，提供一键生成 PPT 服务（其产品矩阵包括爱设计 AIGC 内容中台、365 编辑器、爱设计在线设计工具、AiH5 等超过 10 余款 AI 驱动的内容创作工具），支持多格式文档导入、在线编辑及演示功能，并推出企业定制版与 API 开放平台
         - title: 扣子
           url: https://www.coze.cn/overview?invite_code=e0f08a7ab1cd4ab8ba8c7f5979027c60
-          logo: coze.png
+          logo: coze.jpg
           description: 扣子是字节跳动推出的 AI Bot 开发平台，是强大的 AI 办公助手，基于 Agent 技术，集成了 AI 写作、AI PPT 生成、AI 表格处理、AI 设计、AI 播客、AI 生图与 AI 视频等全功能。扣子助力财经分析、市场营销等多场景办公任务自动化，全面提升工作效率
         - title: Kimi
           url: https://www.kimi.com/
@@ -5096,7 +5096,7 @@
           description: OpenClaw（原 Clawdbot、Moltbot） 是开源免费的个人 AI 助手，能在个人电脑（如 Mac、Windows、Linux）上运行，支持通过 WhatsApp、Telegram、iMessage 等聊天软件接收指令并直接操作电脑完成任务。能整理文件、修复代码、管理邮件，支持接入 Anthropic、OpenAI 等顶尖模型。具备永久记忆功能，能记住用户偏好和上下文自我进化，根据新指令开发新技能。OpenClaw 强大的灵活性和扩展性使其成为提升个人效率和生产力的理想工具
         - title: 扣子
           url: https://www.coze.cn/overview?invite_code=e0f08a7ab1cd4ab8ba8c7f5979027c60
-          logo: coze.png
+          logo: coze.jpg
           description: 扣子是字节跳动推出的 AI Bot 开发平台，是强大的 AI 办公助手，基于 Agent 技术，集成了 AI 写作、AI PPT 生成、AI 表格处理、AI 设计、AI 播客、AI 生图与 AI 视频等全功能。扣子助力财经分析、市场营销等多场景办公任务自动化，全面提升工作效率
         - title: 讯飞星辰
           url: https://agent.xfyun.cn/
