@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.03.22 23:07:42
+      title: 金融公司实战：用28个特征、6毫秒抓出你的爬虫指纹浏览器
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484231&idx=1&sn=43cbaf3ab5bd238da168f533e5fa3059
+    - author: 小恰学逆向
+      release_time: 2026.03.22 22:58:35
+      title: 【爬虫JS逆向之旅】某9安全中心登录参数逆向 - 2（参数“d”值获取篇）
+      url: https://mp.weixin.qq.com/s?__biz=MzkwNTg3MjY3MQ==&mid=2247484737&idx=1&sn=53b13c6d7c2cb1acbfdb511e0637a64d
     - author: 沐阳逆向学习
       release_time: 2026.03.22 21:05:12
       title: OpenClaw 接入个人微信怎么装？最常见的方法和坑整理好了
@@ -140,6 +148,10 @@
       release_time: 2026.03.22 08:17:00
       title: 吾爱破解 2026 春节所有题 WP
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143823&idx=1&sn=57a9b6a177ee699784b31dec11599551
+    - author: 如意私塾
+      release_time: 2026.03.21 13:32:14
+      title: 浏览器指纹/风控爬虫论文-浏览器指纹不只能追踪你，还能推断你的性别、年龄和收入
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484223&idx=1&sn=d35a627fe6ecbf638b296c4aa6e97a51
     - author: 未闻Code
       release_time: 2026.03.20 20:58:45
       title: Claude Code 上线新功能要革OpenClaw的命!
@@ -232,14 +244,6 @@
       release_time: 2026.03.18 21:16:55
       title: 高性能 ARM64 执行 trace 可视化分析工具—— trace-ui
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566350&idx=1&sn=6c70f7cf5acc463e2bdca7e3bb6c8012
-    - author: 沐阳逆向学习
-      release_time: 2026.03.18 19:01:00
-      title: OpenClaw 对接 QQ、企业微信和个人微信
-      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484523&idx=1&sn=4cec32ef4926f291dbe8f1821634e368
-    - author: 逆不逆
-      release_time: 2026.03.18 18:37:27
-      title: 最新版dy抓包&RPC&Unidbg模拟执行生成7神
-      url: https://mp.weixin.qq.com/s?__biz=MzYyNTY2NDgyNA==&mid=2247483779&idx=1&sn=8f6f21304ac3a4a36f982cdc994c4e6c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
