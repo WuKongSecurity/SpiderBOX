@@ -1747,6 +1747,10 @@
           logo: 010editor.png
           url: https://www.sweetscape.com/010editor/
           description: 010Editor 是一款二进制修改工具，可以直接对 exe 文件进行修改、保存。同时对一些藏有 flag 的文件，也有奇效！当然，它的使用也极其简单，只需要将文件拖入即可。修改完成后，直接保存即可
+        - title: wei's OneDrive
+          logo: github.png
+          url: https://od.cloudsploit.top/
+          description: wei's OneDrive 在线云盘，提供逆向工具、书籍等资源下载
 
     - name: iOS 越狱
       links:
@@ -4488,6 +4492,10 @@
           logo: spiderduck.jpg
           url: https://spiderduck.top/
           description: 指令与密文之下的世界，比界面更复杂，也更值得探索——这里记录着对系统深度理解的尝试
+        - title: Buzzer's blog
+          logo: reversing.codes.jpg
+          url: https://reversing.codes/
+          description: Security Researcher & Dreamer
 
     - name: 正版书籍
       links:
@@ -4693,6 +4701,35 @@
           url: https://github.com/shirenchuang/web-content-fetcher
           logo: github.png
           description: Web Content Fetcher 是一个 skill，是一个轻量级的网页正文提取工具，能够自动将任意网页转换为干净的 Markdown 格式，保留标题、链接、图片和列表结构,支持 Jina Reader / Scrapling / web_fetch 三级降级策略，完美支持微信公众号文章（Jina 无法读取的场景）
+        - title: JS Reverse MCP
+          url: https://github.com/NoOne-hub/JSReverser-MCP
+          logo: github.png
+          description: JSReverser-MCP 是一个面向 JavaScript 逆向分析的 MCP 工具，专门用于帮助开发者在真实浏览器环境中高效定位前端核心逻辑。它将脚本检索、断点调试、函数 Hook、网络请求追踪、调用链分析、混淆还原和风险评估整合为统一能力，可直接接入 Claude、 Codex、Cursor 等支持 MCP 的客户端。你可以连接已开启的 Chrome，在登录态页面下持续采样请求参数与返回数据，快速定位签名、 加密、鉴权和关键业务流程。工具同时支持自动化页面操作与结构化报告导出，适合用于接口分析、安全研究、前端调试与工程排障等场景
+        - title: hello_js_reverse_skill
+          url: https://github.com/WhiteNightShadow/hello_js_reverse_skill
+          logo: github.png
+          description: AI-powered JS 逆向工程 Skill —— 覆盖加密还原、混淆分析、动态 Cookie、WASM 逆向、协议对抗等全链路场景，通过 Node.js 实现算法还原与模拟请求。适配 Claude Code / Claude.ai / 其他 AI 编码工具
+        - title: frida-mcp
+          url: https://github.com/1193776794/frida-mcp
+          logo: github.png
+          description: AI 驱动的 Android 动态分析工具。通过 MCP (Model Context Protocol) 让 AI 直接操控 Frida，实现自动化逆向分析
+        - title: api-reverse-engineer
+          url: https://github.com/ctala/api-reverse-engineer
+          logo: github.png
+          description: Chrome 扩展程序，用于捕获和逆向工程任何网站的 API 调用，支持 fetch 和 XHR 拦截，具有标签范围录制和 JSON 导出功能，非常适合逆向工程未公开的 API
+        - title: android-reverse-engineering-claude-skill
+          url: https://github.com/incogbyte/android-reverse-engineering-claude-skill
+          logo: github.png
+          description: Claude Code skill 可自动化 Android 逆向，反编译 APK、XAPK、AAB、DEX、JAR 和 AAR 文件，提取 HTTP 接口（Retrofit、OkHttp、Volley、GraphQL、WebSocket），追踪调用流程，分析安全模式，并记录发现的 API
+        - title: Rikugan (六眼)
+          url: https://github.com/buzzer-re/Rikugan
+          logo: github.png
+          description: 一个用于 IDA Pro 和 Binary Ninja 的逆向工程 agent
+        - title: 安全研究元思考方法论
+          url: https://github.com/tanweai/xianzhi-research
+          logo: github.png
+          description: 从先知社区 5621 篇安全文档中提炼的漏洞挖掘核心思维框架
+
 
     - name: AI 文本对话
       links:
