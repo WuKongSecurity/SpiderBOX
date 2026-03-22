@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 沐阳逆向学习
+      release_time: 2026.03.22 21:05:12
+      title: OpenClaw 接入个人微信怎么装？最常见的方法和坑整理好了
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484536&idx=1&sn=41b8c16b8004f0bc81c9d1c1a1331e11
     - author: LLLibra146
       release_time: 2026.03.22 12:00:00
       title: 微信官方支持 OpenClaw 了
