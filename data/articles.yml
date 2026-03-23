@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 反爬破解社
+      release_time: 2026.03.23 15:02:40
+      title: Chrome开发者工具反爬实操指南-断点调试篇
+      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483808&idx=1&sn=3f602902914fa8ffd4bf41f6efec2a7d
     - author: 丫总逆向
       release_time: 2026.03.23 14:00:33
       title: akamai/perimeterx/datadome/threatmetrix加密数据一键反解
@@ -240,10 +244,6 @@
       release_time: 2026.03.19 17:11:18
       title: 知名医疗器械巨头遭网络攻击，数万台设备被远程擦除数据
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519929&idx=2&sn=e21a415c94c87fe88042a1cd1dfc111d
-    - author: 如意私塾
-      release_time: 2026.03.19 17:06:57
-      title: 浏览器指纹/风控爬虫论文-WebGPU时代，5毫秒就能给你的设备画像
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484217&idx=1&sn=1a1699877a684e24238929862b7379bc
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -251,10 +251,18 @@
       release_time: 2026.03.23 08:53:00
       title: 支持MCP调用与污点追踪的ARM Trace分析工具
       url: https://www.52pojie.cn/thread-2098744-1-1.html
+    - author: epiphanyep
+      release_time: 2026.03.22 16:18:00
+      title: 【Web逆向】GIF验证码
+      url: https://www.52pojie.cn/thread-2098660-1-1.html
     - author: James1105
       release_time: 2026.03.22 14:28:00
       title: E听说安卓 APP 全逆向过程完整复盘
       url: https://www.52pojie.cn/thread-2098645-1-1.html
+    - author: sleepzhanshen
+      release_time: 2026.03.21 18:15:00
+      title: 基于AI的某防水墙滑块验证码自动化全链路实现
+      url: https://www.52pojie.cn/thread-2098532-1-1.html
     - author: n1ng
       release_time: 2026.03.18 23:05:00
       title: 从0到1构建一个注入工具之注入器篇（二）
@@ -359,14 +367,6 @@
       release_time: 2026.02.28 15:59:00
       title: 云记APP会员代码分析
       url: https://www.52pojie.cn/thread-2093679-1-1.html
-    - author: anke1
-      release_time: 2026.02.28 15:09:00
-      title: 云上写作APP会员代码分析总结
-      url: https://www.52pojie.cn/thread-2093666-1-1.html
-    - author: PokerS429
-      release_time: 2026.02.26 16:50:00
-      title: 爱某网参数逆向分析全流程
-      url: https://www.52pojie.cn/thread-2093320-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
@@ -374,6 +374,10 @@
       release_time: 2026.03.20 15:59:15
       title: 一文搭建免费的AI逆向工具链
       url: https://blog.csdn.net/weixin_43582101/article/details/159248103
+    - author: 云*3
+      release_time: 2026.03.19 22:03:00
+      title: Frida魔改反检测初探
+      url: https://xz.aliyun.com/news/91799
     - author: 悦来客栈的老板
       release_time: 2026.03.18 21:17:24
       title: 高性能 ARM64 执行 trace 可视化分析工具—— trace-ui
@@ -486,10 +490,6 @@
       release_time: 2026.02.04 15:39:48
       title: python 使用 toml 打包项目
       url: https://blog.csdn.net/weixin_44791631/article/details/157730888
-    - author: 阿J~
-      release_time: 2026.02.04 09:44:00
-      title: Browser Cluster 功能说明文档
-      url: https://happy-aj.blog.csdn.net/article/details/157723921
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
