@@ -1,22 +1,70 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: x1a0f3n9
+      release_time: 2026.03.22 17:19:22
+      title: webview 原理和实战经验 讲解
+      url: https://www.bilibili.com/video/BV11zAuztEtU
+    - author: Breeze_122134
+      release_time: 2026.03.22 10:23:29
+      title: 五矿_webpack
+      url: https://www.bilibili.com/video/BV1TQAMzhEiK
     - author: 冷月不是程序员
       release_time: 2026.03.21 22:34:48
       title: 优美胜于丑陋：重温Python三十年的设计哲学
       url: https://www.bilibili.com/video/BV1ciAAzTEvT
+    - author: x1a0f3n9
+      release_time: 2026.03.21 15:11:15
+      title: 【webview类App】pgsp速通
+      url: https://www.bilibili.com/video/BV13eAwzUEez
+    - author: EithanSolace
+      release_time: 2026.03.20 08:00:00
+      title: 密码学补完计划[第二十九期] SHA-1
+      url: https://www.bilibili.com/video/BV1bfAGzGEBx
+    - author: 风华Ahu
+      release_time: 2026.03.20 01:10:38
+      title: js逆向百例-27-bd acs_token流程分析
+      url: https://www.bilibili.com/video/BV1osAVzWEF6
+    - author: 风华Ahu
+      release_time: 2026.03.20 01:07:29
+      title: js逆向百例-26-facebook登录分析
+      url: https://www.bilibili.com/video/BV1XaAVzUED2
+    - author: 如意-浏览器开发培训
+      release_time: 2026.03.19 23:23:30
+      title: safari内核指纹浏览器定制-动态修改webdriver
+      url: https://www.bilibili.com/video/BV1gqAVzjEqu
     - author: 和沐阳学逆向与Ai
       release_time: 2026.03.19 20:33:55
       title: 78.别再烧Token了！OpenClaw省钱实战，月费直降90%
       url: https://www.bilibili.com/video/BV1sewyzRECZ
+    - author: 风华Ahu
+      release_time: 2026.03.18 19:54:26
+      title: js逆向百例-25-太简单了 没名字
+      url: https://www.bilibili.com/video/BV1G2wizyEYn
     - author: 和沐阳学逆向与Ai
       release_time: 2026.03.18 19:00:00
       title: 77.OpenClaw 对接 QQ、企业微信和个人微信
       url: https://www.bilibili.com/video/BV1GnwvzCEBW
+    - author: 学逆向的柚子
+      release_time: 2026.03.17 22:10:42
+      title: 某音直播间逆向采集，超详细完整文档献上
+      url: https://www.bilibili.com/video/BV1AEwRz2EB1
     - author: 和沐阳学逆向与Ai
       release_time: 2026.03.17 15:09:22
       title: 76.OpenClaw 对接飞书插件 — 让 AI 助手住进你的飞书
       url: https://www.bilibili.com/video/BV1CmwDzgEQV
+    - author: 人生导师duck
+      release_time: 2026.03.15 22:32:29
+      title: 分布式爬虫框架架构思路
+      url: https://www.bilibili.com/video/BV1ezw3zVE5D
+    - author: EithanSolace
+      release_time: 2026.03.14 20:31:04
+      title: 密码学补完计划[第二十八期] MD5
+      url: https://www.bilibili.com/video/BV1R4wtzxEe9
+    - author: 旭旭爬虫
+      release_time: 2026.03.14 08:37:57
+      title: zp_stoken参数如何快速搞定并且稳定
+      url: https://www.bilibili.com/video/BV1PEwpz4EoK
     - author: 逆向狗都不学
       release_time: 2026.03.13 23:05:09
       title: Android逆向学习
@@ -25,6 +73,10 @@
       release_time: 2026.03.13 18:18:26
       title: 代码录制、逆向封印破解、一键复制-骚神插件9.7.9新鲜出炉！！
       url: https://www.bilibili.com/video/BV1MgcDzkEEh
+    - author: tomysky0409
+      release_time: 2026.03.13 10:25:09
+      title: 验证码思路分享2-pdd空间推理
+      url: https://www.bilibili.com/video/BV1znc2zEEh6
     - author: 珍惜Any
       release_time: 2026.03.12 23:32:02
       title: 12福星vs14福星8-1决胜局挑战手机的极限
@@ -41,86 +93,34 @@
       release_time: 2026.03.12 02:05:21
       title: cycronet 谷歌浏览器tls/ja3检测终点站，pip安装使用
       url: https://www.bilibili.com/video/BV1g1wwz7EmY
+    - author: tomysky0409
+      release_time: 2026.03.11 17:02:34
+      title: 验证码思路分享1
+      url: https://www.bilibili.com/video/BV1TtcfzAE2H
     - author: 冷月不是程序员
       release_time: 2026.03.10 22:02:47
       title: 数据泄露警告！OpenClaw慎用
       url: https://www.bilibili.com/video/BV1PrcQzgEMF
+    - author: 蛋蛋yong闯小B站
+      release_time: 2026.03.10 22:00:55
+      title: 实战54——长亭雷池(稍微提了一下aws-waf-token更新的点)
+      url: https://www.bilibili.com/video/BV1wUcQzvEFw
     - author: r0ysue
       release_time: 2026.03.09 16:42:56
       title: 豆包手机尽说大实话
       url: https://www.bilibili.com/video/BV16dPQz6EMa
-    - author: r0ysue
-      release_time: 2026.03.04 16:25:12
-      title: 豆包手机操作米家空调家电
-      url: https://www.bilibili.com/video/BV1pTPKz2EmC
-    - author: 悦来客栈的老板
-      release_time: 2026.03.04 15:29:27
-      title: 字符串解密系列-最新版阿卡迈字符串一键还原
-      url: https://www.bilibili.com/video/BV1MYPKzfE1z
-    - author: r0ysue
-      release_time: 2026.03.01 10:45:21
-      title: 豆包评斩首伊朗哈梅内伊
-      url: https://www.bilibili.com/video/BV1oMAqzpEWJ
-    - author: r0ysue
-      release_time: 2026.02.27 21:54:30
-      title: 豆包你轻点，别滑过了
-      url: https://www.bilibili.com/video/BV1ejADzsEnH
-    - author: 带带弟弟学爬虫
-      release_time: 2026.02.26 12:23:36
-      title: 12.增强IDA对Fluuter的反编译能力(2026课程)
-      url: https://www.bilibili.com/video/BV1rnfiBDEvL
-    - author: 逆向狗都不学
-      release_time: 2026.02.25 13:47:56
-      title: AST反混淆实战之某里234-9
-      url: https://www.bilibili.com/video/BV1CcftBaEUc
-    - author: 冷月不是程序员
-      release_time: 2026.02.24 23:28:56
-      title: 火狐简史：开源浏览器如何改变世界
-      url: https://www.bilibili.com/video/BV14GfSBeErY
-    - author: r0ysue
-      release_time: 2026.02.20 11:01:46
-      title: 豆包手机真是太聪明辣！
-      url: https://www.bilibili.com/video/BV1T9ZrB6Eza
-    - author: r0ysue
-      release_time: 2026.02.19 10:45:36
-      title: 过年了谁不想用豆包手机打王者荣耀上分呢？
-      url: https://www.bilibili.com/video/BV12RZ8BgEkJ
-    - author: 一只勇敢的小佳
-      release_time: 2026.02.16 03:00:01
-      title: 双非本科逆袭大厂，还拥有自己的知识社群，我是如何做到的？！！！
-      url: https://www.bilibili.com/video/BV1BBZwB7Evw
-    - author: r0ysue
-      release_time: 2026.02.14 20:46:17
-      title: 问豆包手机洗车50米开车去还是走过去，结果令人震惊！
-      url: https://www.bilibili.com/video/BV1igZ7BQEVa
-    - author: Alone逆向安全
-      release_time: 2026.02.12 00:02:16
-      title: 安卓逆向 某黑盒最新ollvm混淆 8位heky hmacsha512+crc32 算法分析
-      url: https://www.bilibili.com/video/BV1gUctz7E4x
-    - author: 和沐阳学逆向与Ai
-      release_time: 2026.02.11 19:00:00
-      title: 75.Skill — AI的技能包机制
-      url: https://www.bilibili.com/video/BV1sVF9zVEfA
-    - author: B站用户骚神
-      release_time: 2026.02.11 12:18:06
-      title: DrissionPage多线程爬取网络小说
-      url: https://www.bilibili.com/video/BV1LbcxzpE1m
-    - author: Alone逆向安全
-      release_time: 2026.02.11 02:09:26
-      title: 同样的SO，unidbg写200行Java，我只写80行C++  极致性能模拟框架
-      url: https://www.bilibili.com/video/BV1ncFXzYEDu
-    - author: 带带弟弟学爬虫
-      release_time: 2026.02.10 23:38:25
-      title: 最新新版某梆过frida检测-演示视频
-      url: https://www.bilibili.com/video/BV1XdFXzREUL
-    - author: 和沐阳学逆向与Ai
-      release_time: 2026.02.10 18:59:47
-      title: 74.MCP — 解决工具接不上的问题
-      url: https://www.bilibili.com/video/BV1NDFQzgE1U
-    - author: Alone逆向安全
-      release_time: 2026.02.09 23:46:35
-      title: frida gum stalker cpp版本  寄存器+内存+JNI syscall 全追踪
-      url: https://www.bilibili.com/video/BV1HMF1zyEEG
+    - author: EithanSolace
+      release_time: 2026.03.09 08:00:00
+      title: 密码学补完计划[第二十七期] MD结构(后篇)
+      url: https://www.bilibili.com/video/BV1ELNGzbE5v
+    - author: 墨竹_zs
+      release_time: 2026.03.08 19:01:23
+      title: akamai纯算 如何使用
+      url: https://www.bilibili.com/video/BV1KYNgzuEQx
+    - author: 如意-浏览器开发培训
+      release_time: 2026.03.08 16:30:58
+      title: AI自动化对接免费不限次Qwen和kimi大模型
+      url: https://www.bilibili.com/video/BV17gNMzjE3X
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
