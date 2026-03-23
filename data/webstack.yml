@@ -1359,6 +1359,10 @@
           logo: github.png
           url: https://github.com/selfshore/YSbrowser
           description: 魔改的 chromium，指纹浏览器，过掉 F12 反调试，支持自定义浏览器版本、时区、语言、cpu 核心数、屏幕等指纹
+        - title: Lightpanda Browser
+          logo: lightpanda-io.browser.png
+          url: https://github.com/lightpanda-io/browser
+          description: Lightpanda 浏览器，专为 AI agents 和自动化从头构建的无头浏览器，非 Chromium 分子，非 WebKit 补丁，而是一个用 Zig 编写的新浏览器
         - title: 指纹浏览器资源导航
           logo: ebrowser.jpg
           url: https://www.ebrowser.cn/
@@ -1755,6 +1759,10 @@
           logo: github.png
           url: https://od.cloudsploit.top/
           description: wei's OneDrive 在线云盘，提供逆向工具、书籍等资源下载
+        - title: autoDecoder
+          logo: github.png
+          url: https://github.com/f0ng/autoDecoder
+          description: Burp 插件，根据自定义来达到对数据包的处理（适用于加解密、爆破等），类似 mitmproxy，不同点在于经过了 burp 中转，在自动加解密的基础上，不影响 APP、网站加解密正常逻辑等
 
     - name: iOS 越狱
       links:
@@ -4436,14 +4444,14 @@
           logo: Charleval.jpg
           url: https://www.yuque.com/u21565569/ihuyk3/xgc6hqd94fb69xxp
           description: 如意大佬的课程，chromium/firefox/safari 浏览器内核研究培训，从零基础到自己做出浏览器内核
+        - title: 小肩膀教育
+          logo: 0xshoulderlab.png
+          url: https://0xshoulderlab.site/
+          description: 小肩膀教育，逆向与安全开发，实战课程体系，网络爬虫、安卓逆向、iOS 逆向、AI 逆向、浏览器内核开发
         - title: 大数据安全技术学习星球
           logo: zsxq.png
           url: https://t.zsxq.com/FjMHh
           description: r0ysue 肉丝大佬的知识星球，定期分享和解答Frida、抓包解包、Fart脱壳机、算法还原、Ollvm、VMP、unicorn/unidbg、安卓源码定制与调试、IDA&GDB、art虚拟机二次开发等高质量安卓应用安全相关知识
-        - title: 小肩膀教育
-          logo: 0xshoulderlab.jpg
-          url: https://0xshoulderlab.site/
-          description: 小肩膀教育，逆向与安全开发，实战课程体系，网络爬虫、安卓逆向、iOS 逆向、AI 逆向、浏览器内核开发
         - title: 编境知识星球
           logo: zsxq.png
           url: https://t.zsxq.com/dyeNW
@@ -4681,10 +4689,6 @@
           url: https://github.com/betab0t/skills/
           logo: github.png
           description: 一个不断更新的用于 AI coding agents 逆向工程的技能集合
-        - title: Tencent SkillHub
-          url: https://skillhub.tencent.com/
-          logo: skillhub.tencent.png
-          description: 专为中国用户优化的 Skills 社区，SkillHub 精选 Top 50 高质量 AI Skills，经过安全审核与多维度评估，助你发现最实用的 AI 技能
         - title: Playwright MCP
           url: https://github.com/microsoft/playwright-mcp
           logo: github.png
@@ -4733,7 +4737,42 @@
           url: https://github.com/tanweai/xianzhi-research
           logo: github.png
           description: 从先知社区 5621 篇安全文档中提炼的漏洞挖掘核心思维框架
-
+        - title: ai-reverse-engineering
+          url: https://github.com/biniamf/ai-reverse-engineering
+          logo: github.png
+          description: 通过 MCP 驱动 Ghidra 自动完成逆向分析流程，通过提问就能获取二进制文件的函数分析、反编译伪代码、交叉引用等核心信息，大幅降低逆向工程的操作成本
+        - title: GhidrAssistMCP
+          url: https://github.com/symgraph/GhidrAssistMCP
+          logo: github.png
+          description: 通过 MCP 为 Ghidra 提供 AI 辅助逆向能力
+        - title: GhidraMCP
+          url: https://github.com/LaurieWired/GhidraMCP
+          logo: github.png
+          description: 通过 MCP 为 Ghidra 提供 AI 辅助逆向能力
+        - title: Ghidra Copilot
+          url: https://github.com/knifeyspoony/ghidra-copilot
+          logo: github.png
+          description: 在 Ghidra 中提供基于聊天的、LLM 辅助的逆向工程体验
+        - title: oneiromancer
+          url: https://github.com/0xdea/oneiromancer
+          logo: github.png
+          description: 逆向工程助手，使用本地运行的、针对 Hex-Rays 伪代码进行微调的 LLM 来辅助代码分析，提供函数功能描述、重命名建议等
+        - title: LLM4Decompile
+          url: https://github.com/albertan017/LLM4Decompile
+          logo: github.png
+          description: 开源的专门用于反编译的大语言模型，支持将 x86_64 二进制文件反编译为 C 源码，并提供 -End（直接反编译）和 -Ref（优化 Ghidra 伪代码）两种版本
+        - title: radare2
+          url: https://github.com/radareorg/radare2
+          logo: github.png
+          description: radare2 (r2ai/decai 插件)：知名逆向框架 radare2 通过 r2ai 和 decai 插件集成大语言模型分析能力（需配置 API 秘钥或本地 Ollama）
+        - title: opencode
+          url: https://github.com/anomalyco/opencode
+          logo: github.png
+          description: 开源的 AI Coding Agent，可配合 GhidrAssistMCP 等工具使用，在终端中完成逆向分析任务
+        - title: mcp-chrome
+          url: https://github.com/hangwin/mcp-chrome
+          logo: github.png
+          description: Chrome MCP Server 是一个基于 chrome 插件的 MCP 服务器，它将您的 Chrome 浏览器功能暴露给 Claude 等 AI 助手，实现复杂的浏览器自动化、内容分析和语义搜索等。与传统的浏览器自动化工具（如 playwright）不同，Chrome MCP server 直接使用您日常使用的 chrome 浏览器，基于现有的用户习惯和配置、登录态，让各种大模型或者各种 chatbot 都可以接管你的浏览器，真正成为你的日常助手
 
     - name: AI 文本对话
       links:
@@ -5122,6 +5161,22 @@
           url: https://github.com/VoltAgent/awesome-openclaw-skills
           logo: github.png
           description: OpenClaw 是一款在本地运行的 AI 助手，直接在您的机器上运行。技能（skills）扩展了其功能，使其能够与外部服务交互、自动化工作流程并执行专业任务。这个仓库帮助您发现并安装适合您需求的技能
+        - title: MCPWorld
+          url: https://www.mcpworld.com/
+          logo: mcpworld.png
+          description: 探索海量可用的 MCP Servers
+        - title: MCPMarket
+          url: https://mcpmarket.com/
+          logo: mcpmarket.png
+          description: 探索将 Claude 和 Cursor 连接到 Figma、ViewModel、Storybook 和 Ghidra 等工具的 MCP servers
+        - title: Tencent SkillHub
+          url: https://skillhub.tencent.com/
+          logo: skillhub.tencent.png
+          description: 专为中国用户优化的 Skills 社区，SkillHub 精选 Top 50 高质量 AI Skills，经过安全审核与多维度评估，助你发现最实用的 AI 技能
+        - title: Agent Skills Marketplace
+          url: https://skillsmp.com/
+          logo: skillsmp.png
+          description: Agent Skills 市场
 
     - name: AI 其他资源
       links:
