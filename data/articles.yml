@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: x1a0f3n9
+      release_time: 2026.03.24 01:22:09
+      title: 【小程序类App】冷门但恶心 的 FinClip小程序 的三进程保护
+      url: https://www.bilibili.com/video/BV19cQfB7ET7
     - author: 念初77
       release_time: 2026.03.23 23:43:09
       title: 使用claudeAI分析还原某茅台MT-V算法
@@ -117,10 +121,6 @@
       release_time: 2026.03.09 16:42:56
       title: 豆包手机尽说大实话
       url: https://www.bilibili.com/video/BV16dPQz6EMa
-    - author: EithanSolace
-      release_time: 2026.03.09 08:00:00
-      title: 密码学补完计划[第二十七期] MD结构(后篇)
-      url: https://www.bilibili.com/video/BV1ELNGzbE5v
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
