@@ -943,6 +943,10 @@
           logo: github.png
           url: https://github.com/zhizhuodemao/fingerprint-collector
           description: 多层网络指纹采集与分析工具，支持 TLS/HTTP2/TCP/浏览器指纹采集，提供跨层一致性检测和安全分析
+        - title: 指纹浏览器，开发者工具检测
+          logo: jwmycz.png
+          url: https://tools.jwmycz.top/
+          description: 开发者工具检测系统，支持多种检测方式
 
     - name: TLS 指纹
       links:
@@ -3865,10 +3869,6 @@
           logo: XiaoWuGeRisk.jpg
           qrcode: images/qrcode/XiaoWuGeRisk.jpg
           description: 公众号：小伍哥聊风控
-        - title: oacia
-          logo: oacia.jpg
-          url: https://oacia.dev/
-          description: oacia 主页
 
     - name: 视频博主
       links:
@@ -4072,7 +4072,7 @@
           logo: 1886803835.jpg
           url: https://space.bilibili.com/1886803835
           description: 一只勇敢的小佳的 bilibili 主页
-        - title: Alone_666
+        - title: Alone逆向安全
           logo: 494103250.jpg
           url: https://space.bilibili.com/494103250
           description: Alone_666的 bilibili 主页
@@ -4148,10 +4148,6 @@
           logo: 1848171061.jpg
           url: https://space.bilibili.com/1848171061
           description: 魔影-马的 bilibili 主页
-        - title: Alone逆向安全
-          logo: 494103250.jpg
-          url: https://space.bilibili.com/494103250
-          description: Alone逆向安全的 bilibili 主页
         - title: 可厉害的土豆
           logo: 253413704.jpg
           url: https://space.bilibili.com/253413704
@@ -4444,6 +4440,10 @@
           logo: zsxq.png
           url: https://t.zsxq.com/FjMHh
           description: r0ysue 肉丝大佬的知识星球，定期分享和解答Frida、抓包解包、Fart脱壳机、算法还原、Ollvm、VMP、unicorn/unidbg、安卓源码定制与调试、IDA&GDB、art虚拟机二次开发等高质量安卓应用安全相关知识
+        - title: 小肩膀教育
+          logo: 0xshoulderlab.jpg
+          url: https://0xshoulderlab.site/
+          description: 小肩膀教育，逆向与安全开发，实战课程体系，网络爬虫、安卓逆向、iOS 逆向、AI 逆向、浏览器内核开发
         - title: 编境知识星球
           logo: zsxq.png
           url: https://t.zsxq.com/dyeNW
@@ -4496,6 +4496,10 @@
           logo: reversing.codes.jpg
           url: https://reversing.codes/
           description: Security Researcher & Dreamer
+        - title: oacia
+          logo: oacia.jpg
+          url: https://oacia.dev/
+          description: oacia 主页
 
     - name: 正版书籍
       links:

@@ -478,6 +478,50 @@ monitor:
           name: Bug攻防
           date: 2024.12.08
           note:
+        - id: gh_6324d0db8119
+          name: 瑞数信息
+          date: 2024.12.08
+          note:
+        - id: gh_d81ca4de765f
+          name: 极验
+          date: 2024.12.08
+          note:
+        - id: gh_834eaaa98a10
+          name: 安全圈
+          date: 2024.12.08
+          note:
+        - id: gh_886b94872294
+          name: 黑白之道
+          date: 2024.12.08
+          note:
+        - id: gh_e8ca34d20433
+          name: 金科应用研院
+          date: 2024.12.08
+          note:
+        - id: gh_7f507034bcdb
+          name: 同盾智能风控联盟
+          date: 2024.12.08
+          note:
+        - id: gh_c22858949e6b
+          name: 飞特风控学苑
+          date: 2024.12.08
+          note:
+        - id: gh_39e7dc3d9095
+          name: 天天学风控
+          date: 2024.12.08
+          note:
+        - id: gh_115024bacc7b
+          name: 小伍哥聊风控
+          date: 2024.12.08
+          note:
+        - id: gh_e6489c451515
+          name: 测试工程师成长之路
+          date: 2024.12.08
+          note:
+        - id: gh_3e12dbf78ff8
+          name: 信息安全与通信保密杂志社
+          date: 2024.12.08
+          note:
         - id: gh_86aab598880e
           name: K哥爬虫
           date: 2024.12.08
@@ -582,6 +626,110 @@ monitor:
           name: 逆向成长日记
           date: 2025.09.03
           note:
+        - id: gh_6e5c91d5e221
+          name: CYRUS STUDIO
+          date: 2026.03.23
+          note:
+        - id: gh_7a1826074dca
+          name: 土木佬的爬虫逆向日记
+          date: 2026.03.23
+          note:
+        - id: gh_af1d4dcb38bc
+          name: 不落的逆向手札
+          date: 2026.03.23
+          note:
+        - id: gh_75d32d225339
+          name: 一枚酸心果子
+          date: 2026.03.23
+          note:
+        - id: gh_bb6c155f5acb
+          name: 码功
+          date: 2026.03.23
+          note:
+        - id: gh_507b37088505
+          name: 無色逆向
+          date: 2026.03.23
+          note:
+        - id: gh_90d1c5be986b
+          name: 剑客古月的安全屋
+          date: 2026.03.23
+          note:
+        - id: gh_f83161692ea8
+          name: 故意滴随便记录
+          date: 2026.03.23
+          note:
+        - id: gh_d56d23a625f8
+          name: 冰敷逆向笔记
+          date: 2026.03.23
+          note:
+        - id: gh_864c90fdac30
+          name: 反爬破解社
+          date: 2026.03.23
+          note:
+        - id: gh_b1c0540cfdb9
+          name: 虫迹追踪
+          date: 2026.03.23
+          note:
+        - id: gh_8b1b243453dd
+          name: 千机锦奕
+          date: 2026.03.23
+          note:
+        - id: gh_ddb321faea63
+          name: 小李Blog
+          date: 2026.03.23
+          note:
+        - id: gh_521fad651f21
+          name: 65逆向
+          date: 2026.03.23
+          note:
+        - id: gh_f044ffd847e2
+          name: 小鱼神1024
+          date: 2026.03.23
+          note:
+        - id: gh_0ca16ee923b2
+          name: 爬虫进化论
+          date: 2026.03.23
+          note:
+        - id: gh_c3a017ea74d6
+          name: LK安全
+          date: 2026.03.23
+          note:
+        - id: gh_21467d907c57
+          name: 狂虫日记
+          date: 2026.03.23
+          note:
+        - id: gh_35bc33b70883
+          name: 挖个洞先
+          date: 2026.03.23
+          note:
+        - id: gh_bc698eaaa10e
+          name: 零基础爬虫第一天
+          date: 2026.03.23
+          note:
+        - id: gh_22c0226eeaee
+          name: 小白逆向成长日记
+          date: 2026.03.23
+          note:
+        - id: gh_d37e8e097e2c
+          name: GSCL Sec
+          date: 2026.03.23
+          note:
+        - id: gh_3823396f80ab
+          name: 坚粿安全
+          date: 2026.03.23
+          note:
+        - id: gh_573e8f142d55
+          name: 逆不逆
+          date: 2026.03.23
+          note:
+        - id: gh_78c60799511a
+          name: 泡泡以安
+          date: 2026.03.23
+          note:
+        - id: gh_e2658a87d1ba
+          name: 小恰学逆向
+          date: 2026.03.23
+          note:
 
     - title: 哔哩哔哩博主名单
       baseIdLink: https://space.bilibili.com/
@@ -658,7 +806,7 @@ monitor:
         - id: 392040559
           name: 白面OVO	
           date: 2024.12.08	
-          note:
+          note: 2024.03.23 移除监控
         - id: 3493257935850246
           name: nothing__233	
           date: 2024.12.08	
@@ -666,7 +814,7 @@ monitor:
         - id: 450412693
           name: HD236300	
           date: 2024.12.08	
-          note:
+          note: 2024.03.23 移除监控
         - id: 383977952
           name: 名字叫阿柒	
           date: 2024.12.08	
@@ -759,7 +907,155 @@ monitor:
           name: ShriyGo	
           date: 2024.12.15
           note:
-          
+        - id: 163051008
+          name: rpyykwjuc
+          date: 2026.03.23
+          note:
+        - id: 1875550088
+          name: 人生导师duck
+          date: 2026.03.23
+          note:
+        - id: 3546570960144859
+          name: 一行代码扣一天
+          date: 2026.03.23
+          note:
+        - id: 470425564
+          name: 澎湖湾的彭
+          date: 2026.03.23
+          note:
+        - id: 1597296474
+          name: 池唐不是糖
+          date: 2026.03.23
+          note:
+        - id: 1539967072
+          name: EithanSolace
+          date: 2026.03.23
+          note:
+        - id: 3493264757885519
+          name: Breeze_122134
+          date: 2026.03.23
+          note:
+        - id: 3461567978932372
+          name: 学逆向的柚子
+          date: 2026.03.23
+          note:
+        - id: 1848171061
+          name: 魔影-马
+          date: 2026.03.23
+          note:
+        - id: 253413704
+          name: 可厉害的土豆
+          date: 2026.03.23
+          note:
+        - id: 544451485
+          name: 吾爱破解论坛
+          date: 2026.03.23
+          note:
+        - id: 439604464
+          name: 小博士python逆向
+          date: 2026.03.23
+          note:
+        - id: 397050901
+          name: 卡卡卡骨
+          date: 2026.03.23
+          note:
+        - id: 1332269071
+          name: AngelToms
+          date: 2026.03.23
+          note:
+        - id: 376969345
+          name: 无名的Coder
+          date: 2026.03.23
+          note:
+        - id: 498183674
+          name: 旭旭爬虫
+          date: 2026.03.23
+          note:
+        - id: 287827696
+          name: A0tem
+          date: 2026.03.23
+          note:
+        - id: 32318753
+          name: 狄硕
+          date: 2026.03.23
+          note:
+        - id: 383509283
+          name: 蛋蛋yong闯小B站
+          date: 2026.03.23
+          note:
+        - id: 3632301674072176
+          name: 闪电逆向
+          date: 2026.03.23
+          note:
+        - id: 1288464895
+          name: 星火Code
+          date: 2026.03.23
+          note:
+        - id: 3546383971781072
+          name: b站用户ajahhabvw
+          date: 2026.03.23
+          note:
+        - id: 351545096
+          name: 蚂蚁奋斗了
+          date: 2026.03.23
+          note:
+        - id: 3546924980373556
+          name: 小爬菜咦
+          date: 2026.03.23
+          note:
+        - id: 209314341
+          name: 奶味狼Never
+          date: 2026.03.23
+          note:
+        - id: 17465560
+          name: 逆向永无止境
+          date: 2026.03.23
+          note:
+        - id: 1713468502
+          name: 墨竹_zs
+          date: 2026.03.23
+          note:
+        - id: 500230776
+          name: 风华Ahu
+          date: 2026.03.23
+          note:
+        - id: 1797341454
+          name: x1a0f3n9
+          date: 2026.03.23
+          note:
+        - id: 408225010
+          name: 谁有自行车
+          date: 2026.03.23
+          note:
+        - id: 3546776132913611
+          name: JS逆向零基础实战
+          date: 2026.03.23
+          note:
+        - id: 692064472
+          name: delic1ous
+          date: 2026.03.23
+          note:
+        - id: 37295121
+          name: 流星Studio
+          date: 2026.03.23
+          note:
+        - id: 675692607
+          name: 逆向研究生
+          date: 2026.03.23
+          note:
+        - id: 161789001
+          name: tomysky0409
+          date: 2026.03.23
+          note:
+        - id: 3493257103280795
+          name: 杨如画h
+          date: 2026.03.23
+          note:
+        - id: 172381477
+          name: 如意-浏览器开发培训
+          date: 2026.03.23
+          note:
+
     - title: CSDN 博主名单
       baseIdLink: https://blog.csdn.net/
       headers:
@@ -1067,7 +1363,7 @@ monitor:
         - id: qq_36551453
           name: 码王吴彦祖
           date: 2024.12.08
-          note: 
+          note: 2024.03.23 移除监控，广告引流居多
         - id: qq_44906798
           name: 夜无霄
           date: 2024.12.08
