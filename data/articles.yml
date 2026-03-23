@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 丫总逆向
+      release_time: 2026.03.23 14:00:33
+      title: akamai/perimeterx/datadome/threatmetrix加密数据一键反解
+      url: https://mp.weixin.qq.com/s?__biz=MzU1NjQ2Njg4OA==&mid=2247484074&idx=1&sn=0f555c12425924fd4fffb5c8a620d721
     - author: GSCL Sec
       release_time: 2026.03.23 09:25:30
       title: MCP+Skill进行JS逆向的配置
@@ -240,13 +244,17 @@
       release_time: 2026.03.19 17:06:57
       title: 浏览器指纹/风控爬虫论文-WebGPU时代，5毫秒就能给你的设备画像
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484217&idx=1&sn=1a1699877a684e24238929862b7379bc
-    - author: 吾爱破解论坛
-      release_time: 2026.03.19 14:52:42
-      title: 2026解题领红包基本完成(少MCP和Win高级, 但很有梗)
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143773&idx=1&sn=0dd95b85bffd6c929bb32e28fd8ee121
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: A4r0n
+      release_time: 2026.03.23 08:53:00
+      title: 支持MCP调用与污点追踪的ARM Trace分析工具
+      url: https://www.52pojie.cn/thread-2098744-1-1.html
+    - author: James1105
+      release_time: 2026.03.22 14:28:00
+      title: E听说安卓 APP 全逆向过程完整复盘
+      url: https://www.52pojie.cn/thread-2098645-1-1.html
     - author: n1ng
       release_time: 2026.03.18 23:05:00
       title: 从0到1构建一个注入工具之注入器篇（二）
@@ -359,14 +367,6 @@
       release_time: 2026.02.26 16:50:00
       title: 爱某网参数逆向分析全流程
       url: https://www.52pojie.cn/thread-2093320-1-1.html
-    - author: xiaowaaa
-      release_time: 2026.02.25 11:29:00
-      title: 某密企业版加固思路分析
-      url: https://www.52pojie.cn/thread-2093062-1-1.html
-    - author: LiXieZengHui
-      release_time: 2026.02.23 20:20:00
-      title: 某音a_bogus详细分析-含50位数组生成过程
-      url: https://www.52pojie.cn/thread-2092806-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
