@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 如意-浏览器开发培训
+      release_time: 2026.03.23 23:13:44
+      title: safari指纹浏览器定制webgl基础指纹演示
+      url: https://www.bilibili.com/video/BV1kNXFBeEAi
     - author: x1a0f3n9
       release_time: 2026.03.22 17:19:22
       title: webview 原理和实战经验 讲解
@@ -117,13 +121,13 @@
       release_time: 2026.03.08 19:01:23
       title: akamai纯算 如何使用
       url: https://www.bilibili.com/video/BV1KYNgzuEQx
-    - author: 如意-浏览器开发培训
-      release_time: 2026.03.08 16:30:58
-      title: AI自动化对接免费不限次Qwen和kimi大模型
-      url: https://www.bilibili.com/video/BV17gNMzjE3X
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.03.23 23:30:04
+      title: 美国海军研究生院实战：你敲键盘的时间间隔就是你电脑的身份证——3亿次按键、22.8万台设备、打字两分钟就能锁定你
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484236&idx=1&sn=e909392d78d0ed555d792e17ef147824
     - author: 逆向有你
       release_time: 2026.03.23 17:33:11
       title: JS逆向 -- vmp套vmp之探讨某d的_fingerprint参数生成
