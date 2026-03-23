@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 念初77
+      release_time: 2026.03.23 23:43:09
+      title: 使用claudeAI分析还原某茅台MT-V算法
+      url: https://www.bilibili.com/video/BV1pcXFBTErP
     - author: 如意-浏览器开发培训
       release_time: 2026.03.23 23:13:44
       title: safari指纹浏览器定制webgl基础指纹演示
@@ -117,10 +121,6 @@
       release_time: 2026.03.09 08:00:00
       title: 密码学补完计划[第二十七期] MD结构(后篇)
       url: https://www.bilibili.com/video/BV1ELNGzbE5v
-    - author: 墨竹_zs
-      release_time: 2026.03.08 19:01:23
-      title: akamai纯算 如何使用
-      url: https://www.bilibili.com/video/BV1KYNgzuEQx
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
