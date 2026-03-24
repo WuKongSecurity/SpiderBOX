@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2026.03.24 11:13:53
+      title: 安卓逆向 -- 某软件去除登录及注册对话框尝试
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041593&idx=1&sn=23268f44a64e51b304c86ee96fb44455
     - author: 猿人学Python
       release_time: 2026.03.24 10:41:06
       title: 使⽤ AI 实现 最新版本 Flutter HTTPS 明⽂抓包
@@ -240,13 +244,13 @@
       release_time: 2026.03.20 10:48:24
       title: 零代码搞定复杂Web自动化：全新的「可视化流程编排」来啦！
       url: https://mp.weixin.qq.com/s?__biz=MzkxOTIyODcyOA==&mid=2247485788&idx=1&sn=eccd7396bbc88bfc4b1ea8553480d99f
-    - author: 泡泡以安
-      release_time: 2026.03.20 09:11:00
-      title: 某音乐 App 逆向（三）：calc签名算法完整还原
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485543&idx=1&sn=5d6ae2955e6e18eea8cc749142a3536e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: epiphanyep
+      release_time: 2026.03.23 20:13:00
+      title: 【Web逆向】yolo深度学习识别——计算题验证码
+      url: https://www.52pojie.cn/thread-2098921-1-1.html
     - author: A4r0n
       release_time: 2026.03.23 08:53:00
       title: 支持MCP调用与污点追踪的ARM Trace分析工具
@@ -363,10 +367,6 @@
       release_time: 2026.03.01 22:07:00
       title: '[iOS逆向] 某相机 Frida反检测绕过 + VIP解锁 + Theos插件制作 全流程'
       url: https://www.52pojie.cn/thread-2093883-1-1.html
-    - author: anke1
-      release_time: 2026.02.28 15:59:00
-      title: 云记APP会员代码分析
-      url: https://www.52pojie.cn/thread-2093679-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
