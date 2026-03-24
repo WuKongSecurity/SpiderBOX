@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2026.03.24 20:23:04
+      title: OpenClaw 大更新：插件市场上线，/btw 侧边提问，AI agent 从工具变成了平台
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991534&idx=1&sn=6b048e7d052852d7aaa8224e35d514f9
     - author: 个人信息与数据保护实务评论
       release_time: 2026.03.24 16:36:17
       title: 《促进和规范数据跨境流动规定》实施两周年 数据出境安全管理工作再上新台阶
@@ -240,10 +244,6 @@
       release_time: 2026.03.20 20:58:45
       title: Claude Code 上线新功能要革OpenClaw的命!
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991532&idx=1&sn=191610fa2f2833a4f7f67fdfae5a86bc
-    - author: Pythonlx
-      release_time: 2026.03.20 15:58:13
-      title: 一文搭建免费的AI逆向工具链
-      url: https://mp.weixin.qq.com/s?__biz=MzU4NzkwNTU3Ng==&mid=2247485291&idx=1&sn=0852bd946aa6e69dde74db745588d3cb
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: '`Jay'
+      release_time: 2026.03.24 20:16:22
+      title: 爬虫之redis连接池与账号管理池
+      url: https://blog.csdn.net/weixin_47115747/article/details/159433947
     - author: 考古学家lx(李玺)
       release_time: 2026.03.20 15:59:15
       title: 一文搭建免费的AI逆向工具链
@@ -486,10 +490,6 @@
       release_time: 2026.02.05 10:03:18
       title: 新mac入手装的一些好用的提高效率的软件
       url: https://blog.csdn.net/Linux_rm_rf_/article/details/157763365
-    - author: 扁舟·TF
-      release_time: 2026.02.04 15:39:48
-      title: python 使用 toml 打包项目
-      url: https://blog.csdn.net/weixin_44791631/article/details/157730888
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
