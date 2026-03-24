@@ -307,6 +307,10 @@
       release_time: 2026.03.14 12:25:00
       title: 【JS逆向入门】国*医*服务平台 国密SM4、SM2加密解密分析
       url: https://www.52pojie.cn/thread-2096479-1-1.html
+    - author: PokerS429
+      release_time: 2026.03.12 17:37:00
+      title: 猫某票房逆向signKey参数mygsig参数全流程
+      url: https://www.52pojie.cn/thread-2096141-1-1.html
     - author: Ma5k
       release_time: 2026.03.12 16:09:00
       title: xx快跑逆向记录
@@ -363,10 +367,6 @@
       release_time: 2026.03.03 21:36:00
       title: '[iOS 逆向] 某App 开启无限VIP试用之旅 — 从 Frida 探测到 Theos 插件全流程'
       url: https://www.52pojie.cn/thread-2094281-1-1.html
-    - author: K23
-      release_time: 2026.03.03 16:55:00
-      title: flutter逆向---某影视app协议sign加密
-      url: https://www.52pojie.cn/thread-2094241-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
