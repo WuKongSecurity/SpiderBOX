@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 一只勇敢的小佳
+      release_time: 2026.03.25 03:03:53
+      title: rustfrida简单使用和原理，一个android的无痕hook工具！！！
+      url: https://www.bilibili.com/video/BV1zqQkBUEDe
     - author: B站用户骚神
       release_time: 2026.03.24 15:15:50
       title: 全新自动化库 SaoPage(魔改DrissionPage),新增【 指纹修改】和 【数据包拦截修改】功能
@@ -117,10 +121,6 @@
       release_time: 2026.03.11 17:02:34
       title: 验证码思路分享1
       url: https://www.bilibili.com/video/BV1TtcfzAE2H
-    - author: 冷月不是程序员
-      release_time: 2026.03.10 22:02:47
-      title: 数据泄露警告！OpenClaw慎用
-      url: https://www.bilibili.com/video/BV1PrcQzgEMF
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
