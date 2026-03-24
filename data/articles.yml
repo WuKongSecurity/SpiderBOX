@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2026.03.24 15:15:50
+      title: 全新自动化库 SaoPage(魔改DrissionPage),新增【 指纹修改】和 【数据包拦截修改】功能
+      url: https://www.bilibili.com/video/BV1PfQiBgEjd
     - author: x1a0f3n9
       release_time: 2026.03.24 13:39:45
       title: demo逆向 &  三进程保护代码实现
@@ -117,10 +121,6 @@
       release_time: 2026.03.10 22:02:47
       title: 数据泄露警告！OpenClaw慎用
       url: https://www.bilibili.com/video/BV1PrcQzgEMF
-    - author: 蛋蛋yong闯小B站
-      release_time: 2026.03.10 22:00:55
-      title: 实战54——长亭雷池(稍微提了一下aws-waf-token更新的点)
-      url: https://www.bilibili.com/video/BV1wUcQzvEFw
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
