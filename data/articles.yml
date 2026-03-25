@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 泡泡以安
+      release_time: 2026.03.25 09:09:00
+      title: TEA 加密算法逆向全攻略：从原理到实战密钥提取
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485787&idx=1&sn=1613ed16907371e9bb850656400e22a2
+    - author: Coder小Q
+      release_time: 2026.03.25 08:30:00
+      title: 【量子计算】复数与三角函数：从旋转到量子概率
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247494778&idx=1&sn=0610bc0e51d848250e16bdbe87b6a0dc
+    - author: 吾爱破解论坛
+      release_time: 2026.03.25 08:30:00
+      title: Sublime许可证分析：RSA PKCS#1标准详解+跨平台Keygen [开源]
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143977&idx=1&sn=07db810d1eaea586a0878f565f2be6c3
     - author: 未闻Code
       release_time: 2026.03.24 20:23:04
       title: OpenClaw 大更新：插件市场上线，/btw 侧边提问，AI agent 从工具变成了平台
@@ -232,18 +244,6 @@
       release_time: 2026.03.21 13:32:14
       title: 浏览器指纹/风控爬虫论文-浏览器指纹不只能追踪你，还能推断你的性别、年龄和收入
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484223&idx=1&sn=d35a627fe6ecbf638b296c4aa6e97a51
-    - author: 哆啦安全
-      release_time: 2026.03.21 10:27:09
-      title: 逆向工程框架(智能逆向分析)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499916&idx=1&sn=cc2093ac3be70f7fa9652106f2497c37
-    - author: 吾爱破解论坛
-      release_time: 2026.03.21 08:34:27
-      title: 【2026春节解题红包】WriteUP(2、3、4、5、6、7、9）
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143789&idx=1&sn=978cff967f354a5bbe24d9e5147a8827
-    - author: 未闻Code
-      release_time: 2026.03.20 20:58:45
-      title: Claude Code 上线新功能要革OpenClaw的命!
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991532&idx=1&sn=191610fa2f2833a4f7f67fdfae5a86bc
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 吴秋霖
+      release_time: 2026.03.25 09:00:00
+      title: 【某音电商】protobuf聊天协议逆向
+      url: https://crawler.blog.csdn.net/article/details/159389674
     - author: '`Jay'
       release_time: 2026.03.24 20:16:22
       title: 爬虫之redis连接池与账号管理池
@@ -486,10 +490,6 @@
       release_time: 2026.02.07 14:54:20
       title: 基于resnet50图像分类实现九宫格图像验证码识别（大模型辅助训练）
       url: https://blog.csdn.net/weixin_43845191/article/details/157806885
-    - author: 爱喝水的木子
-      release_time: 2026.02.05 10:03:18
-      title: 新mac入手装的一些好用的提高效率的软件
-      url: https://blog.csdn.net/Linux_rm_rf_/article/details/157763365
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
