@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 爬虫逆向小林哥
+      release_time: 2026.03.25 18:53:28
+      title: 【网页逆向】某书 xs-4.3.2版本变更跟进
+      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487193&idx=1&sn=9ee0e2684573c47a1d5a43af010b1920
+    - author: 哆啦安全
+      release_time: 2026.03.25 18:44:07
+      title: Android逆向反混淆方法(mapping.txt)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499936&idx=1&sn=b6368c4c714963a90b851c66a8d479d1
     - author: 虫迹追踪
       release_time: 2026.03.25 16:54:33
       title: chrome-devtools-mcp不能远程调试的问题
@@ -236,14 +244,6 @@
       release_time: 2026.03.23 09:07:00
       title: ARM 汇编全解（八）：特权级与处理器模式
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485578&idx=1&sn=aba049ba223b01c3584c083cf730bb33
-    - author: 测试工程师成长之路
-      release_time: 2026.03.23 08:30:00
-      title: 阿里开源PageAgent：网页版“贾维斯”来了，传统UI自动化测试的终结？
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578822&idx=1&sn=3b28912529615dd63e48f734af1f888c
-    - author: 二进制磨剑
-      release_time: 2026.03.23 08:30:00
-      title: Frida 17.6 Hook 机制变化解析
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486014&idx=1&sn=287f1ae31cf4ad77997eebb70e276fb4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -275,6 +275,10 @@
       release_time: 2026.03.22 14:28:00
       title: E听说安卓 APP 全逆向过程完整复盘
       url: https://www.52pojie.cn/thread-2098645-1-1.html
+    - author: LiXieZengHui
+      release_time: 2026.03.21 23:41:00
+      title: 某红书-4.3.2-绕过ob直面JSVMP-mns0301-详细分析
+      url: https://www.52pojie.cn/thread-2098573-1-1.html
     - author: sleepzhanshen
       release_time: 2026.03.21 18:15:00
       title: 基于AI的某防水墙滑块验证码自动化全链路实现
@@ -363,10 +367,6 @@
       release_time: 2026.03.04 17:40:00
       title: 【Web逆向】小白之路-极验4滑块
       url: https://www.52pojie.cn/thread-2094469-1-1.html
-    - author: 破解小白：）
-      release_time: 2026.03.04 15:02:00
-      title: 【零基础可复现】2026 春节 Android 中级题（Java→so→unidbg 全流程）
-      url: https://www.52pojie.cn/thread-2094408-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
