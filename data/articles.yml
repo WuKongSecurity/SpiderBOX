@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: EithanSolace
+      release_time: 2026.03.25 17:35:32
+      title: 密码学补完计划[第三十期] SHA-2
+      url: https://www.bilibili.com/video/BV1uTQmByEZx
     - author: 和沐阳学逆向与Ai
       release_time: 2026.03.25 14:48:35
       title: 79.iOS逆向_古法逆向_Instagram最新版抓包
@@ -117,10 +121,6 @@
       release_time: 2026.03.12 14:19:27
       title: 2026.3.7 猿人学小伙伴成都聚会花絮-汇聚中国爬虫er
       url: https://www.bilibili.com/video/BV1VFcrztEfN
-    - author: 陈不不and挽风的逆向
-      release_time: 2026.03.12 02:05:21
-      title: cycronet 谷歌浏览器tls/ja3检测终点站，pip安装使用
-      url: https://www.bilibili.com/video/BV1g1wwz7EmY
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -168,6 +168,10 @@
       release_time: 2026.03.25 08:30:00
       title: Sublime许可证分析：RSA PKCS#1标准详解+跨平台Keygen [开源]
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143977&idx=1&sn=07db810d1eaea586a0878f565f2be6c3
+    - author: 进击的HACK
+      release_time: 2026.03.24 22:07:19
+      title: 四款文件上传绕过工具
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489860&idx=1&sn=13d80a45f857a437307425bda4492648
     - author: 未闻Code
       release_time: 2026.03.24 20:23:04
       title: OpenClaw 大更新：插件市场上线，/btw 侧边提问，AI agent 从工具变成了平台
@@ -208,6 +212,10 @@
       release_time: 2026.03.23 23:30:04
       title: 美国海军研究生院实战：你敲键盘的时间间隔就是你电脑的身份证——3亿次按键、22.8万台设备、打字两分钟就能锁定你
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484236&idx=1&sn=e909392d78d0ed555d792e17ef147824
+    - author: 进击的HACK
+      release_time: 2026.03.23 19:48:52
+      title: 一次基于Struts框架项目的代码审计
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489856&idx=1&sn=0f28ae65a865395699de76090acc4a50
     - author: 逆向有你
       release_time: 2026.03.23 17:33:11
       title: JS逆向 -- vmp套vmp之探讨某d的_fingerprint参数生成
@@ -236,14 +244,6 @@
       release_time: 2026.03.23 08:30:00
       title: Frida 17.6 Hook 机制变化解析
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486014&idx=1&sn=287f1ae31cf4ad77997eebb70e276fb4
-    - author: 极验
-      release_time: 2026.03.23 07:30:00
-      title: 在版纳相聚，向更高处出发｜极验2026年会全记录
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724376&idx=1&sn=f0698bdf523f0ac783124b4db0e74109
-    - author: 吾爱破解论坛
-      release_time: 2026.03.23 07:30:00
-      title: 春节解题领红包之九 {Web 中级题} 题解 - wasm逆向
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143829&idx=1&sn=3c2d8a67bec3f2ce6d77b00755e30f4a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
