@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2026.03.25 14:17:04
+      title: JS逆向 -- 某视频逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041605&idx=1&sn=4b5242f7d5b1e71ef84e4c48540bbb49
+    - author: 如意私塾
+      release_time: 2026.03.25 13:38:11
+      title: 纯用纯CSS和HTML的浏览器指纹检测方案
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484241&idx=1&sn=fd25aca68c507cf1a2a6120c27d3e438
     - author: 二进制磨剑
       release_time: 2026.03.25 13:33:50
       title: 焚诀 | Codex 道德审查绕过(逆向工程/安全测试) | 测试可用
@@ -236,14 +244,6 @@
       release_time: 2026.03.22 12:00:00
       title: 微信官方支持 OpenClaw 了
       url: https://mp.weixin.qq.com/s?__biz=MzIwNDQyMTg0Nw==&mid=2247486955&idx=1&sn=576acf806e2bce527ac2d3b1dfe5737e
-    - author: 哆啦安全
-      release_time: 2026.03.22 10:12:16
-      title: 手搓APK:从零手动编译Android安装包
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499918&idx=1&sn=3b0a5282973b17e0fadf5183cd26e3ca
-    - author: 吾爱破解论坛
-      release_time: 2026.03.22 08:17:00
-      title: 吾爱破解 2026 春节所有题 WP
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143823&idx=1&sn=57a9b6a177ee699784b31dec11599551
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
