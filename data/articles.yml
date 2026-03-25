@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 挖个洞先
+      release_time: 2026.03.25 12:00:00
+      title: 【漏洞案例】越权之修改HTML+CE绕过签名校验
+      url: https://mp.weixin.qq.com/s?__biz=MzkyNjY3OTI4Ng==&mid=2247485973&idx=1&sn=d1e82c172405c2bf529438dd579a7d5e
     - author: 泡泡以安
       release_time: 2026.03.25 09:09:00
       title: TEA 加密算法逆向全攻略：从原理到实战密钥提取
@@ -240,10 +244,6 @@
       release_time: 2026.03.21 14:14:44
       title: 大家预防下这种批量发广告的
       url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486056&idx=1&sn=84d11286f69a24a9787b9acdc966d62c
-    - author: 如意私塾
-      release_time: 2026.03.21 13:32:14
-      title: 浏览器指纹/风控爬虫论文-浏览器指纹不只能追踪你，还能推断你的性别、年龄和收入
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484223&idx=1&sn=d35a627fe6ecbf638b296c4aa6e97a51
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
