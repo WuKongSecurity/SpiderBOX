@@ -1711,10 +1711,6 @@
           logo: github.png
           url: https://github.com/jiqiu2022/vm-trace-release
           description: vm trace 的发布仓库，相关 so 调用脚本例子都会放在里面
-        - title: vm-trace-release
-          logo: github.png
-          url: https://github.com/jiqiu2022/vm-trace-release
-          description: vm trace 的发布仓库，相关 so 调用脚本例子都会放在里面
         - title: stalker_trace_so
           logo: github.png
           url: https://github.com/oacia/stalker_trace_so
@@ -1763,6 +1759,10 @@
           logo: github.png
           url: https://github.com/f0ng/autoDecoder
           description: Burp 插件，根据自定义来达到对数据包的处理（适用于加解密、爆破等），类似 mitmproxy，不同点在于经过了 burp 中转，在自动加解密的基础上，不影响 APP、网站加解密正常逻辑等
+        - title: 爱盘
+          logo: down.52pojie.png
+          url: https://down.52pojie.cn/Tools/Android_Tools/
+          description: 吾爱破解论坛网盘，各种破解工具包资源下载
 
     - name: iOS 越狱
       links:
@@ -2314,6 +2314,10 @@
           logo: dun-163.png
           url: https://dun.163.com/
           description: 网易易盾是网易旗下一站式数字内容风控品牌，依托网易20余年的技术沉淀和实践经验，提供专业的内容安全、业务安全、移动安全等服务，全方位保障客户业务合规、稳健和安全运营。
+        - title: 百度云验证码
+          logo: cloud.baidu.png
+          url: https://cloud.baidu.com/product/AFD/captcha.html
+          description: 依托百度 10 余年攻防经验与领先的 AI 技术打造，聚焦账号全生命周期安全防护，在用户注册、登录认证、敏感操作、社区互动等关键业务节点，通过简单的交互，高效区分机器行为和自然人操作，提供防护的同时兼顾用户体验。
         - title: 小盾安全
           logo: xiaodun.png
           url: https://sec.xiaodun.com/
@@ -2564,6 +2568,7 @@
     - term: 国内代理商
     - term: 全球代理商
     - term: 数据代理商
+    - term: 代理检测
   tabs:
     - name: 国内代理商
       links:
@@ -2995,6 +3000,18 @@
           logo: tikhub.png
           url: https://tikhub.io/
           description: 16 个社交媒体 API + AI 模型 官方价格低至 3 折，统一 API 基础设施，支持社交媒体数据提取与 AI 模型访问 — OpenAI、Claude、Gemini、DeepSeek 等
+
+    - name: 代理检测
+      links:
+        # ad ==============================
+        - title: ping0
+          logo: ping0.png
+          url: https://ping0.cc/
+          description: 高精度 IP 地址归属地查询，IP 风控值查询，原生 IP 查询，IP 类型查询，家庭宽带 IP 查询，全球小鸡监控平台
+        - title: 百度智能风控 IP 风险画像
+          logo: cloud.baidu.png
+          url: https://cloud.baidu.com/product-s/afd_s/ip-threat.html
+          description: 高精度 IP 地址归属地查询，IP 风控值查询，原生 IP 查询，IP 类型查询，家庭宽带 IP 查询，全球小鸡监控平台
 
 - taxonomy: 交流学习
   icon: fas fa-handshake
@@ -3509,10 +3526,10 @@
           logo: cnxct_coder.jpg
           qrcode: images/qrcode/cnxct_coder.jpg
           description: 公众号：榫卯江湖
-        - title: 白龙
+        - title: 白龙~
           logo: qq_38851536.jpg
           url: https://blog.csdn.net/qq_38851536
-          description: 白龙的 CSDN 主页
+          description: 白龙~的 CSDN 主页
         - title: 哆啦安全
           logo: gh_060e91811143.jpg
           qrcode: images/qrcode/gh_060e91811143.jpg
@@ -3533,10 +3550,10 @@
           logo: life-in-the-wind.png
           qrcode: images/qrcode/life-in-the-wind.jpg
           description: 公众号：一生向风
-        - title: 沐阳科技资源
+        - title: 沐阳逆向学习
           logo: muyangjy888.jpg
           qrcode: images/qrcode/muyangjy888.jpg
-          description: 公众号：沐阳科技资源
+          description: 公众号：沐阳逆向学习
         - title: 逆向lin狗
           logo: gh_fc6c78a6258d.jpg
           qrcode: images/qrcode/gh_fc6c78a6258d.jpg
@@ -3837,6 +3854,10 @@
           logo: gh_e2658a87d1ba.jpg
           qrcode: images/qrcode/gh_e2658a87d1ba.jpg
           description: 公众号：小恰学逆向
+        - title: 进击的HACK
+          logo: gh_341b89f43067.jpg
+          qrcode: images/qrcode/gh_341b89f43067.jpg
+          description: 公众号：进击的HACK
 #        - title: K哥爬虫
 #          logo: kgepachong.jpg
 #          qrcode: images/qrcode/kgepachong.jpg
@@ -3877,6 +3898,10 @@
           logo: XiaoWuGeRisk.jpg
           qrcode: images/qrcode/XiaoWuGeRisk.jpg
           description: 公众号：小伍哥聊风控
+        - title: 码王吴彦祖
+          logo: qq_36551453.jpg
+          url: https://blog.csdn.net/qq_36551453
+          description: 码王吴彦祖的 CSDN 主页
 
     - name: 视频博主
       links:
@@ -4268,6 +4293,10 @@
           logo: 172381477.jpg
           url: https://space.bilibili.com/172381477
           description: 如意-浏览器开发培训的 bilibili 主页
+        - title: Litt1eQ
+          logo: 70862930.jpg
+          url: https://space.bilibili.com/70862930
+          description: Litt1eQ 的 bilibili 主页
 
     - name: 交流论坛
       links:
@@ -4448,38 +4477,178 @@
           logo: 0xshoulderlab.png
           url: https://0xshoulderlab.site/
           description: 小肩膀教育，逆向与安全开发，实战课程体系，网络爬虫、安卓逆向、iOS 逆向、AI 逆向、浏览器内核开发
-        - title: 大数据安全技术学习星球
+        - title: 养马场
           logo: zsxq.png
           url: https://t.zsxq.com/FjMHh
-          description: r0ysue 肉丝大佬的知识星球，定期分享和解答Frida、抓包解包、Fart脱壳机、算法还原、Ollvm、VMP、unicorn/unidbg、安卓源码定制与调试、IDA&GDB、art虚拟机二次开发等高质量安卓应用安全相关知识
-        - title: 编境知识星球
+          description: 星主：r0ysue（肉丝），公众号：大数据安全技术学习，养马场暨养码场，研究各种工具外挂病毒木马。研究外挂是为了禁止外挂，分析木马是为了查杀木马，不知攻、焉知防，以攻促防，以最强的矛锻炼最强的盾
+        - title: 编境
           logo: zsxq.png
-          url: https://t.zsxq.com/dyeNW
-          description: tls/ja3 指纹，js 逆向，app 逆向，移动安全分析，TLS 指纹对抗练习平台（tlsja3.cn）作者，公众号：编角料
-        - title: 十一姐知识星球
+#          url: https://t.zsxq.com/dyeNW
+          url: https://t.zsxq.com/TFHUP
+          description: 星主：geekbyte，公众号：编角料，tls/ja3 指纹，js 逆向，app 逆向，移动安全分析，TLS 指纹对抗练习平台（tlsja3.cn）作者，公众号：编角料
+        - title: 时光漫漫
           logo: zsxq.png
 #          qrcode: images/qrcode/shiyi_zsxq.jpg
-          url: https://t.zsxq.com/14tPsY8si
-          description: 各种JS逆向/验证码逆向/图像识别训练/自动化爬虫干货分享，公众号：逆向OneByOne
-        - title: 阿J知识星球
-          logo: zsxq.png
-          url: https://t.zsxq.com/Thb1k
-          description: 星球主要用于探讨有感类型验证码的训练和识别方法，轨迹算法等，JS 算法感兴趣也可以讨论讨论，公众号：python爬虫和阿J的逆向
-        - title: 卷卷大陆知识星球
+#          url: https://t.zsxq.com/14tPsY8si
+          url: https://t.zsxq.com/bcccS
+          description: 星主：十一姐，公众号：逆向OneByOne，各种JS逆向/验证码逆向/图像识别训练/自动化爬虫干货分享
+#        - title: 阿J
+#          logo: zsxq.png
+#          url: https://t.zsxq.com/Thb1k
+#          description: 星主：阿J，公众号：python爬虫和阿J的逆向，星球主要用于探讨有感类型验证码的训练和识别方法，轨迹算法等，JS 算法感兴趣也可以讨论讨论，公众号：python爬虫和阿J的逆向
+        - title: 卷卷大陆
           logo: zsxq.png
           url: https://t.zsxq.com/MrS7c
-          description: 挽风大佬的知识星球，各种逆向教程资源，公众号：陈不不and挽风的逆向
-        - title: js攻防学习知识星球
+          description: 星主：挽风，公众号：陈不不and挽风的逆向，各种逆向教程资源
+        - title: js攻防学习
           logo: zsxq.png
-          url: https://t.zsxq.com/gmFWu
-          description: 零点大佬的知识星球，js逆向、补环境、jsvmp编译、浏览器环境检测，Node编译/Chromium编译等
-        - title: 知一Tracer知识星球
+#          url: https://t.zsxq.com/gmFWu
+          url: https://t.zsxq.com/DMQhn
+          description: 星主：零点，js逆向、补环境、jsvmp 编译、浏览器环境检测，Node 编译，Chromium 编译等
+        - title: 知一Tracer
           logo: zsxq.png
-          url: https://t.zsxq.com/qjlfm
-          description: 专注 Jsvmp 及 Wasm 的算法还原，分享海外爬虫技术方案与反爬对抗思路!
+#          url: https://t.zsxq.com/qjlfm
+          url: https://t.zsxq.com/NvZ2Z
+          description: 星主：春秋，公众号：知一Tracer，专注 Jsvmp 及 Wasm 的算法还原,分享海外爬虫技术方案与反爬对抗思路！
+        - title: 爬虫逆向分享日记
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/28888112158841
+          description: 星主：小爬菜咦，星球暂无介绍
+        - title: x1a0f3n9 逆向学习交流
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/51115185444414
+          description: 星主：小风，B站：x1a0f3n9，安卓逆向，实战案例、理论知识、魔改或者自己开发的各种工具
+        - title: 二进制磨剑🗡
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/48841185881588
+          description: 星主：无名侠，公众号：二进制磨剑，讨论二进制方向所有话题，移动安全/逆向框架/跨平台逆向/红队工具/免杀/漏洞挖掘/Iot/混淆与反混淆/二进制分析，移动安全：加固与脱壳/抓包/Hook/反调试/漏洞/框架原理，逆向框架：llvm/angr/triton/unicorn/capstone/keystone/idapython/binary ninja api/ebpf，语言逆向：cpp stl/golang/rust/wasm/lua解密，免杀交流：定期提供新静态免杀loader
+        - title: 流星创作工坊
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/28882581811241
+          description: 星主：流星，公众号：流星Studio，加入星球可享受：devtools 调试工具、云函数抓包工具、JS拦截替换工具、小程序RPC工具及方案、JS逆向案例及工具使用教程、微信逆向原理视频课程，工具永久更新，专属会员群，更多工具及骚操作等你来发现
+        - title: 狗都不学逆向_
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/48885488145548
+          description: 星主：ta.，主 js 逆向补环境
+        - title: 逆向交流
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/15554581554222
+          description: 星主：逆向狗都不学，公众号：逆向狗都不学，定期分享逆向相关代码与教学视频
+        - title: 搞个蛋的逆向
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/51115525814224
+          description: 星主：Aurora 蛋蛋，分享JS逆向、小程序逆向知识
+        - title: 软件安全与逆向分析
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/518455128484
+          description: 星主：非虫，公众号：软件安全与逆向分析，《Android 软件安全权威指南》等书籍作者，专注软件安全与逆向分析领域最前沿的技术与工具，做有内涵有干货的技术分享！
+        - title: iOS逆向与安全
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/28888121881851
+          description: 星主：小陈，猿人学讲师，公众号：移动端Android和iOS开发技术分享，📚深度干货沉淀：聚焦iOS逆向、安全攻防与插件开发，系统记录实操技巧、常见问题与解决方案。🔍高效答疑解惑：实时更新实战案例，帮助你快速解决逆向过程中遇到的难题。🚀高质量知识库：为初学者和进阶者提供有价值的资源和方法，轻松踏入逆向世界，掌握核心技能。🤝圈层人脉拓展：与热衷于iOS逆向与安全领域的优秀伙伴相遇交流，共享最新实践经验与动态资讯。
+        - title: android逆向学习
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/15554418244582
+          description: 星主：雨霖铃，B站：下雨天joy，博客：https://www.xiayutian.xyz/，以算法分析相关的文章为主
+        - title: 沐阳逆向学习交流
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/15525241855482
+          description: 星主：沐阳，知名讲师，公众号：沐阳逆向学习，安卓逆向、iOS逆向
+#        - title: 逆向学习
+#          logo: zsxq.png
+#          url: https://wx.zsxq.com/group/88888558244442
+#          description: 星主：阿柒，主要以直播或者录播的形式去讲解js逆向中ast基础知识和补环境知识，web逆向的补环境检测风控以及ast解混淆代码纯算，以及去实战某些大厂的相关内容。搞完js的话就去玩app逆向实战。加我备注来意，否则忽略。后续讲解下实战用到的科学训练，对抗验证码的内容，目标是all in。
+        - title: Ai与逆向学习交流
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/48885244122518
+          description: 星主：白龙，CSDN：白龙~，星球暂无介绍
+#        - title: 天天学风控
+#          logo: zsxq.png
+#          url: https://t.zsxq.com/TeMxw
+#          description: 星主：飞特，公众号：飞特风控学苑，专注于金融风险管理领域的分享。
+        - title: 风控浅聊
+          logo: zsxq.png
+          url: https://t.zsxq.com/3YVSe
+          description: 星主：LDR R2,#0x*，星球暂无介绍
+        - title: 安全风控攻防对抗
+          logo: zsxq.png
+          url: https://t.zsxq.com/JHJr1
+          description: 星主：Tesi1a，专注于安全风控对抗，分享相关实践项目
+        - title: iOS求索之路
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/48888544514458
+          description: 星主：慵懒，星球暂无介绍
+        - title: Flutter Reverse
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/15554481152842
+          description: 星主：迷人。，B站：带带弟弟学爬虫，星球暂无介绍
+        - title: 带带弟弟学爬虫
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/
+          description: 星主：迷人。，B站：带带弟弟学爬虫，星球暂无介绍
+        - title: 织梦空间🕷️.
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/15555452545822
+          description: 星主：波波老师，B站：波波老师带你学爬虫，Js、Android、小程序逆向开发技术栈
+        - title: 知识爬行者
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/51112885255144
+          description: 星主：始識，公众号：影17，主要分享一些文章中的代码 还有一些实用的工具，圈内包括但不仅限于：227、rs456vmp、xs算法、某度v1滑块、某东login及h5st
+        - title: Js Android iOS逆向
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/51111114544514
+          description: 星主：杨如画，公众号：js android ios逆向，B站：杨如画h，主要是各大网站和app逆向实战。
+        - title: 安全后厨
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/51122855512824
+          description: 星主：随风而行，主要用于移动开发与安全学习，包括但不限于Android 、IOS、鸿蒙(Next)开发，漏洞挖掘、源码定制、沙箱技术、hook技术、脱壳技术、抓包技术、渗透测试技术等
+        - title: web与移动应用安全
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/51115148582814
+          description: 星主：进击的hack，公众号：进击的hack，涉及Android和iOS。主要讲Android，iOS水平一般。一些小程序也会讲。以学习交流为主，不搞hui产和hei产。《安卓脱壳系列》火热更新中。
+        - title: 小鱼神的逆向编程圈
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/48888154214548
+          description: 星主：小鱼神1024，公众号：小鱼神1024，浏览器插桩日志框架、JS逆向 & 小程序逆向、自动化框架 & 签名算法、浏览器插件开发、纯算分析与还原实战
+        - title: Web逆向
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/28882844228481
+          description: 星主：北.，公众号：小小杨学编程，星球主要用来记录JS逆向,验证码逆向等，不定期会开启腾讯会议手摸手教学
+        - title: 思卓移动安全
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/28882844221441
+          description: 星主：大黄，星主只喜欢研究大厂风控和算法，文章以基础为主，工具为辅，实战以大厂为主，透析难点，解决痛点，星主认为扎实的基础才能成为真正的大佬！
+        - title: 编程喵
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/28851451828551
+          description: 星主：志远，编程喵群主，精通逆向，游戏开发，20年以上编程经验，对新手友好
+        - title: 安卓风控策略Club
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/15554541181452
+          description: 星主：恋空，Risk检测器作者 && AnyTrace作者，主要讲Android端的设备指纹、风控策略、安全攻防以及其他的业务安全话题交流，研究安卓工具的技术原理和风控手段
+        - title: 奋飞的朋友们
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/88514815888852
+          description: 星主：奋飞，公众号：奋飞安全，国家高级信息系统项目管理师，安全研究员，C/C++/asm/go/python，目前有Unidbg实操教程和一些神奇的私房教程，专注于软件安全和逆向分析领域最前沿的技术和工具，做有内涵有干货的技术分享
+        - title: 移动端安全学习
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/28514225488581
+          description: 星主：一棵树，学习移动端安全知识，主要是针对移动端安全知识和骚思路，更注重实际的工作应用。
+        - title: 移动安全攻防
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/51112888422184
+          description: 星主：Han，星球主攻Android&iOS逆向，百分百原创，不定期分享一些逆向技巧，算法还原以及检测对抗，主要是frida检测绕过
+        - title: Python爬虫应用学习
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/28855284824281
+          description: 星主：漁滒，不定期分享javascript代码分析与还原、ast应用、wasm分析、应用抓包等数据安全内容。本星球可能需要有js和python代码基础
 
     - name: 自建博客
       links:
+        - title: 下雨天（雨霖铃）
+          logo: xiayutian.jpg
+          url: https://www.xiayutian.xyz/
+          description: 下雨天（雨霖铃）的博客，安卓、iOS、JS 逆向
         - title: antibot.blog
           logo: vercel.png
           url: https://antibot.blog/
@@ -5177,6 +5346,10 @@
           url: https://skillsmp.com/
           logo: skillsmp.png
           description: Agent Skills 市场
+        - title: SkillNet
+          url: http://skillnet.openkg.cn/
+          logo: skillnet.png
+          description: 浙江大学联合阿里巴巴、腾讯等 19 个机构提出的 SkillNet，构建了超过 20 万个 AI 技能的开放基础设施，通过统一的本体论、五维度评估体系和技能关系图谱，让 Agent 从「重复造轮子」进化到「技能复用」，在三个基准测试中平均奖励提升 40%、执行步骤减少 30%
 
     - name: AI 其他资源
       links:

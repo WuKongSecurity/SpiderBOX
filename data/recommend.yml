@@ -98,11 +98,12 @@
       logo: yuanrenxue.jpg
       url: https://shop45147253.m.youzan.com/wscgoods/detail/2xli2kj7ku3a5zk
       description: 全网首家反爬风控课程，一次付费，终身免费更新，附带工作内推、线下见面会、模拟面试等，▶️备注BOB可获取内部优惠价，平哥微信：dismissmewp、dismissmewp1
-    - title: 十一姐知识星球
+    - title: 十一姐知识星球：时光漫漫
       logo: weixin_43411585.jpg
       qrcode: images/qrcode/shiyi_zsxq.jpg
-      url: https://t.zsxq.com/14tPsY8si
-      description: 各种JS逆向/验证码逆向/图像识别训练/自动化爬虫干货分享
+#      url: https://t.zsxq.com/14tPsY8si
+      url: https://t.zsxq.com/bcccS
+      description: 星主：十一姐，公众号：逆向OneByOne，各种JS逆向/验证码逆向/图像识别训练/自动化爬虫干货分享
 #    - title: Chrome for Testing availability
 #      logo: chromedriver.jpg
 #      url: https://googlechromelabs.github.io/chrome-for-testing/

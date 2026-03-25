@@ -47,16 +47,24 @@ qna:
   - question: 站长简介
     answer: 原“K哥爬虫”公众号创始人，隶属于快代理，后被迫从该公司离职，离职后仍然持续背刺站长，<a href="https://mp.weixin.qq.com/s/7vFpmhvU8-DCONlvlklMTQ" target="_blank">抄袭本人网站</a>。</br>站长擅长数据挖掘、逆向和正向安全、浏览器指纹、风控对抗，18年开始写博客，长期无偿分享技术，全网累计访问量超百万，公众号：<a href="https://static.wukongsec.com/public/images/info/spider_skill_green.png" target="_blank">虫技</a>
 changelog:
-  - date: 2026.01.20
+  - date: 2026.03.25
     title: v1.3 发布
     items:
-      - text: 优化了广告位样式，不占用正文空间
-      - text: 优化了滚动条样式
+      - text: 新增站内搜索功能，查找资源更加方便
+      - text: 资源分类由单一的展示改为 tab 标签分类展示，更加直观
+      - text: 新增了一个 contact 页面，集成更新日志、联系方式等信息
+      - text: 后端更新，增加了数个优质博主监控，及时推送优质文章/视频
+      - text: 新增 150+ 资源，新增 AI 辅助逆向、APP 相关资源等，细化了分类
+      - text: 新增了在线问卷，可对网站纠错、提出建议、申请收录、商务合作等
+      - text: 其他多处细节优化
+      - text: 感谢 **geekbyte**（公众号：编角料）、**塔克拉玛不干**（公众号：不落的逆向手札，<a href="https://spiderdemo.cn" target="_blank">spiderdemo.cn</a>）、**下雨天**（博客：<a href="https://www.xiayutian.xyz" target="_blank">www.xiayutian.xyz</a>）提供资源收录支持
+
   - date: 2025.07.01
     title: v1.2 发布
     items:
       - text: 优化了广告位样式，不占用正文空间
       - text: 优化了滚动条样式
+        
   - date: 2025.02.03
     title: v1.1 发布
     items:
@@ -77,6 +85,7 @@ changelog:
           - 夜间模式切换 cookie 逻辑优化，可以记住用户上次的设置。
       - text: 右上角一言，限制字数为15字，太长了影响体验，优化了时间显示格式；
       - text: 【最新文章/视频】模块底部最近时间格式优化。
+        
   - date: 2024.12.09
     title: v1.0 发布
     items:
@@ -89,10 +98,12 @@ changelog:
       - text: 【主站推荐】模块调整，显示最常用的链接；
       - text: 调整了分类，新增了一些资源收录，去掉了一些失效的资源链接；
       - text: <a href="https://mp.weixin.qq.com/s/ZDeJM7KAbst8er8zLRhdSg" target="_blank">查看更加详细的更新内容</a>
+        
   - date: 2023.12.01
     title: v0.9 发布
     items:
       - text: 项目开发完成，网站基本定型，资源收录初步完成
+        
   - date: 2023.08.13
     title: 项目成立
     items:
@@ -561,7 +572,7 @@ monitor:
         - id: gh_fdc416568214
           name: 逆向学习之旅
           date: 2025.01.02
-          note: 2025.01.17 移除监控，水文无营养
+          note: 2025.01.17 移除监控，水文引流，无学习意义
         - id: gh_c9e9a29ec824
           name: 一只野生码农
           date: 2025.01.24
@@ -826,7 +837,7 @@ monitor:
         - id: 633101470
           name: 波波老师带你学爬虫	
           date: 2024.12.08	
-          note: 2024.12.12 移除监控，疑似培训机构
+          note:
         - id: 3461578481470147
           name: 逆向狗都不学	
           date: 2024.12.08	
