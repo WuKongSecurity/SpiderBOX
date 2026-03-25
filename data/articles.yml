@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.03.25 21:13:28
+      title: 通过 AI-Skill 分析 flutter so 文件实现明文抓包以及生成frida脚本
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489868&idx=1&sn=41255280d44be074c2bc85664ac564e8
+    - author: 进击的HACK
+      release_time: 2026.03.25 21:13:28
+      title: 一个神奇的关注者
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489868&idx=2&sn=c6c98230928a93818bb5bc28407cd594
     - author: 爬虫逆向小林哥
       release_time: 2026.03.25 18:53:28
       title: 【网页逆向】某书 xs-4.3.2版本变更跟进
@@ -236,14 +244,6 @@
       release_time: 2026.03.23 14:00:33
       title: akamai/perimeterx/datadome/threatmetrix加密数据一键反解
       url: https://mp.weixin.qq.com/s?__biz=MzU1NjQ2Njg4OA==&mid=2247484074&idx=1&sn=0f555c12425924fd4fffb5c8a620d721
-    - author: GSCL Sec
-      release_time: 2026.03.23 09:25:30
-      title: MCP+Skill进行JS逆向的配置
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4MDgyNzY4Nw==&mid=2247484242&idx=1&sn=cecd11b32806e4490ba19f0aadb6bfa7
-    - author: 泡泡以安
-      release_time: 2026.03.23 09:07:00
-      title: ARM 汇编全解（八）：特权级与处理器模式
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485578&idx=1&sn=aba049ba223b01c3584c083cf730bb33
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
