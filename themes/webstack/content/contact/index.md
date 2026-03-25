@@ -198,7 +198,7 @@ monitor:
           date: 2024.12.08
           note:
         - id: gh_c637bce93320
-          name: js 安卓 iOS逆向
+          name: js android ios逆向
           date: 2024.12.08
           note:
         - id: gh_6489a49d398e
@@ -238,7 +238,7 @@ monitor:
           date: 2024.12.08
           note:
         - id: gh_1e9cdae72d92
-          name: 沐阳科技资源
+          name: 沐阳逆向学习
           date: 2024.12.08
           note:
         - id: gh_25c90dc826ec
@@ -510,7 +510,7 @@ monitor:
           date: 2024.12.08
           note:
         - id: gh_7f507034bcdb
-          name: 同盾智能风控联盟
+          name: 智能风控联盟
           date: 2024.12.08
           note:
         - id: gh_c22858949e6b
@@ -740,6 +740,14 @@ monitor:
         - id: gh_e2658a87d1ba
           name: 小恰学逆向
           date: 2026.03.23
+          note:
+        - id: gh_341b89f43067
+          name: 进击的HACK
+          date: 2026.03.26
+          note:
+        - id: gh_97d39e03e861
+          name: 大数据安全技术学习
+          date: 2026.03.26
           note:
 
     - title: 哔哩哔哩博主名单
