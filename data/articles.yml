@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.03.26 12:01:01
+      title: Rizin基于浏览器的逆向工程平台
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499941&idx=1&sn=8392dd2044017fe73d6a0c3560c34187
     - author: 無色逆向
       release_time: 2026.03.26 10:55:03
       title: 我用一句话让AI逆向出WASM中的加密算法
@@ -240,10 +244,6 @@
       release_time: 2026.03.24 11:13:53
       title: 安卓逆向 -- 某软件去除登录及注册对话框尝试
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041593&idx=1&sn=23268f44a64e51b304c86ee96fb44455
-    - author: 猿人学Python
-      release_time: 2026.03.24 10:41:06
-      title: 使⽤ AI 实现 最新版本 Flutter HTTPS 明⽂抓包
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550192&idx=1&sn=881d7129c63834391ecbc0ee11c16fa3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
