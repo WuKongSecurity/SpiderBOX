@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.03.26 15:53:50
+      title: 用文言文100% 越狱攻破 GPT-4o、Claude、Gemini
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484257&idx=1&sn=68176b3ee80884e2a6d77f7a1dcb6aa5
     - author: 哆啦安全
       release_time: 2026.03.26 12:01:01
       title: Rizin基于浏览器的逆向工程平台
@@ -240,10 +244,6 @@
       release_time: 2026.03.24 16:30:28
       title: 【兑现十年前的承诺】通过逆向分析老游戏XXX梦大富翁来制作外挂BGM启动器
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143956&idx=1&sn=03302088398557641f81db20baca12b7
-    - author: 逆向有你
-      release_time: 2026.03.24 11:13:53
-      title: 安卓逆向 -- 某软件去除登录及注册对话框尝试
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041593&idx=1&sn=23268f44a64e51b304c86ee96fb44455
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
