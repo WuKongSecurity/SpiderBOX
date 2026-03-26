@@ -1067,10 +1067,15 @@ body.io-black-mode .contact-page a:hover {
 .qrcode {
     width: 380px;
     height: auto;
+    max-width: 100%;
     padding: 8px;
     background: #f6f6f6;
     border-radius: 10px;
     object-fit: contain;
+}
+
+.qrcode-wrap {
+    max-width: 100%;
 }
 
 .io-black-mode .qrcode {
@@ -1080,6 +1085,25 @@ body.io-black-mode .contact-page a:hover {
 .qrcode-caption {
     margin-top: 8px;
     color: #777;
+}
+
+/* 二维码弹层样式 */
+.qrcode-popup {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.6);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+}
+
+.qrcode-popup-inner img {
+    max-width: 80vw;
+    max-height: 80vh;
+    background: #fff;
+    padding: 10px;
+    border-radius: 8px;
 }
 
 .faq-item {
@@ -1268,23 +1292,19 @@ body.io-black-mode.contact-fixed-header .big-header-banner .header-mini-btn labe
     color: #bbb;
 }
 
+/* 让左右两列高度独立，不互相牵连 */
 .contact-columns {
-    align-items: stretch;
+    align-items: flex-start;
 }
-
 .contact-col {
-    display: flex;
+    display: block;
 }
-
 .contact-col-inner {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
+    display: block;
 }
-
-/* 让列内最后一个卡片贴底 */
+/* 取消贴底效果 */
 .contact-col-inner > .contact-card:last-child {
-    margin-top: auto;
+    margin-top: 0;
 }
 
 /* 监控名单折叠标题更显眼 */

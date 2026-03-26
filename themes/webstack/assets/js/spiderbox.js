@@ -459,3 +459,21 @@ document.addEventListener("contextmenu", (event) => {
 //         });
 //     }
 // });
+
+/* 二维码弹层 */
+document.addEventListener("click", function (e) {
+    const trigger = e.target.closest(".spiderbox-image-popup");
+    const popup = document.getElementById("qrcode-popup");
+    const popupImg = document.getElementById("qrcode-popup-img");
+  
+    if (trigger) {
+      const imgSrc = trigger.dataset.img || trigger.src;
+      popupImg.src = imgSrc;
+      popup.style.display = "flex";
+      return;
+    }
+  
+    if (popup && popup.style.display === "flex") {
+      popup.style.display = "none";
+    }
+  });

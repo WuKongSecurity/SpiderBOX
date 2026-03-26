@@ -119,46 +119,54 @@
       url: https://www.fincher.org/Utilities/CountryLanguageList.shtml
       description: 不同国家对应的语言代码列表
 
-- taxonomy: 常用工具
+- taxonomy: 通用工具
   icon: fas fa-tools
   list:
     - term: 在线工具
     - term: 抓包工具
     - term: 接口调试
-    - term: 监控管理
+    - term: 框架管理
     - term: 常用库/包
     - term: 其他工具
   tabs:
     - name: 在线工具
       links:
-#        - title: 爬虫工具库
-#          logo: spidertools.png
-#          url: https://spidertools.cn/
-#          description: feapder 作者出品的爬虫工具库。
+        - title: 爬虫工具库
+          logo: spidertools.png
+          url: https://spidertools.cn/
+          description: feapder 作者出品的爬虫工具库。
 #        - title: 爬虫工具库
 #          logo: kuaidaili.png
 #          url: https://www.kgtools.cn/
 #          description: K 哥爬虫工具库。
-#        - title: 猿人学爬虫工具库
-#          logo: yuanrenxue.jpg
-#          url: https://tool.yuanrenxue.cn/
-#          description: 猿人学爬虫工具库。
-#        - title: AST Explorer
-#          logo: astexplorer.png
-#          url: https://astexplorer.net/
-#          description: 一个使用各种解析器生成代码的 AST 的 Web 工具。
+        - title: 猿人学爬虫工具库
+          logo: yuanrenxue.jpg
+          url: https://tool.yuanrenxue.cn/
+          description: 猿人学爬虫工具库。
+        - title: AST Explorer
+          logo: astexplorer.png
+          url: https://astexplorer.net/
+          description: 一个使用各种解析器生成代码的 AST 的 Web 工具。
 #        - title: 在线加解密
 #          logo: chacuo.png
 #          url: http://tool.chacuo.net/cryptdes
 #          description: 在线 DES、3DES、AES、RC2、RC4、RC5、RC6、RSA 等加解密。
-#        - title: httpbin
-#          logo: bin.png
-#          url: https://www.httpbin.org/
-#          description: 一个简单的 HTTP 请求和响应测试服务。
-        - title: 在线 JSON 对比
-          logo: json-diff.jpg
-          url: https://json-diff.com/
-          description: 在线 JSON 对比
+        - title: httpbin
+          logo: bin.png
+          url: https://www.httpbin.org/
+          description: 一个简单的 HTTP 请求和响应测试服务。
+        - title: IPCheck.ing
+          logo: ipcheck.jpg
+          url: https://ipcheck.ing/
+          description: 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等
+        - title: cip.cc
+          logo: cip.png
+          url: https://www.cip.cc/
+          description: 查IP(cip)网站, 提供免费的IP查询服务,命令行查询IP, 并且支持PC网站, 手机网站, 命令行(Windows/UNIX/Linux)三大平台, 是个多平台的IP查询网站
+        - title: icanhazip
+          logo: icanhazip.png
+          url: https://icanhazip.com/
+          description: 快速返回当前 IP
         - title: 在线 Base64 编码解码
           logo: be.png
           url: https://base64.us/
@@ -191,18 +199,6 @@
           logo: mytju.png
           url: http://www.mytju.com/classcode/tools/messyCodeRecover.asp
           description: 在线乱码恢复
-        - title: icanhazip
-          logo: icanhazip.png
-          url: https://icanhazip.com/
-          description: 快速返回当前 IP
-        - title: IPCheck.ing
-          logo: ipcheck.jpg
-          url: https://ipcheck.ing/
-          description: 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等
-        - title: cip.cc
-          logo: cip.png
-          url: https://www.cip.cc/
-          description: 查IP(cip)网站, 提供免费的IP查询服务,命令行查询IP, 并且支持PC网站, 手机网站, 命令行(Windows/UNIX/Linux)三大平台, 是个多平台的IP查询网站
         - title: Curl Converter
           logo: curlconverter.png
           url: https://curlconverter.com/
@@ -266,10 +262,14 @@
           logo: reqable.png
           url: https://reqable.com/
           description: 小黄鸟作者另一力作，新一代 API 调试 + API 测试一站化国产解决方案，全平台支持 HTTP1、HTTP2 和 HTTP3(QUIC)，先进技术赋能API生产
-        - title: Burp Suite
-          logo: burp.png
+#        - title: Burp Suite
+#          logo: burp.png
+#          url: https://portswigger.net/burp
+#          description: Burp Suite 是用于攻击 web 应用程序的集成平台，包含了许多工具。Burp Suite为这些工具设计了许多接口，以加快攻击应用程序的过程。所有工具都共享一个请求，并能处理对应的HTTP 消息、持久性、认证、代理、日志、警报
+        - title: BurpSuite
+          logo: BurpSuite.png
           url: https://portswigger.net/burp
-          description: Burp Suite 是用于攻击 web 应用程序的集成平台，包含了许多工具。Burp Suite为这些工具设计了许多接口，以加快攻击应用程序的过程。所有工具都共享一个请求，并能处理对应的HTTP 消息、持久性、认证、代理、日志、警报
+          description: Burp Suite 是一款 Web 应用程序安全测试集成平台。该平台通过代理服务器拦截 HTTP/S 通信流量，提供 Spider 爬虫、Scanner 漏洞扫描（专业版功能）、Intruder 自动化攻击等工具链
         - title: mitmproxy
           logo: mitmproxy.png
           url: https://mitmproxy.org/
@@ -298,22 +298,10 @@
           logo: ecapture.png
           url: https://ecapture.cc/
           description: eCapture(旁观者)，基于 eBPF 技术实现TLS加密的明文捕获，无需CA证书
-        - title: ProxyPin
-          logo: github.png
-          url: https://github.com/wanghongenpin/proxypin
-          description: 开源免费抓包工具，支持 Windows、Mac、Android、IOS、Linux 全平台系统，您可以使用它来拦截、检查和重写 HTTP(S) 流量，支持 Flutter 应用抓包，ProxyPin 基于 Flutter 开发，UI 美观易用
-        - title: r0capture
-          logo: github.png
-          url: https://github.com/r0ysue/r0capture
-          description: 安卓应用层抓包通杀脚本
         - title: ProxyDroid
           logo: proxydroid.jpg
           url: https://proxydroid.com/
           description: 基于 Android 系统的开源代理工具应用软件，需通过 root 权限实现设备代理配置功能，支持 HTTP、SOCKS4、SOCKS5 等多种代理协议及全局代理模式
-        - title: BurpSuite
-          logo: BurpSuite.png
-          url: https://portswigger.net/burp
-          description: Burp Suite 是一款 Web 应用程序安全测试集成平台。该平台通过代理服务器拦截 HTTP/S 通信流量，提供 Spider 爬虫、Scanner 漏洞扫描（专业版功能）、Intruder 自动化攻击等工具链
         - title: Brook
           logo: brook.png
           url: https://www.txthinking.com/brook.html
@@ -322,6 +310,14 @@
           logo: postern.png
           url: https://apkpure.net/postern/com.tunnelworkshop.postern/download
           description: Postern 是一个 Android 下的全局代理工具
+        - title: ProxyPin
+          logo: github.png
+          url: https://github.com/wanghongenpin/proxypin
+          description: 开源免费抓包工具，支持 Windows、Mac、Android、IOS、Linux 全平台系统，您可以使用它来拦截、检查和重写 HTTP(S) 流量，支持 Flutter 应用抓包，ProxyPin 基于 Flutter 开发，UI 美观易用
+        - title: r0capture
+          logo: github.png
+          url: https://github.com/r0ysue/r0capture
+          description: 安卓应用层抓包通杀脚本
 
     - name: 接口调试
       links:
@@ -329,10 +325,6 @@
           logo: postman.png
           url: https://www.postman.com/
           description: Postman 是一个用于构建和使用 API 的 API 平台。Postman 简化了 API 生命周期的每个步骤并简化了协作，以便您可以更快地创建更好的 API。
-        - title: Hoppscotch
-          logo: hoppscotch.png
-          url: https://hoppscotch.io/
-          description: Hoppscotch 的前身是 Postwoman，是一个开源的轻量级、基于 Web 的 API 管理工具。
         - title: Apipost
           logo: apipost.png
           url: https://www.apipost.cn/
@@ -341,6 +333,10 @@
           logo: apifox.png
           url: https://apifox.com/
           description: Apifox - API 文档、调试、Mock、测试一体化协作平台。拥有接口文档管理、接口调试、Mock、自动化测试等功能，接口开发、测试、联调效率，提升 10 倍。最好用的接口文档管理工具，接口自动化测试工具。
+        - title: Hoppscotch
+          logo: hoppscotch.png
+          url: https://hoppscotch.io/
+          description: Hoppscotch 的前身是 Postwoman，是一个开源的轻量级、基于 Web 的 API 管理工具。
         - title: Eolink
           logo: eolink.png
           url: https://www.eolink.com/
@@ -378,7 +374,7 @@
           url: https://pan.baidu.com/s/1enE1c6sCmH19YEQlMYRNZg?pwd=sbox
           description: 小七编程助手，网盘提取密码：sbox
 
-    - name: 监控管理
+    - name: 框架管理
       links:
         - title: Crawlab
           logo: crawlab.png
@@ -400,6 +396,14 @@
           logo: scrapydweb.png
           url: https://github.com/my8100/scrapydweb
           description: 用于 Scrapyd 集群管理、Scrapy 日志分析和可视化、自动打包、计时器任务、监控和警报以及移动 UI 的 Web 应用程序
+        - title: TaskPyro
+          logo: taskpyro.png
+          url: https://github.com/taskPyroer/taskpyro
+          description: 轻量级 Python 任务调度与爬虫管理平台，可视化操作，环境隔离，资源占用小，支持 Scrapy 等主流爬虫框架，支持 Selenium、Playwright、DrissionPage 等浏览器自动化工具，支持 node 环境下的 js 逆向代码
+        - title: Scrapling
+          logo: Scrapling.jpg
+          url: https://github.com/D4Vinci/Scrapling
+          description: Scrapling 是一个自适应 Web Scraping 框架，能处理从单个请求到大规模爬取的一切需求。它的解析器能够从网站变化中学习，并在页面更新时自动重新定位您的元素。它的 Fetcher 能够开箱即用地绕过 Cloudflare Turnstile 等反机器人系统。它的 Spider 框架让您可以扩展到并发、多 Session 爬取，支持暂停/恢复和自动 Proxy 轮换——只需几行 Python 代码。一个库，零妥协
         - title: Kubernetes
           logo: kubernetes.png
           url: https://kubernetes.io/
@@ -412,25 +416,17 @@
           logo: grafana.png
           url: https://grafana.com/
           description: Grafana 是一款开源的数据可视化工具，使用 Grafana 可以非常轻松的将数据转成图表的展现形式来做到数据监控以及数据统计
-        - title: TaskPyro
-          logo: taskpyro.png
-          url: https://github.com/taskPyroer/taskpyro
-          description: 轻量级 Python 任务调度与爬虫管理平台，可视化操作，环境隔离，资源占用小，支持 Scrapy 等主流爬虫框架，支持 Selenium、Playwright、DrissionPage 等浏览器自动化工具，支持 node 环境下的 js 逆向代码
-        - title: Scrapling
-          logo: Scrapling.jpg
-          url: https://github.com/D4Vinci/Scrapling
-          description: Scrapling 是一个自适应 Web Scraping 框架，能处理从单个请求到大规模爬取的一切需求。它的解析器能够从网站变化中学习，并在页面更新时自动重新定位您的元素。它的 Fetcher 能够开箱即用地绕过 Cloudflare Turnstile 等反机器人系统。它的 Spider 框架让您可以扩展到并发、多 Session 爬取，支持暂停/恢复和自动 Proxy 轮换——只需几行 Python 代码。一个库，零妥协
 
     - name: 常用库/包
       links:
-        - title: vm
+        - title: node:vm
           logo: nodejs.png
           url: https://nodejs.org/api/vm.html
           description: node:vm 模块支持在 V8 虚拟机环境中编译和运行代码
         - title: vm2
           logo: github.png
           url: https://github.com/patriksimek/vm2
-          description: Node.js 的高级虚拟机/沙箱，因为包含严重的安全问题，现已停止维护
+          description: Node.js 的高级虚拟机/沙箱，可能包含严重的安全问题，谨慎使用
         - title: isolated-vm
           logo: github.png
           url: https://github.com/laverdet/isolated-vm
@@ -439,6 +435,10 @@
           logo: github.png
           url: https://github.com/doloopwhile/PyExecJS
           description: 在 Python 中运行 JavaScript 代码，现已停止维护
+        - title: exejs
+          logo: github.png
+          url: https://github.com/UlionTse/exejs
+          description: exejs 是 PyExecJS 在停止维护后，另一位作者维护的一个替代品
         - title: node_vm2
           logo: github.png
           url: https://github.com/eight04/node_vm2

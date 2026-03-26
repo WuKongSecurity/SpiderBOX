@@ -9,7 +9,7 @@ contacts:
     link: mailto:admin@itbob.cn
   - label: 站长微信/微信交流群 <font color="red">(推荐)</font>
     value: IT-BOB
-    link: https://static.wukongsec.com/public/images/info/wechat_art.webp
+    image: https://static.wukongsec.com/public/images/info/wechat.jpg
   - label: 站长 QQ
     value: 2273902448
     link: https://qm.qq.com/q/lL5IkGX31K
@@ -22,8 +22,8 @@ contacts:
   - label: GitHub
     value: WuKongSecurity
     link: https://github.com/WuKongSecurity
-  - label: 在线问卷
-    value: 反馈/建议/收录/合作
+  - label: 反馈/建议/收录/合作
+    value: 点击填写在线问卷
     link: https://wj.qq.com/s2/25576072/4e39/
 support:
   image: https://static.wukongsec.com/public/images/info/sponsor.webp
@@ -111,7 +111,7 @@ changelog:
 
 monitor:
   desc: |
-    ▶ 以下为【最新文章/视频】博主监控名单，博主发布最新文章/视频均会被采集收录。本站不会保存文章内容，只对标题、链接等基本信息进行缓存！</br>▶ 名单展示按照收录先后顺序排名，个人精力有限，难免有遗漏，有爬虫、逆向、风控领域相关的自媒体账号可以推荐给站长进行收录。</br>▶ 长期未活跃，或者发布的文章视频质量不高、只放两张截图引流，啥技术也不说的，以及培训机构账号矩阵均不会被收录，感谢理解！
+    🔹 以下为【最新文章/视频】博主监控名单，博主发布最新文章/视频均会被采集收录。本站不会保存文章内容，只对标题、链接等基本信息进行缓存！</br>🔹 名单展示按照收录先后顺序排名，个人精力有限，难免有遗漏，有爬虫、逆向、风控领域相关的自媒体账号可以推荐给站长进行收录。</br>🔹 长期未活跃，或者发布的文章视频质量不高、只放两张截图引流装逼，啥技术也不说的，以及培训机构账号矩阵均不会被收录，感谢理解！
   groups:
     - title: 微信公众号名单
       baseIdLink: http://open.weixin.qq.com/qr/code?username=
