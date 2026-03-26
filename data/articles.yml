@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.03.26 16:45:17
+      title: 名人医疗文件疑遭泄露引关注，涉嫌侵犯患者个人信息与隐私权
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519947&idx=1&sn=861359759c80adc8f353699204d16bed
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.03.26 16:45:17
+      title: 福建自贸区首单数据出境负面清单备案落地
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519947&idx=2&sn=e8f929a36448a2d97f1cdbdc802daec8
     - author: 如意私塾
       release_time: 2026.03.26 15:53:50
       title: 用文言文100% 越狱攻破 GPT-4o、Claude、Gemini
@@ -236,14 +244,6 @@
       release_time: 2026.03.24 16:36:17
       title: 《促进和规范数据跨境流动规定》实施两周年 数据出境安全管理工作再上新台阶
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519938&idx=1&sn=0027f7bb94353891b6c7a1a110585bb9
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.03.24 16:36:17
-      title: 未做算法安全评估、备案，海南一公司被约谈
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519938&idx=2&sn=29509241d416919dd3a0dc21925bba3f
-    - author: 吾爱破解论坛
-      release_time: 2026.03.24 16:30:28
-      title: 【兑现十年前的承诺】通过逆向分析老游戏XXX梦大富翁来制作外挂BGM启动器
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143956&idx=1&sn=03302088398557641f81db20baca12b7
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,18 +370,87 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 冰履踏青云
+      release_time: 2026.03.26 12:02:12
+      title: CC Switch安装报错：The installer has encountered an unexpected error ... The
+        error code is 2503.
+      url: https://bingyun.blog.csdn.net/article/details/159502328
+    - author: n_1ng
+      release_time: 2026.03.25 17:01:02
+      title: '[原创]从0到1构建一个Hook工具之Java Hook篇（三）'
+      url: https://bbs.kanxue.com/thread-290505.htm
+    - author: 逆向新手
+      release_time: 2026.03.25 17:00:50
+      title: chrome-devtools-mcp不能远程调试的问题与解决方法_2026-03-25
+      url: https://blog.csdn.net/weixin_46672080/article/details/159471328
     - author: 吴秋霖
       release_time: 2026.03.25 09:00:00
       title: 【某音电商】protobuf聊天协议逆向
       url: https://crawler.blog.csdn.net/article/details/159389674
+    - author: Python成长路
+      release_time: 2026.03.24 22:43:40
+      title: 你真的需要养一只龙虾(openclaw)吗
+      url: https://blog.csdn.net/Qwertyuiop2016/article/details/159436791
     - author: '`Jay'
       release_time: 2026.03.24 20:16:22
       title: 爬虫之redis连接池与账号管理池
       url: https://blog.csdn.net/weixin_47115747/article/details/159433947
+    - author: Solar安全
+      release_time: 2026.03.24 17:01:02
+      title: '[原创]【病毒分析】深度剖析粉丝投稿：海莲花APT超级间谍组织最新免杀样本（从白加黑落地到定制化RUST远控）'
+      url: https://bbs.kanxue.com/thread-290497.htm
+    - author: Aar0n
+      release_time: 2026.03.23 17:01:02
+      title: '[原创]支持MCP调用与污点追踪的ARM Trace分析工具'
+      url: https://bbs.kanxue.com/thread-290469.htm
+    - author: lidongyooo
+      release_time: 2026.03.23 17:01:02
+      title: '[原创] 安卓中的 ASLR实现与关闭'
+      url: https://bbs.kanxue.com/thread-290471.htm
+    - author: ppbb
+      release_time: 2026.03.22 17:01:02
+      title: '[原创] apsd RSASign 私钥导出'
+      url: https://bbs.kanxue.com/thread-290444.htm
+    - author: 拉不利多
+      release_time: 2026.03.22 17:01:02
+      title: '[原创] Android 内核加载未签名驱动的一次实践'
+      url: https://bbs.kanxue.com/thread-290443.htm
+    - author: 梧桐生
+      release_time: 2026.03.22 17:01:02
+      title: '[原创]某手游逆向全流程复盘：从 IL2CPP Dump 到 TCP 握手协议还原'
+      url: https://bbs.kanxue.com/thread-290459.htm
+    - author: Solar安全
+      release_time: 2026.03.21 17:01:02
+      title: '[原创] Solar勒索软件威胁态势与防护实践年度报告(2025)'
+      url: https://bbs.kanxue.com/thread-290426.htm
+    - author: zemu137
+      release_time: 2026.03.21 17:01:02
+      title: '[原创]H2 Database及其三个CVE详细分析'
+      url: https://bbs.kanxue.com/thread-290438.htm
+    - author: n_pc
+      release_time: 2026.03.20 17:01:02
+      title: '[分享]记一次渗透测试练习，DarkHole_2靶场实践，涉及对.git文件的处理，sql注入及利用sudo提权，超详细'
+      url: https://bbs.kanxue.com/thread-290419.htm
+    - author: Hacker_0
+      release_time: 2026.03.20 17:01:02
+      title: '[讨论]iOS DarkSword 漏洞深度分析报告'
+      url: https://bbs.kanxue.com/thread-290421.htm
+    - author: GhHei
+      release_time: 2026.03.20 17:01:02
+      title: '[原创]Android-SO复杂VMP的分析思路'
+      url: https://bbs.kanxue.com/thread-290412.htm
+    - author: xiaowaaa
+      release_time: 2026.03.20 17:01:02
+      title: '[原创]SVCMonitor内核模块'
+      url: https://bbs.kanxue.com/thread-290420.htm
     - author: 考古学家lx(李玺)
       release_time: 2026.03.20 15:59:15
       title: 一文搭建免费的AI逆向工具链
       url: https://blog.csdn.net/weixin_43582101/article/details/159248103
+    - author: 扁舟·TF
+      release_time: 2026.03.20 10:20:32
+      title: 'VirtuaBox: 修改 Host-Only 网络的 IP 地址'
+      url: https://blog.csdn.net/weixin_44791631/article/details/159278679
     - author: 云*3
       release_time: 2026.03.19 22:03:00
       title: Frida魔改反检测初探
@@ -390,6 +459,10 @@
       release_time: 2026.03.18 21:17:24
       title: 高性能 ARM64 执行 trace 可视化分析工具—— trace-ui
       url: https://blog.csdn.net/qq523176585/article/details/159237439
+    - author: 八月欢喜
+      release_time: 2026.03.18 18:27:15
+      title: 某Instagram 私信实时监控技术实现与逆向分析
+      url: https://blog.csdn.net/weixin_52283613/article/details/159211635
     - author: 考古学家lx(李玺)
       release_time: 2026.03.18 09:52:12
       title: Revula-逆向工具链路自动化MCP服务
@@ -398,6 +471,10 @@
       release_time: 2026.03.18 09:47:03
       title: Cloudflare推出浏览器渲染服务
       url: https://blog.csdn.net/weixin_43582101/article/details/159200695
+    - author: Python成长路
+      release_time: 2026.03.17 09:24:07
+      title: 在vscode copilot里使用IDA mcp
+      url: https://blog.csdn.net/Qwertyuiop2016/article/details/159156130
     - author: 悦来客栈的老板
       release_time: 2026.03.16 17:28:48
       title: JS逆向实战|使用AI分析猿人学第二届第三题的token加密参数
@@ -406,90 +483,14 @@
       release_time: 2026.03.14 18:33:48
       title: 高并发数据采集：隧道代理池架构设计与实现
       url: https://blog.csdn.net/weixin_47115747/article/details/159049192
-    - author: 八月欢喜
-      release_time: 2026.03.11 16:57:46
-      title: TikTok 私信实时交互客户端：从逆向到实现指南
-      url: https://blog.csdn.net/weixin_52283613/article/details/158929855
-    - author: Python成长路
-      release_time: 2026.03.10 17:03:23
-      title: 微信如何自动下载群聊里的图片
-      url: https://blog.csdn.net/Qwertyuiop2016/article/details/158888492
-    - author: Tasfa
-      release_time: 2026.03.09 11:50:46
-      title: 【Attention系列】SWA:滑动窗口注意力机制
-      url: https://blog.csdn.net/qq_30135181/article/details/158840933
-    - author: Tasfa
-      release_time: 2026.03.09 11:11:28
-      title: 【AI系列】从零开始学习大模型GPT (3)- Build a Large Language Model (From Scratch)
-      url: https://blog.csdn.net/qq_30135181/article/details/158840047
-    - author: Python成长路
-      release_time: 2026.03.09 10:28:44
-      title: 如何自动同意微信好友请求
-      url: https://blog.csdn.net/Qwertyuiop2016/article/details/158838990
-    - author: 移动安全星球
-      release_time: 2026.03.09 08:59:46
-      title: OpenClaw 安装与排错完整笔记（实战记录）
-      url: https://mspsecurity.blog.csdn.net/article/details/158837107
-    - author: 吴秋霖
-      release_time: 2026.03.07 20:54:58
-      title: 某短视频无水印下载逆向分析
-      url: https://crawler.blog.csdn.net/article/details/158701077
-    - author: 悦来客栈的老板
-      release_time: 2026.03.05 11:30:13
-      title: JS反混淆的艺术：在混乱中重构代码之美(二)
-      url: https://blog.csdn.net/qq523176585/article/details/158721257
-    - author: 吴秋霖
-      release_time: 2026.03.04 22:16:11
-      title: pdd小程序纯算逆向分析（codex版）
-      url: https://crawler.blog.csdn.net/article/details/158498163
-    - author: Python成长路
-      release_time: 2026.03.02 11:29:27
-      title: 如何实时监听并通知公众号的发文
-      url: https://blog.csdn.net/Qwertyuiop2016/article/details/158572484
-    - author: 用户yO5Jq1o1mI
-      release_time: 2026.03.01 22:55:00
-      title: APatch部署及KPM实现InlineHook及SyscallHook技术
-      url: https://xz.aliyun.com/news/91659
-    - author: 爱喝水的木子
-      release_time: 2026.02.26 16:43:44
-      title: Openclaw安装与配置_精简
-      url: https://blog.csdn.net/Linux_rm_rf_/article/details/158427443
-    - author: w2sfot
-      release_time: 2026.02.25 14:21:37
-      title: 加密html网页中的JS代码
-      url: https://blog.csdn.net/w2sft/article/details/158385316
-    - author: 扁舟·TF
-      release_time: 2026.02.21 12:19:39
-      title: 老式播放器 - SD卡MP3歌曲顺序错乱问题解决
-      url: https://blog.csdn.net/weixin_44791631/article/details/158262513
-    - author: 吴秋霖
-      release_time: 2026.02.12 21:00:00
-      title: apple游客下单逆向分析
-      url: https://crawler.blog.csdn.net/article/details/157973513
-    - author: 狗都不学爬虫_
-      release_time: 2026.02.11 23:31:48
-      title: JS逆向 - 某住会同盾blackbox纯算分析
-      url: https://blog.csdn.net/qq_53444631/article/details/157980479
-    - author: 爱喝水的木子
-      release_time: 2026.02.11 16:43:15
-      title: windows超级好用的神仙软件
-      url: https://blog.csdn.net/Linux_rm_rf_/article/details/157976645
-    - author: 吴秋霖
-      release_time: 2026.02.11 12:48:22
-      title: md5_1038参数逆向分析（含Py纯算）
-      url: https://crawler.blog.csdn.net/article/details/157648940
-    - author: 悦来客栈的老板
-      release_time: 2026.02.09 17:44:34
-      title: JS反混淆的艺术：在混乱中重构代码之美(一)
-      url: https://blog.csdn.net/qq523176585/article/details/157924023
-    - author: 扁舟·TF
-      release_time: 2026.02.08 10:17:47
-      title: android 浏览器web端调试配置
-      url: https://blog.csdn.net/weixin_44791631/article/details/157869599
     - author: 九月镇灵将
-      release_time: 2026.02.07 14:54:20
-      title: 基于resnet50图像分类实现九宫格图像验证码识别（大模型辅助训练）
-      url: https://blog.csdn.net/weixin_43845191/article/details/157806885
+      release_time: 2026.03.14 13:22:26
+      title: windows借助charles通过USB网络通信实现应用抓包
+      url: https://blog.csdn.net/weixin_43845191/article/details/159046447
+    - author: 井蛙不可语于海
+      release_time: 2026.03.13 22:54:24
+      title: 腾讯六宫格验证码破解
+      url: https://blog.csdn.net/qq_39802740/article/details/159018816
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
