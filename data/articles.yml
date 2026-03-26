@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.03.26 19:19:58
+      title: 项目推荐 | 专注于PHP代码审计的Skill
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489874&idx=1&sn=f2ed5f41722e6264fb05416211d90be4
+    - author: 进击的HACK
+      release_time: 2026.03.26 19:19:58
+      title: 供应链预警｜LiteLLM、Apifox两起供应链投毒事件，请尽快应急
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489874&idx=2&sn=39a4426560181e8eb868d45ce7e05dfb
     - author: 个人信息与数据保护实务评论
       release_time: 2026.03.26 16:45:17
       title: 名人医疗文件疑遭泄露引关注，涉嫌侵犯患者个人信息与隐私权
@@ -236,14 +244,6 @@
       release_time: 2026.03.24 22:07:19
       title: 四款文件上传绕过工具
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489860&idx=1&sn=13d80a45f857a437307425bda4492648
-    - author: 未闻Code
-      release_time: 2026.03.24 20:23:04
-      title: OpenClaw 大更新：插件市场上线，/btw 侧边提问，AI agent 从工具变成了平台
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991534&idx=1&sn=6b048e7d052852d7aaa8224e35d514f9
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.03.24 16:36:17
-      title: 《促进和规范数据跨境流动规定》实施两周年 数据出境安全管理工作再上新台阶
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519938&idx=1&sn=0027f7bb94353891b6c7a1a110585bb9
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
