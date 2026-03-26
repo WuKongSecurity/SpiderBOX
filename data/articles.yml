@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2026.03.26 09:33:26
+      title: 安卓逆向 -- 某简单app绕检测
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041618&idx=1&sn=55a17ae196da3a4a79829f0bfe0408b5
+    - author: 泡泡以安
+      release_time: 2026.03.26 09:09:00
+      title: 字节系音乐产品 SSL Pinning 逆向分析与抓包方案
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485822&idx=1&sn=29b86f05119892bf4445003b70597c7a
+    - author: Coder小Q
+      release_time: 2026.03.26 08:30:00
+      title: 【量子计算】向量与线性代数基础：从量子态到量子门
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247494837&idx=1&sn=b348224d0202657811e62777f6a04992
+    - author: 吾爱破解论坛
+      release_time: 2026.03.26 08:13:00
+      title: AIDA64 8.25.8200 Business 逆向工程与Keygen实战
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143991&idx=1&sn=8721fe93154f30d3c405ba980ba2df5d
     - author: 零基础爬虫第一天
       release_time: 2026.03.25 22:12:02
       title: 【khbox-16】KhBox 增加 jQuery功能
@@ -228,22 +244,6 @@
       release_time: 2026.03.24 09:58:57
       title: SukiSU(Root隐藏绕过强检测)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499926&idx=1&sn=701da7506a6186812d0860edd1027b8b
-    - author: Python成长路
-      release_time: 2026.03.24 09:38:29
-      title: 你真的需要养一只龙虾(openclaw)吗
-      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486064&idx=1&sn=c9f7eab804b2a5546ce581751b596c7b
-    - author: 泡泡以安
-      release_time: 2026.03.24 09:09:00
-      title: 安卓 App 抓包实战指南：从基础原理到内核级对抗
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485732&idx=1&sn=0c36cdefc0aa1827d12a0783fc762b35
-    - author: 如意私塾
-      release_time: 2026.03.23 23:30:04
-      title: 美国海军研究生院实战：你敲键盘的时间间隔就是你电脑的身份证——3亿次按键、22.8万台设备、打字两分钟就能锁定你
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484236&idx=1&sn=e909392d78d0ed555d792e17ef147824
-    - author: 进击的HACK
-      release_time: 2026.03.23 19:48:52
-      title: 一次基于Struts框架项目的代码审计
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489856&idx=1&sn=0f28ae65a865395699de76090acc4a50
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
