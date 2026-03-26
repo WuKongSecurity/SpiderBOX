@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 無色逆向
+      release_time: 2026.03.26 10:55:03
+      title: 我用一句话让AI逆向出WASM中的加密算法
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MjYyNTgxMQ==&mid=2247484657&idx=1&sn=0b5350272842856b421ee745a80becae
     - author: 逆向有你
       release_time: 2026.03.26 09:33:26
       title: 安卓逆向 -- 某简单app绕检测
@@ -240,10 +244,6 @@
       release_time: 2026.03.24 10:41:06
       title: 使⽤ AI 实现 最新版本 Flutter HTTPS 明⽂抓包
       url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550192&idx=1&sn=881d7129c63834391ecbc0ee11c16fa3
-    - author: 哆啦安全
-      release_time: 2026.03.24 09:58:57
-      title: SukiSU(Root隐藏绕过强检测)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499926&idx=1&sn=701da7506a6186812d0860edd1027b8b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
