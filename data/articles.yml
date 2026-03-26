@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2026.03.26 20:25:15
+      title: 【DrissionPageSkill】-让你的AI化身DrissionPage大师
+      url: https://www.bilibili.com/video/BV1UXXWBUEfV
     - author: EithanSolace
       release_time: 2026.03.25 17:35:32
       title: 密码学补完计划[第三十期] SHA-2
@@ -117,10 +121,6 @@
       release_time: 2026.03.12 23:25:56
       title: 只用了10天？JavaScript 如何从“临时工”变成世界之王
       url: https://www.bilibili.com/video/BV1zjcyzVE4s
-    - author: 猿人学
-      release_time: 2026.03.12 14:19:27
-      title: 2026.3.7 猿人学小伙伴成都聚会花絮-汇聚中国爬虫er
-      url: https://www.bilibili.com/video/BV1VFcrztEfN
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 1JEY
+      release_time: 2026.03.26 15:29:00
+      title: 文字点选及语序点选验证码识别方案
+      url: https://www.52pojie.cn/thread-2099515-1-1.html
     - author: n1ng
       release_time: 2026.03.25 15:32:00
       title: 从0到1构建一个Hook工具之Java Hook篇（三）
@@ -363,10 +367,6 @@
       release_time: 2026.03.05 00:49:00
       title: 记一次Android底层音频PCM注入
       url: https://www.52pojie.cn/thread-2094538-1-1.html
-    - author: epiphanyep
-      release_time: 2026.03.04 17:40:00
-      title: 【Web逆向】小白之路-极验4滑块
-      url: https://www.52pojie.cn/thread-2094469-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
