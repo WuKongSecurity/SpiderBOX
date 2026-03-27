@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: 2026.03.27 12:24:14
+      title: 二进制磨剑靶场 | 免费限时开启 | App 流量与数据采集
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486024&idx=1&sn=d6d4002bc4b84374d69725f0389b6db7
+    - author: 哆啦安全
+      release_time: 2026.03.27 11:56:43
+      title: Android设备取证V2.7(修复Bug)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499950&idx=1&sn=967a28e3c42f6433959d8b4163545db3
     - author: 反爬破解社
       release_time: 2026.03.27 10:18:16
       title: Chrome开发者工具指南-Hook篇
@@ -236,14 +244,6 @@
       release_time: 2026.03.25 16:29:20
       title: 全国总工会等四部门联合印发《平台劳动规则和算法协商指引（试行）》
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519941&idx=2&sn=1f2d0dd485674ae28503fd574fcb7905
-    - author: 沐阳逆向学习
-      release_time: 2026.03.25 14:55:11
-      title: iOS逆向_古法逆向_Instagram最新版抓包
-      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484544&idx=1&sn=b893224452c8f468bad608af47638c7d
-    - author: 逆向有你
-      release_time: 2026.03.25 14:17:04
-      title: JS逆向 -- 某视频逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041605&idx=1&sn=4b5242f7d5b1e71ef84e4c48540bbb49
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
