@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: dddd0526
+      release_time: 2026.03.27 17:21:00
+      title: 最新版某货app bypassFrida检测
+      url: https://www.52pojie.cn/thread-2099769-1-1.html
     - author: 1JEY
       release_time: 2026.03.26 15:29:00
       title: 文字点选及语序点选验证码识别方案
@@ -363,10 +367,6 @@
       release_time: 2026.03.05 16:01:00
       title: 【Web逆向】智慧酒店-滑块底图还原
       url: https://www.52pojie.cn/thread-2094667-1-1.html
-    - author: mignonRex
-      release_time: 2026.03.05 00:49:00
-      title: 记一次Android底层音频PCM注入
-      url: https://www.52pojie.cn/thread-2094538-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
