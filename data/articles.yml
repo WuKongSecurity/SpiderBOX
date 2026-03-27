@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.03.27 19:25:16
+      title: 通过浏览器探测CPU指纹
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484264&idx=1&sn=9d6391b6c588d5e353bbc9826872312a
     - author: 进击的HACK
       release_time: 2026.03.27 18:00:29
       title: 用小程序跳转工具测未授权和越权思路
@@ -240,10 +244,6 @@
       release_time: 2026.03.25 18:44:07
       title: Android逆向反混淆方法(mapping.txt)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499936&idx=1&sn=b6368c4c714963a90b851c66a8d479d1
-    - author: 虫迹追踪
-      release_time: 2026.03.25 16:54:33
-      title: chrome-devtools-mcp不能远程调试的问题
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDU2MTYwMQ==&mid=2247485309&idx=1&sn=c6dd2fb70b739da79adb3bef52bf807e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
