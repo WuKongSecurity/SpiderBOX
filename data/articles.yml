@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 泡泡以安
+      release_time: 2026.03.27 09:09:00
+      title: DES 加密算法详解：从原理到安卓逆向实战
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485876&idx=1&sn=1d1043ac63d69f2fd717aab7171bb08d
+    - author: 吾爱破解论坛
+      release_time: 2026.03.27 08:47:12
+      title: SourceInsight4.0 最新4.00.0150 2026版本 破解分析
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144017&idx=1&sn=32caa5562058036a673f43eb55cc78c5
+    - author: Coder小Q
+      release_time: 2026.03.27 08:30:00
+      title: 【量子计算】概率论基础：从经典随机到量子干涉
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247494874&idx=1&sn=a7a5f7c481f5fce2d95d3d200c549725
+    - author: Python成长路
+      release_time: 2026.03.27 08:10:00
+      title: 如何导出微信群成员列表
+      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486071&idx=1&sn=ee32d80434d7b808bb508b3256e0155c
     - author: 菜鸟学Python编程
       release_time: 2026.03.26 21:00:00
       title: AI逆向|逆向反混淆练习平台第一题加密参数并获取数据
@@ -228,22 +244,6 @@
       release_time: 2026.03.25 13:33:50
       title: 焚诀 | Codex 道德审查绕过(逆向工程/安全测试) | 测试可用
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486018&idx=1&sn=1976980d2fbc78c23005e132df109101
-    - author: 挖个洞先
-      release_time: 2026.03.25 12:00:00
-      title: 【漏洞案例】越权之修改HTML+CE绕过签名校验
-      url: https://mp.weixin.qq.com/s?__biz=MzkyNjY3OTI4Ng==&mid=2247485973&idx=1&sn=d1e82c172405c2bf529438dd579a7d5e
-    - author: 泡泡以安
-      release_time: 2026.03.25 09:09:00
-      title: TEA 加密算法逆向全攻略：从原理到实战密钥提取
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485787&idx=1&sn=1613ed16907371e9bb850656400e22a2
-    - author: Coder小Q
-      release_time: 2026.03.25 08:30:00
-      title: 【量子计算】复数与三角函数：从旋转到量子概率
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247494778&idx=1&sn=0610bc0e51d848250e16bdbe87b6a0dc
-    - author: 吾爱破解论坛
-      release_time: 2026.03.25 08:30:00
-      title: Sublime许可证分析：RSA PKCS#1标准详解+跨平台Keygen [开源]
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143977&idx=1&sn=07db810d1eaea586a0878f565f2be6c3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
