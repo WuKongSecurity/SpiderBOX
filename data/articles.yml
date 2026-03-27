@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 小爬菜咦
+      release_time: 2026.03.27 15:40:43
+      title: h5st vmp反编译纯算教程
+      url: https://www.bilibili.com/video/BV1bFXPBWEgz
     - author: B站用户骚神
       release_time: 2026.03.26 20:25:15
       title: 【DrissionPageSkill】-让你的AI化身DrissionPage大师
@@ -117,10 +121,6 @@
       release_time: 2026.03.12 23:32:02
       title: 12福星vs14福星8-1决胜局挑战手机的极限
       url: https://www.bilibili.com/video/BV1r5cyzyECw
-    - author: 冷月不是程序员
-      release_time: 2026.03.12 23:25:56
-      title: 只用了10天？JavaScript 如何从“临时工”变成世界之王
-      url: https://www.bilibili.com/video/BV1zjcyzVE4s
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
