@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 反爬破解社
+      release_time: 2026.03.27 10:18:16
+      title: Chrome开发者工具指南-Hook篇
+      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483828&idx=1&sn=ebcaf45036a73af8353642bfc94501a2
+    - author: 反爬破解社
+      release_time: 2026.03.27 10:18:16
+      title: 办公室老油条的加班日常
+      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483828&idx=2&sn=9c0c4c95c59751118f24ae324ed4f113
     - author: 泡泡以安
       release_time: 2026.03.27 09:09:00
       title: DES 加密算法详解：从原理到安卓逆向实战
@@ -236,14 +244,6 @@
       release_time: 2026.03.25 14:17:04
       title: JS逆向 -- 某视频逆向分析
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041605&idx=1&sn=4b5242f7d5b1e71ef84e4c48540bbb49
-    - author: 如意私塾
-      release_time: 2026.03.25 13:38:11
-      title: 纯用纯CSS和HTML的浏览器指纹检测方案
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484241&idx=1&sn=fd25aca68c507cf1a2a6120c27d3e438
-    - author: 二进制磨剑
-      release_time: 2026.03.25 13:33:50
-      title: 焚诀 | Codex 道德审查绕过(逆向工程/安全测试) | 测试可用
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486018&idx=1&sn=1976980d2fbc78c23005e132df109101
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
