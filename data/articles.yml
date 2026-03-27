@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: coderwhy
+      release_time: 2026.03.27 15:31:51
+      title: 你好OpenClaw，再见OpenClaw？
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247489088&idx=1&sn=7a978112b83905da59713a77ffb48bc2
     - author: 二进制磨剑
       release_time: 2026.03.27 12:24:14
       title: 二进制磨剑靶场 | 免费限时开启 | App 流量与数据采集
@@ -240,10 +244,6 @@
       release_time: 2026.03.25 16:29:20
       title: 马自达通报数据安全事件：员工和合作伙伴数据遭泄露
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519941&idx=1&sn=8c219f56facbd484687d84caeec293b1
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.03.25 16:29:20
-      title: 全国总工会等四部门联合印发《平台劳动规则和算法协商指引（试行）》
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519941&idx=2&sn=1f2d0dd485674ae28503fd574fcb7905
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
