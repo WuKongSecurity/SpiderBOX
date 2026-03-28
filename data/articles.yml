@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 卡卡卡骨
+      release_time: 2026.03.28 11:37:59
+      title: AI+ttd反向污点分析(mcp) 破解ollvm混淆
+      url: https://www.bilibili.com/video/BV1QbXVBsEqb
+    - author: B站用户骚神
+      release_time: 2026.03.28 10:31:38
+      title: 【SaoPage V2】新增人类鼠标轨迹和滑块验证码自动识别
+      url: https://www.bilibili.com/video/BV1LvXgB9Eru
     - author: 小爬菜咦
       release_time: 2026.03.27 15:40:43
       title: h5st vmp反编译纯算教程
@@ -113,14 +121,6 @@
       release_time: 2026.03.13 18:18:26
       title: 代码录制、逆向封印破解、一键复制-骚神插件9.7.9新鲜出炉！！
       url: https://www.bilibili.com/video/BV1MgcDzkEEh
-    - author: tomysky0409
-      release_time: 2026.03.13 10:25:09
-      title: 验证码思路分享2-pdd空间推理
-      url: https://www.bilibili.com/video/BV1znc2zEEh6
-    - author: 珍惜Any
-      release_time: 2026.03.12 23:32:02
-      title: 12福星vs14福星8-1决胜局挑战手机的极限
-      url: https://www.bilibili.com/video/BV1r5cyzyECw
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
