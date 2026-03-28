@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 魔影-马
+      release_time: 2026.03.28 13:03:21
+      title: 不知道该更啥了
+      url: https://www.bilibili.com/video/BV1JeXGBAEqM
     - author: 卡卡卡骨
       release_time: 2026.03.28 11:37:59
       title: AI+ttd反向污点分析(mcp) 破解ollvm混淆
@@ -117,10 +121,6 @@
       release_time: 2026.03.13 23:05:09
       title: Android逆向学习
       url: https://www.bilibili.com/video/BV1pXwEz2ELS
-    - author: B站用户骚神
-      release_time: 2026.03.13 18:18:26
-      title: 代码录制、逆向封印破解、一键复制-骚神插件9.7.9新鲜出炉！！
-      url: https://www.bilibili.com/video/BV1MgcDzkEEh
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
