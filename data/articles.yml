@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 逆向学习之旅
+      release_time: 2026.03.28 20:36:19
+      title: 京东E卡变速滑块验证码
+      url: https://blog.csdn.net/qq_44657571/article/details/159585860
     - author: Python成长路
       release_time: 2026.03.28 15:45:55
       title: 通过群聊批量对微信好友进行标签分类
@@ -487,10 +491,6 @@
       release_time: 2026.03.18 18:27:15
       title: 某Instagram 私信实时监控技术实现与逆向分析
       url: https://blog.csdn.net/weixin_52283613/article/details/159211635
-    - author: 考古学家lx(李玺)
-      release_time: 2026.03.18 09:52:12
-      title: Revula-逆向工具链路自动化MCP服务
-      url: https://blog.csdn.net/weixin_43582101/article/details/159200835
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
