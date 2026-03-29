@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: lccccccc
+      release_time: 2026.03.29 09:03:00
+      title: 某地图绘制网站pro版本授权分析
+      url: https://www.52pojie.cn/thread-2100029-1-1.html
     - author: dddd0526
       release_time: 2026.03.27 17:21:00
       title: 最新版某货app bypassFrida检测
@@ -363,17 +367,25 @@
       release_time: 2026.03.05 18:00:00
       title: cctv视频解密，wasm vmp分析
       url: https://www.52pojie.cn/thread-2094716-1-1.html
-    - author: epiphanyep
-      release_time: 2026.03.05 16:01:00
-      title: 【Web逆向】智慧酒店-滑块底图还原
-      url: https://www.52pojie.cn/thread-2094667-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 和沐阳学逆向
+      release_time: 2026.03.28 22:50:39
+      title: 我现在怎么用 CC Switch 管中转站，顺手拿 Codex 举个例子
+      url: https://blog.csdn.net/qq_41155858/article/details/159587233
     - author: 孤木落
       release_time: 2026.03.28 22:49:05
       title: '[原创]Native层binder与syscall代理技术'
       url: https://bbs.kanxue.com/thread-290553.htm
+    - author: 和沐阳学逆向
+      release_time: 2026.03.28 22:47:22
+      title: iOS逆向_古法逆向_Instagram最新版抓包
+      url: https://blog.csdn.net/qq_41155858/article/details/159587092
+    - author: 和沐阳学逆向
+      release_time: 2026.03.28 22:25:18
+      title: 断层碾压 Opus！Anthropic 最强模型泄露，代号「卡皮巴拉」
+      url: https://blog.csdn.net/qq_41155858/article/details/159586849
     - author: 逆向学习之旅
       release_time: 2026.03.28 20:36:19
       title: 京东E卡变速滑块验证码
@@ -479,18 +491,6 @@
       release_time: 2026.03.20 15:59:15
       title: 一文搭建免费的AI逆向工具链
       url: https://blog.csdn.net/weixin_43582101/article/details/159248103
-    - author: 扁舟·TF
-      release_time: 2026.03.20 10:20:32
-      title: 'VirtuaBox: 修改 Host-Only 网络的 IP 地址'
-      url: https://blog.csdn.net/weixin_44791631/article/details/159278679
-    - author: 云*3
-      release_time: 2026.03.19 22:03:00
-      title: Frida魔改反检测初探
-      url: https://xz.aliyun.com/news/91799
-    - author: 悦来客栈的老板
-      release_time: 2026.03.18 21:17:24
-      title: 高性能 ARM64 执行 trace 可视化分析工具—— trace-ui
-      url: https://blog.csdn.net/qq523176585/article/details/159237439
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
