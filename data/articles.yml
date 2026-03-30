@@ -124,6 +124,78 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.03.30 11:23:13
+      title: AndroidManifest处理工具V1.0
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499990&idx=1&sn=281f193f0e8fc275f36ae39b7c290d98
+    - author: 菜鸟学Python编程
+      release_time: 2026.03.30 10:01:17
+      title: JS逆向|猿人学逆向反混淆练习平台第三题逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566378&idx=1&sn=67302800d76026cccbedf43346a29678
+    - author: 布鲁的Python之旅
+      release_time: 2026.03.30 10:00:00
+      title: TaskPyro “小龙虾版本”专业爬虫管理平台来了：AI+分布式+IM 机器人，一套搞定企业级爬虫调度
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486354&idx=1&sn=8f81a36cf3566b23de1cea579e1c7cc8
+    - author: 泡泡以安
+      release_time: 2026.03.30 09:09:00
+      title: Frida进阶——指令级追踪工具 Stalker 使用教程
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485887&idx=1&sn=3bce8e967e8adb8c5729ca9a9013cd7a
+    - author: 二进制磨剑
+      release_time: 2026.03.30 08:30:00
+      title: Android 类抽取壳的实现：让代码在内存中也"残缺不全"
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486029&idx=1&sn=a948be2c3ed5ececd2b4b3d239cfce4f
+    - author: 二进制磨剑
+      release_time: 2026.03.30 08:30:00
+      title: 第七期 | iOS 逆向工程 — 从零基础到实战对抗
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486029&idx=2&sn=43ab0b027ca21c134d73569406cb8477
+    - author: 测试工程师成长之路
+      release_time: 2026.03.30 08:30:00
+      title: 告别 Postman？这款嵌入 Chrome DevTools 的神器，让 API 调试效率翻倍！
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578835&idx=1&sn=0914079e83fad517bff56805e3372b93
+    - author: Coder小Q
+      release_time: 2026.03.30 08:30:00
+      title: 【量子计算】经典计算基础：从比特到可逆计算
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247494941&idx=1&sn=55bc78298b4c1a4a38a088d66920fa7f
+    - author: 吾爱破解论坛
+      release_time: 2026.03.30 08:12:00
+      title: 【2026春节领红包】解题过程，纯手工分析（第八题、第十题未解出
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144146&idx=1&sn=46f307dd70f4af1ffac9fc85baac5313
+    - author: Python成长路
+      release_time: 2026.03.30 08:00:00
+      title: 教大家对多个微信群聊进行成员去重
+      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486085&idx=1&sn=6611b3be5983304e093d740951d7f805
+    - author: 进击的HACK
+      release_time: 2026.03.29 22:39:54
+      title: JS逆向学习 | 01  js 混淆 源码乱码
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489885&idx=1&sn=09b24d0a0d61894e33f4c3ac9e636b20
+    - author: 菜鸟学Python编程
+      release_time: 2026.03.29 21:00:00
+      title: JS逆向|逆向反混淆练习平台第二题加密参数并获取数据
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566372&idx=1&sn=0b8596a1b6bed4b01023d13ee4f24b05
+    - author: 大数据安全技术学习
+      release_time: 2026.03.29 21:00:00
+      title: AI手机：03.Lineage23安卓16源码编译刷机
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486125&idx=1&sn=f901fa6ee67593482ccf137d2639574b
+    - author: 大数据安全技术学习
+      release_time: 2026.03.29 21:00:00
+      title: APP2025.18.不写一行代码frida/r0captur更新到支持17
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486125&idx=2&sn=6106300a57a7faaf7b031b9b2aa80bcf
+    - author: 大数据安全技术学习
+      release_time: 2026.03.29 21:00:00
+      title: 奋斗者计划，助你升职加薪|阿里云、米哈游、阿里巴巴直推
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486125&idx=3&sn=623bd9fb7b9773075abc40f06875735f
+    - author: 大数据安全技术学习
+      release_time: 2026.03.29 21:00:00
+      title: 《FRIDA手撕海外企业壳》线下高级课深圳场12月14日火爆现场~
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486125&idx=4&sn=38abfa94e2015c9c50683b0ae6f3201c
+    - author: 哆啦安全
+      release_time: 2026.03.29 10:43:03
+      title: 一键转储Unity IL2CPP游戏数据的工具
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499979&idx=1&sn=fab463a43119690cf3b705fbfef1a197
+    - author: 哆啦安全
+      release_time: 2026.03.28 09:58:56
+      title: OpenClaw安全防护平台V1.2
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499972&idx=1&sn=126b49e9c9efb2881344f01196a30af2
     - author: 如意私塾
       release_time: 2026.03.27 19:25:16
       title: 通过浏览器探测CPU指纹
@@ -132,6 +204,10 @@
       release_time: 2026.03.27 18:00:29
       title: 用小程序跳转工具测未授权和越权思路
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489879&idx=1&sn=088cdfbe0902178124d84458cea8692b
+    - author: AI爬盒
+      release_time: 2026.03.27 16:06:45
+      title: GPT提示词，让AI接管WEB和APP逆向
+      url: https://mp.weixin.qq.com/s?__biz=MzcwMzIxNDAxMQ==&mid=2247483699&idx=1&sn=2e8150e2f09fb25b8c1e687dae31a64c
     - author: coderwhy
       release_time: 2026.03.27 15:31:51
       title: 你好OpenClaw，再见OpenClaw？
@@ -168,82 +244,6 @@
       release_time: 2026.03.27 08:10:00
       title: 如何导出微信群成员列表
       url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486071&idx=1&sn=ee32d80434d7b808bb508b3256e0155c
-    - author: 菜鸟学Python编程
-      release_time: 2026.03.26 21:00:00
-      title: AI逆向|逆向反混淆练习平台第一题加密参数并获取数据
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566364&idx=1&sn=aa6caf97ee407a8cca045fed8d21ac84
-    - author: 进击的HACK
-      release_time: 2026.03.26 19:19:58
-      title: 项目推荐 | 专注于PHP代码审计的Skill
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489874&idx=1&sn=f2ed5f41722e6264fb05416211d90be4
-    - author: 进击的HACK
-      release_time: 2026.03.26 19:19:58
-      title: 供应链预警｜LiteLLM、Apifox两起供应链投毒事件，请尽快应急
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489874&idx=2&sn=39a4426560181e8eb868d45ce7e05dfb
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.03.26 16:45:17
-      title: 名人医疗文件疑遭泄露引关注，涉嫌侵犯患者个人信息与隐私权
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519947&idx=1&sn=861359759c80adc8f353699204d16bed
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.03.26 16:45:17
-      title: 福建自贸区首单数据出境负面清单备案落地
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519947&idx=2&sn=e8f929a36448a2d97f1cdbdc802daec8
-    - author: 如意私塾
-      release_time: 2026.03.26 15:53:50
-      title: 用文言文100% 越狱攻破 GPT-4o、Claude、Gemini
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484257&idx=1&sn=68176b3ee80884e2a6d77f7a1dcb6aa5
-    - author: 哆啦安全
-      release_time: 2026.03.26 12:01:01
-      title: Rizin基于浏览器的逆向工程平台
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499941&idx=1&sn=8392dd2044017fe73d6a0c3560c34187
-    - author: 無色逆向
-      release_time: 2026.03.26 10:55:03
-      title: 我用一句话让AI逆向出WASM中的加密算法
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MjYyNTgxMQ==&mid=2247484657&idx=1&sn=0b5350272842856b421ee745a80becae
-    - author: 逆向有你
-      release_time: 2026.03.26 09:33:26
-      title: 安卓逆向 -- 某简单app绕检测
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041618&idx=1&sn=55a17ae196da3a4a79829f0bfe0408b5
-    - author: 泡泡以安
-      release_time: 2026.03.26 09:09:00
-      title: 字节系音乐产品 SSL Pinning 逆向分析与抓包方案
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485822&idx=1&sn=29b86f05119892bf4445003b70597c7a
-    - author: Coder小Q
-      release_time: 2026.03.26 08:30:00
-      title: 【量子计算】向量与线性代数基础：从量子态到量子门
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247494837&idx=1&sn=b348224d0202657811e62777f6a04992
-    - author: 吾爱破解论坛
-      release_time: 2026.03.26 08:13:00
-      title: AIDA64 8.25.8200 Business 逆向工程与Keygen实战
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143991&idx=1&sn=8721fe93154f30d3c405ba980ba2df5d
-    - author: 零基础爬虫第一天
-      release_time: 2026.03.25 22:12:02
-      title: 【khbox-16】KhBox 增加 jQuery功能
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484316&idx=1&sn=d6e4ba4760cb7b216529ce8d62ee414b
-    - author: 零基础爬虫第一天
-      release_time: 2026.03.25 22:10:56
-      title: 【khbox-15】赋值window={} 修复
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484315&idx=1&sn=8c0cba9d9e0321c5be8e7654fa6334d9
-    - author: 零基础爬虫第一天
-      release_time: 2026.03.25 22:09:56
-      title: KhBox 拦截器原型链查找 Bug 修复记录
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484314&idx=1&sn=93f336075a76891f2df4edc2eaf59ed7
-    - author: 进击的HACK
-      release_time: 2026.03.25 21:13:28
-      title: 通过 AI-Skill 分析 flutter so 文件实现明文抓包以及生成frida脚本
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489868&idx=1&sn=41255280d44be074c2bc85664ac564e8
-    - author: 进击的HACK
-      release_time: 2026.03.25 21:13:28
-      title: 一个神奇的关注者
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489868&idx=2&sn=c6c98230928a93818bb5bc28407cd594
-    - author: 爬虫逆向小林哥
-      release_time: 2026.03.25 18:53:28
-      title: 【网页逆向】某书 xs-4.3.2版本变更跟进
-      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487193&idx=1&sn=9ee0e2684573c47a1d5a43af010b1920
-    - author: 哆啦安全
-      release_time: 2026.03.25 18:44:07
-      title: Android逆向反混淆方法(mapping.txt)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499936&idx=1&sn=b6368c4c714963a90b851c66a8d479d1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
