@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.03.30 20:35:22
+      title: 浏览器指纹变了怎么办？用阈值把前后串起来，追踪时间翻倍
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484269&idx=1&sn=9bab600bfaf91278a9ee48084f4ec7ef
     - author: 进击的HACK
       release_time: 2026.03.30 18:14:31
       title: 反编译小程序，补环境可在开发者工具运行
@@ -240,10 +244,6 @@
       release_time: 2026.03.27 11:56:43
       title: Android设备取证V2.7(修复Bug)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499950&idx=1&sn=967a28e3c42f6433959d8b4163545db3
-    - author: 反爬破解社
-      release_time: 2026.03.27 10:18:16
-      title: Chrome开发者工具指南-Hook篇
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483828&idx=1&sn=ebcaf45036a73af8353642bfc94501a2
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -255,6 +255,10 @@
       release_time: 2026.03.29 09:03:00
       title: 某地图绘制网站pro版本授权分析
       url: https://www.52pojie.cn/thread-2100029-1-1.html
+    - author: ShawDS
+      release_time: 2026.03.29 02:14:00
+      title: 【安卓逆向入门】风云格式工厂6.8.1去广告Xposed模块思路
+      url: https://www.52pojie.cn/thread-2100014-1-1.html
     - author: dddd0526
       release_time: 2026.03.27 17:21:00
       title: 最新版某货app bypassFrida检测
@@ -363,10 +367,6 @@
       release_time: 2026.03.08 10:16:00
       title: 某讯会员思路分析
       url: https://www.52pojie.cn/thread-2095199-1-1.html
-    - author: xww2652008969
-      release_time: 2026.03.08 01:49:00
-      title: 某网站视频接口漏洞分析
-      url: https://www.52pojie.cn/thread-2095178-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
