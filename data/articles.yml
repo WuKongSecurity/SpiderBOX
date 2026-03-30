@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.03.30 18:14:31
+      title: 反编译小程序，补环境可在开发者工具运行
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489890&idx=1&sn=fba830b6aeba4d8e1263a1b59958f233
     - author: x1a0f3n9
       release_time: 2026.03.30 14:24:33
       title: 魔改unidbg：极致的trace速度提升
@@ -204,6 +208,10 @@
       release_time: 2026.03.29 10:43:03
       title: 一键转储Unity IL2CPP游戏数据的工具
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499979&idx=1&sn=fab463a43119690cf3b705fbfef1a197
+    - author: 进击的HACK
+      release_time: 2026.03.28 22:06:19
+      title: 把小程序当Web测 || 实战案例深度拆解路由跳转中的权限漏洞挖掘
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489881&idx=1&sn=b2bdda0b4511f4bbd4bdee3590dad730
     - author: 哆啦安全
       release_time: 2026.03.28 09:58:56
       title: OpenClaw安全防护平台V1.2
@@ -236,14 +244,6 @@
       release_time: 2026.03.27 10:18:16
       title: Chrome开发者工具指南-Hook篇
       url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483828&idx=1&sn=ebcaf45036a73af8353642bfc94501a2
-    - author: 反爬破解社
-      release_time: 2026.03.27 10:18:16
-      title: 办公室老油条的加班日常
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483828&idx=2&sn=9c0c4c95c59751118f24ae324ed4f113
-    - author: 泡泡以安
-      release_time: 2026.03.27 09:09:00
-      title: DES 加密算法详解：从原理到安卓逆向实战
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485876&idx=1&sn=1d1043ac63d69f2fd717aab7171bb08d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
