@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 随心记事
+      release_time: 2026.03.30 21:52:20
+      title: '[小记] 学习 MuMu模拟器 x-param-sign 响应验签链绕过'
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0NTMyNzI4MQ==&mid=2247484933&idx=1&sn=806adc7d7b6914a7f3adc74056597d65
     - author: 如意私塾
       release_time: 2026.03.30 20:35:22
       title: 浏览器指纹变了怎么办？用阈值把前后串起来，追踪时间翻倍
@@ -240,10 +244,6 @@
       release_time: 2026.03.27 12:24:14
       title: 二进制磨剑靶场 | 免费限时开启 | App 流量与数据采集
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486024&idx=1&sn=d6d4002bc4b84374d69725f0389b6db7
-    - author: 哆啦安全
-      release_time: 2026.03.27 11:56:43
-      title: Android设备取证V2.7(修复Bug)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499950&idx=1&sn=967a28e3c42f6433959d8b4163545db3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
