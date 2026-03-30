@@ -383,6 +383,10 @@
       title: AI逆向JS - 猿人学18题
       url: https://blog.csdn.net/m0_51159233/article/details/159642667
     - author: 悦来客栈的老板
+      release_time: 2026.03.30 10:04:50
+      title: JS逆向|猿人学逆向反混淆练习平台第三题逆向分析
+      url: https://blog.csdn.net/qq523176585/article/details/159661159
+    - author: 悦来客栈的老板
       release_time: 2026.03.29 21:00:36
       title: JS逆向|逆向反混淆练习平台第二题加密参数并获取数据
       url: https://blog.csdn.net/qq523176585/article/details/159620692
@@ -487,10 +491,6 @@
       release_time: 2026.03.21 17:01:02
       title: '[原创] Solar勒索软件威胁态势与防护实践年度报告(2025)'
       url: https://bbs.kanxue.com/thread-290426.htm
-    - author: zemu137
-      release_time: 2026.03.21 17:01:02
-      title: '[原创]H2 Database及其三个CVE详细分析'
-      url: https://bbs.kanxue.com/thread-290438.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
