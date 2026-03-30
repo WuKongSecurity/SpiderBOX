@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: x1a0f3n9
+      release_time: 2026.03.30 15:18:29
+      title: 魔改unidbg：极致的trace速度优化
+      url: https://www.bilibili.com/video/BV1ivXhB5EuD
     - author: 魔影-马
       release_time: 2026.03.28 13:03:21
       title: 不知道该更啥了
@@ -117,10 +121,6 @@
       release_time: 2026.03.14 08:37:57
       title: zp_stoken参数如何快速搞定并且稳定
       url: https://www.bilibili.com/video/BV1PEwpz4EoK
-    - author: 逆向狗都不学
-      release_time: 2026.03.13 23:05:09
-      title: Android逆向学习
-      url: https://www.bilibili.com/video/BV1pXwEz2ELS
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: misakibb
+      release_time: 2026.03.30 09:35:00
+      title: 主题Monokai Pro序列号算法分析
+      url: https://www.52pojie.cn/thread-2100203-1-1.html
     - author: lccccccc
       release_time: 2026.03.29 09:03:00
       title: 某地图绘制网站pro版本授权分析
@@ -363,10 +367,6 @@
       release_time: 2026.03.08 01:49:00
       title: 某网站视频接口漏洞分析
       url: https://www.52pojie.cn/thread-2095178-1-1.html
-    - author: 漁滒
-      release_time: 2026.03.05 18:00:00
-      title: cctv视频解密，wasm vmp分析
-      url: https://www.52pojie.cn/thread-2094716-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
