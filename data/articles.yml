@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 移动安全星球
+      release_time: 2026.03.31 18:00:00
+      title: 重生后我成了计算机-第1章 404 Not Found 与系统重载
+      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486483&idx=1&sn=daa3be1c1b3a53f635b3fbc656e989af
     - author: 个人信息与数据保护实务评论
       release_time: 2026.03.31 16:51:41
       title: 外媒聚焦世界数据组织（WDO）在北京成立，工作重点包括推动跨境数据治理国际规则
@@ -240,10 +244,6 @@
       release_time: 2026.03.29 10:43:03
       title: 一键转储Unity IL2CPP游戏数据的工具
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499979&idx=1&sn=fab463a43119690cf3b705fbfef1a197
-    - author: 进击的HACK
-      release_time: 2026.03.28 22:06:19
-      title: 把小程序当Web测 || 实战案例深度拆解路由跳转中的权限漏洞挖掘
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489881&idx=1&sn=b2bdda0b4511f4bbd4bdee3590dad730
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
