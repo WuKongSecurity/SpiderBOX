@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小伍哥聊风控
+      release_time: 2026.03.31 23:19:47
+      title: 花1299买课的两个粉丝，找我退下钱！
+      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650197106&idx=1&sn=91f41835bd1fd917f3b0121c3dd03938
     - author: 随心记事
       release_time: 2026.03.31 21:55:16
       title: Claude Code 51万行源码全网裸奔！Anthropic：我们终于成了“真·Open Claude”
@@ -240,10 +244,6 @@
       release_time: 2026.03.30 08:00:00
       title: 教大家对多个微信群聊进行成员去重
       url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486085&idx=1&sn=6611b3be5983304e093d740951d7f805
-    - author: 进击的HACK
-      release_time: 2026.03.29 22:39:54
-      title: JS逆向学习 | 01  js 混淆 源码乱码
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489885&idx=1&sn=09b24d0a0d61894e33f4c3ac9e636b20
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
