@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: R逆向
+      release_time: 2026.04.01 00:35:39
+      title: “Sentry” 反调试和环境检测的一个开源项目-CSDN博客
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NjA3Mw==&mid=2247483789&idx=1&sn=712cdeb71115d19dac1f124351c109e7
     - author: 小伍哥聊风控
       release_time: 2026.03.31 23:19:47
       title: 花1299买课的两个粉丝，找我退下钱！
@@ -240,10 +244,6 @@
       release_time: 2026.03.30 08:12:00
       title: 【2026春节领红包】解题过程，纯手工分析（第八题、第十题未解出
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144146&idx=1&sn=46f307dd70f4af1ffac9fc85baac5313
-    - author: Python成长路
-      release_time: 2026.03.30 08:00:00
-      title: 教大家对多个微信群聊进行成员去重
-      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486085&idx=1&sn=6611b3be5983304e093d740951d7f805
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 太岁又沐风
+      release_time: 2026.04.01 00:21:30
+      title: “Sentry” 反调试和环境检测的一个开源项目
+      url: https://bbs.kanxue.com/thread-290594.htm
     - author: 狗都不学爬虫_
       release_time: 2026.03.31 19:41:44
       title: JS逆向 - Akamai阿迪达斯（三次） 补环境、纯算
@@ -487,10 +491,6 @@
       release_time: 2026.03.24 20:16:22
       title: 爬虫之redis连接池与账号管理池
       url: https://blog.csdn.net/weixin_47115747/article/details/159433947
-    - author: Solar安全
-      release_time: 2026.03.24 17:01:02
-      title: '[原创]【病毒分析】深度剖析粉丝投稿：海莲花APT超级间谍组织最新免杀样本（从白加黑落地到定制化RUST远控）'
-      url: https://bbs.kanxue.com/thread-290497.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
