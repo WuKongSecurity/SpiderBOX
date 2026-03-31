@@ -239,6 +239,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: yanmf
+      release_time: 2026.03.30 22:43:00
+      title: 某店的逆向
+      url: https://www.52pojie.cn/thread-2100377-1-1.html
+    - author: jie1525050
+      release_time: 2026.03.30 20:30:00
+      title: 某卡Flutter请求响应加密分析
+      url: https://www.52pojie.cn/thread-2100363-1-1.html
     - author: misakibb
       release_time: 2026.03.30 09:35:00
       title: 主题Monokai Pro序列号算法分析
@@ -351,17 +359,13 @@
       release_time: 2026.03.09 11:16:00
       title: App 逆向核心 Hook 脚本集合：全面解析与实用技巧
       url: https://www.52pojie.cn/thread-2095379-1-1.html
-    - author: 桐姥爷
-      release_time: 2026.03.09 02:49:00
-      title: 某招聘网站的反调试与反反调试策略
-      url: https://www.52pojie.cn/thread-2095322-1-1.html
-    - author: seventeenJoy
-      release_time: 2026.03.08 10:16:00
-      title: 某讯会员思路分析
-      url: https://www.52pojie.cn/thread-2095199-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: xqq524148626
+      release_time: 2026.03.31 16:03:39
+      title: '[原创]frida与frida-tools兼容版本'
+      url: https://bbs.kanxue.com/thread-290581.htm
     - author: 冰履踏青云
       release_time: 2026.03.31 12:09:59
       title: 咸鱼sign签名 python纯算还原
@@ -479,10 +483,6 @@
       release_time: 2026.03.22 17:01:02
       title: '[原创] Android 内核加载未签名驱动的一次实践'
       url: https://bbs.kanxue.com/thread-290443.htm
-    - author: 梧桐生
-      release_time: 2026.03.22 17:01:02
-      title: '[原创]某手游逆向全流程复盘：从 IL2CPP Dump 到 TCP 握手协议还原'
-      url: https://bbs.kanxue.com/thread-290459.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
