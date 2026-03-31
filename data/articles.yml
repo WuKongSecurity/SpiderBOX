@@ -125,6 +125,14 @@
     term: 哔哩哔哩
   - links:
     - author: 如意私塾
+      release_time: 2026.03.31 21:47:14
+      title: 广告为什么能在你的手机里追踪到为所欲为
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484289&idx=1&sn=c079132e6c3b53b59c66b93780d05b09
+    - author: 小恰学逆向
+      release_time: 2026.03.31 20:53:22
+      title: 【猿人学逆向题】第1题：js混淆 - 源码乱码
+      url: https://mp.weixin.qq.com/s?__biz=MzkwNTg3MjY3MQ==&mid=2247484775&idx=1&sn=e6839af0eba46bd206455a438cfd5afd
+    - author: 如意私塾
       release_time: 2026.03.31 18:58:29
       title: chromium/firefox/safari指纹浏览器更新进度
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484283&idx=1&sn=0fbde7945f9534eb27c2f38536a83cdd
@@ -236,14 +244,6 @@
       release_time: 2026.03.29 21:00:00
       title: JS逆向|逆向反混淆练习平台第二题加密参数并获取数据
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566372&idx=1&sn=0b8596a1b6bed4b01023d13ee4f24b05
-    - author: 大数据安全技术学习
-      release_time: 2026.03.29 21:00:00
-      title: AI手机：03.Lineage23安卓16源码编译刷机
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486125&idx=1&sn=f901fa6ee67593482ccf137d2639574b
-    - author: 大数据安全技术学习
-      release_time: 2026.03.29 21:00:00
-      title: APP2025.18.不写一行代码frida/r0captur更新到支持17
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486125&idx=2&sn=6106300a57a7faaf7b031b9b2aa80bcf
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -398,6 +398,18 @@
       release_time: 2026.03.30 10:04:50
       title: JS逆向|猿人学逆向反混淆练习平台第三题逆向分析
       url: https://blog.csdn.net/qq523176585/article/details/159661159
+    - author: Zedbully
+      release_time: 2026.03.29 21:36:12
+      title: '[原创]Frida 17.4 最新版本实战：移动安全逆向工程深度解析'
+      url: https://bbs.kanxue.com/thread-290555.htm
+    - author: Zedbully
+      release_time: 2026.03.29 21:36:12
+      title: '[原创]某QP平台设备环境绕过技术深度解析：从Frida Hook到系统级防护突破'
+      url: https://bbs.kanxue.com/thread-290556.htm
+    - author: Zedbully
+      release_time: 2026.03.29 21:36:12
+      title: '[原创]frida-ios-dump更新:Frida 17版本脱壳工具深度解析与实战应用：iOS应用解密全攻略'
+      url: https://bbs.kanxue.com/thread-290557.htm
     - author: 悦来客栈的老板
       release_time: 2026.03.29 21:00:36
       title: JS逆向|逆向反混淆练习平台第二题加密参数并获取数据
@@ -479,18 +491,6 @@
       release_time: 2026.03.24 17:01:02
       title: '[原创]【病毒分析】深度剖析粉丝投稿：海莲花APT超级间谍组织最新免杀样本（从白加黑落地到定制化RUST远控）'
       url: https://bbs.kanxue.com/thread-290497.htm
-    - author: Aar0n
-      release_time: 2026.03.23 17:01:02
-      title: '[原创]支持MCP调用与污点追踪的ARM Trace分析工具'
-      url: https://bbs.kanxue.com/thread-290469.htm
-    - author: lidongyooo
-      release_time: 2026.03.23 17:01:02
-      title: '[原创] 安卓中的 ASLR实现与关闭'
-      url: https://bbs.kanxue.com/thread-290471.htm
-    - author: ppbb
-      release_time: 2026.03.22 17:01:02
-      title: '[原创] apsd RSASign 私钥导出'
-      url: https://bbs.kanxue.com/thread-290444.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
