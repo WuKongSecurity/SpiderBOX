@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 如意-浏览器开发培训
+      release_time: 2026.03.31 16:18:25
+      title: safari指纹浏览器定制之canvas指纹过检测方案
+      url: https://www.bilibili.com/video/BV14GXkBfEX1
     - author: x1a0f3n9
       release_time: 2026.03.30 15:18:29
       title: 魔改unidbg：极致的trace速度优化
@@ -117,13 +121,21 @@
       release_time: 2026.03.14 20:31:04
       title: 密码学补完计划[第二十八期] MD5
       url: https://www.bilibili.com/video/BV1R4wtzxEe9
-    - author: 旭旭爬虫
-      release_time: 2026.03.14 08:37:57
-      title: zp_stoken参数如何快速搞定并且稳定
-      url: https://www.bilibili.com/video/BV1PEwpz4EoK
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.03.31 16:51:41
+      title: 外媒聚焦世界数据组织（WDO）在北京成立，工作重点包括推动跨境数据治理国际规则
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519959&idx=1&sn=cc61baa2b41b073a41bb1a998510c92d
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.03.31 16:51:41
+      title: 未按规定开展安全评估！ 无锡一公司被约谈
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519959&idx=2&sn=e5949ab273f5727023b2f8f4e34bdfb7
+    - author: 哆啦安全
+      release_time: 2026.03.31 16:16:23
+      title: APK逆向分析工具V1.2
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500004&idx=1&sn=2f5e5c2dd1083c8f194ba35633b4e358
     - author: 菜鸟学Python编程
       release_time: 2026.03.31 09:55:32
       title: JS逆向|猿人学逆向反混淆练习平台第四题逆向分析
@@ -232,10 +244,6 @@
       release_time: 2026.03.28 22:06:19
       title: 把小程序当Web测 || 实战案例深度拆解路由跳转中的权限漏洞挖掘
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489881&idx=1&sn=b2bdda0b4511f4bbd4bdee3590dad730
-    - author: 哆啦安全
-      release_time: 2026.03.28 09:58:56
-      title: OpenClaw安全防护平台V1.2
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499972&idx=1&sn=126b49e9c9efb2881344f01196a30af2
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
