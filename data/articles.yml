@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2026.03.31 09:55:32
+      title: JS逆向|猿人学逆向反混淆练习平台第四题逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566384&idx=1&sn=ad83ad2fbcf78729a7ca2c2cb6d632f9
+    - author: 泡泡以安
+      release_time: 2026.03.31 09:09:00
+      title: Frida进阶——安卓应用 9 种 SSL Pinning 绕过方案
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485896&idx=1&sn=aa9176da57c3e3489de1de22334d1337
+    - author: 爬虫逆向小林哥
+      release_time: 2026.03.31 09:00:00
+      title: 【安卓逆向】某旅行平台反调试绕过
+      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487205&idx=1&sn=36c153100b29d227a0d61a37fc529e38
     - author: 随心记事
       release_time: 2026.03.30 21:52:20
       title: '[小记] 学习 MuMu模拟器 x-param-sign 响应验签链绕过'
@@ -224,26 +236,6 @@
       release_time: 2026.03.28 09:58:56
       title: OpenClaw安全防护平台V1.2
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499972&idx=1&sn=126b49e9c9efb2881344f01196a30af2
-    - author: 如意私塾
-      release_time: 2026.03.27 19:25:16
-      title: 通过浏览器探测CPU指纹
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484264&idx=1&sn=9d6391b6c588d5e353bbc9826872312a
-    - author: 进击的HACK
-      release_time: 2026.03.27 18:00:29
-      title: 用小程序跳转工具测未授权和越权思路
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489879&idx=1&sn=088cdfbe0902178124d84458cea8692b
-    - author: AI爬盒
-      release_time: 2026.03.27 16:06:45
-      title: GPT提示词，让AI接管WEB和APP逆向
-      url: https://mp.weixin.qq.com/s?__biz=MzcwMzIxNDAxMQ==&mid=2247483699&idx=1&sn=2e8150e2f09fb25b8c1e687dae31a64c
-    - author: coderwhy
-      release_time: 2026.03.27 15:31:51
-      title: 你好OpenClaw，再见OpenClaw？
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247489088&idx=1&sn=7a978112b83905da59713a77ffb48bc2
-    - author: 二进制磨剑
-      release_time: 2026.03.27 12:24:14
-      title: 二进制磨剑靶场 | 免费限时开启 | App 流量与数据采集
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486024&idx=1&sn=d6d4002bc4b84374d69725f0389b6db7
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
