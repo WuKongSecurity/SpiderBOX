@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 随心记事
+      release_time: 2026.03.31 21:55:16
+      title: Claude Code 51万行源码全网裸奔！Anthropic：我们终于成了“真·Open Claude”
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0NTMyNzI4MQ==&mid=2247484945&idx=1&sn=615604e4d7478843a67173930505df03
     - author: 如意私塾
       release_time: 2026.03.31 21:47:14
       title: 广告为什么能在你的手机里追踪到为所欲为
@@ -240,13 +244,13 @@
       release_time: 2026.03.29 22:39:54
       title: JS逆向学习 | 01  js 混淆 源码乱码
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489885&idx=1&sn=09b24d0a0d61894e33f4c3ac9e636b20
-    - author: 菜鸟学Python编程
-      release_time: 2026.03.29 21:00:00
-      title: JS逆向|逆向反混淆练习平台第二题加密参数并获取数据
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566372&idx=1&sn=0b8596a1b6bed4b01023d13ee4f24b05
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: heihei123
+      release_time: 2026.03.31 17:27:00
+      title: 猿人学第三题逆向分析
+      url: https://www.52pojie.cn/thread-2100547-1-1.html
     - author: yanmf
       release_time: 2026.03.30 22:43:00
       title: 某店的逆向
@@ -363,10 +367,6 @@
       release_time: 2026.03.11 18:16:00
       title: 运行Ai逆向分析发生的趣事
       url: https://www.52pojie.cn/thread-2095926-1-1.html
-    - author: sigewangdaiduie
-      release_time: 2026.03.10 17:33:00
-      title: 安卓逆向入门笔记（八）—— frida Hook
-      url: https://www.52pojie.cn/thread-2095679-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
