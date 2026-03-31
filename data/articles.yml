@@ -386,6 +386,10 @@
       release_time: 2026.03.31 12:09:59
       title: 咸鱼sign签名 python纯算还原
       url: https://bingyun.blog.csdn.net/article/details/159683848
+    - author: 悦来客栈的老板
+      release_time: 2026.03.31 09:55:55
+      title: JS逆向|猿人学逆向反混淆练习平台第四题逆向分析
+      url: https://blog.csdn.net/qq523176585/article/details/159703053
     - author: 乐子人
       release_time: 2026.03.31 00:23:06
       title: '[原创]QTrace：基于QBDI的高稳定，高定制的trace工具'
@@ -487,10 +491,6 @@
       release_time: 2026.03.24 22:43:40
       title: 你真的需要养一只龙虾(openclaw)吗
       url: https://blog.csdn.net/Qwertyuiop2016/article/details/159436791
-    - author: '`Jay'
-      release_time: 2026.03.24 20:16:22
-      title: 爬虫之redis连接池与账号管理池
-      url: https://blog.csdn.net/weixin_47115747/article/details/159433947
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
