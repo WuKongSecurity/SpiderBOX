@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: GSCL Sec
+      release_time: 2026.04.01 15:41:27
+      title: 真开源！Claude Code75页橙皮书，带你从入门到精通
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4MDgyNzY4Nw==&mid=2247484244&idx=1&sn=fdc9def8e329ff8463414b4e62e12a51
+    - author: 坚粿安全
+      release_time: 2026.04.01 15:22:09
+      title: 【Web安全】某银行校园卡平台报文加密逆向+Bp插件Galaxy完整使用过程
+      url: https://mp.weixin.qq.com/s?__biz=MzE5ODcxNjQxMQ==&mid=2247483896&idx=1&sn=4b1105aece0c907bbe28ad1f8e93716c
     - author: 菜鸟学Python编程
       release_time: 2026.04.01 12:05:56
       title: JS逆向|猿人学逆向反混淆练习平台第五题逆向分析
@@ -236,14 +244,6 @@
       release_time: 2026.03.30 11:23:13
       title: AndroidManifest处理工具V1.0
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499990&idx=1&sn=281f193f0e8fc275f36ae39b7c290d98
-    - author: 菜鸟学Python编程
-      release_time: 2026.03.30 10:01:17
-      title: JS逆向|猿人学逆向反混淆练习平台第三题逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566378&idx=1&sn=67302800d76026cccbedf43346a29678
-    - author: 布鲁的Python之旅
-      release_time: 2026.03.30 10:00:00
-      title: TaskPyro “小龙虾版本”专业爬虫管理平台来了：AI+分布式+IM 机器人，一套搞定企业级爬虫调度
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486354&idx=1&sn=8f81a36cf3566b23de1cea579e1c7cc8
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
