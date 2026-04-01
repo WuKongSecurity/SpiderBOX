@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 逆向研究生
+      release_time: 2026.04.01 22:29:58
+      title: 逆向基本流程
+      url: https://www.bilibili.com/video/BV17v9EBSEeY
     - author: 如意-浏览器开发培训
       release_time: 2026.03.31 18:46:08
       title: safari指纹浏览器真实内核过苹果UA检测
@@ -117,10 +121,6 @@
       release_time: 2026.03.17 15:09:22
       title: 76.OpenClaw 对接飞书插件 — 让 AI 助手住进你的飞书
       url: https://www.bilibili.com/video/BV1CmwDzgEQV
-    - author: 人生导师duck
-      release_time: 2026.03.15 22:32:29
-      title: 分布式爬虫框架架构思路
-      url: https://www.bilibili.com/video/BV1ezw3zVE5D
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
