@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.04.01 16:55:52
+      title: 国家计算机病毒应急处理中心检测发现71款违法违规收集使用个人信息的移动应用
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519965&idx=1&sn=0e3462ed1d08f8fcc7bf27ddbe6bc1b7
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.04.01 16:55:52
+      title: 俄克拉荷马州全面数据隐私法案签署生效，2027 年 1 月 1 日实施
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519965&idx=2&sn=f7f9db0fb9d38531a81cd86a859bf3e5
     - author: GSCL Sec
       release_time: 2026.04.01 15:41:27
       title: 真开源！Claude Code75页橙皮书，带你从入门到精通
@@ -236,14 +244,6 @@
       release_time: 2026.03.30 12:56:37
       title: Chrome开发者工具指南-反Hook检测与对抗篇
       url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483829&idx=1&sn=b3176e80bea04d24e55893917868e7f6
-    - author: 反爬破解社
-      release_time: 2026.03.30 12:56:37
-      title: 别硬卷了 IT人专属摸鱼清单，伪装办公感拉满，摸鱼+悄悄提升双在线
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483829&idx=2&sn=a351d889649ccb3b01539859e61a63b4
-    - author: 哆啦安全
-      release_time: 2026.03.30 11:23:13
-      title: AndroidManifest处理工具V1.0
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499990&idx=1&sn=281f193f0e8fc275f36ae39b7c290d98
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
