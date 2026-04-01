@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2026.04.01 12:05:56
+      title: JS逆向|猿人学逆向反混淆练习平台第五题逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566396&idx=1&sn=9fd2fe37b9c6f8c8b1cd3743af2d730f
+    - author: 哆啦安全
+      release_time: 2026.04.01 12:01:38
+      title: 魔改Claude Code：如何利用泄露源码打造你自己的AI编程助手
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500015&idx=1&sn=0c97dc913e4aced12c1e76f64623a3c2
     - author: 泡泡以安
       release_time: 2026.04.01 09:09:00
       title: Android 逆向视角下的 Protobuf 协议分析（上篇）：编码原理与流量识别
@@ -236,13 +244,13 @@
       release_time: 2026.03.30 10:00:00
       title: TaskPyro “小龙虾版本”专业爬虫管理平台来了：AI+分布式+IM 机器人，一套搞定企业级爬虫调度
       url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486354&idx=1&sn=8f81a36cf3566b23de1cea579e1c7cc8
-    - author: 泡泡以安
-      release_time: 2026.03.30 09:09:00
-      title: Frida进阶——指令级追踪工具 Stalker 使用教程
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485887&idx=1&sn=3bce8e967e8adb8c5729ca9a9013cd7a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 孤木落
+      release_time: 2026.03.31 18:16:00
+      title: AndProxy——Syscall及Binder运行时代理库
+      url: https://www.52pojie.cn/thread-2100559-1-1.html
     - author: heihei123
       release_time: 2026.03.31 17:27:00
       title: 猿人学第三题逆向分析
@@ -359,10 +367,6 @@
       release_time: 2026.03.12 16:09:00
       title: xx快跑逆向记录
       url: https://www.52pojie.cn/thread-2096113-1-1.html
-    - author: qig123
-      release_time: 2026.03.11 18:16:00
-      title: 运行Ai逆向分析发生的趣事
-      url: https://www.52pojie.cn/thread-2095926-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
