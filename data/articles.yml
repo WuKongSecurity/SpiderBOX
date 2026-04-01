@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小恰学逆向
+      release_time: 2026.04.01 21:45:11
+      title: 【猿人学逆向题】第20题 - 2022新年挑战
+      url: https://mp.weixin.qq.com/s?__biz=MzkwNTg3MjY3MQ==&mid=2247484825&idx=1&sn=651a2a703cefdec0af726eefac157b4d
+    - author: 进击的HACK
+      release_time: 2026.04.01 21:05:48
+      title: 给AI Agent配置JS逆向MCP
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489906&idx=1&sn=0a28edb08a9ff24f4d1f47f7ebce6379
+    - author: 进击的HACK
+      release_time: 2026.04.01 21:05:48
+      title: 生成dirsearch命令的skills
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489906&idx=2&sn=2dce7e83682fb2d22ea4a8833560a27e
     - author: 如意私塾
       release_time: 2026.04.01 18:53:26
       title: AI语音识别Google的reCAPTCHA v2音频验证码成功率100%
@@ -232,21 +244,13 @@
       release_time: 2026.03.30 21:52:20
       title: '[小记] 学习 MuMu模拟器 x-param-sign 响应验签链绕过'
       url: https://mp.weixin.qq.com/s?__biz=Mzk0NTMyNzI4MQ==&mid=2247484933&idx=1&sn=806adc7d7b6914a7f3adc74056597d65
-    - author: 如意私塾
-      release_time: 2026.03.30 20:35:22
-      title: 浏览器指纹变了怎么办？用阈值把前后串起来，追踪时间翻倍
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484269&idx=1&sn=9bab600bfaf91278a9ee48084f4ec7ef
-    - author: 进击的HACK
-      release_time: 2026.03.30 18:14:31
-      title: 反编译小程序，补环境可在开发者工具运行
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489890&idx=1&sn=fba830b6aeba4d8e1263a1b59958f233
-    - author: x1a0f3n9
-      release_time: 2026.03.30 14:24:33
-      title: 魔改unidbg：极致的trace速度提升
-      url: https://mp.weixin.qq.com/s?__biz=MzYzMTgyNjA1NA==&mid=2247483661&idx=1&sn=711e5c2ad987a377ef6a93857a1d1987
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: xiayutianz
+      release_time: 2026.04.01 17:53:00
+      title: 从trace分析vmp中的SHA256算法
+      url: https://www.52pojie.cn/thread-2100778-1-1.html
     - author: 孤木落
       release_time: 2026.03.31 18:16:00
       title: AndProxy——Syscall及Binder运行时代理库
@@ -363,10 +367,6 @@
       release_time: 2026.03.12 17:37:00
       title: 猫某票房逆向signKey参数mygsig参数全流程
       url: https://www.52pojie.cn/thread-2096141-1-1.html
-    - author: Ma5k
-      release_time: 2026.03.12 16:09:00
-      title: xx快跑逆向记录
-      url: https://www.52pojie.cn/thread-2096113-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
