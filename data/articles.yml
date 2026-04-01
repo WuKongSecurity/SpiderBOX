@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.04.01 18:53:26
+      title: AI语音识别Google的reCAPTCHA v2音频验证码成功率100%
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484295&idx=1&sn=dfa3f7ea257cf80d5efb626492621dc4
     - author: 个人信息与数据保护实务评论
       release_time: 2026.04.01 16:55:52
       title: 国家计算机病毒应急处理中心检测发现71款违法违规收集使用个人信息的移动应用
@@ -240,10 +244,6 @@
       release_time: 2026.03.30 14:24:33
       title: 魔改unidbg：极致的trace速度提升
       url: https://mp.weixin.qq.com/s?__biz=MzYzMTgyNjA1NA==&mid=2247483661&idx=1&sn=711e5c2ad987a377ef6a93857a1d1987
-    - author: 反爬破解社
-      release_time: 2026.03.30 12:56:37
-      title: Chrome开发者工具指南-反Hook检测与对抗篇
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483829&idx=1&sn=b3176e80bea04d24e55893917868e7f6
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
