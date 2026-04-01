@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 如意-浏览器开发培训
+      release_time: 2026.04.01 23:44:12
+      title: safari指纹浏览器定制JS-HTTP语言指纹
+      url: https://www.bilibili.com/video/BV1vw9EBGE7f
     - author: 逆向研究生
       release_time: 2026.04.01 22:29:58
       title: 逆向基本流程
@@ -117,10 +121,6 @@
       release_time: 2026.03.17 22:10:42
       title: 某音直播间逆向采集，超详细完整文档献上
       url: https://www.bilibili.com/video/BV1AEwRz2EB1
-    - author: 和沐阳学逆向与Ai
-      release_time: 2026.03.17 15:09:22
-      title: 76.OpenClaw 对接飞书插件 — 让 AI 助手住进你的飞书
-      url: https://www.bilibili.com/video/BV1CmwDzgEQV
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
