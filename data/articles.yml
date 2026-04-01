@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 泡泡以安
+      release_time: 2026.04.01 09:09:00
+      title: Android 逆向视角下的 Protobuf 协议分析（上篇）：编码原理与流量识别
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485918&idx=1&sn=d13903813d27f685f37b036a4ee38c31
+    - author: 移动安全星球
+      release_time: 2026.04.01 09:00:00
+      title: 重生后我成了计算机-第2章 物理拔管与系统协议
+      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486487&idx=1&sn=98fbe84f4db6972fabcfb666100d7b1e
+    - author: Coder小Q
+      release_time: 2026.04.01 08:30:00
+      title: 【量子计算】量子力学的诞生：从经典危机到量子世界
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247494972&idx=1&sn=27b447f52ecdccc8ed5a0db8ef596dd9
+    - author: 吾爱破解论坛
+      release_time: 2026.04.01 08:19:00
+      title: 【2026春节】全自动AI做题的实现及初8逆向AIAgent对话记录及wp
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144181&idx=1&sn=0ca6b048e09a4f1a393512d597bc0d2e
     - author: R逆向
       release_time: 2026.04.01 00:35:39
       title: “Sentry” 反调试和环境检测的一个开源项目-CSDN博客
@@ -224,26 +240,6 @@
       release_time: 2026.03.30 09:09:00
       title: Frida进阶——指令级追踪工具 Stalker 使用教程
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485887&idx=1&sn=3bce8e967e8adb8c5729ca9a9013cd7a
-    - author: 二进制磨剑
-      release_time: 2026.03.30 08:30:00
-      title: Android 类抽取壳的实现：让代码在内存中也"残缺不全"
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486029&idx=1&sn=a948be2c3ed5ececd2b4b3d239cfce4f
-    - author: 二进制磨剑
-      release_time: 2026.03.30 08:30:00
-      title: 第七期 | iOS 逆向工程 — 从零基础到实战对抗
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486029&idx=2&sn=43ab0b027ca21c134d73569406cb8477
-    - author: 测试工程师成长之路
-      release_time: 2026.03.30 08:30:00
-      title: 告别 Postman？这款嵌入 Chrome DevTools 的神器，让 API 调试效率翻倍！
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578835&idx=1&sn=0914079e83fad517bff56805e3372b93
-    - author: Coder小Q
-      release_time: 2026.03.30 08:30:00
-      title: 【量子计算】经典计算基础：从比特到可逆计算
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247494941&idx=1&sn=55bc78298b4c1a4a38a088d66920fa7f
-    - author: 吾爱破解论坛
-      release_time: 2026.03.30 08:12:00
-      title: 【2026春节领红包】解题过程，纯手工分析（第八题、第十题未解出
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144146&idx=1&sn=46f307dd70f4af1ffac9fc85baac5313
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
