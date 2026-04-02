@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 极验
+      release_time: 2026.04.02 14:31:29
+      title: 定义即定价，定价即风险 | 词元（Token）定名背后的冷思考
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724404&idx=1&sn=67c62ec6695795102b539da58bc4e6c6
+    - author: GSCL Sec
+      release_time: 2026.04.02 12:56:35
+      title: 一行命令，解锁 Claude Code 全部权限-ClawGod
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4MDgyNzY4Nw==&mid=2247484246&idx=1&sn=f06cb969a8cb570ac308cba1a8b06120
     - author: 泡泡以安
       release_time: 2026.04.02 09:09:00
       title: Android 逆向视角下的 Protobuf 协议分析（中篇）：解码与还原
@@ -236,21 +244,21 @@
       release_time: 2026.04.01 00:35:39
       title: “Sentry” 反调试和环境检测的一个开源项目-CSDN博客
       url: https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NjA3Mw==&mid=2247483789&idx=1&sn=712cdeb71115d19dac1f124351c109e7
-    - author: 小伍哥聊风控
-      release_time: 2026.03.31 23:19:47
-      title: 花1299买课的两个粉丝，找我退下钱！
-      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650197106&idx=1&sn=91f41835bd1fd917f3b0121c3dd03938
-    - author: 随心记事
-      release_time: 2026.03.31 21:55:16
-      title: Claude Code 51万行源码全网裸奔！Anthropic：我们终于成了“真·Open Claude”
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0NTMyNzI4MQ==&mid=2247484945&idx=1&sn=615604e4d7478843a67173930505df03
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: Evan422
+      release_time: 2026.04.02 11:44:00
+      title: AI辅助逆向某flutter应用
+      url: https://www.52pojie.cn/thread-2100902-1-1.html
     - author: xiayutianz
       release_time: 2026.04.01 17:53:00
       title: 从trace分析vmp中的SHA256算法
       url: https://www.52pojie.cn/thread-2100778-1-1.html
+    - author: yjr888
+      release_time: 2026.04.01 16:54:00
+      title: 【AI辅助】iOS p12证书签名软件的逆向分析 + 证书获取
+      url: https://www.52pojie.cn/thread-2100769-1-1.html
     - author: 孤木落
       release_time: 2026.03.31 18:16:00
       title: AndProxy——Syscall及Binder运行时代理库
@@ -359,17 +367,13 @@
       release_time: 2026.03.14 14:24:00
       title: 小白借助 AI 复盘某班课鉴权链路分析
       url: https://www.52pojie.cn/thread-2096514-1-1.html
-    - author: ShawDS
-      release_time: 2026.03.14 12:25:00
-      title: 【JS逆向入门】国*医*服务平台 国密SM4、SM2加密解密分析
-      url: https://www.52pojie.cn/thread-2096479-1-1.html
-    - author: PokerS429
-      release_time: 2026.03.12 17:37:00
-      title: 猫某票房逆向signKey参数mygsig参数全流程
-      url: https://www.52pojie.cn/thread-2096141-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: fyrlove
+      release_time: 2026.04.02 13:46:12
+      title: 全流程使用AI，完成一次APK改包名、绕过 Native 校验、重建签名并去掉奖励广告的完整复现
+      url: https://bbs.kanxue.com/thread-290623.htm
     - author: Penguin_try
       release_time: 2026.04.02 11:58:03
       title: '[分享]学习篇之web安全与基础分享'
@@ -487,10 +491,6 @@
       title: CC Switch安装报错：The installer has encountered an unexpected error ... The
         error code is 2503.
       url: https://bingyun.blog.csdn.net/article/details/159502328
-    - author: n_1ng
-      release_time: 2026.03.25 17:01:02
-      title: '[原创]从0到1构建一个Hook工具之Java Hook篇（三）'
-      url: https://bbs.kanxue.com/thread-290505.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
