@@ -124,6 +124,26 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.04.02 21:09:44
+      title: AntiDebug + 脚本实现自动测试Vue路由未授权
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489916&idx=1&sn=536033c7092a7c628ed69468378e6b2b
+    - author: 进击的HACK
+      release_time: 2026.04.02 21:09:44
+      title: 同事.skill 前任.skill 自己.skill
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489916&idx=2&sn=70655d6bfb37fc21249588499988adf6
+    - author: 零基础爬虫第一天
+      release_time: 2026.04.02 20:27:02
+      title: 【khbox补环境案例-2】yrx2内存爆破分析
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484337&idx=1&sn=2083e8846e8ce336d3aca8d0bb10daca
+    - author: 零基础爬虫第一天
+      release_time: 2026.04.02 20:21:56
+      title: 【khbox补环境案例-1】yrx1
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484325&idx=1&sn=741462e70a52ac5fccf859fa1efcebff
+    - author: 未闻Code
+      release_time: 2026.04.02 19:25:32
+      title: 这个 skills 太硬核了，刚开源就斩获 1.7K Star！Agent 联网能力拉满！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991540&idx=1&sn=3d8a6f70b39df3778a60f30c6c4f7c57
     - author: 菜鸟学Python编程
       release_time: 2026.04.02 17:26:00
       title: JS逆向|猿人学逆向反混淆练习平台第六题逆向分析
@@ -224,26 +244,6 @@
       release_time: 2026.04.01 16:55:52
       title: 俄克拉荷马州全面数据隐私法案签署生效，2027 年 1 月 1 日实施
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519965&idx=2&sn=f7f9db0fb9d38531a81cd86a859bf3e5
-    - author: GSCL Sec
-      release_time: 2026.04.01 15:41:27
-      title: 真开源！Claude Code75页橙皮书，带你从入门到精通
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4MDgyNzY4Nw==&mid=2247484244&idx=1&sn=fdc9def8e329ff8463414b4e62e12a51
-    - author: 坚粿安全
-      release_time: 2026.04.01 15:22:09
-      title: 【Web安全】某银行校园卡平台报文加密逆向+Bp插件Galaxy完整使用过程
-      url: https://mp.weixin.qq.com/s?__biz=MzE5ODcxNjQxMQ==&mid=2247483896&idx=1&sn=4b1105aece0c907bbe28ad1f8e93716c
-    - author: 菜鸟学Python编程
-      release_time: 2026.04.01 12:05:56
-      title: JS逆向|猿人学逆向反混淆练习平台第五题逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566396&idx=1&sn=9fd2fe37b9c6f8c8b1cd3743af2d730f
-    - author: 哆啦安全
-      release_time: 2026.04.01 12:01:38
-      title: 魔改Claude Code：如何利用泄露源码打造你自己的AI编程助手
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500015&idx=1&sn=0c97dc913e4aced12c1e76f64623a3c2
-    - author: 泡泡以安
-      release_time: 2026.04.01 09:09:00
-      title: Android 逆向视角下的 Protobuf 协议分析（上篇）：编码原理与流量识别
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485918&idx=1&sn=d13903813d27f685f37b036a4ee38c31
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
