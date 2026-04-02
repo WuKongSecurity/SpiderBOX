@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2026.04.02 17:26:00
+      title: JS逆向|猿人学逆向反混淆练习平台第六题逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566411&idx=1&sn=ac57e3efe1de86129c1945eda4fac359
     - author: 个人信息与数据保护实务评论
       release_time: 2026.04.02 16:08:54
       title: 北京市发布数据跨境流动便利化综合配套改革3.0版
@@ -240,10 +244,6 @@
       release_time: 2026.04.01 09:09:00
       title: Android 逆向视角下的 Protobuf 协议分析（上篇）：编码原理与流量识别
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485918&idx=1&sn=d13903813d27f685f37b036a4ee38c31
-    - author: 移动安全星球
-      release_time: 2026.04.01 09:00:00
-      title: 重生后我成了计算机-第2章 物理拔管与系统协议
-      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486487&idx=1&sn=98fbe84f4db6972fabcfb666100d7b1e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
