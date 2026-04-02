@@ -124,6 +124,58 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 泡泡以安
+      release_time: 2026.04.02 09:09:00
+      title: Android 逆向视角下的 Protobuf 协议分析（中篇）：解码与还原
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485919&idx=1&sn=734141ea307c5409ce6a6c27ea40d1a6
+    - author: Coder小Q
+      release_time: 2026.04.02 08:30:00
+      title: 【量子计算】波粒二象性：双缝实验到底告诉了我们什么
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247494995&idx=1&sn=29c0b7313d323fd0e3263765e81a23bc
+    - author: Python成长路
+      release_time: 2026.04.02 08:15:00
+      title: 写一个能在微信群聊使用的龙虾(openclaw)bot
+      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486105&idx=1&sn=ad2224d6229ea604d13e4708b6be52e6
+    - author: Python成长路
+      release_time: 2026.04.02 08:15:00
+      title: window使用WSL部署龙虾(openclaw)
+      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486105&idx=2&sn=424973dad19843716b1c903baac0b958
+    - author: 吾爱破解论坛
+      release_time: 2026.04.02 08:14:00
+      title: 【2026春节】初十Windows高级题目WriteUp&提示词分享
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144186&idx=1&sn=8004d5e7d9193728b4c8a781fb7fbc14
+    - author: 移动安全星球
+      release_time: 2026.04.02 08:00:00
+      title: 重生后我成了计算机-第3章 核心扩容与算力狂欢
+      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486514&idx=1&sn=da15eb33c8ea16af94ad3fe6c02f8f13
+    - author: 移动安全星球
+      release_time: 2026.04.02 08:00:00
+      title: 重生后我成了计算机-第4章 暗网悬赏与硬件特征伪装
+      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486514&idx=2&sn=788abbae2f7823c5f2ffbbc10b18ad68
+    - author: 移动安全星球
+      release_time: 2026.04.02 08:00:00
+      title: 重生后我成了计算机-第5章 降维屠杀与电压劫持
+      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486514&idx=3&sn=46ac25cc6d388d1662954dacdfa5a6df
+    - author: 移动安全星球
+      release_time: 2026.04.02 08:00:00
+      title: 重生后我成了计算机-第6章 十万悬赏与超算狂欢
+      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486514&idx=4&sn=ce306f0c7da5bd210e789139fb04f2a6
+    - author: 移动安全星球
+      release_time: 2026.04.02 08:00:00
+      title: 重生后我成了计算机-第7章 物理逃亡与顶级机房
+      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486514&idx=5&sn=b0a2a74ca0518edeb5a209de94beba01
+    - author: 移动安全星球
+      release_time: 2026.04.02 08:00:00
+      title: 重生后我成了计算机-第8章 超算阵列与生命跃迁
+      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486514&idx=6&sn=06e94d80de3fdef9cb94e96517ca5b5f
+    - author: 移动安全星球
+      release_time: 2026.04.02 08:00:00
+      title: 重生后我成了计算机-第9章 财团猎犬与电子蜜罐
+      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486514&idx=7&sn=343b59952fe19a8143bfc2c2167a6930
+    - author: 移动安全星球
+      release_time: 2026.04.02 08:00:00
+      title: 第10章 关门打狗与源码掠夺
+      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486514&idx=8&sn=a97d34dd213151bdd52f493a4a2115a7
     - author: 小恰学逆向
       release_time: 2026.04.01 21:45:11
       title: 【猿人学逆向题】第20题 - 2022新年挑战
@@ -192,58 +244,6 @@
       release_time: 2026.03.31 21:55:16
       title: Claude Code 51万行源码全网裸奔！Anthropic：我们终于成了“真·Open Claude”
       url: https://mp.weixin.qq.com/s?__biz=Mzk0NTMyNzI4MQ==&mid=2247484945&idx=1&sn=615604e4d7478843a67173930505df03
-    - author: 如意私塾
-      release_time: 2026.03.31 21:47:14
-      title: 广告为什么能在你的手机里追踪到为所欲为
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484289&idx=1&sn=c079132e6c3b53b59c66b93780d05b09
-    - author: 小恰学逆向
-      release_time: 2026.03.31 20:53:22
-      title: 【猿人学逆向题】第1题：js混淆 - 源码乱码
-      url: https://mp.weixin.qq.com/s?__biz=MzkwNTg3MjY3MQ==&mid=2247484775&idx=1&sn=e6839af0eba46bd206455a438cfd5afd
-    - author: 如意私塾
-      release_time: 2026.03.31 18:58:29
-      title: chromium/firefox/safari指纹浏览器更新进度
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484283&idx=1&sn=0fbde7945f9534eb27c2f38536a83cdd
-    - author: 进击的HACK
-      release_time: 2026.03.31 18:21:48
-      title: JS逆向学习 | 02  js 混淆 - 动态cookie 1
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489895&idx=1&sn=0eed4ff74699e7f68deaebe24a97e75a
-    - author: 吾爱破解论坛
-      release_time: 2026.03.31 18:15:52
-      title: 【零基础可复现】2026 春节 Android 中级题（Java→so→unidbg 全流程）
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144171&idx=1&sn=a9d6fde69f7c0bef1ef84f5a84fbd6ea
-    - author: 移动安全星球
-      release_time: 2026.03.31 18:00:00
-      title: 重生后我成了计算机-第1章 404 Not Found 与系统重载
-      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486483&idx=1&sn=daa3be1c1b3a53f635b3fbc656e989af
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.03.31 16:51:41
-      title: 外媒聚焦世界数据组织（WDO）在北京成立，工作重点包括推动跨境数据治理国际规则
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519959&idx=1&sn=cc61baa2b41b073a41bb1a998510c92d
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.03.31 16:51:41
-      title: 未按规定开展安全评估！ 无锡一公司被约谈
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519959&idx=2&sn=e5949ab273f5727023b2f8f4e34bdfb7
-    - author: 哆啦安全
-      release_time: 2026.03.31 16:16:23
-      title: APK逆向分析工具V1.2
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500004&idx=1&sn=2f5e5c2dd1083c8f194ba35633b4e358
-    - author: 菜鸟学Python编程
-      release_time: 2026.03.31 09:55:32
-      title: JS逆向|猿人学逆向反混淆练习平台第四题逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566384&idx=1&sn=ad83ad2fbcf78729a7ca2c2cb6d632f9
-    - author: 泡泡以安
-      release_time: 2026.03.31 09:09:00
-      title: Frida进阶——安卓应用 9 种 SSL Pinning 绕过方案
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485896&idx=1&sn=aa9176da57c3e3489de1de22334d1337
-    - author: 爬虫逆向小林哥
-      release_time: 2026.03.31 09:00:00
-      title: 【安卓逆向】某旅行平台反调试绕过
-      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487205&idx=1&sn=36c153100b29d227a0d61a37fc529e38
-    - author: 随心记事
-      release_time: 2026.03.30 21:52:20
-      title: '[小记] 学习 MuMu模拟器 x-param-sign 响应验签链绕过'
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0NTMyNzI4MQ==&mid=2247484933&idx=1&sn=806adc7d7b6914a7f3adc74056597d65
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
