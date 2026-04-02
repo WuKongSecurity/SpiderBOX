@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.04.03 00:23:58
+      title: 验证码还有没有用？人正在被验证码识别逼疯，而爬虫和机器人比人类更快更准
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484302&idx=1&sn=7457ae3d6b04a8a79b4a3ac06f2e4274
     - author: 沐阳逆向与AI学习
       release_time: 2026.04.02 23:14:52
       title: CAP保姆级教程：你也可以无限使用gpt_Token+codexToken使用+注册机使用
@@ -240,10 +244,6 @@
       release_time: 2026.04.01 18:18:53
       title: 从trace分析vmp中的SHA256算法
       url: https://mp.weixin.qq.com/s?__biz=Mzk1NzI2Njg5NQ==&mid=2247483873&idx=1&sn=3b9946f512b9e9ea85e0a9962dc1a3a0
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.04.01 16:55:52
-      title: 国家计算机病毒应急处理中心检测发现71款违法违规收集使用个人信息的移动应用
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519965&idx=1&sn=0e3462ed1d08f8fcc7bf27ddbe6bc1b7
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
