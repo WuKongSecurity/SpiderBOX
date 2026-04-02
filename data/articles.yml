@@ -374,6 +374,10 @@
       release_time: 2026.04.02 21:47:58
       title: '[原创]论坛所有关于libmsaoaidsec.so的文章大总结-----一把梭'
       url: https://bbs.kanxue.com/thread-290633.htm
+    - author: 悦来客栈的老板
+      release_time: 2026.04.02 17:27:01
+      title: JS逆向|猿人学逆向反混淆练习平台第六题逆向分析
+      url: https://blog.csdn.net/qq523176585/article/details/159775015
     - author: Solar安全
       release_time: 2026.04.02 17:07:29
       title: '[原创]Solar勒索软件威胁态势与防护实践年度报告(2025) 章节一'
@@ -486,10 +490,6 @@
       release_time: 2026.03.27 17:52:34
       title: '[原创] X-Perseus AI初窥'
       url: https://bbs.kanxue.com/thread-290547.htm
-    - author: dddd0526
-      release_time: 2026.03.27 17:27:36
-      title: '[原创]最新版某货app bypassFrida检测'
-      url: https://bbs.kanxue.com/thread-290546.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
