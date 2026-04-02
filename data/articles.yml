@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.04.02 16:08:54
+      title: 北京市发布数据跨境流动便利化综合配套改革3.0版
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519972&idx=1&sn=ef495a0df2639e8612b344cd6e7d8655
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.04.02 16:08:54
+      title: 男团专职司机售卖艺人隐私信息，3人被采取刑事强制措施
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519972&idx=2&sn=d737bfbecdffa815cf568c61c3d7a3f9
     - author: 极验
       release_time: 2026.04.02 14:31:29
       title: 定义即定价，定价即风险 | 词元（Token）定名背后的冷思考
@@ -200,6 +208,10 @@
       release_time: 2026.04.01 18:53:26
       title: AI语音识别Google的reCAPTCHA v2音频验证码成功率100%
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484295&idx=1&sn=dfa3f7ea257cf80d5efb626492621dc4
+    - author: just reverse
+      release_time: 2026.04.01 18:18:53
+      title: 从trace分析vmp中的SHA256算法
+      url: https://mp.weixin.qq.com/s?__biz=Mzk1NzI2Njg5NQ==&mid=2247483873&idx=1&sn=3b9946f512b9e9ea85e0a9962dc1a3a0
     - author: 个人信息与数据保护实务评论
       release_time: 2026.04.01 16:55:52
       title: 国家计算机病毒应急处理中心检测发现71款违法违规收集使用个人信息的移动应用
@@ -232,18 +244,6 @@
       release_time: 2026.04.01 09:00:00
       title: 重生后我成了计算机-第2章 物理拔管与系统协议
       url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486487&idx=1&sn=98fbe84f4db6972fabcfb666100d7b1e
-    - author: Coder小Q
-      release_time: 2026.04.01 08:30:00
-      title: 【量子计算】量子力学的诞生：从经典危机到量子世界
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247494972&idx=1&sn=27b447f52ecdccc8ed5a0db8ef596dd9
-    - author: 吾爱破解论坛
-      release_time: 2026.04.01 08:19:00
-      title: 【2026春节】全自动AI做题的实现及初8逆向AIAgent对话记录及wp
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144181&idx=1&sn=0ca6b048e09a4f1a393512d597bc0d2e
-    - author: R逆向
-      release_time: 2026.04.01 00:35:39
-      title: “Sentry” 反调试和环境检测的一个开源项目-CSDN博客
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NjA3Mw==&mid=2247483789&idx=1&sn=712cdeb71115d19dac1f124351c109e7
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,18 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Solar安全
+      release_time: 2026.04.02 17:07:29
+      title: '[原创]Solar勒索软件威胁态势与防护实践年度报告(2025) 章节一'
+      url: https://bbs.kanxue.com/thread-290628.htm
+    - author: Penguin_try
+      release_time: 2026.04.02 15:30:26
+      title: '[分享]学习篇之web安全与基础'
+      url: https://bbs.kanxue.com/thread-290624.htm
+    - author: 狗都不学爬虫_
+      release_time: 2026.04.02 15:17:48
+      title: AI逆向 JSVMP- x程（testab参数）| 某头条（_signatrue参数）
+      url: https://blog.csdn.net/qq_53444631/article/details/159763300
     - author: fyrlove
       release_time: 2026.04.02 13:46:12
       title: 全流程使用AI，完成一次APK改包名、绕过 Native 校验、重建签名并去掉奖励广告的完整复现
@@ -478,19 +490,6 @@
       release_time: 2026.03.27 17:25:31
       title: 根据关键词自动邀请微信好友进群
       url: https://blog.csdn.net/Qwertyuiop2016/article/details/159550300
-    - author: 方北七
-      release_time: 2026.03.26 21:21:11
-      title: '[原创]一款corona lua 手游逆向'
-      url: https://bbs.kanxue.com/thread-290536.htm
-    - author: 悦来客栈的老板
-      release_time: 2026.03.26 21:00:28
-      title: AI逆向|逆向反混淆练习平台第一题加密参数并获取数据
-      url: https://blog.csdn.net/qq523176585/article/details/159519647
-    - author: 冰履踏青云
-      release_time: 2026.03.26 12:02:12
-      title: CC Switch安装报错：The installer has encountered an unexpected error ... The
-        error code is 2503.
-      url: https://bingyun.blog.csdn.net/article/details/159502328
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
