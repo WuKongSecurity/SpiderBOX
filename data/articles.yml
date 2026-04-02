@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 和沐阳学逆向与Ai
+      release_time: 2026.04.02 23:10:03
+      title: 80.CAP保姆级教程：你也可以无限使用gpt_Token+codexToken使用+注册机使用
+      url: https://www.bilibili.com/video/BV1729wBMEqL
     - author: 如意-浏览器开发培训
       release_time: 2026.04.01 23:44:12
       title: safari指纹浏览器定制JS-HTTP语言指纹
@@ -117,13 +121,13 @@
       release_time: 2026.03.18 19:00:00
       title: 77.OpenClaw 对接 QQ、企业微信和个人微信
       url: https://www.bilibili.com/video/BV1GnwvzCEBW
-    - author: 学逆向的柚子
-      release_time: 2026.03.17 22:10:42
-      title: 某音直播间逆向采集，超详细完整文档献上
-      url: https://www.bilibili.com/video/BV1AEwRz2EB1
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 沐阳逆向与AI学习
+      release_time: 2026.04.02 23:14:52
+      title: CAP保姆级教程：你也可以无限使用gpt_Token+codexToken使用+注册机使用
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484569&idx=1&sn=abddff32cc7ab9ae62b4786af060f80c
     - author: 进击的HACK
       release_time: 2026.04.02 21:09:44
       title: AntiDebug + 脚本实现自动测试Vue路由未授权
@@ -240,10 +244,6 @@
       release_time: 2026.04.01 16:55:52
       title: 国家计算机病毒应急处理中心检测发现71款违法违规收集使用个人信息的移动应用
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519965&idx=1&sn=0e3462ed1d08f8fcc7bf27ddbe6bc1b7
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.04.01 16:55:52
-      title: 俄克拉荷马州全面数据隐私法案签署生效，2027 年 1 月 1 日实施
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519965&idx=2&sn=f7f9db0fb9d38531a81cd86a859bf3e5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
