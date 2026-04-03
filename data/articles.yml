@@ -251,6 +251,10 @@
       release_time: 2026.04.03 16:52:00
       title: 【JS逆向系列】某咕视频ddCalcu参数分析
       url: https://www.52pojie.cn/thread-2101190-1-1.html
+    - author: 如果我是DJ？
+      release_time: 2026.04.03 15:38:00
+      title: 记录本菜鸡第一次破解某影视VIP和去广告
+      url: https://www.52pojie.cn/thread-2101167-1-1.html
     - author: fyr666
       release_time: 2026.04.02 14:24:00
       title: 全流程使用AI，完成一次APK重打包。改包名、绕过 Native 校验、重建签名并去掉奖励...
@@ -363,13 +367,13 @@
       release_time: 2026.03.16 13:34:00
       title: 从0到1构建一个Hook工具之注入器篇（一）
       url: https://www.52pojie.cn/thread-2097088-1-1.html
-    - author: dfbdy
-      release_time: 2026.03.15 22:12:00
-      title: 某音乐jsvmp插桩纯算解析+响应数据加密绕过
-      url: https://www.52pojie.cn/thread-2096887-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: wx_Deity
+      release_time: 2026.04.03 19:11:04
+      title: '[原创]Pixel 2 (walleye) Android 10 手动集成 KernelSU 编译实战'
+      url: https://bbs.kanxue.com/thread-290641.htm
     - author: Oo0_qbpd_0oO
       release_time: 2026.04.02 23:22:23
       title: '[原创]关于cuttlefish在ARM平台使用GPU加速，与遇到的问题'
@@ -486,10 +490,6 @@
       release_time: 2026.03.28 20:36:19
       title: 京东E卡变速滑块验证码
       url: https://blog.csdn.net/qq_44657571/article/details/159585860
-    - author: Python成长路
-      release_time: 2026.03.28 15:45:55
-      title: 通过群聊批量对微信好友进行标签分类
-      url: https://blog.csdn.net/Qwertyuiop2016/article/details/159582383
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
