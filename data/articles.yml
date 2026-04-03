@@ -2,6 +2,10 @@
   list:
   - links:
     - author: 小博士python逆向
+      release_time: 2026.04.03 18:02:43
+      title: AI逆向第一步就错了？2026年主流大模型横评与第三方接口接入避坑指南
+      url: https://www.bilibili.com/video/BV1kh9uBhE8z
+    - author: 小博士python逆向
       release_time: 2026.04.03 16:59:57
       title: AI逆向第一步就错了？2026年主流大模型横评与第三方接口接入避坑指南-1
       url: https://www.bilibili.com/video/BV1Tn9uBuE96
@@ -117,13 +121,13 @@
       release_time: 2026.03.20 01:07:29
       title: js逆向百例-26-facebook登录分析
       url: https://www.bilibili.com/video/BV1XaAVzUED2
-    - author: 如意-浏览器开发培训
-      release_time: 2026.03.19 23:23:30
-      title: safari内核指纹浏览器定制-动态修改webdriver
-      url: https://www.bilibili.com/video/BV1gqAVzjEqu
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.04.03 18:02:14
+      title: 又新又"夯"的小程序测试工具
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489921&idx=1&sn=e63b92fd47bb163ac02d4d9f5764a6d1
     - author: 菜鸟学Python编程
       release_time: 2026.04.03 17:29:00
       title: AI逆向|猿人学逆向反混淆练习平台第七题加密分析
@@ -240,10 +244,6 @@
       release_time: 2026.04.02 08:30:00
       title: 【量子计算】波粒二象性：双缝实验到底告诉了我们什么
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247494995&idx=1&sn=29c0b7313d323fd0e3263765e81a23bc
-    - author: Python成长路
-      release_time: 2026.04.02 08:15:00
-      title: 写一个能在微信群聊使用的龙虾(openclaw)bot
-      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486105&idx=1&sn=ad2224d6229ea604d13e4708b6be52e6
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
