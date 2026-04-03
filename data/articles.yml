@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 小博士python逆向
+      release_time: 2026.04.03 15:14:26
+      title: AI真能搞定所有逆向？深入解析2026年AI逆向攻防现状、瓶颈与未来
+      url: https://www.bilibili.com/video/BV1XT9TBuEWc
     - author: 和沐阳学逆向与Ai
       release_time: 2026.04.02 23:10:03
       title: 80.CAP保姆级教程：你也可以无限使用gpt_Token+codexToken使用+注册机使用
@@ -117,10 +121,6 @@
       release_time: 2026.03.18 19:54:26
       title: js逆向百例-25-太简单了 没名字
       url: https://www.bilibili.com/video/BV1G2wizyEYn
-    - author: 和沐阳学逆向与Ai
-      release_time: 2026.03.18 19:00:00
-      title: 77.OpenClaw 对接 QQ、企业微信和个人微信
-      url: https://www.bilibili.com/video/BV1GnwvzCEBW
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
