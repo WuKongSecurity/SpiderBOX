@@ -124,6 +124,46 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 泡泡以安
+      release_time: 2026.04.03 09:09:00
+      title: Android 逆向视角下的 Protobuf 协议分析（下篇）：Frida Hook、对抗绕过与工具速查
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485920&idx=1&sn=509d5dc6d8dc75b195c71cc60acc7673
+    - author: 哆啦安全
+      release_time: 2026.04.03 08:54:24
+      title: Paperclip方案：用组织架构、预算与工单系统，将一群AI代理运行成一家“零人力公司”
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500023&idx=1&sn=f108a9a9495c53a2d294abdb2033e2ca
+    - author: Coder小Q
+      release_time: 2026.04.03 08:30:00
+      title: 【量子计算】量子态与叠加原理：从“同时走两条路”到...
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495007&idx=1&sn=3f19c8bbae755d0657aea6cb40696c41
+    - author: 移动安全星球
+      release_time: 2026.04.03 08:00:00
+      title: 重生后我成了计算机-第11章 芯原科技与S级悬赏
+      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486530&idx=1&sn=dbc1232ddd581cd26f340f401625c9db
+    - author: 移动安全星球
+      release_time: 2026.04.03 08:00:00
+      title: 第12章 量子并发与百万肉鸡
+      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486530&idx=2&sn=b6e8e8991454ad2d7ea11d8dcbbe3488
+    - author: 移动安全星球
+      release_time: 2026.04.03 08:00:00
+      title: 第13章 物理绞杀与天眼初显
+      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486530&idx=3&sn=ac7e63dea47465b4496ae53ed951b337
+    - author: 移动安全星球
+      release_time: 2026.04.03 08:00:00
+      title: 第14章 信号劫持与红绿灯杀机
+      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486530&idx=4&sn=940024cb1286f9575409a5368a7315f8
+    - author: 移动安全星球
+      release_time: 2026.04.03 08:00:00
+      title: 第15章 局域黑障与强制覆写
+      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486530&idx=5&sn=b81a5e17dd6a8e97a41fbd317da7a9e0
+    - author: 移动安全星球
+      release_time: 2026.04.03 08:00:00
+      title: 第16章 数据飞升与脱离肉身
+      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486530&idx=6&sn=38c968423259e66c6cb62049de9acfa1
+    - author: 移动安全星球
+      release_time: 2026.04.03 08:00:00
+      title: 第17章 芯原主脑与清洗协议
+      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486530&idx=7&sn=b808ff0dc5362989ac026b99fca06c8b
     - author: 如意私塾
       release_time: 2026.04.03 00:23:58
       title: 验证码还有没有用？人正在被验证码识别逼疯，而爬虫和机器人比人类更快更准
@@ -204,46 +244,6 @@
       release_time: 2026.04.02 08:00:00
       title: 重生后我成了计算机-第5章 降维屠杀与电压劫持
       url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486514&idx=3&sn=46ac25cc6d388d1662954dacdfa5a6df
-    - author: 移动安全星球
-      release_time: 2026.04.02 08:00:00
-      title: 重生后我成了计算机-第6章 十万悬赏与超算狂欢
-      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486514&idx=4&sn=ce306f0c7da5bd210e789139fb04f2a6
-    - author: 移动安全星球
-      release_time: 2026.04.02 08:00:00
-      title: 重生后我成了计算机-第7章 物理逃亡与顶级机房
-      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486514&idx=5&sn=b0a2a74ca0518edeb5a209de94beba01
-    - author: 移动安全星球
-      release_time: 2026.04.02 08:00:00
-      title: 重生后我成了计算机-第8章 超算阵列与生命跃迁
-      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486514&idx=6&sn=06e94d80de3fdef9cb94e96517ca5b5f
-    - author: 移动安全星球
-      release_time: 2026.04.02 08:00:00
-      title: 重生后我成了计算机-第9章 财团猎犬与电子蜜罐
-      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486514&idx=7&sn=343b59952fe19a8143bfc2c2167a6930
-    - author: 移动安全星球
-      release_time: 2026.04.02 08:00:00
-      title: 第10章 关门打狗与源码掠夺
-      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486514&idx=8&sn=a97d34dd213151bdd52f493a4a2115a7
-    - author: 小恰学逆向
-      release_time: 2026.04.01 21:45:11
-      title: 【猿人学逆向题】第20题 - 2022新年挑战
-      url: https://mp.weixin.qq.com/s?__biz=MzkwNTg3MjY3MQ==&mid=2247484825&idx=1&sn=651a2a703cefdec0af726eefac157b4d
-    - author: 进击的HACK
-      release_time: 2026.04.01 21:05:48
-      title: 给AI Agent配置JS逆向MCP
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489906&idx=1&sn=0a28edb08a9ff24f4d1f47f7ebce6379
-    - author: 进击的HACK
-      release_time: 2026.04.01 21:05:48
-      title: 生成dirsearch命令的skills
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489906&idx=2&sn=2dce7e83682fb2d22ea4a8833560a27e
-    - author: 如意私塾
-      release_time: 2026.04.01 18:53:26
-      title: AI语音识别Google的reCAPTCHA v2音频验证码成功率100%
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484295&idx=1&sn=dfa3f7ea257cf80d5efb626492621dc4
-    - author: just reverse
-      release_time: 2026.04.01 18:18:53
-      title: 从trace分析vmp中的SHA256算法
-      url: https://mp.weixin.qq.com/s?__biz=Mzk1NzI2Njg5NQ==&mid=2247483873&idx=1&sn=3b9946f512b9e9ea85e0a9962dc1a3a0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
