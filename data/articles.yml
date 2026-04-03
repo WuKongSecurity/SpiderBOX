@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2026.04.03 17:29:00
+      title: AI逆向|猿人学逆向反混淆练习平台第七题加密分析
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566417&idx=1&sn=987920585ef7e762e02c3f60e6119590
     - author: 如意私塾
       release_time: 2026.04.03 16:27:40
       title: AI时代验证码的终局：一个通用AI求解器，不需要训练就能破解26种视觉验证码
@@ -240,10 +244,6 @@
       release_time: 2026.04.02 08:15:00
       title: 写一个能在微信群聊使用的龙虾(openclaw)bot
       url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486105&idx=1&sn=ad2224d6229ea604d13e4708b6be52e6
-    - author: Python成长路
-      release_time: 2026.04.02 08:15:00
-      title: window使用WSL部署龙虾(openclaw)
-      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486105&idx=2&sn=424973dad19843716b1c903baac0b958
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
