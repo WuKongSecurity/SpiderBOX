@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: EithanSolace
+      release_time: 2026.04.03 21:25:32
+      title: 密码学补完计划[第三十一期] 海绵结构
+      url: https://www.bilibili.com/video/BV1zL9MBXEGw
     - author: 小博士python逆向
       release_time: 2026.04.03 18:02:43
       title: AI逆向第一步就错了？2026年主流大模型横评与第三方接口接入避坑指南
@@ -117,10 +121,6 @@
       release_time: 2026.03.20 01:10:38
       title: js逆向百例-27-bd acs_token流程分析
       url: https://www.bilibili.com/video/BV1osAVzWEF6
-    - author: 风华Ahu
-      release_time: 2026.03.20 01:07:29
-      title: js逆向百例-26-facebook登录分析
-      url: https://www.bilibili.com/video/BV1XaAVzUED2
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
