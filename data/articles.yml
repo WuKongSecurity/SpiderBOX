@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 将往的爬虫逆向日记
+      release_time: 2026.04.03 11:00:00
+      title: 某电力Ukey参数浅析
+      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862247&idx=1&sn=29ba4f58d28c6c54ef81593e0c9277e7
     - author: 泡泡以安
       release_time: 2026.04.03 09:09:00
       title: Android 逆向视角下的 Protobuf 协议分析（下篇）：Frida Hook、对抗绕过与工具速查
@@ -240,10 +244,6 @@
       release_time: 2026.04.02 08:00:00
       title: 重生后我成了计算机-第4章 暗网悬赏与硬件特征伪装
       url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486514&idx=2&sn=788abbae2f7823c5f2ffbbc10b18ad68
-    - author: 移动安全星球
-      release_time: 2026.04.02 08:00:00
-      title: 重生后我成了计算机-第5章 降维屠杀与电压劫持
-      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486514&idx=3&sn=46ac25cc6d388d1662954dacdfa5a6df
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
