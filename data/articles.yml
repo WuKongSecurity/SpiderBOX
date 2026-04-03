@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 东方玻璃
+      release_time: 2026.04.04 02:33:53
+      title: '[原创]Android从ELF-Loader到自定义Linker的实现及原理'
+      url: https://bbs.kanxue.com/thread-290643.htm
     - author: wx_Deity
       release_time: 2026.04.03 19:11:04
       title: '[原创]Pixel 2 (walleye) Android 10 手动集成 KernelSU 编译实战'
@@ -486,10 +490,6 @@
       release_time: 2026.03.28 22:25:18
       title: 断层碾压 Opus！Anthropic 最强模型泄露，代号「卡皮巴拉」
       url: https://blog.csdn.net/qq_41155858/article/details/159586849
-    - author: 逆向学习之旅
-      release_time: 2026.03.28 20:36:19
-      title: 京东E卡变速滑块验证码
-      url: https://blog.csdn.net/qq_44657571/article/details/159585860
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
