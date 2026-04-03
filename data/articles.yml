@@ -2,6 +2,14 @@
   list:
   - links:
     - author: 小博士python逆向
+      release_time: 2026.04.03 16:59:57
+      title: AI逆向第一步就错了？2026年主流大模型横评与第三方接口接入避坑指南-1
+      url: https://www.bilibili.com/video/BV1Tn9uBuE96
+    - author: 小博士python逆向
+      release_time: 2026.04.03 15:56:08
+      title: AI逆向的边界在哪？Token瓶颈、注意力残差与2026年Harness工程新范式
+      url: https://www.bilibili.com/video/BV1UY9KBYE8a
+    - author: 小博士python逆向
       release_time: 2026.04.03 15:14:26
       title: AI真能搞定所有逆向？深入解析2026年AI逆向攻防现状、瓶颈与未来
       url: https://www.bilibili.com/video/BV1XT9TBuEWc
@@ -113,17 +121,13 @@
       release_time: 2026.03.19 23:23:30
       title: safari内核指纹浏览器定制-动态修改webdriver
       url: https://www.bilibili.com/video/BV1gqAVzjEqu
-    - author: 和沐阳学逆向与Ai
-      release_time: 2026.03.19 20:33:55
-      title: 78.别再烧Token了！OpenClaw省钱实战，月费直降90%
-      url: https://www.bilibili.com/video/BV1sewyzRECZ
-    - author: 风华Ahu
-      release_time: 2026.03.18 19:54:26
-      title: js逆向百例-25-太简单了 没名字
-      url: https://www.bilibili.com/video/BV1G2wizyEYn
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.04.03 16:27:40
+      title: AI时代验证码的终局：一个通用AI求解器，不需要训练就能破解26种视觉验证码
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484308&idx=1&sn=af831ff089d9dbbeb4468222f71c04af
     - author: AI爬盒
       release_time: 2026.04.03 14:18:08
       title: a_bogus逆向对决：$86 搞定 vs $293 打了水漂
@@ -240,13 +244,13 @@
       release_time: 2026.04.02 08:15:00
       title: window使用WSL部署龙虾(openclaw)
       url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486105&idx=2&sn=424973dad19843716b1c903baac0b958
-    - author: 吾爱破解论坛
-      release_time: 2026.04.02 08:14:00
-      title: 【2026春节】初十Windows高级题目WriteUp&提示词分享
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144186&idx=1&sn=8004d5e7d9193728b4c8a781fb7fbc14
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 漁滒
+      release_time: 2026.04.03 16:52:00
+      title: 【JS逆向系列】某咕视频ddCalcu参数分析
+      url: https://www.52pojie.cn/thread-2101190-1-1.html
     - author: fyr666
       release_time: 2026.04.02 14:24:00
       title: 全流程使用AI，完成一次APK重打包。改包名、绕过 Native 校验、重建签名并去掉奖励...
@@ -363,10 +367,6 @@
       release_time: 2026.03.15 22:12:00
       title: 某音乐jsvmp插桩纯算解析+响应数据加密绕过
       url: https://www.52pojie.cn/thread-2096887-1-1.html
-    - author: fanchenSir
-      release_time: 2026.03.14 18:37:00
-      title: 某个AI小说生成器源码破解，跳过二维码扫码登录使用
-      url: https://www.52pojie.cn/thread-2096608-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
