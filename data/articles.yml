@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: AI爬盒
+      release_time: 2026.04.03 14:18:08
+      title: a_bogus逆向对决：$86 搞定 vs $293 打了水漂
+      url: https://mp.weixin.qq.com/s?__biz=MzcwMzIxNDAxMQ==&mid=2247483717&idx=1&sn=4df0021391e22e847694c40aad6f4d7a
+    - author: 逆向有你
+      release_time: 2026.04.03 14:16:47
+      title: WEB前端逆向在nodejs环境中复用webpack代码
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041624&idx=1&sn=868f7e639a981dc7d66d282142b2a617
     - author: 将往的爬虫逆向日记
       release_time: 2026.04.03 11:00:00
       title: 某电力Ukey参数浅析
@@ -236,17 +244,13 @@
       release_time: 2026.04.02 08:14:00
       title: 【2026春节】初十Windows高级题目WriteUp&提示词分享
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144186&idx=1&sn=8004d5e7d9193728b4c8a781fb7fbc14
-    - author: 移动安全星球
-      release_time: 2026.04.02 08:00:00
-      title: 重生后我成了计算机-第3章 核心扩容与算力狂欢
-      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486514&idx=1&sn=da15eb33c8ea16af94ad3fe6c02f8f13
-    - author: 移动安全星球
-      release_time: 2026.04.02 08:00:00
-      title: 重生后我成了计算机-第4章 暗网悬赏与硬件特征伪装
-      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486514&idx=2&sn=788abbae2f7823c5f2ffbbc10b18ad68
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: fyr666
+      release_time: 2026.04.02 14:24:00
+      title: 全流程使用AI，完成一次APK重打包。改包名、绕过 Native 校验、重建签名并去掉奖励...
+      url: https://www.52pojie.cn/thread-2100927-1-1.html
     - author: Evan422
       release_time: 2026.04.02 11:44:00
       title: AI辅助逆向某flutter应用
@@ -363,10 +367,6 @@
       release_time: 2026.03.14 18:37:00
       title: 某个AI小说生成器源码破解，跳过二维码扫码登录使用
       url: https://www.52pojie.cn/thread-2096608-1-1.html
-    - author: mxyoor
-      release_time: 2026.03.14 14:24:00
-      title: 小白借助 AI 复盘某班课鉴权链路分析
-      url: https://www.52pojie.cn/thread-2096514-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
