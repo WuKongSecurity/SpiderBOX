@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: R逆向
+      release_time: 2026.04.04 22:52:31
+      title: Frida 17.6.2 魔改 rusda：编译实践与反检测 Patch 的技术剖析
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NjA3Mw==&mid=2247483805&idx=1&sn=9933ab5691bbb1f35d4dbe8306cdb988
     - author: 进击的HACK
       release_time: 2026.04.04 21:33:34
       title: 当大模型拿起键盘：AI渗透测试实战技巧
@@ -240,10 +244,6 @@
       release_time: 2026.04.02 20:27:02
       title: 【khbox补环境案例-2】yrx2内存爆破分析
       url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484337&idx=1&sn=2083e8846e8ce336d3aca8d0bb10daca
-    - author: 零基础爬虫第一天
-      release_time: 2026.04.02 20:21:56
-      title: 【khbox补环境案例-1】yrx1
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484325&idx=1&sn=741462e70a52ac5fccf859fa1efcebff
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 太岁又沐风
+      release_time: 2026.04.04 22:46:02
+      title: '[原创]Frida 17.6.2 魔改 rusda：编译实践与反检测 Patch 的技术剖析'
+      url: https://bbs.kanxue.com/thread-290651.htm
     - author: reserve_zhou
       release_time: 2026.04.04 15:22:13
       title: '[原创]Frida企业级加固对抗实战: 通过 mmap/mprotect 钓出壳隐藏的真实 SO'
@@ -486,10 +490,6 @@
       release_time: 2026.03.28 22:50:39
       title: 我现在怎么用 CC Switch 管中转站，顺手拿 Codex 举个例子
       url: https://blog.csdn.net/qq_41155858/article/details/159587233
-    - author: 孤木落
-      release_time: 2026.03.28 22:49:05
-      title: '[原创]Native层binder与syscall代理技术'
-      url: https://bbs.kanxue.com/thread-290553.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
