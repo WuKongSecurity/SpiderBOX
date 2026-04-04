@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: tomysky0409
+      release_time: 2026.04.04 13:20:51
+      title: 验证码思路分享3-倾斜英文
+      url: https://www.bilibili.com/video/BV1bWDKBZEwD
     - author: EithanSolace
       release_time: 2026.04.03 21:25:32
       title: 密码学补完计划[第三十一期] 海绵结构
@@ -117,10 +121,6 @@
       release_time: 2026.03.20 08:00:00
       title: 密码学补完计划[第二十九期] SHA-1
       url: https://www.bilibili.com/video/BV1bfAGzGEBx
-    - author: 风华Ahu
-      release_time: 2026.03.20 01:10:38
-      title: js逆向百例-27-bd acs_token流程分析
-      url: https://www.bilibili.com/video/BV1osAVzWEF6
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
