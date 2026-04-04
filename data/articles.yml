@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.04.04 21:33:34
+      title: 当大模型拿起键盘：AI渗透测试实战技巧
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489923&idx=1&sn=44150bd038f48718f01965b2eb046e13
     - author: 如意私塾
       release_time: 2026.04.04 13:44:12
       title: 家里智能电视TV的设备指纹，你在看什么App？ISP光看加密流量就能猜出来。
@@ -240,10 +244,6 @@
       release_time: 2026.04.02 20:21:56
       title: 【khbox补环境案例-1】yrx1
       url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484325&idx=1&sn=741462e70a52ac5fccf859fa1efcebff
-    - author: 未闻Code
-      release_time: 2026.04.02 19:25:32
-      title: 这个 skills 太硬核了，刚开源就斩获 1.7K Star！Agent 联网能力拉满！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991540&idx=1&sn=3d8a6f70b39df3778a60f30c6c4f7c57
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
