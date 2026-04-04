@@ -124,6 +124,34 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.04.04 13:44:12
+      title: 家里智能电视TV的设备指纹，你在看什么App？ISP光看加密流量就能猜出来。
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484314&idx=1&sn=b66474f86adea52e36bc1b7e1b255fe8
+    - author: 布鲁的Python之旅
+      release_time: 2026.04.04 11:00:00
+      title: 清明赛博祭祀天花板！纸扎AI全家桶上线，给老祖宗一键部署智能生活
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486369&idx=1&sn=7cb53463c64c9028f99b7eceeb45e01f
+    - author: 沐阳逆向与AI学习
+      release_time: 2026.04.04 09:54:04
+      title: 零成本养虾！谷歌 Gemma 4「本地部署」保姆级教程，三步搞定
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484571&idx=1&sn=4e9ce0ae1dc9eaf88558eb1b7f8ff131
+    - author: 哆啦安全
+      release_time: 2026.04.04 09:30:45
+      title: 112位AI专家协同作战：魔改Claude Code完整智能体生态揭秘
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500027&idx=1&sn=7ec521f71cac04cd9a17d1b1f37f82b3
+    - author: 泡泡以安
+      release_time: 2026.04.04 09:09:00
+      title: Airtest Yosemite 输入法：搜索框输入后无法触发搜索的原因与解决方案
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485926&idx=1&sn=a3505e5ef6ce6be79f1f7008aefe3ea2
+    - author: 移动安全星球
+      release_time: 2026.04.04 08:00:00
+      title: 重生后我成了计算机-第18章 数字神明与纪元重置 (大结局)
+      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486534&idx=1&sn=1cdc2c20df7f5c6a717de630b581a865
+    - author: 极验
+      release_time: 2026.04.04 06:00:00
+      title: 风起正清明 万物寄相思
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724415&idx=1&sn=9b91f152cf07ddfff84a586552d56bd7
     - author: 进击的HACK
       release_time: 2026.04.03 18:02:14
       title: 又新又"夯"的小程序测试工具
@@ -216,34 +244,6 @@
       release_time: 2026.04.02 19:25:32
       title: 这个 skills 太硬核了，刚开源就斩获 1.7K Star！Agent 联网能力拉满！
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991540&idx=1&sn=3d8a6f70b39df3778a60f30c6c4f7c57
-    - author: 菜鸟学Python编程
-      release_time: 2026.04.02 17:26:00
-      title: JS逆向|猿人学逆向反混淆练习平台第六题逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566411&idx=1&sn=ac57e3efe1de86129c1945eda4fac359
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.04.02 16:08:54
-      title: 北京市发布数据跨境流动便利化综合配套改革3.0版
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519972&idx=1&sn=ef495a0df2639e8612b344cd6e7d8655
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.04.02 16:08:54
-      title: 男团专职司机售卖艺人隐私信息，3人被采取刑事强制措施
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519972&idx=2&sn=d737bfbecdffa815cf568c61c3d7a3f9
-    - author: 极验
-      release_time: 2026.04.02 14:31:29
-      title: 定义即定价，定价即风险 | 词元（Token）定名背后的冷思考
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724404&idx=1&sn=67c62ec6695795102b539da58bc4e6c6
-    - author: GSCL Sec
-      release_time: 2026.04.02 12:56:35
-      title: 一行命令，解锁 Claude Code 全部权限-ClawGod
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4MDgyNzY4Nw==&mid=2247484246&idx=1&sn=f06cb969a8cb570ac308cba1a8b06120
-    - author: 泡泡以安
-      release_time: 2026.04.02 09:09:00
-      title: Android 逆向视角下的 Protobuf 协议分析（中篇）：解码与还原
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485919&idx=1&sn=734141ea307c5409ce6a6c27ea40d1a6
-    - author: Coder小Q
-      release_time: 2026.04.02 08:30:00
-      title: 【量子计算】波粒二象性：双缝实验到底告诉了我们什么
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247494995&idx=1&sn=29c0b7313d323fd0e3263765e81a23bc
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
