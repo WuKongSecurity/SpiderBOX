@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Oo0_qbpd_0oO
+      release_time: 2026.04.04 22:56:59
+      title: '[原创] CVD RK3588 GPU 加速方案'
+      url: https://bbs.kanxue.com/thread-290650.htm
     - author: 太岁又沐风
       release_time: 2026.04.04 22:46:02
       title: '[原创]Frida 17.6.2 魔改 rusda：编译实践与反检测 Patch 的技术剖析'
@@ -486,10 +490,6 @@
       release_time: 2026.03.29 15:52:28
       title: '[原创]尝试构建 LLM + 静态分析审计流水线，60s 自动化定位 Android Native 漏洞'
       url: https://bbs.kanxue.com/thread-290561.htm
-    - author: 和沐阳学逆向
-      release_time: 2026.03.28 22:50:39
-      title: 我现在怎么用 CC Switch 管中转站，顺手拿 Codex 举个例子
-      url: https://blog.csdn.net/qq_41155858/article/details/159587233
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
