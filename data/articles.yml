@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.04.05 10:30:17
+      title: 安卓Root技术的演进与选型指南(Magisk/KernelSU/APatch/SukiSU)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500034&idx=1&sn=77f1b900e4895c53b855186766fe7bfe
     - author: R逆向
       release_time: 2026.04.04 22:52:31
       title: Frida 17.6.2 魔改 rusda：编译实践与反检测 Patch 的技术剖析
@@ -240,10 +244,6 @@
       release_time: 2026.04.02 21:09:44
       title: 同事.skill 前任.skill 自己.skill
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489916&idx=2&sn=70655d6bfb37fc21249588499988adf6
-    - author: 零基础爬虫第一天
-      release_time: 2026.04.02 20:27:02
-      title: 【khbox补环境案例-2】yrx2内存爆破分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484337&idx=1&sn=2083e8846e8ce336d3aca8d0bb10daca
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
