@@ -378,6 +378,10 @@
       release_time: 2026.04.04 22:46:02
       title: '[原创]Frida 17.6.2 魔改 rusda：编译实践与反检测 Patch 的技术剖析'
       url: https://bbs.kanxue.com/thread-290651.htm
+    - author: 冰履踏青云
+      release_time: 2026.04.04 22:09:26
+      title: JS逆向之 QQ 音乐 请求体 sign加密、payload加密与响应解密完整还原
+      url: https://bingyun.blog.csdn.net/article/details/159808400
     - author: reserve_zhou
       release_time: 2026.04.04 15:22:13
       title: '[原创]Frida企业级加固对抗实战: 通过 mmap/mprotect 钓出壳隐藏的真实 SO'
@@ -486,10 +490,6 @@
       release_time: 2026.03.29 21:00:36
       title: JS逆向|逆向反混淆练习平台第二题加密参数并获取数据
       url: https://blog.csdn.net/qq523176585/article/details/159620692
-    - author: mb_lwbtipdx
-      release_time: 2026.03.29 15:52:28
-      title: '[原创]尝试构建 LLM + 静态分析审计流水线，60s 自动化定位 Android Native 漏洞'
-      url: https://bbs.kanxue.com/thread-290561.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
