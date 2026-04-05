@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: x0rrrrr
+      release_time: 2026.04.05 18:29:06
+      title: '[原创]某瓣libmsaoaidsec.so Frida检测分析与绕过实战'
+      url: https://bbs.kanxue.com/thread-290658.htm
     - author: Oo0_qbpd_0oO
       release_time: 2026.04.04 22:56:59
       title: '[原创] CVD RK3588 GPU 加速方案'
@@ -486,10 +490,6 @@
       release_time: 2026.03.29 21:36:12
       title: '[原创]frida-ios-dump更新:Frida 17版本脱壳工具深度解析与实战应用：iOS应用解密全攻略'
       url: https://bbs.kanxue.com/thread-290557.htm
-    - author: 悦来客栈的老板
-      release_time: 2026.03.29 21:00:36
-      title: JS逆向|逆向反混淆练习平台第二题加密参数并获取数据
-      url: https://blog.csdn.net/qq523176585/article/details/159620692
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
