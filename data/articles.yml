@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.04.05 22:01:25
+      title: 未授权访问的“上帝视角” || 从功能性路由看权限菜单绕过技巧（全网首发）
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489925&idx=1&sn=5733648aea4490c047dc02a54147403f
     - author: 哆啦安全
       release_time: 2026.04.05 10:30:17
       title: 安卓Root技术的演进与选型指南(Magisk/KernelSU/APatch/SukiSU)
@@ -240,13 +244,17 @@
       release_time: 2026.04.02 21:09:44
       title: AntiDebug + 脚本实现自动测试Vue路由未授权
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489916&idx=1&sn=536033c7092a7c628ed69468378e6b2b
-    - author: 进击的HACK
-      release_time: 2026.04.02 21:09:44
-      title: 同事.skill 前任.skill 自己.skill
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489916&idx=2&sn=70655d6bfb37fc21249588499988adf6
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: wansconst
+      release_time: 2026.04.05 17:52:00
+      title: 分析某软件的请求加密和响应解密流程_思路分享
+      url: https://www.52pojie.cn/thread-2101445-1-1.html
+    - author: OrientalGlass
+      release_time: 2026.04.04 17:00:00
+      title: Android从ELF-Loader到自定义Linker的实现及原理
+      url: https://www.52pojie.cn/thread-2101321-1-1.html
     - author: 漁滒
       release_time: 2026.04.03 16:52:00
       title: 【JS逆向系列】某咕视频ddCalcu参数分析
@@ -359,14 +367,6 @@
       release_time: 2026.03.16 22:46:00
       title: 初探 Flutter 的猫腻
       url: https://www.52pojie.cn/thread-2097259-1-1.html
-    - author: dfbdy
-      release_time: 2026.03.16 18:08:00
-      title: 腾讯滑块纯算法浅析
-      url: https://www.52pojie.cn/thread-2097198-1-1.html
-    - author: n1ng
-      release_time: 2026.03.16 13:34:00
-      title: 从0到1构建一个Hook工具之注入器篇（一）
-      url: https://www.52pojie.cn/thread-2097088-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
