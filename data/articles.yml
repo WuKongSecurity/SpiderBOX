@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2026.04.07 20:29:48
+      title: 【SaoPageV2】 自动过tiktok验证码！
+      url: https://www.bilibili.com/video/BV1ptDeBfEWP
     - author: x1a0f3n9
       release_time: 2026.04.07 20:25:37
       title: 深度混淆与魔改md5的还原方案理论讲解
@@ -117,13 +121,21 @@
       release_time: 2026.03.21 15:11:15
       title: 【webview类App】pgsp速通
       url: https://www.bilibili.com/video/BV13eAwzUEez
-    - author: EithanSolace
-      release_time: 2026.03.20 08:00:00
-      title: 密码学补完计划[第二十九期] SHA-1
-      url: https://www.bilibili.com/video/BV1bfAGzGEBx
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.04.07 21:32:11
+      title: 快速调试前端 js 代码 v_jstools
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489935&idx=1&sn=05e5b891f84ed069d9b13a54a521c499
+    - author: 菜鸟学Python编程
+      release_time: 2026.04.07 21:00:00
+      title: AI逆向|猿人学逆向反混淆练习平台第八题加密分析
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566426&idx=1&sn=385d2026c43de283c3f05afd9bd7c782
+    - author: 沐阳逆向与AI学习
+      release_time: 2026.04.07 20:38:36
+      title: 5.亲测可用！codex破限制给你写逆向脚本,妈妈再也不用担心GPT闲置了
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484585&idx=1&sn=716476a0473d990640350eda566796c8
     - author: x1a0f3n9
       release_time: 2026.04.07 17:11:07
       title: 某笔记app深度混淆魔改md5逆向思路
@@ -232,18 +244,6 @@
       release_time: 2026.04.04 09:30:45
       title: 112位AI专家协同作战：魔改Claude Code完整智能体生态揭秘
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500027&idx=1&sn=7ec521f71cac04cd9a17d1b1f37f82b3
-    - author: 泡泡以安
-      release_time: 2026.04.04 09:09:00
-      title: Airtest Yosemite 输入法：搜索框输入后无法触发搜索的原因与解决方案
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485926&idx=1&sn=a3505e5ef6ce6be79f1f7008aefe3ea2
-    - author: 移动安全星球
-      release_time: 2026.04.04 08:00:00
-      title: 重生后我成了计算机-第18章 数字神明与纪元重置 (大结局)
-      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486534&idx=1&sn=1cdc2c20df7f5c6a717de630b581a865
-    - author: 极验
-      release_time: 2026.04.04 06:00:00
-      title: 风起正清明 万物寄相思
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724415&idx=1&sn=9b91f152cf07ddfff84a586552d56bd7
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
