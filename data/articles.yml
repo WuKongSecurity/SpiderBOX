@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 澎湖湾的彭
+      release_time: 2026.04.07 17:17:51
+      title: 极验4滑块逆向
+      url: https://www.bilibili.com/video/BV121DvBKE8p
     - author: 池唐不是糖
       release_time: 2026.04.06 11:20:10
       title: 是我变菜了还是这个世界变了？混淆加密的一键通杀方法！！！
@@ -117,10 +121,6 @@
       release_time: 2026.03.20 01:10:38
       title: js逆向百例-27-bd acs_token流程分析
       url: https://www.bilibili.com/video/BV1osAVzWEF6
-    - author: 风华Ahu
-      release_time: 2026.03.20 01:07:29
-      title: js逆向百例-26-facebook登录分析
-      url: https://www.bilibili.com/video/BV1XaAVzUED2
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
