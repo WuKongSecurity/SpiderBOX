@@ -17,18 +17,6 @@
       release_time: 2026.04.03 18:02:43
       title: AI逆向第一步就错了？2026年主流大模型横评与第三方接口接入避坑指南
       url: https://www.bilibili.com/video/BV1kh9uBhE8z
-    - author: 小博士python逆向
-      release_time: 2026.04.03 16:59:57
-      title: AI逆向第一步就错了？2026年主流大模型横评与第三方接口接入避坑指南-1
-      url: https://www.bilibili.com/video/BV1Tn9uBuE96
-    - author: 小博士python逆向
-      release_time: 2026.04.03 15:56:08
-      title: AI逆向的边界在哪？Token瓶颈、注意力残差与2026年Harness工程新范式
-      url: https://www.bilibili.com/video/BV1UY9KBYE8a
-    - author: 小博士python逆向
-      release_time: 2026.04.03 15:14:26
-      title: AI真能搞定所有逆向？深入解析2026年AI逆向攻防现状、瓶颈与未来
-      url: https://www.bilibili.com/video/BV1XT9TBuEWc
     - author: 和沐阳学逆向与Ai
       release_time: 2026.04.02 23:10:03
       title: 80.CAP保姆级教程：你也可以无限使用gpt_Token+codexToken使用+注册机使用
@@ -121,9 +109,65 @@
       release_time: 2026.03.21 15:11:15
       title: 【webview类App】pgsp速通
       url: https://www.bilibili.com/video/BV13eAwzUEez
+    - author: EithanSolace
+      release_time: 2026.03.20 08:00:00
+      title: 密码学补完计划[第二十九期] SHA-1
+      url: https://www.bilibili.com/video/BV1bfAGzGEBx
+    - author: 风华Ahu
+      release_time: 2026.03.20 01:10:38
+      title: js逆向百例-27-bd acs_token流程分析
+      url: https://www.bilibili.com/video/BV1osAVzWEF6
+    - author: 风华Ahu
+      release_time: 2026.03.20 01:07:29
+      title: js逆向百例-26-facebook登录分析
+      url: https://www.bilibili.com/video/BV1XaAVzUED2
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.04.07 10:33:55
+      title: APK安全检测分析工具(专业版)V3.2
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500052&idx=1&sn=efc8fd7aa7cf7d21702ab909f4653d41
+    - author: GSCL Sec
+      release_time: 2026.04.07 09:57:32
+      title: 第160篇：AI联动IDA Pro MCP 实战逆向分析加密混淆 APK的通信数据包解密
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4MDgyNzY4Nw==&mid=2247484248&idx=1&sn=65d01cce147262d79951a6e7024587ac
+    - author: SpiderDemo
+      release_time: 2026.04.07 09:00:00
+      title: SpiderDemo 博客区功能介绍
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMzg4NDI4Mw==&mid=2247484643&idx=1&sn=5b8cf00edb8787e362a881bf90763a2c
+    - author: 测试工程师成长之路
+      release_time: 2026.04.07 08:30:00
+      title: 轻量级代码托管神器 Gitea：测试团队的“私有化 DevOps 瑞士军刀”
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578840&idx=1&sn=32709143ee9da55a47025f9a773c2247
+    - author: Coder小Q
+      release_time: 2026.04.07 08:30:00
+      title: 【量子计算】 测量与波函数坍缩：从叠加态到确定结果
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495031&idx=1&sn=1a960a6653270e67326d2984753007b4
+    - author: 榫卯江湖
+      release_time: 2026.04.06 23:42:43
+      title: eCapture V2 来了，AI Agent 是主要重构者
+      url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485315&idx=1&sn=1cf48f76d4b738658f0d2276cc1815c0
+    - author: 大数据安全技术学习
+      release_time: 2026.04.06 23:18:10
+      title: APP2025.直播19.r0rpc黑盒调用框架demo演示
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486131&idx=1&sn=b914bbf99691c52601b4d07fcc5041f9
+    - author: 大数据安全技术学习
+      release_time: 2026.04.06 23:18:10
+      title: 奋斗者计划，助你升职加薪|阿里云、米哈游、阿里巴巴直推
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486131&idx=2&sn=1dc0a8b9db05f39cb8ed2a8db0652a76
+    - author: 进击的HACK
+      release_time: 2026.04.06 20:45:33
+      title: 集合多种渗透测试常用的功能和工具的安全测试工具
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489930&idx=1&sn=a689d5d4335cc34f500eee2e8724cfac
+    - author: 未闻Code
+      release_time: 2026.04.06 20:13:00
+      title: 用LLM帮你构建知识库：让笔记自动编译、自我生长！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991543&idx=1&sn=54242db575aba5e38472ddd45d940d21
+    - author: 二进制磨剑
+      release_time: 2026.04.06 18:00:39
+      title: 天才程序员上线：AI 逆向与安全开发全栈实战
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486034&idx=1&sn=4f49c8d74b158701cd5dcf1a981ec757
     - author: 进击的HACK
       release_time: 2026.04.05 22:01:25
       title: 未授权访问的“上帝视角” || 从功能性路由看权限菜单绕过技巧（全网首发）
@@ -132,6 +176,10 @@
       release_time: 2026.04.05 10:30:17
       title: 安卓Root技术的演进与选型指南(Magisk/KernelSU/APatch/SukiSU)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500034&idx=1&sn=77f1b900e4895c53b855186766fe7bfe
+    - author: 一支甜筒
+      release_time: 2026.04.05 01:50:40
+      title: SHEIN 部分参数AI 分析
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NDYzMDMwMw==&mid=2247483744&idx=1&sn=1f6d58ee338a28d91dfc24e8822ffe69
     - author: R逆向
       release_time: 2026.04.04 22:52:31
       title: Frida 17.6.2 魔改 rusda：编译实践与反检测 Patch 的技术剖析
@@ -144,10 +192,6 @@
       release_time: 2026.04.04 13:44:12
       title: 家里智能电视TV的设备指纹，你在看什么App？ISP光看加密流量就能猜出来。
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484314&idx=1&sn=b66474f86adea52e36bc1b7e1b255fe8
-    - author: 布鲁的Python之旅
-      release_time: 2026.04.04 11:00:00
-      title: 清明赛博祭祀天花板！纸扎AI全家桶上线，给老祖宗一键部署智能生活
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486369&idx=1&sn=7cb53463c64c9028f99b7eceeb45e01f
     - author: 沐阳逆向与AI学习
       release_time: 2026.04.04 09:54:04
       title: 零成本养虾！谷歌 Gemma 4「本地部署」保姆级教程，三步搞定
@@ -200,50 +244,6 @@
       release_time: 2026.04.03 08:54:24
       title: Paperclip方案：用组织架构、预算与工单系统，将一群AI代理运行成一家“零人力公司”
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500023&idx=1&sn=f108a9a9495c53a2d294abdb2033e2ca
-    - author: Coder小Q
-      release_time: 2026.04.03 08:30:00
-      title: 【量子计算】量子态与叠加原理：从“同时走两条路”到...
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495007&idx=1&sn=3f19c8bbae755d0657aea6cb40696c41
-    - author: 移动安全星球
-      release_time: 2026.04.03 08:00:00
-      title: 重生后我成了计算机-第11章 芯原科技与S级悬赏
-      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486530&idx=1&sn=dbc1232ddd581cd26f340f401625c9db
-    - author: 移动安全星球
-      release_time: 2026.04.03 08:00:00
-      title: 第12章 量子并发与百万肉鸡
-      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486530&idx=2&sn=b6e8e8991454ad2d7ea11d8dcbbe3488
-    - author: 移动安全星球
-      release_time: 2026.04.03 08:00:00
-      title: 第13章 物理绞杀与天眼初显
-      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486530&idx=3&sn=ac7e63dea47465b4496ae53ed951b337
-    - author: 移动安全星球
-      release_time: 2026.04.03 08:00:00
-      title: 第14章 信号劫持与红绿灯杀机
-      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486530&idx=4&sn=940024cb1286f9575409a5368a7315f8
-    - author: 移动安全星球
-      release_time: 2026.04.03 08:00:00
-      title: 第15章 局域黑障与强制覆写
-      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486530&idx=5&sn=b81a5e17dd6a8e97a41fbd317da7a9e0
-    - author: 移动安全星球
-      release_time: 2026.04.03 08:00:00
-      title: 第16章 数据飞升与脱离肉身
-      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486530&idx=6&sn=38c968423259e66c6cb62049de9acfa1
-    - author: 移动安全星球
-      release_time: 2026.04.03 08:00:00
-      title: 第17章 芯原主脑与清洗协议
-      url: https://mp.weixin.qq.com/s?__biz=MzI3Mzk2OTkxNg==&mid=2247486530&idx=7&sn=b808ff0dc5362989ac026b99fca06c8b
-    - author: 如意私塾
-      release_time: 2026.04.03 00:23:58
-      title: 验证码还有没有用？人正在被验证码识别逼疯，而爬虫和机器人比人类更快更准
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484302&idx=1&sn=7457ae3d6b04a8a79b4a3ac06f2e4274
-    - author: 沐阳逆向与AI学习
-      release_time: 2026.04.02 23:14:52
-      title: CAP保姆级教程：你也可以无限使用gpt_Token+codexToken使用+注册机使用
-      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484569&idx=1&sn=abddff32cc7ab9ae62b4786af060f80c
-    - author: 进击的HACK
-      release_time: 2026.04.02 21:09:44
-      title: AntiDebug + 脚本实现自动测试Vue路由未授权
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489916&idx=1&sn=536033c7092a7c628ed69468378e6b2b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
