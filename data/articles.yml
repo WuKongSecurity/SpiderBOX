@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2026.04.07 15:29:48
+      title: 全流程使用AI，完成一次APK重打包。改包名、绕过 Native 校验、重建签名并去掉奖励广告的完整复现
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144234&idx=1&sn=8ae477d7d05e1c3b8ab0775ab9162e25
     - author: 逆向有你
       release_time: 2026.04.07 14:36:55
       title: 安卓逆向 -- 某DB去开屏广告+本地vip（ProxyPin重写）
@@ -240,10 +244,6 @@
       release_time: 2026.04.03 14:18:08
       title: a_bogus逆向对决：$86 搞定 vs $293 打了水漂
       url: https://mp.weixin.qq.com/s?__biz=MzcwMzIxNDAxMQ==&mid=2247483717&idx=1&sn=4df0021391e22e847694c40aad6f4d7a
-    - author: 逆向有你
-      release_time: 2026.04.03 14:16:47
-      title: WEB前端逆向在nodejs环境中复用webpack代码
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041624&idx=1&sn=868f7e639a981dc7d66d282142b2a617
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Evan_422
+      release_time: 2026.04.07 15:31:02
+      title: '[原创]AI辅助逆向某flutter应用'
+      url: https://bbs.kanxue.com/thread-290688.htm
     - author: mb_tqjnyivs
       release_time: 2026.04.07 14:58:00
       title: '[原创]dwva靶场-- sql注入'
@@ -486,10 +490,6 @@
       release_time: 2026.03.31 00:23:06
       title: '[原创]QTrace：基于QBDI的高稳定，高定制的trace工具'
       url: https://bbs.kanxue.com/thread-290574.htm
-    - author: x1a0f3n9
-      release_time: 2026.03.30 14:19:08
-      title: '[原创]魔改unidbg：极致的trace速度提升'
-      url: https://bbs.kanxue.com/thread-290570.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
