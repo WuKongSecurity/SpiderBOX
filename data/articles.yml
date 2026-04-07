@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2026.04.07 14:36:55
+      title: 安卓逆向 -- 某DB去开屏广告+本地vip（ProxyPin重写）
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041631&idx=1&sn=f8bf3447b2734244e040d92501f223a8
+    - author: Frida and So
+      release_time: 2026.04.07 14:15:32
+      title: QQ交流群
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247485125&idx=1&sn=b18e39cf4e4fca9bd8a4864e139ec90d
+    - author: 软件安全与逆向分析
+      release_time: 2026.04.07 14:03:46
+      title: 安卓逆向第三阶段试看-ARM64汇编开发与调试环境配置
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485101&idx=1&sn=03c9ace637c5fc7b845c6dd5c862c8d6
     - author: 哆啦安全
       release_time: 2026.04.07 10:33:55
       title: APK安全检测分析工具(专业版)V3.2
@@ -232,18 +244,6 @@
       release_time: 2026.04.03 14:16:47
       title: WEB前端逆向在nodejs环境中复用webpack代码
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041624&idx=1&sn=868f7e639a981dc7d66d282142b2a617
-    - author: 将往的爬虫逆向日记
-      release_time: 2026.04.03 11:00:00
-      title: 某电力Ukey参数浅析
-      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862247&idx=1&sn=29ba4f58d28c6c54ef81593e0c9277e7
-    - author: 泡泡以安
-      release_time: 2026.04.03 09:09:00
-      title: Android 逆向视角下的 Protobuf 协议分析（下篇）：Frida Hook、对抗绕过与工具速查
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485920&idx=1&sn=509d5dc6d8dc75b195c71cc60acc7673
-    - author: 哆啦安全
-      release_time: 2026.04.03 08:54:24
-      title: Paperclip方案：用组织架构、预算与工单系统，将一群AI代理运行成一家“零人力公司”
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500023&idx=1&sn=f108a9a9495c53a2d294abdb2033e2ca
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,14 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: mb_tqjnyivs
+      release_time: 2026.04.07 14:58:00
+      title: '[原创]dwva靶场-- sql注入'
+      url: https://bbs.kanxue.com/thread-290686.htm
+    - author: mb_tqjnyivs
+      release_time: 2026.04.07 14:52:00
+      title: '[原创]dwva靶场-- csrf'
+      url: https://bbs.kanxue.com/thread-290685.htm
     - author: 狗都不学爬虫_
       release_time: 2026.04.07 12:38:57
       title: AI逆向 JSVMP- x程（token参数）
@@ -482,14 +490,6 @@
       release_time: 2026.03.30 14:19:08
       title: '[原创]魔改unidbg：极致的trace速度提升'
       url: https://bbs.kanxue.com/thread-290570.htm
-    - author: 追风暴的人
-      release_time: 2026.03.30 12:34:05
-      title: AI逆向JS - 猿人学18题
-      url: https://blog.csdn.net/m0_51159233/article/details/159642667
-    - author: 悦来客栈的老板
-      release_time: 2026.03.30 10:04:50
-      title: JS逆向|猿人学逆向反混淆练习平台第三题逆向分析
-      url: https://blog.csdn.net/qq523176585/article/details/159661159
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
