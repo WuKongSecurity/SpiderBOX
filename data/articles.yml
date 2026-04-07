@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: x1a0f3n9
+      release_time: 2026.04.07 17:11:07
+      title: 某笔记app深度混淆魔改md5逆向思路
+      url: https://mp.weixin.qq.com/s?__biz=MzYzMTgyNjA1NA==&mid=2247483910&idx=1&sn=79e7500cc4f19912ee79509a2d39a8b5
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.04.07 16:30:00
+      title: 工信部等三部门部署开展2026年个人信息保护系列专项行动
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519982&idx=1&sn=ae632efd3258857f0bb760dbe7958754
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.04.07 16:30:00
+      title: 欧盟委员会云基础设施安全漏洞导致数据泄露
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519982&idx=2&sn=d51e733e29edc5eb8ed311f555076bc8
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.04.07 16:30:00
+      title: 小型个人信息处理者新规征求意见，减轻中小微企业合规负担
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519982&idx=3&sn=0038ff86853a7da6240395979f698089
     - author: 吾爱破解论坛
       release_time: 2026.04.07 15:29:48
       title: 全流程使用AI，完成一次APK重打包。改包名、绕过 Native 校验、重建签名并去掉奖励广告的完整复现
@@ -228,22 +244,6 @@
       release_time: 2026.04.04 06:00:00
       title: 风起正清明 万物寄相思
       url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724415&idx=1&sn=9b91f152cf07ddfff84a586552d56bd7
-    - author: 进击的HACK
-      release_time: 2026.04.03 18:02:14
-      title: 又新又"夯"的小程序测试工具
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489921&idx=1&sn=e63b92fd47bb163ac02d4d9f5764a6d1
-    - author: 菜鸟学Python编程
-      release_time: 2026.04.03 17:29:00
-      title: AI逆向|猿人学逆向反混淆练习平台第七题加密分析
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566417&idx=1&sn=987920585ef7e762e02c3f60e6119590
-    - author: 如意私塾
-      release_time: 2026.04.03 16:27:40
-      title: AI时代验证码的终局：一个通用AI求解器，不需要训练就能破解26种视觉验证码
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484308&idx=1&sn=af831ff089d9dbbeb4468222f71c04af
-    - author: AI爬盒
-      release_time: 2026.04.03 14:18:08
-      title: a_bogus逆向对决：$86 搞定 vs $293 打了水漂
-      url: https://mp.weixin.qq.com/s?__biz=MzcwMzIxNDAxMQ==&mid=2247483717&idx=1&sn=4df0021391e22e847694c40aad6f4d7a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,10 +370,18 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Tasfa
+      release_time: 2026.04.07 17:13:56
+      title: 【AI系列】从零开始学习大模型-系列2-Day1-深入理解大模型推理的核心机制
+      url: https://blog.csdn.net/qq_30135181/article/details/159926997
     - author: Evan_422
       release_time: 2026.04.07 15:31:02
       title: '[原创]AI辅助逆向某flutter应用'
       url: https://bbs.kanxue.com/thread-290688.htm
+    - author: mb_tqjnyivs
+      release_time: 2026.04.07 15:23:07
+      title: '[原创]dwva靶场-- xss'
+      url: https://bbs.kanxue.com/thread-290687.htm
     - author: mb_tqjnyivs
       release_time: 2026.04.07 14:58:00
       title: '[原创]dwva靶场-- sql注入'
@@ -482,14 +490,6 @@
       release_time: 2026.03.31 12:09:59
       title: 咸鱼sign签名 python纯算还原
       url: https://bingyun.blog.csdn.net/article/details/159683848
-    - author: 悦来客栈的老板
-      release_time: 2026.03.31 09:55:55
-      title: JS逆向|猿人学逆向反混淆练习平台第四题逆向分析
-      url: https://blog.csdn.net/qq523176585/article/details/159703053
-    - author: 乐子人
-      release_time: 2026.03.31 00:23:06
-      title: '[原创]QTrace：基于QBDI的高稳定，高定制的trace工具'
-      url: https://bbs.kanxue.com/thread-290574.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
