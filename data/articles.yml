@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.04.07 23:08:02
+      title: 下一代非CDP过检测自动化框架开源
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484330&idx=1&sn=ee163a7e79500e04a0d58777d24c2256
     - author: 进击的HACK
       release_time: 2026.04.07 21:32:11
       title: 快速调试前端 js 代码 v_jstools
@@ -240,10 +244,6 @@
       release_time: 2026.04.04 09:54:04
       title: 零成本养虾！谷歌 Gemma 4「本地部署」保姆级教程，三步搞定
       url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484571&idx=1&sn=4e9ce0ae1dc9eaf88558eb1b7f8ff131
-    - author: 哆啦安全
-      release_time: 2026.04.04 09:30:45
-      title: 112位AI专家协同作战：魔改Claude Code完整智能体生态揭秘
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500027&idx=1&sn=7ec521f71cac04cd9a17d1b1f37f82b3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
