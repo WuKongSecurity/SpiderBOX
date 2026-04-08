@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 反爬破解社
+      release_time: 2026.04.08 18:58:48
+      title: 浏览器指纹的深度伪装与检测：从UserAgent到WebGL的全面攻防
+      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483840&idx=1&sn=de7b9934e77ad6db8121e90d5f154ebb
+    - author: 反爬破解社
+      release_time: 2026.04.08 18:58:48
+      title: 每天白捡1小时！这3个真·免费AI神器，打工人速速码住！
+      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483840&idx=2&sn=3681c738f458568d250a27bf34e71f52
+    - author: 反爬破解社
+      release_time: 2026.04.08 18:58:48
+      title: 酒局来一粒，醒酒排毒！酒后吃一粒，过年喝的尽兴不伤肝！
+      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483840&idx=3&sn=ecd6f169f03ff59072761b18ff4a0e00
     - author: 进击的HACK
       release_time: 2026.04.08 17:59:24
       title: 微信4.x 小程序注入 JSRPC 与调用 wx.cloud
@@ -232,18 +244,6 @@
       release_time: 2026.04.07 09:00:00
       title: SpiderDemo 博客区功能介绍
       url: https://mp.weixin.qq.com/s?__biz=MzkwMzg4NDI4Mw==&mid=2247484643&idx=1&sn=5b8cf00edb8787e362a881bf90763a2c
-    - author: 测试工程师成长之路
-      release_time: 2026.04.07 08:30:00
-      title: 轻量级代码托管神器 Gitea：测试团队的“私有化 DevOps 瑞士军刀”
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578840&idx=1&sn=32709143ee9da55a47025f9a773c2247
-    - author: Coder小Q
-      release_time: 2026.04.07 08:30:00
-      title: 【量子计算】 测量与波函数坍缩：从叠加态到确定结果
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495031&idx=1&sn=1a960a6653270e67326d2984753007b4
-    - author: 榫卯江湖
-      release_time: 2026.04.06 23:42:43
-      title: eCapture V2 来了，AI Agent 是主要重构者
-      url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485315&idx=1&sn=1cf48f76d4b738658f0d2276cc1815c0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: CCTV果冻爽
+      release_time: 2026.04.08 18:50:39
+      title: '[原创]某SDK注册风控逆向'
+      url: https://bbs.kanxue.com/thread-290710.htm
     - author: wx_Deity
       release_time: 2026.04.08 11:18:58
       title: '[原创]从 Permission Denied 到 Typebounds：记一次 KernelSU 模块在 Pixel 2 (Android
@@ -487,10 +491,6 @@
       release_time: 2026.04.02 11:58:03
       title: '[分享]学习篇之web安全与基础分享'
       url: https://bbs.kanxue.com/thread-290621.htm
-    - author: 悦来客栈的老板
-      release_time: 2026.04.01 12:08:04
-      title: JS逆向|猿人学逆向反混淆练习平台第五题逆向分析
-      url: https://blog.csdn.net/qq523176585/article/details/159740185
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
