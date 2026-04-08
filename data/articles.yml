@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 如意-浏览器开发培训
+      release_time: 2026.04.08 10:49:01
+      title: 新一代web过检测自动化框架通杀5s盾/cloudfare
+      url: https://www.bilibili.com/video/BV1kNDkB2Ece
+    - author: 如意-浏览器开发培训
+      release_time: 2026.04.08 10:32:27
+      title: 新一代python的web自动化框架通杀5s盾演示
+      url: https://www.bilibili.com/video/BV1wJDzB6EHa
     - author: B站用户骚神
       release_time: 2026.04.07 20:29:48
       title: 【SaoPageV2】 自动过tiktok验证码！
@@ -113,17 +121,21 @@
       release_time: 2026.03.22 10:23:29
       title: 五矿_webpack
       url: https://www.bilibili.com/video/BV1TQAMzhEiK
-    - author: 冷月不是程序员
-      release_time: 2026.03.21 22:34:48
-      title: 优美胜于丑陋：重温Python三十年的设计哲学
-      url: https://www.bilibili.com/video/BV1ciAAzTEvT
-    - author: x1a0f3n9
-      release_time: 2026.03.21 15:11:15
-      title: 【webview类App】pgsp速通
-      url: https://www.bilibili.com/video/BV13eAwzUEez
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.04.08 12:02:34
+      title: Android/iOS/HarmonyOS多引擎安全SDK检测分析系统V8.0
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500060&idx=1&sn=655f774291162becfe2c6e8e4fea8c6a
+    - author: 如意私塾
+      release_time: 2026.04.08 11:03:02
+      title: 下一代web自动化框架乱杀5s盾/cloudfare
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484333&idx=1&sn=00b66500e5c8131bc8fd836e834ca887
+    - author: 猿人学Python
+      release_time: 2026.04.08 10:16:54
+      title: 建了两个 AI 逆向 500 人交流群
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550200&idx=1&sn=e1f11866c4c0171bbebec288aa7d5a5e
     - author: 泡泡以安
       release_time: 2026.04.08 09:09:00
       title: RSA 加密算法详解：从原理到安卓逆向实战
@@ -232,18 +244,6 @@
       release_time: 2026.04.05 10:30:17
       title: 安卓Root技术的演进与选型指南(Magisk/KernelSU/APatch/SukiSU)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500034&idx=1&sn=77f1b900e4895c53b855186766fe7bfe
-    - author: 一支甜筒
-      release_time: 2026.04.05 01:50:40
-      title: SHEIN 部分参数AI 分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NDYzMDMwMw==&mid=2247483744&idx=1&sn=1f6d58ee338a28d91dfc24e8822ffe69
-    - author: R逆向
-      release_time: 2026.04.04 22:52:31
-      title: Frida 17.6.2 魔改 rusda：编译实践与反检测 Patch 的技术剖析
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NjA3Mw==&mid=2247483805&idx=1&sn=9933ab5691bbb1f35d4dbe8306cdb988
-    - author: 进击的HACK
-      release_time: 2026.04.04 21:33:34
-      title: 当大模型拿起键盘：AI渗透测试实战技巧
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489923&idx=1&sn=44150bd038f48718f01965b2eb046e13
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,11 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: wx_Deity
+      release_time: 2026.04.08 11:18:58
+      title: '[原创]从 Permission Denied 到 Typebounds：记一次 KernelSU 模块在 Pixel 2 (Android
+        10) 上不生效的排查之旅'
+      url: https://bbs.kanxue.com/thread-290698.htm
     - author: w2sfot
       release_time: 2026.04.08 08:04:04
       title: JS加密工具大全：各种JS加密、JS混淆工具！
@@ -486,10 +491,6 @@
       release_time: 2026.04.01 12:08:04
       title: JS逆向|猿人学逆向反混淆练习平台第五题逆向分析
       url: https://blog.csdn.net/qq523176585/article/details/159740185
-    - author: Zedbully
-      release_time: 2026.04.01 04:59:00
-      title: iOS逆向工程常用工具完全指南（2026最新版）
-      url: https://bbs.kanxue.com/thread-290595.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
