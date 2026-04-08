@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: Alone逆向安全
+      release_time: 2026.04.08 16:16:53
+      title: Frida 被企业壳疯狂检测？我直接把 Gum 引擎移植成 Lua 绑定，彻底通杀
+      url: https://www.bilibili.com/video/BV1XzDjBtEyr
     - author: 如意-浏览器开发培训
       release_time: 2026.04.08 10:49:01
       title: 新一代web过检测自动化框架通杀5s盾/cloudfare
@@ -117,10 +121,6 @@
       release_time: 2026.03.22 17:19:22
       title: webview 原理和实战经验 讲解
       url: https://www.bilibili.com/video/BV11zAuztEtU
-    - author: Breeze_122134
-      release_time: 2026.03.22 10:23:29
-      title: 五矿_webpack
-      url: https://www.bilibili.com/video/BV1TQAMzhEiK
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
