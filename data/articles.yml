@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 泡泡以安
+      release_time: 2026.04.08 09:09:00
+      title: RSA 加密算法详解：从原理到安卓逆向实战
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485974&idx=1&sn=980a2b992039ef303ad6c0f29008de07
+    - author: Coder小Q
+      release_time: 2026.04.08 08:30:00
+      title: 【量子计算】海森堡不确定性原理：从波包到 Hadamard 门
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495046&idx=1&sn=36015ffd4f3c1578a7c1572e43b31267
     - author: 如意私塾
       release_time: 2026.04.07 23:08:02
       title: 下一代非CDP过检测自动化框架开源
@@ -236,14 +244,6 @@
       release_time: 2026.04.04 21:33:34
       title: 当大模型拿起键盘：AI渗透测试实战技巧
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489923&idx=1&sn=44150bd038f48718f01965b2eb046e13
-    - author: 如意私塾
-      release_time: 2026.04.04 13:44:12
-      title: 家里智能电视TV的设备指纹，你在看什么App？ISP光看加密流量就能猜出来。
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484314&idx=1&sn=b66474f86adea52e36bc1b7e1b255fe8
-    - author: 沐阳逆向与AI学习
-      release_time: 2026.04.04 09:54:04
-      title: 零成本养虾！谷歌 Gemma 4「本地部署」保姆级教程，三步搞定
-      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484571&idx=1&sn=4e9ce0ae1dc9eaf88558eb1b7f8ff131
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,14 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: w2sfot
+      release_time: 2026.04.08 08:04:04
+      title: JS加密工具大全：各种JS加密、JS混淆工具！
+      url: https://blog.csdn.net/w2sft/article/details/159939420
+    - author: 冰履踏青云
+      release_time: 2026.04.07 22:41:38
+      title: JS逆向之 东方财富股吧人气榜 secids生成
+      url: https://bingyun.blog.csdn.net/article/details/159929168
     - author: 悦来客栈的老板
       release_time: 2026.04.07 21:00:32
       title: AI逆向|猿人学逆向反混淆练习平台第八题加密分析
@@ -482,14 +490,6 @@
       release_time: 2026.04.01 04:59:00
       title: iOS逆向工程常用工具完全指南（2026最新版）
       url: https://bbs.kanxue.com/thread-290595.htm
-    - author: 太岁又沐风
-      release_time: 2026.04.01 00:21:30
-      title: “Sentry” 反调试和环境检测的一个开源项目
-      url: https://bbs.kanxue.com/thread-290594.htm
-    - author: 狗都不学爬虫_
-      release_time: 2026.03.31 19:41:44
-      title: JS逆向 - Akamai阿迪达斯（三次） 补环境、纯算
-      url: https://blog.csdn.net/qq_53444631/article/details/159694134
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
