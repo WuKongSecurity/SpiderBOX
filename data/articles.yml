@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 澎湖湾的彭
+      release_time: 2026.04.09 01:00:59
+      title: 云片滑块逆向
+      url: https://www.bilibili.com/video/BV1LfDJBGEhN
     - author: Alone逆向安全
       release_time: 2026.04.08 16:16:53
       title: Frida 被企业壳疯狂检测？我直接把 Gum 引擎移植成 Lua 绑定，彻底通杀
@@ -117,10 +121,6 @@
       release_time: 2026.03.23 23:13:44
       title: safari指纹浏览器定制webgl基础指纹演示
       url: https://www.bilibili.com/video/BV1kNXFBeEAi
-    - author: x1a0f3n9
-      release_time: 2026.03.22 17:19:22
-      title: webview 原理和实战经验 讲解
-      url: https://www.bilibili.com/video/BV11zAuztEtU
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
