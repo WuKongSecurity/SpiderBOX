@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.04.08 23:37:15
+      title: 下一代自动化框架 | HTTP密码代理支持
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484341&idx=1&sn=a22e28a9ee50ed4d185aec7df603cfa0
     - author: 小小杨学编程
       release_time: 2026.04.08 20:25:00
       title: reCAPTCHAv3 分析
@@ -240,10 +244,6 @@
       release_time: 2026.04.07 10:33:55
       title: APK安全检测分析工具(专业版)V3.2
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500052&idx=1&sn=efc8fd7aa7cf7d21702ab909f4653d41
-    - author: GSCL Sec
-      release_time: 2026.04.07 09:57:32
-      title: 第160篇：AI联动IDA Pro MCP 实战逆向分析加密混淆 APK的通信数据包解密
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4MDgyNzY4Nw==&mid=2247484248&idx=1&sn=65d01cce147262d79951a6e7024587ac
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
