@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.04.08 16:00:41
+      title: 《国务院关于产业链供应链安全的规定》发布，明确可限制数据和个人信息跨境流动
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519991&idx=1&sn=3d4ff2c5442ef059628a4ed52af0b989
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.04.08 16:00:41
+      title: 业务数据何时是个人的？德国联邦法院澄清了GDPR访问权限的范围
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519991&idx=2&sn=9aa181e86fbcd81e98dd57c01027bf85
+    - author: 如意私塾
+      release_time: 2026.04.08 15:57:59
+      title: 下一代自动化框架 | 单浏览器tab级别ck隔离
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484338&idx=1&sn=d155e654525b1b1b6df905b9e60b0711
     - author: 逆不逆
       release_time: 2026.04.08 14:26:26
       title: 【JS逆向】某书x-s 4.3.3 mns0301 分析
@@ -232,18 +244,6 @@
       release_time: 2026.04.06 23:18:10
       title: 奋斗者计划，助你升职加薪|阿里云、米哈游、阿里巴巴直推
       url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486131&idx=2&sn=1dc0a8b9db05f39cb8ed2a8db0652a76
-    - author: 进击的HACK
-      release_time: 2026.04.06 20:45:33
-      title: 集合多种渗透测试常用的功能和工具的安全测试工具
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489930&idx=1&sn=a689d5d4335cc34f500eee2e8724cfac
-    - author: 未闻Code
-      release_time: 2026.04.06 20:13:00
-      title: 用LLM帮你构建知识库：让笔记自动编译、自我生长！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991543&idx=1&sn=54242db575aba5e38472ddd45d940d21
-    - author: 二进制磨剑
-      release_time: 2026.04.06 18:00:39
-      title: 天才程序员上线：AI 逆向与安全开发全栈实战
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486034&idx=1&sn=4f49c8d74b158701cd5dcf1a981ec757
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
