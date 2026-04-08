@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆不逆
+      release_time: 2026.04.08 14:26:26
+      title: 【JS逆向】某书x-s 4.3.3 mns0301 分析
+      url: https://mp.weixin.qq.com/s?__biz=MzYyNTY2NDgyNA==&mid=2247483789&idx=1&sn=284347073fe9b74f21d114af25e258b8
+    - author: 逆不逆
+      release_time: 2026.04.08 14:09:33
+      title: dy的RPC调用时的一个细节
+      url: https://mp.weixin.qq.com/s?__biz=MzYyNTY2NDgyNA==&mid=2247483784&idx=1&sn=737e7b65f8cc1927c9a6e1048e842b85
     - author: 哆啦安全
       release_time: 2026.04.08 12:02:34
       title: Android/iOS/HarmonyOS多引擎安全SDK检测分析系统V8.0
@@ -236,14 +244,6 @@
       release_time: 2026.04.06 18:00:39
       title: 天才程序员上线：AI 逆向与安全开发全栈实战
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486034&idx=1&sn=4f49c8d74b158701cd5dcf1a981ec757
-    - author: 进击的HACK
-      release_time: 2026.04.05 22:01:25
-      title: 未授权访问的“上帝视角” || 从功能性路由看权限菜单绕过技巧（全网首发）
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489925&idx=1&sn=5733648aea4490c047dc02a54147403f
-    - author: 哆啦安全
-      release_time: 2026.04.05 10:30:17
-      title: 安卓Root技术的演进与选型指南(Magisk/KernelSU/APatch/SukiSU)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500034&idx=1&sn=77f1b900e4895c53b855186766fe7bfe
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
