@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小小杨学编程
+      release_time: 2026.04.08 20:25:00
+      title: reCAPTCHAv3 分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484729&idx=1&sn=a645efa7ee4bc21c67d7f0fc77c1b00f
     - author: 反爬破解社
       release_time: 2026.04.08 18:58:48
       title: 浏览器指纹的深度伪装与检测：从UserAgent到WebGL的全面攻防
@@ -240,10 +244,6 @@
       release_time: 2026.04.07 09:57:32
       title: 第160篇：AI联动IDA Pro MCP 实战逆向分析加密混淆 APK的通信数据包解密
       url: https://mp.weixin.qq.com/s?__biz=Mzg4MDgyNzY4Nw==&mid=2247484248&idx=1&sn=65d01cce147262d79951a6e7024587ac
-    - author: SpiderDemo
-      release_time: 2026.04.07 09:00:00
-      title: SpiderDemo 博客区功能介绍
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMzg4NDI4Mw==&mid=2247484643&idx=1&sn=5b8cf00edb8787e362a881bf90763a2c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
