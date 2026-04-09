@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 一支甜筒
+      release_time: 2026.04.09 14:04:12
+      title: 用 AI 还原shield 签名算法：一次完整实践
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NDYzMDMwMw==&mid=2247483750&idx=1&sn=167e8b5e8867df143b3f997776a6154f
     - author: 逆向有你
       release_time: 2026.04.09 11:20:25
       title: JS逆向 -- 音频网站逆向笔记
@@ -240,10 +244,6 @@
       release_time: 2026.04.07 16:30:00
       title: 小型个人信息处理者新规征求意见，减轻中小微企业合规负担
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519982&idx=3&sn=0038ff86853a7da6240395979f698089
-    - author: 吾爱破解论坛
-      release_time: 2026.04.07 15:29:48
-      title: 全流程使用AI，完成一次APK重打包。改包名、绕过 Native 校验、重建签名并去掉奖励广告的完整复现
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144234&idx=1&sn=8ae477d7d05e1c3b8ab0775ab9162e25
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
