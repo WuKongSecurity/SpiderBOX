@@ -374,6 +374,10 @@
       release_time: 2026.04.09 21:13:16
       title: '[原创]Android加固技术演进与脱壳方法论：从DEX落地到VMP的攻防全景'
       url: https://bbs.kanxue.com/thread-290735.htm
+    - author: 悦来客栈的老板
+      release_time: 2026.04.09 21:08:36
+      title: JS逆向|猿人学逆向反混淆练习平台第12题加密分析
+      url: https://blog.csdn.net/qq523176585/article/details/160000037
     - author: 易之生生
       release_time: 2026.04.09 18:07:57
       title: '[原创]ANDROID 黑科技 : 保活机制深度逆向'
@@ -487,10 +491,6 @@
       release_time: 2026.04.04 02:33:53
       title: '[原创]Android从ELF-Loader到自定义Linker的实现及原理'
       url: https://bbs.kanxue.com/thread-290643.htm
-    - author: wx_Deity
-      release_time: 2026.04.03 19:11:04
-      title: '[原创]Pixel 2 (walleye) Android 10 手动集成 KernelSU 编译实战'
-      url: https://bbs.kanxue.com/thread-290641.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
