@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小恰学逆向
+      release_time: 2026.04.09 17:42:28
+      title: 【爬虫JS逆向之旅】某球网参数“md5__1038”加密逆向
+      url: https://mp.weixin.qq.com/s?__biz=MzkwNTg3MjY3MQ==&mid=2247484874&idx=1&sn=658e650797003f31d435c9bc54ebd4fb
+    - author: 泡泡以安
+      release_time: 2026.04.09 17:25:58
+      title: Unidbg学习笔记（一）：为什么需要用户态模拟器
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485985&idx=1&sn=60799f49469963938f451b7349813ac4
     - author: 个人信息与数据保护实务评论
       release_time: 2026.04.09 16:31:23
       title: 国家网信办召开全国网络法治工作会议，要求强化重点领域网络执法
@@ -236,14 +244,6 @@
       release_time: 2026.04.07 21:00:00
       title: AI逆向|猿人学逆向反混淆练习平台第八题加密分析
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566426&idx=1&sn=385d2026c43de283c3f05afd9bd7c782
-    - author: 沐阳逆向与AI学习
-      release_time: 2026.04.07 20:38:36
-      title: 5.亲测可用！codex破限制给你写逆向脚本,妈妈再也不用担心GPT闲置了
-      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484585&idx=1&sn=716476a0473d990640350eda566796c8
-    - author: x1a0f3n9
-      release_time: 2026.04.07 17:11:07
-      title: 某笔记app深度混淆魔改md5逆向思路
-      url: https://mp.weixin.qq.com/s?__biz=MzYzMTgyNjA1NA==&mid=2247483910&idx=1&sn=79e7500cc4f19912ee79509a2d39a8b5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
