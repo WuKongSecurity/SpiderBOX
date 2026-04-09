@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 猿人学
+      release_time: 2026.04.09 12:02:27
+      title: （原声版）猿人学北京小伙伴们的聚会+原声花絮版
+      url: https://www.bilibili.com/video/BV1ULDpBMEC5
+    - author: 猿人学
+      release_time: 2026.04.09 11:33:18
+      title: 猿人学北京 300+ 爬虫er聚会+音乐+快进版
+      url: https://www.bilibili.com/video/BV15kDpBDEUs
     - author: 澎湖湾的彭
       release_time: 2026.04.09 01:00:59
       title: 云片滑块逆向
@@ -113,14 +121,6 @@
       release_time: 2026.03.24 01:22:09
       title: 【小程序类App】冷门但恶心 的 FinClip小程序 的三进程保护
       url: https://www.bilibili.com/video/BV19cQfB7ET7
-    - author: 念初77
-      release_time: 2026.03.23 23:43:09
-      title: 使用claudeAI分析还原某茅台MT-V算法
-      url: https://www.bilibili.com/video/BV1pcXFBTErP
-    - author: 如意-浏览器开发培训
-      release_time: 2026.03.23 23:13:44
-      title: safari指纹浏览器定制webgl基础指纹演示
-      url: https://www.bilibili.com/video/BV1kNXFBeEAi
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -247,6 +247,18 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: xiybhk
+      release_time: 2026.04.08 13:07:00
+      title: APP数据采集踩坑实录：从被ban到稳定跑通的4种方案
+      url: https://www.52pojie.cn/thread-2101904-1-1.html
+    - author: wansconst
+      release_time: 2026.04.08 12:16:00
+      title: 【2026春节】解题领红包之三、四、六_思路分享
+      url: https://www.52pojie.cn/thread-2101894-1-1.html
+    - author: verber34
+      release_time: 2026.04.08 09:00:00
+      title: 破解伪装聊天HYB APP的VIP功能，学习flutter下的so修改
+      url: https://www.52pojie.cn/thread-2101843-1-1.html
     - author: wansconst
       release_time: 2026.04.05 17:52:00
       title: 分析某软件的请求加密和响应解密流程_思路分享
@@ -355,21 +367,13 @@
       release_time: 2026.03.21 18:15:00
       title: 基于AI的某防水墙滑块验证码自动化全链路实现
       url: https://www.52pojie.cn/thread-2098532-1-1.html
-    - author: n1ng
-      release_time: 2026.03.18 23:05:00
-      title: 从0到1构建一个注入工具之注入器篇（二）
-      url: https://www.52pojie.cn/thread-2097864-1-1.html
-    - author: 过往233
-      release_time: 2026.03.18 00:15:00
-      title: 慢脚ai全链路js分析补环境
-      url: https://www.52pojie.cn/thread-2097554-1-1.html
-    - author: utf8
-      release_time: 2026.03.16 22:46:00
-      title: 初探 Flutter 的猫腻
-      url: https://www.52pojie.cn/thread-2097259-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: w2sfot
+      release_time: 2026.04.09 11:23:04
+      title: 3个Html加密工具
+      url: https://blog.csdn.net/w2sft/article/details/159980326
     - author: '0xfffb'
       release_time: 2026.04.09 11:03:15
       title: '[原创]开源栈式 JS 虚拟机（JSVMP）功能介绍、痛点、后续计划'
@@ -382,6 +386,10 @@
       release_time: 2026.04.09 10:35:12
       title: '[原创]Android内核无痕Hook理解和感悟&Hook“天阶功法”'
       url: https://bbs.kanxue.com/thread-290716.htm
+    - author: 小夏缘
+      release_time: 2026.04.08 22:09:46
+      title: 某手热门短剧逆向AI直接秒
+      url: https://blog.csdn.net/m0_73923773/article/details/159966748
     - author: CCTV果冻爽
       release_time: 2026.04.08 18:50:39
       title: '[原创]某SDK注册风控逆向'
@@ -483,14 +491,6 @@
       release_time: 2026.04.02 21:47:58
       title: '[原创]论坛所有关于libmsaoaidsec.so的文章大总结-----一把梭'
       url: https://bbs.kanxue.com/thread-290633.htm
-    - author: 悦来客栈的老板
-      release_time: 2026.04.02 17:27:01
-      title: JS逆向|猿人学逆向反混淆练习平台第六题逆向分析
-      url: https://blog.csdn.net/qq523176585/article/details/159775015
-    - author: Solar安全
-      release_time: 2026.04.02 17:07:29
-      title: '[原创]Solar勒索软件威胁态势与防护实践年度报告(2025) 章节一'
-      url: https://bbs.kanxue.com/thread-290628.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
