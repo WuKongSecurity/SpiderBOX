@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.04.09 16:31:23
+      title: 国家网信办召开全国网络法治工作会议，要求强化重点领域网络执法
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520000&idx=1&sn=13c84bfe2a3cb9393df0ce059139e5bc
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.04.09 16:31:23
+      title: 法国邮件服务商泄露超 4000 万条数据
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520000&idx=2&sn=baf8cb71311d07263e6d46dd3fa3fc44
+    - author: 吾爱破解论坛
+      release_time: 2026.04.09 15:29:53
+      title: 心流鼠标手势 FlowMouse正式登陆 Edge扩展商店
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144244&idx=1&sn=7a466d35733e347c9a9de66ccc14827e
     - author: 一支甜筒
       release_time: 2026.04.09 14:04:12
       title: 用 AI 还原shield 签名算法：一次完整实践
@@ -232,21 +244,13 @@
       release_time: 2026.04.07 17:11:07
       title: 某笔记app深度混淆魔改md5逆向思路
       url: https://mp.weixin.qq.com/s?__biz=MzYzMTgyNjA1NA==&mid=2247483910&idx=1&sn=79e7500cc4f19912ee79509a2d39a8b5
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.04.07 16:30:00
-      title: 工信部等三部门部署开展2026年个人信息保护系列专项行动
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519982&idx=1&sn=ae632efd3258857f0bb760dbe7958754
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.04.07 16:30:00
-      title: 欧盟委员会云基础设施安全漏洞导致数据泄露
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519982&idx=2&sn=d51e733e29edc5eb8ed311f555076bc8
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.04.07 16:30:00
-      title: 小型个人信息处理者新规征求意见，减轻中小微企业合规负担
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519982&idx=3&sn=0038ff86853a7da6240395979f698089
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: KaliHt
+      release_time: 2026.04.08 23:00:00
+      title: 记一次某工程学院一卡通登录流程
+      url: https://www.52pojie.cn/thread-2102004-1-1.html
     - author: xiybhk
       release_time: 2026.04.08 13:07:00
       title: APP数据采集踩坑实录：从被ban到稳定跑通的4种方案
@@ -363,10 +367,6 @@
       release_time: 2026.03.21 23:41:00
       title: 某红书-4.3.2-绕过ob直面JSVMP-mns0301-详细分析
       url: https://www.52pojie.cn/thread-2098573-1-1.html
-    - author: sleepzhanshen
-      release_time: 2026.03.21 18:15:00
-      title: 基于AI的某防水墙滑块验证码自动化全链路实现
-      url: https://www.52pojie.cn/thread-2098532-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
