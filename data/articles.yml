@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2026.04.09 11:20:25
+      title: JS逆向 -- 音频网站逆向笔记
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041639&idx=1&sn=069b6de93ccb9e1865c722b0e7c55694
+    - author: 将往的爬虫逆向日记
+      release_time: 2026.04.09 11:00:00
+      title: 某电力Ukey参数浅析(续)
+      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862264&idx=1&sn=9e937ce9363f843e4175c258cc09b571
+    - author: GSCL Sec
+      release_time: 2026.04.09 09:51:12
+      title: 打通最后一公里！只需一句话轻松拿捏小程序
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4MDgyNzY4Nw==&mid=2247484250&idx=1&sn=7cb2c8c31ddebeb493cfb9901d2f2ec6
+    - author: 哆啦安全
+      release_time: 2026.04.09 07:30:00
+      title: 安卓高通芯片0day漏洞CVE-2026-21385
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500070&idx=1&sn=a0854120fe6c8ecda35c54c5193a38b8
     - author: 如意私塾
       release_time: 2026.04.08 23:37:15
       title: 下一代自动化框架 | HTTP密码代理支持
@@ -228,22 +244,6 @@
       release_time: 2026.04.07 15:29:48
       title: 全流程使用AI，完成一次APK重打包。改包名、绕过 Native 校验、重建签名并去掉奖励广告的完整复现
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144234&idx=1&sn=8ae477d7d05e1c3b8ab0775ab9162e25
-    - author: 逆向有你
-      release_time: 2026.04.07 14:36:55
-      title: 安卓逆向 -- 某DB去开屏广告+本地vip（ProxyPin重写）
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041631&idx=1&sn=f8bf3447b2734244e040d92501f223a8
-    - author: Frida and So
-      release_time: 2026.04.07 14:15:32
-      title: QQ交流群
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTU3OA==&mid=2247485125&idx=1&sn=b18e39cf4e4fca9bd8a4864e139ec90d
-    - author: 软件安全与逆向分析
-      release_time: 2026.04.07 14:03:46
-      title: 安卓逆向第三阶段试看-ARM64汇编开发与调试环境配置
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485101&idx=1&sn=03c9ace637c5fc7b845c6dd5c862c8d6
-    - author: 哆啦安全
-      release_time: 2026.04.07 10:33:55
-      title: APK安全检测分析工具(专业版)V3.2
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500052&idx=1&sn=efc8fd7aa7cf7d21702ab909f4653d41
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,10 +370,26 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: '0xfffb'
+      release_time: 2026.04.09 11:03:15
+      title: '[原创]开源栈式 JS 虚拟机（JSVMP）功能介绍、痛点、后续计划'
+      url: https://bbs.kanxue.com/thread-290719.htm
+    - author: 珍惜Any
+      release_time: 2026.04.09 10:50:14
+      title: '[原创]Android内核无痕Hook理解和感悟'
+      url: https://bbs.kanxue.com/thread-290718.htm
+    - author: 珍惜Any
+      release_time: 2026.04.09 10:35:12
+      title: '[原创]Android内核无痕Hook理解和感悟&Hook“天阶功法”'
+      url: https://bbs.kanxue.com/thread-290716.htm
     - author: CCTV果冻爽
       release_time: 2026.04.08 18:50:39
       title: '[原创]某SDK注册风控逆向'
       url: https://bbs.kanxue.com/thread-290710.htm
+    - author: 悦来客栈的老板
+      release_time: 2026.04.08 17:30:58
+      title: JS逆向|猿人学逆向反混淆练习平台第九题加密分析(超详细版)
+      url: https://blog.csdn.net/qq523176585/article/details/159969412
     - author: wx_Deity
       release_time: 2026.04.08 11:18:58
       title: '[原创]从 Permission Denied 到 Typebounds：记一次 KernelSU 模块在 Pixel 2 (Android
@@ -475,22 +491,6 @@
       release_time: 2026.04.02 17:07:29
       title: '[原创]Solar勒索软件威胁态势与防护实践年度报告(2025) 章节一'
       url: https://bbs.kanxue.com/thread-290628.htm
-    - author: Penguin_try
-      release_time: 2026.04.02 15:30:26
-      title: '[分享]学习篇之web安全与基础'
-      url: https://bbs.kanxue.com/thread-290624.htm
-    - author: 狗都不学爬虫_
-      release_time: 2026.04.02 15:17:48
-      title: AI逆向 JSVMP- x程（testab参数）| 某头条（_signatrue参数）
-      url: https://blog.csdn.net/qq_53444631/article/details/159763300
-    - author: fyrlove
-      release_time: 2026.04.02 13:46:12
-      title: 全流程使用AI，完成一次APK改包名、绕过 Native 校验、重建签名并去掉奖励广告的完整复现
-      url: https://bbs.kanxue.com/thread-290623.htm
-    - author: Penguin_try
-      release_time: 2026.04.02 11:58:03
-      title: '[分享]学习篇之web安全与基础分享'
-      url: https://bbs.kanxue.com/thread-290621.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
