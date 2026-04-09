@@ -374,6 +374,10 @@
       release_time: 2026.04.09 18:07:57
       title: '[原创]ANDROID 黑科技 : 保活机制深度逆向'
       url: https://bbs.kanxue.com/thread-290728.htm
+    - author: Tasfa
+      release_time: 2026.04.09 17:54:12
+      title: 【AI系列】从零开始学习大模型-系列2-Day2-理解性能优化的数学建模
+      url: https://blog.csdn.net/qq_30135181/article/details/159989676
     - author: w2sfot
       release_time: 2026.04.09 11:23:04
       title: 3个Html加密工具
@@ -487,10 +491,6 @@
       release_time: 2026.04.03 17:30:02
       title: AI逆向|猿人学逆向反混淆练习平台第七题加密分析
       url: https://blog.csdn.net/qq523176585/article/details/159807903
-    - author: Oo0_qbpd_0oO
-      release_time: 2026.04.02 23:22:23
-      title: '[原创]关于cuttlefish在ARM平台使用GPU加速，与遇到的问题'
-      url: https://bbs.kanxue.com/thread-290635.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
