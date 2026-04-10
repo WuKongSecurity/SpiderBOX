@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.04.10 18:11:51
+      title: 各类小程序反编译合集
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489945&idx=1&sn=98dd02c91631d95382ceb6cefe6d0ef3
     - author: 無色逆向
       release_time: 2026.04.10 17:42:02
       title: 某航司同盾blackBox反混淆和补环境
@@ -240,13 +244,13 @@
       release_time: 2026.04.08 17:59:24
       title: 微信4.x 小程序注入 JSRPC 与调用 wx.cloud
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489939&idx=1&sn=877f7adbd3ad1116f8f59f26417841b1
-    - author: 菜鸟学Python编程
-      release_time: 2026.04.08 17:30:00
-      title: JS逆向|猿人学逆向反混淆练习平台第九题加密分析(超详细版)
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566441&idx=1&sn=3053c9fa850730e71f358b369b412437
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 芽衣
+      release_time: 2026.04.10 16:35:00
+      title: mx player 逆向教程之禁止外部打开后返回主界面
+      url: https://www.52pojie.cn/thread-2102339-1-1.html
     - author: KaliHt
       release_time: 2026.04.08 23:00:00
       title: 记一次某工程学院一卡通登录流程
@@ -363,10 +367,6 @@
       release_time: 2026.03.22 14:28:00
       title: E听说安卓 APP 全逆向过程完整复盘
       url: https://www.52pojie.cn/thread-2098645-1-1.html
-    - author: LiXieZengHui
-      release_time: 2026.03.21 23:41:00
-      title: 某红书-4.3.2-绕过ob直面JSVMP-mns0301-详细分析
-      url: https://www.52pojie.cn/thread-2098573-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
