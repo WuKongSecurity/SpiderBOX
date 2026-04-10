@@ -1,6 +1,18 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 时一十一姐呀
+      release_time: 2026.04.10 08:24:49
+      title: p3-opencli案例执行逻辑学习
+      url: https://www.bilibili.com/video/BV1mxDfBTEbM
+    - author: 时一十一姐呀
+      release_time: 2026.04.10 08:21:23
+      title: p2-opencli安装
+      url: https://www.bilibili.com/video/BV124DfBiEML
+    - author: 时一十一姐呀
+      release_time: 2026.04.10 08:20:40
+      title: p1-opencli基础概念了解
+      url: https://www.bilibili.com/video/BV1m4DfBiEAF
     - author: 如意-浏览器开发培训
       release_time: 2026.04.09 18:33:11
       title: 新一代python自动化过检测之ruyiPage安装配置
@@ -109,21 +121,25 @@
       release_time: 2026.03.25 14:48:35
       title: 79.iOS逆向_古法逆向_Instagram最新版抓包
       url: https://www.bilibili.com/video/BV1QkQmBSEVk
-    - author: 一只勇敢的小佳
-      release_time: 2026.03.25 03:03:53
-      title: rustfrida简单使用和原理，一个android的无痕hook工具！！！
-      url: https://www.bilibili.com/video/BV1zqQkBUEDe
-    - author: B站用户骚神
-      release_time: 2026.03.24 15:15:50
-      title: 全新自动化库 SaoPage(魔改DrissionPage),新增【 指纹修改】和 【数据包拦截修改】功能
-      url: https://www.bilibili.com/video/BV1PfQiBgEjd
-    - author: x1a0f3n9
-      release_time: 2026.03.24 13:39:45
-      title: demo逆向 &  三进程保护代码实现
-      url: https://www.bilibili.com/video/BV1B5QqBFEuV
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2026.04.10 11:03:53
+      title: 安卓逆向 -- 某SDK Frida检测绕过深度分析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041671&idx=1&sn=7e93d4eb80f5dd8c91d8c23c00e3d38b
+    - author: 泡泡以安
+      release_time: 2026.04.10 10:48:28
+      title: Unidbg学习笔记（二）：Unidbg 的世界观
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485998&idx=1&sn=897a88f49e0773f2c623352e3b933e59
+    - author: 爬虫逆向小林哥
+      release_time: 2026.04.10 09:00:00
+      title: Ai人柱力-某壳移动端分析
+      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487236&idx=1&sn=d32264680eb488ad1603846b485bcb8e
+    - author: 逆向OneByOne
+      release_time: 2026.04.10 08:31:32
+      title: OpenCLI之爬虫命令行化-初体验
+      url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494179&idx=1&sn=ff1e58f48bdbbb7d798ce98fc751318d
     - author: 如意私塾
       release_time: 2026.04.09 23:33:52
       title: 下一代web自动化 | 自动探测接管任意指纹浏览器，ads指纹浏览器为例
@@ -228,22 +244,6 @@
       release_time: 2026.04.08 12:02:34
       title: Android/iOS/HarmonyOS多引擎安全SDK检测分析系统V8.0
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500060&idx=1&sn=655f774291162becfe2c6e8e4fea8c6a
-    - author: 如意私塾
-      release_time: 2026.04.08 11:03:02
-      title: 下一代web自动化框架乱杀5s盾/cloudfare
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484333&idx=1&sn=00b66500e5c8131bc8fd836e834ca887
-    - author: 猿人学Python
-      release_time: 2026.04.08 10:16:54
-      title: 建了两个 AI 逆向 500 人交流群
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550200&idx=1&sn=e1f11866c4c0171bbebec288aa7d5a5e
-    - author: 泡泡以安
-      release_time: 2026.04.08 09:09:00
-      title: RSA 加密算法详解：从原理到安卓逆向实战
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485974&idx=1&sn=980a2b992039ef303ad6c0f29008de07
-    - author: Coder小Q
-      release_time: 2026.04.08 08:30:00
-      title: 【量子计算】海森堡不确定性原理：从波包到 Hadamard 门
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495046&idx=1&sn=36015ffd4f3c1578a7c1572e43b31267
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Nickname肖知寒
+      release_time: 2026.04.10 10:24:44
+      title: 使用 Cloudlare 实现免费邮箱服务器搭建
+      url: https://blog.csdn.net/weixin_45307278/article/details/160008987
     - author: Mr.He
       release_time: 2026.04.09 21:13:16
       title: '[原创]Android加固技术演进与脱壳方法论：从DEX落地到VMP的攻防全景'
@@ -487,10 +491,6 @@
       release_time: 2026.04.04 15:22:13
       title: '[原创]Frida企业级加固对抗实战: 通过 mmap/mprotect 钓出壳隐藏的真实 SO'
       url: https://bbs.kanxue.com/thread-290647.htm
-    - author: 东方玻璃
-      release_time: 2026.04.04 02:33:53
-      title: '[原创]Android从ELF-Loader到自定义Linker的实现及原理'
-      url: https://bbs.kanxue.com/thread-290643.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
