@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 澎湖湾的彭
+      release_time: 2026.04.10 13:11:56
+      title: 极验3滑块逆向
+      url: https://www.bilibili.com/video/BV1PRQFBTE2e
     - author: 时一十一姐呀
       release_time: 2026.04.10 08:24:49
       title: p3-opencli案例执行逻辑学习
@@ -117,13 +121,13 @@
       release_time: 2026.03.25 17:35:32
       title: 密码学补完计划[第三十期] SHA-2
       url: https://www.bilibili.com/video/BV1uTQmByEZx
-    - author: 和沐阳学逆向与Ai
-      release_time: 2026.03.25 14:48:35
-      title: 79.iOS逆向_古法逆向_Instagram最新版抓包
-      url: https://www.bilibili.com/video/BV1QkQmBSEVk
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 极验
+      release_time: 2026.04.10 14:03:20
+      title: 权威认可！极验入选中国信通院“铸基计划”全景图
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724434&idx=1&sn=ac28b8bb28d817afe5d5cca90359efb2
     - author: 小白技术社
       release_time: 2026.04.10 13:19:18
       title: 全AI分析DexH*lper Anti-Frida深度检测机制
@@ -240,10 +244,6 @@
       release_time: 2026.04.08 16:00:41
       title: 业务数据何时是个人的？德国联邦法院澄清了GDPR访问权限的范围
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247519991&idx=2&sn=9aa181e86fbcd81e98dd57c01027bf85
-    - author: 如意私塾
-      release_time: 2026.04.08 15:57:59
-      title: 下一代自动化框架 | 单浏览器tab级别ck隔离
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484338&idx=1&sn=d155e654525b1b1b6df905b9e60b0711
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,14 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 冰履踏青云
+      release_time: 2026.04.10 13:30:27
+      title: JS逆向之猫眼 signKey和mygsig算法
+      url: https://bingyun.blog.csdn.net/article/details/159998990
+    - author: 冰履踏青云
+      release_time: 2026.04.10 13:24:55
+      title: 卷死同事！GPT-5.4 Codex 安装 + 配置 + 使用 一步到位
+      url: https://bingyun.blog.csdn.net/article/details/160014381
     - author: Nickname肖知寒
       release_time: 2026.04.10 10:24:44
       title: 使用 Cloudlare 实现免费邮箱服务器搭建
@@ -483,14 +491,6 @@
       release_time: 2026.04.04 22:46:02
       title: '[原创]Frida 17.6.2 魔改 rusda：编译实践与反检测 Patch 的技术剖析'
       url: https://bbs.kanxue.com/thread-290651.htm
-    - author: 冰履踏青云
-      release_time: 2026.04.04 22:09:26
-      title: JS逆向之 QQ 音乐 请求体 sign加密、payload加密与响应解密完整还原
-      url: https://bingyun.blog.csdn.net/article/details/159808400
-    - author: reserve_zhou
-      release_time: 2026.04.04 15:22:13
-      title: '[原创]Frida企业级加固对抗实战: 通过 mmap/mprotect 钓出壳隐藏的真实 SO'
-      url: https://bbs.kanxue.com/thread-290647.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
