@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 智原堂
+      release_time: 2026.04.10 20:12:00
+      title: opus无限蹬了？我只是往 Replit 里丢了一段 Prompt
+      url: https://mp.weixin.qq.com/s?__biz=MzIxOTQ1OTA0Ng==&mid=2247484519&idx=1&sn=37a6f43ab3628989b6d322d1d06993d6
+    - author: 未闻Code
+      release_time: 2026.04.10 19:52:26
+      title: 4K Star的多人 Agent 协作平台 Multica！Agent即队友，可像同事一样被指派、被追踪！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991546&idx=1&sn=eb4edcc29f05c9506117f5be663b38d0
     - author: 进击的HACK
       release_time: 2026.04.10 18:11:51
       title: 各类小程序反编译合集
@@ -236,14 +244,6 @@
       release_time: 2026.04.08 18:58:48
       title: 每天白捡1小时！这3个真·免费AI神器，打工人速速码住！
       url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483840&idx=2&sn=3681c738f458568d250a27bf34e71f52
-    - author: 反爬破解社
-      release_time: 2026.04.08 18:58:48
-      title: 酒局来一粒，醒酒排毒！酒后吃一粒，过年喝的尽兴不伤肝！
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483840&idx=3&sn=ecd6f169f03ff59072761b18ff4a0e00
-    - author: 进击的HACK
-      release_time: 2026.04.08 17:59:24
-      title: 微信4.x 小程序注入 JSRPC 与调用 wx.cloud
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489939&idx=1&sn=877f7adbd3ad1116f8f59f26417841b1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
