@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: tomysky0409
+      release_time: 2026.04.10 20:47:55
+      title: 验证码技巧分享-提取共同的背景
+      url: https://www.bilibili.com/video/BV1UsQcB1EPf
     - author: 澎湖湾的彭
       release_time: 2026.04.10 13:11:56
       title: 极验3滑块逆向
@@ -117,10 +121,6 @@
       release_time: 2026.03.26 20:25:15
       title: 【DrissionPageSkill】-让你的AI化身DrissionPage大师
       url: https://www.bilibili.com/video/BV1UXXWBUEfV
-    - author: EithanSolace
-      release_time: 2026.03.25 17:35:32
-      title: 密码学补完计划[第三十期] SHA-2
-      url: https://www.bilibili.com/video/BV1uTQmByEZx
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -370,6 +370,14 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: gal2xy
+      release_time: 2026.04.10 21:26:46
+      title: '[原创]Frida源码分析之Hook原理篇'
+      url: https://bbs.kanxue.com/thread-290756.htm
+    - author: gal2xy
+      release_time: 2026.04.10 21:24:46
+      title: '[原创]Frida源码分析之Hook原理篇'
+      url: https://bbs.kanxue.com/thread-290755.htm
     - author: 冰履踏青云
       release_time: 2026.04.10 13:30:27
       title: JS逆向之猫眼 signKey和mygsig算法
@@ -483,14 +491,6 @@
       release_time: 2026.04.05 18:29:06
       title: '[原创]某瓣libmsaoaidsec.so Frida检测分析与绕过实战'
       url: https://bbs.kanxue.com/thread-290658.htm
-    - author: Oo0_qbpd_0oO
-      release_time: 2026.04.04 22:56:59
-      title: '[原创] CVD RK3588 GPU 加速方案'
-      url: https://bbs.kanxue.com/thread-290650.htm
-    - author: 太岁又沐风
-      release_time: 2026.04.04 22:46:02
-      title: '[原创]Frida 17.6.2 魔改 rusda：编译实践与反检测 Patch 的技术剖析'
-      url: https://bbs.kanxue.com/thread-290651.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
