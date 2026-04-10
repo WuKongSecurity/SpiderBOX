@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小白技术社
+      release_time: 2026.04.10 13:19:18
+      title: 全AI分析DexH*lper Anti-Frida深度检测机制
+      url: https://mp.weixin.qq.com/s?__biz=MzI4NTE1NDMwMA==&mid=2247485381&idx=1&sn=88d1a4a3a030e265ac07f5298a7802c0
+    - author: 如意私塾
+      release_time: 2026.04.10 13:07:04
+      title: 自动化微软/谷歌outlook/gmail邮箱直接注册展示
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484352&idx=1&sn=b0ba76b23d428ae68f430cf89ba8880a
+    - author: 哆啦安全
+      release_time: 2026.04.10 11:35:57
+      title: Android ARM64逆向调试器工具(远程调试・一键部署)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500077&idx=1&sn=e0b0e1414faa009a1eab28bb4bf2af58
     - author: 逆向有你
       release_time: 2026.04.10 11:03:53
       title: 安卓逆向 -- 某SDK Frida检测绕过深度分析
@@ -232,18 +244,6 @@
       release_time: 2026.04.08 15:57:59
       title: 下一代自动化框架 | 单浏览器tab级别ck隔离
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484338&idx=1&sn=d155e654525b1b1b6df905b9e60b0711
-    - author: 逆不逆
-      release_time: 2026.04.08 14:26:26
-      title: 【JS逆向】某书x-s 4.3.3 mns0301 分析
-      url: https://mp.weixin.qq.com/s?__biz=MzYyNTY2NDgyNA==&mid=2247483789&idx=1&sn=284347073fe9b74f21d114af25e258b8
-    - author: 逆不逆
-      release_time: 2026.04.08 14:09:33
-      title: dy的RPC调用时的一个细节
-      url: https://mp.weixin.qq.com/s?__biz=MzYyNTY2NDgyNA==&mid=2247483784&idx=1&sn=737e7b65f8cc1927c9a6e1048e842b85
-    - author: 哆啦安全
-      release_time: 2026.04.08 12:02:34
-      title: Android/iOS/HarmonyOS多引擎安全SDK检测分析系统V8.0
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500060&idx=1&sn=655f774291162becfe2c6e8e4fea8c6a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
