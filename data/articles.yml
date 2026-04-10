@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 一支甜筒
+      release_time: 2026.04.11 00:08:32
+      title: AI 逆向同盾 BlackBox：工具链与核心算法
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NDYzMDMwMw==&mid=2247483756&idx=1&sn=56fcab02d9ec40404877642cfebfbc9b
     - author: 智原堂
       release_time: 2026.04.10 20:12:00
       title: opus无限蹬了？我只是往 Replit 里丢了一段 Prompt
@@ -240,10 +244,6 @@
       release_time: 2026.04.08 18:58:48
       title: 浏览器指纹的深度伪装与检测：从UserAgent到WebGL的全面攻防
       url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483840&idx=1&sn=de7b9934e77ad6db8121e90d5f154ebb
-    - author: 反爬破解社
-      release_time: 2026.04.08 18:58:48
-      title: 每天白捡1小时！这3个真·免费AI神器，打工人速速码住！
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483840&idx=2&sn=3681c738f458568d250a27bf34e71f52
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
