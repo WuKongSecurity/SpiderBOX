@@ -124,6 +124,30 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.04.11 22:05:35
+      title: 打通最后一公里！只需一句话轻松拿捏小程序
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489947&idx=1&sn=803f9a062c4e2e5a9f0562413c26eb2f
+    - author: 软件安全与逆向分析
+      release_time: 2026.04.11 17:37:22
+      title: 使用这个工具你的AI可以省一半的Token
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485106&idx=1&sn=03017e4e54227de0bf39d95e98e65b81
+    - author: 一支甜筒
+      release_time: 2026.04.11 11:38:26
+      title: AI 逆向某盾 BlackBox 实战
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NDYzMDMwMw==&mid=2247483764&idx=1&sn=e0e89f1cc6b58a7b55d931ff8f856710
+    - author: Python成长路
+      release_time: 2026.04.11 10:30:00
+      title: 支持多账号自动登录的微信多开软件
+      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486120&idx=1&sn=959e4dd2a667309198bdb56673836bde
+    - author: 小白技术社
+      release_time: 2026.04.11 10:00:00
+      title: 二、全AI分析深度分析 DexH*lper.so  Frida 检测机制
+      url: https://mp.weixin.qq.com/s?__biz=MzI4NTE1NDMwMA==&mid=2247485385&idx=1&sn=0841ac7c75ea68ba923d991e63e0dd88
+    - author: 哆啦安全
+      release_time: 2026.04.11 08:56:50
+      title: 固件逆向分析工具(2026)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500086&idx=1&sn=39e39a9f69dee2e9c177dd03ae277c2f
     - author: 一支甜筒
       release_time: 2026.04.11 00:08:32
       title: AI 逆向同盾 BlackBox：工具链与核心算法
@@ -220,30 +244,6 @@
       release_time: 2026.04.09 11:20:25
       title: JS逆向 -- 音频网站逆向笔记
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041639&idx=1&sn=069b6de93ccb9e1865c722b0e7c55694
-    - author: 将往的爬虫逆向日记
-      release_time: 2026.04.09 11:00:00
-      title: 某电力Ukey参数浅析(续)
-      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862264&idx=1&sn=9e937ce9363f843e4175c258cc09b571
-    - author: GSCL Sec
-      release_time: 2026.04.09 09:51:12
-      title: 打通最后一公里！只需一句话轻松拿捏小程序
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4MDgyNzY4Nw==&mid=2247484250&idx=1&sn=7cb2c8c31ddebeb493cfb9901d2f2ec6
-    - author: 哆啦安全
-      release_time: 2026.04.09 07:30:00
-      title: 安卓高通芯片0day漏洞CVE-2026-21385
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500070&idx=1&sn=a0854120fe6c8ecda35c54c5193a38b8
-    - author: 如意私塾
-      release_time: 2026.04.08 23:37:15
-      title: 下一代自动化框架 | HTTP密码代理支持
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484341&idx=1&sn=a22e28a9ee50ed4d185aec7df603cfa0
-    - author: 小小杨学编程
-      release_time: 2026.04.08 20:25:00
-      title: reCAPTCHAv3 分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484729&idx=1&sn=a645efa7ee4bc21c67d7f0fc77c1b00f
-    - author: 反爬破解社
-      release_time: 2026.04.08 18:58:48
-      title: 浏览器指纹的深度伪装与检测：从UserAgent到WebGL的全面攻防
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483840&idx=1&sn=de7b9934e77ad6db8121e90d5f154ebb
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
