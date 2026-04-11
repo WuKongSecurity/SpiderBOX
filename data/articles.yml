@@ -370,6 +370,22 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Python成长路
+      release_time: 2026.04.11 13:09:28
+      title: 支持多账号自动登录的微信多开软件
+      url: https://blog.csdn.net/Qwertyuiop2016/article/details/160052878
+    - author: 冰履踏青云
+      release_time: 2026.04.11 11:39:57
+      title: 一次携程酒店 phantom-token 逆向实战复盘(附python纯算)
+      url: https://bingyun.blog.csdn.net/article/details/159981676
+    - author: 冰履踏青云
+      release_time: 2026.04.11 11:25:07
+      title: JS逆向之虎牙 Web 登录 appSign和password加密
+      url: https://bingyun.blog.csdn.net/article/details/159994394
+    - author: w2sfot
+      release_time: 2026.04.11 09:46:50
+      title: 反AI逆向JS加密
+      url: https://blog.csdn.net/w2sft/article/details/160042948
     - author: babyfox
       release_time: 2026.04.11 07:50:08
       title: '[分享]一些安全类网站（不定期更新）'
@@ -475,22 +491,6 @@
       release_time: 2026.04.07 14:58:00
       title: '[原创]dwva靶场-- sql注入'
       url: https://bbs.kanxue.com/thread-290686.htm
-    - author: mb_tqjnyivs
-      release_time: 2026.04.07 14:52:00
-      title: '[原创]dwva靶场-- csrf'
-      url: https://bbs.kanxue.com/thread-290685.htm
-    - author: 狗都不学爬虫_
-      release_time: 2026.04.07 12:38:57
-      title: AI逆向 JSVMP- x程（token参数）
-      url: https://blog.csdn.net/qq_53444631/article/details/159918477
-    - author: JSnow
-      release_time: 2026.04.06 21:01:06
-      title: '[原创] JDex：基于Xposed / Lsposed的主动调用抽取壳脱壳工具'
-      url: https://bbs.kanxue.com/thread-290669.htm
-    - author: Fulucky0
-      release_time: 2026.04.06 17:26:42
-      title: '[原创]HTB Principal渗透测试题目 writeup'
-      url: https://bbs.kanxue.com/thread-290667.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
