@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.04.12 21:43:01
+      title: 深入MD5：逆向工程师如何识别和还原标准与魔改算法
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489949&idx=1&sn=f945723d550a5c7de9c56ea681807034
+    - author: 如意私塾
+      release_time: 2026.04.12 21:18:46
+      title: 下一代web自动化 | 采集Boss某聘非登录岗位
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484368&idx=1&sn=76de05ac938e6394d35d22e4f2849818
     - author: 二手的程序员
       release_time: 2026.04.12 21:07:30
       title: 飞书还是牛逼
@@ -236,14 +244,6 @@
       release_time: 2026.04.09 21:08:00
       title: JS逆向|猿人学逆向反混淆练习平台第12题加密分析
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566447&idx=1&sn=ea7ceffc1bbb5c123ca0c727066ed79c
-    - author: 进击的HACK
-      release_time: 2026.04.09 18:12:46
-      title: TRAE 配合 IMA skills 一键分析文章、文档
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489943&idx=1&sn=8d9b3fabccb3c1a2d4c1c446cf1a5d86
-    - author: 小恰学逆向
-      release_time: 2026.04.09 17:42:28
-      title: 【爬虫JS逆向之旅】某球网参数“md5__1038”加密逆向
-      url: https://mp.weixin.qq.com/s?__biz=MzkwNTg3MjY3MQ==&mid=2247484874&idx=1&sn=658e650797003f31d435c9bc54ebd4fb
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
