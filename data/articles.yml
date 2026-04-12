@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 如意-浏览器开发培训
+      release_time: 2026.04.12 21:45:03
+      title: 【Python爬虫】自动化采集Boss招聘网站职位信息
+      url: https://www.bilibili.com/video/BV1vzDXBPEC1
     - author: tomysky0409
       release_time: 2026.04.10 20:47:55
       title: 验证码技巧分享-提取共同的背景
@@ -117,13 +121,21 @@
       release_time: 2026.03.27 15:40:43
       title: h5st vmp反编译纯算教程
       url: https://www.bilibili.com/video/BV1bFXPBWEgz
-    - author: B站用户骚神
-      release_time: 2026.03.26 20:25:15
-      title: 【DrissionPageSkill】-让你的AI化身DrissionPage大师
-      url: https://www.bilibili.com/video/BV1UXXWBUEfV
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.04.12 22:23:55
+      title: web自动化采集shoope台湾登录态商品数据
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484374&idx=1&sn=c64623e24a1364b0554b495ea7610725
+    - author: 大数据安全技术学习
+      release_time: 2026.04.12 22:15:52
+      title: 《FRIDA手撕海外企业壳》成都场确定！
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486139&idx=1&sn=a5e7f67c55cb17aa0e4b57d6e1728f38
+    - author: 大数据安全技术学习
+      release_time: 2026.04.12 22:15:52
+      title: APP2025.直播20.Y700四代免解锁ROOT打造完美过检测环境
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486139&idx=2&sn=a23b6828bfc30f7d34bfdb53783bb8fb
     - author: 进击的HACK
       release_time: 2026.04.12 21:43:01
       title: 深入MD5：逆向工程师如何识别和还原标准与魔改算法
@@ -232,18 +244,6 @@
       release_time: 2026.04.10 09:00:00
       title: Ai人柱力-某壳移动端分析
       url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487236&idx=1&sn=d32264680eb488ad1603846b485bcb8e
-    - author: 逆向OneByOne
-      release_time: 2026.04.10 08:31:32
-      title: OpenCLI之爬虫命令行化-初体验
-      url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494179&idx=1&sn=ff1e58f48bdbbb7d798ce98fc751318d
-    - author: 如意私塾
-      release_time: 2026.04.09 23:33:52
-      title: 下一代web自动化 | 自动探测接管任意指纹浏览器，ads指纹浏览器为例
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484346&idx=1&sn=1203ea6f0074e71d99ca917179970deb
-    - author: 菜鸟学Python编程
-      release_time: 2026.04.09 21:08:00
-      title: JS逆向|猿人学逆向反混淆练习平台第12题加密分析
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566447&idx=1&sn=ea7ceffc1bbb5c123ca0c727066ed79c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
