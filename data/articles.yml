@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.04.12 15:31:42
+      title: 下一代web自动化 | 自带xpath路径显示和定位代码生成
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484357&idx=1&sn=389a37afde0b930ad824775b6f5f4e13
     - author: 智原堂
       release_time: 2026.04.12 13:53:31
       title: ai逆向一把梭某macos应用，可无限使用至掩体纪元
@@ -240,10 +244,6 @@
       release_time: 2026.04.09 16:31:23
       title: 国家网信办召开全国网络法治工作会议，要求强化重点领域网络执法
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520000&idx=1&sn=13c84bfe2a3cb9393df0ce059139e5bc
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.04.09 16:31:23
-      title: 法国邮件服务商泄露超 4000 万条数据
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520000&idx=2&sn=baf8cb71311d07263e6d46dd3fa3fc44
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
