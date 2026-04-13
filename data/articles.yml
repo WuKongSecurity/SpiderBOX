@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2026.04.13 17:52:06
+      title: DrissionPage抓取小红书数据到数据库
+      url: https://www.bilibili.com/video/BV1QNQ4BsE76
+    - author: 如意-浏览器开发培训
+      release_time: 2026.04.13 17:17:03
+      title: firefox火狐指纹浏览器定制之speech音频指纹
+      url: https://www.bilibili.com/video/BV1ZXQxBYEhh
     - author: 狄硕
       release_time: 2026.04.13 09:00:00
       title: 【全流程】3分钟全自动一键ROOT，各种ROOT随意切换，从小白变成ROOT糕手！
@@ -113,17 +121,13 @@
       release_time: 2026.03.28 13:03:21
       title: 不知道该更啥了
       url: https://www.bilibili.com/video/BV1JeXGBAEqM
-    - author: 卡卡卡骨
-      release_time: 2026.03.28 11:37:59
-      title: AI+ttd反向污点分析(mcp) 破解ollvm混淆
-      url: https://www.bilibili.com/video/BV1QbXVBsEqb
-    - author: B站用户骚神
-      release_time: 2026.03.28 10:31:38
-      title: 【SaoPage V2】新增人类鼠标轨迹和滑块验证码自动识别
-      url: https://www.bilibili.com/video/BV1LvXgB9Eru
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2026.04.13 17:29:00
+      title: JS逆向|猿人学逆向反混淆练习平台第13题加密分析
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566455&idx=1&sn=01a4f1020919609b550cf7b7d60e8210
     - author: 将往的爬虫逆向日记
       release_time: 2026.04.13 13:00:00
       title: 基于电力交易业务定制浏览器(更新3)
@@ -240,13 +244,21 @@
       release_time: 2026.04.10 17:42:02
       title: 某航司同盾blackBox反混淆和补环境
       url: https://mp.weixin.qq.com/s?__biz=Mzg5MjYyNTgxMQ==&mid=2247484698&idx=1&sn=865a7b6e87453a696bf2ab97729e628e
-    - author: just reverse
-      release_time: 2026.04.10 17:37:29
-      title: jdgs模拟执行
-      url: https://mp.weixin.qq.com/s?__biz=Mzk1NzI2Njg5NQ==&mid=2247483915&idx=1&sn=1d0ddf8c9b79ab2546db4d26e5d1b856
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: libbb
+      release_time: 2026.04.12 00:07:00
+      title: 某手游加密数据破解教程（截止2026/4/12）
+      url: https://www.52pojie.cn/thread-2102536-1-1.html
+    - author: guxing666
+      release_time: 2026.04.10 23:48:00
+      title: 顶象滑块的x问题！
+      url: https://www.52pojie.cn/thread-2102398-1-1.html
+    - author: xiayutianz
+      release_time: 2026.04.10 18:07:00
+      title: jdgs模拟执行
+      url: https://www.52pojie.cn/thread-2102366-1-1.html
     - author: 芽衣
       release_time: 2026.04.10 16:35:00
       title: mx player 逆向教程之禁止外部打开后返回主界面
@@ -355,21 +367,13 @@
       release_time: 2026.03.23 20:13:00
       title: 【Web逆向】yolo深度学习识别——计算题验证码
       url: https://www.52pojie.cn/thread-2098921-1-1.html
-    - author: A4r0n
-      release_time: 2026.03.23 08:53:00
-      title: 支持MCP调用与污点追踪的ARM Trace分析工具
-      url: https://www.52pojie.cn/thread-2098744-1-1.html
-    - author: epiphanyep
-      release_time: 2026.03.22 16:18:00
-      title: 【Web逆向】GIF验证码
-      url: https://www.52pojie.cn/thread-2098660-1-1.html
-    - author: James1105
-      release_time: 2026.03.22 14:28:00
-      title: E听说安卓 APP 全逆向过程完整复盘
-      url: https://www.52pojie.cn/thread-2098645-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: '0x530c'
+      release_time: 2026.04.13 17:50:58
+      title: '[原创] 手撕某音最新版 VMP 之虚拟指令流解析器的实现'
+      url: https://bbs.kanxue.com/thread-290802.htm
     - author: 八月欢喜
       release_time: 2026.04.13 15:51:20
       title: TikTok逆向：ZTCA-DPoP令牌生成与分析
@@ -487,10 +491,6 @@
       release_time: 2026.04.07 22:41:38
       title: JS逆向之 东方财富股吧人气榜 secids生成
       url: https://bingyun.blog.csdn.net/article/details/159929168
-    - author: 悦来客栈的老板
-      release_time: 2026.04.07 21:00:32
-      title: AI逆向|猿人学逆向反混淆练习平台第八题加密分析
-      url: https://blog.csdn.net/qq523176585/article/details/159934002
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
