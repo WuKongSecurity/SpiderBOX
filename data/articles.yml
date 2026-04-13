@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 狄硕
+      release_time: 2026.04.13 09:00:00
+      title: 【全流程】3分钟全自动一键ROOT，各种ROOT随意切换，从小白变成ROOT糕手！
+      url: https://www.bilibili.com/video/BV1YCDXBhE2E
     - author: 如意-浏览器开发培训
       release_time: 2026.04.12 21:45:03
       title: 【Python爬虫】自动化采集Boss招聘网站职位信息
@@ -117,13 +121,13 @@
       release_time: 2026.03.28 10:31:38
       title: 【SaoPage V2】新增人类鼠标轨迹和滑块验证码自动识别
       url: https://www.bilibili.com/video/BV1LvXgB9Eru
-    - author: 小爬菜咦
-      release_time: 2026.03.27 15:40:43
-      title: h5st vmp反编译纯算教程
-      url: https://www.bilibili.com/video/BV1bFXPBWEgz
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.04.13 11:24:01
+      title: 免费HTTP代理的背后:cookie被拿|植入广告|挖矿注入|内容篡改|监控流量
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484380&idx=1&sn=7330cc57b0bd2e757a5852f0d0f576eb
     - author: 泡泡以安
       release_time: 2026.04.13 09:09:00
       title: Unidbg学习笔记（三）：五个后端引擎的性能与取舍
@@ -240,10 +244,6 @@
       release_time: 2026.04.10 13:19:18
       title: 全AI分析DexH*lper Anti-Frida深度检测机制
       url: https://mp.weixin.qq.com/s?__biz=MzI4NTE1NDMwMA==&mid=2247485381&idx=1&sn=88d1a4a3a030e265ac07f5298a7802c0
-    - author: 如意私塾
-      release_time: 2026.04.10 13:07:04
-      title: 自动化微软/谷歌outlook/gmail邮箱直接注册展示
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484352&idx=1&sn=b0ba76b23d428ae68f430cf89ba8880a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: '0xfffb'
+      release_time: 2026.04.13 10:25:13
+      title: '[原创][推荐]为什么 Twised 要升级 IR'
+      url: https://bbs.kanxue.com/thread-290790.htm
     - author: 嘎嘎真的很棒
       release_time: 2026.04.11 20:40:27
       title: '[原创][分享]某安全加固趣事分享'
@@ -487,10 +491,6 @@
       release_time: 2026.04.07 15:31:02
       title: '[原创]AI辅助逆向某flutter应用'
       url: https://bbs.kanxue.com/thread-290688.htm
-    - author: mb_tqjnyivs
-      release_time: 2026.04.07 15:23:07
-      title: '[原创]dwva靶场-- xss'
-      url: https://bbs.kanxue.com/thread-290687.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
