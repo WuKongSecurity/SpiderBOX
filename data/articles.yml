@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 学逆向的柚子
+      release_time: 2026.04.13 18:04:47
+      title: 4月13日
+      url: https://www.bilibili.com/video/BV1QKQ4B9EBW
     - author: B站用户骚神
       release_time: 2026.04.13 17:52:06
       title: DrissionPage抓取小红书数据到数据库
@@ -117,13 +121,13 @@
       release_time: 2026.03.30 15:18:29
       title: 魔改unidbg：极致的trace速度优化
       url: https://www.bilibili.com/video/BV1ivXhB5EuD
-    - author: 魔影-马
-      release_time: 2026.03.28 13:03:21
-      title: 不知道该更啥了
-      url: https://www.bilibili.com/video/BV1JeXGBAEqM
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.04.13 19:13:48
+      title: Android系统智能调试分析工具(专业版)V7.6
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500116&idx=1&sn=69069abd9bd649f4aedd14dabb8460ea
     - author: 菜鸟学Python编程
       release_time: 2026.04.13 17:29:00
       title: JS逆向|猿人学逆向反混淆练习平台第13题加密分析
@@ -240,10 +244,6 @@
       release_time: 2026.04.10 18:11:51
       title: 各类小程序反编译合集
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489945&idx=1&sn=98dd02c91631d95382ceb6cefe6d0ef3
-    - author: 無色逆向
-      release_time: 2026.04.10 17:42:02
-      title: 某航司同盾blackBox反混淆和补环境
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MjYyNTgxMQ==&mid=2247484698&idx=1&sn=865a7b6e87453a696bf2ab97729e628e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
