@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 将往的爬虫逆向日记
+      release_time: 2026.04.13 13:00:00
+      title: 基于电力交易业务定制浏览器(更新3)
+      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862271&idx=1&sn=c2a9848ec6ede5b24e2eff22634bad65
+    - author: 逆向有你
+      release_time: 2026.04.13 11:46:06
+      title: 2026Frida环境详细搭建教程
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041688&idx=1&sn=02fdc35f8cc77421924e53871654df8b
     - author: 如意私塾
       release_time: 2026.04.13 11:24:01
       title: 免费HTTP代理的背后:cookie被拿|植入广告|挖矿注入|内容篡改|监控流量
@@ -236,14 +244,6 @@
       release_time: 2026.04.10 17:37:29
       title: jdgs模拟执行
       url: https://mp.weixin.qq.com/s?__biz=Mzk1NzI2Njg5NQ==&mid=2247483915&idx=1&sn=1d0ddf8c9b79ab2546db4d26e5d1b856
-    - author: 极验
-      release_time: 2026.04.10 14:03:20
-      title: 权威认可！极验入选中国信通院“铸基计划”全景图
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724434&idx=1&sn=ac28b8bb28d817afe5d5cca90359efb2
-    - author: 小白技术社
-      release_time: 2026.04.10 13:19:18
-      title: 全AI分析DexH*lper Anti-Frida深度检测机制
-      url: https://mp.weixin.qq.com/s?__biz=MzI4NTE1NDMwMA==&mid=2247485381&idx=1&sn=88d1a4a3a030e265ac07f5298a7802c0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 冰履踏青云
+      release_time: 2026.04.13 11:44:38
+      title: JS逆向之祥某航空desc风控参数
+      url: https://bingyun.blog.csdn.net/article/details/160023799
     - author: '0xfffb'
       release_time: 2026.04.13 10:25:13
       title: '[原创][推荐]为什么 Twised 要升级 IR'
@@ -487,10 +491,6 @@
       release_time: 2026.04.07 17:13:56
       title: 【AI系列】从零开始学习大模型-系列2-Day1-深入理解大模型推理的核心机制
       url: https://blog.csdn.net/qq_30135181/article/details/159926997
-    - author: Evan_422
-      release_time: 2026.04.07 15:31:02
-      title: '[原创]AI辅助逆向某flutter应用'
-      url: https://bbs.kanxue.com/thread-290688.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
