@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.04.13 21:03:47
+      title: 漏洞挖掘 | 一次数据库是Hive的SQL注入
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489954&idx=1&sn=c94b713b93f42c8cb74685385d01d44e
     - author: 软件安全与逆向分析
       release_time: 2026.04.13 20:23:41
       title: 安卓内核Hook技术实现分析与应用
@@ -240,10 +244,6 @@
       release_time: 2026.04.10 20:12:00
       title: opus无限蹬了？我只是往 Replit 里丢了一段 Prompt
       url: https://mp.weixin.qq.com/s?__biz=MzIxOTQ1OTA0Ng==&mid=2247484519&idx=1&sn=37a6f43ab3628989b6d322d1d06993d6
-    - author: 未闻Code
-      release_time: 2026.04.10 19:52:26
-      title: 4K Star的多人 Agent 协作平台 Multica！Agent即队友，可像同事一样被指派、被追踪！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991546&idx=1&sn=eb4edcc29f05c9506117f5be663b38d0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
