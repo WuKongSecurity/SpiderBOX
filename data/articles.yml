@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 将往的爬虫逆向日记
+      release_time: 2026.04.14 00:00:00
+      title: Python爬虫入门：基于RPC快速通过spiderdemoT30题
+      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862278&idx=1&sn=c0026230fe64789a639866826de2fb3a
     - author: 如意私塾
       release_time: 2026.04.13 22:26:28
       title: web自动化JS行为检测全部isTrusted通过拟人化
@@ -240,10 +244,6 @@
       release_time: 2026.04.11 08:56:50
       title: 固件逆向分析工具(2026)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500086&idx=1&sn=39e39a9f69dee2e9c177dd03ae277c2f
-    - author: 一支甜筒
-      release_time: 2026.04.11 00:08:32
-      title: AI 逆向同盾 BlackBox：工具链与核心算法
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NDYzMDMwMw==&mid=2247483756&idx=1&sn=56fcab02d9ec40404877642cfebfbc9b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
