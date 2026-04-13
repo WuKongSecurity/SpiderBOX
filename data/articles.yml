@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 泡泡以安
+      release_time: 2026.04.13 09:09:00
+      title: Unidbg学习笔记（三）：五个后端引擎的性能与取舍
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486010&idx=1&sn=4944d06e914a3375f1cc7531d66b62f0
+    - author: 测试工程师成长之路
+      release_time: 2026.04.13 08:30:00
+      title: 告别录屏与浏览器孤岛，Playwright以原生AI能力重塑测试工作流
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578847&idx=1&sn=6cbe1aab07e6e8e226e588b9785b2c3c
+    - author: Coder小Q
+      release_time: 2026.04.13 08:30:00
+      title: 【量子计算】 自旋：量子世界的指南针
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495056&idx=1&sn=4cbc0645db52bc09036e4dbcff73edb0
+    - author: 二进制磨剑
+      release_time: 2026.04.13 08:00:00
+      title: 逆向 Skill | 用 Skill 自动化 Android 脱壳
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486038&idx=1&sn=1425cc0a12ed5742488c989cd66e6a46
     - author: 如意私塾
       release_time: 2026.04.12 22:23:55
       title: web自动化采集shoope台湾登录态商品数据
@@ -228,22 +244,6 @@
       release_time: 2026.04.10 13:07:04
       title: 自动化微软/谷歌outlook/gmail邮箱直接注册展示
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484352&idx=1&sn=b0ba76b23d428ae68f430cf89ba8880a
-    - author: 哆啦安全
-      release_time: 2026.04.10 11:35:57
-      title: Android ARM64逆向调试器工具(远程调试・一键部署)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500077&idx=1&sn=e0b0e1414faa009a1eab28bb4bf2af58
-    - author: 逆向有你
-      release_time: 2026.04.10 11:03:53
-      title: 安卓逆向 -- 某SDK Frida检测绕过深度分析
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041671&idx=1&sn=7e93d4eb80f5dd8c91d8c23c00e3d38b
-    - author: 泡泡以安
-      release_time: 2026.04.10 10:48:28
-      title: Unidbg学习笔记（二）：Unidbg 的世界观
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247485998&idx=1&sn=897a88f49e0773f2c623352e3b933e59
-    - author: 爬虫逆向小林哥
-      release_time: 2026.04.10 09:00:00
-      title: Ai人柱力-某壳移动端分析
-      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487236&idx=1&sn=d32264680eb488ad1603846b485bcb8e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
