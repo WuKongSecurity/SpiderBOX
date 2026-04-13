@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 软件安全与逆向分析
+      release_time: 2026.04.13 20:23:41
+      title: 安卓内核Hook技术实现分析与应用
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485111&idx=1&sn=f933f9d819aa2fa0d502768de65dd600
     - author: 哆啦安全
       release_time: 2026.04.13 19:13:48
       title: Android系统智能调试分析工具(专业版)V7.6
@@ -240,10 +244,6 @@
       release_time: 2026.04.10 19:52:26
       title: 4K Star的多人 Agent 协作平台 Multica！Agent即队友，可像同事一样被指派、被追踪！
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991546&idx=1&sn=eb4edcc29f05c9506117f5be663b38d0
-    - author: 进击的HACK
-      release_time: 2026.04.10 18:11:51
-      title: 各类小程序反编译合集
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489945&idx=1&sn=98dd02c91631d95382ceb6cefe6d0ef3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
