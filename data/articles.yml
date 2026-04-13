@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.04.13 22:26:28
+      title: web自动化JS行为检测全部isTrusted通过拟人化
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484385&idx=1&sn=bb714da31184848c0379c986e78c886d
     - author: 进击的HACK
       release_time: 2026.04.13 21:03:47
       title: 漏洞挖掘 | 一次数据库是Hive的SQL注入
@@ -240,10 +244,6 @@
       release_time: 2026.04.11 00:08:32
       title: AI 逆向同盾 BlackBox：工具链与核心算法
       url: https://mp.weixin.qq.com/s?__biz=Mzg3NDYzMDMwMw==&mid=2247483756&idx=1&sn=56fcab02d9ec40404877642cfebfbc9b
-    - author: 智原堂
-      release_time: 2026.04.10 20:12:00
-      title: opus无限蹬了？我只是往 Replit 里丢了一段 Prompt
-      url: https://mp.weixin.qq.com/s?__biz=MzIxOTQ1OTA0Ng==&mid=2247484519&idx=1&sn=37a6f43ab3628989b6d322d1d06993d6
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
