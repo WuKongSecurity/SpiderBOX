@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: Alone逆向安全
+      release_time: 2026.04.14 12:58:40
+      title: 无痕Hook逆向神器  魔改frida-gum + Lua热重载 + JavaNative全家桶
+      url: https://www.bilibili.com/video/BV1qeQiB4Eww
     - author: 学逆向的柚子
       release_time: 2026.04.13 18:04:47
       title: 4月13日
@@ -117,13 +121,25 @@
       release_time: 2026.03.31 16:18:25
       title: safari指纹浏览器定制之canvas指纹过检测方案
       url: https://www.bilibili.com/video/BV14GXkBfEX1
-    - author: x1a0f3n9
-      release_time: 2026.03.30 15:18:29
-      title: 魔改unidbg：极致的trace速度优化
-      url: https://www.bilibili.com/video/BV1ivXhB5EuD
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2026.04.14 11:22:55
+      title: 2026安卓逆向 -- SunnyNet抓包
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041703&idx=1&sn=4c2c9523f8baba8af25aa327e841218c
+    - author: 爬虫逆向小林哥
+      release_time: 2026.04.14 11:04:21
+      title: 【skill-collection】自动脱壳、亲测无敌
+      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487252&idx=1&sn=4433bd60f5716d08a3f6aa60d2fd8bc4
+    - author: Spade sec
+      release_time: 2026.04.14 10:30:34
+      title: Vue新攻击面-动态路由实战狩猎
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486957&idx=1&sn=04b69abf5b5d698a9d8ac42e94a151e8
+    - author: 软件安全与逆向分析
+      release_time: 2026.04.14 10:30:27
+      title: ARM64动态指令追踪工具使用与实现分析
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485117&idx=1&sn=5c5a103b1863aad7dac6b6e40c9bb470
     - author: 如意私塾
       release_time: 2026.04.14 10:00:00
       title: 共享带宽能赚钱？流淌的是各种灰色和黑色的流量
@@ -228,22 +244,6 @@
       release_time: 2026.04.12 21:18:46
       title: 下一代web自动化 | 采集Boss某聘非登录岗位
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484368&idx=1&sn=76de05ac938e6394d35d22e4f2849818
-    - author: 二手的程序员
-      release_time: 2026.04.12 21:07:30
-      title: 飞书还是牛逼
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTkxMTU1NA==&mid=2247489488&idx=1&sn=547ab3dc99a557f3434c57c660a8ea8a
-    - author: 如意私塾
-      release_time: 2026.04.12 16:30:43
-      title: 中国住宅代理的真实规模：907万个IP，80%参与过恶意流量，91%活不过10天
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484363&idx=1&sn=97e6364c1ba2de5093dcbc67b5f7eff4
-    - author: 如意私塾
-      release_time: 2026.04.12 15:31:42
-      title: 下一代web自动化 | 自带xpath路径显示和定位代码生成
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484357&idx=1&sn=389a37afde0b930ad824775b6f5f4e13
-    - author: 智原堂
-      release_time: 2026.04.12 13:53:31
-      title: ai逆向一把梭某macos应用，可无限使用至掩体纪元
-      url: https://mp.weixin.qq.com/s?__biz=MzIxOTQ1OTA0Ng==&mid=2247484544&idx=1&sn=81fb9ff5e7179e5c792e2b555a9e5e4f
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 追风暴的人
+      release_time: 2026.04.14 10:50:20
+      title: 猿人学第11题
+      url: https://blog.csdn.net/m0_51159233/article/details/160138343
     - author: 冰履踏青云
       release_time: 2026.04.14 10:16:12
       title: 得物（Dewu）H5 接口 sign 签名参数逆向分析全流程
@@ -486,10 +490,6 @@
       release_time: 2026.04.08 18:50:39
       title: '[原创]某SDK注册风控逆向'
       url: https://bbs.kanxue.com/thread-290710.htm
-    - author: 悦来客栈的老板
-      release_time: 2026.04.08 17:30:58
-      title: JS逆向|猿人学逆向反混淆练习平台第九题加密分析(超详细版)
-      url: https://blog.csdn.net/qq523176585/article/details/159969412
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
