@@ -370,6 +370,14 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 冰履踏青云
+      release_time: 2026.04.14 10:16:12
+      title: 得物（Dewu）H5 接口 sign 签名参数逆向分析全流程
+      url: https://bingyun.blog.csdn.net/article/details/160115649
+    - author: 冰履踏青云
+      release_time: 2026.04.14 10:12:32
+      title: 卷死同事！Cluade Code Claude-opus-4-6-fast 安装 + 配置 + 使用 一步到位
+      url: https://bingyun.blog.csdn.net/article/details/160118936
     - author: '0x530c'
       release_time: 2026.04.13 17:50:58
       title: '[原创] 手撕某音最新版 VMP 之虚拟指令流解析器的实现'
@@ -482,15 +490,6 @@
       release_time: 2026.04.08 17:30:58
       title: JS逆向|猿人学逆向反混淆练习平台第九题加密分析(超详细版)
       url: https://blog.csdn.net/qq523176585/article/details/159969412
-    - author: wx_Deity
-      release_time: 2026.04.08 11:18:58
-      title: '[原创]从 Permission Denied 到 Typebounds：记一次 KernelSU 模块在 Pixel 2 (Android
-        10) 上不生效的排查之旅'
-      url: https://bbs.kanxue.com/thread-290698.htm
-    - author: w2sfot
-      release_time: 2026.04.08 08:04:04
-      title: JS加密工具大全：各种JS加密、JS混淆工具！
-      url: https://blog.csdn.net/w2sft/article/details/159939420
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
