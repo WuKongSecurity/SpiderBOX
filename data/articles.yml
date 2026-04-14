@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 魔影-马
+      release_time: 2026.04.14 18:39:38
+      title: 浅谈某手游反作弊(Report data 2篇)
+      url: https://www.bilibili.com/video/BV1HBQgBZEMe
     - author: Alone逆向安全
       release_time: 2026.04.14 12:58:40
       title: 无痕Hook逆向神器  魔改frida-gum + Lua热重载 + JavaNative全家桶
@@ -117,10 +121,6 @@
       release_time: 2026.03.31 18:46:08
       title: safari指纹浏览器真实内核过苹果UA检测
       url: https://www.bilibili.com/video/BV1L5XrBzE7R
-    - author: 如意-浏览器开发培训
-      release_time: 2026.03.31 16:18:25
-      title: safari指纹浏览器定制之canvas指纹过检测方案
-      url: https://www.bilibili.com/video/BV14GXkBfEX1
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
