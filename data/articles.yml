@@ -374,6 +374,10 @@
       release_time: 2026.04.14 17:56:34
       title: '[原创]挑战 Android 墓碑机制：揭秘某头部社交 APP 永生背后的保活术'
       url: https://bbs.kanxue.com/thread-290821.htm
+    - author: 悦来客栈的老板
+      release_time: 2026.04.14 17:14:41
+      title: AI逆向|使用AI分析aws-waf-token值的加密并纯算
+      url: https://blog.csdn.net/qq523176585/article/details/160159479
     - author: '`Jay'
       release_time: 2026.04.14 17:12:54
       title: BET365-JSVMP-纯算还原-深入解析JSVMP执行结构与逆向分析技巧
@@ -486,10 +490,6 @@
       release_time: 2026.04.09 11:23:04
       title: 3个Html加密工具
       url: https://blog.csdn.net/w2sft/article/details/159980326
-    - author: '0xfffb'
-      release_time: 2026.04.09 11:03:15
-      title: '[原创]开源栈式 JS 虚拟机（JSVMP）功能介绍、痛点、后续计划'
-      url: https://bbs.kanxue.com/thread-290719.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
