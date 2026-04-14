@@ -124,6 +124,38 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.04.14 10:00:00
+      title: 共享带宽能赚钱？流淌的是各种灰色和黑色的流量
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484390&idx=1&sn=fda4e06f60d73e623074422a3d4dfa8b
+    - author: 泡泡以安
+      release_time: 2026.04.14 09:09:00
+      title: Unidbg学习笔记（四）：一条 SVC 指令引发的连锁反应
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486017&idx=1&sn=7ae77e3d6f9b2759305f2c6e31331247
+    - author: Coder小Q
+      release_time: 2026.04.14 08:30:00
+      title: 【量子计算】量子比特的数学：把自旋翻译成二维复向量
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495076&idx=1&sn=b28edd8631fd3b7be8c8a210ee573849
+    - author: Python成长路
+      release_time: 2026.04.14 07:45:00
+      title: '使用AI分析: 为什么微信总是强制更新'
+      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486163&idx=1&sn=7ed76675892fa680e3ef528fb8187842
+    - author: 零基础爬虫第一天
+      release_time: 2026.04.14 07:30:00
+      title: Jsdom Wrapper及VirtualConsole分析
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484347&idx=1&sn=7e3781f18562e1063b35d10fc3a64915
+    - author: 零基础爬虫第一天
+      release_time: 2026.04.14 07:30:00
+      title: jsdom-从 HTML 解析到 Wrapper/Impl 全链路
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484349&idx=1&sn=525d4bd2e241de7b59f227772e256745
+    - author: 极验
+      release_time: 2026.04.14 07:30:00
+      title: 模拟器已成过去式？硬件级云手机“真机指纹”正在绕过传统风控
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724435&idx=1&sn=6fedf86c85ab18af68bcec6feec1fd87
+    - author: 零基础爬虫第一天
+      release_time: 2026.04.14 07:20:00
+      title: Jsdom-parse5 用法与 jsdom 集成
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484348&idx=1&sn=dbb16913d7fb93cd0fe13792102640d3
     - author: 将往的爬虫逆向日记
       release_time: 2026.04.14 00:00:00
       title: Python爬虫入门：基于RPC快速通过spiderdemoT30题
@@ -212,38 +244,6 @@
       release_time: 2026.04.12 13:53:31
       title: ai逆向一把梭某macos应用，可无限使用至掩体纪元
       url: https://mp.weixin.qq.com/s?__biz=MzIxOTQ1OTA0Ng==&mid=2247484544&idx=1&sn=81fb9ff5e7179e5c792e2b555a9e5e4f
-    - author: 丫总逆向
-      release_time: 2026.04.12 13:41:52
-      title: 基于官方sdk实现的不封号个人微信bot
-      url: https://mp.weixin.qq.com/s?__biz=MzU1NjQ2Njg4OA==&mid=2247484081&idx=1&sn=5bf6c93f5a58815ad290a1fe6915dbdc
-    - author: 哆啦安全
-      release_time: 2026.04.12 13:19:09
-      title: AndroidManifest处理工具V1.1
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500099&idx=1&sn=65ac98c66ccca487b55b50043242ec97
-    - author: 进击的HACK
-      release_time: 2026.04.11 22:05:35
-      title: 打通最后一公里！只需一句话轻松拿捏小程序
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489947&idx=1&sn=803f9a062c4e2e5a9f0562413c26eb2f
-    - author: 软件安全与逆向分析
-      release_time: 2026.04.11 17:37:22
-      title: 使用这个工具你的AI可以省一半的Token
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485106&idx=1&sn=03017e4e54227de0bf39d95e98e65b81
-    - author: 一支甜筒
-      release_time: 2026.04.11 11:38:26
-      title: AI 逆向某盾 BlackBox 实战
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NDYzMDMwMw==&mid=2247483764&idx=1&sn=e0e89f1cc6b58a7b55d931ff8f856710
-    - author: Python成长路
-      release_time: 2026.04.11 10:30:00
-      title: 支持多账号自动登录的微信多开软件
-      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486120&idx=1&sn=959e4dd2a667309198bdb56673836bde
-    - author: 小白技术社
-      release_time: 2026.04.11 10:00:00
-      title: 二、全AI分析深度分析 DexH*lper.so  Frida 检测机制
-      url: https://mp.weixin.qq.com/s?__biz=MzI4NTE1NDMwMA==&mid=2247485385&idx=1&sn=0841ac7c75ea68ba923d991e63e0dd88
-    - author: 哆啦安全
-      release_time: 2026.04.11 08:56:50
-      title: 固件逆向分析工具(2026)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500086&idx=1&sn=39e39a9f69dee2e9c177dd03ae277c2f
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
