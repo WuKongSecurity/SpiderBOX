@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2026.04.14 17:14:00
+      title: AI逆向|使用AI分析aws-waf-token值的加密并纯算
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566465&idx=1&sn=265b1cb11266f9eb62f8279e5823c387
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.04.14 16:54:23
+      title: 在线订票遭遇“幽灵机票”？平台内商家未经同意对外提供个人信息构成侵权
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520013&idx=1&sn=6a3c8f0ee55f236447a87b18b104fac3
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.04.14 16:54:23
+      title: 在线预订平台Booking.com发生客户数据泄露事件
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520013&idx=2&sn=3d96e7076886dc0ac57fb1aa075dbf97
     - author: 逆向有你
       release_time: 2026.04.14 11:22:55
       title: 2026安卓逆向 -- SunnyNet抓包
@@ -232,18 +244,6 @@
       release_time: 2026.04.12 22:15:52
       title: 《FRIDA手撕海外企业壳》成都场确定！
       url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486139&idx=1&sn=a5e7f67c55cb17aa0e4b57d6e1728f38
-    - author: 大数据安全技术学习
-      release_time: 2026.04.12 22:15:52
-      title: APP2025.直播20.Y700四代免解锁ROOT打造完美过检测环境
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486139&idx=2&sn=a23b6828bfc30f7d34bfdb53783bb8fb
-    - author: 进击的HACK
-      release_time: 2026.04.12 21:43:01
-      title: 深入MD5：逆向工程师如何识别和还原标准与魔改算法
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489949&idx=1&sn=f945723d550a5c7de9c56ea681807034
-    - author: 如意私塾
-      release_time: 2026.04.12 21:18:46
-      title: 下一代web自动化 | 采集Boss某聘非登录岗位
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484368&idx=1&sn=76de05ac938e6394d35d22e4f2849818
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,14 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 易之生生
+      release_time: 2026.04.14 17:56:34
+      title: '[原创]挑战 Android 墓碑机制：揭秘某头部社交 APP 永生背后的保活术'
+      url: https://bbs.kanxue.com/thread-290821.htm
+    - author: '`Jay'
+      release_time: 2026.04.14 17:12:54
+      title: BET365-JSVMP-纯算还原-深入解析JSVMP执行结构与逆向分析技巧
+      url: https://blog.csdn.net/weixin_47115747/article/details/160135975
     - author: Tasfa
       release_time: 2026.04.14 14:42:30
       title: 【AI系列】从零开始学习大模型-系列2-Day3-理解Prefill vs Decode
@@ -442,6 +450,10 @@
       release_time: 2026.04.10 21:24:46
       title: '[原创]Frida源码分析之Hook原理篇'
       url: https://bbs.kanxue.com/thread-290755.htm
+    - author: NullLine
+      release_time: 2026.04.10 14:13:00
+      title: 从协议缺陷到空中劫持——伪基站攻击
+      url: https://xz.aliyun.com/news/91943
     - author: 冰履踏青云
       release_time: 2026.04.10 13:30:27
       title: JS逆向之猫眼 signKey和mygsig算法
@@ -478,18 +490,6 @@
       release_time: 2026.04.09 11:03:15
       title: '[原创]开源栈式 JS 虚拟机（JSVMP）功能介绍、痛点、后续计划'
       url: https://bbs.kanxue.com/thread-290719.htm
-    - author: 珍惜Any
-      release_time: 2026.04.09 10:50:14
-      title: '[原创]Android内核无痕Hook理解和感悟'
-      url: https://bbs.kanxue.com/thread-290718.htm
-    - author: 珍惜Any
-      release_time: 2026.04.09 10:35:12
-      title: '[原创]Android内核无痕Hook理解和感悟&Hook“天阶功法”'
-      url: https://bbs.kanxue.com/thread-290716.htm
-    - author: 小夏缘
-      release_time: 2026.04.08 22:09:46
-      title: 某手热门短剧逆向AI直接秒
-      url: https://blog.csdn.net/m0_73923773/article/details/159966748
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
