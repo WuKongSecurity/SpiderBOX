@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.04.14 20:07:31
+      title: 最大程度获取网站JS的工具
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489961&idx=1&sn=44a0e630c36781260928b6c360fb7f68
     - author: 菜鸟学Python编程
       release_time: 2026.04.14 17:14:00
       title: AI逆向|使用AI分析aws-waf-token值的加密并纯算
@@ -240,10 +244,6 @@
       release_time: 2026.04.12 22:23:55
       title: web自动化采集shoope台湾登录态商品数据
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484374&idx=1&sn=c64623e24a1364b0554b495ea7610725
-    - author: 大数据安全技术学习
-      release_time: 2026.04.12 22:15:52
-      title: 《FRIDA手撕海外企业壳》成都场确定！
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486139&idx=1&sn=a5e7f67c55cb17aa0e4b57d6e1728f38
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
