@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 泡泡以安
+      release_time: 2026.04.15 09:09:00
+      title: Unidbg学习笔记（五）：第一次让 SO 跑起来
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486026&idx=1&sn=5065bac4b1819e5a01a2cfa2d6ab6e5e
+    - author: Coder小Q
+      release_time: 2026.04.15 08:30:00
+      title: 【量子计算】Bloch 球：可视化量子比特
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495151&idx=1&sn=7a04ff9634f42932386324914d3ea700
+    - author: CYRUS STUDIO
+      release_time: 2026.04.15 08:30:00
+      title: Frida 源码编译全流程：自己动手编译 frida-server
+      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486611&idx=1&sn=934812e0ec01618e71c1bc1239bec605
     - author: 进击的HACK
       release_time: 2026.04.14 20:07:31
       title: 最大程度获取网站JS的工具
@@ -232,18 +244,6 @@
       release_time: 2026.04.13 08:30:00
       title: 告别录屏与浏览器孤岛，Playwright以原生AI能力重塑测试工作流
       url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578847&idx=1&sn=6cbe1aab07e6e8e226e588b9785b2c3c
-    - author: Coder小Q
-      release_time: 2026.04.13 08:30:00
-      title: 【量子计算】 自旋：量子世界的指南针
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495056&idx=1&sn=4cbc0645db52bc09036e4dbcff73edb0
-    - author: 二进制磨剑
-      release_time: 2026.04.13 08:00:00
-      title: 逆向 Skill | 用 Skill 自动化 Android 脱壳
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486038&idx=1&sn=1425cc0a12ed5742488c989cd66e6a46
-    - author: 如意私塾
-      release_time: 2026.04.12 22:23:55
-      title: web自动化采集shoope台湾登录态商品数据
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484374&idx=1&sn=c64623e24a1364b0554b495ea7610725
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
