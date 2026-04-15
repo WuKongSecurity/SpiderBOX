@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.04.15 10:49:11
+      title: APK逆向智能分析工具V1.3
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500133&idx=1&sn=593805278f71b91e022570c4d92f5874
     - author: 泡泡以安
       release_time: 2026.04.15 09:09:00
       title: Unidbg学习笔记（五）：第一次让 SO 跑起来
@@ -240,10 +244,6 @@
       release_time: 2026.04.13 09:09:00
       title: Unidbg学习笔记（三）：五个后端引擎的性能与取舍
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486010&idx=1&sn=4944d06e914a3375f1cc7531d66b62f0
-    - author: 测试工程师成长之路
-      release_time: 2026.04.13 08:30:00
-      title: 告别录屏与浏览器孤岛，Playwright以原生AI能力重塑测试工作流
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578847&idx=1&sn=6cbe1aab07e6e8e226e588b9785b2c3c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
