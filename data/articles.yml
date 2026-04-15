@@ -124,6 +124,26 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2026.04.15 17:30:00
+      title: AI逆向|使用AI反编译反混淆练习平台第18题jsvmp
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566473&idx=1&sn=6e0b746437fc213623d1ec80cd271e4f
+    - author: 反爬破解社
+      release_time: 2026.04.15 17:01:18
+      title: 基于深度学习的行为指纹识别对抗
+      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483846&idx=1&sn=121a2022433490180ff4a5add9f4b2fc
+    - author: 反爬破解社
+      release_time: 2026.04.15 17:01:18
+      title: 长期失眠睡不着，睡前喝一杯，
+      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483846&idx=2&sn=cc88b0ee4074bc7d4460eb49b285cf67
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.04.15 16:48:05
+      title: EDPB发布DPIA模板征求意见稿
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520018&idx=1&sn=6ca81f7b68756dcffcc5f827a98e034d
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.04.15 16:48:05
+      title: 日本拟放宽个人信息使用准则，降低AI应用开发的制度性成本
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520018&idx=2&sn=a33ca49010b908369e8b4bdd5d03fda7
     - author: 如意私塾
       release_time: 2026.04.15 13:40:08
       title: 你用了VPN和代理？服务器量一下延迟就知道了，不侵犯隐私还能抓到92%
@@ -224,26 +244,6 @@
       release_time: 2026.04.13 21:03:47
       title: 漏洞挖掘 | 一次数据库是Hive的SQL注入
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489954&idx=1&sn=c94b713b93f42c8cb74685385d01d44e
-    - author: 软件安全与逆向分析
-      release_time: 2026.04.13 20:23:41
-      title: 安卓内核Hook技术实现分析与应用
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485111&idx=1&sn=f933f9d819aa2fa0d502768de65dd600
-    - author: 哆啦安全
-      release_time: 2026.04.13 19:13:48
-      title: Android系统智能调试分析工具(专业版)V7.6
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500116&idx=1&sn=69069abd9bd649f4aedd14dabb8460ea
-    - author: 菜鸟学Python编程
-      release_time: 2026.04.13 17:29:00
-      title: JS逆向|猿人学逆向反混淆练习平台第13题加密分析
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566455&idx=1&sn=01a4f1020919609b550cf7b7d60e8210
-    - author: 将往的爬虫逆向日记
-      release_time: 2026.04.13 13:00:00
-      title: 基于电力交易业务定制浏览器(更新3)
-      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862271&idx=1&sn=c2a9848ec6ede5b24e2eff22634bad65
-    - author: 逆向有你
-      release_time: 2026.04.13 11:46:06
-      title: 2026Frida环境详细搭建教程
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041688&idx=1&sn=02fdc35f8cc77421924e53871654df8b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
