@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.04.15 13:40:08
+      title: 你用了VPN和代理？服务器量一下延迟就知道了，不侵犯隐私还能抓到92%
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484399&idx=1&sn=665e22b3249107371d93de07496ea790
+    - author: 如意私塾
+      release_time: 2026.04.15 12:59:45
+      title: 自动化过检测:web自动化鼠标行为可视化分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484394&idx=1&sn=b3f415d666dbcbf81c4085d6f43657cf
     - author: 哆啦安全
       release_time: 2026.04.15 10:49:11
       title: APK逆向智能分析工具V1.3
@@ -236,14 +244,6 @@
       release_time: 2026.04.13 11:46:06
       title: 2026Frida环境详细搭建教程
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041688&idx=1&sn=02fdc35f8cc77421924e53871654df8b
-    - author: 如意私塾
-      release_time: 2026.04.13 11:24:01
-      title: 免费HTTP代理的背后:cookie被拿|植入广告|挖矿注入|内容篡改|监控流量
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484380&idx=1&sn=7330cc57b0bd2e757a5852f0d0f576eb
-    - author: 泡泡以安
-      release_time: 2026.04.13 09:09:00
-      title: Unidbg学习笔记（三）：五个后端引擎的性能与取舍
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486010&idx=1&sn=4944d06e914a3375f1cc7531d66b62f0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
