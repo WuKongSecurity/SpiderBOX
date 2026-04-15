@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 如意-浏览器开发培训
+      release_time: 2026.04.15 18:46:49
+      title: （秒px盾）outlook微软邮箱注册机制作
+      url: https://www.bilibili.com/video/BV1ZEQEBCEo3
     - author: 魔影-马
       release_time: 2026.04.14 18:39:38
       title: 浅谈某手游反作弊(Report data 2篇)
@@ -117,13 +121,17 @@
       release_time: 2026.04.01 22:29:58
       title: 逆向基本流程
       url: https://www.bilibili.com/video/BV17v9EBSEeY
-    - author: 如意-浏览器开发培训
-      release_time: 2026.03.31 18:46:08
-      title: safari指纹浏览器真实内核过苹果UA检测
-      url: https://www.bilibili.com/video/BV1L5XrBzE7R
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.04.15 18:53:16
+      title: 乱杀px盾：ruyiPage版本outlook微软邮箱注册机
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484406&idx=1&sn=abe2ad0ce6de6286fdce8a07b6af1198
+    - author: 进击的HACK
+      release_time: 2026.04.15 17:57:10
+      title: 攻防演练外围打点之Shiro反序列化
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489967&idx=1&sn=ab6415edc1279e82c711ea7a6b07f594
     - author: 菜鸟学Python编程
       release_time: 2026.04.15 17:30:00
       title: AI逆向|使用AI反编译反混淆练习平台第18题jsvmp
@@ -236,14 +244,6 @@
       release_time: 2026.04.14 00:00:00
       title: Python爬虫入门：基于RPC快速通过spiderdemoT30题
       url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862278&idx=1&sn=c0026230fe64789a639866826de2fb3a
-    - author: 如意私塾
-      release_time: 2026.04.13 22:26:28
-      title: web自动化JS行为检测全部isTrusted通过拟人化
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484385&idx=1&sn=bb714da31184848c0379c986e78c886d
-    - author: 进击的HACK
-      release_time: 2026.04.13 21:03:47
-      title: 漏洞挖掘 | 一次数据库是Hive的SQL注入
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489954&idx=1&sn=c94b713b93f42c8cb74685385d01d44e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
