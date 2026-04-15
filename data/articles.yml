@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2026.04.15 20:48:12
+      title: 'AI记忆的主权之争: 别把AI记忆交给大厂'
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991549&idx=1&sn=e20036931a29971a9bdf94bf0e47e402
     - author: 如意私塾
       release_time: 2026.04.15 18:53:16
       title: 乱杀px盾：ruyiPage版本outlook微软邮箱注册机
@@ -240,10 +244,6 @@
       release_time: 2026.04.14 07:20:00
       title: Jsdom-parse5 用法与 jsdom 集成
       url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484348&idx=1&sn=dbb16913d7fb93cd0fe13792102640d3
-    - author: 将往的爬虫逆向日记
-      release_time: 2026.04.14 00:00:00
-      title: Python爬虫入门：基于RPC快速通过spiderdemoT30题
-      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862278&idx=1&sn=c0026230fe64789a639866826de2fb3a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
