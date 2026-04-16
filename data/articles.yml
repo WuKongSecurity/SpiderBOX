@@ -124,6 +124,30 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2026.04.16 12:09:44
+      title: x64dbg插件无驱动过vmp3.9.4反调试
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144264&idx=1&sn=189e58a7a9ec333be36e0093a5b77c92
+    - author: 爬虫逆向小林哥
+      release_time: 2026.04.16 10:30:06
+      title: Xhs-web-live-danmu
+      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487271&idx=1&sn=f94e1b80c52200e4c9534f700bb4669a
+    - author: 泡泡以安
+      release_time: 2026.04.16 09:09:00
+      title: Unidbg学习笔记（六）：补环境的思维框架
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486032&idx=1&sn=f1c1ac51f7ad3c808fca5177b831e476
+    - author: CYRUS STUDIO
+      release_time: 2026.04.16 08:30:00
+      title: Frida 检测与对抗实战：进程、maps、线程、符号全特征清除
+      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486612&idx=1&sn=164008f6f87a92f48b9a2e1852340d97
+    - author: Coder小Q
+      release_time: 2026.04.16 08:30:00
+      title: 【量子计算】量子纠缠（上）：张量积与多量子比特系统
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495233&idx=1&sn=047c4ad028d922bd3439165071b1f575
+    - author: 移动端Android和iOS开发技术分享
+      release_time: 2026.04.16 08:02:00
+      title: 【iOS逆向与安全】让 Claude、Codex 控制iPhone，iOS MCP 来了
+      url: https://mp.weixin.qq.com/s?__biz=MjM5MjEzMDAzMg==&mid=2257485056&idx=1&sn=67722a70a5ea80f374b40127e48d3f6a
     - author: 未闻Code
       release_time: 2026.04.15 20:48:12
       title: 'AI记忆的主权之争: 别把AI记忆交给大厂'
@@ -220,30 +244,6 @@
       release_time: 2026.04.14 09:09:00
       title: Unidbg学习笔记（四）：一条 SVC 指令引发的连锁反应
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486017&idx=1&sn=7ae77e3d6f9b2759305f2c6e31331247
-    - author: Coder小Q
-      release_time: 2026.04.14 08:30:00
-      title: 【量子计算】量子比特的数学：把自旋翻译成二维复向量
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495076&idx=1&sn=b28edd8631fd3b7be8c8a210ee573849
-    - author: Python成长路
-      release_time: 2026.04.14 07:45:00
-      title: '使用AI分析: 为什么微信总是强制更新'
-      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486163&idx=1&sn=7ed76675892fa680e3ef528fb8187842
-    - author: 零基础爬虫第一天
-      release_time: 2026.04.14 07:30:00
-      title: Jsdom Wrapper及VirtualConsole分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484347&idx=1&sn=7e3781f18562e1063b35d10fc3a64915
-    - author: 零基础爬虫第一天
-      release_time: 2026.04.14 07:30:00
-      title: jsdom-从 HTML 解析到 Wrapper/Impl 全链路
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484349&idx=1&sn=525d4bd2e241de7b59f227772e256745
-    - author: 极验
-      release_time: 2026.04.14 07:30:00
-      title: 模拟器已成过去式？硬件级云手机“真机指纹”正在绕过传统风控
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724435&idx=1&sn=6fedf86c85ab18af68bcec6feec1fd87
-    - author: 零基础爬虫第一天
-      release_time: 2026.04.14 07:20:00
-      title: Jsdom-parse5 用法与 jsdom 集成
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484348&idx=1&sn=dbb16913d7fb93cd0fe13792102640d3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: witchan
+      release_time: 2026.04.16 08:16:54
+      title: '[原创]【iOS逆向与安全】让 Claude、Codex 控制 iPhone，iOS MCP 来了'
+      url: https://bbs.kanxue.com/thread-290841.htm
     - author: 悦来客栈的老板
       release_time: 2026.04.15 17:31:54
       title: AI逆向|使用AI反编译反混淆练习平台第18题jsvmp
@@ -486,10 +490,6 @@
       release_time: 2026.04.09 18:07:57
       title: '[原创]ANDROID 黑科技 : 保活机制深度逆向'
       url: https://bbs.kanxue.com/thread-290728.htm
-    - author: Tasfa
-      release_time: 2026.04.09 17:54:12
-      title: 【AI系列】从零开始学习大模型-系列2-Day2-理解性能优化的数学建模
-      url: https://blog.csdn.net/qq_30135181/article/details/159989676
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
