@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: tomysky0409
+      release_time: 2026.04.16 23:58:57
+      title: 验证码技巧分享-简单文本识别模型对比
+      url: https://www.bilibili.com/video/BV1JfdeBTEPn
     - author: 如意-浏览器开发培训
       release_time: 2026.04.15 18:46:49
       title: （秒px盾）outlook微软邮箱注册机制作
@@ -117,10 +121,6 @@
       release_time: 2026.04.01 23:44:12
       title: safari指纹浏览器定制JS-HTTP语言指纹
       url: https://www.bilibili.com/video/BV1vw9EBGE7f
-    - author: 逆向研究生
-      release_time: 2026.04.01 22:29:58
-      title: 逆向基本流程
-      url: https://www.bilibili.com/video/BV17v9EBSEeY
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
