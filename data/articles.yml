@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.04.16 21:22:39
+      title: claude code + cc-switch 反编译分析APK
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489973&idx=1&sn=317a6db65cad1c336d007423cef2d83a
     - author: 个人信息与数据保护实务评论
       release_time: 2026.04.16 16:32:17
       title: 浙江网信办3月执法处置通报：一企业因数据遭境外窃取被处罚
@@ -240,10 +244,6 @@
       release_time: 2026.04.14 16:54:23
       title: 在线预订平台Booking.com发生客户数据泄露事件
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520013&idx=2&sn=3d96e7076886dc0ac57fb1aa075dbf97
-    - author: 逆向有你
-      release_time: 2026.04.14 11:22:55
-      title: 2026安卓逆向 -- SunnyNet抓包
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041703&idx=1&sn=4c2c9523f8baba8af25aa327e841218c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
