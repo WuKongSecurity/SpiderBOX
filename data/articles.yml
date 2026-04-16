@@ -124,10 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.04.16 13:06:47
+      title: 固件逆向分析AI技能(MCP)工具
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500136&idx=1&sn=d6d1c2c06ef808dfdb1599ef4c6bfe2e
     - author: 吾爱破解论坛
       release_time: 2026.04.16 12:09:44
       title: x64dbg插件无驱动过vmp3.9.4反调试
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144264&idx=1&sn=189e58a7a9ec333be36e0093a5b77c92
+    - author: 逆向搅屎棍
+      release_time: 2026.04.16 11:40:28
+      title: '# 这不是普通脚本，这是个真能打的 Skill：Spider King 到底能干嘛？'
+      url: https://mp.weixin.qq.com/s?__biz=MzYzNDQzNDIyNg==&mid=2247483666&idx=1&sn=44bd484f558b61c286df46d99b3b9391
     - author: 爬虫逆向小林哥
       release_time: 2026.04.16 10:30:06
       title: Xhs-web-live-danmu
@@ -236,14 +244,6 @@
       release_time: 2026.04.14 10:30:27
       title: ARM64动态指令追踪工具使用与实现分析
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485117&idx=1&sn=5c5a103b1863aad7dac6b6e40c9bb470
-    - author: 如意私塾
-      release_time: 2026.04.14 10:00:00
-      title: 共享带宽能赚钱？流淌的是各种灰色和黑色的流量
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484390&idx=1&sn=fda4e06f60d73e623074422a3d4dfa8b
-    - author: 泡泡以安
-      release_time: 2026.04.14 09:09:00
-      title: Unidbg学习笔记（四）：一条 SVC 指令引发的连锁反应
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486017&idx=1&sn=7ae77e3d6f9b2759305f2c6e31331247
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
