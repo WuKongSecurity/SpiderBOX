@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 逗逗苍穹
+      release_time: 2026.04.12 14:55:00
+      title: 全程交给 AI，不写一行代码，本地复现 CCTV 视频播放链路的一次实战记录
+      url: https://www.52pojie.cn/thread-2102594-1-1.html
     - author: libbb
       release_time: 2026.04.12 00:07:00
       title: 某手游加密数据破解教程（截止2026/4/12）
@@ -363,10 +367,6 @@
       release_time: 2026.03.24 18:28:00
       title: 浅谈OB混淆及其变体特征
       url: https://www.52pojie.cn/thread-2099086-1-1.html
-    - author: 过往233
-      release_time: 2026.03.24 13:27:00
-      title: 某大厂加密的ai全流程分析和逆向
-      url: https://www.52pojie.cn/thread-2099021-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
