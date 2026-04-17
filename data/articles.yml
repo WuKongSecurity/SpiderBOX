@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: SpiderDemo
+      release_time: 2026.04.17 08:50:00
+      title: unidbg 实战：狐友APP sig 签名逆向全记录
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMzg4NDI4Mw==&mid=2247484653&idx=1&sn=c3160cdfb9ee956da6b1895b7dde04ea
+    - author: CYRUS STUDIO
+      release_time: 2026.04.17 08:30:00
+      title: 基于 tcpdump 解析 Frida 通信协议：实现 frida-server 端口扫描与绕过
+      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486613&idx=1&sn=9960bc45ae3aa7e71d21475602f3b0e4
+    - author: Coder小Q
+      release_time: 2026.04.17 08:30:00
+      title: 【量子计算】量子纠缠（下）：物理含义与非定域性
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495262&idx=1&sn=9b44ccbbb8ea69fdff6628cec440d99c
+    - author: 极验
+      release_time: 2026.04.17 07:30:00
+      title: 首批！极验通过《鸿蒙 SDK 用户权益保护与个人信息评测》 助力鸿蒙生态共建
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724447&idx=1&sn=206fe962eb292e4d9eba5f61cff50a2d
     - author: 进击的HACK
       release_time: 2026.04.16 21:22:39
       title: claude code + cc-switch 反编译分析APK
@@ -228,22 +244,6 @@
       release_time: 2026.04.15 08:30:00
       title: Frida 源码编译全流程：自己动手编译 frida-server
       url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486611&idx=1&sn=934812e0ec01618e71c1bc1239bec605
-    - author: 进击的HACK
-      release_time: 2026.04.14 20:07:31
-      title: 最大程度获取网站JS的工具
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489961&idx=1&sn=44a0e630c36781260928b6c360fb7f68
-    - author: 菜鸟学Python编程
-      release_time: 2026.04.14 17:14:00
-      title: AI逆向|使用AI分析aws-waf-token值的加密并纯算
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566465&idx=1&sn=265b1cb11266f9eb62f8279e5823c387
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.04.14 16:54:23
-      title: 在线订票遭遇“幽灵机票”？平台内商家未经同意对外提供个人信息构成侵权
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520013&idx=1&sn=6a3c8f0ee55f236447a87b18b104fac3
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.04.14 16:54:23
-      title: 在线预订平台Booking.com发生客户数据泄露事件
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520013&idx=2&sn=3d96e7076886dc0ac57fb1aa075dbf97
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
