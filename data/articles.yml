@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.04.17 18:16:01
+      title: 快速了解一个mcp
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489978&idx=1&sn=c03f2624b60cbc04fcbf51f1426a2e32
+    - author: 嚼碎了说书
+      release_time: 2026.04.17 18:14:53
+      title: 孩子叛逆顶嘴、不尊重你？掌握这 10 句核心话术，比管教管用 10 倍
+      url: https://mp.weixin.qq.com/s?__biz=MzU1ODA2Njk0OQ==&mid=2247484347&idx=1&sn=c073f9b7ee8cc57203c71e2ea822b8cb
     - author: 逆向搅屎棍
       release_time: 2026.04.17 14:48:31
       title: Minion-Bot 小弟机器人提示词
@@ -236,14 +244,6 @@
       release_time: 2026.04.15 12:59:45
       title: 自动化过检测:web自动化鼠标行为可视化分析
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484394&idx=1&sn=b3f415d666dbcbf81c4085d6f43657cf
-    - author: 哆啦安全
-      release_time: 2026.04.15 10:49:11
-      title: APK逆向智能分析工具V1.3
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500133&idx=1&sn=593805278f71b91e022570c4d92f5874
-    - author: 泡泡以安
-      release_time: 2026.04.15 09:09:00
-      title: Unidbg学习笔记（五）：第一次让 SO 跑起来
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486026&idx=1&sn=5065bac4b1819e5a01a2cfa2d6ab6e5e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
