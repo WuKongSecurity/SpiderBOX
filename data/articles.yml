@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向搅屎棍
+      release_time: 2026.04.17 14:48:31
+      title: Minion-Bot 小弟机器人提示词
+      url: https://mp.weixin.qq.com/s?__biz=MzYzNDQzNDIyNg==&mid=2247483676&idx=1&sn=887a823f1fcf79cd76b55bea6af95d48
     - author: 泡泡以安
       release_time: 2026.04.17 11:44:14
       title: Unidbg学习笔记（七）：JNI 层补环境
@@ -240,10 +244,6 @@
       release_time: 2026.04.15 09:09:00
       title: Unidbg学习笔记（五）：第一次让 SO 跑起来
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486026&idx=1&sn=5065bac4b1819e5a01a2cfa2d6ab6e5e
-    - author: Coder小Q
-      release_time: 2026.04.15 08:30:00
-      title: 【量子计算】Bloch 球：可视化量子比特
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495151&idx=1&sn=7a04ff9634f42932386324914d3ea700
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: wx_Deity
+      release_time: 2026.04.17 14:42:04
+      title: '[原创]OnePlus 12 (LineageOS) 安装 KernelSU 踩坑与解决'
+      url: https://bbs.kanxue.com/thread-290856.htm
     - author: '318'
       release_time: 2026.04.17 10:02:31
       title: '[原创]2026腾讯游戏安全Android wp'
@@ -486,10 +490,6 @@
       release_time: 2026.04.09 21:13:16
       title: '[原创]Android加固技术演进与脱壳方法论：从DEX落地到VMP的攻防全景'
       url: https://bbs.kanxue.com/thread-290735.htm
-    - author: 悦来客栈的老板
-      release_time: 2026.04.09 21:08:36
-      title: JS逆向|猿人学逆向反混淆练习平台第12题加密分析
-      url: https://blog.csdn.net/qq523176585/article/details/160000037
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
