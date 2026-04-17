@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: guxing666
+      release_time: 2026.04.17 01:08:00
+      title: 自动化识别缺口x换算问题
+      url: https://www.52pojie.cn/thread-2103421-1-1.html
     - author: Tonyha7
       release_time: 2026.04.16 21:06:00
       title: 使用jadx-ai-mcp辅助分析某校园pro校园跑
@@ -363,10 +367,6 @@
       release_time: 2026.03.26 15:29:00
       title: 文字点选及语序点选验证码识别方案
       url: https://www.52pojie.cn/thread-2099515-1-1.html
-    - author: n1ng
-      release_time: 2026.03.25 15:32:00
-      title: 从0到1构建一个Hook工具之Java Hook篇（三）
-      url: https://www.52pojie.cn/thread-2099296-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
