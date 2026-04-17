@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 泡泡以安
+      release_time: 2026.04.17 11:44:14
+      title: Unidbg学习笔记（七）：JNI 层补环境
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486041&idx=1&sn=60d445380f0346e047fee2fb5ce80d3d
     - author: SpiderDemo
       release_time: 2026.04.17 08:50:00
       title: unidbg 实战：狐友APP sig 签名逆向全记录
@@ -240,10 +244,6 @@
       release_time: 2026.04.15 08:30:00
       title: 【量子计算】Bloch 球：可视化量子比特
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495151&idx=1&sn=7a04ff9634f42932386324914d3ea700
-    - author: CYRUS STUDIO
-      release_time: 2026.04.15 08:30:00
-      title: Frida 源码编译全流程：自己动手编译 frida-server
-      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486611&idx=1&sn=934812e0ec01618e71c1bc1239bec605
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
