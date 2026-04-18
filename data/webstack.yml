@@ -114,6 +114,10 @@
       logo: chrome.png
       url: https://developer.chrome.com/release-notes
       description: Chrome 版本更新日志
+    - title: JNI (Java Native Interface) 文档
+      logo: oracle.png
+      url: https://docs.oracle.com/en/java/javase/19/docs/specs/jni/index.html
+      description: JNI (Java Native Interface) 文档
     - title: 国家语言代码列表
       logo: fincher.jpg
       url: https://www.fincher.org/Utilities/CountryLanguageList.shtml
@@ -122,14 +126,14 @@
 - taxonomy: 通用工具
   icon: fas fa-tools
   list:
-    - term: 在线工具
+    - term: 实用工具
     - term: 抓包工具
     - term: 接口调试
-    - term: 框架管理
-    - term: 常用库/包
-    - term: 其他工具
+    - term: 管理调度
+    - term: 虚拟账号
+    - term: 实用库/包
   tabs:
-    - name: 在线工具
+    - name: 实用工具
       links:
         - title: 爬虫工具库
           logo: spidertools.png
@@ -155,6 +159,10 @@
           logo: bin.png
           url: https://www.httpbin.org/
           description: 一个简单的 HTTP 请求和响应测试服务。
+        - title: JSON Diff
+          logo: json-diff.jpg
+          url: https://json-diff.com/
+          description: 在线 json 数据差异对比工具
         - title: IPCheck.ing
           logo: ipcheck.jpg
           url: https://ipcheck.ing/
@@ -167,10 +175,22 @@
           logo: icanhazip.png
           url: https://icanhazip.com/
           description: 快速返回当前 IP
+        - title: IP Checks
+          logo: icanhazip.png
+          url: https://api.ipchecks.top/
+          description: 默认快速查看当前 IP 详细信息，查看指定 IP 信息示例：https://api.ipchecks.top/?ip=0.0.0.0
         - title: 在线 Base64 编码解码
           logo: be.png
           url: https://base64.us/
           description: 在线 Base64 编码解码
+        - title: 在线 Unicode 编码转换
+          logo: un.png
+          url: https://tool.chinaz.com/tools/Unicode.aspx
+          description: 在线 Unicode 编码转换
+        - title: 在线乱码恢复
+          logo: mytju.png
+          url: http://www.mytju.com/classcode/tools/messyCodeRecover.asp
+          description: 在线乱码恢复
         - title: 在线正则表达式验证
           logo: re.png
           url: https://tooltt.com/regexp/
@@ -183,38 +203,18 @@
           logo: cr.png
           url: https://tooltt.com/crontab/
           description: 在线常用 Crontab 表达式大全验证解析
-        - title: 在线 Unicode 编码转换
-          logo: un.png
-          url: https://tool.chinaz.com/tools/Unicode.aspx
-          description: 在线 Unicode 编码转换
-        - title: 在线加解密
-          logo: chacuo.png
-          url: http://tool.chacuo.net/cryptdes
-          description: 在线 DES、3DES、AES、RC2、RC4、RC5、RC6、RSA 等加解密
         - title: 在线 SM 国密系列加密/解密
           logo: sm.png
           url: https://the-x.cn/cryptography/Sm2.aspx
           description: 在线 SM 国密系列加密/解密
-        - title: 在线乱码恢复
-          logo: mytju.png
-          url: http://www.mytju.com/classcode/tools/messyCodeRecover.asp
-          description: 在线乱码恢复
+        - title: 在线加解密
+          logo: chacuo.png
+          url: http://tool.chacuo.net/cryptdes
+          description: 在线 DES、3DES、AES、RC2、RC4、RC5、RC6、RSA 等加解密
         - title: Curl Converter
           logo: curlconverter.png
           url: https://curlconverter.com/
           description: 将 curl 命令转换为 Python、JavaScript、Go 等任何语言
-        - title: SMS Activate
-          logo: sms-activate.jpg
-          url: https://sms-activate.org/
-          description: 在线接收短信的虚拟号码服务，国外产品，常用于国外各个平台的收码场景，注意：国内法律不允许这种服务存在
-        - title: Hero SMS
-          logo: hero-sms.jpg
-          url: https://hero-sms.com/
-          description: 在线接收短信的虚拟号码服务，覆盖 180 多个国家，每日提供 50 多万号码，支持 WhatsApp、Telegram、Instagram、Gmail、TikTok 等平台，注意：国内法律不允许这种服务存在
-        - title: Kopeechka
-          logo: kopeechka.jpg
-          url: https://kopeechka.store/
-          description: 在线接收邮箱验证码，支持 gmail、outlook 等多种邮箱
         - title: Cookie 搜索
           logo: digitalpoint.png
           url: https://tools.digitalpoint.com/cookie-search
@@ -227,18 +227,51 @@
           logo: imgcoord.png
           url: https://uutool.cn/img-coord/
           description: 在线图片坐标拾取工具，可以快速拾取图片中指定点的坐标，在验证码逆向中比较有用
-        - title: Temp Mail
-          logo: temp-mail.jpg
-          url: https://temp-mail.org/
-          description: 在线临时邮箱
-        - title: Fake Credit Card Number Generator
-          logo: creditcardvalidator.png
-          url: https://www.creditcardvalidator.org/generator
-          description: 虚假信用卡号生成器，含有效的 IIN（发卡机构识别码），且能够通过 Luhn 算法验证。如有需要，还可以生成 CVC（安全码）和有效期。这些卡号可用于测试支付验证系统等
-        - title: JSON Diff
-          logo: json-diff.jpg
-          url: https://json-diff.com/
-          description: 在线 json 数据差异对比工具
+        - title: SmsForwarder
+          logo: smsforwarder.png
+          url: https://github.com/pppscn/SmsForwarder
+          description: 短信转发器——监控 Android 手机短信、来电、APP 通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。
+        - title: notepad--
+          logo: notepad--.png
+          url: https://github.com/cxasm/notepad--
+          description: 一个支持 windows/linux/mac 的文本编辑器，目标是做中国人自己的编辑器，来自中国。干翻 notepad++。
+        - title: Snipaste
+          logo: snipaste.png
+          url: https://www.snipaste.com/
+          description: Snipaste 是一个简单但强大的截图工具，可以将截图贴回到屏幕上、可以给截图添加文字、箭头、马赛克等。
+        - title: FastStone Capture
+          logo: faststone.png
+          url: https://www.faststone.org/FSCaptureDetail.htm
+          description: FastStone Capture 是一款功能强大、轻量级但功能齐全的屏幕捕获工具和屏幕录像机，最实用的功能是长截图和标尺功能，这在验证码逆向当中很有用。
+        - title: FontCreator
+          logo: fontcreator.jpg
+          url: https://www.high-logic.com/font-editor/fontcreator
+          description: FontCreator 是一个强大的字体编辑软件，逆向中常用作字体加密的分析。
+        - title: 简悦 - SimpRead
+          logo: simpread.jpg
+          url: https://simpread.pro/
+          description: 让你瞬间进入沉浸式阅读的 Chrome 扩展，类似 Safari 的阅读模式。
+        - title: Save as PDF
+          logo: saveaspdf.png
+          url: https://pdfcrowd.com/save-as-pdf-addon/
+          description: 网页转 PDF，把你喜欢的博主的文章保存一份吧
+        - title: help_tool
+          logo: github.png
+          url: https://github.com/HZJQF/help_tool
+          description: 推理算法助手
+        - title: CyberChef
+          logo: github.png
+          url: https://github.com/gchq/CyberChef
+          description: 网络瑞士军刀 - 用于加密破解、编码、压缩和数据分析的 Web 应用程序
+        - title: Large Text File Viewer
+          logo: github.png
+          url: https://github.com/acejarvis/large-text-viewer
+          description: 一款完全用 Rust 编写的大型文本文件查看器，可处理大于 10GB 的文本文件读取
+        - title: Excalidraw Whiteboard
+          logo: excalidraw.jpg
+          url: https://excalidraw.com/
+          description: 一款免费开源的手绘风格在线白板工具，支持实时协作和无限画布，无需注册即可直接使用，适合快速绘制草图、思维导图和架构图
+
 
     - name: 抓包工具
       links:
@@ -288,8 +321,8 @@
           description: Stream 是一款在 iOS 端的网络抓包工具，该工具可以直接独立运行在 iOS 设备，无需依赖 PC 环境
         - title: Drony
           logo: drony.jpg
-          url: https://play.google.com/store/apps/details?id=org.sandrob.drony
-          description: 一个允许您从移动设备管理所有代理的工具。
+          url: https://apkpure.com/drony/org.sandroproxy.drony
+          description: 一个允许您从移动设备管理所有代理的工具
         - title: Tcpdump
           logo: tcpdump.png
           url: https://www.tcpdump.org/
@@ -318,6 +351,18 @@
           logo: github.png
           url: https://github.com/r0ysue/r0capture
           description: 安卓应用层抓包通杀脚本
+        - title: autoDecoder
+          logo: github.png
+          url: https://github.com/f0ng/autoDecoder
+          description: Burp 插件，根据自定义来达到对数据包的处理（适用于加解密、爆破等），类似 mitmproxy，不同点在于经过了 burp 中转，在自动加解密的基础上，不影响 APP、网站加解密正常逻辑等
+        - title: SunnyNet
+          logo: github.png
+          url: https://github.com/qtgolang/SunnyNet
+          description: SunnyNet 网络中间件，是一个功能强大的跨平台网络分析组件，专为二次开发而设计。它提供了完整的网络流量捕获和修改功能，支持多种协议类型
+        - title: appproxy
+          logo: github.png
+          url: https://github.com/ys1231/appproxy
+          description: 基于 flutter 的 android vpn 代理工具，支持 HTTP, SOCKS5 协议
 
     - name: 接口调试
       links:
@@ -374,12 +419,16 @@
           url: https://pan.baidu.com/s/1enE1c6sCmH19YEQlMYRNZg?pwd=sbox
           description: 小七编程助手，网盘提取密码：sbox
 
-    - name: 框架管理
+    - name: 管理调度
       links:
         - title: Crawlab
           logo: crawlab.png
           url: https://www.crawlab.cn/
           description: 分布式爬虫管理平台，支持任何语言和框架
+        - title: Crawlab Lite
+          logo: crawlab.png
+          url: https://github.com/crawlab-team/crawlab-lite
+          description: 轻量版 Crawlab 爬虫管理平台
         - title: Feapder
           logo: spidertools.png
           url: https://feapder.com/
@@ -400,10 +449,22 @@
           logo: taskpyro.png
           url: https://github.com/taskPyroer/taskpyro
           description: 轻量级 Python 任务调度与爬虫管理平台，可视化操作，环境隔离，资源占用小，支持 Scrapy 等主流爬虫框架，支持 Selenium、Playwright、DrissionPage 等浏览器自动化工具，支持 node 环境下的 js 逆向代码
+        - title: Spider Admin
+          logo: SpiderAdmin.png
+          url: https://github.com/mouday/SpiderAdmin
+          description: Spider Admin 一个集爬虫 Scrapy+Scrapyd 爬虫项目查看和爬虫任务定时调度的可视化管理工具
+        - title: Spider Admin Pro
+          logo: SpiderAdmin.png
+          url: https://github.com/mouday/spider-admin-pro
+          description: Spider Admin Pro 是 Spider Admin 的升级版，一个可视化的 Scrapy 爬虫管理平台，依赖于 Scrapyd
         - title: Scrapling
           logo: Scrapling.jpg
           url: https://github.com/D4Vinci/Scrapling
           description: Scrapling 是一个自适应 Web Scraping 框架，能处理从单个请求到大规模爬取的一切需求。它的解析器能够从网站变化中学习，并在页面更新时自动重新定位您的元素。它的 Fetcher 能够开箱即用地绕过 Cloudflare Turnstile 等反机器人系统。它的 Spider 框架让您可以扩展到并发、多 Session 爬取，支持暂停/恢复和自动 Proxy 轮换——只需几行 Python 代码。一个库，零妥协
+        - title: XXL-JOB
+          logo: xxl-job.png
+          url: https://github.com/xuxueli/xxl-job
+          description: XXL-JOB 是一个分布式任务调度平台，其核心设计目标是开发迅速、学习简单、轻量级、易扩展。现已开放源代码并接入多家公司线上产品线，开箱即用
         - title: Kubernetes
           logo: kubernetes.png
           url: https://kubernetes.io/
@@ -417,6 +478,102 @@
           url: https://grafana.com/
           description: Grafana 是一款开源的数据可视化工具，使用 Grafana 可以非常轻松的将数据转成图表的展现形式来做到数据监控以及数据统计
 
+    - name: 虚拟账号
+      links:
+        #        - title: SMS Activate
+        #          logo: sms-activate.jpg
+        #          url: https://sms-activate.org/
+        #          description: 在线接收短信的虚拟号码服务，国外产品，常用于国外各个平台的收码场景，注意：国内法律不允许这种服务存在
+        #        - title: Kopeechka
+        #          logo: kopeechka.jpg
+        #          url: https://kopeechka.store/
+        #          description: 在线接收邮箱验证码，支持 gmail、outlook 等多种邮箱
+        - title: Temp Mail
+          logo: temp-mail.jpg
+          url: https://temp-mail.org/
+          description: 在线临时邮箱
+        - title: Kopechka
+          logo: kopechka.jpg
+          url: https://www.kopechka.com/
+          description: 在线接收邮箱验证码，支持 mail.com、email.com 等多种邮箱
+        - title: Hero SMS
+          logo: hero-sms.jpg
+          url: https://hero-sms.com/
+          description: 在线接收短信的虚拟号码服务，覆盖 180 多个国家，每日提供 50 多万号码，支持 WhatsApp、Telegram、Instagram、Gmail、TikTok 等平台，注意：国内法律不允许这种服务存在
+        - title: SMSBower
+          logo: smsbower.jpg
+          url: https://smsbower.app/
+          description: SMSBower 是一个全球短信接码和号码商店
+        - title: Tiger SMS
+          logo: tiger-sms.jpg
+          url: https://tiger-sms.com/
+          description: Tiger SMS 提供用于短信验证的临时虚拟电话号码。它提供来自 180 多个国家/地区（包括印度尼西亚、越南、哥伦比亚、加拿大、美国、印度、菲律宾等）的临时号码，可用于注册 200 多个服务，例如 WhatsApp、Telegram、Instagram、TikTok、Tinder、Google、Amazon、Microsoft、Apple、BPJSTK、OpenAI/ChatGPT、Facebook 等
+        - title: FlexCard
+          logo: flexcard.jpg
+          url: https://flexcard.cards/
+          description: FlexCard 虚拟卡：可在 Facebook、Google、TikTok 上无缝支付费用。支持 20 多种银行卡类型，无隐藏费用，只需提供电子邮件地址即可
+        - title: Fake Credit Card Number Generator
+          logo: creditcardvalidator.png
+          url: https://www.creditcardvalidator.org/generator
+          description: 虚假信用卡号生成器，含有效的 IIN（发卡机构识别码），且能够通过 Luhn 算法验证。如有需要，还可以生成 CVC（安全码）和有效期。这些卡号可用于测试支付验证系统等
+        - title: DarkStore
+          logo: dark.shopping.jpg
+          url: https://dark.shopping/
+          description: DarkStore 是数字商品、账号及服务领域最大的平台，提供涵盖数百个类别的 40,000 多种产品，提供 Gmail、Google、Facebook、Instagram、TikTok、Twitter、Telegram、Discord、Skype、Netflix、Steam、Epic Games 等账号的购买服务
+        - title: 撸大毛 Web3 服务商
+          logo: web3ludamao.jpg
+          url: https://web3ludamao.com/
+          description: Twitter(X)、Discord、Gmail、LinkedIn、Facebook、Twitch 等号商批发
+        - title: Telegram PRIME
+          logo: telegramprime.jpg
+          url: https://telegramprime.com/
+          description: 一款用于推广 Telegram 的一流工具！涵盖自动注册、推广功能、自动评论以及通过人工智能助手进行群发消息等所有功能
+
+    - name: 实用库/包
+      links:
+        - title: fake-useragent
+          logo: github.png
+          url: https://github.com/fake-useragent/fake-useragent
+          description: 随机 UA
+        - title: vthread
+          logo: github.png
+          url: https://github.com/cilame/vthread
+          description: Python 更加方便的多线程库，以最小的代码侵入，做到最高效的多线程、线程池 coding 效率。在不改变源代码的情况下，一行代码即可实现线程池操作
+        - title: datex
+          logo: github.png
+          url: https://github.com/mumuy/datex/
+          description: JS 时间格式化工具，日期标准化/时间间隔计算/时间处理/时区切换
+        - title: faker (python)
+          logo: github.png
+          url: https://github.com/joke2k/faker
+          description: 在 Python 中生成大量虚假数据，例如姓名、邮箱、时间、头像、地点等
+        - title: faker (js)
+          logo: github.png
+          url: https://github.com/faker-js/faker
+          description: 在浏览器和 node.js 中生成大量虚假数据，例如姓名、邮箱、时间、头像、地点等
+        - title: CloakQuest3r
+          logo: github.png
+          url: https://github.com/spyboy-productions/CloakQuest3r
+          description: 查找被 Cloudflare 保护的网站的真实 IP 地址
+#        - title: diffbot
+#          logo: diffbot.png
+#          url: https://www.diffbot.com/
+#          description: 智能解析算法应用，通过人工智能技术，让“机器”识别网页内容，抓取关键内容，并输出软件可以直接识别的结构化数据。
+
+- taxonomy: WEB 相关
+  icon: fab fa-js
+  list:
+    - term: 常用库/包
+    - term: 效率插件
+    - term: Hook/调试分析
+    - term: 混淆/反混淆
+    - term: 设备指纹
+    - term: TLS 指纹
+    - term: 环境框架
+    - term: 指纹浏览器
+    - term: 自动化/RPC/RPA
+    - term: AI 自动化/RPA
+  tabs:
     - name: 常用库/包
       links:
         - title: node:vm
@@ -439,6 +596,10 @@
           logo: github.png
           url: https://github.com/UlionTse/exejs
           description: exejs 是 PyExecJS 在停止维护后，另一位作者维护的一个替代品
+        - title: never-jscore
+          logo: github.png
+          url: https://github.com/neverl805/never-jscore
+          description: 基于 rust deno_core 开发封装的 v8 引擎库,用于 python 高性能执行 js (execjs 的上位替代品)
         - title: node_vm2
           logo: github.png
           url: https://github.com/eight04/node_vm2
@@ -451,10 +612,6 @@
           logo: pyminiracer.png
           url: https://github.com/sqreen/PyMiniRacer
           description: PyMiniRacer 是 Python 中的 V8 桥接器
-        - title: never-jscore
-          logo: github.png
-          url: https://github.com/neverl805/never-jscore
-          description: 基于 rust deno_core 开发封装的 v8 引擎库,用于 python 高性能执行 js (execjs 的上位替代品)
         - title: PythonMonkey
           logo: github.png
           url: https://github.com/Distributive-Network/PythonMonkey
@@ -471,78 +628,14 @@
           logo: github.png
           url: https://github.com/PiotrDabkowski/Js2Py
           description: js2py 是一个专门为 Python 设计的库，允许在 Python 中执行 JavaScript 代码，并且提供了较完整的 JavaScript 解释器。它支持更复杂的 JavaScript 特性，如闭包和异常处理
-        - title: blackboxprotobuf
-          logo: github.png
-          url: https://github.com/nccgroup/blackboxprotobuf
-          description: blackboxprotobuf 是一个 Python 库，可在黑盒的情况下直接把 Protobuf 数据解析为 JSON 数据
-        - title: fake-useragent
-          logo: github.png
-          url: https://github.com/fake-useragent/fake-useragent
-          description: 随机 UA
-        - title: vthread
-          logo: github.png
-          url: https://github.com/cilame/vthread
-          description: Python 更加方便的多线程库，以最小的代码侵入，做到最高效的多线程、线程池 coding 效率。在不改变源代码的情况下，一行代码即可实现线程池操作
         - title: my_js_parser
           logo: github.png
           url: https://github.com/wangjingyu001/my_js_parser
           description: my_js_parser 是一个用于从包含 JavaScript 代码的字符串中提取 JSON 数据的 Python 库，它可以从复杂的字符串中递归提取出所有嵌套的 JSON 对象，忽略多余的前缀和非 JSON 部分
-        - title: GeneralNewsExtractor
-          logo: gne.jpg
-          url: https://github.com/GeneralNewsExtractor/GeneralNewsExtractor
-          description: 新闻网页正文通用抽取器 Beta 版
-        - title: newspaper
-          logo: newspaper.jpg
-          url: https://github.com/codelucas/newspaper
-          description: Python3 中的新闻、全文和文章元数据提取
-        - title: datex
+        - title: blackboxprotobuf
           logo: github.png
-          url: https://github.com/mumuy/datex/
-          description: JS 时间格式化工具，日期标准化/时间间隔计算/时间处理/时区切换
-        - title: faker (python)
-          logo: github.png
-          url: https://github.com/joke2k/faker
-          description: 在 Python 中生成大量虚假数据，例如姓名、邮箱、时间、头像、地点等
-        - title: faker (js)
-          logo: github.png
-          url: https://github.com/faker-js/faker
-          description: 在浏览器和 node.js 中生成大量虚假数据，例如姓名、邮箱、时间、头像、地点等
-        - title: CloakQuest3r
-          logo: github.png
-          url: https://github.com/spyboy-productions/CloakQuest3r
-          description: 查找被 Cloudflare 保护的网站的真实 IP 地址
-        - title: Bypass_Debugger
-          logo: github.png
-          url: https://github.com/0xsdeo/Bypass_Debugger
-          description: Bypass 无限 debugger
-        - title: Hook_JS
-          logo: github.png
-          url: https://github.com/0xsdeo/Hook_JS
-          description: 各种 JS Hook 脚本
-        - title: HookJS_Template
-          logo: github.png
-          url: https://github.com/0xsdeo/HookJS_Template
-          description: JS Hook 通用模板
-        - title: crawler-js-hook-framework-public
-          logo: github.png
-          url: https://github.com/JSREI/crawler-js-hook-framework-public
-          description: JS 逆向 Hook 工具集，涵盖 Cookie、Storage、Script、页面跳转、jQuery 等 Hook 场景
-        - title: js-deep-proxy
-          logo: github.png
-          url: https://github.com/JSREI/js-deep-proxy
-          description: JS 的递归 Proxy 实现
-        - title: eval-decoder
-          logo: github.png
-          url: https://github.com/JSREI/eval-decoder
-          description: eval 加密解密原理与工具
-        - title: Bypass_formatting_Detection
-          logo: github.png
-          url: https://github.com/JSREI/Bypass_formatting_Detection
-          description: 绕过 js 检测代码是否被格式化过
-        - title: how-to-fix-could-not-load-content-for-webpack
-          logo: github.png
-          url: https://github.com/JSREI/how-to-fix-could-not-load-content-for-webpack
-          description: Could not load content for webpack:///xxx.js 解决办法
+          url: https://github.com/nccgroup/blackboxprotobuf
+          description: blackboxprotobuf 是一个 Python 库，可在黑盒的情况下直接把 Protobuf 数据解析为 JSON 数据
         - title: protobuf-inspector
           logo: github.png
           url: https://github.com/mildsunrise/protobuf-inspector
@@ -551,78 +644,7 @@
           logo: github.png
           url: https://github.com/Ccccccccvvm/PyProtoBuf
           description: 无需 proto 文件对 protobuf 解包、组包
-        - title: go-fAST
-          logo: github.png
-          url: https://github.com/T14Raptor/go-fAST
-          description: 用 Go 编写的 JavaScript AST 解析器、遍历器和生成器
-        - title: chromiumHook
-          logo: github.png
-          url: https://github.com/LoseNine/chromiumHook
-          description: 魔改 chromium 浏览器，修改 v8，自动化打印浏览器的 JavaScript 脚本执行流程，方便指纹分析和逆向
-#        - title: diffbot
-#          logo: diffbot.png
-#          url: https://www.diffbot.com/
-#          description: 智能解析算法应用，通过人工智能技术，让“机器”识别网页内容，抓取关键内容，并输出软件可以直接识别的结构化数据。
 
-    - name: 其他工具
-      links:
-        - title: SmsForwarder
-          logo: smsforwarder.png
-          url: https://github.com/pppscn/SmsForwarder
-          description: 短信转发器——监控 Android 手机短信、来电、APP 通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。
-        - title: notepad--
-          logo: notepad--.png
-          url: https://github.com/cxasm/notepad--
-          description: 一个支持 windows/linux/mac 的文本编辑器，目标是做中国人自己的编辑器，来自中国。干翻 notepad++。
-        - title: Snipaste
-          logo: snipaste.png
-          url: https://www.snipaste.com/
-          description: Snipaste 是一个简单但强大的截图工具，可以将截图贴回到屏幕上、可以给截图添加文字、箭头、马赛克等。
-        - title: FastStone Capture
-          logo: faststone.png
-          url: https://www.faststone.org/FSCaptureDetail.htm
-          description: FastStone Capture 是一款功能强大、轻量级但功能齐全的屏幕捕获工具和屏幕录像机，最实用的功能是长截图和标尺功能，这在验证码逆向当中很有用。
-        - title: FontCreator
-          logo: fontcreator.jpg
-          url: https://www.high-logic.com/font-editor/fontcreator
-          description: FontCreator 是一个强大的字体编辑软件，逆向中常用作字体加密的分析。
-        - title: 简悦 - SimpRead
-          logo: simpread.jpg
-          url: https://simpread.pro/
-          description: 让你瞬间进入沉浸式阅读的 Chrome 扩展，类似 Safari 的阅读模式。
-        - title: Save as PDF
-          logo: saveaspdf.png
-          url: https://pdfcrowd.com/save-as-pdf-addon/
-          description: 网页转 PDF，把你喜欢的博主的文章保存一份吧
-        - title: help_tool
-          logo: github.png
-          url: https://github.com/HZJQF/help_tool
-          description: 推理算法助手
-        - title: CyberChef
-          logo: github.png
-          url: https://github.com/gchq/CyberChef
-          description: 网络瑞士军刀 - 用于加密破解、编码、压缩和数据分析的 Web 应用程序
-        - title: Large Text File Viewer
-          logo: github.png
-          url: https://github.com/acejarvis/large-text-viewer
-          description: 一款完全用 Rust 编写的大型文本文件查看器，可处理大于 10GB 的文本文件读取
-        - title: Excalidraw Whiteboard
-          logo: excalidraw.jpg
-          url: https://excalidraw.com/
-          description: 一款免费开源的手绘风格在线白板工具，支持实时协作和无限画布，无需注册即可直接使用，适合快速绘制草图、思维导图和架构图
-
-- taxonomy: WEB 相关
-  icon: fab fa-js
-  list:
-    - term: 效率插件
-    - term: 混淆/反混淆
-    - term: 设备指纹
-    - term: TLS 指纹
-    - term: 环境框架
-    - term: 自动化/RPC
-    - term: 指纹浏览器
-
-  tabs:
     - name: 效率插件
       links:
         - title: Fiddler 编程猫插件
@@ -669,13 +691,9 @@
           logo: trace.png
           url: https://github.com/L018/Trace
           description: Trace 是一个用于网站分析的 Chrome 扩展, 包括追踪Cookie、追踪事件、追踪对象、脚本注入、阻止请求、变量追踪、JS反混淆、响应流转等功能
-        - title: webhook
-          logo: webhook.jpg
-          url: https://github.com/valuespider/webHookTools
-          description: 阿布的 js 反调试工具
-        - title: xPath Tester
-          logo: xpathhelper.jpg
-          url: https://xpathtester.dev/
+        - title: XPath Tester
+          logo: xpath-tester.jpg
+          url: https://chromewebstore.google.com/detail/xpath-tester/cneomjecgakdfoeehmmmoiklncdiodmh
           description: 轻松实时检查 XPath 表达式，直接在浏览器中验证和调试 XPath 查询
         - title: XPath Helper
           logo: xpathhelper.jpg
@@ -701,113 +719,163 @@
           logo: scrapinghelper.jpg
           url: https://github.com/huangwc94/scraping-helper-chrome-extension
           description: 自动生成最简 HTML 选择命令，用于爬虫网页内容分析
-        - title: prophet
+        - title: api-reverse-engineer
+          url: https://github.com/ctala/api-reverse-engineer
           logo: github.png
-          url: https://github.com/456vv/prophet
-          description: JAVASCRIPT AST HOOK JS逆向快速定位
+          description: Chrome 扩展程序，用于捕获和逆向工程任何网站的 API 调用，支持 fetch 和 XHR 拦截，具有标签范围录制和 JSON 导出功能，非常适合逆向工程未公开的 API
+
+    - name: Hook/调试分析
+      links:
+        - title: AntiDebug Breaker
+          logo: AntiDebug_Breaker.png
+          url: https://github.com/0xsdeo/AntiDebug_Breaker
+          description: 反调试破除者，是基于 Hook_JS 库所写的 Google 插件，提供各种 Hook、绕过无限 Debugger、Vue 渗透测试等功能
+        - title: Hook_JS
+          logo: github.png
+          url: https://github.com/0xsdeo/Hook_JS
+          description: 各种 JS Hook 脚本
+        - title: Bypass_Debugger
+          logo: github.png
+          url: https://github.com/0xsdeo/Bypass_Debugger
+          description: Bypass 无限 debugger
+        - title: HookJS_Template
+          logo: github.png
+          url: https://github.com/0xsdeo/HookJS_Template
+          description: JS Hook 通用模板
         - title: JSREI
           logo: jsrei.jpg
           url: https://github.com/JSREI
           description: JavaScript Reverse Engineering Infrastructure，提供更多更好的 JS 逆向工具，让 JS 逆向变得简单
-        - title: js-hook-framework
+        - title: crawler-js-hook-framework-public
           logo: jsrei.jpg
           url: https://github.com/JSREI/crawler-js-hook-framework-public
-          description: JS 逆向 Hook 工具集。将JS逆向时用到的一些工具封装为油猴脚本，降低逆向成本
+          description: JS 逆向 Hook 工具集，涵盖 Cookie、Storage、Script、页面跳转、jQuery 等 Hook 场景
+        - title: JavaScript Deep Proxy
+          logo: jsrei.jpg
+          url: https://github.com/JSREI/js-deep-proxy
+          description: JS 的递归 Proxy 实现
+        - title: Bypass_formatting_Detection
+          logo: jsrei.jpg
+          url: https://github.com/JSREI/Bypass_formatting_Detection
         - title: 浏览器内存漫游
-          logo: github.png
+          logo: jsrei.jpg
           url: https://github.com/JSREI/ast-hook-for-js-RE
           description: 浏览器端的内存漫游解决方案，借助此工具你可以随意检索浏览器内存中的数据
-        - title: AntiDebug Breaker
-          logo: AntiDebug_Breaker.png
-          url: https://github.com/0xsdeo/AntiDebug_Breaker
-          description: 反调试破除者，提供各种 Hook、绕过无限 Debugger、Vue 渗透测试等功能
+        - title: how-to-fix-could-not-load-content-for-webpack
+          logo: github.png
+          url: https://github.com/JSREI/how-to-fix-could-not-load-content-for-webpack
+          description: Could not load content for webpack:///xxx.js 解决办法
+        - title: chromiumHook
+          logo: github.png
+          url: https://github.com/LoseNine/chromiumHook
+          description: 魔改 chromium 浏览器，修改 v8，自动化打印浏览器的 JavaScript 脚本执行流程，方便指纹分析和逆向
+        - title: prophet
+          logo: github.png
+          url: https://github.com/456vv/prophet
+          description: JAVASCRIPT AST HOOK JS逆向快速定位
         - title: FakeCryptoJS
           logo: github.png
           url: https://github.com/keecth/FakeCryptoJS
           description: CryptoJS 常规加解密自吐密钥、加解密方式，快速定位加解密位置(无视混淆)。SRC 和常规渗透神器
+        - title: webHookTools
+          logo: webhook.jpg
+          url: https://github.com/valuespider/webHookTools
+          description: 阿布的 js 反调试工具
 
     - name: 混淆/反混淆
       links:
-        - title: OB 在线混淆
-          logo: obfuscator.png
-          url: https://www.obfuscator.io/
-          description: OB 在线混淆
-        - title: JSVMP 在线混淆
-          logo: obfuscator.png
-          url: https://jsvmp.com/
-          description: OB 在线混淆
-        - title: UglifyJS 3
-          logo: github.png
-          url: https://skalman.github.io/UglifyJS-online/
-          description: UglifyJS 3 是一款优秀的 JavaScript 代码压缩工具！它是一款久经考验的工具，被 jQuery 等库广泛使用
         - title: JS 盾
           logo: jsvmpnet.png
           url: https://jsvmp.net/
           description: JS 盾制霸 JS 代码加固领域，能有效保护 JS 代码不被反混淆，JS 盾诞生于我们的 WEB 安全研究，他是市场上唯一的 JS 动态混淆加壳器，在发布之前，经过长达一年的测试，迭代 10 个版本，经历了 10 余位在 JS 逆向技术前 10% 的逆向考验，有的甚至连入口都找不到
+        - title: OB 在线混淆
+          logo: obfuscator.png
+          url: https://www.obfuscator.io/
+          description: OB 在线混淆
+        - title: jsjiami
+          logo: jsjiami.png
+          url: https://www.jsjiami.com/
+          description: sojson 开发的 JS 加密
         - title: JShaman
           logo: jshaman.jpg
           url: https://www.jshaman.com/
           description: 专注于 JavaScript 源代码安全：JS 混淆、JS 加密，专业的 JS 代码保护服务提供商
-        - title: MeowShield
-          logo: meowshield.jpg
-          url: https://meowshield.com/
-          description: 喵喵盾，零点大佬开发的 JS 混淆加密
-        - title: 喵喵盾
-          logo: 4670123.jpg
-          url: https://www.ldvmp.com/
-          description: 零点大佬开发的 JS 混淆加密
-        - title: SpiderDemo Obfuscator
-          logo: spiderdemo.png
-          url: https://www.spiderdemo.cn/tools/obfuscator/
-          description: 基于 AST 的专业级 JavaScript 代码混淆工具
         - title: Safekodo
           logo: safekodo.png
           url: https://www.safekodo.com/
           description: safekodo 加密保护您的代码与数据，为您提供专业的 JavaScript 代码保护，旨在为更多网站提供专业的保护，早一分保护，多十分安全
-        - title: JS-Confuser
-          logo: js-confuser.jpg
-          url: https://js-confuser.com/
-          description: JS-Confuser 是一款功能强大的、开源的 JavaScript 混淆工具，可以让您的程序在未经授权的情况下无法被理解、复制、重复使用或修改
-        - title: JS 加密
-          logo: jsjiami.png
-          url: https://www.jsjiami.com/
-          description: sojson 开发的 JS 加密
-        - title: facelessJsvmp
-          logo: github.png
-          url: https://github.com/Alanhays/facelessJsvmp
-          description: 单栈实现的 js 代码虚拟化保护程序，加固代码支持在浏览器和 nodejs 中运行
-        - title: cy_jsvmp
-          logo: github.png
+        - title: MeowShield
+          logo: meowshield.jpg
+          url: https://meowshield.com/
+          description: 喵喵盾，零点大佬开发的 JS 混淆加密
+        - title: SpiderDemo 花花盾
+          logo: spiderdemo.png
+          url: https://www.spiderdemo.cn/tools/obfuscator/
+          description: 基于 AST 的专业级 JavaScript 代码混淆工具
+        - title: JSVMP 在线混淆
+          logo: obfuscator.png
+          url: https://jsvmp.com/
+          description: JSVMP 在线混淆
+        - title: Cy JSVMP
+          logo: cytools.jpg
           url: https://github.com/2833844911/cy_jsvmp
-          description: JSVMP 的实现，作者：陈不不
+          description: Cy JSVMP 作者：陈不不，是一款基于 Babel AST 和 自定义堆栈虚拟机 的企业级 JavaScript 代码混淆与保护工具。它通过将原生 JS 代码编译为自定义字节码，并在浏览器或 Node.js 环境中通过私有解释器运行，从而实现极高强度的反逆向工程保护
+        - title: Cy WASM VMP
+          logo: cytools.jpg
+          url: https://github.com/2833844911/cy-wasm-vmp
+          description: Cy WASM VMP 作者：陈不不，一个强大的 WebAssembly 二进制混淆和保护工具，通过虚拟化、控制流扁平化和数据加密技术来保护 WASM 代码
         - title: wfjsvmp
           logo: github.png
           url: https://github.com/bnmgh1/wfjsvmp
           description: JSVMP 的实现，作者：挽风
-        - title: Cytools
-          logo: cytools.jpg
-          url: https://jsvmp.top/
-          description: JSVMP 在线体验，作者：陈不不
+        - title: facelessJsvmp
+          logo: github.png
+          url: https://github.com/Alanhays/facelessJsvmp
+          description: 单栈实现的 js 代码虚拟化保护程序，加固代码支持在浏览器和 nodejs 中运行
+        - title: JS-Confuser
+          logo: js-confuser.jpg
+          url: https://js-confuser.com/
+          description: JS-Confuser 是一款功能强大的、开源的 JavaScript 混淆工具，可以让您的程序在未经授权的情况下无法被理解、复制、重复使用或修改
+        - title: 各种 JS 加密工具箱
+          logo: jshaman.jpg
+          url: https://www.jshaman.com/tools/hide-js-jia-mi.html#tools
+          description: 包含 eval 加密，零宽字符隐形加密，Combining 组合字符加密，Function JS 构造加密，AAEncode，JJEncode 等多种在线加密
+        - title: UglifyJS 3
+          logo: github.png
+          url: https://skalman.github.io/UglifyJS-online/
+          description: UglifyJS 3 是一款优秀的 JavaScript 代码压缩工具！它是一款久经考验的工具，被 jQuery 等库广泛使用
+        - title: font-obfuscator
+          logo: github.png
+          url: https://github.com/ma-pony/font-obfuscator
+          description: 字体反爬、字体混淆工具是一个用于混淆字体文件的工具，可以将字体文件中的字形进行混淆，从而防止字体文件被直接提取出来
+        - title: Hyperion
+          logo: github.png
+          url: https://github.com/billythegoat356/Hyperion
+          description: Python 代码混淆器，The most powerful 100% Python obfuscator
         - title: PythonVMP
           logo: github.png
           url: https://github.com/dream2333/PythonVMP
           description: 受 JSVMP 启发实现的 Python 虚拟机混淆方案
-        - title: ujiami
-          logo: github.png
-          url: https://github.com/w2sft/ujiami
-          description: 编码式 JS 代码加密，将 JS 代码分割、Unicode 编码化存储到数组中，使代码全部成为密文状态显示，执行时解密、重新编码并 eval 调用运行
-        - title: Deobfuscate
-          logo: deobfuscate.png
-          url: https://deobfuscate.io/
-          description: 一个简单但功能强大的反混淆器，支持 OB 反混淆
         - title: 猿人学 OB 在线解混淆
           logo: yuanrenxue.jpg
           url: https://tool.yuanrenxue.cn/decode_obfuscator
           description: 猿人学 OB 在线解混淆
+        - title: JS Deobfuscator
+          logo: js-deobfuscator.jpg
+          url: https://github.com/kuizuo/js-deobfuscator
+          description: 作者：愧怍，基于 Babel AST 的全自动 JavaScript 反混淆工具，助你高效还原各种混淆代码
         - title: 李玺 JS 在线解混淆
           logo: cnlans.jpg
           url: http://www.cnlans.com:8887/
-          description: 李玺 JS 在线解混淆
+          description: 李玺 JS 在线解混淆，改自愧怍开源的解混淆工具
+        - title: webcrack
+          logo: webcrack.png
+          url: https://github.com/j4k0xb/webcrack
+          description: 反混淆 obfuscator.io，解除压缩并解包打包后的 JavaScript 代码
+        - title: Deobfuscate
+          logo: deobfuscate.png
+          url: https://deobfuscate.io/
+          description: 一个简单但功能强大的反混淆器，支持 OB 反混淆
         - title: de4js
           logo: de4js.png
           url: https://lelinhtinh.github.io/de4js/
@@ -828,10 +896,6 @@
           logo: github.png
           url: https://github.com/DingZaiHub/ob-decrypt
           description: ob 混淆还原工具
-        - title: font-obfuscator
-          logo: github.png
-          url: https://github.com/ma-pony/font-obfuscator
-          description: 字体反爬、字体混淆工具是一个用于混淆字体文件的工具，可以将字体文件中的字形进行混淆，从而防止字体文件被直接提取出来
         - title: Geetest-AST-
           logo: github.png
           url: https://github.com/daisixuan/Geetest-AST-
@@ -840,10 +904,6 @@
           logo: whamm.png
           url: https://github.com/ejrgilbert/whamm
           description: wasm 插桩工具，是一个用于 wasm 应用程序监控和操作的工具，是一种受 DTrace 的 D 语言启发的 DSL
-        - title: InvisibleJS
-          logo: github.png
-          url: https://github.com/oscarmine/InvisibleJS
-          description: 使用零宽度字符将 JavaScript 源代码隐藏起来
         - title: jsunpack
           logo: jsunpack.png
           url: https://www.jsunpack.tech/
@@ -852,6 +912,14 @@
           logo: github.png
           url: https://github.com/AugustineFulgur/ClarityJS
           description: JavaScript Deconfusion Tool. JavaScript 解混淆工具，提供多种解混淆配置，支持自定义模块
+        - title: go-fAST
+          logo: github.png
+          url: https://github.com/T14Raptor/go-fAST
+          description: 用 Go 编写的 JavaScript AST 解析器、遍历器和生成器
+        - title: eval-decoder
+          logo: jsrei.jpg
+          url: https://github.com/JSREI/eval-decoder
+          description: eval 加密解密原理与工具
 
     - name: 设备指纹
       links:
@@ -947,6 +1015,10 @@
           logo: jwmycz.png
           url: https://tools.jwmycz.top/
           description: 开发者工具检测系统，支持多种检测方式
+        - title: ToDetect
+          logo: todetect.png
+          url: https://www.todetect.net/
+          description: ToDetect 是一款专业级的浏览器指纹检测工具，无需安装。它能够实时分析详细的用户代理信息（浏览器版本、系统、设备、IP），是反检测测试和反追踪检查的理想选择
 
     - name: TLS 指纹
       links:
@@ -1014,10 +1086,6 @@
           logo: tcpip.png
           url: https://tcpip.incolumitas.com/classify?detail=1
           description: TCP/IP 指纹 API
-        - title: IP Address API
-          logo: ip-api.png
-          url: https://api.incolumitas.com/
-          description: IP 地址查询 API
         - title: Proxy/VPN Detection
           logo: proxy-detect.png
           url: https://bot.incolumitas.com/proxy_detect.html
@@ -1070,6 +1138,10 @@
           logo: github.png
           url: https://github.com/synodriver/cycurl
           description: Python 库，通过 cython 实现 curl-impersonate 的超快速 Python 绑定。一个可以模拟浏览器 tls/ja3/http2 指纹的 http 客户端
+        - title: wreq-python
+          logo: github.png
+          url: https://github.com/0x676e67/wreq-python
+          description: Python 库，支持可定制的 TLS、JA3/JA4 和 HTTP/2 指纹识别功能，由 wreq 驱动
         - title: cyCronet
           logo: github.png
           url: https://github.com/2833844911/cyCronet
@@ -1098,6 +1170,10 @@
           logo: CycleTLS.jpg
           url: https://github.com/Danny-Dasilva/CycleTLS
           description: Golang 和 Javascript 库，模拟 TLS/JA3/JA4 指纹，支持 HTTP/3 和 QUIC，支持 WebSocket
+        - title: uTLS
+          logo: utls.jpg
+          url: https://github.com/refraction-networking/utls
+          description: Golang 库，uTLS 允许开发者轻松模仿任意的 Client Hello 消息，并在多个反审查工具中得到了应用，如 Psiphon、Lantern 和 TapDance。uTLS 库作为 Golang 原生 TLS 库（crypto/tls）的一个分支，增加了 2200 多行代码，提供了低级别的握手访问，使开发者能够定制 TLS 特性，如加密套件、压缩方法、客户端随机值、扩展等
         - title: wreq
           logo: github.png
           url: https://github.com/0x676e67/wreq
@@ -1106,6 +1182,10 @@
           logo: github.png
           url: https://github.com/apify/impit
           description: Rust 库，模拟浏览器向网站发送请求，支持 HTTP/1.1、HTTP/2 和 HTTP/3
+        - title: webclaw-tls
+          logo: github.png
+          url: https://github.com/0xMassi/webclaw-tls
+          description: Rust 库，浏览器级别的 TLS + HTTP/2 指纹识别，适用于 Rust。完美匹配 Chrome 146 JA4 + Akamai
 
     - name: 环境框架
       links:
@@ -1125,11 +1205,11 @@
           logo: github.png
           url: https://github.com/pysunday/sdenv
           description: 补环境框架，完美过瑞数 vmp 理论通杀
-        - title: catvm
+        - title: fanchangrui/catvm
           logo: github.png
           url: https://github.com/fanchangrui/catvm
           description: 基于志远的思路实现实现的 js 逆向环境框架
-        - title: catvm
+        - title: Big1moster/catvm
           logo: github.png
           url: https://github.com/Big1moster/catvm
           description: catvm 另一个版本，志远补环境框架视频配套完结版
@@ -1146,7 +1226,111 @@
           url: https://github.com/RuoShui-0014/js-env
           description: 基于 isolated-vm 魔改虚拟机实现的 js 环境框架，封装了一套非 js 标准的代理和 native 函数创建的方法
 
-    - name: 自动化/RPC
+    - name: 指纹浏览器
+      links:
+        - title: NstBrowser
+          logo: nstbrowser.png
+          url: https://app.nstbrowser.io/r/spiderbox
+          description: 可绕过 cloudflare，免费的反检测指纹浏览器&企业级云端浏览器方案，无缝接入云端集群服务，让网页抓取和自动化更简单的解决方案
+        - title: DuoPlus 指纹云手机
+          logo: duoplus.png
+          url: https://www.duoplus.cn/share/SpiderBox
+          description: DuoPlus 云手机，专注打造全球社媒营销、Tiktok、游戏挂机专用云手机，助您社媒营销全球化，开启全球社媒营销新境界
+        - title: BrightData Scraping Browser
+          logo: brightdata.png
+          url: https://get.brightdata.com/sbitbob
+          description: 远程连接指纹浏览器，运行您的 Puppeteer、Selenium 和 Playwright 脚本，并利用内置的 Captcha Solver 自动解决验证码，维护抓取和浏览器基础设施的运营开销为零
+        - title: AdsPower
+          logo: adspower.png
+          url: https://share.adspower.net/7f6Oro
+          description: 跨境多账号安全管理指纹浏览器
+        - title: HubStudio
+          logo: hubstudio.jpg
+          url: http://suo.im/90xP0
+          description: Hubstudio 为跨境商家提供安全的指纹浏览器，最专业的跨平台多账户管理系统，超过20w用户的选择
+        - title: 比特浏览器
+          logo: bitbrowser.png
+          url: https://www.bitbrowser.cn/
+          description: 比特指纹浏览器，也是防关联指纹浏览器、跨境电商浏览器，能多开浏览器窗口、多登账号，防关联和防封号，跨境账号的安全管理专家，轻松管理您的跨境大生意，真正做到防关联封号的超级浏览器、跨境电商指纹浏览器
+        - title: 候鸟浏览器
+          logo: mbbrowser.png
+          url: https://www.mbbrowser.com/aff/?code=OYX2B8QR
+          description: 为多账号防关联而生的指纹浏览器，得益于军用级别的防护技术，保护你免受任何识别的尝试。独特的用户画像预制，刚好帮到您
+        - title: VMLogin
+          logo: vmlogin.png
+          url: https://www.vmlogin.cc/
+          description: VMLogin 指纹浏览器是一款通过模拟不同设备的软硬件指纹信息，实现一台电脑同时多开浏览器分身，每个防关联浏览器独立 IP，适用于跨境电商亚马逊、eBay，社媒营销 FB、Twitter、Google 等多平台账号防关联批量管理安全浏览器
+        - title: OkBrowser 指纹浏览器
+          logo: okbrow.png
+          url: https://okbrow.com/
+          description: OKBrowser 是一款专注于 多账号安全管理与隐私保护 的指纹浏览器。它通过高度可定制的浏览器指纹模拟技术，帮助用户在同一台设备上创建多个独立的浏览器环境，从而有效避免账号之间的关联和风控
+        - title: MostLogin 浏览器
+          logo: mostlogin.png
+          url: https://www.mostlogin.com/?invite-code=spiderbox1
+          description: MostLogin，一款完全免费的防关联指纹浏览器，包含：云手机+免费的API接口/RPA自动化/群控同步系统/团队管理等功能
+        # 20% ====================
+        - title: gemlogin
+          logo: gemlogin.png
+          url: https://app.gemlogin.vn/register?ref=31786
+          description: GemLogin，一个无需代码的平台，可自动执行浏览器和手机反检测，账户管理 & 浏览器自动化，全球领先的拖放式 Antidetect 浏览器自动化平台
+        - title: Lightpanda Browser
+          logo: lightpanda-io.browser.png
+          url: https://lightpanda.io/
+          description: Lightpanda 浏览器，专为 AI agents 和自动化从头构建的无头浏览器，非 Chromium 分子，非 WebKit 补丁，而是一个用 Zig 编写的新浏览器
+        - title: Chromium_FingerPrint_Tutorial
+          logo: github.png
+          url: https://github.com/LoseNine/Chromium_FingerPrint_Tutorial
+          description: 《Chromium指纹浏览器开发教程》，作者：李岳阳（网名如意）
+        - title: BotBrowser
+          logo: github.png
+          url: https://github.com/botswin/BotBrowser
+          description: '🤖 Cross-platform browser for automation testing: Cloudflare, Akamai, Kasada, Shape, DataDome, PerimeterX, hCaptcha, FunCaptcha, Imperva, reCAPTCHA, ThreatMetrix, Adscore'
+        - title: camoufox
+          logo: camoufox.png
+          url: https://github.com/daijro/camoufox
+          description: 一款隐秘、简约、定制的 Firefox 版本，是一款开源的反检测浏览器，具有强大的指纹注入和反机器人规避功能
+        - title: BrowserForge
+          logo: github.png
+          url: https://github.com/daijro/browserforge
+          description: 智能浏览器 header 和指纹生成器
+#        - title: fakebrowser
+#          logo: github.png
+#          url: https://github.com/kkoooqq/fakebrowser
+#          description: 伪造指纹绕过反机器人系统。模拟鼠标和键盘操作，使行为像真人一样
+        - title: puppeteer-real-browser
+          logo: github.png
+          url: https://github.com/ZFC-Digital/puppeteer-real-browser
+          description: 此软件包可防止 Puppeteer 在 Cloudflare 等服务中被检测为机器人，并允许您顺利通过验证码。它的行为就像一个真正的浏览器
+        - title: ReBrowser
+          logo: rebrowser.png
+          url: https://rebrowser.net/
+          description: ReBrowser 云浏览器，在远程服务器上运行，而不是在您的设备上运行，拥有先进的浏览器技术，真实独特设备的指纹，逃避机器人检测
+        - title: Fchrome
+          logo: r0chrome.jpg
+          url: https://github.com/daisixuan/Fchrome
+          description: Fchrome（原 r0chrome） 是一款对 chromium 源码进行定制的浏览器，支持浏览器随机指纹，支持爬虫/JS逆向工程师进行辅助分析网页
+        - title: luna
+          logo: github.png
+          url: https://github.com/musiclover789/luna
+          description: Luna 指纹浏览器，支持浏览器指纹、防关联相关功能的浏览器，支持第三方框架、如 playwright、puppeteer
+        - title: YSbrowser
+          logo: github.png
+          url: https://github.com/selfshore/YSbrowser
+          description: 魔改的 chromium，指纹浏览器，过掉 F12 反调试，支持自定义浏览器版本、时区、语言、cpu 核心数、屏幕等指纹
+        - title: fingerprint-chromium
+          logo: github.png
+          url: https://github.com/adryfish/fingerprint-chromium
+          description: 一个基于 Ungoogled Chromium 的指纹浏览器
+        - title: firefox-fingerprintBrowser
+          logo: github.png
+          url: https://github.com/LoseNine/firefox-fingerprintBrowser
+          description: 基于 firefox 开发的免费指纹浏览器，专门针对 creepjs 网站做了过检测
+        - title: 指纹浏览器资源导航
+          logo: ebrowser.jpg
+          url: https://www.ebrowser.cn/
+          description: 指纹浏览器资源导航
+
+    - name: 自动化/RPC/RPA
       links:
         - title: Selenium
           logo: selenium.png
@@ -1161,7 +1345,7 @@
           url: https://playwright.dev/
           description: Playwright 是微软在 2020 年初开源的新一代自动化测试工具，对市面上的主流浏览器都提供了支持，API 功能简洁又强大
         - title: Pyppeteer
-          logo: github.png
+          logo: pyppeteer.png
           url: https://github.com/pyppeteer/pyppeteer
           description: Pyppeteer 是一款非常高效的 web 自动化测试工具，是 Puppeteer 的 Python 版本
         - title: DrissionPage
@@ -1216,14 +1400,6 @@
           logo: github.png
           url: https://github.com/kaliiiiiiiiii/Selenium-Profiles
           description: 通过配置设备指纹使 Selenium 不会被检测
-        - title: Sekiro
-          logo: sekiro.png
-          url: https://github.com/yint-tech/sekiro-open
-          description: RPC 框架
-        - title: JsRpc
-          logo: github.png
-          url: https://github.com/jxhczhl/JsRpc
-          description: js 逆向之远程调用 (rpc) 免去抠代码补环境
         - title: magical_spider
           logo: github.png
           url: https://github.com/lixi5338619/magical_spider
@@ -1244,141 +1420,89 @@
           logo: splash.png
           url: https://github.com/scrapinghub/splash
           description: Splash 是一个带有 HTTP API 的 JavaScript 渲染服务。它是一个带有 HTTP API 的轻量级浏览器，使用 Twisted 和 QT5 在 Python 3 中实现。它快速、轻量级且无状态，因此易于分发。
-        - title: Appium
-          logo: appium.png
-          url: https://appium.io/
-          description: 开源的移动端自动化测试框架
-        - title: Airtest
-          logo: airtest.png
-          url: https://airtest.netease.com/
-          description: Airtest是一个跨平台的UI自动化测试框架，适用于游戏和App。目前支持Windows和Android平台，iOS支持正在开发中
-        - title: UI Automator 2
+        - title: ruyiPage
           logo: github.png
-          url: https://github.com/openatx/uiautomator2
-          description: Python 版本的 UI Automator，是一种 Android 自动化测试框架，提供了点击、长按、输入文本、滑动、拖拽、截屏等方法，能够模拟用户的各种动作。用户可以通过控件的 id 或 text 等属性，定位到控件，从而对控件实施上述操作
-        - title: AutoJS6
-          logo: autojs6.png
-          url: https://github.com/SuperMonster003/AutoJs6
-          description: Auto.js 是一款 Android 平台支持无障碍服务的 JavaScript 自动化工具软件，现已停止维护，AutoJS6 在 Auto.js 最终项目的基础上进行二次开发
-        - title: Auto.js
+          url: https://github.com/LoseNine/ruyipage
+          description: 基于 Firefox + WebDriver BiDi 的下一代浏览器自动化框架。不依赖 CDP、无 CDP 暴露面、针对性被检测更少
+        - title: pydoll
+          url: https://github.com/autoscrape-labs/pydoll
           logo: github.png
-          url: https://github.com/TonyJiangWJ/Auto.js
-          description: 在 Auto.js 最终项目的基础上进行二次开发，修复和增加了一些内容
-        - title: AutoX
+          description: Pydoll 是一个无需 WebDriver 即可实现基于 Chrome 的浏览器自动化的库，能够提供逼真的交互体验。无需使用 navigator.webdriver 标志，也不存在兼容性问题
+        - title: Sekiro
+          logo: sekiro.png
+          url: https://github.com/yint-tech/sekiro-open
+          description: RPC 框架
+        - title: JsRpc
           logo: github.png
-          url: https://github.com/aiselp/AutoX
-          description: 在 Auto.js 4.1 版本基础上进行二次开发的项目，增加了一些内容
+          url: https://github.com/jxhczhl/JsRpc
+          description: js 逆向之远程调用 (rpc) 免去抠代码补环境
+        - title: 八爪鱼采集器
+          logo: bazhuayu.png
+          url: https://www.bazhuayu.com/
+          description: 八爪鱼采集器，功能强大，操作简单，无需编写代码就能采集网站数据
+        - title: 影刀 RPA
+          logo: bazhuayu.png
+          url: https://www.yingdao.com/
+          description: 影刀 RPA 致力于为各行业客户提供 RPA 自动化机器人产品与解决方案。影刀 RPA 能实现 PC、手机上的任何软件自动化操作。积木式流程搭建，0 编程基础快速入门，人人都能轻松上手，是上万家企业信赖之选
 
-    - name: 指纹浏览器
+    - name: AI 自动化/RPA
       links:
-        - title: NstBrowser
-          logo: nstbrowser.png
-          url: https://app.nstbrowser.io/r/spiderbox
-          description: 可绕过 cloudflare，免费的反检测指纹浏览器&企业级云端浏览器方案，无缝接入云端集群服务，让网页抓取和自动化更简单的解决方案
-        - title: DuoPlus 指纹云手机
-          logo: duoplus.png
-          url: https://www.duoplus.cn/share/SpiderBox
-          description: DuoPlus 云手机，专注打造全球社媒营销、Tiktok、游戏挂机专用云手机，助您社媒营销全球化，开启全球社媒营销新境界
-        - title: BrightData Scraping Browser
-          logo: brightdata.png
-          url: https://get.brightdata.com/sbitbob
-          description: 远程连接指纹浏览器，运行您的 Puppeteer、Selenium 和 Playwright 脚本，并利用内置的 Captcha Solver 自动解决验证码，维护抓取和浏览器基础设施的运营开销为零
-        - title: AdsPower
-          logo: adspower.png
-          url: https://share.adspower.net/7f6Oro
-          description: 跨境多账号安全管理指纹浏览器
-        - title: HubStudio
-          logo: hubstudio.jpg
-          url: http://suo.im/90xP0
-          description: Hubstudio 为跨境商家提供安全的指纹浏览器，最专业的跨平台多账户管理系统，超过20w用户的选择
-        - title: 比特浏览器
-          logo: bitbrowser.png
-          url: https://www.bitbrowser.cn/
-          description: 比特指纹浏览器，也是防关联指纹浏览器、跨境电商浏览器，能多开浏览器窗口、多登账号，防关联和防封号，跨境账号的安全管理专家，轻松管理您的跨境大生意，真正做到防关联封号的超级浏览器、跨境电商指纹浏览器
-        - title: 候鸟浏览器
-          logo: mbbrowser.png
-          url: https://www.mbbrowser.com/aff/?code=OYX2B8QR
-          description: 为多账号防关联而生的指纹浏览器，得益于军用级别的防护技术，保护你免受任何识别的尝试。独特的用户画像预制，刚好帮到您
-        - title: VMLogin
-          logo: vmlogin.png
-          url: https://www.vmlogin.cc/
-          description: VMLogin 指纹浏览器是一款通过模拟不同设备的软硬件指纹信息，实现一台电脑同时多开浏览器分身，每个防关联浏览器独立 IP，适用于跨境电商亚马逊、eBay，社媒营销 FB、Twitter、Google 等多平台账号防关联批量管理安全浏览器
-        - title: BrightData Scraping Browser
-          logo: brightdata.png
-          url: https://get.brightdata.com/sbitbob
-          description: 远程连接指纹浏览器，运行您的 Puppeteer、Selenium 和 Playwright 脚本，并利用内置的 Captcha Solver 自动解决验证码，维护抓取和浏览器基础设施的运营开销为零
-        - title: OkBrowser 指纹浏览器
-          logo: okbrow.png
-          url: https://okbrow.com/
-          description: OKBrowser 是一款专注于 多账号安全管理与隐私保护 的指纹浏览器。它通过高度可定制的浏览器指纹模拟技术，帮助用户在同一台设备上创建多个独立的浏览器环境，从而有效避免账号之间的关联和风控
-        - title: MostLogin 浏览器
-          logo: mostlogin.png
-          url: https://www.mostlogin.com/?invite-code=spiderbox1
-          description: MostLogin，一款完全免费的防关联指纹浏览器，包含：云手机+免费的API接口/RPA自动化/群控同步系统/团队管理等功能
-        - title: Chromium_FingerPrint_Tutorial
-          logo: github.png
-          url: https://github.com/LoseNine/Chromium_FingerPrint_Tutorial
-          description: 《Chromium指纹浏览器开发教程》，作者：如意
-        - title: BotBrowser
-          logo: github.png
-          url: https://github.com/botswin/BotBrowser
-          description: '🤖 Cross-platform browser for automation testing: Cloudflare, Akamai, Kasada, Shape, DataDome, PerimeterX, hCaptcha, FunCaptcha, Imperva, reCAPTCHA, ThreatMetrix, Adscore'
-        - title: camoufox
-          logo: camoufox.png
-          url: https://github.com/daijro/camoufox
-          description: 一款隐秘、简约、定制的 Firefox 版本，是一款开源的反检测浏览器，具有强大的指纹注入和反机器人规避功能
-        - title: BrowserForge
-          logo: github.png
-          url: https://github.com/daijro/browserforge
-          description: 智能浏览器 header 和指纹生成器
-        - title: fakebrowser
-          logo: github.png
-          url: https://github.com/kkoooqq/fakebrowser
-          description: 伪造指纹绕过反机器人系统。模拟鼠标和键盘操作，使行为像真人一样
-        - title: puppeteer-real-browser
-          logo: github.png
-          url: https://github.com/ZFC-Digital/puppeteer-real-browser
-          description: 此软件包可防止 Puppeteer 在 Cloudflare 等服务中被检测为机器人，并允许您顺利通过验证码。它的行为就像一个真正的浏览器
-        - title: ReBrowser
-          logo: rebrowser.png
-          url: https://rebrowser.net/
-          description: ReBrowser 云浏览器，在远程服务器上运行，而不是在您的设备上运行，拥有先进的浏览器技术，真实独特设备的指纹，逃避机器人检测
-        - title: Fchrome
-          logo: r0chrome.jpg
-          url: https://github.com/daisixuan/Fchrome
-          description: Fchrome（原 r0chrome） 是一款对 chromium 源码进行定制的浏览器，支持浏览器随机指纹，支持爬虫/JS逆向工程师进行辅助分析网页
-        - title: luna
-          logo: github.png
-          url: https://github.com/musiclover789/luna
-          description: Luna 指纹浏览器，支持浏览器指纹、防关联相关功能的浏览器，支持第三方框架、如 playwright、puppeteer
-        - title: OKBrowser
-          logo: OKBrowser.png
-          url: https://github.com/za515217965/OKBrowser
-          description: OKBrowser 指纹浏览器，安全&企业级私有化部署，反检测指纹浏览器方案，免费的 web3 空投专用指纹浏览器
-        - title: YSbrowser
-          logo: github.png
-          url: https://github.com/selfshore/YSbrowser
-          description: 魔改的 chromium，指纹浏览器，过掉 F12 反调试，支持自定义浏览器版本、时区、语言、cpu 核心数、屏幕等指纹
-        - title: Lightpanda Browser
-          logo: lightpanda-io.browser.png
-          url: https://github.com/lightpanda-io/browser
-          description: Lightpanda 浏览器，专为 AI agents 和自动化从头构建的无头浏览器，非 Chromium 分子，非 WebKit 补丁，而是一个用 Zig 编写的新浏览器
-        - title: 指纹浏览器资源导航
-          logo: ebrowser.jpg
-          url: https://www.ebrowser.cn/
-          description: 指纹浏览器资源导航
+        - title: Crawl4AI
+          url: https://docs.crawl4ai.com/
+          logo: crawl4ai.png
+          description: 开源的友好大型语言模型网页爬虫和爬取工具
+        - title: Steel
+          url: https://steel.dev/
+          logo: steel.png
+          description: Steel is an open-source browser API purpose-built for AI agents.
+        - title: Browser Use
+          url: https://browser-use.com/
+          logo: browser-use.png
+          description: The Way AI uses the web. Agents at scale. Undetectable browsers. The API for any website.
+        - title: BrowserBase
+          url: https://www.browserbase.com/
+          logo: browserbase.png
+          description: We help AI use the web. Autonomously read, write, and perform tasks on the web with a headless browser.
+        - title: HyperBrowser
+          url: https://www.hyperbrowser.ai/
+          logo: hyperbrowser.png
+          description: Cloud browsers on-demand via API. Plug and play Puppeteer, Playwright, or AI agents and scale your scraping, testing, and automation without infrastructure headaches.
+        - title: AnchorBrowser
+          logo: anchorbrowser.jpg
+          url: https://anchorbrowser.io/
+          description: The Agentic Browser Automation Infrastructure - Automate any process performed on the web using AI agents tha can act on the web just like a human does.
+        - title: Browserflow
+          logo: browserflow.jpg
+          url: https://browserflow.app/
+          description: Automate your work on any website.
+        - title: Browserless
+          url: https://www.browserless.io/
+          logo: browserless.png
+          description: Scrape and automate any site. Get past CAPTCHAs and bot detectors with BrowserQL. Scale your 1st party automations with our Browsers as a Service. Enterprise grade self-hosted or private deployment options
+        - title: Browserable
+          url: https://www.browserable.ai/
+          logo: browserable.png
+          description: Browser automation library for AI agents (JS). Build browser agents that can navigate sites, fill out forms, and extract information.
+        - title: Skyvern
+          url: https://github.com/Skyvern-AI/skyvern
+          logo: skyvern.png
+          description: Skyvern automates browser-based workflows using LLMs and computer vision. It provides a Playwright-compatible SDK that adds AI functionality on top of playwright, as well as a no-code workflow builder to help both technical and non-technical users automate manual workflows on any website, replacing brittle or unreliable automation solutions.
+        - title: Automa
+          logo: goautoma.jpg
+          url: https://www.goautoma.com/
+          description: Build No-Code AI Agents & RPA Workflows in Minutes, AI automation, simplified forevery business. Design, deploy, orchestrate, and scale enterprise-grade workflows without IT complexity.
 
-- taxonomy: APP 相关
+- taxonomy: 安卓相关
   icon: fab fa-android
   list:
     - term: 脱壳/砸壳
-    - term: Hook工具
-    - term: APP 反编译
-    - term: APP 其他
-    - term: iOS 越狱
-    - term: iOS 其他
-    - term: trace 工具
-    - term: so 修复
+    - term: Hook/调试分析
+    - term: Root/实用模块
+    - term: Trace 工具
+    - term: 抓包相关
+    - term: 反编译工具
+    - term: 自动化工具
+    - term: 其他工具
   tabs:
     - name: 脱壳/砸壳
       links:
@@ -1406,7 +1530,11 @@
           logo: github.png
           url: https://github.com/P4nda0s/panda-dex-dumper
           description: 用 rust 实现的脱壳工具，不需要 frida
-        - title: panda-dex-dumper
+        - title: frida_dex_dump
+          logo: github.png
+          url: https://github.com/CYRUS-STUDIO/frida_dex_dump
+          description: 基于 frida 的 dex 脱壳工具
+        - title: APK加固安全测试
           logo: github.png
           url: https://56.al/upload.php
           description: APK 加固安全测试，在线脱壳网站
@@ -1417,21 +1545,29 @@
         - title: MikRom
           logo: github.png
           url: https://github.com/dqzg12300/MikRom
-          description: mikrom 是一个基于 rom 定制的逆向工具，请配合 MikManager 来使用
+          description: mikrom 是一个基于 rom 定制的逆向工具，请配合 MikManager 来使用，支持脱壳（黑名单、白名单过滤、更深的主动调用链）功能
         - title: frida_dump
           logo: github.png
           url: https://github.com/lasting-yang/frida_dump
           description: frida dump dex, frida dump so
-        - title: frida-ios-dump
+        - title: ApkCheckPack
           logo: github.png
-          url: https://github.com/AloneMonkey/frida-ios-dump
-          description: 从越狱设备中提取已解密的 IPA 文件
-        - title: dumpdecrypted
-          logo: github.png
-          url: https://github.com/stefanesser/dumpdecrypted
-          description: ios 脱壳工具
+          url: https://github.com/moyuwa/ApkCheckPack
+          description: apk文件加固特征检查工具，汇总收集已知特征和手动收集大家提交的app加固特征，目前总计约170条特征，支持40个厂商的加固检测
+        - title: PKiD 查壳工具
+          logo: pkid.jpg
+          url: https://pan.baidu.com/s/1sAFlpJzZK5TpsPitNj9BzQ?pwd=sbox
+          description: PKiD 查壳工具，目前仅支持的加固厂商：娜迦、梆梆、爱加密、通付盾、360加固、百度加固、阿里加固、腾讯加固、盛大加固、瑞星加固、网秦加固、国信灵通加固、apkprotect 加固，网盘提取密码：sbox
+        - title: PKiD Java 跨平台版
+          logo: pkid.jpg
+          url: https://bbs.kanxue.com/thread-225120.htm
+          description: PKiD 查壳工具，目前仅支持加固厂商：娜迦、梆梆、爱加密、通付盾、360加固、百度加固、阿里、腾讯、盛大、瑞星加、网秦、国信灵通、apkprotect、几维安全、顶像科技、网易易盾等常规厂商。功能比 win 版 PKID 更强大，特征更多
+        - title: XAPKDetector
+          logo: xapkdetector.jpg
+          url: https://github.com/horsicq/XAPKDetector
+          description: XAPKDetector 显示有关构建工具，库和APK / DEX文件保护的信息
 
-    - name: Hook工具
+    - name: Hook/调试分析
       links:
         - title: Frida
           logo: frida.png
@@ -1453,18 +1589,14 @@
           logo: github.png
           url: https://github.com/re-zero001/LSPosed-Irena
           description: 魔改 LSPosed
-        - title: LSPosed
+        - title: Vector
           logo: github.png
-          url: https://github.com/JingMatrix/LSPosed
-          description: 魔改 LSPosed
+          url: https://github.com/JingMatrix/Vector
+          description: Vector 是 Zygisk 的一个模块，它提供了一个 ART 挂钩框架，同时保持了与原生 Xposed 的 API 一致性。该模块基于 LSPlant 开发，旨在打造一个稳定、处于原生级别的调试环境
         - title: Fridare
           logo: github.png
           url: https://github.com/suifei/fridare
           description: 强大的 Frida 重打包工具，用于 iOS 和 Android。轻松修改 Frida 特征，增强隐蔽性，绕过检测。简化逆向工程和安全测试
-        - title: JustTrustMe
-          logo: github.png
-          url: https://github.com/Fuzion24/JustTrustMe
-          description: 基于Xposed写的可以绕过SSL Pinning检测的工具。
         - title: Inspeckage
           logo: inspeckage.png
           url: https://github.com/ac-pm/Inspeckage
@@ -1497,88 +1629,53 @@
           logo: github.png
           url: https://github.com/PAGalaxyLab/YAHFA
           description: YAHFA 是一个用于 Android ART 的 Hook 框架。它提供了一种高效的方式来 Hook 或替换 Java 方法
+        - title: rustFrida
+          logo: github.png
+          url: https://github.com/kkkbbb/rustFrida
+          description: ARM64 Android 动态插桩框架
+        - title: jadx-frida-hookall
+          logo: frida.png
+          url: https://github.com/LunFengChen/jadx-frida-hookall
+          description: jadx 插件，集成常用的各种 frida 脚本，节省时间去翻笔记
+        - title: frida_hook_script
+          logo: frida.png
+          url: https://github.com/Eeyhan/frida_hook_script
+          description: frida 常用的 hook 脚本
+        - title: findhash
+          logo: github.png
+          url: https://github.com/Pr0214/findhash
+          description: 一个 IDA 脚本，可以检测出哈希算法（无论是否魔改常数）并生成 frida hook 代码
         - title: Frida CodeShare
           logo: frida.png
           url: https://codeshare.frida.re/
           description: Frida CodeShare 项目汇集了来自世界各地的开发者，他们共同致力于一个目标——以新颖和创新的方式将 Frida 推向极限
+        - title: ebpf-go
+          logo: ebpf-go.png
+          url: https://github.com/cilium/ebpf
+          description: ebpf-go 是一个纯 Go 库，用于读取、修改和加载 eBPF 程序，并将它们附加到 Linux 内核中的各种 hook 钩子
+        - title: renef
+          logo: renef.png
+          url: https://github.com/ahmeth4n/renef
+          description: renef 是一款面向 Android ARM64 应用的动态检测工具包，主要专注于原生代码分析。它通过 Lua 脚本提供运行时操作功能，允许 hook 原生函数、扫描和修补内存以及分析正在运行的进程
+        - title: ZAFrida UI
+          logo: github.png
+          url: https://github.com/yilongmd/zafrida-ui
+          description: ZAFrida UI 是一款集成在 PyCharm 和 JetBrains 系列 IDE 中的 Frida 图形化操作插件。它旨在解决 Frida 命令行操作繁琐、脚本管理混乱的问题，提供了一套完整的 UI 交互界面 来管理设备、进程、脚本和日志
+        - title: QBDI
+          logo: qbdi.jpg
+          url: https://github.com/QBDI/QBDI
+          description: 基于 LLVM 的动态二进制插桩框架，是一个模块化的跨平台以及跨架构的 DBI 框架
 
-    - name: APP 反编译
-      links:
-        - title: IDA
-          logo: github.png
-          url: https://hex-rays.com/ida-pro
-          description: IDA Pro（Interactive Disassembler Professional）是由 Hex-Rays 公司开发的交互式反汇编工具，被广泛视为逆向工程领域的行业标准工具。该软件支持 Windows、Linux、macOS 操作系统，采用递归下降反汇编技术，具有可编程和可扩展特性，支持包括 x86、ARM、MIPS、PowerPC、Z80、68000 及 c8051 等数十种处理器架构。其核心功能包含静态分析、动态调试模块，提供 Hex View 窗口、Strings 窗口等分析界面，兼容 BinDiff 插件并支持反编译生成类 C 代码
-        - title: Binary Ninja
-          logo: binary.ninja.png
-          url: https://binary.ninja/
-          description: Binary Ninja 是一款交互式反编译器、反汇编器、调试器和二进制分析平台，由逆向工程师构建，用于逆向工程师。Binary Ninja 开发的重点是提供高质量的自动化 API 和一个简洁实用的 GUI，世界各地的恶意软件分析师、漏洞研究人员和软件开发人员都在积极地使用这款软件
-        - title: Android Crack Tool
-          logo: github.png
-          url: https://github.com/Jermic/Android-Crack-Tool
-          description: mac 下 Android 逆向神器，实用工具集，集成了Android开发中常见的一些编译/反编译工具，方便用户对 Apk 进行逆向分析，提供 Apk 信息查看功能
-        - title: Apktool
-          logo: apktool.png
-          url: https://apktool.org/
-          description: 功能强大且操作简单的 apk 反编译工具
-        - title: ApkCheckPack
-          logo: github.png
-          url: https://github.com/moyuwa/ApkCheckPack
-          description: apk文件加固特征检查工具，汇总收集已知特征和手动收集大家提交的app加固特征，目前总计约170条特征，支持40个厂商的加固检测
-        - title: PKiD 查壳工具
-          logo: pkid.jpg
-          url: https://pan.baidu.com/s/1sAFlpJzZK5TpsPitNj9BzQ?pwd=sbox
-          description: PKiD 查壳工具，目前仅支持的加固厂商：娜迦、梆梆、爱加密、通付盾、360加固、百度加固、阿里加固、腾讯加固、盛大加固、瑞星加固、网秦加固、国信灵通加固、apkprotect 加固，网盘提取密码：sbox
-        - title: PKiD Java 跨平台版
-          logo: pkid.jpg
-          url: https://bbs.kanxue.com/thread-225120.htm
-          description: PKiD 查壳工具，目前仅支持加固厂商：娜迦、梆梆、爱加密、通付盾、360加固、百度加固、阿里、腾讯、盛大、瑞星加、网秦、国信灵通、apkprotect、几维安全、顶像科技、网易易盾等常规厂商。功能比 win 版 PKID 更强大，特征更多
-        - title: XAPKDetector
-          logo: xapkdetector.jpg
-          url: https://github.com/horsicq/XAPKDetector
-          description: XAPKDetector 显示有关构建工具，库和APK / DEX文件保护的信息
-        - title: JEB
-          logo: jeb.jpg
-          url: https://www.pnfsoftware.com/
-          description: JEB 是 PNF Software的逆向工程平台，可以手动或作为分析管道的一部分执行代码和文档文件的反汇编、反编译、调试和分析
-        - title: dex2jar
-          logo: github.png
-          url: https://github.com/pxb1988/dex2jar
-          description: 将安卓可执行文件 dex 转为 jar 包
-        - title: JD-GUI
-          logo: jdgui.png
-          url: https://github.com/java-decompiler/jd-gui
-          description: 可将安卓可执行文件 dex 转为 jar 包，并提供可视化代码阅读能力
-        - title: JADX
-          logo: jadx.png
-          url: https://github.com/skylot/jadx
-          description: JADX 是一个 Dex 到 Java 的反编译器，用于从 Android Dex 和 Apk 文件生成 Java 源代码，有命令行和 GUI 两个版本
-        - title: Bytecode Viewer
-          logo: github.png
-          url: https://github.com/Konloch/bytecode-viewer
-          description: 支持 apk、dex 等多种文件格式的反编译
-        - title: AndroidKiller
-          logo: github.png
-          url: https://github.com/liaojack8/AndroidKiller
-          description: Android 应用程序逆向工具(apk反编译工具)
-        - title: blutter
-          logo: github.png
-          url: https://github.com/worawit/blutter
-          description: 编译 Dart AOT Runtime 的 Flutter 移动应用逆向工具
-        - title: GDA
-          logo: gda.jpg
-          url: https://github.com/charles2gan/GDA-android-reversing-Tool
-          description: GDA，一款用C++实现的强大的Dalvik字节码反编译器，具有分析速度快、内存磁盘消耗低等优点，对apk、dex、odex、oat、jar、class、aar文件的反编译能力更强
-        - title: Ghidra
-          logo: ghidra.png
-          url: https://github.com/NationalSecurityAgency/ghidra
-          description: Ghidra 是一个由美国国家安全局研究局创建和维护的、开源的软件逆向工程 (SRE) 框架 。该框架包括一套功能齐全的高端软件分析工具，使用户能够在包括 Windows、macOS 和 Linux 在内的各种平台上分析编译的代码。功能包括反汇编、汇编、反编译、绘图和脚本编写，以及数百种其他功能
-
-    - name: APP 其他
+    - name: Root/实用模块
       links:
         - title: Magisk
           logo: Magisk.png
           url: https://github.com/topjohnwu/Magisk
           description: Magisk 是一套用于定制 Android 的开源工具,支持高于 Android4.2的设备。涵盖了 Android定制的基本部分:root、引导脚本、 SELInux修补、移除AVB2.0/dm- verity/强制加密等。
+        - title: Magisk 中文文档
+          logo: Magisk.png
+          url: https://jesse205.github.io/MagiskChineseDocument/
+          description: Magisk 中文文档
         - title: APatch
           logo: apatch.png
           url: https://github.com/bmax121/APatch
@@ -1587,10 +1684,281 @@
           logo: KernelSU.jpg
           url: https://github.com/tiann/KernelSU
           description: 一个 Android 上基于内核的 root 方案
+        - title: SukiSU Ultra
+          logo: github.png
+          url: https://github.com/SukiSU-Ultra/SukiSU-Ultra
+          description: 一个 Android 上基于内核的 root 方案，由 tiann/KernelSU 分叉而来，添加了一些有趣的变更
+        - title: ReSukiSU
+          logo: github.png
+          url: https://github.com/ReSukiSU/ReSukiSU
+          description: 一个 SukiSU-Ultra/SukiSU-Ultra 的下游分支,添加了一些有趣的变更，且更加稳定
+        - title: zygisk
+          logo: zygisk.png
+          url: https://zygisk.com/
+          description: Zygisk 是 Magisk 的一个新功能，首次出现在 Magisk v24 版本中。它是 Magisk 的 Zygote 挂钩机制的升级版本，Zygote 是 Android 系统中用于启动应用程序进程的核心进程。Zygisk 允许 Magisk 在应用程序启动时注入代码，从而实现对应用程序的 root 访问和其他高级功能
+        - title: ZygiskNext
+          logo: github.png
+          url: https://github.com/Dr-TSNG/ZygiskNext
+          description: Zygisk 的独立实现，为 KernelSU 提供 Zygisk API 支持，并替代 Magisk 内置的 Zygisk
+        - title: ZygiskFrida
+          logo: github.png
+          url: https://github.com/lico-n/ZygiskFrida
+          description: ZygiskFrida 是一个 zygisk 模块，允许您以更隐蔽的方式将 Frida 小工具注入 Android 应用程序
+        - title: Zygisk-Il2CppDumper
+          logo: github.png
+          url: https://github.com/Perfare/Zygisk-Il2CppDumper
+          description: Zygisk 版 Il2CppDumper，在游戏运行时 dump il2cpp 数据，可以绕过保护，加密以及混淆
+        - title: safetynet-fix
+          logo: github.png
+          url: https://github.com/kdrag0n/safetynet-fix
+          description: Magisk 模块用于绕过 Google 的 SafetyNet 和 Play Integrity 认证
+        - title: Hide My Applist
+          logo: github.png
+          url: https://github.com/Dr-TSNG/Hide-My-Applist
+          description: 该模块提供了一些检测方式用于测试您是否成功地隐藏了某些特定的包名，如 Magisk/Edxposed Manager；同时可作为 Xposed 模块用于隐藏应用列表或特定应用，保护隐私
+        - title: IAmNotADeveloper
+          logo: github.png
+          url: https://github.com/xfqwdsj/IAmNotADeveloper
+          description: 一个用于隐藏 Android 系统开发者相关选项状态的模块
+
+    - name: Trace 工具
+      links:
         - title: Unidbg
           logo: github.png
           url: https://github.com/zhkl0228/unidbg
           description: unidbg 是一款基于 unicorn 和 dynarmic (ARM的动态重编译器) 的逆向工具,可以模拟执行 so 文件
+        - title: frida-trace
+          logo: frida.png
+          url: https://frida.re/docs/frida-trace/
+          description: frida-trace 是一个用于动态跟踪函数调用的工具
+        - title: vm-trace-release
+          logo: github.png
+          url: https://github.com/jiqiu2022/vm-trace-release
+          description: vm trace 的发布仓库，相关 so 调用脚本例子都会放在里面
+        - title: stalker_trace_so
+          logo: github.png
+          url: https://github.com/oacia/stalker_trace_so
+          description: 一个 IDA 插件，利用 frida-stalker 在加载 so 时打印出所有函数调用，解决 frida-trace 无法在 so 加载时 trace 的问题
+        - title: estrace
+          logo: github.png
+          url: https://github.com/SeeFlowerX/estrace
+          description: 基于 eBPF 的 syscall 追踪工具，适用于安卓平台
+        - title: stackplz
+          logo: github.png
+          url: https://github.com/SeeFlowerX/stackplz
+          description: 基于 eBPF 的堆栈追踪工具
+        - title: bpftrace
+          logo: bpftrace.png
+          url: https://github.com/bpftrace/bpftrace
+          description: bpftrace 是一款适用于 Linux 的通用跟踪工具和语言。它利用 eBPF 提供强大高效的跟踪功能，同时将开销降至最低
+        - title: sktrace
+          logo: github.png
+          url: https://github.com/bmax121/sktrace
+          description: Sktrace 是一个基于 Frida Stalker 的开源动态追踪工具，主要用于 Android 应用逆向分析和 Native 层函数调试。它能够跟踪指定函数的执行流程、寄存器变化及内存访问，生成类似 IDA Pro 的指令级 trace 输出，且无需修改被追踪程序的原始代码
+        - title: frida-qbdi-tracer
+          logo: github.png
+          url: https://github.com/lasting-yang/frida-qbdi-tracer
+          description: 基于 frida-qbdi 的 trace 工具,目前仅支持 native 层 tracer
+        - title: attd-tracer-qbdi
+          logo: github.png
+          url: https://github.com/FANGG3/attd-tracer-qbdi
+          description: attd-tracer-qbdi 是 ATTD-GUI 的 Trace 采集器，基于 QBDI 和 Frida 的 Trace
+        - title: Trace UI
+          logo: github.png
+          url: https://github.com/imj01y/trace-ui
+          description: 高性能 ARM64 执行 trace 可视化分析工具。基于 Tauri 2 + React 构建的桌面应用，专为安全研究员设计，支持千万行或亿行级大规模 trace 的流畅浏览、函数调用树折叠、反向污点追踪、内存/寄存器实时查看等功能
+        - title: kpm-backtrace
+          logo: github.png
+          url: https://github.com/lidongyooo/kpm-backtrace
+          description: Apatch 模块，一个用于在 Android 内核空间捕获和分析堆栈跟踪的内核模块
+        - title: jnitrace
+          logo: github.png
+          url: https://github.com/chame1eon/jnitrace
+          description: 一个基于 Frida 的工具，用于追踪 Android 应用程序中 JNI API 的使用情况
+        - title: jnitrace-engine
+          logo: github.png
+          url: https://github.com/chame1eon/jnitrace-engine
+          description: jnitrace-engien 是基于 jnitrace 裁剪出来的库，你可以取其所需，只 hook 你关心的函数
+        - title: jtrace
+          logo: github.png
+          url: https://github.com/SeeFlowerX/jtrace
+          description: 增加更详细的 jni 信息打印，以辅助 unidbg 补环境为主要目的，方便定制
+        - title: frida_hook_libart
+          logo: github.png
+          url: https://github.com/lasting-yang/frida_hook_libart
+          description: Frida hook 一些 JNI 函数
+        - title: JNI Frida Hook
+          logo: github.png
+          url: https://github.com/Areizen/JNI-Frida-Hook
+          description: 使用 Frida 对 JNI 相关函数进行 Hook，以监控或修改 Java 与 Native 层（C/C++）之间的交互
+        - title: art-tracer
+          logo: github.png
+          url: https://github.com/oleavr/art-tracer
+          description: ART tracing
+        - title: stalker
+          logo: frida.png
+          url: https://frida.re/docs/stalker/
+          description: Stalker ‌是 Frida 框架提供的一个‌动态指令级追踪引擎‌，能够在运行时对目标进程的线程进行细粒度控制流分析，支持追踪每一条汇编指令、函数调用、基本块等，广泛用于逆向分析、反混淆、漏洞挖掘等场景
+        - title: frida_stalker
+          logo: github.png
+          url: https://github.com/CYRUS-STUDIO/frida_stalker
+          description: 使用 Frida Stalker 反 OLLVM 算法还原（函数调用分析、参数分析、打印调用堆栈、指令&寄存器Trace）。 Using Frida Stalker to Bypass OLLVM and Restore (Function Call Analysis, Parameter Analysis, Stack Trace Printing, Instruction & Registers Trace)
+        - title: fridaMemoryAccessTrace
+          logo: github.png
+          url: https://github.com/asmjmp0/fridaMemoryAccessTrace
+          description: 安卓内存访问追踪工具，由 frida 框架提供支持
+        - title: ZenTracer
+          logo: github.png
+          url: https://github.com/hluwa/ZenTracer
+          description: 基于 Frida 的安卓方法追踪 GUI 工具，Android Java 方法的 Tracer
+        - title: frida-scripts
+          logo: github.png
+          url: https://github.com/0xdea/frida-scripts/
+          description: 用于 Frida 的各种 trace 脚本，用于简化移动应用的逆向工程
+        - title: frida-trace
+          logo: github.png
+          url: https://github.com/IIIImmmyyy/frida-trace
+          description: Frida 跟踪汇编和寄存器变化的工具
+        - title: trace_natives
+          logo: github.png
+          url: https://github.com/Pr0214/trace_natives
+          description: 一个小脚本，用于 trace so 中 native 函数的调用
+        - title: strace
+          logo: strace.png
+          url: https://strace.io/
+          description: strace 常用来跟踪进程执行时的系统调用和所接收的信号
+
+    - name: 抓包相关
+      links:
+        - title: JustTrustMe
+          logo: github.png
+          url: https://github.com/Fuzion24/JustTrustMe
+          description: 基于Xposed写的可以绕过SSL Pinning检测的工具
+        - title: frida-ssl-pinning-bypass
+          logo: github.png
+          url: https://github.com/CYRUS-STUDIO/frida-ssl-pinning-bypass
+          description: Java + Native 全自动 SSL Pinning 绕过脚本
+        - title: Move Certificate
+          logo: github.png
+          url: https://github.com/ys1231/MoveCertificate
+          description: 是一个 Magisk/KernelSU/APatch 模块，用于移动用户证书到系统证书，支持 Android 7-15
+        - title: frida_bypass_ssl_example
+          logo: github.png
+          url: https://github.com/lasting-yang/frida_bypass_ssl_example
+          description: frida 辅助抓包的一些技巧，不用安装证书抓 https
+        - title: autoDecoder
+          logo: github.png
+          url: https://github.com/f0ng/autoDecoder
+          description: Burp 插件，根据自定义来达到对数据包的处理（适用于加解密、爆破等），类似 mitmproxy，不同点在于经过了 burp 中转，在自动加解密的基础上，不影响 APP、网站加解密正常逻辑等
+        - title: SunnyNet
+          logo: github.png
+          url: https://github.com/qtgolang/SunnyNet
+          description: SunnyNet 网络中间件，是一个功能强大的跨平台网络分析组件，专为二次开发而设计。它提供了完整的网络流量捕获和修改功能，支持多种协议类型
+        - title: appproxy
+          logo: github.png
+          url: https://github.com/ys1231/appproxy
+          description: 基于 flutter 的 android vpn 代理工具，支持 HTTP, SOCKS5 协议
+        - title: Brida
+          logo: github.png
+          url: https://github.com/federicodotta/Brida
+          description: Brida 是一个 Burp Suite 扩展，它作为 Burp Suite 和 Frida 之间的桥梁，允许您使用和操作应用程序自身的方法，同时篡改应用程序与其后端服务/服务器之间交换的流量。它支持 Frida 支持的所有平台（Windows、macOS、Linux、iOS、Android 和 QNX）
+
+    - name: 反编译工具
+      links:
+        - title: IDA
+          logo: ida.png
+          url: https://hex-rays.com/ida-pro
+          description: IDA Pro（Interactive Disassembler Professional）是由 Hex-Rays 公司开发的交互式反汇编工具，被广泛视为逆向工程领域的行业标准工具。该软件支持 Windows、Linux、macOS 操作系统，采用递归下降反汇编技术，具有可编程和可扩展特性，支持包括 x86、ARM、MIPS、PowerPC、Z80、68000 及 c8051 等数十种处理器架构。其核心功能包含静态分析、动态调试模块，提供 Hex View 窗口、Strings 窗口等分析界面，兼容 BinDiff 插件并支持反编译生成类 C 代码
+        - title: JADX
+          logo: jadx.png
+          url: https://github.com/skylot/jadx
+          description: JADX 是一个 Dex 到 Java 的反编译器，用于从 Android Dex 和 Apk 文件生成 Java 源代码，有命令行和 GUI 两个版本
+        - title: GDA
+          logo: gda.jpg
+          url: https://github.com/charles2gan/GDA-android-reversing-Tool
+          description: GDA，一款用C++实现的强大的Dalvik字节码反编译器，具有分析速度快、内存磁盘消耗低等优点，对apk、dex、odex、oat、jar、class、aar文件的反编译能力更强
+        - title: JEB
+          logo: jeb.jpg
+          url: https://www.pnfsoftware.com/
+          description: JEB 是 PNF Software的逆向工程平台，可以手动或作为分析管道的一部分执行代码和文档文件的反汇编、反编译、调试和分析
+        - title: Ghidra
+          logo: ghidra.png
+          url: https://github.com/NationalSecurityAgency/ghidra
+          description: Ghidra 是一个由美国国家安全局研究局创建和维护的、开源的软件逆向工程 (SRE) 框架 。该框架包括一套功能齐全的高端软件分析工具，使用户能够在包括 Windows、macOS 和 Linux 在内的各种平台上分析编译的代码。功能包括反汇编、汇编、反编译、绘图和脚本编写，以及数百种其他功能
+        - title: Binary Ninja
+          logo: binary.ninja.png
+          url: https://binary.ninja/
+          description: Binary Ninja 是一款交互式反编译器、反汇编器、调试器和二进制分析平台，由逆向工程师构建，用于逆向工程师。Binary Ninja 开发的重点是提供高质量的自动化 API 和一个简洁实用的 GUI，世界各地的恶意软件分析师、漏洞研究人员和软件开发人员都在积极地使用这款软件
+        - title: Apktool
+          logo: apktool.png
+          url: https://apktool.org/
+          description: 功能强大且操作简单的 apk 反编译工具
+        - title: ApkToolPlus
+          logo: ApkToolPlus.png
+          url: https://github.com/CYRUS-STUDIO/ApkToolPlus
+          description: ApkToolPlus 是一个可视化的跨平台 apk 分析工具，apk 反编译，签名，apk 加固，dex 加密，防逆向，防止二次打包，apk 常见信息查看等
+        - title: dex2jar
+          logo: github.png
+          url: https://github.com/pxb1988/dex2jar
+          description: 将安卓可执行文件 dex 转为 jar 包
+        - title: JD-GUI
+          logo: jdgui.png
+          url: https://github.com/java-decompiler/jd-gui
+          description: 可将安卓可执行文件 dex 转为 jar 包，并提供可视化代码阅读能力
+        - title: AndroidKiller
+          logo: github.png
+          url: https://github.com/liaojack8/AndroidKiller
+          description: Android 应用程序逆向工具(apk反编译工具)
+        - title: Bytecode Viewer
+          logo: github.png
+          url: https://github.com/Konloch/bytecode-viewer
+          description: 支持 apk、dex 等多种文件格式的反编译
+        - title: Android Crack Tool
+          logo: github.png
+          url: https://github.com/Jermic/Android-Crack-Tool
+          description: mac 下 Android 逆向神器，实用工具集，集成了Android开发中常见的一些编译/反编译工具，方便用户对 Apk 进行逆向分析，提供 Apk 信息查看功能
+        - title: blutter
+          logo: github.png
+          url: https://github.com/worawit/blutter
+          description: 编译 Dart AOT Runtime 的 Flutter 移动应用逆向工具
+        - title: IDA Domain API
+          logo: github.png
+          url: https://github.com/HexRaysSA/ida-domain
+          description: IDA Pro 逆向工程平台的 Python 接口
+
+    - name: 自动化工具
+      links:
+        - title: Appium
+          logo: appium.png
+          url: https://appium.io/
+          description: 开源的移动端自动化测试框架
+        - title: Airtest
+          logo: airtest.png
+          url: https://airtest.netease.com/
+          description: Airtest是一个跨平台的UI自动化测试框架，适用于游戏和App。目前支持Windows和Android平台，iOS支持正在开发中
+        - title: UI Automator 2
+          logo: github.png
+          url: https://github.com/openatx/uiautomator2
+          description: Python 版本的 UI Automator，是一种 Android 自动化测试框架，提供了点击、长按、输入文本、滑动、拖拽、截屏等方法，能够模拟用户的各种动作。用户可以通过控件的 id 或 text 等属性，定位到控件，从而对控件实施上述操作
+        - title: AutoJS6
+          logo: autojs6.png
+          url: https://github.com/SuperMonster003/AutoJs6
+          description: Auto.js 是一款 Android 平台支持无障碍服务的 JavaScript 自动化工具软件，现已停止维护，AutoJS6 在 Auto.js 最终项目的基础上进行二次开发
+        - title: Auto.js
+          logo: github.png
+          url: https://github.com/TonyJiangWJ/Auto.js
+          description: 在 Auto.js 最终项目的基础上进行二次开发，修复和增加了一些内容
+        - title: AutoX
+          logo: github.png
+          url: https://github.com/aiselp/AutoX
+          description: 在 Auto.js 4.1 版本基础上进行二次开发的项目，增加了一些内容
+
+    - name: 其他工具
+      links:
+        - title: BCC
+          logo: bcc.png
+          url: https://github.com/iovisor/bcc
+          description: BCC - 用于基于 BPF 的 Linux IO 分析、网络、监控等的工具
         - title: APK Downloader
           logo: apkdownloader.jpg
           url: https://apps.evozi.com/apk-downloader/
@@ -1607,58 +1975,26 @@
           logo: github.png
           url: https://github.com/bigsinger/adbgui
           description: 使用 C# 编写的界面版 adb 操作工具，方便高效
-        - title: IDA Domain API
+        - title: wei's OneDrive
           logo: github.png
-          url: https://github.com/HexRaysSA/ida-domain
-          description: IDA Pro 逆向工程平台的 Python 接口
-        - title: ebpf-go
-          logo: ebpf-go.png
-          url: https://github.com/cilium/ebpf
-          description: ebpf-go 是一个纯 Go 库，用于读取、修改和加载 eBPF 程序，并将它们附加到 Linux 内核中的各种钩子
-        - title: BCC
-          logo: bcc.png
-          url: https://github.com/iovisor/bcc
-          description: BCC - 用于基于 BPF 的 Linux IO 分析、网络、监控等的工具
-        - title: bpftrace
-          logo: bpftrace.png
-          url: https://github.com/bpftrace/bpftrace
-          description: bpftrace 是一款适用于 Linux 的通用跟踪工具和语言。它利用 eBPF 提供强大高效的跟踪功能，同时将开销降至最低
-        - title: QBDI
-          logo: qbdi.jpg
-          url: https://github.com/QBDI/QBDI
-          description: 基于 LLVM 的动态二进制插桩框架，是一个模块化的跨平台以及跨架构的 DBI 框架
-        - title: renef
-          logo: renef.png
-          url: https://github.com/ahmeth4n/renef
-          description: renef 是一款面向 Android ARM64 应用的动态检测工具包，主要专注于原生代码分析。它通过 Lua 脚本提供运行时操作功能，允许 hook 原生函数、扫描和修补内存以及分析正在运行的进程
-        - title: SunnyNet
+          url: https://od.cloudsploit.top/
+          description: wei's OneDrive 在线云盘，提供逆向工具、书籍等资源下载
+        - title: 爱盘
+          logo: down.52pojie.png
+          url: https://down.52pojie.cn/Tools/Android_Tools/
+          description: 吾爱破解论坛网盘，各种破解工具包资源下载
+        - title: 010Editor
+          logo: 010editor.png
+          url: https://www.sweetscape.com/010editor/
+          description: 010Editor 是一款二进制修改工具，可以直接对 exe 文件进行修改、保存。同时对一些藏有 flag 的文件，也有奇效！当然，它的使用也极其简单，只需要将文件拖入即可。修改完成后，直接保存即可
+        - title: Android Framework 知识库
+          logo: DSXBmSG9VbEROUXF5.png
+          url: https://docs.qq.com/doc/DSXBmSG9VbEROUXF5
+          description: Android Framework 知识库
+        - title: AndroidProjects
           logo: github.png
-          url: https://github.com/qtgolang/SunnyNet
-          description: SunnyNet 网络中间件，是一个功能强大的跨平台网络分析组件，专为二次开发而设计。它提供了完整的网络流量捕获和修改功能，支持多种协议类型
-        - title: Launch
-          logo: github.png
-          url: https://github.com/1193776794/launch_
-          description: 一款开源的 Android 安全检测与设备指纹采集工具
-        - title: safetynet-fix
-          logo: github.png
-          url: https://github.com/kdrag0n/safetynet-fix
-          description: Magisk 模块用于绕过 Google 的 SafetyNet 和 Play Integrity 认证
-        - title: ZygiskNext
-          logo: github.png
-          url: https://github.com/Dr-TSNG/ZygiskNext
-          description: Zygisk 的独立实现，为 KernelSU 提供 Zygisk API 支持，并取代 Magisk 内置的 Zygisk
-        - title: ZygiskFrida
-          logo: github.png
-          url: https://github.com/lico-n/ZygiskFrida
-          description: ZygiskFrida 是一个 zygisk 模块，允许您以更隐蔽的方式将 Frida 小工具注入 Android 应用程序
-        - title: Zygisk-Il2CppDumper
-          logo: github.png
-          url: https://github.com/Perfare/Zygisk-Il2CppDumper
-          description: Zygisk 版 Il2CppDumper，在游戏运行时 dump il2cpp 数据，可以绕过保护，加密以及混淆
-        - title: cloudphone-risk-detector
-          logo: github.png
-          url: https://github.com/1494389516/cloudphone-risk-detector
-          description: iOS 设备风险检测应用，用于检测越狱状态、VPN/代理、云手机环境等风险信号
+          url: https://github.com/djskncxm/AndroidProjects
+          description: 安卓底层改机分析蓝队·半年系统学习路线
         - title: XRef Android
           logo: github.png
           url: https://xrefandroid.com/
@@ -1671,100 +2007,58 @@
           logo: github.png
           url: https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md
           description: svc 指令
-        - title: Magisk 中文文档
-          logo: Magisk.png
-          url: https://jesse205.github.io/MagiskChineseDocument/
-          description: Magisk 中文文档
-        - title: AndroidProjects
-          logo: github.png
-          url: https://github.com/djskncxm/AndroidProjects
-          description: 安卓底层改机分析蓝队·半年系统学习路线
-        - title: ApkToolPlus
-          logo: ApkToolPlus.png
-          url: https://github.com/CYRUS-STUDIO/ApkToolPlus
-          description: ApkToolPlus 是一个可视化的跨平台 apk 分析工具，apk 反编译，签名，apk 加固，dex 加密，防逆向，防止二次打包，apk 常见信息查看等
-        - title: frida_dex_dump
-          logo: github.png
-          url: https://github.com/CYRUS-STUDIO/frida_dex_dump
-          description: 基于 frida 的 dex 脱壳工具
-        - title: frida-ssl-pinning-bypass
-          logo: github.png
-          url: https://github.com/CYRUS-STUDIO/frida-ssl-pinning-bypass
-          description: Java + Native 全自动 SSL Pinning 绕过脚本
-        - title: Android Framework 知识库
-          logo: DSXBmSG9VbEROUXF5.png
-          url: https://docs.qq.com/doc/DSXBmSG9VbEROUXF5
-          description: Android Framework 知识库
-        - title: appproxy
-          logo: github.png
-          url: https://github.com/ys1231/appproxy
-          description: 基于 flutter 的 android vpn 代理工具，支持 HTTP, SOCKS5 协议
-        - title: Move Certificate
-          logo: github.png
-          url: https://github.com/ys1231/MoveCertificate
-          description: 是一个 Magisk/KernelSU/APatch 模块，用于移动用户证书到系统证书，支持 Android 7-15
-        - title: kpm-backtrace
-          logo: github.png
-          url: https://github.com/lidongyooo/kpm-backtrace
-          description: Apatch 模块，内核堆栈回溯
-        - title: vm-trace-release
-          logo: github.png
-          url: https://github.com/jiqiu2022/vm-trace-release
-          description: vm trace 的发布仓库，相关 so 调用脚本例子都会放在里面
-        - title: stalker_trace_so
-          logo: github.png
-          url: https://github.com/oacia/stalker_trace_so
-          description: 一个 IDA 插件，利用 frida-stalker 在加载 so 时打印出所有函数调用，解决 frida-trace 无法在 so 加载时 trace 的问题
-        - title: stackplz
-          logo: github.png
-          url: https://github.com/SeeFlowerX/stackplz
-          description: 基于 eBPF 的堆栈追踪工具
-        - title: frida_bypass_ssl_example
-          logo: github.png
-          url: https://github.com/lasting-yang/frida_bypass_ssl_example
-          description: frida 辅助抓包的一些技巧，不用安装证书抓 https
-        - title: SukiSU Ultra
-          logo: github.png
-          url: https://github.com/SukiSU-Ultra/SukiSU-Ultra
-          description: 一个 Android 上基于内核的 root 方案，由 tiann/KernelSU 分叉而来，添加了一些有趣的变更
-        - title: ReSukiSU
-          logo: github.png
-          url: https://github.com/ReSukiSU/ReSukiSU
-          description: 一个 SukiSU-Ultra/SukiSU-Ultra 的下游分支,添加了一些有趣的变更，且更加稳定
-        - title: IAmNotADeveloper
-          logo: github.png
-          url: https://github.com/xfqwdsj/IAmNotADeveloper
-          description: 一个用于隐藏 Android 系统开发者相关选项状态的模块
-        - title: Hide My Applist
-          logo: github.png
-          url: https://github.com/Dr-TSNG/Hide-My-Applist
-          description: 该模块提供了一些检测方式用于测试您是否成功地隐藏了某些特定的包名，如 Magisk/Edxposed Manager；同时可作为 Xposed 模块用于隐藏应用列表或特定应用，保护隐私
         - title: QtScrcpy
           logo: github.png
           url: https://github.com/barry-ran/QtScrcpy
           description: QtScrcpy 可以通过 USB / 网络连接 Android 设备，并进行显示和控制。无需 root 权限，同时支持 GNU/Linux ，Windows 和 MacOS 三大主流桌面平台
-        - title: ZAFrida UI
+        - title: Launch
           logo: github.png
-          url: https://github.com/yilongmd/zafrida-ui
-          description: ZAFrida UI 是一款集成在 PyCharm 和 JetBrains 系列 IDE 中的 Frida 图形化操作插件。它旨在解决 Frida 命令行操作繁琐、脚本管理混乱的问题，提供了一套完整的 UI 交互界面 来管理设备、进程、脚本和日志
-        - title: 010Editor
-          logo: 010editor.png
-          url: https://www.sweetscape.com/010editor/
-          description: 010Editor 是一款二进制修改工具，可以直接对 exe 文件进行修改、保存。同时对一些藏有 flag 的文件，也有奇效！当然，它的使用也极其简单，只需要将文件拖入即可。修改完成后，直接保存即可
-        - title: wei's OneDrive
+          url: https://github.com/1193776794/launch_
+          description: 一款开源的 Android 安全检测与设备指纹采集工具
+        - title: SoFixer
           logo: github.png
-          url: https://od.cloudsploit.top/
-          description: wei's OneDrive 在线云盘，提供逆向工具、书籍等资源下载
-        - title: autoDecoder
-          logo: github.png
-          url: https://github.com/f0ng/autoDecoder
-          description: Burp 插件，根据自定义来达到对数据包的处理（适用于加解密、爆破等），类似 mitmproxy，不同点在于经过了 burp 中转，在自动加解密的基础上，不影响 APP、网站加解密正常逻辑等
-        - title: 爱盘
-          logo: down.52pojie.png
-          url: https://down.52pojie.cn/Tools/Android_Tools/
-          description: 吾爱破解论坛网盘，各种破解工具包资源下载
+          url: https://github.com/lasting-yang/SoFixer
+          description: 用于修复从内存中 dump 下来的 so 文件
 
-    - name: iOS 越狱
+- taxonomy: iOS 相关
+  icon: fab fa-apple
+  list:
+    - term: 脱壳/砸壳
+    - term: Hook/调试分析
+    - term: 越狱相关
+    - term: 其他工具
+  tabs:
+    - name: 脱壳/砸壳
+      links:
+        - title: frida-ios-dump
+          logo: github.png
+          url: https://github.com/AloneMonkey/frida-ios-dump
+          description: 从越狱设备中提取已解密的 IPA 文件
+        - title: dumpdecrypted
+          logo: github.png
+          url: https://github.com/stefanesser/dumpdecrypted
+          description: ios 脱壳工具
+        - title: Clutch
+          logo: github.png
+          url: https://github.com/KJCracks/Clutch
+          description: Clutch 是一款高速 iOS 脱壳工具。Clutch 支持 iPhone、iPod Touch 和 iPad，以及所有 iOS 版本、架构类型和大多数二进制文件
+
+    - name: Hook/调试分析
+      links:
+        - title: Hopper
+          logo: hopperapp.png
+          url: https://www.hopperapp.com/
+          description: 功能强大的交互式反汇编器，支持ARM64架构，界面友好
+        - title: class-dump
+          logo: github.png
+          url: https://github.com/nygard/class-dump
+          description: 从 Mach-O 文件中提取 Objective-C 类、协议和方法的头文件
+        - title: MonkeyDev
+          logo: github.png
+          url: https://github.com/AloneMonkey/MonkeyDev
+          description: 在非越狱设备上调试和 Hook 应用的集成环境
+
+    - name: 越狱相关
       links:
         - title: unc0ver
           logo: unc0ver.jpg
@@ -1781,7 +2075,7 @@
         - title: Palera1n
           logo: palera1n.png
           url: https://palera.in/
-          description: Dopamine 是一款适用于 iPhone、iPad、MacBook 和 Apple TV 15 及更高版本的越狱工具
+          description: Palera1n 是一款适用于 iPhone、iPad、MacBook 和 Apple TV 15 及更高版本的越狱工具
         - title: KernBypass
           logo: github.png
           url: https://github.com/akusio/KernBypass-Public
@@ -1799,8 +2093,12 @@
           url: https://github.com/roothide/Dopamine2-roothide
           description: iOS 越狱隐藏
 
-    - name: iOS 其他
+    - name: 其他工具
       links:
+        - title: cloudphone-risk-detector
+          logo: github.png
+          url: https://github.com/1494389516/cloudphone-risk-detector
+          description: iOS 设备风险检测应用，用于检测越狱状态、VPN/代理、云手机环境等风险信号
         - title: senumy
           logo: senumy.png
           url: https://senumy.com/
@@ -1820,43 +2118,13 @@
         - title: 牛蛙助手
           logo: ios222.jpg
           url: https://ios222.com/
-          description: NB 全能助手（原 NB 助手）是一款专业的 ios 移动端内测的工具，支持使用免费和付款 apple id 为 IPA 文件签名，apple id 的证书管理，appstore 应用安装，macho 文件查看，全局修改 gps 定位信息，无广告，支持 iPhone17 和 iOS26 定位及 JIT 功能
+          description: 牛蛙助手是一款专业的 ios 移动端必备的工具，牛蛙助手免费为苹果用户提供：ios 移动端免越狱使用 apple id 签名，ios 移动端免越狱全局修改 gps 定位信息
+        - title: iFunbox
+          logo: iFunbox.jpg
+          url: https://www.i-funbox.com/
+          description: 适用于 iPhone 和其他苹果产品的通用文件管理软件，例如可直接管理 iOS 设备中的照片、视频、APP、音乐、铃声、语音备忘录文件，此外，还可让越狱用户通过该工具连接设备，找到越狱文件夹（系统原始文件）进行管理
 
-    - name: trace 工具
-      links:
-        - title: frida-trace
-          logo: frida.png
-          url: https://frida.re/docs/frida-trace/
-          description: frida-trace 是一个用于动态跟踪函数调用的工具
-        - title: stackplz
-          logo: github.png
-          url: https://github.com/SeeFlowerX/stackplz
-          description: stackplz 是一款基于 eBPF 的堆栈追踪工具，目前仅适用于 Android 平台
-        - title: sktrace
-          logo: github.png
-          url: https://github.com/bmax121/sktrace
-          description: Sktrace 是一个基于 Frida Stalker 的开源动态追踪工具，主要用于 Android 应用逆向分析和 Native 层函数调试。它能够跟踪指定函数的执行流程、寄存器变化及内存访问，生成类似 IDA Pro 的指令级 trace 输出，且无需修改被追踪程序的原始代码
-        - title: frida-qbdi-tracer
-          logo: github.png
-          url: https://github.com/lasting-yang/frida-qbdi-tracer
-          description: 基于 frida-qbdi 的 trace 工具,目前仅支持 native 层 tracer
-        - title: attd-tracer-qbdi
-          logo: github.png
-          url: https://github.com/FANGG3/attd-tracer-qbdi
-          description: attd-tracer-qbdi 是 ATTD-GUI 的 Trace 采集器，基于 QBDI 和 Frida 的 Trace
-        - title: Trace UI
-          logo: github.png
-          url: https://github.com/imj01y/trace-ui
-          description: 高性能 ARM64 执行 trace 可视化分析工具。基于 Tauri 2 + React 构建的桌面应用，专为安全研究员设计，支持千万行或亿行级大规模 trace 的流畅浏览、函数调用树折叠、反向污点追踪、内存/寄存器实时查看等功能
-
-    - name: so 修复
-      links:
-        - title: SoFixer
-          logo: github.png
-          url: https://github.com/lasting-yang/SoFixer
-          description: 用于修复从内存中 dump 下来的 so 文件
-
-- taxonomy: XCX 相关
+- taxonomy: 小程序相关
   icon: fab fa-weixin
   list:
     - term: 小程序相关
@@ -1868,7 +2136,11 @@
           logo: weixin.jpg
           url: https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html
           description: 微信官方开发者工具
-        - title: WeChatOpenDevTools
+        - title: First
+          logo: github.png
+          url: https://github.com/Spade-sec/First
+          description: WMPFDebugger 二开微信小程序多功能集成工具，基于 Frida + CDP 代理，支持 GUI 与 CLI 双模式
+        - title: WeChatOpenDevTools-Python
           logo: github.png
           url: https://github.com/JaveleyQAQ/WeChatOpenDevTools-Python
           description: WeChatOpenDevTool 微信小程序强制开启开发者工具
@@ -1892,6 +2164,14 @@
           logo: github.png
           url: https://github.com/zgqwork/wxapkg-unpacker
           description: 自动化反编译微信小程序/小游戏，基于 wxappUnpacker 二次开发
+        - title: wxapkg
+          logo: github.png
+          url: https://github.com/wux1an/wxapkg
+          description: 微信小程序反编译工具，.wxapkg 文件扫描 + 解密 + 解包工具
+        - title: KillWxapkg
+          logo: github.png
+          url: https://github.com/Ackites/KillWxapkg
+          description: 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持 Hook，小程序修改
         - title: CrackMinApp
           logo: github.png
           url: https://github.com/Cherrison/CrackMinApp
@@ -1904,14 +2184,17 @@
           logo: github.png
           url: https://github.com/biggerstar/wedecode
           description: 全自动化，微信小程序 wxapkg 源代码还原工具, 线上代码安全审计，支持 Windows, Macos, Linux
-        - title: wechat-dump-rs
-          logo: github.png
-          url: https://github.com/0xlane/wechat-dump-rs
-          description: 该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密
+
+    - name: 微信相关
+      links:
         - title: wxbot - 微信聊天机器人
           logo: github.png
           url: https://github.com/jwping/wxbot
           description: PC 微信 Hook 模块、Hook WeChat / 微信逆向、微信机器人、WeChatRobot
+        - title: wechat-dump-rs
+          logo: github.png
+          url: https://github.com/0xlane/wechat-dump-rs
+          description: 该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密
         - title: WeChatDB
           logo: github.png
           url: https://github.com/lich0821/WeChatDB
@@ -1920,9 +2203,6 @@
           logo: github.png
           url: https://github.com/ttttupup/wxhelper
           description: Hook WeChat / 微信逆向
-
-    - name: 微信相关
-      links:
         - title: wechat-dump
           logo: github.png
           url: https://github.com/ppwwyyxx/wechat-dump
@@ -1959,12 +2239,20 @@
           logo: github.png
           url: https://github.com/EEEEhex/RevokeHook
           description: 微信 4.0 防撤回 hook + 字符串解密脚本
+        - title: wechat-decrypt
+          logo: github.png
+          url: https://github.com/ylytdeng/wechat-decrypt
+          description: 微信 4.0 (Windows、MacOS、Linux) 本地数据库解密工具。从运行中的微信进程内存提取加密密钥，解密所有 SQLCipher 4 加密数据库，并提供实时消息监听
+        - title: WeChatDB
+          logo: github.png
+          url: https://github.com/xy424/WeChatDB
+          description: 微信 3.x 解密微信数据库
 
 - taxonomy: 人机验证
   icon: fas fa-user-check
   list:
     - term: 识别打码
-    - term: 开源识别
+    - term: 开源打码
     - term: 轨迹相关
     - term: 国内防护
     - term: 国际防护
@@ -2024,6 +2312,10 @@
           logo: bestcaptchasolver.png
           url: https://bestcaptchasolver.com/ref/676921c6e74e18666d5eed2c
           description: 支持 reCAPTCHA、Arkose Labs FunCaptcha、Cloudflare Turnstile 等
+        - title: MeshPrivacy
+          logo: meshprivacy.png
+          url: https://www.meshprivacy.com/register?ref=SPIDERBOX
+          description: 支持 Akamai、DataDome、Incapsula（Imperva、reese84）、Amazon（AWS）WAF、hCaptcha、Cloudflare Challenge、Cloudflare Turnstile、Kasada、PerimeterX（Human）、reCAPTCHA、FunCaptcha 等
 
         # 5% ===============================
         - title: Anti Captcha
@@ -2110,11 +2402,22 @@
           logo: hypersolutions.png
           url: https://hypersolutions.co/
           description: 支持 Akamai、Incapsula（Imperva、reese84）、DataDome、Kasada 等
-        # 待定
-        - title: MeshPrivacy
-          logo: meshprivacy.png
-          url: https://www.meshprivacy.com/
-          description: 支持 Akamai、DataDome、Incapsula（Imperva、reese84）、Amazon（AWS）WAF、hCaptcha、Cloudflare Challenge、Cloudflare Turnstile、Kasada、PerimeterX（Human）、reCAPTCHA、FunCaptcha 等
+        - title: Salamoonder
+          logo: salamoonder.png
+          url: https://salamoonder.com/
+          description: 支持 Akamai、Incapsula（Imperva、reese84）、DataDome、Kasada 等
+        - title: NSLsolver
+          logo: nslsolver.png
+          url: https://nslsolver.com/
+          description: 支持 Cloudflare Turnstile、Cloudflare Challenge、Kasada 等
+        - title: MultiBot
+          logo: multibot.png
+          url: https://multibot.cloud/
+          description: 支持 reCAPTCHA、hCaptcha、Arkose Labs FunCaptcha、Cloudflare Turnstile、Cloudflare Challenge、CaptchaFox、Geetest（极验）、Amazon（AWS） WAF、Yidun (易盾)、Tencent (腾讯) 等
+        - title: AnySolver
+          logo: anysolver.png
+          url: https://anysolver.com/
+          description: AnySolver 聚合了多家 solver 供应商，只需要一个 API，一个 Key，智能路由到所有供应商，优化成本，零延迟
 
         # 非专业性 ==========================
         # 5%~10% ===========================
@@ -2166,7 +2469,7 @@
 #          url: https://www.ttocr.com/
 #          description: 专业、开放、易用的套套图像识别平台
 
-    - name: 开源识别
+    - name: 开源打码
       links:
         - title: Awesome Captcha
           logo: github.png
@@ -2248,6 +2551,42 @@
           logo: github.png
           url: https://github.com/FlareSolverr/FlareSolverr
           description: FlareSolverr 启动一个代理服务器，并在空闲状态下使用少量资源等待用户请求。当有请求到达时，它使用 Selenium 和 undetected-chromedriver 创建一个网络浏览器（Chrome）。它用用户参数打开 URL，并等待 Cloudflare 挑战解决（或超时）。然后将 HTML 代码和 cookies 发送回用户，这些 cookies 可以用其他 HTTP 客户端绕过 Cloudflare
+        - title: Friendly Captcha v2 Solver
+          logo: github.png
+          url: https://github.com/xKiian/friendlycaptcha
+          description: friendly-captcha solver. Implemented in 100% Golang
+        - title: AWS WAF Solver
+          logo: github.png
+          url: https://github.com/xKiian/awswaf
+          description: AWS WAF Solver, full reverse implemented in 100% Python & Golang
+        - title: Cloudflare jsd Solver
+          logo: github.png
+          url: https://github.com/xKiian/cloudflare-jsd
+          description: Bypass Cloudflare's jsd challenge using 100% Golang
+        - title: Vercel BotID Solver
+          logo: github.png
+          url: https://github.com/xKiian/vercel-botid
+          description: Vercel BotID Solver "X-Is-Human" using 100% Golang
+        - title: GeeTest v4 solver
+          logo: github.png
+          url: https://github.com/xKiian/GeekedTest
+          description: Geetest v4 slide, icon, gobang & ai solver - 100% python implementation - no browser needed
+        - title: Binance Captcha Solver
+          logo: github.png
+          url: https://github.com/xKiian/binance-captcha-solver
+          description: Binance Captcha solver fully implemented in 100% python. Does not rely on any third party service
+        - title: WIP obfuscator.io deobfuscator
+          logo: github.png
+          url: https://github.com/xKiian/obfio-deobfuscator
+          description: obfuscator.io deobfuscator using go-fAST
+        - title: Prosopo Solver
+          logo: github.png
+          url: https://github.com/xKiian/Prosopo
+          description: Prosopo.io solver
+        - title: Hyperion Deobfuscator
+          logo: github.png
+          url: https://github.com/xKiian/Hyperion-deobfuscator
+          description: Fully deobfuscate hyperion by Billythegoat356 lmao
 
     - name: 轨迹相关
       links:
@@ -2374,6 +2713,10 @@
           logo: ipdatacloud.png
           url: https://www.ipdatacloud.com/?invitation_code=uFlqc3ayYTk4t6hxHPJto6b0hKbhiJlC
           description: 提供风险防控解决方案，针对各种场景下的代理、爬虫、真人率、秒拨等行为，利用领先的大数据算法，精准识别风险行为，提升平台安全风控能力，减少业务损失
+        - title: 百度智能风控 IP 风险画像
+          logo: cloud.baidu.png
+          url: https://cloud.baidu.com/product-s/afd_s/ip-threat.html
+          description: 百度智能风控 IP 风险画像，助力您构建企业级的 IP 防线
         - title: 威胁猎人
           logo: threathunter.png
           url: https://threathunter.cn/
@@ -2386,7 +2729,6 @@
           logo: threatbook.png
           url: https://threatbook.cn/
           description: 微步在线，网络威胁发现和响应专家，开创并引领中国威胁情报行业的发展，提供流量检测、终端安全、云上安全、安全DNS、网关、蜜罐、沙箱、威胁分析和情报共享、安全服务等全方位威胁检测产品及服务
-
 
     - name: 国际防护
       links:
@@ -2490,6 +2832,18 @@
           logo: humera.jpg
           url: https://humera.io/
           description: Human Verification without the Friction. Built for fintechs and high-transactional platforms that need invisible, enterprise-grade bot detection.
+        - title: hoax.tech
+          logo: hoax.jpg
+          url: https://hoax.tech/
+          description: hoax.tech 是一款智能隐匿服务，结合了 JavaScript 指纹识别和机器学习技术。该服务被广泛应用于联盟营销等领域，实时过滤和处理流量，依据用户定义的规则进行操作。该服务能够通过位置、流量来源、设备类型、设备语言、操作系统类型等多个参数，瞬时分析流量并进行筛选。借助我们专家开发的独特算法，系统可以检测出不受欢迎的访问者，并将他们留在适合扫描的安全页面（白页），避免访问目标页面。根据设定，不受欢迎的访问者可能包括：机器人、广告网络审核员、来自杀毒服务和搜索引擎的网络爬虫、特定国家或地区的居民、特定时区的用户、特定 IP 子网的访问者、以及使用特定设备进入网站的用户等等。同时，目标受众则被重定向到包含广告网络禁止内容的页面（黑页）。
+        - title: Cloakerly
+          logo: cloakerly.jpg
+          url: https://cloakerly.com/
+          description: Cloakerly 是一项专为防止 IP 欺诈和隐藏流量而设计的优质服务。它专为那些希望通过保护链接、减少欺诈性流量来提升潜在客户质量和投资回报率的在线营销人员而设计。我们每天追踪数百万次访问记录。凭借先进的 IP 欺诈预防平台和隐藏技术，我们能够实时拦截欺诈行为和不良访问，从而保护客户的网站，使其免受不必要的流量干扰。
+        - title: Cloaking
+          logo: cloaking.jpg
+          url: https://cloaking.house/
+          description: Cloaking 是一种流量过滤技术，可向不同用户展示不同页面，目标流量被引导至 Offer Page，而审核员、机器人及不良访问者则被引导至 White Page。保护您的网站免受机器人、审核员、间谍服务、竞争对手以及任何不良流量的影响
 
     - name: 开源防护
       links:
@@ -2567,7 +2921,7 @@
   list:
     - term: 国内代理商
     - term: 全球代理商
-    - term: 数据代理商
+    - term: 数据/工具供应商
     - term: 代理检测
   tabs:
     - name: 国内代理商
@@ -2721,7 +3075,8 @@
         # 50% ==============================
         - title: Thordata
           logo: thordata.jpg
-          url: https://www.thordata.com/?ls=dhz&lk=spiderbox
+          # url: https://www.thordata.com/?ls=dhz&lk=spiderbox
+          url: https://dashboard.thordata.com/zh/register?invitation_code=M1TQMPB5
           description: Scale Your Access with 60 Million IPs at Affordable Prices. Reliable, high-quality proxy solutions tailored for businesses and distributors.
 
         # 30% ==============================
@@ -2743,6 +3098,10 @@
           logo: kookeey.png
           url: https://www.kookeey.com/?aff=85299914
           description: 主营静态 ISP 代理、动态住宅代理、静态数据中心代理 3 大产品
+        - title: NodeMaven
+          logo: nodemaven.png
+          url: https://nodemaven.com/
+          description: 首个提供性能保障的代理服务，质量最高、IP 最难被检测到的代理，专为帮助您的业务取得成功而设计
         - title: NovProxy
           logo: novproxy.png
           # url: https://novproxy.com/?kwd=ty-Spider
@@ -2838,6 +3197,20 @@
           logo: colaproxy.png
           url: https://start.colaproxy.com?sharecode=82654651
           description: ColaProxy 是一家综合型代理服务提供商，专注于为企业和开发者提供稳定、安全、可扩展的代理网络解决方案。我们覆盖多地区、多类型 IP 资源，适用于数据采集、市场研究、广告验证、账号管理及跨区域业务访问等多种场景。ColaProxy 以高可用性、灵活配置和专业技术支持为核心，帮助客户高效完成全球网络访问与数据需求
+        - title: BirdProxies
+          logo: birdproxies.png
+#          url: https://birdproxies.com/@trhxcc
+          url: https://birdproxies.com/t/spiderbox
+          description: Fast residential and ISP proxies in 195+ countries, fair pricing and real support.
+        - title: TalorData
+          logo: talordata.jpg
+          url: https://talordata.com/?campaignid=2Tn19YXBORunF51S&utm_source=community&utm_term=talordata # todo
+          description: Talordata 是一家代理IP提供商，提供輪轉住宅代理IP、靜態ISP、優質原生IP等，覆蓋195+國家，訪問成功率超99%！輪轉住宅代理IP最低$0.65/GB，靜態ISP最低$3/ip，讓你的網絡更安全！
+        - title: LokiProxy
+          logo: lokiproxy.jpg
+          # url: https://www.lokiproxy.com/signup?invite=79E549  # todo
+          url: https://lokiproxy.com/?utm_t=1&utm_i=58
+          description: 支持免费测试，原生静态 IP 低至 $3.99/IP，动态住宅代理低至 $0.48/GB，独享 IP 资源每日更新，支持无限并发会话，稳定高效
 
         # 8% ==============================
         - title: 荔枝 IP
@@ -2849,6 +3222,12 @@
           logo: onesproxy.png
           url: https://app.onesproxy.com/api/channel_agent/track?user_source=1&invite_code=BVU825679
           description: OnesProxy 专注于提供优质的海外代理 IP 产品及服务，精准覆盖 190 个国家，提供静态原生住宅及动态住宅 IP，灵活应对多种业务场景。亿级住宅代理池，优质家宽IP，适配爬虫、批量注册、广告联盟等多种业务场景，极具竞争力的市场价格；提供多个国家的原生住宅 IP，源自真实家庭宽带，能完美适配电商、社交平台校验，降低账号异常风险；高纯净 IP，杜绝滥用关联问题；满足追求性价比，提供稳定机房 IP，低至 $0.38 起，节省运营成本
+
+        # 首笔12%，后续6% ==============================
+        - title: FluxISP
+          logo: fluxisp.png
+          url: https://api.fluxisp.com/share/7lsqbkrid
+          description: 为大规模数据采集业务提供可靠选择：覆盖全球地区，精准数据获取，安全高效增长，全球纯净住宅 IP 稳定可靠
 
         # 5% ==============================
         - title: Cliproxy
@@ -2910,7 +3289,7 @@
           url: https://proxied.com/?utm_source=spiderbox&utm_medium=partner
           description: 5g 移动代理, Dedicated Mobile Proxies.
         - title: Proxy Seller
-          logo: proxy-seller.png
+#          logo: proxy-seller.png
           url: https://proxy-seller.com/ # 需要扫描身份证完成 KYC 才能推广
           description: Buy private Socks5 & HTTPs proxies. Trusted for web scraping, ad verification, price monitoring, market research, and more
 #        - title: IPIDEA
@@ -2993,144 +3372,147 @@
 #          logo: cherryproxy.png
 #          url: https://www.cherryproxy.com/?utm-source=zbw&utm-keyword=?spiderbox
 #          description: Cherry Proxy 提供高品质的住宅代理服务器、动态/静态 IP 地址，既适用于商业用途也适合家庭使用，并支持多种业务场景。它覆盖全球 195 多个国家和地区，确保极高的匿名性和安全性。量大价格越便宜
-    - name: 数据代理商
+
+    - name: 数据/工具供应商
       links:
-        # ad ==============================
         - title: Tikhub
           logo: tikhub.png
           url: https://tikhub.io/
           description: 16 个社交媒体 API + AI 模型 官方价格低至 3 折，统一 API 基础设施，支持社交媒体数据提取与 AI 模型访问 — OpenAI、Claude、Gemini、DeepSeek 等
+        - title: Dataify
+          logo: dataify.png
+          url: https://www.dataify.com/
+          description: Dataify - AI 数据基础设施与生态服务平台，高质量数据标注与采集服务，提供 AI 数据标注、多模态数据采集、向量模型、模型微调等全链路数据服务。支持计算机视觉、NLP、音频数据标注，助力企业构建高质量训练数据，加速 AI 与机器学习模型开发
+        - title: 腾道
+          logo: tendata.png
+          url: https://www.tendata.cn/
+          description: 腾道数据实时提供全球 100+ 国外贸海关数据、研发国际外贸软件，协助外贸找客户，与全球商业数据库合作，全面掌握 218 个国家海关数据供应链采购商信息、海关进出口数据、市场分析、外贸找客户等。为您准确找国外客户的国际进出口数据平台，腾道致力于为外贸企业提供海外营销的整体解决方案
+        - title: CEOInterviewsAI
+          logo: ceointerviews.png
+          url: https://ceointerviews.ai/
+          description: 每位 CEO 访谈真实数据
+        - title: BrightData Datasets
+          logo: brightdata.png
+          url: https://get.brightdata.com/itbobdatasets
+          description: Get fresh datasets from popular websites. No more maintaining scrapers or bypassing blocks – just structured and validated data tailored to your business needs.
+        - title: Thordata
+          logo: thordata.jpg
+          url: https://dashboard.thordata.com/zh/register?invitation_code=M1TQMPB5
+          description: 从热门网站实时获取最新数据集，告别维护爬虫与绕过封锁——通过现成或定制数据集，获取高质量、已验证的结构化数据
+        - title: Scrapeless
+          logo: scrapeless.jpg
+          url: https://www.scrapeless.com/
+          description: 终极抓取工具伴侣：一套可扩展的工具集，包括抓取浏览器，抓取 API，通用抓取 API 和反机器人解决方案——设计为可以协同工作或独立运行
+        - title: MrScraper
+          logo: mrscraper.jpg
+          url: https://mrscraper.com/
+          description: Web scraping API with built-in proxies, headless browsers, and AI. Extract data from any website at scale—fast, reliable, and hassle-free.
+        - title: Scrapfly
+          logo: scrapfly.jpg
+          url: https://scrapfly.io/
+          description: Scrapfly Data Solutions - retrieve web data using web scraping and screenshot apis and parse it all using extraction API powered by LLMs and AI auto extraction.
+        - title: GetDataForMe
+          logo: getdataforme.jpg
+          url: https://getdataforme.com/
+          description: GetDataForme is a web scraping or data extraction company with the expertise and experience in data extraction and data engineering pipeline to collect large sets of data.
+        - title: Scrappey
+          logo: scrappey.jpg
+          url: https://scrappey.com/
+          description: Enhance Your Web Scraping with Scrappey.com. Modern Web Access Tech, Fingerprints, Proxies Included for 0.001$ per scrape
+        - title: Scrape.do
+          logo: scrape.do.jpg
+          url: https://scrape.do/
+          description: Scrape.do is the ultimate toolkit for collecting public data at scale. Unmatched speed, unbeatable prices, unblocked access
+        - title: Jina AI
+          logo: jina.ai.jpg
+          url: https://jina.ai/
+          description: Best-in-class embeddings, rerankers, web reader, deepsearch, small language models. Search AI for multilingual and multimodal data
+        - title: anakin
+          logo: anakin.jpg
+          url: https://anakin.io/
+          description: Convert any website into Markdown or JSON via API. Extract structured data from any website with a single API call. We handle JavaScript, anti-bot systems, and proxy rotation - so you don't have to.
+        - title: CafeScraper
+          logo: cafescraper.jpg
+          url: https://cafescraper.com/
+          description: 从网页到数据 — 即刻获取，让每个人，都能轻松爬取数据，200+ 模板，覆盖主流平台，点击即可获取数据
+        - title: spider.cloud
+          logo: spider.cloud.jpg
+          url: https://spider.cloud/
+          description: Clean Web Data for AI Agents and LLMs, The fast, cost-effective web scraping API that extracts structured data from any URL.
+        - title: FireCrawl
+          url: https://www.firecrawl.dev/
+          logo: firecrawl.png
+          description: The web crawling, scraping, and search API for AI. Built for scale. Firecrawl delivers the entire internet to AI agents and builders. Clean, structured, and ready to reason with.
+        - title: parsera
+          url: https://parsera.org/
+          logo: parsera.png
+          description: Prompt to Extract Any Website Data, 通过提示词提取任何网站数据
+        - title: CoreClaw
+          url: https://coreclaw.com/
+          logo: coreclaw.png
+          description: CoreClaw helps teams extract web data from Amazon, TikTok, Google Maps and more with 100+ ready-made tools. No coding required, pay only for successful results.
 
     - name: 代理检测
       links:
-        # ad ==============================
+        - title: 埃文科技
+          logo: ipplus360.jpg
+          url: https://www.ipplus360.com/
+          description: AI驱动的数据产品服务商，产品体系包括 IP 风险画像、IP 真假人、业务风控反欺诈等
+        - title: IP 数据云
+          logo: ipdatacloud.png
+          url: https://www.ipdatacloud.com/?invitation_code=uFlqc3ayYTk4t6hxHPJto6b0hKbhiJlC
+          description: 提供风险防控解决方案，针对各种场景下的代理、爬虫、真人率、秒拨等行为，利用领先的大数据算法，精准识别风险行为，提升平台安全风控能力，减少业务损失
+        - title: 百度智能风控 IP 风险画像
+          logo: cloud.baidu.png
+          url: https://cloud.baidu.com/product-s/afd_s/ip-threat.html
+          description: 百度智能风控 IP 风险画像，助力您构建企业级的 IP 防线
         - title: ping0
           logo: ping0.png
           url: https://ping0.cc/
           description: 高精度 IP 地址归属地查询，IP 风控值查询，原生 IP 查询，IP 类型查询，家庭宽带 IP 查询，全球小鸡监控平台
-        - title: 百度智能风控 IP 风险画像
-          logo: cloud.baidu.png
-          url: https://cloud.baidu.com/product-s/afd_s/ip-threat.html
-          description: 高精度 IP 地址归属地查询，IP 风控值查询，原生 IP 查询，IP 类型查询，家庭宽带 IP 查询，全球小鸡监控平台
+        - title: IPCheck.ing
+          logo: ipcheck.jpg
+          url: https://ipcheck.ing/
+          description: 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等
+        - title: cip.cc
+          logo: cip.png
+          url: https://www.cip.cc/
+          description: 查IP(cip)网站, 提供免费的IP查询服务,命令行查询IP, 并且支持PC网站, 手机网站, 命令行(Windows/UNIX/Linux)三大平台, 是个多平台的IP查询网站
+        - title: icanhazip
+          logo: icanhazip.png
+          url: https://icanhazip.com/
+          description: 快速返回当前 IP
+        - title: IP Checks
+          logo: icanhazip.png
+          url: https://api.ipchecks.top/
+          description: 默认快速查看当前 IP 详细信息，查看指定 IP 信息示例：https://api.ipchecks.top/?ip=0.0.0.0
+        - title: Iping
+          logo: iping.png
+          url: https://www.iping.cc/
+          description: 全球范围 IP 地址免费查询工具，查看大洲、国家、地区、经纬度、ISP 和域名等详细信息
+        - title: ipapi
+          logo: ipapi.png
+          url: https://ipapi.is/
+          description: ipapi.is offers precise IP data via a user-friendly API, encompassing geolocation, ASN data, hosting detection, VPN detection, and proxy detection.
+        - title: IP Address API
+          logo: ip-api.png
+          url: https://api.incolumitas.com/
+          description: IP 地址查询 API
 
 - taxonomy: 交流学习
   icon: fas fa-handshake
   list:
-    - term: 优质项目
     - term: 公众号博主
-    - term: 视频博主
+    - term: 吾爱破解博主
+    - term: CSDN 博主
+    - term: B 站博主
+    - term: 自建博客
     - term: 交流论坛
     - term: 练习平台
     - term: 知识付费
     - term: 正版书籍
+    - term: 优质项目
   tabs:
-    - name: 优质项目
-      links:
-        - title: sperm
-          logo: github.png
-          url: https://github.com/darbra/sperm
-          description: 精彩逆向文章汇总，值得一看
-        - title: awesome-protobuf-reverse-engineering
-          logo: github.png
-          url: https://github.com/JSREI/awesome-protobuf-reverse-engineering
-          description: protobuf 逆向相关的资料收集
-        - title: rs-reverse
-          logo: github.png
-          url: https://github.com/pysunday/rs-reverse
-          description: 瑞数 vmp 纯算法逆向，补环境框架 sdenv 的灵感来源
-        - title: js_reverse
-          logo: github.png
-          url: https://github.com/luzhisheng/js_reverse
-          description: 各种 JS 逆向案例
-        - title: crawlProject
-          logo: github.png
-          url: https://github.com/xishandong/crawlProject
-          description: python 爬虫项目合集，从基础到 js 逆向，包含基础篇、自动化篇、进阶篇以及验证码篇。案例涵盖各大网站(xhs douyin weibo ins boss job，jd...)，你将会学到有关爬虫以及反爬虫、自动化和验证码的各方面知识
-#        - title: gospider
-#          logo: github.png
-#          url: https://github.com/baixudong007/gospider
-#          description: Gospider 是一个功能强大的 Golang 网络爬虫，包含从 Python 过渡到 Golang 所需的所有库。它为 Python 网络爬虫提供了到 Golang 的快速无缝过渡
-        - title: jsvmp-repository
-          logo: github.png
-          url: https://github.com/xiaoweigege/jsvmp-repository
-          description: 国内部分网站的 jsvmp 算法
-        - title: NewsCrawl
-          logo: github.png
-          url: https://github.com/casual-silva/NewsCrawl
-          description: 开源企业级舆情新闻爬虫项目：支持任意数量爬虫一键运行、爬虫定时任务、爬虫批量删除；爬虫一键部署；爬虫监控可视化; 配置集群爬虫分配策略
-        - title: Hydra
-          logo: Hydra.jpg
-          url: https://github.com/HelloGitHub-Team/Hydra
-          description: 简单但绝不简陋的 Python3 爬虫项目，从本项目中你可以看到：熟悉的 Python 基础语法、如何编写爬虫、操作数据库、常用第三库、分析网页、解析接口、编写单元测试、mock 请求、异常监控和管理、保证代码质量的自动化、GitHub Action 等实战应用
-        - title: JSpider
-          logo: github.png
-          url: https://github.com/bytebuff/JSpider
-          description: JSpider 会每周更新至少一个网站的 JS 解密方式
-        - title: PythonSpider
-          logo: github.png
-          url: https://github.com/DingZaiHub/PythonSpider
-          description: JS 逆向系列教程，模拟登录，AES、RSA、DES 加密等
-        - title: webcrawler
-          logo: github.png
-          url: https://github.com/chencchen/webcrawler
-          description: 硬核 JS 逆向内容
-        - title: awesome-reverse
-          logo: github.png
-          url: https://github.com/AlienwareHe/awesome-reverse
-          description: awesome-逆向基础入门，包括 JS、安卓 APP/Native
-        - title: Crack-JS-Spider
-          logo: github.png
-          url: https://github.com/LoseNine/Crack-JS-Spider
-          description: JS 破解逆向，破解 JS 反爬虫加密参数
-        - title: InfoSpider
-          logo: InfoSpider.png
-          url: https://github.com/kangvcar/InfoSpider
-          description: INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明
-        - title: learn_python3_spider
-          logo: github.png
-          url: https://github.com/wistbean/learn_python3_spider
-          description: python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等
-        - title: D2L 动手学深度学习
-          logo: github.png
-          url: https://github.com/d2l-ai/d2l-zh
-          description: 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学
-        - title: webBenchmark
-          logo: github.png
-          url: https://github.com/maintell/webBenchmark
-          description: 用于测试网页服务器性能的工具
-        - title: risk-management-note
-          logo: github.png
-          url: https://github.com/WalterInSH/risk-management-note
-          description: 风险控制笔记
-        - title: JavaScript-diabolic-tricks-and-wicked-craft
-          logo: github.png
-          url: https://github.com/w2sft/JavaScript-diabolic-tricks-and-wicked-craft
-          description: 一本新奇、有趣、有技术含量的 JavaScript 编程技术集锦书籍
-        - title: web-tracking-notes
-          logo: github.png
-          url: https://github.com/s3131212/web-tracking-notes
-          description: 一些 Web Tracking 相关的笔记
-        - title: nebula
-          logo: github.png
-          url: https://github.com/threathunterX/nebula
-          description: 星云业务风控系统，主工程
-        - title: high-quality-biz
-          logo: github.png
-          url: https://github.com/kanadeblisst00/high-quality-biz
-          description: 整理的一百多个安卓和 js 逆向相关的公众号
-        - title: CrawlerTutorial
-          logo: github.png
-          url: https://github.com/NanmiCoder/CrawlerTutorial
-          description: 爬虫入门、爬虫进阶、高级爬虫
-        - title: MediaCrawler
-          logo: github.png
-          url: https://github.com/NanmiCoder/MediaCrawler
-          description: 多平台自媒体数据采集工具，支持小红书、抖音、快手、B站、微博、贴吧、知乎等主流平台的公开信息抓取。基于 playwright 浏览器自动化框架实现
-        - title: Crawler Illegal Cases In China
-          logo: github.png
-          url: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China
-          description: 所有中国大陆爬虫开发者涉诉与违规相关的新闻、资料与法律法规。致力于帮助在中国大陆工作的爬虫行业从业者了解我国相关法律，避免触碰数据合规红线
-
     - name: 公众号博主
       links:
         # 大哥先顶上
@@ -3161,19 +3543,11 @@
           logo: gh_fb242c15300f.jpg
           qrcode: images/qrcode/gh_fb242c15300f.jpg
           description: 公众号：吾爱破解论坛
-        - title: 崔庆才
-          logo: cuiqingcai.jpg
-          url: https://cuiqingcai.com/
-          description: 崔庆才，微软（中国）软件工程师，北京航空航天大学硕士，主要研究网络爬虫、Web 开发、机器学习等方向，出版书籍《Python3 网络爬虫开发实战》、《Python3 网络爬虫开发实战（第2版）》，不少人的启蒙书籍，公众号：进击的Coder。
         - title: 编角料
 #          logo: geekbyter.jpg
           logo: gh_a377081d4221.jpg
           qrcode: images/qrcode/gh_a377081d4221.jpg
           description: 公众号：编角料
-        - title: 漁滒
-          logo: 557195.jpg
-          url: https://www.52pojie.cn/home.php?mod=space&uid=557195&do=thread&view=me&from=space
-          description: 漁滒吾爱破解主页
         - title: 未闻Code
           logo: gh_2873653fd7af.jpg
           qrcode: images/qrcode/gh_2873653fd7af.jpg
@@ -3183,10 +3557,6 @@
           logo: gh_84c656527267.jpg
           qrcode: images/qrcode/gh_84c656527267.jpg
           description: 十一姐公众号：逆向OneByOne
-        - title: 十一姐
-          logo: weixin_43411585.jpg
-          url: https://blog.csdn.net/weixin_43411585
-          description: 十一姐 CSDN 主页
         - title: 菜鸟学Python编程
           logo: gh_385efb80e1a2.jpg
           qrcode: images/qrcode/gh_385efb80e1a2.jpg
@@ -3196,10 +3566,6 @@
           logo: gh_c6b6687c06b6.jpg
           qrcode: images/qrcode/gh_c6b6687c06b6.jpg
           description: 公众号：Coder小Q
-        - title: 吴秋霖
-          logo: qiulin_wu.jpg
-          url: https://blog.csdn.net/qiulin_wu
-          description: 吴秋霖的 CSDN 主页
         - title: 虫技
 #          logo: bob.jpg
           logo: gh_3d394cc6d03a.jpg
@@ -3239,10 +3605,6 @@
           logo: gh_1f8dda29abf5.jpg
           qrcode: images/qrcode/gh_1f8dda29abf5.jpg
           description: 公众号：陈不不and挽风的逆向
-        - title: 挽风逆向
-          logo: weixin_44862184.jpg
-          url: https://blog.csdn.net/weixin_44862184
-          description: 挽风逆向 CSDN 主页
         - title: 爬虫逆向技术分享
           logo: gh_2ebb4542401d.jpg
           qrcode: images/qrcode/gh_2ebb4542401d.jpg
@@ -3269,14 +3631,6 @@
           logo: gh_b237fabfe467.jpg
           qrcode: images/qrcode/gh_b237fabfe467.jpg
           description: 李玺公众号：Pythonlx
-        - title: 爬虫逆向知识站
-          logo: weixin_43582101.jpg
-          url: http://www.lxspider.com/
-          description: 考古学家lx(李玺) 的个人网站
-        - title: 考古学家lx(李玺)
-          logo: weixin_43582101.jpg
-          url: https://blog.csdn.net/weixin_43582101
-          description: 考古学家lx(李玺) CSDN 主页
         - title: 菜鸡弟弟的逆向之路
           logo: gh_f89880d79473.jpg
           qrcode: images/qrcode/gh_f89880d79473.jpg
@@ -3326,18 +3680,6 @@
           logo: gh_95c3d3d2063e.jpg
           qrcode: images/qrcode/gh_95c3d3d2063e.jpg
           description: 公众号：python小丑鱼
-        - title: Codeooo
-          logo: weixin_38927522.jpg
-          url: https://blog.csdn.net/weixin_38927522
-          description: Codeooo CSDN 主页
-        - title: 活捉一只小菜鸟~
-          logo: big_god_.jpg
-          url: https://blog.csdn.net/big_god_
-          description: 活捉一只小菜鸟~ CSDN 主页
-        - title: 阿J
-          logo: qq_26079939.jpg
-          url: https://blog.csdn.net/qq_26079939
-          description: 阿J CSDN 主页
         - title: 逆向学习之旅
           logo: gh_fdc416568214.jpg
           qrcode: images/qrcode/gh_fdc416568214.jpg
@@ -3346,10 +3688,6 @@
           logo: gh_6e5158a8d7b9.jpg
           qrcode: images/qrcode/gh_6e5158a8d7b9.jpg
           description: 公众号：SpiderLittleWhite
-        - title: HuaYunBin
-          logo: hyb.jpg
-          url: https://hyb.life/
-          description: hyb 的个人网站
         - title: NightTeam
 #          logo: locozhou.jpg
           logo: gh_b46c4f4dc23b.jpg
@@ -3556,10 +3894,6 @@
           logo: gh_ab8489df7681.jpg
           qrcode: images/qrcode/gh_ab8489df7681.jpg
           description: 公众号：榫卯江湖
-        - title: 白龙~
-          logo: qq_38851536.jpg
-          url: https://blog.csdn.net/qq_38851536
-          description: 白龙~的 CSDN 主页
         - title: 哆啦安全
           logo: gh_060e91811143.jpg
           qrcode: images/qrcode/gh_060e91811143.jpg
@@ -3602,10 +3936,6 @@
           logo: gh_8a34b8979a2a.jpg
           qrcode: images/qrcode/gh_8a34b8979a2a.jpg
           description: 公众号：逆向小友
-        - title: zhaoxincheng
-          logo: zhaoxincheng.png
-          url: https://zhaoxincheng.com/
-          description: 小白技术社，小白技术社，Frida，Xposed，app逆向，app爬虫
         - title: 二进制科学
 #          logo: BinaryScience.jpg
           logo: gh_d7f3741e0b6a.jpg
@@ -3632,18 +3962,6 @@
           logo: gh_e98a8ed7253b.jpg
           qrcode: images/qrcode/gh_e98a8ed7253b.jpg
           description: 公众号：DrissionPage
-        - title: 狗都不学爬虫_
-          logo: qq_53444631.jpg
-          url: https://blog.csdn.net/qq_53444631
-          description: 狗都不学爬虫_ CSDN 主页
-        - title: 不爱逆向的小白
-          logo: m0_61226167.jpg
-          url: https://blog.csdn.net/m0_61226167
-          description: 不爱逆向的小白 CSDN 主页
-        - title: 爬虫小恐龙
-          logo: u013046615.jpg
-          url: https://blog.csdn.net/u013046615
-          description: 爬虫小恐龙 CSDN 主页
         - title: R逆向
           logo: gh_3f2c705b036c.jpg
           qrcode: images/qrcode/gh_3f2c705b036c.jpg
@@ -3672,10 +3990,6 @@
           logo: gh_d15f34dcb857.jpg
           qrcode: images/qrcode/gh_d15f34dcb857.jpg
           description: 公众号：菜狗学逆向
-        - title: 小鱼神1024
-          logo: studypy.jpg
-          url: https://studypy.blog.csdn.net/
-          description: 小鱼神1024的 CSDN 主页
         - title: 知一Tracer
           logo: gh_2b9089a430e7.jpg
           qrcode: images/qrcode/gh_2b9089a430e7.jpg
@@ -3696,62 +4010,10 @@
           logo: gh_f4d52ca82e1c.jpg
           qrcode: images/qrcode/gh_f4d52ca82e1c.jpg
           description: 公众号：逆向狗都不学
-        - title: 红皮西瓜绿了心
-          logo: m0_46265880.jpg
-          url: https://blog.csdn.net/m0_46265880
-          description: 红皮西瓜绿了心的 CSDN 主页
-        - title: 冰履踏青云
-          logo: weixin_44327634.jpg
-          url: https://bingyun.blog.csdn.net
-          description: 冰履踏青云的 CSDN 主页
-        - title: 安卓逆向许七安
-          logo: weixin_45365693.jpg
-          url: https://blog.csdn.net/weixin_45365693
-          description: 安卓逆向许七安的 CSDN 主页
-        - title: 逆向 小白
-          logo: weixin_71462234.jpg
-          url: https://blog.csdn.net/weixin_71462234
-          description: 逆向 小白的 CSDN 主页
-        - title: 爱喝水的木子
-          logo: Linux_rm_rf_.jpg
-          url: https://blog.csdn.net/Linux_rm_rf_
-          description: 爱喝水的木子的 CSDN 主页
-        - title: 吃苹果的牛顿顿
-          logo: qq_29402011.jpg
-          url: https://blog.csdn.net/qq_29402011
-          description: 吃苹果的牛顿顿的 CSDN 主页
-        - title: 我真的不是蜘蛛
-          logo: yanminghe66666.jpg
-          url: https://blog.csdn.net/yanminghe66666
-          description: 我真的不是蜘蛛的 CSDN 主页
-        - title: 陈虚渊
-          logo: paycho.jpg
-          url: https://blog.csdn.net/paycho
-          description: 陈虚渊的 CSDN 主页
-        - title: 东隐@nicegbp
-          logo: weixin_73648943.jpg
-          url: https://blog.csdn.net/weixin_73648943
-          description: 东隐@nicegbp的 CSDN 主页
-        - title: 努力的。。。
-          logo: 2401_87946050.jpg
-          url: https://blog.csdn.net/2401_87946050
-          description: 努力的。。。的 CSDN 主页
-        - title: Loronto丶
-          logo: Loronto_.jpg
-          url: https://blog.csdn.net/Loronto_
-          description: Loronto丶的 CSDN 主页
-        - title: 香辣蟹好吃吗
-          logo: m0_74794988.jpg
-          url: https://blog.csdn.net/m0_74794988
-          description: 香辣蟹好吃吗的 CSDN 主页
 #        - title: 断点续行 # 图灵夏洛，咸鱼抄袭，狗改不了吃屎
 #          logo: gh_b7ac0ec8d593.jpg
 #          qrcode: images/qrcode/gh_b7ac0ec8d593.jpg
 #          description: 公众号：断点续行
-        - title: 张烫麻辣亮。
-          logo: qq_40558166.jpg
-          url: https://blog.csdn.net/qq_40558166
-          description: 张烫麻辣亮。的 CSDN 主页
         - title: 如意私塾
           logo: gh_1d8f1034d4b9.jpg
           qrcode: images/qrcode/gh_1d8f1034d4b9.jpg
@@ -3768,10 +4030,6 @@
           logo: gh_e207193238bc.jpg
           qrcode: images/qrcode/gh_e207193238bc.jpg
           description: 公众号：小小杨学编程
-        - title: wangYи
-          logo: weixin_59616601.jpg
-          url: https://blog.csdn.net/weixin_59616601
-          description: wangYи的 CSDN 主页
         - title: 尖端对抗
           logo: gh_fa4e6c500a73.jpg
           qrcode: images/qrcode/gh_fa4e6c500a73.jpg
@@ -3896,6 +4154,30 @@
           logo: gh_341b89f43067.jpg
           qrcode: images/qrcode/gh_341b89f43067.jpg
           description: 公众号：进击的HACK
+        - title: AI爬盒
+          logo: gh_1d966e328e1e.jpg
+          qrcode: images/qrcode/gh_1d966e328e1e.jpg
+          description: 公众号：AI爬盒
+        - title: x1a0f3n9
+          logo: gh_5798dff37eb0.jpg
+          qrcode: images/qrcode/gh_5798dff37eb0.jpg
+          description: 公众号：x1a0f3n9
+        - title: 雪中茉莉
+          logo: gh_12eefa864f3e.jpg
+          qrcode: images/qrcode/gh_12eefa864f3e.jpg
+          description: 公众号：雪中茉莉
+        - title: 二手的程序员
+          logo: gh_42f185f6bcde.jpg
+          qrcode: images/qrcode/gh_42f185f6bcde.jpg
+          description: 公众号：二手的程序员
+        - title: just reverse
+          logo: gh_35faad185550.jpg
+          qrcode: images/qrcode/gh_35faad185550.jpg
+          description: 公众号：just reverse
+        - title: 逆向搅屎棍
+          logo: gh_e6fd8b431757.jpg
+          qrcode: images/qrcode/gh_e6fd8b431757.jpg
+          description: 公众号：逆向搅屎棍
 #        - title: K哥爬虫
 #          logo: kgepachong.jpg
 #          logo: gh_86aab598880e.jpg
@@ -3946,12 +4228,194 @@
           logo: gh_115024bacc7b.jpg
           qrcode: images/qrcode/gh_115024bacc7b.jpg
           description: 公众号：小伍哥聊风控
+
+    - name: 吾爱破解博主
+      links:
+        - title: 正己
+          logo: 1109458.jpg
+          url: https://www.52pojie.cn/home.php?mod=space&uid=1109458&do=thread&view=me&from=space
+          description: 正己的吾爱破解主页
+        - title: 漁滒
+          logo: 557195.jpg
+          url: https://www.52pojie.cn/home.php?mod=space&uid=557195&do=thread&view=me&from=space
+          description: 漁滒的吾爱破解主页
+        - title: Light紫星
+          logo: 358970.jpg
+          url: https://www.52pojie.cn/home.php?mod=space&uid=358970&do=thread&view=me&from=space
+          description: Light紫星的吾爱破解主页
+        - title: yoyoRev
+          logo: 1980790.jpg
+          url: https://www.52pojie.cn/home.php?mod=space&uid=1980790&do=thread&view=me&from=space
+          description: yoyoRev的吾爱破解主页
+        - title: utf8
+          logo: 2296408.jpg
+          url: https://www.52pojie.cn/home.php?mod=space&uid=2296408&do=thread&view=me&from=space
+          description: utf8的吾爱破解主页
+        - title: LiXieZengHui
+          logo: 2155847.jpg
+          url: https://www.52pojie.cn/home.php?mod=space&uid=2155847&do=thread&view=me&from=space
+          description: LiXieZengHui 的吾爱破解主页
+        - title: xiayutianz
+          logo: 2188593.jpg
+          url: https://www.52pojie.cn/home.php?mod=space&uid=2188593&do=thread&view=me&from=space
+          description: xiayutianz 的吾爱破解主页
+        - title: LiSAimer
+          logo: 1286492.jpg
+          url: https://www.52pojie.cn/home.php?mod=space&uid=1286492&do=thread&view=me&from=space
+          description: LiSAimer 的吾爱破解主页
+        - title: Aircraftcomman5
+          logo: 2315441.jpg
+          url: https://www.52pojie.cn/home.php?mod=space&uid=2315441&do=thread&view=me&from=space
+          description: Aircraftcomman5 的吾爱破解主页
+        - title: buluo533
+          logo: 2241123.jpg
+          url: https://www.52pojie.cn/home.php?mod=space&uid=2241123&do=thread&view=me&from=space
+          description: buluo533 的吾爱破解主页
+        - title: littlewhite11
+          logo: 2327812.jpg
+          url: https://www.52pojie.cn/home.php?mod=space&uid=2327812&do=thread&view=me&from=space
+          description: littlewhite11 的吾爱破解主页
+        - title: hybpjx
+          logo: 2025904.jpg
+          url: https://www.52pojie.cn/home.php?mod=space&uid=2025904&do=thread&view=me&from=space
+          description: hybpjx 的吾爱破解主页
+        - title: 我是不会改名的
+          logo: 1372193.jpg
+          url: https://www.52pojie.cn/home.php?mod=space&uid=1372193&do=thread&view=me&from=space
+          description: 我是不会改名的的吾爱破解主页
+        - title: 中二
+          logo: 1844805.jpg
+          url: https://www.52pojie.cn/home.php?mod=space&uid=1844805&do=thread&view=me&from=space
+          description: 中二的吾爱破解主页
+        - title: dddd0526
+          logo: 1857500.jpg
+          url: https://www.52pojie.cn/home.php?mod=space&uid=1857500&do=thread&view=me&from=space
+          description: dddd0526 的吾爱破解主页
+        - title: Command
+          logo: 1354181.jpg
+          url: https://www.52pojie.cn/home.php?mod=space&uid=1354181&do=thread&view=me&from=space
+          description: Command 的吾爱破解主页
+        - title: scz
+          logo: 433091.jpg
+          url: https://www.52pojie.cn/home.php?mod=space&uid=433091&do=thread&view=me&from=space
+          description: scz 的吾爱破解主页
+
+    - name: CSDN 博主
+      links:
+        - title: 十一姐
+          logo: weixin_43411585.jpg
+          url: https://blog.csdn.net/weixin_43411585
+          description: 十一姐 CSDN 主页
+        - title: 吴秋霖
+          logo: qiulin_wu.jpg
+          url: https://blog.csdn.net/qiulin_wu
+          description: 吴秋霖的 CSDN 主页
+        - title: 挽风逆向
+          logo: weixin_44862184.jpg
+          url: https://blog.csdn.net/weixin_44862184
+          description: 挽风逆向 CSDN 主页
+        - title: 考古学家lx(李玺)
+          logo: weixin_43582101.jpg
+          url: https://blog.csdn.net/weixin_43582101
+          description: 考古学家lx(李玺) CSDN 主页
+        - title: Codeooo
+          logo: weixin_38927522.jpg
+          url: https://blog.csdn.net/weixin_38927522
+          description: Codeooo CSDN 主页
+        - title: 活捉一只小菜鸟~
+          logo: big_god_.jpg
+          url: https://blog.csdn.net/big_god_
+          description: 活捉一只小菜鸟~ CSDN 主页
+        - title: 阿J
+          logo: qq_26079939.jpg
+          url: https://blog.csdn.net/qq_26079939
+          description: 阿J CSDN 主页
+        - title: 白龙~
+          logo: qq_38851536.jpg
+          url: https://blog.csdn.net/qq_38851536
+          description: 白龙~的 CSDN 主页
+        - title: 狗都不学爬虫_
+          logo: qq_53444631.jpg
+          url: https://blog.csdn.net/qq_53444631
+          description: 狗都不学爬虫_ CSDN 主页
+        - title: 不爱逆向的小白
+          logo: m0_61226167.jpg
+          url: https://blog.csdn.net/m0_61226167
+          description: 不爱逆向的小白 CSDN 主页
+        - title: 爬虫小恐龙
+          logo: u013046615.jpg
+          url: https://blog.csdn.net/u013046615
+          description: 爬虫小恐龙 CSDN 主页
+        - title: 小鱼神1024
+          logo: studypy.jpg
+          url: https://studypy.blog.csdn.net/
+          description: 小鱼神1024的 CSDN 主页
+        - title: 红皮西瓜绿了心
+          logo: m0_46265880.jpg
+          url: https://blog.csdn.net/m0_46265880
+          description: 红皮西瓜绿了心的 CSDN 主页
+        - title: 冰履踏青云
+          logo: weixin_44327634.jpg
+          url: https://bingyun.blog.csdn.net
+          description: 冰履踏青云的 CSDN 主页
+        - title: 安卓逆向许七安
+          logo: weixin_45365693.jpg
+          url: https://blog.csdn.net/weixin_45365693
+          description: 安卓逆向许七安的 CSDN 主页
+        - title: 逆向 小白
+          logo: weixin_71462234.jpg
+          url: https://blog.csdn.net/weixin_71462234
+          description: 逆向 小白的 CSDN 主页
+        - title: 爱喝水的木子
+          logo: Linux_rm_rf_.jpg
+          url: https://blog.csdn.net/Linux_rm_rf_
+          description: 爱喝水的木子的 CSDN 主页
+        - title: 吃苹果的牛顿顿
+          logo: qq_29402011.jpg
+          url: https://blog.csdn.net/qq_29402011
+          description: 吃苹果的牛顿顿的 CSDN 主页
+        - title: 我真的不是蜘蛛
+          logo: yanminghe66666.jpg
+          url: https://blog.csdn.net/yanminghe66666
+          description: 我真的不是蜘蛛的 CSDN 主页
+        - title: 陈虚渊
+          logo: paycho.jpg
+          url: https://blog.csdn.net/paycho
+          description: 陈虚渊的 CSDN 主页
+        - title: 东隐@nicegbp
+          logo: weixin_73648943.jpg
+          url: https://blog.csdn.net/weixin_73648943
+          description: 东隐@nicegbp的 CSDN 主页
+        - title: 努力的。。。
+          logo: 2401_87946050.jpg
+          url: https://blog.csdn.net/2401_87946050
+          description: 努力的。。。的 CSDN 主页
+        - title: Loronto丶
+          logo: Loronto_.jpg
+          url: https://blog.csdn.net/Loronto_
+          description: Loronto丶的 CSDN 主页
+        - title: 香辣蟹好吃吗
+          logo: m0_74794988.jpg
+          url: https://blog.csdn.net/m0_74794988
+          description: 香辣蟹好吃吗的 CSDN 主页
+        - title: 张烫麻辣亮。
+          logo: qq_40558166.jpg
+          url: https://blog.csdn.net/qq_40558166
+          description: 张烫麻辣亮。的 CSDN 主页
+        - title: wangYи
+          logo: weixin_59616601.jpg
+          url: https://blog.csdn.net/weixin_59616601
+          description: wangYи的 CSDN 主页
+        - title: 小夏缘
+          logo: m0_73923773.jpg
+          url: https://blog.csdn.net/m0_73923773
+          description: 小夏缘 CSDN 主页
         - title: 码王吴彦祖
           logo: qq_36551453.jpg
           url: https://blog.csdn.net/qq_36551453
           description: 码王吴彦祖的 CSDN 主页
 
-    - name: 视频博主
+    - name: B 站博主
       links:
         - title: 信息网络吴律师
           logo: wuwm.jpg
@@ -4345,6 +4809,69 @@
           logo: 70862930.jpg
           url: https://space.bilibili.com/70862930
           description: Litt1eQ 的 bilibili 主页
+        - title: SpiderDemo
+          logo: 412663595.jpg
+          url: https://space.bilibili.com/412663595
+          description: SpiderDemo 的 bilibili 主页
+
+    - name: 自建博客
+      links:
+        - title: SpiderDemo Blog
+          logo: spiderdemo.png
+          url: https://www.spiderdemo.cn/blog/
+          description: SpiderDemo 博客，高质量文章投稿
+        - title: 崔庆才
+          logo: cuiqingcai.jpg
+          url: https://cuiqingcai.com/
+          description: 崔庆才，微软（中国）软件工程师，北京航空航天大学硕士，主要研究网络爬虫、Web 开发、机器学习等方向，出版书籍《Python3 网络爬虫开发实战》、《Python3 网络爬虫开发实战（第2版）》，不少人的启蒙书籍，公众号：进击的Coder
+        - title: 爬虫逆向知识站
+          logo: weixin_43582101.jpg
+          url: http://www.lxspider.com/
+          description: 考古学家lx(李玺) 的个人网站
+        - title: 下雨天（雨霖铃）
+          logo: xiayutian.jpg
+          url: https://www.xiayutian.xyz/
+          description: 下雨天（雨霖铃）的博客，安卓、iOS、JS 逆向
+        - title: antibot.blog
+          logo: vercel.png
+          url: https://antibot.blog/
+          description: 老外的博客，涉及到 PerimeterX、Twitter 等逆向
+        - title: CYRUS STUDIO
+          logo: cyrus-studio.jpg
+          url: https://cyrus-studio.github.io/blog/
+          description: 安卓逆向博主，公众号：CYRUS STUDIO，ApkToolPlus 作者
+        - title: SeeFlowerX
+          logo: seeflower.jpg
+          url: https://blog.seeflower.dev/
+          description: 安卓逆向博主，脸哥的博客
+        - title: Chen Shuai
+          logo: zhizhuodemao.jpg
+          url: https://zhizhuodemao.github.io/
+          description: 致力于研究 AI 与逆向的结合
+        - title: Duck_Spider_OS
+          logo: spiderduck.png
+          url: https://spiderduck.top/
+          description: 指令与密文之下的世界，比界面更复杂，也更值得探索——这里记录着对系统深度理解的尝试
+        - title: Buzzer's blog
+          logo: reversing.codes.jpg
+          url: https://reversing.codes/
+          description: Security Researcher & Dreamer
+        - title: oacia
+          logo: oacia.jpg
+          url: https://oacia.dev/
+          description: oacia 主页
+        - title: ben-sb
+          logo: deobfuscate.jpg
+          url: https://blog.deobfuscate.io/
+          description: ben-sb 的博客
+        - title: HuaYunBin
+          logo: hyb.jpg
+          url: https://hyb.life/
+          description: hyb 的个人网站
+        - title: zhaoxincheng
+          logo: zhaoxincheng.png
+          url: https://zhaoxincheng.com/
+          description: 小白技术社，小白技术社，Frida，Xposed，app逆向，app爬虫
 
     - name: 交流论坛
       links:
@@ -4411,6 +4938,10 @@
 
     - name: 练习平台
       links:
+        - title: SpiderDemo
+          logo: spiderdemo.png
+          url: https://www.spiderdemo.cn/
+          description: SpiderDemo 是一个专业的反爬虫技术练习平台，提供 JS 逆向、验证码识别、WASM、Protobuf 等多种反爬挑战题目，帮助开发者提升爬虫与反爬技能
         - title: 猿人学第一届 JS 逆向刷题平台
           logo: yuanrenxue.jpg
           url: https://match.yuanrenxue.cn/
@@ -4455,10 +4986,6 @@
           logo: github.png
           url: https://juliendoutre.github.io/warec/index.html
           description: WASM 逆向挑战
-        - title: SpiderDemo
-          logo: spiderdemo.png
-          url: https://www.spiderdemo.cn/
-          description: SpiderDemo 是一个专业的反爬虫技术练习平台，提供 JS 逆向、验证码识别、WASM、Protobuf 等多种反爬挑战题目，帮助开发者提升爬虫与反爬技能
 #        - title: Crawler Lab
 #          logo: crawler-lab.png
 #          url: https://www.crawler-lab.com/
@@ -4471,6 +4998,7 @@
 #          logo: evilrecluse.png
 #          url: http://learnspider.evilrecluse.top/
 #          description: 欧拉VS木大 是一个爬虫训练场，你可以在这里锻炼你的爬虫基础能力
+
     - name: 知识付费
       links:
         - title: 猿人学·爬虫逆向进阶课
@@ -4520,11 +5048,11 @@
         - title: 如意浏览器内核研究培训
           logo: Charleval.jpg
           url: https://www.yuque.com/u21565569/ihuyk3/xgc6hqd94fb69xxp
-          description: 如意大佬的课程，chromium/firefox/safari 浏览器内核研究培训，从零基础到自己做出浏览器内核
+          description: 李岳阳（网名如意）大佬的课程，chromium/firefox/safari 浏览器内核研究培训，从零基础到自己做出浏览器内核
         - title: 小肩膀教育
           logo: 0xshoulderlab.png
           url: https://0xshoulderlab.site/
-          description: 小肩膀教育，逆向与安全开发，实战课程体系，网络爬虫、安卓逆向、iOS 逆向、AI 逆向、浏览器内核开发
+          description: 卓斌（网名小肩膀）与李岳阳（网名如意）大佬的课程，逆向与安全开发实战课程体系，网络爬虫，安卓逆向，iOS逆向，AI 逆向，浏览器内核开发，实战驱动，1对1辅导，闯关学习，助你高薪就业
         - title: 杨如画
           logo: gh_c637bce93320.png
           url: https://mp.weixin.qq.com/s/dCrlzS9W3s6Y8i47jf_vvA
@@ -4694,41 +5222,18 @@
           logo: zsxq.png
           url: https://wx.zsxq.com/group/28855284824281
           description: 星主：漁滒，不定期分享javascript代码分析与还原、ast应用、wasm分析、应用抓包等数据安全内容。本星球可能需要有js和python代码基础
-
-    - name: 自建博客
-      links:
-        - title: 下雨天（雨霖铃）
-          logo: xiayutian.jpg
-          url: https://www.xiayutian.xyz/
-          description: 下雨天（雨霖铃）的博客，安卓、iOS、JS 逆向
-        - title: antibot.blog
-          logo: vercel.png
-          url: https://antibot.blog/
-          description: 老外的博客，涉及到 PerimeterX、Twitter 等逆向
-        - title: CYRUS STUDIO
-          logo: cyrus-studio.jpg
-          url: https://cyrus-studio.github.io/blog/
-          description: 安卓逆向博主，公众号：CYRUS STUDIO，ApkToolPlus 作者
-        - title: SeeFlowerX
-          logo: seeflower.jpg
-          url: https://blog.seeflower.dev/
-          description: 安卓逆向博主，脸哥的博客
-        - title: Chen Shuai
-          logo: zhizhuodemao.jpg
-          url: https://zhizhuodemao.github.io/
-          description: 致力于研究 AI 与逆向的结合
-        - title: Duck_Spider_OS
-          logo: spiderduck.png
-          url: https://spiderduck.top/
-          description: 指令与密文之下的世界，比界面更复杂，也更值得探索——这里记录着对系统深度理解的尝试
-        - title: Buzzer's blog
-          logo: reversing.codes.jpg
-          url: https://reversing.codes/
-          description: Security Researcher & Dreamer
-        - title: oacia
-          logo: oacia.jpg
-          url: https://oacia.dev/
-          description: oacia 主页
+        - title: frida检测学习交流
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/51111812224814
+          description: 星主：四夕， 星球暂无介绍
+        - title: 最强魔改lsposed
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/48885151411148
+          description: 星主：四夕， 星球暂无介绍
+        - title: 最强kpm内核模块
+          logo: zsxq.png
+          url: https://wx.zsxq.com/group/51115858284454
+          description: 星主：四夕， 星球暂无介绍
 
     - name: 正版书籍
       links:
@@ -4747,7 +5252,7 @@
         - title: 反爬虫 AST 原理与还原混淆实战
           logo: book_10099859383510.jpg
           url: https://item.jd.com/10099859383510.html
-          description: 李岳阳，卓斌（网名小肩膀）著，本书从 AST 这一个知识点出发，由浅入深，带领读者掌握反爬虫 AST 的原理，并帮助读者培养解决实际问题的能力。本书共 11 章，分为四部分，首部分（第1～4章）介绍开发环境的搭建方法、Web 调试的必备技巧以及爬虫与反爬虫的基本知识；第二部分（第5～6章）讲解混淆 JavaScript 代码的手工逆向方法与 JavaScript 代码安全防护的原理；第三部分（第7～8章）讲解 AST 的原理与API的使用方法；第四部分（第9～11章）以 AST 为基础，讲解自动化的 JavaScript 代码防护与还原方案，并带领读者进行实战训练
+          description: 李岳阳（网名如意），卓斌（网名小肩膀）著，本书从 AST 这一个知识点出发，由浅入深，带领读者掌握反爬虫 AST 的原理，并帮助读者培养解决实际问题的能力。本书共 11 章，分为四部分，首部分（第1～4章）介绍开发环境的搭建方法、Web 调试的必备技巧以及爬虫与反爬虫的基本知识；第二部分（第5～6章）讲解混淆 JavaScript 代码的手工逆向方法与 JavaScript 代码安全防护的原理；第三部分（第7～8章）讲解 AST 的原理与API的使用方法；第四部分（第9～11章）以 AST 为基础，讲解自动化的 JavaScript 代码防护与还原方案，并带领读者进行实战训练
         - title: 安卓 Frida 逆向与抓包实战
           logo: book_10116371577375.jpg
           url: https://item.jd.com/10116371577375.html
@@ -4796,6 +5301,14 @@
           logo: book_11186337.jpg
           url: https://item.jd.com/11186337.html
           description: 丰生强（网名非虫）著，本书由浅入深、循序渐进地讲解了 Android 系统的软件安全、逆向分析与加密解密技术。包括 Android 软件逆向分析和系统安全方面的必备知识及概念、如何静态分析 Android 软件、如何动态调试 Android 软件、Android 软件的破解与反破解技术的探讨，以及对典型 Android 病毒的全面剖析。强实践性。缺乏可操作性，是 Android 安全方面现有论文、白皮书、技术文章大的问题之一，很多人读到后可能对内容有了一些概念，却不知道从何下手。这本书的几乎每一个部分，都结合实际例子，一步步讲解如何操作。强时效性。作者在写作的同时，持续跟随业界新进展，刚刚发布不久的 Santoku 虚拟机、APIMonitor 等工具，以及 Androguard 的新特性等，已然出现在了这本书中
+        - title: Android应用安全实战：Frida协议分析
+          logo: book_13717138.jpg
+          url: https://item.jd.com/13717138.html
+          description: 李岳阳（网名如意），卓斌（网名小肩膀）著，本书从 Hook 框架 Frida 出发，由浅入深，带领读者掌握 Frida 框架的使用方法，并让读者能够解决逆向分析、安全测试、算法还原和关键代码快速定位等实际问题。本书共 8 章，首先讲解了 Frida 框架环境安装配置，随后讲解了如何使用 Frida 框架对 Android 应用的 Java 层和 so 层进行分析，并设计了算法自吐框架，然后讲解了 Frida 框架的高级应用和算法转发。从基础的环境安装到中高级逆向技巧均有涉猎，能够让读者在实战中掌握 Frida 框架，并应用于 Android 逆向分析之中。内容翔实，理论与实战相结合，可供 Android 开发工程师、Android 应用安全工程师、爬虫工程师、逆向分析工程师以及想要从事逆向领域工作的人员学习
+        - title: Android设备指纹攻防与风险环境检测
+          logo: book_14577401.jpg
+          url: https://item.jd.com/14577401.html
+          description: 刘延鸿，何巡著，本书全面介绍了 Android 设备指纹相关的基础知识、攻防技术、风险环境检测，以及未来发展方向。内容涵盖了从 Android 架构与基础、动态代理与 VirtualApp、Android Hook 技术到客户端风控的实战技巧，旨在帮助开发者构建完整的 Android 攻防知识体系。在个人信息保护相关法律日益严格和移动互联网安全需求不断提升的背景下，本书不仅关注技术细节，也兼顾行业规范与合规性问题。无论您是 Android 开发新手，还是资深从业者，这本书都将为您提供有价值的参考与指导
         - title: macOS 软件安全与逆向分析
           logo: book_12137171.jpg
           url: https://item.jd.com/12137171.html
@@ -4804,6 +5317,14 @@
           logo: book_10132040684560.jpg
           url: https://item.jd.com/10132040684560.html
           description: 丰生强（网名非虫），李泊冰著，本书详细介绍了 eBPF 核心技术及其应用。全书可分为 eBPF 基础知识、进阶应用和实际案例三大部分，覆盖了 eBPF 的编程接口、架构及其在性能分析、安全监控和网络协议等方面的应用。读者将通过 C、Go 和Python 等语言学习 eBPF 编程，并掌握其在系统监控、数据分析和性能提升方面的实际技巧。本书适合不同层次的读者，包括对操作系统或应用程序监控感兴趣的学生和初学者、希望利用 eBPF 进行内核代码调试和优化的 Linux 内核开发人员、使用 eBPF 监控系统事件和分析恶意软件的安全工程师和逆向工程师、通过 eBPF 收集性能数据以优化软件和系统性能的性能分析师和应用程序安全，以及希望优化虚拟化软件性能和管理的虚拟化开发人员
+        - title: iOS 应用逆向与安全
+          logo: book_12361729.jpg
+          url: https://item.jd.com/12361729.html
+          description: 刘培庆著，MonkeyDev、frida-ios-dump 等开源项目作者，本书从正向开发、工具的使用、逆向实战及安全保护等方面，对 iOS 应用的逆向与安全进行了讲解。本书内容包括基本概念、逆向环境的准备、常用逆向分析工具、类的结构、App 签名、Mach-O 文件格式、hook 原理等，并通过在越狱平台和非越狱平台上的逆向分析实例，带领读者学习逆向分析的思路和方法。在应用安全及保护方面，本书内容涉及网络传输、安全检测、代码混淆等
+        - title: Chromium指纹浏览器开发教程
+          logo: book_14476137.jpg
+          url: https://item.jd.com/14476137.html
+          description: 李岳阳（网名如意），冯维淼著，本书的目的是帮助开发者理解和实现基于 Chromium 浏览器的指纹定制。本书共有 8 章，详细讲解了从环境搭建到指纹定制的全过程。第 1 章介绍了开发环境的搭建，包括虚拟机和开发工具的配置；第 2 章解析了 Chromium 浏览器的基础架构和多进程架构；第 3 章阐述了指纹信息的传递机制；第 4 章和第 5 章分别讲解了硬件指纹和软件指纹的定制方法；第 6 章探讨了指纹关联技术；第 7 章详细介绍了 TLS/SSL 指纹信息及其修改方法；第 8 章展示了如何通过自动化工具驱动指纹浏览器，并介绍了应对自动化检测的方法。本书内容翔实，理论与实践相结合，可供浏览器开发人员、安全研究员、爬虫工程师、前端工程师及希望在浏览器指纹领域入门的人员参考
         - title: 加密与解密（第4版）
           logo: book_12395765.jpg
           url: https://item.jd.com/12395765.html
@@ -4813,39 +5334,127 @@
           url: https://item.jd.com/14380164.html
           description: 唐会军（数美科技创始人兼 CEO）著，本书系统地讲解了基于人工智能技术搭建数字风控体系的原理与实践，并通过典型行业的风控实践对风控体系的每个部分进行了详细的讲解。以帮助风控从业人员从黑产、用户行为事件、特征、模型算法、策略、处置方法等方面系统地理解风控系统原理，并掌握将这些原理在业务中落地的能力，建立完整的风控运营体系。同时，也希望能够帮助企业的CEO/CTO/CIO/产品经理/产品运营等产品规划、设计、运营人员理解风控的必要性和原理，在产品规划设计运营中兼顾风险控制，以便更好地推动产品的发展
 
-- taxonomy: 人工智能
-  icon: fas fa-robot fa-lg
-  list:
-    - term: AI 辅助逆向
-    - term: AI 文本对话
-    - term: AI 代码编程
-    - term: AI 图像视频
-    - term: AI 音频音乐
-    - term: AI 文档办公
-    - term: AI 其他资源
-  tabs:
-    - name: AI 辅助逆向
+    - name: 优质项目
       links:
-        - title: AI_JS_DEBUGGER
-          url: https://github.com/Valerian7/AI_JS_DEBUGGER
+        - title: sperm
           logo: github.png
-          description: 本项目是基于 Chrome 开发者协议 (CDP) 的 AI 自动化 JavaScript 逆向分析工具，通过 AI 自动调试前端 JS，自动分析加解密算法、密钥等，自动生成分析报告以及 mitmproxy 脚本
-        - title: Android Reverse Engineering Skill
-          url: https://github.com/SimoneAvogadro/android-reverse-engineering-skill
+          url: https://github.com/darbra/sperm
+          description: 精彩逆向文章汇总，值得一看
+        - title: awesome-protobuf-reverse-engineering
           logo: github.png
-          description: Claude Code Skill，可以反编译 Android APK/XAPK/JAR/AAR 文件，并提取应用程序使用的 HTTP API —— Retrofit 接口、OkHttp 调用、硬编码的 URL、认证模式，方便在没有原始源代码的情况下分析它们
+          url: https://github.com/JSREI/awesome-protobuf-reverse-engineering
+          description: protobuf 逆向相关的资料收集
+        - title: rs-reverse
+          logo: github.png
+          url: https://github.com/pysunday/rs-reverse
+          description: 瑞数 vmp 纯算法逆向，补环境框架 sdenv 的灵感来源
+        - title: js_reverse
+          logo: github.png
+          url: https://github.com/luzhisheng/js_reverse
+          description: 各种 JS 逆向案例
+        - title: crawlProject
+          logo: github.png
+          url: https://github.com/xishandong/crawlProject
+          description: python 爬虫项目合集，从基础到 js 逆向，包含基础篇、自动化篇、进阶篇以及验证码篇。案例涵盖各大网站(xhs douyin weibo ins boss job，jd...)，你将会学到有关爬虫以及反爬虫、自动化和验证码的各方面知识
+        #        - title: gospider
+        #          logo: github.png
+        #          url: https://github.com/baixudong007/gospider
+        #          description: Gospider 是一个功能强大的 Golang 网络爬虫，包含从 Python 过渡到 Golang 所需的所有库。它为 Python 网络爬虫提供了到 Golang 的快速无缝过渡
+        - title: jsvmp-repository
+          logo: github.png
+          url: https://github.com/xiaoweigege/jsvmp-repository
+          description: 国内部分网站的 jsvmp 算法
+        - title: NewsCrawl
+          logo: github.png
+          url: https://github.com/casual-silva/NewsCrawl
+          description: 开源企业级舆情新闻爬虫项目：支持任意数量爬虫一键运行、爬虫定时任务、爬虫批量删除；爬虫一键部署；爬虫监控可视化; 配置集群爬虫分配策略
+        - title: Hydra
+          logo: Hydra.jpg
+          url: https://github.com/HelloGitHub-Team/Hydra
+          description: 简单但绝不简陋的 Python3 爬虫项目，从本项目中你可以看到：熟悉的 Python 基础语法、如何编写爬虫、操作数据库、常用第三库、分析网页、解析接口、编写单元测试、mock 请求、异常监控和管理、保证代码质量的自动化、GitHub Action 等实战应用
+        - title: JSpider
+          logo: github.png
+          url: https://github.com/bytebuff/JSpider
+          description: JSpider 会每周更新至少一个网站的 JS 解密方式
+        - title: PythonSpider
+          logo: github.png
+          url: https://github.com/DingZaiHub/PythonSpider
+          description: JS 逆向系列教程，模拟登录，AES、RSA、DES 加密等
+        - title: webcrawler
+          logo: github.png
+          url: https://github.com/chencchen/webcrawler
+          description: 硬核 JS 逆向内容
+        - title: awesome-reverse
+          logo: github.png
+          url: https://github.com/AlienwareHe/awesome-reverse
+          description: awesome-逆向基础入门，包括 JS、安卓 APP/Native
+        - title: Crack-JS-Spider
+          logo: github.png
+          url: https://github.com/LoseNine/Crack-JS-Spider
+          description: JS 破解逆向，破解 JS 反爬虫加密参数
+        - title: InfoSpider
+          logo: InfoSpider.png
+          url: https://github.com/kangvcar/InfoSpider
+          description: INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明
+        - title: learn_python3_spider
+          logo: github.png
+          url: https://github.com/wistbean/learn_python3_spider
+          description: python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等
+        - title: D2L 动手学深度学习
+          logo: github.png
+          url: https://github.com/d2l-ai/d2l-zh
+          description: 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学
+        - title: webBenchmark
+          logo: github.png
+          url: https://github.com/maintell/webBenchmark
+          description: 用于测试网页服务器性能的工具
+        - title: risk-management-note
+          logo: github.png
+          url: https://github.com/WalterInSH/risk-management-note
+          description: 风险控制笔记
+        - title: JavaScript-diabolic-tricks-and-wicked-craft
+          logo: github.png
+          url: https://github.com/w2sft/JavaScript-diabolic-tricks-and-wicked-craft
+          description: 一本新奇、有趣、有技术含量的 JavaScript 编程技术集锦书籍
+        - title: web-tracking-notes
+          logo: github.png
+          url: https://github.com/s3131212/web-tracking-notes
+          description: 一些 Web Tracking 相关的笔记
+        - title: nebula
+          logo: github.png
+          url: https://github.com/threathunterX/nebula
+          description: 星云业务风控系统，主工程
+        - title: high-quality-biz
+          logo: github.png
+          url: https://github.com/kanadeblisst00/high-quality-biz
+          description: 整理的一百多个安卓和 js 逆向相关的公众号
+        - title: CrawlerTutorial
+          logo: github.png
+          url: https://github.com/NanmiCoder/CrawlerTutorial
+          description: 爬虫入门、爬虫进阶、高级爬虫
+        - title: MediaCrawler
+          logo: github.png
+          url: https://github.com/NanmiCoder/MediaCrawler
+          description: 多平台自媒体数据采集工具，支持小红书、抖音、快手、B站、微博、贴吧、知乎等主流平台的公开信息抓取。基于 playwright 浏览器自动化框架实现
+        - title: Crawler Illegal Cases In China
+          logo: github.png
+          url: https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China
+          description: 所有中国大陆爬虫开发者涉诉与违规相关的新闻、资料与法律法规。致力于帮助在中国大陆工作的爬虫行业从业者了解我国相关法律，避免触碰数据合规红线
+
+- taxonomy: AI 逆向
+  icon: fab fa-atlassian
+  list:
+    - term: MCP
+    - term: Skills
+    - term: Agent
+    - term: 其他工具
+  tabs:
+    - name: MCP
+      links:
         - title: IDA-NO-MCP
           url: https://github.com/P4nda0s/IDA-NO-MCP
           logo: github.png
           description: 告别 IDA MCP 复杂、冗长、卡顿的交互模式。AI 逆向，无需额外配置
-        - title: Reverse Engineering Skills
-          url: https://github.com/P4nda0s/reverse-skills
-          logo: github.png
-          description: 为 Claude Code 提供逆向工程分析技能的插件市场。专为 IDA-NO-MCP 设计 - 从 IDA 导出反编译结果，然后使用 Claude Code 进行分析
-        - title: reverse-skill
-          url: https://github.com/715494637/reverse-skill
-          logo: github.png
-          description: 面向 Web JS 逆向分析的技能仓库，覆盖请求链定位、运行时诊断、AST 混淆恢复、JSVMP、worker、WASM、webpack/runtime 与协议语义分析
         - title: JS Reverse MCP
           url: https://github.com/zhizhuodemao/js-reverse-mcp
           logo: github.png
@@ -4862,10 +5471,6 @@
           url: https://github.com/zhizhuodemao/adb-mcp
           logo: github.png
           description: 一个全面的安卓调试桥 (ADB) 操作的 MCP 服务器，提供完整的安卓设备管理功能
-        - title: ai-reverse-toolkit
-          url: https://github.com/zhizhuodemao/ai-reverse-toolkit
-          logo: github.png
-          description: 用于逆向分析的 AI 的 skills，rules 和 prompt
         - title: IDA Pro MCP
           url: https://github.com/mrexodia/ida-pro-mcp
           logo: github.png
@@ -4882,42 +5487,18 @@
           url: https://github.com/zinja-coder/apktool-mcp-server
           logo: github.png
           description: apktool-mcp-server 是 Apktool 的 MCP 服务器，提供使用 Claude 等 LLMs 的实时逆向工程支持
-        - title: JADX-GUI-AI
-          url: https://github.com/cncsnet1/jadx-gui-ai
-          logo: jadx-gui-ai.png
-          description: JADX-GUI-AI 是一个在 JADX 基础上增强的智能反编译工具，集成了 AI 辅助功能，可以帮助开发者更好地理解和分析反编译后的代码
         - title: Chrome DevTools MCP
           url: https://github.com/ChromeDevTools/chrome-devtools-mcp
           logo: github.png
           description: chrome-devtools-mcp 让您的 Agent（如 Gemini、Claude、Cursor 或 Copilot）能够控制和检查实时 Chrome 浏览器。它充当 MCP 服务器，为您的 AI 编码助手提供对 Chrome DevTools 全部功能的访问，以实现可靠的自动化、深入的调试和性能分析
-        - title: js-reverse-automation--skill
-          url: https://github.com/Fausto-404/js-reverse-automation--skill
-          logo: github.png
-          description: 结合 chrome-devtools-mcp 的能力并加上 Skill 的规范，实现 JSRPC + Flask + autoDecoder 方案的前端 JS 逆向自动化分析，提升 JS 逆向的效率
-        - title: jshook-skill
-          url: https://github.com/wuji66dde/jshook-skill
-          logo: github.png
-          description: AI 驱动 JS 逆向：反混淆、加密识别、CDP 调试、Hook 注入、反检测
         - title: jshook-reverse-tool
           url: https://github.com/wuji66dde/jshook-reverse-tool
           logo: github.png
           description: jshook-reverse-tool 是一个基于 MCP 的 JavaScript 逆向工程工具，通过 80+ 个专业工具，让 Claude、ChatGPT 等 AI 助手能够自动化完成复杂的网页分析、调试和逆向任务
-        - title: re-skill
-          url: https://github.com/vgrichina/re-skill
-          logo: github.png
-          description: 一种启动并推动 retro games 逆向工程项目的 Claude 代码技能。指向一个 ROM 或二进制文件，它将搭建一个完整的逆向工程工作空间——然后迭代地反汇编、注释、提取资源，并将游戏移植到 Web 画布上，所有操作均通过 CLI 完成
-        - title: Agent Skills
-          url: https://github.com/betab0t/skills/
-          logo: github.png
-          description: 一个不断更新的用于 AI coding agents 逆向工程的技能集合
         - title: Playwright MCP
           url: https://github.com/microsoft/playwright-mcp
           logo: github.png
           description: 一个使用 Playwright 提供浏览器自动化功能的 MCP 服务器。该服务器使 LLMs 能够通过结构化的可访问性快照与网页交互，从而无需截图或视觉调优模型
-        - title: chrome-cdp-skill
-          url: https://github.com/pasky/chrome-cdp-skill
-          logo: github.png
-          description: 让你的 AI agent 访问你的实时 Chrome 会话，开箱即用，连接你已经打开的标签页
         - title: revula
           url: https://github.com/president-xd/revula
           logo: github.png
@@ -4926,38 +5507,14 @@
           url: https://github.com/vmoranv/jshookmcp
           logo: github.png
           description: 面向 AI 辅助 JavaScript 分析与安全分析的 MCP（模型上下文协议）服务器，提供 245 个内置工具——其中 16 个域下 238 个域工具，外加 8 个内置元工具——并支持从 plugins/ 与 workflows/ 目录运行时动态扩展。集成浏览器自动化、Chrome DevTools Protocol 调试、网络监控、智能 JavaScript Hook、LLM 驱动代码分析、进程/内存操作、WASM 工具链、二进制编码、反反调试、GraphQL 发现、Source Map 重建、AST 变换、加密重构、平台包分析、Burp Suite / Native 分析工具桥接及高层复合工作流编排
-        - title: Web Content Fetcher
-          url: https://github.com/shirenchuang/web-content-fetcher
-          logo: github.png
-          description: Web Content Fetcher 是一个 skill，是一个轻量级的网页正文提取工具，能够自动将任意网页转换为干净的 Markdown 格式，保留标题、链接、图片和列表结构,支持 Jina Reader / Scrapling / web_fetch 三级降级策略，完美支持微信公众号文章（Jina 无法读取的场景）
         - title: JS Reverse MCP
           url: https://github.com/NoOne-hub/JSReverser-MCP
           logo: github.png
           description: JSReverser-MCP 是一个面向 JavaScript 逆向分析的 MCP 工具，专门用于帮助开发者在真实浏览器环境中高效定位前端核心逻辑。它将脚本检索、断点调试、函数 Hook、网络请求追踪、调用链分析、混淆还原和风险评估整合为统一能力，可直接接入 Claude、 Codex、Cursor 等支持 MCP 的客户端。你可以连接已开启的 Chrome，在登录态页面下持续采样请求参数与返回数据，快速定位签名、 加密、鉴权和关键业务流程。工具同时支持自动化页面操作与结构化报告导出，适合用于接口分析、安全研究、前端调试与工程排障等场景
-        - title: hello_js_reverse_skill
-          url: https://github.com/WhiteNightShadow/hello_js_reverse_skill
-          logo: github.png
-          description: AI-powered JS 逆向工程 Skill —— 覆盖加密还原、混淆分析、动态 Cookie、WASM 逆向、协议对抗等全链路场景，通过 Node.js 实现算法还原与模拟请求。适配 Claude Code / Claude.ai / 其他 AI 编码工具
         - title: frida-mcp
           url: https://github.com/1193776794/frida-mcp
           logo: github.png
           description: AI 驱动的 Android 动态分析工具。通过 MCP (Model Context Protocol) 让 AI 直接操控 Frida，实现自动化逆向分析
-        - title: api-reverse-engineer
-          url: https://github.com/ctala/api-reverse-engineer
-          logo: github.png
-          description: Chrome 扩展程序，用于捕获和逆向工程任何网站的 API 调用，支持 fetch 和 XHR 拦截，具有标签范围录制和 JSON 导出功能，非常适合逆向工程未公开的 API
-        - title: android-reverse-engineering-claude-skill
-          url: https://github.com/incogbyte/android-reverse-engineering-claude-skill
-          logo: github.png
-          description: Claude Code skill 可自动化 Android 逆向，反编译 APK、XAPK、AAB、DEX、JAR 和 AAR 文件，提取 HTTP 接口（Retrofit、OkHttp、Volley、GraphQL、WebSocket），追踪调用流程，分析安全模式，并记录发现的 API
-        - title: Rikugan (六眼)
-          url: https://github.com/buzzer-re/Rikugan
-          logo: github.png
-          description: 一个用于 IDA Pro 和 Binary Ninja 的逆向工程 agent
-        - title: 安全研究元思考方法论
-          url: https://github.com/tanweai/xianzhi-research
-          logo: github.png
-          description: 从先知社区 5621 篇安全文档中提炼的漏洞挖掘核心思维框架
         - title: ai-reverse-engineering
           url: https://github.com/biniamf/ai-reverse-engineering
           logo: github.png
@@ -4970,6 +5527,139 @@
           url: https://github.com/LaurieWired/GhidraMCP
           logo: github.png
           description: 通过 MCP 为 Ghidra 提供 AI 辅助逆向能力
+        - title: mcp-chrome
+          url: https://github.com/hangwin/mcp-chrome
+          logo: github.png
+          description: Chrome MCP Server 是一个基于 chrome 插件的 MCP 服务器，它将您的 Chrome 浏览器功能暴露给 Claude 等 AI 助手，实现复杂的浏览器自动化、内容分析和语义搜索等。与传统的浏览器自动化工具（如 playwright）不同，Chrome MCP server 直接使用您日常使用的 chrome 浏览器，基于现有的用户习惯和配置、登录态，让各种大模型或者各种 chatbot 都可以接管你的浏览器，真正成为你的日常助手
+        - title: mcp-termux
+          url: https://github.com/DengYongjiuDengYongjiu/mcp-termux
+          logo: github.png
+          description: MCP RE，Android 逆向工程一体化MCP服务器、73个工具、stackplz eBPF + paradise内存 + radare2静态分析、ARM64 Root
+        - title: Binary Ninja MCP
+          url: https://github.com/fosdickio/binary_ninja_mcp
+          logo: github.png
+          description: 一个包含 MCP 服务器的 Binary Ninja 插件，可无缝集成到您喜爱的 LLM/MCP 客户端中
+        - title: Another™ MCP Server for Binary Ninja
+          url: https://github.com/MCPPhalanx/binaryninja-mcp
+          logo: github.png
+          description: 另一个 Binary Ninja MCP 插件
+        - title: Charles MCP Server
+          url: https://github.com/heizaheiza/Charles-mcp
+          logo: github.png
+          description: Charles MCP Server 用于把 Charles Proxy 接入 MCP 客户端，让 agent 可以稳定地读取实时流量、分析历史录包，并在需要时再展开单条请求细节
+        - title: ProxyPin MCP Server
+          url: https://github.com/LunFengChen/proxypin-mcp-server
+          logo: github.png
+          description: ProxyPin 的 MCP 服务器，作用通俗点说就是 抓包软件有啥功能，ai 都能调用啥功能
+        - title: js-reverse-evolver
+          url: https://github.com/JiangtaoQu/js-reverse-evolver
+          logo: github.png
+          description: 这是一个自进化 JS 逆向工作流 MCP Server，主要用于 JavaScript 反混淆/逆向工程，具备自学习能力
+        - title: drissionpage-devtools-mcp
+          url: https://github.com/asidExxX/drissionpage-devtools-mcp
+          logo: github.png
+          description: 单一 MCP 服务，内部把 DrissionPage 和 js-reverse-mcp 合成到一起
+        - title: DrissionPageMCP
+          url: https://github.com/wxhzhwxhzh/DrissionPageMCP
+          logo: github.png
+          description: 基于 DrissionPage 和 FastMCP 的浏览器自动化 MCP 服务器，提供丰富的浏览器操作 API 供 AI 调用
+        - title: camoufox-reverse-mcp
+          url: https://github.com/WhiteNightShadow/camoufox-reverse-mcp
+          logo: github.png
+          description: Camoufox 的一个 MCP（Model Context Protocol）服务器，让 AI 编码助手（Claude Code、Cursor、Cline 等）能够通过 Camoufox 反指纹浏览器对目标网站进行：接口参数分析、JS 文件静态分析、动态断点调试、函数 Hook 追踪、网络流量拦截、JSVMP 字节码分析、Cookie/存储管理等逆向操作
+        - title: iOS MCP
+          url: https://github.com/witchan/ios-mcp
+          logo: github.png
+          description: 作者陈佬（猿人学讲师），iOS MCP 让 Claude、Codex、Cursor 等 AI 代理真正具备了控制 iPhone 真机的能力。它把截图、点击、输入、UI 读取、App 管理和设备控制等能力统一成一套 MCP 工具，为越狱环境下的 iPhone 自动化、测试、逆向和 AI Agent 落地提供了一种更直接的实现方式
+
+    - name: Skills
+      links:
+        - title: Android Reverse Engineering Skill
+          url: https://github.com/SimoneAvogadro/android-reverse-engineering-skill
+          logo: github.png
+          description: Claude Code Skill，可以反编译 Android APK/XAPK/JAR/AAR 文件，并提取应用程序使用的 HTTP API —— Retrofit 接口、OkHttp 调用、硬编码的 URL、认证模式，方便在没有原始源代码的情况下分析它们
+        - title: Reverse Engineering Skills
+          url: https://github.com/P4nda0s/reverse-skills
+          logo: github.png
+          description: 为 Claude Code 提供逆向工程分析技能的插件市场。专为 IDA-NO-MCP 设计 - 从 IDA 导出反编译结果，然后使用 Claude Code 进行分析
+        - title: reverse-skill
+          url: https://github.com/715494637/reverse-skill
+          logo: github.png
+          description: 面向 Web JS 逆向分析的技能仓库，覆盖请求链定位、运行时诊断、AST 混淆恢复、JSVMP、worker、WASM、webpack/runtime 与协议语义分析
+        - title: js-reverse-automation--skill
+          url: https://github.com/Fausto-404/js-reverse-automation--skill
+          logo: github.png
+          description: 结合 chrome-devtools-mcp 的能力并加上 Skill 的规范，实现 JSRPC + Flask + autoDecoder 方案的前端 JS 逆向自动化分析，提升 JS 逆向的效率
+        - title: jshook-skill
+          url: https://github.com/wuji66dde/jshook-skill
+          logo: github.png
+          description: AI 驱动 JS 逆向：反混淆、加密识别、CDP 调试、Hook 注入、反检测
+        - title: re-skill
+          url: https://github.com/vgrichina/re-skill
+          logo: github.png
+          description: 一种启动并推动 retro games 逆向工程项目的 Claude 代码技能。指向一个 ROM 或二进制文件，它将搭建一个完整的逆向工程工作空间——然后迭代地反汇编、注释、提取资源，并将游戏移植到 Web 画布上，所有操作均通过 CLI 完成
+        - title: Agent Skills
+          url: https://github.com/betab0t/skills/
+          logo: github.png
+          description: 一个不断更新的用于 AI coding agents 逆向工程的技能集合
+        - title: chrome-cdp-skill
+          url: https://github.com/pasky/chrome-cdp-skill
+          logo: github.png
+          description: 让你的 AI agent 访问你的实时 Chrome 会话，开箱即用，连接你已经打开的标签页
+        - title: Web Content Fetcher
+          url: https://github.com/shirenchuang/web-content-fetcher
+          logo: github.png
+          description: Web Content Fetcher 是一个 skill，是一个轻量级的网页正文提取工具，能够自动将任意网页转换为干净的 Markdown 格式，保留标题、链接、图片和列表结构,支持 Jina Reader / Scrapling / web_fetch 三级降级策略，完美支持微信公众号文章（Jina 无法读取的场景）
+        - title: hello_js_reverse_skill
+          url: https://github.com/WhiteNightShadow/hello_js_reverse_skill
+          logo: github.png
+          description: AI-powered JS 逆向工程 Skill —— 覆盖加密还原、混淆分析、动态 Cookie、WASM 逆向、协议对抗等全链路场景，通过 Node.js 实现算法还原与模拟请求。适配 Claude Code / Claude.ai / 其他 AI 编码工具
+        - title: android-reverse-engineering-claude-skill
+          url: https://github.com/incogbyte/android-reverse-engineering-claude-skill
+          logo: github.png
+          description: Claude Code skill 可自动化 Android 逆向，反编译 APK、XAPK、AAB、DEX、JAR 和 AAR 文件，提取 HTTP 接口（Retrofit、OkHttp、Volley、GraphQL、WebSocket），追踪调用流程，分析安全模式，并记录发现的 API
+        - title: andrej-karpathy-skills
+          url: https://github.com/forrestchang/andrej-karpathy-skills
+          logo: github.png
+          description: 一个用于改善 Claude Code 行为的 CLAUDE.md 文件，该文件基于 Andrej Karpathy 关于大语言模型编程缺陷的观察结果而制作，让大模型遵循四项原则：1. 编码前请先思考；2. 简单优先；3. 手术性改变；4. 以目标为导向的执行力
+        - title: spider-king-skill
+          url: https://github.com/aoyunyang/spider-king-skill
+          logo: github.png
+          description: 协议优先的逆向工程 skill
+        - title: xbsReverseSkill
+          url: https://github.com/lwjjike/xbsReverseSkill
+          logo: github.png
+          description: 一个面向 Web/JS 逆向分析的 skill 仓库，当前主要包含 3 个方向的能力模块，分别覆盖 AST 反混淆、纯算/协议逆向，以及浏览器补环境
+
+    - name: Agent
+      links:
+        - title: Rikugan (六眼)
+          url: https://github.com/buzzer-re/Rikugan
+          logo: github.png
+          description: 一个用于 IDA Pro 和 Binary Ninja 的逆向工程 agent
+        - title: opencode
+          url: https://github.com/anomalyco/opencode
+          logo: github.png
+          description: 开源的 AI Coding Agent，可配合 GhidrAssistMCP 等工具使用，在终端中完成逆向分析任务
+
+    - name: 其他工具
+      links:
+        - title: AI JS DEBUGGER
+          url: https://github.com/Valerian7/AI_JS_DEBUGGER
+          logo: github.png
+          description: 本项目是基于 Chrome 开发者协议 (CDP) 的 AI 自动化 JavaScript 逆向分析工具，通过 AI 自动调试前端 JS，自动分析加解密算法、密钥等，自动生成分析报告以及 mitmproxy 脚本
+        - title: ai-reverse-toolkit
+          url: https://github.com/zhizhuodemao/ai-reverse-toolkit
+          logo: github.png
+          description: 用于逆向分析的 AI 的 skills，rules 和 prompt
+        - title: JADX-GUI-AI
+          url: https://github.com/cncsnet1/jadx-gui-ai
+          logo: jadx-gui-ai.png
+          description: JADX-GUI-AI 是一个在 JADX 基础上增强的智能反编译工具，集成了 AI 辅助功能，可以帮助开发者更好地理解和分析反编译后的代码
+        - title: 安全研究元思考方法论
+          url: https://github.com/tanweai/xianzhi-research
+          logo: github.png
+          description: 从先知社区 5621 篇安全文档中提炼的漏洞挖掘核心思维框架
         - title: Ghidra Copilot
           url: https://github.com/knifeyspoony/ghidra-copilot
           logo: github.png
@@ -4986,15 +5676,32 @@
           url: https://github.com/radareorg/radare2
           logo: github.png
           description: radare2 (r2ai/decai 插件)：知名逆向框架 radare2 通过 r2ai 和 decai 插件集成大语言模型分析能力（需配置 API 秘钥或本地 Ollama）
-        - title: opencode
-          url: https://github.com/anomalyco/opencode
+        - title: AI Website Cloner Template
+          url: https://github.com/JCodesMore/ai-website-cloner-template
           logo: github.png
-          description: 开源的 AI Coding Agent，可配合 GhidrAssistMCP 等工具使用，在终端中完成逆向分析任务
-        - title: mcp-chrome
-          url: https://github.com/hangwin/mcp-chrome
-          logo: github.png
-          description: Chrome MCP Server 是一个基于 chrome 插件的 MCP 服务器，它将您的 Chrome 浏览器功能暴露给 Claude 等 AI 助手，实现复杂的浏览器自动化、内容分析和语义搜索等。与传统的浏览器自动化工具（如 playwright）不同，Chrome MCP server 直接使用您日常使用的 chrome 浏览器，基于现有的用户习惯和配置、登录态，让各种大模型或者各种 chatbot 都可以接管你的浏览器，真正成为你的日常助手
+          description: 利用 AI 编码代理逆向工程任何网站，创建干净、现代的 Next.js 代码库，指向一个 URL，运行 /clone-website，你的 AI agent 会检查网站，提取设计标记和资源，编写组件规范，并派遣并行构建者重建每个部分
+        - title: GeneralNewsExtractor
+          logo: gne.jpg
+          url: https://github.com/GeneralNewsExtractor/GeneralNewsExtractor
+          description: 新闻网页正文通用抽取器 Beta 版
+        - title: newspaper
+          logo: newspaper.jpg
+          url: https://github.com/codelucas/newspaper
+          description: Python3 中的新闻、全文和文章元数据提取
 
+- taxonomy: AI 其他
+  icon: fas fa-robot
+  list:
+    - term: AI 文本对话
+    - term: AI 代码编程
+    - term: AI 图像视频
+    - term: AI 音频音乐
+    - term: AI 数字人
+    - term: AI 文档办公
+    - term: AI Agent
+    - term: Skill/MCP 资源
+    - term: AI 其他资源
+  tabs:
     - name: AI 文本对话
       links:
         - title: ChatGPT
@@ -5192,10 +5899,14 @@
           url: https://toonme.com/
           logo: toonme.jpg
           description: AI 根据真人照片生成卡通动漫头像
-        - title: Faceswap
+        - title: Faceswap.dev
           url: https://faceswap.dev/
           logo: faceswap.png
           description: FaceSwap 是一个利用深度学习来识别图片和视频中的人脸，并进行变换人脸的工具
+        - title: FaceSwap.so
+          url: https://faceswap.so/
+          logo: faceswap.so.png
+          description: AI 在线换脸，即时在照片和视频中交换人脸
         - title: jpgHD
           url: https://jpghd.com/
           logo: jpghd.png
@@ -5208,6 +5919,22 @@
           url: https://qr.mewx.art/?invite_code=RVP98wzb
           logo: mewx.png
           description: 使用 MewXAI 星月熊在几秒内创建令人惊叹的下一代艺术二维码和艺术字。从此告别单调的黑白二维码和文字，留下令人深刻的印象
+        - title: Raphael AI
+          url: https://raphael.app/
+          logo: raphael.png
+          description: 全球首个无限免费 AI 图像生成器，同时还有 AI 扩展图像、AI 背景移除、AI 照片编辑器、AI 视频生成等工具
+        - title: Fameo
+          url: https://fameo.ai/
+          logo: fameo.png
+          description: AI 名人视频生成器，用 AI 对口型，让任何名人说任何话
+        - title: Wula
+          url: https://wula.ai/
+          logo: wula.png
+          description: 免费高质量 AI 视频生成器，将图片或文字转换成专业动态视频
+        - title: Morisot
+          url: https://morisot.ai/
+          logo: morisot.png
+          description: 无提示词 AI 绘画，输入粗略想法即可生成多样图片
 
     #        - title: MakeLogoAI
     #          url: https://makelogo.ai/
@@ -5249,6 +5976,10 @@
           url: https://tongyi.aliyun.com/tongyi/landing/?family=fun
           logo: qianwen.png
           description: 通义百聆是阿里巴巴在 2025 年杭州云栖大会上发布的语音模型家族，包含语音识别大模型 Fun-ASR 和语音合成大模型 Fun-CosyVoice，定位于企业级语音基座大模型。其语音识别基于数千万小时真实语料训练，具备多语言处理能力，语音合成提供上百种预制音色，适用于客服、有声书等多种场景
+        - title: AnyVoice
+          url: https://anyvoice.net/
+          logo: anyvoice.png
+          description: AI 声音克隆，当今可用速度最快、最准确的 AI 语音克隆技术，体验优质 AI 语音克隆，仅需 3 秒音频！
 
     - name: AI 数字人
       links:
@@ -5351,6 +6082,10 @@
           url: https://www.napkin.ai/
           logo: napkin.png
           description: 将文字转为精美的可视化效果，多种样式可选
+        - title: LandPPT
+          url: https://landppt.com/
+          logo: landppt.png
+          description: AI 驱动的开源智能演示文稿生成平台，LandPPT 是一款基于大语言模型的智能演示文稿平台，支持多模型 AI 驱动、联网深度研究、智能配图与排版、实时交互式编辑、自动生成演讲者备注
 
     - name: AI Agent
       links:
@@ -5378,10 +6113,13 @@
           url: https://tongyi-agent.github.io/zh/
           logo: qianwen.png
           description: 通义 DeepResearch 是深度研究 Agent 模型，拥有 3B 激活参数，性能对标基于 OpenAI o3、DeepSeek V3.1 和 Claude-4-Sonnet 等旗舰模型的 ReAct Agent
+
+    - name: Skill/MCP 资源
+      links:
         - title: Awesome OpenClaw Skills
           url: https://github.com/VoltAgent/awesome-openclaw-skills
           logo: github.png
-          description: OpenClaw 是一款在本地运行的 AI 助手，直接在您的机器上运行。技能（skills）扩展了其功能，使其能够与外部服务交互、自动化工作流程并执行专业任务。这个仓库帮助您发现并安装适合您需求的技能
+          description: OpenClaw Skill 的精彩集合。从官方 OpenClaw 技能注册表中筛选和分类的 5,400+ Skill
         - title: MCPWorld
           url: https://www.mcpworld.com/
           logo: mcpworld.png
@@ -5405,6 +6143,10 @@
 
     - name: AI 其他资源
       links:
+        - title: x-lab 统一大模型接口网关
+          url: https://api.x-lab.live/register?aff=WCet
+          logo: x-lab.png
+          description: x-lab 统一大模型接口网关
         - title: Free ChatGPT Site List
           url: https://ai55.cc/
           logo: ai55.png
@@ -5421,10 +6163,6 @@
           url: https://feizhuke.com/
           logo: feizhuke.png
           description: 网址导航，非猪 AI 导航
-        - title: AI 神器大全
-          url: https://aishenqi.net/
-          logo: aishenqi.png
-          description: 网址导航，AI 神器大全
         - title: AIGC 工具导航
           url: https://www.aigc.cn/
           logo: aigc.png
