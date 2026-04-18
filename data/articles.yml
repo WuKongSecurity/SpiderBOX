@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 逆向狗都不学
+      release_time: 2026.04.19 00:21:29
+      title: Android逆向之学习成果校验-1
+      url: https://www.bilibili.com/video/BV1rYdWBVELD
     - author: 逆向研究生
       release_time: 2026.04.18 22:29:34
       title: 发包基本流程
@@ -117,10 +121,6 @@
       release_time: 2026.04.04 13:20:51
       title: 验证码思路分享3-倾斜英文
       url: https://www.bilibili.com/video/BV1bWDKBZEwD
-    - author: EithanSolace
-      release_time: 2026.04.03 21:25:32
-      title: 密码学补完计划[第三十一期] 海绵结构
-      url: https://www.bilibili.com/video/BV1zL9MBXEGw
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
