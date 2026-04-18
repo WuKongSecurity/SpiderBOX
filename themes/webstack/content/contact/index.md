@@ -660,7 +660,7 @@ monitor:
         - id: gh_f89880d79473
           name: 菜鸡弟弟的逆向之路
           date: 2024.12.08
-          note:
+          note: 2026.04.19 移除监控，疑似把号卖了
         - id: gh_1dae307aa4ab
           name: virjar是渣渣
           date: 2024.12.08

@@ -3635,10 +3635,10 @@
           logo: gh_b237fabfe467.jpg
           qrcode: images/qrcode/gh_b237fabfe467.jpg
           description: 李玺公众号：Pythonlx
-        - title: 菜鸡弟弟的逆向之路
-          logo: gh_f89880d79473.jpg
-          qrcode: images/qrcode/gh_f89880d79473.jpg
-          description: 公众号：菜鸡弟弟的逆向之路
+#        - title: 菜鸡弟弟的逆向之路
+#          logo: gh_f89880d79473.jpg
+#          qrcode: images/qrcode/gh_f89880d79473.jpg
+#          description: 公众号：菜鸡弟弟的逆向之路
         - title: 逆向有你
 #          logo: nixiangyouni.jpg
           logo: gh_56313daabcfb.jpg
