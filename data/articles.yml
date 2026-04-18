@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 一只勇敢的小佳
+      release_time: 2026.04.18 18:14:39
+      title: 最强内核模块，最强小工具，最强lsposed
+      url: https://www.bilibili.com/video/BV1ipdpBwEeh
     - author: 人生导师duck
       release_time: 2026.04.18 12:18:36
       title: 关于大型项目源码阅读
@@ -117,10 +121,6 @@
       release_time: 2026.04.03 18:02:43
       title: AI逆向第一步就错了？2026年主流大模型横评与第三方接口接入避坑指南
       url: https://www.bilibili.com/video/BV1kh9uBhE8z
-    - author: 和沐阳学逆向与Ai
-      release_time: 2026.04.02 23:10:03
-      title: 80.CAP保姆级教程：你也可以无限使用gpt_Token+codexToken使用+注册机使用
-      url: https://www.bilibili.com/video/BV1729wBMEqL
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
