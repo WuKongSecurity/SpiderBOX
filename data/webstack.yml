@@ -1449,7 +1449,7 @@
       links:
         - title: Crawl4AI
           url: https://docs.crawl4ai.com/
-          logo: crawl4ai.png
+          logo: github.png
           description: 开源的友好大型语言模型网页爬虫和爬取工具
         - title: Steel
           url: https://steel.dev/
@@ -1484,7 +1484,7 @@
           logo: browserable.png
           description: Browser automation library for AI agents (JS). Build browser agents that can navigate sites, fill out forms, and extract information.
         - title: Skyvern
-          url: https://github.com/Skyvern-AI/skyvern
+          url: https://www.skyvern.com/
           logo: skyvern.png
           description: Skyvern automates browser-based workflows using LLMs and computer vision. It provides a Playwright-compatible SDK that adds AI functionality on top of playwright, as well as a no-code workflow builder to help both technical and non-technical users automate manual workflows on any website, replacing brittle or unreliable automation solutions.
         - title: Automa
@@ -1980,7 +1980,7 @@
           url: https://od.cloudsploit.top/
           description: wei's OneDrive 在线云盘，提供逆向工具、书籍等资源下载
         - title: 爱盘
-          logo: down.52pojie.png
+          logo: 52pojie.jpg
           url: https://down.52pojie.cn/Tools/Android_Tools/
           description: 吾爱破解论坛网盘，各种破解工具包资源下载
         - title: 010Editor
@@ -3451,6 +3451,10 @@
           url: https://coreclaw.com/
           logo: coreclaw.png
           description: CoreClaw helps teams extract web data from Amazon, TikTok, Google Maps and more with 100+ ready-made tools. No coding required, pay only for successful results.
+        - title: Grassdata
+          url: https://www.grassdata.net/
+          logo: grassdata.png
+          description: 全球优质数据服务商，企业级合规数据采集与智能解析，使用我们的自动化解决方案获取全球公开的网络数据，为 AI 模型和复杂工作流提供支持
 
     - name: 代理检测
       links:
@@ -3915,7 +3919,7 @@
           description: 公众号：矛和盾的故事
         - title: 一生向风
 #          logo: life-in-the-wind.png
-          logo: gh_737846ec76a6.png
+          logo: gh_737846ec76a6.jpg
           qrcode: images/qrcode/gh_737846ec76a6.jpg
           description: 公众号：一生向风
         - title: 沐阳逆向学习
@@ -4185,7 +4189,7 @@
 #          description: 公众号：K哥爬虫
         - title: 瑞数信息
 #          logo: riversecurity.png
-          logo: gh_6324d0db8119.png
+          logo: gh_6324d0db8119.jpg
           qrcode: images/qrcode/gh_6324d0db8119.jpg
           description: 公众号：瑞数信息
         - title: 极验
@@ -4195,7 +4199,7 @@
           description: 公众号：极验
         - title: 安全圈
 #          logo: ChinaAnQuan.png
-          logo: gh_834eaaa98a10.png
+          logo: gh_834eaaa98a10.jpg
           qrcode: images/qrcode/gh_834eaaa98a10.jpg
           description: 公众号：安全圈
         - title: 黑白之道
@@ -4232,71 +4236,72 @@
     - name: 吾爱破解博主
       links:
         - title: 正己
-          logo: 1109458.jpg
+          logo: 52pojie_1109458.jpg
           url: https://www.52pojie.cn/home.php?mod=space&uid=1109458&do=thread&view=me&from=space
           description: 正己的吾爱破解主页
         - title: 漁滒
-          logo: 557195.jpg
+#          logo: 557195.jpg
+          logo: 52pojie_557195.jpg
           url: https://www.52pojie.cn/home.php?mod=space&uid=557195&do=thread&view=me&from=space
           description: 漁滒的吾爱破解主页
         - title: Light紫星
-          logo: 358970.jpg
+          logo: 52pojie_358970.jpg
           url: https://www.52pojie.cn/home.php?mod=space&uid=358970&do=thread&view=me&from=space
           description: Light紫星的吾爱破解主页
         - title: yoyoRev
-          logo: 1980790.jpg
+          logo: 52pojie.jpg
           url: https://www.52pojie.cn/home.php?mod=space&uid=1980790&do=thread&view=me&from=space
           description: yoyoRev的吾爱破解主页
         - title: utf8
-          logo: 2296408.jpg
+          logo: 52pojie.jpg
           url: https://www.52pojie.cn/home.php?mod=space&uid=2296408&do=thread&view=me&from=space
           description: utf8的吾爱破解主页
         - title: LiXieZengHui
-          logo: 2155847.jpg
+          logo: 52pojie_2155847.jpg
           url: https://www.52pojie.cn/home.php?mod=space&uid=2155847&do=thread&view=me&from=space
           description: LiXieZengHui 的吾爱破解主页
         - title: xiayutianz
-          logo: 2188593.jpg
+          logo: 52pojie_2188593.jpg
           url: https://www.52pojie.cn/home.php?mod=space&uid=2188593&do=thread&view=me&from=space
           description: xiayutianz 的吾爱破解主页
         - title: LiSAimer
-          logo: 1286492.jpg
+          logo: 52pojie.jpg
           url: https://www.52pojie.cn/home.php?mod=space&uid=1286492&do=thread&view=me&from=space
           description: LiSAimer 的吾爱破解主页
         - title: Aircraftcomman5
-          logo: 2315441.jpg
+          logo: 52pojie_2315441.jpg
           url: https://www.52pojie.cn/home.php?mod=space&uid=2315441&do=thread&view=me&from=space
           description: Aircraftcomman5 的吾爱破解主页
         - title: buluo533
-          logo: 2241123.jpg
+          logo: 52pojie_2241123.jpg
           url: https://www.52pojie.cn/home.php?mod=space&uid=2241123&do=thread&view=me&from=space
           description: buluo533 的吾爱破解主页
         - title: littlewhite11
-          logo: 2327812.jpg
+          logo: 52pojie_2327812.jpg
           url: https://www.52pojie.cn/home.php?mod=space&uid=2327812&do=thread&view=me&from=space
           description: littlewhite11 的吾爱破解主页
         - title: hybpjx
-          logo: 2025904.jpg
+          logo: 52pojie_2025904.jpg
           url: https://www.52pojie.cn/home.php?mod=space&uid=2025904&do=thread&view=me&from=space
           description: hybpjx 的吾爱破解主页
         - title: 我是不会改名的
-          logo: 1372193.jpg
+          logo: 52pojie_1372193.jpg
           url: https://www.52pojie.cn/home.php?mod=space&uid=1372193&do=thread&view=me&from=space
           description: 我是不会改名的的吾爱破解主页
         - title: 中二
-          logo: 1844805.jpg
+          logo: 52pojie_1844805.jpg
           url: https://www.52pojie.cn/home.php?mod=space&uid=1844805&do=thread&view=me&from=space
           description: 中二的吾爱破解主页
         - title: dddd0526
-          logo: 1857500.jpg
+          logo: 52pojie_1857500.jpg
           url: https://www.52pojie.cn/home.php?mod=space&uid=1857500&do=thread&view=me&from=space
           description: dddd0526 的吾爱破解主页
         - title: Command
-          logo: 1354181.jpg
+          logo: 52pojie_1354181.jpg
           url: https://www.52pojie.cn/home.php?mod=space&uid=1354181&do=thread&view=me&from=space
           description: Command 的吾爱破解主页
         - title: scz
-          logo: 433091.jpg
+          logo: 52pojie_433091.jpg
           url: https://www.52pojie.cn/home.php?mod=space&uid=433091&do=thread&view=me&from=space
           description: scz 的吾爱破解主页
 
@@ -4861,7 +4866,7 @@
           url: https://oacia.dev/
           description: oacia 主页
         - title: ben-sb
-          logo: deobfuscate.jpg
+          logo: blog.deobfuscate.jpg
           url: https://blog.deobfuscate.io/
           description: ben-sb 的博客
         - title: HuaYunBin
@@ -5053,10 +5058,10 @@
           logo: 0xshoulderlab.png
           url: https://0xshoulderlab.site/
           description: 卓斌（网名小肩膀）与李岳阳（网名如意）大佬的课程，逆向与安全开发实战课程体系，网络爬虫，安卓逆向，iOS逆向，AI 逆向，浏览器内核开发，实战驱动，1对1辅导，闯关学习，助你高薪就业
-        - title: 杨如画
-          logo: gh_c637bce93320.png
+        - title: 杨如画安卓逆向
+          logo: gh_c637bce93320.jpg
           url: https://mp.weixin.qq.com/s/dCrlzS9W3s6Y8i47jf_vvA
-          description: 杨如画的安卓协议逆向课程
+          description: 杨如画大佬的安卓逆向课程
         - title: 养马场
           logo: zsxq.png
           url: https://t.zsxq.com/FjMHh
@@ -6122,7 +6127,7 @@
           description: OpenClaw Skill 的精彩集合。从官方 OpenClaw 技能注册表中筛选和分类的 5,400+ Skill
         - title: MCPWorld
           url: https://www.mcpworld.com/
-          logo: mcpworld.png
+          logo: mcpworld.jpg
           description: 探索海量可用的 MCP Servers
         - title: MCPMarket
           url: https://mcpmarket.com/
@@ -6134,7 +6139,7 @@
           description: 专为中国用户优化的 Skills 社区，SkillHub 精选 Top 50 高质量 AI Skills，经过安全审核与多维度评估，助你发现最实用的 AI 技能
         - title: Agent Skills Marketplace
           url: https://skillsmp.com/
-          logo: skillsmp.png
+          logo: skillsmp.jpg
           description: Agent Skills 市场
         - title: SkillNet
           url: http://skillnet.openkg.cn/
