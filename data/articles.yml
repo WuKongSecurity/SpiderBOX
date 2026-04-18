@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 人生导师duck
+      release_time: 2026.04.18 12:18:36
+      title: 关于大型项目源码阅读
+      url: https://www.bilibili.com/video/BV1nQdnBeEUr
     - author: tomysky0409
       release_time: 2026.04.16 23:58:57
       title: 验证码技巧分享-简单文本识别模型对比
@@ -117,10 +121,6 @@
       release_time: 2026.04.02 23:10:03
       title: 80.CAP保姆级教程：你也可以无限使用gpt_Token+codexToken使用+注册机使用
       url: https://www.bilibili.com/video/BV1729wBMEqL
-    - author: 如意-浏览器开发培训
-      release_time: 2026.04.01 23:44:12
-      title: safari指纹浏览器定制JS-HTTP语言指纹
-      url: https://www.bilibili.com/video/BV1vw9EBGE7f
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: ngiokweng
+      release_time: 2026.04.18 12:24:00
+      title: Appdome分析
+      url: https://www.52pojie.cn/thread-2103571-1-1.html
     - author: guxing666
       release_time: 2026.04.17 01:08:00
       title: 自动化识别缺口x换算问题
@@ -363,13 +367,13 @@
       release_time: 2026.03.27 17:21:00
       title: 最新版某货app bypassFrida检测
       url: https://www.52pojie.cn/thread-2099769-1-1.html
-    - author: 1JEY
-      release_time: 2026.03.26 15:29:00
-      title: 文字点选及语序点选验证码识别方案
-      url: https://www.52pojie.cn/thread-2099515-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: ngiokweng
+      release_time: 2026.04.18 12:24:29
+      title: '[原创] Appdome分析'
+      url: https://bbs.kanxue.com/thread-290866.htm
     - author: wx_Deity
       release_time: 2026.04.17 14:42:04
       title: '[原创]OnePlus 12 (LineageOS) 安装 KernelSU 踩坑与解决'
@@ -486,10 +490,6 @@
       release_time: 2026.04.10 10:24:44
       title: 使用 Cloudlare 实现免费邮箱服务器搭建
       url: https://blog.csdn.net/weixin_45307278/article/details/160008987
-    - author: Mr.He
-      release_time: 2026.04.09 21:13:16
-      title: '[原创]Android加固技术演进与脱壳方法论：从DEX落地到VMP的攻防全景'
-      url: https://bbs.kanxue.com/thread-290735.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
