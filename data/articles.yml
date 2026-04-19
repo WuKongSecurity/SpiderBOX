@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 冷月不是程序员
+      release_time: 2026.04.19 20:17:15
+      title: 最好的Linux发行版竟然是WSL？
+      url: https://www.bilibili.com/video/BV1KhoFBHEPY
     - author: 逆向狗都不学
       release_time: 2026.04.19 00:21:29
       title: Android逆向之学习成果校验-1
@@ -117,10 +121,6 @@
       release_time: 2026.04.06 11:20:10
       title: 是我变菜了还是这个世界变了？混淆加密的一键通杀方法！！！
       url: https://www.bilibili.com/video/BV1eoSRBiE7N
-    - author: tomysky0409
-      release_time: 2026.04.04 13:20:51
-      title: 验证码思路分享3-倾斜英文
-      url: https://www.bilibili.com/video/BV1bWDKBZEwD
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
