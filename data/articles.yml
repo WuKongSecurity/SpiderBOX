@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 逗逗苍穹
+      release_time: 2026.04.19 22:43:00
+      title: ai补环境(下)
+      url: https://www.52pojie.cn/thread-2103854-1-1.html
     - author: ngiokweng
       release_time: 2026.04.18 12:24:00
       title: Appdome分析
@@ -363,10 +367,6 @@
       release_time: 2026.03.29 02:14:00
       title: 【安卓逆向入门】风云格式工厂6.8.1去广告Xposed模块思路
       url: https://www.52pojie.cn/thread-2100014-1-1.html
-    - author: dddd0526
-      release_time: 2026.03.27 17:21:00
-      title: 最新版某货app bypassFrida检测
-      url: https://www.52pojie.cn/thread-2099769-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
