@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 人生导师duck
+      release_time: 2026.04.19 22:28:17
+      title: 看源码的本质：从问题到系统建模
+      url: https://www.bilibili.com/video/BV1aBdfBoEeD
     - author: 冷月不是程序员
       release_time: 2026.04.19 20:17:15
       title: 最好的Linux发行版竟然是WSL？
@@ -117,10 +121,6 @@
       release_time: 2026.04.07 17:17:51
       title: 极验4滑块逆向
       url: https://www.bilibili.com/video/BV121DvBKE8p
-    - author: 池唐不是糖
-      release_time: 2026.04.06 11:20:10
-      title: 是我变菜了还是这个世界变了？混淆加密的一键通杀方法！！！
-      url: https://www.bilibili.com/video/BV1eoSRBiE7N
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
