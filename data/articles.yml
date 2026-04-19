@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.04.19 17:26:44
+      title: 十年深耕，携手向前 | 小肩膀教育 x Grassdata
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484427&idx=1&sn=abe7f574cfea774edfe947212e41041e
     - author: 零基础爬虫第一天
       release_time: 2026.04.18 21:43:14
       title: 【vmp2】从 a + b 读懂栈式facelessjsvmp
@@ -240,10 +244,6 @@
       release_time: 2026.04.15 17:30:00
       title: AI逆向|使用AI反编译反混淆练习平台第18题jsvmp
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566473&idx=1&sn=6e0b746437fc213623d1ec80cd271e4f
-    - author: 反爬破解社
-      release_time: 2026.04.15 17:01:18
-      title: 基于深度学习的行为指纹识别对抗
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483846&idx=1&sn=121a2022433490180ff4a5add9f4b2fc
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
