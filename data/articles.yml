@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Yangser
+      release_time: 2026.04.19 16:56:42
+      title: '[原创]新版梆企检测绕过'
+      url: https://bbs.kanxue.com/thread-290874.htm
     - author: REerr
       release_time: 2026.04.19 10:35:58
       title: '[原创]一个零字节修改的 ARM64 Android Hook 框架实现'
@@ -486,10 +490,6 @@
       release_time: 2026.04.10 13:30:27
       title: JS逆向之猫眼 signKey和mygsig算法
       url: https://bingyun.blog.csdn.net/article/details/159998990
-    - author: 冰履踏青云
-      release_time: 2026.04.10 13:24:55
-      title: 卷死同事！GPT-5.4 Codex 安装 + 配置 + 使用 一步到位
-      url: https://bingyun.blog.csdn.net/article/details/160014381
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
