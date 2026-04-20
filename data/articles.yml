@@ -124,6 +124,30 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.04.20 18:11:14
+      title: Agent 配置 Jar Analyzer mcp
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489983&idx=1&sn=c4fffc24cd87a2de7485ef309cb5f96f
+    - author: 逆向有你
+      release_time: 2026.04.20 15:17:10
+      title: 2026安卓逆向 -- AI逆向（jadx）环境搭建
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041720&idx=1&sn=f5d671078c484191f10163c9f2dd4ab1
+    - author: 未闻Code
+      release_time: 2026.04.20 13:52:59
+      title: 一日一技：Vibe Coding 时代，如何用系统设计思路给大模型爬虫省钱提速
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991569&idx=1&sn=295ff53b145ac923bcbbefe87aff353a
+    - author: 泡泡以安
+      release_time: 2026.04.20 09:07:00
+      title: Unidbg学习笔记（八）：文件系统层补环境
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486049&idx=1&sn=3cc24998e0c93da410d455e2ed528ca8
+    - author: Coder小Q
+      release_time: 2026.04.20 08:30:00
+      title: 【量子计算】Bell 不等式：实验裁决量子力学
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495282&idx=1&sn=1c787c06e0ee7884fbb0a2e61e438c24
+    - author: 测试工程师成长之路
+      release_time: 2026.04.20 08:30:00
+      title: 还在为API限流和反爬虫头疼？试试这个让AI直接“借用”你浏览器身份的神器
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578855&idx=1&sn=00f57884b062219d20bb560efd4aced0
     - author: 如意私塾
       release_time: 2026.04.19 17:26:44
       title: 十年深耕，携手向前 | 小肩膀教育 x Grassdata
@@ -220,30 +244,6 @@
       release_time: 2026.04.16 08:02:00
       title: 【iOS逆向与安全】让 Claude、Codex 控制iPhone，iOS MCP 来了
       url: https://mp.weixin.qq.com/s?__biz=MjM5MjEzMDAzMg==&mid=2257485056&idx=1&sn=67722a70a5ea80f374b40127e48d3f6a
-    - author: 未闻Code
-      release_time: 2026.04.15 20:48:12
-      title: 'AI记忆的主权之争: 别把AI记忆交给大厂'
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991549&idx=1&sn=e20036931a29971a9bdf94bf0e47e402
-    - author: 如意私塾
-      release_time: 2026.04.15 18:53:16
-      title: 乱杀px盾：ruyiPage版本outlook微软邮箱注册机
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484406&idx=1&sn=abe2ad0ce6de6286fdce8a07b6af1198
-    - author: 进击的HACK
-      release_time: 2026.04.15 17:57:10
-      title: 攻防演练外围打点之Shiro反序列化
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489967&idx=1&sn=ab6415edc1279e82c711ea7a6b07f594
-    - author: 菜鸟学Python编程
-      release_time: 2026.04.15 17:30:00
-      title: AI逆向|使用AI反编译反混淆练习平台第18题jsvmp
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566473&idx=1&sn=6e0b746437fc213623d1ec80cd271e4f
-    - author: 反爬破解社
-      release_time: 2026.04.15 17:01:18
-      title: 基于深度学习的行为指纹识别对抗
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483846&idx=1&sn=121a2022433490180ff4a5add9f4b2fc
-    - author: 反爬破解社
-      release_time: 2026.04.15 17:01:18
-      title: 长期失眠睡不着，睡前喝一杯，
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483846&idx=2&sn=cc88b0ee4074bc7d4460eb49b285cf67
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
