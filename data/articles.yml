@@ -378,6 +378,10 @@
       release_time: 2026.04.20 21:45:03
       title: '[原创]腾讯游戏安全初赛 Android 客户端分析'
       url: https://bbs.kanxue.com/thread-290903.htm
+    - author: 悦来客栈的老板
+      release_time: 2026.04.20 20:46:39
+      title: AI逆向|推荐几个js逆向相关的mcp和skills
+      url: https://blog.csdn.net/qq523176585/article/details/160349514
     - author: a'ゞCicada
       release_time: 2026.04.20 00:08:33
       title: '[原创] 2026腾讯游戏安全技术竞赛-安卓决赛VM分析与还原'
@@ -486,10 +490,6 @@
       release_time: 2026.04.11 07:50:08
       title: '[分享]一些安全类网站（不定期更新）'
       url: https://bbs.kanxue.com/thread-290758.htm
-    - author: gal2xy
-      release_time: 2026.04.10 21:26:46
-      title: '[原创]Frida源码分析之Hook原理篇'
-      url: https://bbs.kanxue.com/thread-290756.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
