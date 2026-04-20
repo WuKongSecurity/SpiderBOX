@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2026.04.20 20:46:19
+      title: AI逆向|推荐几个js逆向相关的mcp和skills
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566477&idx=1&sn=8672629c3e7e723cbbc74ae405118b10
     - author: 零基础爬虫第一天
       release_time: 2026.04.20 20:10:29
       title: 【vmp3】仿rs-witch转多层级if
@@ -236,10 +240,6 @@
       release_time: 2026.04.16 09:09:00
       title: Unidbg学习笔记（六）：补环境的思维框架
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486032&idx=1&sn=f1c1ac51f7ad3c808fca5177b831e476
-    - author: CYRUS STUDIO
-      release_time: 2026.04.16 08:30:00
-      title: Frida 检测与对抗实战：进程、maps、线程、符号全特征清除
-      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486612&idx=1&sn=164008f6f87a92f48b9a2e1852340d97
     - author: 移动端Android和iOS开发技术分享
       release_time: 2026.04.16 08:02:00
       title: 【iOS逆向与安全】让 Claude、Codex 控制iPhone，iOS MCP 来了
@@ -370,6 +370,14 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Jmn314
+      release_time: 2026.04.20 21:46:04
+      title: '[原创]基于图书管理系统的漏洞复现与代码审计'
+      url: https://bbs.kanxue.com/thread-290904.htm
+    - author: mxystery
+      release_time: 2026.04.20 21:45:03
+      title: '[原创]腾讯游戏安全初赛 Android 客户端分析'
+      url: https://bbs.kanxue.com/thread-290903.htm
     - author: a'ゞCicada
       release_time: 2026.04.20 00:08:33
       title: '[原创] 2026腾讯游戏安全技术竞赛-安卓决赛VM分析与还原'
@@ -482,14 +490,6 @@
       release_time: 2026.04.10 21:26:46
       title: '[原创]Frida源码分析之Hook原理篇'
       url: https://bbs.kanxue.com/thread-290756.htm
-    - author: gal2xy
-      release_time: 2026.04.10 21:24:46
-      title: '[原创]Frida源码分析之Hook原理篇'
-      url: https://bbs.kanxue.com/thread-290755.htm
-    - author: NullLine
-      release_time: 2026.04.10 14:13:00
-      title: 从协议缺陷到空中劫持——伪基站攻击
-      url: https://xz.aliyun.com/news/91943
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
