@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 零基础爬虫第一天
+      release_time: 2026.04.20 20:10:29
+      title: 【vmp3】仿rs-witch转多层级if
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484384&idx=1&sn=1a5af93767ad070f404e0ab270a8f990
     - author: 进击的HACK
       release_time: 2026.04.20 18:11:14
       title: Agent 配置 Jar Analyzer mcp
@@ -236,10 +240,6 @@
       release_time: 2026.04.16 08:30:00
       title: Frida 检测与对抗实战：进程、maps、线程、符号全特征清除
       url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486612&idx=1&sn=164008f6f87a92f48b9a2e1852340d97
-    - author: Coder小Q
-      release_time: 2026.04.16 08:30:00
-      title: 【量子计算】量子纠缠（上）：张量积与多量子比特系统
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495233&idx=1&sn=047c4ad028d922bd3439165071b1f575
     - author: 移动端Android和iOS开发技术分享
       release_time: 2026.04.16 08:02:00
       title: 【iOS逆向与安全】让 Claude、Codex 控制iPhone，iOS MCP 来了
