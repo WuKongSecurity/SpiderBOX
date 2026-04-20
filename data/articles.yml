@@ -144,18 +144,10 @@
       release_time: 2026.04.18 10:45:06
       title: 指纹识别篇：从浏览器指纹到设备指纹，你的爬虫如何"隐身"？
       url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483859&idx=1&sn=76c30e886458513d86ed21fccaa65d2b
-    - author: 反爬破解社
-      release_time: 2026.04.18 10:45:06
-      title: 硅胶减震+弹簧支持，打篮球跑步健身必备，专业运动员都在用它！
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483859&idx=2&sn=c83e62790c9a198a6db299fbc4869a94
     - author: 进击的HACK
       release_time: 2026.04.17 18:16:01
       title: 快速了解一个mcp
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489978&idx=1&sn=c03f2624b60cbc04fcbf51f1426a2e32
-    - author: 嚼碎了说书
-      release_time: 2026.04.17 18:14:53
-      title: 孩子叛逆顶嘴、不尊重你？掌握这 10 句核心话术，比管教管用 10 倍
-      url: https://mp.weixin.qq.com/s?__biz=MzU1ODA2Njk0OQ==&mid=2247484347&idx=1&sn=c073f9b7ee8cc57203c71e2ea822b8cb
     - author: 逆向搅屎棍
       release_time: 2026.04.17 14:48:31
       title: Minion-Bot 小弟机器人提示词
@@ -244,6 +236,14 @@
       release_time: 2026.04.15 17:30:00
       title: AI逆向|使用AI反编译反混淆练习平台第18题jsvmp
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566473&idx=1&sn=6e0b746437fc213623d1ec80cd271e4f
+    - author: 反爬破解社
+      release_time: 2026.04.15 17:01:18
+      title: 基于深度学习的行为指纹识别对抗
+      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483846&idx=1&sn=121a2022433490180ff4a5add9f4b2fc
+    - author: 反爬破解社
+      release_time: 2026.04.15 17:01:18
+      title: 长期失眠睡不着，睡前喝一杯，
+      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483846&idx=2&sn=cc88b0ee4074bc7d4460eb49b285cf67
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
