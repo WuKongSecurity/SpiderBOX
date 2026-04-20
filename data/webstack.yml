@@ -516,6 +516,10 @@
           logo: creditcardvalidator.png
           url: https://www.creditcardvalidator.org/generator
           description: 虚假信用卡号生成器，含有效的 IIN（发卡机构识别码），且能够通过 Luhn 算法验证。如有需要，还可以生成 CVC（安全码）和有效期。这些卡号可用于测试支付验证系统等
+        - title: 4Devs
+          logo: 4devs.png
+          url: https://www.4devs.com.br/
+          description: 生成虚假的 CNPJ（巴西企业税务识别号码）、CEP（巴西邮政编码）、CPF（个人纳税人识别号）等各种巴西号码
         - title: DarkStore
           logo: dark.shopping.jpg
           url: https://dark.shopping/
@@ -1827,6 +1831,10 @@
           logo: strace.png
           url: https://strace.io/
           description: strace 常用来跟踪进程执行时的系统调用和所接收的信号
+        - title: AndroidPrybar
+          logo: github.png
+          url: https://github.com/GitKittys/AndroidPrybar
+          description: Android Native Trace 与逆向分析工具，用于函数包装执行、指令跟踪、JNI 调用观测与外部跳转控制
 
     - name: 抓包相关
       links:
@@ -1897,6 +1905,10 @@
           logo: ApkToolPlus.png
           url: https://github.com/CYRUS-STUDIO/ApkToolPlus
           description: ApkToolPlus 是一个可视化的跨平台 apk 分析工具，apk 反编译，签名，apk 加固，dex 加密，防逆向，防止二次打包，apk 常见信息查看等
+        - title: Androguard
+          logo: androguard.png
+          url: https://github.com/androguard/androguard
+          description: Androguard 是一款‌基于 Python 的 Android 应用逆向工程与渗透测试工具‌，主要用于 APK 文件分析、代码反编译及安全审计，帮助研究人员深入了解应用内部结构和潜在安全风险
         - title: dex2jar
           logo: github.png
           url: https://github.com/pxb1988/dex2jar
@@ -1909,6 +1921,10 @@
           logo: github.png
           url: https://github.com/liaojack8/AndroidKiller
           description: Android 应用程序逆向工具(apk反编译工具)
+        - title: Enjarify
+          logo: github.png
+          url: https://github.com/Storyyeller/enjarify
+          description: Enjarify 是一个将 Dalvik 字节码翻译为等效 Java 字节码的工具
         - title: Bytecode Viewer
           logo: github.png
           url: https://github.com/Konloch/bytecode-viewer
@@ -2184,6 +2200,10 @@
           logo: github.png
           url: https://github.com/biggerstar/wedecode
           description: 全自动化，微信小程序 wxapkg 源代码还原工具, 线上代码安全审计，支持 Windows, Macos, Linux
+        - title: we-mp-rss
+          logo: we-mp-rss.png
+          url: https://github.com/rachelos/we-mp-rss
+          description: WeRSS - 微信公众号订阅助手，定时更新订阅公众号文章、生成微信公众号 RSS 订阅源、导出微信公众号订阅源、支持微信公众号 Webhook/微信公众号 API/AI Agent 接入微信公众号
 
     - name: 微信相关
       links:
@@ -5040,7 +5060,8 @@
           description: 陈不不大佬的 JSVMP 反编译课程，微信：Chankipen
         - title: 沐阳安卓、iOS 逆向
           logo: muyangjy888.jpg
-          url: https://static.wukongsec.com/spiderbox/images/course/Ays971124.jpg
+#          url: https://static.wukongsec.com/spiderbox/images/course/Ays971124.jpg
+          url: https://github.com/muyang520/muyangcoursedescription
           description: 沐阳大佬的移动安全之安卓逆向、移动安全之iOS逆向，▶️备注BOB，沐阳微信：Ays971124
         - title: 珍惜安卓逆向
           logo: lyh296488320.jpg
@@ -5536,10 +5557,10 @@
           url: https://github.com/hangwin/mcp-chrome
           logo: github.png
           description: Chrome MCP Server 是一个基于 chrome 插件的 MCP 服务器，它将您的 Chrome 浏览器功能暴露给 Claude 等 AI 助手，实现复杂的浏览器自动化、内容分析和语义搜索等。与传统的浏览器自动化工具（如 playwright）不同，Chrome MCP server 直接使用您日常使用的 chrome 浏览器，基于现有的用户习惯和配置、登录态，让各种大模型或者各种 chatbot 都可以接管你的浏览器，真正成为你的日常助手
-        - title: mcp-termux
-          url: https://github.com/DengYongjiuDengYongjiu/mcp-termux
+        - title: MCP Termux
+          url: https://github.com/PhoenixHairpin/mcp-termux
           logo: github.png
-          description: MCP RE，Android 逆向工程一体化MCP服务器、73个工具、stackplz eBPF + paradise内存 + radare2静态分析、ARM64 Root
+          description: MCP RE，Android 逆向工程一体化 MCP 服务器、73个工具、stackplz eBPF + paradise内存 + radare2 静态分析、ARM64 Root
         - title: Binary Ninja MCP
           url: https://github.com/fosdickio/binary_ninja_mcp
           logo: github.png
@@ -5576,6 +5597,30 @@
           url: https://github.com/witchan/ios-mcp
           logo: github.png
           description: 作者陈佬（猿人学讲师），iOS MCP 让 Claude、Codex、Cursor 等 AI 代理真正具备了控制 iPhone 真机的能力。它把截图、点击、输入、UI 读取、App 管理和设备控制等能力统一成一套 MCP 工具，为越狱环境下的 iPhone 自动化、测试、逆向和 AI Agent 落地提供了一种更直接的实现方式
+        - title: XcodeBuildMCP
+          url: https://github.com/getsentry/XcodeBuildMCP
+          logo: github.png
+          description: Xcode MCP，为在 iOS 和 macOS 项目上工作的 agent 提供工具
+        - title: ReverseCraft DevTools MCP
+          url: https://github.com/reverse-craft/rc-devtools-mcp
+          logo: github.png
+          description: 一个强大的 MCP 服务器，用于浏览器调试和逆向工程。提供具有全面浏览器自动化、JavaScript 调试和网络分析功能的 AI 编码助手
+        - title: smart-fs
+          url: https://github.com/reverse-craft/smart-fs
+          logo: github.png
+          description: AI 辅助的 JavaScript 逆向工程的 MCP 服务器。美化压缩/混淆的代码，并截断长字符串以防止 LLM 上下文溢出
+        - title: ai-tools
+          url: https://github.com/reverse-craft/ai-tools
+          logo: github.png
+          description: AI 驱动的 JSVMP 检测的 MCP 服务器。提供由 LLM 驱动的代码分析工具，用于识别 JavaScript VMP 保护模式
+        - title: Reversecore_MCP
+          url: https://github.com/sjkim1127/Reversecore_MCP
+          logo: github.png
+          description: 一款以安全为先的 MCP 服务器，赋能 AI agents，能够协调 Ghidra、Radare2 和 YARA，实现自动逆向工程
+        - title: Android 逆向工程 MCP 工具套件
+          url: https://github.com/kggzs/ApkMCP-Auto
+          logo: github.png
+          description: 本项目是一个 Android 逆向工程工具集合，通过 MCP (Model Context Protocol) 协议将 AI 助手（如 Claude）与专业的 Android 反编译工具连接起来，实现智能化的 APK 分析与修改
 
     - name: Skills
       links:
@@ -5599,6 +5644,10 @@
           url: https://github.com/wuji66dde/jshook-skill
           logo: github.png
           description: AI 驱动 JS 逆向：反混淆、加密识别、CDP 调试、Hook 注入、反检测
+        - title: js-env-patcher
+          url: https://github.com/zhizhuodemao/js-env-patcher
+          logo: github.png
+          description: js 补环境 skill，内置多种环境以及监控
         - title: re-skill
           url: https://github.com/vgrichina/re-skill
           logo: github.png
@@ -5685,6 +5734,14 @@
           url: https://github.com/JCodesMore/ai-website-cloner-template
           logo: github.png
           description: 利用 AI 编码代理逆向工程任何网站，创建干净、现代的 Next.js 代码库，指向一个 URL，运行 /clone-website，你的 AI agent 会检查网站，提取设计标记和资源，编写组件规范，并派遣并行构建者重建每个部分
+        - title: reverse-api-engineer
+          url: https://github.com/kalil0321/reverse-api-engineer
+          logo: github.png
+          description: 捕获浏览器流量并自动生成生产就绪的 Python API 客户端的 CLI 工具，无需手动逆向工程—只需浏览、捕获并获取干净的 API 代码
+        - title: areclaw
+          url: https://github.com/TheQmaks/areclaw
+          logo: github.png
+          description: 独立的 Android 应用安全分析环境：反编译、流量拦截、动态插桩、秘密扫描和 API 发现。由 Claude Code 作为 AI 驱动的编排器提供支持
         - title: GeneralNewsExtractor
           logo: gne.jpg
           url: https://github.com/GeneralNewsExtractor/GeneralNewsExtractor
@@ -6098,6 +6155,14 @@
           url: https://openclaw.ai/
           logo: openclaw.png
           description: OpenClaw（原 Clawdbot、Moltbot） 是开源免费的个人 AI 助手，能在个人电脑（如 Mac、Windows、Linux）上运行，支持通过 WhatsApp、Telegram、iMessage 等聊天软件接收指令并直接操作电脑完成任务。能整理文件、修复代码、管理邮件，支持接入 Anthropic、OpenAI 等顶尖模型。具备永久记忆功能，能记住用户偏好和上下文自我进化，根据新指令开发新技能。OpenClaw 强大的灵活性和扩展性使其成为提升个人效率和生产力的理想工具
+        - title: QClaw
+          url: https://qclaw.qq.com/
+          logo: qclaw.png
+          description:  QClaw 是腾讯推出的个人 AI 助手，可微信远程整理文件、执行复杂任务、无需编程基础，适配办公 / 创作 / 开发等多场景，丰富技能生态越用越懂你
+        - title: QQ-BOT
+          url: https://q.qq.com/qqbot/openclaw/index.html
+          logo: qqbot.png
+          description: 创建 QQ 机器人并绑定至 OpenClaw、Hermes 等环境，即可通过 QQ 机器人向 AI 下达指令
         - title: 扣子
           url: https://www.coze.cn/overview?invite_code=e0f08a7ab1cd4ab8ba8c7f5979027c60
           logo: coze.jpg
