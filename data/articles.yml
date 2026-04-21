@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2026.04.21 15:55:56
+      title: 心流鼠标手势 FlowMouse v2.0 “区域框选” 发布
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144271&idx=1&sn=dd0c55144e286250970cb004a4bb824d
+    - author: 如意私塾
+      release_time: 2026.04.21 15:51:28
+      title: 过检测web自动化支持异步 | 过5s盾异步演示
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484441&idx=1&sn=029409af8f231a8fd5b7c9d87ef64785
     - author: 哆啦安全
       release_time: 2026.04.21 12:05:15
       title: 收藏级｜移动固件提取、解包、逆向工具大全（附全网最全地址）
@@ -236,14 +244,6 @@
       release_time: 2026.04.17 07:30:00
       title: 首批！极验通过《鸿蒙 SDK 用户权益保护与个人信息评测》 助力鸿蒙生态共建
       url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724447&idx=1&sn=206fe962eb292e4d9eba5f61cff50a2d
-    - author: 进击的HACK
-      release_time: 2026.04.16 21:22:39
-      title: claude code + cc-switch 反编译分析APK
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489973&idx=1&sn=317a6db65cad1c336d007423cef2d83a
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.04.16 16:32:17
-      title: 浙江网信办3月执法处置通报：一企业因数据遭境外窃取被处罚
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520024&idx=1&sn=39879eba29379914a4a4bdc43eeb1882
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
