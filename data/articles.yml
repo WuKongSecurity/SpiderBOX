@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: anke1
+      release_time: 2026.04.21 21:31:00
+      title: 两步路户外助手会员分析和新百度加固去除
+      url: https://www.52pojie.cn/thread-2104201-1-1.html
     - author: '13955925361'
       release_time: 2026.04.21 00:05:00
       title: 新版小红书首页笔记获取及X-s参数解密
@@ -363,13 +367,13 @@
       release_time: 2026.03.30 09:35:00
       title: 主题Monokai Pro序列号算法分析
       url: https://www.52pojie.cn/thread-2100203-1-1.html
-    - author: LiXieZengHui
-      release_time: 2026.03.29 14:33:00
-      title: 某红书4.3.2 ob混淆还原(字符串数组/字典/控制流平坦化)
-      url: https://www.52pojie.cn/thread-2100076-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: n_1ng
+      release_time: 2026.04.21 22:10:49
+      title: '[原创]从0到1构建一个Hook工具之PLT Hook篇（四）'
+      url: https://bbs.kanxue.com/thread-290921.htm
     - author: '0xfffb'
       release_time: 2026.04.21 13:19:47
       title: '[原创]反爬战略和MCP对抗思路'
@@ -486,10 +490,6 @@
       release_time: 2026.04.11 11:25:07
       title: JS逆向之虎牙 Web 登录 appSign和password加密
       url: https://bingyun.blog.csdn.net/article/details/159994394
-    - author: w2sfot
-      release_time: 2026.04.11 09:46:50
-      title: 反AI逆向JS加密
-      url: https://blog.csdn.net/w2sft/article/details/160042948
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
