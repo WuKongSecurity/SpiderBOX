@@ -247,6 +247,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 罗婷
+      release_time: 2026.04.22 02:55:00
+      title: AndroidManifest魔改分析向-记一次对魔改样本的分析和经验分享
+      url: https://www.52pojie.cn/thread-2104220-1-1.html
+    - author: n1ng
+      release_time: 2026.04.21 22:11:00
+      title: 从0到1构建一个Hook工具之PLT Hook篇（四）
+      url: https://www.52pojie.cn/thread-2104206-1-1.html
     - author: anke1
       release_time: 2026.04.21 21:31:00
       title: 两步路户外助手会员分析和新百度加固去除
@@ -359,14 +367,6 @@
       release_time: 2026.03.31 17:27:00
       title: 猿人学第三题逆向分析
       url: https://www.52pojie.cn/thread-2100547-1-1.html
-    - author: yanmf
-      release_time: 2026.03.30 22:43:00
-      title: 某店的逆向
-      url: https://www.52pojie.cn/thread-2100377-1-1.html
-    - author: jie1525050
-      release_time: 2026.03.30 20:30:00
-      title: 某卡Flutter请求响应加密分析
-      url: https://www.52pojie.cn/thread-2100363-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
