@@ -2,6 +2,10 @@
   list:
   - links:
     - author: 如意-浏览器开发培训
+      release_time: 2026.04.21 18:47:35
+      title: firefox指纹内核之HTTP密码代理改造支持
+      url: https://www.bilibili.com/video/BV1s5dSBnEPa
+    - author: 如意-浏览器开发培训
       release_time: 2026.04.20 17:55:33
       title: 新一代web自动化只拟人化鼠标行为演示
       url: https://www.bilibili.com/video/BV1sToKBwEAP
@@ -117,10 +121,6 @@
       release_time: 2026.04.07 20:29:48
       title: 【SaoPageV2】 自动过tiktok验证码！
       url: https://www.bilibili.com/video/BV1ptDeBfEWP
-    - author: x1a0f3n9
-      release_time: 2026.04.07 20:25:37
-      title: 深度混淆与魔改md5的还原方案理论讲解
-      url: https://www.bilibili.com/video/BV1a3DeB6ENK
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
