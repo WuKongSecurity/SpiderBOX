@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.04.21 18:12:12
+      title: AI代码审计 | 通过补丁信息分析漏洞生成Poc
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489988&idx=1&sn=784ffc2494e597bf2cc21dc5d03feedd
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.04.21 17:54:11
+      title: 法国国家重要证件管理机构遭网络攻击，部分用户信息泄露
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520030&idx=1&sn=e3d0addc6aff173a1d247ac544632d5d
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.04.21 17:54:11
+      title: 中国数据保护月度报告：重点提示及目录（2026年4月）
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520030&idx=2&sn=787458ae2dcdfc0937e54645c162f321
     - author: 吾爱破解论坛
       release_time: 2026.04.21 15:55:56
       title: 心流鼠标手势 FlowMouse v2.0 “区域框选” 发布
@@ -232,21 +244,13 @@
       release_time: 2026.04.17 08:50:00
       title: unidbg 实战：狐友APP sig 签名逆向全记录
       url: https://mp.weixin.qq.com/s?__biz=MzkwMzg4NDI4Mw==&mid=2247484653&idx=1&sn=c3160cdfb9ee956da6b1895b7dde04ea
-    - author: CYRUS STUDIO
-      release_time: 2026.04.17 08:30:00
-      title: 基于 tcpdump 解析 Frida 通信协议：实现 frida-server 端口扫描与绕过
-      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486613&idx=1&sn=9960bc45ae3aa7e71d21475602f3b0e4
-    - author: Coder小Q
-      release_time: 2026.04.17 08:30:00
-      title: 【量子计算】量子纠缠（下）：物理含义与非定域性
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495262&idx=1&sn=9b44ccbbb8ea69fdff6628cec440d99c
-    - author: 极验
-      release_time: 2026.04.17 07:30:00
-      title: 首批！极验通过《鸿蒙 SDK 用户权益保护与个人信息评测》 助力鸿蒙生态共建
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724447&idx=1&sn=206fe962eb292e4d9eba5f61cff50a2d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: '13955925361'
+      release_time: 2026.04.21 00:05:00
+      title: 新版小红书首页笔记获取及X-s参数解密
+      url: https://www.52pojie.cn/thread-2104039-1-1.html
     - author: 逗逗苍穹
       release_time: 2026.04.19 22:43:00
       title: ai补环境(下)
@@ -363,10 +367,6 @@
       release_time: 2026.03.29 14:33:00
       title: 某红书4.3.2 ob混淆还原(字符串数组/字典/控制流平坦化)
       url: https://www.52pojie.cn/thread-2100076-1-1.html
-    - author: lccccccc
-      release_time: 2026.03.29 09:03:00
-      title: 某地图绘制网站pro版本授权分析
-      url: https://www.52pojie.cn/thread-2100029-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
