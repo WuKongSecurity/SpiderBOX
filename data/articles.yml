@@ -124,6 +124,34 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 泡泡以安
+      release_time: 2026.04.21 11:32:33
+      title: 抖音极速版 Feed 流 Protobuf 协议全量还原
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486070&idx=1&sn=2b87bd1da628e30957189ec1c82e4579
+    - author: 如意私塾
+      release_time: 2026.04.21 11:10:26
+      title: 【万字记录】AI自动乱杀瑞数6代，从412到200的完整实录，检测点+指纹环境通杀
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484439&idx=1&sn=22b1d3058609e0d93c552d01d512c8fc
+    - author: 爬虫逆向小林哥
+      release_time: 2026.04.21 10:17:05
+      title: Ai还原x-zse-96 vmp纯算
+      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487278&idx=1&sn=27c682c0ff9f6f598c211c261168f6b9
+    - author: 如意私塾
+      release_time: 2026.04.21 09:35:00
+      title: 铁证：你的浏览器指纹正在被用来给你投广告——改一下指纹，广告竞价立刻变了
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484433&idx=1&sn=f27cb90d152403a2adccc84279c335db
+    - author: 菜鸟学Python编程
+      release_time: 2026.04.21 09:25:01
+      title: AI逆向|使用AI解决jsvmp的几种方式
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566481&idx=1&sn=6654a3079711699c068360520efd232a
+    - author: 泡泡以安
+      release_time: 2026.04.21 09:13:00
+      title: Unidbg学习笔记（九）：系统调用层补环境
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486058&idx=1&sn=16d2454f1b746b5e1f653f4d976ddd5e
+    - author: Coder小Q
+      release_time: 2026.04.21 08:30:00
+      title: 【量子计算】单量子比特门：从 Bloch 球上的旋转到量子电路里的操作
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495303&idx=1&sn=c9792bdd05b354da2ff14033b5e18d06
     - author: 菜鸟学Python编程
       release_time: 2026.04.20 20:46:19
       title: AI逆向|推荐几个js逆向相关的mcp和skills
@@ -216,34 +244,6 @@
       release_time: 2026.04.16 16:32:17
       title: 上海“一网通办”门户网站正式上线个人信息保护专区
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520024&idx=2&sn=0a0331712d254bfef6dcccc8a114a533
-    - author: 未闻Code
-      release_time: 2026.04.16 15:46:04
-      title: 一日一技：如何正确节省90%的大模型Token
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991560&idx=1&sn=feb2d6e452dd04746697f71628297fe3
-    - author: 哆啦安全
-      release_time: 2026.04.16 13:06:47
-      title: 固件逆向分析AI技能(MCP)工具
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500136&idx=1&sn=d6d1c2c06ef808dfdb1599ef4c6bfe2e
-    - author: 吾爱破解论坛
-      release_time: 2026.04.16 12:09:44
-      title: x64dbg插件无驱动过vmp3.9.4反调试
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144264&idx=1&sn=189e58a7a9ec333be36e0093a5b77c92
-    - author: 逆向搅屎棍
-      release_time: 2026.04.16 11:40:28
-      title: '# 这不是普通脚本，这是个真能打的 Skill：Spider King 到底能干嘛？'
-      url: https://mp.weixin.qq.com/s?__biz=MzYzNDQzNDIyNg==&mid=2247483666&idx=1&sn=44bd484f558b61c286df46d99b3b9391
-    - author: 爬虫逆向小林哥
-      release_time: 2026.04.16 10:30:06
-      title: Xhs-web-live-danmu
-      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487271&idx=1&sn=f94e1b80c52200e4c9534f700bb4669a
-    - author: 泡泡以安
-      release_time: 2026.04.16 09:09:00
-      title: Unidbg学习笔记（六）：补环境的思维框架
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486032&idx=1&sn=f1c1ac51f7ad3c808fca5177b831e476
-    - author: 移动端Android和iOS开发技术分享
-      release_time: 2026.04.16 08:02:00
-      title: 【iOS逆向与安全】让 Claude、Codex 控制iPhone，iOS MCP 来了
-      url: https://mp.weixin.qq.com/s?__biz=MjM5MjEzMDAzMg==&mid=2257485056&idx=1&sn=67722a70a5ea80f374b40127e48d3f6a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
