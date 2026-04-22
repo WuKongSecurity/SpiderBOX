@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: fzlte0
+      release_time: 2026.04.22 17:12:00
+      title: 一个浏览器网页翻页过程中url变化的过程分析
+      url: https://www.52pojie.cn/thread-2104354-1-1.html
     - author: 罗婷
       release_time: 2026.04.22 02:55:00
       title: AndroidManifest魔改分析向-记一次对魔改样本的分析和经验分享
@@ -363,10 +367,6 @@
       release_time: 2026.03.31 18:16:00
       title: AndProxy——Syscall及Binder运行时代理库
       url: https://www.52pojie.cn/thread-2100559-1-1.html
-    - author: heihei123
-      release_time: 2026.03.31 17:27:00
-      title: 猿人学第三题逆向分析
-      url: https://www.52pojie.cn/thread-2100547-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
