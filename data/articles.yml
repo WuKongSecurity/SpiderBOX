@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 和沐阳学逆向与Ai
+      release_time: 2026.04.22 20:49:02
+      title: 81.iOS逆向一条指令让AI自动逆向生成frida代码:手把手教你写instagram抓包的SKILL
+      url: https://www.bilibili.com/video/BV1pmo4BsEcu
     - author: 如意-浏览器开发培训
       release_time: 2026.04.21 18:47:35
       title: firefox指纹内核之HTTP密码代理改造支持
@@ -117,13 +121,17 @@
       release_time: 2026.04.08 10:32:27
       title: 新一代python的web自动化框架通杀5s盾演示
       url: https://www.bilibili.com/video/BV1wJDzB6EHa
-    - author: B站用户骚神
-      release_time: 2026.04.07 20:29:48
-      title: 【SaoPageV2】 自动过tiktok验证码！
-      url: https://www.bilibili.com/video/BV1ptDeBfEWP
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 将往的爬虫逆向日记
+      release_time: 2026.04.22 20:47:11
+      title: 免费电力资讯聚合插件
+      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862304&idx=1&sn=978433f23ea6c9a1bb7473b27b009a1c
+    - author: 沐阳逆向与AI学习
+      release_time: 2026.04.22 20:46:17
+      title: iOS逆向一条指令让AI自动逆向生成frida代码:手把手教你写instagram抓包的SKILL
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484593&idx=1&sn=68dde6ab19da617bc2da8423ef4c1689
     - author: 进击的HACK
       release_time: 2026.04.22 18:41:28
       title: 基于云函数的HTTP代理工具，可隐藏自身IP
@@ -236,14 +244,6 @@
       release_time: 2026.04.20 08:30:00
       title: 还在为API限流和反爬虫头疼？试试这个让AI直接“借用”你浏览器身份的神器
       url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578855&idx=1&sn=00f57884b062219d20bb560efd4aced0
-    - author: 如意私塾
-      release_time: 2026.04.19 17:26:44
-      title: 十年深耕，携手向前 | 小肩膀教育 x Grassdata
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484427&idx=1&sn=abe7f574cfea774edfe947212e41041e
-    - author: 零基础爬虫第一天
-      release_time: 2026.04.18 21:43:14
-      title: 【vmp2】从 a + b 读懂栈式facelessjsvmp
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484375&idx=1&sn=60309ce0622911f9c9226d33d4332302
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
