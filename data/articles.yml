@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2026.04.22 09:00:00
+      title: AI技能|手把手教你轻松配置国产龙虾
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566493&idx=1&sn=f7c1fdcf3a62f4d8ed8f086d20f787cc
+    - author: Coder小Q
+      release_time: 2026.04.22 08:30:00
+      title: 【量子计算】多量子比特门：从“不能制造纠缠”到 CNOT 打开 Bell 态
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495330&idx=1&sn=cf095285974ab7a26d895a7b28cf5caf
     - author: 进击的HACK
       release_time: 2026.04.21 18:12:12
       title: AI代码审计 | 通过补丁信息分析漏洞生成Poc
@@ -236,14 +244,6 @@
       release_time: 2026.04.17 14:48:31
       title: Minion-Bot 小弟机器人提示词
       url: https://mp.weixin.qq.com/s?__biz=MzYzNDQzNDIyNg==&mid=2247483676&idx=1&sn=887a823f1fcf79cd76b55bea6af95d48
-    - author: 泡泡以安
-      release_time: 2026.04.17 11:44:14
-      title: Unidbg学习笔记（七）：JNI 层补环境
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486041&idx=1&sn=60d445380f0346e047fee2fb5ce80d3d
-    - author: SpiderDemo
-      release_time: 2026.04.17 08:50:00
-      title: unidbg 实战：狐友APP sig 签名逆向全记录
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMzg4NDI4Mw==&mid=2247484653&idx=1&sn=c3160cdfb9ee956da6b1895b7dde04ea
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -378,6 +378,10 @@
       release_time: 2026.04.21 13:19:47
       title: '[原创]反爬战略和MCP对抗思路'
       url: https://bbs.kanxue.com/thread-290910.htm
+    - author: 悦来客栈的老板
+      release_time: 2026.04.21 09:25:24
+      title: AI逆向|使用AI解决jsvmp的几种方式
+      url: https://blog.csdn.net/qq523176585/article/details/160386797
     - author: Jmn314
       release_time: 2026.04.20 21:46:04
       title: '[原创]基于图书管理系统的漏洞复现与代码审计'
@@ -486,10 +490,6 @@
       release_time: 2026.04.11 11:39:57
       title: 一次携程酒店 phantom-token 逆向实战复盘(附python纯算)
       url: https://bingyun.blog.csdn.net/article/details/159981676
-    - author: 冰履踏青云
-      release_time: 2026.04.11 11:25:07
-      title: JS逆向之虎牙 Web 登录 appSign和password加密
-      url: https://bingyun.blog.csdn.net/article/details/159994394
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
