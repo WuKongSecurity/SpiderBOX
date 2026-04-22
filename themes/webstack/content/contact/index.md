@@ -125,6 +125,10 @@ monitor:
         - label: 备注
           key: note
       items:
+        - id: gh_3d615bc01a65
+          name: 邱邱爱风控
+          date: 2026.04.16
+          note:
         - id: gh_e6fd8b431757
           name: 逆向搅屎棍
           date: 2026.04.16
