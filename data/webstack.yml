@@ -528,6 +528,10 @@
           logo: web3ludamao.jpg
           url: https://web3ludamao.com/
           description: Twitter(X)、Discord、Gmail、LinkedIn、Facebook、Twitch 等号商批发
+        - title: 熊猫の全新邮箱批发
+          logo: xxmyx.jpg
+          url: https://xxmyx.com/
+          description: 邮箱账号出售，hotmail、outlook、gmail、yahoo 等邮箱账号
         - title: Telegram PRIME
           logo: telegramprime.jpg
           url: https://telegramprime.com/
@@ -1724,6 +1728,10 @@
           logo: github.png
           url: https://github.com/xfqwdsj/IAmNotADeveloper
           description: 一个用于隐藏 Android 系统开发者相关选项状态的模块
+        - title: kpm-panda-hide
+          logo: github.png
+          url: https://github.com/P4nda0s/kpm-panda-hide
+          description: KernelPatch KPM 模块，用于隐藏调试器和反调试检测
 
     - name: Trace 工具
       links:
@@ -2035,6 +2043,10 @@
           logo: github.png
           url: https://github.com/lasting-yang/SoFixer
           description: 用于修复从内存中 dump 下来的 so 文件
+        - title: elf-dump-fixer
+          logo: github.png
+          url: https://github.com/P4nda0s/elf-dump-fixer
+          description: 用 Rust 实现的 Android ELF SO 内存 dump 修复工具，灵感来自 SoFixer
 
 - taxonomy: iOS 相关
   icon: fab fa-apple
