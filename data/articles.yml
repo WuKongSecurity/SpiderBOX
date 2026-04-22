@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.04.22 23:03:25
+      title: 我们建了群，提供最全的海外数据采集服务和数据集
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484460&idx=1&sn=afe11c899bf0157a18c27beb704eefc1
     - author: 将往的爬虫逆向日记
       release_time: 2026.04.22 20:47:11
       title: 免费电力资讯聚合插件
@@ -240,10 +244,6 @@
       release_time: 2026.04.20 08:30:00
       title: 【量子计算】Bell 不等式：实验裁决量子力学
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495282&idx=1&sn=1c787c06e0ee7884fbb0a2e61e438c24
-    - author: 测试工程师成长之路
-      release_time: 2026.04.20 08:30:00
-      title: 还在为API限流和反爬虫头疼？试试这个让AI直接“借用”你浏览器身份的神器
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578855&idx=1&sn=00f57884b062219d20bb560efd4aced0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
