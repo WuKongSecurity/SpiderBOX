@@ -378,6 +378,10 @@
       release_time: 2026.04.22 15:14:48
       title: '[原创]某宝 x-sign 模拟执行'
       url: https://bbs.kanxue.com/thread-290932.htm
+    - author: 悦来客栈的老板
+      release_time: 2026.04.22 09:00:24
+      title: AI技能|手把手教你轻松配置国产龙虾
+      url: https://blog.csdn.net/qq523176585/article/details/160421843
     - author: n_1ng
       release_time: 2026.04.21 22:10:49
       title: '[原创]从0到1构建一个Hook工具之PLT Hook篇（四）'
@@ -486,10 +490,6 @@
       release_time: 2026.04.13 10:25:13
       title: '[原创][推荐]为什么 Twised 要升级 IR'
       url: https://bbs.kanxue.com/thread-290790.htm
-    - author: 嘎嘎真的很棒
-      release_time: 2026.04.11 20:40:27
-      title: '[原创][分享]某安全加固趣事分享'
-      url: https://bbs.kanxue.com/thread-290775.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
