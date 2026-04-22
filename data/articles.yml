@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: '13955925361'
+      release_time: 2026.04.23 00:30:00
+      title: 抖音详情页数据采集及a_bogus参数逆向分析
+      url: https://www.52pojie.cn/thread-2104414-1-1.html
     - author: fzlte0
       release_time: 2026.04.22 17:12:00
       title: 一个浏览器网页翻页过程中url变化的过程分析
@@ -363,10 +367,6 @@
       release_time: 2026.04.01 16:54:00
       title: 【AI辅助】iOS p12证书签名软件的逆向分析 + 证书获取
       url: https://www.52pojie.cn/thread-2100769-1-1.html
-    - author: 孤木落
-      release_time: 2026.03.31 18:16:00
-      title: AndProxy——Syscall及Binder运行时代理库
-      url: https://www.52pojie.cn/thread-2100559-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
