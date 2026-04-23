@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2026.04.23 09:00:00
+      title: AI技能|使用国产AI模型还原ob混淆的字符串(可复现)
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566506&idx=1&sn=4ff758f2a8dd2e2f9467656626b7073e
+    - author: Coder小Q
+      release_time: 2026.04.23 08:30:00
+      title: 【量子计算】量子电路图：把量子门写成算法的语言
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495371&idx=1&sn=9eabcf1ec8affb87342ad02bce8bb3d0
     - author: 如意私塾
       release_time: 2026.04.22 23:03:25
       title: 我们建了群，提供最全的海外数据采集服务和数据集
@@ -236,14 +244,6 @@
       release_time: 2026.04.20 13:52:59
       title: 一日一技：Vibe Coding 时代，如何用系统设计思路给大模型爬虫省钱提速
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991569&idx=1&sn=295ff53b145ac923bcbbefe87aff353a
-    - author: 泡泡以安
-      release_time: 2026.04.20 09:07:00
-      title: Unidbg学习笔记（八）：文件系统层补环境
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486049&idx=1&sn=3cc24998e0c93da410d455e2ed528ca8
-    - author: Coder小Q
-      release_time: 2026.04.20 08:30:00
-      title: 【量子计算】Bell 不等式：实验裁决量子力学
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495282&idx=1&sn=1c787c06e0ee7884fbb0a2e61e438c24
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
