@@ -136,6 +136,10 @@
       release_time: 2026.04.23 19:35:45
       title: Hermes 能自我“进化”的龙虾
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489997&idx=1&sn=0f2809bb689e7e5218276ddca10cc158
+    - author: 桐梓坡低手
+      release_time: 2026.04.23 16:38:38
+      title: 某点选验证码（关键cookie激活流程）
+      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247483777&idx=1&sn=d1df4ef8de8808c40866bc9f6fb9e516
     - author: 个人信息与数据保护实务评论
       release_time: 2026.04.23 16:31:46
       title: 数据出境便利措施落地：苏州出台数据出境负面清单操作指引
@@ -240,10 +244,6 @@
       release_time: 2026.04.21 09:25:01
       title: AI逆向|使用AI解决jsvmp的几种方式
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566481&idx=1&sn=6654a3079711699c068360520efd232a
-    - author: 泡泡以安
-      release_time: 2026.04.21 09:13:00
-      title: Unidbg学习笔记（九）：系统调用层补环境
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486058&idx=1&sn=16d2454f1b746b5e1f653f4d976ddd5e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -374,6 +374,10 @@
       release_time: 2026.04.23 14:03:31
       title: akamai bmp风控
       url: https://bbs.kanxue.com/thread-290955.htm
+    - author: 悦来客栈的老板
+      release_time: 2026.04.23 09:00:38
+      title: AI技能|使用国产AI模型还原ob混淆的字符串(可复现)
+      url: https://blog.csdn.net/qq523176585/article/details/160454077
     - author: Matriy
       release_time: 2026.04.22 23:16:46
       title: '[原创]2026腾讯游戏安全竞赛Android初赛 wp'
@@ -486,10 +490,6 @@
       release_time: 2026.04.13 14:13:38
       title: 从搜索接口到 Tongdun 黑盒：一次真实站点签名逆向的完整过程（td-session-sign、x-sign等签名）
       url: https://bingyun.blog.csdn.net/article/details/160070361
-    - author: 冰履踏青云
-      release_time: 2026.04.13 11:44:38
-      title: JS逆向之祥某航空desc风控参数
-      url: https://bingyun.blog.csdn.net/article/details/160023799
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
