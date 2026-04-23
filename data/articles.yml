@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 零基础爬虫第一天
+      release_time: 2026.04.23 21:22:19
+      title: 【web补环境案例-3】yrx5
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484416&idx=1&sn=9f8a9ad22331a020ece5bed816fc49de
     - author: 将往的爬虫逆向日记
       release_time: 2026.04.23 19:51:02
       title: 免费电力资讯插件3.0版本
@@ -240,10 +244,6 @@
       release_time: 2026.04.21 09:13:00
       title: Unidbg学习笔记（九）：系统调用层补环境
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486058&idx=1&sn=16d2454f1b746b5e1f653f4d976ddd5e
-    - author: Coder小Q
-      release_time: 2026.04.21 08:30:00
-      title: 【量子计算】单量子比特门：从 Bloch 球上的旋转到量子电路里的操作
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495303&idx=1&sn=c9792bdd05b354da2ff14033b5e18d06
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
