@@ -878,7 +878,7 @@
           url: http://www.cnlans.com:8887/
           description: 李玺 JS 在线解混淆，改自愧怍开源的解混淆工具
         - title: webcrack
-          logo: webcrack.jpg
+          logo: webcrack.png
           url: https://github.com/j4k0xb/webcrack
           description: 反混淆 obfuscator.io，解除压缩并解包打包后的 JavaScript 代码
         - title: Deobfuscate
@@ -2238,7 +2238,7 @@
           url: https://github.com/biggerstar/wedecode
           description: 全自动化，微信小程序 wxapkg 源代码还原工具, 线上代码安全审计，支持 Windows, Macos, Linux
         - title: we-mp-rss
-          logo: we-mp-rss.jpg
+          logo: we-mp-rss.png
           url: https://github.com/rachelos/we-mp-rss
           description: WeRSS - 微信公众号订阅助手，定时更新订阅公众号文章、生成微信公众号 RSS 订阅源、导出微信公众号订阅源、支持微信公众号 Webhook/微信公众号 API/AI Agent 接入微信公众号
 
@@ -3562,7 +3562,7 @@
           url: https://scrape.do/
           description: Scrape.do is the ultimate toolkit for collecting public data at scale. Unmatched speed, unbeatable prices, unblocked access
         - title: Jina AI
-          logo: jina.ai.png
+          logo: jina.png
           url: https://jina.ai/
           description: Best-in-class embeddings, rerankers, web reader, deepsearch, small language models. Search AI for multilingual and multimodal data
         - title: anakin
@@ -6324,7 +6324,7 @@
           description:  QClaw 是腾讯推出的个人 AI 助手，可微信远程整理文件、执行复杂任务、无需编程基础，适配办公 / 创作 / 开发等多场景，丰富技能生态越用越懂你
         - title: QQ-BOT
           url: https://q.qq.com/qqbot/openclaw/index.html
-          logo: qqbot.png
+          logo: qq-bot.png
           description: 创建 QQ 机器人并绑定至 OpenClaw、Hermes 等环境，即可通过 QQ 机器人向 AI 下达指令
         - title: 扣子
           url: https://www.coze.cn/overview?invite_code=e0f08a7ab1cd4ab8ba8c7f5979027c60
