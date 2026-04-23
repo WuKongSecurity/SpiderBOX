@@ -12,6 +12,8 @@
         if(isPC()){ $('[data-toggle="tooltip"]').tooltip({trigger: 'hover'}); }else{ $('.qr-img[data-toggle="tooltip"]').tooltip({trigger: 'hover'}); }
         // 初始化tab滑块
         intoSlider();
+        // 为指定导航链接追加来源追踪参数
+        applyReferralParams();
         // 初始化游客自定义数据
         /*if(theme.isCustomize == '1'){
             intoSites(false);
@@ -57,6 +59,88 @@
             $("body").prepend(load);
             load.animate({opacity:'1'},200,'swing').delay(2000).hide(300,function(){ load.remove() });
         }
+    });
+
+    var referralConfig = {
+        params: {
+            utm_medium: 'referral',
+            utm_source: 'spiderbox.cn'
+        },
+        excludedDomains: [
+            'github.com',
+            'github.io',
+            'gitee.com',
+            'space.bilibili.com',
+            'pan.baidu.com',
+            'youzan.com',
+            'zsxq.com',
+            'chrome.google.com',
+            'chromewebstore.google.com',
+            'docs.qq.com',
+            'weixin.qq.com',
+            'www.52pojie.cn',
+            'www.douyin.com',
+            'xiaoeknow.com',
+            'wukongsec.com',
+        ]
+    };
+
+    function isReferralEligibleUrl(rawUrl) {
+        return typeof rawUrl === 'string' && /^https?:\/\//i.test(rawUrl);
+    }
+
+    function isExcludedReferralDomain(hostname) {
+        var normalizedHostname = (hostname || '').toLowerCase();
+        for (var i = 0; i < referralConfig.excludedDomains.length; i++) {
+            var domain = referralConfig.excludedDomains[i].toLowerCase();
+            if (normalizedHostname === domain || normalizedHostname.slice(-(domain.length + 1)) === '.' + domain) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    function buildReferralUrl(rawUrl) {
+        if (!isReferralEligibleUrl(rawUrl)) {
+            return rawUrl;
+        }
+
+        try {
+            var parsedUrl = new URL(rawUrl);
+            if (isExcludedReferralDomain(parsedUrl.hostname)) {
+                return rawUrl;
+            }
+            if (parsedUrl.search) {
+                return rawUrl;
+            }
+
+            Object.keys(referralConfig.params).forEach(function(key) {
+                parsedUrl.searchParams.set(key, referralConfig.params[key]);
+            });
+
+            return parsedUrl.toString();
+        } catch (error) {
+            return rawUrl;
+        }
+    }
+
+    function applyReferralParams(scope) {
+        var $scope = scope ? $(scope) : $(document);
+        var $targets = $scope.is('a[data-referral-link="1"]') ? $scope : $scope.find('a[data-referral-link="1"]');
+        $targets.each(function() {
+            var $link = $(this);
+            var originalUrl = $link.attr('data-original-href') || $link.attr('href');
+            var finalUrl = buildReferralUrl(originalUrl);
+
+            if (finalUrl && finalUrl !== originalUrl) {
+                $link.attr('data-original-href', originalUrl);
+                $link.attr('href', finalUrl);
+            }
+        });
+    }
+
+    $(document).on('click auxclick mousedown', 'a[data-referral-link="1"]', function() {
+        applyReferralParams(this);
     });
 
     //夜间模式（旧）

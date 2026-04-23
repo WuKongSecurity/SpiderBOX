@@ -90,7 +90,7 @@
                 <div class="col-12 col-sm-6 col-md-4">
                 <div class="card">
                     {{ if .url }}
-                    <a href="{{ .url }}" target="_blank" data-url="{{ .url }}" onclick="LA.track('{{ .track }}');">
+                    <a href="{{ .url }}" target="_blank" data-url="{{ .url }}" {{ if not .no_referral }}data-referral-link="1"{{ end }} onclick="LA.track('{{ .track }}');">
                         <img src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ .image }}" class="card-img-top" alt="{{ .description }}">
                     </a>
                     {{ else }}
@@ -105,10 +105,10 @@
                 <a href="{{ .url }}" target="_blank" data-id="" data-url="{{ .url }}" class="card no-c mb-4" title="{{ .title }}">
                 -->
                     {{ if .qrcode }}
-                    <a href="{{ if .url }}{{ .url }}{{ else }}javascript:{{ end }}" target="_blank" class="card no-c mb-4" data-toggle="tooltip" data-placement="bottom"
+                    <a href="{{ if .url }}{{ .url }}{{ else }}javascript:{{ end }}" target="_blank" class="card no-c mb-4" {{ if .url }}data-url="{{ .url }}"{{ if not .no_referral }} data-referral-link="1"{{ end }}{{ end }} data-toggle="tooltip" data-placement="bottom"
                        data-html="true" title="<img src='{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ .qrcode }}' width='{{ if .width }}{{ .width }}{{ else }}128{{ end }}'>">
                         {{ else }}
-                        <a href="{{ .url }}" target="_blank" data-id="" data-url="{{ .url }}" class="card no-c mb-4"
+                        <a href="{{ .url }}" target="_blank" data-id="" data-url="{{ .url }}" {{ if not .no_referral }}data-referral-link="1"{{ end }} class="card no-c mb-4"
                            data-toggle="tooltip" data-placement="bottom" data-original-title="{{ .description }}">
                             {{ end }}
                             <div class="card-body">
@@ -132,7 +132,7 @@
                                 </div>
                             </div>
                         </a>
-                        <a href="{{ .url }}" class="togo text-center text-muted is-views" target="_blank" data-id="689"
+                        <a href="{{ .url }}" class="togo text-center text-muted is-views" target="_blank" data-id="689" {{ if not .no_referral }}data-referral-link="1"{{ end }}
                            data-toggle="tooltip" data-placement="right" title="直达" rel="nofollow">
                             <i class="far fa-arrow-alt-circle-right"></i>
                         </a>
@@ -183,10 +183,10 @@
                         <a href="{{ .url }}" target="_blank" data-id="" data-url="{{ .url }}" class="card no-c mb-4" title="{{ .title }}">
 			去除 Tooltip -->
                 {{ if .qrcode }}
-                <a href="{{ if .url }}{{ .url }}{{ else }}javascript:{{ end }}" target="_blank" class="card no-c mb-4" data-toggle="tooltip" data-placement="bottom"
+                <a href="{{ if .url }}{{ .url }}{{ else }}javascript:{{ end }}" target="_blank" class="card no-c mb-4" {{ if .url }}data-url="{{ .url }}"{{ if not .no_referral }} data-referral-link="1"{{ end }}{{ end }} data-toggle="tooltip" data-placement="bottom"
                    data-html="true" title="<img src='{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ .qrcode }}' width='{{ if .width }}{{ .width }}{{ else }}128{{ end }}'>">
                     {{ else }}
-                    <a href="{{ .url }}" target="_blank" data-id="" data-url="{{ .url }}" class="card no-c mb-4"
+                    <a href="{{ .url }}" target="_blank" data-id="" data-url="{{ .url }}" {{ if not .no_referral }}data-referral-link="1"{{ end }} class="card no-c mb-4"
                        data-toggle="tooltip" data-placement="bottom" data-original-title="{{ .description }}">
                         {{ end }}
                         <div class="card-body">
@@ -209,7 +209,7 @@
                             </div>
                         </div>
                     </a>
-                    <a href="{{ .url }}" class="togo text-center text-muted is-views" target="_blank" data-id="689"
+                    <a href="{{ .url }}" class="togo text-center text-muted is-views" target="_blank" data-id="689" {{ if not .no_referral }}data-referral-link="1"{{ end }}
                        data-toggle="tooltip" data-placement="right" title="直达" rel="nofollow">
                         <i class="far fa-arrow-alt-circle-right"></i>
                     </a>
@@ -243,10 +243,10 @@
 			<a href="{{ .url }}" target="_blank" data-id="" data-url="{{ .url }}" class="card no-c mb-4" title="{{ .title }}">
 			-->
                 {{ if .qrcode }}
-                <a href="{{ if .url }}{{ .url }}{{ else }}javascript:{{ end }}" target="_blank" class="card no-c mb-4" data-toggle="tooltip" data-placement="bottom"
+                <a href="{{ if .url }}{{ .url }}{{ else }}javascript:{{ end }}" target="_blank" class="card no-c mb-4" {{ if .url }}data-url="{{ .url }}"{{ if not .no_referral }} data-referral-link="1"{{ end }}{{ end }} data-toggle="tooltip" data-placement="bottom"
                    data-html="true" title="<img src='{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ .qrcode }}' width='{{ if .width }}{{ .width }}{{ else }}128{{ end }}'>">
                     {{ else }}
-                    <a href="{{ .url }}" target="_blank" data-id="" data-url="{{ .url }}" class="card no-c mb-4"
+                    <a href="{{ .url }}" target="_blank" data-id="" data-url="{{ .url }}" {{ if not .no_referral }}data-referral-link="1"{{ end }} class="card no-c mb-4"
                        data-toggle="tooltip" data-placement="bottom" data-original-title="{{ .description }}">
                         {{ end }}
                         <div class="card-body">
@@ -270,7 +270,7 @@
                             </div>
                         </div>
                     </a>
-                    <a href="{{ .url }}" class="togo text-center text-muted is-views" target="_blank" data-id="689"
+                    <a href="{{ .url }}" class="togo text-center text-muted is-views" target="_blank" data-id="689" {{ if not .no_referral }}data-referral-link="1"{{ end }}
                        data-toggle="tooltip" data-placement="right" title="直达" rel="nofollow">
                         <i class="far fa-arrow-alt-circle-right"></i>
                     </a>
@@ -289,7 +289,7 @@
     <div class="friendlink text-xs card">
         <div class="card-body">
             {{ range .Site.Data.friendlinks }}
-            <a href="{{ .url }}" title="{{ .description }}" target="_blank">{{ .title }}</a>
+            <a href="{{ .url }}" title="{{ .description }}" target="_blank" {{ if not .no_referral }}data-referral-link="1"{{ end }}>{{ .title }}</a>
             {{ end }}
         </div>
     </div>
