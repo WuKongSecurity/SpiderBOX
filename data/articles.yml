@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 将往的爬虫逆向日记
+      release_time: 2026.04.23 19:51:02
+      title: 免费电力资讯插件3.0版本
+      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862321&idx=1&sn=310fc4c095635fb64baf80b9c9fab88f
+    - author: 进击的HACK
+      release_time: 2026.04.23 19:35:45
+      title: Hermes 能自我“进化”的龙虾
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489997&idx=1&sn=0f2809bb689e7e5218276ddca10cc158
     - author: 个人信息与数据保护实务评论
       release_time: 2026.04.23 16:31:46
       title: 数据出境便利措施落地：苏州出台数据出境负面清单操作指引
@@ -236,14 +244,6 @@
       release_time: 2026.04.21 08:30:00
       title: 【量子计算】单量子比特门：从 Bloch 球上的旋转到量子电路里的操作
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495303&idx=1&sn=c9792bdd05b354da2ff14033b5e18d06
-    - author: 菜鸟学Python编程
-      release_time: 2026.04.20 20:46:19
-      title: AI逆向|推荐几个js逆向相关的mcp和skills
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566477&idx=1&sn=8672629c3e7e723cbbc74ae405118b10
-    - author: 零基础爬虫第一天
-      release_time: 2026.04.20 20:10:29
-      title: 【vmp3】仿rs-witch转多层级if
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484384&idx=1&sn=1a5af93767ad070f404e0ab270a8f990
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
