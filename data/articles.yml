@@ -124,10 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.04.24 11:51:07
+      title: 【完整记录】AI反编译字节系JSVMP并通过数据请求验证
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484463&idx=1&sn=d795cfb8b5d867163fa7e9ae4158331b
     - author: 泡泡以安
       release_time: 2026.04.24 10:35:35
       title: Unidbg学习笔记（十）：库函数层补环境
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486077&idx=1&sn=d2810d3d2ac4c972057c0809127d5a85
+    - author: 苏子寻月
+      release_time: 2026.04.24 09:36:17
+      title: 深入理解 Windows 反调试：异常处理机制与控制流隐藏
+      url: https://mp.weixin.qq.com/s?__biz=MzU2MTgwOTM1MQ==&mid=2247484485&idx=1&sn=68c5710708406bcccc09c5988941336c
     - author: Coder小Q
       release_time: 2026.04.24 08:30:00
       title: 【量子计算】量子计算的独特限制与能力：为什么它不能随便复制，却能一次看见整体
@@ -160,6 +168,10 @@
       release_time: 2026.04.23 15:29:02
       title: Android安全智能检测工具V3.3
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500188&idx=1&sn=3e0d58a2f2b97a3e72f416edd998af9d
+    - author: 苏子寻月
+      release_time: 2026.04.23 09:47:53
+      title: 深入理解 Windows 反调试：基于内核对象句柄的检测与绕过
+      url: https://mp.weixin.qq.com/s?__biz=MzU2MTgwOTM1MQ==&mid=2247484484&idx=1&sn=c388bbb73e400e746492264a452d5ebe
     - author: 菜鸟学Python编程
       release_time: 2026.04.23 09:00:00
       title: AI技能|使用国产AI模型还原ob混淆的字符串(可复现)
@@ -184,6 +196,10 @@
       release_time: 2026.04.22 18:41:28
       title: 基于云函数的HTTP代理工具，可隐藏自身IP
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489993&idx=1&sn=4f41ebfd135f8bf4a62fb9a07fba65a9
+    - author: 苏子寻月
+      release_time: 2026.04.22 17:11:20
+      title: 深入理解 Windows 反调试技术：调试标志的检测与绕过
+      url: https://mp.weixin.qq.com/s?__biz=MzU2MTgwOTM1MQ==&mid=2247484455&idx=1&sn=9f25c89e5df0814f9257b29bbd6cedd5
     - author: 个人信息与数据保护实务评论
       release_time: 2026.04.22 16:35:52
       title: 银行因网络安全/数据安全问题被“双罚”，科技部人员负有责任
@@ -225,25 +241,9 @@
       title: 心流鼠标手势 FlowMouse v2.0 “区域框选” 发布
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144271&idx=1&sn=dd0c55144e286250970cb004a4bb824d
     - author: 如意私塾
-      release_time: 2026.04.21 15:51:28
-      title: 过检测web自动化支持异步 | 过5s盾异步演示
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484441&idx=1&sn=029409af8f231a8fd5b7c9d87ef64785
-    - author: 哆啦安全
-      release_time: 2026.04.21 12:05:15
-      title: 收藏级｜移动固件提取、解包、逆向工具大全（附全网最全地址）
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500157&idx=1&sn=2f46ba80177851875caff1bc809c8ac7
-    - author: 泡泡以安
-      release_time: 2026.04.21 11:32:33
-      title: 抖音极速版 Feed 流 Protobuf 协议全量还原
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486070&idx=1&sn=2b87bd1da628e30957189ec1c82e4579
-    - author: 如意私塾
       release_time: 2026.04.21 11:10:26
       title: 【万字记录】AI自动乱杀瑞数6代，从412到200的完整实录，检测点+指纹环境通杀
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484439&idx=1&sn=22b1d3058609e0d93c552d01d512c8fc
-    - author: 爬虫逆向小林哥
-      release_time: 2026.04.21 10:17:05
-      title: Ai还原x-zse-96 vmp纯算
-      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487278&idx=1&sn=27c682c0ff9f6f598c211c261168f6b9
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
