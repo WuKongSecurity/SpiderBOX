@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 泡泡以安
+      release_time: 2026.04.24 10:35:35
+      title: Unidbg学习笔记（十）：库函数层补环境
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486077&idx=1&sn=d2810d3d2ac4c972057c0809127d5a85
+    - author: Coder小Q
+      release_time: 2026.04.24 08:30:00
+      title: 【量子计算】量子计算的独特限制与能力：为什么它不能随便复制，却能一次看见整体
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495398&idx=1&sn=32cf26f2c9045d722f5ff7374b978761
     - author: 零基础爬虫第一天
       release_time: 2026.04.23 21:22:19
       title: 【web补环境案例-3】yrx5
@@ -236,14 +244,6 @@
       release_time: 2026.04.21 10:17:05
       title: Ai还原x-zse-96 vmp纯算
       url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487278&idx=1&sn=27c682c0ff9f6f598c211c261168f6b9
-    - author: 如意私塾
-      release_time: 2026.04.21 09:35:00
-      title: 铁证：你的浏览器指纹正在被用来给你投广告——改一下指纹，广告竞价立刻变了
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484433&idx=1&sn=f27cb90d152403a2adccc84279c335db
-    - author: 菜鸟学Python编程
-      release_time: 2026.04.21 09:25:01
-      title: AI逆向|使用AI解决jsvmp的几种方式
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566481&idx=1&sn=6654a3079711699c068360520efd232a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
