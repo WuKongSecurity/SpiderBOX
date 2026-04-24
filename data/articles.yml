@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2026.04.24 21:14:08
+      title: 每个Python开发者都应了解的Enum技巧
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566509&idx=1&sn=60575cfffe40939fb71760fdfef4a4c6
+    - author: 将往的爬虫逆向日记
+      release_time: 2026.04.24 20:11:28
+      title: 免费电力交易行业资讯插件5.0版本-支持小时级气象数据导出
+      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862365&idx=1&sn=f2c205817f14fe98738350002b8c1a30
     - author: 哆啦安全
       release_time: 2026.04.24 17:59:39
       title: Android加固 | VM防逆向SDK
@@ -232,14 +240,6 @@
       release_time: 2026.04.22 08:30:00
       title: 【量子计算】多量子比特门：从“不能制造纠缠”到 CNOT 打开 Bell 态
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495330&idx=1&sn=cf095285974ab7a26d895a7b28cf5caf
-    - author: 进击的HACK
-      release_time: 2026.04.21 18:12:12
-      title: AI代码审计 | 通过补丁信息分析漏洞生成Poc
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489988&idx=1&sn=784ffc2494e597bf2cc21dc5d03feedd
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.04.21 17:54:11
-      title: 法国国家重要证件管理机构遭网络攻击，部分用户信息泄露
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520030&idx=1&sn=e3d0addc6aff173a1d247ac544632d5d
     - author: 如意私塾
       release_time: 2026.04.21 11:10:26
       title: 【万字记录】AI自动乱杀瑞数6代，从412到200的完整实录，检测点+指纹环境通杀
