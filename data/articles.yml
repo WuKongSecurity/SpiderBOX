@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: '743567274'
+      release_time: 2026.04.24 22:21:00
+      title: 猿人学验证码 - 图文点选题目分析
+      url: https://www.52pojie.cn/thread-2104726-1-1.html
     - author: '13955925361'
       release_time: 2026.04.23 00:30:00
       title: 抖音详情页数据采集及a_bogus参数逆向分析
@@ -363,10 +367,6 @@
       release_time: 2026.04.01 17:53:00
       title: 从trace分析vmp中的SHA256算法
       url: https://www.52pojie.cn/thread-2100778-1-1.html
-    - author: yjr888
-      release_time: 2026.04.01 16:54:00
-      title: 【AI辅助】iOS p12证书签名软件的逆向分析 + 证书获取
-      url: https://www.52pojie.cn/thread-2100769-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
