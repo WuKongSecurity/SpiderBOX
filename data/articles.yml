@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.04.24 17:59:39
+      title: Android加固 | VM防逆向SDK
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500195&idx=1&sn=1452f6ca135221a558d9091eb721d643
+    - author: 进击的HACK
+      release_time: 2026.04.24 17:59:13
+      title: 通过AI-skills挖掘APK客户端漏洞
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490002&idx=1&sn=ae3a19d107b1716b24b8de1523cca975
     - author: 如意私塾
       release_time: 2026.04.24 11:51:07
       title: 【完整记录】AI反编译字节系JSVMP并通过数据请求验证
@@ -232,14 +240,6 @@
       release_time: 2026.04.21 17:54:11
       title: 法国国家重要证件管理机构遭网络攻击，部分用户信息泄露
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520030&idx=1&sn=e3d0addc6aff173a1d247ac544632d5d
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.04.21 17:54:11
-      title: 中国数据保护月度报告：重点提示及目录（2026年4月）
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520030&idx=2&sn=787458ae2dcdfc0937e54645c162f321
-    - author: 吾爱破解论坛
-      release_time: 2026.04.21 15:55:56
-      title: 心流鼠标手势 FlowMouse v2.0 “区域框选” 发布
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144271&idx=1&sn=dd0c55144e286250970cb004a4bb824d
     - author: 如意私塾
       release_time: 2026.04.21 11:10:26
       title: 【万字记录】AI自动乱杀瑞数6代，从412到200的完整实录，检测点+指纹环境通杀
