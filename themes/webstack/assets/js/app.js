@@ -1365,8 +1365,29 @@ function ChromBookmarkConverter(){this.bookmarks={folders:[]},this.stripUnneeded
             var description = $card.find('.text-muted.text-xs').text().trim();
             var url = $link.attr('href');
             var logo = $card.find('img').attr('data-src') || $card.find('img').attr('src');
-            var $categoryElement = $card.closest('.row').prevAll('.d-flex.flex-fill:first').find('h4');
-            var category = $categoryElement.text().trim();
+            var $tabContent = $card.closest('.tab-content');
+            var $tabContainer = $card.closest('.tab-container');
+            var category = '';
+            var primaryCategory = '';
+
+            if ($tabContainer.length) {
+                primaryCategory = $tabContainer.prevAll('.d-flex.flex-fill:first').find('h4').text().trim();
+            }
+            if (!primaryCategory) {
+                primaryCategory = $card.closest('.row').prevAll('.d-flex.flex-fill:first').find('h4').text().trim();
+            }
+
+            if ($tabContent.length && $tabContainer.length) {
+                var tabIndex = $tabContent.attr('data-tab');
+                var secondaryCategory = $tabContainer.find('.tab-menu .tab-item[data-tab="' + tabIndex + '"]').first().text().trim();
+                if (primaryCategory && secondaryCategory) {
+                    category = primaryCategory + '-' + secondaryCategory;
+                } else {
+                    category = primaryCategory || secondaryCategory;
+                }
+            } else {
+                category = primaryCategory;
+            }
     
             if (title && url) {
                 allLinks.push({
