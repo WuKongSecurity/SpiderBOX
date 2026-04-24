@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2026.04.24 22:07:19
+      title: 1.7 万人收藏的 AI 第二大脑！YC 总裁亲自开源了自己的 AI 记忆系统！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991572&idx=1&sn=ef19a6b6802f6bab12942e9a11fb1895
     - author: 菜鸟学Python编程
       release_time: 2026.04.24 21:14:08
       title: 每个Python开发者都应了解的Enum技巧
@@ -236,10 +240,6 @@
       release_time: 2026.04.22 09:00:00
       title: AI技能|手把手教你轻松配置国产龙虾
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566493&idx=1&sn=f7c1fdcf3a62f4d8ed8f086d20f787cc
-    - author: Coder小Q
-      release_time: 2026.04.22 08:30:00
-      title: 【量子计算】多量子比特门：从“不能制造纠缠”到 CNOT 打开 Bell 态
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495330&idx=1&sn=cf095285974ab7a26d895a7b28cf5caf
     - author: 如意私塾
       release_time: 2026.04.21 11:10:26
       title: 【万字记录】AI自动乱杀瑞数6代，从412到200的完整实录，检测点+指纹环境通杀
