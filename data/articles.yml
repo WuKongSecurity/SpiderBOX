@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 池唐不是糖
+      release_time: 2026.04.25 13:03:32
+      title: ollvm的一键通杀，技术在改变世界，学不会你来砍我
+      url: https://www.bilibili.com/video/BV1XDoDBzE4D
     - author: B站用户骚神
       release_time: 2026.04.23 14:13:26
       title: 【骚神插件9.8】重大更新，新增人工智能元素定位！！！
@@ -117,10 +121,6 @@
       release_time: 2026.04.08 16:16:53
       title: Frida 被企业壳疯狂检测？我直接把 Gum 引擎移植成 Lua 绑定，彻底通杀
       url: https://www.bilibili.com/video/BV1XzDjBtEyr
-    - author: 如意-浏览器开发培训
-      release_time: 2026.04.08 10:49:01
-      title: 新一代web过检测自动化框架通杀5s盾/cloudfare
-      url: https://www.bilibili.com/video/BV1kNDkB2Ece
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
