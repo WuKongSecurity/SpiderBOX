@@ -1853,7 +1853,7 @@
           url: https://github.com/Pr0214/trace_natives
           description: 一个小脚本，用于 trace so 中 native 函数的调用
         - title: strace
-          logo: strace.jpg
+          logo: strace.png
           url: https://strace.io/
           description: strace 常用来跟踪进程执行时的系统调用和所接收的信号
         - title: AndroidPrybar
@@ -5725,7 +5725,7 @@
           description: apktool-mcp-server 是 Apktool 的 MCP 服务器，提供使用 Claude 等 LLMs 的实时逆向工程支持
         - title: GhidraMCP
           url: https://github.com/LaurieWired/GhidraMCP
-          logo: GhidraMCP.png
+          logo: GhidraMCP.jpg
           description: ghidraMCP 是一个用于允许 LLM 自主逆向工程应用程序的模型上下文协议服务器。它将核心 Ghidra 功能的众多工具暴露给 MCP 客户端
         - title: GhidrAssistMCP
           url: https://github.com/symgraph/GhidrAssistMCP
@@ -5737,7 +5737,7 @@
           description: 通过 MCP 驱动 Ghidra 自动完成逆向分析流程，通过提问就能获取二进制文件的函数分析、反编译伪代码、交叉引用等核心信息，大幅降低逆向工程的操作成本
         - title: binary_ninja_mcp
           url: https://github.com/fosdickio/binary_ninja_mcp
-          logo: binary_ninja_mcp.png
+          logo: binary_ninja_mcp.jpg
           description: 一个包含 MCP 服务器的 Binary Ninja 插件，可无缝集成到您喜爱的 LLM/MCP 客户端中
         - title: binaryninja-mcp
           url: https://github.com/MCPPhalanx/binaryninja-mcp
@@ -5852,6 +5852,10 @@
 
     - name: Skills (网安)
       links:
+        - title: codex-session-patcher
+          url: https://github.com/ryfineZ/codex-session-patcher
+          logo: github.png
+          description: AI 编码工具会话清理器 & CTF/渗透测试提示词注入工具
         - title: secknowledge-skill
           url: https://github.com/Pa55w0rd/secknowledge-skill
           logo: github.png
@@ -5954,6 +5958,10 @@
 
     - name: 综合分类
       links:
+        - title: postman-mcp-server
+          url: https://github.com/postmanlabs/postman-mcp-server
+          logo: github.png
+          description: Postman MCP Server 将 Postman 连接到 AI 工具，使 AI 代理和助手能够通过自然语言交互访问工作区、管理集合和环境、评估 API 以及自动化工作流程
         - title: andrej-karpathy-skills
           url: https://github.com/forrestchang/andrej-karpathy-skills
           logo: github.png
@@ -6464,7 +6472,7 @@
           description: 探索将 Claude 和 Cursor 连接到 Figma、ViewModel、Storybook 和 Ghidra 等工具的 MCP servers
         - title: Awesome MCP Servers
           url: https://mcpservers.org/
-          logo: mcpservers.jpg
+          logo: mcpservers.png
           description: A collection of servers for the Model Context Protocol
         - title: Awesome OpenClaw Skills
           url: https://github.com/VoltAgent/awesome-openclaw-skills
