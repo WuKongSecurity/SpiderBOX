@@ -124,6 +124,30 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 大数据安全技术学习
+      release_time: 2026.04.26 23:40:27
+      title: APP2025.直播21.kpm-panda-hide内核模块过企业壳检测
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486154&idx=1&sn=cf68836a25fb7125a53062666f34000c
+    - author: 大数据安全技术学习
+      release_time: 2026.04.26 23:40:27
+      title: 《FRIDA手撕海外企业壳》成都场确定！席位火热预定中！
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486154&idx=2&sn=a9e92ddaca864f6b04efde808a8ea3b9
+    - author: 大数据安全技术学习
+      release_time: 2026.04.26 23:40:27
+      title: 月神 SRC 漏洞挖掘课程・第六期 全新升级
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486154&idx=3&sn=0a4f7115b418d0e1606d3b98dd196075
+    - author: 大数据安全技术学习
+      release_time: 2026.04.26 23:40:27
+      title: 奋斗者计划，助你升职加薪|阿里云、米哈游、阿里巴巴直推
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486154&idx=4&sn=c2de42936afa952b93f174d6eb7ae5d6
+    - author: 大数据安全技术学习
+      release_time: 2026.04.26 23:40:27
+      title: 地表最强过检测环境原生三绿取证设备
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486154&idx=5&sn=8154fd45bb0114fa33245b13752a56da
+    - author: 大数据安全技术学习
+      release_time: 2026.04.26 23:40:27
+      title: 八九新红米13C刷机小王子内核模块定制隐藏环境过多数企业壳frida检测
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486154&idx=6&sn=b4f023ab9aec6d9c226ff822483f2949
     - author: 如意私塾
       release_time: 2026.04.26 21:45:35
       title: 【完整记录】AI自动逆向补头条环境和采集数据
@@ -220,30 +244,6 @@
       release_time: 2026.04.23 19:51:02
       title: 免费电力资讯插件3.0版本
       url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862321&idx=1&sn=310fc4c095635fb64baf80b9c9fab88f
-    - author: 进击的HACK
-      release_time: 2026.04.23 19:35:45
-      title: Hermes 能自我“进化”的龙虾
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489997&idx=1&sn=0f2809bb689e7e5218276ddca10cc158
-    - author: 桐梓坡低手
-      release_time: 2026.04.23 16:38:38
-      title: 某点选验证码（关键cookie激活流程）
-      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247483777&idx=1&sn=d1df4ef8de8808c40866bc9f6fb9e516
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.04.23 16:31:46
-      title: 数据出境便利措施落地：苏州出台数据出境负面清单操作指引
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520046&idx=1&sn=6eea48da4a0e523e5620fe85e920f508
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.04.23 16:31:46
-      title: 意大利邮政被罚1250万欧元：涉嫌过度索取用户授权
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520046&idx=2&sn=e7337573f72b03a6e9a649ef184f9129
-    - author: 哆啦安全
-      release_time: 2026.04.23 15:29:02
-      title: Android安全智能检测工具V3.3
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500188&idx=1&sn=3e0d58a2f2b97a3e72f416edd998af9d
-    - author: 苏子寻月
-      release_time: 2026.04.23 09:47:53
-      title: 深入理解 Windows 反调试：基于内核对象句柄的检测与绕过
-      url: https://mp.weixin.qq.com/s?__biz=MzU2MTgwOTM1MQ==&mid=2247484484&idx=1&sn=c388bbb73e400e746492264a452d5ebe
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
