@@ -124,6 +124,26 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向OneByOne
+      release_time: 2026.04.26 10:23:49
+      title: 一文彻底了解浏览器自动化，cdp、playwright、browser-user、midscene、browsermcp
+      url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494223&idx=1&sn=32f604c3287b3e5d40a886a579397224
+    - author: 哆啦安全
+      release_time: 2026.04.26 09:41:49
+      title: Android VMP虚拟化保护方案
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500200&idx=1&sn=60eba87c75651bd81579ba6b12af1064
+    - author: 苏子寻月
+      release_time: 2026.04.26 08:00:00
+      title: 深入理解 Windows 反调试：进程内存嗅探与对抗之道
+      url: https://mp.weixin.qq.com/s?__biz=MzU2MTgwOTM1MQ==&mid=2247484487&idx=1&sn=bc2dfada145c3eb3adb9d2e368d950b8
+    - author: 丫总逆向
+      release_time: 2026.04.26 01:36:05
+      title: 知其然，也知其所以然——逆向杂谈
+      url: https://mp.weixin.qq.com/s?__biz=MzU1NjQ2Njg4OA==&mid=2247484086&idx=1&sn=6282f986cffe0a1d755b6dde047976c8
+    - author: 挖个洞先
+      release_time: 2026.04.25 23:27:48
+      title: 【游戏逆向】腾讯系微信小游戏JceStruct协议分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkyNjY3OTI4Ng==&mid=2247486014&idx=1&sn=f67d28b4043db851a8460f3e31c40d12
     - author: 反爬破解社
       release_time: 2026.04.24 23:22:41
       title: 验证码攻防（上）：从传统文本到图形识别，基础破解全攻略
@@ -224,26 +244,6 @@
       release_time: 2026.04.22 18:41:28
       title: 基于云函数的HTTP代理工具，可隐藏自身IP
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489993&idx=1&sn=4f41ebfd135f8bf4a62fb9a07fba65a9
-    - author: 苏子寻月
-      release_time: 2026.04.22 17:11:20
-      title: 深入理解 Windows 反调试技术：调试标志的检测与绕过
-      url: https://mp.weixin.qq.com/s?__biz=MzU2MTgwOTM1MQ==&mid=2247484455&idx=1&sn=9f25c89e5df0814f9257b29bbd6cedd5
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.04.22 16:35:52
-      title: 银行因网络安全/数据安全问题被“双罚”，科技部人员负有责任
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520034&idx=1&sn=5c010fa1c737b12158388f0f9794358e
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.04.22 16:35:52
-      title: 香港医院数据泄露：56,000名患者受到影响
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520034&idx=2&sn=ae75e71d4718474a83a8aaf24c71911b
-    - author: 软件安全与逆向分析
-      release_time: 2026.04.22 13:24:14
-      title: 电子书分享：安卓系统AOSP技术内幕
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485122&idx=1&sn=3877e38965a4620b9ed729743d979bd1
-    - author: 哆啦安全
-      release_time: 2026.04.22 12:15:39
-      title: Android | iOS | HarmonyOS 移动设备取证系统V2.8
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500169&idx=1&sn=1eb42642b99b3243eac5b7dee3ae973c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
