@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 小肩膀-逆向安全培训
+      release_time: 2026.04.27 00:50:07
+      title: 13.skill的配置
+      url: https://www.bilibili.com/video/BV1jBoqB3EhH
     - author: x1a0f3n9
       release_time: 2026.04.26 19:47:41
       title: 发个福利活动玩玩
@@ -117,10 +121,6 @@
       release_time: 2026.04.09 11:33:18
       title: 猿人学北京 300+ 爬虫er聚会+音乐+快进版
       url: https://www.bilibili.com/video/BV15kDpBDEUs
-    - author: 澎湖湾的彭
-      release_time: 2026.04.09 01:00:59
-      title: 云片滑块逆向
-      url: https://www.bilibili.com/video/BV1LfDJBGEhN
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
