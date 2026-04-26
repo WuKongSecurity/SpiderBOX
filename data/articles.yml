@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 软件安全与逆向分析
+      release_time: 2026.04.26 19:15:44
+      title: iOS虚拟手机实现能力现状
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485134&idx=1&sn=9577361b5573c62a0b05424afff04237
     - author: 逆向OneByOne
       release_time: 2026.04.26 18:23:36
       title: OpenCLI之生成网站api适配器
@@ -240,10 +244,6 @@
       release_time: 2026.04.22 20:47:11
       title: 免费电力资讯聚合插件
       url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862304&idx=1&sn=978433f23ea6c9a1bb7473b27b009a1c
-    - author: 沐阳逆向与AI学习
-      release_time: 2026.04.22 20:46:17
-      title: iOS逆向一条指令让AI自动逆向生成frida代码:手把手教你写instagram抓包的SKILL
-      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484593&idx=1&sn=68dde6ab19da617bc2da8423ef4c1689
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -374,6 +374,10 @@
       release_time: 2026.04.26 17:08:17
       title: '[原创]RiskEngine 开源设备指纹和风险监测SDK'
       url: https://bbs.kanxue.com/thread-290994.htm
+    - author: qqqiu
+      release_time: 2026.04.26 16:42:31
+      title: 纯静态硬啃xx反封号 dylib：OLLVM CFF   MBA 全链路反混淆，还原 167 hook 攻防全图（看着吓人
+      url: https://bbs.kanxue.com/thread-290993.htm
     - author: 悦来客栈的老板
       release_time: 2026.04.24 21:14:28
       title: 每个Python开发者都应了解的Enum技巧
@@ -486,10 +490,6 @@
       release_time: 2026.04.14 10:12:32
       title: 卷死同事！Cluade Code Claude-opus-4-6-fast 安装 + 配置 + 使用 一步到位
       url: https://bingyun.blog.csdn.net/article/details/160118936
-    - author: '0x530c'
-      release_time: 2026.04.13 17:50:58
-      title: '[原创] 手撕某音最新版 VMP 之虚拟指令流解析器的实现'
-      url: https://bbs.kanxue.com/thread-290802.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
