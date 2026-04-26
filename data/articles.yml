@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 一只勇敢的小佳
+      release_time: 2026.04.27 05:25:23
+      title: 检测总览，基本涵盖全部的一个检测的思路和思考，全是干货，建议点赞收藏！！！
+      url: https://www.bilibili.com/video/BV1WEovBjEVh
     - author: 小肩膀-逆向安全培训
       release_time: 2026.04.27 00:50:07
       title: 13.skill的配置
@@ -117,10 +121,6 @@
       release_time: 2026.04.09 12:02:27
       title: （原声版）猿人学北京小伙伴们的聚会+原声花絮版
       url: https://www.bilibili.com/video/BV1ULDpBMEC5
-    - author: 猿人学
-      release_time: 2026.04.09 11:33:18
-      title: 猿人学北京 300+ 爬虫er聚会+音乐+快进版
-      url: https://www.bilibili.com/video/BV15kDpBDEUs
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
