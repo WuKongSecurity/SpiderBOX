@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.04.26 21:39:36
+      title: AI随随便便自动逆向补头条环境和采集数据
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484479&idx=1&sn=f536e7c0942c3cb3b362a966b0244009
+    - author: 小伍哥聊风控
+      release_time: 2026.04.26 21:11:54
+      title: 风控中的文本聚类-基于Sentence-transformers
+      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650197130&idx=1&sn=78f80ec0abb34d10a466e056d57837c6
     - author: 软件安全与逆向分析
       release_time: 2026.04.26 19:15:44
       title: iOS虚拟手机实现能力现状
@@ -152,6 +160,10 @@
       release_time: 2026.04.25 23:27:48
       title: 【游戏逆向】腾讯系微信小游戏JceStruct协议分析
       url: https://mp.weixin.qq.com/s?__biz=MzkyNjY3OTI4Ng==&mid=2247486014&idx=1&sn=f67d28b4043db851a8460f3e31c40d12
+    - author: 如意私塾
+      release_time: 2026.04.25 10:01:03
+      title: 【完整记录】AI自动逆向云片嵌入式滑动拼图验证码
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484468&idx=1&sn=38cb51a9789db0c039189380d6b2f433
     - author: 反爬破解社
       release_time: 2026.04.24 23:22:41
       title: 验证码攻防（上）：从传统文本到图形识别，基础破解全攻略
@@ -232,18 +244,6 @@
       release_time: 2026.04.23 09:00:00
       title: AI技能|使用国产AI模型还原ob混淆的字符串(可复现)
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566506&idx=1&sn=4ff758f2a8dd2e2f9467656626b7073e
-    - author: Coder小Q
-      release_time: 2026.04.23 08:30:00
-      title: 【量子计算】量子电路图：把量子门写成算法的语言
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495371&idx=1&sn=9eabcf1ec8affb87342ad02bce8bb3d0
-    - author: 如意私塾
-      release_time: 2026.04.22 23:03:25
-      title: 我们建了群，提供最全的海外数据采集服务和数据集
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484460&idx=1&sn=afe11c899bf0157a18c27beb704eefc1
-    - author: 将往的爬虫逆向日记
-      release_time: 2026.04.22 20:47:11
-      title: 免费电力资讯聚合插件
-      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862304&idx=1&sn=978433f23ea6c9a1bb7473b27b009a1c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
