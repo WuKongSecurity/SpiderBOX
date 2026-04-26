@@ -125,6 +125,10 @@
     term: 哔哩哔哩
   - links:
     - author: 如意私塾
+      release_time: 2026.04.26 21:45:35
+      title: 【完整记录】AI自动逆向补头条环境和采集数据
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484481&idx=1&sn=fbca2e70e8e8a27b86be676253d7dd6e
+    - author: 如意私塾
       release_time: 2026.04.26 21:39:36
       title: AI随随便便自动逆向补头条环境和采集数据
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484479&idx=1&sn=f536e7c0942c3cb3b362a966b0244009
@@ -240,10 +244,6 @@
       release_time: 2026.04.23 09:47:53
       title: 深入理解 Windows 反调试：基于内核对象句柄的检测与绕过
       url: https://mp.weixin.qq.com/s?__biz=MzU2MTgwOTM1MQ==&mid=2247484484&idx=1&sn=c388bbb73e400e746492264a452d5ebe
-    - author: 菜鸟学Python编程
-      release_time: 2026.04.23 09:00:00
-      title: AI技能|使用国产AI模型还原ob混淆的字符串(可复现)
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566506&idx=1&sn=4ff758f2a8dd2e2f9467656626b7073e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
