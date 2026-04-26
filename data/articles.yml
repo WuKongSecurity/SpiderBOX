@@ -125,6 +125,10 @@
     term: 哔哩哔哩
   - links:
     - author: 逆向OneByOne
+      release_time: 2026.04.26 18:23:36
+      title: OpenCLI之生成网站api适配器
+      url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494229&idx=1&sn=368a88ef9c312a8b99cb27b7739d9fc1
+    - author: 逆向OneByOne
       release_time: 2026.04.26 10:23:49
       title: 一文彻底了解浏览器自动化，cdp、playwright、browser-user、midscene、browsermcp
       url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494223&idx=1&sn=32f604c3287b3e5d40a886a579397224
@@ -240,10 +244,6 @@
       release_time: 2026.04.22 20:46:17
       title: iOS逆向一条指令让AI自动逆向生成frida代码:手把手教你写instagram抓包的SKILL
       url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484593&idx=1&sn=68dde6ab19da617bc2da8423ef4c1689
-    - author: 进击的HACK
-      release_time: 2026.04.22 18:41:28
-      title: 基于云函数的HTTP代理工具，可隐藏自身IP
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489993&idx=1&sn=4f41ebfd135f8bf4a62fb9a07fba65a9
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
