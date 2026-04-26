@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2026.04.27 00:00:00
+      title: 2026安卓逆向 -- AI一句话还原算法代码
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041736&idx=1&sn=83a22f7435c7c135f41a3e7dad472d22
     - author: 大数据安全技术学习
       release_time: 2026.04.26 23:40:27
       title: APP2025.直播21.kpm-panda-hide内核模块过企业壳检测
@@ -240,10 +244,6 @@
       release_time: 2026.04.23 21:22:19
       title: 【web补环境案例-3】yrx5
       url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484416&idx=1&sn=9f8a9ad22331a020ece5bed816fc49de
-    - author: 将往的爬虫逆向日记
-      release_time: 2026.04.23 19:51:02
-      title: 免费电力资讯插件3.0版本
-      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862321&idx=1&sn=310fc4c095635fb64baf80b9c9fab88f
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
