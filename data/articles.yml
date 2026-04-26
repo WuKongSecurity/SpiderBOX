@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: x1a0f3n9
+      release_time: 2026.04.26 19:47:41
+      title: 发个福利活动玩玩
+      url: https://www.bilibili.com/video/BV1rbZFB1EiR
     - author: 池唐不是糖
       release_time: 2026.04.25 13:03:32
       title: ollvm的一键通杀，技术在改变世界，学不会你来砍我
@@ -117,10 +121,6 @@
       release_time: 2026.04.09 01:00:59
       title: 云片滑块逆向
       url: https://www.bilibili.com/video/BV1LfDJBGEhN
-    - author: Alone逆向安全
-      release_time: 2026.04.08 16:16:53
-      title: Frida 被企业壳疯狂检测？我直接把 Gum 引擎移植成 Lua 绑定，彻底通杀
-      url: https://www.bilibili.com/video/BV1XzDjBtEyr
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
