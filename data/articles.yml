@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 泡泡以安
+      release_time: 2026.04.27 13:02:17
+      title: Unidbg学习笔记（十二）：Trace 的三个层次
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486097&idx=1&sn=401fc3a6c874c165df8c4fb49dc7acf0
+    - author: 爬虫spider
+      release_time: 2026.04.27 11:53:31
+      title: 试用两个ai逆向项目
+      url: https://mp.weixin.qq.com/s?__biz=MzUyODY3ODUzNw==&mid=2247484233&idx=1&sn=8f41b77ea7d75151f9f9689969745ffe
     - author: 软件安全与逆向分析
       release_time: 2026.04.27 09:00:00
       title: 电子书更新分享：Linux内核模块编程指南.pdf
@@ -204,6 +212,10 @@
       release_time: 2026.04.25 23:27:48
       title: 【游戏逆向】腾讯系微信小游戏JceStruct协议分析
       url: https://mp.weixin.qq.com/s?__biz=MzkyNjY3OTI4Ng==&mid=2247486014&idx=1&sn=f67d28b4043db851a8460f3e31c40d12
+    - author: 泡泡以安
+      release_time: 2026.04.25 12:03:12
+      title: Unidbg学习笔记（十一）：初始化问题
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486086&idx=1&sn=51248fbd35562e0470c8b05b1885f0f5
     - author: 如意私塾
       release_time: 2026.04.25 10:01:03
       title: 【完整记录】AI自动逆向云片嵌入式滑动拼图验证码
@@ -232,18 +244,6 @@
       release_time: 2026.04.24 17:59:39
       title: Android加固 | VM防逆向SDK
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500195&idx=1&sn=1452f6ca135221a558d9091eb721d643
-    - author: 进击的HACK
-      release_time: 2026.04.24 17:59:13
-      title: 通过AI-skills挖掘APK客户端漏洞
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490002&idx=1&sn=ae3a19d107b1716b24b8de1523cca975
-    - author: 如意私塾
-      release_time: 2026.04.24 11:51:07
-      title: 【完整记录】AI反编译字节系JSVMP并通过数据请求验证
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484463&idx=1&sn=d795cfb8b5d867163fa7e9ae4158331b
-    - author: 泡泡以安
-      release_time: 2026.04.24 10:35:35
-      title: Unidbg学习笔记（十）：库函数层补环境
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486077&idx=1&sn=d2810d3d2ac4c972057c0809127d5a85
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
