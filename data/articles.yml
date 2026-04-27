@@ -1,495 +1,495 @@
 - icon: fas fa-list
   list:
-    - links:
-        - author: 和沐阳学逆向与Ai
-          release_time: 2026.04.27 14:36:26
-          title: 82.Pixel刷机配置magisk_frida_lsposed教程安卓逆向环境搭建
-          url: https://www.bilibili.com/video/BV1VhokBHELh
-        - author: 一只勇敢的小佳
-          release_time: 2026.04.27 05:25:23
-          title: 检测总览，基本涵盖全部的一个检测的思路和思考，全是干货，建议点赞收藏！！！
-          url: https://www.bilibili.com/video/BV1WEovBjEVh
-        - author: 小肩膀-逆向安全培训
-          release_time: 2026.04.27 00:50:07
-          title: 13.skill的配置
-          url: https://www.bilibili.com/video/BV1jBoqB3EhH
-        - author: x1a0f3n9
-          release_time: 2026.04.26 19:47:41
-          title: 发个福利活动玩玩
-          url: https://www.bilibili.com/video/BV1rbZFB1EiR
-        - author: 池唐不是糖
-          release_time: 2026.04.25 13:03:32
-          title: ollvm的一键通杀，技术在改变世界，学不会你来砍我
-          url: https://www.bilibili.com/video/BV1XDoDBzE4D
-        - author: B站用户骚神
-          release_time: 2026.04.23 14:13:26
-          title: 【骚神插件9.8】重大更新，新增人工智能元素定位！！！
-          url: https://www.bilibili.com/video/BV18zohBjE7W
-        - author: 和沐阳学逆向与Ai
-          release_time: 2026.04.22 20:49:02
-          title: 81.iOS逆向一条指令让AI自动逆向生成frida代码:手把手教你写instagram抓包的SKILL
-          url: https://www.bilibili.com/video/BV1pmo4BsEcu
-        - author: 如意-浏览器开发培训
-          release_time: 2026.04.21 18:47:35
-          title: firefox指纹内核之HTTP密码代理改造支持
-          url: https://www.bilibili.com/video/BV1s5dSBnEPa
-        - author: 如意-浏览器开发培训
-          release_time: 2026.04.20 17:55:33
-          title: 新一代web自动化只拟人化鼠标行为演示
-          url: https://www.bilibili.com/video/BV1sToKBwEAP
-        - author: 人生导师duck
-          release_time: 2026.04.19 22:28:17
-          title: 看源码的本质：从问题到系统建模
-          url: https://www.bilibili.com/video/BV1aBdfBoEeD
-        - author: 冷月不是程序员
-          release_time: 2026.04.19 20:17:15
-          title: 最好的Linux发行版竟然是WSL？
-          url: https://www.bilibili.com/video/BV1KhoFBHEPY
-        - author: 逆向狗都不学
-          release_time: 2026.04.19 00:21:29
-          title: Android逆向之学习成果校验-1
-          url: https://www.bilibili.com/video/BV1rYdWBVELD
-        - author: 逆向研究生
-          release_time: 2026.04.18 22:29:34
-          title: 发包基本流程
-          url: https://www.bilibili.com/video/BV1iCdWBiEDR
-        - author: 一只勇敢的小佳
-          release_time: 2026.04.18 18:14:39
-          title: 最强内核模块，最强小工具，最强lsposed
-          url: https://www.bilibili.com/video/BV1ipdpBwEeh
-        - author: 人生导师duck
-          release_time: 2026.04.18 12:18:36
-          title: 关于大型项目源码阅读
-          url: https://www.bilibili.com/video/BV1nQdnBeEUr
-        - author: tomysky0409
-          release_time: 2026.04.16 23:58:57
-          title: 验证码技巧分享-简单文本识别模型对比
-          url: https://www.bilibili.com/video/BV1JfdeBTEPn
-        - author: 如意-浏览器开发培训
-          release_time: 2026.04.15 18:46:49
-          title: （秒px盾）outlook微软邮箱注册机制作
-          url: https://www.bilibili.com/video/BV1ZEQEBCEo3
-        - author: 魔影-马
-          release_time: 2026.04.14 18:39:38
-          title: 浅谈某手游反作弊(Report data 2篇)
-          url: https://www.bilibili.com/video/BV1HBQgBZEMe
-        - author: Alone逆向安全
-          release_time: 2026.04.14 12:58:40
-          title: 无痕Hook逆向神器  魔改frida-gum + Lua热重载 + JavaNative全家桶
-          url: https://www.bilibili.com/video/BV1qeQiB4Eww
-        - author: 学逆向的柚子
-          release_time: 2026.04.13 18:04:47
-          title: 4月13日
-          url: https://www.bilibili.com/video/BV1QKQ4B9EBW
-        - author: B站用户骚神
-          release_time: 2026.04.13 17:52:06
-          title: DrissionPage抓取小红书数据到数据库
-          url: https://www.bilibili.com/video/BV1QNQ4BsE76
-        - author: 如意-浏览器开发培训
-          release_time: 2026.04.13 17:17:03
-          title: firefox火狐指纹浏览器定制之speech音频指纹
-          url: https://www.bilibili.com/video/BV1ZXQxBYEhh
-        - author: 狄硕
-          release_time: 2026.04.13 09:00:00
-          title: 【全流程】3分钟全自动一键ROOT，各种ROOT随意切换，从小白变成ROOT糕手！
-          url: https://www.bilibili.com/video/BV1YCDXBhE2E
-        - author: 如意-浏览器开发培训
-          release_time: 2026.04.12 21:45:03
-          title: 【Python爬虫】自动化采集Boss招聘网站职位信息
-          url: https://www.bilibili.com/video/BV1vzDXBPEC1
-        - author: tomysky0409
-          release_time: 2026.04.10 20:47:55
-          title: 验证码技巧分享-提取共同的背景
-          url: https://www.bilibili.com/video/BV1UsQcB1EPf
-        - author: 澎湖湾的彭
-          release_time: 2026.04.10 13:11:56
-          title: 极验3滑块逆向
-          url: https://www.bilibili.com/video/BV1PRQFBTE2e
-        - author: 时一十一姐呀
-          release_time: 2026.04.10 08:24:49
-          title: p3-opencli案例执行逻辑学习
-          url: https://www.bilibili.com/video/BV1mxDfBTEbM
-        - author: 时一十一姐呀
-          release_time: 2026.04.10 08:21:23
-          title: p2-opencli安装
-          url: https://www.bilibili.com/video/BV124DfBiEML
-        - author: 时一十一姐呀
-          release_time: 2026.04.10 08:20:40
-          title: p1-opencli基础概念了解
-          url: https://www.bilibili.com/video/BV1m4DfBiEAF
-        - author: 如意-浏览器开发培训
-          release_time: 2026.04.09 18:33:11
-          title: 新一代python自动化过检测之ruyiPage安装配置
-          url: https://www.bilibili.com/video/BV1QED4BQEKm
-      logo: images/logo/bilibili_32x32.png
-      term: 哔哩哔哩
-    - links:
-        - author: 将往的爬虫逆向日记
-          release_time: 2026.04.27 20:58:37
-          title: 电力交易员都在用的免费电力资讯插件8.0版本-支持小时级辐照数据导出，小时级气象数据导出，水情数据导出
-          url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862383&idx=1&sn=f0718fa15935be652a8274ea1f3f9d6d
-        - author: 菜鸟学Python编程
-          release_time: 2026.04.27 20:34:33
-          title: AST反混淆插件|仅更改一次的赋值语句还原
-          url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566513&idx=1&sn=94346c7a6380d44dbf4cd71be4d41739
-        - author: 进击的HACK
-          release_time: 2026.04.27 19:43:36
-          title: 用 cc-Switch 管理你的skills、mcp，简单使用指南
-          url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490006&idx=1&sn=04758ee7c955a68ac06b3d8bdf7e642c
-        - author: 奋飞安全
-          release_time: 2026.04.27 16:46:26
-          title: Codex开始抢逆向饭碗了：一句话同时指挥Jadx MCP和IDA MCP
-          url: https://mp.weixin.qq.com/s?__biz=MzI4NzMwNDI3OQ==&mid=2247485081&idx=1&sn=047fc73715b3c04c1e99c50aaca1e4f2
-        - author: 桐梓坡低手
-          release_time: 2026.04.27 15:36:43
-          title: 盾山6eMrZlPH，lzkqow23819
-          url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247483793&idx=1&sn=856fc088092bc034029a8eba7c2066f0
-        - author: 二进制磨剑
-          release_time: 2026.04.27 15:01:43
-          title: 二进制磨剑｜全系逆向课程五一大促开启！
-          url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486043&idx=1&sn=9a83bec11e1a344ecbb8986e40eb69d3
-        - author: 沐阳逆向与AI学习
-          release_time: 2026.04.27 14:42:18
-          title: Pixel刷机配置magisk_frida_lsposed教程
-          url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484598&idx=1&sn=1979438a4e428b9ada0ece96006478ec
-        - author: 苏子寻月
-          release_time: 2026.04.27 13:51:31
-          title: 深入理解 Windows 反调试：基于汇编指令行为的检测与绕过
-          url: https://mp.weixin.qq.com/s?__biz=MzU2MTgwOTM1MQ==&mid=2247484488&idx=1&sn=7380cdf3a1f41503e3c808d644f214c4
-        - author: 泡泡以安
-          release_time: 2026.04.27 13:02:17
-          title: Unidbg学习笔记（十二）：Trace 的三个层次
-          url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486097&idx=1&sn=401fc3a6c874c165df8c4fb49dc7acf0
-        - author: 爬虫spider
-          release_time: 2026.04.27 11:53:31
-          title: 试用两个ai逆向项目
-          url: https://mp.weixin.qq.com/s?__biz=MzUyODY3ODUzNw==&mid=2247484233&idx=1&sn=8f41b77ea7d75151f9f9689969745ffe
-        - author: 软件安全与逆向分析
-          release_time: 2026.04.27 09:00:00
-          title: 电子书更新分享：Linux内核模块编程指南.pdf
-          url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485128&idx=1&sn=035b5f2a7cfaf6ca23ea594d1504f3ec
-        - author: 测试工程师成长之路
-          release_time: 2026.04.27 08:30:00
-          title: AI 编程必备｜让 Claude Code/Cursor 拥有「真·浏览器控制力」
-          url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578863&idx=1&sn=b37e2425cd19845e67f2bb49bd92245f
-        - author: Coder小Q
-          release_time: 2026.04.27 08:30:00
-          title: 【量子计算】计算复杂度基础：为量子算法建立统一赛场
-          url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495430&idx=1&sn=b1ce1eaa245b5c57d4998433addc0ac7
-        - author: 逆向有你
-          release_time: 2026.04.27 00:00:00
-          title: 2026安卓逆向 -- AI一句话还原算法代码
-          url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041736&idx=1&sn=83a22f7435c7c135f41a3e7dad472d22
-        - author: 大数据安全技术学习
-          release_time: 2026.04.26 23:40:27
-          title: APP2025.直播21.kpm-panda-hide内核模块过企业壳检测
-          url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486154&idx=1&sn=cf68836a25fb7125a53062666f34000c
-        - author: 大数据安全技术学习
-          release_time: 2026.04.26 23:40:27
-          title: 《FRIDA手撕海外企业壳》成都场确定！席位火热预定中！
-          url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486154&idx=2&sn=a9e92ddaca864f6b04efde808a8ea3b9
-        - author: 大数据安全技术学习
-          release_time: 2026.04.26 23:40:27
-          title: 月神 SRC 漏洞挖掘课程・第六期 全新升级
-          url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486154&idx=3&sn=0a4f7115b418d0e1606d3b98dd196075
-        - author: 大数据安全技术学习
-          release_time: 2026.04.26 23:40:27
-          title: 奋斗者计划，助你升职加薪|阿里云、米哈游、阿里巴巴直推
-          url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486154&idx=4&sn=c2de42936afa952b93f174d6eb7ae5d6
-        - author: 大数据安全技术学习
-          release_time: 2026.04.26 23:40:27
-          title: 地表最强过检测环境原生三绿取证设备
-          url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486154&idx=5&sn=8154fd45bb0114fa33245b13752a56da
-        - author: 大数据安全技术学习
-          release_time: 2026.04.26 23:40:27
-          title: 八九新红米13C刷机小王子内核模块定制隐藏环境过多数企业壳frida检测
-          url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486154&idx=6&sn=b4f023ab9aec6d9c226ff822483f2949
-        - author: 如意私塾
-          release_time: 2026.04.26 21:45:35
-          title: 【完整记录】AI自动逆向补头条环境和采集数据
-          url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484481&idx=1&sn=fbca2e70e8e8a27b86be676253d7dd6e
-        - author: 如意私塾
-          release_time: 2026.04.26 21:39:36
-          title: AI随随便便自动逆向补头条环境和采集数据
-          url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484479&idx=1&sn=f536e7c0942c3cb3b362a966b0244009
-        - author: 小伍哥聊风控
-          release_time: 2026.04.26 21:11:54
-          title: 风控中的文本聚类-基于Sentence-transformers
-          url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650197130&idx=1&sn=78f80ec0abb34d10a466e056d57837c6
-        - author: 软件安全与逆向分析
-          release_time: 2026.04.26 19:15:44
-          title: iOS虚拟手机实现能力现状
-          url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485134&idx=1&sn=9577361b5573c62a0b05424afff04237
-        - author: 逆向OneByOne
-          release_time: 2026.04.26 18:23:36
-          title: OpenCLI之生成网站api适配器
-          url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494229&idx=1&sn=368a88ef9c312a8b99cb27b7739d9fc1
-        - author: 逆向OneByOne
-          release_time: 2026.04.26 10:23:49
-          title: 一文彻底了解浏览器自动化，cdp、playwright、browser-user、midscene、browsermcp
-          url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494223&idx=1&sn=32f604c3287b3e5d40a886a579397224
-        - author: 哆啦安全
-          release_time: 2026.04.26 09:41:49
-          title: Android VMP虚拟化保护方案
-          url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500200&idx=1&sn=60eba87c75651bd81579ba6b12af1064
-        - author: 苏子寻月
-          release_time: 2026.04.26 08:00:00
-          title: 深入理解 Windows 反调试：进程内存嗅探与对抗之道
-          url: https://mp.weixin.qq.com/s?__biz=MzU2MTgwOTM1MQ==&mid=2247484487&idx=1&sn=bc2dfada145c3eb3adb9d2e368d950b8
-        - author: 丫总逆向
-          release_time: 2026.04.26 01:36:05
-          title: 知其然，也知其所以然——逆向杂谈
-          url: https://mp.weixin.qq.com/s?__biz=MzU1NjQ2Njg4OA==&mid=2247484086&idx=1&sn=6282f986cffe0a1d755b6dde047976c8
-        - author: 挖个洞先
-          release_time: 2026.04.25 23:27:48
-          title: 【游戏逆向】腾讯系微信小游戏JceStruct协议分析
-          url: https://mp.weixin.qq.com/s?__biz=MzkyNjY3OTI4Ng==&mid=2247486014&idx=1&sn=f67d28b4043db851a8460f3e31c40d12
-      logo: images/logo/mpweixin_32x32.png
-      term: 公众号
-    - links:
-        - author: gfy1129
-          release_time: 2026.04.25 22:45:00
-          title: 某Q音乐sign纯算-vmp插桩日志分析
-          url: https://www.52pojie.cn/thread-2104849-1-1.html
-        - author: Mengzek7
-          release_time: 2026.04.25 16:20:00
-          title: 某box APP逆向分析（启动检测绕过+广告绕过）
-          url: https://www.52pojie.cn/thread-2104806-1-1.html
-        - author: '743567274'
-          release_time: 2026.04.24 22:21:00
-          title: 猿人学验证码 - 图文点选题目分析
-          url: https://www.52pojie.cn/thread-2104726-1-1.html
-        - author: misakibb
-          release_time: 2026.04.24 11:56:00
-          title: 某些基于RPGMV游戏的礼包码获取
-          url: https://www.52pojie.cn/thread-2104638-1-1.html
-        - author: '13955925361'
-          release_time: 2026.04.23 00:30:00
-          title: 抖音详情页数据采集及a_bogus参数逆向分析
-          url: https://www.52pojie.cn/thread-2104414-1-1.html
-        - author: fzlte0
-          release_time: 2026.04.22 17:12:00
-          title: 一个浏览器网页翻页过程中url变化的过程分析
-          url: https://www.52pojie.cn/thread-2104354-1-1.html
-        - author: 罗婷
-          release_time: 2026.04.22 02:55:00
-          title: AndroidManifest魔改分析向-记一次对魔改样本的分析和经验分享
-          url: https://www.52pojie.cn/thread-2104220-1-1.html
-        - author: n1ng
-          release_time: 2026.04.21 22:11:00
-          title: 从0到1构建一个Hook工具之PLT Hook篇（四）
-          url: https://www.52pojie.cn/thread-2104206-1-1.html
-        - author: anke1
-          release_time: 2026.04.21 21:31:00
-          title: 两步路户外助手会员分析和新百度加固去除
-          url: https://www.52pojie.cn/thread-2104201-1-1.html
-        - author: '13955925361'
-          release_time: 2026.04.21 19:01:00
-          title: 京东搜索接口商品数据获取及h5st参数解析
-          url: https://www.52pojie.cn/thread-2104180-1-1.html
-        - author: '13955925361'
-          release_time: 2026.04.21 00:05:00
-          title: 新版小红书首页笔记获取及X-s参数解密
-          url: https://www.52pojie.cn/thread-2104039-1-1.html
-        - author: 逗逗苍穹
-          release_time: 2026.04.19 22:43:00
-          title: ai补环境(下)
-          url: https://www.52pojie.cn/thread-2103854-1-1.html
-        - author: Barih
-          release_time: 2026.04.19 16:43:00
-          title: 通过内存映射定位flutter应用隐藏的libapp .so 路径
-          url: https://www.52pojie.cn/thread-2103807-1-1.html
-        - author: ngiokweng
-          release_time: 2026.04.18 12:24:00
-          title: Appdome分析
-          url: https://www.52pojie.cn/thread-2103571-1-1.html
-        - author: guxing666
-          release_time: 2026.04.17 01:08:00
-          title: 自动化识别缺口x换算问题
-          url: https://www.52pojie.cn/thread-2103421-1-1.html
-        - author: Tonyha7
-          release_time: 2026.04.16 21:06:00
-          title: 使用jadx-ai-mcp辅助分析某校园pro校园跑
-          url: https://www.52pojie.cn/thread-2103392-1-1.html
-        - author: 逗逗苍穹
-          release_time: 2026.04.12 14:55:00
-          title: 全程交给 AI，不写一行代码，本地复现 CCTV 视频播放链路的一次实战记录
-          url: https://www.52pojie.cn/thread-2102594-1-1.html
-        - author: libbb
-          release_time: 2026.04.12 00:07:00
-          title: 某手游加密数据破解教程（截止2026/4/12）
-          url: https://www.52pojie.cn/thread-2102536-1-1.html
-        - author: guxing666
-          release_time: 2026.04.10 23:48:00
-          title: 顶象滑块的x问题！
-          url: https://www.52pojie.cn/thread-2102398-1-1.html
-        - author: xiayutianz
-          release_time: 2026.04.10 18:07:00
-          title: jdgs模拟执行
-          url: https://www.52pojie.cn/thread-2102366-1-1.html
-        - author: 芽衣
-          release_time: 2026.04.10 16:35:00
-          title: mx player 逆向教程之禁止外部打开后返回主界面
-          url: https://www.52pojie.cn/thread-2102339-1-1.html
-        - author: KaliHt
-          release_time: 2026.04.08 23:00:00
-          title: 记一次某工程学院一卡通登录流程
-          url: https://www.52pojie.cn/thread-2102004-1-1.html
-        - author: LiXieZengHui
-          release_time: 2026.04.08 22:36:00
-          title: 八猫付费小说逆向-hostnameVerify&sign
-          url: https://www.52pojie.cn/thread-2102001-1-1.html
-        - author: xiybhk
-          release_time: 2026.04.08 13:07:00
-          title: APP数据采集踩坑实录：从被ban到稳定跑通的4种方案
-          url: https://www.52pojie.cn/thread-2101904-1-1.html
-        - author: wansconst
-          release_time: 2026.04.08 12:16:00
-          title: 【2026春节】解题领红包之三、四、六_思路分享
-          url: https://www.52pojie.cn/thread-2101894-1-1.html
-        - author: verber34
-          release_time: 2026.04.08 09:00:00
-          title: 破解伪装聊天HYB APP的VIP功能，学习flutter下的so修改
-          url: https://www.52pojie.cn/thread-2101843-1-1.html
-        - author: wansconst
-          release_time: 2026.04.05 17:52:00
-          title: 分析某软件的请求加密和响应解密流程_思路分享
-          url: https://www.52pojie.cn/thread-2101445-1-1.html
-        - author: OrientalGlass
-          release_time: 2026.04.04 17:00:00
-          title: Android从ELF-Loader到自定义Linker的实现及原理
-          url: https://www.52pojie.cn/thread-2101321-1-1.html
-        - author: 漁滒
-          release_time: 2026.04.03 16:52:00
-          title: 【JS逆向系列】某咕视频ddCalcu参数分析
-          url: https://www.52pojie.cn/thread-2101190-1-1.html
-        - author: 如果我是DJ？
-          release_time: 2026.04.03 15:38:00
-          title: 记录本菜鸡第一次破解某影视VIP和去广告
-          url: https://www.52pojie.cn/thread-2101167-1-1.html
-      logo: images/logo/52pojie_32x32.png
-      term: 吾爱破解
-    - links:
-        - author: 江左梅郎
-          release_time: 2026.04.26 17:08:17
-          title: '[原创]RiskEngine 开源设备指纹和风险监测SDK'
-          url: https://bbs.kanxue.com/thread-290994.htm
-        - author: qqqiu
-          release_time: 2026.04.26 16:42:31
-          title: 纯静态硬啃xx反封号 dylib：OLLVM CFF   MBA 全链路反混淆，还原 167 hook 攻防全图（看着吓人
-          url: https://bbs.kanxue.com/thread-290993.htm
-        - author: 悦来客栈的老板
-          release_time: 2026.04.24 21:14:28
-          title: 每个Python开发者都应了解的Enum技巧
-          url: https://blog.csdn.net/qq523176585/article/details/160485878
-        - author: wx_微信用户_137
-          release_time: 2026.04.24 19:03:36
-          title: 看雪无法snsapi_base登录
-          url: https://bbs.kanxue.com/thread-290977.htm
-        - author: mb_hguayowb
-          release_time: 2026.04.23 14:03:31
-          title: akamai bmp风控
-          url: https://bbs.kanxue.com/thread-290955.htm
-        - author: 悦来客栈的老板
-          release_time: 2026.04.23 09:00:38
-          title: AI技能|使用国产AI模型还原ob混淆的字符串(可复现)
-          url: https://blog.csdn.net/qq523176585/article/details/160454077
-        - author: Matriy
-          release_time: 2026.04.22 23:16:46
-          title: '[原创]2026腾讯游戏安全竞赛Android初赛 wp'
-          url: https://bbs.kanxue.com/thread-290944.htm
-        - author: sh4w
-          release_time: 2026.04.22 15:14:48
-          title: '[原创]某宝 x-sign 模拟执行'
-          url: https://bbs.kanxue.com/thread-290932.htm
-        - author: 悦来客栈的老板
-          release_time: 2026.04.22 09:00:24
-          title: AI技能|手把手教你轻松配置国产龙虾
-          url: https://blog.csdn.net/qq523176585/article/details/160421843
-        - author: n_1ng
-          release_time: 2026.04.21 22:10:49
-          title: '[原创]从0到1构建一个Hook工具之PLT Hook篇（四）'
-          url: https://bbs.kanxue.com/thread-290921.htm
-        - author: '0xfffb'
-          release_time: 2026.04.21 13:19:47
-          title: '[原创]反爬战略和MCP对抗思路'
-          url: https://bbs.kanxue.com/thread-290910.htm
-        - author: 悦来客栈的老板
-          release_time: 2026.04.21 09:25:24
-          title: AI逆向|使用AI解决jsvmp的几种方式
-          url: https://blog.csdn.net/qq523176585/article/details/160386797
-        - author: Jmn314
-          release_time: 2026.04.20 21:46:04
-          title: '[原创]基于图书管理系统的漏洞复现与代码审计'
-          url: https://bbs.kanxue.com/thread-290904.htm
-        - author: mxystery
-          release_time: 2026.04.20 21:45:03
-          title: '[原创]腾讯游戏安全初赛 Android 客户端分析'
-          url: https://bbs.kanxue.com/thread-290903.htm
-        - author: 悦来客栈的老板
-          release_time: 2026.04.20 20:46:39
-          title: AI逆向|推荐几个js逆向相关的mcp和skills
-          url: https://blog.csdn.net/qq523176585/article/details/160349514
-        - author: a'ゞCicada
-          release_time: 2026.04.20 00:08:33
-          title: '[原创] 2026腾讯游戏安全技术竞赛-安卓决赛VM分析与还原'
-          url: https://bbs.kanxue.com/thread-290879.htm
-        - author: Yangser
-          release_time: 2026.04.19 16:56:42
-          title: '[原创]新版梆企检测绕过'
-          url: https://bbs.kanxue.com/thread-290874.htm
-        - author: REerr
-          release_time: 2026.04.19 10:35:58
-          title: '[原创]一个零字节修改的 ARM64 Android Hook 框架实现'
-          url: https://bbs.kanxue.com/thread-290871.htm
-        - author: ngiokweng
-          release_time: 2026.04.18 12:24:29
-          title: '[原创] Appdome分析'
-          url: https://bbs.kanxue.com/thread-290866.htm
-        - author: wx_Deity
-          release_time: 2026.04.17 14:42:04
-          title: '[原创]OnePlus 12 (LineageOS) 安装 KernelSU 踩坑与解决'
-          url: https://bbs.kanxue.com/thread-290856.htm
-        - author: '318'
-          release_time: 2026.04.17 10:02:31
-          title: '[原创]2026腾讯游戏安全Android wp'
-          url: https://bbs.kanxue.com/thread-290852.htm
-        - author: witchan
-          release_time: 2026.04.16 08:16:54
-          title: '[原创]【iOS逆向与安全】让 Claude、Codex 控制 iPhone，iOS MCP 来了'
-          url: https://bbs.kanxue.com/thread-290841.htm
-        - author: 悦来客栈的老板
-          release_time: 2026.04.15 17:31:54
-          title: AI逆向|使用AI反编译反混淆练习平台第18题jsvmp
-          url: https://blog.csdn.net/qq523176585/article/details/160194710
-        - author: 易之生生
-          release_time: 2026.04.14 17:56:34
-          title: '[原创]挑战 Android 墓碑机制：揭秘某头部社交 APP 永生背后的保活术'
-          url: https://bbs.kanxue.com/thread-290821.htm
-        - author: 悦来客栈的老板
-          release_time: 2026.04.14 17:14:41
-          title: AI逆向|使用AI分析aws-waf-token值的加密并纯算
-          url: https://blog.csdn.net/qq523176585/article/details/160159479
-        - author: '`Jay'
-          release_time: 2026.04.14 17:12:54
-          title: BET365-JSVMP-纯算还原-深入解析JSVMP执行结构与逆向分析技巧
-          url: https://blog.csdn.net/weixin_47115747/article/details/160135975
-        - author: Tasfa
-          release_time: 2026.04.14 14:42:30
-          title: 【AI系列】从零开始学习大模型-系列2-Day3-理解Prefill vs Decode
-          url: https://blog.csdn.net/qq_30135181/article/details/160147391
-        - author: 追风暴的人
-          release_time: 2026.04.14 10:50:20
-          title: 猿人学第11题
-          url: https://blog.csdn.net/m0_51159233/article/details/160138343
-        - author: 冰履踏青云
-          release_time: 2026.04.14 10:16:12
-          title: 得物（Dewu）H5 接口 sign 签名参数逆向分析全流程
-          url: https://bingyun.blog.csdn.net/article/details/160115649
-        - author: 冰履踏青云
-          release_time: 2026.04.14 10:12:32
-          title: 卷死同事！Cluade Code Claude-opus-4-6-fast 安装 + 配置 + 使用 一步到位
-          url: https://bingyun.blog.csdn.net/article/details/160118936
-      logo: images/logo/kanxue_32x32.png
-      term: 看雪论坛/先知社区/CSDN等
+  - links:
+    - author: 和沐阳学逆向与Ai
+      release_time: 2026.04.27 14:36:26
+      title: 82.Pixel刷机配置magisk_frida_lsposed教程安卓逆向环境搭建
+      url: https://www.bilibili.com/video/BV1VhokBHELh
+    - author: 一只勇敢的小佳
+      release_time: 2026.04.27 05:25:23
+      title: 检测总览，基本涵盖全部的一个检测的思路和思考，全是干货，建议点赞收藏！！！
+      url: https://www.bilibili.com/video/BV1WEovBjEVh
+    - author: 小肩膀-逆向安全培训
+      release_time: 2026.04.27 00:50:07
+      title: 13.skill的配置
+      url: https://www.bilibili.com/video/BV1jBoqB3EhH
+    - author: x1a0f3n9
+      release_time: 2026.04.26 19:47:41
+      title: 发个福利活动玩玩
+      url: https://www.bilibili.com/video/BV1rbZFB1EiR
+    - author: 池唐不是糖
+      release_time: 2026.04.25 13:03:32
+      title: ollvm的一键通杀，技术在改变世界，学不会你来砍我
+      url: https://www.bilibili.com/video/BV1XDoDBzE4D
+    - author: B站用户骚神
+      release_time: 2026.04.23 14:13:26
+      title: 【骚神插件9.8】重大更新，新增人工智能元素定位！！！
+      url: https://www.bilibili.com/video/BV18zohBjE7W
+    - author: 和沐阳学逆向与Ai
+      release_time: 2026.04.22 20:49:02
+      title: 81.iOS逆向一条指令让AI自动逆向生成frida代码:手把手教你写instagram抓包的SKILL
+      url: https://www.bilibili.com/video/BV1pmo4BsEcu
+    - author: 如意-浏览器开发培训
+      release_time: 2026.04.21 18:47:35
+      title: firefox指纹内核之HTTP密码代理改造支持
+      url: https://www.bilibili.com/video/BV1s5dSBnEPa
+    - author: 如意-浏览器开发培训
+      release_time: 2026.04.20 17:55:33
+      title: 新一代web自动化只拟人化鼠标行为演示
+      url: https://www.bilibili.com/video/BV1sToKBwEAP
+    - author: 人生导师duck
+      release_time: 2026.04.19 22:28:17
+      title: 看源码的本质：从问题到系统建模
+      url: https://www.bilibili.com/video/BV1aBdfBoEeD
+    - author: 冷月不是程序员
+      release_time: 2026.04.19 20:17:15
+      title: 最好的Linux发行版竟然是WSL？
+      url: https://www.bilibili.com/video/BV1KhoFBHEPY
+    - author: 逆向狗都不学
+      release_time: 2026.04.19 00:21:29
+      title: Android逆向之学习成果校验-1
+      url: https://www.bilibili.com/video/BV1rYdWBVELD
+    - author: 逆向研究生
+      release_time: 2026.04.18 22:29:34
+      title: 发包基本流程
+      url: https://www.bilibili.com/video/BV1iCdWBiEDR
+    - author: 一只勇敢的小佳
+      release_time: 2026.04.18 18:14:39
+      title: 最强内核模块，最强小工具，最强lsposed
+      url: https://www.bilibili.com/video/BV1ipdpBwEeh
+    - author: 人生导师duck
+      release_time: 2026.04.18 12:18:36
+      title: 关于大型项目源码阅读
+      url: https://www.bilibili.com/video/BV1nQdnBeEUr
+    - author: tomysky0409
+      release_time: 2026.04.16 23:58:57
+      title: 验证码技巧分享-简单文本识别模型对比
+      url: https://www.bilibili.com/video/BV1JfdeBTEPn
+    - author: 如意-浏览器开发培训
+      release_time: 2026.04.15 18:46:49
+      title: （秒px盾）outlook微软邮箱注册机制作
+      url: https://www.bilibili.com/video/BV1ZEQEBCEo3
+    - author: 魔影-马
+      release_time: 2026.04.14 18:39:38
+      title: 浅谈某手游反作弊(Report data 2篇)
+      url: https://www.bilibili.com/video/BV1HBQgBZEMe
+    - author: Alone逆向安全
+      release_time: 2026.04.14 12:58:40
+      title: 无痕Hook逆向神器  魔改frida-gum + Lua热重载 + JavaNative全家桶
+      url: https://www.bilibili.com/video/BV1qeQiB4Eww
+    - author: 学逆向的柚子
+      release_time: 2026.04.13 18:04:47
+      title: 4月13日
+      url: https://www.bilibili.com/video/BV1QKQ4B9EBW
+    - author: B站用户骚神
+      release_time: 2026.04.13 17:52:06
+      title: DrissionPage抓取小红书数据到数据库
+      url: https://www.bilibili.com/video/BV1QNQ4BsE76
+    - author: 如意-浏览器开发培训
+      release_time: 2026.04.13 17:17:03
+      title: firefox火狐指纹浏览器定制之speech音频指纹
+      url: https://www.bilibili.com/video/BV1ZXQxBYEhh
+    - author: 狄硕
+      release_time: 2026.04.13 09:00:00
+      title: 【全流程】3分钟全自动一键ROOT，各种ROOT随意切换，从小白变成ROOT糕手！
+      url: https://www.bilibili.com/video/BV1YCDXBhE2E
+    - author: 如意-浏览器开发培训
+      release_time: 2026.04.12 21:45:03
+      title: 【Python爬虫】自动化采集Boss招聘网站职位信息
+      url: https://www.bilibili.com/video/BV1vzDXBPEC1
+    - author: tomysky0409
+      release_time: 2026.04.10 20:47:55
+      title: 验证码技巧分享-提取共同的背景
+      url: https://www.bilibili.com/video/BV1UsQcB1EPf
+    - author: 澎湖湾的彭
+      release_time: 2026.04.10 13:11:56
+      title: 极验3滑块逆向
+      url: https://www.bilibili.com/video/BV1PRQFBTE2e
+    - author: 时一十一姐呀
+      release_time: 2026.04.10 08:24:49
+      title: p3-opencli案例执行逻辑学习
+      url: https://www.bilibili.com/video/BV1mxDfBTEbM
+    - author: 时一十一姐呀
+      release_time: 2026.04.10 08:21:23
+      title: p2-opencli安装
+      url: https://www.bilibili.com/video/BV124DfBiEML
+    - author: 时一十一姐呀
+      release_time: 2026.04.10 08:20:40
+      title: p1-opencli基础概念了解
+      url: https://www.bilibili.com/video/BV1m4DfBiEAF
+    - author: 如意-浏览器开发培训
+      release_time: 2026.04.09 18:33:11
+      title: 新一代python自动化过检测之ruyiPage安装配置
+      url: https://www.bilibili.com/video/BV1QED4BQEKm
+    logo: images/logo/bilibili_32x32.png
+    term: 哔哩哔哩
+  - links:
+    - author: 将往的爬虫逆向日记
+      release_time: 2026.04.27 20:58:37
+      title: 电力交易员都在用的免费电力资讯插件8.0版本-支持小时级辐照数据导出，小时级气象数据导出，水情数据导出
+      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862383&idx=1&sn=f0718fa15935be652a8274ea1f3f9d6d
+    - author: 菜鸟学Python编程
+      release_time: 2026.04.27 20:34:33
+      title: AST反混淆插件|仅更改一次的赋值语句还原
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566513&idx=1&sn=94346c7a6380d44dbf4cd71be4d41739
+    - author: 进击的HACK
+      release_time: 2026.04.27 19:43:36
+      title: 用 cc-Switch 管理你的skills、mcp，简单使用指南
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490006&idx=1&sn=04758ee7c955a68ac06b3d8bdf7e642c
+    - author: 奋飞安全
+      release_time: 2026.04.27 16:46:26
+      title: Codex开始抢逆向饭碗了：一句话同时指挥Jadx MCP和IDA MCP
+      url: https://mp.weixin.qq.com/s?__biz=MzI4NzMwNDI3OQ==&mid=2247485081&idx=1&sn=047fc73715b3c04c1e99c50aaca1e4f2
+    - author: 桐梓坡低手
+      release_time: 2026.04.27 15:36:43
+      title: 盾山6eMrZlPH，lzkqow23819
+      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247483793&idx=1&sn=856fc088092bc034029a8eba7c2066f0
+    - author: 二进制磨剑
+      release_time: 2026.04.27 15:01:43
+      title: 二进制磨剑｜全系逆向课程五一大促开启！
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486043&idx=1&sn=9a83bec11e1a344ecbb8986e40eb69d3
+    - author: 沐阳逆向与AI学习
+      release_time: 2026.04.27 14:42:18
+      title: Pixel刷机配置magisk_frida_lsposed教程
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484598&idx=1&sn=1979438a4e428b9ada0ece96006478ec
+    - author: 苏子寻月
+      release_time: 2026.04.27 13:51:31
+      title: 深入理解 Windows 反调试：基于汇编指令行为的检测与绕过
+      url: https://mp.weixin.qq.com/s?__biz=MzU2MTgwOTM1MQ==&mid=2247484488&idx=1&sn=7380cdf3a1f41503e3c808d644f214c4
+    - author: 泡泡以安
+      release_time: 2026.04.27 13:02:17
+      title: Unidbg学习笔记（十二）：Trace 的三个层次
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486097&idx=1&sn=401fc3a6c874c165df8c4fb49dc7acf0
+    - author: 爬虫spider
+      release_time: 2026.04.27 11:53:31
+      title: 试用两个ai逆向项目
+      url: https://mp.weixin.qq.com/s?__biz=MzUyODY3ODUzNw==&mid=2247484233&idx=1&sn=8f41b77ea7d75151f9f9689969745ffe
+    - author: 软件安全与逆向分析
+      release_time: 2026.04.27 09:00:00
+      title: 电子书更新分享：Linux内核模块编程指南.pdf
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485128&idx=1&sn=035b5f2a7cfaf6ca23ea594d1504f3ec
+    - author: 测试工程师成长之路
+      release_time: 2026.04.27 08:30:00
+      title: AI 编程必备｜让 Claude Code/Cursor 拥有「真·浏览器控制力」
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578863&idx=1&sn=b37e2425cd19845e67f2bb49bd92245f
+    - author: Coder小Q
+      release_time: 2026.04.27 08:30:00
+      title: 【量子计算】计算复杂度基础：为量子算法建立统一赛场
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495430&idx=1&sn=b1ce1eaa245b5c57d4998433addc0ac7
+    - author: 逆向有你
+      release_time: 2026.04.27 00:00:00
+      title: 2026安卓逆向 -- AI一句话还原算法代码
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041736&idx=1&sn=83a22f7435c7c135f41a3e7dad472d22
+    - author: 大数据安全技术学习
+      release_time: 2026.04.26 23:40:27
+      title: APP2025.直播21.kpm-panda-hide内核模块过企业壳检测
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486154&idx=1&sn=cf68836a25fb7125a53062666f34000c
+    - author: 大数据安全技术学习
+      release_time: 2026.04.26 23:40:27
+      title: 《FRIDA手撕海外企业壳》成都场确定！席位火热预定中！
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486154&idx=2&sn=a9e92ddaca864f6b04efde808a8ea3b9
+    - author: 大数据安全技术学习
+      release_time: 2026.04.26 23:40:27
+      title: 月神 SRC 漏洞挖掘课程・第六期 全新升级
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486154&idx=3&sn=0a4f7115b418d0e1606d3b98dd196075
+    - author: 大数据安全技术学习
+      release_time: 2026.04.26 23:40:27
+      title: 奋斗者计划，助你升职加薪|阿里云、米哈游、阿里巴巴直推
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486154&idx=4&sn=c2de42936afa952b93f174d6eb7ae5d6
+    - author: 大数据安全技术学习
+      release_time: 2026.04.26 23:40:27
+      title: 地表最强过检测环境原生三绿取证设备
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486154&idx=5&sn=8154fd45bb0114fa33245b13752a56da
+    - author: 大数据安全技术学习
+      release_time: 2026.04.26 23:40:27
+      title: 八九新红米13C刷机小王子内核模块定制隐藏环境过多数企业壳frida检测
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486154&idx=6&sn=b4f023ab9aec6d9c226ff822483f2949
+    - author: 如意私塾
+      release_time: 2026.04.26 21:45:35
+      title: 【完整记录】AI自动逆向补头条环境和采集数据
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484481&idx=1&sn=fbca2e70e8e8a27b86be676253d7dd6e
+    - author: 如意私塾
+      release_time: 2026.04.26 21:39:36
+      title: AI随随便便自动逆向补头条环境和采集数据
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484479&idx=1&sn=f536e7c0942c3cb3b362a966b0244009
+    - author: 小伍哥聊风控
+      release_time: 2026.04.26 21:11:54
+      title: 风控中的文本聚类-基于Sentence-transformers
+      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650197130&idx=1&sn=78f80ec0abb34d10a466e056d57837c6
+    - author: 软件安全与逆向分析
+      release_time: 2026.04.26 19:15:44
+      title: iOS虚拟手机实现能力现状
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485134&idx=1&sn=9577361b5573c62a0b05424afff04237
+    - author: 逆向OneByOne
+      release_time: 2026.04.26 18:23:36
+      title: OpenCLI之生成网站api适配器
+      url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494229&idx=1&sn=368a88ef9c312a8b99cb27b7739d9fc1
+    - author: 逆向OneByOne
+      release_time: 2026.04.26 10:23:49
+      title: 一文彻底了解浏览器自动化，cdp、playwright、browser-user、midscene、browsermcp
+      url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494223&idx=1&sn=32f604c3287b3e5d40a886a579397224
+    - author: 哆啦安全
+      release_time: 2026.04.26 09:41:49
+      title: Android VMP虚拟化保护方案
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500200&idx=1&sn=60eba87c75651bd81579ba6b12af1064
+    - author: 苏子寻月
+      release_time: 2026.04.26 08:00:00
+      title: 深入理解 Windows 反调试：进程内存嗅探与对抗之道
+      url: https://mp.weixin.qq.com/s?__biz=MzU2MTgwOTM1MQ==&mid=2247484487&idx=1&sn=bc2dfada145c3eb3adb9d2e368d950b8
+    - author: 丫总逆向
+      release_time: 2026.04.26 01:36:05
+      title: 知其然，也知其所以然——逆向杂谈
+      url: https://mp.weixin.qq.com/s?__biz=MzU1NjQ2Njg4OA==&mid=2247484086&idx=1&sn=6282f986cffe0a1d755b6dde047976c8
+    - author: 挖个洞先
+      release_time: 2026.04.25 23:27:48
+      title: 【游戏逆向】腾讯系微信小游戏JceStruct协议分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkyNjY3OTI4Ng==&mid=2247486014&idx=1&sn=f67d28b4043db851a8460f3e31c40d12
+    logo: images/logo/mpweixin_32x32.png
+    term: 公众号
+  - links:
+    - author: gfy1129
+      release_time: 2026.04.25 22:45:00
+      title: 某Q音乐sign纯算-vmp插桩日志分析
+      url: https://www.52pojie.cn/thread-2104849-1-1.html
+    - author: Mengzek7
+      release_time: 2026.04.25 16:20:00
+      title: 某box APP逆向分析（启动检测绕过+广告绕过）
+      url: https://www.52pojie.cn/thread-2104806-1-1.html
+    - author: '743567274'
+      release_time: 2026.04.24 22:21:00
+      title: 猿人学验证码 - 图文点选题目分析
+      url: https://www.52pojie.cn/thread-2104726-1-1.html
+    - author: misakibb
+      release_time: 2026.04.24 11:56:00
+      title: 某些基于RPGMV游戏的礼包码获取
+      url: https://www.52pojie.cn/thread-2104638-1-1.html
+    - author: '13955925361'
+      release_time: 2026.04.23 00:30:00
+      title: 抖音详情页数据采集及a_bogus参数逆向分析
+      url: https://www.52pojie.cn/thread-2104414-1-1.html
+    - author: fzlte0
+      release_time: 2026.04.22 17:12:00
+      title: 一个浏览器网页翻页过程中url变化的过程分析
+      url: https://www.52pojie.cn/thread-2104354-1-1.html
+    - author: 罗婷
+      release_time: 2026.04.22 02:55:00
+      title: AndroidManifest魔改分析向-记一次对魔改样本的分析和经验分享
+      url: https://www.52pojie.cn/thread-2104220-1-1.html
+    - author: n1ng
+      release_time: 2026.04.21 22:11:00
+      title: 从0到1构建一个Hook工具之PLT Hook篇（四）
+      url: https://www.52pojie.cn/thread-2104206-1-1.html
+    - author: anke1
+      release_time: 2026.04.21 21:31:00
+      title: 两步路户外助手会员分析和新百度加固去除
+      url: https://www.52pojie.cn/thread-2104201-1-1.html
+    - author: '13955925361'
+      release_time: 2026.04.21 19:01:00
+      title: 京东搜索接口商品数据获取及h5st参数解析
+      url: https://www.52pojie.cn/thread-2104180-1-1.html
+    - author: '13955925361'
+      release_time: 2026.04.21 00:05:00
+      title: 新版小红书首页笔记获取及X-s参数解密
+      url: https://www.52pojie.cn/thread-2104039-1-1.html
+    - author: 逗逗苍穹
+      release_time: 2026.04.19 22:43:00
+      title: ai补环境(下)
+      url: https://www.52pojie.cn/thread-2103854-1-1.html
+    - author: Barih
+      release_time: 2026.04.19 16:43:00
+      title: 通过内存映射定位flutter应用隐藏的libapp .so 路径
+      url: https://www.52pojie.cn/thread-2103807-1-1.html
+    - author: ngiokweng
+      release_time: 2026.04.18 12:24:00
+      title: Appdome分析
+      url: https://www.52pojie.cn/thread-2103571-1-1.html
+    - author: guxing666
+      release_time: 2026.04.17 01:08:00
+      title: 自动化识别缺口x换算问题
+      url: https://www.52pojie.cn/thread-2103421-1-1.html
+    - author: Tonyha7
+      release_time: 2026.04.16 21:06:00
+      title: 使用jadx-ai-mcp辅助分析某校园pro校园跑
+      url: https://www.52pojie.cn/thread-2103392-1-1.html
+    - author: 逗逗苍穹
+      release_time: 2026.04.12 14:55:00
+      title: 全程交给 AI，不写一行代码，本地复现 CCTV 视频播放链路的一次实战记录
+      url: https://www.52pojie.cn/thread-2102594-1-1.html
+    - author: libbb
+      release_time: 2026.04.12 00:07:00
+      title: 某手游加密数据破解教程（截止2026/4/12）
+      url: https://www.52pojie.cn/thread-2102536-1-1.html
+    - author: guxing666
+      release_time: 2026.04.10 23:48:00
+      title: 顶象滑块的x问题！
+      url: https://www.52pojie.cn/thread-2102398-1-1.html
+    - author: xiayutianz
+      release_time: 2026.04.10 18:07:00
+      title: jdgs模拟执行
+      url: https://www.52pojie.cn/thread-2102366-1-1.html
+    - author: 芽衣
+      release_time: 2026.04.10 16:35:00
+      title: mx player 逆向教程之禁止外部打开后返回主界面
+      url: https://www.52pojie.cn/thread-2102339-1-1.html
+    - author: KaliHt
+      release_time: 2026.04.08 23:00:00
+      title: 记一次某工程学院一卡通登录流程
+      url: https://www.52pojie.cn/thread-2102004-1-1.html
+    - author: LiXieZengHui
+      release_time: 2026.04.08 22:36:00
+      title: 八猫付费小说逆向-hostnameVerify&sign
+      url: https://www.52pojie.cn/thread-2102001-1-1.html
+    - author: xiybhk
+      release_time: 2026.04.08 13:07:00
+      title: APP数据采集踩坑实录：从被ban到稳定跑通的4种方案
+      url: https://www.52pojie.cn/thread-2101904-1-1.html
+    - author: wansconst
+      release_time: 2026.04.08 12:16:00
+      title: 【2026春节】解题领红包之三、四、六_思路分享
+      url: https://www.52pojie.cn/thread-2101894-1-1.html
+    - author: verber34
+      release_time: 2026.04.08 09:00:00
+      title: 破解伪装聊天HYB APP的VIP功能，学习flutter下的so修改
+      url: https://www.52pojie.cn/thread-2101843-1-1.html
+    - author: wansconst
+      release_time: 2026.04.05 17:52:00
+      title: 分析某软件的请求加密和响应解密流程_思路分享
+      url: https://www.52pojie.cn/thread-2101445-1-1.html
+    - author: OrientalGlass
+      release_time: 2026.04.04 17:00:00
+      title: Android从ELF-Loader到自定义Linker的实现及原理
+      url: https://www.52pojie.cn/thread-2101321-1-1.html
+    - author: 漁滒
+      release_time: 2026.04.03 16:52:00
+      title: 【JS逆向系列】某咕视频ddCalcu参数分析
+      url: https://www.52pojie.cn/thread-2101190-1-1.html
+    - author: 如果我是DJ？
+      release_time: 2026.04.03 15:38:00
+      title: 记录本菜鸡第一次破解某影视VIP和去广告
+      url: https://www.52pojie.cn/thread-2101167-1-1.html
+    logo: images/logo/52pojie_32x32.png
+    term: 吾爱破解
+  - links:
+    - author: 江左梅郎
+      release_time: 2026.04.26 17:08:17
+      title: '[原创]RiskEngine 开源设备指纹和风险监测SDK'
+      url: https://bbs.kanxue.com/thread-290994.htm
+    - author: qqqiu
+      release_time: 2026.04.26 16:42:31
+      title: 纯静态硬啃xx反封号 dylib：OLLVM CFF   MBA 全链路反混淆，还原 167 hook 攻防全图（看着吓人
+      url: https://bbs.kanxue.com/thread-290993.htm
+    - author: 悦来客栈的老板
+      release_time: 2026.04.24 21:14:28
+      title: 每个Python开发者都应了解的Enum技巧
+      url: https://blog.csdn.net/qq523176585/article/details/160485878
+    - author: wx_微信用户_137
+      release_time: 2026.04.24 19:03:36
+      title: 看雪无法snsapi_base登录
+      url: https://bbs.kanxue.com/thread-290977.htm
+    - author: mb_hguayowb
+      release_time: 2026.04.23 14:03:31
+      title: akamai bmp风控
+      url: https://bbs.kanxue.com/thread-290955.htm
+    - author: 悦来客栈的老板
+      release_time: 2026.04.23 09:00:38
+      title: AI技能|使用国产AI模型还原ob混淆的字符串(可复现)
+      url: https://blog.csdn.net/qq523176585/article/details/160454077
+    - author: Matriy
+      release_time: 2026.04.22 23:16:46
+      title: '[原创]2026腾讯游戏安全竞赛Android初赛 wp'
+      url: https://bbs.kanxue.com/thread-290944.htm
+    - author: sh4w
+      release_time: 2026.04.22 15:14:48
+      title: '[原创]某宝 x-sign 模拟执行'
+      url: https://bbs.kanxue.com/thread-290932.htm
+    - author: 悦来客栈的老板
+      release_time: 2026.04.22 09:00:24
+      title: AI技能|手把手教你轻松配置国产龙虾
+      url: https://blog.csdn.net/qq523176585/article/details/160421843
+    - author: n_1ng
+      release_time: 2026.04.21 22:10:49
+      title: '[原创]从0到1构建一个Hook工具之PLT Hook篇（四）'
+      url: https://bbs.kanxue.com/thread-290921.htm
+    - author: '0xfffb'
+      release_time: 2026.04.21 13:19:47
+      title: '[原创]反爬战略和MCP对抗思路'
+      url: https://bbs.kanxue.com/thread-290910.htm
+    - author: 悦来客栈的老板
+      release_time: 2026.04.21 09:25:24
+      title: AI逆向|使用AI解决jsvmp的几种方式
+      url: https://blog.csdn.net/qq523176585/article/details/160386797
+    - author: Jmn314
+      release_time: 2026.04.20 21:46:04
+      title: '[原创]基于图书管理系统的漏洞复现与代码审计'
+      url: https://bbs.kanxue.com/thread-290904.htm
+    - author: mxystery
+      release_time: 2026.04.20 21:45:03
+      title: '[原创]腾讯游戏安全初赛 Android 客户端分析'
+      url: https://bbs.kanxue.com/thread-290903.htm
+    - author: 悦来客栈的老板
+      release_time: 2026.04.20 20:46:39
+      title: AI逆向|推荐几个js逆向相关的mcp和skills
+      url: https://blog.csdn.net/qq523176585/article/details/160349514
+    - author: a'ゞCicada
+      release_time: 2026.04.20 00:08:33
+      title: '[原创] 2026腾讯游戏安全技术竞赛-安卓决赛VM分析与还原'
+      url: https://bbs.kanxue.com/thread-290879.htm
+    - author: Yangser
+      release_time: 2026.04.19 16:56:42
+      title: '[原创]新版梆企检测绕过'
+      url: https://bbs.kanxue.com/thread-290874.htm
+    - author: REerr
+      release_time: 2026.04.19 10:35:58
+      title: '[原创]一个零字节修改的 ARM64 Android Hook 框架实现'
+      url: https://bbs.kanxue.com/thread-290871.htm
+    - author: ngiokweng
+      release_time: 2026.04.18 12:24:29
+      title: '[原创] Appdome分析'
+      url: https://bbs.kanxue.com/thread-290866.htm
+    - author: wx_Deity
+      release_time: 2026.04.17 14:42:04
+      title: '[原创]OnePlus 12 (LineageOS) 安装 KernelSU 踩坑与解决'
+      url: https://bbs.kanxue.com/thread-290856.htm
+    - author: '318'
+      release_time: 2026.04.17 10:02:31
+      title: '[原创]2026腾讯游戏安全Android wp'
+      url: https://bbs.kanxue.com/thread-290852.htm
+    - author: witchan
+      release_time: 2026.04.16 08:16:54
+      title: '[原创]【iOS逆向与安全】让 Claude、Codex 控制 iPhone，iOS MCP 来了'
+      url: https://bbs.kanxue.com/thread-290841.htm
+    - author: 悦来客栈的老板
+      release_time: 2026.04.15 17:31:54
+      title: AI逆向|使用AI反编译反混淆练习平台第18题jsvmp
+      url: https://blog.csdn.net/qq523176585/article/details/160194710
+    - author: 易之生生
+      release_time: 2026.04.14 17:56:34
+      title: '[原创]挑战 Android 墓碑机制：揭秘某头部社交 APP 永生背后的保活术'
+      url: https://bbs.kanxue.com/thread-290821.htm
+    - author: 悦来客栈的老板
+      release_time: 2026.04.14 17:14:41
+      title: AI逆向|使用AI分析aws-waf-token值的加密并纯算
+      url: https://blog.csdn.net/qq523176585/article/details/160159479
+    - author: '`Jay'
+      release_time: 2026.04.14 17:12:54
+      title: BET365-JSVMP-纯算还原-深入解析JSVMP执行结构与逆向分析技巧
+      url: https://blog.csdn.net/weixin_47115747/article/details/160135975
+    - author: Tasfa
+      release_time: 2026.04.14 14:42:30
+      title: 【AI系列】从零开始学习大模型-系列2-Day3-理解Prefill vs Decode
+      url: https://blog.csdn.net/qq_30135181/article/details/160147391
+    - author: 追风暴的人
+      release_time: 2026.04.14 10:50:20
+      title: 猿人学第11题
+      url: https://blog.csdn.net/m0_51159233/article/details/160138343
+    - author: 冰履踏青云
+      release_time: 2026.04.14 10:16:12
+      title: 得物（Dewu）H5 接口 sign 签名参数逆向分析全流程
+      url: https://bingyun.blog.csdn.net/article/details/160115649
+    - author: 冰履踏青云
+      release_time: 2026.04.14 10:12:32
+      title: 卷死同事！Cluade Code Claude-opus-4-6-fast 安装 + 配置 + 使用 一步到位
+      url: https://bingyun.blog.csdn.net/article/details/160118936
+    logo: images/logo/kanxue_32x32.png
+    term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
