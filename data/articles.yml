@@ -124,6 +124,26 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 虫技
+      release_time: 2026.04.27 22:17:43
+      title: SpiderBox 虫盒 v1.3 发布，AI 逆向等更多资源收录
+      url: https://mp.weixin.qq.com/s?__biz=MzIyODMwMTM1MA==&mid=2247483895&idx=1&sn=a548837d97b44d08e7ea1b7deb81c021
+    - author: 虫技
+      release_time: 2026.04.27 22:16:22
+      title: 2026 住宅代理实测：RapidProxy 到底能不能撑住数据采集？
+      url: https://mp.weixin.qq.com/s?__biz=MzIyODMwMTM1MA==&mid=2247483894&idx=1&sn=0d72fea7c675c8492bcb1b8cc9d8de36
+    - author: 虫技
+      release_time: 2026.04.27 22:15:19
+      title: NetNut · 网络数据抓取变得无限
+      url: https://mp.weixin.qq.com/s?__biz=MzIyODMwMTM1MA==&mid=2247483893&idx=1&sn=81d8133915093868a9b2e00316483d3b
+    - author: 虫技
+      release_time: 2026.04.27 22:10:57
+      title: BrightData 亮数据 · 解锁全球数据采集新范式
+      url: https://mp.weixin.qq.com/s?__biz=MzIyODMwMTM1MA==&mid=2247483892&idx=1&sn=f3187fa47efcb01a4a4ba11a029e5c05
+    - author: 虫技
+      release_time: 2026.04.27 21:58:29
+      title: 青果网络 · 国内领先的企业级代理 IP 服务商
+      url: https://mp.weixin.qq.com/s?__biz=MzIyODMwMTM1MA==&mid=2247483891&idx=1&sn=0c02c10b1529c662e60f2b9f966811b1
     - author: 将往的爬虫逆向日记
       release_time: 2026.04.27 20:58:37
       title: 电力交易员都在用的免费电力资讯插件8.0版本-支持小时级辐照数据导出，小时级气象数据导出，水情数据导出
@@ -224,26 +244,6 @@
       release_time: 2026.04.26 18:23:36
       title: OpenCLI之生成网站api适配器
       url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494229&idx=1&sn=368a88ef9c312a8b99cb27b7739d9fc1
-    - author: 逆向OneByOne
-      release_time: 2026.04.26 10:23:49
-      title: 一文彻底了解浏览器自动化，cdp、playwright、browser-user、midscene、browsermcp
-      url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494223&idx=1&sn=32f604c3287b3e5d40a886a579397224
-    - author: 哆啦安全
-      release_time: 2026.04.26 09:41:49
-      title: Android VMP虚拟化保护方案
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500200&idx=1&sn=60eba87c75651bd81579ba6b12af1064
-    - author: 苏子寻月
-      release_time: 2026.04.26 08:00:00
-      title: 深入理解 Windows 反调试：进程内存嗅探与对抗之道
-      url: https://mp.weixin.qq.com/s?__biz=MzU2MTgwOTM1MQ==&mid=2247484487&idx=1&sn=bc2dfada145c3eb3adb9d2e368d950b8
-    - author: 丫总逆向
-      release_time: 2026.04.26 01:36:05
-      title: 知其然，也知其所以然——逆向杂谈
-      url: https://mp.weixin.qq.com/s?__biz=MzU1NjQ2Njg4OA==&mid=2247484086&idx=1&sn=6282f986cffe0a1d755b6dde047976c8
-    - author: 挖个洞先
-      release_time: 2026.04.25 23:27:48
-      title: 【游戏逆向】腾讯系微信小游戏JceStruct协议分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkyNjY3OTI4Ng==&mid=2247486014&idx=1&sn=f67d28b4043db851a8460f3e31c40d12
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
