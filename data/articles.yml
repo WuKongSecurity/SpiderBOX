@@ -374,6 +374,10 @@
       release_time: 2026.04.27 23:51:28
       title: '[原创]面向复现的逆向工程实践：Hermes 在设备刷写、提权与 Frida 魔改中的自动化能力验证'
       url: https://bbs.kanxue.com/thread-291016.htm
+    - author: 悦来客栈的老板
+      release_time: 2026.04.27 20:35:03
+      title: AST反混淆插件|仅更改一次的赋值语句还原
+      url: https://blog.csdn.net/qq523176585/article/details/160573393
     - author: 江左梅郎
       release_time: 2026.04.26 17:08:17
       title: '[原创]RiskEngine 开源设备指纹和风险监测SDK'
@@ -486,10 +490,6 @@
       release_time: 2026.04.14 10:50:20
       title: 猿人学第11题
       url: https://blog.csdn.net/m0_51159233/article/details/160138343
-    - author: 冰履踏青云
-      release_time: 2026.04.14 10:16:12
-      title: 得物（Dewu）H5 接口 sign 签名参数逆向分析全流程
-      url: https://bingyun.blog.csdn.net/article/details/160115649
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
