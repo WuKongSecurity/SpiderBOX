@@ -4997,6 +4997,10 @@
           logo: xiayutian.jpg
           url: https://www.xiayutian.xyz/
           description: 下雨天（雨霖铃）的博客，安卓、iOS、JS 逆向
+        - title: yazong's blog
+          logo: 1997.jpg
+          url: https://1997.pro/
+          description: 丫总的博客，公众号：丫总逆向，电商、航司、社媒、海外风控逆向
         - title: antibot.blog
           logo: vercel.png
           url: https://antibot.blog/
@@ -6493,6 +6497,10 @@
 
     - name: AI 其他资源
       links:
+        - title: 一坨屎AI
+          url: https://yituoshiai.com/register?aff=g5HG
+          logo: yituoshiai.jpg
+          description: 一坨屎AI中转站 统一大模型接口网关，更好的价格，更好的稳定性
         - title: x-lab 统一大模型接口网关
           url: https://api.x-lab.live/register?aff=WCet
           logo: x-lab.png

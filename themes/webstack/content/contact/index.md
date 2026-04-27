@@ -47,16 +47,16 @@ qna:
   - question: 站长简介
     answer: 原“K哥爬虫”公众号创始人，隶属于快代理，后被迫从该公司离职，离职后仍然持续背刺站长，<a href="https://mp.weixin.qq.com/s/7vFpmhvU8-DCONlvlklMTQ" target="_blank">抄袭本人网站</a>。</br></br>站长擅长数据挖掘、逆向和正向安全、浏览器指纹、风控对抗，18年开始写博客，长期无偿分享技术，全网累计访问量超百万，公众号：<a href="https://static.wukongsec.com/public/images/info/spider_skill_green.png" target="_blank">虫技</a>
 changelog:
-  - date: 2026.04.26
+  - date: 2026.04.27
     title: v1.3 发布
     items:
       - text: 新增站内搜索功能，查找资源更加方便
       - text: 收录资源普通链接默认添加 utm 参数，展示流量来源
       - text: 资源二级分类由单一的展示改为 tab 标签分类展示，更加直观
-      - text: 新增了一个 contact 页面，集成更新日志、联系方式等信息
-      - text: 后端更新，增加了数个优质博主监控，及时推送优质文章/视频
-      - text: 新增 600+ 资源，新增 AI 辅助逆向、APP 相关资源等，细化了分类
-      - text: 新增了在线问卷，可对网站纠错、提出建议、申请收录、商务合作等
+      - text: 新增 600+ 资源，总计 1400+ 资源收录，新增 AI 逆向等资源，细化了分类
+      - text: 新增了一个 contact 页面，集成更新日志、博主名单、联系方式等信息
+      - text: 后端博主监控更新，增加了数个优质博主监控，及时推送优质文章/视频
+      - text: 新增了一个在线问卷，可自主对网站进行纠错、提出建议、申请收录等
       - text: 其他多处细节优化
       - text: 感谢 **geekbyte**（公众号：编角料）、**塔克拉玛不干**（公众号：不落的逆向手札，<a href="https://spiderdemo.cn" target="_blank">spiderdemo.cn</a>）、**下雨天**（博客：<a href="https://www.xiayutian.xyz" target="_blank">www.xiayutian.xyz</a>）提供资源收录支持
 
