@@ -358,6 +358,10 @@ window.addEventListener('DOMContentLoaded', (event) => {
     const isMiniSidebar = localStorage.getItem('mini_sidebar') === 'true' || localStorage.getItem('mini_sidebar') === null;
     const sidebarElement = document.getElementById('sidebar');
 
+    if (!sidebarElement) {
+        return;
+    }
+
     if (isMiniSidebar) {
         sidebarElement.classList.add('mini-sidebar');
         sidebarElement.classList.remove('animate-nav');
