@@ -19,8 +19,9 @@ publishDir            = "docs"	# 站点静态文件保存目录
     cdnURL        = "https://static.wukongsec.com/spiderbox/"      # CDN 地址，置空则不使用 CDN
     cdnURLPubilc  = "https://static.wukongsec.com/public/"         # CDN 地址，置空则不使用 CDN
     repository    = "https://github.com/WuKongSecurity"    # 左侧导航栏的"GitHub"
+    submit        = "https://wj.qq.com/s2/25576072/4e39/"  # 左侧导航栏的提交收录
     enablePreLoad = true					               # 网站完全打开前预加载动画
-    textPreLoad   = "SpiderBox 加载中..."				   # 预加载的动画文字, 只有当enablePreLoad=true时生效
+    textPreLoad   = "SpiderBox 加载中..."				    # 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = false					               # 默认展开左侧边导航栏（已失效，默认不展开，会记住用户的行为，下次打开会保持）
     logosPath     = "images/logo"			               # 网站每个导航地址logo存放地址
     defaultLogo   = "images/logo/default.png"		       # logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
