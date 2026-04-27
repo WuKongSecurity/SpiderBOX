@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: x1ny
+      release_time: 2026.04.27 23:51:28
+      title: '[原创]面向复现的逆向工程实践：Hermes 在设备刷写、提权与 Frida 魔改中的自动化能力验证'
+      url: https://bbs.kanxue.com/thread-291016.htm
     - author: 江左梅郎
       release_time: 2026.04.26 17:08:17
       title: '[原创]RiskEngine 开源设备指纹和风险监测SDK'
@@ -486,10 +490,6 @@
       release_time: 2026.04.14 10:16:12
       title: 得物（Dewu）H5 接口 sign 签名参数逆向分析全流程
       url: https://bingyun.blog.csdn.net/article/details/160115649
-    - author: 冰履踏青云
-      release_time: 2026.04.14 10:12:32
-      title: 卷死同事！Cluade Code Claude-opus-4-6-fast 安装 + 配置 + 使用 一步到位
-      url: https://bingyun.blog.csdn.net/article/details/160118936
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
