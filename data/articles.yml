@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 将往的爬虫逆向日记
+      release_time: 2026.04.27 20:58:37
+      title: 电力交易员都在用的免费电力资讯插件8.0版本-支持小时级辐照数据导出，小时级气象数据导出，水情数据导出
+      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862383&idx=1&sn=f0718fa15935be652a8274ea1f3f9d6d
+    - author: 菜鸟学Python编程
+      release_time: 2026.04.27 20:34:33
+      title: AST反混淆插件|仅更改一次的赋值语句还原
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566513&idx=1&sn=94346c7a6380d44dbf4cd71be4d41739
     - author: 进击的HACK
       release_time: 2026.04.27 19:43:36
       title: 用 cc-Switch 管理你的skills、mcp，简单使用指南
@@ -236,14 +244,6 @@
       release_time: 2026.04.25 23:27:48
       title: 【游戏逆向】腾讯系微信小游戏JceStruct协议分析
       url: https://mp.weixin.qq.com/s?__biz=MzkyNjY3OTI4Ng==&mid=2247486014&idx=1&sn=f67d28b4043db851a8460f3e31c40d12
-    - author: 泡泡以安
-      release_time: 2026.04.25 12:03:12
-      title: Unidbg学习笔记（十一）：初始化问题
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486086&idx=1&sn=51248fbd35562e0470c8b05b1885f0f5
-    - author: 苏子寻月
-      release_time: 2026.04.25 10:31:56
-      title: 深入理解 Windows 反调试：时间检测与绕过之道
-      url: https://mp.weixin.qq.com/s?__biz=MzU2MTgwOTM1MQ==&mid=2247484486&idx=1&sn=c0ef7c80968ced1156c2fcb78ef780f7
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
