@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.04.27 19:43:36
+      title: 用 cc-Switch 管理你的skills、mcp，简单使用指南
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490006&idx=1&sn=04758ee7c955a68ac06b3d8bdf7e642c
     - author: 奋飞安全
       release_time: 2026.04.27 16:46:26
       title: Codex开始抢逆向饭碗了：一句话同时指挥Jadx MCP和IDA MCP
@@ -240,10 +244,6 @@
       release_time: 2026.04.25 10:31:56
       title: 深入理解 Windows 反调试：时间检测与绕过之道
       url: https://mp.weixin.qq.com/s?__biz=MzU2MTgwOTM1MQ==&mid=2247484486&idx=1&sn=c0ef7c80968ced1156c2fcb78ef780f7
-    - author: 如意私塾
-      release_time: 2026.04.25 10:01:03
-      title: 【完整记录】AI自动逆向云片嵌入式滑动拼图验证码
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484468&idx=1&sn=38cb51a9789db0c039189380d6b2f433
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
