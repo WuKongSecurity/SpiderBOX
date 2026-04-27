@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 奋飞安全
+      release_time: 2026.04.27 16:46:26
+      title: Codex开始抢逆向饭碗了：一句话同时指挥Jadx MCP和IDA MCP
+      url: https://mp.weixin.qq.com/s?__biz=MzI4NzMwNDI3OQ==&mid=2247485081&idx=1&sn=047fc73715b3c04c1e99c50aaca1e4f2
+    - author: 桐梓坡低手
+      release_time: 2026.04.27 15:36:43
+      title: 盾山6eMrZlPH，lzkqow23819
+      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247483793&idx=1&sn=856fc088092bc034029a8eba7c2066f0
     - author: 二进制磨剑
       release_time: 2026.04.27 15:01:43
       title: 二进制磨剑｜全系逆向课程五一大促开启！
@@ -236,14 +244,6 @@
       release_time: 2026.04.25 10:01:03
       title: 【完整记录】AI自动逆向云片嵌入式滑动拼图验证码
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484468&idx=1&sn=38cb51a9789db0c039189380d6b2f433
-    - author: 反爬破解社
-      release_time: 2026.04.24 23:22:41
-      title: 验证码攻防（上）：从传统文本到图形识别，基础破解全攻略
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483860&idx=1&sn=cb14478afab22e191c4884f29fed82dc
-    - author: 反爬破解社
-      release_time: 2026.04.24 23:22:41
-      title: 一根线，告别耗时充电！Type-c数据线6A超级快充线的体验
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483860&idx=2&sn=42ad29787e375888af06c084cae95b7b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
