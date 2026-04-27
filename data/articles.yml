@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 软件安全与逆向分析
+      release_time: 2026.04.27 09:00:00
+      title: 电子书更新分享：Linux内核模块编程指南.pdf
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485128&idx=1&sn=035b5f2a7cfaf6ca23ea594d1504f3ec
+    - author: 测试工程师成长之路
+      release_time: 2026.04.27 08:30:00
+      title: AI 编程必备｜让 Claude Code/Cursor 拥有「真·浏览器控制力」
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578863&idx=1&sn=b37e2425cd19845e67f2bb49bd92245f
+    - author: Coder小Q
+      release_time: 2026.04.27 08:30:00
+      title: 【量子计算】计算复杂度基础：为量子算法建立统一赛场
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495430&idx=1&sn=b1ce1eaa245b5c57d4998433addc0ac7
     - author: 逆向有你
       release_time: 2026.04.27 00:00:00
       title: 2026安卓逆向 -- AI一句话还原算法代码
@@ -232,18 +244,6 @@
       release_time: 2026.04.24 10:35:35
       title: Unidbg学习笔记（十）：库函数层补环境
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486077&idx=1&sn=d2810d3d2ac4c972057c0809127d5a85
-    - author: 苏子寻月
-      release_time: 2026.04.24 09:36:17
-      title: 深入理解 Windows 反调试：异常处理机制与控制流隐藏
-      url: https://mp.weixin.qq.com/s?__biz=MzU2MTgwOTM1MQ==&mid=2247484485&idx=1&sn=68c5710708406bcccc09c5988941336c
-    - author: Coder小Q
-      release_time: 2026.04.24 08:30:00
-      title: 【量子计算】量子计算的独特限制与能力：为什么它不能随便复制，却能一次看见整体
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495398&idx=1&sn=32cf26f2c9045d722f5ff7374b978761
-    - author: 零基础爬虫第一天
-      release_time: 2026.04.23 21:22:19
-      title: 【web补环境案例-3】yrx5
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484416&idx=1&sn=9f8a9ad22331a020ece5bed816fc49de
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
