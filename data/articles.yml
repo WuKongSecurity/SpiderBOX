@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 和沐阳学逆向与Ai
+      release_time: 2026.04.27 14:36:26
+      title: 82.Pixel刷机配置magisk_frida_lsposed教程安卓逆向环境搭建
+      url: https://www.bilibili.com/video/BV1VhokBHELh
     - author: 一只勇敢的小佳
       release_time: 2026.04.27 05:25:23
       title: 检测总览，基本涵盖全部的一个检测的思路和思考，全是干货，建议点赞收藏！！！
@@ -117,13 +121,21 @@
       release_time: 2026.04.09 18:33:11
       title: 新一代python自动化过检测之ruyiPage安装配置
       url: https://www.bilibili.com/video/BV1QED4BQEKm
-    - author: 猿人学
-      release_time: 2026.04.09 12:02:27
-      title: （原声版）猿人学北京小伙伴们的聚会+原声花絮版
-      url: https://www.bilibili.com/video/BV1ULDpBMEC5
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二进制磨剑
+      release_time: 2026.04.27 15:01:43
+      title: 二进制磨剑｜全系逆向课程五一大促开启！
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486043&idx=1&sn=9a83bec11e1a344ecbb8986e40eb69d3
+    - author: 沐阳逆向与AI学习
+      release_time: 2026.04.27 14:42:18
+      title: Pixel刷机配置magisk_frida_lsposed教程
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484598&idx=1&sn=1979438a4e428b9ada0ece96006478ec
+    - author: 苏子寻月
+      release_time: 2026.04.27 13:51:31
+      title: 深入理解 Windows 反调试：基于汇编指令行为的检测与绕过
+      url: https://mp.weixin.qq.com/s?__biz=MzU2MTgwOTM1MQ==&mid=2247484488&idx=1&sn=7380cdf3a1f41503e3c808d644f214c4
     - author: 泡泡以安
       release_time: 2026.04.27 13:02:17
       title: Unidbg学习笔记（十二）：Trace 的三个层次
@@ -216,6 +228,10 @@
       release_time: 2026.04.25 12:03:12
       title: Unidbg学习笔记（十一）：初始化问题
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486086&idx=1&sn=51248fbd35562e0470c8b05b1885f0f5
+    - author: 苏子寻月
+      release_time: 2026.04.25 10:31:56
+      title: 深入理解 Windows 反调试：时间检测与绕过之道
+      url: https://mp.weixin.qq.com/s?__biz=MzU2MTgwOTM1MQ==&mid=2247484486&idx=1&sn=c0ef7c80968ced1156c2fcb78ef780f7
     - author: 如意私塾
       release_time: 2026.04.25 10:01:03
       title: 【完整记录】AI自动逆向云片嵌入式滑动拼图验证码
@@ -228,29 +244,25 @@
       release_time: 2026.04.24 23:22:41
       title: 一根线，告别耗时充电！Type-c数据线6A超级快充线的体验
       url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483860&idx=2&sn=42ad29787e375888af06c084cae95b7b
-    - author: 未闻Code
-      release_time: 2026.04.24 22:07:19
-      title: 1.7 万人收藏的 AI 第二大脑！YC 总裁亲自开源了自己的 AI 记忆系统！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991572&idx=1&sn=ef19a6b6802f6bab12942e9a11fb1895
-    - author: 菜鸟学Python编程
-      release_time: 2026.04.24 21:14:08
-      title: 每个Python开发者都应了解的Enum技巧
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566509&idx=1&sn=60575cfffe40939fb71760fdfef4a4c6
-    - author: 将往的爬虫逆向日记
-      release_time: 2026.04.24 20:11:28
-      title: 免费电力交易行业资讯插件5.0版本-支持小时级气象数据导出
-      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862365&idx=1&sn=f2c205817f14fe98738350002b8c1a30
-    - author: 哆啦安全
-      release_time: 2026.04.24 17:59:39
-      title: Android加固 | VM防逆向SDK
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500195&idx=1&sn=1452f6ca135221a558d9091eb721d643
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: gfy1129
+      release_time: 2026.04.25 22:45:00
+      title: 某Q音乐sign纯算-vmp插桩日志分析
+      url: https://www.52pojie.cn/thread-2104849-1-1.html
+    - author: Mengzek7
+      release_time: 2026.04.25 16:20:00
+      title: 某box APP逆向分析（启动检测绕过+广告绕过）
+      url: https://www.52pojie.cn/thread-2104806-1-1.html
     - author: '743567274'
       release_time: 2026.04.24 22:21:00
       title: 猿人学验证码 - 图文点选题目分析
       url: https://www.52pojie.cn/thread-2104726-1-1.html
+    - author: misakibb
+      release_time: 2026.04.24 11:56:00
+      title: 某些基于RPGMV游戏的礼包码获取
+      url: https://www.52pojie.cn/thread-2104638-1-1.html
     - author: '13955925361'
       release_time: 2026.04.23 00:30:00
       title: 抖音详情页数据采集及a_bogus参数逆向分析
@@ -355,18 +367,6 @@
       release_time: 2026.04.03 15:38:00
       title: 记录本菜鸡第一次破解某影视VIP和去广告
       url: https://www.52pojie.cn/thread-2101167-1-1.html
-    - author: fyr666
-      release_time: 2026.04.02 14:24:00
-      title: 全流程使用AI，完成一次APK重打包。改包名、绕过 Native 校验、重建签名并去掉奖励...
-      url: https://www.52pojie.cn/thread-2100927-1-1.html
-    - author: Evan422
-      release_time: 2026.04.02 11:44:00
-      title: AI辅助逆向某flutter应用
-      url: https://www.52pojie.cn/thread-2100902-1-1.html
-    - author: xiayutianz
-      release_time: 2026.04.01 17:53:00
-      title: 从trace分析vmp中的SHA256算法
-      url: https://www.52pojie.cn/thread-2100778-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
