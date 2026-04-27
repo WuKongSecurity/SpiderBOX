@@ -1646,6 +1646,10 @@
           logo: github.png
           url: https://github.com/PAGalaxyLab/YAHFA
           description: YAHFA 是一个用于 Android ART 的 Hook 框架。它提供了一种高效的方式来 Hook 或替换 Java 方法
+        - title: mkpms
+          logo: github.png
+          url: https://github.com/kkkbbb/mkpms
+          description: android 无痕 probe 无痕 hook，利用 kpm 模块实现 kernel 中动态切换内存分页，实现应用对内存的读和执行分离，读和执行发生在不同的物理页，使应用读到的是原始物理页，执行的是被 hook 过的物理页，从而隐藏 hook 产生的内存修改
         - title: rustFrida
           logo: github.png
           url: https://github.com/kkkbbb/rustFrida
@@ -1796,6 +1800,10 @@
           logo: github.png
           url: https://github.com/imj01y/trace-ui
           description: 高性能 ARM64 执行 trace 可视化分析工具。基于 Tauri 2 + React 构建的桌面应用，专为安全研究员设计，支持千万行或亿行级大规模 trace 的流畅浏览、函数调用树折叠、反向污点追踪、内存/寄存器实时查看等功能
+        - title: GumTrace
+          logo: github.png
+          url: https://github.com/lidongyooo/GumTrace
+          description: 基于 Frida Gum (Stalker) 引擎的 ARM64 动态指令追踪工具，支持 Android 和 iOS 平台
         - title: kpm-backtrace
           logo: github.png
           url: https://github.com/lidongyooo/kpm-backtrace
@@ -2064,6 +2072,10 @@
           logo: github.png
           url: https://github.com/1193776794/launch_
           description: 一款开源的 Android 安全检测与设备指纹采集工具
+        - title: sentry
+          logo: github.png
+          url: https://github.com/taisuii/sentry
+          description: frida 检测和环境检测
 
 - taxonomy: iOS 相关
   icon: fab fa-apple
@@ -5970,6 +5982,10 @@
           url: https://github.com/forrestchang/andrej-karpathy-skills
           logo: github.png
           description: 一个用于改善 Claude Code 行为的 CLAUDE.md 文件，该文件基于 Andrej Karpathy 关于大语言模型编程缺陷的观察结果而制作，让大模型遵循四项原则：1. 编码前请先思考；2. 简单优先；3. 手术性改变；4. 以目标为导向的执行力
+        - title: rtk
+          url: https://github.com/rtk-ai/rtk
+          logo: github.png
+          description: rtk 在命令输出进入上下文窗口之前对其进行压缩。 更好的推理。更长的会话。更低的成本。
         - title: Rikugan (六眼)
           url: https://github.com/buzzer-re/Rikugan
           logo: github.png
