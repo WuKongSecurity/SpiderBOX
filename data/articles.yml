@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.04.28 23:58:40
+      title: 你在Reddit上聊的天、吐的槽、倾诉的心事，AI用4个Agent花0.59美元就能拼出你是谁
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484493&idx=1&sn=98ebbab27bf0fd788b06383ae80571de
     - author: 零基础爬虫第一天
       release_time: 2026.04.28 20:02:43
       title: 【khbox】sojson5反检测pass（yrx9 udc.js）
@@ -240,10 +244,6 @@
       release_time: 2026.04.27 11:53:31
       title: 试用两个ai逆向项目
       url: https://mp.weixin.qq.com/s?__biz=MzUyODY3ODUzNw==&mid=2247484233&idx=1&sn=8f41b77ea7d75151f9f9689969745ffe
-    - author: 软件安全与逆向分析
-      release_time: 2026.04.27 09:00:00
-      title: 电子书更新分享：Linux内核模块编程指南.pdf
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485128&idx=1&sn=035b5f2a7cfaf6ca23ea594d1504f3ec
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: vwvw
+      release_time: 2026.04.28 21:38:00
+      title: '[开源] Mira: 让 AI 直接操作 Android/iOS 运行时'
+      url: https://bbs.kanxue.com/thread-291041.htm
     - author: Solar安全
       release_time: 2026.04.28 14:19:56
       title: '[原创]Solar勒索软件威胁态势与防护实践年度报告(2025) 章节二'
@@ -486,10 +490,6 @@
       release_time: 2026.04.14 17:14:41
       title: AI逆向|使用AI分析aws-waf-token值的加密并纯算
       url: https://blog.csdn.net/qq523176585/article/details/160159479
-    - author: '`Jay'
-      release_time: 2026.04.14 17:12:54
-      title: BET365-JSVMP-纯算还原-深入解析JSVMP执行结构与逆向分析技巧
-      url: https://blog.csdn.net/weixin_47115747/article/details/160135975
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
