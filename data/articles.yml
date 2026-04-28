@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: EithanSolace
+      release_time: 2026.04.28 18:53:44
+      title: 密码学补完计划[第三十二期] SHA-3
+      url: https://www.bilibili.com/video/BV1tz9kBNE2K
     - author: 悦来客栈的老板
       release_time: 2026.04.28 10:47:41
       title: AI + 自动化 过234滑块验证
@@ -117,13 +121,17 @@
       release_time: 2026.04.10 08:24:49
       title: p3-opencli案例执行逻辑学习
       url: https://www.bilibili.com/video/BV1mxDfBTEbM
-    - author: 时一十一姐呀
-      release_time: 2026.04.10 08:21:23
-      title: p2-opencli安装
-      url: https://www.bilibili.com/video/BV124DfBiEML
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.04.28 18:08:49
+      title: 工具推荐 | 检测你的skills是否安全
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490011&idx=1&sn=a9611f3c3ba8816cf4346626a609cda6
+    - author: 泡泡以安
+      release_time: 2026.04.28 17:37:03
+      title: Unidbg学习笔记（十六）：Console Debugger
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486135&idx=1&sn=237797abcdf461d63329607fc282db41
     - author: 泡泡以安
       release_time: 2026.04.28 17:29:59
       title: Unidbg学习笔记（十五）：对抗视角
@@ -236,14 +244,6 @@
       release_time: 2026.04.26 23:40:27
       title: APP2025.直播21.kpm-panda-hide内核模块过企业壳检测
       url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486154&idx=1&sn=cf68836a25fb7125a53062666f34000c
-    - author: 大数据安全技术学习
-      release_time: 2026.04.26 23:40:27
-      title: 《FRIDA手撕海外企业壳》成都场确定！席位火热预定中！
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486154&idx=2&sn=a9e92ddaca864f6b04efde808a8ea3b9
-    - author: 大数据安全技术学习
-      release_time: 2026.04.26 23:40:27
-      title: 月神 SRC 漏洞挖掘课程・第六期 全新升级
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486154&idx=3&sn=0a4f7115b418d0e1606d3b98dd196075
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
