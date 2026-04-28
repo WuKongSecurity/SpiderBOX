@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 零基础爬虫第一天
+      release_time: 2026.04.28 20:02:43
+      title: 【khbox】sojson5反检测pass（yrx9 udc.js）
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484434&idx=1&sn=c7b3016d50867c263ad18bc8e6514cd8
+    - author: 零基础爬虫第一天
+      release_time: 2026.04.28 19:58:01
+      title: 【ast】yrx9 udc.js AST 还原记录
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484433&idx=1&sn=3448432c9bf7aefad333ecf93a4fc02a
+    - author: 反爬破解社
+      release_time: 2026.04.28 19:22:07
+      title: 验证码攻防（中）：行为验证与滑块破解，AI时代的智能对抗
+      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483867&idx=1&sn=3adce1d24fd15a24fec7ce98bd3fa716
+    - author: 反爬破解社
+      release_time: 2026.04.28 19:22:07
+      title: 扔掉假全麦！这个欧包真全麦，很蓬松，软fufu够劲道，这才是减脂人该吃的面包！
+      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483867&idx=2&sn=556256023e0f10a40de9ebdccba1224c
     - author: 进击的HACK
       release_time: 2026.04.28 18:08:49
       title: 工具推荐 | 检测你的skills是否安全
@@ -228,22 +244,6 @@
       release_time: 2026.04.27 09:00:00
       title: 电子书更新分享：Linux内核模块编程指南.pdf
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485128&idx=1&sn=035b5f2a7cfaf6ca23ea594d1504f3ec
-    - author: 测试工程师成长之路
-      release_time: 2026.04.27 08:30:00
-      title: AI 编程必备｜让 Claude Code/Cursor 拥有「真·浏览器控制力」
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578863&idx=1&sn=b37e2425cd19845e67f2bb49bd92245f
-    - author: Coder小Q
-      release_time: 2026.04.27 08:30:00
-      title: 【量子计算】计算复杂度基础：为量子算法建立统一赛场
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495430&idx=1&sn=b1ce1eaa245b5c57d4998433addc0ac7
-    - author: 逆向有你
-      release_time: 2026.04.27 00:00:00
-      title: 2026安卓逆向 -- AI一句话还原算法代码
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041736&idx=1&sn=83a22f7435c7c135f41a3e7dad472d22
-    - author: 大数据安全技术学习
-      release_time: 2026.04.26 23:40:27
-      title: APP2025.直播21.kpm-panda-hide内核模块过企业壳检测
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486154&idx=1&sn=cf68836a25fb7125a53062666f34000c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
