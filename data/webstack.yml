@@ -3202,7 +3202,7 @@
 
         # 10% ==============================
         - title: kookeey 全球业务级代理 IP
-          logo: kookeey.png
+          logo: kookeey.jpg
           no_referral: true
           url: https://www.kookeey.com/?aff=85299914
           description: 主营静态 ISP 代理、动态住宅代理、静态数据中心代理 3 大产品
@@ -3330,19 +3330,20 @@
         - title: BirdProxies
           logo: birdproxies.jpg
           no_referral: true
-#          url: https://birdproxies.com/@trhxcc
+          # url: https://birdproxies.com/@trhxcc
           url: https://birdproxies.com/t/spiderbox
           description: Fast residential and ISP proxies in 195+ countries, fair pricing and real support.
         - title: TalorData
           logo: talordata.png
           no_referral: true
-          url: https://talordata.com/?campaignid=2Tn19YXBORunF51S&utm_source=community&utm_term=talordata # todo
+          # url: https://talordata.com/?campaignid=2Tn19YXBORunF51S&utm_source=community&utm_term=talordata
+          url: https://dashboard.talordata.com/reg?inviter_code=spiderbox
           description: Talordata 是一家代理IP提供商，提供輪轉住宅代理IP、靜態ISP、優質原生IP等，覆蓋195+國家，訪問成功率超99%！輪轉住宅代理IP最低$0.65/GB，靜態ISP最低$3/ip，讓你的網絡更安全！
         - title: LokiProxy
           logo: lokiproxy.png
           no_referral: true
-          # url: https://www.lokiproxy.com/signup?invite=79E549  # todo
-          url: https://lokiproxy.com/?utm_t=1&utm_i=58
+          url: https://www.lokiproxy.com/signup?invite=79E549
+          # url: https://lokiproxy.com/?utm_t=1&utm_i=58
           description: 支持免费测试，原生静态 IP 低至 $3.99/IP，动态住宅代理低至 $0.48/GB，独享 IP 资源每日更新，支持无限并发会话，稳定高效
         - title: MangoProxy
           logo: mangoproxy.png
@@ -3379,6 +3380,7 @@
         - title: 辣椒 HTTP
           logo: lajiao.png
           no_referral: true
+          # url: https://lajiaohttp.com/?kwd=ty-Spiderbox
           url: https://share.lajiaohttp.com/share/6kkhh7s7l
           description: 优选全球 190+ 国家或地区节点资源，专注提供稳定、快速、高效的海外 IP 代理服务，支持 HTTP、HTTPS 和 SOCKS5 等协议，价格透明、套餐灵活，助力跨境业务轻松起步
         - title: Novada
@@ -3535,7 +3537,7 @@
           logo: dataify.jpg
           no_referral: true
           url: https://www.dataify.com?utm_source=spiderbox&utm_term=zyx
-          description: Dataify - AI 数据基础设施与生态服务平台，高质量数据标注与采集服务，提供 AI 数据标注、多模态数据采集、向量模型、模型微调等全链路数据服务。支持计算机视觉、NLP、音频数据标注，助力企业构建高质量训练数据，加速 AI 与机器学习模型开发
+          description: Dataify 提供网络服务资源和海量数据集，支持自动化网页数据采集与结构化输出，赋能 AI 训练、社交媒体及电商等应用场景
         - title: 腾道
           logo: tendata.png
           url: https://www.tendata.cn/

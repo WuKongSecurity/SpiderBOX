@@ -14,8 +14,8 @@ publishDir            = "docs"	# 站点静态文件保存目录
 
 [params]
     author        = "ITBOB"
-    keywords      = "爬虫，逆向，JS逆向，APP逆向，数据采集，SpiderBox，虫盒，资源导航，爬虫资源，逆向资源，资源导航站"
-    description   = "SpiderBox - 虫盒 - 爬虫逆向资源导航站，数据采集、网络爬虫、JS逆向、APP逆向、小程序逆向等相关资源聚合、收集。"
+    keywords      = "爬虫，逆向，AI逆向，JS逆向，APP逆向，数据采集，SpiderBox，虫盒，资源导航，爬虫资源，逆向资源，AI逆向资源，资源导航站，抓包，Hook，Trace，代理，脱壳，混淆，反混淆"
+    description   = "SpiderBox - 虫盒 - 爬虫逆向资源导航站，数据采集、网络爬虫、JS逆向、APP逆向、小程序逆向、AI逆向等相关资源聚合、收集。"
     cdnURL        = "https://static.wukongsec.com/spiderbox/"      # CDN 地址，置空则不使用 CDN
     cdnURLPubilc  = "https://static.wukongsec.com/public/"         # CDN 地址，置空则不使用 CDN
     repository    = "https://github.com/WuKongSecurity"    # 左侧导航栏的"GitHub"

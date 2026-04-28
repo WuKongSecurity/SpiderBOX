@@ -9,3 +9,5 @@ docs
 
 # mac
 .DS_Store
+
+.cursor
