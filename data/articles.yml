@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 如意-浏览器开发培训
+      release_time: 2026.04.28 22:33:45
+      title: 傻瓜式一键配置使用最强AI模型
+      url: https://www.bilibili.com/video/BV1T29yBMEnR
+    - author: 小肩膀-逆向安全培训
+      release_time: 2026.04.28 22:06:29
+      title: 14.小肩膀教育AI Token服务
+      url: https://www.bilibili.com/video/BV14c9kBcEuJ
     - author: EithanSolace
       release_time: 2026.04.28 18:53:44
       title: 密码学补完计划[第三十二期] SHA-3
@@ -113,14 +121,6 @@
       release_time: 2026.04.10 20:47:55
       title: 验证码技巧分享-提取共同的背景
       url: https://www.bilibili.com/video/BV1UsQcB1EPf
-    - author: 澎湖湾的彭
-      release_time: 2026.04.10 13:11:56
-      title: 极验3滑块逆向
-      url: https://www.bilibili.com/video/BV1PRQFBTE2e
-    - author: 时一十一姐呀
-      release_time: 2026.04.10 08:24:49
-      title: p3-opencli案例执行逻辑学习
-      url: https://www.bilibili.com/video/BV1mxDfBTEbM
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -247,6 +247,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: verber34
+      release_time: 2026.04.28 17:25:00
+      title: 闲来无事，破解一款显示时间、地点、经纬度水印的相机APP
+      url: https://www.52pojie.cn/thread-2105276-1-1.html
+    - author: '13955925361'
+      release_time: 2026.04.28 16:13:00
+      title: 抖音直播间弹幕获取及参数逆向
+      url: https://www.52pojie.cn/thread-2105256-1-1.html
     - author: 芽衣
       release_time: 2026.04.28 10:42:00
       title: 哔哩哔哩客户端 去震动和开屏广告教程
@@ -359,14 +367,6 @@
       release_time: 2026.04.08 09:00:00
       title: 破解伪装聊天HYB APP的VIP功能，学习flutter下的so修改
       url: https://www.52pojie.cn/thread-2101843-1-1.html
-    - author: wansconst
-      release_time: 2026.04.05 17:52:00
-      title: 分析某软件的请求加密和响应解密流程_思路分享
-      url: https://www.52pojie.cn/thread-2101445-1-1.html
-    - author: OrientalGlass
-      release_time: 2026.04.04 17:00:00
-      title: Android从ELF-Loader到自定义Linker的实现及原理
-      url: https://www.52pojie.cn/thread-2101321-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
