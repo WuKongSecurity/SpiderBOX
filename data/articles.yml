@@ -124,6 +124,34 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 泡泡以安
+      release_time: 2026.04.29 09:09:00
+      title: Unidbg学习笔记（十七）：Hook 框架选型与实战
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486169&idx=1&sn=9d80b9b3ab012a568275105669ca9336
+    - author: 泡泡以安
+      release_time: 2026.04.29 09:09:00
+      title: Unidbg学习笔记（十八）：从模拟调用到算法还原
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486169&idx=2&sn=062a008f411010dafa89176dc13a8483
+    - author: 泡泡以安
+      release_time: 2026.04.29 09:09:00
+      title: Unidbg学习笔记（十九）：生产化
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486169&idx=3&sn=23408ffa18d6787e9b244340bb9f2401
+    - author: 泡泡以安
+      release_time: 2026.04.29 09:09:00
+      title: Unidbg学习笔记（二十）：Unidbg 的未来与替代方案
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486169&idx=4&sn=9f143afbc5caa47b8a24a8e152a3b602
+    - author: Coder小Q
+      release_time: 2026.04.29 08:30:00
+      title: 【量子计算】Deutsch-Jozsa 算法：第一次真正看到指数级量子优势
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495493&idx=1&sn=3235653dea7ff3137af27d5852ea964c
+    - author: 移动端Android和iOS开发技术分享
+      release_time: 2026.04.29 08:02:00
+      title: 【iOS逆向与安全】iOS MCP 获取 UI 节点的实现原理：为什么它比传统 WDA 更适合 AI 自动化？
+      url: https://mp.weixin.qq.com/s?__biz=MjM5MjEzMDAzMg==&mid=2257485066&idx=1&sn=95e8c59a7d697290354d4ddbce169b04
+    - author: 苏子寻月
+      release_time: 2026.04.29 08:00:00
+      title: 深入理解 Windows 反调试：杂项（Misc）检测与应对思路
+      url: https://mp.weixin.qq.com/s?__biz=MzU2MTgwOTM1MQ==&mid=2247484490&idx=1&sn=5135af56a95a762f0e73a252006eb169
     - author: 如意私塾
       release_time: 2026.04.28 23:58:40
       title: 你在Reddit上聊的天、吐的槽、倾诉的心事，AI用4个Agent花0.59美元就能拼出你是谁
@@ -216,34 +244,6 @@
       release_time: 2026.04.27 19:43:36
       title: 用 cc-Switch 管理你的skills、mcp，简单使用指南
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490006&idx=1&sn=04758ee7c955a68ac06b3d8bdf7e642c
-    - author: 奋飞安全
-      release_time: 2026.04.27 16:46:26
-      title: Codex开始抢逆向饭碗了：一句话同时指挥Jadx MCP和IDA MCP
-      url: https://mp.weixin.qq.com/s?__biz=MzI4NzMwNDI3OQ==&mid=2247485081&idx=1&sn=047fc73715b3c04c1e99c50aaca1e4f2
-    - author: 桐梓坡低手
-      release_time: 2026.04.27 15:36:43
-      title: 盾山6eMrZlPH，lzkqow23819
-      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247483793&idx=1&sn=856fc088092bc034029a8eba7c2066f0
-    - author: 二进制磨剑
-      release_time: 2026.04.27 15:01:43
-      title: 二进制磨剑｜全系逆向课程五一大促开启！
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486043&idx=1&sn=9a83bec11e1a344ecbb8986e40eb69d3
-    - author: 沐阳逆向与AI学习
-      release_time: 2026.04.27 14:42:18
-      title: Pixel刷机配置magisk_frida_lsposed教程
-      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484598&idx=1&sn=1979438a4e428b9ada0ece96006478ec
-    - author: 苏子寻月
-      release_time: 2026.04.27 13:51:31
-      title: 深入理解 Windows 反调试：基于汇编指令行为的检测与绕过
-      url: https://mp.weixin.qq.com/s?__biz=MzU2MTgwOTM1MQ==&mid=2247484488&idx=1&sn=7380cdf3a1f41503e3c808d644f214c4
-    - author: 泡泡以安
-      release_time: 2026.04.27 13:02:17
-      title: Unidbg学习笔记（十二）：Trace 的三个层次
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486097&idx=1&sn=401fc3a6c874c165df8c4fb49dc7acf0
-    - author: 爬虫spider
-      release_time: 2026.04.27 11:53:31
-      title: 试用两个ai逆向项目
-      url: https://mp.weixin.qq.com/s?__biz=MzUyODY3ODUzNw==&mid=2247484233&idx=1&sn=8f41b77ea7d75151f9f9689969745ffe
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
