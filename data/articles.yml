@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 澎湖湾的彭
+      release_time: 2026.04.30 01:00:03
+      title: 易盾滑块逆向
+      url: https://www.bilibili.com/video/BV1b49sBJEE9
     - author: 墨竹_zs
       release_time: 2026.04.29 20:23:11
       title: akm-sensor-data一键反解
@@ -117,10 +121,6 @@
       release_time: 2026.04.13 09:00:00
       title: 【全流程】3分钟全自动一键ROOT，各种ROOT随意切换，从小白变成ROOT糕手！
       url: https://www.bilibili.com/video/BV1YCDXBhE2E
-    - author: 如意-浏览器开发培训
-      release_time: 2026.04.12 21:45:03
-      title: 【Python爬虫】自动化采集Boss招聘网站职位信息
-      url: https://www.bilibili.com/video/BV1vzDXBPEC1
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
