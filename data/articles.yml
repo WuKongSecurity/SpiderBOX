@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 墨竹_zs
+      release_time: 2026.04.29 20:23:11
+      title: akm-sensor-data一键反解
+      url: https://www.bilibili.com/video/BV1459DBWE3u
     - author: 如意-浏览器开发培训
       release_time: 2026.04.28 22:33:45
       title: 傻瓜式一键配置使用最强AI模型
@@ -117,13 +121,17 @@
       release_time: 2026.04.12 21:45:03
       title: 【Python爬虫】自动化采集Boss招聘网站职位信息
       url: https://www.bilibili.com/video/BV1vzDXBPEC1
-    - author: tomysky0409
-      release_time: 2026.04.10 20:47:55
-      title: 验证码技巧分享-提取共同的背景
-      url: https://www.bilibili.com/video/BV1UsQcB1EPf
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.04.29 18:48:59
+      title: 如何通过幽灵比特位绕过限制与利用
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490015&idx=1&sn=ced4368d58c392feffc8ea66deafa868
+    - author: 爬虫逆向小林哥
+      release_time: 2026.04.29 17:42:23
+      title: 小小白都能懂的抓包原理与对抗
+      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487326&idx=1&sn=b6ca271fec533d3bbeb8506b0f65716f
     - author: 编角料
       release_time: 2026.04.29 17:06:46
       title: 移动安全之跟风用AI开发设备检测app
@@ -236,17 +244,13 @@
       release_time: 2026.04.28 17:12:00
       title: 上海发布2025 版数据出境负面清单及其管理办法
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520073&idx=2&sn=3f2ef0b811935cab0f3870f3a8bebf6a
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.04.28 17:12:00
-      title: 中央网信办通报33款App违规收集使用个人信息
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520073&idx=3&sn=30a4b044e992623d6ea288e4efddd0df
-    - author: 如意私塾
-      release_time: 2026.04.28 16:47:52
-      title: GPU芯片的制造差异产生的可追踪用户的硬件指纹
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484487&idx=1&sn=d5236cd42b908d1fca77bdd2c5188897
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: jbczzz
+      release_time: 2026.04.29 15:39:00
+      title: AI逆向，使用CC+deepseekv4分析安卓ELF外挂样本
+      url: https://www.52pojie.cn/thread-2105428-1-1.html
     - author: verber34
       release_time: 2026.04.28 17:25:00
       title: 闲来无事，破解一款显示时间、地点、经纬度水印的相机APP
@@ -363,13 +367,13 @@
       release_time: 2026.04.08 12:16:00
       title: 【2026春节】解题领红包之三、四、六_思路分享
       url: https://www.52pojie.cn/thread-2101894-1-1.html
-    - author: verber34
-      release_time: 2026.04.08 09:00:00
-      title: 破解伪装聊天HYB APP的VIP功能，学习flutter下的so修改
-      url: https://www.52pojie.cn/thread-2101843-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Solar安全
+      release_time: 2026.04.29 17:44:51
+      title: '[原创]Solar勒索软件威胁态势与防护实践年度报告(2025) -章节二'
+      url: https://bbs.kanxue.com/thread-291047.htm
     - author: vwvw
       release_time: 2026.04.28 21:38:00
       title: '[开源] Mira: 让 AI 直接操作 Android/iOS 运行时'
@@ -486,10 +490,6 @@
       release_time: 2026.04.14 17:56:34
       title: '[原创]挑战 Android 墓碑机制：揭秘某头部社交 APP 永生背后的保活术'
       url: https://bbs.kanxue.com/thread-290821.htm
-    - author: 悦来客栈的老板
-      release_time: 2026.04.14 17:14:41
-      title: AI逆向|使用AI分析aws-waf-token值的加密并纯算
-      url: https://blog.csdn.net/qq523176585/article/details/160159479
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
