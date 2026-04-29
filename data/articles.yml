@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 编角料
+      release_time: 2026.04.29 17:06:46
+      title: 移动安全之跟风用AI开发设备检测app
+      url: https://mp.weixin.qq.com/s?__biz=MzU0MjUwMTA2OQ==&mid=2247486973&idx=1&sn=6b3827b1066c42be0abe17d97e5e0de0
+    - author: 桐梓坡低手
+      release_time: 2026.04.29 16:44:09
+      title: 网易易盾解混淆
+      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247483840&idx=1&sn=15dbb59eb65eea5d095effed2742d2b8
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.04.29 15:31:30
+      title: 网信部门依法查处“剪映”App等生成合成内容标识违法问题网站平台
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520078&idx=1&sn=751385bf8ba28efd6a8280921173290e
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.04.29 15:31:30
+      title: 国家数据局新设两大组织，推进数据基础设施与数据标准建设
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520078&idx=2&sn=ceb2e35997f5232d913f217960b23e3c
     - author: 如意私塾
       release_time: 2026.04.29 15:06:05
       title: 慎用AI浏览器助手:背后偷摸搜集你所有隐私信息
@@ -228,22 +244,6 @@
       release_time: 2026.04.28 16:47:52
       title: GPU芯片的制造差异产生的可追踪用户的硬件指纹
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484487&idx=1&sn=d5236cd42b908d1fca77bdd2c5188897
-    - author: wangyu223
-      release_time: 2026.04.28 16:43:06
-      title: 某某茶姬小程序端AES加密及阿里type_xxx类尾缀逆向解析
-      url: https://mp.weixin.qq.com/s?__biz=MzY4ODI4MzQwNQ==&mid=2247483768&idx=1&sn=52ded2b8a78f3d69b1ca725bb391971a
-    - author: 逆向搅屎棍
-      release_time: 2026.04.28 15:52:10
-      title: 侥幸获得焚决！codex变强力爬虫工具！？
-      url: https://mp.weixin.qq.com/s?__biz=MzYzNDQzNDIyNg==&mid=2247483686&idx=1&sn=f7b0ad786479118817b219b43cc10e1a
-    - author: 桐梓坡低手
-      release_time: 2026.04.28 11:17:06
-      title: wb rid参数
-      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247483806&idx=1&sn=b4ec9aff20b88b6d2ad9ba7ffc5603d8
-    - author: 沐阳逆向与AI学习
-      release_time: 2026.04.28 10:47:17
-      title: 手把手教你刷 APatch：内核级 Root 从零开始
-      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484602&idx=1&sn=5b538644ae91b56022d79df6c3eefa9f
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
