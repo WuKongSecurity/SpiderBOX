@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.04.29 15:06:05
+      title: 慎用AI浏览器助手:背后偷摸搜集你所有隐私信息
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484499&idx=1&sn=0c081af4ff6ab7d3cc2b1d926dec7f06
+    - author: 二进制磨剑
+      release_time: 2026.04.29 14:57:17
+      title: 把 AI Agent 用成长期员工：Skill 开发与入门方法论
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486049&idx=1&sn=324e431c3d4e7e01ec018ddc5f742298
+    - author: Spade sec
+      release_time: 2026.04.29 12:34:28
+      title: 《用 MaR 自动加载若依动态路由：从手动替换到一键通杀》
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486959&idx=1&sn=e81f26e90cc13658bc4645855707f8be
     - author: 哆啦安全
       release_time: 2026.04.29 12:17:58
       title: Android逆向智能分析工具V1.4
@@ -232,18 +244,6 @@
       release_time: 2026.04.28 10:47:17
       title: 手把手教你刷 APatch：内核级 Root 从零开始
       url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484602&idx=1&sn=5b538644ae91b56022d79df6c3eefa9f
-    - author: 泡泡以安
-      release_time: 2026.04.28 09:09:00
-      title: Unidbg学习笔记（十三）：固定随机干扰项
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486106&idx=1&sn=77dc422972b862f552ee6f7567536fb5
-    - author: Coder小Q
-      release_time: 2026.04.28 08:30:00
-      title: 【量子计算】Deutsch 算法：第一个量子优势
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495448&idx=1&sn=45e0688f44dfd42dec264e0d200460d5
-    - author: 苏子寻月
-      release_time: 2026.04.28 08:00:00
-      title: 深入理解 Windows 反调试：交互式环境检测与对抗
-      url: https://mp.weixin.qq.com/s?__biz=MzU2MTgwOTM1MQ==&mid=2247484489&idx=1&sn=ba01b2719545a15f38059cecbd5cd7fe
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
