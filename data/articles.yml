@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.04.29 12:17:58
+      title: Android逆向智能分析工具V1.4
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500224&idx=1&sn=a40dc241928ac2c2d28ac9106856df3d
+    - author: 逆向OneByOne
+      release_time: 2026.04.29 09:12:43
+      title: CLI+Skill搭建浏览器AI自动化框架，告别一切重复枯燥任务
+      url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494231&idx=1&sn=ef73a14587a0bfcbde82a9ef9bd8b356
     - author: 泡泡以安
       release_time: 2026.04.29 09:09:00
       title: Unidbg学习笔记（十七）：Hook 框架选型与实战
@@ -188,6 +196,10 @@
       release_time: 2026.04.28 17:23:07
       title: Unidbg学习笔记（十四）：Unidbg 的阿喀琉斯之踵
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486116&idx=1&sn=efb5c7372cb494526759e2f664a185cc
+    - author: 安全逆向分析
+      release_time: 2026.04.28 17:19:05
+      title: 给李知恩做的档案卡✨
+      url: https://mp.weixin.qq.com/s?__biz=MzYzNzg3MTE4NQ==&mid=2247483750&idx=1&sn=81c59bc3b6fb938165c5c8f1028e9c7c
     - author: 个人信息与数据保护实务评论
       release_time: 2026.04.28 17:12:00
       title: 国家网信办发布《中国网络法治发展报告》（目录+答记者问）
@@ -204,6 +216,10 @@
       release_time: 2026.04.28 16:47:52
       title: GPU芯片的制造差异产生的可追踪用户的硬件指纹
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484487&idx=1&sn=d5236cd42b908d1fca77bdd2c5188897
+    - author: wangyu223
+      release_time: 2026.04.28 16:43:06
+      title: 某某茶姬小程序端AES加密及阿里type_xxx类尾缀逆向解析
+      url: https://mp.weixin.qq.com/s?__biz=MzY4ODI4MzQwNQ==&mid=2247483768&idx=1&sn=52ded2b8a78f3d69b1ca725bb391971a
     - author: 逆向搅屎棍
       release_time: 2026.04.28 15:52:10
       title: 侥幸获得焚决！codex变强力爬虫工具！？
@@ -228,22 +244,6 @@
       release_time: 2026.04.28 08:00:00
       title: 深入理解 Windows 反调试：交互式环境检测与对抗
       url: https://mp.weixin.qq.com/s?__biz=MzU2MTgwOTM1MQ==&mid=2247484489&idx=1&sn=ba01b2719545a15f38059cecbd5cd7fe
-    - author: 虫技
-      release_time: 2026.04.27 22:17:43
-      title: SpiderBox 虫盒 v1.3 发布，AI 逆向等更多资源收录
-      url: https://mp.weixin.qq.com/s?__biz=MzIyODMwMTM1MA==&mid=2247483895&idx=1&sn=a548837d97b44d08e7ea1b7deb81c021
-    - author: 将往的爬虫逆向日记
-      release_time: 2026.04.27 20:58:37
-      title: 电力交易员都在用的免费电力资讯插件8.0版本-支持小时级辐照数据导出，小时级气象数据导出，水情数据导出
-      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862383&idx=1&sn=f0718fa15935be652a8274ea1f3f9d6d
-    - author: 菜鸟学Python编程
-      release_time: 2026.04.27 20:34:33
-      title: AST反混淆插件|仅更改一次的赋值语句还原
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566513&idx=1&sn=94346c7a6380d44dbf4cd71be4d41739
-    - author: 进击的HACK
-      release_time: 2026.04.27 19:43:36
-      title: 用 cc-Switch 管理你的skills、mcp，简单使用指南
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490006&idx=1&sn=04758ee7c955a68ac06b3d8bdf7e642c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
