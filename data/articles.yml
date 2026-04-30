@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 小肩膀-逆向安全培训
+      release_time: 2026.04.30 13:59:36
+      title: 16.AI使用的补充（上下文压缩_思考深度_长文本分段_对话记录调取_道德限制）
+      url: https://www.bilibili.com/video/BV1uo98BNEcb
     - author: 澎湖湾的彭
       release_time: 2026.04.30 01:00:03
       title: 易盾滑块逆向
@@ -117,13 +121,17 @@
       release_time: 2026.04.13 17:17:03
       title: firefox火狐指纹浏览器定制之speech音频指纹
       url: https://www.bilibili.com/video/BV1ZXQxBYEhh
-    - author: 狄硕
-      release_time: 2026.04.13 09:00:00
-      title: 【全流程】3分钟全自动一键ROOT，各种ROOT随意切换，从小白变成ROOT糕手！
-      url: https://www.bilibili.com/video/BV1YCDXBhE2E
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: GSCL Sec
+      release_time: 2026.04.30 14:23:56
+      title: 影响面较大的新型 WAF 绕过详细解读
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4MDgyNzY4Nw==&mid=2247484255&idx=1&sn=31d45048acd695a3e67df01462b84a3c
+    - author: CYRUS STUDIO
+      release_time: 2026.04.30 11:13:54
+      title: 某海外短视频 App 抓包失败？深入 Cronet + SSL Pinning 绕过
+      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486624&idx=1&sn=42eaf175065b67e6a871858d4238e2b4
     - author: 泡泡以安
       release_time: 2026.04.30 09:09:00
       title: Unidbg学习笔记（完结）：EPUB/PDF 附件下载
@@ -236,14 +244,6 @@
       release_time: 2026.04.28 17:37:03
       title: Unidbg学习笔记（十六）：Console Debugger
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486135&idx=1&sn=237797abcdf461d63329607fc282db41
-    - author: 泡泡以安
-      release_time: 2026.04.28 17:29:59
-      title: Unidbg学习笔记（十五）：对抗视角
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486128&idx=1&sn=a8718426bfa36e8437ea2cdfabfd2ce1
-    - author: 泡泡以安
-      release_time: 2026.04.28 17:23:07
-      title: Unidbg学习笔记（十四）：Unidbg 的阿喀琉斯之踵
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486116&idx=1&sn=efb5c7372cb494526759e2f664a185cc
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: lingyi223
+      release_time: 2026.04.30 12:30:51
+      title: '[原创]frida 反调'
+      url: https://bbs.kanxue.com/thread-291058.htm
     - author: weixin_46084750
       release_time: 2026.04.30 06:51:01
       title: iv8：一键秒杀瑞数6、__zp_stoken__、abogus、h5st
@@ -486,10 +490,6 @@
       release_time: 2026.04.18 12:24:29
       title: '[原创] Appdome分析'
       url: https://bbs.kanxue.com/thread-290866.htm
-    - author: wx_Deity
-      release_time: 2026.04.17 14:42:04
-      title: '[原创]OnePlus 12 (LineageOS) 安装 KernelSU 踩坑与解决'
-      url: https://bbs.kanxue.com/thread-290856.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
