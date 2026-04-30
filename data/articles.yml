@@ -124,6 +124,26 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.04.30 18:32:06
+      title: 预计下一代AI反爬：通过指纹识别AI Agent，给爬虫和真人展示完全不同的网页内容
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484505&idx=1&sn=2d557531db484604dd0f62912df44424
+    - author: 进击的HACK
+      release_time: 2026.04.30 18:18:33
+      title: CVE-2026-31431 Linux一键提权
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490019&idx=1&sn=35cce9c82405208b7931eb52db65c601
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.04.30 17:22:44
+      title: 近年民事数据权益民事诉讼典型案例与实务解析
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520086&idx=1&sn=a2e0b04757f933dcd7d653c91e772104
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.04.30 17:22:44
+      title: 北京发布《关于进一步深化数据跨境流动便利化综合配套改革实施方案》，推进负面清单向全市域推广应用
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520086&idx=2&sn=25714642b0dbdb17e6d219c158526f0b
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.04.30 17:22:44
+      title: 国家网信办发布2026年第二期个人信息保护政策法规问答，涉及个人信息数量计算、合规审计
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520086&idx=3&sn=238cceafc0e0807fd2bdfbb1b5e4a56a
     - author: 未闻Code
       release_time: 2026.04.30 16:14:56
       title: OpenAI 开源 Symphony：让每个任务自动跑一个 AI Agent
@@ -224,33 +244,21 @@
       release_time: 2026.04.28 23:58:40
       title: 你在Reddit上聊的天、吐的槽、倾诉的心事，AI用4个Agent花0.59美元就能拼出你是谁
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484493&idx=1&sn=98ebbab27bf0fd788b06383ae80571de
-    - author: 零基础爬虫第一天
-      release_time: 2026.04.28 20:02:43
-      title: 【khbox】sojson5反检测pass（yrx9 udc.js）
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484434&idx=1&sn=c7b3016d50867c263ad18bc8e6514cd8
-    - author: 零基础爬虫第一天
-      release_time: 2026.04.28 19:58:01
-      title: 【ast】yrx9 udc.js AST 还原记录
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484433&idx=1&sn=3448432c9bf7aefad333ecf93a4fc02a
-    - author: 反爬破解社
-      release_time: 2026.04.28 19:22:07
-      title: 验证码攻防（中）：行为验证与滑块破解，AI时代的智能对抗
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483867&idx=1&sn=3adce1d24fd15a24fec7ce98bd3fa716
-    - author: 反爬破解社
-      release_time: 2026.04.28 19:22:07
-      title: 扔掉假全麦！这个欧包真全麦，很蓬松，软fufu够劲道，这才是减脂人该吃的面包！
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483867&idx=2&sn=556256023e0f10a40de9ebdccba1224c
-    - author: 进击的HACK
-      release_time: 2026.04.28 18:08:49
-      title: 工具推荐 | 检测你的skills是否安全
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490011&idx=1&sn=a9611f3c3ba8816cf4346626a609cda6
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 孤木落
+      release_time: 2026.04.29 19:47:00
+      title: 把 .so 变成 .ko：一次 ELF 格式的奇妙之旅
+      url: https://www.52pojie.cn/thread-2105492-1-1.html
     - author: jbczzz
       release_time: 2026.04.29 15:39:00
       title: AI逆向，使用CC+deepseekv4分析安卓ELF外挂样本
       url: https://www.52pojie.cn/thread-2105428-1-1.html
+    - author: Mengzek7
+      release_time: 2026.04.28 19:03:00
+      title: 实战某 box APP全流程分析(检测绕过/登录分析/视频解锁/native加密)
+      url: https://www.52pojie.cn/thread-2105295-1-1.html
     - author: verber34
       release_time: 2026.04.28 17:25:00
       title: 闲来无事，破解一款显示时间、地点、经纬度水印的相机APP
@@ -359,14 +367,6 @@
       release_time: 2026.04.08 22:36:00
       title: 八猫付费小说逆向-hostnameVerify&sign
       url: https://www.52pojie.cn/thread-2102001-1-1.html
-    - author: xiybhk
-      release_time: 2026.04.08 13:07:00
-      title: APP数据采集踩坑实录：从被ban到稳定跑通的4种方案
-      url: https://www.52pojie.cn/thread-2101904-1-1.html
-    - author: wansconst
-      release_time: 2026.04.08 12:16:00
-      title: 【2026春节】解题领红包之三、四、六_思路分享
-      url: https://www.52pojie.cn/thread-2101894-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
