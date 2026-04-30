@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 沐阳逆向与AI学习
+      release_time: 2026.04.30 19:30:00
+      title: 【五一限时】安卓+iOS逆向双端全能课，双课合报直降千元
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484610&idx=1&sn=06a0430bbc30c701e273692dbcecf985
     - author: 如意私塾
       release_time: 2026.04.30 18:32:06
       title: 预计下一代AI反爬：通过指纹识别AI Agent，给爬虫和真人展示完全不同的网页内容
@@ -240,10 +244,6 @@
       release_time: 2026.04.29 08:00:00
       title: 深入理解 Windows 反调试：杂项（Misc）检测与应对思路
       url: https://mp.weixin.qq.com/s?__biz=MzU2MTgwOTM1MQ==&mid=2247484490&idx=1&sn=5135af56a95a762f0e73a252006eb169
-    - author: 如意私塾
-      release_time: 2026.04.28 23:58:40
-      title: 你在Reddit上聊的天、吐的槽、倾诉的心事，AI用4个Agent花0.59美元就能拼出你是谁
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484493&idx=1&sn=98ebbab27bf0fd788b06383ae80571de
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
