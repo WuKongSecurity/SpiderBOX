@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: b站用户ajahhabvw
+      release_time: 2026.04.30 21:46:44
+      title: 阿里234逆向-1
+      url: https://www.bilibili.com/video/BV1pi9eBNErW
     - author: 学逆向的柚子
       release_time: 2026.04.30 16:39:20
       title: 4月30日
@@ -117,13 +121,13 @@
       release_time: 2026.04.13 18:04:47
       title: 4月13日
       url: https://www.bilibili.com/video/BV1QKQ4B9EBW
-    - author: B站用户骚神
-      release_time: 2026.04.13 17:52:06
-      title: DrissionPage抓取小红书数据到数据库
-      url: https://www.bilibili.com/video/BV1QNQ4BsE76
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 软件安全与逆向分析
+      release_time: 2026.04.30 21:26:00
+      title: 最新通杀全线Linux发行版的CVE漏洞解析
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485140&idx=1&sn=46a3b04ac859dd1c8adc3ac08459a719
     - author: 沐阳逆向与AI学习
       release_time: 2026.04.30 19:30:00
       title: 【五一限时】安卓+iOS逆向双端全能课，双课合报直降千元
@@ -240,10 +244,6 @@
       release_time: 2026.04.29 08:02:00
       title: 【iOS逆向与安全】iOS MCP 获取 UI 节点的实现原理：为什么它比传统 WDA 更适合 AI 自动化？
       url: https://mp.weixin.qq.com/s?__biz=MjM5MjEzMDAzMg==&mid=2257485066&idx=1&sn=95e8c59a7d697290354d4ddbce169b04
-    - author: 苏子寻月
-      release_time: 2026.04.29 08:00:00
-      title: 深入理解 Windows 反调试：杂项（Misc）检测与应对思路
-      url: https://mp.weixin.qq.com/s?__biz=MzU2MTgwOTM1MQ==&mid=2247484490&idx=1&sn=5135af56a95a762f0e73a252006eb169
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
