@@ -371,6 +371,10 @@
     term: 吾爱破解
   - links:
     - author: 乐子人
+      release_time: 2026.05.01 16:16:58
+      title: '[原创]新版某企业壳加固自定义linker与frida检测分析'
+      url: https://bbs.kanxue.com/thread-291074.htm
+    - author: 乐子人
       release_time: 2026.04.30 23:23:56
       title: '[原创] 某企业壳逆向分析——从过检测到dex代码抽取还原'
       url: https://bbs.kanxue.com/thread-291069.htm
@@ -486,10 +490,6 @@
       release_time: 2026.04.20 00:08:33
       title: '[原创] 2026腾讯游戏安全技术竞赛-安卓决赛VM分析与还原'
       url: https://bbs.kanxue.com/thread-290879.htm
-    - author: Yangser
-      release_time: 2026.04.19 16:56:42
-      title: '[原创]新版梆企检测绕过'
-      url: https://bbs.kanxue.com/thread-290874.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
