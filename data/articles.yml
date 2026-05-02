@@ -247,6 +247,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 小m真2
+      release_time: 2026.05.02 02:15:00
+      title: root后可以做什么-使用np管理器跳过程序验证界面
+      url: https://www.52pojie.cn/thread-2105822-1-1.html
+    - author: f20171110
+      release_time: 2026.05.02 01:12:00
+      title: Web逆向 JS逆向 基础知识 ：Ignition解释器下一
+      url: https://www.52pojie.cn/thread-2105820-1-1.html
     - author: 孤木落
       release_time: 2026.04.29 19:47:00
       title: 把 .so 变成 .ko：一次 ELF 格式的奇妙之旅
@@ -359,14 +367,6 @@
       release_time: 2026.04.10 16:35:00
       title: mx player 逆向教程之禁止外部打开后返回主界面
       url: https://www.52pojie.cn/thread-2102339-1-1.html
-    - author: KaliHt
-      release_time: 2026.04.08 23:00:00
-      title: 记一次某工程学院一卡通登录流程
-      url: https://www.52pojie.cn/thread-2102004-1-1.html
-    - author: LiXieZengHui
-      release_time: 2026.04.08 22:36:00
-      title: 八猫付费小说逆向-hostnameVerify&sign
-      url: https://www.52pojie.cn/thread-2102001-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
