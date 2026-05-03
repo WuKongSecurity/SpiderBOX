@@ -247,6 +247,18 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: shizuku
+      release_time: 2026.05.03 19:41:00
+      title: 团团分身逆向分析
+      url: https://www.52pojie.cn/thread-2105987-1-1.html
+    - author: JiGuro
+      release_time: 2026.05.03 14:08:00
+      title: 【网络逆向】TS到视频HLS加密简单逆向实录
+      url: https://www.52pojie.cn/thread-2105967-1-1.html
+    - author: justWant404
+      release_time: 2026.05.03 13:42:00
+      title: 某记健身APP会员破解分析
+      url: https://www.52pojie.cn/thread-2105965-1-1.html
     - author: 小m真2
       release_time: 2026.05.02 02:15:00
       title: root后可以做什么-使用np管理器跳过程序验证界面
@@ -355,18 +367,6 @@
       release_time: 2026.04.12 00:07:00
       title: 某手游加密数据破解教程（截止2026/4/12）
       url: https://www.52pojie.cn/thread-2102536-1-1.html
-    - author: guxing666
-      release_time: 2026.04.10 23:48:00
-      title: 顶象滑块的x问题！
-      url: https://www.52pojie.cn/thread-2102398-1-1.html
-    - author: xiayutianz
-      release_time: 2026.04.10 18:07:00
-      title: jdgs模拟执行
-      url: https://www.52pojie.cn/thread-2102366-1-1.html
-    - author: 芽衣
-      release_time: 2026.04.10 16:35:00
-      title: mx player 逆向教程之禁止外部打开后返回主界面
-      url: https://www.52pojie.cn/thread-2102339-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
