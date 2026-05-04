@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.05.04 17:38:37
+      title: Android安全检测逆向分析工具(30+款安全神器)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500326&idx=1&sn=902f9a275263bd5447372a91ce12e117
     - author: 桐梓坡低手
       release_time: 2026.05.04 14:35:13
       title: mt，淘宝闪购商家后台websocket协议，自动回复，实时接收消息，ele商家后台（bxet）
@@ -144,6 +148,10 @@
       release_time: 2026.05.03 11:48:34
       title: 藏在内核里的对抗:Android风控检测到底是怎么被绕过的？
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500247&idx=1&sn=e9fa7120308c04097e53905ea9b67e72
+    - author: 哆啦安全
+      release_time: 2026.05.02 08:29:09
+      title: Android安全智能检测分析工具V3.4
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500243&idx=1&sn=f0c11abf593f0c314f7ce19dcf0bf9ca
     - author: 如意私塾
       release_time: 2026.05.02 07:40:52
       title: 【三万字记录】AI攻克极验4代滑块并交付运行实录
@@ -236,14 +244,6 @@
       release_time: 2026.04.29 15:31:30
       title: 网信部门依法查处“剪映”App等生成合成内容标识违法问题网站平台
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520078&idx=1&sn=751385bf8ba28efd6a8280921173290e
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.04.29 15:31:30
-      title: 国家数据局新设两大组织，推进数据基础设施与数据标准建设
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520078&idx=2&sn=ceb2e35997f5232d913f217960b23e3c
-    - author: 如意私塾
-      release_time: 2026.04.29 15:06:05
-      title: 慎用AI浏览器助手:背后偷摸搜集你所有隐私信息
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484499&idx=1&sn=0c081af4ff6ab7d3cc2b1d926dec7f06
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
