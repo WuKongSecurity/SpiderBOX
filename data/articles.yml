@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: Rytter
+      release_time: 2026.05.04 23:00:00
+      title: 某气骑士 libtprt.so 反 Frida 机制分析与绕过
+      url: https://www.52pojie.cn/thread-2106149-1-1.html
     - author: '13955925361'
       release_time: 2026.05.04 15:52:00
       title: 智慧酒店登录滑块各部分易错点详析
@@ -363,10 +367,6 @@
       release_time: 2026.04.16 21:06:00
       title: 使用jadx-ai-mcp辅助分析某校园pro校园跑
       url: https://www.52pojie.cn/thread-2103392-1-1.html
-    - author: 逗逗苍穹
-      release_time: 2026.04.12 14:55:00
-      title: 全程交给 AI，不写一行代码，本地复现 CCTV 视频播放链路的一次实战记录
-      url: https://www.52pojie.cn/thread-2102594-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
