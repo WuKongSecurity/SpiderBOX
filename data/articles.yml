@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 桐梓坡低手
+      release_time: 2026.05.04 14:35:13
+      title: mt，淘宝闪购商家后台websocket协议，自动回复，实时接收消息，ele商家后台（bxet）
+      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247483847&idx=1&sn=3ab62c0c1e80340be3126d5612b93068
+    - author: 如意私塾
+      release_time: 2026.05.04 14:12:53
+      title: 如意bidi自动化框架：根据IP一键自动配置指纹浏览器
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484545&idx=1&sn=57d9341cdea538bb8c83db1e444df34f
     - author: 如意私塾
       release_time: 2026.05.04 01:08:51
       title: web爬虫风控日志工具-记录一切浏览器指纹操作，加速JS逆向补环境神器
@@ -136,6 +144,22 @@
       release_time: 2026.05.03 11:48:34
       title: 藏在内核里的对抗:Android风控检测到底是怎么被绕过的？
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500247&idx=1&sn=e9fa7120308c04097e53905ea9b67e72
+    - author: 如意私塾
+      release_time: 2026.05.02 07:40:52
+      title: 【三万字记录】AI攻克极验4代滑块并交付运行实录
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484532&idx=1&sn=b4bcd1f8b69a854d3b16f8a0f59dfb1a
+    - author: 如意私塾
+      release_time: 2026.05.01 23:09:02
+      title: AI自动混淆还原极验gcaptcha4.js—完整技术文档和代码
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484528&idx=1&sn=d2b37e5c2bec1a6b9cdba931b8553149
+    - author: 如意私塾
+      release_time: 2026.05.01 17:54:44
+      title: 43万钓鱼页面的JS指纹技术分析（可借鉴的反检测技术）
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484520&idx=1&sn=030b1cdd4904119fd0adb8d733a24eee
+    - author: 如意私塾
+      release_time: 2026.05.01 14:12:00
+      title: 在about:blank里加载追踪脚本就能绕过浏览器的广告拦截
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484515&idx=1&sn=8ca0d8bc3dbf27ff849ff89495d7b757
     - author: 哆啦安全
       release_time: 2026.04.30 22:29:28
       title: Android so逆向分析工具
@@ -220,30 +244,6 @@
       release_time: 2026.04.29 15:06:05
       title: 慎用AI浏览器助手:背后偷摸搜集你所有隐私信息
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484499&idx=1&sn=0c081af4ff6ab7d3cc2b1d926dec7f06
-    - author: 二进制磨剑
-      release_time: 2026.04.29 14:57:17
-      title: 把 AI Agent 用成长期员工：Skill 开发与入门方法论
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486049&idx=1&sn=324e431c3d4e7e01ec018ddc5f742298
-    - author: Spade sec
-      release_time: 2026.04.29 12:34:28
-      title: 《用 MaR 自动加载若依动态路由：从手动替换到一键通杀》
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486959&idx=1&sn=e81f26e90cc13658bc4645855707f8be
-    - author: 哆啦安全
-      release_time: 2026.04.29 12:17:58
-      title: Android逆向智能分析工具V1.4
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500224&idx=1&sn=a40dc241928ac2c2d28ac9106856df3d
-    - author: 逆向OneByOne
-      release_time: 2026.04.29 09:12:43
-      title: CLI+Skill搭建浏览器AI自动化框架，告别一切重复枯燥任务
-      url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494231&idx=1&sn=ef73a14587a0bfcbde82a9ef9bd8b356
-    - author: 泡泡以安
-      release_time: 2026.04.29 09:09:00
-      title: Unidbg学习笔记（十七）：Hook 框架选型与实战
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486169&idx=1&sn=9d80b9b3ab012a568275105669ca9336
-    - author: 移动端Android和iOS开发技术分享
-      release_time: 2026.04.29 08:02:00
-      title: 【iOS逆向与安全】iOS MCP 获取 UI 节点的实现原理：为什么它比传统 WDA 更适合 AI 自动化？
-      url: https://mp.weixin.qq.com/s?__biz=MjM5MjEzMDAzMg==&mid=2257485066&idx=1&sn=95e8c59a7d697290354d4ddbce169b04
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 孤木落
+      release_time: 2026.05.04 14:37:00
+      title: '[原创]把 .o 变成 .ko（二）：GKI 安全特性的铁幕'
+      url: https://bbs.kanxue.com/thread-291096.htm
     - author: Cure.
       release_time: 2026.05.04 10:26:35
       title: '[原创]某卷轴App flutter md5 aes'
@@ -486,10 +490,6 @@
       release_time: 2026.04.21 09:25:24
       title: AI逆向|使用AI解决jsvmp的几种方式
       url: https://blog.csdn.net/qq523176585/article/details/160386797
-    - author: Jmn314
-      release_time: 2026.04.20 21:46:04
-      title: '[原创]基于图书管理系统的漏洞复现与代码审计'
-      url: https://bbs.kanxue.com/thread-290904.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
