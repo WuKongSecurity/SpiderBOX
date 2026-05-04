@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 池唐不是糖
+      release_time: 2026.05.04 11:32:58
+      title: 关于start注入的破解教程？？？
+      url: https://www.bilibili.com/video/BV1J2RYBaEoD
+    - author: 悦来客栈的老板
+      release_time: 2026.05.04 11:13:13
+      title: 使用反混淆skills秒杀ob混淆
+      url: https://www.bilibili.com/video/BV1WEReB6Eex
     - author: b站用户ajahhabvw
       release_time: 2026.04.30 21:46:44
       title: 阿里234逆向-1
@@ -113,17 +121,21 @@
       release_time: 2026.04.14 18:39:38
       title: 浅谈某手游反作弊(Report data 2篇)
       url: https://www.bilibili.com/video/BV1HBQgBZEMe
-    - author: Alone逆向安全
-      release_time: 2026.04.14 12:58:40
-      title: 无痕Hook逆向神器  魔改frida-gum + Lua热重载 + JavaNative全家桶
-      url: https://www.bilibili.com/video/BV1qeQiB4Eww
-    - author: 学逆向的柚子
-      release_time: 2026.04.13 18:04:47
-      title: 4月13日
-      url: https://www.bilibili.com/video/BV1QKQ4B9EBW
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.05.04 01:08:51
+      title: web爬虫风控日志工具-记录一切浏览器指纹操作，加速JS逆向补环境神器
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484542&idx=1&sn=7a08bdb6ab778fb4cf3e56400b77ca61
+    - author: 安全逆向分析
+      release_time: 2026.05.03 12:21:55
+      title: 做逆向再也不用一遍遍催 AI 了，Codex CLI 藏了个狠活
+      url: https://mp.weixin.qq.com/s?__biz=MzYzNzg3MTE4NQ==&mid=2247483756&idx=1&sn=9113fbfed54638bb09bf2940e931e26a
+    - author: 哆啦安全
+      release_time: 2026.05.03 11:48:34
+      title: 藏在内核里的对抗:Android风控检测到底是怎么被绕过的？
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500247&idx=1&sn=e9fa7120308c04097e53905ea9b67e72
     - author: 哆啦安全
       release_time: 2026.04.30 22:29:28
       title: Android so逆向分析工具
@@ -228,18 +240,6 @@
       release_time: 2026.04.29 09:09:00
       title: Unidbg学习笔记（十七）：Hook 框架选型与实战
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486169&idx=1&sn=9d80b9b3ab012a568275105669ca9336
-    - author: 泡泡以安
-      release_time: 2026.04.29 09:09:00
-      title: Unidbg学习笔记（十八）：从模拟调用到算法还原
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486169&idx=2&sn=062a008f411010dafa89176dc13a8483
-    - author: 泡泡以安
-      release_time: 2026.04.29 09:09:00
-      title: Unidbg学习笔记（十九）：生产化
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486169&idx=3&sn=23408ffa18d6787e9b244340bb9f2401
-    - author: 泡泡以安
-      release_time: 2026.04.29 09:09:00
-      title: Unidbg学习笔记（二十）：Unidbg 的未来与替代方案
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486169&idx=4&sn=9f143afbc5caa47b8a24a8e152a3b602
     - author: 移动端Android和iOS开发技术分享
       release_time: 2026.04.29 08:02:00
       title: 【iOS逆向与安全】iOS MCP 获取 UI 节点的实现原理：为什么它比传统 WDA 更适合 AI 自动化？
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Cure.
+      release_time: 2026.05.04 10:26:35
+      title: '[原创]某卷轴App flutter md5 aes'
+      url: https://bbs.kanxue.com/thread-291091.htm
     - author: Mengz3
       release_time: 2026.05.01 22:07:30
       title: '[原创]从 Frida 到 unidbg：某蜂窝 zzz 参数逆向分析'
@@ -486,10 +490,6 @@
       release_time: 2026.04.20 21:46:04
       title: '[原创]基于图书管理系统的漏洞复现与代码审计'
       url: https://bbs.kanxue.com/thread-290904.htm
-    - author: mxystery
-      release_time: 2026.04.20 21:45:03
-      title: '[原创]腾讯游戏安全初赛 Android 客户端分析'
-      url: https://bbs.kanxue.com/thread-290903.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
