@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: '13955925361'
+      release_time: 2026.05.04 15:52:00
+      title: 智慧酒店登录滑块各部分易错点详析
+      url: https://www.52pojie.cn/thread-2106089-1-1.html
     - author: shizuku
       release_time: 2026.05.03 19:41:00
       title: 团团分身逆向分析
@@ -363,10 +367,6 @@
       release_time: 2026.04.12 14:55:00
       title: 全程交给 AI，不写一行代码，本地复现 CCTV 视频播放链路的一次实战记录
       url: https://www.52pojie.cn/thread-2102594-1-1.html
-    - author: libbb
-      release_time: 2026.04.12 00:07:00
-      title: 某手游加密数据破解教程（截止2026/4/12）
-      url: https://www.52pojie.cn/thread-2102536-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
