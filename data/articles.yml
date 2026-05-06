@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 流星Studio
+      release_time: 2026.05.06 11:25:01
+      title: 绕过 AI 安全护栏分析验证码 JS：一份提示词工程实战指南(实战GPT5.5的绕过)
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjUxNTgyMg==&mid=2247484184&idx=1&sn=cb6ab0ffdab38625cb7af9d2b708964a
+    - author: 软件安全与逆向分析
+      release_time: 2026.05.06 10:32:05
+      title: APatch最新版检测与过检测原理分析
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485145&idx=1&sn=13462901ea5113f701abe7c6333a3cdf
     - author: 猿人学Python
       release_time: 2026.05.06 09:30:13
       title: 抢疫苗被关看守所4个月——爬虫er100人
@@ -236,14 +244,6 @@
       release_time: 2026.04.30 16:14:56
       title: OpenAI 开源 Symphony：让每个任务自动跑一个 AI Agent
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991575&idx=1&sn=14225d63a151798d733a67c9c585d132
-    - author: GSCL Sec
-      release_time: 2026.04.30 14:23:56
-      title: 影响面较大的新型 WAF 绕过详细解读
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4MDgyNzY4Nw==&mid=2247484255&idx=1&sn=31d45048acd695a3e67df01462b84a3c
-    - author: CYRUS STUDIO
-      release_time: 2026.04.30 11:13:54
-      title: 某海外短视频 App 抓包失败？深入 Cronet + SSL Pinning 绕过
-      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486624&idx=1&sn=42eaf175065b67e6a871858d4238e2b4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: PanzerT
+      release_time: 2026.05.06 11:33:35
+      title: '[原创]基于eBPF的Android ART运行时DEX采集与方法字节码回填'
+      url: https://bbs.kanxue.com/thread-291116.htm
     - author: 悦来客栈的老板
       release_time: 2026.05.05 20:23:36
       title: 零基础AI反混淆与逆向课程:环境的搭建
@@ -486,10 +490,6 @@
       release_time: 2026.04.22 23:16:46
       title: '[原创]2026腾讯游戏安全竞赛Android初赛 wp'
       url: https://bbs.kanxue.com/thread-290944.htm
-    - author: sh4w
-      release_time: 2026.04.22 15:14:48
-      title: '[原创]某宝 x-sign 模拟执行'
-      url: https://bbs.kanxue.com/thread-290932.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
