@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.05.06 18:48:20
+      title: 渗透测试Payload速查手册
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490031&idx=1&sn=4fd2589755dec27051608c27919feeea
     - author: 菜鸟学Python编程
       release_time: 2026.05.06 17:21:00
       title: 零基础AI反混淆与逆向:绕过限制方法汇总
@@ -220,6 +224,10 @@
       release_time: 2026.05.03 11:48:34
       title: 藏在内核里的对抗:Android风控检测到底是怎么被绕过的？
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500247&idx=1&sn=e9fa7120308c04097e53905ea9b67e72
+    - author: 进击的HACK
+      release_time: 2026.05.02 22:19:45
+      title: Yakit Ghost Bits Fuzzing 漏洞插件
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490027&idx=1&sn=97902b1064cb26dfa0e7cdf6952c80bd
     - author: 哆啦安全
       release_time: 2026.05.02 08:29:09
       title: Android安全智能检测分析工具V3.4
@@ -236,14 +244,6 @@
       release_time: 2026.05.01 17:54:44
       title: 43万钓鱼页面的JS指纹技术分析（可借鉴的反检测技术）
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484520&idx=1&sn=030b1cdd4904119fd0adb8d733a24eee
-    - author: 如意私塾
-      release_time: 2026.05.01 14:12:00
-      title: 在about:blank里加载追踪脚本就能绕过浏览器的广告拦截
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484515&idx=1&sn=8ca0d8bc3dbf27ff849ff89495d7b757
-    - author: 哆啦安全
-      release_time: 2026.04.30 22:29:28
-      title: Android so逆向分析工具
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500228&idx=1&sn=cffe1fc82ba058401d8309b1f0a918dd
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
