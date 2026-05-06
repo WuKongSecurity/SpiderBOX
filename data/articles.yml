@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小恰学逆向
+      release_time: 2026.05.07 01:01:51
+      title: 【名人趣事-马克·吐温】“一半混蛋”
+      url: https://mp.weixin.qq.com/s?__biz=MzkwNTg3MjY3MQ==&mid=2247484954&idx=1&sn=e1899fd99c88bd18d27bf59dfa6986d5
     - author: 哆啦安全
       release_time: 2026.05.06 22:58:57
       title: 漏洞修复 | Android无线调试认证绕过漏洞(CVE-2026-0073)
@@ -240,10 +244,6 @@
       release_time: 2026.05.02 08:29:09
       title: Android安全智能检测分析工具V3.4
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500243&idx=1&sn=f0c11abf593f0c314f7ce19dcf0bf9ca
-    - author: 如意私塾
-      release_time: 2026.05.02 07:40:52
-      title: 【三万字记录】AI攻克极验4代滑块并交付运行实录
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484532&idx=1&sn=b4bcd1f8b69a854d3b16f8a0f59dfb1a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
