@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 如意-浏览器开发培训
+      release_time: 2026.05.06 23:25:20
+      title: firefox指纹浏览器linux版本演示
+      url: https://www.bilibili.com/video/BV1rRRtBDE2q
     - author: 悦来客栈的老板
       release_time: 2026.05.06 14:41:48
       title: AI + 自动化100%过极验滑块
@@ -117,13 +121,17 @@
       release_time: 2026.04.16 23:58:57
       title: 验证码技巧分享-简单文本识别模型对比
       url: https://www.bilibili.com/video/BV1JfdeBTEPn
-    - author: 如意-浏览器开发培训
-      release_time: 2026.04.15 18:46:49
-      title: （秒px盾）outlook微软邮箱注册机制作
-      url: https://www.bilibili.com/video/BV1ZEQEBCEo3
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.05.06 22:58:57
+      title: 漏洞修复 | Android无线调试认证绕过漏洞(CVE-2026-0073)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500355&idx=1&sn=b968cbc222df7347ed9c560f1bc2de99
+    - author: 如意私塾
+      release_time: 2026.05.06 22:25:53
+      title: bidi过检测自动化框架：新增linux/ubuntu下免费火狐配套指纹浏览器
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484550&idx=1&sn=5e959c880327ec113d8522c39adac202
     - author: 进击的HACK
       release_time: 2026.05.06 18:48:20
       title: 渗透测试Payload速查手册
@@ -236,14 +244,6 @@
       release_time: 2026.05.02 07:40:52
       title: 【三万字记录】AI攻克极验4代滑块并交付运行实录
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484532&idx=1&sn=b4bcd1f8b69a854d3b16f8a0f59dfb1a
-    - author: 如意私塾
-      release_time: 2026.05.01 23:09:02
-      title: AI自动混淆还原极验gcaptcha4.js—完整技术文档和代码
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484528&idx=1&sn=d2b37e5c2bec1a6b9cdba931b8553149
-    - author: 如意私塾
-      release_time: 2026.05.01 17:54:44
-      title: 43万钓鱼页面的JS指纹技术分析（可借鉴的反检测技术）
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484520&idx=1&sn=030b1cdd4904119fd0adb8d733a24eee
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
