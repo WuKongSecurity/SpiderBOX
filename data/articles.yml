@@ -374,6 +374,10 @@
       release_time: 2026.05.06 20:01:29
       title: '[分享]分析libmsaoaidsec.so的frida反调试'
       url: https://bbs.kanxue.com/thread-291121.htm
+    - author: 悦来客栈的老板
+      release_time: 2026.05.06 17:21:48
+      title: 零基础AI反混淆与逆向:绕过限制方法汇总
+      url: https://blog.csdn.net/qq523176585/article/details/160839233
     - author: PanzerT
       release_time: 2026.05.06 11:33:35
       title: '[原创]基于eBPF的Android ART运行时DEX采集与方法字节码回填'
@@ -486,10 +490,6 @@
       release_time: 2026.04.23 14:03:31
       title: akamai bmp风控
       url: https://bbs.kanxue.com/thread-290955.htm
-    - author: 悦来客栈的老板
-      release_time: 2026.04.23 09:00:38
-      title: AI技能|使用国产AI模型还原ob混淆的字符串(可复现)
-      url: https://blog.csdn.net/qq523176585/article/details/160454077
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
