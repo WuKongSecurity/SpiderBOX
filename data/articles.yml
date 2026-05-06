@@ -124,6 +124,38 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 猿人学Python
+      release_time: 2026.05.06 09:30:13
+      title: 抢疫苗被关看守所4个月——爬虫er100人
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550215&idx=1&sn=babf7e638d6a95410360458341321d51
+    - author: 泡泡以安
+      release_time: 2026.05.06 09:21:00
+      title: Frida学习笔记（二）：环境搭建一条龙
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486205&idx=1&sn=11b7198eb5236e21b1b147a90e47a31a
+    - author: Coder小Q
+      release_time: 2026.05.06 08:30:00
+      title: 【量子计算】Grover 搜索算法：从随机命中到幅度放大
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495523&idx=1&sn=766f1b1906295ed1437fde8c3d85af62
+    - author: 未闻Code
+      release_time: 2026.05.05 20:48:49
+      title: 开源仅 5 天，暴涨 18.2K 标星！超牛的 Claude Design 开源替代品来了！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991578&idx=1&sn=14c1a9a899ea88b8e966bac996fa7d65
+    - author: 菜鸟学Python编程
+      release_time: 2026.05.05 20:23:16
+      title: 零基础AI反混淆与逆向课程:环境的搭建
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566520&idx=1&sn=b5ee12baf43cb915c4ce190d1c8fb1c9
+    - author: 哆啦安全
+      release_time: 2026.05.05 16:32:24
+      title: Android系统智能调试分析工具V7.8
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500350&idx=1&sn=9326ca201d6d2147362489afa909f2bc
+    - author: 小恰学逆向
+      release_time: 2026.05.05 15:07:24
+      title: 【每日梗图】我chovy，你们塔喵咪拿东西给我拿好的啊
+      url: https://mp.weixin.qq.com/s?__biz=MzkwNTg3MjY3MQ==&mid=2247484950&idx=1&sn=8943800b716e6ea3c05c36ef6f46f8b8
+    - author: 泡泡以安
+      release_time: 2026.05.05 09:21:00
+      title: Frida学习笔记（一）：Frida 入门 · 原理与架构
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486196&idx=1&sn=d419fb06cf3694967717c84018fa09bf
     - author: 哆啦安全
       release_time: 2026.05.04 17:38:37
       title: Android安全检测逆向分析工具(30+款安全神器)
@@ -212,38 +244,6 @@
       release_time: 2026.04.30 11:13:54
       title: 某海外短视频 App 抓包失败？深入 Cronet + SSL Pinning 绕过
       url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486624&idx=1&sn=42eaf175065b67e6a871858d4238e2b4
-    - author: 泡泡以安
-      release_time: 2026.04.30 09:09:00
-      title: Unidbg学习笔记（完结）：EPUB/PDF 附件下载
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486183&idx=1&sn=24f8ef3711fd6670f61e5657b661c563
-    - author: Coder小Q
-      release_time: 2026.04.30 08:31:37
-      title: 【量子计算】Simon 算法：量子算法的转折点
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495510&idx=1&sn=14a19768ca9f61f2a1531c12f229141d
-    - author: 移动端Android和iOS开发技术分享
-      release_time: 2026.04.30 08:02:00
-      title: 建第五个 AI 爬虫逆向 500 人交流群
-      url: https://mp.weixin.qq.com/s?__biz=MjM5MjEzMDAzMg==&mid=2257485072&idx=1&sn=cf765dde37f6696f8402a370b59e8b23
-    - author: 进击的HACK
-      release_time: 2026.04.29 18:48:59
-      title: 如何通过幽灵比特位绕过限制与利用
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490015&idx=1&sn=ced4368d58c392feffc8ea66deafa868
-    - author: 爬虫逆向小林哥
-      release_time: 2026.04.29 17:42:23
-      title: 小小白都能懂的抓包原理与对抗
-      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487326&idx=1&sn=b6ca271fec533d3bbeb8506b0f65716f
-    - author: 编角料
-      release_time: 2026.04.29 17:06:46
-      title: 移动安全之跟风用AI开发设备检测app
-      url: https://mp.weixin.qq.com/s?__biz=MzU0MjUwMTA2OQ==&mid=2247486973&idx=1&sn=6b3827b1066c42be0abe17d97e5e0de0
-    - author: 桐梓坡低手
-      release_time: 2026.04.29 16:44:09
-      title: 网易易盾解混淆
-      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247483840&idx=1&sn=15dbb59eb65eea5d095effed2742d2b8
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.04.29 15:31:30
-      title: 网信部门依法查处“剪映”App等生成合成内容标识违法问题网站平台
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520078&idx=1&sn=751385bf8ba28efd6a8280921173290e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
