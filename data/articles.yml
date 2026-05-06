@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2026.05.06 17:21:00
+      title: 零基础AI反混淆与逆向:绕过限制方法汇总
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566524&idx=1&sn=a8d2c907faf6c9b53e0e07b214646102
+    - author: 逆不逆
+      release_time: 2026.05.06 17:01:51
+      title: unidbg执行某书tiny926时初始化的问题
+      url: https://mp.weixin.qq.com/s?__biz=MzYyNTY2NDgyNA==&mid=2247483827&idx=1&sn=02d1e8908b3d8ef70cfeb6dae7967161
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.05.06 16:57:06
+      title: 爱尔兰对SHEIN启动数据跨境等调查：TikTok被罚5.3亿欧元后的第二家中国公司
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520093&idx=1&sn=1f447855398ead9bde06d6a2279b16f7
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.05.06 16:57:06
+      title: 国家计算机病毒应急处理中心检测发现67款违法违规收集使用个人信息的移动应用
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520093&idx=2&sn=b3b4957d4be5ea19be130cad6fad1a31
     - author: 影17
       release_time: 2026.05.06 14:57:42
       title: Boss web和APP流程分析
@@ -228,22 +244,6 @@
       release_time: 2026.04.30 22:29:28
       title: Android so逆向分析工具
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500228&idx=1&sn=cffe1fc82ba058401d8309b1f0a918dd
-    - author: 软件安全与逆向分析
-      release_time: 2026.04.30 21:26:00
-      title: 最新通杀全线Linux发行版的CVE漏洞解析
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485140&idx=1&sn=46a3b04ac859dd1c8adc3ac08459a719
-    - author: 沐阳逆向与AI学习
-      release_time: 2026.04.30 19:30:00
-      title: 【五一限时】安卓+iOS逆向双端全能课，双课合报直降千元
-      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484610&idx=1&sn=06a0430bbc30c701e273692dbcecf985
-    - author: 如意私塾
-      release_time: 2026.04.30 18:32:06
-      title: 预计下一代AI反爬：通过指纹识别AI Agent，给爬虫和真人展示完全不同的网页内容
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484505&idx=1&sn=2d557531db484604dd0f62912df44424
-    - author: 进击的HACK
-      release_time: 2026.04.30 18:18:33
-      title: CVE-2026-31431 Linux一键提权
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490019&idx=1&sn=35cce9c82405208b7931eb52db65c601
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
