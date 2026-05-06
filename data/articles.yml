@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 悦来客栈的老板
+      release_time: 2026.05.06 14:41:48
+      title: AI + 自动化100%过极验滑块
+      url: https://www.bilibili.com/video/BV1bGRsBXEA1
     - author: 池唐不是糖
       release_time: 2026.05.04 11:32:58
       title: 关于start注入的破解教程？？？
@@ -117,13 +121,25 @@
       release_time: 2026.04.15 18:46:49
       title: （秒px盾）outlook微软邮箱注册机制作
       url: https://www.bilibili.com/video/BV1ZEQEBCEo3
-    - author: 魔影-马
-      release_time: 2026.04.14 18:39:38
-      title: 浅谈某手游反作弊(Report data 2篇)
-      url: https://www.bilibili.com/video/BV1HBQgBZEMe
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 影17
+      release_time: 2026.05.06 14:57:42
+      title: Boss web和APP流程分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247490665&idx=1&sn=ecf56a209b45d6b8b59aa76d1a1cef11
+    - author: wangyu223
+      release_time: 2026.05.06 14:13:19
+      title: Win简单游戏逆向 CE 定位指针 + WinAPI 读写内存修改数值
+      url: https://mp.weixin.qq.com/s?__biz=MzY4ODI4MzQwNQ==&mid=2247483805&idx=1&sn=7efdd4727c60afb99015a6f6436d7029
+    - author: 逆不逆
+      release_time: 2026.05.06 13:57:38
+      title: unidbg简单补环境运行某书 tiny 859
+      url: https://mp.weixin.qq.com/s?__biz=MzYyNTY2NDgyNA==&mid=2247483810&idx=1&sn=6337e5c2a82259c0933627ad4673cbb5
+    - author: 奋飞安全
+      release_time: 2026.05.06 12:40:38
+      title: CTF聊到一半，Codex突然不吭声了？这个 patcher 有点东西
+      url: https://mp.weixin.qq.com/s?__biz=MzI4NzMwNDI3OQ==&mid=2247485088&idx=1&sn=5e1fdd295179a5782309c163e26a25ba
     - author: 流星Studio
       release_time: 2026.05.06 11:25:01
       title: 绕过 AI 安全护栏分析验证码 JS：一份提示词工程实战指南(实战GPT5.5的绕过)
@@ -228,22 +244,6 @@
       release_time: 2026.04.30 18:18:33
       title: CVE-2026-31431 Linux一键提权
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490019&idx=1&sn=35cce9c82405208b7931eb52db65c601
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.04.30 17:22:44
-      title: 近年民事数据权益民事诉讼典型案例与实务解析
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520086&idx=1&sn=a2e0b04757f933dcd7d653c91e772104
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.04.30 17:22:44
-      title: 北京发布《关于进一步深化数据跨境流动便利化综合配套改革实施方案》，推进负面清单向全市域推广应用
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520086&idx=2&sn=25714642b0dbdb17e6d219c158526f0b
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.04.30 17:22:44
-      title: 国家网信办发布2026年第二期个人信息保护政策法规问答，涉及个人信息数量计算、合规审计
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520086&idx=3&sn=238cceafc0e0807fd2bdfbb1b5e4a56a
-    - author: 未闻Code
-      release_time: 2026.04.30 16:14:56
-      title: OpenAI 开源 Symphony：让每个任务自动跑一个 AI Agent
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991575&idx=1&sn=14225d63a151798d733a67c9c585d132
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
