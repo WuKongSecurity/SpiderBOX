@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 若水0014
+      release_time: 2026.05.07 17:39:59
+      title: 自制nodejs插件虚拟机环境，封装底层v8的c++层api到js层，js即可实现同c++效果
+      url: https://www.bilibili.com/video/BV1uBdwBhEGL
+    - author: 若水0014
+      release_time: 2026.05.07 16:12:44
+      title: 自制全新nodejs插件v8虚拟机self-vm使用教程
+      url: https://www.bilibili.com/video/BV19gdABBEBU
     - author: 如意-浏览器开发培训
       release_time: 2026.05.06 23:25:20
       title: firefox指纹浏览器linux版本演示
@@ -113,14 +121,6 @@
       release_time: 2026.04.18 18:14:39
       title: 最强内核模块，最强小工具，最强lsposed
       url: https://www.bilibili.com/video/BV1ipdpBwEeh
-    - author: 人生导师duck
-      release_time: 2026.04.18 12:18:36
-      title: 关于大型项目源码阅读
-      url: https://www.bilibili.com/video/BV1nQdnBeEUr
-    - author: tomysky0409
-      release_time: 2026.04.16 23:58:57
-      title: 验证码技巧分享-简单文本识别模型对比
-      url: https://www.bilibili.com/video/BV1JfdeBTEPn
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -370,6 +370,14 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: weixin_46084750
+      release_time: 2026.05.07 17:47:05
+      title: iv8，过tdc腾讯滑块
+      url: https://blog.csdn.net/weixin_46084750/article/details/160864561
+    - author: XFALLEN
+      release_time: 2026.05.07 16:40:37
+      title: '[原创]Dlink dir-882 获取串口调试'
+      url: https://bbs.kanxue.com/thread-291131.htm
     - author: 伊苏尔德
       release_time: 2026.05.06 20:01:29
       title: '[分享]分析libmsaoaidsec.so的frida反调试'
@@ -482,14 +490,6 @@
       release_time: 2026.04.26 16:42:31
       title: 纯静态硬啃xx反封号 dylib：OLLVM CFF   MBA 全链路反混淆，还原 167 hook 攻防全图（看着吓人
       url: https://bbs.kanxue.com/thread-290993.htm
-    - author: 悦来客栈的老板
-      release_time: 2026.04.24 21:14:28
-      title: 每个Python开发者都应了解的Enum技巧
-      url: https://blog.csdn.net/qq523176585/article/details/160485878
-    - author: wx_微信用户_137
-      release_time: 2026.04.24 19:03:36
-      title: 看雪无法snsapi_base登录
-      url: https://bbs.kanxue.com/thread-290977.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
