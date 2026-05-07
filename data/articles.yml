@@ -124,10 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 挖个洞先
+      release_time: 2026.05.07 09:38:06
+      title: 【漏洞案例】页游websocket协议使用fatbeans改包一键通关
+      url: https://mp.weixin.qq.com/s?__biz=MzkyNjY3OTI4Ng==&mid=2247486037&idx=1&sn=14ee3075e4f85d9bce09ee4e64d86271
     - author: 小恰学逆向
-      release_time: 2026.05.07 01:01:51
-      title: 【名人趣事-马克·吐温】“一半混蛋”
-      url: https://mp.weixin.qq.com/s?__biz=MzkwNTg3MjY3MQ==&mid=2247484954&idx=1&sn=e1899fd99c88bd18d27bf59dfa6986d5
+      release_time: 2026.05.07 09:00:33
+      title: 【名人趣事-马克·吐温】说个谎话
+      url: https://mp.weixin.qq.com/s?__biz=MzkwNTg3MjY3MQ==&mid=2247484958&idx=1&sn=8f700031ee022941a7f6c875c97b1b16
+    - author: Coder小Q
+      release_time: 2026.05.07 08:30:00
+      title: 【量子计算】量子傅里叶变换（QFT）：把周期变成峰值
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495548&idx=1&sn=e3bb3ee3699a5bc1a2c97a196fb8e4f6
+    - author: 虫技
+      release_time: 2026.05.07 08:00:00
+      title: 建第五个 AI 爬虫逆向 500 人交流群
+      url: https://mp.weixin.qq.com/s?__biz=MzIyODMwMTM1MA==&mid=2247483905&idx=1&sn=f0efef9da696958d51ddda5eddbc8246
     - author: 哆啦安全
       release_time: 2026.05.06 22:58:57
       title: 漏洞修复 | Android无线调试认证绕过漏洞(CVE-2026-0073)
@@ -232,18 +244,6 @@
       release_time: 2026.05.03 12:21:55
       title: 做逆向再也不用一遍遍催 AI 了，Codex CLI 藏了个狠活
       url: https://mp.weixin.qq.com/s?__biz=MzYzNzg3MTE4NQ==&mid=2247483756&idx=1&sn=9113fbfed54638bb09bf2940e931e26a
-    - author: 哆啦安全
-      release_time: 2026.05.03 11:48:34
-      title: 藏在内核里的对抗:Android风控检测到底是怎么被绕过的？
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500247&idx=1&sn=e9fa7120308c04097e53905ea9b67e72
-    - author: 进击的HACK
-      release_time: 2026.05.02 22:19:45
-      title: Yakit Ghost Bits Fuzzing 漏洞插件
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490027&idx=1&sn=97902b1064cb26dfa0e7cdf6952c80bd
-    - author: 哆啦安全
-      release_time: 2026.05.02 08:29:09
-      title: Android安全智能检测分析工具V3.4
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500243&idx=1&sn=f0c11abf593f0c314f7ce19dcf0bf9ca
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -454,6 +454,10 @@
       release_time: 2026.04.28 21:38:00
       title: '[开源] Mira: 让 AI 直接操作 Android/iOS 运行时'
       url: https://bbs.kanxue.com/thread-291041.htm
+    - author: Et11an
+      release_time: 2026.04.28 17:52:00
+      title: 从2026数字中国创新大赛数字安全赛道  网络安全 决赛   Bridge题目  入门鸿蒙逆向
+      url: https://xz.aliyun.com/news/92046
     - author: Solar安全
       release_time: 2026.04.28 14:19:56
       title: '[原创]Solar勒索软件威胁态势与防护实践年度报告(2025) 章节二'
@@ -486,10 +490,6 @@
       release_time: 2026.04.24 19:03:36
       title: 看雪无法snsapi_base登录
       url: https://bbs.kanxue.com/thread-290977.htm
-    - author: mb_hguayowb
-      release_time: 2026.04.23 14:03:31
-      title: akamai bmp风控
-      url: https://bbs.kanxue.com/thread-290955.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
