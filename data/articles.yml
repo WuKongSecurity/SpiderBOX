@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.05.07 19:22:03
+      title: 下一代JS补环境新方案-纯浏览器JS引擎和环境抽离运行
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484556&idx=1&sn=d45b7f644d7dd85e5ded1179bf3ce671
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.05.07 18:51:59
+      title: 新规施行：任何商家未经用户同意不得发送商业短信
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520111&idx=1&sn=38dd4eb6103bc2ab5ac0574f57d4ff23
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.05.07 18:51:59
+      title: 美国联邦贸易委员禁止数据经纪公司出售敏感位置数据
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520111&idx=2&sn=c9887d91a4aede7fec9f29fbe07fb164
+    - author: 进击的HACK
+      release_time: 2026.05.07 18:25:27
+      title: SRC资产收集之微信小程序
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490035&idx=1&sn=f5ced56d07d7b38f976dd7e5372a1042
     - author: 布鲁的Python之旅
       release_time: 2026.05.07 15:16:49
       title: 告别“环境地狱”：TaskPyro 项目级虚拟环境，让 Python 任务调度轻装上阵
@@ -228,25 +244,13 @@
       release_time: 2026.05.05 20:48:49
       title: 开源仅 5 天，暴涨 18.2K 标星！超牛的 Claude Design 开源替代品来了！
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991578&idx=1&sn=14c1a9a899ea88b8e966bac996fa7d65
-    - author: 菜鸟学Python编程
-      release_time: 2026.05.05 20:23:16
-      title: 零基础AI反混淆与逆向课程:环境的搭建
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566520&idx=1&sn=b5ee12baf43cb915c4ce190d1c8fb1c9
-    - author: 哆啦安全
-      release_time: 2026.05.05 16:32:24
-      title: Android系统智能调试分析工具V7.8
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500350&idx=1&sn=9326ca201d6d2147362489afa909f2bc
-    - author: 小恰学逆向
-      release_time: 2026.05.05 15:07:24
-      title: 【每日梗图】我chovy，你们塔喵咪拿东西给我拿好的啊
-      url: https://mp.weixin.qq.com/s?__biz=MzkwNTg3MjY3MQ==&mid=2247484950&idx=1&sn=8943800b716e6ea3c05c36ef6f46f8b8
-    - author: 泡泡以安
-      release_time: 2026.05.05 09:21:00
-      title: Frida学习笔记（一）：Frida 入门 · 原理与架构
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486196&idx=1&sn=d419fb06cf3694967717c84018fa09bf
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: grok
+      release_time: 2026.05.07 11:46:00
+      title: QQ音乐技术分析
+      url: https://www.52pojie.cn/thread-2106485-1-1.html
     - author: yxn4065
       release_time: 2026.05.06 16:41:00
       title: 王者营地userId和token抓包获取
@@ -363,10 +367,6 @@
       release_time: 2026.04.21 00:05:00
       title: 新版小红书首页笔记获取及X-s参数解密
       url: https://www.52pojie.cn/thread-2104039-1-1.html
-    - author: 逗逗苍穹
-      release_time: 2026.04.19 22:43:00
-      title: ai补环境(下)
-      url: https://www.52pojie.cn/thread-2103854-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
