@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 布鲁的Python之旅
+      release_time: 2026.05.07 15:16:49
+      title: 告别“环境地狱”：TaskPyro 项目级虚拟环境，让 Python 任务调度轻装上阵
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486384&idx=1&sn=12e98f5ae7c5e151c49b63eecf602779
+    - author: 二进制磨剑
+      release_time: 2026.05.07 14:56:55
+      title: AI 驱动的逆向工程：用 tmux MCP 操控 GDB 与 Frida
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486061&idx=1&sn=c6fd6c831fb87398222d291ce673dbb7
     - author: 吾爱破解论坛
       release_time: 2026.05.07 12:15:53
       title: 心流鼠标手势 FlowMouse v2.0.3 “手势提示” 功能发布
@@ -236,14 +244,6 @@
       release_time: 2026.05.05 09:21:00
       title: Frida学习笔记（一）：Frida 入门 · 原理与架构
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486196&idx=1&sn=d419fb06cf3694967717c84018fa09bf
-    - author: 哆啦安全
-      release_time: 2026.05.04 17:38:37
-      title: Android安全检测逆向分析工具(30+款安全神器)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500326&idx=1&sn=902f9a275263bd5447372a91ce12e117
-    - author: 桐梓坡低手
-      release_time: 2026.05.04 14:35:13
-      title: mt，淘宝闪购商家后台websocket协议，自动回复，实时接收消息，ele商家后台（bxet）
-      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247483847&idx=1&sn=3ab62c0c1e80340be3126d5612b93068
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -255,6 +255,10 @@
       release_time: 2026.05.05 21:32:00
       title: 某U+平台软件，签到全流程抓包分析
       url: https://www.52pojie.cn/thread-2106243-1-1.html
+    - author: '521105'
+      release_time: 2026.05.05 17:04:00
+      title: iv8：Python 原生 V8 运行时，补环境新思路（附瑞数6/zp_stoken 等实战）
+      url: https://www.52pojie.cn/thread-2106217-1-1.html
     - author: Rytter
       release_time: 2026.05.04 23:00:00
       title: 某气骑士 libtprt.so 反 Frida 机制分析与绕过
@@ -363,10 +367,6 @@
       release_time: 2026.04.19 22:43:00
       title: ai补环境(下)
       url: https://www.52pojie.cn/thread-2103854-1-1.html
-    - author: Barih
-      release_time: 2026.04.19 16:43:00
-      title: 通过内存映射定位flutter应用隐藏的libapp .so 路径
-      url: https://www.52pojie.cn/thread-2103807-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
