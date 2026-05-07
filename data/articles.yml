@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 悦来客栈的老板
+      release_time: 2026.05.07 21:03:27
+      title: AI技能|如何生成自己专用的反混淆skills?
+      url: https://blog.csdn.net/qq523176585/article/details/160872502
     - author: weixin_46084750
       release_time: 2026.05.07 17:47:05
       title: iv8，过tdc腾讯滑块
@@ -486,10 +490,6 @@
       release_time: 2026.04.26 17:08:17
       title: '[原创]RiskEngine 开源设备指纹和风险监测SDK'
       url: https://bbs.kanxue.com/thread-290994.htm
-    - author: qqqiu
-      release_time: 2026.04.26 16:42:31
-      title: 纯静态硬啃xx反封号 dylib：OLLVM CFF   MBA 全链路反混淆，还原 167 hook 攻防全图（看着吓人
-      url: https://bbs.kanxue.com/thread-290993.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
