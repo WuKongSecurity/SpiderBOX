@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: witchan
+      release_time: 2026.05.07 17:06:00
+      title: '[原创]【iOS逆向与安全】让 Claude、Codex 控制 iPhone，iOS MCP 来了'
+      url: https://www.52pojie.cn/thread-2106530-1-1.html
     - author: grok
       release_time: 2026.05.07 11:46:00
       title: QQ音乐技术分析
@@ -363,10 +367,6 @@
       release_time: 2026.04.21 19:01:00
       title: 京东搜索接口商品数据获取及h5st参数解析
       url: https://www.52pojie.cn/thread-2104180-1-1.html
-    - author: '13955925361'
-      release_time: 2026.04.21 00:05:00
-      title: 新版小红书首页笔记获取及X-s参数解密
-      url: https://www.52pojie.cn/thread-2104039-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
