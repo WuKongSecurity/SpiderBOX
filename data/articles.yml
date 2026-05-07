@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 蛋蛋yong闯小B站
+      release_time: 2026.05.07 22:33:25
+      title: 实战55——某里V2验证码分析（上）
+      url: https://www.bilibili.com/video/BV1iDdAB3EGV
     - author: 若水0014
       release_time: 2026.05.07 17:39:59
       title: 自制nodejs插件虚拟机环境，封装底层v8的c++层api到js层，js即可实现同c++效果
@@ -117,10 +121,6 @@
       release_time: 2026.04.18 22:29:34
       title: 发包基本流程
       url: https://www.bilibili.com/video/BV1iCdWBiEDR
-    - author: 一只勇敢的小佳
-      release_time: 2026.04.18 18:14:39
-      title: 最强内核模块，最强小工具，最强lsposed
-      url: https://www.bilibili.com/video/BV1ipdpBwEeh
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
