@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2026.05.07 12:15:53
+      title: 心流鼠标手势 FlowMouse v2.0.3 “手势提示” 功能发布
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144278&idx=1&sn=02a173a83a8fe44d1a967302b71b0f1e
+    - author: 哆啦安全
+      release_time: 2026.05.07 12:11:04
+      title: Android安全加固工具(伪密盾)V5.3
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500376&idx=1&sn=66c25d7374e4edce2850bb9d77087175
+    - author: 软件安全与逆向分析
+      release_time: 2026.05.07 11:57:26
+      title: 安卓GKI内核KPM加载器开发踩坑实战
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485150&idx=1&sn=df32ae68864e79a10ce0d43217754e54
     - author: 挖个洞先
       release_time: 2026.05.07 09:38:06
       title: 【漏洞案例】页游websocket协议使用fatbeans改包一键通关
@@ -232,25 +244,25 @@
       release_time: 2026.05.04 14:35:13
       title: mt，淘宝闪购商家后台websocket协议，自动回复，实时接收消息，ele商家后台（bxet）
       url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247483847&idx=1&sn=3ab62c0c1e80340be3126d5612b93068
-    - author: 如意私塾
-      release_time: 2026.05.04 14:12:53
-      title: 如意bidi自动化框架：根据IP一键自动配置指纹浏览器
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484545&idx=1&sn=57d9341cdea538bb8c83db1e444df34f
-    - author: 如意私塾
-      release_time: 2026.05.04 01:08:51
-      title: web爬虫风控日志工具-记录一切浏览器指纹操作，加速JS逆向补环境神器
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484542&idx=1&sn=7a08bdb6ab778fb4cf3e56400b77ca61
-    - author: 安全逆向分析
-      release_time: 2026.05.03 12:21:55
-      title: 做逆向再也不用一遍遍催 AI 了，Codex CLI 藏了个狠活
-      url: https://mp.weixin.qq.com/s?__biz=MzYzNzg3MTE4NQ==&mid=2247483756&idx=1&sn=9113fbfed54638bb09bf2940e931e26a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: yxn4065
+      release_time: 2026.05.06 16:41:00
+      title: 王者营地userId和token抓包获取
+      url: https://www.52pojie.cn/thread-2106378-1-1.html
+    - author: RetiredGuitar64
+      release_time: 2026.05.05 21:32:00
+      title: 某U+平台软件，签到全流程抓包分析
+      url: https://www.52pojie.cn/thread-2106243-1-1.html
     - author: Rytter
       release_time: 2026.05.04 23:00:00
       title: 某气骑士 libtprt.so 反 Frida 机制分析与绕过
       url: https://www.52pojie.cn/thread-2106149-1-1.html
+    - author: '1126385247'
+      release_time: 2026.05.04 21:26:00
+      title: 一款安卓微信密友8063用MT管理器破解教程
+      url: https://www.52pojie.cn/thread-2106137-1-1.html
     - author: '13955925361'
       release_time: 2026.05.04 15:52:00
       title: 智慧酒店登录滑块各部分易错点详析
@@ -355,18 +367,6 @@
       release_time: 2026.04.19 16:43:00
       title: 通过内存映射定位flutter应用隐藏的libapp .so 路径
       url: https://www.52pojie.cn/thread-2103807-1-1.html
-    - author: ngiokweng
-      release_time: 2026.04.18 12:24:00
-      title: Appdome分析
-      url: https://www.52pojie.cn/thread-2103571-1-1.html
-    - author: guxing666
-      release_time: 2026.04.17 01:08:00
-      title: 自动化识别缺口x换算问题
-      url: https://www.52pojie.cn/thread-2103421-1-1.html
-    - author: Tonyha7
-      release_time: 2026.04.16 21:06:00
-      title: 使用jadx-ai-mcp辅助分析某校园pro校园跑
-      url: https://www.52pojie.cn/thread-2103392-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
