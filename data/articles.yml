@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: b站用户ajahhabvw
+      release_time: 2026.05.08 22:38:25
+      title: akamai纯算-1
+      url: https://www.bilibili.com/video/BV1e4d3BfEQw
+    - author: b站用户ajahhabvw
+      release_time: 2026.05.08 22:30:19
+      title: akamai字符串解混淆
+      url: https://www.bilibili.com/video/BV18id3BXEav
     - author: EithanSolace
       release_time: 2026.05.08 08:00:00
       title: 密码学补完计划[第三十三期] BLAKE2b
@@ -113,14 +121,6 @@
       release_time: 2026.04.19 22:28:17
       title: 看源码的本质：从问题到系统建模
       url: https://www.bilibili.com/video/BV1aBdfBoEeD
-    - author: 冷月不是程序员
-      release_time: 2026.04.19 20:17:15
-      title: 最好的Linux发行版竟然是WSL？
-      url: https://www.bilibili.com/video/BV1KhoFBHEPY
-    - author: 逆向狗都不学
-      release_time: 2026.04.19 00:21:29
-      title: Android逆向之学习成果校验-1
-      url: https://www.bilibili.com/video/BV1rYdWBVELD
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -370,6 +370,14 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: n_1ng
+      release_time: 2026.05.08 21:05:38
+      title: '[原创]从0到1构建一个Hook工具之Inline Hook篇（五）'
+      url: https://bbs.kanxue.com/thread-291145.htm
+    - author: 伊苏尔德
+      release_time: 2026.05.08 18:32:40
+      title: '[分享]记录如何追踪native函数动态注册地址'
+      url: https://bbs.kanxue.com/thread-291142.htm
     - author: 论坛垫底成员
       release_time: 2026.05.08 01:11:17
       title: '[分享] 脱壳神器【Layout Inspect】肘爆SystemUI'
@@ -482,14 +490,6 @@
       release_time: 2026.04.29 17:44:51
       title: '[原创]Solar勒索软件威胁态势与防护实践年度报告(2025) -章节二'
       url: https://bbs.kanxue.com/thread-291047.htm
-    - author: 冰履踏青云
-      release_time: 2026.04.29 12:09:49
-      title: mytokencap code 参数逆向分析：一次典型的前端签名还原过程
-      url: https://bingyun.blog.csdn.net/article/details/160620927
-    - author: 冰履踏青云
-      release_time: 2026.04.29 12:01:25
-      title: JZSC 企业列表接口响应解密逆向实战
-      url: https://bingyun.blog.csdn.net/article/details/160482586
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
