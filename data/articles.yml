@@ -247,6 +247,26 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: jiaxin9873
+      release_time: 2026.05.08 17:47:00
+      title: 雷电Android14模拟器安装证书
+      url: https://www.52pojie.cn/thread-2106728-1-1.html
+    - author: zouziao
+      release_time: 2026.05.08 15:14:00
+      title: 某龙酒店网站请求头参数user-dun逆向分析
+      url: https://www.52pojie.cn/thread-2106690-1-1.html
+    - author: gfy1129
+      release_time: 2026.05.08 13:08:00
+      title: 某程token纯算-vmp插桩日志分析
+      url: https://www.52pojie.cn/thread-2106666-1-1.html
+    - author: smshiwadai
+      release_time: 2026.05.08 00:09:00
+      title: 脱壳神器【Layout Inspect】肘爆SystemUI
+      url: https://www.52pojie.cn/thread-2106600-1-1.html
+    - author: Fourseasons
+      release_time: 2026.05.07 17:24:00
+      title: 熊二快跑4.5.0 frida hook
+      url: https://www.52pojie.cn/thread-2106532-1-1.html
     - author: witchan
       release_time: 2026.05.07 17:06:00
       title: '[原创]【iOS逆向与安全】让 Claude、Codex 控制 iPhone，iOS MCP 来了'
@@ -347,26 +367,6 @@
       release_time: 2026.04.23 00:30:00
       title: 抖音详情页数据采集及a_bogus参数逆向分析
       url: https://www.52pojie.cn/thread-2104414-1-1.html
-    - author: fzlte0
-      release_time: 2026.04.22 17:12:00
-      title: 一个浏览器网页翻页过程中url变化的过程分析
-      url: https://www.52pojie.cn/thread-2104354-1-1.html
-    - author: 罗婷
-      release_time: 2026.04.22 02:55:00
-      title: AndroidManifest魔改分析向-记一次对魔改样本的分析和经验分享
-      url: https://www.52pojie.cn/thread-2104220-1-1.html
-    - author: n1ng
-      release_time: 2026.04.21 22:11:00
-      title: 从0到1构建一个Hook工具之PLT Hook篇（四）
-      url: https://www.52pojie.cn/thread-2104206-1-1.html
-    - author: anke1
-      release_time: 2026.04.21 21:31:00
-      title: 两步路户外助手会员分析和新百度加固去除
-      url: https://www.52pojie.cn/thread-2104201-1-1.html
-    - author: '13955925361'
-      release_time: 2026.04.21 19:01:00
-      title: 京东搜索接口商品数据获取及h5st参数解析
-      url: https://www.52pojie.cn/thread-2104180-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
