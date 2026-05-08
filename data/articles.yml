@@ -2,6 +2,10 @@
   list:
   - links:
     - author: b站用户ajahhabvw
+      release_time: 2026.05.08 23:07:29
+      title: akamai vmp纯算-1
+      url: https://www.bilibili.com/video/BV1smd3BLEAJ
+    - author: b站用户ajahhabvw
       release_time: 2026.05.08 22:38:25
       title: akamai纯算-1
       url: https://www.bilibili.com/video/BV1e4d3BfEQw
@@ -117,10 +121,6 @@
       release_time: 2026.04.20 17:55:33
       title: 新一代web自动化只拟人化鼠标行为演示
       url: https://www.bilibili.com/video/BV1sToKBwEAP
-    - author: 人生导师duck
-      release_time: 2026.04.19 22:28:17
-      title: 看源码的本质：从问题到系统建模
-      url: https://www.bilibili.com/video/BV1aBdfBoEeD
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: n1ng
+      release_time: 2026.05.08 21:05:00
+      title: 从0到1构建一个Hook工具之Inline Hook篇（五）
+      url: https://www.52pojie.cn/thread-2106751-1-1.html
     - author: jiaxin9873
       release_time: 2026.05.08 17:47:00
       title: 雷电Android14模拟器安装证书
@@ -363,13 +367,13 @@
       release_time: 2026.04.24 11:56:00
       title: 某些基于RPGMV游戏的礼包码获取
       url: https://www.52pojie.cn/thread-2104638-1-1.html
-    - author: '13955925361'
-      release_time: 2026.04.23 00:30:00
-      title: 抖音详情页数据采集及a_bogus参数逆向分析
-      url: https://www.52pojie.cn/thread-2104414-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: jikjgygjhg
+      release_time: 2026.05.08 23:11:49
+      title: '[原创] ida-agent-bridge，一个纯粹的无头 IDA Cli with Skill'
+      url: https://bbs.kanxue.com/thread-291146.htm
     - author: n_1ng
       release_time: 2026.05.08 21:05:38
       title: '[原创]从0到1构建一个Hook工具之Inline Hook篇（五）'
@@ -486,10 +490,6 @@
       release_time: 2026.04.29 19:50:18
       title: '[原创]把 .so 变成 .ko：一次 ELF 格式的奇妙之旅'
       url: https://bbs.kanxue.com/thread-291050.htm
-    - author: Solar安全
-      release_time: 2026.04.29 17:44:51
-      title: '[原创]Solar勒索软件威胁态势与防护实践年度报告(2025) -章节二'
-      url: https://bbs.kanxue.com/thread-291047.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
