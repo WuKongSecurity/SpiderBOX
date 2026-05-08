@@ -382,10 +382,18 @@
       release_time: 2026.05.07 17:47:05
       title: iv8，过tdc腾讯滑块
       url: https://blog.csdn.net/weixin_46084750/article/details/160864561
+    - author: 冰履踏青云
+      release_time: 2026.05.07 17:18:05
+      title: CNKI 学术翻译 words 参数逆向记录：一场和 AES 的不期而遇
+      url: https://bingyun.blog.csdn.net/article/details/160849627
     - author: XFALLEN
       release_time: 2026.05.07 16:40:37
       title: '[原创]Dlink dir-882 获取串口调试'
       url: https://bbs.kanxue.com/thread-291131.htm
+    - author: 狗都不学爬虫_
+      release_time: 2026.05.07 11:56:26
+      title: JS逆向 -最新版 某里（decode__1174盼之、md5__1803中兔日上、timestamp__1501拙政园、md5__1038雪球）醇酸
+      url: https://blog.csdn.net/qq_53444631/article/details/160852951
     - author: 伊苏尔德
       release_time: 2026.05.06 20:01:29
       title: '[分享]分析libmsaoaidsec.so的frida反调试'
@@ -442,6 +450,14 @@
       release_time: 2026.04.30 16:36:11
       title: '[原创]Android ARM64 内核 Hook 实验框架'
       url: https://bbs.kanxue.com/thread-291062.htm
+    - author: 冰履踏青云
+      release_time: 2026.04.30 16:27:11
+      title: JS逆向之央视新闻详情页x-emas-gw-sign、x-ca-signature以及 response解码
+      url: https://bingyun.blog.csdn.net/article/details/160637913
+    - author: 冰履踏青云
+      release_time: 2026.04.30 15:06:04
+      title: 一次并不“鸟语花香”的接口逆向：我是怎么把 sign和加密请求体扒出来的
+      url: https://bingyun.blog.csdn.net/article/details/160632324
     - author: lingyi223
       release_time: 2026.04.30 12:30:51
       title: '[原创]frida 反调'
@@ -466,30 +482,14 @@
       release_time: 2026.04.29 17:44:51
       title: '[原创]Solar勒索软件威胁态势与防护实践年度报告(2025) -章节二'
       url: https://bbs.kanxue.com/thread-291047.htm
-    - author: vwvw
-      release_time: 2026.04.28 21:38:00
-      title: '[开源] Mira: 让 AI 直接操作 Android/iOS 运行时'
-      url: https://bbs.kanxue.com/thread-291041.htm
-    - author: Et11an
-      release_time: 2026.04.28 17:52:00
-      title: 从2026数字中国创新大赛数字安全赛道  网络安全 决赛   Bridge题目  入门鸿蒙逆向
-      url: https://xz.aliyun.com/news/92046
-    - author: Solar安全
-      release_time: 2026.04.28 14:19:56
-      title: '[原创]Solar勒索软件威胁态势与防护实践年度报告(2025) 章节二'
-      url: https://bbs.kanxue.com/thread-291030.htm
-    - author: MysticEcho
-      release_time: 2026.04.28 09:00:25
-      title: '[原创]时隔多年，公共 Wi-Fi 还安全吗？'
-      url: https://bbs.kanxue.com/thread-291019.htm
-    - author: x1ny
-      release_time: 2026.04.27 23:51:28
-      title: '[原创]面向复现的逆向工程实践：Hermes 在设备刷写、提权与 Frida 魔改中的自动化能力验证'
-      url: https://bbs.kanxue.com/thread-291016.htm
-    - author: 悦来客栈的老板
-      release_time: 2026.04.27 20:35:03
-      title: AST反混淆插件|仅更改一次的赋值语句还原
-      url: https://blog.csdn.net/qq523176585/article/details/160573393
+    - author: 冰履踏青云
+      release_time: 2026.04.29 12:09:49
+      title: mytokencap code 参数逆向分析：一次典型的前端签名还原过程
+      url: https://bingyun.blog.csdn.net/article/details/160620927
+    - author: 冰履踏青云
+      release_time: 2026.04.29 12:01:25
+      title: JZSC 企业列表接口响应解密逆向实战
+      url: https://bingyun.blog.csdn.net/article/details/160482586
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
