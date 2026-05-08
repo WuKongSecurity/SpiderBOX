@@ -347,6 +347,10 @@
           logo: github.png
           url: https://github.com/wanghongenpin/proxypin
           description: 开源免费抓包工具，支持 Windows、Mac、Android、IOS、Linux 全平台系统，您可以使用它来拦截、检查和重写 HTTP(S) 流量，支持 Flutter 应用抓包，ProxyPin 基于 Flutter 开发，UI 美观易用
+        - title: Anything Analyzer
+          logo: github.png
+          url: https://github.com/Mouseww/anything-analyzer
+          description: 全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE
         - title: r0capture
           logo: github.png
           url: https://github.com/r0ysue/r0capture
@@ -1682,6 +1686,10 @@
           logo: github.png
           url: https://github.com/yilongmd/zafrida-ui
           description: ZAFrida UI 是一款集成在 PyCharm 和 JetBrains 系列 IDE 中的 Frida 图形化操作插件。它旨在解决 Frida 命令行操作繁琐、脚本管理混乱的问题，提供了一套完整的 UI 交互界面 来管理设备、进程、脚本和日志
+        - title: EasyHook
+          logo: github.png
+          url: https://github.com/RytterMohn/EasyHook
+          description: EasyHook 是一个运行在 Windows 桌面端的 Android Frida 脚本 IDE，支持脚本管理、代码编辑、Android 设备 连接、进程选择、Attach/Spawn 注入、运行控制和日志输出，让 Frida 脚本无需手写 Python 启动器即可快速执行
         - title: QBDI
           logo: qbdi.jpg
           url: https://github.com/QBDI/QBDI
@@ -1753,6 +1761,10 @@
           logo: github.png
           url: https://github.com/P4nda0s/kpm-panda-hide
           description: KernelPatch KPM 模块，用于隐藏调试器和反调试检测
+        - title: UsbDetectionBypass
+          logo: github.png
+          url: https://github.com/RytterMohn/UsbDetectionBypass
+          description: 隐藏 Android 应用内 USB 连接与 USB 调试检测信号的 LSPosed/Xposed 模块
 
     - name: Trace 工具
       links:
@@ -2068,6 +2080,10 @@
           logo: github.png
           url: https://github.com/barry-ran/QtScrcpy
           description: QtScrcpy 可以通过 USB / 网络连接 Android 设备，并进行显示和控制。无需 root 权限，同时支持 GNU/Linux ，Windows 和 MacOS 三大主流桌面平台
+        - title: EnvScope
+          logo: github.png
+          url: https://github.com/RytterMohn/EnvScope
+          description: EnvScope 是一个用于 Android 运行环境自检的 APK，重点探测 Frida、Xposed、LSPosed、EdXposed、Substrate、Riru、Zygisk/Magisk 等动态插桩、Hook 或模块化注入痕迹。 项目同时实现 Kotlin 层与 Native C++ 层检测。Kotlin 层负责包名、类加载、调用栈、环境变量、系统属性、端口、进程、挂载表等检查；Native 层负责已加载 so、导出符号、`/proc`、线程名、socket 和 `TracerPid` 的交叉检查
         - title: Launch
           logo: github.png
           url: https://github.com/1193776794/launch_
@@ -4356,6 +4372,18 @@
           logo: gh_505a006b5215.jpg
           qrcode: images/qrcode/gh_505a006b5215.jpg
           description: 公众号：苏子寻月
+        - title: 江湖人称道哥
+          logo: gh_9b1918ec9329.jpg
+          qrcode: images/qrcode/gh_9b1918ec9329.jpg
+          description: 公众号：江湖人称道哥
+        - title: wangyu223
+          logo: gh_34f6ebf8d6da.jpg
+          qrcode: images/qrcode/gh_34f6ebf8d6da.jpg
+          description: 公众号：wangyu223
+        - title: 安全逆向分析
+          logo: gh_7a400ffb698c.jpg
+          qrcode: images/qrcode/gh_7a400ffb698c.jpg
+          description: 公众号：安全逆向分析
 #        - title: K哥爬虫
 #          logo: kgepachong.jpg
 #          logo: gh_86aab598880e.jpg
@@ -5690,6 +5718,10 @@
           url: https://github.com/NoOne-hub/JSReverser-MCP
           logo: github.png
           description: JSReverser-MCP 是一个面向 JavaScript 逆向分析的 MCP 工具，专门用于帮助开发者在真实浏览器环境中高效定位前端核心逻辑。它将脚本检索、断点调试、函数 Hook、网络请求追踪、调用链分析、混淆还原和风险评估整合为统一能力，可直接接入 Claude、 Codex、Cursor 等支持 MCP 的客户端。你可以连接已开启的 Chrome，在登录态页面下持续采样请求参数与返回数据，快速定位签名、 加密、鉴权和关键业务流程。工具同时支持自动化页面操作与结构化报告导出，适合用于接口分析、安全研究、前端调试与工程排障等场景
+        - title: JSReverser-Strong-MCP
+          url: https://github.com/lwjjike/JSReverser-Strong-MCP
+          logo: github.png
+          description: 基于 JSReverser-MCP 进行功能增强
         - title: js-reverse-evolver
           url: https://github.com/JiangtaoQu/js-reverse-evolver
           logo: github.png
@@ -6295,7 +6327,14 @@
           url: https://morisot.ai/
           logo: morisot.png
           description: 无提示词 AI 绘画，输入粗略想法即可生成多样图片
-
+        - title: Image2
+          url: https://image2-ai.com/
+          logo: image2-ai.png
+          description: GPT Image2 AI 图片生成器与编辑器，一站式 AI 图片与视频生成创作平台
+        - title: Animatex
+          url: https://animatex.io/
+          logo: animatex.png
+          description: 一站式动漫创作人工智能平台
     #        - title: MakeLogoAI
     #          url: https://makelogo.ai/
     #          logo: makelogo.png

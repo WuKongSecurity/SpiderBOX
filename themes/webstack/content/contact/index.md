@@ -127,6 +127,18 @@ monitor:
         - label: 备注
           key: note
       items:
+        - id: gh_7a400ffb698c
+          name: 安全逆向分析
+          date: 2026.04.29
+          note:
+        - id: gh_34f6ebf8d6da
+          name: wangyu223
+          date: 2026.04.29
+          note:
+        - id: gh_9b1918ec9329
+          name: 江湖人称道哥
+          date: 2026.04.29
+          note:
         - id: gh_505a006b5215
           name: 苏子寻月
           date: 2026.04.24
