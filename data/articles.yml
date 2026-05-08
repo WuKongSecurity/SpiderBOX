@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: EithanSolace
+      release_time: 2026.05.08 08:00:00
+      title: 密码学补完计划[第三十三期] BLAKE2b
+      url: https://www.bilibili.com/video/BV1BMdNBmEsx
     - author: 蛋蛋yong闯小B站
       release_time: 2026.05.07 22:33:25
       title: 实战55——某里V2验证码分析（上）
@@ -117,13 +121,37 @@
       release_time: 2026.04.19 00:21:29
       title: Android逆向之学习成果校验-1
       url: https://www.bilibili.com/video/BV1rYdWBVELD
-    - author: 逆向研究生
-      release_time: 2026.04.18 22:29:34
-      title: 发包基本流程
-      url: https://www.bilibili.com/video/BV1iCdWBiEDR
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 软件安全与逆向分析
+      release_time: 2026.05.08 09:48:07
+      title: 最近是怎么了？又一款通杀全线Linux发行版的0Day漏洞
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485155&idx=1&sn=297226eb7a1334739226f0ac851e1e65
+    - author: Spade sec
+      release_time: 2026.05.08 09:35:11
+      title: 漏洞预警 - Linux内核「Dirty Frag」0day
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486967&idx=1&sn=e0336c4b843355ac2aa0398ca06e1801
+    - author: 逆向OneByOne
+      release_time: 2026.05.08 09:28:38
+      title: LLM 如何"读懂"网页？七大框架的页面结构表示方案拆解
+      url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494234&idx=1&sn=e155705b33cf6517f917d0b2decaf65a
+    - author: Coder小Q
+      release_time: 2026.05.08 08:30:00
+      title: 【量子计算】Shor 因数分解算法：把分解变成找周期
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495564&idx=1&sn=687fba11f6c56ed8c8b29da15d8eaaa2
+    - author: 哆啦安全
+      release_time: 2026.05.08 07:30:00
+      title: Cursor AI编程小技巧
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500393&idx=1&sn=e240dd36f9fcda27c67d205e320c283a
+    - author: 小恰学逆向
+      release_time: 2026.05.08 00:31:55
+      title: 【名人趣事-马克·吐温】借书
+      url: https://mp.weixin.qq.com/s?__biz=MzkwNTg3MjY3MQ==&mid=2247484963&idx=1&sn=05f774158fd810843fce635d384eeffc
+    - author: 菜鸟学Python编程
+      release_time: 2026.05.07 21:03:03
+      title: AI技能|如何生成自己专用的反混淆skills?
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566528&idx=1&sn=d98fc49a87b503af5b3c7e681673143b
     - author: 如意私塾
       release_time: 2026.05.07 19:22:03
       title: 下一代JS补环境新方案-纯浏览器JS引擎和环境抽离运行
@@ -216,34 +244,6 @@
       release_time: 2026.05.06 13:57:38
       title: unidbg简单补环境运行某书 tiny 859
       url: https://mp.weixin.qq.com/s?__biz=MzYyNTY2NDgyNA==&mid=2247483810&idx=1&sn=6337e5c2a82259c0933627ad4673cbb5
-    - author: 奋飞安全
-      release_time: 2026.05.06 12:40:38
-      title: CTF聊到一半，Codex突然不吭声了？这个 patcher 有点东西
-      url: https://mp.weixin.qq.com/s?__biz=MzI4NzMwNDI3OQ==&mid=2247485088&idx=1&sn=5e1fdd295179a5782309c163e26a25ba
-    - author: 流星Studio
-      release_time: 2026.05.06 11:25:01
-      title: 绕过 AI 安全护栏分析验证码 JS：一份提示词工程实战指南(实战GPT5.5的绕过)
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjUxNTgyMg==&mid=2247484184&idx=1&sn=cb6ab0ffdab38625cb7af9d2b708964a
-    - author: 软件安全与逆向分析
-      release_time: 2026.05.06 10:32:05
-      title: APatch最新版检测与过检测原理分析
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485145&idx=1&sn=13462901ea5113f701abe7c6333a3cdf
-    - author: 猿人学Python
-      release_time: 2026.05.06 09:30:13
-      title: 抢疫苗被关看守所4个月——爬虫er100人
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550215&idx=1&sn=babf7e638d6a95410360458341321d51
-    - author: 泡泡以安
-      release_time: 2026.05.06 09:21:00
-      title: Frida学习笔记（二）：环境搭建一条龙
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486205&idx=1&sn=11b7198eb5236e21b1b147a90e47a31a
-    - author: Coder小Q
-      release_time: 2026.05.06 08:30:00
-      title: 【量子计算】Grover 搜索算法：从随机命中到幅度放大
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495523&idx=1&sn=766f1b1906295ed1437fde8c3d85af62
-    - author: 未闻Code
-      release_time: 2026.05.05 20:48:49
-      title: 开源仅 5 天，暴涨 18.2K 标星！超牛的 Claude Design 开源替代品来了！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991578&idx=1&sn=14c1a9a899ea88b8e966bac996fa7d65
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 论坛垫底成员
+      release_time: 2026.05.08 01:11:17
+      title: '[分享] 脱壳神器【Layout Inspect】肘爆SystemUI'
+      url: https://bbs.kanxue.com/thread-291134.htm
     - author: 悦来客栈的老板
       release_time: 2026.05.07 21:03:27
       title: AI技能|如何生成自己专用的反混淆skills?
@@ -486,10 +490,6 @@
       release_time: 2026.04.27 20:35:03
       title: AST反混淆插件|仅更改一次的赋值语句还原
       url: https://blog.csdn.net/qq523176585/article/details/160573393
-    - author: 江左梅郎
-      release_time: 2026.04.26 17:08:17
-      title: '[原创]RiskEngine 开源设备指纹和风险监测SDK'
-      url: https://bbs.kanxue.com/thread-290994.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
