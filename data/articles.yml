@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2026.05.09 18:05:58
+      title: 【虫神插件v1.1】-AI驱动的人工智能爬虫插件，从此用自然语言写爬虫代码！！
+      url: https://www.bilibili.com/video/BV1fyR9BWEvb
     - author: b站用户ajahhabvw
       release_time: 2026.05.08 23:07:29
       title: akamai vmp纯算-1
@@ -117,10 +121,6 @@
       release_time: 2026.04.21 18:47:35
       title: firefox指纹内核之HTTP密码代理改造支持
       url: https://www.bilibili.com/video/BV1s5dSBnEPa
-    - author: 如意-浏览器开发培训
-      release_time: 2026.04.20 17:55:33
-      title: 新一代web自动化只拟人化鼠标行为演示
-      url: https://www.bilibili.com/video/BV1sToKBwEAP
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
