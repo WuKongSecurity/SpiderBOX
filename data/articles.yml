@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Mengz3
+      release_time: 2026.05.09 21:20:01
+      title: '[原创]某政务APP登录链路逆向：datagram 参数与 signature 签名分析'
+      url: https://bbs.kanxue.com/thread-291164.htm
     - author: 秋落
       release_time: 2026.05.09 16:51:31
       title: 我们绕过了 GarudaDefender 整套 Frida 检测,但这已经不是重点了
@@ -486,10 +490,6 @@
       release_time: 2026.04.30 15:06:04
       title: 一次并不“鸟语花香”的接口逆向：我是怎么把 sign和加密请求体扒出来的
       url: https://bingyun.blog.csdn.net/article/details/160632324
-    - author: lingyi223
-      release_time: 2026.04.30 12:30:51
-      title: '[原创]frida 反调'
-      url: https://bbs.kanxue.com/thread-291058.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
