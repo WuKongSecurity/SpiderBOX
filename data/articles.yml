@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2026.05.10 18:59:26
+      title: “我锐评一下你的问题”
+      url: https://www.bilibili.com/video/BV1vY576yEF4
+    - author: 冷月不是程序员
+      release_time: 2026.05.10 18:46:36
+      title: 5分钟带你了解Linux常见目录的作用
+      url: https://www.bilibili.com/video/BV13B5763EGC
     - author: B站用户骚神
       release_time: 2026.05.09 18:05:58
       title: 【虫神插件v1.1】-AI驱动的人工智能爬虫插件，从此用自然语言写爬虫代码！！
@@ -113,14 +121,6 @@
       release_time: 2026.04.23 14:13:26
       title: 【骚神插件9.8】重大更新，新增人工智能元素定位！！！
       url: https://www.bilibili.com/video/BV18zohBjE7W
-    - author: 和沐阳学逆向与Ai
-      release_time: 2026.04.22 20:49:02
-      title: 81.iOS逆向一条指令让AI自动逆向生成frida代码:手把手教你写instagram抓包的SKILL
-      url: https://www.bilibili.com/video/BV1pmo4BsEcu
-    - author: 如意-浏览器开发培训
-      release_time: 2026.04.21 18:47:35
-      title: firefox指纹内核之HTTP密码代理改造支持
-      url: https://www.bilibili.com/video/BV1s5dSBnEPa
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
