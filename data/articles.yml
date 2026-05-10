@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: secflag
+      release_time: 2026.05.10 23:06:45
+      title: Pixel 3 Kernel 4.9 编译集成 ReSukiSU 指南
+      url: https://bbs.kanxue.com/thread-291172.htm
     - author: console_
       release_time: 2026.05.10 20:04:21
       title: '[原创]某视频APP七神签名之X-Gorgon生成逻辑逆向分析——古法逆向与AI辅助结合'
@@ -486,10 +490,6 @@
       release_time: 2026.05.01 16:16:58
       title: '[原创]新版某企业壳加固自定义linker与frida检测分析'
       url: https://bbs.kanxue.com/thread-291074.htm
-    - author: 乐子人
-      release_time: 2026.04.30 23:23:56
-      title: '[原创] 某企业壳逆向分析——从过检测到dex代码抽取还原'
-      url: https://bbs.kanxue.com/thread-291069.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
