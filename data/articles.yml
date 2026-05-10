@@ -370,6 +370,14 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Zedbully
+      release_time: 2026.05.10 16:10:54
+      title: '[原创]安卓设备指纹的正确使用方式(Leona)'
+      url: https://bbs.kanxue.com/thread-291169.htm
+    - author: Zedbully
+      release_time: 2026.05.10 16:07:54
+      title: '[原创]别把“放行/拦截”写进 APK：移动端对抗安全的正确边界'
+      url: https://bbs.kanxue.com/thread-291168.htm
     - author: Mengz3
       release_time: 2026.05.09 21:20:01
       title: '[原创]某政务APP登录链路逆向：datagram 参数与 signature 签名分析'
@@ -482,14 +490,6 @@
       release_time: 2026.04.30 16:36:11
       title: '[原创]Android ARM64 内核 Hook 实验框架'
       url: https://bbs.kanxue.com/thread-291062.htm
-    - author: 冰履踏青云
-      release_time: 2026.04.30 16:27:11
-      title: JS逆向之央视新闻详情页x-emas-gw-sign、x-ca-signature以及 response解码
-      url: https://bingyun.blog.csdn.net/article/details/160637913
-    - author: 冰履踏青云
-      release_time: 2026.04.30 15:06:04
-      title: 一次并不“鸟语花香”的接口逆向：我是怎么把 sign和加密请求体扒出来的
-      url: https://bingyun.blog.csdn.net/article/details/160632324
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
