@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 一只勇敢的小佳
+      release_time: 2026.05.10 21:55:28
+      title: nbyun，codexpro号池中转来了！！
+      url: https://www.bilibili.com/video/BV1RL5n6XE7S
     - author: r0ysue
       release_time: 2026.05.10 18:59:26
       title: “我锐评一下你的问题”
@@ -117,10 +121,6 @@
       release_time: 2026.04.25 13:03:32
       title: ollvm的一键通杀，技术在改变世界，学不会你来砍我
       url: https://www.bilibili.com/video/BV1XDoDBzE4D
-    - author: B站用户骚神
-      release_time: 2026.04.23 14:13:26
-      title: 【骚神插件9.8】重大更新，新增人工智能元素定位！！！
-      url: https://www.bilibili.com/video/BV18zohBjE7W
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
