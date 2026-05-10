@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: mb_cfjwplfo
+      release_time: 2026.05.11 00:53:55
+      title: '[原创]时代重大变化，用户态root被封杀'
+      url: https://bbs.kanxue.com/thread-291174.htm
     - author: secflag
       release_time: 2026.05.10 23:06:45
       title: Pixel 3 Kernel 4.9 编译集成 ReSukiSU 指南
@@ -486,10 +490,6 @@
       release_time: 2026.05.01 21:23:26
       title: '[原创]从 Frida 到 unidbg：某蜂窝 zzz 参数逆向分析'
       url: https://bbs.kanxue.com/thread-291078.htm
-    - author: 乐子人
-      release_time: 2026.05.01 16:16:58
-      title: '[原创]新版某企业壳加固自定义linker与frida检测分析'
-      url: https://bbs.kanxue.com/thread-291074.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
