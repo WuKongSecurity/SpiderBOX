@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 逆向研究生
+      release_time: 2026.05.11 18:32:01
+      title: 混淆JS逆向实战
+      url: https://www.bilibili.com/video/BV1MZ5x68ECV
     - author: 猿人学
       release_time: 2026.05.11 12:41:29
       title: 猿人学 安卓 AI逆向试听课
@@ -117,13 +121,21 @@
       release_time: 2026.04.28 10:47:41
       title: AI + 自动化 过234滑块验证
       url: https://www.bilibili.com/video/BV1qY9zBrEnz
-    - author: 和沐阳学逆向与Ai
-      release_time: 2026.04.28 10:44:30
-      title: 83.手把手教你刷 APatch：内核级 Root 从零开始
-      url: https://www.bilibili.com/video/BV1oY9zBrE7H
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.05.11 19:03:38
+      title: 常见 Java 反序列化利用工具
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490045&idx=1&sn=cfa90d6dee4082609bcb180f9d9cb62e
+    - author: 如意私塾
+      release_time: 2026.05.11 17:24:28
+      title: 有一批“透明代理”会悄悄改你的HTTP请求——全球实测抓到3.2万个
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484591&idx=1&sn=ee215b840d4e2a9087fc990635e207ec
+    - author: 沐阳逆向与AI学习
+      release_time: 2026.05.11 17:21:02
+      title: 白嫖 Claude Opus 4.7？Kiro Pro 新用户试用教程
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484623&idx=1&sn=535261f718ad5bf13267661df6b1e201
     - author: 如意私塾
       release_time: 2026.05.11 15:30:54
       title: 你发出去的一次DNS查询、HTTP Host或者TLS SNI，都会在链路上被人记住
@@ -200,6 +212,10 @@
       release_time: 2026.05.09 08:32:40
       title: 【量子计算】量子密钥分发：BB84 协议
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495602&idx=1&sn=fe80f29b550bec9bd6d2616e52228a44
+    - author: 进击的HACK
+      release_time: 2026.05.08 20:31:48
+      title: 通过 Yakit 来管理自己的 Fuzzing 字典
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490039&idx=1&sn=94dab78fd72223c908855d115d3d56da
     - author: 二进制磨剑
       release_time: 2026.05.08 18:24:22
       title: 李宏毅 Harness Engineering 讲座笔记
@@ -228,25 +244,17 @@
       release_time: 2026.05.08 07:30:00
       title: Cursor AI编程小技巧
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500393&idx=1&sn=e240dd36f9fcda27c67d205e320c283a
-    - author: 小恰学逆向
-      release_time: 2026.05.08 00:31:55
-      title: 【名人趣事-马克·吐温】借书
-      url: https://mp.weixin.qq.com/s?__biz=MzkwNTg3MjY3MQ==&mid=2247484963&idx=1&sn=05f774158fd810843fce635d384eeffc
-    - author: 菜鸟学Python编程
-      release_time: 2026.05.07 21:03:03
-      title: AI技能|如何生成自己专用的反混淆skills?
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566528&idx=1&sn=d98fc49a87b503af5b3c7e681673143b
-    - author: 如意私塾
-      release_time: 2026.05.07 19:22:03
-      title: 下一代JS补环境新方案-纯浏览器JS引擎和环境抽离运行
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484556&idx=1&sn=d45b7f644d7dd85e5ded1179bf3ce671
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.05.07 18:51:59
-      title: 新规施行：任何商家未经用户同意不得发送商业短信
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520111&idx=1&sn=38dd4eb6103bc2ab5ac0574f57d4ff23
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: scz
+      release_time: 2026.05.11 17:11:00
+      title: 针对wasm反CFF的尝试
+      url: https://www.52pojie.cn/thread-2107193-1-1.html
+    - author: f20171110
+      release_time: 2026.05.11 11:17:00
+      title: Web逆向 JS逆向 基础知识 ：Ignition解释器下二
+      url: https://www.52pojie.cn/thread-2107113-1-1.html
     - author: n1ng
       release_time: 2026.05.08 21:05:00
       title: 从0到1构建一个Hook工具之Inline Hook篇（五）
@@ -359,14 +367,6 @@
       release_time: 2026.04.25 16:20:00
       title: 某box APP逆向分析（启动检测绕过+广告绕过）
       url: https://www.52pojie.cn/thread-2104806-1-1.html
-    - author: '743567274'
-      release_time: 2026.04.24 22:21:00
-      title: 猿人学验证码 - 图文点选题目分析
-      url: https://www.52pojie.cn/thread-2104726-1-1.html
-    - author: misakibb
-      release_time: 2026.04.24 11:56:00
-      title: 某些基于RPGMV游戏的礼包码获取
-      url: https://www.52pojie.cn/thread-2104638-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
