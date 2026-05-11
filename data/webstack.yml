@@ -913,6 +913,10 @@
           logo: github.png
           url: https://github.com/daisixuan/Geetest-AST-
           description: 一键反混淆所有版本的极验混淆 JS
+        - title: wasm2go
+          logo: github.png
+          url: https://github.com/ncruces/wasm2go
+          description: 一个 Wasm 到 Go 的翻译器
         - title: whamm
           logo: whamm.png
           url: https://github.com/ejrgilbert/whamm
@@ -1297,7 +1301,15 @@
         - title: Lightpanda Browser
           logo: lightpanda-io.browser.png
           url: https://lightpanda.io/
-          description: Lightpanda 浏览器，专为 AI agents 和自动化从头构建的无头浏览器，非 Chromium 分子，非 WebKit 补丁，而是一个用 Zig 编写的新浏览器
+          description: Lightpanda 浏览器，专为 AI agents 和自动化从头构建的无头浏览器，非 Chromium 分支，非 WebKit 补丁，而是一个用 Zig 编写的新浏览器
+        - title: CloakBrowser
+          logo: CloakBrowser.png
+          url: https://github.com/CloakHQ/CloakBrowser
+          description: 即插即用的 Playwright/Puppeteer 替代品，适用于 Python 和 JavaScript。相同的 API，相同的代码。3 行代码，30 秒解除封锁，不是打补丁的配置。不是 JS 注入。一个真正的 Chromium 二进制文件，在 C++ 源级别修改了指纹
+        - title: firefox-fingerprintBrowser
+          logo: github.png
+          url: https://github.com/LoseNine/firefox-fingerprintBrowser
+          description: 基于 firefox 开发的免费指纹浏览器，专门针对 creepjs 网站做了过检测
         - title: Chromium_FingerPrint_Tutorial
           logo: github.png
           url: https://github.com/LoseNine/Chromium_FingerPrint_Tutorial
@@ -5661,6 +5673,7 @@
     - term: Skills (网页端)
     - term: Skills (移动端)
     - term: Skills (网安)
+    - term: Harness
     - term: CLI
     - term: 综合分类
   tabs:
@@ -5887,6 +5900,10 @@
           url: https://github.com/SimoneAvogadro/android-reverse-engineering-skill
           logo: github.png
           description: Claude Code Skill，可以反编译 Android APK/XAPK/JAR/AAR 文件，并提取应用程序使用的 HTTP API —— Retrofit 接口、OkHttp 调用、硬编码的 URL、认证模式，方便在没有原始源代码的情况下分析它们
+        - title: android-sec-skills
+          url: https://github.com/geekbyter/android-sec-skills
+          logo: github.png
+          description: 用于授权的第一方安卓应用安全审计和加固，APK/原生逆向工程，JADX/IDA/Binary Ninja MCP 分析，字符串去混淆，adb 运行时证据收集，以及将可靠的 root，Zygisk，TrickyStore，Frida，Hook，attestation 和设备完整性检测适配到安卓应用中，具有低误报率并带有中文注释
         - title: reverse-skills
           url: https://github.com/P4nda0s/reverse-skills
           logo: github.png
@@ -5982,6 +5999,13 @@
           url: https://github.com/DragonJAR/Android-Pentesting-Skill
           logo: github.png
           description: 适用于 AI 代理的全面 Android APK 安全审计技能。执行静态分析、动态插桩、源到 sink 的跟踪，并生成 CVSS 4.0 报告
+
+    - name: Harness
+      links:
+        - title: AlgoKiller
+          url: https://github.com/lidongyooo/AlgoKiller
+          logo: github.png
+          description: 面向 ARM64 执行 trace 的算法还原 harness。给定一段 GB 级 trace 日志和一个目标（密文、字段、调用链……），驱动 LLM 通过受约束的工具调用自主搜索证据、追踪数据流、还原算法，最终交付可执行 Python 代码或结构化分析报告
 
     - name: CLI
       links:
