@@ -1,6 +1,22 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 猿人学
+      release_time: 2026.05.11 12:41:29
+      title: 猿人学 安卓 AI逆向试听课
+      url: https://www.bilibili.com/video/BV12r5s6HEEe
+    - author: 猿人学
+      release_time: 2026.05.11 12:38:53
+      title: 猿人学试听课-python框架-AI自动修复数据采集
+      url: https://www.bilibili.com/video/BV1Kr5s6pEui
+    - author: 猿人学
+      release_time: 2026.05.11 12:35:46
+      title: 猿人学 JS AI逆向试听课
+      url: https://www.bilibili.com/video/BV11k5s6DEM8
+    - author: 猿人学
+      release_time: 2026.05.11 12:33:04
+      title: 猿人学 iOS AI逆向试听课
+      url: https://www.bilibili.com/video/BV1cD5s6jEm7
     - author: tomysky0409
       release_time: 2026.05.11 11:15:20
       title: 验证码技巧分享-用ai来辅助验证码的训练识别
@@ -105,25 +121,17 @@
       release_time: 2026.04.28 10:44:30
       title: 83.手把手教你刷 APatch：内核级 Root 从零开始
       url: https://www.bilibili.com/video/BV1oY9zBrE7H
-    - author: 和沐阳学逆向与Ai
-      release_time: 2026.04.27 14:36:26
-      title: 82.Pixel刷机配置magisk_frida_lsposed教程安卓逆向环境搭建
-      url: https://www.bilibili.com/video/BV1VhokBHELh
-    - author: 一只勇敢的小佳
-      release_time: 2026.04.27 05:25:23
-      title: 检测总览，基本涵盖全部的一个检测的思路和思考，全是干货，建议点赞收藏！！！
-      url: https://www.bilibili.com/video/BV1WEovBjEVh
-    - author: 小肩膀-逆向安全培训
-      release_time: 2026.04.27 00:50:07
-      title: 13.skill的配置
-      url: https://www.bilibili.com/video/BV1jBoqB3EhH
-    - author: x1a0f3n9
-      release_time: 2026.04.26 19:47:41
-      title: 发个福利活动玩玩
-      url: https://www.bilibili.com/video/BV1rbZFB1EiR
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.05.11 15:30:54
+      title: 你发出去的一次DNS查询、HTTP Host或者TLS SNI，都会在链路上被人记住
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484584&idx=1&sn=14ae7a60a15710565a70898411460c71
+    - author: 软件安全与逆向分析
+      release_time: 2026.05.11 14:55:34
+      title: 有意思，许你Root了吗，哈哈
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485199&idx=1&sn=d9c63ad33a29c7bfed7441a79666aeb1
     - author: 泡泡以安
       release_time: 2026.05.11 09:09:00
       title: Frida学习笔记（五）：Java 层 API 全解
@@ -180,6 +188,10 @@
       release_time: 2026.05.09 15:34:51
       title: Frida学习笔记（四）：Hook 进阶 · 构造、内部类、字段、对象搜索
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486223&idx=1&sn=f9540f8306c3e434eaebb73185d05726
+    - author: 软件安全与逆向分析
+      release_time: 2026.05.09 12:12:46
+      title: iOS虚拟手机可以玩窗口化融合的越狱插件
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485193&idx=1&sn=5b53423ee611f250baca7a2181283108
     - author: 哆啦安全
       release_time: 2026.05.09 08:59:19
       title: App涉诈取证溯源分析V1.5
@@ -232,18 +244,6 @@
       release_time: 2026.05.07 18:51:59
       title: 新规施行：任何商家未经用户同意不得发送商业短信
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520111&idx=1&sn=38dd4eb6103bc2ab5ac0574f57d4ff23
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.05.07 18:51:59
-      title: 美国联邦贸易委员禁止数据经纪公司出售敏感位置数据
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520111&idx=2&sn=c9887d91a4aede7fec9f29fbe07fb164
-    - author: 进击的HACK
-      release_time: 2026.05.07 18:25:27
-      title: SRC资产收集之微信小程序
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490035&idx=1&sn=f5ced56d07d7b38f976dd7e5372a1042
-    - author: 布鲁的Python之旅
-      release_time: 2026.05.07 15:16:49
-      title: 告别“环境地狱”：TaskPyro 项目级虚拟环境，让 Python 任务调度轻装上阵
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486384&idx=1&sn=12e98f5ae7c5e151c49b63eecf602779
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
