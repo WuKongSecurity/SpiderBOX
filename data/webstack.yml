@@ -5695,6 +5695,10 @@
           url: https://github.com/angiejones/mcp-selenium
           logo: github.png
           description: Selenium WebDriver 的 MCP 实现，为 AI agent 提供浏览器自动化
+        - title: CDP Bridge MCP
+          url: https://github.com/Unagi-cq/cdp-bridge-mcp
+          logo: github.png
+          description: CDP Bridge MCP 是一个连接 MCP 客户端与真实浏览器会话的桥接服务。它通过配套的 Chromium 扩展接入浏览器页面，让大模型客户端可以读取标签页、扫描页面、执行 JavaScript、截图、导航和读取 Cookie
         - title: wxhzhwxhzh/DrissionPage MCP
           url: https://github.com/wxhzhwxhzh/DrissionPageMCP
           logo: github.png
