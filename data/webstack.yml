@@ -3034,8 +3034,8 @@
   list:
     - term: 国内代理商
     - term: 全球代理商
-    - term: 数据/工具供应商
     - term: 代理检测
+    - term: 数据/工具供应商
   tabs:
     - name: 国内代理商
       links:
@@ -3425,6 +3425,13 @@
           url: https://shopsocks5.com/register.html?invite_code=GLT80PV5
           description: Shopsocks5.com - Service Socks5 Residential - Static Datacenter Proxies - Cloud VPS
 
+        # 3%～5% ==============================
+        - title: Proxy001
+          logo: proxy001.png
+          no_referral: true
+          url: https://proxy001.com/index/index/promotion&u=110WmOC411
+          description: 100M+ residential IPs in 200+ locations. 99.9% uptime, <0.3s speed. From $0.55/GB. SOCKS5/HTTP(S) supported. Start with Proxy001 today
+
         # 2% ==================================
         - title: nstproxy
           logo: nstproxy.jpg
@@ -3555,6 +3562,58 @@
 #          url: https://www.cherryproxy.com/?utm-source=zbw&utm-keyword=?spiderbox
 #          description: Cherry Proxy 提供高品质的住宅代理服务器、动态/静态 IP 地址，既适用于商业用途也适合家庭使用，并支持多种业务场景。它覆盖全球 195 多个国家和地区，确保极高的匿名性和安全性。量大价格越便宜
 
+    - name: 代理检测
+      links:
+        - title: 埃文科技
+          logo: ipplus360.jpg
+          url: https://www.ipplus360.com/
+          description: AI驱动的数据产品服务商，产品体系包括 IP 风险画像、IP 真假人、业务风控反欺诈等
+        - title: IP 数据云
+          logo: ipdatacloud.png
+          no_referral: true
+          url: https://www.ipdatacloud.com/?invitation_code=uFlqc3ayYTk4t6hxHPJto6b0hKbhiJlC
+          description: 提供风险防控解决方案，针对各种场景下的代理、爬虫、真人率、秒拨等行为，利用领先的大数据算法，精准识别风险行为，提升平台安全风控能力，减少业务损失
+        - title: 百度智能风控 IP 风险画像
+          logo: cloud.baidu.png
+          url: https://cloud.baidu.com/product-s/afd_s/ip-threat.html
+          description: 百度智能风控 IP 风险画像，助力您构建企业级的 IP 防线
+        - title: IPQuality
+          logo: github.png
+          url: https://github.com/xykt/IPQuality
+          description: IP 质量检测脚本
+        - title: ping0
+          logo: ping0.png
+          url: https://ping0.cc/
+          description: 高精度 IP 地址归属地查询，IP 风控值查询，原生 IP 查询，IP 类型查询，家庭宽带 IP 查询，全球小鸡监控平台
+        - title: IPCheck.ing
+          logo: ipcheck.jpg
+          url: https://ipcheck.ing/
+          description: 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等
+        - title: cip.cc
+          logo: cip.png
+          url: https://www.cip.cc/
+          description: 查IP(cip)网站, 提供免费的IP查询服务,命令行查询IP, 并且支持PC网站, 手机网站, 命令行(Windows/UNIX/Linux)三大平台, 是个多平台的IP查询网站
+        - title: icanhazip
+          logo: icanhazip.png
+          url: https://icanhazip.com/
+          description: 快速返回当前 IP
+        - title: IP Checks
+          logo: icanhazip.png
+          url: https://api.ipchecks.top/
+          description: 默认快速查看当前 IP 详细信息，查看指定 IP 信息示例：https://api.ipchecks.top/?ip=0.0.0.0
+        - title: Iping
+          logo: iping.png
+          url: https://www.iping.cc/
+          description: 全球范围 IP 地址免费查询工具，查看大洲、国家、地区、经纬度、ISP 和域名等详细信息
+        - title: ipapi
+          logo: ipapi.jpg
+          url: https://ipapi.is/
+          description: ipapi.is offers precise IP data via a user-friendly API, encompassing geolocation, ASN data, hosting detection, VPN detection, and proxy detection.
+        - title: IP Address API
+          logo: ip-api.png
+          url: https://api.incolumitas.com/
+          description: IP 地址查询 API
+
     - name: 数据/工具供应商
       links:
         - title: Tikhub
@@ -3640,58 +3699,6 @@
           url: https://www.grassdata.net/
           logo: grassdata.png
           description: 全球优质数据服务商，企业级合规数据采集与智能解析，使用我们的自动化解决方案获取全球公开的网络数据，为 AI 模型和复杂工作流提供支持
-
-    - name: 代理检测
-      links:
-        - title: 埃文科技
-          logo: ipplus360.jpg
-          url: https://www.ipplus360.com/
-          description: AI驱动的数据产品服务商，产品体系包括 IP 风险画像、IP 真假人、业务风控反欺诈等
-        - title: IP 数据云
-          logo: ipdatacloud.png
-          no_referral: true
-          url: https://www.ipdatacloud.com/?invitation_code=uFlqc3ayYTk4t6hxHPJto6b0hKbhiJlC
-          description: 提供风险防控解决方案，针对各种场景下的代理、爬虫、真人率、秒拨等行为，利用领先的大数据算法，精准识别风险行为，提升平台安全风控能力，减少业务损失
-        - title: 百度智能风控 IP 风险画像
-          logo: cloud.baidu.png
-          url: https://cloud.baidu.com/product-s/afd_s/ip-threat.html
-          description: 百度智能风控 IP 风险画像，助力您构建企业级的 IP 防线
-        - title: IPQuality
-          logo: github.png
-          url: https://github.com/xykt/IPQuality
-          description: IP 质量检测脚本
-        - title: ping0
-          logo: ping0.png
-          url: https://ping0.cc/
-          description: 高精度 IP 地址归属地查询，IP 风控值查询，原生 IP 查询，IP 类型查询，家庭宽带 IP 查询，全球小鸡监控平台
-        - title: IPCheck.ing
-          logo: ipcheck.jpg
-          url: https://ipcheck.ing/
-          description: 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等
-        - title: cip.cc
-          logo: cip.png
-          url: https://www.cip.cc/
-          description: 查IP(cip)网站, 提供免费的IP查询服务,命令行查询IP, 并且支持PC网站, 手机网站, 命令行(Windows/UNIX/Linux)三大平台, 是个多平台的IP查询网站
-        - title: icanhazip
-          logo: icanhazip.png
-          url: https://icanhazip.com/
-          description: 快速返回当前 IP
-        - title: IP Checks
-          logo: icanhazip.png
-          url: https://api.ipchecks.top/
-          description: 默认快速查看当前 IP 详细信息，查看指定 IP 信息示例：https://api.ipchecks.top/?ip=0.0.0.0
-        - title: Iping
-          logo: iping.png
-          url: https://www.iping.cc/
-          description: 全球范围 IP 地址免费查询工具，查看大洲、国家、地区、经纬度、ISP 和域名等详细信息
-        - title: ipapi
-          logo: ipapi.jpg
-          url: https://ipapi.is/
-          description: ipapi.is offers precise IP data via a user-friendly API, encompassing geolocation, ASN data, hosting detection, VPN detection, and proxy detection.
-        - title: IP Address API
-          logo: ip-api.png
-          url: https://api.incolumitas.com/
-          description: IP 地址查询 API
 
 - taxonomy: 交流学习
   icon: fas fa-handshake
