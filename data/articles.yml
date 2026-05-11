@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: tomysky0409
+      release_time: 2026.05.11 11:15:20
+      title: 验证码技巧分享-用ai来辅助验证码的训练识别
+      url: https://www.bilibili.com/video/BV1QG5x6cExZ
     - author: 一只勇敢的小佳
       release_time: 2026.05.10 21:55:28
       title: nbyun，codexpro号池中转来了！！
@@ -117,13 +121,29 @@
       release_time: 2026.04.26 19:47:41
       title: 发个福利活动玩玩
       url: https://www.bilibili.com/video/BV1rbZFB1EiR
-    - author: 池唐不是糖
-      release_time: 2026.04.25 13:03:32
-      title: ollvm的一键通杀，技术在改变世界，学不会你来砍我
-      url: https://www.bilibili.com/video/BV1XDoDBzE4D
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 泡泡以安
+      release_time: 2026.05.11 09:09:00
+      title: Frida学习笔记（五）：Java 层 API 全解
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486234&idx=1&sn=1266b7771080cb895883f1d193b1e355
+    - author: 哆啦安全
+      release_time: 2026.05.11 09:03:40
+      title: ARM64 Trace算法还原工具V1.0
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500437&idx=1&sn=6be82729a8aa43ae42206680f825b8dc
+    - author: 测试工程师成长之路
+      release_time: 2026.05.11 08:30:00
+      title: 测试人必看！5个让你效率翻倍的自动化测试技巧
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578919&idx=1&sn=6610daa3d7fac118e723b6a82591a630
+    - author: Coder小Q
+      release_time: 2026.05.11 08:30:00
+      title: 【量子计算】Ekert 协议：基于纠缠的密钥分发
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495635&idx=1&sn=4e9b219289a4f9f4691b3cecea2f2a2b
+    - author: 二进制磨剑
+      release_time: 2026.05.11 08:30:00
+      title: 首发！AI 逆向工程能力榜单
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486085&idx=1&sn=394592cb32a397b768b8166010eca831
     - author: 大数据安全技术学习
       release_time: 2026.05.10 22:00:00
       title: APP2025.直播22.r0zygisk源码移植与检测对抗
@@ -156,6 +176,26 @@
       release_time: 2026.05.10 08:10:00
       title: 谈谈我对VMProtect代码保护”通解”的一点看法
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144335&idx=1&sn=da3d7245aa70c203711ef1025677b2a0
+    - author: 泡泡以安
+      release_time: 2026.05.09 15:34:51
+      title: Frida学习笔记（四）：Hook 进阶 · 构造、内部类、字段、对象搜索
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486223&idx=1&sn=f9540f8306c3e434eaebb73185d05726
+    - author: 哆啦安全
+      release_time: 2026.05.09 08:59:19
+      title: App涉诈取证溯源分析V1.5
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500406&idx=1&sn=fb5917edcf9ffea159647ebbbe1794d3
+    - author: Coder小Q
+      release_time: 2026.05.09 08:32:40
+      title: 【量子计算】量子密钥分发：BB84 协议
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495602&idx=1&sn=fe80f29b550bec9bd6d2616e52228a44
+    - author: 二进制磨剑
+      release_time: 2026.05.08 18:24:22
+      title: 李宏毅 Harness Engineering 讲座笔记
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486077&idx=1&sn=067f5ea07a68f0eda69e1bd0ef943a51
+    - author: 泡泡以安
+      release_time: 2026.05.08 14:07:28
+      title: Frida学习笔记（三）：第一个 Hook · Java 方法拦截
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486215&idx=1&sn=7b43edf5408fa873eef23e08f01e6f29
     - author: 软件安全与逆向分析
       release_time: 2026.05.08 09:48:07
       title: 最近是怎么了？又一款通杀全线Linux发行版的0Day漏洞
@@ -204,46 +244,6 @@
       release_time: 2026.05.07 15:16:49
       title: 告别“环境地狱”：TaskPyro 项目级虚拟环境，让 Python 任务调度轻装上阵
       url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486384&idx=1&sn=12e98f5ae7c5e151c49b63eecf602779
-    - author: 二进制磨剑
-      release_time: 2026.05.07 14:56:55
-      title: AI 驱动的逆向工程：用 tmux MCP 操控 GDB 与 Frida
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486061&idx=1&sn=c6fd6c831fb87398222d291ce673dbb7
-    - author: 吾爱破解论坛
-      release_time: 2026.05.07 12:15:53
-      title: 心流鼠标手势 FlowMouse v2.0.3 “手势提示” 功能发布
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144278&idx=1&sn=02a173a83a8fe44d1a967302b71b0f1e
-    - author: 哆啦安全
-      release_time: 2026.05.07 12:11:04
-      title: Android安全加固工具(伪密盾)V5.3
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500376&idx=1&sn=66c25d7374e4edce2850bb9d77087175
-    - author: 软件安全与逆向分析
-      release_time: 2026.05.07 11:57:26
-      title: 安卓GKI内核KPM加载器开发踩坑实战
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485150&idx=1&sn=df32ae68864e79a10ce0d43217754e54
-    - author: 挖个洞先
-      release_time: 2026.05.07 09:38:06
-      title: 【漏洞案例】页游websocket协议使用fatbeans改包一键通关
-      url: https://mp.weixin.qq.com/s?__biz=MzkyNjY3OTI4Ng==&mid=2247486037&idx=1&sn=14ee3075e4f85d9bce09ee4e64d86271
-    - author: 小恰学逆向
-      release_time: 2026.05.07 09:00:33
-      title: 【名人趣事-马克·吐温】说个谎话
-      url: https://mp.weixin.qq.com/s?__biz=MzkwNTg3MjY3MQ==&mid=2247484958&idx=1&sn=8f700031ee022941a7f6c875c97b1b16
-    - author: Coder小Q
-      release_time: 2026.05.07 08:30:00
-      title: 【量子计算】量子傅里叶变换（QFT）：把周期变成峰值
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495548&idx=1&sn=e3bb3ee3699a5bc1a2c97a196fb8e4f6
-    - author: 虫技
-      release_time: 2026.05.07 08:00:00
-      title: 建第五个 AI 爬虫逆向 500 人交流群
-      url: https://mp.weixin.qq.com/s?__biz=MzIyODMwMTM1MA==&mid=2247483905&idx=1&sn=f0efef9da696958d51ddda5eddbc8246
-    - author: 哆啦安全
-      release_time: 2026.05.06 22:58:57
-      title: 漏洞修复 | Android无线调试认证绕过漏洞(CVE-2026-0073)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500355&idx=1&sn=b968cbc222df7347ed9c560f1bc2de99
-    - author: 如意私塾
-      release_time: 2026.05.06 22:25:53
-      title: bidi过检测自动化框架：新增linux/ubuntu下免费火狐配套指纹浏览器
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484550&idx=1&sn=5e959c880327ec113d8522c39adac202
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
