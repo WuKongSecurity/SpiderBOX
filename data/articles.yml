@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 泡泡以安
+      release_time: 2026.05.12 09:09:00
+      title: Frida学习笔记（六）：Native 层 API 全解
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486244&idx=1&sn=76f4475255b9557ba7b257c51273a949
+    - author: Coder小Q
+      release_time: 2026.05.12 08:30:00
+      title: 【量子计算】量子超密编码：为什么 1 个量子比特能传 2 个经典比特
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495651&idx=1&sn=cb9dccf25beae60a26144266e5216c2a
+    - author: 虫技
+      release_time: 2026.05.12 08:00:00
+      title: 当数据成为竞争力，企业需要的不只是“爬虫”
+      url: https://mp.weixin.qq.com/s?__biz=MzIyODMwMTM1MA==&mid=2247483911&idx=1&sn=d385541776d9714694139007d09c8455
     - author: 进击的HACK
       release_time: 2026.05.11 19:03:38
       title: 常见 Java 反序列化利用工具
@@ -232,18 +244,6 @@
       release_time: 2026.05.08 09:35:11
       title: 漏洞预警 - Linux内核「Dirty Frag」0day
       url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486967&idx=1&sn=e0336c4b843355ac2aa0398ca06e1801
-    - author: 逆向OneByOne
-      release_time: 2026.05.08 09:28:38
-      title: LLM 如何"读懂"网页？七大框架的页面结构表示方案拆解
-      url: https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494234&idx=1&sn=e155705b33cf6517f917d0b2decaf65a
-    - author: Coder小Q
-      release_time: 2026.05.08 08:30:00
-      title: 【量子计算】Shor 因数分解算法：把分解变成找周期
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495564&idx=1&sn=687fba11f6c56ed8c8b29da15d8eaaa2
-    - author: 哆啦安全
-      release_time: 2026.05.08 07:30:00
-      title: Cursor AI编程小技巧
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500393&idx=1&sn=e240dd36f9fcda27c67d205e320c283a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
