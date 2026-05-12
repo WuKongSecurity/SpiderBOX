@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.05.12 18:15:43
+      title: 字典跑不出Actuator？从JS前缀到绕过Cookie下载HeapDump
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490047&idx=1&sn=917285ddaf6dda0066b533cb71f3f63a
     - author: 哆啦安全
       release_time: 2026.05.12 17:45:27
       title: APK安全智能分析工具V5.3
@@ -240,10 +244,6 @@
       release_time: 2026.05.09 17:13:49
       title: 最高法发布人民法院依法惩治侵犯公民个人信息犯罪及关联犯罪典型案例
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520119&idx=1&sn=932f563355272da90352cfee9f33c49c
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.05.09 17:13:49
-      title: 快时尚品牌ZARA遭数据泄露，约19.74万用户信息受影响
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520119&idx=2&sn=061fe6abfa50d3f12bef8bdba4237e0a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
