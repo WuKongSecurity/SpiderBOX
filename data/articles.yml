@@ -370,6 +370,11 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: fyrlove
+      release_time: 2026.05.12 21:57:28
+      title: Vibe Coding从源码阅读到模块开发：基于最新版 Magisk Zygisk，移植实现一个带 WebUI、支持 Android 16
+        的 Zygisk 等效模块r0zygisk(一)
+      url: https://bbs.kanxue.com/thread-291209.htm
     - author: mb_wckjnnha
       release_time: 2026.05.11 22:01:06
       title: '[原创]Android一二三代壳实现'
@@ -486,10 +491,6 @@
       release_time: 2026.05.04 14:37:00
       title: '[原创]把 .o 变成 .ko（二）：GKI 安全特性的铁幕'
       url: https://bbs.kanxue.com/thread-291096.htm
-    - author: Cure.
-      release_time: 2026.05.04 10:26:35
-      title: '[原创]某卷轴App flutter md5 aes'
-      url: https://bbs.kanxue.com/thread-291091.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
