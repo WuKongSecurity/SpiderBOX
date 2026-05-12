@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 逆向狗都不学
+      release_time: 2026.05.12 16:31:07
+      title: Android逆向之DEX文件解析
+      url: https://www.bilibili.com/video/BV1fy5T6xE5z
     - author: 逆向研究生
       release_time: 2026.05.11 18:32:01
       title: 混淆JS逆向实战
@@ -117,13 +121,33 @@
       release_time: 2026.04.28 18:53:44
       title: 密码学补完计划[第三十二期] SHA-3
       url: https://www.bilibili.com/video/BV1tz9kBNE2K
-    - author: 悦来客栈的老板
-      release_time: 2026.04.28 10:47:41
-      title: AI + 自动化 过234滑块验证
-      url: https://www.bilibili.com/video/BV1qY9zBrEnz
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.05.12 17:45:27
+      title: APK安全智能分析工具V5.3
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500459&idx=1&sn=9dc8ece9c252c93474d8e99d2dea942f
+    - author: 哆啦安全
+      release_time: 2026.05.12 17:45:27
+      title: Android逆向智能分析工具V1.4
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500459&idx=2&sn=644abb65d1b691166d505bb92c7ea245
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.05.12 16:23:42
+      title: 第三届全球数据合规年度论坛, 5月22-23上海见!
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520127&idx=1&sn=c6237a991611a3778b4832fd340babbc
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.05.12 16:23:42
+      title: 通用汽车因非法出售车主驾驶数据被罚1275万美元
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520127&idx=2&sn=1d4096bdb1210cc7eb9c25cb12906686
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.05.12 16:23:42
+      title: 北京数据出境负面清单管理机制从自贸区扩展至全域
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520127&idx=3&sn=b87536718de0141d8ba14c5bf7790ff6
+    - author: 逆不逆
+      release_time: 2026.05.12 15:52:00
+      title: unidbg模拟执行某书shield
+      url: https://mp.weixin.qq.com/s?__biz=MzYyNTY2NDgyNA==&mid=2247483847&idx=1&sn=ddc694302ef52c065ca19cc213aa0d45
     - author: 软件安全与逆向分析
       release_time: 2026.05.12 12:20:33
       title: 三大Root框架通杀检测与反检测方法分析
@@ -212,38 +236,14 @@
       release_time: 2026.05.10 08:10:00
       title: 谈谈我对VMProtect代码保护”通解”的一点看法
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144335&idx=1&sn=da3d7245aa70c203711ef1025677b2a0
-    - author: 泡泡以安
-      release_time: 2026.05.09 15:34:51
-      title: Frida学习笔记（四）：Hook 进阶 · 构造、内部类、字段、对象搜索
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486223&idx=1&sn=f9540f8306c3e434eaebb73185d05726
-    - author: 软件安全与逆向分析
-      release_time: 2026.05.09 12:12:46
-      title: iOS虚拟手机可以玩窗口化融合的越狱插件
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485193&idx=1&sn=5b53423ee611f250baca7a2181283108
-    - author: 哆啦安全
-      release_time: 2026.05.09 08:59:19
-      title: App涉诈取证溯源分析V1.5
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500406&idx=1&sn=fb5917edcf9ffea159647ebbbe1794d3
-    - author: Coder小Q
-      release_time: 2026.05.09 08:32:40
-      title: 【量子计算】量子密钥分发：BB84 协议
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495602&idx=1&sn=fe80f29b550bec9bd6d2616e52228a44
-    - author: 进击的HACK
-      release_time: 2026.05.08 20:31:48
-      title: 通过 Yakit 来管理自己的 Fuzzing 字典
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490039&idx=1&sn=94dab78fd72223c908855d115d3d56da
-    - author: 二进制磨剑
-      release_time: 2026.05.08 18:24:22
-      title: 李宏毅 Harness Engineering 讲座笔记
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486077&idx=1&sn=067f5ea07a68f0eda69e1bd0ef943a51
-    - author: 泡泡以安
-      release_time: 2026.05.08 14:07:28
-      title: Frida学习笔记（三）：第一个 Hook · Java 方法拦截
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486215&idx=1&sn=7b43edf5408fa873eef23e08f01e6f29
-    - author: 软件安全与逆向分析
-      release_time: 2026.05.08 09:48:07
-      title: 最近是怎么了？又一款通杀全线Linux发行版的0Day漏洞
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485155&idx=1&sn=297226eb7a1334739226f0ac851e1e65
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.05.09 17:13:49
+      title: 最高法发布人民法院依法惩治侵犯公民个人信息犯罪及关联犯罪典型案例
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520119&idx=1&sn=932f563355272da90352cfee9f33c49c
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.05.09 17:13:49
+      title: 快时尚品牌ZARA遭数据泄露，约19.74万用户信息受影响
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520119&idx=2&sn=061fe6abfa50d3f12bef8bdba4237e0a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
