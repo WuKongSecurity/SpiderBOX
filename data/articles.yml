@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 软件安全与逆向分析
+      release_time: 2026.05.12 12:20:33
+      title: 三大Root框架通杀检测与反检测方法分析
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485204&idx=1&sn=0cf8c32c11363b3fab82419058605ad5
     - author: 泡泡以安
       release_time: 2026.05.12 09:09:00
       title: Frida学习笔记（六）：Native 层 API 全解
@@ -240,10 +244,6 @@
       release_time: 2026.05.08 09:48:07
       title: 最近是怎么了？又一款通杀全线Linux发行版的0Day漏洞
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485155&idx=1&sn=297226eb7a1334739226f0ac851e1e65
-    - author: Spade sec
-      release_time: 2026.05.08 09:35:11
-      title: 漏洞预警 - Linux内核「Dirty Frag」0day
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486967&idx=1&sn=e0336c4b843355ac2aa0398ca06e1801
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
