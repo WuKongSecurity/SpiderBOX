@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 人生导师duck
+      release_time: 2026.05.12 23:13:18
+      title: LLM与逆向工程：模型能力边界的思考
+      url: https://www.bilibili.com/video/BV17Z536PEEX
     - author: 逆向狗都不学
       release_time: 2026.05.12 16:31:07
       title: Android逆向之DEX文件解析
@@ -117,10 +121,6 @@
       release_time: 2026.04.28 22:06:29
       title: 14.小肩膀教育AI Token服务
       url: https://www.bilibili.com/video/BV14c9kBcEuJ
-    - author: EithanSolace
-      release_time: 2026.04.28 18:53:44
-      title: 密码学补完计划[第三十二期] SHA-3
-      url: https://www.bilibili.com/video/BV1tz9kBNE2K
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
