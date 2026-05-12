@@ -3378,6 +3378,11 @@
           no_referral: true
           url: https://mangoproxy.com?ref=spiderbox.cn
           description: MangoProxy provides high-quality, fast, and secure proxies, along with an efficient API scraper for seamless data collection and web scraping projects worldwide
+        - title: IPPeak
+          logo: ippeak.jpg
+          no_referral: true
+          url: https://www.ippeak.com/signup?code=CBEB1D
+          description: IPPeak 支持免费测试，不限量套餐低至 $61/天，独立 IP 资源，每日更新，拥有覆盖全球 195+ 地区的 8000 万真实住宅 IP，适用于 AI 模型训练、账号运营等多种场景
 
         # 8% ==============================
         - title: 荔枝 IP
