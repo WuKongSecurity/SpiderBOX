@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 蛋蛋yong闯小B站
+      release_time: 2026.05.13 22:37:36
+      title: 实战55——某里V2验证码分析（下）
+      url: https://www.bilibili.com/video/BV1LW5m6AE92
+    - author: 风华Ahu
+      release_time: 2026.05.13 22:18:26
+      title: js逆向百例-28-tdc无感 补环境案例 对于之前的难度增大了 不适合新手
+      url: https://www.bilibili.com/video/BV1kG5m66EGX
     - author: 人生导师duck
       release_time: 2026.05.12 23:13:18
       title: LLM与逆向工程：模型能力边界的思考
@@ -113,17 +121,13 @@
       release_time: 2026.04.29 20:23:11
       title: akm-sensor-data一键反解
       url: https://www.bilibili.com/video/BV1459DBWE3u
-    - author: 如意-浏览器开发培训
-      release_time: 2026.04.28 22:33:45
-      title: 傻瓜式一键配置使用最强AI模型
-      url: https://www.bilibili.com/video/BV1T29yBMEnR
-    - author: 小肩膀-逆向安全培训
-      release_time: 2026.04.28 22:06:29
-      title: 14.小肩膀教育AI Token服务
-      url: https://www.bilibili.com/video/BV14c9kBcEuJ
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.05.13 20:51:04
+      title: spider-king 面向 Web 协议恢复与参数还原场景的 Skill
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490051&idx=1&sn=8ef8cfe425e95f48b5135b16b7756b25
     - author: 未闻Code
       release_time: 2026.05.13 18:00:16
       title: 你存进去的知识，为什么一条都没用上？Obsidian + Claude 这样让知识库自己变聪明
@@ -240,13 +244,13 @@
       release_time: 2026.05.11 09:09:00
       title: Frida学习笔记（五）：Java 层 API 全解
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486234&idx=1&sn=1266b7771080cb895883f1d193b1e355
-    - author: 哆啦安全
-      release_time: 2026.05.11 09:03:40
-      title: ARM64 Trace算法还原工具V1.0
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500437&idx=1&sn=6be82729a8aa43ae42206680f825b8dc
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: xiayutianz
+      release_time: 2026.05.13 16:15:00
+      title: 某招聘软件算法分析
+      url: https://www.52pojie.cn/thread-2107542-1-1.html
     - author: fyr666
       release_time: 2026.05.12 22:33:00
       title: Vibe Coding 从源码阅读到模块开发：基于最新版 Magisk Zygisk，移植实现一个带 We...
@@ -363,10 +367,6 @@
       release_time: 2026.04.28 16:13:00
       title: 抖音直播间弹幕获取及参数逆向
       url: https://www.52pojie.cn/thread-2105256-1-1.html
-    - author: 芽衣
-      release_time: 2026.04.28 10:42:00
-      title: 哔哩哔哩客户端 去震动和开屏广告教程
-      url: https://www.52pojie.cn/thread-2104894-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
