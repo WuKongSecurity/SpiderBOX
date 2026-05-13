@@ -124,6 +124,26 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.05.13 10:00:00
+      title: DNS套了两层HTTPS，还是能被猜出你访问了哪个网站，ODoH网站指纹准确率94%
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484599&idx=1&sn=e49d65c6d92a9062129e2ba0fc14d29d
+    - author: 泡泡以安
+      release_time: 2026.05.13 09:09:00
+      title: Frida学习笔记（七）：调用栈、日志与 Hook 排错
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486255&idx=1&sn=daa7a73ba2db56db453600d9697fd49b
+    - author: 哆啦安全
+      release_time: 2026.05.13 08:52:10
+      title: AI逆向零自动化对抗全自动化：揭开AI逆向能力鸿沟的真相
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500465&idx=1&sn=047068bd32ae1b6aee58daf2c52295ba
+    - author: Coder小Q
+      release_time: 2026.05.13 08:30:00
+      title: 【量子计算】量子隐形传态：把未知量子态交到远处的 Bob 手里
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495667&idx=1&sn=9381cef84d43280d78c55d7f544623ec
+    - author: DrissionPage
+      release_time: 2026.05.13 07:50:42
+      title: DrissionPage4.2测试版发布
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzczMw==&mid=2247483751&idx=1&sn=1f5ffb92a336af0ef2fb0fd4eae600d1
     - author: 进击的HACK
       release_time: 2026.05.12 18:15:43
       title: 字典跑不出Actuator？从JS前缀到绕过Cookie下载HeapDump
@@ -224,26 +244,6 @@
       release_time: 2026.05.10 22:00:00
       title: 地表最强过检测环境原生三绿取证设备
       url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486165&idx=4&sn=8cccd4c5a40536e1533095e79a09365e
-    - author: 大数据安全技术学习
-      release_time: 2026.05.10 22:00:00
-      title: 八九新红米13C刷机小王子内核模块定制隐藏环境过多数企业壳frida检测
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486165&idx=5&sn=960a25a67416a0eb71493ec9e75b514a
-    - author: 大数据安全技术学习
-      release_time: 2026.05.10 22:00:00
-      title: 月神 SRC 漏洞挖掘课程・第六期 全新升级
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486165&idx=6&sn=bb32d8954ee7c55e86f4721a64e54079
-    - author: 哆啦安全
-      release_time: 2026.05.10 16:04:53
-      title: Android逆向智能分析工具(VIP会员)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500429&idx=1&sn=ed93d51dacb54ef03e22ceab2ec3cb95
-    - author: 吾爱破解论坛
-      release_time: 2026.05.10 08:10:00
-      title: 谈谈我对VMProtect代码保护”通解”的一点看法
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144335&idx=1&sn=da3d7245aa70c203711ef1025677b2a0
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.05.09 17:13:49
-      title: 最高法发布人民法院依法惩治侵犯公民个人信息犯罪及关联犯罪典型案例
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520119&idx=1&sn=932f563355272da90352cfee9f33c49c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
