@@ -124,6 +124,26 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 桐梓坡低手
+      release_time: 2026.05.13 16:46:10
+      title: 饿了么商家 IM + 订单事件实时监听服务（对抗风控方案服务也有）
+      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247483862&idx=1&sn=fee1d4dbca69e2a81527d262e3d0a9bc
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.05.13 16:40:16
+      title: 双罚！中行某省分行因数据安全被罚，金融科技部人员连带受罚
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520135&idx=1&sn=b6ae55e5343eb0f32144746c978123e5
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.05.13 16:40:16
+      title: 全国网安标委获批发布10项网络安全国家标准
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520135&idx=2&sn=0f4722622e0c21599acef33be8c74026
+    - author: just reverse
+      release_time: 2026.05.13 16:09:14
+      title: 某招聘软件算法分析
+      url: https://mp.weixin.qq.com/s?__biz=Mzk1NzI2Njg5NQ==&mid=2247483976&idx=1&sn=7f3a72206f1a0258a6e795616b138380
+    - author: 软件安全与逆向分析
+      release_time: 2026.05.13 15:42:15
+      title: 有意思的官方杀同人安卓投屏多窗口融合模式
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485211&idx=1&sn=de7f359c8d7861e8b1124667a40341b6
     - author: wangyu223
       release_time: 2026.05.13 10:45:23
       title: 某招聘软件so层加密分析（一）
@@ -224,26 +244,6 @@
       release_time: 2026.05.11 08:30:00
       title: 测试人必看！5个让你效率翻倍的自动化测试技巧
       url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578919&idx=1&sn=6610daa3d7fac118e723b6a82591a630
-    - author: Coder小Q
-      release_time: 2026.05.11 08:30:00
-      title: 【量子计算】Ekert 协议：基于纠缠的密钥分发
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495635&idx=1&sn=4e9b219289a4f9f4691b3cecea2f2a2b
-    - author: 二进制磨剑
-      release_time: 2026.05.11 08:30:00
-      title: 首发！AI 逆向工程能力榜单
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486085&idx=1&sn=394592cb32a397b768b8166010eca831
-    - author: 大数据安全技术学习
-      release_time: 2026.05.10 22:00:00
-      title: APP2025.直播22.r0zygisk源码移植与检测对抗
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486165&idx=1&sn=351e0900d602254393cf2f3539f20f8c
-    - author: 大数据安全技术学习
-      release_time: 2026.05.10 22:00:00
-      title: 《FRIDA手撕海外企业壳》5月17日成都站抓紧报名锁定最后席位！
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486165&idx=2&sn=993641cba4a9d78e087526016ec0f875
-    - author: 大数据安全技术学习
-      release_time: 2026.05.10 22:00:00
-      title: 奋斗者计划，助你升职加薪|阿里云、米哈游、阿里巴巴直推
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486165&idx=3&sn=ace7b89c7cbee98e58eecbcc4c691eb1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
