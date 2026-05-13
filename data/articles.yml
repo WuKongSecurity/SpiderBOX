@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: fyr666
+      release_time: 2026.05.12 22:33:00
+      title: Vibe Coding 从源码阅读到模块开发：基于最新版 Magisk Zygisk，移植实现一个带 We...
+      url: https://www.52pojie.cn/thread-2107426-1-1.html
     - author: rsds0duck
       release_time: 2026.05.12 12:27:00
       title: Amazon登录协议逆向分析
@@ -363,10 +367,6 @@
       release_time: 2026.04.28 10:42:00
       title: 哔哩哔哩客户端 去震动和开屏广告教程
       url: https://www.52pojie.cn/thread-2104894-1-1.html
-    - author: jidesheng6
-      release_time: 2026.04.28 09:51:00
-      title: 威马W6车机破解方法
-      url: https://www.52pojie.cn/thread-2105165-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
