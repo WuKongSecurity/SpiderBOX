@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: wangyu223
+      release_time: 2026.05.13 10:45:23
+      title: 某招聘软件so层加密分析（一）
+      url: https://mp.weixin.qq.com/s?__biz=MzY4ODI4MzQwNQ==&mid=2247483830&idx=1&sn=4056d7e9db849e62ce015f1d020defbe
     - author: 如意私塾
       release_time: 2026.05.13 10:00:00
       title: DNS套了两层HTTPS，还是能被猜出你访问了哪个网站，ODoH网站指纹准确率94%
@@ -240,13 +244,13 @@
       release_time: 2026.05.10 22:00:00
       title: 奋斗者计划，助你升职加薪|阿里云、米哈游、阿里巴巴直推
       url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486165&idx=3&sn=ace7b89c7cbee98e58eecbcc4c691eb1
-    - author: 大数据安全技术学习
-      release_time: 2026.05.10 22:00:00
-      title: 地表最强过检测环境原生三绿取证设备
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486165&idx=4&sn=8cccd4c5a40536e1533095e79a09365e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: rsds0duck
+      release_time: 2026.05.12 12:27:00
+      title: Amazon登录协议逆向分析
+      url: https://www.52pojie.cn/thread-2107326-1-1.html
     - author: czb789661
       release_time: 2026.05.11 22:28:00
       title: '[原创]某视频APP七神签名之X-Gorgon生成逻辑逆向分析——古法逆向与AI辅助结合'
@@ -363,10 +367,6 @@
       release_time: 2026.04.28 09:51:00
       title: 威马W6车机破解方法
       url: https://www.52pojie.cn/thread-2105165-1-1.html
-    - author: gfy1129
-      release_time: 2026.04.25 22:45:00
-      title: 某Q音乐sign纯算-vmp插桩日志分析
-      url: https://www.52pojie.cn/thread-2104849-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
