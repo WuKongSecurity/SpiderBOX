@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: DrissionPage
+      release_time: 2026.05.14 06:42:58
+      title: 4.2.0b3
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzczMw==&mid=2247483756&idx=1&sn=03cefb476b29000acdb2d4d1ad4ddc05
     - author: 如意私塾
       release_time: 2026.05.14 01:10:34
       title: 住宅代理没你想的那么无限：4家服务商实测，一半以上出口IP重合
@@ -240,10 +244,6 @@
       release_time: 2026.05.11 15:30:54
       title: 你发出去的一次DNS查询、HTTP Host或者TLS SNI，都会在链路上被人记住
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484584&idx=1&sn=14ae7a60a15710565a70898411460c71
-    - author: 软件安全与逆向分析
-      release_time: 2026.05.11 14:55:34
-      title: 有意思，许你Root了吗，哈哈
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485199&idx=1&sn=d9c63ad33a29c7bfed7441a79666aeb1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
