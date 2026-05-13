@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 如意-浏览器开发培训
+      release_time: 2026.05.14 00:40:29
+      title: safari指纹浏览器内核时区定制
+      url: https://www.bilibili.com/video/BV1qz526AECk
     - author: 蛋蛋yong闯小B站
       release_time: 2026.05.13 22:37:36
       title: 实战55——某里V2验证码分析（下）
@@ -117,13 +121,13 @@
       release_time: 2026.04.30 01:00:03
       title: 易盾滑块逆向
       url: https://www.bilibili.com/video/BV1b49sBJEE9
-    - author: 墨竹_zs
-      release_time: 2026.04.29 20:23:11
-      title: akm-sensor-data一键反解
-      url: https://www.bilibili.com/video/BV1459DBWE3u
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.05.14 01:10:34
+      title: 住宅代理没你想的那么无限：4家服务商实测，一半以上出口IP重合
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484605&idx=1&sn=44b5820786a42746b46392997856ecba
     - author: 进击的HACK
       release_time: 2026.05.13 20:51:04
       title: spider-king 面向 Web 协议恢复与参数还原场景的 Skill
@@ -240,10 +244,6 @@
       release_time: 2026.05.11 14:55:34
       title: 有意思，许你Root了吗，哈哈
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485199&idx=1&sn=d9c63ad33a29c7bfed7441a79666aeb1
-    - author: 泡泡以安
-      release_time: 2026.05.11 09:09:00
-      title: Frida学习笔记（五）：Java 层 API 全解
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486234&idx=1&sn=1266b7771080cb895883f1d193b1e355
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
