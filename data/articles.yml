@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2026.05.13 18:00:16
+      title: 你存进去的知识，为什么一条都没用上？Obsidian + Claude 这样让知识库自己变聪明
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991584&idx=1&sn=db3007c37dff5c74d1e7c32b191ffcb0
     - author: 桐梓坡低手
       release_time: 2026.05.13 16:46:10
       title: 饿了么商家 IM + 订单事件实时监听服务（对抗风控方案服务也有）
@@ -240,10 +244,6 @@
       release_time: 2026.05.11 09:03:40
       title: ARM64 Trace算法还原工具V1.0
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500437&idx=1&sn=6be82729a8aa43ae42206680f825b8dc
-    - author: 测试工程师成长之路
-      release_time: 2026.05.11 08:30:00
-      title: 测试人必看！5个让你效率翻倍的自动化测试技巧
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578919&idx=1&sn=6610daa3d7fac118e723b6a82591a630
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
