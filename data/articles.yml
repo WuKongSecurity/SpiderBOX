@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 泡泡以安
+      release_time: 2026.05.14 09:09:00
+      title: Frida学习笔记（八）：SSL Pinning 绕过全攻略
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486299&idx=1&sn=61c9b1da099fabd9f2c65da9a8906ee8
+    - author: 哆啦安全
+      release_time: 2026.05.14 08:56:11
+      title: 2026机器人与具身智能开源项目大盘点(模型·硬件·仿真·框架)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500470&idx=1&sn=b1e51c581c8f72301d17dba0acd17cd6
+    - author: Coder小Q
+      release_time: 2026.05.14 08:30:00
+      title: 【量子计算】结语：把量子计算的入门连成一条线
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495675&idx=1&sn=70c761018969439e689d6db9a394b4c6
     - author: DrissionPage
       release_time: 2026.05.14 06:42:58
       title: 4.2.0b3
@@ -232,18 +244,6 @@
       release_time: 2026.05.11 19:03:38
       title: 常见 Java 反序列化利用工具
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490045&idx=1&sn=cfa90d6dee4082609bcb180f9d9cb62e
-    - author: 如意私塾
-      release_time: 2026.05.11 17:24:28
-      title: 有一批“透明代理”会悄悄改你的HTTP请求——全球实测抓到3.2万个
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484591&idx=1&sn=ee215b840d4e2a9087fc990635e207ec
-    - author: 沐阳逆向与AI学习
-      release_time: 2026.05.11 17:21:02
-      title: 白嫖 Claude Opus 4.7？Kiro Pro 新用户试用教程
-      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484623&idx=1&sn=535261f718ad5bf13267661df6b1e201
-    - author: 如意私塾
-      release_time: 2026.05.11 15:30:54
-      title: 你发出去的一次DNS查询、HTTP Host或者TLS SNI，都会在链路上被人记住
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484584&idx=1&sn=14ae7a60a15710565a70898411460c71
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
