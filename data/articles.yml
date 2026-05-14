@@ -2,6 +2,10 @@
   list:
   - links:
     - author: 如意-浏览器开发培训
+      release_time: 2026.05.14 17:52:11
+      title: safari内核指纹浏览器Apple魔改英伟达
+      url: https://www.bilibili.com/video/BV1vz596jETB
+    - author: 如意-浏览器开发培训
       release_time: 2026.05.14 00:40:29
       title: safari指纹浏览器内核时区定制
       url: https://www.bilibili.com/video/BV1qz526AECk
@@ -117,10 +121,6 @@
       release_time: 2026.04.30 13:59:36
       title: 16.AI使用的补充（上下文压缩_思考深度_长文本分段_对话记录调取_道德限制）
       url: https://www.bilibili.com/video/BV1uo98BNEcb
-    - author: 澎湖湾的彭
-      release_time: 2026.04.30 01:00:03
-      title: 易盾滑块逆向
-      url: https://www.bilibili.com/video/BV1b49sBJEE9
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
