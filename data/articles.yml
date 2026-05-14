@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 影17
+      release_time: 2026.05.14 10:32:18
+      title: UserDun 逆向流程分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247490678&idx=1&sn=d2038e83b15d9b138eb10a3dac454b79
+    - author: Pythonlx
+      release_time: 2026.05.14 09:45:09
+      title: CloakBrowser解锁无阻碍自动化
+      url: https://mp.weixin.qq.com/s?__biz=MzU4NzkwNTU3Ng==&mid=2247485307&idx=1&sn=cb349ce428c77b1867586102cb4748d4
     - author: 泡泡以安
       release_time: 2026.05.14 09:09:00
       title: Frida学习笔记（八）：SSL Pinning 绕过全攻略
@@ -236,14 +244,6 @@
       release_time: 2026.05.12 08:30:00
       title: 【量子计算】量子超密编码：为什么 1 个量子比特能传 2 个经典比特
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495651&idx=1&sn=cb9dccf25beae60a26144266e5216c2a
-    - author: 虫技
-      release_time: 2026.05.12 08:00:00
-      title: 当数据成为竞争力，企业需要的不只是“爬虫”
-      url: https://mp.weixin.qq.com/s?__biz=MzIyODMwMTM1MA==&mid=2247483911&idx=1&sn=d385541776d9714694139007d09c8455
-    - author: 进击的HACK
-      release_time: 2026.05.11 19:03:38
-      title: 常见 Java 反序列化利用工具
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490045&idx=1&sn=cfa90d6dee4082609bcb180f9d9cb62e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
