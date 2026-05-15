@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2026.05.15 10:29:07
+      title: 【虫神 插件V1.5】人工智能版爬虫插件，新增5大逆天功能！！
+      url: https://www.bilibili.com/video/BV1wK5e6MEPH
     - author: 如意-浏览器开发培训
       release_time: 2026.05.14 17:52:11
       title: safari内核指纹浏览器Apple魔改英伟达
@@ -117,13 +121,57 @@
       release_time: 2026.04.30 16:39:20
       title: 4月30日
       url: https://www.bilibili.com/video/BV1jC9aBQEmF
-    - author: 小肩膀-逆向安全培训
-      release_time: 2026.04.30 13:59:36
-      title: 16.AI使用的补充（上下文压缩_思考深度_长文本分段_对话记录调取_道德限制）
-      url: https://www.bilibili.com/video/BV1uo98BNEcb
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.05.15 10:00:00
+      title: IP住宅代理再像真人，被检测概率也能到99%
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484610&idx=1&sn=d1117eaa1c99f158720c2d6731405a25
+    - author: 泡泡以安
+      release_time: 2026.05.15 09:44:02
+      title: Frida学习笔记（九）：r0capture 源码精读 · 不靠代理的抓包是怎么实现的
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486323&idx=1&sn=87d224e5b062dc3bc46064404e74dd4b
+    - author: 测试工程师成长之路
+      release_time: 2026.05.15 09:25:29
+      title: 你以为的测试工程师VS实际上的测试工程师
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578972&idx=1&sn=9f6d9ecdfc2246d9a864d70f3d551fcb
+    - author: 泡泡以安
+      release_time: 2026.05.15 09:01:00
+      title: 我用 AI 写了一个多平台发布工具
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486322&idx=1&sn=c63e1bcdd339f737354f2314adfb8d68
+    - author: 如意私塾
+      release_time: 2026.05.14 23:47:31
+      title: Token中转站：AI时代最热闹，也最危险的一门水电生意
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484615&idx=1&sn=128ec26a6404086d1686bab61bcab1df
+    - author: 挖个洞先
+      release_time: 2026.05.14 20:11:39
+      title: 【银行逆向百例】17Android逆向之libDexHelper梆梆加固frida检测绕过
+      url: https://mp.weixin.qq.com/s?__biz=MzkyNjY3OTI4Ng==&mid=2247486061&idx=1&sn=4858da99f5615535887e36177db4ef22
+    - author: 进击的HACK
+      release_time: 2026.05.14 19:16:58
+      title: BypassPro 自动化bypass Auth和Waf
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490055&idx=1&sn=39ff7ce78ae8ceb734a77219f58626fa
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.05.14 16:57:43
+      title: 国家网信办：短视频发布必选 6 类标签，不标不能发（附答记者问）
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520152&idx=1&sn=c8ad8ea8f1b460ea0b999f2efd258450
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.05.14 16:57:43
+      title: 因违规跨境传输个人信息，网约车应用被荷兰数据执法机构罚款1亿欧元
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520152&idx=2&sn=c643632f31f34bf703fbc0c7bbdaa75b
+    - author: 布鲁的Python之旅
+      release_time: 2026.05.14 16:25:00
+      title: 国产AI编程工具：Trae、Qoder、CodeBuddy
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486404&idx=1&sn=16131e334bca9c091bd72471ac6f436e
+    - author: 软件安全与逆向分析
+      release_time: 2026.05.14 15:35:05
+      title: 解决一个安卓15/16调试APK运行adb jdwp无输出的问题
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485221&idx=1&sn=896b232e993d35f05c40f2d4f54cdb3b
+    - author: 移动端Android和iOS开发技术分享
+      release_time: 2026.05.14 10:48:55
+      title: Dopamine 2.5 Beta 3 发布：iOS 17 / 18 越狱支持终于来了
+      url: https://mp.weixin.qq.com/s?__biz=MjM5MjEzMDAzMg==&mid=2257485086&idx=1&sn=8ee9e44ee9825f93f20648f4ab503d93
     - author: 影17
       release_time: 2026.05.14 10:32:18
       title: UserDun 逆向流程分析
@@ -196,54 +244,6 @@
       release_time: 2026.05.13 08:52:10
       title: AI逆向零自动化对抗全自动化：揭开AI逆向能力鸿沟的真相
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500465&idx=1&sn=047068bd32ae1b6aee58daf2c52295ba
-    - author: Coder小Q
-      release_time: 2026.05.13 08:30:00
-      title: 【量子计算】量子隐形传态：把未知量子态交到远处的 Bob 手里
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495667&idx=1&sn=9381cef84d43280d78c55d7f544623ec
-    - author: DrissionPage
-      release_time: 2026.05.13 07:50:42
-      title: DrissionPage4.2测试版发布
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzczMw==&mid=2247483751&idx=1&sn=1f5ffb92a336af0ef2fb0fd4eae600d1
-    - author: 进击的HACK
-      release_time: 2026.05.12 18:15:43
-      title: 字典跑不出Actuator？从JS前缀到绕过Cookie下载HeapDump
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490047&idx=1&sn=917285ddaf6dda0066b533cb71f3f63a
-    - author: 哆啦安全
-      release_time: 2026.05.12 17:45:27
-      title: APK安全智能分析工具V5.3
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500459&idx=1&sn=9dc8ece9c252c93474d8e99d2dea942f
-    - author: 哆啦安全
-      release_time: 2026.05.12 17:45:27
-      title: Android逆向智能分析工具V1.4
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500459&idx=2&sn=644abb65d1b691166d505bb92c7ea245
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.05.12 16:23:42
-      title: 第三届全球数据合规年度论坛, 5月22-23上海见!
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520127&idx=1&sn=c6237a991611a3778b4832fd340babbc
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.05.12 16:23:42
-      title: 通用汽车因非法出售车主驾驶数据被罚1275万美元
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520127&idx=2&sn=1d4096bdb1210cc7eb9c25cb12906686
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.05.12 16:23:42
-      title: 北京数据出境负面清单管理机制从自贸区扩展至全域
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520127&idx=3&sn=b87536718de0141d8ba14c5bf7790ff6
-    - author: 逆不逆
-      release_time: 2026.05.12 15:52:00
-      title: unidbg模拟执行某书shield
-      url: https://mp.weixin.qq.com/s?__biz=MzYyNTY2NDgyNA==&mid=2247483847&idx=1&sn=ddc694302ef52c065ca19cc213aa0d45
-    - author: 软件安全与逆向分析
-      release_time: 2026.05.12 12:20:33
-      title: 三大Root框架通杀检测与反检测方法分析
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485204&idx=1&sn=0cf8c32c11363b3fab82419058605ad5
-    - author: 泡泡以安
-      release_time: 2026.05.12 09:09:00
-      title: Frida学习笔记（六）：Native 层 API 全解
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486244&idx=1&sn=76f4475255b9557ba7b257c51273a949
-    - author: Coder小Q
-      release_time: 2026.05.12 08:30:00
-      title: 【量子计算】量子超密编码：为什么 1 个量子比特能传 2 个经典比特
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495651&idx=1&sn=cb9dccf25beae60a26144266e5216c2a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
