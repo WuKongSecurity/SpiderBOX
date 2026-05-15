@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向搅屎棍
+      release_time: 2026.05.15 14:01:34
+      title: AI能力5级分层：你的老板、领导、同事在哪个段位？3秒看穿!
+      url: https://mp.weixin.qq.com/s?__biz=MzYzNDQzNDIyNg==&mid=2247483707&idx=1&sn=e4b3fe6ff555e22201d473d9af8d23e7
     - author: 小恰学逆向
       release_time: 2026.05.15 12:46:01
       title: 【AI逆向学习笔记】用AI大模型实现某盾点选的轨迹模拟（文末附源码和提示词）
@@ -240,10 +244,6 @@
       release_time: 2026.05.13 15:42:15
       title: 有意思的官方杀同人安卓投屏多窗口融合模式
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485211&idx=1&sn=de7f359c8d7861e8b1124667a40341b6
-    - author: wangyu223
-      release_time: 2026.05.13 10:45:23
-      title: 某招聘软件so层加密分析（一）
-      url: https://mp.weixin.qq.com/s?__biz=MzY4ODI4MzQwNQ==&mid=2247483830&idx=1&sn=4056d7e9db849e62ce015f1d020defbe
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
