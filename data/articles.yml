@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小恰学逆向
+      release_time: 2026.05.15 12:46:01
+      title: 【AI逆向学习笔记】用AI大模型实现某盾点选的轨迹模拟（文末附源码和提示词）
+      url: https://mp.weixin.qq.com/s?__biz=MzkwNTg3MjY3MQ==&mid=2247484998&idx=1&sn=685c6057cf087811f20288dd7826aa64
+    - author: 哆啦安全
+      release_time: 2026.05.15 12:00:35
+      title: 二进制逆向智能分析辅助工具V3.1
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500496&idx=1&sn=79b9e960d47867077f89a79fb9531b42
+    - author: 不落的逆向手札
+      release_time: 2026.05.15 11:20:22
+      title: Smali 汇编从 0 到精通（宝宝入门版）
+      url: https://mp.weixin.qq.com/s?__biz=MzYzNTAzOTIxMw==&mid=2247483963&idx=1&sn=fb013d978fa48b3b76f5e657f96c522f
     - author: 如意私塾
       release_time: 2026.05.15 10:00:00
       title: IP住宅代理再像真人，被检测概率也能到99%
@@ -232,21 +244,13 @@
       release_time: 2026.05.13 10:45:23
       title: 某招聘软件so层加密分析（一）
       url: https://mp.weixin.qq.com/s?__biz=MzY4ODI4MzQwNQ==&mid=2247483830&idx=1&sn=4056d7e9db849e62ce015f1d020defbe
-    - author: 如意私塾
-      release_time: 2026.05.13 10:00:00
-      title: DNS套了两层HTTPS，还是能被猜出你访问了哪个网站，ODoH网站指纹准确率94%
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484599&idx=1&sn=e49d65c6d92a9062129e2ba0fc14d29d
-    - author: 泡泡以安
-      release_time: 2026.05.13 09:09:00
-      title: Frida学习笔记（七）：调用栈、日志与 Hook 排错
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486255&idx=1&sn=daa7a73ba2db56db453600d9697fd49b
-    - author: 哆啦安全
-      release_time: 2026.05.13 08:52:10
-      title: AI逆向零自动化对抗全自动化：揭开AI逆向能力鸿沟的真相
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500465&idx=1&sn=047068bd32ae1b6aee58daf2c52295ba
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: kjkuang
+      release_time: 2026.05.15 11:54:00
+      title: xpalyer公司另一款产品arc palyer  只改一处获得专业版
+      url: https://www.52pojie.cn/thread-2107840-1-1.html
     - author: xiayutianz
       release_time: 2026.05.13 16:15:00
       title: 某招聘软件算法分析
@@ -363,10 +367,6 @@
       release_time: 2026.04.28 17:25:00
       title: 闲来无事，破解一款显示时间、地点、经纬度水印的相机APP
       url: https://www.52pojie.cn/thread-2105276-1-1.html
-    - author: '13955925361'
-      release_time: 2026.04.28 16:13:00
-      title: 抖音直播间弹幕获取及参数逆向
-      url: https://www.52pojie.cn/thread-2105256-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
