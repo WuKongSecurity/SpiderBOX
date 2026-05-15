@@ -251,6 +251,14 @@
       release_time: 2026.05.15 11:54:00
       title: xpalyer公司另一款产品arc palyer  只改一处获得专业版
       url: https://www.52pojie.cn/thread-2107840-1-1.html
+    - author: qn233
+      release_time: 2026.05.14 21:25:00
+      title: 某饰品交易平台订单创建协议逆向
+      url: https://www.52pojie.cn/thread-2107752-1-1.html
+    - author: 渔歌子
+      release_time: 2026.05.14 21:12:00
+      title: Interlink Network APK 逆向工程笔记
+      url: https://www.52pojie.cn/thread-2107750-1-1.html
     - author: xiayutianz
       release_time: 2026.05.13 16:15:00
       title: 某招聘软件算法分析
@@ -359,17 +367,13 @@
       release_time: 2026.04.29 15:39:00
       title: AI逆向，使用CC+deepseekv4分析安卓ELF外挂样本
       url: https://www.52pojie.cn/thread-2105428-1-1.html
-    - author: Mengzek7
-      release_time: 2026.04.28 19:03:00
-      title: 实战某 box APP全流程分析(检测绕过/登录分析/视频解锁/native加密)
-      url: https://www.52pojie.cn/thread-2105295-1-1.html
-    - author: verber34
-      release_time: 2026.04.28 17:25:00
-      title: 闲来无事，破解一款显示时间、地点、经纬度水印的相机APP
-      url: https://www.52pojie.cn/thread-2105276-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: taeyeon_ss
+      release_time: 2026.05.15 16:45:09
+      title: 和爱豆更近一步——某爱豆聊天App反调试绕过
+      url: https://bbs.kanxue.com/thread-291227.htm
     - author: Mengz3
       release_time: 2026.05.14 20:59:08
       title: '[原创]某招聘APP：sig 和 sp 请求参数分析'
@@ -487,10 +491,6 @@
       release_time: 2026.05.04 15:53:07
       title: '[原创]AndProxy 升级版：基于 Seccomp 的无 Hook Binder 服务代理'
       url: https://bbs.kanxue.com/thread-291098.htm
-    - author: 孤木落
-      release_time: 2026.05.04 15:01:01
-      title: '[原创]把.o变成.ko（三）：自己写 Loader 才知道的事'
-      url: https://bbs.kanxue.com/thread-291097.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
