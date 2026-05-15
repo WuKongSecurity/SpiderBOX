@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 奋斗的小趴菜
+      release_time: 2026.05.15 18:10:22
+      title: '[原创]爱加密 v4 加固逆向：从 Frida 失效到完全离线解密脱壳'
+      url: https://bbs.kanxue.com/thread-291228.htm
     - author: taeyeon_ss
       release_time: 2026.05.15 16:45:09
       title: 和爱豆更近一步——某爱豆聊天App反调试绕过
@@ -487,10 +491,6 @@
       release_time: 2026.05.05 16:17:41
       title: '[原创]AI逆向某视频签名算法X-Medusa全过程'
       url: https://bbs.kanxue.com/thread-291105.htm
-    - author: 孤木落
-      release_time: 2026.05.04 15:53:07
-      title: '[原创]AndProxy 升级版：基于 Seccomp 的无 Hook Binder 服务代理'
-      url: https://bbs.kanxue.com/thread-291098.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
