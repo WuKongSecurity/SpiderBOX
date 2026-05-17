@@ -370,6 +370,14 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: babyfox
+      release_time: 2026.05.17 08:38:16
+      title: '[分享]免费域名'
+      url: https://bbs.kanxue.com/thread-291244.htm
+    - author: babyfox
+      release_time: 2026.05.17 08:37:16
+      title: '[分享]免费云服务'
+      url: https://bbs.kanxue.com/thread-291243.htm
     - author: 一只鸭子
       release_time: 2026.05.16 20:04:00
       title: '[原创]抖音 libsscronet 跨 SO 加密调用机制'
@@ -483,14 +491,6 @@
       release_time: 2026.05.07 16:40:37
       title: '[原创]Dlink dir-882 获取串口调试'
       url: https://bbs.kanxue.com/thread-291131.htm
-    - author: 狗都不学爬虫_
-      release_time: 2026.05.07 11:56:26
-      title: JS逆向 -最新版 某里（decode__1174盼之、md5__1803中兔日上、timestamp__1501拙政园、md5__1038雪球）醇酸
-      url: https://blog.csdn.net/qq_53444631/article/details/160852951
-    - author: 伊苏尔德
-      release_time: 2026.05.06 20:01:29
-      title: '[分享]分析libmsaoaidsec.so的frida反调试'
-      url: https://bbs.kanxue.com/thread-291121.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
