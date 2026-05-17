@@ -124,6 +124,30 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.05.17 22:10:10
+      title: 逆向工程师的效率革命
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500534&idx=1&sn=cbd3906bbe97e5a47437b84700bd1841
+    - author: 菜鸟学Python编程
+      release_time: 2026.05.17 20:53:55
+      title: 零基础AI反混淆与逆向:让AI生成(类)ob混淆彻底还原的skills(一)
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566532&idx=1&sn=fdcf2727e34905b66b5a53b2750526ad
+    - author: 二进制磨剑
+      release_time: 2026.05.17 20:51:27
+      title: 对抗 AI 逆向工程：让大模型在你的二进制面前翻车
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486091&idx=1&sn=c24f5e0f9178bc7e1923457b1402bbc4
+    - author: 如意私塾
+      release_time: 2026.05.17 14:19:44
+      title: 突破一切自动化反爬虫-浏览器内置内核级过检测+指纹浏览器
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484635&idx=1&sn=710d58a5a71f05cba64b9a09372cced1
+    - author: 沐阳逆向与AI学习
+      release_time: 2026.05.17 13:19:38
+      title: 沐阳安卓逆向学习助手发布_一键安装常用工具，手机抓包转发全流程
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484629&idx=1&sn=b1a9674a32b92c133a39de526f5c5950
+    - author: DrissionPage
+      release_time: 2026.05.17 08:20:13
+      title: 4.2.0b5
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzczMw==&mid=2247483762&idx=1&sn=c3ae74d6323e7cea83534eef7eec3593
     - author: 逆向搅屎棍
       release_time: 2026.05.15 14:01:34
       title: AI能力5级分层：你的老板、领导、同事在哪个段位？3秒看穿!
@@ -220,30 +244,6 @@
       release_time: 2026.05.13 20:51:04
       title: spider-king 面向 Web 协议恢复与参数还原场景的 Skill
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490051&idx=1&sn=8ef8cfe425e95f48b5135b16b7756b25
-    - author: 未闻Code
-      release_time: 2026.05.13 18:00:16
-      title: 你存进去的知识，为什么一条都没用上？Obsidian + Claude 这样让知识库自己变聪明
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991584&idx=1&sn=db3007c37dff5c74d1e7c32b191ffcb0
-    - author: 桐梓坡低手
-      release_time: 2026.05.13 16:46:10
-      title: 饿了么商家 IM + 订单事件实时监听服务（对抗风控方案服务也有）
-      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247483862&idx=1&sn=fee1d4dbca69e2a81527d262e3d0a9bc
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.05.13 16:40:16
-      title: 双罚！中行某省分行因数据安全被罚，金融科技部人员连带受罚
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520135&idx=1&sn=b6ae55e5343eb0f32144746c978123e5
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.05.13 16:40:16
-      title: 全国网安标委获批发布10项网络安全国家标准
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520135&idx=2&sn=0f4722622e0c21599acef33be8c74026
-    - author: just reverse
-      release_time: 2026.05.13 16:09:14
-      title: 某招聘软件算法分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzk1NzI2Njg5NQ==&mid=2247483976&idx=1&sn=7f3a72206f1a0258a6e795616b138380
-    - author: 软件安全与逆向分析
-      release_time: 2026.05.13 15:42:15
-      title: 有意思的官方杀同人安卓投屏多窗口融合模式
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485211&idx=1&sn=de7f359c8d7861e8b1124667a40341b6
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
