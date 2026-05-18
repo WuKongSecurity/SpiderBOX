@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 若水0014
+      release_time: 2026.05.19 00:28:19
+      title: 每日一把黑百合--老只是借口
+      url: https://www.bilibili.com/video/BV1d8LA6VE9V
     - author: JS逆向零基础实战
       release_time: 2026.05.18 22:32:10
       title: JS逆向案例合集
@@ -117,10 +121,6 @@
       release_time: 2026.05.04 11:13:13
       title: 使用反混淆skills秒杀ob混淆
       url: https://www.bilibili.com/video/BV1WEReB6Eex
-    - author: b站用户ajahhabvw
-      release_time: 2026.04.30 21:46:44
-      title: 阿里234逆向-1
-      url: https://www.bilibili.com/video/BV1pi9eBNErW
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
