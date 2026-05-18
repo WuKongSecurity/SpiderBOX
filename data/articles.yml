@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.05.18 18:58:36
+      title: hack-skills 助力 AI 智能体成长为实力顶尖的实战渗透高手！
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490060&idx=1&sn=c658f1851ee0468a255ee1159b133d20
     - author: wangyu223
       release_time: 2026.05.18 13:56:00
       title: 某招聘软件so层加密分析（二）
@@ -240,10 +244,6 @@
       release_time: 2026.05.14 09:09:00
       title: Frida学习笔记（八）：SSL Pinning 绕过全攻略
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486299&idx=1&sn=61c9b1da099fabd9f2c65da9a8906ee8
-    - author: 哆啦安全
-      release_time: 2026.05.14 08:56:11
-      title: 2026机器人与具身智能开源项目大盘点(模型·硬件·仿真·框架)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500470&idx=1&sn=b1e51c581c8f72301d17dba0acd17cd6
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -251,6 +251,10 @@
       release_time: 2026.05.18 11:22:00
       title: Hermes Agent 对抗 Garuda Defender Frida 检测：从弹窗链路到绕过
       url: https://www.52pojie.cn/thread-2108259-1-1.html
+    - author: 小亮丶1
+      release_time: 2026.05.17 12:58:00
+      title: 最新易盾web滑块逆向分析。
+      url: https://www.52pojie.cn/thread-2108119-1-1.html
     - author: rsds0duck
       release_time: 2026.05.16 19:32:00
       title: 抖音 libsscronet 跨 SO 加密调用机制
@@ -363,10 +367,6 @@
       release_time: 2026.05.02 02:15:00
       title: root后可以做什么-使用np管理器跳过程序验证界面
       url: https://www.52pojie.cn/thread-2105822-1-1.html
-    - author: f20171110
-      release_time: 2026.05.02 01:12:00
-      title: Web逆向 JS逆向 基础知识 ：Ignition解释器下一
-      url: https://www.52pojie.cn/thread-2105820-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
