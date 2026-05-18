@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: JS逆向零基础实战
+      release_time: 2026.05.18 22:32:10
+      title: JS逆向案例合集
+      url: https://www.bilibili.com/video/BV1TULA6wEDe
     - author: B站用户骚神
       release_time: 2026.05.15 10:29:07
       title: 【虫神 插件V1.5】人工智能版爬虫插件，新增5大逆天功能！！
@@ -117,13 +121,17 @@
       release_time: 2026.04.30 21:46:44
       title: 阿里234逆向-1
       url: https://www.bilibili.com/video/BV1pi9eBNErW
-    - author: 学逆向的柚子
-      release_time: 2026.04.30 16:39:20
-      title: 4月30日
-      url: https://www.bilibili.com/video/BV1jC9aBQEmF
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: DrissionPage
+      release_time: 2026.05.19 00:01:00
+      title: 4.2.0b7
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzczMw==&mid=2247483780&idx=1&sn=a48d4b33655270ec36ad5655154aa0cf
+    - author: 如意私塾
+      release_time: 2026.05.18 21:41:04
+      title: 钓鱼网站可偷走浏览器指纹，伪装设备，从而绕过更严格的2FA二次验证
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484644&idx=1&sn=07d18e9ba8aed1903b509c687deb80f7
     - author: 进击的HACK
       release_time: 2026.05.18 18:58:36
       title: hack-skills 助力 AI 智能体成长为实力顶尖的实战渗透高手！
@@ -236,14 +244,6 @@
       release_time: 2026.05.14 10:32:18
       title: UserDun 逆向流程分析
       url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247490678&idx=1&sn=d2038e83b15d9b138eb10a3dac454b79
-    - author: Pythonlx
-      release_time: 2026.05.14 09:45:09
-      title: CloakBrowser解锁无阻碍自动化
-      url: https://mp.weixin.qq.com/s?__biz=MzU4NzkwNTU3Ng==&mid=2247485307&idx=1&sn=cb349ce428c77b1867586102cb4748d4
-    - author: 泡泡以安
-      release_time: 2026.05.14 09:09:00
-      title: Frida学习笔记（八）：SSL Pinning 绕过全攻略
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486299&idx=1&sn=61c9b1da099fabd9f2c65da9a8906ee8
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
