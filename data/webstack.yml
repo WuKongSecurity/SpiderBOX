@@ -3383,6 +3383,11 @@
           no_referral: true
           url: https://www.ippeak.com/signup?code=CBEB1D
           description: IPPeak 支持免费测试，不限量套餐低至 $61/天，独立 IP 资源，每日更新，拥有覆盖全球 195+ 地区的 8000 万真实住宅 IP，适用于 AI 模型训练、账号运营等多种场景
+        - title: A1proxy
+          logo: a1proxy.png
+          no_referral: true
+          url: https://dashboard.a1proxy.com/register?invitation_code=vlbghjmyu7
+          description: "Discover A1proxy's premium residential proxies: static ISP/rotating ISP & HTTP/socks. Securely scrape with any proxy scraper. Find proxy sites offering free proxy trials. Enjoy blazing quic vpn speeds & proxy browser tools. Get reliable proxy proxy servers now!"
 
         # 8% ==============================
         - title: 荔枝 IP
