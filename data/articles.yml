@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: DrissionPage
+      release_time: 2026.05.18 08:14:32
+      title: 4.2.0b6
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzczMw==&mid=2247483771&idx=1&sn=7d2102f7414c8b3ae6bb3b86c91d1e5d
+    - author: 测试工程师成长之路
+      release_time: 2026.05.18 08:00:00
+      title: 取代测试岗，又一新兴岗位在崛起！这才是测试人未来5年最好的就业方向！
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578990&idx=1&sn=968d2f43833fb5ddd220ba595ad3b83d
     - author: 哆啦安全
       release_time: 2026.05.17 22:10:10
       title: 逆向工程师的效率革命
@@ -236,14 +244,6 @@
       release_time: 2026.05.14 06:42:58
       title: 4.2.0b3
       url: https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzczMw==&mid=2247483756&idx=1&sn=03cefb476b29000acdb2d4d1ad4ddc05
-    - author: 如意私塾
-      release_time: 2026.05.14 01:10:34
-      title: 住宅代理没你想的那么无限：4家服务商实测，一半以上出口IP重合
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484605&idx=1&sn=44b5820786a42746b46392997856ecba
-    - author: 进击的HACK
-      release_time: 2026.05.13 20:51:04
-      title: spider-king 面向 Web 协议恢复与参数还原场景的 Skill
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490051&idx=1&sn=8ef8cfe425e95f48b5135b16b7756b25
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
