@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 泡泡以安
+      release_time: 2026.05.18 11:55:45
+      title: Frida学习笔记（十）：gRPC、Protobuf 协议逆向
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486350&idx=1&sn=9a05a322ce75854b3ae96529ed8067ac
     - author: DrissionPage
       release_time: 2026.05.18 08:14:32
       title: 4.2.0b6
@@ -240,10 +244,6 @@
       release_time: 2026.05.14 08:30:00
       title: 【量子计算】结语：把量子计算的入门连成一条线
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495675&idx=1&sn=70c761018969439e689d6db9a394b4c6
-    - author: DrissionPage
-      release_time: 2026.05.14 06:42:58
-      title: 4.2.0b3
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzczMw==&mid=2247483756&idx=1&sn=03cefb476b29000acdb2d4d1ad4ddc05
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
