@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: wangyu223
+      release_time: 2026.05.18 13:56:00
+      title: 某招聘软件so层加密分析（二）
+      url: https://mp.weixin.qq.com/s?__biz=MzY4ODI4MzQwNQ==&mid=2247483849&idx=1&sn=05581398a1d9ff3e3d6956a1d6e50664
     - author: 泡泡以安
       release_time: 2026.05.18 11:55:45
       title: Frida学习笔记（十）：gRPC、Protobuf 协议逆向
@@ -240,13 +244,17 @@
       release_time: 2026.05.14 08:56:11
       title: 2026机器人与具身智能开源项目大盘点(模型·硬件·仿真·框架)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500470&idx=1&sn=b1e51c581c8f72301d17dba0acd17cd6
-    - author: Coder小Q
-      release_time: 2026.05.14 08:30:00
-      title: 【量子计算】结语：把量子计算的入门连成一条线
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495675&idx=1&sn=70c761018969439e689d6db9a394b4c6
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: CrackCM
+      release_time: 2026.05.18 11:22:00
+      title: Hermes Agent 对抗 Garuda Defender Frida 检测：从弹窗链路到绕过
+      url: https://www.52pojie.cn/thread-2108259-1-1.html
+    - author: rsds0duck
+      release_time: 2026.05.16 19:32:00
+      title: 抖音 libsscronet 跨 SO 加密调用机制
+      url: https://www.52pojie.cn/thread-2108051-1-1.html
     - author: kjkuang
       release_time: 2026.05.15 11:54:00
       title: xpalyer公司另一款产品arc palyer  只改一处获得专业版
@@ -359,14 +367,6 @@
       release_time: 2026.05.02 01:12:00
       title: Web逆向 JS逆向 基础知识 ：Ignition解释器下一
       url: https://www.52pojie.cn/thread-2105820-1-1.html
-    - author: 孤木落
-      release_time: 2026.04.29 19:47:00
-      title: 把 .so 变成 .ko：一次 ELF 格式的奇妙之旅
-      url: https://www.52pojie.cn/thread-2105492-1-1.html
-    - author: jbczzz
-      release_time: 2026.04.29 15:39:00
-      title: AI逆向，使用CC+deepseekv4分析安卓ELF外挂样本
-      url: https://www.52pojie.cn/thread-2105428-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
