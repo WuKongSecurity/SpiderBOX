@@ -374,6 +374,10 @@
       release_time: 2026.05.19 19:33:30
       title: '[原创] 半年时间，我终于用懂了 eDBG —— eBPF 轻量级 trace   tenet 回放伪动调的调试器'
       url: https://bbs.kanxue.com/thread-291272.htm
+    - author: 悦来客栈的老板
+      release_time: 2026.05.19 17:35:00
+      title: 零基础AI反混淆与逆向:让AI生成(类)ob混淆彻底还原的skills(二)
+      url: https://blog.csdn.net/qq523176585/article/details/161236456
     - author: internnal_q
       release_time: 2026.05.19 17:03:16
       title: '[原创]当“头像”变成后门：Ghost CMS 存储型 XSS（CVE-2024-23724）'
@@ -487,10 +491,6 @@
       release_time: 2026.05.09 11:13:59
       title: '[推荐]什么是反向代理？它能解决什么问题？'
       url: https://bbs.kanxue.com/thread-291150.htm
-    - author: jikjgygjhg
-      release_time: 2026.05.08 23:11:49
-      title: '[原创] ida-agent-bridge，一个纯粹的无头 IDA Cli with Skill'
-      url: https://bbs.kanxue.com/thread-291146.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
