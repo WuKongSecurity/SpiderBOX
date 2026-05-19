@@ -1,6 +1,26 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2026.05.19 12:57:41
+      title: 网页自动化小妙招-PlayWright代码录制器自动生成DrissionPage爬虫代码！
+      url: https://www.bilibili.com/video/BV1HULM6iEAu
+    - author: 和沐阳学逆向与Ai
+      release_time: 2026.05.19 12:06:18
+      title: 2026沐阳安卓逆向从零入门系列
+      url: https://www.bilibili.com/video/BV1WyLM6uECQ
+    - author: 逆向狗都不学
+      release_time: 2026.05.19 09:36:42
+      title: Android逆向之DEX文件解析
+      url: https://www.bilibili.com/video/BV1EDLK64Eim
+    - author: 逆向狗都不学
+      release_time: 2026.05.19 09:36:05
+      title: Android逆向之DEX文件结构
+      url: https://www.bilibili.com/video/BV1n2LK6FEkC
+    - author: 逆向狗都不学
+      release_time: 2026.05.19 09:30:39
+      title: Android逆向之DEX文件基础
+      url: https://www.bilibili.com/video/BV1n2LK6FEdw
     - author: 若水0014
       release_time: 2026.05.19 00:28:19
       title: 每日一把黑百合--老只是借口
@@ -101,29 +121,29 @@
       release_time: 2026.05.07 17:39:59
       title: 自制nodejs插件虚拟机环境，封装底层v8的c++层api到js层，js即可实现同c++效果
       url: https://www.bilibili.com/video/BV1uBdwBhEGL
-    - author: 若水0014
-      release_time: 2026.05.07 16:12:44
-      title: 自制全新nodejs插件v8虚拟机self-vm使用教程
-      url: https://www.bilibili.com/video/BV19gdABBEBU
-    - author: 如意-浏览器开发培训
-      release_time: 2026.05.06 23:25:20
-      title: firefox指纹浏览器linux版本演示
-      url: https://www.bilibili.com/video/BV1rRRtBDE2q
-    - author: 悦来客栈的老板
-      release_time: 2026.05.06 14:41:48
-      title: AI + 自动化100%过极验滑块
-      url: https://www.bilibili.com/video/BV1bGRsBXEA1
-    - author: 池唐不是糖
-      release_time: 2026.05.04 11:32:58
-      title: 关于start注入的破解教程？？？
-      url: https://www.bilibili.com/video/BV1J2RYBaEoD
-    - author: 悦来客栈的老板
-      release_time: 2026.05.04 11:13:13
-      title: 使用反混淆skills秒杀ob混淆
-      url: https://www.bilibili.com/video/BV1WEReB6Eex
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2026.05.19 15:18:03
+      title: 问题收集贴（安卓逆向，JS逆向，PC逆向）
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041740&idx=1&sn=8744ec8311ba633f0aadd4f1646d456d
+    - author: 沐阳逆向与AI学习
+      release_time: 2026.05.19 12:16:43
+      title: 2026安卓逆向入门最新基础课免费发布
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484637&idx=1&sn=65591a922679f62db618948035c87c67
+    - author: 哆啦安全
+      release_time: 2026.05.19 12:07:46
+      title: AI正在重塑Android逆向新范式
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500548&idx=1&sn=2ad7e3ddd3d0c17d96f6b01c32db2757
+    - author: 逆向搅屎棍
+      release_time: 2026.05.19 10:40:21
+      title: 我给零散脚本做了一个轻量级调度后台
+      url: https://mp.weixin.qq.com/s?__biz=MzYzNDQzNDIyNg==&mid=2247483716&idx=1&sn=a4bba1a9f86ed6e9c3f73ff701efeff8
+    - author: 泡泡以安
+      release_time: 2026.05.19 09:03:00
+      title: Frida学习笔记（十一）：Android 系统级 Hook
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486414&idx=1&sn=e9e88b1895f5b6bd6a79d157a9d9a75a
     - author: DrissionPage
       release_time: 2026.05.19 00:01:00
       title: 4.2.0b7
@@ -176,6 +196,10 @@
       release_time: 2026.05.17 08:20:13
       title: 4.2.0b5
       url: https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzczMw==&mid=2247483762&idx=1&sn=c3ae74d6323e7cea83534eef7eec3593
+    - author: 哆啦安全
+      release_time: 2026.05.16 08:01:57
+      title: AI编程智能体-DeepSeek TUI终端(使用教程)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500529&idx=1&sn=a2467298f73cf645bcd898bbc779149f
     - author: 逆向搅屎棍
       release_time: 2026.05.15 14:01:34
       title: AI能力5级分层：你的老板、领导、同事在哪个段位？3秒看穿!
@@ -220,30 +244,6 @@
       release_time: 2026.05.14 19:16:58
       title: BypassPro 自动化bypass Auth和Waf
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490055&idx=1&sn=39ff7ce78ae8ceb734a77219f58626fa
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.05.14 16:57:43
-      title: 国家网信办：短视频发布必选 6 类标签，不标不能发（附答记者问）
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520152&idx=1&sn=c8ad8ea8f1b460ea0b999f2efd258450
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.05.14 16:57:43
-      title: 因违规跨境传输个人信息，网约车应用被荷兰数据执法机构罚款1亿欧元
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520152&idx=2&sn=c643632f31f34bf703fbc0c7bbdaa75b
-    - author: 布鲁的Python之旅
-      release_time: 2026.05.14 16:25:00
-      title: 国产AI编程工具：Trae、Qoder、CodeBuddy
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486404&idx=1&sn=16131e334bca9c091bd72471ac6f436e
-    - author: 软件安全与逆向分析
-      release_time: 2026.05.14 15:35:05
-      title: 解决一个安卓15/16调试APK运行adb jdwp无输出的问题
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485221&idx=1&sn=896b232e993d35f05c40f2d4f54cdb3b
-    - author: 移动端Android和iOS开发技术分享
-      release_time: 2026.05.14 10:48:55
-      title: Dopamine 2.5 Beta 3 发布：iOS 17 / 18 越狱支持终于来了
-      url: https://mp.weixin.qq.com/s?__biz=MjM5MjEzMDAzMg==&mid=2257485086&idx=1&sn=8ee9e44ee9825f93f20648f4ab503d93
-    - author: 影17
-      release_time: 2026.05.14 10:32:18
-      title: UserDun 逆向流程分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247490678&idx=1&sn=d2038e83b15d9b138eb10a3dac454b79
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: ngiokweng
+      release_time: 2026.05.19 12:06:43
+      title: '[原创] 淺談Frida無痕Hook'
+      url: https://bbs.kanxue.com/thread-291266.htm
     - author: mb_wckjnnha
       release_time: 2026.05.18 00:17:59
       title: '[原创]Android风险环境检测 —— 签名校验'
@@ -487,10 +491,6 @@
       release_time: 2026.05.08 18:32:40
       title: '[分享]记录如何追踪native函数动态注册地址'
       url: https://bbs.kanxue.com/thread-291142.htm
-    - author: 论坛垫底成员
-      release_time: 2026.05.08 01:11:17
-      title: '[分享] 脱壳神器【Layout Inspect】肘爆SystemUI'
-      url: https://bbs.kanxue.com/thread-291134.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
