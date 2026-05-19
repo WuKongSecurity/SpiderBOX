@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: DrissionPage
+      release_time: 2026.05.19 20:49:24
+      title: DrissionPage4.2测试版发布，欢迎尝鲜
+      url: https://www.bilibili.com/video/BV1XrLz6rE3U
     - author: B站用户骚神
       release_time: 2026.05.19 12:57:41
       title: 网页自动化小妙招-PlayWright代码录制器自动生成DrissionPage爬虫代码！
@@ -117,10 +121,6 @@
       release_time: 2026.05.07 22:33:25
       title: 实战55——某里V2验证码分析（上）
       url: https://www.bilibili.com/video/BV1iDdAB3EGV
-    - author: 若水0014
-      release_time: 2026.05.07 17:39:59
-      title: 自制nodejs插件虚拟机环境，封装底层v8的c++层api到js层，js即可实现同c++效果
-      url: https://www.bilibili.com/video/BV1uBdwBhEGL
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
