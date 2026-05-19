@@ -1,6 +1,18 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: JS逆向零基础实战
+      release_time: 2026.05.19 23:48:17
+      title: h5st加密参数
+      url: https://www.bilibili.com/video/BV1izLr6QExX
+    - author: JS逆向零基础实战
+      release_time: 2026.05.19 23:46:42
+      title: 小红书加密定位扣代码
+      url: https://www.bilibili.com/video/BV1FaLr64EYT
+    - author: JS逆向零基础实战
+      release_time: 2026.05.19 23:42:36
+      title: dy_a_bogus参数分析定位
+      url: https://www.bilibili.com/video/BV1jzLr6QEuM
     - author: DrissionPage
       release_time: 2026.05.19 20:49:24
       title: DrissionPage4.2测试版发布，欢迎尝鲜
@@ -109,18 +121,6 @@
       release_time: 2026.05.08 22:38:25
       title: akamai纯算-1
       url: https://www.bilibili.com/video/BV1e4d3BfEQw
-    - author: b站用户ajahhabvw
-      release_time: 2026.05.08 22:30:19
-      title: akamai字符串解混淆
-      url: https://www.bilibili.com/video/BV18id3BXEav
-    - author: EithanSolace
-      release_time: 2026.05.08 08:00:00
-      title: 密码学补完计划[第三十三期] BLAKE2b
-      url: https://www.bilibili.com/video/BV1BMdNBmEsx
-    - author: 蛋蛋yong闯小B站
-      release_time: 2026.05.07 22:33:25
-      title: 实战55——某里V2验证码分析（上）
-      url: https://www.bilibili.com/video/BV1iDdAB3EGV
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 鸠山一茶
+      release_time: 2026.05.19 22:39:00
+      title: '[原创] Deep Archive {JiGuro} CrackMe 逆向分析：不止一个的秘密'
+      url: https://www.52pojie.cn/thread-2108530-1-1.html
     - author: CrackCM
       release_time: 2026.05.18 11:22:00
       title: Hermes Agent 对抗 Garuda Defender Frida 检测：从弹窗链路到绕过
@@ -363,10 +367,6 @@
       release_time: 2026.05.03 13:42:00
       title: 某记健身APP会员破解分析
       url: https://www.52pojie.cn/thread-2105965-1-1.html
-    - author: 小m真2
-      release_time: 2026.05.02 02:15:00
-      title: root后可以做什么-使用np管理器跳过程序验证界面
-      url: https://www.52pojie.cn/thread-2105822-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
