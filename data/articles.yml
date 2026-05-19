@@ -124,6 +124,26 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.05.19 18:32:32
+      title: API接口渗透测试工具 ApiHunter
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490064&idx=1&sn=fd6cfaeb6b1c599bce33d5d94d320bc0
+    - author: 未闻Code
+      release_time: 2026.05.19 18:18:15
+      title: 多次霸榜 GitHub，暴涨 9700+ Star，这个开源 AI 助手要火了！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991587&idx=1&sn=8371b1e8b38cadf69635b4d7e4d09665
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.05.19 17:50:34
+      title: 网飞（Netflix）因非法收集用户数据被德州总检察长起诉
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520163&idx=1&sn=b13d350c720517065de4aac713313b29
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.05.19 17:50:34
+      title: 中国数据保护月度报告：重点提示及目录（2026年5月）
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520163&idx=2&sn=df82388670c31ddc48edb5c308aae783
+    - author: 菜鸟学Python编程
+      release_time: 2026.05.19 17:35:00
+      title: 零基础AI反混淆与逆向:让AI生成(类)ob混淆彻底还原的skills(二)
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566536&idx=1&sn=2e1409efa24038dacd469a2921f89da1
     - author: 逆向有你
       release_time: 2026.05.19 15:18:03
       title: 问题收集贴（安卓逆向，JS逆向，PC逆向）
@@ -224,26 +244,6 @@
       release_time: 2026.05.15 09:44:02
       title: Frida学习笔记（九）：r0capture 源码精读 · 不靠代理的抓包是怎么实现的
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486323&idx=1&sn=87d224e5b062dc3bc46064404e74dd4b
-    - author: 测试工程师成长之路
-      release_time: 2026.05.15 09:25:29
-      title: 你以为的测试工程师VS实际上的测试工程师
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578972&idx=1&sn=9f6d9ecdfc2246d9a864d70f3d551fcb
-    - author: 泡泡以安
-      release_time: 2026.05.15 09:01:00
-      title: 我用 AI 写了一个多平台发布工具
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486322&idx=1&sn=c63e1bcdd339f737354f2314adfb8d68
-    - author: 如意私塾
-      release_time: 2026.05.14 23:47:31
-      title: Token中转站：AI时代最热闹，也最危险的一门水电生意
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484615&idx=1&sn=128ec26a6404086d1686bab61bcab1df
-    - author: 挖个洞先
-      release_time: 2026.05.14 20:11:39
-      title: 【银行逆向百例】17Android逆向之libDexHelper梆梆加固frida检测绕过
-      url: https://mp.weixin.qq.com/s?__biz=MzkyNjY3OTI4Ng==&mid=2247486061&idx=1&sn=4858da99f5615535887e36177db4ef22
-    - author: 进击的HACK
-      release_time: 2026.05.14 19:16:58
-      title: BypassPro 自动化bypass Auth和Waf
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490055&idx=1&sn=39ff7ce78ae8ceb734a77219f58626fa
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,14 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: vior
+      release_time: 2026.05.19 19:33:30
+      title: '[原创] 半年时间，我终于用懂了 eDBG —— eBPF 轻量级 trace   tenet 回放伪动调的调试器'
+      url: https://bbs.kanxue.com/thread-291272.htm
+    - author: internnal_q
+      release_time: 2026.05.19 17:03:16
+      title: '[原创]当“头像”变成后门：Ghost CMS 存储型 XSS（CVE-2024-23724）'
+      url: https://bbs.kanxue.com/thread-291270.htm
     - author: ngiokweng
       release_time: 2026.05.19 12:06:43
       title: '[原创] 淺談Frida無痕Hook'
@@ -483,14 +491,6 @@
       release_time: 2026.05.08 23:11:49
       title: '[原创] ida-agent-bridge，一个纯粹的无头 IDA Cli with Skill'
       url: https://bbs.kanxue.com/thread-291146.htm
-    - author: n_1ng
-      release_time: 2026.05.08 21:05:38
-      title: '[原创]从0到1构建一个Hook工具之Inline Hook篇（五）'
-      url: https://bbs.kanxue.com/thread-291145.htm
-    - author: 伊苏尔德
-      release_time: 2026.05.08 18:32:40
-      title: '[分享]记录如何追踪native函数动态注册地址'
-      url: https://bbs.kanxue.com/thread-291142.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
