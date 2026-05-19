@@ -504,6 +504,10 @@
           logo: hero-sms.jpg
           url: https://hero-sms.com/
           description: 在线接收短信的虚拟号码服务，覆盖 180 多个国家，每日提供 50 多万号码，支持 WhatsApp、Telegram、Instagram、Gmail、TikTok 等平台，注意：国内法律不允许这种服务存在
+        - title: 5sim
+          logo: 5sim.jpg
+          url: https://5sim.net/
+          description: 5SIM – 在线接码平台。购买或者租用虚拟号码接收短信验证码并在不同网站和应用上创建大量账号。价格从1网站币起
         - title: SMSBower
           logo: smsbower.png
           url: https://smsbower.app/
