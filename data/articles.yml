@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 奋飞安全
+      release_time: 2026.05.20 12:44:47
+      title: 这次做《看新闻赚钱》，我终于把最烦的脏活丢给 AI 了
+      url: https://mp.weixin.qq.com/s?__biz=MzI4NzMwNDI3OQ==&mid=2247485098&idx=1&sn=4f2b893e38a6d8405183b22e01330f8c
+    - author: 哆啦安全
+      release_time: 2026.05.20 08:00:00
+      title: 全国首部“AI生成内容合规”标准，现公开征集起草单位和个人
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500551&idx=1&sn=03fdd23d0175189289afa63da02f1d3e
     - author: 进击的HACK
       release_time: 2026.05.19 18:32:32
       title: API接口渗透测试工具 ApiHunter
@@ -236,14 +244,6 @@
       release_time: 2026.05.15 11:20:22
       title: Smali 汇编从 0 到精通（宝宝入门版）
       url: https://mp.weixin.qq.com/s?__biz=MzYzNTAzOTIxMw==&mid=2247483963&idx=1&sn=fb013d978fa48b3b76f5e657f96c522f
-    - author: 如意私塾
-      release_time: 2026.05.15 10:00:00
-      title: IP住宅代理再像真人，被检测概率也能到99%
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484610&idx=1&sn=d1117eaa1c99f158720c2d6731405a25
-    - author: 泡泡以安
-      release_time: 2026.05.15 09:44:02
-      title: Frida学习笔记（九）：r0capture 源码精读 · 不靠代理的抓包是怎么实现的
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486323&idx=1&sn=87d224e5b062dc3bc46064404e74dd4b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
