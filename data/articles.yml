@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: verber34
+      release_time: 2026.05.20 08:30:00
+      title: 付费破解一款 吉他调音器APP的永久会员，大家还是要支持正版！
+      url: https://www.52pojie.cn/thread-2108552-1-1.html
     - author: 鸠山一茶
       release_time: 2026.05.19 22:39:00
       title: '[原创] Deep Archive {JiGuro} CrackMe 逆向分析：不止一个的秘密'
@@ -363,10 +367,6 @@
       release_time: 2026.05.03 14:08:00
       title: 【网络逆向】TS到视频HLS加密简单逆向实录
       url: https://www.52pojie.cn/thread-2105967-1-1.html
-    - author: justWant404
-      release_time: 2026.05.03 13:42:00
-      title: 某记健身APP会员破解分析
-      url: https://www.52pojie.cn/thread-2105965-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
