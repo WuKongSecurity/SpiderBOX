@@ -492,6 +492,10 @@
         #          logo: kopeechka.jpg
         #          url: https://kopeechka.store/
         #          description: 在线接收邮箱验证码，支持 gmail、outlook 等多种邮箱
+        - title: Temp Mail 100
+          logo: tempmail100.png
+          url: https://tempmail100.com/
+          description: 在线临时邮箱
         - title: Temp Mail
           logo: temp-mail.jpg
           url: https://temp-mail.org/
