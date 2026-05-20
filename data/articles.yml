@@ -2,6 +2,34 @@
   list:
   - links:
     - author: JS逆向零基础实战
+      release_time: 2026.05.20 23:28:21
+      title: 01响应数据解密
+      url: https://www.bilibili.com/video/BV18tLS6wEH6
+    - author: JS逆向零基础实战
+      release_time: 2026.05.20 23:28:14
+      title: 02响应数据解密
+      url: https://www.bilibili.com/video/BV1utLS6wEX2
+    - author: JS逆向零基础实战
+      release_time: 2026.05.20 23:28:06
+      title: 03登录注册加密
+      url: https://www.bilibili.com/video/BV18tLS6wEAZ
+    - author: JS逆向零基础实战
+      release_time: 2026.05.20 23:27:49
+      title: xqw异步混淆代码调试02
+      url: https://www.bilibili.com/video/BV1btLS6wE9n
+    - author: JS逆向零基础实战
+      release_time: 2026.05.20 23:23:36
+      title: 01XX平台异步调试
+      url: https://www.bilibili.com/video/BV1gsLS6PEXR
+    - author: JS逆向零基础实战
+      release_time: 2026.05.20 23:22:48
+      title: xqw混淆异步跟栈调试1
+      url: https://www.bilibili.com/video/BV1hsLS6PEnx
+    - author: JS逆向零基础实战
+      release_time: 2026.05.20 23:14:34
+      title: JS逆向补环境专题_09dy补环境实战_01
+      url: https://www.bilibili.com/video/BV15ZLS6rEmi
+    - author: JS逆向零基础实战
       release_time: 2026.05.19 23:48:17
       title: h5st加密参数
       url: https://www.bilibili.com/video/BV1izLr6QExX
@@ -93,34 +121,6 @@
       release_time: 2026.05.11 12:33:04
       title: 猿人学 iOS AI逆向试听课
       url: https://www.bilibili.com/video/BV1cD5s6jEm7
-    - author: tomysky0409
-      release_time: 2026.05.11 11:15:20
-      title: 验证码技巧分享-用ai来辅助验证码的训练识别
-      url: https://www.bilibili.com/video/BV1QG5x6cExZ
-    - author: 一只勇敢的小佳
-      release_time: 2026.05.10 21:55:28
-      title: nbyun，codexpro号池中转来了！！
-      url: https://www.bilibili.com/video/BV1RL5n6XE7S
-    - author: r0ysue
-      release_time: 2026.05.10 18:59:26
-      title: “我锐评一下你的问题”
-      url: https://www.bilibili.com/video/BV1vY576yEF4
-    - author: 冷月不是程序员
-      release_time: 2026.05.10 18:46:36
-      title: 5分钟带你了解Linux常见目录的作用
-      url: https://www.bilibili.com/video/BV13B5763EGC
-    - author: B站用户骚神
-      release_time: 2026.05.09 18:05:58
-      title: 【虫神插件v1.1】-AI驱动的人工智能爬虫插件，从此用自然语言写爬虫代码！！
-      url: https://www.bilibili.com/video/BV1fyR9BWEvb
-    - author: b站用户ajahhabvw
-      release_time: 2026.05.08 23:07:29
-      title: akamai vmp纯算-1
-      url: https://www.bilibili.com/video/BV1smd3BLEAJ
-    - author: b站用户ajahhabvw
-      release_time: 2026.05.08 22:38:25
-      title: akamai纯算-1
-      url: https://www.bilibili.com/video/BV1e4d3BfEQw
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: vwvw
+      release_time: 2026.05.20 23:55:32
+      title: '[原创] 新思路: Audit logcat 侧信道检测 root, 模拟器, scrcpy 类投屏'
+      url: https://bbs.kanxue.com/thread-291290.htm
     - author: vior
       release_time: 2026.05.19 19:33:30
       title: '[原创] 半年时间，我终于用懂了 eDBG —— eBPF 轻量级 trace   tenet 回放伪动调的调试器'
@@ -487,10 +491,6 @@
       release_time: 2026.05.09 14:51:19
       title: '[原创]Frida源码分析之Java Hook原理篇'
       url: https://bbs.kanxue.com/thread-291155.htm
-    - author: liuShow94x
-      release_time: 2026.05.09 11:13:59
-      title: '[推荐]什么是反向代理？它能解决什么问题？'
-      url: https://bbs.kanxue.com/thread-291150.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
