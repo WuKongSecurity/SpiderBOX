@@ -124,6 +124,26 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二手的程序员
+      release_time: 2026.05.20 21:54:05
+      title: VMP 开源项目研究
+      url: https://mp.weixin.qq.com/s?__biz=MzU2NTkxMTU1NA==&mid=2247489500&idx=1&sn=e411e2db6a35c29c20327a7a8f44d90c
+    - author: 如意私塾
+      release_time: 2026.05.20 21:30:59
+      title: 反爬虫不是想采什么就采什么，浏览器指纹和鼠标在欧洲都算个人数据
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484655&idx=1&sn=b9582f6b73ece173c28175fe0bc41140
+    - author: 小小杨学编程
+      release_time: 2026.05.20 20:44:00
+      title: AI使用AST反混淆应用
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484744&idx=1&sn=132460a06bacd6905b01e8c03383972a
+    - author: 猿人学Python
+      release_time: 2026.05.20 20:36:00
+      title: 今年要干一百场猿人学聚会
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550234&idx=1&sn=3e0f4434bd51bd9d03aff5a2f1d2d2a4
+    - author: 如意私塾
+      release_time: 2026.05.20 20:25:16
+      title: 你的手机是怎么被APP变成别人的移动住宅代理IP的
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484649&idx=1&sn=74d65ee94cdb5ae4f356402b244d46b5
     - author: 进击的HACK
       release_time: 2026.05.20 18:41:07
       title: 简单ob解混淆挖掘短信轰炸
@@ -224,26 +244,6 @@
       release_time: 2026.05.18 08:00:00
       title: 取代测试岗，又一新兴岗位在崛起！这才是测试人未来5年最好的就业方向！
       url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247578990&idx=1&sn=968d2f43833fb5ddd220ba595ad3b83d
-    - author: 哆啦安全
-      release_time: 2026.05.17 22:10:10
-      title: 逆向工程师的效率革命
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500534&idx=1&sn=cbd3906bbe97e5a47437b84700bd1841
-    - author: 菜鸟学Python编程
-      release_time: 2026.05.17 20:53:55
-      title: 零基础AI反混淆与逆向:让AI生成(类)ob混淆彻底还原的skills(一)
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566532&idx=1&sn=fdcf2727e34905b66b5a53b2750526ad
-    - author: 二进制磨剑
-      release_time: 2026.05.17 20:51:27
-      title: 对抗 AI 逆向工程：让大模型在你的二进制面前翻车
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486091&idx=1&sn=c24f5e0f9178bc7e1923457b1402bbc4
-    - author: 如意私塾
-      release_time: 2026.05.17 14:19:44
-      title: 突破一切自动化反爬虫-浏览器内置内核级过检测+指纹浏览器
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484635&idx=1&sn=710d58a5a71f05cba64b9a09372cced1
-    - author: 沐阳逆向与AI学习
-      release_time: 2026.05.17 13:19:38
-      title: 沐阳安卓逆向学习助手发布_一键安装常用工具，手机抓包转发全流程
-      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484629&idx=1&sn=b1a9674a32b92c133a39de526f5c5950
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
