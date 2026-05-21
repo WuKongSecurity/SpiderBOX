@@ -5835,6 +5835,10 @@
           url: https://github.com/MCPPhalanx/binaryninja-mcp
           logo: github.png
           description: 另一个 Binary Ninja MCP 插件
+        - title: dnakov/frida-mcp
+          url: https://github.com/dnakov/frida-mcp
+          logo: github.png
+          description: Frida 的 MCP，适合 attach、spawn、hook、动态真值采样
         - title: 1193776794/frida-mcp
           url: https://github.com/1193776794/frida-mcp
           logo: github.png
