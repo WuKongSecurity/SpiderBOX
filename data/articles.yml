@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.05.21 21:56:17
+      title: 工具推荐 | 高性能 trace 可视化分析工具
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490072&idx=1&sn=1dd310f773264d126874c70dfd7f4650
     - author: 个人信息与数据保护实务评论
       release_time: 2026.05.21 16:26:52
       title: 部分用户疑虑“对话泄露”，DeepSeek回应不存在安全问题
@@ -240,10 +244,6 @@
       release_time: 2026.05.19 10:40:21
       title: 我给零散脚本做了一个轻量级调度后台
       url: https://mp.weixin.qq.com/s?__biz=MzYzNDQzNDIyNg==&mid=2247483716&idx=1&sn=a4bba1a9f86ed6e9c3f73ff701efeff8
-    - author: 泡泡以安
-      release_time: 2026.05.19 09:03:00
-      title: Frida学习笔记（十一）：Android 系统级 Hook
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486414&idx=1&sn=e9e88b1895f5b6bd6a79d157a9d9a75a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
