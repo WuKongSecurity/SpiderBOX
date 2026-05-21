@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 一支甜筒
+      release_time: 2026.05.22 01:05:26
+      title: DeviceVeil：一个 Android 设备指纹修改模块的实现记录
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NDYzMDMwMw==&mid=2247483771&idx=1&sn=50d0cea30919567287043b5b0f91a292
     - author: 进击的HACK
       release_time: 2026.05.21 21:56:17
       title: 工具推荐 | 高性能 trace 可视化分析工具
@@ -240,10 +244,6 @@
       release_time: 2026.05.19 12:07:46
       title: AI正在重塑Android逆向新范式
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500548&idx=1&sn=2ad7e3ddd3d0c17d96f6b01c32db2757
-    - author: 逆向搅屎棍
-      release_time: 2026.05.19 10:40:21
-      title: 我给零散脚本做了一个轻量级调度后台
-      url: https://mp.weixin.qq.com/s?__biz=MzYzNDQzNDIyNg==&mid=2247483716&idx=1&sn=a4bba1a9f86ed6e9c3f73ff701efeff8
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
