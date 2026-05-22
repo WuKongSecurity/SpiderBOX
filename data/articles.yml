@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 泡泡以安
+      release_time: 2026.05.22 09:09:00
+      title: 我做了个工具，每天自动写一篇科技日报
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486458&idx=1&sn=c145c86b1201ff5c71c0bed827ec0ff2
+    - author: 逆向有你
+      release_time: 2026.05.22 08:15:36
+      title: 沈阳深蓝26HW招聘！7日结算！
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041756&idx=1&sn=7100567a4730bad660fc141cc8425725
     - author: 一支甜筒
       release_time: 2026.05.22 01:05:26
       title: DeviceVeil：一个 Android 设备指纹修改模块的实现记录
@@ -236,14 +244,6 @@
       release_time: 2026.05.19 15:18:03
       title: 问题收集贴（安卓逆向，JS逆向，PC逆向）
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041740&idx=1&sn=8744ec8311ba633f0aadd4f1646d456d
-    - author: 沐阳逆向与AI学习
-      release_time: 2026.05.19 12:16:43
-      title: 2026安卓逆向入门最新基础课免费发布
-      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484637&idx=1&sn=65591a922679f62db618948035c87c67
-    - author: 哆啦安全
-      release_time: 2026.05.19 12:07:46
-      title: AI正在重塑Android逆向新范式
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500548&idx=1&sn=2ad7e3ddd3d0c17d96f6b01c32db2757
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
