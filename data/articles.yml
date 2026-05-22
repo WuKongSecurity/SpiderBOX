@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.05.22 15:14:26
+      title: Android病毒智能检测分析工具V3.6
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500576&idx=1&sn=b985155458d76f30d3fefd8209488dcb
+    - author: 安全逆向分析
+      release_time: 2026.05.22 14:42:26
+      title: 不开浏览器，照样跑完整 JS 环境——聊聊 iv8 这个狠活
+      url: https://mp.weixin.qq.com/s?__biz=MzYzNzg3MTE4NQ==&mid=2247483761&idx=1&sn=273c68f50d10deb69df2dc9b5d10e410
     - author: 泡泡以安
       release_time: 2026.05.22 10:27:40
       title: Frida学习笔记（十三）：加密算法还原（下）· 哈希、HMAC、国密
@@ -236,14 +244,6 @@
       release_time: 2026.05.19 18:32:32
       title: API接口渗透测试工具 ApiHunter
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490064&idx=1&sn=fd6cfaeb6b1c599bce33d5d94d320bc0
-    - author: 未闻Code
-      release_time: 2026.05.19 18:18:15
-      title: 多次霸榜 GitHub，暴涨 9700+ Star，这个开源 AI 助手要火了！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991587&idx=1&sn=8371b1e8b38cadf69635b4d7e4d09665
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.05.19 17:50:34
-      title: 网飞（Netflix）因非法收集用户数据被德州总检察长起诉
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520163&idx=1&sn=b13d350c720517065de4aac713313b29
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,26 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 差不多的张三
+      release_time: 2026.05.22 15:21:41
+      title: '[原创]【代码审计】客户端代码执行之WebView JavaScript桥接劫持token账号接管'
+      url: https://bbs.kanxue.com/thread-291310.htm
+    - author: 差不多的张三
+      release_time: 2026.05.22 15:13:40
+      title: '[原创]【银行逆向百例】17Android逆向之libDexHelper梆梆加固frida检测绕过'
+      url: https://bbs.kanxue.com/thread-291309.htm
+    - author: 差不多的张三
+      release_time: 2026.05.22 14:59:39
+      title: '[原创]【银行逆向百例】16Android逆向之算法助手 frida绕过环境检测分析加密算法'
+      url: https://bbs.kanxue.com/thread-291308.htm
+    - author: 差不多的张三
+      release_time: 2026.05.22 14:22:35
+      title: '[原创]【银行逆向百例】15小程序逆向之支付宝提取data文件为tar格式'
+      url: https://bbs.kanxue.com/thread-291307.htm
+    - author: 差不多的张三
+      release_time: 2026.05.22 13:52:32
+      title: '[原创]【银行逆向百例】14小程序逆向之报错快速定位加解密 版本过低升级4.0微信开启控制台'
+      url: https://bbs.kanxue.com/thread-291306.htm
     - author: vwvw
       release_time: 2026.05.20 23:55:32
       title: '[原创] 新思路: Audit logcat 侧信道检测 root, 模拟器, scrcpy 类投屏'
@@ -471,26 +491,6 @@
       release_time: 2026.05.10 16:10:54
       title: '[原创]安卓设备指纹的正确使用方式(Leona)'
       url: https://bbs.kanxue.com/thread-291169.htm
-    - author: Zedbully
-      release_time: 2026.05.10 16:07:54
-      title: '[原创]别把“放行/拦截”写进 APK：移动端对抗安全的正确边界'
-      url: https://bbs.kanxue.com/thread-291168.htm
-    - author: Mengz3
-      release_time: 2026.05.09 21:20:01
-      title: '[原创]某政务APP登录链路逆向：datagram 参数与 signature 签名分析'
-      url: https://bbs.kanxue.com/thread-291164.htm
-    - author: 秋落
-      release_time: 2026.05.09 16:51:31
-      title: 我们绕过了 GarudaDefender 整套 Frida 检测,但这已经不是重点了
-      url: https://bbs.kanxue.com/thread-291158.htm
-    - author: gal2xy
-      release_time: 2026.05.09 15:11:21
-      title: '[原创]Frida源码分析之frida-core篇'
-      url: https://bbs.kanxue.com/thread-291156.htm
-    - author: gal2xy
-      release_time: 2026.05.09 14:51:19
-      title: '[原创]Frida源码分析之Java Hook原理篇'
-      url: https://bbs.kanxue.com/thread-291155.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
