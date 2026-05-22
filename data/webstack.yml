@@ -628,6 +628,10 @@
           logo: github.png
           url: https://github.com/eight04/deno_vm
           description: deno_vm 是 Python3 到 Deno + worker-vm 的绑定，帮助您安全地执行 JavaScript
+        - title: iv8
+          logo: github.png
+          url: https://github.com/HanZzzzz000/iv8
+          description: Python 原生的 V8 + 浏览器环境运行时，是基于 V8 引擎的高性能 Python 原生扩展，在 C++ 层实现浏览器 API，提供高可控、高保真的 BOM/DOM/CSSOM 模拟，内置 API 调用链监控与 Chrome DevTools 远程调试，可在 Python 中直接运行依赖 Web 环境的 JavaScript，无需启动浏览器
         - title: PyMiniRacer
           logo: pyminiracer.png
           url: https://github.com/sqreen/PyMiniRacer
