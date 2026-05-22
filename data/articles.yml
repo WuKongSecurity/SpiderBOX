@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: rsds0duck
+      release_time: 2026.05.22 22:08:00
+      title: 抖音VMP分析：从入口到Dispatch
+      url: https://www.52pojie.cn/thread-2109082-1-1.html
     - author: vw2x
       release_time: 2026.05.22 16:06:00
       title: 'Audit 侧信道: Root, scrcpy 和模拟器的新型检测与绕过'
@@ -363,10 +367,6 @@
       release_time: 2026.05.04 21:26:00
       title: 一款安卓微信密友8063用MT管理器破解教程
       url: https://www.52pojie.cn/thread-2106137-1-1.html
-    - author: '13955925361'
-      release_time: 2026.05.04 15:52:00
-      title: 智慧酒店登录滑块各部分易错点详析
-      url: https://www.52pojie.cn/thread-2106089-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
