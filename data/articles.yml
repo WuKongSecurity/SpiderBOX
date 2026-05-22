@@ -125,6 +125,18 @@
     term: 哔哩哔哩
   - links:
     - author: 泡泡以安
+      release_time: 2026.05.22 10:27:40
+      title: Frida学习笔记（十三）：加密算法还原（下）· 哈希、HMAC、国密
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486493&idx=1&sn=a21848b88908466e937efb83f9f14533
+    - author: 猿人学Python
+      release_time: 2026.05.22 09:59:36
+      title: 建第六个AI爬虫逆向500人交流群
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550240&idx=1&sn=c98852a3394a35f1a1d40a9126f3f468
+    - author: 虫迹追踪
+      release_time: 2026.05.22 09:49:00
+      title: Python V8 原生扩展，重新定义 JS 逆向的玩法
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDU2MTYwMQ==&mid=2247485311&idx=1&sn=59351a0543637864bd711f59c7a240b7
+    - author: 泡泡以安
       release_time: 2026.05.22 09:09:00
       title: 我做了个工具，每天自动写一篇科技日报
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486458&idx=1&sn=c145c86b1201ff5c71c0bed827ec0ff2
@@ -232,18 +244,6 @@
       release_time: 2026.05.19 17:50:34
       title: 网飞（Netflix）因非法收集用户数据被德州总检察长起诉
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520163&idx=1&sn=b13d350c720517065de4aac713313b29
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.05.19 17:50:34
-      title: 中国数据保护月度报告：重点提示及目录（2026年5月）
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520163&idx=2&sn=df82388670c31ddc48edb5c308aae783
-    - author: 菜鸟学Python编程
-      release_time: 2026.05.19 17:35:00
-      title: 零基础AI反混淆与逆向:让AI生成(类)ob混淆彻底还原的skills(二)
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566536&idx=1&sn=2e1409efa24038dacd469a2921f89da1
-    - author: 逆向有你
-      release_time: 2026.05.19 15:18:03
-      title: 问题收集贴（安卓逆向，JS逆向，PC逆向）
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041740&idx=1&sn=8744ec8311ba633f0aadd4f1646d456d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
