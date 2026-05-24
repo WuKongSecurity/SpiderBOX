@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 带带弟弟学爬虫
+      release_time: 2026.05.24 23:18:59
+      title: dy-评论、搜索、个人主页、发布采集演示
+      url: https://www.bilibili.com/video/BV1HMGH6hENr
     - author: 和沐阳学逆向与Ai
       release_time: 2026.05.24 15:18:25
       title: 2026沐阳iOS逆向从零入门系列
@@ -117,10 +121,6 @@
       release_time: 2026.05.11 12:41:29
       title: 猿人学 安卓 AI逆向试听课
       url: https://www.bilibili.com/video/BV12r5s6HEEe
-    - author: 猿人学
-      release_time: 2026.05.11 12:38:53
-      title: 猿人学试听课-python框架-AI自动修复数据采集
-      url: https://www.bilibili.com/video/BV1Kr5s6pEui
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
