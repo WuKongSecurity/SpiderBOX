@@ -124,6 +124,66 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 大数据安全技术学习
+      release_time: 2026.05.24 22:11:22
+      title: AI手机(直播预告)：05.hermes：体验智能涌现升级自身的Agent
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486184&idx=1&sn=f25a886c5bdc8ff2156010dbecc8fff7
+    - author: 大数据安全技术学习
+      release_time: 2026.05.24 22:11:22
+      title: 奋斗者计划，助你升职加薪|阿里云、米哈游、阿里巴巴直推
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486184&idx=2&sn=5427b46f491ddc1ee35597b57b25dd59
+    - author: 大数据安全技术学习
+      release_time: 2026.05.24 22:11:22
+      title: 地表最强过检测环境原生三绿取证设备
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486184&idx=3&sn=a297a45bf34b32c02cc7bbceb564d976
+    - author: 大数据安全技术学习
+      release_time: 2026.05.24 22:11:22
+      title: 八九新红米13C刷机小王子内核模块定制隐藏环境过多数企业壳frida检测
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486184&idx=4&sn=42b50be067e1a30ff029d17a3870bf3c
+    - author: 大数据安全技术学习
+      release_time: 2026.05.24 22:11:22
+      title: 九新红米Note13解锁内核模块定制隐藏环境过多数企业壳frida检测
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486184&idx=5&sn=4c4753b78b4a076672408d944497d326
+    - author: 大数据安全技术学习
+      release_time: 2026.05.24 22:11:22
+      title: 月神 SRC 漏洞挖掘课程・第六期 全新升级
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486184&idx=6&sn=7a89a6b8552a3781b8f2a3e9a91cb67e
+    - author: 大数据安全技术学习
+      release_time: 2026.05.24 22:11:22
+      title: APP2025.直播21.kpm-panda-hide内核模块过企业壳检测
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486184&idx=7&sn=8fbccd39b72333e3a500269c2b02cf43
+    - author: DrissionPage
+      release_time: 2026.05.24 22:05:46
+      title: 4.2.0b8 完善context功能
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzczMw==&mid=2247483786&idx=1&sn=77f89230cf652f4a6032ef1b75f53dce
+    - author: 进击的HACK
+      release_time: 2026.05.24 19:13:51
+      title: JeecgBoot 指纹与漏洞利用工具
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490086&idx=1&sn=9847ada57384e0f7b9061665c41ffe08
+    - author: 哆啦安全
+      release_time: 2026.05.24 18:43:19
+      title: Android7至16 HTTPS抓包检测绕过终极方案：双向认证、NO_PROXY、VPN检测与Frida脚本实战
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500613&idx=1&sn=df393804b53c8027152c1c3eb4357450
+    - author: 小伍哥聊风控
+      release_time: 2026.05.24 17:39:42
+      title: 所谓的大模型转型，就是从调包侠转到调API侠！
+      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650197151&idx=1&sn=4b4381b870e37ce515e0a1e59e324b5a
+    - author: 沐阳逆向与AI学习
+      release_time: 2026.05.24 15:46:53
+      title: 2026iOS逆向入门最新基础课免费发布
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484642&idx=1&sn=a7ba7f03a7c65b892050c5a0ac200f22
+    - author: 如意私塾
+      release_time: 2026.05.24 14:45:56
+      title: 下一代的反爬代理IP检测方法-架构指纹：基于Bright Data实测15个月
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484672&idx=1&sn=08ff0b6251dc71b9b6cc616cec186953
+    - author: 如意私塾
+      release_time: 2026.05.24 10:16:00
+      title: 自动化过检测框架|内核层新增webgpu指纹和socks5密码代理支持
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484667&idx=1&sn=cac42ffd19085c1e19624d036040e148
+    - author: 逆向有你
+      release_time: 2026.05.24 00:00:00
+      title: 安卓逆向 -- 某房产 App 响应内容逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041766&idx=1&sn=76e59dbe656360f38758911bca9effce
     - author: 逆向有你
       release_time: 2026.05.23 00:00:00
       title: JS逆向 -- 某登录接口加密逻辑逆向分析测试
@@ -180,70 +240,10 @@
       release_time: 2026.05.21 16:26:52
       title: 部分用户疑虑“对话泄露”，DeepSeek回应不存在安全问题
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520177&idx=1&sn=1f98b300f65b470e6bc579c154b5e649
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.05.21 16:26:52
-      title: 广东网信办发布自由贸易试验区数据出境负面清单（附解读）
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520177&idx=2&sn=d2e74b6b1d68f7578f48bedf55057f5d
-    - author: 逆向有你
-      release_time: 2026.05.21 10:57:10
-      title: 安卓逆向 -- 一款企业IM的加密协议逆向全过程
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041751&idx=1&sn=276a8c179ba48198c76bbceb56d2d43e
-    - author: 如意私塾
-      release_time: 2026.05.21 10:01:01
-      title: 2026学术论文-从恶意App反推出其背后的IP住宅代理商灰色供应链大小
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484662&idx=1&sn=66e5f2ae48a466c99b475be51de36223
-    - author: 极验
-      release_time: 2026.05.21 10:00:00
-      title: 2万余条账号信息背后：黑产如何把个人信息变成生意？
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724462&idx=1&sn=1497d60b48bbe3fb6b2a63c0bea6fc04
     - author: 泡泡以安
       release_time: 2026.05.21 09:01:00
       title: Frida学习笔记（十二）：加密算法还原（上）· AES、DES、RSA
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486444&idx=1&sn=f6fc01fc602d59436e0fe33e41465e6b
-    - author: 哆啦安全
-      release_time: 2026.05.21 08:53:19
-      title: Android内核魔改绕过风控检测的底层攻防实战
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500555&idx=1&sn=f8d3be2eccddf3dffb1c2a91cf007d73
-    - author: 二手的程序员
-      release_time: 2026.05.20 21:54:05
-      title: VMP 开源项目研究
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTkxMTU1NA==&mid=2247489500&idx=1&sn=e411e2db6a35c29c20327a7a8f44d90c
-    - author: 如意私塾
-      release_time: 2026.05.20 21:30:59
-      title: 反爬虫不是想采什么就采什么，浏览器指纹和鼠标在欧洲都算个人数据
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484655&idx=1&sn=b9582f6b73ece173c28175fe0bc41140
-    - author: 小小杨学编程
-      release_time: 2026.05.20 20:44:00
-      title: AI使用AST反混淆应用
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484744&idx=1&sn=132460a06bacd6905b01e8c03383972a
-    - author: 猿人学Python
-      release_time: 2026.05.20 20:36:00
-      title: 今年要干一百场猿人学聚会
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550234&idx=1&sn=3e0f4434bd51bd9d03aff5a2f1d2d2a4
-    - author: 如意私塾
-      release_time: 2026.05.20 20:25:16
-      title: 你的手机是怎么被APP变成别人的移动住宅代理IP的
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484649&idx=1&sn=74d65ee94cdb5ae4f356402b244d46b5
-    - author: 进击的HACK
-      release_time: 2026.05.20 18:41:07
-      title: 简单ob解混淆挖掘短信轰炸
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490068&idx=1&sn=15a8e4bb596c57df7eb2752900b0d615
-    - author: Python成长路
-      release_time: 2026.05.20 17:30:46
-      title: 已经懒到一行代码都不想写了
-      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486174&idx=1&sn=93e99827add65db8100d14afa4575df9
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.05.20 16:23:59
-      title: 海南省完成全国首个遥感卫星数据出境安全评估
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520170&idx=1&sn=311acb5c4d0f483e59144aa1c00beb05
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.05.20 16:23:59
-      title: 国家数据局发布图解数据产权制度
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520170&idx=2&sn=d5f3fe04c5eed9bd646c99dc0050771d
-    - author: 反爬破解社
-      release_time: 2026.05.20 16:20:49
-      title: 验证码攻防（下）：AI验证码破解与实战工具全解析
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483868&idx=1&sn=7e7fb48a643f624a1306d92b0977d64b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
