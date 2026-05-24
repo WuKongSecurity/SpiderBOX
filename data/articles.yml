@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: tjy
+      release_time: 2026.05.24 17:16:00
+      title: 玄奥八字最新版本破解思路，理论玄奥系列全部都能用
+      url: https://www.52pojie.cn/thread-2109314-1-1.html
     - author: rsds0duck
       release_time: 2026.05.22 22:08:00
       title: 抖音VMP分析：从入口到Dispatch
@@ -363,13 +367,21 @@
       release_time: 2026.05.04 23:00:00
       title: 某气骑士 libtprt.so 反 Frida 机制分析与绕过
       url: https://www.52pojie.cn/thread-2106149-1-1.html
-    - author: '1126385247'
-      release_time: 2026.05.04 21:26:00
-      title: 一款安卓微信密友8063用MT管理器破解教程
-      url: https://www.52pojie.cn/thread-2106137-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: qqqiu
+      release_time: 2026.05.24 17:16:58
+      title: 某反作弊 VMP Native 层深度逆向：从 643KB 混淆 SO 到 RC4-like Mixer 的完整穿透路径
+      url: https://bbs.kanxue.com/thread-291336.htm
+    - author: Chagrin4_s
+      release_time: 2026.05.24 16:41:55
+      title: '[原创]编译Redmi10x 5G Kernelsu'
+      url: https://bbs.kanxue.com/thread-291335.htm
+    - author: 一只鸭子
+      release_time: 2026.05.24 16:02:51
+      title: '[原创] 抖音 VMP 分析（四）：指令流的分析'
+      url: https://bbs.kanxue.com/thread-291333.htm
     - author: mb_xdpmhhzk
       release_time: 2026.05.24 07:51:14
       title: '[原创]安卓 12~16 系统级长效驻留与防卸载技术方案 深度适配 HyperOS'
@@ -479,18 +491,6 @@
       title: Vibe Coding从源码阅读到模块开发：基于最新版 Magisk Zygisk，移植实现一个带 WebUI、支持 Android 16
         的 Zygisk 等效模块r0zygisk(一)
       url: https://bbs.kanxue.com/thread-291209.htm
-    - author: mb_wckjnnha
-      release_time: 2026.05.11 22:01:06
-      title: '[原创]Android一二三代壳实现'
-      url: https://bbs.kanxue.com/thread-291182.htm
-    - author: Mengz3
-      release_time: 2026.05.11 21:44:03
-      title: '[原创]一次 Flutter App 响应解密实战：逆向还原客户端 encData 解密流程'
-      url: https://bbs.kanxue.com/thread-291181.htm
-    - author: mb_cfjwplfo
-      release_time: 2026.05.11 00:53:55
-      title: '[原创]时代重大变化，用户态root被封杀'
-      url: https://bbs.kanxue.com/thread-291174.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
