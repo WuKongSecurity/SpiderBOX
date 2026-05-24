@@ -370,6 +370,14 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: mb_xdpmhhzk
+      release_time: 2026.05.24 07:51:14
+      title: '[原创]安卓 12~16 系统级长效驻留与防卸载技术方案 深度适配 HyperOS'
+      url: https://bbs.kanxue.com/thread-291328.htm
+    - author: xklgl
+      release_time: 2026.05.24 07:51:14
+      title: '[原创]某运营商APP加固脱壳与反 Frida 检测绕过分析'
+      url: https://bbs.kanxue.com/thread-291329.htm
     - author: 一只鸭子
       release_time: 2026.05.22 22:11:24
       title: '[原创]抖音 VMP 分析：从入口到 Dispatch'
@@ -483,14 +491,6 @@
       release_time: 2026.05.11 00:53:55
       title: '[原创]时代重大变化，用户态root被封杀'
       url: https://bbs.kanxue.com/thread-291174.htm
-    - author: secflag
-      release_time: 2026.05.10 23:06:45
-      title: Pixel 3 Kernel 4.9 编译集成 ReSukiSU 指南
-      url: https://bbs.kanxue.com/thread-291172.htm
-    - author: console_
-      release_time: 2026.05.10 20:04:21
-      title: '[原创]某视频APP七神签名之X-Gorgon生成逻辑逆向分析——古法逆向与AI辅助结合'
-      url: https://bbs.kanxue.com/thread-291170.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
