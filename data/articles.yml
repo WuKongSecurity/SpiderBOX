@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 和沐阳学逆向与Ai
+      release_time: 2026.05.24 15:18:25
+      title: 2026沐阳iOS逆向从零入门系列
+      url: https://www.bilibili.com/video/BV1MtG76wEjh
     - author: EithanSolace
       release_time: 2026.05.21 18:41:07
       title: 密码学补完计划[第三十四期] 国密SM3
@@ -117,10 +121,6 @@
       release_time: 2026.05.11 12:38:53
       title: 猿人学试听课-python框架-AI自动修复数据采集
       url: https://www.bilibili.com/video/BV1Kr5s6pEui
-    - author: 猿人学
-      release_time: 2026.05.11 12:35:46
-      title: 猿人学 JS AI逆向试听课
-      url: https://www.bilibili.com/video/BV11k5s6DEM8
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
