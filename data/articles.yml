@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 如意-浏览器开发培训
+      release_time: 2026.05.25 14:01:04
+      title: win下真实safari内核定制socks5密码代理
+      url: https://www.bilibili.com/video/BV1eYGx6fEwm
     - author: 带带弟弟学爬虫
       release_time: 2026.05.24 23:18:59
       title: dy-评论、搜索、个人主页、发布采集演示
@@ -117,13 +121,25 @@
       release_time: 2026.05.11 18:32:01
       title: 混淆JS逆向实战
       url: https://www.bilibili.com/video/BV1MZ5x68ECV
-    - author: 猿人学
-      release_time: 2026.05.11 12:41:29
-      title: 猿人学 安卓 AI逆向试听课
-      url: https://www.bilibili.com/video/BV12r5s6HEEe
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 冰敷逆向笔记
+      release_time: 2026.05.25 18:51:57
+      title: 拥抱变化，浅析recaptcha(v3)
+      url: https://mp.weixin.qq.com/s?__biz=MzI0NDg0ODE1MQ==&mid=2247483939&idx=1&sn=2c7708d492aa0cc32f3bb239994c329c
+    - author: 爬虫逆向小林哥
+      release_time: 2026.05.25 17:58:00
+      title: jadx/ida-mcp安装指南
+      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487357&idx=1&sn=711ad9bf854794480a9d69f3d57b3d81
+    - author: 哆啦安全
+      release_time: 2026.05.25 16:30:00
+      title: 全国首部“AI产品合规”标准启动编制，欢迎加入起草组！
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500619&idx=1&sn=f3d180ae04f690ec21cf93ba664db64f
+    - author: 如意私塾
+      release_time: 2026.05.25 13:52:27
+      title: 如意教学-国内指纹浏览器开发工程师的摇篮
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484679&idx=1&sn=56d19bbfc6eb0584b0a44777718f49f5
     - author: 吾爱破解论坛
       release_time: 2026.05.25 10:51:33
       title: API公益中转站建议还是先了解后再用
@@ -196,6 +212,10 @@
       release_time: 2026.05.24 00:00:00
       title: 安卓逆向 -- 某房产 App 响应内容逆向分析
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041766&idx=1&sn=76e59dbe656360f38758911bca9effce
+    - author: 哆啦安全
+      release_time: 2026.05.23 09:32:26
+      title: Android Smali代码合并工具V1.1
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500604&idx=1&sn=6f5431e043fe27b35b8ce729133d5027
     - author: 逆向有你
       release_time: 2026.05.23 00:00:00
       title: JS逆向 -- 某登录接口加密逻辑逆向分析测试
@@ -224,26 +244,6 @@
       release_time: 2026.05.22 10:27:40
       title: Frida学习笔记（十三）：加密算法还原（下）· 哈希、HMAC、国密
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486493&idx=1&sn=a21848b88908466e937efb83f9f14533
-    - author: 猿人学Python
-      release_time: 2026.05.22 09:59:36
-      title: 建第六个AI爬虫逆向500人交流群
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550240&idx=1&sn=c98852a3394a35f1a1d40a9126f3f468
-    - author: 虫迹追踪
-      release_time: 2026.05.22 09:49:00
-      title: Python V8 原生扩展，重新定义 JS 逆向的玩法
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDU2MTYwMQ==&mid=2247485311&idx=1&sn=59351a0543637864bd711f59c7a240b7
-    - author: 泡泡以安
-      release_time: 2026.05.22 09:09:00
-      title: 我做了个工具，每天自动写一篇科技日报
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486458&idx=1&sn=c145c86b1201ff5c71c0bed827ec0ff2
-    - author: 逆向有你
-      release_time: 2026.05.22 08:15:36
-      title: 沈阳深蓝26HW招聘！7日结算！
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041756&idx=1&sn=7100567a4730bad660fc141cc8425725
-    - author: 一支甜筒
-      release_time: 2026.05.22 01:05:26
-      title: DeviceVeil：一个 Android 设备指纹修改模块的实现记录
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NDYzMDMwMw==&mid=2247483771&idx=1&sn=50d0cea30919567287043b5b0f91a292
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -251,6 +251,10 @@
       release_time: 2026.05.24 17:16:00
       title: 玄奥八字最新版本破解思路，理论玄奥系列全部都能用
       url: https://www.52pojie.cn/thread-2109314-1-1.html
+    - author: rsds0duck
+      release_time: 2026.05.24 16:07:00
+      title: 抖音 VMP 分析（四）：指令流的分析
+      url: https://www.52pojie.cn/thread-2109303-1-1.html
     - author: rsds0duck
       release_time: 2026.05.22 22:08:00
       title: 抖音VMP分析：从入口到Dispatch
@@ -363,10 +367,6 @@
       release_time: 2026.05.05 17:04:00
       title: iv8：Python 原生 V8 运行时，补环境新思路（附瑞数6/zp_stoken 等实战）
       url: https://www.52pojie.cn/thread-2106217-1-1.html
-    - author: Rytter
-      release_time: 2026.05.04 23:00:00
-      title: 某气骑士 libtprt.so 反 Frida 机制分析与绕过
-      url: https://www.52pojie.cn/thread-2106149-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
