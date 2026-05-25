@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.05.25 21:45:56
+      title: 渗透测试中的遇到的达梦数据库SQL注入
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490090&idx=1&sn=bba0b48e3cd113692cd593c6547ba2d1
     - author: 冰敷逆向笔记
       release_time: 2026.05.25 18:51:57
       title: 拥抱变化，浅析recaptcha(v3)
@@ -212,6 +216,10 @@
       release_time: 2026.05.24 00:00:00
       title: 安卓逆向 -- 某房产 App 响应内容逆向分析
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041766&idx=1&sn=76e59dbe656360f38758911bca9effce
+    - author: 进击的HACK
+      release_time: 2026.05.23 21:41:01
+      title: 若依及其二开系统的渗透测试指南
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490082&idx=1&sn=a4a7bf7f7dcfedbe91009933942d6e18
     - author: 哆啦安全
       release_time: 2026.05.23 09:32:26
       title: Android Smali代码合并工具V1.1
@@ -236,14 +244,6 @@
       release_time: 2026.05.22 15:14:26
       title: Android病毒智能检测分析工具V3.6
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500576&idx=1&sn=b985155458d76f30d3fefd8209488dcb
-    - author: 安全逆向分析
-      release_time: 2026.05.22 14:42:26
-      title: 不开浏览器，照样跑完整 JS 环境——聊聊 iv8 这个狠活
-      url: https://mp.weixin.qq.com/s?__biz=MzYzNzg3MTE4NQ==&mid=2247483761&idx=1&sn=273c68f50d10deb69df2dc9b5d10e410
-    - author: 泡泡以安
-      release_time: 2026.05.22 10:27:40
-      title: Frida学习笔记（十三）：加密算法还原（下）· 哈希、HMAC、国密
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486493&idx=1&sn=a21848b88908466e937efb83f9f14533
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: n_1ng
+      release_time: 2026.05.25 22:43:58
+      title: '[原创]从0到1构建一个Hook工具之Frida-like风格的Hook'
+      url: https://bbs.kanxue.com/thread-291347.htm
     - author: Tubbs
       release_time: 2026.05.25 11:28:52
       title: '[原创]AVMP初见(纯AI)'
@@ -486,10 +490,6 @@
       release_time: 2026.05.15 16:45:09
       title: 和爱豆更近一步——某爱豆聊天App反调试绕过
       url: https://bbs.kanxue.com/thread-291227.htm
-    - author: Mengz3
-      release_time: 2026.05.14 20:59:08
-      title: '[原创]某招聘APP：sig 和 sp 请求参数分析'
-      url: https://bbs.kanxue.com/thread-291219.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
