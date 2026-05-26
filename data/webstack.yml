@@ -1315,7 +1315,7 @@
           url: https://lightpanda.io/
           description: Lightpanda 浏览器，专为 AI agents 和自动化从头构建的无头浏览器，非 Chromium 分支，非 WebKit 补丁，而是一个用 Zig 编写的新浏览器
         - title: CloakBrowser
-          logo: CloakBrowser.png
+          logo: CloakBrowser.jpg
           url: https://github.com/CloakHQ/CloakBrowser
           description: 即插即用的 Playwright/Puppeteer 替代品，适用于 Python 和 JavaScript。相同的 API，相同的代码。3 行代码，30 秒解除封锁，不是打补丁的配置。不是 JS 注入。一个真正的 Chromium 二进制文件，在 C++ 源级别修改了指纹
         - title: firefox-fingerprintBrowser
