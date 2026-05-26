@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 冷月不是程序员
+      release_time: 2026.05.26 23:53:50
+      title: 【教程】一个视频带你搞明白DLL注入
+      url: https://www.bilibili.com/video/BV1PyVT6YE6E
     - author: AngelToms
       release_time: 2026.05.26 11:40:08
       title: 未来规划
@@ -117,13 +121,37 @@
       release_time: 2026.05.13 22:18:26
       title: js逆向百例-28-tdc无感 补环境案例 对于之前的难度增大了 不适合新手
       url: https://www.bilibili.com/video/BV1kG5m66EGX
-    - author: 人生导师duck
-      release_time: 2026.05.12 23:13:18
-      title: LLM与逆向工程：模型能力边界的思考
-      url: https://www.bilibili.com/video/BV17Z536PEEX
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.05.26 22:17:53
+      title: RuyiTrace全量日志工具秒wasm--某画师 M-S 签名逆向分析全过程
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484681&idx=1&sn=7014f6b925e9faa574d40da9f35a144e
+    - author: 菜鸟学Python编程
+      release_time: 2026.05.26 21:15:07
+      title: JS逆向|猿人学逆向反混淆练习平台第10题加密分析
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566546&idx=1&sn=b4a1179cf990eaf1d98f7f4295678ea0
+    - author: 进击的HACK
+      release_time: 2026.05.26 20:00:49
+      title: 敏感信息挖掘工具DigDeep
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490095&idx=1&sn=8f0ebb9e9e7ad21b5757f098628c2834
+    - author: 未闻Code
+      release_time: 2026.05.26 18:24:21
+      title: 17.8K Star！随手将任意代码库转换为一张可交互的知识图谱！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991593&idx=1&sn=81da2b7a35c9c31dabb4b4f557b04217
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.05.26 17:15:40
+      title: 上海通报一批消费类APP存在个人信息收集问题，迪卡侬、可口可乐在列
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520186&idx=1&sn=fcd02de575452be0260298790c0bdd07
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.05.26 17:15:40
+      title: 国务院2026年度立法计划：将加快推进人工智能综合性立法
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520186&idx=2&sn=c012ae82f9a68ffc00f936458826949d
+    - author: DrissionPage
+      release_time: 2026.05.26 15:46:29
+      title: 4.2.0b10 支持账密代理
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzczMw==&mid=2247483797&idx=1&sn=4e1a3978efac86c7ca729ebf0db4f4f8
     - author: 泡泡以安
       release_time: 2026.05.26 11:31:55
       title: Frida学习笔记（十四）：算法自吐 · 一个脚本监控所有加密
@@ -216,37 +244,17 @@
       release_time: 2026.05.24 10:16:00
       title: 自动化过检测框架|内核层新增webgpu指纹和socks5密码代理支持
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484667&idx=1&sn=cac42ffd19085c1e19624d036040e148
-    - author: 逆向有你
-      release_time: 2026.05.24 00:00:00
-      title: 安卓逆向 -- 某房产 App 响应内容逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041766&idx=1&sn=76e59dbe656360f38758911bca9effce
-    - author: 进击的HACK
-      release_time: 2026.05.23 21:41:01
-      title: 若依及其二开系统的渗透测试指南
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490082&idx=1&sn=a4a7bf7f7dcfedbe91009933942d6e18
-    - author: 哆啦安全
-      release_time: 2026.05.23 09:32:26
-      title: Android Smali代码合并工具V1.1
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500604&idx=1&sn=6f5431e043fe27b35b8ce729133d5027
-    - author: 逆向有你
-      release_time: 2026.05.23 00:00:00
-      title: JS逆向 -- 某登录接口加密逻辑逆向分析测试
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041761&idx=1&sn=9b0c524c6bced23541e2ef46d51081e0
-    - author: 进击的HACK
-      release_time: 2026.05.22 21:45:46
-      title: 工具推荐 | 基于Xposed / Lsposed的主动调用抽取壳脱壳工具
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490076&idx=1&sn=b5f3daf8e3566775c280e08ccc55f7e9
-    - author: 未闻Code
-      release_time: 2026.05.22 17:52:32
-      title: 如何成为 Token Billionaire
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991590&idx=1&sn=5292256bcb6c4cecfa9daaba369d17f0
-    - author: wangyu223
-      release_time: 2026.05.22 17:25:20
-      title: IOS逆向分析某快餐ipa mach-o签名生成
-      url: https://mp.weixin.qq.com/s?__biz=MzY4ODI4MzQwNQ==&mid=2247483867&idx=1&sn=ed1c4380877840070f20102a60171cb4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: lxf0719
+      release_time: 2026.05.26 00:25:00
+      title: 玄奥八字APP破解及注册号生成
+      url: https://www.52pojie.cn/thread-2109550-1-1.html
+    - author: n1ng
+      release_time: 2026.05.25 22:49:00
+      title: 从0到1构建一个Hook工具之Frida-like风格的Hook
+      url: https://www.52pojie.cn/thread-2109539-1-1.html
     - author: tjy
       release_time: 2026.05.24 17:16:00
       title: 玄奥八字最新版本破解思路，理论玄奥系列全部都能用
@@ -359,17 +367,13 @@
       release_time: 2026.05.06 16:41:00
       title: 王者营地userId和token抓包获取
       url: https://www.52pojie.cn/thread-2106378-1-1.html
-    - author: RetiredGuitar64
-      release_time: 2026.05.05 21:32:00
-      title: 某U+平台软件，签到全流程抓包分析
-      url: https://www.52pojie.cn/thread-2106243-1-1.html
-    - author: '521105'
-      release_time: 2026.05.05 17:04:00
-      title: iv8：Python 原生 V8 运行时，补环境新思路（附瑞数6/zp_stoken 等实战）
-      url: https://www.52pojie.cn/thread-2106217-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 悦来客栈的老板
+      release_time: 2026.05.26 21:15:35
+      title: JS逆向|猿人学逆向反混淆练习平台第10题加密分析
+      url: https://blog.csdn.net/qq523176585/article/details/161434145
     - author: n_1ng
       release_time: 2026.05.25 22:43:58
       title: '[原创]从0到1构建一个Hook工具之Frida-like风格的Hook'
@@ -486,10 +490,6 @@
       release_time: 2026.05.15 18:10:22
       title: '[原创]爱加密 v4 加固逆向：从 Frida 失效到完全离线解密脱壳'
       url: https://bbs.kanxue.com/thread-291228.htm
-    - author: taeyeon_ss
-      release_time: 2026.05.15 16:45:09
-      title: 和爱豆更近一步——某爱豆聊天App反调试绕过
-      url: https://bbs.kanxue.com/thread-291227.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
