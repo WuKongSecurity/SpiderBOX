@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: verber34
+      release_time: 2026.05.27 10:06:00
+      title: 我也来蹭个热度，玄奥八字APP的 注册机AI生成
+      url: https://www.52pojie.cn/thread-2109773-1-1.html
     - author: lxf0719
       release_time: 2026.05.26 00:25:00
       title: 玄奥八字APP破解及注册号生成
@@ -363,10 +367,6 @@
       release_time: 2026.05.07 11:46:00
       title: QQ音乐技术分析
       url: https://www.52pojie.cn/thread-2106485-1-1.html
-    - author: yxn4065
-      release_time: 2026.05.06 16:41:00
-      title: 王者营地userId和token抓包获取
-      url: https://www.52pojie.cn/thread-2106378-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
