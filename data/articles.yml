@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.05.27 21:01:03
+      title: 漏洞挖掘流水线工具audit+deepseek进行AI代码审计
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490099&idx=1&sn=f48f5bb1f2cf00d8b24dca47558fc237
     - author: 布鲁的Python之旅
       release_time: 2026.05.27 18:00:41
       title: 脚本即接口，调度即编排
@@ -240,10 +244,6 @@
       release_time: 2026.05.24 22:05:46
       title: 4.2.0b8 完善context功能
       url: https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzczMw==&mid=2247483786&idx=1&sn=77f89230cf652f4a6032ef1b75f53dce
-    - author: 进击的HACK
-      release_time: 2026.05.24 19:13:51
-      title: JeecgBoot 指纹与漏洞利用工具
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490086&idx=1&sn=9847ada57384e0f7b9061665c41ffe08
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -251,6 +251,14 @@
       release_time: 2026.05.27 10:06:00
       title: 我也来蹭个热度，玄奥八字APP的 注册机AI生成
       url: https://www.52pojie.cn/thread-2109773-1-1.html
+    - author: psh123
+      release_time: 2026.05.26 18:03:00
+      title: 记录去除爱奇艺万能播放器右下角二维码弹窗(莫名其妙成功了)
+      url: https://www.52pojie.cn/thread-2109687-1-1.html
+    - author: xxob8
+      release_time: 2026.05.26 17:39:00
+      title: SM双图滑块验证码逆向分析
+      url: https://www.52pojie.cn/thread-2109685-1-1.html
     - author: lxf0719
       release_time: 2026.05.26 00:25:00
       title: 玄奥八字APP破解及注册号生成
@@ -359,14 +367,6 @@
       release_time: 2026.05.07 17:24:00
       title: 熊二快跑4.5.0 frida hook
       url: https://www.52pojie.cn/thread-2106532-1-1.html
-    - author: witchan
-      release_time: 2026.05.07 17:06:00
-      title: '[原创]【iOS逆向与安全】让 Claude、Codex 控制 iPhone，iOS MCP 来了'
-      url: https://www.52pojie.cn/thread-2106530-1-1.html
-    - author: grok
-      release_time: 2026.05.07 11:46:00
-      title: QQ音乐技术分析
-      url: https://www.52pojie.cn/thread-2106485-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
