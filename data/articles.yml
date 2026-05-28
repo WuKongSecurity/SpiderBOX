@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.05.28 19:05:30
+      title: 五月渗透测试常用浏览器插件
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490103&idx=1&sn=5782ee3cd208bba00baba3367951be6f
     - author: 如意私塾
       release_time: 2026.05.28 18:23:54
       title: 魔改Firefox火狐浏览器内核源码支持SOCKS5密码代理（文档给AI可一键修改完毕）
@@ -240,10 +244,6 @@
       release_time: 2026.05.25 13:52:27
       title: 如意教学-国内指纹浏览器开发工程师的摇篮
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484679&idx=1&sn=56d19bbfc6eb0584b0a44777718f49f5
-    - author: 吾爱破解论坛
-      release_time: 2026.05.25 10:51:33
-      title: API公益中转站建议还是先了解后再用
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144341&idx=1&sn=a7a8df4f5847a4961b3eb72124f08882
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: xiusi
+      release_time: 2026.05.28 19:49:59
+      title: '[原创]libmsaoaidsec.so 检测体系分析'
+      url: https://bbs.kanxue.com/thread-291377.htm
     - author: x1a0f3n9
       release_time: 2026.05.28 13:47:24
       title: '[原创]不同真机 trace 工具性能对比、优化点分享、xfQtrace使用说明'
@@ -486,10 +490,6 @@
       release_time: 2026.05.17 08:37:16
       title: '[分享]免费云服务'
       url: https://bbs.kanxue.com/thread-291243.htm
-    - author: 一只鸭子
-      release_time: 2026.05.16 20:04:00
-      title: '[原创]抖音 libsscronet 跨 SO 加密调用机制'
-      url: https://bbs.kanxue.com/thread-291239.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
