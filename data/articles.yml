@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 如意-浏览器开发培训
+      release_time: 2026.05.29 00:57:57
+      title: opencode零基础一键配置GPT5.4-5.5和xhigh高强度思考
+      url: https://www.bilibili.com/video/BV1mmVp61EDG
+    - author: 蛋蛋yong闯小B站
+      release_time: 2026.05.28 23:13:02
+      title: 小程序实战6——某里v3【图像复原】
+      url: https://www.bilibili.com/video/BV15oVW6bExV
     - author: x1a0f3n9
       release_time: 2026.05.27 21:45:50
       title: 一周年直播抽奖 回放
@@ -113,17 +121,13 @@
       release_time: 2026.05.18 22:32:10
       title: JS逆向案例合集
       url: https://www.bilibili.com/video/BV1TULA6wEDe
-    - author: B站用户骚神
-      release_time: 2026.05.15 10:29:07
-      title: 【虫神 插件V1.5】人工智能版爬虫插件，新增5大逆天功能！！
-      url: https://www.bilibili.com/video/BV1wK5e6MEPH
-    - author: 如意-浏览器开发培训
-      release_time: 2026.05.14 17:52:11
-      title: safari内核指纹浏览器Apple魔改英伟达
-      url: https://www.bilibili.com/video/BV1vz596jETB
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.05.29 00:14:38
+      title: ruyiPage魔改内核自动化支持单tab单socks5密码代理
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484700&idx=1&sn=8a2a10befabc6341e5df4938929db354
     - author: 进击的HACK
       release_time: 2026.05.28 19:05:30
       title: 五月渗透测试常用浏览器插件
@@ -240,13 +244,17 @@
       release_time: 2026.05.25 16:30:00
       title: 全国首部“AI产品合规”标准启动编制，欢迎加入起草组！
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500619&idx=1&sn=f3d180ae04f690ec21cf93ba664db64f
-    - author: 如意私塾
-      release_time: 2026.05.25 13:52:27
-      title: 如意教学-国内指纹浏览器开发工程师的摇篮
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484679&idx=1&sn=56d19bbfc6eb0584b0a44777718f49f5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 芽衣
+      release_time: 2026.05.28 20:33:00
+      title: XPlayer 万能视频播放器 破解教程
+      url: https://www.52pojie.cn/thread-2110049-1-1.html
+    - author: rsds0duck
+      release_time: 2026.05.28 19:48:00
+      title: libjdg.so VM 逆向分析
+      url: https://www.52pojie.cn/thread-2110046-1-1.html
     - author: verber34
       release_time: 2026.05.27 10:06:00
       title: 我也来蹭个热度，玄奥八字APP的 注册机AI生成
@@ -359,14 +367,6 @@
       release_time: 2026.05.08 13:08:00
       title: 某程token纯算-vmp插桩日志分析
       url: https://www.52pojie.cn/thread-2106666-1-1.html
-    - author: smshiwadai
-      release_time: 2026.05.08 00:09:00
-      title: 脱壳神器【Layout Inspect】肘爆SystemUI
-      url: https://www.52pojie.cn/thread-2106600-1-1.html
-    - author: Fourseasons
-      release_time: 2026.05.07 17:24:00
-      title: 熊二快跑4.5.0 frida hook
-      url: https://www.52pojie.cn/thread-2106532-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
