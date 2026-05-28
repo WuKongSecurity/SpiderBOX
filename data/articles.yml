@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 极验
+      release_time: 2026.05.28 10:00:00
+      title: AI Agent 为什么越来越青睐 iOS 模拟器：威胁深层剖析与企业级全链路防控方案
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724480&idx=1&sn=e9fc6d88bd9f9adfa743d6d0a0ef5bc0
+    - author: 泡泡以安
+      release_time: 2026.05.28 08:40:00
+      title: Frida学习笔记（十五）：算法自吐 · Native 层 OpenSSL/BoringSSL Hook
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486526&idx=1&sn=8f827df7b2947d85762d3a572d07d6e7
     - author: DrissionPage
       release_time: 2026.05.27 23:31:46
       title: 4.2.0b12 支持ws监听
@@ -236,14 +244,6 @@
       release_time: 2026.05.24 22:11:22
       title: 八九新红米13C刷机小王子内核模块定制隐藏环境过多数企业壳frida检测
       url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486184&idx=4&sn=42b50be067e1a30ff029d17a3870bf3c
-    - author: 大数据安全技术学习
-      release_time: 2026.05.24 22:11:22
-      title: 九新红米Note13解锁内核模块定制隐藏环境过多数企业壳frida检测
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486184&idx=5&sn=4c4753b78b4a076672408d944497d326
-    - author: 大数据安全技术学习
-      release_time: 2026.05.24 22:11:22
-      title: 月神 SRC 漏洞挖掘课程・第六期 全新升级
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486184&idx=6&sn=7a89a6b8552a3781b8f2a3e9a91cb67e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 伊苏尔德
+      release_time: 2026.05.28 10:27:05
+      title: '[分享]linker详解'
+      url: https://bbs.kanxue.com/thread-291368.htm
     - author: xklgl
       release_time: 2026.05.27 18:29:48
       title: '[原创]某音绕过SSL证书校验实现抓包'
@@ -486,10 +490,6 @@
       release_time: 2026.05.16 02:50:44
       title: '[原创]某道乐跑 APP 梆梆加固脱壳与反 Frida 检测绕过分析'
       url: https://bbs.kanxue.com/thread-291235.htm
-    - author: 白衣23
-      release_time: 2026.05.16 01:16:04
-      title: '[原创]使用LLVM的New Pass Manager编写和使用Pass'
-      url: https://bbs.kanxue.com/thread-291234.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
