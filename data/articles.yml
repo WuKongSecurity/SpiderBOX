@@ -2,6 +2,10 @@
   list:
   - links:
     - author: 如意-浏览器开发培训
+      release_time: 2026.05.29 01:50:28
+      title: opencode让GPT配置claude opus4.6/4.7 max
+      url: https://www.bilibili.com/video/BV1H1Vx6yEU4
+    - author: 如意-浏览器开发培训
       release_time: 2026.05.29 00:57:57
       title: opencode零基础一键配置GPT5.4-5.5和xhigh高强度思考
       url: https://www.bilibili.com/video/BV1mmVp61EDG
@@ -117,10 +121,6 @@
       release_time: 2026.05.19 00:28:19
       title: 每日一把黑百合--老只是借口
       url: https://www.bilibili.com/video/BV1d8LA6VE9V
-    - author: JS逆向零基础实战
-      release_time: 2026.05.18 22:32:10
-      title: JS逆向案例合集
-      url: https://www.bilibili.com/video/BV1TULA6wEDe
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
