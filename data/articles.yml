@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: Victor365
+      release_time: 2026.05.29 11:30:00
+      title: 记录首次对安卓APK进行脱壳反编译的步骤
+      url: https://www.52pojie.cn/thread-2110136-1-1.html
     - author: 芽衣
       release_time: 2026.05.28 20:33:00
       title: XPlayer 万能视频播放器 破解教程
@@ -363,10 +367,6 @@
       release_time: 2026.05.08 15:14:00
       title: 某龙酒店网站请求头参数user-dun逆向分析
       url: https://www.52pojie.cn/thread-2106690-1-1.html
-    - author: gfy1129
-      release_time: 2026.05.08 13:08:00
-      title: 某程token纯算-vmp插桩日志分析
-      url: https://www.52pojie.cn/thread-2106666-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
