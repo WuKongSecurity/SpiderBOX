@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: AngelToms
+      release_time: 2026.05.29 09:27:54
+      title: ab算法之U16-1
+      url: https://www.bilibili.com/video/BV1QUV46hEN2
     - author: 如意-浏览器开发培训
       release_time: 2026.05.29 01:50:28
       title: opencode让GPT配置claude opus4.6/4.7 max
@@ -117,10 +121,6 @@
       release_time: 2026.05.19 09:30:39
       title: Android逆向之DEX文件基础
       url: https://www.bilibili.com/video/BV1n2LK6FEdw
-    - author: 若水0014
-      release_time: 2026.05.19 00:28:19
-      title: 每日一把黑百合--老只是借口
-      url: https://www.bilibili.com/video/BV1d8LA6VE9V
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
