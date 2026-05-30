@@ -124,6 +124,42 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.05.30 15:07:13
+      title: 双剑合璧:用Frida-MCP一键脱壳 + IDAMCP/GhidraMCP深度逆向分析SO库(全自动逆向工作流)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500677&idx=1&sn=d561b5cd07d4fe0c38eedb5d08407f02
+    - author: 软件安全与逆向分析
+      release_time: 2026.05.30 14:43:01
+      title: 木鱼沙箱软件分析平台全新开启内测
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485228&idx=1&sn=f944f8c1869663aa2746f888ec286963
+    - author: 零基础爬虫第一天
+      release_time: 2026.05.30 11:58:56
+      title: '【khbox补环境-5】用 AI 全自动过反爬: RuyiTrace +khBox 实战,速通toutiao和某数'
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484439&idx=1&sn=fa7e4bbe14a474cd4f87bcc93b49824c
+    - author: 爬虫逆向小林哥
+      release_time: 2026.05.30 11:35:18
+      title: 华某会DVMP-V5加固反调试绕过
+      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487387&idx=1&sn=7596ccea69e8ac759de5ac7479af3638
+    - author: 如意私塾
+      release_time: 2026.05.30 10:54:39
+      title: 魔改Firefox火狐浏览器源码实现HTTP密码代理（AI根据文档可一键修改）
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484708&idx=1&sn=974da3e8087b36c91cd0dc752b661105
+    - author: Python成长路
+      release_time: 2026.05.29 22:37:07
+      title: 导出群成员微信号
+      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486186&idx=1&sn=59b60c083f2f897c7a300a831a43a4a3
+    - author: 泡泡以安
+      release_time: 2026.05.29 21:33:00
+      title: Frida学习笔记（十六）：Root 检测绕过
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486533&idx=1&sn=3109bdd667ab514eb76cd754880cddd3
+    - author: 进击的HACK
+      release_time: 2026.05.29 18:31:47
+      title: 弱口令字典生成器wujing_dic
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490107&idx=1&sn=be6a442e6cce5c1d4ff43e46ebc10da5
+    - author: 桐梓坡低手
+      release_time: 2026.05.29 17:29:15
+      title: 京东外卖商家后台websocket协议
+      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247483880&idx=1&sn=d6635cc79af001de1294fd8649f8dcd7
     - author: wangyu223
       release_time: 2026.05.29 11:22:53
       title: 安卓逆向 某租房APP端抓包+接口逆向解析so层分析
@@ -208,42 +244,6 @@
       release_time: 2026.05.27 09:30:00
       title: 大成反垄断团队实习生招募（有留用机会）
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520183&idx=1&sn=15e874eb132589358764d2b323c13ef0
-    - author: 如意私塾
-      release_time: 2026.05.26 22:17:53
-      title: RuyiTrace全量日志工具秒wasm--某画师 M-S 签名逆向分析全过程
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484681&idx=1&sn=7014f6b925e9faa574d40da9f35a144e
-    - author: 菜鸟学Python编程
-      release_time: 2026.05.26 21:15:07
-      title: JS逆向|猿人学逆向反混淆练习平台第10题加密分析
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566546&idx=1&sn=b4a1179cf990eaf1d98f7f4295678ea0
-    - author: 进击的HACK
-      release_time: 2026.05.26 20:00:49
-      title: 敏感信息挖掘工具DigDeep
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490095&idx=1&sn=8f0ebb9e9e7ad21b5757f098628c2834
-    - author: 未闻Code
-      release_time: 2026.05.26 18:24:21
-      title: 17.8K Star！随手将任意代码库转换为一张可交互的知识图谱！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991593&idx=1&sn=81da2b7a35c9c31dabb4b4f557b04217
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.05.26 17:15:40
-      title: 上海通报一批消费类APP存在个人信息收集问题，迪卡侬、可口可乐在列
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520186&idx=1&sn=fcd02de575452be0260298790c0bdd07
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.05.26 17:15:40
-      title: 国务院2026年度立法计划：将加快推进人工智能综合性立法
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520186&idx=2&sn=c012ae82f9a68ffc00f936458826949d
-    - author: DrissionPage
-      release_time: 2026.05.26 15:46:29
-      title: 4.2.0b10 支持账密代理
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzczMw==&mid=2247483797&idx=1&sn=4e1a3978efac86c7ca729ebf0db4f4f8
-    - author: 泡泡以安
-      release_time: 2026.05.26 11:31:55
-      title: Frida学习笔记（十四）：算法自吐 · 一个脚本监控所有加密
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486506&idx=1&sn=29378b314417a2410be4624748b6f172
-    - author: 进击的HACK
-      release_time: 2026.05.25 21:45:56
-      title: 渗透测试中的遇到的达梦数据库SQL注入
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490090&idx=1&sn=bba0b48e3cd113692cd593c6547ba2d1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
