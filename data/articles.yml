@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 逆向研究生
+      release_time: 2026.05.30 09:48:50
+      title: 多多滑块
+      url: https://www.bilibili.com/video/BV1UcV36EEdz
     - author: 一只勇敢的小佳
       release_time: 2026.05.29 17:19:52
       title: soinfo检测和处理逻辑详解
@@ -117,10 +121,6 @@
       release_time: 2026.05.19 12:06:18
       title: 2026沐阳安卓逆向从零入门系列
       url: https://www.bilibili.com/video/BV1WyLM6uECQ
-    - author: 逆向狗都不学
-      release_time: 2026.05.19 09:36:42
-      title: Android逆向之DEX文件解析
-      url: https://www.bilibili.com/video/BV1EDLK64Eim
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
