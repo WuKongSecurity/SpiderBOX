@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: a3341736201
+      release_time: 2026.05.30 12:12:00
+      title: ProcessOn完整破解思路附带 踩坑过程
+      url: https://www.52pojie.cn/thread-2110293-1-1.html
     - author: memobbs
       release_time: 2026.05.29 17:27:00
       title: ProcessOn破解思路
@@ -363,10 +367,6 @@
       release_time: 2026.05.08 21:05:00
       title: 从0到1构建一个Hook工具之Inline Hook篇（五）
       url: https://www.52pojie.cn/thread-2106751-1-1.html
-    - author: jiaxin9873
-      release_time: 2026.05.08 17:47:00
-      title: 雷电Android14模拟器安装证书
-      url: https://www.52pojie.cn/thread-2106728-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
