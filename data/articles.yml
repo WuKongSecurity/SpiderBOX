@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.05.30 19:13:27
+      title: 五月渗透常用Burpsuite插件
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490111&idx=1&sn=09c754eb12225e7fa0e98b317dd7aa5f
     - author: 哆啦安全
       release_time: 2026.05.30 15:07:13
       title: 双剑合璧:用Frida-MCP一键脱壳 + IDAMCP/GhidraMCP深度逆向分析SO库(全自动逆向工作流)
@@ -240,10 +244,6 @@
       release_time: 2026.05.27 10:00:00
       title: 过px盾 | 自动outlook微软邮箱注册机放在星球了
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484689&idx=1&sn=4a1bdf2c053b7b284908363030394518
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.05.27 09:30:00
-      title: 大成反垄断团队实习生招募（有留用机会）
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520183&idx=1&sn=15e874eb132589358764d2b323c13ef0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
