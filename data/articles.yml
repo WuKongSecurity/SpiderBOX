@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.06.01 00:01:21
+      title: 魔改Firefox火狐浏览器源码webGPU指纹定制（文档给AI可一键修改完毕）
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484720&idx=1&sn=d82199f09082fa90cfc1275a17760d66
+    - author: DrissionPage
+      release_time: 2026.05.31 23:42:16
+      title: 4.2.0b13 优化
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzczMw==&mid=2247483813&idx=1&sn=7a357dbaec04e120adb347b1fa71c03c
     - author: 零基础爬虫第一天
       release_time: 2026.05.31 21:48:09
       title: 【khbox-end】终篇
@@ -152,6 +160,10 @@
       release_time: 2026.05.30 14:43:01
       title: 木鱼沙箱软件分析平台全新开启内测
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485228&idx=1&sn=f944f8c1869663aa2746f888ec286963
+    - author: 如意私塾
+      release_time: 2026.05.30 14:36:37
+      title: web自动化HTTP/SOCKS5/单tab单代理示例
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484715&idx=1&sn=68ca1e8c546e8d20ba98bb1ed9cce932
     - author: 零基础爬虫第一天
       release_time: 2026.05.30 11:58:56
       title: '【khbox补环境-5】用 AI 全自动过反爬: RuyiTrace +khBox 实战,速通toutiao和某数'
@@ -232,18 +244,6 @@
       release_time: 2026.05.28 08:40:00
       title: Frida学习笔记（十五）：算法自吐 · Native 层 OpenSSL/BoringSSL Hook
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486526&idx=1&sn=8f827df7b2947d85762d3a572d07d6e7
-    - author: DrissionPage
-      release_time: 2026.05.27 23:31:46
-      title: 4.2.0b12 支持ws监听
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzczMw==&mid=2247483801&idx=1&sn=6d3a0bd999a71b1ae34e63653eb6ee45
-    - author: 将往的爬虫逆向日记
-      release_time: 2026.05.27 22:17:42
-      title: 某最新动态key参数浅析
-      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862581&idx=1&sn=67a3bce97f02ce12d46b1baa2d6a9509
-    - author: 进击的HACK
-      release_time: 2026.05.27 21:01:03
-      title: 漏洞挖掘流水线工具audit+deepseek进行AI代码审计
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490099&idx=1&sn=f48f5bb1f2cf00d8b24dca47558fc237
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
