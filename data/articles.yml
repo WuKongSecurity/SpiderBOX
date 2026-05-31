@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 逆向研究生
+      release_time: 2026.05.31 21:05:51
+      title: 读书篇——有钱人跟你想的不一样
+      url: https://www.bilibili.com/video/BV1QsVU64Eto
     - author: Alone逆向安全
       release_time: 2026.05.30 16:27:00
       title: APP安卓逆向某vmp魔改算法嵌套 ai+ttd mcp分析 算法还原时代落幕
@@ -117,13 +121,13 @@
       release_time: 2026.05.19 20:49:24
       title: DrissionPage4.2测试版发布，欢迎尝鲜
       url: https://www.bilibili.com/video/BV1XrLz6rE3U
-    - author: B站用户骚神
-      release_time: 2026.05.19 12:57:41
-      title: 网页自动化小妙招-PlayWright代码录制器自动生成DrissionPage爬虫代码！
-      url: https://www.bilibili.com/video/BV1HULM6iEAu
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.05.31 20:18:21
+      title: Kubernetes 综合渗透测试工具
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490115&idx=1&sn=f29efe3754bbecdad11e0ad71796ccc2
     - author: 未闻Code
       release_time: 2026.05.31 19:30:52
       title: 一句 why not，跑出 6 个 Claude 项目
@@ -240,10 +244,6 @@
       release_time: 2026.05.27 18:00:41
       title: 脚本即接口，调度即编排
       url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486412&idx=1&sn=c27b018e4981e546577874d2353ad71c
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.05.27 17:20:09
-      title: 国内上市公司近2000万条用户数据疑似泄露
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520198&idx=1&sn=e6fccf55e387e21eda70bd37348eaac4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
