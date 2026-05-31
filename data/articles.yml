@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 念初77
+      release_time: 2026.05.31 22:44:11
+      title: 使用AI对Flutter应用逆向_GPT5.5 VS Deepseek_v4
+      url: https://www.bilibili.com/video/BV1pbVQ6pE39
     - author: 逆向研究生
       release_time: 2026.05.31 21:05:51
       title: 读书篇——有钱人跟你想的不一样
@@ -117,13 +121,13 @@
       release_time: 2026.05.19 23:42:36
       title: dy_a_bogus参数分析定位
       url: https://www.bilibili.com/video/BV1jzLr6QEuM
-    - author: DrissionPage
-      release_time: 2026.05.19 20:49:24
-      title: DrissionPage4.2测试版发布，欢迎尝鲜
-      url: https://www.bilibili.com/video/BV1XrLz6rE3U
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 零基础爬虫第一天
+      release_time: 2026.05.31 21:48:09
+      title: 【khbox-end】终篇
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484447&idx=1&sn=c7af817d86ddf521c2a060836b9d6bb0
     - author: 进击的HACK
       release_time: 2026.05.31 20:18:21
       title: Kubernetes 综合渗透测试工具
@@ -240,10 +244,6 @@
       release_time: 2026.05.27 21:01:03
       title: 漏洞挖掘流水线工具audit+deepseek进行AI代码审计
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490099&idx=1&sn=f48f5bb1f2cf00d8b24dca47558fc237
-    - author: 布鲁的Python之旅
-      release_time: 2026.05.27 18:00:41
-      title: 脚本即接口，调度即编排
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486412&idx=1&sn=c27b018e4981e546577874d2353ad71c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
