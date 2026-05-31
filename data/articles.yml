@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2026.05.31 19:30:52
+      title: 一句 why not，跑出 6 个 Claude 项目
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991596&idx=1&sn=ff42f50e494bbb8f9eccff68acd74087
     - author: 小伍哥聊风控
       release_time: 2026.05.31 08:07:18
       title: 只用了三句话，ClaudeCode就自动化生成了风控策略！
@@ -240,13 +244,13 @@
       release_time: 2026.05.27 17:20:09
       title: 国内上市公司近2000万条用户数据疑似泄露
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520198&idx=1&sn=e6fccf55e387e21eda70bd37348eaac4
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.05.27 17:20:09
-      title: 奥地利联邦行政法院以“接受”和“拒绝”选项视觉不一致为由裁定ORF的Cookie提示违法
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520198&idx=2&sn=8df81fabf22823aae1fd8577b7fad83d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: JiGuro
+      release_time: 2026.05.31 19:29:00
+      title: 【多栈实战】某黑产软件全链路逆向实录 (上)
+      url: https://www.52pojie.cn/thread-2110455-1-1.html
     - author: danqingchuhong
       release_time: 2026.05.30 16:57:00
       title: 用ce lua脚本修改fgo
@@ -363,10 +367,6 @@
       release_time: 2026.05.11 17:11:00
       title: 针对wasm反CFF的尝试
       url: https://www.52pojie.cn/thread-2107193-1-1.html
-    - author: f20171110
-      release_time: 2026.05.11 11:17:00
-      title: Web逆向 JS逆向 基础知识 ：Ignition解释器下二
-      url: https://www.52pojie.cn/thread-2107113-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
