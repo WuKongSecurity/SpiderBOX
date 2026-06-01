@@ -251,6 +251,10 @@
       release_time: 2026.05.31 19:29:00
       title: 【多栈实战】某黑产软件全链路逆向实录 (上)
       url: https://www.52pojie.cn/thread-2110455-1-1.html
+    - author: CrackCM
+      release_time: 2026.05.31 14:38:00
+      title: 利用hermes agent 详细分析hunter检测器
+      url: https://www.52pojie.cn/thread-2110423-1-1.html
     - author: danqingchuhong
       release_time: 2026.05.30 16:57:00
       title: 用ce lua脚本修改fgo
@@ -363,13 +367,13 @@
       release_time: 2026.05.11 22:28:00
       title: '[原创]某视频APP七神签名之X-Gorgon生成逻辑逆向分析——古法逆向与AI辅助结合'
       url: https://www.52pojie.cn/thread-2107248-1-1.html
-    - author: scz
-      release_time: 2026.05.11 17:11:00
-      title: 针对wasm反CFF的尝试
-      url: https://www.52pojie.cn/thread-2107193-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 梧桐生
+      release_time: 2026.06.01 16:28:15
+      title: '[原创]某旅行 App 基于 LR 劫持的 ARM64 控制流混淆逆向分析'
+      url: https://bbs.kanxue.com/thread-291422.htm
     - author: r8e8cd8
       release_time: 2026.06.01 13:38:59
       title: '[原创]手搓 JniForward：Unidbg JNI 转发真实 Android ART 的探索'
@@ -486,10 +490,6 @@
       release_time: 2026.05.19 12:06:43
       title: '[原创] 淺談Frida無痕Hook'
       url: https://bbs.kanxue.com/thread-291266.htm
-    - author: mb_wckjnnha
-      release_time: 2026.05.18 00:17:59
-      title: '[原创]Android风险环境检测 —— 签名校验'
-      url: https://bbs.kanxue.com/thread-291252.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
