@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 测试工程师成长之路
+      release_time: 2026.06.01 08:30:00
+      title: 我是如何从手动同步5个工具的Skills，到一键搞定的
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579041&idx=1&sn=0e67125f311fa84024c1603f9f260e53
+    - author: Coder小Q
+      release_time: 2026.06.01 08:30:00
+      title: 【密码学】剪纸窗花里的折痕：CoNAN 如何看穿抗量子格密码的结构
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495685&idx=1&sn=75095b9689cf1ddce78718db870a2d70
     - author: 如意私塾
       release_time: 2026.06.01 00:01:21
       title: 魔改Firefox火狐浏览器源码webGPU指纹定制（文档给AI可一键修改完毕）
@@ -236,14 +244,6 @@
       release_time: 2026.05.28 13:47:59
       title: 不同真机 trace 工具性能对比、优化点分享、xfQtrace使用说明
       url: https://mp.weixin.qq.com/s?__biz=MzYzMTgyNjA1NA==&mid=2247483923&idx=1&sn=3ac8c74b32d1c302453deba302de851e
-    - author: 极验
-      release_time: 2026.05.28 10:00:00
-      title: AI Agent 为什么越来越青睐 iOS 模拟器：威胁深层剖析与企业级全链路防控方案
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724480&idx=1&sn=e9fc6d88bd9f9adfa743d6d0a0ef5bc0
-    - author: 泡泡以安
-      release_time: 2026.05.28 08:40:00
-      title: Frida学习笔记（十五）：算法自吐 · Native 层 OpenSSL/BoringSSL Hook
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486526&idx=1&sn=8f827df7b2947d85762d3a572d07d6e7
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
