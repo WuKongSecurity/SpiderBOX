@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: AngelToms
+      release_time: 2026.06.02 18:53:07
+      title: ab算法之U18-U25
+      url: https://www.bilibili.com/video/BV1r8VB6VEcY
     - author: x1a0f3n9
       release_time: 2026.06.02 13:45:56
       title: 高性能真机trace工具 xfqtrace 使用详解
@@ -117,13 +121,41 @@
       release_time: 2026.05.20 23:23:36
       title: 01XX平台异步调试
       url: https://www.bilibili.com/video/BV1gsLS6PEXR
-    - author: JS逆向零基础实战
-      release_time: 2026.05.20 23:22:48
-      title: xqw混淆异步跟栈调试1
-      url: https://www.bilibili.com/video/BV1hsLS6PEnx
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.06.02 21:11:12
+      title: 魔改safari/webkit苹果浏览器内核实现HTTP密码代理支持（文档给AI可一键修改完毕）
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484739&idx=1&sn=5fbaeb9a90583f24d6017a3643b143a3
+    - author: DrissionPage
+      release_time: 2026.06.02 19:34:42
+      title: 4.2.0b14 修bug
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzczMw==&mid=2247483820&idx=1&sn=762932cd256f02e1b0cc4887c0f0bd21
+    - author: 进击的HACK
+      release_time: 2026.06.02 18:50:52
+      title: 未授权访问漏洞探测工具
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490128&idx=1&sn=0817d2b9140b86460575ffca453f4222
+    - author: 桐梓坡低手
+      release_time: 2026.06.02 18:26:01
+      title: 税务盾山（2）
+      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247483888&idx=1&sn=bf896bd5cfff73f490d9876d3f6916aa
+    - author: 哆啦安全
+      release_time: 2026.06.02 17:56:47
+      title: Claude Code/Cursor/Reasonix配置和开发AI MCP工具
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500699&idx=1&sn=be11249a81e5ebda667888350a23b3b4
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.06.02 17:44:21
+      title: 《商业秘密保护规定》施行，首次将数据、算法等数字资产纳入商业秘密保护范围
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520225&idx=1&sn=f75f84318436cff4a250e1154f26477d
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.06.02 17:44:21
+      title: 我国具身智能领域首份行业标准实施
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520225&idx=2&sn=8aaa4e3b603f99fdf9d479547b21ee3f
+    - author: 菜鸟学Python编程
+      release_time: 2026.06.02 17:30:00
+      title: JS逆向|猿人学第三届比赛第三题AI逆向
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566557&idx=1&sn=e619eaaf78cc97fdc46479cdbd477510
     - author: 布鲁的Python之旅
       release_time: 2026.06.02 09:31:22
       title: TaskPyro爬虫管理平台 v2.3.4：脚本即接口，调度即编排
@@ -212,38 +244,6 @@
       release_time: 2026.05.29 21:33:00
       title: Frida学习笔记（十六）：Root 检测绕过
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486533&idx=1&sn=3109bdd667ab514eb76cd754880cddd3
-    - author: 进击的HACK
-      release_time: 2026.05.29 18:31:47
-      title: 弱口令字典生成器wujing_dic
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490107&idx=1&sn=be6a442e6cce5c1d4ff43e46ebc10da5
-    - author: 桐梓坡低手
-      release_time: 2026.05.29 17:29:15
-      title: 京东外卖商家后台websocket协议
-      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247483880&idx=1&sn=d6635cc79af001de1294fd8649f8dcd7
-    - author: wangyu223
-      release_time: 2026.05.29 11:22:53
-      title: 安卓逆向 某租房APP端抓包+接口逆向解析so层分析
-      url: https://mp.weixin.qq.com/s?__biz=MzY4ODI4MzQwNQ==&mid=2247483910&idx=1&sn=ab69bf30417e07b6283f886d2759fa8a
-    - author: 二进制磨剑
-      release_time: 2026.05.29 09:56:23
-      title: 快报 | Opus 4.8 已经发布
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486111&idx=1&sn=dc192e3e70dfc888b2d9754033acb10e
-    - author: 猿人学Python
-      release_time: 2026.05.29 09:55:06
-      title: AI 逆向实战：Flutter + Swift 混合型 App 的 Jailbreak 检测分析与绕过
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550241&idx=1&sn=606475b2e220c156e70409e6a8997523
-    - author: 如意私塾
-      release_time: 2026.05.29 00:14:38
-      title: ruyiPage魔改内核自动化支持单tab单socks5密码代理
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484700&idx=1&sn=8a2a10befabc6341e5df4938929db354
-    - author: 进击的HACK
-      release_time: 2026.05.28 19:05:30
-      title: 五月渗透测试常用浏览器插件
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490103&idx=1&sn=5782ee3cd208bba00baba3367951be6f
-    - author: 如意私塾
-      release_time: 2026.05.28 18:23:54
-      title: 魔改Firefox火狐浏览器内核源码支持SOCKS5密码代理（文档给AI可一键修改完毕）
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484695&idx=1&sn=6dfdac152b7ec641061c86e7beffe243
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: fkdxjz
+      release_time: 2026.06.02 16:03:39
+      title: '[原创]深度解密 iOS 设备指纹：全链路攻防、底层因子的终局之战'
+      url: https://bbs.kanxue.com/thread-291440.htm
     - author: Ann945
       release_time: 2026.06.01 23:55:01
       title: '[原创]浅谈 iOS 上某视频 App 的设备注册信息收集'
@@ -486,10 +490,6 @@
       release_time: 2026.05.19 17:35:00
       title: 零基础AI反混淆与逆向:让AI生成(类)ob混淆彻底还原的skills(二)
       url: https://blog.csdn.net/qq523176585/article/details/161236456
-    - author: internnal_q
-      release_time: 2026.05.19 17:03:16
-      title: '[原创]当“头像”变成后门：Ghost CMS 存储型 XSS（CVE-2024-23724）'
-      url: https://bbs.kanxue.com/thread-291270.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
