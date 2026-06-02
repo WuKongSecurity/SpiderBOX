@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: x1a0f3n9
+      release_time: 2026.06.02 13:45:56
+      title: 高性能真机trace工具 xfqtrace 使用详解
+      url: https://www.bilibili.com/video/BV1gtVq6dEBL
     - author: 人生导师duck
       release_time: 2026.06.02 00:26:54
       title: 模型逆向这一块
@@ -117,10 +121,6 @@
       release_time: 2026.05.20 23:22:48
       title: xqw混淆异步跟栈调试1
       url: https://www.bilibili.com/video/BV1hsLS6PEnx
-    - author: JS逆向零基础实战
-      release_time: 2026.05.20 23:14:34
-      title: JS逆向补环境专题_09dy补环境实战_01
-      url: https://www.bilibili.com/video/BV15ZLS6rEmi
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: rsds0duck
+      release_time: 2026.06.02 09:50:00
+      title: Android 逆向 Multi-Agent 系统设计
+      url: https://www.52pojie.cn/thread-2110718-1-1.html
     - author: JiGuro
       release_time: 2026.05.31 19:29:00
       title: 【多栈实战】某黑产软件全链路逆向实录 (上)
@@ -363,10 +367,6 @@
       release_time: 2026.05.12 12:27:00
       title: Amazon登录协议逆向分析
       url: https://www.52pojie.cn/thread-2107326-1-1.html
-    - author: czb789661
-      release_time: 2026.05.11 22:28:00
-      title: '[原创]某视频APP七神签名之X-Gorgon生成逻辑逆向分析——古法逆向与AI辅助结合'
-      url: https://www.52pojie.cn/thread-2107248-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
