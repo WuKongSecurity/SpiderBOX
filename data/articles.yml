@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 布鲁的Python之旅
+      release_time: 2026.06.02 09:31:22
+      title: TaskPyro爬虫管理平台 v2.3.4：脚本即接口，调度即编排
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486435&idx=1&sn=aed1de3ea0453caab8b0851e87faf773
     - author: 进击的HACK
       release_time: 2026.06.01 22:06:46
       title: 为什么 /api/;/user/info 这种带分号的 URL 也能正常访问
@@ -240,10 +244,6 @@
       release_time: 2026.05.28 18:23:54
       title: 魔改Firefox火狐浏览器内核源码支持SOCKS5密码代理（文档给AI可一键修改完毕）
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484695&idx=1&sn=6dfdac152b7ec641061c86e7beffe243
-    - author: wangyu223
-      release_time: 2026.05.28 17:48:56
-      title: IOS逆向分析某租房应用 签名生成
-      url: https://mp.weixin.qq.com/s?__biz=MzY4ODI4MzQwNQ==&mid=2247483890&idx=1&sn=6b173996f660f5ecd0e7fbd199417657
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
