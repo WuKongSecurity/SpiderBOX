@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2026.06.03 15:27:55
+      title: 【骚神插件V9.8.4】增加DevTool里无障碍树元素DrissionPage定位代码的生成和查重！！
+      url: https://www.bilibili.com/video/BV1jYVm6AEbg
     - author: AngelToms
       release_time: 2026.06.02 18:53:07
       title: ab算法之U18-U25
@@ -117,13 +121,33 @@
       release_time: 2026.05.20 23:27:49
       title: xqw异步混淆代码调试02
       url: https://www.bilibili.com/video/BV1btLS6wE9n
-    - author: JS逆向零基础实战
-      release_time: 2026.05.20 23:23:36
-      title: 01XX平台异步调试
-      url: https://www.bilibili.com/video/BV1gsLS6PEXR
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.06.03 21:33:01
+      title: 给claude增加记忆的插件claude-mem简单使用
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490132&idx=1&sn=b9eaa0682947aa144e580f9ec086e832
+    - author: 哆啦安全
+      release_time: 2026.06.03 17:26:20
+      title: Android安全智能分析工具V5.4
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500712&idx=1&sn=27ae652deec44f7f7829c17ba02d198d
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.06.03 17:07:23
+      title: 国家网络与信息安全信息通报中心通报71款违法违规收集使用个人信息的移动应用
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520227&idx=1&sn=93ff4ca5906e19179035a3a4e9a1bb77
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.06.03 17:07:23
+      title: Meta 让步：员工可暂停鼠标键盘数据收集 30 分钟
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520227&idx=2&sn=40f9ec0ffb19e6e7cfb5bb817e133dd0
+    - author: 布鲁的Python之旅
+      release_time: 2026.06.03 15:06:56
+      title: 用GPT做了一套品牌视觉，从Logo到海报视觉一次出齐
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486453&idx=1&sn=2fb3de25d837dc0f2ed7f070aaee8bdd
+    - author: 如意私塾
+      release_time: 2026.06.03 12:21:16
+      title: ChatGPT 低价灰产链路系统性套利的报告
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484746&idx=1&sn=658911d1e012f93256592c23c22883b8
     - author: 小伍哥聊风控
       release_time: 2026.06.03 08:30:00
       title: 风控策略自动化挖掘SKILL
@@ -220,33 +244,13 @@
       release_time: 2026.05.30 15:07:13
       title: 双剑合璧:用Frida-MCP一键脱壳 + IDAMCP/GhidraMCP深度逆向分析SO库(全自动逆向工作流)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500677&idx=1&sn=d561b5cd07d4fe0c38eedb5d08407f02
-    - author: 软件安全与逆向分析
-      release_time: 2026.05.30 14:43:01
-      title: 木鱼沙箱软件分析平台全新开启内测
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485228&idx=1&sn=f944f8c1869663aa2746f888ec286963
-    - author: 如意私塾
-      release_time: 2026.05.30 14:36:37
-      title: web自动化HTTP/SOCKS5/单tab单代理示例
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484715&idx=1&sn=68ca1e8c546e8d20ba98bb1ed9cce932
-    - author: 零基础爬虫第一天
-      release_time: 2026.05.30 11:58:56
-      title: '【khbox补环境-5】用 AI 全自动过反爬: RuyiTrace +khBox 实战,速通toutiao和某数'
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484439&idx=1&sn=fa7e4bbe14a474cd4f87bcc93b49824c
-    - author: 爬虫逆向小林哥
-      release_time: 2026.05.30 11:35:18
-      title: 华某会DVMP-V5加固反调试绕过
-      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487387&idx=1&sn=7596ccea69e8ac759de5ac7479af3638
-    - author: 如意私塾
-      release_time: 2026.05.30 10:54:39
-      title: 魔改Firefox火狐浏览器源码实现HTTP密码代理（AI根据文档可一键修改）
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484708&idx=1&sn=974da3e8087b36c91cd0dc752b661105
-    - author: Python成长路
-      release_time: 2026.05.29 22:37:07
-      title: 导出群成员微信号
-      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486186&idx=1&sn=59b60c083f2f897c7a300a831a43a4a3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: vmoranv
+      release_time: 2026.06.02 20:51:00
+      title: '*班课 App 逆向分析'
+      url: https://www.52pojie.cn/thread-2110849-1-1.html
     - author: rsds0duck
       release_time: 2026.06.02 09:50:00
       title: Android 逆向 Multi-Agent 系统设计
@@ -363,13 +367,13 @@
       release_time: 2026.05.12 22:33:00
       title: Vibe Coding 从源码阅读到模块开发：基于最新版 Magisk Zygisk，移植实现一个带 We...
       url: https://www.52pojie.cn/thread-2107426-1-1.html
-    - author: rsds0duck
-      release_time: 2026.05.12 12:27:00
-      title: Amazon登录协议逆向分析
-      url: https://www.52pojie.cn/thread-2107326-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: x0rrrrr
+      release_time: 2026.06.03 13:09:30
+      title: '[原创]APP整体加固原理'
+      url: https://bbs.kanxue.com/thread-291460.htm
     - author: fkdxjz
       release_time: 2026.06.02 16:03:39
       title: '[原创]深度解密 iOS 设备指纹：全链路攻防、底层因子的终局之战'
@@ -486,10 +490,6 @@
       release_time: 2026.05.19 19:33:30
       title: '[原创] 半年时间，我终于用懂了 eDBG —— eBPF 轻量级 trace   tenet 回放伪动调的调试器'
       url: https://bbs.kanxue.com/thread-291272.htm
-    - author: 悦来客栈的老板
-      release_time: 2026.05.19 17:35:00
-      title: 零基础AI反混淆与逆向:让AI生成(类)ob混淆彻底还原的skills(二)
-      url: https://blog.csdn.net/qq523176585/article/details/161236456
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
