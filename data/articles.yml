@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小伍哥聊风控
+      release_time: 2026.06.03 08:30:00
+      title: 风控策略自动化挖掘SKILL
+      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650197194&idx=1&sn=69bfe097dd4b5759c83d2b633ba46336
     - author: 如意私塾
       release_time: 2026.06.02 21:11:12
       title: 魔改safari/webkit苹果浏览器内核实现HTTP密码代理支持（文档给AI可一键修改完毕）
@@ -240,10 +244,6 @@
       release_time: 2026.05.29 22:37:07
       title: 导出群成员微信号
       url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486186&idx=1&sn=59b60c083f2f897c7a300a831a43a4a3
-    - author: 泡泡以安
-      release_time: 2026.05.29 21:33:00
-      title: Frida学习笔记（十六）：Root 检测绕过
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486533&idx=1&sn=3109bdd667ab514eb76cd754880cddd3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
