@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2026.06.04 23:35:19
+      title: 满血开源豆包AI手机一加9ROM安卓16
+      url: https://www.bilibili.com/video/BV1t9EA6BEd7
     - author: Breeze_122134
       release_time: 2026.06.04 17:42:31
       title: 汉宾某讯wasm逆向
@@ -117,13 +121,13 @@
       release_time: 2026.05.20 23:28:14
       title: 02响应数据解密
       url: https://www.bilibili.com/video/BV1utLS6wEX2
-    - author: JS逆向零基础实战
-      release_time: 2026.05.20 23:28:06
-      title: 03登录注册加密
-      url: https://www.bilibili.com/video/BV18tLS6wEAZ
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 泡泡以安
+      release_time: 2026.06.04 21:18:26
+      title: Frida学习笔记（十七）：反调试与反检测对抗（上）· 网易云音乐易盾实战
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486543&idx=1&sn=b02fa596a0d92de56fe7d3fa5b96c1fe
     - author: 个人信息与数据保护实务评论
       release_time: 2026.06.04 16:32:27
       title: 全国首案：某科技公司因虚假撤销等级保护测评备案被罚
@@ -240,10 +244,6 @@
       release_time: 2026.06.01 08:30:00
       title: 【密码学】剪纸窗花里的折痕：CoNAN 如何看穿抗量子格密码的结构
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495685&idx=1&sn=75095b9689cf1ddce78718db870a2d70
-    - author: 如意私塾
-      release_time: 2026.06.01 00:01:21
-      title: 魔改Firefox火狐浏览器源码webGPU指纹定制（文档给AI可一键修改完毕）
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484720&idx=1&sn=d82199f09082fa90cfc1275a17760d66
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
