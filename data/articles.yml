@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: DrissionPage
+      release_time: 2026.06.05 00:07:22
+      title: 4.2.0b15 优化、修bug与新功能
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzczMw==&mid=2247483829&idx=1&sn=78f69add68f78a64eba6aaf384f6f279
     - author: 泡泡以安
       release_time: 2026.06.04 21:18:26
       title: Frida学习笔记（十七）：反调试与反检测对抗（上）· 网易云音乐易盾实战
@@ -240,13 +244,13 @@
       release_time: 2026.06.01 08:30:00
       title: 我是如何从手动同步5个工具的Skills，到一键搞定的
       url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579041&idx=1&sn=0e67125f311fa84024c1603f9f260e53
-    - author: Coder小Q
-      release_time: 2026.06.01 08:30:00
-      title: 【密码学】剪纸窗花里的折痕：CoNAN 如何看穿抗量子格密码的结构
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495685&idx=1&sn=75095b9689cf1ddce78718db870a2d70
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: szh12123
+      release_time: 2026.06.04 23:09:00
+      title: 某网站登录及拼图滑块参数逆向分析
+      url: https://www.52pojie.cn/thread-2111224-1-1.html
     - author: vmoranv
       release_time: 2026.06.02 20:51:00
       title: '*班课 App 逆向分析'
@@ -363,10 +367,6 @@
       release_time: 2026.05.13 16:15:00
       title: 某招聘软件算法分析
       url: https://www.52pojie.cn/thread-2107542-1-1.html
-    - author: fyr666
-      release_time: 2026.05.12 22:33:00
-      title: Vibe Coding 从源码阅读到模块开发：基于最新版 Magisk Zygisk，移植实现一个带 We...
-      url: https://www.52pojie.cn/thread-2107426-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
