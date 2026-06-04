@@ -3216,14 +3216,6 @@
           url: https://get.brightdata.com/17arn8
           description: Award winning proxy networks, powerful web scrapers, and ready-to-use datasets for download. Welcome to the world's number one web data platform.
 
-        # 50% ==============================
-        - title: Thordata
-          logo: thordata.jpg
-          no_referral: true
-          # url: https://www.thordata.com/?ls=dhz&lk=spiderbox
-          url: https://dashboard.thordata.com/zh/register?invitation_code=M1TQMPB5
-          description: Scale Your Access with 60 Million IPs at Affordable Prices. Reliable, high-quality proxy solutions tailored for businesses and distributors.
-
         # 30% ==============================
         - title: SwiftProxy
           logo: swiftproxy.jpg
@@ -3241,6 +3233,12 @@
           description: 9000万+全球优质IP资源，$0.8/G起，动态流量永久有效
 
         # 10% ==============================
+        - title: Thordata
+          logo: thordata.jpg
+          no_referral: true
+          # url: https://www.thordata.com/?ls=dhz&lk=spiderbox
+          url: https://dashboard.thordata.com/zh/register?invitation_code=M1TQMPB5
+          description: Scale Your Access with 60 Million IPs at Affordable Prices. Reliable, high-quality proxy solutions tailored for businesses and distributors.
         - title: kookeey 全球业务级代理 IP
           logo: kookeey.jpg
           no_referral: true
@@ -5886,7 +5884,7 @@
         - title: proxypin-mcp-server
           url: https://github.com/LunFengChen/proxypin-mcp-server
           logo: github.png
-          description: ProxyPin 的 MCP 服务器，作用通俗点说就是 抓包软件有啥功能，ai 都能调用啥功能
+          description: ProxyPin 的 MCP 服务器，作用通俗点说就是抓包软件有啥功能，ai 都能调用啥功能
         - title: XcodeBuildMCP
           url: https://github.com/getsentry/XcodeBuildMCP
           logo: github.png
@@ -5953,6 +5951,10 @@
           url: https://github.com/betab0t/skills/
           logo: github.png
           description: 一个不断更新的用于 AI coding agents 逆向工程的技能集合
+        - title: bin-deobf-skills
+          url: https://github.com/P4nda0s/bin-deobf-skills
+          logo: github.png
+          description: 一个面向 Claude Code 的二进制反混淆技能插件，基于 angr 符号执行 + BFS 遍历，自动还原 CSEL/CSET + BR 间接跳转模式的控制流并完成二进制 Patch。把原本需要手动逆向地址计算逻辑的繁重工作，变成一条 Skill 命令
 
     - name: Skills (网安)
       links:
