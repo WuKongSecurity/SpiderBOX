@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.06.04 12:07:41
+      title: 魔改Firefox火狐浏览器一个tab一个s5密码隔离
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484751&idx=1&sn=de69bd32933cd3e6b292b91dda52b665
+    - author: 二进制磨剑
+      release_time: 2026.06.04 08:30:00
+      title: 磨剑开源｜bin-deobf-skills：让 AI Agent 自动化去混淆间接跳转
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486116&idx=1&sn=8a754848fd94735daf4b40f3e323ff1f
+    - author: 哆啦安全
+      release_time: 2026.06.04 08:00:00
+      title: 安全服务工程师会被取代吗？漏洞扫描终将自动化，但安全思维永不落幕
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500716&idx=1&sn=055614b6c7cc707eaadb6ef2dd1c4264
     - author: 进击的HACK
       release_time: 2026.06.03 21:33:01
       title: 给claude增加记忆的插件claude-mem简单使用
@@ -232,18 +244,6 @@
       release_time: 2026.05.31 19:30:52
       title: 一句 why not，跑出 6 个 Claude 项目
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991596&idx=1&sn=ff42f50e494bbb8f9eccff68acd74087
-    - author: 小伍哥聊风控
-      release_time: 2026.05.31 08:07:18
-      title: 只用了三句话，ClaudeCode就自动化生成了风控策略！
-      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650197179&idx=1&sn=90463f673e8bc4fdfc4c599c54f11bf6
-    - author: 进击的HACK
-      release_time: 2026.05.30 19:13:27
-      title: 五月渗透常用Burpsuite插件
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490111&idx=1&sn=09c754eb12225e7fa0e98b317dd7aa5f
-    - author: 哆啦安全
-      release_time: 2026.05.30 15:07:13
-      title: 双剑合璧:用Frida-MCP一键脱壳 + IDAMCP/GhidraMCP深度逆向分析SO库(全自动逆向工作流)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500677&idx=1&sn=d561b5cd07d4fe0c38eedb5d08407f02
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
