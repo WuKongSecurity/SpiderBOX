@@ -371,6 +371,10 @@
     term: 吾爱破解
   - links:
     - author: mb_fycbgpri
+      release_time: 2026.06.06 04:21:43
+      title: '[原创]跨进程内存读写的攻防博弈：从内核缺页陷阱到应用层数据溯源'
+      url: https://bbs.kanxue.com/thread-291487.htm
+    - author: mb_fycbgpri
       release_time: 2026.06.06 04:19:42
       title: '[原创]内存访问蜜罐页的五次进化：从静态陷阱到多维度 PMU 统计检测'
       url: https://bbs.kanxue.com/thread-291486.htm
@@ -486,10 +490,6 @@
       release_time: 2026.05.22 15:21:41
       title: '[原创]【代码审计】客户端代码执行之WebView JavaScript桥接劫持token账号接管'
       url: https://bbs.kanxue.com/thread-291310.htm
-    - author: 差不多的张三
-      release_time: 2026.05.22 15:13:40
-      title: '[原创]【银行逆向百例】17Android逆向之libDexHelper梆梆加固frida检测绕过'
-      url: https://bbs.kanxue.com/thread-291309.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
