@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 零基础爬虫第一天
+      release_time: 2026.06.05 22:26:59
+      title: 【web补环境案例-4】khbox+ai秒过系列geetest无感/wasm案例/tx tdc无感
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484452&idx=1&sn=cda0d8da5fd6c43506ac13ee884ea968
     - author: 一支甜筒
       release_time: 2026.06.05 20:34:28
       title: codex 两天搞定某音签名以及设备注册
@@ -240,10 +244,6 @@
       release_time: 2026.06.02 09:31:22
       title: TaskPyro爬虫管理平台 v2.3.4：脚本即接口，调度即编排
       url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486435&idx=1&sn=aed1de3ea0453caab8b0851e87faf773
-    - author: 进击的HACK
-      release_time: 2026.06.01 22:06:46
-      title: 为什么 /api/;/user/info 这种带分号的 URL 也能正常访问
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490123&idx=1&sn=c58a1b921b00a667379f0580aca11054
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 小黄鸭爱学习
+      release_time: 2026.06.06 01:41:28
+      title: '[讨论]xxx.SKLL.md或许已经变成AI新时代的Awesome_XX.md'
+      url: https://bbs.kanxue.com/thread-291485.htm
     - author: Metzkerson
       release_time: 2026.06.05 20:57:57
       title: '[原创]浅析libFairGuard.so保护方案'
@@ -486,10 +490,6 @@
       release_time: 2026.05.22 14:59:39
       title: '[原创]【银行逆向百例】16Android逆向之算法助手 frida绕过环境检测分析加密算法'
       url: https://bbs.kanxue.com/thread-291308.htm
-    - author: 差不多的张三
-      release_time: 2026.05.22 14:22:35
-      title: '[原创]【银行逆向百例】15小程序逆向之支付宝提取data文件为tar格式'
-      url: https://bbs.kanxue.com/thread-291307.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
