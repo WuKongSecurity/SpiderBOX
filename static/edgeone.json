@@ -6,8 +6,19 @@
         {
           "key": "X-Frame-Options",
           "value": "DENY"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "max-age=86400"
         }
       ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "$wwwhost",
+      "destination": "$host",
+      "statusCode": 301
     }
   ]
 }
