@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 一支甜筒
+      release_time: 2026.06.05 20:34:28
+      title: codex 两天搞定某音签名以及设备注册
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NDYzMDMwMw==&mid=2247483783&idx=1&sn=caa54eefe7f9883f7812ac4f141a37fc
     - author: 泡泡以安
       release_time: 2026.06.05 19:36:39
       title: Frida学习笔记（十八）：反调试与反检测对抗（下）· 招商银行三套 SDK 实战
@@ -240,13 +244,21 @@
       release_time: 2026.06.01 22:06:46
       title: 为什么 /api/;/user/info 这种带分号的 URL 也能正常访问
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490123&idx=1&sn=c58a1b921b00a667379f0580aca11054
-    - author: 理想真会玩
-      release_time: 2026.06.01 20:31:14
-      title: Akamai之sbsd算法分析
-      url: https://mp.weixin.qq.com/s?__biz=MzIwODg1MjQ4OQ==&mid=2247485648&idx=1&sn=7c98859dfe2907c9153c7bc60e75c6da
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: jbczzz
+      release_time: 2026.06.05 20:04:00
+      title: 内存访问蜜罐页的五次进化：从静态陷阱到多维度 PMU 统计检测
+      url: https://www.52pojie.cn/thread-2111376-1-1.html
+    - author: jbczzz
+      release_time: 2026.06.05 20:03:00
+      title: 跨进程内存读写的攻防博弈：从内核缺页陷阱到应用层数据溯源
+      url: https://www.52pojie.cn/thread-2111373-1-1.html
+    - author: qiangcxq
+      release_time: 2026.06.05 14:14:00
+      title: 雷电9 Android9 + Burp + Frida 抓包实操
+      url: https://www.52pojie.cn/thread-2111305-1-1.html
     - author: szh12123
       release_time: 2026.06.04 23:09:00
       title: 某网站登录及拼图滑块参数逆向分析
@@ -355,21 +367,13 @@
       release_time: 2026.05.16 19:32:00
       title: 抖音 libsscronet 跨 SO 加密调用机制
       url: https://www.52pojie.cn/thread-2108051-1-1.html
-    - author: kjkuang
-      release_time: 2026.05.15 11:54:00
-      title: xpalyer公司另一款产品arc palyer  只改一处获得专业版
-      url: https://www.52pojie.cn/thread-2107840-1-1.html
-    - author: qn233
-      release_time: 2026.05.14 21:25:00
-      title: 某饰品交易平台订单创建协议逆向
-      url: https://www.52pojie.cn/thread-2107752-1-1.html
-    - author: 渔歌子
-      release_time: 2026.05.14 21:12:00
-      title: Interlink Network APK 逆向工程笔记
-      url: https://www.52pojie.cn/thread-2107750-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Metzkerson
+      release_time: 2026.06.05 20:57:57
+      title: '[原创]浅析libFairGuard.so保护方案'
+      url: https://bbs.kanxue.com/thread-291483.htm
     - author: mb_urstnxlk
       release_time: 2026.06.05 17:03:28
       title: '[分享]记一次某存储厂商官网的反射型XSS挖掘过程（附修复建议）'
@@ -486,10 +490,6 @@
       release_time: 2026.05.22 14:22:35
       title: '[原创]【银行逆向百例】15小程序逆向之支付宝提取data文件为tar格式'
       url: https://bbs.kanxue.com/thread-291307.htm
-    - author: 差不多的张三
-      release_time: 2026.05.22 13:52:32
-      title: '[原创]【银行逆向百例】14小程序逆向之报错快速定位加解密 版本过低升级4.0微信开启控制台'
-      url: https://bbs.kanxue.com/thread-291306.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
