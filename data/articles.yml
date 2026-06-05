@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.06.05 15:03:04
+      title: 鸿蒙(HarmonyOS)病毒智能检测工具V5.1
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500730&idx=1&sn=064adc2b7dc23134d3b7d4a7980787e5
     - author: DrissionPage
       release_time: 2026.06.05 00:07:22
       title: 4.2.0b15 优化、修bug与新功能
@@ -240,10 +244,6 @@
       release_time: 2026.06.01 11:16:03
       title: 某日头条a_bogus 1.0.1.7参数补环境详情分析
       url: https://mp.weixin.qq.com/s?__biz=MzY4ODI4MzQwNQ==&mid=2247483913&idx=1&sn=2b1b2a480f3295c064740c96539dbe63
-    - author: 测试工程师成长之路
-      release_time: 2026.06.01 08:30:00
-      title: 我是如何从手动同步5个工具的Skills，到一键搞定的
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579041&idx=1&sn=0e67125f311fa84024c1603f9f260e53
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
