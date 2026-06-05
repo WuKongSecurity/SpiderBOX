@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: AngelToms
+      release_time: 2026.06.05 12:18:55
+      title: ab算法之U26-U56
+      url: https://www.bilibili.com/video/BV1fQ7r68ESB
     - author: r0ysue
       release_time: 2026.06.04 23:35:19
       title: 满血开源豆包AI手机一加9ROM安卓16
@@ -117,10 +121,6 @@
       release_time: 2026.05.20 23:28:21
       title: 01响应数据解密
       url: https://www.bilibili.com/video/BV18tLS6wEH6
-    - author: JS逆向零基础实战
-      release_time: 2026.05.20 23:28:14
-      title: 02响应数据解密
-      url: https://www.bilibili.com/video/BV1utLS6wEX2
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -251,6 +251,10 @@
       release_time: 2026.06.04 23:09:00
       title: 某网站登录及拼图滑块参数逆向分析
       url: https://www.52pojie.cn/thread-2111224-1-1.html
+    - author: lichuntian00
+      release_time: 2026.06.04 17:21:00
+      title: TikTok 45.4.3 抓包之双网络栈证书校验分析
+      url: https://www.52pojie.cn/thread-2111184-1-1.html
     - author: vmoranv
       release_time: 2026.06.02 20:51:00
       title: '*班课 App 逆向分析'
@@ -363,10 +367,6 @@
       release_time: 2026.05.14 21:12:00
       title: Interlink Network APK 逆向工程笔记
       url: https://www.52pojie.cn/thread-2107750-1-1.html
-    - author: xiayutianz
-      release_time: 2026.05.13 16:15:00
-      title: 某招聘软件算法分析
-      url: https://www.52pojie.cn/thread-2107542-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
