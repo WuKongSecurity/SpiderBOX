@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: JiGuro
+      release_time: 2026.06.06 11:13:00
+      title: 【多栈实战】某黑产软件全链路逆向实录 (中)
+      url: https://www.52pojie.cn/thread-2111428-1-1.html
     - author: jbczzz
       release_time: 2026.06.05 20:04:00
       title: 内存访问蜜罐页的五次进化：从静态陷阱到多维度 PMU 统计检测
@@ -363,10 +367,6 @@
       release_time: 2026.05.17 12:58:00
       title: 最新易盾web滑块逆向分析。
       url: https://www.52pojie.cn/thread-2108119-1-1.html
-    - author: rsds0duck
-      release_time: 2026.05.16 19:32:00
-      title: 抖音 libsscronet 跨 SO 加密调用机制
-      url: https://www.52pojie.cn/thread-2108051-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
