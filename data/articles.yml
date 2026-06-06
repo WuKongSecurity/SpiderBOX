@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: EithanSolace
+      release_time: 2026.06.06 22:20:55
+      title: 密码学补完计划[第三十五期] HMAC(前篇)
+      url: https://www.bilibili.com/video/BV1urEJ6QEP9
     - author: 学逆向的柚子
       release_time: 2026.06.06 10:28:43
       title: youzi-env js逆向补环境框架
@@ -117,10 +121,6 @@
       release_time: 2026.05.25 14:01:04
       title: win下真实safari内核定制socks5密码代理
       url: https://www.bilibili.com/video/BV1eYGx6fEwm
-    - author: 带带弟弟学爬虫
-      release_time: 2026.05.24 23:18:59
-      title: dy-评论、搜索、个人主页、发布采集演示
-      url: https://www.bilibili.com/video/BV1HMGH6hENr
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: linglian
+      release_time: 2026.06.06 11:24:00
+      title: 某企业加固dex vmp简单分析
+      url: https://www.52pojie.cn/thread-2111432-1-1.html
     - author: JiGuro
       release_time: 2026.06.06 11:13:00
       title: 【多栈实战】某黑产软件全链路逆向实录 (中)
@@ -363,10 +367,6 @@
       release_time: 2026.05.18 11:22:00
       title: Hermes Agent 对抗 Garuda Defender Frida 检测：从弹窗链路到绕过
       url: https://www.52pojie.cn/thread-2108259-1-1.html
-    - author: 小亮丶1
-      release_time: 2026.05.17 12:58:00
-      title: 最新易盾web滑块逆向分析。
-      url: https://www.52pojie.cn/thread-2108119-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
