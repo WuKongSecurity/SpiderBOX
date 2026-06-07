@@ -124,6 +124,34 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 桐梓坡低手
+      release_time: 2026.06.07 20:50:09
+      title: AI第二弹(逆向) skill
+      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247483941&idx=1&sn=da680f56467072130630bf28fff74d13
+    - author: 未闻Code
+      release_time: 2026.06.07 19:26:41
+      title: HTML版剪映来了！Open Design 团队最新开源力作，3天时间，写了3万行代码！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991599&idx=1&sn=84c837f1c1c7c9b707c65aea21225aab
+    - author: 进击的HACK
+      release_time: 2026.06.07 18:40:40
+      title: Ai逆向的skill xbsReverseSkill
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490152&idx=1&sn=978b14aaf118afa34b75a8a7f7910cdf
+    - author: 邱邱爱风控
+      release_time: 2026.06.07 14:53:57
+      title: 从零到落地：一个风控研究员的NLP实战学习路线
+      url: https://mp.weixin.qq.com/s?__biz=MzYyMjgzMzcwNg==&mid=2247485158&idx=1&sn=3956c0e3f166641fb95f98a36fddb546
+    - author: 小小杨学编程
+      release_time: 2026.06.07 13:54:18
+      title: 某动M端滑块AI逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484754&idx=1&sn=6856100aee0d9768417c883c564641c2
+    - author: 泡泡以安
+      release_time: 2026.06.07 08:40:00
+      title: 分享我的绘图 Skill
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486555&idx=1&sn=c7bbec75f1e6b8d529d0974737dfc6cd
+    - author: 桐梓坡低手
+      release_time: 2026.06.06 19:41:05
+      title: AI(逆向)  codex + ruyipage+ruyitrace
+      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247483925&idx=1&sn=a35160f1440f519df0ef4be4932a9934
     - author: 零基础爬虫第一天
       release_time: 2026.06.05 22:26:59
       title: 【web补环境案例-4】khbox+ai秒过系列geetest无感/wasm案例/tx tdc无感
@@ -216,34 +244,6 @@
       release_time: 2026.06.02 19:34:42
       title: 4.2.0b14 修bug
       url: https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzczMw==&mid=2247483820&idx=1&sn=762932cd256f02e1b0cc4887c0f0bd21
-    - author: 进击的HACK
-      release_time: 2026.06.02 18:50:52
-      title: 未授权访问漏洞探测工具
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490128&idx=1&sn=0817d2b9140b86460575ffca453f4222
-    - author: 桐梓坡低手
-      release_time: 2026.06.02 18:26:01
-      title: 税务盾山（2）
-      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247483888&idx=1&sn=bf896bd5cfff73f490d9876d3f6916aa
-    - author: 哆啦安全
-      release_time: 2026.06.02 17:56:47
-      title: Claude Code/Cursor/Reasonix配置和开发AI MCP工具
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500699&idx=1&sn=be11249a81e5ebda667888350a23b3b4
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.06.02 17:44:21
-      title: 《商业秘密保护规定》施行，首次将数据、算法等数字资产纳入商业秘密保护范围
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520225&idx=1&sn=f75f84318436cff4a250e1154f26477d
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.06.02 17:44:21
-      title: 我国具身智能领域首份行业标准实施
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520225&idx=2&sn=8aaa4e3b603f99fdf9d479547b21ee3f
-    - author: 菜鸟学Python编程
-      release_time: 2026.06.02 17:30:00
-      title: JS逆向|猿人学第三届比赛第三题AI逆向
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566557&idx=1&sn=e619eaaf78cc97fdc46479cdbd477510
-    - author: 布鲁的Python之旅
-      release_time: 2026.06.02 09:31:22
-      title: TaskPyro爬虫管理平台 v2.3.4：脚本即接口，调度即编排
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486435&idx=1&sn=aed1de3ea0453caab8b0851e87faf773
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
