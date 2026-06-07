@@ -124,6 +124,38 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 大数据安全技术学习
+      release_time: 2026.06.08 00:24:02
+      title: APP2025.直播预告23.r0rpc再进化：加入iOS支持
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486206&idx=1&sn=ba7251161e659d4aba1f52430f2ef976
+    - author: 大数据安全技术学习
+      release_time: 2026.06.08 00:24:02
+      title: 奋斗者计划，助你升职加薪|阿里云、米哈游、阿里巴巴直推
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486206&idx=2&sn=c032aad0b232be931699d4493d34905d
+    - author: 大数据安全技术学习
+      release_time: 2026.06.08 00:24:02
+      title: AI手机(直播预告)：07.开源AI手机配套源码组合开发套件
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486206&idx=3&sn=b024d4d200735434ab5ea025957207cf
+    - author: 大数据安全技术学习
+      release_time: 2026.06.08 00:24:02
+      title: 安卓16满血开源豆包AI手机一加9刷好FolkPatch/LSPosed
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486206&idx=4&sn=10cf900e1556cadb06115b905291523e
+    - author: 大数据安全技术学习
+      release_time: 2026.06.08 00:24:02
+      title: 地表最强过检测环境原生三绿取证设备
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486206&idx=5&sn=ad36b0c6a7db411abf09ba4460cb78e5
+    - author: 大数据安全技术学习
+      release_time: 2026.06.08 00:24:02
+      title: 八九新红米13C刷机小王子内核模块定制隐藏环境过多数企业壳frida检测
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486206&idx=6&sn=46fefe5297ab95d0fb1196ebdeac6b69
+    - author: 大数据安全技术学习
+      release_time: 2026.06.08 00:24:02
+      title: 九新红米Note13解锁内核模块定制隐藏环境过多数企业壳frida检测
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486206&idx=7&sn=d44433f6afcd179e00bb47b2a1ad20db
+    - author: 大数据安全技术学习
+      release_time: 2026.06.08 00:24:02
+      title: 月神 SRC 漏洞挖掘课程・第六期 全新升级
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486206&idx=8&sn=34391c4fffa91e5756a8570cf4767f71
     - author: 桐梓坡低手
       release_time: 2026.06.07 20:50:09
       title: AI第二弹(逆向) skill
@@ -212,38 +244,6 @@
       release_time: 2026.06.03 21:33:01
       title: 给claude增加记忆的插件claude-mem简单使用
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490132&idx=1&sn=b9eaa0682947aa144e580f9ec086e832
-    - author: 哆啦安全
-      release_time: 2026.06.03 17:26:20
-      title: Android安全智能分析工具V5.4
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500712&idx=1&sn=27ae652deec44f7f7829c17ba02d198d
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.06.03 17:07:23
-      title: 国家网络与信息安全信息通报中心通报71款违法违规收集使用个人信息的移动应用
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520227&idx=1&sn=93ff4ca5906e19179035a3a4e9a1bb77
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.06.03 17:07:23
-      title: Meta 让步：员工可暂停鼠标键盘数据收集 30 分钟
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520227&idx=2&sn=40f9ec0ffb19e6e7cfb5bb817e133dd0
-    - author: 布鲁的Python之旅
-      release_time: 2026.06.03 15:06:56
-      title: 用GPT做了一套品牌视觉，从Logo到海报视觉一次出齐
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486453&idx=1&sn=2fb3de25d837dc0f2ed7f070aaee8bdd
-    - author: 如意私塾
-      release_time: 2026.06.03 12:21:16
-      title: ChatGPT 低价灰产链路系统性套利的报告
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484746&idx=1&sn=658911d1e012f93256592c23c22883b8
-    - author: 小伍哥聊风控
-      release_time: 2026.06.03 08:30:00
-      title: 风控策略自动化挖掘SKILL
-      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650197194&idx=1&sn=69bfe097dd4b5759c83d2b633ba46336
-    - author: 如意私塾
-      release_time: 2026.06.02 21:11:12
-      title: 魔改safari/webkit苹果浏览器内核实现HTTP密码代理支持（文档给AI可一键修改完毕）
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484739&idx=1&sn=5fbaeb9a90583f24d6017a3643b143a3
-    - author: DrissionPage
-      release_time: 2026.06.02 19:34:42
-      title: 4.2.0b14 修bug
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzczMw==&mid=2247483820&idx=1&sn=762932cd256f02e1b0cc4887c0f0bd21
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
