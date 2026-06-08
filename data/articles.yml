@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 风华Ahu
+      release_time: 2026.06.09 00:25:50
+      title: js逆向百例-30-spiderdemo vmp
+      url: https://www.bilibili.com/video/BV12hE36xErS
     - author: 冷月不是程序员
       release_time: 2026.06.07 13:43:55
       title: 5分钟带你拆解Linux软件安装包
@@ -117,10 +121,6 @@
       release_time: 2026.05.26 11:40:08
       title: 未来规划
       url: https://www.bilibili.com/video/BV1CJVw65EAW
-    - author: AngelToms
-      release_time: 2026.05.26 11:31:38
-      title: ab算法之U12-U15
-      url: https://www.bilibili.com/video/BV1EbVw6uECL
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
