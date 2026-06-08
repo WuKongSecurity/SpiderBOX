@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 挖个洞先
+      release_time: 2026.06.08 09:00:00
+      title: 【银行逆向百例】18Android逆向之libDexHelper.so梆梆加固壳解密+frida-dexdump脱壳
+      url: https://mp.weixin.qq.com/s?__biz=MzkyNjY3OTI4Ng==&mid=2247486082&idx=1&sn=b1d2d1cf61cf3c5585b01afe08c3e5bc
+    - author: CYRUS STUDIO
+      release_time: 2026.06.08 08:30:00
+      title: OpenSSL 实战：构建安全 HTTP 请求与反抓包体系，保护核心业务数据
+      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486636&idx=1&sn=b58d577e16b725c5be2a612181e1b16a
+    - author: 测试工程师成长之路
+      release_time: 2026.06.08 08:30:00
+      title: 最近面了20+自动化测试，能把这19个坑踩明白的，直接发Offer
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579069&idx=1&sn=5b10a05be4949c5ab95717028effb9d3
+    - author: Coder小Q
+      release_time: 2026.06.08 08:30:00
+      title: 【杂谈】用代码画图：TikZ 绘图技术方案
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495755&idx=1&sn=7c81616bb3cae1a0c7310e036d494e96
     - author: 大数据安全技术学习
       release_time: 2026.06.08 00:24:02
       title: APP2025.直播预告23.r0rpc再进化：加入iOS支持
@@ -228,22 +244,6 @@
       release_time: 2026.06.04 14:30:39
       title: 简单判断AI-skills是否会送你上“断头台”
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490140&idx=1&sn=8a8071e4118fd1fda2efe18e3622cdb4
-    - author: 如意私塾
-      release_time: 2026.06.04 12:07:41
-      title: 魔改Firefox火狐浏览器一个tab一个s5密码隔离
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484751&idx=1&sn=de69bd32933cd3e6b292b91dda52b665
-    - author: 二进制磨剑
-      release_time: 2026.06.04 08:30:00
-      title: 磨剑开源｜bin-deobf-skills：让 AI Agent 自动化去混淆间接跳转
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486116&idx=1&sn=8a754848fd94735daf4b40f3e323ff1f
-    - author: 哆啦安全
-      release_time: 2026.06.04 08:00:00
-      title: 安全服务工程师会被取代吗？漏洞扫描终将自动化，但安全思维永不落幕
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500716&idx=1&sn=055614b6c7cc707eaadb6ef2dd1c4264
-    - author: 进击的HACK
-      release_time: 2026.06.03 21:33:01
-      title: 给claude增加记忆的插件claude-mem简单使用
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490132&idx=1&sn=b9eaa0682947aa144e580f9ec086e832
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
