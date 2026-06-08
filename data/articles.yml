@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二手的程序员
+      release_time: 2026.06.08 19:51:08
+      title: 分享一个键鼠共享软件！！！
+      url: https://mp.weixin.qq.com/s?__biz=MzU2NTkxMTU1NA==&mid=2247489506&idx=1&sn=cd1cb845d70765e219d6aa2fcff86994
+    - author: 进击的HACK
+      release_time: 2026.06.08 18:59:51
+      title: 面试官视角的渗透测试技术面
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490160&idx=1&sn=64eb52efca9eb63d386fbeeae6f084b3
+    - author: wangyu223
+      release_time: 2026.06.08 16:01:30
+      title: ios逆向某购物app谷歌cronet抓包检测绕过
+      url: https://mp.weixin.qq.com/s?__biz=MzY4ODI4MzQwNQ==&mid=2247483930&idx=1&sn=82459e900fbde4e8078933b525ef146b
     - author: 挖个洞先
       release_time: 2026.06.08 09:00:00
       title: 【银行逆向百例】18Android逆向之libDexHelper.so梆梆加固壳解密+frida-dexdump脱壳
@@ -200,6 +212,10 @@
       release_time: 2026.06.06 19:41:05
       title: AI(逆向)  codex + ruyipage+ruyitrace
       url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247483925&idx=1&sn=a35160f1440f519df0ef4be4932a9934
+    - author: 进击的HACK
+      release_time: 2026.06.06 19:35:02
+      title: 通过java-audit-skills分析Java源码
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490148&idx=1&sn=612abfd6fbcf3f7771c051340369bc58
     - author: 零基础爬虫第一天
       release_time: 2026.06.05 22:26:59
       title: 【web补环境案例-4】khbox+ai秒过系列geetest无感/wasm案例/tx tdc无感
@@ -228,25 +244,13 @@
       release_time: 2026.06.04 21:18:26
       title: Frida学习笔记（十七）：反调试与反检测对抗（上）· 网易云音乐易盾实战
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486543&idx=1&sn=b02fa596a0d92de56fe7d3fa5b96c1fe
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.06.04 16:32:27
-      title: 全国首案：某科技公司因虚假撤销等级保护测评备案被罚
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520239&idx=1&sn=174bfb68ebae14edbd911bdd2bde683c
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.06.04 16:32:27
-      title: 美国总统签发AI监管行政令，AI模型预审期缩短至30天
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520239&idx=2&sn=ac096065dd72e50cc2027bc842071620
-    - author: 桐梓坡低手
-      release_time: 2026.06.04 14:43:39
-      title: Incapsula reese84(1)
-      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247483906&idx=1&sn=2e2485427c3e41e79dc0778f0d5bb264
-    - author: 进击的HACK
-      release_time: 2026.06.04 14:30:39
-      title: 简单判断AI-skills是否会送你上“断头台”
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490140&idx=1&sn=8a8071e4118fd1fda2efe18e3622cdb4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: f20171110
+      release_time: 2026.06.07 14:11:00
+      title: web逆向基础知识--- js 事件 事件循环 和异步
+      url: https://www.52pojie.cn/thread-2111598-1-1.html
     - author: linglian
       release_time: 2026.06.06 11:24:00
       title: 某企业加固dex vmp简单分析
@@ -363,13 +367,17 @@
       release_time: 2026.05.19 22:39:00
       title: '[原创] Deep Archive {JiGuro} CrackMe 逆向分析：不止一个的秘密'
       url: https://www.52pojie.cn/thread-2108530-1-1.html
-    - author: CrackCM
-      release_time: 2026.05.18 11:22:00
-      title: Hermes Agent 对抗 Garuda Defender Frida 检测：从弹窗链路到绕过
-      url: https://www.52pojie.cn/thread-2108259-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: fkdxjz
+      release_time: 2026.06.08 17:44:34
+      title: '[原创]iOS Hook 终极兵器库：九种拦截机制到硬件级 PAC 绕过的硬核指南'
+      url: https://bbs.kanxue.com/thread-291522.htm
+    - author: 差不多的张三
+      release_time: 2026.06.08 14:59:12
+      title: '[原创]【银行逆向百例】18Android逆向之libDexHelper.so梆梆加固壳解密 frida-dexdump脱壳'
+      url: https://bbs.kanxue.com/thread-291515.htm
     - author: FinSectech
       release_time: 2026.06.06 12:45:33
       title: '[原创]编译AOSP时解决flex版本兼容问题：从报错到一招“狸猫换太子”完美绕过'
@@ -482,14 +490,6 @@
       release_time: 2026.05.24 16:02:51
       title: '[原创] 抖音 VMP 分析（四）：指令流的分析'
       url: https://bbs.kanxue.com/thread-291333.htm
-    - author: mb_xdpmhhzk
-      release_time: 2026.05.24 07:51:14
-      title: '[原创]安卓 12~16 系统级长效驻留与防卸载技术方案 深度适配 HyperOS'
-      url: https://bbs.kanxue.com/thread-291328.htm
-    - author: xklgl
-      release_time: 2026.05.24 07:51:14
-      title: '[原创]某运营商APP加固脱壳与反 Frida 检测绕过分析'
-      url: https://bbs.kanxue.com/thread-291329.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
