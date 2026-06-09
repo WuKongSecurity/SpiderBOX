@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向成长日记
+      release_time: 2026.06.09 11:55:42
+      title: 全自动企业级逆向Agent—Hound（序言）
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4NTg0MjMzNQ==&mid=2247484305&idx=1&sn=397c61bb6aeb9cb817bb696e3971ad5b
+    - author: 软件安全与逆向分析
+      release_time: 2026.06.09 11:33:05
+      title: 使用木鱼沙箱跟踪分析kpm与ko模块
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485237&idx=1&sn=61044ac4cc7070f7e4984a2326a9a905
+    - author: Spade sec
+      release_time: 2026.06.09 10:48:01
+      title: 月の造梦星球-纷传破壳
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486970&idx=1&sn=b2a85dd21035ec944cebd78766948355
     - author: DrissionPage
       release_time: 2026.06.08 23:03:24
       title: 4.2.0b17
@@ -232,18 +244,6 @@
       release_time: 2026.06.05 22:26:59
       title: 【web补环境案例-4】khbox+ai秒过系列geetest无感/wasm案例/tx tdc无感
       url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484452&idx=1&sn=cda0d8da5fd6c43506ac13ee884ea968
-    - author: 一支甜筒
-      release_time: 2026.06.05 20:34:28
-      title: codex 两天搞定某音签名以及设备注册
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NDYzMDMwMw==&mid=2247483783&idx=1&sn=caa54eefe7f9883f7812ac4f141a37fc
-    - author: 泡泡以安
-      release_time: 2026.06.05 19:36:39
-      title: Frida学习笔记（十八）：反调试与反检测对抗（下）· 招商银行三套 SDK 实战
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486547&idx=1&sn=7191a3a20e33948ac5acc819357118a1
-    - author: 进击的HACK
-      release_time: 2026.06.05 18:31:04
-      title: Burp插件 AuthKit 检测各类越权及未授权访问问题
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490144&idx=1&sn=cc775a77f09a18bd2eff47cd83799a96
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
