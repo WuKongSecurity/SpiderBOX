@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.06.09 19:43:39
+      title: 纯算BrowserScan浏览器指纹Canvas检测和反检测
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484774&idx=1&sn=5de458b4d6951b116cca21186d86b02a
+    - author: 进击的HACK
+      release_time: 2026.06.09 18:42:32
+      title: Skills和MCP在漏洞挖掘中的作用是什么
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490164&idx=1&sn=6d7bc101d99a63dad60d97dceb6cb3cf
     - author: 菜鸟学Python编程
       release_time: 2026.06.09 17:33:00
       title: AST反混淆实战|某里V2feilin混淆文件还原详解(一)
@@ -236,14 +244,6 @@
       release_time: 2026.06.07 13:54:18
       title: 某动M端滑块AI逆向分析
       url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484754&idx=1&sn=6856100aee0d9768417c883c564641c2
-    - author: 泡泡以安
-      release_time: 2026.06.07 08:40:00
-      title: 分享我的绘图 Skill
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486555&idx=1&sn=c7bbec75f1e6b8d529d0974737dfc6cd
-    - author: 桐梓坡低手
-      release_time: 2026.06.06 19:41:05
-      title: AI(逆向)  codex + ruyipage+ruyitrace
-      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247483925&idx=1&sn=a35160f1440f519df0ef4be4932a9934
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
