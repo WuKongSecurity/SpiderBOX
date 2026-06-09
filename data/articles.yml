@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: AngelToms
+      release_time: 2026.06.09 08:50:50
+      title: ab算法之U57-U85
+      url: https://www.bilibili.com/video/BV1VyE565EEt
     - author: 风华Ahu
       release_time: 2026.06.09 00:25:50
       title: js逆向百例-30-spiderdemo vmp
@@ -117,10 +121,6 @@
       release_time: 2026.05.26 23:53:50
       title: 【教程】一个视频带你搞明白DLL注入
       url: https://www.bilibili.com/video/BV1PyVT6YE6E
-    - author: AngelToms
-      release_time: 2026.05.26 11:40:08
-      title: 未来规划
-      url: https://www.bilibili.com/video/BV1CJVw65EAW
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
