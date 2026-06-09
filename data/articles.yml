@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 魔影-马
+      release_time: 2026.06.09 17:45:49
+      title: 浅谈某手游反作弊轻特征代码运行逻辑
+      url: https://www.bilibili.com/video/BV1zZE76wECW
     - author: AngelToms
       release_time: 2026.06.09 08:50:50
       title: ab算法之U57-U85
@@ -117,13 +121,21 @@
       release_time: 2026.05.27 15:52:34
       title: c++补js环境
       url: https://www.bilibili.com/video/BV1syGy6NEte
-    - author: 冷月不是程序员
-      release_time: 2026.05.26 23:53:50
-      title: 【教程】一个视频带你搞明白DLL注入
-      url: https://www.bilibili.com/video/BV1PyVT6YE6E
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2026.06.09 17:33:00
+      title: AST反混淆实战|某里V2feilin混淆文件还原详解(一)
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566561&idx=1&sn=20e16ea36360a61fe111aafbefa048a2
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.06.09 16:51:59
+      title: 某支付公司因违反数据安全管理等规定被罚220.4万元
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520247&idx=1&sn=121f87d26ab1795b852a68132c3fbd24
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.06.09 16:51:59
+      title: 公安部网安局通报一起房产家装领域信息泄露贩卖黑灰产案
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520247&idx=2&sn=bd1ad52ba36892a9ac0c25cf7f3691d0
     - author: 逆向成长日记
       release_time: 2026.06.09 11:55:42
       title: 全自动企业级逆向Agent—Hound（序言）
@@ -232,21 +244,13 @@
       release_time: 2026.06.06 19:41:05
       title: AI(逆向)  codex + ruyipage+ruyitrace
       url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247483925&idx=1&sn=a35160f1440f519df0ef4be4932a9934
-    - author: 进击的HACK
-      release_time: 2026.06.06 19:35:02
-      title: 通过java-audit-skills分析Java源码
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490148&idx=1&sn=612abfd6fbcf3f7771c051340369bc58
-    - author: DrissionPage
-      release_time: 2026.06.06 10:18:52
-      title: 4.2.0b16 修bug
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzczMw==&mid=2247483835&idx=1&sn=9d59f36f8ca1f019f4bb8829ddaef6ac
-    - author: 零基础爬虫第一天
-      release_time: 2026.06.05 22:26:59
-      title: 【web补环境案例-4】khbox+ai秒过系列geetest无感/wasm案例/tx tdc无感
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484452&idx=1&sn=cda0d8da5fd6c43506ac13ee884ea968
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: jbczzz
+      release_time: 2026.06.08 17:15:00
+      title: 内核级内存读写的用户层检测与绕过：一次攻防对抗实践
+      url: https://www.52pojie.cn/thread-2111827-1-1.html
     - author: f20171110
       release_time: 2026.06.07 14:11:00
       title: web逆向基础知识--- js 事件 事件循环 和异步
@@ -363,13 +367,13 @@
       release_time: 2026.05.20 08:30:00
       title: 付费破解一款 吉他调音器APP的永久会员，大家还是要支持正版！
       url: https://www.52pojie.cn/thread-2108552-1-1.html
-    - author: 鸠山一茶
-      release_time: 2026.05.19 22:39:00
-      title: '[原创] Deep Archive {JiGuro} CrackMe 逆向分析：不止一个的秘密'
-      url: https://www.52pojie.cn/thread-2108530-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: mb_fycbgpri
+      release_time: 2026.06.09 16:26:03
+      title: '[原创]内核驱动级内存读写的用户层检测与绕过：一次攻防对抗实践'
+      url: https://bbs.kanxue.com/thread-291534.htm
     - author: fkdxjz
       release_time: 2026.06.08 17:44:34
       title: '[原创]iOS Hook 终极兵器库：九种拦截机制到硬件级 PAC 绕过的硬核指南'
@@ -486,10 +490,6 @@
       release_time: 2026.05.24 16:41:55
       title: '[原创]编译Redmi10x 5G Kernelsu'
       url: https://bbs.kanxue.com/thread-291335.htm
-    - author: 一只鸭子
-      release_time: 2026.05.24 16:02:51
-      title: '[原创] 抖音 VMP 分析（四）：指令流的分析'
-      url: https://bbs.kanxue.com/thread-291333.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
