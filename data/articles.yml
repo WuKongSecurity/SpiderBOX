@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: DrissionPage
+      release_time: 2026.06.09 23:53:36
+      title: 4.2.0b18 优化监听设置
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzczMw==&mid=2247483848&idx=1&sn=80aba20d2802f42c2bf7601cce610723
     - author: 小伍哥聊风控
       release_time: 2026.06.09 21:06:09
       title: AFAC2026 挑战组四大巅峰赛题：100w奖金 + 大厂直通，硬核金融 AI 战场已开赛！
@@ -240,10 +244,6 @@
       release_time: 2026.06.07 18:40:40
       title: Ai逆向的skill xbsReverseSkill
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490152&idx=1&sn=978b14aaf118afa34b75a8a7f7910cdf
-    - author: 邱邱爱风控
-      release_time: 2026.06.07 14:53:57
-      title: 从零到落地：一个风控研究员的NLP实战学习路线
-      url: https://mp.weixin.qq.com/s?__biz=MzYyMjgzMzcwNg==&mid=2247485158&idx=1&sn=3956c0e3f166641fb95f98a36fddb546
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
