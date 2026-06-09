@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小伍哥聊风控
+      release_time: 2026.06.09 21:06:09
+      title: AFAC2026 挑战组四大巅峰赛题：100w奖金 + 大厂直通，硬核金融 AI 战场已开赛！
+      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650197211&idx=1&sn=5afaf012821f8a779fcc837e203be2e4
     - author: 如意私塾
       release_time: 2026.06.09 19:43:39
       title: 纯算BrowserScan浏览器指纹Canvas检测和反检测
@@ -240,13 +244,13 @@
       release_time: 2026.06.07 14:53:57
       title: 从零到落地：一个风控研究员的NLP实战学习路线
       url: https://mp.weixin.qq.com/s?__biz=MzYyMjgzMzcwNg==&mid=2247485158&idx=1&sn=3956c0e3f166641fb95f98a36fddb546
-    - author: 小小杨学编程
-      release_time: 2026.06.07 13:54:18
-      title: 某动M端滑块AI逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484754&idx=1&sn=6856100aee0d9768417c883c564641c2
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: szh12123
+      release_time: 2026.06.09 21:51:00
+      title: YOLO识别拼图过滑块验证
+      url: https://www.52pojie.cn/thread-2112042-1-1.html
     - author: jbczzz
       release_time: 2026.06.08 17:15:00
       title: 内核级内存读写的用户层检测与绕过：一次攻防对抗实践
@@ -363,10 +367,6 @@
       release_time: 2026.05.22 15:57:00
       title: 安卓逆向 -- 某房产 App 响应内容逆向分析
       url: https://www.52pojie.cn/thread-2109016-1-1.html
-    - author: verber34
-      release_time: 2026.05.20 08:30:00
-      title: 付费破解一款 吉他调音器APP的永久会员，大家还是要支持正版！
-      url: https://www.52pojie.cn/thread-2108552-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
