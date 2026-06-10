@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2026.06.10 14:31:20
+      title: roothide轻松过酷航越狱检测，并且内置frida支持spawn模式
+      url: https://www.bilibili.com/video/BV1nwER6KEL3
     - author: 魔影-马
       release_time: 2026.06.09 17:45:49
       title: 浅谈某手游反作弊轻特征代码运行逻辑
@@ -117,13 +121,17 @@
       release_time: 2026.05.27 16:48:19
       title: 【骚神插件9.8.3】支持无障碍树语义化元素定位，适配最新版DrissionPage！
       url: https://www.bilibili.com/video/BV1wUGy6aEUf
-    - author: 若水0014
-      release_time: 2026.05.27 15:52:34
-      title: c++补js环境
-      url: https://www.bilibili.com/video/BV1syGy6NEte
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向搅屎棍
+      release_time: 2026.06.10 16:06:00
+      title: spider-king 3.0 真正升级了什么？不是多了几个脚本，而是多了一套打法！
+      url: https://mp.weixin.qq.com/s?__biz=MzYzNDQzNDIyNg==&mid=2247483724&idx=1&sn=bbd4faa7986b97e856818a37e6f0adeb
+    - author: 软件安全与逆向分析
+      release_time: 2026.06.10 15:55:44
+      title: 横跨近半年的高能8Gen5漏洞利用时间线
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485242&idx=1&sn=f04c9172f016a16174e7b9f6cca6c4b1
     - author: 哆啦安全
       release_time: 2026.06.10 11:07:27
       title: Android | HarmonyOS APP逆向分析工具V4.6
@@ -236,14 +244,6 @@
       release_time: 2026.06.08 00:24:02
       title: AI手机(直播预告)：07.开源AI手机配套源码组合开发套件
       url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486206&idx=3&sn=b024d4d200735434ab5ea025957207cf
-    - author: 大数据安全技术学习
-      release_time: 2026.06.08 00:24:02
-      title: 安卓16满血开源豆包AI手机一加9刷好FolkPatch/LSPosed
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486206&idx=4&sn=10cf900e1556cadb06115b905291523e
-    - author: 大数据安全技术学习
-      release_time: 2026.06.08 00:24:02
-      title: 地表最强过检测环境原生三绿取证设备
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486206&idx=5&sn=ad36b0c6a7db411abf09ba4460cb78e5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
