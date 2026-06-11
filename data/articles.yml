@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.06.11 09:09:26
+      title: Android13 Redroid云手机定制(一键下载、编译、测试脚本)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500754&idx=1&sn=17e8d7c18ab2be02f7371bc38ad59fec
+    - author: 流星Studio
+      release_time: 2026.06.11 08:00:00
+      title: 微信AI终于出手：一文讲透小程序MCP与Skill开发模式
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjUxNTgyMg==&mid=2247484223&idx=1&sn=abfe7d2ac31f162161a1ec0b01dd2e9e
+    - author: 泡泡以安
+      release_time: 2026.06.11 07:58:09
+      title: Frida学习笔记（十九）：Frida Gadget 注入 · 网易云音乐易盾实战
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486560&idx=1&sn=3f27e3580f6923b212933f3dcf11ff42
     - author: 进击的HACK
       release_time: 2026.06.10 19:22:23
       title: 游刃AISec自动化渗透智能体
@@ -232,18 +244,6 @@
       release_time: 2026.06.08 09:00:00
       title: 【银行逆向百例】18Android逆向之libDexHelper.so梆梆加固壳解密+frida-dexdump脱壳
       url: https://mp.weixin.qq.com/s?__biz=MzkyNjY3OTI4Ng==&mid=2247486082&idx=1&sn=b1d2d1cf61cf3c5585b01afe08c3e5bc
-    - author: CYRUS STUDIO
-      release_time: 2026.06.08 08:30:00
-      title: OpenSSL 实战：构建安全 HTTP 请求与反抓包体系，保护核心业务数据
-      url: https://mp.weixin.qq.com/s?__biz=Mzk2NDYzMjA2Nw==&mid=2247486636&idx=1&sn=b58d577e16b725c5be2a612181e1b16a
-    - author: 测试工程师成长之路
-      release_time: 2026.06.08 08:30:00
-      title: 最近面了20+自动化测试，能把这19个坑踩明白的，直接发Offer
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579069&idx=1&sn=5b10a05be4949c5ab95717028effb9d3
-    - author: Coder小Q
-      release_time: 2026.06.08 08:30:00
-      title: 【杂谈】用代码画图：TikZ 绘图技术方案
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495755&idx=1&sn=7c81616bb3cae1a0c7310e036d494e96
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
