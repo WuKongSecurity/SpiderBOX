@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.06.11 20:40:07
+      title: 安服渗透保命指南
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490172&idx=1&sn=fc4705d5f24686375a04909f9f71e1df
+    - author: 软件安全与逆向分析
+      release_time: 2026.06.11 18:31:09
+      title: gbl_root_canoe隐藏BL状态原理分析
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485248&idx=1&sn=e754a3facd703701ea34858afd6e024d
+    - author: 未闻Code
+      release_time: 2026.06.11 17:48:37
+      title: 一个北海道农民，开始把 AI 用进自己的农场
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991604&idx=1&sn=8cec2b06446e92bbad1db3c1073e47d2
+    - author: AI爬盒
+      release_time: 2026.06.11 17:21:26
+      title: 把 JS 逆向 Agent 装进了浏览器内核
+      url: https://mp.weixin.qq.com/s?__biz=MzcwMzIxNDAxMQ==&mid=2247483745&idx=1&sn=06705a0aba76377be78b10528106bc52
     - author: 个人信息与数据保护实务评论
       release_time: 2026.06.11 16:06:53
       title: 公安部网安局发布侵犯公民个人信息违法犯罪典型案例
@@ -228,25 +244,13 @@
       release_time: 2026.06.09 11:55:42
       title: 全自动企业级逆向Agent—Hound（序言）
       url: https://mp.weixin.qq.com/s?__biz=Mzg4NTg0MjMzNQ==&mid=2247484305&idx=1&sn=397c61bb6aeb9cb817bb696e3971ad5b
-    - author: 软件安全与逆向分析
-      release_time: 2026.06.09 11:33:05
-      title: 使用木鱼沙箱跟踪分析kpm与ko模块
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485237&idx=1&sn=61044ac4cc7070f7e4984a2326a9a905
-    - author: Spade sec
-      release_time: 2026.06.09 10:48:01
-      title: 月の造梦星球-纷传破壳
-      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486970&idx=1&sn=b2a85dd21035ec944cebd78766948355
-    - author: DrissionPage
-      release_time: 2026.06.08 23:03:24
-      title: 4.2.0b17
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzczMw==&mid=2247483842&idx=1&sn=f06d84144590a67b2dd28089b56f1b07
-    - author: 智原堂
-      release_time: 2026.06.08 20:51:18
-      title: 我用ai采了1200多名世界杯球员周薪，发现足球不是11个人的游戏
-      url: https://mp.weixin.qq.com/s?__biz=MzIxOTQ1OTA0Ng==&mid=2247484553&idx=1&sn=d6220380816a69fa761182dfb26d0466
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: guanguilin
+      release_time: 2026.06.11 10:58:00
+      title: 小c惠生活 APP 请求签名算法逆向分析记录【本人新手逆向学习】
+      url: https://www.52pojie.cn/thread-2112304-1-1.html
     - author: szh12123
       release_time: 2026.06.09 21:51:00
       title: YOLO识别拼图过滑块验证
@@ -363,10 +367,6 @@
       release_time: 2026.05.22 16:06:00
       title: 'Audit 侧信道: Root, scrcpy 和模拟器的新型检测与绕过'
       url: https://www.52pojie.cn/thread-2109020-1-1.html
-    - author: sumith
-      release_time: 2026.05.22 15:57:00
-      title: 安卓逆向 -- 某房产 App 响应内容逆向分析
-      url: https://www.52pojie.cn/thread-2109016-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
