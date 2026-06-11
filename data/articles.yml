@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: LK安全
+      release_time: 2026.06.11 11:04:19
+      title: 新时代降临！！！ ai挖洞月入10w+
+      url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486849&idx=1&sn=97e80aeba10bbe885c9522f9aca48499
+    - author: 如意私塾
+      release_time: 2026.06.11 10:00:00
+      title: 纯算某数6代企业版（光某理财）
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484826&idx=1&sn=4675cbfd4b3b523d71ef3dfae37384bb
     - author: 哆啦安全
       release_time: 2026.06.11 09:09:26
       title: Android13 Redroid云手机定制(一键下载、编译、测试脚本)
@@ -236,14 +244,6 @@
       release_time: 2026.06.08 18:59:51
       title: 面试官视角的渗透测试技术面
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490160&idx=1&sn=64eb52efca9eb63d386fbeeae6f084b3
-    - author: wangyu223
-      release_time: 2026.06.08 16:01:30
-      title: ios逆向某购物app谷歌cronet抓包检测绕过
-      url: https://mp.weixin.qq.com/s?__biz=MzY4ODI4MzQwNQ==&mid=2247483930&idx=1&sn=82459e900fbde4e8078933b525ef146b
-    - author: 挖个洞先
-      release_time: 2026.06.08 09:00:00
-      title: 【银行逆向百例】18Android逆向之libDexHelper.so梆梆加固壳解密+frida-dexdump脱壳
-      url: https://mp.weixin.qq.com/s?__biz=MzkyNjY3OTI4Ng==&mid=2247486082&idx=1&sn=b1d2d1cf61cf3c5585b01afe08c3e5bc
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
