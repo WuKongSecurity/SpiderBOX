@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.06.11 16:06:53
+      title: 公安部网安局发布侵犯公民个人信息违法犯罪典型案例
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520271&idx=1&sn=60d3b053f1a7a78f8bdec2b84e3e5f81
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.06.11 16:06:53
+      title: 欧盟就数据泄露通知模板公开征求意见
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520271&idx=2&sn=54b03b09fa9f5fb415d65aa5bb765f1b
     - author: LK安全
       release_time: 2026.06.11 11:04:19
       title: 新时代降临！！！ ai挖洞月入10w+
@@ -236,14 +244,6 @@
       release_time: 2026.06.08 20:51:18
       title: 我用ai采了1200多名世界杯球员周薪，发现足球不是11个人的游戏
       url: https://mp.weixin.qq.com/s?__biz=MzIxOTQ1OTA0Ng==&mid=2247484553&idx=1&sn=d6220380816a69fa761182dfb26d0466
-    - author: 二手的程序员
-      release_time: 2026.06.08 19:51:08
-      title: 分享一个键鼠共享软件！！！
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTkxMTU1NA==&mid=2247489506&idx=1&sn=cd1cb845d70765e219d6aa2fcff86994
-    - author: 进击的HACK
-      release_time: 2026.06.08 18:59:51
-      title: 面试官视角的渗透测试技术面
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490160&idx=1&sn=64eb52efca9eb63d386fbeeae6f084b3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
