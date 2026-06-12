@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 软件安全与逆向分析
+      release_time: 2026.06.12 16:13:33
+      title: Frida17.12.0的功能与变化
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485254&idx=1&sn=32ca95e377824e9841fd305f7a77e2aa
     - author: 编角料
       release_time: 2026.06.12 12:05:00
       title: 移动安全之配置超强ROOT隐藏的安全研究环境
@@ -240,10 +244,6 @@
       release_time: 2026.06.09 17:33:00
       title: AST反混淆实战|某里V2feilin混淆文件还原详解(一)
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566561&idx=1&sn=20e16ea36360a61fe111aafbefa048a2
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.06.09 16:51:59
-      title: 某支付公司因违反数据安全管理等规定被罚220.4万元
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520247&idx=1&sn=121f87d26ab1795b852a68132c3fbd24
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: mb_nbwjjtth
+      release_time: 2026.06.12 12:49:26
+      title: '[原创]AppleAccount注册之X-MMe-Nas-Qualify'
+      url: https://bbs.kanxue.com/thread-291575.htm
     - author: 之安
       release_time: 2026.06.12 03:08:14
       title: '[原创]r1rpc，把只能在真机/特定环境里跑的函数，封装成一个 HTTP 接口。'
@@ -486,10 +490,6 @@
       release_time: 2026.05.25 22:43:58
       title: '[原创]从0到1构建一个Hook工具之Frida-like风格的Hook'
       url: https://bbs.kanxue.com/thread-291347.htm
-    - author: Tubbs
-      release_time: 2026.05.25 11:28:52
-      title: '[原创]AVMP初见(纯AI)'
-      url: https://bbs.kanxue.com/thread-291341.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
