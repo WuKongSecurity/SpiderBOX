@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 学逆向的柚子
+      release_time: 2026.06.12 17:33:18
+      title: 6月12日
+      url: https://www.bilibili.com/video/BV11vE16DE4o
     - author: AngelToms
       release_time: 2026.06.12 11:50:30
       title: ab算法之U86上
@@ -117,10 +121,6 @@
       release_time: 2026.05.28 23:13:02
       title: 小程序实战6——某里v3【图像复原】
       url: https://www.bilibili.com/video/BV15oVW6bExV
-    - author: x1a0f3n9
-      release_time: 2026.05.27 21:45:50
-      title: 一周年直播抽奖 回放
-      url: https://www.bilibili.com/video/BV1L2G16QEVe
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
