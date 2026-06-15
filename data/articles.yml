@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2026.06.15 10:25:16
+      title: frida注入r0rpc免逆向算法远程调用iOS应用IPA里的接口
+      url: https://www.bilibili.com/video/BV1GNJu68EcN
     - author: 学逆向的柚子
       release_time: 2026.06.12 17:33:18
       title: 6月12日
@@ -117,13 +121,37 @@
       release_time: 2026.05.29 00:57:57
       title: opencode零基础一键配置GPT5.4-5.5和xhigh高强度思考
       url: https://www.bilibili.com/video/BV1mmVp61EDG
-    - author: 蛋蛋yong闯小B站
-      release_time: 2026.05.28 23:13:02
-      title: 小程序实战6——某里v3【图像复原】
-      url: https://www.bilibili.com/video/BV15oVW6bExV
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.06.15 18:45:04
+      title: Burpsuite 官方 MCP 使用
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490189&idx=1&sn=31f5ef0cbf3efbc03facadbea4441d01
+    - author: 如意私塾
+      release_time: 2026.06.15 18:41:41
+      title: WebRTC指纹 | BrowserScan浏览器指纹检测和反检测搞明白
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484829&idx=1&sn=8f81a628feac419d5b62b42452e32739
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.06.15 17:07:27
+      title: 携程因未落实数据出境安全评估要求，被上海网信办罚款1000万（附案例列表）
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520283&idx=1&sn=9bd8ae2e13403dfcbe131a6e8f71ab3b
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.06.15 17:07:27
+      title: 国家网信办发布《中国个人信息保护报告（2025年）》（附一图读懂+答记者问）
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520283&idx=2&sn=47fb148e21450f29afad9b0e603b7522
+    - author: 泡泡以安
+      release_time: 2026.06.15 16:55:09
+      title: Frida学习笔记（二十）：ARM 汇编速成
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486564&idx=1&sn=353524c15dcb35c742f6f8e684a216f7
+    - author: 沐阳逆向与AI学习
+      release_time: 2026.06.15 14:42:07
+      title: 【618限时】安卓+iOS逆向双端全能课，双课合报直降千元
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484649&idx=1&sn=cca62ffac18e800318e391f193fc1052
+    - author: 极验
+      release_time: 2026.06.15 10:00:00
+      title: 智能体时代的自动化对抗：Agent Bot 与隐匿技术共舞
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724513&idx=1&sn=77b0901df8644d8964a5435368bc435d
     - author: 逆向成长日记
       release_time: 2026.06.15 09:30:00
       title: 全自动逆向Agent（一）——抓包
@@ -148,6 +176,10 @@
       release_time: 2026.06.14 20:35:35
       title: 域安全扫描工具ADPulse
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490185&idx=1&sn=9c95a124e22d053b308d60d99aa63ed0
+    - author: 进击的HACK
+      release_time: 2026.06.13 21:25:52
+      title: wmpf + mcp 分析小程序加解密
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490181&idx=1&sn=d2111c5b0136dc8859b88f1606af1dc1
     - author: 小小杨学编程
       release_time: 2026.06.12 20:57:55
       title: 某音captchaBody和某里rand补环境思路
@@ -212,41 +244,17 @@
       release_time: 2026.06.11 09:09:26
       title: Android13 Redroid云手机定制(一键下载、编译、测试脚本)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500754&idx=1&sn=17e8d7c18ab2be02f7371bc38ad59fec
-    - author: 流星Studio
-      release_time: 2026.06.11 08:00:00
-      title: 微信AI终于出手：一文讲透小程序MCP与Skill开发模式
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjUxNTgyMg==&mid=2247484223&idx=1&sn=abfe7d2ac31f162161a1ec0b01dd2e9e
-    - author: 泡泡以安
-      release_time: 2026.06.11 07:58:09
-      title: Frida学习笔记（十九）：Frida Gadget 注入 · 网易云音乐易盾实战
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486560&idx=1&sn=3f27e3580f6923b212933f3dcf11ff42
-    - author: 进击的HACK
-      release_time: 2026.06.10 19:22:23
-      title: 游刃AISec自动化渗透智能体
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490168&idx=1&sn=2219332095443cdcca1873270b06b293
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.06.10 17:37:27
-      title: 国家工业和信息化部 | 关于印发《“人工智能+信息通信”创新发展实施意见（2026—2028年）》的通知
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520259&idx=1&sn=9ba9cff260f34e1a86f4302c75a1603d
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.06.10 17:37:27
-      title: Meta 将把第三方提供的用户数据用于内容个性化
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520259&idx=2&sn=d3ff106f5989565e491ded673d813aa8
-    - author: 逆向搅屎棍
-      release_time: 2026.06.10 16:06:00
-      title: spider-king 3.0 真正升级了什么？不是多了几个脚本，而是多了一套打法！
-      url: https://mp.weixin.qq.com/s?__biz=MzYzNDQzNDIyNg==&mid=2247483724&idx=1&sn=bbd4faa7986b97e856818a37e6f0adeb
-    - author: 软件安全与逆向分析
-      release_time: 2026.06.10 15:55:44
-      title: 横跨近半年的高能8Gen5漏洞利用时间线
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485242&idx=1&sn=f04c9172f016a16174e7b9f6cca6c4b1
-    - author: 哆啦安全
-      release_time: 2026.06.10 11:07:27
-      title: Android | HarmonyOS APP逆向分析工具V4.6
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500740&idx=1&sn=ee0fbd9028f7c2d18ef26a92a4dc9291
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: xyzhou
+      release_time: 2026.06.15 10:56:00
+      title: 记录mac下jeb安装学习过程
+      url: https://www.52pojie.cn/thread-2112847-1-1.html
+    - author: 我的城市没有海
+      release_time: 2026.06.12 17:53:00
+      title: 某刷题网站题库导出
+      url: https://www.52pojie.cn/thread-2112517-1-1.html
     - author: guanguilin
       release_time: 2026.06.11 10:58:00
       title: 小c惠生活 APP 请求签名算法逆向分析记录【本人新手逆向学习】
@@ -359,17 +367,17 @@
       release_time: 2026.05.24 16:07:00
       title: 抖音 VMP 分析（四）：指令流的分析
       url: https://www.52pojie.cn/thread-2109303-1-1.html
-    - author: rsds0duck
-      release_time: 2026.05.22 22:08:00
-      title: 抖音VMP分析：从入口到Dispatch
-      url: https://www.52pojie.cn/thread-2109082-1-1.html
-    - author: vw2x
-      release_time: 2026.05.22 16:06:00
-      title: 'Audit 侧信道: Root, scrcpy 和模拟器的新型检测与绕过'
-      url: https://www.52pojie.cn/thread-2109020-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: mb_fycbgpri
+      release_time: 2026.06.15 18:35:38
+      title: '[原创]ARM64 页表断点——基于 PTE 缺页异常的透明拦截、上下文捕获与寄存器实时修改'
+      url: https://bbs.kanxue.com/thread-291616.htm
+    - author: 阿里云先知
+      release_time: 2026.06.15 11:17:00
+      title: 阿里云先知团队招聘AI攻防安全专家
+      url: https://xz.aliyun.com/news/92306
     - author: Aar0n
       release_time: 2026.06.14 13:40:35
       title: '[原创]记某灰黑棋牌游戏逆向'
@@ -482,14 +490,6 @@
       release_time: 2026.05.28 13:47:24
       title: '[原创]不同真机 trace 工具性能对比、优化点分享、xfQtrace使用说明'
       url: https://bbs.kanxue.com/thread-291372.htm
-    - author: 伊苏尔德
-      release_time: 2026.05.28 10:27:05
-      title: '[分享]linker详解'
-      url: https://bbs.kanxue.com/thread-291368.htm
-    - author: xklgl
-      release_time: 2026.05.27 18:29:48
-      title: '[原创]某音绕过SSL证书校验实现抓包'
-      url: https://bbs.kanxue.com/thread-291363.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
