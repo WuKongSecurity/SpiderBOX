@@ -5905,10 +5905,14 @@
           url: https://github.com/snapspecter/mitmproxy-mcp
           logo: github.png
           description: 将 MittMproxy 转换为强大的工具集，供 AI 代理使用。这使得大型语言模型（如 Claude、GPT-4 或本地模型）能够实时检查、修改并重放 HTTP/HTTPS 流量
-        - title: BurpSuite-MCP-Server
-          url: https://github.com/X3r0K/BurpSuite-MCP-Server
+        - title: portswigger/mcp-server
+          url: https://github.com/portswigger/mcp-server
           logo: github.png
-          description: 一款强大的模型上下文协议服务器实现，专为 BurpSuite 设计，能够程序化地访问 Burp 的核心功能
+          description: BurpSuite 官方 MCP Server
+        - title: burp-ai-agent
+          url: https://github.com/six2dez/burp-ai-agent
+          logo: github.png
+          description: Burp Suite 扩展模块，增加了内置的 MCP 工具、人工智能辅助分析、隐私控制功能，以及被动和主动扫描等功能
         - title: WireMCP
           url: https://github.com/0xKoda/WireMCP
           logo: github.png
