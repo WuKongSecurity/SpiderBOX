@@ -347,10 +347,6 @@
           logo: github.png
           url: https://github.com/wanghongenpin/proxypin
           description: 开源免费抓包工具，支持 Windows、Mac、Android、IOS、Linux 全平台系统，您可以使用它来拦截、检查和重写 HTTP(S) 流量，支持 Flutter 应用抓包，ProxyPin 基于 Flutter 开发，UI 美观易用
-        - title: Anything Analyzer
-          logo: github.png
-          url: https://github.com/Mouseww/anything-analyzer
-          description: 全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE
         - title: r0capture
           logo: github.png
           url: https://github.com/r0ysue/r0capture
@@ -5697,6 +5693,7 @@
   list:
     - term: MCP (网页端)
     - term: MCP (移动端)
+    - term: MCP (抓包)
     - term: Skills (网页端)
     - term: Skills (移动端)
     - term: Skills (网安)
@@ -5782,10 +5779,6 @@
           url: https://github.com/reverse-craft/ai-tools
           logo: github.png
           description: AI 驱动的 JSVMP 检测的 MCP 服务器。提供由 LLM 驱动的代码分析工具，用于识别 JavaScript VMP 保护模式
-        - title: Charles MCP
-          url: https://github.com/heizaheiza/Charles-mcp
-          logo: github.png
-          description: Charles MCP Server 用于把 Charles Proxy 接入 MCP 客户端，让 agent 可以稳定地读取实时流量、分析历史录包，并在需要时再展开单条请求细节
 
     - name: MCP (移动端)
       links:
@@ -5889,6 +5882,41 @@
           url: https://github.com/getsentry/XcodeBuildMCP
           logo: github.png
           description: Xcode MCP，为在 iOS 和 macOS 项目上工作的 agent 提供工具
+
+    - name: MCP (抓包)
+      links:
+        - title: anything-analyzer
+          logo: github.png
+          url: https://github.com/Mouseww/anything-analyzer
+          description: 全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE
+        - title: Charles-mcp
+          url: https://github.com/heizaheiza/Charles-mcp
+          logo: github.png
+          description: Charles MCP Server 用于把 Charles Proxy 接入 MCP 客户端，让 agent 可以稳定地读取实时流量、分析历史录包，并在需要时再展开单条请求细节
+        - title: reqable-mcp
+          url: https://github.com/ElonJask/reqable-mcp
+          logo: github.png
+          description: reqable-mcp 用于把本地 Reqable 抓包数据暴露给 MCP 客户端（Windsurf/Cursor/Claude/Codex）
+        - title: Fiddler-MCP-Server
+          url: https://github.com/lucas-link-code/Fiddler-MCP-Server
+          logo: github.png
+          description: 基于 Gemini 技术的实时网络流量分析工具。通过“模型上下文协议”，将 Fiddler Classic 与大型语言模型连接起来
+        - title: mitmproxy-mcp
+          url: https://github.com/snapspecter/mitmproxy-mcp
+          logo: github.png
+          description: 将 MittMproxy 转换为强大的工具集，供 AI 代理使用。这使得大型语言模型（如 Claude、GPT-4 或本地模型）能够实时检查、修改并重放 HTTP/HTTPS 流量
+        - title: BurpSuite-MCP-Server
+          url: https://github.com/X3r0K/BurpSuite-MCP-Server
+          logo: github.png
+          description: 一款强大的模型上下文协议服务器实现，专为 BurpSuite 设计，能够程序化地访问 Burp 的核心功能
+        - title: WireMCP
+          url: https://github.com/0xKoda/WireMCP
+          logo: github.png
+          description: WireMCP 是一种模型上下文协议服务器，旨在为大型语言模型提供实时网络流量分析功能。它通过利用基于 Wireshark 开发的工具，能够捕获并处理实时网络数据，为语言模型提供结构化的上下文信息，从而帮助进行威胁检测、网络诊断以及异常检测等任务
+        - title: Wireshark-MCP
+          url: https://github.com/bx33661/Wireshark-MCP
+          logo: github.png
+          description: 将 tshark（及可选的 Wireshark 套件工具）封装为结构化分析接口。支持 Claude Desktop、Claude Code、Cursor、VS Code 等 18+ MCP 客户端
 
     - name: Skills (网页端)
       links:
