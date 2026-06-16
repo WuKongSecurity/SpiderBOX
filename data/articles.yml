@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2026.06.16 20:57:58
+      title: 定制内核ROOT隐藏环境过三绿检测正常打开日本龙珠Z游戏正常注册游玩
+      url: https://www.bilibili.com/video/BV1UdjV6FEFF
     - author: 逆向狗都不学
       release_time: 2026.06.16 11:41:57
       title: JS逆向之浏览器指纹与风控
@@ -117,13 +121,17 @@
       release_time: 2026.05.29 14:53:40
       title: Android逆向之DEX文件加载与执行流程
       url: https://www.bilibili.com/video/BV1pCVt69EzB
-    - author: AngelToms
-      release_time: 2026.05.29 09:27:54
-      title: ab算法之U16-1
-      url: https://www.bilibili.com/video/BV1QUV46hEN2
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.06.16 20:57:04
+      title: Agent分析JS加解密函数自动生成autodecoder脚本
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490193&idx=1&sn=d87a2b730519275b7915f4c261cc1a73
+    - author: 软件安全与逆向分析
+      release_time: 2026.06.16 20:24:14
+      title: 618倒计时！公众号粉丝课程半价福利，错过再等一年！
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485259&idx=1&sn=0239ffca806016a1894dfaf983a56d2f
     - author: 个人信息与数据保护实务评论
       release_time: 2026.06.16 16:51:07
       title: 网信办通报30款存在个人信息收集使用问题的App
@@ -236,14 +244,6 @@
       release_time: 2026.06.11 17:21:26
       title: 把 JS 逆向 Agent 装进了浏览器内核
       url: https://mp.weixin.qq.com/s?__biz=MzcwMzIxNDAxMQ==&mid=2247483745&idx=1&sn=06705a0aba76377be78b10528106bc52
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.06.11 16:06:53
-      title: 公安部网安局发布侵犯公民个人信息违法犯罪典型案例
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520271&idx=1&sn=60d3b053f1a7a78f8bdec2b84e3e5f81
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.06.11 16:06:53
-      title: 欧盟就数据泄露通知模板公开征求意见
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520271&idx=2&sn=54b03b09fa9f5fb415d65aa5bb765f1b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -251,6 +251,10 @@
       release_time: 2026.06.16 10:54:00
       title: 海胆PT的每日打卡
       url: https://www.52pojie.cn/thread-2113009-1-1.html
+    - author: yxl19873
+      release_time: 2026.06.15 20:33:00
+      title: 【玄奥周易】安卓版注册机手搓教程
+      url: https://www.52pojie.cn/thread-2112941-1-1.html
     - author: xyzhou
       release_time: 2026.06.15 10:56:00
       title: 记录mac下jeb安装学习过程
@@ -363,10 +367,6 @@
       release_time: 2026.05.25 22:49:00
       title: 从0到1构建一个Hook工具之Frida-like风格的Hook
       url: https://www.52pojie.cn/thread-2109539-1-1.html
-    - author: tjy
-      release_time: 2026.05.24 17:16:00
-      title: 玄奥八字最新版本破解思路，理论玄奥系列全部都能用
-      url: https://www.52pojie.cn/thread-2109314-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
