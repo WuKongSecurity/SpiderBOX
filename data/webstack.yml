@@ -1191,14 +1191,18 @@
           logo: surf.png
           url: https://github.com/enetx/surf
           description: Golang 库，具有 Chrome/Firefox 浏览器模拟、HTTP/3 QUIC 指纹识别、JA3/JA4 TLS 模拟和反机器人绕过功能
-        - title: CycleTLS
-          logo: CycleTLS.jpg
-          url: https://github.com/Danny-Dasilva/CycleTLS
-          description: Golang 和 Javascript 库，模拟 TLS/JA3/JA4 指纹，支持 HTTP/3 和 QUIC，支持 WebSocket
         - title: uTLS
           logo: utls.png
           url: https://github.com/refraction-networking/utls
           description: Golang 库，uTLS 允许开发者轻松模仿任意的 Client Hello 消息，并在多个反审查工具中得到了应用，如 Psiphon、Lantern 和 TapDance。uTLS 库作为 Golang 原生 TLS 库（crypto/tls）的一个分支，增加了 2200 多行代码，提供了低级别的握手访问，使开发者能够定制 TLS 特性，如加密套件、压缩方法、客户端随机值、扩展等
+        - title: CycleTLS
+          logo: CycleTLS.jpg
+          url: https://github.com/Danny-Dasilva/CycleTLS
+          description: Golang 和 Node 库，模拟 TLS/JA3/JA4 指纹，支持 HTTP/3 和 QUIC，支持 WebSocket
+        - title: hellojs
+          logo: github.jpg
+          url: https://github.com/unreleased/hellojs
+          description: Node 库，一个基于 Node.js 的 HTTP 客户端，其 TLS/H2/H3 握手过程能够产生与真实 Chrome 浏览器相同的 JA4/Akamai/peetprint 指纹。该客户端还提供了简单的请求格式 API
         - title: wreq
           logo: github.png
           url: https://github.com/0x676e67/wreq
