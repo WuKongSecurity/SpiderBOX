@@ -1200,7 +1200,7 @@
           url: https://github.com/Danny-Dasilva/CycleTLS
           description: Golang 和 Node 库，模拟 TLS/JA3/JA4 指纹，支持 HTTP/3 和 QUIC，支持 WebSocket
         - title: hellojs
-          logo: github.jpg
+          logo: github.png
           url: https://github.com/unreleased/hellojs
           description: Node 库，一个基于 Node.js 的 HTTP 客户端，其 TLS/H2/H3 握手过程能够产生与真实 Chrome 浏览器相同的 JA4/Akamai/peetprint 指纹。该客户端还提供了简单的请求格式 API
         - title: wreq
