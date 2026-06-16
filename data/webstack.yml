@@ -3712,9 +3712,9 @@
           logo: parsera.png
           description: Prompt to Extract Any Website Data, 通过提示词提取任何网站数据
         - title: CoreClaw
-          url: https://coreclaw.com/
+          url: https://www.coreclaw.com/?utm_source=google&utm_medium=referral&utm_campaign=spiderbox&utm_term=spiderbox&utm_id=spiderbox
           logo: coreclaw.png
-          description: CoreClaw helps teams extract web data from Amazon, TikTok, Google Maps and more with 100+ ready-made tools. No coding required, pay only for successful results.
+          description: 国内首家一站式 Web 爬虫/数据采集平台，注册即送 $3，覆盖并支持海外各大主流平台数据抓取与导出
         - title: Grassdata
           url: https://www.grassdata.net/
           logo: grassdata.png

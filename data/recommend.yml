@@ -17,10 +17,6 @@
     #      logo: spidergrc.png
     #      url: https://spidergrc.cn/
     #      description: 虫规 - 数据采集合规性建设
-    - title: CoreClaw
-      logo: coreclaw.png
-      url: https://www.coreclaw.com/?utm_source=google&utm_medium=referral&utm_campaign=spiderbox&utm_term=spiderbox&utm_id=spiderbox
-      description: 国内首家一站式 Web 爬虫/数据采集平台，注册即送 $3，覆盖并支持海外各大主流平台数据抓取与导出
     - title: ChatGPT
       logo: chatgpt.jpg
       url: https://chatgpt.com/
@@ -104,8 +100,8 @@
 #      url: https://t.zsxq.com/14tPsY8si
       url: https://t.zsxq.com/bcccS
       description: 星主：十一姐，公众号：逆向OneByOne，各种JS逆向/验证码逆向/图像识别训练/自动化爬虫干货分享
-#    - title: Chrome for Testing availability
-#      logo: chromedriver.jpg
-#      url: https://googlechromelabs.github.io/chrome-for-testing/
-#      description: 获取 Chrome 所有版本（113 以后的）的安装包，以及 Chrome Driver 驱动
+    - title: Chrome for Testing availability
+      logo: chromedriver.jpg
+      url: https://googlechromelabs.github.io/chrome-for-testing/
+      description: 获取 Chrome 所有版本（113 以后的）的安装包，以及 Chrome Driver 驱动
 
