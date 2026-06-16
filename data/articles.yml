@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 一只勇敢的小佳
+      release_time: 2026.06.17 00:21:42
+      title: 你见识到世界的厉害了吗？不！我见识到自己的厉害啦！
+      url: https://www.bilibili.com/video/BV1hsjG6aEYZ
     - author: r0ysue
       release_time: 2026.06.16 20:57:58
       title: 定制内核ROOT隐藏环境过三绿检测正常打开日本龙珠Z游戏正常注册游玩
@@ -117,10 +121,6 @@
       release_time: 2026.05.29 17:19:52
       title: soinfo检测和处理逻辑详解
       url: https://www.bilibili.com/video/BV1P4Vh6AEoL
-    - author: 逆向狗都不学
-      release_time: 2026.05.29 14:53:40
-      title: Android逆向之DEX文件加载与执行流程
-      url: https://www.bilibili.com/video/BV1pCVt69EzB
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Zedbully
+      release_time: 2026.06.17 01:23:02
+      title: '[原创]移动 App 加固不是“混淆一下”：Android/iOS 攻防链路、二次打包与运行时证据'
+      url: https://bbs.kanxue.com/thread-291646.htm
     - author: wx_阿伦_109
       release_time: 2026.06.16 17:52:01
       title: '[原创]完整还原dex2c某数字壳加固代码为原始代码'
@@ -487,10 +491,6 @@
       release_time: 2026.05.29 16:44:10
       title: '[分享]unicorn模拟linker加载so'
       url: https://bbs.kanxue.com/thread-291388.htm
-    - author: mb_cekhmgjj
-      release_time: 2026.05.29 10:08:22
-      title: '[原创][原创]Eyoucms v1.7.9-1.7.1前台模板包含rce'
-      url: https://bbs.kanxue.com/thread-291382.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
