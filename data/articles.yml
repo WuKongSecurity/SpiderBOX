@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 风华Ahu
+      release_time: 2026.06.18 01:01:52
+      title: js逆向百例-31-猿人学1000分题目
+      url: https://www.bilibili.com/video/BV1FFLo6eE2u
     - author: r0ysue
       release_time: 2026.06.17 19:41:18
       title: tweak注入r0rpc免逆向算法远程调用iOS应用IPA里的接口
@@ -117,10 +121,6 @@
       release_time: 2026.05.30 16:27:00
       title: APP安卓逆向某vmp魔改算法嵌套 ai+ttd mcp分析 算法还原时代落幕
       url: https://www.bilibili.com/video/BV1DWVG6HEib
-    - author: 逆向研究生
-      release_time: 2026.05.30 09:48:50
-      title: 多多滑块
-      url: https://www.bilibili.com/video/BV1UcV36EEdz
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
