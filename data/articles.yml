@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.06.17 08:08:04
+      title: Android安全隐私合规检测工具V5.5
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500768&idx=1&sn=20f85d18315ffad22093230240de2d88
+    - author: 零基础爬虫第一天
+      release_time: 2026.06.17 07:30:00
+      title: 【web补环境案例-5】khbox+ai秒过系列pdd/boss/xhs
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484466&idx=1&sn=8d345eb4ded1cf1f51ea8927db4e44f6
     - author: 进击的HACK
       release_time: 2026.06.16 20:57:04
       title: Agent分析JS加解密函数自动生成autodecoder脚本
@@ -236,14 +244,6 @@
       release_time: 2026.06.11 18:31:09
       title: gbl_root_canoe隐藏BL状态原理分析
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485248&idx=1&sn=e754a3facd703701ea34858afd6e024d
-    - author: 未闻Code
-      release_time: 2026.06.11 17:48:37
-      title: 一个北海道农民，开始把 AI 用进自己的农场
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991604&idx=1&sn=8cec2b06446e92bbad1db3c1073e47d2
-    - author: AI爬盒
-      release_time: 2026.06.11 17:21:26
-      title: 把 JS 逆向 Agent 装进了浏览器内核
-      url: https://mp.weixin.qq.com/s?__biz=MzcwMzIxNDAxMQ==&mid=2247483745&idx=1&sn=06705a0aba76377be78b10528106bc52
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
