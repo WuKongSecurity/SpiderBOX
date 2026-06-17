@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 一只勇敢的小佳
+      release_time: 2026.06.17 00:21:42
+      title: 你见识到世界的厉害了吗？不！我见识到自己的厉害啦！
+      url: https://www.bilibili.com/video/BV1hsjG6aEYZ
+    - author: r0ysue
+      release_time: 2026.06.16 20:57:58
+      title: 定制内核ROOT隐藏环境过三绿检测正常打开日本龙珠Z游戏正常注册游玩
+      url: https://www.bilibili.com/video/BV1UdjV6FEFF
     - author: 逆向狗都不学
       release_time: 2026.06.16 11:41:57
       title: JS逆向之浏览器指纹与风控
@@ -113,17 +121,41 @@
       release_time: 2026.05.29 17:19:52
       title: soinfo检测和处理逻辑详解
       url: https://www.bilibili.com/video/BV1P4Vh6AEoL
-    - author: 逆向狗都不学
-      release_time: 2026.05.29 14:53:40
-      title: Android逆向之DEX文件加载与执行流程
-      url: https://www.bilibili.com/video/BV1pCVt69EzB
-    - author: AngelToms
-      release_time: 2026.05.29 09:27:54
-      title: ab算法之U16-1
-      url: https://www.bilibili.com/video/BV1QUV46hEN2
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 安全逆向分析
+      release_time: 2026.06.17 11:22:17
+      title: BOSS zp_stoken 检测逻辑（c++补环境版）
+      url: https://mp.weixin.qq.com/s?__biz=MzYzNzg3MTE4NQ==&mid=2247483766&idx=1&sn=66fdaffe1c571279c1baac5b9109f1bc
+    - author: 哆啦安全
+      release_time: 2026.06.17 08:08:04
+      title: Android安全隐私合规检测工具V5.5
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500768&idx=1&sn=20f85d18315ffad22093230240de2d88
+    - author: 零基础爬虫第一天
+      release_time: 2026.06.17 07:30:00
+      title: 【web补环境案例-5】khbox+ai秒过系列pdd/boss/xhs
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484466&idx=1&sn=8d345eb4ded1cf1f51ea8927db4e44f6
+    - author: 进击的HACK
+      release_time: 2026.06.16 20:57:04
+      title: Agent分析JS加解密函数自动生成autodecoder脚本
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490193&idx=1&sn=d87a2b730519275b7915f4c261cc1a73
+    - author: 软件安全与逆向分析
+      release_time: 2026.06.16 20:24:14
+      title: 618倒计时！公众号粉丝课程半价福利，错过再等一年！
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485259&idx=1&sn=0239ffca806016a1894dfaf983a56d2f
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.06.16 16:51:07
+      title: 网信办通报30款存在个人信息收集使用问题的App
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520292&idx=1&sn=eb129f18c3c6af87dbdebd3a8ff1f2d3
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.06.16 16:51:07
+      title: 韩国电商巨头Coupang因数据泄露被罚4亿美元
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520292&idx=2&sn=d77de3ab715adc2ad95c9f2b9995a28a
+    - author: 哆啦安全
+      release_time: 2026.06.16 14:58:20
+      title: 深度逆向分析(libpairipcore.so)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500755&idx=1&sn=8123ee0364a8811e51f62c334308dc8d
     - author: 进击的HACK
       release_time: 2026.06.15 18:45:04
       title: Burpsuite 官方 MCP 使用
@@ -212,41 +244,17 @@
       release_time: 2026.06.11 20:40:07
       title: 安服渗透保命指南
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490172&idx=1&sn=fc4705d5f24686375a04909f9f71e1df
-    - author: 软件安全与逆向分析
-      release_time: 2026.06.11 18:31:09
-      title: gbl_root_canoe隐藏BL状态原理分析
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485248&idx=1&sn=e754a3facd703701ea34858afd6e024d
-    - author: 未闻Code
-      release_time: 2026.06.11 17:48:37
-      title: 一个北海道农民，开始把 AI 用进自己的农场
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991604&idx=1&sn=8cec2b06446e92bbad1db3c1073e47d2
-    - author: AI爬盒
-      release_time: 2026.06.11 17:21:26
-      title: 把 JS 逆向 Agent 装进了浏览器内核
-      url: https://mp.weixin.qq.com/s?__biz=MzcwMzIxNDAxMQ==&mid=2247483745&idx=1&sn=06705a0aba76377be78b10528106bc52
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.06.11 16:06:53
-      title: 公安部网安局发布侵犯公民个人信息违法犯罪典型案例
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520271&idx=1&sn=60d3b053f1a7a78f8bdec2b84e3e5f81
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.06.11 16:06:53
-      title: 欧盟就数据泄露通知模板公开征求意见
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520271&idx=2&sn=54b03b09fa9f5fb415d65aa5bb765f1b
-    - author: LK安全
-      release_time: 2026.06.11 11:04:19
-      title: 新时代降临！！！ ai挖洞月入10w+
-      url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486849&idx=1&sn=97e80aeba10bbe885c9522f9aca48499
-    - author: 如意私塾
-      release_time: 2026.06.11 10:00:00
-      title: 纯算某数6代企业版（光某理财）
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484826&idx=1&sn=4675cbfd4b3b523d71ef3dfae37384bb
-    - author: 哆啦安全
-      release_time: 2026.06.11 09:09:26
-      title: Android13 Redroid云手机定制(一键下载、编译、测试脚本)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500754&idx=1&sn=17e8d7c18ab2be02f7371bc38ad59fec
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: q1wv
+      release_time: 2026.06.16 10:54:00
+      title: 海胆PT的每日打卡
+      url: https://www.52pojie.cn/thread-2113009-1-1.html
+    - author: yxl19873
+      release_time: 2026.06.15 20:33:00
+      title: 【玄奥周易】安卓版注册机手搓教程
+      url: https://www.52pojie.cn/thread-2112941-1-1.html
     - author: xyzhou
       release_time: 2026.06.15 10:56:00
       title: 记录mac下jeb安装学习过程
@@ -359,17 +367,30 @@
       release_time: 2026.05.25 22:49:00
       title: 从0到1构建一个Hook工具之Frida-like风格的Hook
       url: https://www.52pojie.cn/thread-2109539-1-1.html
-    - author: tjy
-      release_time: 2026.05.24 17:16:00
-      title: 玄奥八字最新版本破解思路，理论玄奥系列全部都能用
-      url: https://www.52pojie.cn/thread-2109314-1-1.html
-    - author: rsds0duck
-      release_time: 2026.05.24 16:07:00
-      title: 抖音 VMP 分析（四）：指令流的分析
-      url: https://www.52pojie.cn/thread-2109303-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 一一映射
+      release_time: 2026.06.17 10:48:57
+      title: '[原创]Android壳so/Frida检测so多线程定位大法--军书十二卷卷卷有爷名'
+      url: https://bbs.kanxue.com/thread-291655.htm
+    - author: Chunibyo
+      release_time: 2026.06.17 10:08:53
+      title: '[原创]数某验证码及风控浅析'
+      url: https://bbs.kanxue.com/thread-291651.htm
+    - author: Zedbully
+      release_time: 2026.06.17 01:23:02
+      title: '[原创]移动 App 加固不是“混淆一下”：Android/iOS 攻防链路、二次打包与运行时证据'
+      url: https://bbs.kanxue.com/thread-291646.htm
+    - author: wx_阿伦_109
+      release_time: 2026.06.16 17:52:01
+      title: '[原创]完整还原dex2c某数字壳加固代码为原始代码'
+      url: https://bbs.kanxue.com/thread-291632.htm
+    - author: Arsylk
+      release_time: 2026.06.16 14:16:39
+      title: '[原创]jnilog + gozinject：免 Frida 的 Android JNI 全表实时追踪（fork 时刻注入 + VMA
+        隐藏）'
+      url: https://bbs.kanxue.com/thread-291624.htm
     - author: mb_fycbgpri
       release_time: 2026.06.15 18:35:38
       title: '[原创]ARM64 页表断点——基于 PTE 缺页异常的透明拦截、上下文捕获与寄存器实时修改'
@@ -470,26 +491,6 @@
       release_time: 2026.05.31 14:58:49
       title: '[原创]利用hermes agent 详细分析hunter检测器'
       url: https://bbs.kanxue.com/thread-291411.htm
-    - author: xiusi
-      release_time: 2026.05.30 15:18:21
-      title: '[原创]libmsaoaidsec.so 检测监测 绕过 Hook 脚本'
-      url: https://bbs.kanxue.com/thread-291403.htm
-    - author: 伊苏尔德
-      release_time: 2026.05.29 16:44:10
-      title: '[分享]unicorn模拟linker加载so'
-      url: https://bbs.kanxue.com/thread-291388.htm
-    - author: mb_cekhmgjj
-      release_time: 2026.05.29 10:08:22
-      title: '[原创][原创]Eyoucms v1.7.9-1.7.1前台模板包含rce'
-      url: https://bbs.kanxue.com/thread-291382.htm
-    - author: xiusi
-      release_time: 2026.05.28 19:49:59
-      title: '[原创]libmsaoaidsec.so 检测体系分析'
-      url: https://bbs.kanxue.com/thread-291377.htm
-    - author: x1a0f3n9
-      release_time: 2026.05.28 13:47:24
-      title: '[原创]不同真机 trace 工具性能对比、优化点分享、xfQtrace使用说明'
-      url: https://bbs.kanxue.com/thread-291372.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
