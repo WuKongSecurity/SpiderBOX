@@ -3398,6 +3398,11 @@
           no_referral: true
           url: https://dashboard.a1proxy.com/register?invitation_code=vlbghjmyu7
           description: A1Proxy 不贵，很稳，轻量专业级住宅代理，原生纯净 IP 跨境账号安全首选方案，专注静态代理与动态住宅 IP 为数据采集、跨境电商、社媒矩阵、广告验证等出海团队提供高性价比纯净住宅代理
+        - title: 711Proxy
+          logo: 711proxy.png
+          no_referral: true
+          url: https://www.711proxy.com/signup?code=517D0F
+          description: 高质量住宅代理低至 $0.55/GB，覆盖全球 200+ 地区，为社媒营销和多账号管理提供稳定支持
 
         # 8% ==============================
         - title: 荔枝 IP
