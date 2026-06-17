@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.06.17 17:18:11
+      title: 加拿大公布《保护隐私和消费者数据法案》：设立新执法机构，强化儿童保护与AI监管
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520301&idx=1&sn=e5c4205a508689054aacdf883145a149
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.06.17 17:18:11
+      title: 任天堂回应数据遭黑客窃取并被索要 200 万美元赎金：并非关键数据
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520301&idx=2&sn=0cb66c8bb83188ea53214ded25f52f6c
+    - author: 如意私塾
+      release_time: 2026.06.17 16:48:03
+      title: WebGL指纹 | BrowserScan浏览器指纹检测和反检测搞明白
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484832&idx=1&sn=a1875daa0c7a9b32bb0c8f3904f9eba2
     - author: 安全逆向分析
       release_time: 2026.06.17 11:22:17
       title: BOSS zp_stoken 检测逻辑（c++补环境版）
@@ -232,18 +244,6 @@
       release_time: 2026.06.12 16:13:33
       title: Frida17.12.0的功能与变化
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485254&idx=1&sn=32ca95e377824e9841fd305f7a77e2aa
-    - author: 编角料
-      release_time: 2026.06.12 12:05:00
-      title: 移动安全之配置超强ROOT隐藏的安全研究环境
-      url: https://mp.weixin.qq.com/s?__biz=MzU0MjUwMTA2OQ==&mid=2247487007&idx=1&sn=26da21f4d6150367829a58c51291890a
-    - author: 极验
-      release_time: 2026.06.12 10:06:43
-      title: AI深入618，平台能力正在接受一次集中检验
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724508&idx=1&sn=28b2b08754eba6841711c698eddd5175
-    - author: 进击的HACK
-      release_time: 2026.06.11 20:40:07
-      title: 安服渗透保命指南
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490172&idx=1&sn=fc4705d5f24686375a04909f9f71e1df
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,14 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Zedbully
+      release_time: 2026.06.17 18:55:46
+      title: '[原创]静态看不到，不代表运行时安全：Android 摘壳案例里的 DEX、SO 与 bridge 暴露面'
+      url: https://bbs.kanxue.com/thread-291660.htm
+    - author: 高音召华
+      release_time: 2026.06.17 15:05:00
+      title: 一款伪装成云盘的恶意APP逆向分析
+      url: https://xz.aliyun.com/news/92328
     - author: 一一映射
       release_time: 2026.06.17 10:48:57
       title: '[原创]Android壳so/Frida检测so多线程定位大法--军书十二卷卷卷有爷名'
@@ -483,14 +491,6 @@
       release_time: 2026.06.01 16:28:15
       title: '[原创]某旅行 App 基于 LR 劫持的 ARM64 控制流混淆逆向分析'
       url: https://bbs.kanxue.com/thread-291422.htm
-    - author: r8e8cd8
-      release_time: 2026.06.01 13:38:59
-      title: '[原创]手搓 JniForward：Unidbg JNI 转发真实 Android ART 的探索'
-      url: https://bbs.kanxue.com/thread-291421.htm
-    - author: 秋落
-      release_time: 2026.05.31 14:58:49
-      title: '[原创]利用hermes agent 详细分析hunter检测器'
-      url: https://bbs.kanxue.com/thread-291411.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
