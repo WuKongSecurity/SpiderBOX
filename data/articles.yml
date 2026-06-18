@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: R逆向
+      release_time: 2026.06.18 12:49:52
+      title: 复现并修掉ART hook框架 Pine 调用原方法时的偶发 SIGSEGV
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NjA3Mw==&mid=2247483811&idx=1&sn=6ce7901429714e445572465fab01a625
     - author: Coder小Q
       release_time: 2026.06.18 08:30:00
       title: 【杂谈】从雪花屏到可解密：压缩容忍图像加密
@@ -240,13 +244,17 @@
       release_time: 2026.06.13 21:25:52
       title: wmpf + mcp 分析小程序加解密
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490181&idx=1&sn=d2111c5b0136dc8859b88f1606af1dc1
-    - author: 小小杨学编程
-      release_time: 2026.06.12 20:57:55
-      title: 某音captchaBody和某里rand补环境思路
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484761&idx=1&sn=5f6b1b900176a0b572e3481033c4d136
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: LiXieZengHui
+      release_time: 2026.06.17 21:58:00
+      title: Via修改资源嗅探白名单-重点在frida和java概念上的辨析
+      url: https://www.52pojie.cn/thread-2113275-1-1.html
+    - author: jbczzz
+      release_time: 2026.06.17 20:36:00
+      title: 绕过DirtySepolicy 用户层检测root
+      url: https://www.52pojie.cn/thread-2113265-1-1.html
     - author: q1wv
       release_time: 2026.06.16 10:54:00
       title: 海胆PT的每日打卡
@@ -359,17 +367,13 @@
       release_time: 2026.05.26 17:39:00
       title: SM双图滑块验证码逆向分析
       url: https://www.52pojie.cn/thread-2109685-1-1.html
-    - author: lxf0719
-      release_time: 2026.05.26 00:25:00
-      title: 玄奥八字APP破解及注册号生成
-      url: https://www.52pojie.cn/thread-2109550-1-1.html
-    - author: n1ng
-      release_time: 2026.05.25 22:49:00
-      title: 从0到1构建一个Hook工具之Frida-like风格的Hook
-      url: https://www.52pojie.cn/thread-2109539-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 太岁又沐风
+      release_time: 2026.06.18 12:43:46
+      title: '[原创]复现并修掉ART hook框架 Pine 调用原方法时的偶发 SIGSEGV'
+      url: https://bbs.kanxue.com/thread-291681.htm
     - author: mb_fycbgpri
       release_time: 2026.06.17 20:56:01
       title: '[原创]APatch KPM 开发：绕过 DirtySepolicy / Duck Detector 的 SELinux Root 检测'
@@ -487,10 +491,6 @@
       release_time: 2026.06.02 16:03:39
       title: '[原创]深度解密 iOS 设备指纹：全链路攻防、底层因子的终局之战'
       url: https://bbs.kanxue.com/thread-291440.htm
-    - author: Ann945
-      release_time: 2026.06.01 23:55:01
-      title: '[原创]浅谈 iOS 上某视频 App 的设备注册信息收集'
-      url: https://bbs.kanxue.com/thread-291430.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
