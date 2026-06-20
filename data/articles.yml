@@ -371,6 +371,10 @@
     term: 吾爱破解
   - links:
     - author: Zedbully
+      release_time: 2026.06.20 19:57:37
+      title: '[原创] 移动安全攻防复盘：false pass、证据绑定、后端密钥边界与 native mapping'
+      url: https://bbs.kanxue.com/thread-291717.htm
+    - author: Zedbully
       release_time: 2026.06.19 18:22:17
       title: '[原创]移动安全不是一个检测点：从二次打包到设备证据的攻防复盘'
       url: https://bbs.kanxue.com/thread-291702.htm
@@ -487,10 +491,6 @@
       release_time: 2026.06.05 17:03:28
       title: '[分享]记一次某存储厂商官网的反射型XSS挖掘过程（附修复建议）'
       url: https://bbs.kanxue.com/thread-291480.htm
-    - author: Chunibyo
-      release_time: 2026.06.04 17:44:13
-      title: '[原创]Tbooking验证码逆向分析'
-      url: https://bbs.kanxue.com/thread-291472.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
