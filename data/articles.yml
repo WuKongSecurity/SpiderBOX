@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: jbczzz
+      release_time: 2026.06.22 00:11:00
+      title: 领域特定虚拟机DSVM指令完整还原
+      url: https://www.52pojie.cn/thread-2113743-1-1.html
     - author: 小乖乖
       release_time: 2026.06.21 12:42:00
       title: 雷电模拟器14安装面具magisk
@@ -363,10 +367,6 @@
       release_time: 2026.05.28 19:48:00
       title: libjdg.so VM 逆向分析
       url: https://www.52pojie.cn/thread-2110046-1-1.html
-    - author: verber34
-      release_time: 2026.05.27 10:06:00
-      title: 我也来蹭个热度，玄奥八字APP的 注册机AI生成
-      url: https://www.52pojie.cn/thread-2109773-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
