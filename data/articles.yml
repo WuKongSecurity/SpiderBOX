@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 小乖乖
+      release_time: 2026.06.21 12:42:00
+      title: 雷电模拟器14安装面具magisk
+      url: https://www.52pojie.cn/thread-2113682-1-1.html
     - author: Tartaglia
       release_time: 2026.06.18 18:36:00
       title: 灰产分析之xx校园跑工具的登录及风控认证
@@ -363,10 +367,6 @@
       release_time: 2026.05.27 10:06:00
       title: 我也来蹭个热度，玄奥八字APP的 注册机AI生成
       url: https://www.52pojie.cn/thread-2109773-1-1.html
-    - author: psh123
-      release_time: 2026.05.26 18:03:00
-      title: 记录去除爱奇艺万能播放器右下角二维码弹窗(莫名其妙成功了)
-      url: https://www.52pojie.cn/thread-2109687-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
