@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2026.06.22 11:27:56
+      title: 红魔多屏协同自动创建 E:\code_decodeew\pre_music_cut 文件夹 bug
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144611&idx=1&sn=50b7ca2c05b4d05f1a63574c2af31dcb
     - author: 测试工程师成长之路
       release_time: 2026.06.22 08:30:00
       title: 测试效率翻倍：这个Chrome插件让提Bug变成一键操作
@@ -240,10 +244,6 @@
       release_time: 2026.06.16 14:58:20
       title: 深度逆向分析(libpairipcore.so)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500755&idx=1&sn=8123ee0364a8811e51f62c334308dc8d
-    - author: 进击的HACK
-      release_time: 2026.06.15 18:45:04
-      title: Burpsuite 官方 MCP 使用
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490189&idx=1&sn=31f5ef0cbf3efbc03facadbea4441d01
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
