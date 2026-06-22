@@ -1257,6 +1257,10 @@
 
     - name: 指纹浏览器
       links:
+        - title: 比特浏览器
+          logo: bitbrowser.png
+          url: https://www.bitbrowser.cn/?code=Nxxnh5
+          description: 比特指纹浏览器，也是防关联指纹浏览器、跨境电商浏览器，能多开浏览器窗口、多登账号，防关联和防封号，跨境账号的安全管理专家，轻松管理您的跨境大生意，真正做到防关联封号的超级浏览器、跨境电商指纹浏览器
         - title: NstBrowser
           logo: nstbrowser.png
           no_referral: true
@@ -1282,10 +1286,6 @@
           no_referral: true
           url: http://suo.im/90xP0
           description: Hubstudio 为跨境商家提供安全的指纹浏览器，最专业的跨平台多账户管理系统，超过20w用户的选择
-        - title: 比特浏览器
-          logo: bitbrowser.png
-          url: https://www.bitbrowser.cn/
-          description: 比特指纹浏览器，也是防关联指纹浏览器、跨境电商浏览器，能多开浏览器窗口、多登账号，防关联和防封号，跨境账号的安全管理专家，轻松管理您的跨境大生意，真正做到防关联封号的超级浏览器、跨境电商指纹浏览器
         - title: 候鸟浏览器
           logo: mbbrowser.png
           no_referral: true
