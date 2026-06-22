@@ -124,6 +124,58 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 测试工程师成长之路
+      release_time: 2026.06.22 08:30:00
+      title: 测试效率翻倍：这个Chrome插件让提Bug变成一键操作
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579112&idx=1&sn=b912bd929d4f662bf7657847741878af
+    - author: 小伍哥聊风控
+      release_time: 2026.06.21 22:00:19
+      title: Python中的字符串格式化基础和Prompt拼接
+      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650197223&idx=1&sn=398c2b31a9cb9509cbc8295043d0fec6
+    - author: 进击的HACK
+      release_time: 2026.06.21 18:46:42
+      title: 工具推荐 | 网站篡改、暗链、死链监测工具
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490217&idx=1&sn=dc0c64879b8aad675d4dda3b3414bc35
+    - author: 桐梓坡低手
+      release_time: 2026.06.21 00:40:22
+      title: AI逆向 kasada
+      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247483965&idx=1&sn=ac1b35442ad0a1340c8562312620764e
+    - author: Python成长路
+      release_time: 2026.06.20 20:26:17
+      title: 蚂蚁森林官方 AI 外挂
+      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486209&idx=1&sn=20cf297a72da4dd2c89d359c8f0f75c8
+    - author: 进击的HACK
+      release_time: 2026.06.20 20:16:38
+      title: 自动化信息泄露侦察工具 LeakDetector
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490211&idx=1&sn=30535534a4ad70427d285e9fb0dc4178
+    - author: 进击的HACK
+      release_time: 2026.06.19 21:52:39
+      title: 工具推荐 | 面向红队协作的控制平面型工作台
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490207&idx=1&sn=00394415588cef6454d0756d93023187
+    - author: DrissionPage
+      release_time: 2026.06.18 22:38:53
+      title: 4.2.0b20 修复问题
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzczMw==&mid=2247483863&idx=1&sn=09ec8824b12ecc8273a5db75ba2227f8
+    - author: 泡泡以安
+      release_time: 2026.06.18 20:25:19
+      title: Frida学习笔记（二十一）：未导出函数定位 · 让脚本跨版本复用
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486568&idx=1&sn=0bd8cf87b0e57369e74f413fc06fa773
+    - author: 进击的HACK
+      release_time: 2026.06.18 19:12:49
+      title: 大模型 skills 由繁到简
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490202&idx=1&sn=11ddd8f5fcfc228e166d8d2ad0504290
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.06.18 16:16:39
+      title: 未成年人网络保护的国际比较与中国实践：社交媒体、网络直播和网络游戏
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520307&idx=1&sn=b696c70374cc972658c0236bc93ecb24
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.06.18 16:16:39
+      title: 数据安全管理认证和个人信息保护认证以及个人信息保护合规审计工作交流会在呼和浩特召开
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520307&idx=2&sn=a36deee57e0fc9484a85c533b0a199c4
+    - author: 如意私塾
+      release_time: 2026.06.18 15:32:14
+      title: 指纹浏览器虚拟机检测原理分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484838&idx=1&sn=85ca91ddc0565fc496f1c5a6bb1c4c12
     - author: R逆向
       release_time: 2026.06.18 12:49:52
       title: 复现并修掉ART hook框架 Pine 调用原方法时的偶发 SIGSEGV
@@ -192,58 +244,6 @@
       release_time: 2026.06.15 18:45:04
       title: Burpsuite 官方 MCP 使用
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490189&idx=1&sn=31f5ef0cbf3efbc03facadbea4441d01
-    - author: 如意私塾
-      release_time: 2026.06.15 18:41:41
-      title: WebRTC指纹 | BrowserScan浏览器指纹检测和反检测搞明白
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484829&idx=1&sn=8f81a628feac419d5b62b42452e32739
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.06.15 17:07:27
-      title: 携程因未落实数据出境安全评估要求，被上海网信办罚款1000万（附案例列表）
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520283&idx=1&sn=9bd8ae2e13403dfcbe131a6e8f71ab3b
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.06.15 17:07:27
-      title: 国家网信办发布《中国个人信息保护报告（2025年）》（附一图读懂+答记者问）
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520283&idx=2&sn=47fb148e21450f29afad9b0e603b7522
-    - author: 泡泡以安
-      release_time: 2026.06.15 16:55:09
-      title: Frida学习笔记（二十）：ARM 汇编速成
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486564&idx=1&sn=353524c15dcb35c742f6f8e684a216f7
-    - author: 沐阳逆向与AI学习
-      release_time: 2026.06.15 14:42:07
-      title: 【618限时】安卓+iOS逆向双端全能课，双课合报直降千元
-      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484649&idx=1&sn=cca62ffac18e800318e391f193fc1052
-    - author: 极验
-      release_time: 2026.06.15 10:00:00
-      title: 智能体时代的自动化对抗：Agent Bot 与隐匿技术共舞
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724513&idx=1&sn=77b0901df8644d8964a5435368bc435d
-    - author: 逆向成长日记
-      release_time: 2026.06.15 09:30:00
-      title: 全自动逆向Agent（一）——抓包
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4NTg0MjMzNQ==&mid=2247484310&idx=1&sn=97b40e845f62999a44f0c2a30f4bfc7e
-    - author: 测试工程师成长之路
-      release_time: 2026.06.15 08:30:00
-      title: 吹爆的零代码浏览器自动化，我用过后直呼慎入
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579091&idx=1&sn=5b76064cd6a61893495898958242d2da
-    - author: 榫卯江湖
-      release_time: 2026.06.15 08:08:00
-      title: 轻装上阵 · 智能进化：PacketScope协议栈分析V2上线
-      url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485326&idx=1&sn=13ca110376be5888c75b577f1ac98392
-    - author: 大数据安全技术学习
-      release_time: 2026.06.14 22:54:44
-      title: APP2025.24.roothide绕过海外支付企业壳越狱检测
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486218&idx=1&sn=d14a1fce4fdf39c277d63177c8bb2104
-    - author: 大数据安全技术学习
-      release_time: 2026.06.14 22:54:44
-      title: 奋斗者计划，助你升职加薪|阿里云、米哈游、阿里巴巴直推
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486218&idx=2&sn=b047a93070e1018fd2b4b31dfe523d8b
-    - author: 进击的HACK
-      release_time: 2026.06.14 20:35:35
-      title: 域安全扫描工具ADPulse
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490185&idx=1&sn=9c95a124e22d053b308d60d99aa63ed0
-    - author: 进击的HACK
-      release_time: 2026.06.13 21:25:52
-      title: wmpf + mcp 分析小程序加解密
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490181&idx=1&sn=d2111c5b0136dc8859b88f1606af1dc1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
