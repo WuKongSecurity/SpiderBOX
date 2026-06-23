@@ -897,6 +897,10 @@
           logo: deobfuscate.png
           url: https://deobfuscate.io/
           description: 一个简单但功能强大的反混淆器，支持 OB 反混淆
+        - title: obfuscator-io-deobfuscator
+          logo: github.png
+          url: https://github.com/ben-sb/obfuscator-io-deobfuscator
+          description: OB 反混淆工具
         - title: de4js
           logo: de4js.png
           url: https://lelinhtinh.github.io/de4js/
