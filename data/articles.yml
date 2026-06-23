@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 如意-浏览器开发培训
+      release_time: 2026.06.23 21:49:17
+      title: 瑞数6企业定制版-光某银行纯算
+      url: https://www.bilibili.com/video/BV1QVjS6vEmc
     - author: B站用户骚神
       release_time: 2026.06.23 16:23:31
       title: 【虫神插件1.8】重大更新，可以无限免费白嫖deepseek算力！！
@@ -117,13 +121,17 @@
       release_time: 2026.06.02 00:26:54
       title: 模型逆向这一块
       url: https://www.bilibili.com/video/BV14VVf61EQD
-    - author: 风华Ahu
-      release_time: 2026.06.01 22:03:31
-      title: js逆向百例-29-世界上最难的验证码！没有人类能通过测试
-      url: https://www.bilibili.com/video/BV1kP5F66ERp
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: R逆向
+      release_time: 2026.06.23 21:07:43
+      title: 仅执行内存（XOM）如何让 Frida spawn 注入失败——从 17.15.2 的修复读底层机制
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NjA3Mw==&mid=2247483829&idx=1&sn=fe979e8c3297f8b4a23603a920af2d13
+    - author: 如意私塾
+      release_time: 2026.06.23 20:29:58
+      title: JS逆向终结计划-如意最新web风控爬虫日志工具-攻克一切站点
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484845&idx=1&sn=9860721591162004caac793b45a8dbfd
     - author: 进击的HACK
       release_time: 2026.06.23 18:37:52
       title: 逆向分析工具 | 二开 firefox 内置 AI 逆向 Agent
@@ -236,17 +244,13 @@
       release_time: 2026.06.17 21:06:21
       title: 小技巧 | 企业微信H5开启webview调试
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490197&idx=1&sn=fec822819dd2af35555f3e25e7783da6
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.06.17 17:18:11
-      title: 加拿大公布《保护隐私和消费者数据法案》：设立新执法机构，强化儿童保护与AI监管
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520301&idx=1&sn=e5c4205a508689054aacdf883145a149
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.06.17 17:18:11
-      title: 任天堂回应数据遭黑客窃取并被索要 200 万美元赎金：并非关键数据
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520301&idx=2&sn=0cb66c8bb83188ea53214ded25f52f6c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: rsds0duck
+      release_time: 2026.06.23 19:44:00
+      title: JS 盾（JS DUN PROTECT）加固小记
+      url: https://www.52pojie.cn/thread-2114065-1-1.html
     - author: jbczzz
       release_time: 2026.06.22 00:11:00
       title: 领域特定虚拟机DSVM指令完整还原
@@ -363,13 +367,21 @@
       release_time: 2026.05.29 17:27:00
       title: ProcessOn破解思路
       url: https://www.52pojie.cn/thread-2110217-1-1.html
-    - author: Victor365
-      release_time: 2026.05.29 11:30:00
-      title: 记录首次对安卓APK进行脱壳反编译的步骤
-      url: https://www.52pojie.cn/thread-2110136-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 霸服w
+      release_time: 2026.06.23 21:31:56
+      title: '[推荐]一个专门针对安卓作弊的开源通用模块'
+      url: https://bbs.kanxue.com/thread-291769.htm
+    - author: ODcat
+      release_time: 2026.06.23 20:07:04
+      title: '[原创]RR视频.apk客户端登录协议分析'
+      url: https://bbs.kanxue.com/thread-291767.htm
+    - author: 一只鸭子
+      release_time: 2026.06.23 19:40:55
+      title: '[原创]JS 盾（JS DUN PROTECT）加固小记'
+      url: https://bbs.kanxue.com/thread-291766.htm
     - author: Solar安全
       release_time: 2026.06.23 15:40:28
       title: '[原创]【深度解析】全球第二活跃的The Gentlemen勒索组织，老板竟是LinkedIn上可查的B2B营销主管'
@@ -479,18 +491,6 @@
       release_time: 2026.06.14 13:40:35
       title: '[原创]记某灰黑棋牌游戏逆向'
       url: https://bbs.kanxue.com/thread-291590.htm
-    - author: lingyi223
-      release_time: 2026.06.13 19:36:29
-      title: '[原创]简单分析onCreate'
-      url: https://bbs.kanxue.com/thread-291584.htm
-    - author: 九天666
-      release_time: 2026.06.13 16:34:10
-      title: '[原创] X-Apple-ActionSignature分析'
-      url: https://bbs.kanxue.com/thread-291582.htm
-    - author: mb_nbwjjtth
-      release_time: 2026.06.12 12:49:26
-      title: '[原创]AppleAccount注册之X-MMe-Nas-Qualify'
-      url: https://bbs.kanxue.com/thread-291575.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
