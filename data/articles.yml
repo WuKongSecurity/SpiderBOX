@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2026.06.23 16:23:31
+      title: 【虫神插件1.8】重大更新，可以无限免费白嫖deepseek算力！！
+      url: https://www.bilibili.com/video/BV1Fbjm62Ezh
     - author: AngelToms
       release_time: 2026.06.23 08:06:50
       title: ab算法之U90
@@ -117,13 +121,13 @@
       release_time: 2026.06.01 22:03:31
       title: js逆向百例-29-世界上最难的验证码！没有人类能通过测试
       url: https://www.bilibili.com/video/BV1kP5F66ERp
-    - author: SpiderDemo
-      release_time: 2026.06.01 21:24:11
-      title: spiderdemo爬虫简历分享直播回放
-      url: https://www.bilibili.com/video/BV1YW5F6oExq
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.06.23 18:37:52
+      title: 逆向分析工具 | 二开 firefox 内置 AI 逆向 Agent
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490225&idx=1&sn=d8bf7901a1f22cfe8eca6558e0c18ec6
     - author: 个人信息与数据保护实务评论
       release_time: 2026.06.23 15:54:02
       title: 40款App因违法违规收集使用个人信息被通报，涉及多款教育类App
@@ -240,10 +244,6 @@
       release_time: 2026.06.17 17:18:11
       title: 任天堂回应数据遭黑客窃取并被索要 200 万美元赎金：并非关键数据
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520301&idx=2&sn=0cb66c8bb83188ea53214ded25f52f6c
-    - author: 如意私塾
-      release_time: 2026.06.17 16:48:03
-      title: WebGL指纹 | BrowserScan浏览器指纹检测和反检测搞明白
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484832&idx=1&sn=a1875daa0c7a9b32bb0c8f3904f9eba2
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
