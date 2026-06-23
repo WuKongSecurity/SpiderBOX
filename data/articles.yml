@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: AngelToms
+      release_time: 2026.06.23 08:06:50
+      title: ab算法之U90
+      url: https://www.bilibili.com/video/BV1ds736iEFS
     - author: r0ysue
       release_time: 2026.06.22 23:28:43
       title: iOS18最新越狱打时间差绕过HYATT检测使用frida
@@ -117,10 +121,6 @@
       release_time: 2026.06.01 21:24:11
       title: spiderdemo爬虫简历分享直播回放
       url: https://www.bilibili.com/video/BV1YW5F6oExq
-    - author: 念初77
-      release_time: 2026.05.31 22:44:11
-      title: 使用AI对Flutter应用逆向_GPT5.5 VS Deepseek_v4
-      url: https://www.bilibili.com/video/BV1pbVQ6pE39
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
