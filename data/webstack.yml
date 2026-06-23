@@ -913,6 +913,10 @@
           logo: github.png
           url: https://github.com/NXY666/Jsjiemi
           description: 基于正则匹配的 JavaScript 解密工具
+        - title: decode_action
+          logo: github.png
+          url: https://github.com/smallfawn/decode_action
+          description: 支持 sojson、sojsonv7、awsc 等解混淆
         - title: ast_tools
           logo: github.png
           url: https://github.com/sml2h3/ast_tools
