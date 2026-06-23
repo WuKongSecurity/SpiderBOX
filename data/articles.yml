@@ -247,6 +247,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: jbczzz
+      release_time: 2026.06.23 21:39:00
+      title: 利用Unicorn对压缩壳静态脱取和NEON XOR 字符串解密算法分析
+      url: https://www.52pojie.cn/thread-2114082-1-1.html
+    - author: jbczzz
+      release_time: 2026.06.23 21:36:00
+      title: ELF 二进制字符串加密的逆向
+      url: https://www.52pojie.cn/thread-2114080-1-1.html
     - author: rsds0duck
       release_time: 2026.06.23 19:44:00
       title: JS 盾（JS DUN PROTECT）加固小记
@@ -359,17 +367,13 @@
       release_time: 2026.05.30 16:57:00
       title: 用ce lua脚本修改fgo
       url: https://www.52pojie.cn/thread-2110330-1-1.html
-    - author: a3341736201
-      release_time: 2026.05.30 12:12:00
-      title: ProcessOn完整破解思路附带 踩坑过程
-      url: https://www.52pojie.cn/thread-2110293-1-1.html
-    - author: memobbs
-      release_time: 2026.05.29 17:27:00
-      title: ProcessOn破解思路
-      url: https://www.52pojie.cn/thread-2110217-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Zedbully
+      release_time: 2026.06.24 01:19:45
+      title: '[原创]御盾加固Poc测试：静态看不到算法，动态也没闭合，但先别急着喊安全'
+      url: https://bbs.kanxue.com/thread-291773.htm
     - author: ODcat
       release_time: 2026.06.23 22:16:11
       title: '[原创]论如何在2026年使用uiautomatorviewer.bat'
@@ -487,10 +491,6 @@
       release_time: 2026.06.15 18:35:38
       title: '[原创]ARM64 页表断点——基于 PTE 缺页异常的透明拦截、上下文捕获与寄存器实时修改'
       url: https://bbs.kanxue.com/thread-291616.htm
-    - author: 阿里云先知
-      release_time: 2026.06.15 11:17:00
-      title: 阿里云先知团队招聘AI攻防安全专家
-      url: https://xz.aliyun.com/news/92306
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
