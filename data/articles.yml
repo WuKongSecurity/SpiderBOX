@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.06.23 08:00:00
+      title: AOSP Pixel5至8 Android10至16 一键搭建环境、下载源码、编译源码(一键脚本)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500833&idx=1&sn=4852a5db7017cd091f548fd5c9efd4c2
     - author: 进击的HACK
       release_time: 2026.06.22 21:11:59
       title: 请求响应包都加密时，如何用大模型分析明文数据包来挖洞
@@ -240,10 +244,6 @@
       release_time: 2026.06.17 08:08:04
       title: Android安全隐私合规检测工具V5.5
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500768&idx=1&sn=20f85d18315ffad22093230240de2d88
-    - author: 零基础爬虫第一天
-      release_time: 2026.06.17 07:30:00
-      title: 【web补环境案例-5】khbox+ai秒过系列pdd/boss/xhs
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484466&idx=1&sn=8d345eb4ded1cf1f51ea8927db4e44f6
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
