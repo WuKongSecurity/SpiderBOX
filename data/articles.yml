@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.06.23 15:54:02
+      title: 40款App因违法违规收集使用个人信息被通报，涉及多款教育类App
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520315&idx=1&sn=523e3af074f85985e5d85ba6ada21d88
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.06.23 15:54:02
+      title: 国家网信办等三部门联合公布《网络数据安全风险评估办法》，8月20日起施行（附答记者问）
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520315&idx=2&sn=f48f2b73a6c8f1f64b044f8b8bbcbac8
     - author: 哆啦安全
       release_time: 2026.06.23 08:00:00
       title: AOSP Pixel5至8 Android10至16 一键搭建环境、下载源码、编译源码(一键脚本)
@@ -236,14 +244,6 @@
       release_time: 2026.06.17 16:48:03
       title: WebGL指纹 | BrowserScan浏览器指纹检测和反检测搞明白
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484832&idx=1&sn=a1875daa0c7a9b32bb0c8f3904f9eba2
-    - author: 安全逆向分析
-      release_time: 2026.06.17 11:22:17
-      title: BOSS zp_stoken 检测逻辑（c++补环境版）
-      url: https://mp.weixin.qq.com/s?__biz=MzYzNzg3MTE4NQ==&mid=2247483766&idx=1&sn=66fdaffe1c571279c1baac5b9109f1bc
-    - author: 哆啦安全
-      release_time: 2026.06.17 08:08:04
-      title: Android安全隐私合规检测工具V5.5
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500768&idx=1&sn=20f85d18315ffad22093230240de2d88
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,14 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Solar安全
+      release_time: 2026.06.23 15:40:28
+      title: '[原创]【深度解析】全球第二活跃的The Gentlemen勒索组织，老板竟是LinkedIn上可查的B2B营销主管'
+      url: https://bbs.kanxue.com/thread-291763.htm
+    - author: jygzyc
+      release_time: 2026.06.23 15:40:28
+      title: '[原创]DECX：另一个基于 JADX 的 AI 反编译轮子'
+      url: https://bbs.kanxue.com/thread-291762.htm
     - author: mb_jtdbrgxs
       release_time: 2026.06.23 11:23:03
       title: '[原创] Pixel6 16系统降级14'
@@ -483,14 +491,6 @@
       release_time: 2026.06.12 12:49:26
       title: '[原创]AppleAccount注册之X-MMe-Nas-Qualify'
       url: https://bbs.kanxue.com/thread-291575.htm
-    - author: 之安
-      release_time: 2026.06.12 03:08:14
-      title: '[原创]r1rpc，把只能在真机/特定环境里跑的函数，封装成一个 HTTP 接口。'
-      url: https://bbs.kanxue.com/thread-291569.htm
-    - author: lidongyooo
-      release_time: 2026.06.10 09:02:05
-      title: '[原创]Google Integrity 校验始末与中间人攻击'
-      url: https://bbs.kanxue.com/thread-291541.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
