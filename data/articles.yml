@@ -2,6 +2,14 @@
   list:
   - links:
     - author: AngelToms
+      release_time: 2026.06.23 08:06:50
+      title: ab算法之U90
+      url: https://www.bilibili.com/video/BV1ds736iEFS
+    - author: r0ysue
+      release_time: 2026.06.22 23:28:43
+      title: iOS18最新越狱打时间差绕过HYATT检测使用frida
+      url: https://www.bilibili.com/video/BV1mY7T6yEUM
+    - author: AngelToms
       release_time: 2026.06.19 08:25:21
       title: ab算法之U87-U89
       url: https://www.bilibili.com/video/BV1SGji6ZE8V
@@ -113,17 +121,29 @@
       release_time: 2026.06.01 21:24:11
       title: spiderdemo爬虫简历分享直播回放
       url: https://www.bilibili.com/video/BV1YW5F6oExq
-    - author: 念初77
-      release_time: 2026.05.31 22:44:11
-      title: 使用AI对Flutter应用逆向_GPT5.5 VS Deepseek_v4
-      url: https://www.bilibili.com/video/BV1pbVQ6pE39
-    - author: 逆向研究生
-      release_time: 2026.05.31 21:05:51
-      title: 读书篇——有钱人跟你想的不一样
-      url: https://www.bilibili.com/video/BV1QsVU64Eto
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.06.23 08:00:00
+      title: AOSP Pixel5至8 Android10至16 一键搭建环境、下载源码、编译源码(一键脚本)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500833&idx=1&sn=4852a5db7017cd091f548fd5c9efd4c2
+    - author: 进击的HACK
+      release_time: 2026.06.22 21:11:59
+      title: 请求响应包都加密时，如何用大模型分析明文数据包来挖洞
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490221&idx=1&sn=27e02c7ec0d7d659f572c2276570edf9
+    - author: R逆向
+      release_time: 2026.06.22 18:40:12
+      title: 用 ClassLoader 计数对抗 LSPosed 隐藏：从看雪思路到 Android 16 落地与真机验证
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NjA3Mw==&mid=2247483824&idx=1&sn=afcca4852761d6bb92c5715783e60e61
+    - author: 如意私塾
+      release_time: 2026.06.22 18:15:47
+      title: 小肩膀逆向skill，xiaojianbang-auto-reverse，他来了
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484840&idx=1&sn=259eb6d3b639a9497c86eba90e797545
+    - author: 哆啦安全
+      release_time: 2026.06.22 17:02:41
+      title: AI手机定制方案浅析
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500821&idx=1&sn=1b41251214e044f43711d7fa64b7de8d
     - author: 吾爱破解论坛
       release_time: 2026.06.22 11:27:56
       title: 红魔多屏协同自动创建 E:\code_decodeew\pre_music_cut 文件夹 bug
@@ -156,6 +176,10 @@
       release_time: 2026.06.19 21:52:39
       title: 工具推荐 | 面向红队协作的控制平面型工作台
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490207&idx=1&sn=00394415588cef6454d0756d93023187
+    - author: 哆啦安全
+      release_time: 2026.06.19 10:44:28
+      title: Redroid Android13云手机定制(一键优化清理磁盘)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500815&idx=1&sn=e2473e146e4c5d1f28d31dd13247ec08
     - author: DrissionPage
       release_time: 2026.06.18 22:38:53
       title: 4.2.0b20 修复问题
@@ -220,30 +244,6 @@
       release_time: 2026.06.17 08:08:04
       title: Android安全隐私合规检测工具V5.5
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500768&idx=1&sn=20f85d18315ffad22093230240de2d88
-    - author: 零基础爬虫第一天
-      release_time: 2026.06.17 07:30:00
-      title: 【web补环境案例-5】khbox+ai秒过系列pdd/boss/xhs
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484466&idx=1&sn=8d345eb4ded1cf1f51ea8927db4e44f6
-    - author: 进击的HACK
-      release_time: 2026.06.16 20:57:04
-      title: Agent分析JS加解密函数自动生成autodecoder脚本
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490193&idx=1&sn=d87a2b730519275b7915f4c261cc1a73
-    - author: 软件安全与逆向分析
-      release_time: 2026.06.16 20:24:14
-      title: 618倒计时！公众号粉丝课程半价福利，错过再等一年！
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485259&idx=1&sn=0239ffca806016a1894dfaf983a56d2f
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.06.16 16:51:07
-      title: 网信办通报30款存在个人信息收集使用问题的App
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520292&idx=1&sn=eb129f18c3c6af87dbdebd3a8ff1f2d3
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.06.16 16:51:07
-      title: 韩国电商巨头Coupang因数据泄露被罚4亿美元
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520292&idx=2&sn=d77de3ab715adc2ad95c9f2b9995a28a
-    - author: 哆啦安全
-      release_time: 2026.06.16 14:58:20
-      title: 深度逆向分析(libpairipcore.so)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500755&idx=1&sn=8123ee0364a8811e51f62c334308dc8d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -255,6 +255,14 @@
       release_time: 2026.06.21 12:42:00
       title: 雷电模拟器14安装面具magisk
       url: https://www.52pojie.cn/thread-2113682-1-1.html
+    - author: JiGuro
+      release_time: 2026.06.20 23:03:00
+      title: 【多栈实战】某黑产软件全链路逆向实录 (下)
+      url: https://www.52pojie.cn/thread-2113640-1-1.html
+    - author: xin777
+      release_time: 2026.06.20 15:17:00
+      title: 打开某安卓系统电子白板的安装任意app权限的一次尝试
+      url: https://www.52pojie.cn/thread-2113596-1-1.html
     - author: Tartaglia
       release_time: 2026.06.18 18:36:00
       title: 灰产分析之xx校园跑工具的登录及风控认证
@@ -359,17 +367,25 @@
       release_time: 2026.05.29 11:30:00
       title: 记录首次对安卓APK进行脱壳反编译的步骤
       url: https://www.52pojie.cn/thread-2110136-1-1.html
-    - author: 芽衣
-      release_time: 2026.05.28 20:33:00
-      title: XPlayer 万能视频播放器 破解教程
-      url: https://www.52pojie.cn/thread-2110049-1-1.html
-    - author: rsds0duck
-      release_time: 2026.05.28 19:48:00
-      title: libjdg.so VM 逆向分析
-      url: https://www.52pojie.cn/thread-2110046-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Zedbully
+      release_time: 2026.06.22 23:26:47
+      title: '[原创]某游动态入侵实测：御盾加固 Android 动态注入防护实测'
+      url: https://bbs.kanxue.com/thread-291755.htm
+    - author: 太岁又沐风
+      release_time: 2026.06.22 18:29:29
+      title: '[原创]用 ClassLoader 计数对抗 LSPosed 隐藏：从看雪思路到 Android 16 落地与真机验证'
+      url: https://bbs.kanxue.com/thread-291750.htm
+    - author: Little_Z
+      release_time: 2026.06.22 16:50:18
+      title: '[原创]Claude Cowork 全自动跑通：海外加固 DexProtector 反 Frida 检测绕过实战'
+      url: https://bbs.kanxue.com/thread-291748.htm
+    - author: Zedbully
+      release_time: 2026.06.22 14:44:05
+      title: 只验签为什么挡不住二次打包：某盾vmp 重打包攻防测试
+      url: https://bbs.kanxue.com/thread-291745.htm
     - author: Zedbully
       release_time: 2026.06.22 00:24:43
       title: '[原创]某御盾IdaPro详细静态分析实测'
@@ -475,22 +491,6 @@
       release_time: 2026.06.09 16:26:03
       title: '[原创]内核驱动级内存读写的用户层检测与绕过：一次攻防对抗实践'
       url: https://bbs.kanxue.com/thread-291534.htm
-    - author: fkdxjz
-      release_time: 2026.06.08 17:44:34
-      title: '[原创]iOS Hook 终极兵器库：九种拦截机制到硬件级 PAC 绕过的硬核指南'
-      url: https://bbs.kanxue.com/thread-291522.htm
-    - author: 差不多的张三
-      release_time: 2026.06.08 14:59:12
-      title: '[原创]【银行逆向百例】18Android逆向之libDexHelper.so梆梆加固壳解密 frida-dexdump脱壳'
-      url: https://bbs.kanxue.com/thread-291515.htm
-    - author: FinSectech
-      release_time: 2026.06.06 12:45:33
-      title: '[原创]编译AOSP时解决flex版本兼容问题：从报错到一招“狸猫换太子”完美绕过'
-      url: https://bbs.kanxue.com/thread-291493.htm
-    - author: 泠潋
-      release_time: 2026.06.06 11:24:23
-      title: '[原创]某企业加固dex vmp简单分析'
-      url: https://bbs.kanxue.com/thread-291492.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
