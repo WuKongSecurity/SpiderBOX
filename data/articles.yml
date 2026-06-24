@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 丫总逆向
+      release_time: 2026.06.25 02:38:18
+      title: Shape F5补环境小记—AI的进化之路
+      url: https://mp.weixin.qq.com/s?__biz=MzU1NjQ2Njg4OA==&mid=2247484094&idx=1&sn=b73c08e48abba303ed9e6f64b38da9ff
     - author: 进击的HACK
       release_time: 2026.06.24 21:09:22
       title: 针对Spring框架的漏洞扫描工具
@@ -240,13 +244,13 @@
       release_time: 2026.06.18 20:25:19
       title: Frida学习笔记（二十一）：未导出函数定位 · 让脚本跨版本复用
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486568&idx=1&sn=0bd8cf87b0e57369e74f413fc06fa773
-    - author: 进击的HACK
-      release_time: 2026.06.18 19:12:49
-      title: 大模型 skills 由繁到简
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490202&idx=1&sn=11ddd8f5fcfc228e166d8d2ad0504290
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 220e285
+      release_time: 2026.06.24 23:05:00
+      title: ai逆向某智能摄像头APK逆向分析实战：脱壳、去签名校验全流程
+      url: https://www.52pojie.cn/thread-2114252-1-1.html
     - author: 我是小三
       release_time: 2026.06.24 17:00:00
       title: iOS DeviceCheck：苹果设备身份链与黑灰产对抗的攻防博弈
@@ -363,10 +367,6 @@
       release_time: 2026.06.02 09:50:00
       title: Android 逆向 Multi-Agent 系统设计
       url: https://www.52pojie.cn/thread-2110718-1-1.html
-    - author: JiGuro
-      release_time: 2026.05.31 19:29:00
-      title: 【多栈实战】某黑产软件全链路逆向实录 (上)
-      url: https://www.52pojie.cn/thread-2110455-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
