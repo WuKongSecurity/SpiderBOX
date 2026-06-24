@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.06.24 07:50:10
+      title: 鸿蒙(NEXT版本)Root研究
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500837&idx=1&sn=3696db8161ad4b6146c03883b4ca7c41
     - author: R逆向
       release_time: 2026.06.23 21:07:43
       title: 仅执行内存（XOM）如何让 Frida spawn 注入失败——从 17.15.2 的修复读底层机制
@@ -240,10 +244,6 @@
       release_time: 2026.06.18 08:00:00
       title: 云手机研究深入浅出
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500794&idx=1&sn=f4e096d0f8458be9244e79dbcb5f2e14
-    - author: 进击的HACK
-      release_time: 2026.06.17 21:06:21
-      title: 小技巧 | 企业微信H5开启webview调试
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490197&idx=1&sn=fec822819dd2af35555f3e25e7783da6
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
