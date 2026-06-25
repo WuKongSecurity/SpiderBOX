@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 影17
+      release_time: 2026.06.25 22:24:47
+      title: DeepSeek 头参Pow_Response生成分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247490796&idx=1&sn=6ff6fee4ab5ecfd9b7163fdd3ee556cc
     - author: 泡泡以安
       release_time: 2026.06.25 19:25:20
       title: Frida学习笔记（二十二）：JNI 函数追踪
@@ -240,10 +244,6 @@
       release_time: 2026.06.21 00:40:22
       title: AI逆向 kasada
       url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247483965&idx=1&sn=ac1b35442ad0a1340c8562312620764e
-    - author: Python成长路
-      release_time: 2026.06.20 20:26:17
-      title: 蚂蚁森林官方 AI 外挂
-      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486209&idx=1&sn=20cf297a72da4dd2c89d359c8f0f75c8
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
