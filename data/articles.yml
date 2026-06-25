@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 矛和盾的故事
+      release_time: 2026.06.26 00:00:00
+      title: 逆向某 AI App：设备注册与 AI 对话的完整协议分析
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MDc0MTY1MA==&mid=2247484140&idx=1&sn=2f59cd8b81f231b065672833e7c5213e
     - author: 影17
       release_time: 2026.06.25 22:24:47
       title: DeepSeek 头参Pow_Response生成分析
@@ -240,10 +244,6 @@
       release_time: 2026.06.21 18:46:42
       title: 工具推荐 | 网站篡改、暗链、死链监测工具
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490217&idx=1&sn=dc0c64879b8aad675d4dda3b3414bc35
-    - author: 桐梓坡低手
-      release_time: 2026.06.21 00:40:22
-      title: AI逆向 kasada
-      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247483965&idx=1&sn=ac1b35442ad0a1340c8562312620764e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
