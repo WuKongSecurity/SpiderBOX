@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 泡泡以安
+      release_time: 2026.06.25 19:25:20
+      title: Frida学习笔记（二十二）：JNI 函数追踪
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486572&idx=1&sn=928aa090e39c7ea5ba3a30ac925ba7a0
+    - author: 进击的HACK
+      release_time: 2026.06.25 18:25:29
+      title: Jenkins综合漏洞利用工具
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490233&idx=1&sn=3e2095c1b4a769b4d5966f90f5336108
     - author: 个人信息与数据保护实务评论
       release_time: 2026.06.25 15:55:28
       title: 欧盟启动收集各国 GDPR 执法分歧，跨境企业可直接提交反馈意见
@@ -236,14 +244,6 @@
       release_time: 2026.06.20 20:26:17
       title: 蚂蚁森林官方 AI 外挂
       url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486209&idx=1&sn=20cf297a72da4dd2c89d359c8f0f75c8
-    - author: 进击的HACK
-      release_time: 2026.06.20 20:16:38
-      title: 自动化信息泄露侦察工具 LeakDetector
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490211&idx=1&sn=30535534a4ad70427d285e9fb0dc4178
-    - author: 进击的HACK
-      release_time: 2026.06.19 21:52:39
-      title: 工具推荐 | 面向红队协作的控制平面型工作台
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490207&idx=1&sn=00394415588cef6454d0756d93023187
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
