@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: szh12123
+      release_time: 2026.06.25 21:36:00
+      title: 某股票网ab_sr参数逆向分析
+      url: https://www.52pojie.cn/thread-2114389-1-1.html
     - author: 220e285
       release_time: 2026.06.24 23:05:00
       title: ai逆向某智能摄像头APK逆向分析实战：脱壳、去签名校验全流程
@@ -363,10 +367,6 @@
       release_time: 2026.06.04 17:21:00
       title: TikTok 45.4.3 抓包之双网络栈证书校验分析
       url: https://www.52pojie.cn/thread-2111184-1-1.html
-    - author: vmoranv
-      release_time: 2026.06.02 20:51:00
-      title: '*班课 App 逆向分析'
-      url: https://www.52pojie.cn/thread-2110849-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
