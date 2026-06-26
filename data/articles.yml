@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: AngelToms
+      release_time: 2026.06.26 07:59:36
+      title: ab算法之完结
+      url: https://www.bilibili.com/video/BV1q27v6zEK3
     - author: 如意-浏览器开发培训
       release_time: 2026.06.23 21:49:17
       title: 瑞数6企业定制版-光某银行纯算
@@ -117,13 +121,17 @@
       release_time: 2026.06.02 13:45:56
       title: 高性能真机trace工具 xfqtrace 使用详解
       url: https://www.bilibili.com/video/BV1gtVq6dEBL
-    - author: 人生导师duck
-      release_time: 2026.06.02 00:26:54
-      title: 模型逆向这一块
-      url: https://www.bilibili.com/video/BV14VVf61EQD
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.06.26 10:28:33
+      title: HarmonyOS鸿蒙系统模拟器(OpenHarmony QEMU)-(一键源码下载、编译、启动脚本)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500873&idx=1&sn=0c87dd9af7f13328a8212b5286752cda
+    - author: 泡泡以安
+      release_time: 2026.06.26 08:17:00
+      title: Frida学习笔记（二十三）：SO Dump 与内存 Dump
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486576&idx=1&sn=ffb7fe27696c1115c26a344e7f7b115d
     - author: 矛和盾的故事
       release_time: 2026.06.26 00:00:00
       title: 逆向某 AI App：设备注册与 AI 对话的完整协议分析
@@ -236,14 +244,6 @@
       release_time: 2026.06.22 08:30:00
       title: 测试效率翻倍：这个Chrome插件让提Bug变成一键操作
       url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579112&idx=1&sn=b912bd929d4f662bf7657847741878af
-    - author: 小伍哥聊风控
-      release_time: 2026.06.21 22:00:19
-      title: Python中的字符串格式化基础和Prompt拼接
-      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650197223&idx=1&sn=398c2b31a9cb9509cbc8295043d0fec6
-    - author: 进击的HACK
-      release_time: 2026.06.21 18:46:42
-      title: 工具推荐 | 网站篡改、暗链、死链监测工具
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490217&idx=1&sn=dc0c64879b8aad675d4dda3b3414bc35
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
