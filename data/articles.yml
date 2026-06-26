@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 丫总逆向
+      release_time: 2026.06.26 22:18:05
+      title: F5 Shape通杀，v8 trace思路分享
+      url: https://mp.weixin.qq.com/s?__biz=MzU1NjQ2Njg4OA==&mid=2247484101&idx=1&sn=321b0170bf570ce37f00794c8a4aa99b
     - author: 进击的HACK
       release_time: 2026.06.26 18:47:22
       title: 萤火自动化应急响应工具
@@ -240,10 +244,6 @@
       release_time: 2026.06.22 18:40:12
       title: 用 ClassLoader 计数对抗 LSPosed 隐藏：从看雪思路到 Android 16 落地与真机验证
       url: https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NjA3Mw==&mid=2247483824&idx=1&sn=afcca4852761d6bb92c5715783e60e61
-    - author: 如意私塾
-      release_time: 2026.06.22 18:15:47
-      title: 小肩膀逆向skill，xiaojianbang-auto-reverse，他来了
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484840&idx=1&sn=259eb6d3b639a9497c86eba90e797545
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
