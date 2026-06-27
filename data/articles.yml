@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2026.06.27 14:57:32
+      title: 海外版"支付宝"最新GCash用frida和objection去hook逆向
+      url: https://www.bilibili.com/video/BV1DS7J6HEUv
     - author: AngelToms
       release_time: 2026.06.26 07:59:36
       title: ab算法之完结
@@ -117,10 +121,6 @@
       release_time: 2026.06.02 18:53:07
       title: ab算法之U18-U25
       url: https://www.bilibili.com/video/BV1r8VB6VEcY
-    - author: x1a0f3n9
-      release_time: 2026.06.02 13:45:56
-      title: 高性能真机trace工具 xfqtrace 使用详解
-      url: https://www.bilibili.com/video/BV1gtVq6dEBL
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
