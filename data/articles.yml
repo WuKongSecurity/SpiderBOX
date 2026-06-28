@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: AngelToms
+      release_time: 2026.06.28 17:49:25
+      title: ab算法之总结
+      url: https://www.bilibili.com/video/BV1mGTM6QEJC
     - author: 小肩膀-逆向安全培训
       release_time: 2026.06.27 17:19:38
       title: 小肩膀自动逆向Skill（xiaojianbang-auto-reverse）单卖299，包更新，私信up即可
@@ -117,10 +121,6 @@
       release_time: 2026.06.04 17:42:31
       title: 汉宾某讯wasm逆向
       url: https://www.bilibili.com/video/BV1PqEw6hEPo
-    - author: B站用户骚神
-      release_time: 2026.06.03 15:27:55
-      title: 【骚神插件V9.8.4】增加DevTool里无障碍树元素DrissionPage定位代码的生成和查重！！
-      url: https://www.bilibili.com/video/BV1jYVm6AEbg
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
