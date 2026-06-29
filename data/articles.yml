@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.06.29 10:50:09
+      title: 你的最后一套JS逆向课 | 10分钟解决某个相同的盾-吉祥/九元-航司实战秒
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484860&idx=1&sn=74d76b23bf3d5da276c1c7abc14fe949
     - author: 极验
       release_time: 2026.06.29 10:00:00
       title: 当 AI Agent越来越像人，企业该怎么识别“好人/坏人”？
@@ -240,10 +244,6 @@
       release_time: 2026.06.25 13:24:42
       title: 最新版TikTok四神参数逆向复盘
       url: https://mp.weixin.qq.com/s?__biz=Mzg3NDYzMDMwMw==&mid=2247483796&idx=1&sn=37bd92556c7876dfe34f7f87fff9712d
-    - author: 哆啦安全
-      release_time: 2026.06.25 10:23:48
-      title: Google Pixel8 Android15
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500846&idx=1&sn=e36fe912d632b8ecc52bc7490a924de0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
