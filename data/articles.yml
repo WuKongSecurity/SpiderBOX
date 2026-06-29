@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 极验
+      release_time: 2026.06.29 10:00:00
+      title: 当 AI Agent越来越像人，企业该怎么识别“好人/坏人”？
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724524&idx=1&sn=564ea635e8eadb8d49a33e15af81b587
     - author: 泡泡以安
       release_time: 2026.06.29 08:34:00
       title: Frida学习笔记（二十四）：Stalker 指令级追踪
@@ -240,10 +244,6 @@
       release_time: 2026.06.25 10:23:48
       title: Google Pixel8 Android15
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500846&idx=1&sn=e36fe912d632b8ecc52bc7490a924de0
-    - author: 丫总逆向
-      release_time: 2026.06.25 02:38:18
-      title: Shape F5补环境小记—AI的进化之路
-      url: https://mp.weixin.qq.com/s?__biz=MzU1NjQ2Njg4OA==&mid=2247484094&idx=1&sn=b73c08e48abba303ed9e6f64b38da9ff
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
