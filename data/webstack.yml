@@ -3425,6 +3425,13 @@
           url: https://app.onesproxy.com/api/channel_agent/track?user_source=1&invite_code=BVU825679
           description: OnesProxy 专注于提供优质的海外代理 IP 产品及服务，精准覆盖 190 个国家，提供静态原生住宅及动态住宅 IP，灵活应对多种业务场景。亿级住宅代理池，优质家宽IP，适配爬虫、批量注册、广告联盟等多种业务场景，极具竞争力的市场价格；提供多个国家的原生住宅 IP，源自真实家庭宽带，能完美适配电商、社交平台校验，降低账号异常风险；高纯净 IP，杜绝滥用关联问题；满足追求性价比，提供稳定机房 IP，低至 $0.38 起，节省运营成本
 
+        # 首笔15%，后续8% ==============================
+        - title: 9HTTP
+          logo: 9http.png
+          no_referral: true
+          url: https://dashboard.9http.com/auth/register?invite_code=J9V4TV93
+          description: 免费试用，稳定代理 IP，驱动数据采集与账号业务
+
         # 首笔12%，后续6% ==============================
         - title: FluxISP
           logo: fluxisp.png
@@ -3514,6 +3521,11 @@
           logo: proxy-seller.png
           url: https://proxy-seller.com/ # 需要扫描身份证完成 KYC 才能推广
           description: Buy private Socks5 & HTTPs proxies. Trusted for web scraping, ad verification, price monitoring, market research, and more
+        - title: Proxy Sale
+          logo: proxy-sale.png
+          url: https://proxy-sale.pro/
+          description: Residential proxies built for reliability. High success rate, stable sessions, and flexible usage
+
 #        - title: IPIDEA
 #          logo: ipidea.jpg
 #          url: https://share.ipidea.net/OLrYNd
@@ -5710,6 +5722,7 @@
   list:
     - term: MCP (网页端)
     - term: MCP (移动端)
+    - term: MCP (小程序)
     - term: MCP (抓包)
     - term: Skills (网页端)
     - term: Skills (移动端)
@@ -5899,6 +5912,17 @@
           url: https://github.com/getsentry/XcodeBuildMCP
           logo: github.png
           description: Xcode MCP，为在 iOS 和 macOS 项目上工作的 agent 提供工具
+
+    - name: MCP (小程序)
+      links:
+        - title: wx-mp-mcp
+          url: https://github.com/WhiteNightShadow/wx-mp-mcp
+          logo: wx-mp-mcp.png
+          description: 微信小程序逆向 MCP，在线实时解包 + AI 静态分析还原接口签名/加密，产出本地 Node.js 直接能跑的脚本（零侵入，不碰微信进程）
+        - title: miniapp-cdp-mcp
+          url: https://github.com/zhizhuodemao/miniapp-cdp-mcp
+          logo: github.png
+          description: 微信小程序逆向工程 MCP 服务器，让你的 AI 编码助手（如 Claude、Cursor、Antigravity）能够直接通过 Chrome DevTools Protocol (CDP) 调试和分析微信小程序（包括微信开发者工具或 PC 端微信小程序）中的 JavaScript 代码
 
     - name: MCP (抓包)
       links:
