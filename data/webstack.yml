@@ -6117,6 +6117,10 @@
           url: https://github.com/akiselev/ghidra-cli
           logo: github.png
           description: 高性能的 Rust CLI 工具，用于自动化 Ghidra 逆向工程任务，设计用于直接使用和 AI 代理集成（如 Claude Code）
+        - title: ida-agent-bridge
+          url: https://github.com/TsingShui/ida-agent-bridge
+          logo: github.png
+          description: CLI 优先、无头、AI-Native 的 IDA Pro 分析桥，遵循 Unix 设计哲学。每条命令输出纯文本，与 grep、sort、awk、jq 等工具自然组合；反编译结果实时同步到本地文件系统——Agent 像读文件一样读二进制，脚本像管道一样串联分析流程
 
     - name: 综合分类
       links:
