@@ -3427,7 +3427,7 @@
 
         # 首笔15%，后续8% ==============================
         - title: 9HTTP
-          logo: 9http.png
+          logo: 9h.png
           no_referral: true
           url: https://dashboard.9http.com/auth/register?invite_code=J9V4TV93
           description: 免费试用，稳定代理 IP，驱动数据采集与账号业务
