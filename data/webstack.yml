@@ -3413,6 +3413,11 @@
           description: 高质量住宅代理低至 $0.55/GB，覆盖全球 200+ 地区，为社媒营销和多账号管理提供稳定支持
 
         # 8% ==============================
+        - title: IPRocket
+          logo: iprocket.png
+          no_referral: true
+          url: https://iprocket.io?viteCode=2HeiSlpe
+          description: IPRocket 是一家领先的住宅 IP 代理服务商提供高纯度的 IP 资源，专为企业市场调研、数据分析、电子商务等多种业务需求设计。IPRocket 的 IP 资源来自真实住宅 IP，提供更高的安全性，并降低被封禁的风险。用户可以从不同国家、城市和运营商中选择 IP，适用于账号注册、电子商务、数据采集、市场调研和网络营销等场景，并能够与云手机、指纹浏览器、模拟器等软件轻松集成
         - title: 荔枝 IP
           logo: lycheeip.png
           no_referral: true
@@ -3471,11 +3476,6 @@
           no_referral: true
           url: https://proxy001.com/index/index/promotion&u=110WmOC411
           description: 100M+ residential IPs in 200+ locations. 99.9% uptime, <0.3s speed. From $0.55/GB. SOCKS5/HTTP(S) supported. Start with Proxy001 today
-        - title: IPRocket
-          logo: iprocket.png
-          no_referral: true
-          url: https://iprocket.io?viteCode=2HeiSlpe
-          description: IPRocket 是一家领先的住宅 IP 代理服务商提供高纯度的 IP 资源，专为企业市场调研、数据分析、电子商务等多种业务需求设计。IPRocket 的 IP 资源来自真实住宅 IP，提供更高的安全性，并降低被封禁的风险。用户可以从不同国家、城市和运营商中选择 IP，适用于账号注册、电子商务、数据采集、市场调研和网络营销等场景，并能够与云手机、指纹浏览器、模拟器等软件轻松集成
 
         # 2% ==================================
         - title: nstproxy
