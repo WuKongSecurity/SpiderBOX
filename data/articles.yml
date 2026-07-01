@@ -2,6 +2,10 @@
   list:
   - links:
     - author: r0ysue
+      release_time: 2026.07.01 18:10:30
+      title: 最新海外版"支付宝"GCash脱壳修复获取验证码生成完整逻辑
+      url: https://www.bilibili.com/video/BV1D5Tv6NECs
+    - author: r0ysue
       release_time: 2026.06.30 17:59:04
       title: 最新版海外"支付宝"GCash过检测环境抓包登录包验证码
       url: https://www.bilibili.com/video/BV1eWTF6GEqS
@@ -117,13 +121,25 @@
       release_time: 2026.06.06 09:17:49
       title: 知乎zse_ck参数wasm+vmp
       url: https://www.bilibili.com/video/BV1gF7m68E6r
-    - author: AngelToms
-      release_time: 2026.06.05 12:18:55
-      title: ab算法之U26-U56
-      url: https://www.bilibili.com/video/BV1fQ7r68ESB
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.07.01 16:42:55
+      title: 美最高法院连裁查特里案与斯劳特案两案，后者或将影响欧美数据跨境传输法律基础
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520378&idx=1&sn=6a5fe685d8870948d738fdfbb188173b
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.07.01 16:42:55
+      title: 重庆市通信管理局通报侵害用户权益APP名单
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520378&idx=2&sn=9625ad0a4a3b6766a15e80c459e83a6d
+    - author: 反爬破解社
+      release_time: 2026.07.01 15:26:38
+      title: 网络指纹篇：TLS指纹、HTTP2指纹、IP信誉与代理检测
+      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483885&idx=1&sn=c0ba8dd9a4cd0424655108d744b8fe22
+    - author: 反爬破解社
+      release_time: 2026.07.01 15:26:38
+      title: 枕头里面放上它，助眠！每天枕着睡觉，梦里都有草本香！
+      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483885&idx=2&sn=5149033c5415202b7c11a0c14027dc94
     - author: 哆啦安全
       release_time: 2026.07.01 08:05:34
       title: Ubuntu20.04搭建KVM虚拟化环境
@@ -228,22 +244,6 @@
       release_time: 2026.06.28 22:18:12
       title: 九新红米Note13解锁内核模块定制隐藏环境过多数企业壳frida检测
       url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486228&idx=6&sn=bb7af7f79ea7232df3269bd64c45965d
-    - author: 大数据安全技术学习
-      release_time: 2026.06.28 22:18:12
-      title: APP2025.24.roothide绕过海外支付企业壳越狱检测
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486228&idx=7&sn=0e291d9a65a0a39db5ddecfc7a02ab10
-    - author: 如意私塾
-      release_time: 2026.06.28 17:23:08
-      title: 你的最后一套JS逆向课 | 2026最后的JS逆向教程akamai/kasada/reese84/231/140/等等
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484854&idx=1&sn=94476621806472ca2450771b5a358a26
-    - author: 未闻Code
-      release_time: 2026.06.28 17:22:06
-      title: 我觉得现在很多 Multi-Agent设计，都把顺序搞反了
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991649&idx=1&sn=f91456ea2d6a08050cb646b5d631ac56
-    - author: 桐梓坡低手
-      release_time: 2026.06.28 16:09:37
-      title: ruyitrace 大赦天下（2）
-      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247483992&idx=1&sn=861be764b3c94faec29a29bd64e28446
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 北袅
+      release_time: 2026.07.01 15:30:15
+      title: '[原创]获取jni函数地址'
+      url: https://bbs.kanxue.com/thread-291836.htm
     - author: 一只鸭子
       release_time: 2026.06.30 13:53:21
       title: '[原创] 某 PUBG 内核辅助逆向分析'
@@ -486,10 +490,6 @@
       release_time: 2026.06.19 09:52:20
       title: '[原创]编译最新版本浏览器'
       url: https://bbs.kanxue.com/thread-291690.htm
-    - author: 太岁又沐风
-      release_time: 2026.06.18 12:43:46
-      title: '[原创]复现并修掉ART hook框架 Pine 调用原方法时的偶发 SIGSEGV'
-      url: https://bbs.kanxue.com/thread-291681.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
