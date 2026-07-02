@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: andy_wang425
+      release_time: 2026.07.02 00:52:00
+      title: Claude Code 隐蔽遥测行为分析
+      url: https://www.52pojie.cn/thread-2115277-1-1.html
     - author: hitachimako
       release_time: 2026.07.01 18:24:00
       title: iOS App的商业级环境检测手段 - 基于某讯A<E Framework 详解
@@ -363,10 +367,6 @@
       release_time: 2026.06.05 20:03:00
       title: 跨进程内存读写的攻防博弈：从内核缺页陷阱到应用层数据溯源
       url: https://www.52pojie.cn/thread-2111373-1-1.html
-    - author: qiangcxq
-      release_time: 2026.06.05 14:14:00
-      title: 雷电9 Android9 + Burp + Frida 抓包实操
-      url: https://www.52pojie.cn/thread-2111305-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
