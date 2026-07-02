@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2026.07.02 15:03:42
+      title: Claude Code 隐蔽遥测行为分析
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144616&idx=1&sn=d02e45c342d6ca75eaffe66bcd0e7edb
+    - author: 如意私塾
+      release_time: 2026.07.02 12:55:52
+      title: 完整实现魔改Firefox火狐浏览器一个浏览器一个图标序号
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484890&idx=1&sn=a6a8bfe5ebefe19c7b35125c5422462e
     - author: 哆啦安全
       release_time: 2026.07.02 12:07:42
       title: OpenHarmony6.1 ARM64/x86_64 QEMU模拟器一键搭建
@@ -236,14 +244,6 @@
       release_time: 2026.06.29 07:44:02
       title: Pixel 8 AOSP低内存编译：AOSP编译Soong阶段OOM被杀(11GB内存不足)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500912&idx=1&sn=2e4d5166cb69015bd0bbf55ff9c1b4f4
-    - author: R逆向
-      release_time: 2026.06.29 00:51:21
-      title: 抖音抓包LSPosed插件多版本可用的技术刨析
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NjA3Mw==&mid=2247483839&idx=1&sn=8793c0a7396029b13a6cd4bb6c63f0bc
-    - author: 大数据安全技术学习
-      release_time: 2026.06.28 22:18:12
-      title: AI手机(直播预告)：10.pixel6刷安卓17打造个人AI手机爬虫
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486228&idx=1&sn=e2ade5052ed7e35dbf2c0844cf7a7bb0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
