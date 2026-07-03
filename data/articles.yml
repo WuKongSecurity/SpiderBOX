@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 将往的爬虫逆向日记
+      release_time: 2026.07.03 20:59:39
+      title: 电力交易员都在用的免费插件20.3版本：算法不行，起卦预测。基于电力交易进行深度优化的易学预测系统
+      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862608&idx=1&sn=6d6147cf60fc9b6e4cb2237c7f2f0ece
     - author: 进击的HACK
       release_time: 2026.07.03 18:15:39
       title: 一键挖掘 CVE 工具 AutoCVE
@@ -240,10 +244,6 @@
       release_time: 2026.06.30 11:28:28
       title: 安卓游戏逆向 -- Frida Hook 绕过碰撞死亡判定
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041776&idx=1&sn=82e2de88b745ef737836882dc26353e9
-    - author: 如意私塾
-      release_time: 2026.06.30 10:45:30
-      title: 你的最后一套JS逆向课 | JSVMP突破 | 某商详w_tsfp参数请求商品
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484866&idx=1&sn=6bc0682f41344a069f60c833fba3dad1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
