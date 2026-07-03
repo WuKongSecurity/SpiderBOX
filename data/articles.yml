@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.07.03 18:15:39
+      title: 一键挖掘 CVE 工具 AutoCVE
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490271&idx=1&sn=fc130763da800caf6bb6aa55b69fc87b
     - author: 哆啦安全
       release_time: 2026.07.03 12:13:52
       title: Android10至16系统ROM定制(绕过检测方法)
@@ -240,10 +244,6 @@
       release_time: 2026.06.30 10:45:30
       title: 你的最后一套JS逆向课 | JSVMP突破 | 某商详w_tsfp参数请求商品
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484866&idx=1&sn=6bc0682f41344a069f60c833fba3dad1
-    - author: 哆啦安全
-      release_time: 2026.06.30 10:12:10
-      title: 鸿蒙(HarmonyOS)病毒智能检测工具V5.3
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500928&idx=1&sn=b969ca59b839028f908e3f4658d2167d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
