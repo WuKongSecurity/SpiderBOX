@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: LK安全
+      release_time: 2026.07.04 18:40:46
+      title: '实战记录: ai如何13分钟挖掘出国内某大型报表未授权RCE'
+      url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486864&idx=1&sn=a19a60985dcb411d85e6c21bf55111f3
     - author: 反爬破解社
       release_time: 2026.07.04 11:05:15
       title: 综合实战篇：构建一个能够绕过大多数风控的智能爬虫系统
@@ -240,10 +244,6 @@
       release_time: 2026.06.30 16:51:45
       title: 上海首个数据出境负面清单备案落地静安，北京首批“两区”数据出境负面清单备案落地朝阳
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520354&idx=1&sn=08e7058ab5f6fb1335746e5180a651ea
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.06.30 16:51:45
-      title: 欧盟正式批准AI Act简化法案，高风险AI合规义务延期生效
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520354&idx=2&sn=766386ebba40ab3b5cefd4800bc57dc6
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
