@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 反爬破解社
+      release_time: 2026.07.04 11:05:15
+      title: 综合实战篇：构建一个能够绕过大多数风控的智能爬虫系统
+      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483898&idx=1&sn=32741e9aa974912e521632e6e1257cd2
+    - author: 反爬破解社
+      release_time: 2026.07.04 11:05:15
+      title: 岩烧咖啡黑巧饼干，不仅有咖啡的浓香，还能饱腹，当早餐妥妥的~
+      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483898&idx=2&sn=79f4851d3cabaabfd0d74bff9624b527
+    - author: 如意私塾
+      release_time: 2026.07.04 10:04:00
+      title: 你的最后一套JS逆向课 | JD最新滑块3小时速通
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484895&idx=1&sn=390c19b3c1e0c47025283b57ac6eee0e
     - author: 将往的爬虫逆向日记
       release_time: 2026.07.03 20:59:39
       title: 电力交易员都在用的免费插件20.3版本：算法不行，起卦预测。基于电力交易进行深度优化的易学预测系统
@@ -232,18 +244,6 @@
       release_time: 2026.06.30 16:51:45
       title: 欧盟正式批准AI Act简化法案，高风险AI合规义务延期生效
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520354&idx=2&sn=766386ebba40ab3b5cefd4800bc57dc6
-    - author: 反爬破解社
-      release_time: 2026.06.30 14:10:01
-      title: 账号风控篇：如何打造"清白"的注册环境
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483872&idx=1&sn=74b154bd2de114906414d17b3d220bec
-    - author: AI爬盒
-      release_time: 2026.06.30 13:00:13
-      title: wx-mp-mcp：微信PC小程序在线解包MCP
-      url: https://mp.weixin.qq.com/s?__biz=MzcwMzIxNDAxMQ==&mid=2247483755&idx=1&sn=cb996ee3966ec6841572fecaf04992c5
-    - author: 逆向有你
-      release_time: 2026.06.30 11:28:28
-      title: 安卓游戏逆向 -- Frida Hook 绕过碰撞死亡判定
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041776&idx=1&sn=82e2de88b745ef737836882dc26353e9
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: mb_jepgtozh
+      release_time: 2026.07.04 16:44:38
+      title: '[原创]Wechat H5 DevTools'
+      url: https://bbs.kanxue.com/thread-291879.htm
     - author: lingyi223
       release_time: 2026.07.04 15:37:32
       title: '[原创]乐校园跑协议分析'
@@ -486,10 +490,6 @@
       release_time: 2026.06.22 14:44:05
       title: 只验签为什么挡不住二次打包：某盾vmp 重打包攻防测试
       url: https://bbs.kanxue.com/thread-291745.htm
-    - author: Zedbully
-      release_time: 2026.06.22 00:24:43
-      title: '[原创]某御盾IdaPro详细静态分析实测'
-      url: https://bbs.kanxue.com/thread-291739.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
