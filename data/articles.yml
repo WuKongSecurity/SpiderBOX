@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: EithanSolace
+      release_time: 2026.07.04 21:22:36
+      title: 密码学补完计划[第三十六期] HMAC(后篇)
+      url: https://www.bilibili.com/video/BV1DMMN6DEgC
     - author: AngelToms
       release_time: 2026.07.03 09:34:17
       title: 直播间通讯sign算法4-2
@@ -117,13 +121,17 @@
       release_time: 2026.06.06 10:28:43
       title: youzi-env js逆向补环境框架
       url: https://www.bilibili.com/video/BV1mD7S6AEdv
-    - author: 学逆向的柚子
-      release_time: 2026.06.06 10:10:48
-      title: 6月5日
-      url: https://www.bilibili.com/video/BV11d7S6fEub
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: DrissionPage
+      release_time: 2026.07.04 21:10:15
+      title: DrissionPage控制手机上的Chrome
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzczMw==&mid=2247483901&idx=1&sn=eb377165a0249419bc8314f8e9879801
+    - author: 进击的HACK
+      release_time: 2026.07.04 21:04:31
+      title: 项目推荐 | 搜索好用的网络安全开源工具
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490275&idx=1&sn=560fd6575e50fd2e7fe28cd1aec98153
     - author: LK安全
       release_time: 2026.07.04 18:40:46
       title: '实战记录: ai如何13分钟挖掘出国内某大型报表未授权RCE'
@@ -236,14 +244,6 @@
       release_time: 2026.06.30 22:01:22
       title: 某些电力公司脸都不要了，直接就开始把免费工具偷进付费工具里？
       url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862599&idx=1&sn=4903ad6bd09d6da176e6f7312e55dff5
-    - author: 进击的HACK
-      release_time: 2026.06.30 20:01:37
-      title: 能探测 MCP、LLM 的AgentScan
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490259&idx=1&sn=22b20e192ddfb511a62556ec6e01bae6
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.06.30 16:51:45
-      title: 上海首个数据出境负面清单备案落地静安，北京首批“两区”数据出境负面清单备案落地朝阳
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520354&idx=1&sn=08e7058ab5f6fb1335746e5180a651ea
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
