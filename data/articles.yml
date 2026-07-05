@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 学逆向的柚子
+      release_time: 2026.07.05 14:28:47
+      title: 小黄人与大怪兽app直接看
+      url: https://www.bilibili.com/video/BV1PmMM6QEbD
     - author: EithanSolace
       release_time: 2026.07.04 21:22:36
       title: 密码学补完计划[第三十六期] HMAC(后篇)
@@ -117,10 +121,6 @@
       release_time: 2026.06.06 22:20:55
       title: 密码学补完计划[第三十五期] HMAC(前篇)
       url: https://www.bilibili.com/video/BV1urEJ6QEP9
-    - author: 学逆向的柚子
-      release_time: 2026.06.06 10:28:43
-      title: youzi-env js逆向补环境框架
-      url: https://www.bilibili.com/video/BV1mD7S6AEdv
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
