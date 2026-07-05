@@ -1,0 +1,23 @@
+{{ with .Site.Data.sidead }}
+{{ if and .enable .image }}
+<div id="side-ad" class="side-ad">
+    <button type="button" class="side-ad-close" aria-label="关闭广告">&times;</button>
+    <a href="{{ .url }}" class="side-ad-link" target="_blank" rel="noopener" {{ with .track }} onclick="LA.track('{{ . }}');" {{ end }}>
+        <img src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ .image }}" class="side-ad-img" alt="{{ .description }}" loading="lazy">
+    </a>
+</div>
+<script>
+    (function () {
+        var ad = document.getElementById('side-ad');
+        if (!ad) return;
+        var btn = ad.querySelector('.side-ad-close');
+        if (btn) {
+            btn.addEventListener('click', function () {
+                ad.style.display = 'none';
+                try { localStorage.setItem(KEY, String(Date.now() + TTL)); } catch (e) {}
+            });
+        }
+    })();
+</script>
+{{ end }}
+{{ end }}
