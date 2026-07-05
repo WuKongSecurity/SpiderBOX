@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 冷月不是程序员
+      release_time: 2026.07.05 21:30:48
+      title: 【教程】一个视频带你实操内存修改器
+      url: https://www.bilibili.com/video/BV1tBT168EwH
     - author: 学逆向的柚子
       release_time: 2026.07.05 14:28:47
       title: 小黄人与大怪兽app直接看
@@ -117,13 +121,13 @@
       release_time: 2026.06.07 13:43:55
       title: 5分钟带你拆解Linux软件安装包
       url: https://www.bilibili.com/video/BV1zDE46ZEyL
-    - author: EithanSolace
-      release_time: 2026.06.06 22:20:55
-      title: 密码学补完计划[第三十五期] HMAC(前篇)
-      url: https://www.bilibili.com/video/BV1urEJ6QEP9
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.07.05 21:30:11
+      title: 六月渗透常用浏览器插件
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490279&idx=1&sn=eea77bf5df18ec5e32a33a648dcb8970
     - author: 反爬破解社
       release_time: 2026.07.05 19:52:15
       title: 第1章：App逆向的全局视角
@@ -240,10 +244,6 @@
       release_time: 2026.07.01 21:01:24
       title: ruyiTrace秒杀JD环境数组
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484887&idx=1&sn=7bf13f72c91fe1b9b2b49a169123ffc8
-    - author: 零基础爬虫第一天
-      release_time: 2026.07.01 20:12:23
-      title: frida源码学习4-ADB 协议详解与 CDP 对比
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484503&idx=1&sn=d89d55b187323e27e937a7a9fdddfcc4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Ankeys
+      release_time: 2026.07.05 21:35:31
+      title: Vibe了一个Binder监控App行为的小玩具
+      url: https://bbs.kanxue.com/thread-291885.htm
     - author: mb_jepgtozh
       release_time: 2026.07.04 16:44:38
       title: '[原创]Wechat H5 DevTools'
@@ -486,10 +490,6 @@
       release_time: 2026.06.22 16:50:18
       title: '[原创]Claude Cowork 全自动跑通：海外加固 DexProtector 反 Frida 检测绕过实战'
       url: https://bbs.kanxue.com/thread-291748.htm
-    - author: Zedbully
-      release_time: 2026.06.22 14:44:05
-      title: 只验签为什么挡不住二次打包：某盾vmp 重打包攻防测试
-      url: https://bbs.kanxue.com/thread-291745.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
