@@ -124,6 +124,46 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2026.07.05 19:23:46
+      title: 3.7万人收藏的 AI 开源项目！断网也能救命！一台真正离线的生存 AI 电脑！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991652&idx=1&sn=e6292943a8efe16420b264826308d55b
+    - author: 小伍哥聊风控
+      release_time: 2026.07.05 16:05:30
+      title: 训练你的第一个「鉴黄」大模型，Qwen3.5_0.8B微调实战详解
+      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650197244&idx=1&sn=8a55f73c7a89bece82b76df3d437fd9e
+    - author: DrissionPage
+      release_time: 2026.07.05 15:05:35
+      title: DrissionPage控制手机Chrome升级版
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzczMw==&mid=2247483939&idx=1&sn=a3e85514c723c4eeed90a67fda3150b1
+    - author: 桐梓坡低手
+      release_time: 2026.07.05 13:03:09
+      title: 站在巨人的肩膀上（shape 234 reese84）
+      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247484013&idx=1&sn=345a22272ba3114027b1fcfd0ef1126f
+    - author: 哆啦安全
+      release_time: 2026.07.05 12:44:41
+      title: 避坑指南：交完定金才说“内存可能不兼容”？电脑城买电脑实录，揭开那个“亏本报价”的骗局！
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500973&idx=1&sn=5160827674950ea44eb22fc5f8308f17
+    - author: 如意私塾
+      release_time: 2026.07.05 11:46:57
+      title: ruyiTrace攻克F5 Shape-西南航空
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484901&idx=1&sn=e4834aeda98151d8671fc5e5ce1676d7
+    - author: 二进制磨剑
+      release_time: 2026.07.05 09:00:00
+      title: '高考毕业季 | 信息安全: 从迷茫到大厂SSP：一个信安学生的四年安全路'
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486133&idx=1&sn=3550162841d9e0f98165b86b0ce53c5b
+    - author: 零基础爬虫第一天
+      release_time: 2026.07.05 08:31:15
+      title: frida源码学习8-Gumjs及agent-glue.c详解
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484662&idx=1&sn=f3a2e48e0de658d8db511cd502d7e037
+    - author: 零基础爬虫第一天
+      release_time: 2026.07.05 08:30:09
+      title: frida源码学习7-DBus协议详解
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484661&idx=1&sn=66a570127bb4706415dbb4f8a6a2f132
+    - author: 零基础爬虫第一天
+      release_time: 2026.07.05 08:29:03
+      title: frida源码学习6-Session创建（attach/spawn）
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484660&idx=1&sn=4791186e03c4bae8984489ad2aa89612
     - author: DrissionPage
       release_time: 2026.07.04 21:10:15
       title: DrissionPage控制手机上的Chrome
@@ -204,49 +244,13 @@
       release_time: 2026.07.01 20:03:35
       title: frida源码学习3-Attach流程2
       url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484494&idx=1&sn=ca0de00551bf13758b7c6812ad62d4f7
-    - author: 进击的HACK
-      release_time: 2026.07.01 19:03:44
-      title: 该转战 codex
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490263&idx=1&sn=6e12f6afd35b0ef7bde4995e24c8c6d6
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.07.01 16:42:55
-      title: 美最高法院连裁查特里案与斯劳特案两案，后者或将影响欧美数据跨境传输法律基础
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520378&idx=1&sn=6a5fe685d8870948d738fdfbb188173b
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.07.01 16:42:55
-      title: 重庆市通信管理局通报侵害用户权益APP名单
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520378&idx=2&sn=9625ad0a4a3b6766a15e80c459e83a6d
-    - author: 反爬破解社
-      release_time: 2026.07.01 15:26:38
-      title: 网络指纹篇：TLS指纹、HTTP2指纹、IP信誉与代理检测
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483885&idx=1&sn=c0ba8dd9a4cd0424655108d744b8fe22
-    - author: 反爬破解社
-      release_time: 2026.07.01 15:26:38
-      title: 枕头里面放上它，助眠！每天枕着睡觉，梦里都有草本香！
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483885&idx=2&sn=5149033c5415202b7c11a0c14027dc94
-    - author: 哆啦安全
-      release_time: 2026.07.01 08:05:34
-      title: Ubuntu20.04搭建KVM虚拟化环境
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500932&idx=1&sn=4d73b3025102ff513548a9902880e293
-    - author: 零基础爬虫第一天
-      release_time: 2026.06.30 23:34:56
-      title: frida源码学习2-Attach流程1
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484485&idx=1&sn=1d3dc86208f845108231e86d56cd54de
-    - author: 零基础爬虫第一天
-      release_time: 2026.06.30 23:28:21
-      title: frida源码学习1-Cpython引用计数/GIL
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484484&idx=1&sn=d6f534dbd9e7a9017f1ab591a148c555
-    - author: 零基础爬虫第一天
-      release_time: 2026.06.30 23:18:56
-      title: frida源码学习0-Cpython扩展
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484473&idx=1&sn=ac45eea18fb81d6a4dcde2dbf0c3a4e4
-    - author: 将往的爬虫逆向日记
-      release_time: 2026.06.30 22:01:22
-      title: 某些电力公司脸都不要了，直接就开始把免费工具偷进付费工具里？
-      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862599&idx=1&sn=4903ad6bd09d6da176e6f7312e55dff5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: wolfSpicy
+      release_time: 2026.07.05 12:31:00
+      title: 【原创】V8 JSC反编译成JS
+      url: https://www.52pojie.cn/thread-2115726-1-1.html
     - author: andy_wang425
       release_time: 2026.07.02 00:52:00
       title: Claude Code 隐蔽遥测行为分析
@@ -363,10 +367,6 @@
       release_time: 2026.06.05 20:04:00
       title: 内存访问蜜罐页的五次进化：从静态陷阱到多维度 PMU 统计检测
       url: https://www.52pojie.cn/thread-2111376-1-1.html
-    - author: jbczzz
-      release_time: 2026.06.05 20:03:00
-      title: 跨进程内存读写的攻防博弈：从内核缺页陷阱到应用层数据溯源
-      url: https://www.52pojie.cn/thread-2111373-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
