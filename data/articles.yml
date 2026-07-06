@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: DrissionPage
+      release_time: 2026.07.06 08:30:00
+      title: 5.0.0b0 删除ChromiumPage
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzczMw==&mid=2247483946&idx=1&sn=11b49ad65f75404158703a1cfc64de85
+    - author: 测试工程师成长之路
+      release_time: 2026.07.06 08:30:00
+      title: 15MB 的开源工具，把 Navicat 和 DataGrip 的活都干了
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579159&idx=1&sn=c78fe0fb9a85fa0ca5b31a5fe8a105d4
+    - author: Coder小Q
+      release_time: 2026.07.06 08:30:00
+      title: 【密码学】门限 FALCON 签名算法解读
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495772&idx=1&sn=290e34e41b3727ae07d18c19daf29cce
+    - author: 哆啦安全
+      release_time: 2026.07.06 08:00:00
+      title: OpenHarmony6.1 ARM64 QEMU模拟器源码编译
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500985&idx=1&sn=ff00e6dd65704d6db3dcb8e3d5aa78b4
     - author: 进击的HACK
       release_time: 2026.07.05 21:30:11
       title: 六月渗透常用浏览器插件
@@ -228,22 +244,6 @@
       release_time: 2026.07.02 16:00:20
       title: 为什么越来越多“看起来很真”的账号，其实是被做出来的
       url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724536&idx=1&sn=d088e2d52ed7bb1a209a8ffebc406a3c
-    - author: 吾爱破解论坛
-      release_time: 2026.07.02 15:03:42
-      title: Claude Code 隐蔽遥测行为分析
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144616&idx=1&sn=d02e45c342d6ca75eaffe66bcd0e7edb
-    - author: 如意私塾
-      release_time: 2026.07.02 12:55:52
-      title: 完整实现魔改Firefox火狐浏览器一个浏览器一个图标序号
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484890&idx=1&sn=a6a8bfe5ebefe19c7b35125c5422462e
-    - author: 哆啦安全
-      release_time: 2026.07.02 12:07:42
-      title: OpenHarmony6.1 ARM64/x86_64 QEMU模拟器一键搭建
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500951&idx=1&sn=cb1ab414563c23447d347e4385b756f7
-    - author: 如意私塾
-      release_time: 2026.07.01 21:01:24
-      title: ruyiTrace秒杀JD环境数组
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484887&idx=1&sn=7bf13f72c91fe1b9b2b49a169123ffc8
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
