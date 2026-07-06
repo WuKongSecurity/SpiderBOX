@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 大数据安全技术学习
+      release_time: 2026.07.06 23:00:00
+      title: AI手机(直播预告)：12.AI手机系统OpenCyvis架构设计与核心原理
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486235&idx=1&sn=bd5790e5e3754ee55b32d9e4ab010d7e
+    - author: 大数据安全技术学习
+      release_time: 2026.07.06 23:00:00
+      title: 奋斗者计划，助你升职加薪|阿里云、米哈游、阿里巴巴直推
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486235&idx=2&sn=0887791b8f7f3defbd9522dac354465c
     - author: 进击的HACK
       release_time: 2026.07.06 21:02:41
       title: 面向APP/Web 加解密逆向分析的工具
@@ -236,14 +244,6 @@
       release_time: 2026.07.03 20:59:39
       title: 电力交易员都在用的免费插件20.3版本：算法不行，起卦预测。基于电力交易进行深度优化的易学预测系统
       url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862608&idx=1&sn=6d6147cf60fc9b6e4cb2237c7f2f0ece
-    - author: 进击的HACK
-      release_time: 2026.07.03 18:15:39
-      title: 一键挖掘 CVE 工具 AutoCVE
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490271&idx=1&sn=fc130763da800caf6bb6aa55b69fc87b
-    - author: 哆啦安全
-      release_time: 2026.07.03 12:13:52
-      title: Android10至16系统ROM定制(绕过检测方法)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500957&idx=1&sn=3a64aba80472e5095ed15c34da581830
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
