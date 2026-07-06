@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2026.07.06 08:04:54
+      title: 【骚神插件V9.8.6】-新增智能网页工具栏，可免费白嫖各大AI厂商无限算力
+      url: https://www.bilibili.com/video/BV1zfTm6XE5a
     - author: 冷月不是程序员
       release_time: 2026.07.05 21:30:48
       title: 【教程】一个视频带你实操内存修改器
@@ -117,10 +121,6 @@
       release_time: 2026.06.09 00:25:50
       title: js逆向百例-30-spiderdemo vmp
       url: https://www.bilibili.com/video/BV12hE36xErS
-    - author: 冷月不是程序员
-      release_time: 2026.06.07 13:43:55
-      title: 5分钟带你拆解Linux软件安装包
-      url: https://www.bilibili.com/video/BV1zDE46ZEyL
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
