@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.07.06 21:02:41
+      title: 面向APP/Web 加解密逆向分析的工具
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490286&idx=1&sn=89d9f23cd0c0559095dc894d85155744
+    - author: 反爬破解社
+      release_time: 2026.07.06 19:47:48
+      title: 第2章：环境搭建——工欲善其事必先利其器
+      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483903&idx=1&sn=d8fdafb8fdced9a08a1f1a15859f18c0
     - author: 吾爱破解论坛
       release_time: 2026.07.06 14:54:03
       title: 基于文本匹配的VMP还原思路
@@ -236,14 +244,6 @@
       release_time: 2026.07.03 12:13:52
       title: Android10至16系统ROM定制(绕过检测方法)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500957&idx=1&sn=3a64aba80472e5095ed15c34da581830
-    - author: 反爬破解社
-      release_time: 2026.07.03 10:55:54
-      title: 行为分析篇：如何模拟人类行为，避免行为模型检测？
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483890&idx=1&sn=954076618fbe8e10d1c35c67fb7a9a45
-    - author: 进击的HACK
-      release_time: 2026.07.02 21:10:53
-      title: 双层MITM实现Burpsuite明文抓包
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490267&idx=1&sn=4f4b54703ba2573f4962aeacc202e744
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
