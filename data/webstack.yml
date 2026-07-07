@@ -1603,6 +1603,10 @@
           logo: github.png
           url: https://github.com/lasting-yang/frida_dump
           description: frida dump dex, frida dump so
+        - title: JDex2
+          logo: github.png
+          url: https://github.com/J5now/JDex2
+          description: 基于 Xposed / Lsposed 的主动调用抽取壳脱壳工具
         - title: ApkCheckPack
           logo: github.png
           url: https://github.com/moyuwa/ApkCheckPack
@@ -2120,6 +2124,10 @@
           logo: github.png
           url: https://github.com/1193776794/launch_
           description: 一款开源的 Android 安全检测与设备指纹采集工具
+        - title: RiskEngine
+          logo: github.png
+          url: https://github.com/WsttXm/RiskEngine
+          description: Android 本地设备指纹采集与运行环境风险检测 SDK。采用 Java + C++17 双层架构，负责采集设备信号、执行环境检测，并向宿主应用返回结构化的 RiskReport
         - title: sentry
           logo: github.png
           url: https://github.com/taisuii/sentry
