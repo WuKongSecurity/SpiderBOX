@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向搅屎棍
+      release_time: 2026.07.07 10:29:07
+      title: Spider King 4.0：从“参数还原”走向“协议诊断”
+      url: https://mp.weixin.qq.com/s?__biz=MzYzNDQzNDIyNg==&mid=2247483728&idx=1&sn=d14524c69d99b82579730c0bd2bf80fc
     - author: 哆啦安全
       release_time: 2026.07.07 08:06:06
       title: 隐私沙盒的“猫鼠游戏”：SDK 运行时与归因报告如何激化绕过攻防
@@ -240,13 +244,13 @@
       release_time: 2026.07.04 11:05:15
       title: 岩烧咖啡黑巧饼干，不仅有咖啡的浓香，还能饱腹，当早餐妥妥的~
       url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483898&idx=2&sn=79f4851d3cabaabfd0d74bff9624b527
-    - author: 如意私塾
-      release_time: 2026.07.04 10:04:00
-      title: 你的最后一套JS逆向课 | JD最新滑块3小时速通
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484895&idx=1&sn=390c19b3c1e0c47025283b57ac6eee0e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: MeItemi
+      release_time: 2026.07.06 19:56:00
+      title: 【AI辅助】iOS p12证书签名软件的逆向分析 + 证书获取（新）
+      url: https://www.52pojie.cn/thread-2115938-1-1.html
     - author: wolfSpicy
       release_time: 2026.07.05 12:31:00
       title: 【原创】V8 JSC反编译成JS
@@ -363,10 +367,6 @@
       release_time: 2026.06.06 11:24:00
       title: 某企业加固dex vmp简单分析
       url: https://www.52pojie.cn/thread-2111432-1-1.html
-    - author: JiGuro
-      release_time: 2026.06.06 11:13:00
-      title: 【多栈实战】某黑产软件全链路逆向实录 (中)
-      url: https://www.52pojie.cn/thread-2111428-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
