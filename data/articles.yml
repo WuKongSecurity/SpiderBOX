@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 挖个洞先
+      release_time: 2026.07.07 20:12:25
+      title: 【代码审计】客户端漏洞之未授权文件上传+dll劫持实现命令执行rce
+      url: https://mp.weixin.qq.com/s?__biz=MzkyNjY3OTI4Ng==&mid=2247486102&idx=1&sn=cf5fb28295a72b6158cca0b46ff629a2
     - author: 进击的HACK
       release_time: 2026.07.07 18:38:53
       title: 后渗透管理工具 LeoAI
@@ -240,10 +244,6 @@
       release_time: 2026.07.05 08:30:09
       title: frida源码学习7-DBus协议详解
       url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484661&idx=1&sn=66a570127bb4706415dbb4f8a6a2f132
-    - author: 零基础爬虫第一天
-      release_time: 2026.07.05 08:29:03
-      title: frida源码学习6-Session创建（attach/spawn）
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484660&idx=1&sn=4791186e03c4bae8984489ad2aa89612
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: ldz666
+      release_time: 2026.07.07 21:04:49
+      title: '[原创]某Android SMS 木马逆向分析'
+      url: https://bbs.kanxue.com/thread-291907.htm
     - author: ODcat
       release_time: 2026.07.07 17:03:23
       title: '[原创]对早期360-Dex加固的学习'
@@ -486,10 +490,6 @@
       release_time: 2026.06.23 15:40:28
       title: '[原创]DECX：另一个基于 JADX 的 AI 反编译轮子'
       url: https://bbs.kanxue.com/thread-291762.htm
-    - author: mb_jtdbrgxs
-      release_time: 2026.06.23 11:23:03
-      title: '[原创] Pixel6 16系统降级14'
-      url: https://bbs.kanxue.com/thread-291761.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
