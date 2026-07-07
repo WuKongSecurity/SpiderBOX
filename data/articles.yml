@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: LiXieZengHui
+      release_time: 2026.07.07 21:48:00
+      title: Q音VMP初始化分析&SHA-1算法识别
+      url: https://www.52pojie.cn/thread-2116112-1-1.html
     - author: MeItemi
       release_time: 2026.07.06 19:56:00
       title: 【AI辅助】iOS p12证书签名软件的逆向分析 + 证书获取（新）
@@ -363,10 +367,6 @@
       release_time: 2026.06.07 14:11:00
       title: web逆向基础知识--- js 事件 事件循环 和异步
       url: https://www.52pojie.cn/thread-2111598-1-1.html
-    - author: linglian
-      release_time: 2026.06.06 11:24:00
-      title: 某企业加固dex vmp简单分析
-      url: https://www.52pojie.cn/thread-2111432-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
@@ -422,6 +422,10 @@
       release_time: 2026.07.01 18:35:32
       title: '[原创] iOS App的商业级环境检测手段 - 基于某讯A<E Framework 详解'
       url: https://bbs.kanxue.com/thread-291845.htm
+    - author: 狗都不学爬虫_
+      release_time: 2026.07.01 16:30:41
+      title: AI逆向 - 某众点MTGSIG/某里234醇酸
+      url: https://blog.csdn.net/qq_53444631/article/details/162491472
     - author: 北袅
       release_time: 2026.07.01 15:30:15
       title: '[原创]获取jni函数地址'
@@ -450,6 +454,10 @@
       release_time: 2026.06.27 17:06:25
       title: '[原创]APatch解析一、内核修补入口'
       url: https://bbs.kanxue.com/thread-291802.htm
+    - author: 狗都不学爬虫_
+      release_time: 2026.06.26 14:33:01
+      title: JS逆向IV8 - 秒杀（加速乐+创宇盾+waf+瑞树ck+瑞树后缀）
+      url: https://blog.csdn.net/qq_53444631/article/details/162340505
     - author: Zedbully
       release_time: 2026.06.26 02:54:39
       title: JADX 看不到算法之后，公开脱壳工具还能走多远：一次御盾加固 APK 实测
@@ -482,14 +490,6 @@
       release_time: 2026.06.23 19:40:55
       title: '[原创]JS 盾（JS DUN PROTECT）加固小记'
       url: https://bbs.kanxue.com/thread-291766.htm
-    - author: Solar安全
-      release_time: 2026.06.23 15:40:28
-      title: '[原创]【深度解析】全球第二活跃的The Gentlemen勒索组织，老板竟是LinkedIn上可查的B2B营销主管'
-      url: https://bbs.kanxue.com/thread-291763.htm
-    - author: jygzyc
-      release_time: 2026.06.23 15:40:28
-      title: '[原创]DECX：另一个基于 JADX 的 AI 反编译轮子'
-      url: https://bbs.kanxue.com/thread-291762.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
