@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: AngelToms
+      release_time: 2026.07.07 09:06:21
+      title: 直播间sign通讯算法4-3
+      url: https://www.bilibili.com/video/BV1SmMx6yEvB
     - author: Alone逆向安全
       release_time: 2026.07.06 15:56:01
       title: App逆向某企业壳ollvm sign trace分析
@@ -117,13 +121,13 @@
       release_time: 2026.06.09 17:45:49
       title: 浅谈某手游反作弊轻特征代码运行逻辑
       url: https://www.bilibili.com/video/BV1zZE76wECW
-    - author: AngelToms
-      release_time: 2026.06.09 08:50:50
-      title: ab算法之U57-U85
-      url: https://www.bilibili.com/video/BV1VyE565EEt
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.07.07 08:06:06
+      title: 隐私沙盒的“猫鼠游戏”：SDK 运行时与归因报告如何激化绕过攻防
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500991&idx=1&sn=3f0c9bb0be979825385099622016eb8c
     - author: 大数据安全技术学习
       release_time: 2026.07.06 23:00:00
       title: AI手机(直播预告)：12.AI手机系统OpenCyvis架构设计与核心原理
@@ -240,10 +244,6 @@
       release_time: 2026.07.04 10:04:00
       title: 你的最后一套JS逆向课 | JD最新滑块3小时速通
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484895&idx=1&sn=390c19b3c1e0c47025283b57ac6eee0e
-    - author: 将往的爬虫逆向日记
-      release_time: 2026.07.03 20:59:39
-      title: 电力交易员都在用的免费插件20.3版本：算法不行，起卦预测。基于电力交易进行深度优化的易学预测系统
-      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862608&idx=1&sn=6d6147cf60fc9b6e4cb2237c7f2f0ece
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
