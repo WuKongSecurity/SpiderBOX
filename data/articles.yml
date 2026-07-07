@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.07.07 18:38:53
+      title: 后渗透管理工具 LeoAI
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490290&idx=1&sn=9bd11a781c5197fda85a9eb901bc0a8c
+    - author: 泡泡以安
+      release_time: 2026.07.07 18:34:41
+      title: Frida学习笔记（二十五）：签名校验绕过
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486584&idx=1&sn=84f8f1c48a171b2a97b9eb1faf3636f0
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.07.07 17:35:16
+      title: 《人工智能拟人化互动服务管理暂行办法》正式施行在即，豆包、千问将下线智能体功能
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520391&idx=1&sn=64a28dd609c7c4bb6e5542757d99b251
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.07.07 17:35:16
+      title: 国家网信办就《互联网信息服务管理办法（修订草案征求意见稿）》再次公开征求意见
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520391&idx=2&sn=9f6ff8c122e298d077a220c44ac7430d
     - author: wangyu223
       release_time: 2026.07.07 14:43:50
       title: Claude Code v2.1.196 逆向分析 数据上报详解
@@ -228,22 +244,6 @@
       release_time: 2026.07.05 08:29:03
       title: frida源码学习6-Session创建（attach/spawn）
       url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484660&idx=1&sn=4791186e03c4bae8984489ad2aa89612
-    - author: DrissionPage
-      release_time: 2026.07.04 21:10:15
-      title: DrissionPage控制手机上的Chrome
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzczMw==&mid=2247483901&idx=1&sn=eb377165a0249419bc8314f8e9879801
-    - author: 进击的HACK
-      release_time: 2026.07.04 21:04:31
-      title: 项目推荐 | 搜索好用的网络安全开源工具
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490275&idx=1&sn=560fd6575e50fd2e7fe28cd1aec98153
-    - author: LK安全
-      release_time: 2026.07.04 18:40:46
-      title: '实战记录: ai如何13分钟挖掘出国内某大型报表未授权RCE'
-      url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486864&idx=1&sn=a19a60985dcb411d85e6c21bf55111f3
-    - author: 反爬破解社
-      release_time: 2026.07.04 11:05:15
-      title: 综合实战篇：构建一个能够绕过大多数风控的智能爬虫系统
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483898&idx=1&sn=32741e9aa974912e521632e6e1257cd2
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: ODcat
+      release_time: 2026.07.07 17:03:23
+      title: '[原创]对早期360-Dex加固的学习'
+      url: https://bbs.kanxue.com/thread-291902.htm
     - author: mb_cfjwplfo
       release_time: 2026.07.07 08:43:25
       title: '[原创]某梆企业壳变种版新检测点'
@@ -486,10 +490,6 @@
       release_time: 2026.06.23 11:23:03
       title: '[原创] Pixel6 16系统降级14'
       url: https://bbs.kanxue.com/thread-291761.htm
-    - author: Zedbully
-      release_time: 2026.06.22 23:26:47
-      title: '[原创]某游动态入侵实测：御盾加固 Android 动态注入防护实测'
-      url: https://bbs.kanxue.com/thread-291755.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
