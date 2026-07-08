@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.07.08 16:31:24
+      title: 中央网信办展开AI整治专项行动，处置违规产品1.4万余款、违规信息600余万条
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520412&idx=1&sn=7b46d18e1b1ac350f4d5c374db7e13e6
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.07.08 16:31:24
+      title: 广东省互联网信息办公室关于属地App个人信息收集使用问题的通报（第二批）
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520412&idx=2&sn=251c4496c50c8f5c764b512be8260580
     - author: 泡泡以安
       release_time: 2026.07.08 08:44:00
       title: Frida学习笔记（二十六）：DEX 脱壳实战
@@ -236,14 +244,6 @@
       release_time: 2026.07.05 11:46:57
       title: ruyiTrace攻克F5 Shape-西南航空
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484901&idx=1&sn=e4834aeda98151d8671fc5e5ce1676d7
-    - author: 二进制磨剑
-      release_time: 2026.07.05 09:00:00
-      title: '高考毕业季 | 信息安全: 从迷茫到大厂SSP：一个信安学生的四年安全路'
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486133&idx=1&sn=3550162841d9e0f98165b86b0ce53c5b
-    - author: 零基础爬虫第一天
-      release_time: 2026.07.05 08:31:15
-      title: frida源码学习8-Gumjs及agent-glue.c详解
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484662&idx=1&sn=f3a2e48e0de658d8db511cd502d7e037
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: xxxmm
+      release_time: 2026.07.08 15:08:43
+      title: '[原创] 从 r0capture 到 eCapture：Hermes Agent 自动抓包在真实任务里的价值'
+      url: https://bbs.kanxue.com/thread-291916.htm
     - author: lingyi223
       release_time: 2026.07.08 13:52:35
       title: boXX纯算 sp sig libyzwg.so
@@ -486,10 +490,6 @@
       release_time: 2026.06.23 22:16:11
       title: '[原创]论如何在2026年使用uiautomatorviewer.bat'
       url: https://bbs.kanxue.com/thread-291771.htm
-    - author: 霸服w
-      release_time: 2026.06.23 21:31:56
-      title: '[推荐]一个专门针对安卓作弊的开源通用模块'
-      url: https://bbs.kanxue.com/thread-291769.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
