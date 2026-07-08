@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 泡泡以安
+      release_time: 2026.07.08 08:44:00
+      title: Frida学习笔记（二十六）：DEX 脱壳实战
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486588&idx=1&sn=4e63d2cd7cd9991f459180135d1cc6ca
     - author: 挖个洞先
       release_time: 2026.07.07 20:12:25
       title: 【代码审计】客户端漏洞之未授权文件上传+dll劫持实现命令执行rce
@@ -240,10 +244,6 @@
       release_time: 2026.07.05 08:31:15
       title: frida源码学习8-Gumjs及agent-glue.c详解
       url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484662&idx=1&sn=f3a2e48e0de658d8db511cd502d7e037
-    - author: 零基础爬虫第一天
-      release_time: 2026.07.05 08:30:09
-      title: frida源码学习7-DBus协议详解
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484661&idx=1&sn=66a570127bb4706415dbb4f8a6a2f132
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: angelToms
+      release_time: 2026.07.08 09:32:06
+      title: '[原创]开源某视频a_bogus算法'
+      url: https://bbs.kanxue.com/thread-291910.htm
     - author: ldz666
       release_time: 2026.07.07 21:04:49
       title: '[原创]某Android SMS 木马逆向分析'
@@ -486,10 +490,6 @@
       release_time: 2026.06.23 20:07:04
       title: '[原创]RR视频.apk客户端登录协议分析'
       url: https://bbs.kanxue.com/thread-291767.htm
-    - author: 一只鸭子
-      release_time: 2026.06.23 19:40:55
-      title: '[原创]JS 盾（JS DUN PROTECT）加固小记'
-      url: https://bbs.kanxue.com/thread-291766.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
