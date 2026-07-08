@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2026.07.08 18:16:21
+      title: 安卓17内核模块绕过frida17检测
+      url: https://www.bilibili.com/video/BV1SrMg6eEcX
     - author: AngelToms
       release_time: 2026.07.07 09:06:21
       title: 直播间sign通讯算法4-3
@@ -117,13 +121,13 @@
       release_time: 2026.06.10 14:31:20
       title: roothide轻松过酷航越狱检测，并且内置frida支持spawn模式
       url: https://www.bilibili.com/video/BV1nwER6KEL3
-    - author: 魔影-马
-      release_time: 2026.06.09 17:45:49
-      title: 浅谈某手游反作弊轻特征代码运行逻辑
-      url: https://www.bilibili.com/video/BV1zZE76wECW
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.07.08 18:09:44
+      title: codex 不支持 sse 怎么办
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490294&idx=1&sn=cf6846408a70fb8e6b1495019b112b2f
     - author: 个人信息与数据保护实务评论
       release_time: 2026.07.08 16:31:24
       title: 中央网信办展开AI整治专项行动，处置违规产品1.4万余款、违规信息600余万条
@@ -240,10 +244,6 @@
       release_time: 2026.07.05 12:44:41
       title: 避坑指南：交完定金才说“内存可能不兼容”？电脑城买电脑实录，揭开那个“亏本报价”的骗局！
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500973&idx=1&sn=5160827674950ea44eb22fc5f8308f17
-    - author: 如意私塾
-      release_time: 2026.07.05 11:46:57
-      title: ruyiTrace攻克F5 Shape-西南航空
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484901&idx=1&sn=e4834aeda98151d8671fc5e5ce1676d7
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
