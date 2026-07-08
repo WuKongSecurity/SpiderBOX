@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 桐梓坡低手
+      release_time: 2026.07.08 23:26:11
+      title: Dy滑块 Tx六宫格 Datedemo  Hcap  Px
+      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247484033&idx=1&sn=952d96fa5b18177e791f22d25d10df22
     - author: R逆向
       release_time: 2026.07.08 23:09:14
       title: 美团大众点评降级抓包LSPosed插件-反混淆通用
@@ -240,10 +244,6 @@
       release_time: 2026.07.05 19:23:46
       title: 3.7万人收藏的 AI 开源项目！断网也能救命！一台真正离线的生存 AI 电脑！
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991652&idx=1&sn=e6292943a8efe16420b264826308d55b
-    - author: 小伍哥聊风控
-      release_time: 2026.07.05 16:05:30
-      title: 训练你的第一个「鉴黄」大模型，Qwen3.5_0.8B微调实战详解
-      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650197244&idx=1&sn=8a55f73c7a89bece82b76df3d437fd9e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
