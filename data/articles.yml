@@ -251,6 +251,10 @@
       release_time: 2026.07.08 18:50:00
       title: 某房地产APP请求逆向分析
       url: https://www.52pojie.cn/thread-2116261-1-1.html
+    - author: a3341736201
+      release_time: 2026.07.08 13:34:00
+      title: 分析某wp主题9.0逆向授权过程
+      url: https://www.52pojie.cn/thread-2116200-1-1.html
     - author: yan019369
       release_time: 2026.07.08 11:44:00
       title: 看懂身份验证中的活体检测（一）：动作活体
@@ -363,13 +367,17 @@
       release_time: 2026.06.12 17:53:00
       title: 某刷题网站题库导出
       url: https://www.52pojie.cn/thread-2112517-1-1.html
-    - author: guanguilin
-      release_time: 2026.06.11 10:58:00
-      title: 小c惠生活 APP 请求签名算法逆向分析记录【本人新手逆向学习】
-      url: https://www.52pojie.cn/thread-2112304-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 梧桐生
+      release_time: 2026.07.09 17:26:42
+      title: '[原创]某手反混淆识别与处理'
+      url: https://bbs.kanxue.com/thread-291937.htm
+    - author: belikewater
+      release_time: 2026.07.09 16:49:38
+      title: '[原创]某加固简单分析记录'
+      url: https://bbs.kanxue.com/thread-291935.htm
     - author: deltasee
       release_time: 2026.07.09 14:39:23
       title: '[原创]看懂身份验证中的活体检测（一）：动作活体'
@@ -482,14 +490,6 @@
       release_time: 2026.06.27 23:19:23
       title: '[原创] xposed模块SoulFrog开源免费模块'
       url: https://bbs.kanxue.com/thread-291803.htm
-    - author: 一只鸭子
-      release_time: 2026.06.27 17:06:25
-      title: '[原创]APatch解析一、内核修补入口'
-      url: https://bbs.kanxue.com/thread-291802.htm
-    - author: 狗都不学爬虫_
-      release_time: 2026.06.26 14:33:01
-      title: JS逆向IV8 - 秒杀（加速乐+创宇盾+waf+瑞树ck+瑞树后缀）
-      url: https://blog.csdn.net/qq_53444631/article/details/162340505
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
