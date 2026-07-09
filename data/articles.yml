@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 如意-浏览器开发培训
+      release_time: 2026.07.09 10:18:20
+      title: JS逆向终结计划之某宝231-140定位
+      url: https://www.bilibili.com/video/BV1JdM76MEMr
+    - author: 如意-浏览器开发培训
+      release_time: 2026.07.09 09:28:17
+      title: 你最后的JS逆向教程-akamai/kasada/reese84/京东/淘宝140/腾讯滑块/抖音ab
+      url: https://www.bilibili.com/video/BV19HML6QETD
     - author: r0ysue
       release_time: 2026.07.08 18:16:21
       title: 安卓17内核模块绕过frida17检测
@@ -113,14 +121,6 @@
       release_time: 2026.06.12 17:33:18
       title: 6月12日
       url: https://www.bilibili.com/video/BV11vE16DE4o
-    - author: AngelToms
-      release_time: 2026.06.12 11:50:30
-      title: ab算法之U86上
-      url: https://www.bilibili.com/video/BV1pEEy6CE8c
-    - author: r0ysue
-      release_time: 2026.06.10 14:31:20
-      title: roothide轻松过酷航越狱检测，并且内置frida支持spawn模式
-      url: https://www.bilibili.com/video/BV1nwER6KEL3
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
