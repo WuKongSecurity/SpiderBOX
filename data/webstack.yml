@@ -2372,6 +2372,14 @@
           logo: github.png
           url: https://github.com/ylytdeng/wechat-decrypt
           description: 微信 4.0 (Windows、MacOS、Linux) 本地数据库解密工具。从运行中的微信进程内存提取加密密钥，解密所有 SQLCipher 4 加密数据库，并提供实时消息监听
+        - title: wxhook
+          logo: github.png
+          url: https://github.com/miloira/wxhook
+          description: WxHook 是一个基于 dll 注入实现的 python 微信机器人框架，支持多种接口、高扩展性、多线程消息处理，让你轻松应对海量消息，为你的需求实现提供便捷灵活的支持
+        - title: pywxauto
+          logo: weixin.jpg
+          url: http://www.pywxauto.com/
+          description: 基于 UIAutomation 的微信自动化 Python 框架，简洁易用，功能强大
 
 - taxonomy: 人机验证
   icon: fas fa-user-check
