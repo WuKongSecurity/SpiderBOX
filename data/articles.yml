@@ -247,6 +247,18 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: jie1525050
+      release_time: 2026.07.08 18:50:00
+      title: 某房地产APP请求逆向分析
+      url: https://www.52pojie.cn/thread-2116261-1-1.html
+    - author: yan019369
+      release_time: 2026.07.08 11:44:00
+      title: 看懂身份验证中的活体检测（一）：动作活体
+      url: https://www.52pojie.cn/thread-2116188-1-1.html
+    - author: hostname
+      release_time: 2026.07.08 11:25:00
+      title: 某音a_bogus jsvmp反编译
+      url: https://www.52pojie.cn/thread-2116186-1-1.html
     - author: LiXieZengHui
       release_time: 2026.07.07 21:48:00
       title: Q音VMP初始化分析&SHA-1算法识别
@@ -355,21 +367,17 @@
       release_time: 2026.06.11 10:58:00
       title: 小c惠生活 APP 请求签名算法逆向分析记录【本人新手逆向学习】
       url: https://www.52pojie.cn/thread-2112304-1-1.html
-    - author: szh12123
-      release_time: 2026.06.09 21:51:00
-      title: YOLO识别拼图过滑块验证
-      url: https://www.52pojie.cn/thread-2112042-1-1.html
-    - author: jbczzz
-      release_time: 2026.06.08 17:15:00
-      title: 内核级内存读写的用户层检测与绕过：一次攻防对抗实践
-      url: https://www.52pojie.cn/thread-2111827-1-1.html
-    - author: f20171110
-      release_time: 2026.06.07 14:11:00
-      title: web逆向基础知识--- js 事件 事件循环 和异步
-      url: https://www.52pojie.cn/thread-2111598-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: deltasee
+      release_time: 2026.07.09 14:39:23
+      title: '[原创]看懂身份验证中的活体检测（一）：动作活体'
+      url: https://bbs.kanxue.com/thread-291933.htm
+    - author: 秋落
+      release_time: 2026.07.09 13:10:15
+      title: herdr Agent主导:自动化逆向5款安卓检测器,内核级绕过实战
+      url: https://bbs.kanxue.com/thread-291930.htm
     - author: 太岁又沐风
       release_time: 2026.07.08 23:19:40
       title: '[原创]美团大众点评降级抓包LSPosed插件-反混淆通用思路'
@@ -482,14 +490,6 @@
       release_time: 2026.06.26 14:33:01
       title: JS逆向IV8 - 秒杀（加速乐+创宇盾+waf+瑞树ck+瑞树后缀）
       url: https://blog.csdn.net/qq_53444631/article/details/162340505
-    - author: Zedbully
-      release_time: 2026.06.26 02:54:39
-      title: JADX 看不到算法之后，公开脱壳工具还能走多远：一次御盾加固 APK 实测
-      url: https://bbs.kanxue.com/thread-291791.htm
-    - author: 孤木落
-      release_time: 2026.06.25 01:24:42
-      title: '[原创]仅使用NDK构建内核模块的实验'
-      url: https://bbs.kanxue.com/thread-291780.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
