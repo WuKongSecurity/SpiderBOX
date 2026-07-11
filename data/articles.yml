@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 风华Ahu
+      release_time: 2026.07.11 17:37:24
+      title: 古法末路：akamai阿卡麦流程分析-1
+      url: https://www.bilibili.com/video/BV14sNw6aEoT
     - author: 如意-浏览器开发培训
       release_time: 2026.07.11 01:32:04
       title: 《全网首发》JS逆向reese84纯算
@@ -117,10 +121,6 @@
       release_time: 2026.06.17 19:41:18
       title: tweak注入r0rpc免逆向算法远程调用iOS应用IPA里的接口
       url: https://www.bilibili.com/video/BV16zLR6FEv1
-    - author: 一只勇敢的小佳
-      release_time: 2026.06.17 00:21:42
-      title: 你见识到世界的厉害了吗？不！我见识到自己的厉害啦！
-      url: https://www.bilibili.com/video/BV1hsjG6aEYZ
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
