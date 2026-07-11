@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 毅种循环
+      release_time: 2026.07.11 22:27:28
+      title: '[原创]《邮件钓鱼攻防工程》Part 3：内容对抗——贝叶斯和NLP'
+      url: https://bbs.kanxue.com/thread-291968.htm
     - author: babyfox
       release_time: 2026.07.11 20:18:11
       title: '[原创]火绒恶意网址自定义规则，根据互联网应急中心部分威胁预警恶意代码制作'
@@ -486,10 +490,6 @@
       release_time: 2026.07.01 21:07:01
       title: '[原创]某银行 App 对抗实录'
       url: https://bbs.kanxue.com/thread-291846.htm
-    - author: mako233
-      release_time: 2026.07.01 18:35:32
-      title: '[原创] iOS App的商业级环境检测手段 - 基于某讯A<E Framework 详解'
-      url: https://bbs.kanxue.com/thread-291845.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
