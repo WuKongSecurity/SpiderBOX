@@ -2,6 +2,10 @@
   list:
   - links:
     - author: 风华Ahu
+      release_time: 2026.07.11 19:08:05
+      title: 古法末路：阿卡麦3 速补前两次请求
+      url: https://www.bilibili.com/video/BV19tNc66EB6
+    - author: 风华Ahu
       release_time: 2026.07.11 18:21:57
       title: 古法末路：akamai-2 如果你感觉到了震撼 那你先别急 主页还有核弹级打法
       url: https://www.bilibili.com/video/BV1qANw62Eu5
@@ -117,10 +121,6 @@
       release_time: 2026.06.19 08:25:21
       title: ab算法之U87-U89
       url: https://www.bilibili.com/video/BV1SGji6ZE8V
-    - author: 风华Ahu
-      release_time: 2026.06.18 01:01:52
-      title: js逆向百例-31-猿人学1000分题目
-      url: https://www.bilibili.com/video/BV1FFLo6eE2u
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
