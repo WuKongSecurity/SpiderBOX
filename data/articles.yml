@@ -371,6 +371,10 @@
     term: 吾爱破解
   - links:
     - author: babyfox
+      release_time: 2026.07.11 20:18:11
+      title: '[原创]火绒恶意网址自定义规则，根据互联网应急中心部分威胁预警恶意代码制作'
+      url: https://bbs.kanxue.com/thread-291966.htm
+    - author: babyfox
       release_time: 2026.07.11 10:12:59
       title: '[原创]一些国家网信安全网站地址'
       url: https://bbs.kanxue.com/thread-291961.htm
@@ -486,10 +490,6 @@
       release_time: 2026.07.01 18:35:32
       title: '[原创] iOS App的商业级环境检测手段 - 基于某讯A<E Framework 详解'
       url: https://bbs.kanxue.com/thread-291845.htm
-    - author: 狗都不学爬虫_
-      release_time: 2026.07.01 16:30:41
-      title: AI逆向 - 某众点MTGSIG/某里234醇酸
-      url: https://blog.csdn.net/qq_53444631/article/details/162491472
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
