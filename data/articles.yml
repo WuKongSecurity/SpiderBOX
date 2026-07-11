@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: jbczzz
+      release_time: 2026.07.12 00:40:00
+      title: 一加ACE5至尊版 kernel 6.6.89尝试利用GhostLock / IonStack 进行root提权
+      url: https://www.52pojie.cn/thread-2116758-1-1.html
     - author: 鸠山一茶
       release_time: 2026.07.10 10:40:00
       title: Cloudflare Drop逆向及Skill开发
@@ -363,10 +367,6 @@
       release_time: 2026.06.16 10:54:00
       title: 海胆PT的每日打卡
       url: https://www.52pojie.cn/thread-2113009-1-1.html
-    - author: yxl19873
-      release_time: 2026.06.15 20:33:00
-      title: 【玄奥周易】安卓版注册机手搓教程
-      url: https://www.52pojie.cn/thread-2112941-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
