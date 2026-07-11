@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 鸠山一茶
+      release_time: 2026.07.10 10:40:00
+      title: Cloudflare Drop逆向及Skill开发
+      url: https://www.52pojie.cn/thread-2116523-1-1.html
     - author: TES286
       release_time: 2026.07.10 01:42:00
       title: 某VSCode主题插件的破解
@@ -363,13 +367,13 @@
       release_time: 2026.06.15 20:33:00
       title: 【玄奥周易】安卓版注册机手搓教程
       url: https://www.52pojie.cn/thread-2112941-1-1.html
-    - author: xyzhou
-      release_time: 2026.06.15 10:56:00
-      title: 记录mac下jeb安装学习过程
-      url: https://www.52pojie.cn/thread-2112847-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: babyfox
+      release_time: 2026.07.11 10:12:59
+      title: '[原创]一些国家网信安全网站地址'
+      url: https://bbs.kanxue.com/thread-291961.htm
     - author: kudos5566
       release_time: 2026.07.11 00:29:00
       title: '[原创]某企业壳底层对抗与内核级脱壳机定制实战记录'
@@ -486,10 +490,6 @@
       release_time: 2026.07.01 16:30:41
       title: AI逆向 - 某众点MTGSIG/某里234醇酸
       url: https://blog.csdn.net/qq_53444631/article/details/162491472
-    - author: 北袅
-      release_time: 2026.07.01 15:30:15
-      title: '[原创]获取jni函数地址'
-      url: https://bbs.kanxue.com/thread-291836.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
