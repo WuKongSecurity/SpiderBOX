@@ -2,6 +2,10 @@
   list:
   - links:
     - author: 风华Ahu
+      release_time: 2026.07.11 18:21:57
+      title: 古法末路：akamai-2 如果你感觉到了震撼 那你先别急 主页还有核弹级打法
+      url: https://www.bilibili.com/video/BV1qANw62Eu5
+    - author: 风华Ahu
       release_time: 2026.07.11 17:37:24
       title: 古法末路：akamai阿卡麦流程分析-1
       url: https://www.bilibili.com/video/BV14sNw6aEoT
@@ -117,10 +121,6 @@
       release_time: 2026.06.18 01:01:52
       title: js逆向百例-31-猿人学1000分题目
       url: https://www.bilibili.com/video/BV1FFLo6eE2u
-    - author: r0ysue
-      release_time: 2026.06.17 19:41:18
-      title: tweak注入r0rpc免逆向算法远程调用iOS应用IPA里的接口
-      url: https://www.bilibili.com/video/BV16zLR6FEv1
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
