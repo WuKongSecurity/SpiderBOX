@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: lyldalek
+      release_time: 2026.07.12 12:20:00
+      title: 基于QDBI的真机trace方案
+      url: https://www.52pojie.cn/thread-2116795-1-1.html
     - author: jbczzz
       release_time: 2026.07.12 00:40:00
       title: 一加ACE5至尊版 kernel 6.6.89尝试利用GhostLock / IonStack 进行root提权
@@ -363,10 +367,6 @@
       release_time: 2026.06.17 20:36:00
       title: 绕过DirtySepolicy 用户层检测root
       url: https://www.52pojie.cn/thread-2113265-1-1.html
-    - author: q1wv
-      release_time: 2026.06.16 10:54:00
-      title: 海胆PT的每日打卡
-      url: https://www.52pojie.cn/thread-2113009-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
