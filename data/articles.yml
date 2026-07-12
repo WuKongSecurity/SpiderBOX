@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.07.12 23:20:36
+      title: Mysql-JDBC反序列化利用与简单分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490310&idx=1&sn=caded292dd014ebbda0216a1f8a84ebc
     - author: 邱邱爱风控
       release_time: 2026.07.12 20:41:49
       title: 账号不是生命周期，是供应链
@@ -144,6 +148,10 @@
       release_time: 2026.07.12 00:01:00
       title: QBDI05 - 实战
       url: https://mp.weixin.qq.com/s?__biz=MzU2NTkxMTU1NA==&mid=2247489530&idx=1&sn=377d9519ea80f6921bd1fc1795bcc011
+    - author: 进击的HACK
+      release_time: 2026.07.11 20:34:16
+      title: 数据库敏感信息检索工具
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490306&idx=1&sn=f1aa25134b2a60977ef11cba1d46bc74
     - author: 二手的程序员
       release_time: 2026.07.11 00:01:00
       title: QBDI04 - frida
@@ -236,17 +244,13 @@
       release_time: 2026.07.08 18:09:44
       title: codex 不支持 sse 怎么办
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490294&idx=1&sn=cf6846408a70fb8e6b1495019b112b2f
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.07.08 16:31:24
-      title: 中央网信办展开AI整治专项行动，处置违规产品1.4万余款、违规信息600余万条
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520412&idx=1&sn=7b46d18e1b1ac350f4d5c374db7e13e6
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.07.08 16:31:24
-      title: 广东省互联网信息办公室关于属地App个人信息收集使用问题的通报（第二批）
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520412&idx=2&sn=251c4496c50c8f5c764b512be8260580
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: HackXK
+      release_time: 2026.07.12 19:18:00
+      title: WXLiquidGlass 动态玻璃插件逆向记录
+      url: https://www.52pojie.cn/thread-2116853-1-1.html
     - author: lyldalek
       release_time: 2026.07.12 12:20:00
       title: 基于QDBI的真机trace方案
@@ -363,13 +367,13 @@
       release_time: 2026.06.17 21:58:00
       title: Via修改资源嗅探白名单-重点在frida和java概念上的辨析
       url: https://www.52pojie.cn/thread-2113275-1-1.html
-    - author: jbczzz
-      release_time: 2026.06.17 20:36:00
-      title: 绕过DirtySepolicy 用户层检测root
-      url: https://www.52pojie.cn/thread-2113265-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: SharkFall
+      release_time: 2026.07.12 23:14:10
+      title: '[原创] Android 内核无痕 Hook 框架设计思路'
+      url: https://bbs.kanxue.com/thread-291980.htm
     - author: SharkFall
       release_time: 2026.07.12 23:09:09
       title: '[原创] Android 内核无痕 Hook 框架设计思路'
@@ -486,10 +490,6 @@
       release_time: 2026.07.04 15:37:32
       title: '[原创]乐校园跑协议分析'
       url: https://bbs.kanxue.com/thread-291878.htm
-    - author: fuqiuluo73
-      release_time: 2026.07.03 00:29:57
-      title: binder-trace：基于内核采集的 Android Binder 调用观测工具
-      url: https://bbs.kanxue.com/thread-291866.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
