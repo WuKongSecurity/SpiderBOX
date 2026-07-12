@@ -124,6 +124,98 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 邱邱爱风控
+      release_time: 2026.07.12 20:41:49
+      title: 账号不是生命周期，是供应链
+      url: https://mp.weixin.qq.com/s?__biz=MzYyMjgzMzcwNg==&mid=2247485163&idx=1&sn=ddfbc6d9092ec7317d63d16f95f8c47f
+    - author: 柳絮的学习杂记
+      release_time: 2026.07.12 20:37:39
+      title: USPS-shape环境分析
+      url: https://mp.weixin.qq.com/s?__biz=MzIzMDEwOTY4MA==&mid=2247483694&idx=1&sn=a54fc94bdb3914a4b516501ecaf57767
+    - author: 反爬破解社
+      release_time: 2026.07.12 13:02:23
+      title: 第6章：So层逆向——从汇编到Python
+      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483913&idx=1&sn=08303563406c787b31b6388e6aa66b8f
+    - author: 二进制磨剑
+      release_time: 2026.07.12 09:30:00
+      title: 高考毕业季｜大一勇闯网安：少年未被磨平，只是学会了与 AI 同行
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486139&idx=1&sn=cae15f78340fabcfa5f971618e12755f
+    - author: 二手的程序员
+      release_time: 2026.07.12 00:01:00
+      title: QBDI05 - 实战
+      url: https://mp.weixin.qq.com/s?__biz=MzU2NTkxMTU1NA==&mid=2247489530&idx=1&sn=377d9519ea80f6921bd1fc1795bcc011
+    - author: 二手的程序员
+      release_time: 2026.07.11 00:01:00
+      title: QBDI04 - frida
+      url: https://mp.weixin.qq.com/s?__biz=MzU2NTkxMTU1NA==&mid=2247489526&idx=1&sn=022fe105f3db65bf07f37ecd56a234d3
+    - author: 进击的HACK
+      release_time: 2026.07.10 20:45:06
+      title: 让codex或chatgpt对外提供API key给安全工具
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490302&idx=1&sn=6b8c28ee9821ab7d5d186b246b2239d2
+    - author: 反爬破解社
+      release_time: 2026.07.10 19:55:50
+      title: 第4章：Frida高级Hook——不止于打印参数
+      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483906&idx=1&sn=a1b95034f934fcb85a27d85de1590ede
+    - author: 如意私塾
+      release_time: 2026.07.10 11:00:00
+      title: 你的最后一套JS逆向课 | tx滑块纯算
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484922&idx=1&sn=4401abfe733e985228194a737149d8e1
+    - author: 不落的逆向手札
+      release_time: 2026.07.10 10:13:48
+      title: RSA 算法从零到进阶教程
+      url: https://mp.weixin.qq.com/s?__biz=MzYzNTAzOTIxMw==&mid=2247483982&idx=1&sn=df7c7a762e7a82a84c0bf500bba75bfe
+    - author: 二手的程序员
+      release_time: 2026.07.10 07:30:00
+      title: QBDI03 - 事件
+      url: https://mp.weixin.qq.com/s?__biz=MzU2NTkxMTU1NA==&mid=2247489522&idx=1&sn=b8dc9425ed31982b0bcd5f1b577dd1b9
+    - author: 如意私塾
+      release_time: 2026.07.09 21:39:56
+      title: 火狐Necko请求库 + 火狐SpiderMonkey JS引擎 + AI补环境过某宁滑块验证
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484913&idx=1&sn=e6cc73adb9f962e5be512847efbe634a
+    - author: 二手的程序员
+      release_time: 2026.07.09 21:39:31
+      title: QBDI02 - 使用
+      url: https://mp.weixin.qq.com/s?__biz=MzU2NTkxMTU1NA==&mid=2247489518&idx=1&sn=30a742bfb88d779053e6de62a11d9907
+    - author: 进击的HACK
+      release_time: 2026.07.09 18:10:37
+      title: 六月渗透常用Burpsuite插件
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490298&idx=1&sn=bdd5e743a62c94c78a1e1a5b3c9d2bf1
+    - author: jqiu爬虫分析日记
+      release_time: 2026.07.09 17:45:47
+      title: 越南版微信 zalo 协议分析
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0ODMwNzg4MA==&mid=2247483881&idx=1&sn=8407f8ba17038cacb9ebc2a85e3ad3a6
+    - author: 不落的逆向手札
+      release_time: 2026.07.09 17:30:12
+      title: AES 算法从零到进阶教程
+      url: https://mp.weixin.qq.com/s?__biz=MzYzNTAzOTIxMw==&mid=2247483968&idx=1&sn=7d04ec0fc9ad573230b205dd0a225e76
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.07.09 16:59:44
+      title: 多次被投诉仍整改不力，一物业公司因履行个人信息保护义务不到位受行政处罚
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520418&idx=1&sn=d6d0c8755d36e8c44e065ef1bd91e403
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.07.09 16:59:44
+      title: 因担忧中国联网汽车收集美国车主敏感数据，美国参议院拟投票收紧中国汽车准入限制
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520418&idx=2&sn=7cb3ce898556dcabf7a8daafb74a2410
+    - author: 吾爱破解论坛
+      release_time: 2026.07.09 16:20:48
+      title: 【清理未活跃会员】清理2026年十八周年开放注册未活跃会员公告
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144623&idx=1&sn=77a9276961588999a997d2a049eadfe2
+    - author: 猿人学Python
+      release_time: 2026.07.09 16:03:29
+      title: 1000 元一篇，把你的逆向笔记变现
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550261&idx=1&sn=7ba5a5bd49eb2dff856ea2ae6ff2ee6c
+    - author: 极验
+      release_time: 2026.07.09 16:00:00
+      title: 批量恶意注册，正在把游戏发行团队带进“假增长”陷阱
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724546&idx=1&sn=f7b2e94dd6f6b1f24ec20831585cebf5
+    - author: 反爬破解社
+      release_time: 2026.07.09 14:57:53
+      title: 第3章：静态分析——快速定位加密函数
+      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483904&idx=1&sn=08de84a260b15ae2824af997f31db818
+    - author: 泡泡以安
+      release_time: 2026.07.09 07:53:14
+      title: Frida学习笔记（二十七）：RPC 调用 · 把加密函数变成 API
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486592&idx=1&sn=c474da22c835e691438b6d0e6f5d2fd3
     - author: 桐梓坡低手
       release_time: 2026.07.08 23:26:11
       title: Dy滑块 Tx六宫格 Datedemo  Hcap  Px
@@ -152,98 +244,6 @@
       release_time: 2026.07.08 16:31:24
       title: 广东省互联网信息办公室关于属地App个人信息收集使用问题的通报（第二批）
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520412&idx=2&sn=251c4496c50c8f5c764b512be8260580
-    - author: 泡泡以安
-      release_time: 2026.07.08 08:44:00
-      title: Frida学习笔记（二十六）：DEX 脱壳实战
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486588&idx=1&sn=4e63d2cd7cd9991f459180135d1cc6ca
-    - author: 挖个洞先
-      release_time: 2026.07.07 20:12:25
-      title: 【代码审计】客户端漏洞之未授权文件上传+dll劫持实现命令执行rce
-      url: https://mp.weixin.qq.com/s?__biz=MzkyNjY3OTI4Ng==&mid=2247486102&idx=1&sn=cf5fb28295a72b6158cca0b46ff629a2
-    - author: 进击的HACK
-      release_time: 2026.07.07 18:38:53
-      title: 后渗透管理工具 LeoAI
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490290&idx=1&sn=9bd11a781c5197fda85a9eb901bc0a8c
-    - author: 泡泡以安
-      release_time: 2026.07.07 18:34:41
-      title: Frida学习笔记（二十五）：签名校验绕过
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486584&idx=1&sn=84f8f1c48a171b2a97b9eb1faf3636f0
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.07.07 17:35:16
-      title: 《人工智能拟人化互动服务管理暂行办法》正式施行在即，豆包、千问将下线智能体功能
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520391&idx=1&sn=64a28dd609c7c4bb6e5542757d99b251
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.07.07 17:35:16
-      title: 国家网信办就《互联网信息服务管理办法（修订草案征求意见稿）》再次公开征求意见
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520391&idx=2&sn=9f6ff8c122e298d077a220c44ac7430d
-    - author: wangyu223
-      release_time: 2026.07.07 14:43:50
-      title: Claude Code v2.1.196 逆向分析 数据上报详解
-      url: https://mp.weixin.qq.com/s?__biz=MzY4ODI4MzQwNQ==&mid=2247483939&idx=1&sn=d59108d086aa02f9f3ea8aedc94db3d3
-    - author: 逆向搅屎棍
-      release_time: 2026.07.07 10:29:07
-      title: Spider King 4.0：从“参数还原”走向“协议诊断”
-      url: https://mp.weixin.qq.com/s?__biz=MzYzNDQzNDIyNg==&mid=2247483728&idx=1&sn=d14524c69d99b82579730c0bd2bf80fc
-    - author: 哆啦安全
-      release_time: 2026.07.07 08:06:06
-      title: 隐私沙盒的“猫鼠游戏”：SDK 运行时与归因报告如何激化绕过攻防
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500991&idx=1&sn=3f0c9bb0be979825385099622016eb8c
-    - author: 大数据安全技术学习
-      release_time: 2026.07.06 23:00:00
-      title: AI手机(直播预告)：12.AI手机系统OpenCyvis架构设计与核心原理
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486235&idx=1&sn=bd5790e5e3754ee55b32d9e4ab010d7e
-    - author: 大数据安全技术学习
-      release_time: 2026.07.06 23:00:00
-      title: 奋斗者计划，助你升职加薪|阿里云、米哈游、阿里巴巴直推
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486235&idx=2&sn=0887791b8f7f3defbd9522dac354465c
-    - author: 进击的HACK
-      release_time: 2026.07.06 21:02:41
-      title: 面向APP/Web 加解密逆向分析的工具
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490286&idx=1&sn=89d9f23cd0c0559095dc894d85155744
-    - author: 反爬破解社
-      release_time: 2026.07.06 19:47:48
-      title: 第2章：环境搭建——工欲善其事必先利其器
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483903&idx=1&sn=d8fdafb8fdced9a08a1f1a15859f18c0
-    - author: 吾爱破解论坛
-      release_time: 2026.07.06 14:54:03
-      title: 基于文本匹配的VMP还原思路
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144621&idx=1&sn=69ef8eb1d2d840cfab3b6b1e61a7e196
-    - author: 猿人学Python
-      release_time: 2026.07.06 11:34:21
-      title: 高中没毕业，靠抢芯片赚了500万 - 爬虫 er100 人
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550256&idx=1&sn=16d271c04fd9dff164021fd1dcc445bf
-    - author: 如意私塾
-      release_time: 2026.07.06 10:00:00
-      title: 你的最后一套JS逆向课 | 某宝231-140 1小时速通
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484909&idx=1&sn=62ae4432d730e41cd73f873814790ac3
-    - author: DrissionPage
-      release_time: 2026.07.06 08:30:00
-      title: 5.0.0b0 删除ChromiumPage
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzczMw==&mid=2247483946&idx=1&sn=11b49ad65f75404158703a1cfc64de85
-    - author: 测试工程师成长之路
-      release_time: 2026.07.06 08:30:00
-      title: 15MB 的开源工具，把 Navicat 和 DataGrip 的活都干了
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579159&idx=1&sn=c78fe0fb9a85fa0ca5b31a5fe8a105d4
-    - author: Coder小Q
-      release_time: 2026.07.06 08:30:00
-      title: 【密码学】门限 FALCON 签名算法解读
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495772&idx=1&sn=290e34e41b3727ae07d18c19daf29cce
-    - author: 哆啦安全
-      release_time: 2026.07.06 08:00:00
-      title: OpenHarmony6.1 ARM64 QEMU模拟器源码编译
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500985&idx=1&sn=ff00e6dd65704d6db3dcb8e3d5aa78b4
-    - author: 进击的HACK
-      release_time: 2026.07.05 21:30:11
-      title: 六月渗透常用浏览器插件
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490279&idx=1&sn=eea77bf5df18ec5e32a33a648dcb8970
-    - author: 反爬破解社
-      release_time: 2026.07.05 19:52:15
-      title: 第1章：App逆向的全局视角
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483902&idx=1&sn=64f5d6c03555d325257c4c0aa94b0d59
-    - author: 未闻Code
-      release_time: 2026.07.05 19:23:46
-      title: 3.7万人收藏的 AI 开源项目！断网也能救命！一台真正离线的生存 AI 电脑！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991652&idx=1&sn=e6292943a8efe16420b264826308d55b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: SharkFall
+      release_time: 2026.07.12 23:09:09
+      title: '[原创] Android 内核无痕 Hook 框架设计思路'
+      url: https://bbs.kanxue.com/thread-291979.htm
     - author: qqqiu
       release_time: 2026.07.12 10:34:48
       title: 防得最狠的地方往往最不值钱--xx总结
@@ -486,10 +490,6 @@
       release_time: 2026.07.03 00:29:57
       title: binder-trace：基于内核采集的 Android Binder 调用观测工具
       url: https://bbs.kanxue.com/thread-291866.htm
-    - author: mb_cwdiqusd
-      release_time: 2026.07.02 22:53:32
-      title: '[原创]HackThisAndroid：一个同时练防护和对抗的 Android 安全实验项目'
-      url: https://bbs.kanxue.com/thread-291864.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
