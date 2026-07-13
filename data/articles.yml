@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 反爬破解社
+      release_time: 2026.07.13 17:46:13
+      title: 抓包抓不到？全网最全的原因分析与解决方案
+      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483914&idx=1&sn=b844230e93118cdd36db3135e3b099b7
+    - author: 吾爱破解论坛
+      release_time: 2026.07.13 16:51:15
+      title: 【开放注册公告】吾爱破解论坛2026年7月21日暑假开放注册公告
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144626&idx=1&sn=812306484eb0ab9d5bc8a7cf4104fbed
     - author: 猿人学Python
       release_time: 2026.07.13 11:41:09
       title: Akamai对抗的隐秘战线——TLS指纹
@@ -164,6 +172,10 @@
       release_time: 2026.07.11 20:34:16
       title: 数据库敏感信息检索工具
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490306&idx=1&sn=f1aa25134b2a60977ef11cba1d46bc74
+    - author: 反爬破解社
+      release_time: 2026.07.11 20:01:04
+      title: 第5章：常见加密算法的精确还原
+      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483909&idx=1&sn=4d8b695e37ef0435264367c24b8f17c6
     - author: 二手的程序员
       release_time: 2026.07.11 00:01:00
       title: QBDI04 - frida
@@ -232,21 +244,13 @@
       release_time: 2026.07.09 14:57:53
       title: 第3章：静态分析——快速定位加密函数
       url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483904&idx=1&sn=08de84a260b15ae2824af997f31db818
-    - author: 泡泡以安
-      release_time: 2026.07.09 07:53:14
-      title: Frida学习笔记（二十七）：RPC 调用 · 把加密函数变成 API
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486592&idx=1&sn=c474da22c835e691438b6d0e6f5d2fd3
-    - author: 桐梓坡低手
-      release_time: 2026.07.08 23:26:11
-      title: Dy滑块 Tx六宫格 Datedemo  Hcap  Px
-      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247484033&idx=1&sn=952d96fa5b18177e791f22d25d10df22
-    - author: R逆向
-      release_time: 2026.07.08 23:09:14
-      title: 美团大众点评降级抓包LSPosed插件-反混淆通用
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NjA3Mw==&mid=2247483849&idx=1&sn=040bcf4ffd6152f0b1a55f4b881045bf
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: '2225106'
+      release_time: 2026.07.12 22:25:00
+      title: 简单逆向Web视频插件
+      url: https://www.52pojie.cn/thread-2116873-1-1.html
     - author: HackXK
       release_time: 2026.07.12 19:18:00
       title: WXLiquidGlass 动态玻璃插件逆向记录
@@ -363,10 +367,6 @@
       release_time: 2026.06.18 18:36:00
       title: 灰产分析之xx校园跑工具的登录及风控认证
       url: https://www.52pojie.cn/thread-2113419-1-1.html
-    - author: LiXieZengHui
-      release_time: 2026.06.17 21:58:00
-      title: Via修改资源嗅探白名单-重点在frida和java概念上的辨析
-      url: https://www.52pojie.cn/thread-2113275-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
