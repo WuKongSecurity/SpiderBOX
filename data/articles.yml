@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 猿人学Python
+      release_time: 2026.07.13 11:41:09
+      title: Akamai对抗的隐秘战线——TLS指纹
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550277&idx=1&sn=e596e77bed300e10c1d9e8efc0aa1426
+    - author: Coder小Q
+      release_time: 2026.07.13 08:30:00
+      title: 【密码学】门限 FALCON 签名代码实现
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495777&idx=1&sn=c2b4bf7688807f660b1a46a2f54da5a5
+    - author: 测试工程师成长之路
+      release_time: 2026.07.13 08:30:00
+      title: 给测试机装了个浏览器控制台，从此不用碰数据线
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579170&idx=1&sn=7a8637355bd90d8e8a292c90f454dffa
     - author: 进击的HACK
       release_time: 2026.07.12 23:20:36
       title: Mysql-JDBC反序列化利用与简单分析
@@ -232,18 +244,6 @@
       release_time: 2026.07.08 23:09:14
       title: 美团大众点评降级抓包LSPosed插件-反混淆通用
       url: https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NjA3Mw==&mid=2247483849&idx=1&sn=040bcf4ffd6152f0b1a55f4b881045bf
-    - author: 二手的程序员
-      release_time: 2026.07.08 21:19:23
-      title: QBDI01 - 原理分析
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTkxMTU1NA==&mid=2247489514&idx=1&sn=0f21791b23f3cdb639179d1e8fbc2bf3
-    - author: 将往的爬虫逆向日记
-      release_time: 2026.07.08 19:55:43
-      title: 电力交易员都在用的免费电价预测插件：全量支持29省电价预测
-      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862621&idx=1&sn=336b3d596b69ee7bf44a27a3e1ce5a09
-    - author: 进击的HACK
-      release_time: 2026.07.08 18:09:44
-      title: codex 不支持 sse 怎么办
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490294&idx=1&sn=cf6846408a70fb8e6b1495019b112b2f
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
