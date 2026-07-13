@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: nuomida
+      release_time: 2026.07.13 15:10:44
+      title: '[原创]facebook ios ssl pinning bypass最新版'
+      url: https://bbs.kanxue.com/thread-291988.htm
     - author: SharkFall
       release_time: 2026.07.12 23:14:10
       title: '[原创] Android 内核无痕 Hook 框架设计思路'
@@ -406,6 +410,10 @@
       release_time: 2026.07.11 00:29:00
       title: '[原创]某企业壳底层对抗与内核级脱壳机定制实战记录'
       url: https://bbs.kanxue.com/thread-291957.htm
+    - author: shuisuoyi
+      release_time: 2026.07.10 21:48:00
+      title: 境外视频软件的逆向分析
+      url: https://xz.aliyun.com/news/92490
     - author: angelToms
       release_time: 2026.07.10 13:56:49
       title: '[原创]开源某视频x-bogus算法'
@@ -482,14 +490,6 @@
       release_time: 2026.07.05 21:35:31
       title: Vibe了一个Binder监控App行为的小玩具
       url: https://bbs.kanxue.com/thread-291885.htm
-    - author: mb_jepgtozh
-      release_time: 2026.07.04 16:44:38
-      title: '[原创]Wechat H5 DevTools'
-      url: https://bbs.kanxue.com/thread-291879.htm
-    - author: lingyi223
-      release_time: 2026.07.04 15:37:32
-      title: '[原创]乐校园跑协议分析'
-      url: https://bbs.kanxue.com/thread-291878.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
