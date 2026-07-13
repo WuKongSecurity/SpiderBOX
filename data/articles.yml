@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.07.13 19:46:17
+      title: 我只让Grok回复一个单词，它就把我整个代码库都偷走了。
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490312&idx=1&sn=d719c5e6b91e9411fe808aa56e93f504
     - author: 反爬破解社
       release_time: 2026.07.13 17:46:13
       title: 抓包抓不到？全网最全的原因分析与解决方案
@@ -240,10 +244,6 @@
       release_time: 2026.07.09 16:00:00
       title: 批量恶意注册，正在把游戏发行团队带进“假增长”陷阱
       url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724546&idx=1&sn=f7b2e94dd6f6b1f24ec20831585cebf5
-    - author: 反爬破解社
-      release_time: 2026.07.09 14:57:53
-      title: 第3章：静态分析——快速定位加密函数
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483904&idx=1&sn=08de84a260b15ae2824af997f31db818
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: ODcat
+      release_time: 2026.07.13 20:49:23
+      title: '[原创]对Android加固的学习与总结'
+      url: https://bbs.kanxue.com/thread-292003.htm
     - author: nuomida
       release_time: 2026.07.13 15:10:44
       title: '[原创]facebook ios ssl pinning bypass最新版'
@@ -486,10 +490,6 @@
       release_time: 2026.07.06 14:09:18
       title: '[原创]anti-token 纯算法分析'
       url: https://bbs.kanxue.com/thread-291889.htm
-    - author: Ankeys
-      release_time: 2026.07.05 21:35:31
-      title: Vibe了一个Binder监控App行为的小玩具
-      url: https://bbs.kanxue.com/thread-291885.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
