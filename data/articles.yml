@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: AngelToms
+      release_time: 2026.07.14 14:21:01
+      title: msToken算法5-3
+      url: https://www.bilibili.com/video/BV1GtN96HEHP
     - author: 风华Ahu
       release_time: 2026.07.11 19:08:05
       title: 古法末路：阿卡麦3 速补前两次请求
@@ -117,10 +121,6 @@
       release_time: 2026.06.22 23:28:43
       title: iOS18最新越狱打时间差绕过HYATT检测使用frida
       url: https://www.bilibili.com/video/BV1mY7T6yEUM
-    - author: AngelToms
-      release_time: 2026.06.19 08:25:21
-      title: ab算法之U87-U89
-      url: https://www.bilibili.com/video/BV1SGji6ZE8V
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
