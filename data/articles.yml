@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2026.07.14 19:38:18
+      title: 把简单问题写复杂，是一种学术病
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991667&idx=1&sn=30e8afc4c8b8e8b30891dc0b4988ee46
     - author: 进击的HACK
       release_time: 2026.07.14 18:31:17
       title: 一个请求头引出的 API 未授权
@@ -196,6 +200,10 @@
       release_time: 2026.07.12 00:01:00
       title: QBDI05 - 实战
       url: https://mp.weixin.qq.com/s?__biz=MzU2NTkxMTU1NA==&mid=2247489530&idx=1&sn=377d9519ea80f6921bd1fc1795bcc011
+    - author: 未闻Code
+      release_time: 2026.07.11 20:37:46
+      title: Windows 用户狂喜！这款开源桌面灵动岛让你专注工作如丝般顺滑！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991655&idx=1&sn=7691533bc345f32d02bea3f57a8c0eef
     - author: 进击的HACK
       release_time: 2026.07.11 20:34:16
       title: 数据库敏感信息检索工具
@@ -236,14 +244,6 @@
       release_time: 2026.07.09 21:39:56
       title: 火狐Necko请求库 + 火狐SpiderMonkey JS引擎 + AI补环境过某宁滑块验证
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484913&idx=1&sn=e6cc73adb9f962e5be512847efbe634a
-    - author: 二手的程序员
-      release_time: 2026.07.09 21:39:31
-      title: QBDI02 - 使用
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTkxMTU1NA==&mid=2247489518&idx=1&sn=30a742bfb88d779053e6de62a11d9907
-    - author: 进击的HACK
-      release_time: 2026.07.09 18:10:37
-      title: 六月渗透常用Burpsuite插件
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490298&idx=1&sn=bdd5e743a62c94c78a1e1a5b3c9d2bf1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
