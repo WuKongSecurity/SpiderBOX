@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 软件安全与逆向分析
+      release_time: 2026.07.14 11:41:59
+      title: 来了！你要的安卓完美云手机方案
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485290&idx=1&sn=0c8ca70d2b65f48d62f2d07a90b058ae
+    - author: 哆啦安全
+      release_time: 2026.07.14 11:39:44
+      title: Pixel8 Android15刷机方法(一键刷机脚本)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501029&idx=1&sn=ee6aaa8f240999b8e20f40869a7ee87a
     - author: 进击的HACK
       release_time: 2026.07.13 19:46:17
       title: 我只让Grok回复一个单词，它就把我整个代码库都偷走了。
@@ -180,6 +188,10 @@
       release_time: 2026.07.11 20:01:04
       title: 第5章：常见加密算法的精确还原
       url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483909&idx=1&sn=4d8b695e37ef0435264367c24b8f17c6
+    - author: 哆啦安全
+      release_time: 2026.07.11 17:07:28
+      title: Pixel8 Android15安全手机定制(编译源码)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501022&idx=1&sn=654651c6db5ec23f216d8012a7db4981
     - author: 二手的程序员
       release_time: 2026.07.11 00:01:00
       title: QBDI04 - frida
@@ -232,18 +244,6 @@
       release_time: 2026.07.09 16:59:44
       title: 因担忧中国联网汽车收集美国车主敏感数据，美国参议院拟投票收紧中国汽车准入限制
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520418&idx=2&sn=7cb3ce898556dcabf7a8daafb74a2410
-    - author: 吾爱破解论坛
-      release_time: 2026.07.09 16:20:48
-      title: 【清理未活跃会员】清理2026年十八周年开放注册未活跃会员公告
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144623&idx=1&sn=77a9276961588999a997d2a049eadfe2
-    - author: 猿人学Python
-      release_time: 2026.07.09 16:03:29
-      title: 1000 元一篇，把你的逆向笔记变现
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550261&idx=1&sn=7ba5a5bd49eb2dff856ea2ae6ff2ee6c
-    - author: 极验
-      release_time: 2026.07.09 16:00:00
-      title: 批量恶意注册，正在把游戏发行团队带进“假增长”陷阱
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724546&idx=1&sn=f7b2e94dd6f6b1f24ec20831585cebf5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
