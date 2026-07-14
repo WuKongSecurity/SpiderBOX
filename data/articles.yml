@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 学逆向的柚子
+      release_time: 2026.07.14 16:34:57
+      title: 过某考试软件平台本地环境检测
+      url: https://www.bilibili.com/video/BV1iBNX6REtW
     - author: AngelToms
       release_time: 2026.07.14 14:21:01
       title: msToken算法5-3
@@ -117,13 +121,21 @@
       release_time: 2026.06.23 08:06:50
       title: ab算法之U90
       url: https://www.bilibili.com/video/BV1ds736iEFS
-    - author: r0ysue
-      release_time: 2026.06.22 23:28:43
-      title: iOS18最新越狱打时间差绕过HYATT检测使用frida
-      url: https://www.bilibili.com/video/BV1mY7T6yEUM
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 柳絮的学习杂记
+      release_time: 2026.07.14 16:57:59
+      title: 西南航空-shape分析
+      url: https://mp.weixin.qq.com/s?__biz=MzIzMDEwOTY4MA==&mid=2247483698&idx=1&sn=203b85ce4364d13d081d15f299dff8e4
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.07.14 16:51:10
+      title: 国家计算机病毒应急处理中心检测发现72款违法违规收集使用个人信息的移动应用
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520424&idx=1&sn=de4fc835dde6eb3a191cd0a1402288e8
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.07.14 16:51:10
+      title: Character.AI 因数据和未成年人保护问题在意大利被罚 15.8 万欧元
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520424&idx=2&sn=daaf90bccdde49b145703bdb08ec166a
     - author: 软件安全与逆向分析
       release_time: 2026.07.14 11:41:59
       title: 来了！你要的安卓完美云手机方案
@@ -232,18 +244,6 @@
       release_time: 2026.07.09 17:45:47
       title: 越南版微信 zalo 协议分析
       url: https://mp.weixin.qq.com/s?__biz=Mzk0ODMwNzg4MA==&mid=2247483881&idx=1&sn=8407f8ba17038cacb9ebc2a85e3ad3a6
-    - author: 不落的逆向手札
-      release_time: 2026.07.09 17:30:12
-      title: AES 算法从零到进阶教程
-      url: https://mp.weixin.qq.com/s?__biz=MzYzNTAzOTIxMw==&mid=2247483968&idx=1&sn=7d04ec0fc9ad573230b205dd0a225e76
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.07.09 16:59:44
-      title: 多次被投诉仍整改不力，一物业公司因履行个人信息保护义务不到位受行政处罚
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520418&idx=1&sn=d6d0c8755d36e8c44e065ef1bd91e403
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.07.09 16:59:44
-      title: 因担忧中国联网汽车收集美国车主敏感数据，美国参议院拟投票收紧中国汽车准入限制
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520418&idx=2&sn=7cb3ce898556dcabf7a8daafb74a2410
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
