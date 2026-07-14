@@ -3112,6 +3112,11 @@
           no_referral: true
           url: https://ipipd.cn?ref=SVJLBAVQ
           description: 【需实名】IPIPD 全球高品质代理 IP，为您提供覆盖全球 200+ 国家的纯净代理 IP 资源，拥有最全原生 IP 资源，海量真实住宅 IP 与高速机房 IP。高匿名性，有效规避封禁，保障您的数据采集、市场调研、社媒管理与广告验证等业务高效稳定运行，售后 7*24 在线服务
+        - title: 网帆代理
+          logo: fanproxy.png
+          no_referral: true
+          url: https://www.fanproxy.com?inviteLink=X2mBIab3
+          description: 【需实名】全球优质代理 IP 资源平台，国内/海外动态&静态全覆盖，注册领免费测试
 
         # 8% ==============================
         - title: IPWO
@@ -3492,6 +3497,11 @@
           no_referral: true
           url: https://proxy001.com/index/index/promotion&u=110WmOC411
           description: 100M+ residential IPs in 200+ locations. 99.9% uptime, <0.3s speed. From $0.55/GB. SOCKS5/HTTP(S) supported. Start with Proxy001 today
+        - title: ProxyDeal
+          logo: proxydeal.jpg
+          no_referral: true
+          url: https://proxydeal.io?viteCode=4G4viZPq
+          description: ProxyDeal 海外动静态 IP，支持 210+ 国家，拥有 8 个独立池子，针对于每个客户进行不同的选择，确保每个客户都能体验到最极致的体验
 
         # 2% ==================================
         - title: nstproxy
