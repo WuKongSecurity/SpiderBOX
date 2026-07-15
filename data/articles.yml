@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 逆向狗都不学
+      release_time: 2026.07.15 20:50:44
+      title: Android逆向之DEX文件加固
+      url: https://www.bilibili.com/video/BV1AENz6wEB7
     - author: EithanSolace
       release_time: 2026.07.14 18:40:11
       title: 密码学补完计划[第三十八期] Poly1305(前篇)
@@ -117,13 +121,13 @@
       release_time: 2026.06.23 21:49:17
       title: 瑞数6企业定制版-光某银行纯算
       url: https://www.bilibili.com/video/BV1QVjS6vEmc
-    - author: B站用户骚神
-      release_time: 2026.06.23 16:23:31
-      title: 【虫神插件1.8】重大更新，可以无限免费白嫖deepseek算力！！
-      url: https://www.bilibili.com/video/BV1Fbjm62Ezh
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小小杨学编程
+      release_time: 2026.07.15 20:57:00
+      title: AI逆向最新cloudflare盾、wangluozhe盾、234
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484787&idx=1&sn=bccf8aa2230f4cb56f44a8beaafb7d94
     - author: 进击的HACK
       release_time: 2026.07.15 18:48:40
       title: 抓包工具 + ProxyBridge 小程序/其他应用抓包
@@ -240,10 +244,6 @@
       release_time: 2026.07.11 20:34:16
       title: 数据库敏感信息检索工具
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490306&idx=1&sn=f1aa25134b2a60977ef11cba1d46bc74
-    - author: 反爬破解社
-      release_time: 2026.07.11 20:01:04
-      title: 第5章：常见加密算法的精确还原
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483909&idx=1&sn=4d8b695e37ef0435264367c24b8f17c6
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
