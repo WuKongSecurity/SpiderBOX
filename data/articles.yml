@@ -247,6 +247,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: deadash
+      release_time: 2026.07.15 09:57:00
+      title: 腾讯极光快投ios配网方式
+      url: https://www.52pojie.cn/thread-2117258-1-1.html
+    - author: mxyoor
+      release_time: 2026.07.15 08:22:00
+      title: 从时间片轮转到调用级并发：unidbg 单后端多线程架构重构
+      url: https://www.52pojie.cn/thread-2117230-1-1.html
     - author: '2225106'
       release_time: 2026.07.12 22:25:00
       title: 简单逆向Web视频插件
@@ -359,14 +367,6 @@
       release_time: 2026.06.20 23:03:00
       title: 【多栈实战】某黑产软件全链路逆向实录 (下)
       url: https://www.52pojie.cn/thread-2113640-1-1.html
-    - author: xin777
-      release_time: 2026.06.20 15:17:00
-      title: 打开某安卓系统电子白板的安装任意app权限的一次尝试
-      url: https://www.52pojie.cn/thread-2113596-1-1.html
-    - author: Tartaglia
-      release_time: 2026.06.18 18:36:00
-      title: 灰产分析之xx校园跑工具的登录及风控认证
-      url: https://www.52pojie.cn/thread-2113419-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
