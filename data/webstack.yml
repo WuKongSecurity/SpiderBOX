@@ -3112,11 +3112,6 @@
           no_referral: true
           url: https://ipipd.cn?ref=SVJLBAVQ
           description: 【需实名】IPIPD 全球高品质代理 IP，为您提供覆盖全球 200+ 国家的纯净代理 IP 资源，拥有最全原生 IP 资源，海量真实住宅 IP 与高速机房 IP。高匿名性，有效规避封禁，保障您的数据采集、市场调研、社媒管理与广告验证等业务高效稳定运行，售后 7*24 在线服务
-        - title: 网帆代理
-          logo: fanproxy.png
-          no_referral: true
-          url: https://www.fanproxy.com?inviteLink=X2mBIab3
-          description: 【需实名】全球优质代理 IP 资源平台，国内/海外动态&静态全覆盖，注册领免费测试
 
         # 8% ==============================
         - title: IPWO
@@ -3154,6 +3149,13 @@
           # url: https://www.xiaoxiongip.com?from=rYhWq7
           url: https://www.xiaoxiongip.com?from=DLFsEh
           description: 【需实名】小熊 ip 是一家企业级大数据 HTTP 动态 IP 服务提供商，为上百家企业用户提供海量优质高匿 HTTP 代理 IP，产品延迟低,稳定可靠，自建机房海量 IP，是企业级用户的首选
+
+        # 2% ==============================
+        - title: 网帆代理
+          logo: fanproxy.png
+          no_referral: true
+          url: https://www.fanproxy.com?inviteLink=X2mBIab3
+          description: 【需实名】全球优质代理 IP 资源平台，国内/海外动态&静态全覆盖，注册领免费测试
 
         # 10% 等价流量 =====================
         - title: SmartProxy
