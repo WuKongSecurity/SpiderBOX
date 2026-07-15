@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: EithanSolace
+      release_time: 2026.07.14 18:40:11
+      title: 密码学补完计划[第三十八期] Poly1305(前篇)
+      url: https://www.bilibili.com/video/BV1pFNb6eEXD
     - author: 学逆向的柚子
       release_time: 2026.07.14 16:34:57
       title: 过某考试软件平台本地环境检测
@@ -117,13 +121,25 @@
       release_time: 2026.06.23 16:23:31
       title: 【虫神插件1.8】重大更新，可以无限免费白嫖deepseek算力！！
       url: https://www.bilibili.com/video/BV1Fbjm62Ezh
-    - author: AngelToms
-      release_time: 2026.06.23 08:06:50
-      title: ab算法之U90
-      url: https://www.bilibili.com/video/BV1ds736iEFS
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 大数据安全技术学习
+      release_time: 2026.07.15 00:05:56
+      title: 直播预告：01.r0dump免费开源自动脱壳修复一体机
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486242&idx=1&sn=e8b113b777eba561fb7587c278de6ce0
+    - author: 大数据安全技术学习
+      release_time: 2026.07.15 00:05:56
+      title: 奋斗者计划，助你升职加薪|阿里云、米哈游、阿里巴巴直推
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486242&idx=2&sn=6141026b0bc150ed22967d430abcd279
+    - author: 未闻Code
+      release_time: 2026.07.14 19:38:18
+      title: 把简单问题写复杂，是一种学术病
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991667&idx=1&sn=30e8afc4c8b8e8b30891dc0b4988ee46
+    - author: 进击的HACK
+      release_time: 2026.07.14 18:31:17
+      title: 一个请求头引出的 API 未授权
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490317&idx=1&sn=79ce38257f6276b72e8d67b6019f0784
     - author: 柳絮的学习杂记
       release_time: 2026.07.14 16:57:59
       title: 西南航空-shape分析
@@ -192,6 +208,10 @@
       release_time: 2026.07.12 00:01:00
       title: QBDI05 - 实战
       url: https://mp.weixin.qq.com/s?__biz=MzU2NTkxMTU1NA==&mid=2247489530&idx=1&sn=377d9519ea80f6921bd1fc1795bcc011
+    - author: 未闻Code
+      release_time: 2026.07.11 20:37:46
+      title: Windows 用户狂喜！这款开源桌面灵动岛让你专注工作如丝般顺滑！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991655&idx=1&sn=7691533bc345f32d02bea3f57a8c0eef
     - author: 进击的HACK
       release_time: 2026.07.11 20:34:16
       title: 数据库敏感信息检索工具
@@ -224,26 +244,6 @@
       release_time: 2026.07.10 10:13:48
       title: RSA 算法从零到进阶教程
       url: https://mp.weixin.qq.com/s?__biz=MzYzNTAzOTIxMw==&mid=2247483982&idx=1&sn=df7c7a762e7a82a84c0bf500bba75bfe
-    - author: 二手的程序员
-      release_time: 2026.07.10 07:30:00
-      title: QBDI03 - 事件
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTkxMTU1NA==&mid=2247489522&idx=1&sn=b8dc9425ed31982b0bcd5f1b577dd1b9
-    - author: 如意私塾
-      release_time: 2026.07.09 21:39:56
-      title: 火狐Necko请求库 + 火狐SpiderMonkey JS引擎 + AI补环境过某宁滑块验证
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484913&idx=1&sn=e6cc73adb9f962e5be512847efbe634a
-    - author: 二手的程序员
-      release_time: 2026.07.09 21:39:31
-      title: QBDI02 - 使用
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTkxMTU1NA==&mid=2247489518&idx=1&sn=30a742bfb88d779053e6de62a11d9907
-    - author: 进击的HACK
-      release_time: 2026.07.09 18:10:37
-      title: 六月渗透常用Burpsuite插件
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490298&idx=1&sn=bdd5e743a62c94c78a1e1a5b3c9d2bf1
-    - author: jqiu爬虫分析日记
-      release_time: 2026.07.09 17:45:47
-      title: 越南版微信 zalo 协议分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0ODMwNzg4MA==&mid=2247483881&idx=1&sn=8407f8ba17038cacb9ebc2a85e3ad3a6
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: mxystery
+      release_time: 2026.07.14 19:26:48
+      title: '[原创]从时间片轮转到调用级并发：unidbg 单后端多线程架构重构'
+      url: https://bbs.kanxue.com/thread-292016.htm
     - author: ODcat
       release_time: 2026.07.13 20:49:23
       title: '[原创]对Android加固的学习与总结'
@@ -486,10 +490,6 @@
       release_time: 2026.07.07 08:43:25
       title: '[原创]某梆企业壳变种版新检测点'
       url: https://bbs.kanxue.com/thread-291895.htm
-    - author: Red
-      release_time: 2026.07.06 14:09:18
-      title: '[原创]anti-token 纯算法分析'
-      url: https://bbs.kanxue.com/thread-291889.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
