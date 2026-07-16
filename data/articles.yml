@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2026.07.16 17:29:00
+      title: JS逆向|猿人学逆向反混淆练习平台第23题反混淆及AI逆向
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566574&idx=1&sn=3b96aa66687bfffd4f303dd6727a2da5
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.07.16 17:03:05
+      title: 7款手机端AI完成网信办备案，苹果、华为、小米等主流手机厂商在列
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520438&idx=1&sn=9283ae8143b484c58485c94eb6e44e4c
+    - author: 泡泡以安
+      release_time: 2026.07.16 16:50:10
+      title: Frida学习笔记（二十九）：Frida 工程化 · TS、模块化、工具集
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486600&idx=1&sn=f265e38a72b7d06102002f1b3bcd580d
+    - author: 泡泡以安
+      release_time: 2026.07.16 16:47:24
+      title: Frida学习笔记（二十八）：魔改 Frida · 从字节 patch 到环境伪装
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486599&idx=1&sn=06c5c3902e96c90578cda6f7610a78fa
     - author: 如意私塾
       release_time: 2026.07.16 10:01:00
       title: 如意新品 | b站\抖\快\小\ytb下载器产品复刻教程-下载一切可浏览器加载视频
@@ -228,22 +244,6 @@
       release_time: 2026.07.12 20:37:39
       title: USPS-shape环境分析
       url: https://mp.weixin.qq.com/s?__biz=MzIzMDEwOTY4MA==&mid=2247483694&idx=1&sn=a54fc94bdb3914a4b516501ecaf57767
-    - author: 反爬破解社
-      release_time: 2026.07.12 13:02:23
-      title: 第6章：So层逆向——从汇编到Python
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483913&idx=1&sn=08303563406c787b31b6388e6aa66b8f
-    - author: 二进制磨剑
-      release_time: 2026.07.12 09:30:00
-      title: 高考毕业季｜大一勇闯网安：少年未被磨平，只是学会了与 AI 同行
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486139&idx=1&sn=cae15f78340fabcfa5f971618e12755f
-    - author: 二手的程序员
-      release_time: 2026.07.12 00:01:00
-      title: QBDI05 - 实战
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTkxMTU1NA==&mid=2247489530&idx=1&sn=377d9519ea80f6921bd1fc1795bcc011
-    - author: 未闻Code
-      release_time: 2026.07.11 20:37:46
-      title: Windows 用户狂喜！这款开源桌面灵动岛让你专注工作如丝般顺滑！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991655&idx=1&sn=7691533bc345f32d02bea3f57a8c0eef
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
