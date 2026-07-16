@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 如意-浏览器开发培训
+      release_time: 2026.07.16 12:17:51
+      title: 定制浏览器下载一切浏览器内的dy\ks\xhs\ytb视频
+      url: https://www.bilibili.com/video/BV14uK36tEqg
     - author: 逆向狗都不学
       release_time: 2026.07.15 20:50:44
       title: Android逆向之DEX文件加固
@@ -117,13 +121,13 @@
       release_time: 2026.06.26 07:59:36
       title: ab算法之完结
       url: https://www.bilibili.com/video/BV1q27v6zEK3
-    - author: 如意-浏览器开发培训
-      release_time: 2026.06.23 21:49:17
-      title: 瑞数6企业定制版-光某银行纯算
-      url: https://www.bilibili.com/video/BV1QVjS6vEmc
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.07.16 10:01:00
+      title: 如意新品 | b站\抖\快\小\ytb下载器产品复刻教程-下载一切可浏览器加载视频
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484945&idx=1&sn=57eea864d507598cd44d39838bbd916d
     - author: 小小杨学编程
       release_time: 2026.07.15 20:57:00
       title: AI逆向最新cloudflare盾、wangluozhe盾、234
@@ -240,10 +244,6 @@
       release_time: 2026.07.11 20:37:46
       title: Windows 用户狂喜！这款开源桌面灵动岛让你专注工作如丝般顺滑！
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991655&idx=1&sn=7691533bc345f32d02bea3f57a8c0eef
-    - author: 进击的HACK
-      release_time: 2026.07.11 20:34:16
-      title: 数据库敏感信息检索工具
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490306&idx=1&sn=f1aa25134b2a60977ef11cba1d46bc74
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
