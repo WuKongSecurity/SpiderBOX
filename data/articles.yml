@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 反爬破解社
+      release_time: 2026.07.17 16:56:33
+      title: App 逆向实战：某新闻网站qdata字段加密研究
+      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483924&idx=1&sn=869ce9e9aebe6fcf49889a7ca3f1e8c6
     - author: 逆向有你
       release_time: 2026.07.17 15:50:15
       title: 安卓逆向 -- 某诗词类APP会员保姆教程
@@ -240,10 +244,6 @@
       release_time: 2026.07.13 16:51:15
       title: 【开放注册公告】吾爱破解论坛2026年7月21日暑假开放注册公告
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144626&idx=1&sn=812306484eb0ab9d5bc8a7cf4104fbed
-    - author: 猿人学Python
-      release_time: 2026.07.13 11:41:09
-      title: Akamai对抗的隐秘战线——TLS指纹
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550277&idx=1&sn=e596e77bed300e10c1d9e8efc0aa1426
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
