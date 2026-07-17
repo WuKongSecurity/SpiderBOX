@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.07.17 11:01:42
+      title: ruyiTrace秒杀 | CXTV HLS TS H264加密视频分析、纯算复现与无花屏视频下载
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484952&idx=1&sn=c9727caa57455d8690ec8cef2a7f09af
+    - author: 泡泡以安
+      release_time: 2026.07.17 10:33:10
+      title: Frida学习笔记（完结）：EPUB/PDF 附件下载
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486781&idx=1&sn=0e90d16dca260db13da798b3a1c4d946
+    - author: 哆啦安全
+      release_time: 2026.07.17 10:04:04
+      title: Android15 Google Pixel8内核源码编译和定制开发
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501043&idx=1&sn=406ed2e3af4cab7b985aadfb49b50123
+    - author: 进击的HACK
+      release_time: 2026.07.16 21:07:06
+      title: 开源 AI Hacker 工具 strix
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490325&idx=1&sn=6e20b8f8b7bdf70d601f8d583663f24e
     - author: 菜鸟学Python编程
       release_time: 2026.07.16 17:29:00
       title: JS逆向|猿人学逆向反混淆练习平台第23题反混淆及AI逆向
@@ -228,22 +244,6 @@
       release_time: 2026.07.13 08:30:00
       title: 【密码学】门限 FALCON 签名代码实现
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495777&idx=1&sn=c2b4bf7688807f660b1a46a2f54da5a5
-    - author: 测试工程师成长之路
-      release_time: 2026.07.13 08:30:00
-      title: 给测试机装了个浏览器控制台，从此不用碰数据线
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579170&idx=1&sn=7a8637355bd90d8e8a292c90f454dffa
-    - author: 进击的HACK
-      release_time: 2026.07.12 23:20:36
-      title: Mysql-JDBC反序列化利用与简单分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490310&idx=1&sn=caded292dd014ebbda0216a1f8a84ebc
-    - author: 邱邱爱风控
-      release_time: 2026.07.12 20:41:49
-      title: 账号不是生命周期，是供应链
-      url: https://mp.weixin.qq.com/s?__biz=MzYyMjgzMzcwNg==&mid=2247485163&idx=1&sn=ddfbc6d9092ec7317d63d16f95f8c47f
-    - author: 柳絮的学习杂记
-      release_time: 2026.07.12 20:37:39
-      title: USPS-shape环境分析
-      url: https://mp.weixin.qq.com/s?__biz=MzIzMDEwOTY4MA==&mid=2247483694&idx=1&sn=a54fc94bdb3914a4b516501ecaf57767
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: ODcat
+      release_time: 2026.07.17 11:27:33
+      title: '[原创]SSL-Pinning-Bybass'
+      url: https://bbs.kanxue.com/thread-292049.htm
     - author: mxystery
       release_time: 2026.07.14 19:26:48
       title: '[原创]从时间片轮转到调用级并发：unidbg 单后端多线程架构重构'
@@ -486,10 +490,6 @@
       release_time: 2026.07.07 17:03:23
       title: '[原创]对早期360-Dex加固的学习'
       url: https://bbs.kanxue.com/thread-291902.htm
-    - author: mb_cfjwplfo
-      release_time: 2026.07.07 08:43:25
-      title: '[原创]某梆企业壳变种版新检测点'
-      url: https://bbs.kanxue.com/thread-291895.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
