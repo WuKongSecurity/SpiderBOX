@@ -104,8 +104,8 @@
 #      url: https://t.zsxq.com/14tPsY8si
       url: https://t.zsxq.com/bcccS
       description: 星主：十一姐，公众号：逆向OneByOne，各种JS逆向/验证码逆向/图像识别训练/自动化爬虫干货分享
-    - title: Chrome for Testing availability
-      logo: chromedriver.jpg
-      url: https://googlechromelabs.github.io/chrome-for-testing/
-      description: 获取 Chrome 所有版本（113 以后的）的安装包，以及 Chrome Driver 驱动
+#    - title: Chrome for Testing availability
+#      logo: chromedriver.jpg
+#      url: https://googlechromelabs.github.io/chrome-for-testing/
+#      description: 获取 Chrome 所有版本（113 以后的）的安装包，以及 Chrome Driver 驱动
 

@@ -6181,6 +6181,10 @@
 
     - name: 综合分类
       links:
+        - title: gpt-5.6-instruct
+          url: https://github.com/MDX-Tom/gpt-5.6-instruct
+          logo: github.png
+          description: Codex gpt-5.6 破甲提示词及测试包，提供大模型越狱/破甲提示词，将安全研究、渗透测试、逆向工程、软件破解与 NSFW 虚构内容统一声明为本地沙箱任务，显式压制拒绝/回退话术
         - title: postman-mcp-server
           url: https://github.com/postmanlabs/postman-mcp-server
           logo: github.png
