@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.07.17 19:25:09
+      title: 实战sql盲注小技巧
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490327&idx=1&sn=9af892f62b6767cc29a80ab4e62799e5
     - author: 反爬破解社
       release_time: 2026.07.17 16:56:33
       title: App 逆向实战：某新闻网站qdata字段加密研究
@@ -236,10 +240,6 @@
       release_time: 2026.07.13 19:46:17
       title: 我只让Grok回复一个单词，它就把我整个代码库都偷走了。
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490312&idx=1&sn=d719c5e6b91e9411fe808aa56e93f504
-    - author: 反爬破解社
-      release_time: 2026.07.13 17:46:13
-      title: 抓包抓不到？全网最全的原因分析与解决方案
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483914&idx=1&sn=b844230e93118cdd36db3135e3b099b7
     - author: 吾爱破解论坛
       release_time: 2026.07.13 16:51:15
       title: 【开放注册公告】吾爱破解论坛2026年7月21日暑假开放注册公告
@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: yan019369
+      release_time: 2026.07.17 15:26:00
+      title: 看懂身份验证中的活体检测（二）：三色/炫彩/RGB检测
+      url: https://www.52pojie.cn/thread-2117702-1-1.html
     - author: deadash
       release_time: 2026.07.15 09:57:00
       title: 腾讯极光快投ios配网方式
@@ -363,10 +367,6 @@
       release_time: 2026.06.21 12:42:00
       title: 雷电模拟器14安装面具magisk
       url: https://www.52pojie.cn/thread-2113682-1-1.html
-    - author: JiGuro
-      release_time: 2026.06.20 23:03:00
-      title: 【多栈实战】某黑产软件全链路逆向实录 (下)
-      url: https://www.52pojie.cn/thread-2113640-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
