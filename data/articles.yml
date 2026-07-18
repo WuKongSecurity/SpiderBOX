@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 澎湖湾的彭
+      release_time: 2026.07.18 16:03:45
+      title: 某验4无感验证协议逆向
+      url: https://www.bilibili.com/video/BV1voKc6yEcm
     - author: 如意-浏览器开发培训
       release_time: 2026.07.16 12:17:51
       title: 定制浏览器下载一切浏览器内的dy\ks\xhs\ytb视频
@@ -117,10 +121,6 @@
       release_time: 2026.06.27 14:57:32
       title: 海外版"支付宝"最新GCash用frida和objection去hook逆向
       url: https://www.bilibili.com/video/BV1DS7J6HEUv
-    - author: AngelToms
-      release_time: 2026.06.26 07:59:36
-      title: ab算法之完结
-      url: https://www.bilibili.com/video/BV1q27v6zEK3
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
