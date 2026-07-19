@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.07.19 22:16:37
+      title: 你的最后一套JS逆向课 | kasada过风控无敌大并发
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484962&idx=1&sn=c0e0075f64efba3f81324a02cc951f8f
+    - author: 未闻Code
+      release_time: 2026.07.19 20:06:24
+      title: 所有人都在做 Agent，但很多人连 Agent 是什么都没想明白
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991684&idx=1&sn=3fbdb13092f1ce9438b824ae1ca5d9ff
+    - author: 如意私塾
+      release_time: 2026.07.18 12:32:18
+      title: 广东安全逆向圈子 | 十年逆向教育二次聚会
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484954&idx=1&sn=f86ec167d84e3b23c23b7354a0c9552c
     - author: 进击的HACK
       release_time: 2026.07.17 19:25:09
       title: 实战sql盲注小技巧
@@ -228,18 +240,6 @@
       release_time: 2026.07.14 16:51:10
       title: Character.AI 因数据和未成年人保护问题在意大利被罚 15.8 万欧元
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520424&idx=2&sn=daaf90bccdde49b145703bdb08ec166a
-    - author: 软件安全与逆向分析
-      release_time: 2026.07.14 11:41:59
-      title: 来了！你要的安卓完美云手机方案
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485290&idx=1&sn=0c8ca70d2b65f48d62f2d07a90b058ae
-    - author: 哆啦安全
-      release_time: 2026.07.14 11:39:44
-      title: Pixel8 Android15刷机方法(一键刷机脚本)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501029&idx=1&sn=ee6aaa8f240999b8e20f40869a7ee87a
-    - author: 进击的HACK
-      release_time: 2026.07.13 19:46:17
-      title: 我只让Grok回复一个单词，它就把我整个代码库都偷走了。
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490312&idx=1&sn=d719c5e6b91e9411fe808aa56e93f504
     - author: 吾爱破解论坛
       release_time: 2026.07.13 16:51:15
       title: 【开放注册公告】吾爱破解论坛2026年7月21日暑假开放注册公告
