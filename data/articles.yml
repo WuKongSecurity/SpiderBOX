@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: AngelToms
+      release_time: 2026.07.20 09:45:15
+      title: msToken5-4完结
+      url: https://www.bilibili.com/video/BV1CdKC6LEGH
     - author: EithanSolace
       release_time: 2026.07.19 08:00:00
       title: 密码学补完计划[第三十九期] Poly1305(后篇)
@@ -117,10 +121,6 @@
       release_time: 2026.06.28 17:49:25
       title: ab算法之总结
       url: https://www.bilibili.com/video/BV1mGTM6QEJC
-    - author: 小肩膀-逆向安全培训
-      release_time: 2026.06.27 17:19:38
-      title: 小肩膀自动逆向Skill（xiaojianbang-auto-reverse）单卖299，包更新，私信up即可
-      url: https://www.bilibili.com/video/BV16L7p6GEeu
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
