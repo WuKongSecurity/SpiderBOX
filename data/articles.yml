@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.07.20 12:28:30
+      title: APK/IPA/HAP | 移动逆向分析工具V3.5
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501065&idx=1&sn=4be2cafcf539235ee3c4f41dc766c2cb
+    - author: 猿人学Python
+      release_time: 2026.07.20 10:54:18
+      title: 给公司介绍了个1000元的算法，差点被判四年 - 爬虫er100人
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550368&idx=1&sn=b7a14c3e1dec917d1431d079bdd81e45
+    - author: 逆向有你
+      release_time: 2026.07.20 09:40:50
+      title: 安卓逆向 -- 神庙逃亡（Temple Run）IL2CPP 逆向实战：从 APK 到 Frida 实现角色无敌
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041816&idx=1&sn=7213de5dd317c180e5de98964ca66e2f
     - author: 如意私塾
       release_time: 2026.07.19 22:16:37
       title: 你的最后一套JS逆向课 | kasada过风控无敌大并发
@@ -140,6 +152,10 @@
       release_time: 2026.07.17 19:25:09
       title: 实战sql盲注小技巧
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490327&idx=1&sn=9af892f62b6767cc29a80ab4e62799e5
+    - author: 吾爱破解论坛
+      release_time: 2026.07.17 19:03:57
+      title: 【开放注册公告】吾爱破解论坛2026年7月21日暑假开放注册公告
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144640&idx=1&sn=72e65e62539eab1a01d297b5c36ab052
     - author: 反爬破解社
       release_time: 2026.07.17 16:56:33
       title: App 逆向实战：某新闻网站qdata字段加密研究
@@ -228,22 +244,6 @@
       release_time: 2026.07.14 18:31:17
       title: 一个请求头引出的 API 未授权
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490317&idx=1&sn=79ce38257f6276b72e8d67b6019f0784
-    - author: 柳絮的学习杂记
-      release_time: 2026.07.14 16:57:59
-      title: 西南航空-shape分析
-      url: https://mp.weixin.qq.com/s?__biz=MzIzMDEwOTY4MA==&mid=2247483698&idx=1&sn=203b85ce4364d13d081d15f299dff8e4
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.07.14 16:51:10
-      title: 国家计算机病毒应急处理中心检测发现72款违法违规收集使用个人信息的移动应用
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520424&idx=1&sn=de4fc835dde6eb3a191cd0a1402288e8
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.07.14 16:51:10
-      title: Character.AI 因数据和未成年人保护问题在意大利被罚 15.8 万欧元
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520424&idx=2&sn=daaf90bccdde49b145703bdb08ec166a
-    - author: 吾爱破解论坛
-      release_time: 2026.07.13 16:51:15
-      title: 【开放注册公告】吾爱破解论坛2026年7月21日暑假开放注册公告
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144626&idx=1&sn=812306484eb0ab9d5bc8a7cf4104fbed
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -251,6 +251,10 @@
       release_time: 2026.07.17 15:26:00
       title: 看懂身份验证中的活体检测（二）：三色/炫彩/RGB检测
       url: https://www.52pojie.cn/thread-2117702-1-1.html
+    - author: ╰留个小板寸回
+      release_time: 2026.07.17 12:43:00
+      title: 用ai分析的某游麻将里面的十三水cft
+      url: https://www.52pojie.cn/thread-2117669-1-1.html
     - author: deadash
       release_time: 2026.07.15 09:57:00
       title: 腾讯极光快投ios配网方式
@@ -363,13 +367,17 @@
       release_time: 2026.06.22 00:11:00
       title: 领域特定虚拟机DSVM指令完整还原
       url: https://www.52pojie.cn/thread-2113743-1-1.html
-    - author: 小乖乖
-      release_time: 2026.06.21 12:42:00
-      title: 雷电模拟器14安装面具magisk
-      url: https://www.52pojie.cn/thread-2113682-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: mb_audxeeaj
+      release_time: 2026.07.20 16:47:24
+      title: '[原创]Cocos Creator游戏过加密'
+      url: https://bbs.kanxue.com/thread-292085.htm
+    - author: xiaoxinre
+      release_time: 2026.07.20 15:43:19
+      title: '[原创]macOS企业微信5.0.7逆向分析(二)：登录链路分析'
+      url: https://bbs.kanxue.com/thread-292082.htm
     - author: mb_cfjwplfo
       release_time: 2026.07.19 11:50:21
       title: '[原创]检测Frida的两种新方法'
@@ -482,14 +490,6 @@
       release_time: 2026.07.09 14:39:23
       title: '[原创]看懂身份验证中的活体检测（一）：动作活体'
       url: https://bbs.kanxue.com/thread-291933.htm
-    - author: 秋落
-      release_time: 2026.07.09 13:10:15
-      title: herdr Agent主导:自动化逆向5款安卓检测器,内核级绕过实战
-      url: https://bbs.kanxue.com/thread-291930.htm
-    - author: 太岁又沐风
-      release_time: 2026.07.08 23:19:40
-      title: '[原创]美团大众点评降级抓包LSPosed插件-反混淆通用思路'
-      url: https://bbs.kanxue.com/thread-291926.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
