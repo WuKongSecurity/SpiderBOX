@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 如意-浏览器开发培训
+      release_time: 2026.07.21 23:43:07
+      title: JS逆向教程秒杀阿里v2
+      url: https://www.bilibili.com/video/BV1RVKY6PEZj
     - author: 蛋蛋yong闯小B站
       release_time: 2026.07.21 22:55:58
       title: AI+逆向工程终极合集：从古法手艺到全自动逆向课程介绍
@@ -117,10 +121,6 @@
       release_time: 2026.07.03 09:34:17
       title: 直播间通讯sign算法4-2
       url: https://www.bilibili.com/video/BV1u5TW6iEyN
-    - author: r0ysue
-      release_time: 2026.07.01 18:10:30
-      title: 最新海外版"支付宝"GCash脱壳修复获取验证码生成完整逻辑
-      url: https://www.bilibili.com/video/BV1D5Tv6NECs
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Ivory0
+      release_time: 2026.07.21 23:26:06
+      title: '[原创] 使用 Kimi K3 进行脱壳工具迁移开发：将 FART 迁移到 Android 16'
+      url: https://bbs.kanxue.com/thread-292107.htm
     - author: free_spider
       release_time: 2026.07.20 18:43:42
       title: '[原创]js逆向---闲鱼---醇酸MD5'
@@ -486,10 +490,6 @@
       release_time: 2026.07.09 17:26:42
       title: '[原创]某手反混淆识别与处理'
       url: https://bbs.kanxue.com/thread-291937.htm
-    - author: belikewater
-      release_time: 2026.07.09 16:49:38
-      title: '[原创]某加固简单分析记录'
-      url: https://bbs.kanxue.com/thread-291935.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
