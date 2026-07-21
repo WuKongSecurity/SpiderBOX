@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2026.07.21 10:15:44
+      title: 安卓逆向 -- 某APP参数（X-app-token ）
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041823&idx=1&sn=9147e919ea3f8d680806f633c2f3ccfa
     - author: 哆啦安全
       release_time: 2026.07.20 12:28:30
       title: APK/IPA/HAP | 移动逆向分析工具V3.5
@@ -240,10 +244,6 @@
       release_time: 2026.07.14 19:38:18
       title: 把简单问题写复杂，是一种学术病
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991667&idx=1&sn=30e8afc4c8b8e8b30891dc0b4988ee46
-    - author: 进击的HACK
-      release_time: 2026.07.14 18:31:17
-      title: 一个请求头引出的 API 未授权
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490317&idx=1&sn=79ce38257f6276b72e8d67b6019f0784
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
