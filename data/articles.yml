@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: ╰留个小板寸回
+      release_time: 2026.07.21 19:00:00
+      title: 某游麻将里十三水游戏的逆向分析
+      url: https://www.52pojie.cn/thread-2118301-1-1.html
     - author: xvguu
       release_time: 2026.07.21 13:59:00
       title: SSL-Pinning-Bybass——一键式解决SSL证书锁定
@@ -363,10 +367,6 @@
       release_time: 2026.06.23 19:44:00
       title: JS 盾（JS DUN PROTECT）加固小记
       url: https://www.52pojie.cn/thread-2114065-1-1.html
-    - author: xvguu
-      release_time: 2026.06.23 19:34:00
-      title: RR视频.apk客户端登录协议分析
-      url: https://www.52pojie.cn/thread-2114063-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
