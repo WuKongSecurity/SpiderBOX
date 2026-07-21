@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 如意-浏览器开发培训
+      release_time: 2026.07.21 16:55:08
+      title: JS逆向终结计划-kasada彻底解决和并发
+      url: https://www.bilibili.com/video/BV15TKb6XEFe
     - author: AngelToms
       release_time: 2026.07.20 09:45:15
       title: msToken5-4完结
@@ -117,10 +121,6 @@
       release_time: 2026.06.29 22:15:52
       title: 实战pixel6刷安卓17再稳稳降级安卓14
       url: https://www.bilibili.com/video/BV1VtKD6UEb2
-    - author: AngelToms
-      release_time: 2026.06.28 17:49:25
-      title: ab算法之总结
-      url: https://www.bilibili.com/video/BV1mGTM6QEJC
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: xvguu
+      release_time: 2026.07.21 13:59:00
+      title: SSL-Pinning-Bybass——一键式解决SSL证书锁定
+      url: https://www.52pojie.cn/thread-2118235-1-1.html
     - author: yan019369
       release_time: 2026.07.17 15:26:00
       title: 看懂身份验证中的活体检测（二）：三色/炫彩/RGB检测
@@ -363,10 +367,6 @@
       release_time: 2026.06.23 19:34:00
       title: RR视频.apk客户端登录协议分析
       url: https://www.52pojie.cn/thread-2114063-1-1.html
-    - author: jbczzz
-      release_time: 2026.06.22 00:11:00
-      title: 领域特定虚拟机DSVM指令完整还原
-      url: https://www.52pojie.cn/thread-2113743-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
