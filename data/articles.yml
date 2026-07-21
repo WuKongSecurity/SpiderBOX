@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 蛋蛋yong闯小B站
+      release_time: 2026.07.21 22:55:58
+      title: AI+逆向工程终极合集：从古法手艺到全自动逆向课程介绍
+      url: https://www.bilibili.com/video/BV17UKY63EC4
+    - author: 蛋蛋yong闯小B站
+      release_time: 2026.07.21 22:54:04
+      title: 全网首发 TK最新加密参数X-Dynosaur思路分析
+      url: https://www.bilibili.com/video/BV14hKY6XEFQ
     - author: 如意-浏览器开发培训
       release_time: 2026.07.21 16:55:08
       title: JS逆向终结计划-kasada彻底解决和并发
@@ -113,14 +121,6 @@
       release_time: 2026.07.01 18:10:30
       title: 最新海外版"支付宝"GCash脱壳修复获取验证码生成完整逻辑
       url: https://www.bilibili.com/video/BV1D5Tv6NECs
-    - author: r0ysue
-      release_time: 2026.06.30 17:59:04
-      title: 最新版海外"支付宝"GCash过检测环境抓包登录包验证码
-      url: https://www.bilibili.com/video/BV1eWTF6GEqS
-    - author: r0ysue
-      release_time: 2026.06.29 22:15:52
-      title: 实战pixel6刷安卓17再稳稳降级安卓14
-      url: https://www.bilibili.com/video/BV1VtKD6UEb2
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: wolfSpicy
+      release_time: 2026.07.21 21:27:00
+      title: typora的launch.dist.js解读
+      url: https://www.52pojie.cn/thread-2118325-1-1.html
     - author: ╰留个小板寸回
       release_time: 2026.07.21 19:00:00
       title: 某游麻将里十三水游戏的逆向分析
@@ -363,10 +367,6 @@
       release_time: 2026.06.23 21:36:00
       title: ELF 二进制字符串加密的逆向
       url: https://www.52pojie.cn/thread-2114080-1-1.html
-    - author: rsds0duck
-      release_time: 2026.06.23 19:44:00
-      title: JS 盾（JS DUN PROTECT）加固小记
-      url: https://www.52pojie.cn/thread-2114065-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
