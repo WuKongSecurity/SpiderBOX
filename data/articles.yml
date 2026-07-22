@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: Breeze_122134
+      release_time: 2026.07.22 14:31:58
+      title: 某省公共资源交易平台
+      url: https://www.bilibili.com/video/BV1j7gr6uEGK
     - author: 如意-浏览器开发培训
       release_time: 2026.07.21 23:43:07
       title: JS逆向教程秒杀阿里v2
@@ -117,10 +121,6 @@
       release_time: 2026.07.04 21:22:36
       title: 密码学补完计划[第三十六期] HMAC(后篇)
       url: https://www.bilibili.com/video/BV1DMMN6DEgC
-    - author: AngelToms
-      release_time: 2026.07.03 09:34:17
-      title: 直播间通讯sign算法4-2
-      url: https://www.bilibili.com/video/BV1u5TW6iEyN
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
