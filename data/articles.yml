@@ -124,6 +124,26 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 一支甜筒
+      release_time: 2026.07.21 23:32:29
+      title: 过hunter环境检测
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NDYzMDMwMw==&mid=2247483809&idx=1&sn=2067eb714fe6570562f747cd5e273767
+    - author: 如意私塾
+      release_time: 2026.07.21 20:28:50
+      title: 浏览器指纹大版本修改检测分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484967&idx=1&sn=3b672cf3f1ce0c7dea920d8638872533
+    - author: 进击的HACK
+      release_time: 2026.07.21 19:24:44
+      title: Fastjson 1.2.83 RCE 漏洞深度分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490329&idx=1&sn=c870e41daaa7d267e24cb31cadbb6e23
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.07.21 16:42:26
+      title: 诱导网民完成账号实名注册并售卖，13人因涉嫌侵犯公民个人信息犯罪被采取刑事强制措施
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520444&idx=1&sn=bb7982b7c3e5adbfa47ea03118125654
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.07.21 16:42:26
+      title: 新加坡PDPC发布生成式AI个人数据使用指引，特定情况下使用个资训练生成式AI模型，须先征求用户同意
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520444&idx=2&sn=d7a4625ed48493fd251d26a8e647c6c1
     - author: 逆向有你
       release_time: 2026.07.21 10:15:44
       title: 安卓逆向 -- 某APP参数（X-app-token ）
@@ -224,26 +244,6 @@
       release_time: 2026.07.15 16:14:03
       title: Windows内核驱动完整实现：创建设备、注册派遣函数与完成IRP请求
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501031&idx=1&sn=efa8cf379b8236c2677092cd189dc63f
-    - author: 哆啦安全
-      release_time: 2026.07.15 16:14:03
-      title: 没钱没资源，如何真正赚大钱？普通人从“打工积累”到“独自创业”的破局闭环(认知篇)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501031&idx=2&sn=6a8fe711b7f2c9d72ae6c350c8edda6f
-    - author: 吾爱破解论坛
-      release_time: 2026.07.15 16:09:18
-      title: 吾爱破解论坛网络诊断修复工具 v3.0
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144634&idx=1&sn=e605bbac6a0bfc723d0b5807bc803880
-    - author: 大数据安全技术学习
-      release_time: 2026.07.15 00:05:56
-      title: 直播预告：01.r0dump免费开源自动脱壳修复一体机
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486242&idx=1&sn=e8b113b777eba561fb7587c278de6ce0
-    - author: 大数据安全技术学习
-      release_time: 2026.07.15 00:05:56
-      title: 奋斗者计划，助你升职加薪|阿里云、米哈游、阿里巴巴直推
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486242&idx=2&sn=6141026b0bc150ed22967d430abcd279
-    - author: 未闻Code
-      release_time: 2026.07.14 19:38:18
-      title: 把简单问题写复杂，是一种学术病
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991667&idx=1&sn=30e8afc4c8b8e8b30891dc0b4988ee46
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
