@@ -374,6 +374,10 @@
       release_time: 2026.07.22 14:04:14
       title: 腾讯滑块验证码逆向解析
       url: https://blog.csdn.net/weixin_52283613/article/details/163105024
+    - author: 一本杂志
+      release_time: 2026.07.21 23:34:07
+      title: 某航 cookies：ssxmod_itna、ssxmod_itna2参数逆向分析思路学习
+      url: https://blog.csdn.net/y662225dd/article/details/163087641
     - author: Ivory0
       release_time: 2026.07.21 23:26:06
       title: '[原创] 使用 Kimi K3 进行脱壳工具迁移开发：将 FART 迁移到 Android 16'
@@ -426,6 +430,10 @@
       release_time: 2026.07.17 11:27:33
       title: '[原创]SSL-Pinning-Bybass'
       url: https://bbs.kanxue.com/thread-292049.htm
+    - author: 红皮西瓜绿了心
+      release_time: 2026.07.15 08:00:00
+      title: 基于 GLM-5.2 的 X-Gnarly (332位) 纯算还原分析
+      url: https://blog.csdn.net/m0_46265880/article/details/162859517
     - author: mxystery
       release_time: 2026.07.14 19:26:48
       title: '[原创]从时间片轮转到调用级并发：unidbg 单后端多线程架构重构'
@@ -482,14 +490,6 @@
       release_time: 2026.07.10 13:56:49
       title: '[原创]开源某视频x-bogus算法'
       url: https://bbs.kanxue.com/thread-291949.htm
-    - author: PPKun
-      release_time: 2026.07.10 11:44:36
-      title: '[原创] sukinject：跨进程 arm64 DBI hook / 注入框架'
-      url: https://bbs.kanxue.com/thread-291947.htm
-    - author: free_spider
-      release_time: 2026.07.10 00:02:52
-      title: '[原创]js逆向 验证码 网易易盾分析'
-      url: https://bbs.kanxue.com/thread-291943.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
