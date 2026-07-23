@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2026.07.23 17:29:49
+      title: 某骗子黑产软件（手机远控）的分析
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144658&idx=1&sn=b76c722dbcad54ddcc6695d8aad65307
+    - author: 极验
+      release_time: 2026.07.23 16:00:00
+      title: 验证通过的那一刻，短信盗刷的风险才刚刚开始
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724565&idx=1&sn=ce1330f770362e5bf563d2e1da7279f0
+    - author: 未闻Code
+      release_time: 2026.07.23 15:33:08
+      title: 梁文锋谈的，是 AGI 的未来，还是 DeepSeek 的未来？
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991693&idx=1&sn=93a870b1a48387aaceb14bb94c6826c7
     - author: R逆向
       release_time: 2026.07.23 00:25:37
       title: 拼多多 8.17.0 抓包实录：长连接降级 + 自实现 SSL Pinning + 代理检测
@@ -232,18 +244,6 @@
       release_time: 2026.07.17 10:33:10
       title: Frida学习笔记（完结）：EPUB/PDF 附件下载
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486781&idx=1&sn=0e90d16dca260db13da798b3a1c4d946
-    - author: 哆啦安全
-      release_time: 2026.07.17 10:04:04
-      title: Android15 Google Pixel8内核源码编译和定制开发
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501043&idx=1&sn=406ed2e3af4cab7b985aadfb49b50123
-    - author: 进击的HACK
-      release_time: 2026.07.16 21:07:06
-      title: 开源 AI Hacker 工具 strix
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490325&idx=1&sn=6e20b8f8b7bdf70d601f8d583663f24e
-    - author: 菜鸟学Python编程
-      release_time: 2026.07.16 17:29:00
-      title: JS逆向|猿人学逆向反混淆练习平台第23题反混淆及AI逆向
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566574&idx=1&sn=3b96aa66687bfffd4f303dd6727a2da5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
