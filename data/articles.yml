@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.07.23 17:56:05
+      title: 中国数据保护月度报告：重点提示及目录（2026年7月）
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520456&idx=1&sn=4181f1e40a3c61a71934c19a22a6b119
+    - author: 菜鸟学Python编程
+      release_time: 2026.07.23 17:55:00
+      title: JS逆向|简单的PX3按压验证码AI还原及逆向
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566600&idx=1&sn=23f05ebaf00143ba6b453cc834ae20d7
     - author: 吾爱破解论坛
       release_time: 2026.07.23 17:29:49
       title: 某骗子黑产软件（手机远控）的分析
@@ -220,6 +228,10 @@
       release_time: 2026.07.18 12:32:18
       title: 广东安全逆向圈子 | 十年逆向教育二次聚会
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484954&idx=1&sn=f86ec167d84e3b23c23b7354a0c9552c
+    - author: 菜鸟学Python编程
+      release_time: 2026.07.18 09:51:12
+      title: JS逆向|猿人学逆向反混淆练习平台第26题反混淆及AI逆向
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566582&idx=1&sn=6c70114e6d3c86202c178829e28e9e86
     - author: 进击的HACK
       release_time: 2026.07.17 19:25:09
       title: 实战sql盲注小技巧
@@ -232,18 +244,6 @@
       release_time: 2026.07.17 16:56:33
       title: App 逆向实战：某新闻网站qdata字段加密研究
       url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483924&idx=1&sn=869ce9e9aebe6fcf49889a7ca3f1e8c6
-    - author: 逆向有你
-      release_time: 2026.07.17 15:50:15
-      title: 安卓逆向 -- 某诗词类APP会员保姆教程
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041804&idx=1&sn=7d5e52d793b050f4662e2a2203ee3033
-    - author: 如意私塾
-      release_time: 2026.07.17 11:01:42
-      title: ruyiTrace秒杀 | CXTV HLS TS H264加密视频分析、纯算复现与无花屏视频下载
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484952&idx=1&sn=c9727caa57455d8690ec8cef2a7f09af
-    - author: 泡泡以安
-      release_time: 2026.07.17 10:33:10
-      title: Frida学习笔记（完结）：EPUB/PDF 附件下载
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486781&idx=1&sn=0e90d16dca260db13da798b3a1c4d946
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
