@@ -124,6 +124,30 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: R逆向
+      release_time: 2026.07.23 00:25:37
+      title: 拼多多 8.17.0 抓包实录：长连接降级 + 自实现 SSL Pinning + 代理检测
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NjA3Mw==&mid=2247483854&idx=1&sn=a5a368b3623647d4141c61d4fdd11a05
+    - author: 进击的HACK
+      release_time: 2026.07.22 21:14:03
+      title: 真实环境打 fastjson 1.2.83 rce？答案是有点难
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490331&idx=1&sn=e969d90687a9799f9cdea11bd5a104db
+    - author: 未闻Code
+      release_time: 2026.07.22 19:30:11
+      title: 37.4K Star！开源界的「六边形战士」AstrBot，把 AI 装进你的所有聊天软件！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991687&idx=1&sn=b32b43bb383b8636e8128b4843c2994d
+    - author: 菜鸟学Python编程
+      release_time: 2026.07.22 17:30:00
+      title: JS逆向|猿人学逆向反混淆练习平台第25题反混淆及AI逆向
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566591&idx=1&sn=46694af1b017520909439c897a86665a
+    - author: 布鲁的Python之旅
+      release_time: 2026.07.22 17:24:38
+      title: 有某位作者突然想起好久没冒泡了！原来是去...
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486483&idx=1&sn=28376095ab1c4fa9b6c4e5c2ec53bbf7
+    - author: AI爬盒
+      release_time: 2026.07.22 17:11:53
+      title: 开源 Grok 桌面版（Linux / macOS / Windows）
+      url: https://mp.weixin.qq.com/s?__biz=MzcwMzIxNDAxMQ==&mid=2247483770&idx=1&sn=3e5e17d6d87aec2ecf9e427a01cdacc3
     - author: 个人信息与数据保护实务评论
       release_time: 2026.07.22 15:52:19
       title: 中央网信办部署开展“清朗·未成年人网络保护”专项行动
@@ -220,30 +244,6 @@
       release_time: 2026.07.16 17:29:00
       title: JS逆向|猿人学逆向反混淆练习平台第23题反混淆及AI逆向
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566574&idx=1&sn=3b96aa66687bfffd4f303dd6727a2da5
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.07.16 17:03:05
-      title: 7款手机端AI完成网信办备案，苹果、华为、小米等主流手机厂商在列
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520438&idx=1&sn=9283ae8143b484c58485c94eb6e44e4c
-    - author: 泡泡以安
-      release_time: 2026.07.16 16:50:10
-      title: Frida学习笔记（二十九）：Frida 工程化 · TS、模块化、工具集
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486600&idx=1&sn=f265e38a72b7d06102002f1b3bcd580d
-    - author: 泡泡以安
-      release_time: 2026.07.16 16:47:24
-      title: Frida学习笔记（二十八）：魔改 Frida · 从字节 patch 到环境伪装
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486599&idx=1&sn=06c5c3902e96c90578cda6f7610a78fa
-    - author: 如意私塾
-      release_time: 2026.07.16 10:01:00
-      title: 如意新品 | b站\抖\快\小\ytb下载器产品复刻教程-下载一切可浏览器加载视频
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484945&idx=1&sn=57eea864d507598cd44d39838bbd916d
-    - author: 小小杨学编程
-      release_time: 2026.07.15 20:57:00
-      title: AI逆向最新cloudflare盾、wangluozhe盾、234
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484787&idx=1&sn=bccf8aa2230f4cb56f44a8beaafb7d94
-    - author: 进击的HACK
-      release_time: 2026.07.15 18:48:40
-      title: 抓包工具 + ProxyBridge 小程序/其他应用抓包
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490321&idx=1&sn=d2d8a685eda04edbed67caa428f5a5a9
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
