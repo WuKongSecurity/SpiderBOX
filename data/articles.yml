@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 芽衣
+      release_time: 2026.07.23 22:54:00
+      title: mx播放器 去除签名校验教程
+      url: https://www.52pojie.cn/thread-2118952-1-1.html
     - author: wolfSpicy
       release_time: 2026.07.21 21:27:00
       title: typora的launch.dist.js解读
@@ -363,13 +367,13 @@
       release_time: 2026.06.23 21:39:00
       title: 利用Unicorn对压缩壳静态脱取和NEON XOR 字符串解密算法分析
       url: https://www.52pojie.cn/thread-2114082-1-1.html
-    - author: jbczzz
-      release_time: 2026.06.23 21:36:00
-      title: ELF 二进制字符串加密的逆向
-      url: https://www.52pojie.cn/thread-2114080-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 安卓逆向test
+      release_time: 2026.07.23 21:05:30
+      title: '[原创]AI 时代 Native 算法逆向工程的通用思路'
+      url: https://bbs.kanxue.com/thread-292139.htm
     - author: Zedbully
       release_time: 2026.07.23 11:16:15
       title: 从Java Hook到eBPF：Android动态注入防护的威胁模型变化
@@ -486,10 +490,6 @@
       release_time: 2026.07.11 00:29:00
       title: '[原创]某企业壳底层对抗与内核级脱壳机定制实战记录'
       url: https://bbs.kanxue.com/thread-291957.htm
-    - author: shuisuoyi
-      release_time: 2026.07.10 21:48:00
-      title: 境外视频软件的逆向分析
-      url: https://xz.aliyun.com/news/92490
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
