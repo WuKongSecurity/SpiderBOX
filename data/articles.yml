@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 摸鱼学安卓
+      release_time: 2026.07.24 11:03:00
+      title: '[原创]某公考软件签名分析'
+      url: https://bbs.kanxue.com/thread-292144.htm
     - author: mxystery
       release_time: 2026.07.23 23:24:48
       title: '[原创]从调用级并发到 Guest Thread Runtime：unidbg 单后端线程语义的重建'
@@ -486,10 +490,6 @@
       release_time: 2026.07.11 20:18:11
       title: '[原创]火绒恶意网址自定义规则，根据互联网应急中心部分威胁预警恶意代码制作'
       url: https://bbs.kanxue.com/thread-291966.htm
-    - author: babyfox
-      release_time: 2026.07.11 10:12:59
-      title: '[原创]一些国家网信安全网站地址'
-      url: https://bbs.kanxue.com/thread-291961.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
