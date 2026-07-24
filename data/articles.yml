@@ -279,6 +279,10 @@
       release_time: 2026.07.15 08:22:00
       title: 从时间片轮转到调用级并发：unidbg 单后端多线程架构重构
       url: https://www.52pojie.cn/thread-2117230-1-1.html
+    - author: AkiyamaMIO123
+      release_time: 2026.07.14 17:28:00
+      title: FakeLocation 1.5.0 后门分析
+      url: https://www.52pojie.cn/thread-2117178-1-1.html
     - author: '2225106'
       release_time: 2026.07.12 22:25:00
       title: 简单逆向Web视频插件
@@ -363,10 +367,6 @@
       release_time: 2026.06.24 17:00:00
       title: iOS DeviceCheck：苹果设备身份链与黑灰产对抗的攻防博弈
       url: https://www.52pojie.cn/thread-2114213-1-1.html
-    - author: jbczzz
-      release_time: 2026.06.23 21:39:00
-      title: 利用Unicorn对压缩壳静态脱取和NEON XOR 字符串解密算法分析
-      url: https://www.52pojie.cn/thread-2114082-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
