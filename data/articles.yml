@@ -283,6 +283,10 @@
       release_time: 2026.07.14 17:28:00
       title: FakeLocation 1.5.0 后门分析
       url: https://www.52pojie.cn/thread-2117178-1-1.html
+    - author: PokerS429
+      release_time: 2026.07.14 11:41:00
+      title: 一文读懂jsvmp之入门篇
+      url: https://www.52pojie.cn/thread-2117124-1-1.html
     - author: '2225106'
       release_time: 2026.07.12 22:25:00
       title: 简单逆向Web视频插件
@@ -363,13 +367,13 @@
       release_time: 2026.06.24 20:40:00
       title: JS 盾（JS DUN PROTECT）分析日记
       url: https://www.52pojie.cn/thread-2114241-1-1.html
-    - author: 我是小三
-      release_time: 2026.06.24 17:00:00
-      title: iOS DeviceCheck：苹果设备身份链与黑灰产对抗的攻防博弈
-      url: https://www.52pojie.cn/thread-2114213-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: mb_dcvvjyqc
+      release_time: 2026.07.24 22:07:17
+      title: '[原创]hitcon-2016-babytrick 解题报告'
+      url: https://bbs.kanxue.com/thread-292157.htm
     - author: 摸鱼学安卓
       release_time: 2026.07.24 11:03:00
       title: '[原创]某公考软件签名分析'
@@ -486,10 +490,6 @@
       release_time: 2026.07.11 22:27:28
       title: '[原创]《邮件钓鱼攻防工程》Part 3：内容对抗——贝叶斯和NLP'
       url: https://bbs.kanxue.com/thread-291968.htm
-    - author: babyfox
-      release_time: 2026.07.11 20:18:11
-      title: '[原创]火绒恶意网址自定义规则，根据互联网应急中心部分威胁预警恶意代码制作'
-      url: https://bbs.kanxue.com/thread-291966.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
