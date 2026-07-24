@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: EithanSolace
+      release_time: 2026.07.24 18:04:10
+      title: 密码学补完计划[第四十期] GMAC
+      url: https://www.bilibili.com/video/BV1rXga6pEzh
+    - author: Breeze_122134
+      release_time: 2026.07.24 17:28:18
+      title: AI逆向工具推荐
+      url: https://www.bilibili.com/video/BV1x6ga68EhD
     - author: Breeze_122134
       release_time: 2026.07.22 14:31:58
       title: 某省公共资源交易平台
@@ -113,14 +121,6 @@
       release_time: 2026.07.05 21:30:48
       title: 【教程】一个视频带你实操内存修改器
       url: https://www.bilibili.com/video/BV1tBT168EwH
-    - author: 学逆向的柚子
-      release_time: 2026.07.05 14:28:47
-      title: 小黄人与大怪兽app直接看
-      url: https://www.bilibili.com/video/BV1PmMM6QEbD
-    - author: EithanSolace
-      release_time: 2026.07.04 21:22:36
-      title: 密码学补完计划[第三十六期] HMAC(后篇)
-      url: https://www.bilibili.com/video/BV1DMMN6DEgC
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
