@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 红皮西瓜绿了心
+      release_time: 2026.07.25 08:00:00
+      title: 基于 Grok-4.5 的 X-Dynosaur 签名算法纯算还原分析
+      url: https://blog.csdn.net/m0_46265880/article/details/163162795
     - author: Zedbully
       release_time: 2026.07.25 01:10:35
       title: Java2C、VMP 还是 SO 保护：Android 核心代码到底该放在哪里
@@ -486,10 +490,6 @@
       release_time: 2026.07.12 00:41:46
       title: '[原创]一加ACE5至尊版 kernel 6.6.89尝试利用GhostLock / IonStack 进行root提权'
       url: https://bbs.kanxue.com/thread-291972.htm
-    - author: mb_jepgtozh
-      release_time: 2026.07.11 23:47:40
-      title: '[原创]一款可分享密码的解压缩 app 分析学习'
-      url: https://bbs.kanxue.com/thread-291970.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
