@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 带带弟弟学爬虫
+      release_time: 2026.07.25 19:59:14
+      title: 某梆更新啦！最新版本过检测演示
+      url: https://www.bilibili.com/video/BV1hZ3u6yEdw
     - author: EithanSolace
       release_time: 2026.07.24 18:04:10
       title: 密码学补完计划[第四十期] GMAC
@@ -117,10 +121,6 @@
       release_time: 2026.07.06 08:04:54
       title: 【骚神插件V9.8.6】-新增智能网页工具栏，可免费白嫖各大AI厂商无限算力
       url: https://www.bilibili.com/video/BV1zfTm6XE5a
-    - author: 冷月不是程序员
-      release_time: 2026.07.05 21:30:48
-      title: 【教程】一个视频带你实操内存修改器
-      url: https://www.bilibili.com/video/BV1tBT168EwH
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
