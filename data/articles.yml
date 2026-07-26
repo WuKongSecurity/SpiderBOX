@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: tomysky0409
+      release_time: 2026.07.26 11:54:35
+      title: 验证码经验分享-文字点选
+      url: https://www.bilibili.com/video/BV1oJ376kESh
     - author: Breeze_122134
       release_time: 2026.07.25 20:39:35
       title: 沃尔玛_wxApp
@@ -117,10 +121,6 @@
       release_time: 2026.07.07 09:06:21
       title: 直播间sign通讯算法4-3
       url: https://www.bilibili.com/video/BV1SmMx6yEvB
-    - author: Alone逆向安全
-      release_time: 2026.07.06 15:56:01
-      title: App逆向某企业壳ollvm sign trace分析
-      url: https://www.bilibili.com/video/BV1qGTX68Eam
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -247,6 +247,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: zhnn
+      release_time: 2026.07.25 17:20:00
+      title: MT管理器 + DeepSeek AI = 安卓逆向+破解新玩法？某录屏软件会员解锁！
+      url: https://www.52pojie.cn/thread-2119351-1-1.html
+    - author: xuyangs
+      release_time: 2026.07.24 13:48:00
+      title: iOS 系统通过 Burp Suite 抓取流量报文教程分享
+      url: https://www.52pojie.cn/thread-2119120-1-1.html
     - author: 芽衣
       release_time: 2026.07.23 22:54:00
       title: mx播放器 去除签名校验教程
@@ -359,14 +367,6 @@
       release_time: 2026.06.25 21:36:00
       title: 某股票网ab_sr参数逆向分析
       url: https://www.52pojie.cn/thread-2114389-1-1.html
-    - author: 220e285
-      release_time: 2026.06.24 23:05:00
-      title: ai逆向某智能摄像头APK逆向分析实战：脱壳、去签名校验全流程
-      url: https://www.52pojie.cn/thread-2114252-1-1.html
-    - author: rsds0duck
-      release_time: 2026.06.24 20:40:00
-      title: JS 盾（JS DUN PROTECT）分析日记
-      url: https://www.52pojie.cn/thread-2114241-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
