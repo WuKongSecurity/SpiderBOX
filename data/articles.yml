@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 小爬菜咦
+      release_time: 2026.07.26 22:48:17
+      title: a_bogus vmp虚拟机结构讲解
+      url: https://www.bilibili.com/video/BV1gVg968ESV
     - author: 小肩膀-逆向安全培训
       release_time: 2026.07.26 21:09:32
       title: 【AI写内存科技】自写内存科技测试
@@ -117,10 +121,6 @@
       release_time: 2026.07.09 09:28:17
       title: 你最后的JS逆向教程-akamai/kasada/reese84/京东/淘宝140/腾讯滑块/抖音ab
       url: https://www.bilibili.com/video/BV19HML6QETD
-    - author: r0ysue
-      release_time: 2026.07.08 18:16:21
-      title: 安卓17内核模块绕过frida17检测
-      url: https://www.bilibili.com/video/BV1SrMg6eEcX
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
