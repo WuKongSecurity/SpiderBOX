@@ -3262,11 +3262,6 @@
           # url: https://ipfly.net/activity/VFNRWEFXODY6TFZKOVhYQzM5NQ==
           url: https://ipfly.net/activity/RTM1OEs5TFI6TFZKOVhYQzM5NQ== # https://reseller.ipfly.net/dashboard
           description: 9000万+全球优质IP资源，$0.8/G起，动态流量永久有效
-        - title: IPSproxy
-          logo: ipsproxy.png
-          no_referral: true
-          url: https://dashboard.ipsproxy.com/register?invitation_code=1sp8zx5t9p
-          description: IPS Proxy provides high-quality residential, ISP, datacenter, and mobile proxies with global IP coverage. Enjoy fast, reliable proxy connections for web scraping, automation, and global business operations
 
         # 10% ==============================
         - title: Thordata
@@ -3439,6 +3434,11 @@
           no_referral: true
           url: https://www.711proxy.com/signup?code=517D0F
           description: 高质量住宅代理低至 $0.55/GB，覆盖全球 200+ 地区，为社媒营销和多账号管理提供稳定支持
+        - title: IPSproxy
+          logo: ipsproxy.png
+          no_referral: true
+          url: https://dashboard.ipsproxy.com/register?invitation_code=1sp8zx5t9p
+          description: IPS Proxy provides high-quality residential, ISP, datacenter, and mobile proxies with global IP coverage. Enjoy fast, reliable proxy connections for web scraping, automation, and global business operations
 
         # 8% ==============================
         - title: IPRocket
@@ -3493,7 +3493,7 @@
         - title: LinkStatic
           logo: linkstatic.jpg
           no_referral: true
-          url: https://invite.linkstatic.com/share/fixqpykvg
+          url: https://invite.linkstatic.com/share/rfebn6ytz
           description: 最具性价比的全球静态 ISP 代理——原生纯净、独享固定，IP 长期稳定不掉线。静态 ISP 套餐新用户直降 50%，低至 0.9$/IP，满足各种IP长期在线的业务场景，支持 TikTok 专线定制，轻松助您业务增长
 
         # 3%～15% ==============================
