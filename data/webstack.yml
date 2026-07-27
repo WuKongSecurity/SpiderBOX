@@ -3277,7 +3277,8 @@
           description: 主营静态 ISP 代理、动态住宅代理、静态数据中心代理 3 大产品
         - title: NodeMaven
           logo: nodemaven.png
-          url: https://nodemaven.com/
+          no_referral: true
+          url: https://nodemaven.com/?a_aid=spiderbox
           description: 首个提供性能保障的代理服务，质量最高、IP 最难被检测到的代理，专为帮助您的业务取得成功而设计
         - title: NovProxy
           logo: novproxy.png
