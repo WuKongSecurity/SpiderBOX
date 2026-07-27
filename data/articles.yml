@@ -2,6 +2,10 @@
   list:
   - links:
     - author: 如意-浏览器开发培训
+      release_time: 2026.07.27 21:48:03
+      title: JS逆向秒杀datadome验证
+      url: https://www.bilibili.com/video/BV1tQ3c62EGs
+    - author: 如意-浏览器开发培训
       release_time: 2026.07.27 10:15:54
       title: AI内存天龙游戏Hook/自动副本全套
       url: https://www.bilibili.com/video/BV1qkgd67E9K
@@ -117,13 +121,13 @@
       release_time: 2026.07.09 22:24:06
       title: JS逆向终结计划之reese84解混淆
       url: https://www.bilibili.com/video/BV1pYMn6SELv
-    - author: 如意-浏览器开发培训
-      release_time: 2026.07.09 10:18:20
-      title: JS逆向终结计划之某宝231-140定位
-      url: https://www.bilibili.com/video/BV1JdM76MEMr
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.07.27 21:56:01
+      title: 你的最后一套JS逆向课 | 完美解决datedemo无感验证
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485002&idx=1&sn=de237c159a82582ba19906b3607b4973
     - author: 菜鸟学Python编程
       release_time: 2026.07.27 17:25:00
       title: JS逆向|使用AI逆向某验3滑块
@@ -152,6 +156,10 @@
       release_time: 2026.07.26 20:07:54
       title: 安卓GKI内核模块开发编译工具包开发与使用
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485369&idx=1&sn=0cc7abb85722c7d8533cd09b91355b26
+    - author: 如意私塾
+      release_time: 2026.07.25 14:35:12
+      title: 浏览器指纹DNS修改检测分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484992&idx=1&sn=6096a45218ed3dfc944d0ee297fd6a8c
     - author: 菜鸟学Python编程
       release_time: 2026.07.24 17:02:43
       title: JS逆向|使用AI逆向某WAF的aws-waf-token参数
@@ -236,14 +244,6 @@
       release_time: 2026.07.21 16:42:26
       title: 新加坡PDPC发布生成式AI个人数据使用指引，特定情况下使用个资训练生成式AI模型，须先征求用户同意
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520444&idx=2&sn=d7a4625ed48493fd251d26a8e647c6c1
-    - author: 逆向有你
-      release_time: 2026.07.21 10:15:44
-      title: 安卓逆向 -- 某APP参数（X-app-token ）
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041823&idx=1&sn=9147e919ea3f8d680806f633c2f3ccfa
-    - author: 哆啦安全
-      release_time: 2026.07.20 12:28:30
-      title: APK/IPA/HAP | 移动逆向分析工具V3.5
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501065&idx=1&sn=4be2cafcf539235ee3c4f41dc766c2cb
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 狗都不学爬虫_
+      release_time: 2026.07.27 21:09:36
+      title: AI逆向 - 某宝闪购商家（107/140/231）纯算
+      url: https://blog.csdn.net/qq_53444631/article/details/163250848
     - author: mb_nkjfyhkg
       release_time: 2026.07.27 16:57:05
       title: '[原创]某反作弊检测业务分析'
@@ -486,10 +490,6 @@
       release_time: 2026.07.17 15:18:18
       title: '[原创]看懂身份验证中的活体检测（二）：三色/炫彩/RGB检测'
       url: https://bbs.kanxue.com/thread-292054.htm
-    - author: mb_wckjnnha
-      release_time: 2026.07.17 14:40:12
-      title: '[原创] 实战去除安卓应用中的多种混淆'
-      url: https://bbs.kanxue.com/thread-292053.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
