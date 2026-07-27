@@ -124,6 +124,30 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 测试工程师成长之路
+      release_time: 2026.07.27 08:30:00
+      title: 自动化测试被验证码卡住？这套方案识别率90%+，直接抄！
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579201&idx=1&sn=657ea73c063bb62ddbffc0e837ffc9c8
+    - author: Python成长路
+      release_time: 2026.07.27 07:40:00
+      title: 写一个可以微信多账号免扫码自动登录的工具
+      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486228&idx=1&sn=462514db8670aa81a8b8502555559103
+    - author: 大数据安全技术学习
+      release_time: 2026.07.26 22:04:51
+      title: 直播预告：02.AI指纹浏览器CloakBrowser过检测MCP
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486255&idx=1&sn=073b352e4ac56ff23c7f06ca12534480
+    - author: 大数据安全技术学习
+      release_time: 2026.07.26 22:04:51
+      title: 奋斗者计划，助你升职加薪|阿里云、米哈游、阿里巴巴直推
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486255&idx=2&sn=a1285ab456b541e8d9c4e885cf053f11
+    - author: 大数据安全技术学习
+      release_time: 2026.07.26 22:04:51
+      title: r0dump16脱壳机一加9安卓16秒脱海外金融企业壳DexProtector
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486255&idx=3&sn=deadc1e79de9d3eff2c69dd6f1dcc293
+    - author: 软件安全与逆向分析
+      release_time: 2026.07.26 20:07:54
+      title: 安卓GKI内核模块开发编译工具包开发与使用
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485369&idx=1&sn=0cc7abb85722c7d8533cd09b91355b26
     - author: 进击的HACK
       release_time: 2026.07.23 19:34:27
       title: 平安PSRC关停背后：大模型“漏洞海啸”与白帽经济的黄昏
@@ -220,30 +244,6 @@
       release_time: 2026.07.20 09:40:50
       title: 安卓逆向 -- 神庙逃亡（Temple Run）IL2CPP 逆向实战：从 APK 到 Frida 实现角色无敌
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041816&idx=1&sn=7213de5dd317c180e5de98964ca66e2f
-    - author: 如意私塾
-      release_time: 2026.07.19 22:16:37
-      title: 你的最后一套JS逆向课 | kasada过风控无敌大并发
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484962&idx=1&sn=c0e0075f64efba3f81324a02cc951f8f
-    - author: 未闻Code
-      release_time: 2026.07.19 20:06:24
-      title: 所有人都在做 Agent，但很多人连 Agent 是什么都没想明白
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991684&idx=1&sn=3fbdb13092f1ce9438b824ae1ca5d9ff
-    - author: 如意私塾
-      release_time: 2026.07.18 12:32:18
-      title: 广东安全逆向圈子 | 十年逆向教育二次聚会
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484954&idx=1&sn=f86ec167d84e3b23c23b7354a0c9552c
-    - author: 菜鸟学Python编程
-      release_time: 2026.07.18 09:51:12
-      title: JS逆向|猿人学逆向反混淆练习平台第26题反混淆及AI逆向
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566582&idx=1&sn=6c70114e6d3c86202c178829e28e9e86
-    - author: 进击的HACK
-      release_time: 2026.07.17 19:25:09
-      title: 实战sql盲注小技巧
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490327&idx=1&sn=9af892f62b6767cc29a80ab4e62799e5
-    - author: 吾爱破解论坛
-      release_time: 2026.07.17 19:03:57
-      title: 【开放注册公告】吾爱破解论坛2026年7月21日暑假开放注册公告
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144640&idx=1&sn=72e65e62539eab1a01d297b5c36ab052
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
