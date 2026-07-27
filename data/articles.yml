@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: hefu233
+      release_time: 2026.07.27 07:43:00
+      title: 成了 ，在 aarch64 Android 手机上，不借助 PC，完整编译一个 Xposed 模块（LSPose...
+      url: https://www.52pojie.cn/thread-2119578-1-1.html
     - author: zhnn
       release_time: 2026.07.25 17:20:00
       title: MT管理器 + DeepSeek AI = 安卓逆向+破解新玩法？某录屏软件会员解锁！
@@ -363,13 +367,17 @@
       release_time: 2026.06.30 13:48:00
       title: 某 PUBG 内核辅助逆向分析
       url: https://www.52pojie.cn/thread-2115015-1-1.html
-    - author: szh12123
-      release_time: 2026.06.25 21:36:00
-      title: 某股票网ab_sr参数逆向分析
-      url: https://www.52pojie.cn/thread-2114389-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 特洛伊Troye
+      release_time: 2026.07.27 13:57:49
+      title: '[原创]不开无障碍：用Zygisk从目标进程内部直读View树'
+      url: https://bbs.kanxue.com/thread-292185.htm
+    - author: w2sfot
+      release_time: 2026.07.27 13:41:43
+      title: AI时代，JS加密还有用吗？
+      url: https://blog.csdn.net/w2sft/article/details/163241303
     - author: superwudibie
       release_time: 2026.07.27 11:42:36
       title: '[原创]分享一款面向云环境配置审计的轻量开源AK/SK特征检索工具'
@@ -482,14 +490,6 @@
       release_time: 2026.07.17 11:27:33
       title: '[原创]SSL-Pinning-Bybass'
       url: https://bbs.kanxue.com/thread-292049.htm
-    - author: 红皮西瓜绿了心
-      release_time: 2026.07.15 08:00:00
-      title: 基于 GLM-5.2 的 X-Gnarly (332位) 纯算还原分析
-      url: https://blog.csdn.net/m0_46265880/article/details/162859517
-    - author: mxystery
-      release_time: 2026.07.14 19:26:48
-      title: '[原创]从时间片轮转到调用级并发：unidbg 单后端多线程架构重构'
-      url: https://bbs.kanxue.com/thread-292016.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
