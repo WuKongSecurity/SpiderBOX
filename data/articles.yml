@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: jiemiao
+      release_time: 2026.07.28 17:28:00
+      title: Discord Android 协议逆向实战 —— 从 APK 反编译到 Windows 协议 DLL 全流程
+      url: https://www.52pojie.cn/thread-2119947-1-1.html
     - author: justWant404
       release_time: 2026.07.28 11:12:00
       title: florida编译教程
@@ -363,13 +367,13 @@
       release_time: 2026.07.02 00:52:00
       title: Claude Code 隐蔽遥测行为分析
       url: https://www.52pojie.cn/thread-2115277-1-1.html
-    - author: hitachimako
-      release_time: 2026.07.01 18:24:00
-      title: iOS App的商业级环境检测手段 - 基于某讯A<E Framework 详解
-      url: https://www.52pojie.cn/thread-2115245-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: fkdxjz
+      release_time: 2026.07.28 18:14:55
+      title: '[原创] iOS 26.6 RC 关闭 Preboot Volume，设备指纹硬信号字段失效'
+      url: https://bbs.kanxue.com/thread-292210.htm
     - author: 东方玻璃
       release_time: 2026.07.28 17:13:37
       title: 某加固最新版frida检测绕过-trace一把嗦(续)
@@ -486,10 +490,6 @@
       release_time: 2026.07.18 23:09:04
       title: '[原创] Android 内核无痕 Hook 框架设计思路和避坑指南'
       url: https://bbs.kanxue.com/thread-292066.htm
-    - author: Chxe
-      release_time: 2026.07.18 16:46:52
-      title: '[原创]XX二游 消失的libil2cpp.so 提取与算法分析'
-      url: https://bbs.kanxue.com/thread-292061.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
