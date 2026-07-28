@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.07.28 20:06:00
+      title: fastjson 2.0.62 RCE详解
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490339&idx=1&sn=97eb61813da981070d17ef9114027b51
+    - author: 未闻Code
+      release_time: 2026.07.28 19:31:02
+      title: 5.3 万 Star，这个 Skill 专搜最近 30 天大家都在聊什么
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991696&idx=1&sn=54e4c1a206ef351624eb27429f561d6e
     - author: 菜鸟学Python编程
       release_time: 2026.07.28 17:03:00
       title: JS逆向|使用AI逆向某程旅游登录滑块
@@ -176,6 +184,14 @@
       release_time: 2026.07.26 20:07:54
       title: 安卓GKI内核模块开发编译工具包开发与使用
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485369&idx=1&sn=0cc7abb85722c7d8533cd09b91355b26
+    - author: 进击的HACK
+      release_time: 2026.07.25 21:33:22
+      title: opencode自动化渗透测试，给银手铐加一层限制
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490337&idx=1&sn=e3bc94887963d620146355786f576e2b
+    - author: 进击的HACK
+      release_time: 2026.07.25 20:02:33
+      title: FUCK-CDN 一键绕过CDN的AI skills
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490335&idx=1&sn=13f0d3aa66c21d83ca97f2b3072746d8
     - author: 如意私塾
       release_time: 2026.07.25 14:35:12
       title: 浏览器指纹DNS修改检测分析
@@ -228,22 +244,6 @@
       release_time: 2026.07.22 19:30:11
       title: 37.4K Star！开源界的「六边形战士」AstrBot，把 AI 装进你的所有聊天软件！
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991687&idx=1&sn=b32b43bb383b8636e8128b4843c2994d
-    - author: 菜鸟学Python编程
-      release_time: 2026.07.22 17:30:00
-      title: JS逆向|猿人学逆向反混淆练习平台第25题反混淆及AI逆向
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566591&idx=1&sn=46694af1b017520909439c897a86665a
-    - author: 布鲁的Python之旅
-      release_time: 2026.07.22 17:24:38
-      title: 有某位作者突然想起好久没冒泡了！原来是去...
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486483&idx=1&sn=28376095ab1c4fa9b6c4e5c2ec53bbf7
-    - author: AI爬盒
-      release_time: 2026.07.22 17:11:53
-      title: 开源 Grok 桌面版（Linux / macOS / Windows）
-      url: https://mp.weixin.qq.com/s?__biz=MzcwMzIxNDAxMQ==&mid=2247483770&idx=1&sn=3e5e17d6d87aec2ecf9e427a01cdacc3
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.07.22 15:52:19
-      title: 中央网信办部署开展“清朗·未成年人网络保护”专项行动
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520446&idx=1&sn=53c8f9925315c163cc97994b9a3b91c9
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Tubbs
+      release_time: 2026.07.28 20:32:07
+      title: '[原创] 易盾壳（libnesec）分析(纯AI)'
+      url: https://bbs.kanxue.com/thread-292211.htm
     - author: fkdxjz
       release_time: 2026.07.28 18:14:55
       title: '[原创] iOS 26.6 RC 关闭 Preboot Volume，设备指纹硬信号字段失效'
@@ -486,10 +490,6 @@
       release_time: 2026.07.19 11:50:21
       title: '[原创]检测Frida的两种新方法'
       url: https://bbs.kanxue.com/thread-292067.htm
-    - author: SharkFall
-      release_time: 2026.07.18 23:09:04
-      title: '[原创] Android 内核无痕 Hook 框架设计思路和避坑指南'
-      url: https://bbs.kanxue.com/thread-292066.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
