@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2026.07.28 16:03:00
+      title: codexcc防封号纯净网卡级IP环境
+      url: https://www.bilibili.com/video/BV17v3v6xEuy
+    - author: Breeze_122134
+      release_time: 2026.07.28 15:25:53
+      title: 当当网登录AI逆向
+      url: https://www.bilibili.com/video/BV1ZV3i6bEP5
     - author: 如意-浏览器开发培训
       release_time: 2026.07.27 21:48:03
       title: JS逆向秒杀datadome验证
@@ -113,17 +121,21 @@
       release_time: 2026.07.10 11:28:09
       title: msToken算法5-2
       url: https://www.bilibili.com/video/BV123Nj6qEMS
-    - author: EithanSolace
-      release_time: 2026.07.09 23:36:10
-      title: 密码学补完计划[第三十七期] CMAC
-      url: https://www.bilibili.com/video/BV1YGMn6PEpo
-    - author: 如意-浏览器开发培训
-      release_time: 2026.07.09 22:24:06
-      title: JS逆向终结计划之reese84解混淆
-      url: https://www.bilibili.com/video/BV1pYMn6SELv
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2026.07.28 17:03:00
+      title: JS逆向|使用AI逆向某程旅游登录滑块
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566619&idx=1&sn=20b41ada080585ce13f41a47c652297e
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.07.28 16:11:01
+      title: TikTok被韩国重罚超4千万元，涉未经有效同意追踪用户及违规传输个人信息
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520475&idx=1&sn=30b7b7737b69e8966c52a53d276269e1
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.07.28 16:11:01
+      title: 国家网络与信息安全信息通报中心通报35款违法违规收集使用个人信息的移动应用
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520475&idx=2&sn=6a2b501bc06d1b2e2b75551e192c6295
     - author: 泡泡以安
       release_time: 2026.07.28 13:24:13
       title: 抖音 Web 逆向（一）：__ac_signature 算法还原
@@ -168,6 +180,14 @@
       release_time: 2026.07.25 14:35:12
       title: 浏览器指纹DNS修改检测分析
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484992&idx=1&sn=6096a45218ed3dfc944d0ee297fd6a8c
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.07.24 17:43:33
+      title: 法国警方绕开隐私保护规定追捕连环强奸犯——欧洲多国考虑允许DNA检测商业化
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520464&idx=1&sn=7f7ed3286a9ca37c5fee9865990f8f89
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.07.24 17:43:33
+      title: 国家网信办发布小型个人信息处理者个人信息保护简化措施，处理个人信息不满10万人可减负
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520464&idx=2&sn=0b9f964ef9c5d8ec3644e2ab90174f8c
     - author: 菜鸟学Python编程
       release_time: 2026.07.24 17:02:43
       title: JS逆向|使用AI逆向某WAF的aws-waf-token参数
@@ -224,26 +244,6 @@
       release_time: 2026.07.22 15:52:19
       title: 中央网信办部署开展“清朗·未成年人网络保护”专项行动
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520446&idx=1&sn=53c8f9925315c163cc97994b9a3b91c9
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.07.22 15:52:19
-      title: 福建省网信办发布关于23款APP个人信息收集使用问题的通报
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520446&idx=2&sn=dc7177b7be6a470a783d0bc075970146
-    - author: 逆向有你
-      release_time: 2026.07.22 15:47:09
-      title: 安卓逆向 -- 某记账App永久会员功能分析
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041862&idx=1&sn=52d419f00343371bd5ebd9eec58aec5a
-    - author: 一支甜筒
-      release_time: 2026.07.21 23:32:29
-      title: 过hunter环境检测
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NDYzMDMwMw==&mid=2247483809&idx=1&sn=2067eb714fe6570562f747cd5e273767
-    - author: 如意私塾
-      release_time: 2026.07.21 20:28:50
-      title: 浏览器指纹大版本修改检测分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484967&idx=1&sn=3b672cf3f1ce0c7dea920d8638872533
-    - author: 进击的HACK
-      release_time: 2026.07.21 19:24:44
-      title: Fastjson 1.2.83 RCE 漏洞深度分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490329&idx=1&sn=c870e41daaa7d267e24cb31cadbb6e23
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 东方玻璃
+      release_time: 2026.07.28 17:13:37
+      title: 某加固最新版frida检测绕过-trace一把嗦(续)
+      url: https://bbs.kanxue.com/thread-292208.htm
     - author: Zedbully
       release_time: 2026.07.28 14:32:18
       title: '[原创]金融 APP 安全协同方案：御盾加固、反作弊与防羊毛党实战评测'
@@ -486,10 +490,6 @@
       release_time: 2026.07.18 16:46:52
       title: '[原创]XX二游 消失的libil2cpp.so 提取与算法分析'
       url: https://bbs.kanxue.com/thread-292061.htm
-    - author: 北袅
-      release_time: 2026.07.17 15:59:20
-      title: '[原创]从零手写 ARM64 自定义 Linker'
-      url: https://bbs.kanxue.com/thread-292057.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
