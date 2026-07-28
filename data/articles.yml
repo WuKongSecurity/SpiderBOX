@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向搅屎棍
+      release_time: 2026.07.28 11:04:22
+      title: Spider King 5.0：更清晰的协议逆向工作流
+      url: https://mp.weixin.qq.com/s?__biz=MzYzNDQzNDIyNg==&mid=2247483732&idx=1&sn=5117d11b0b48c06f13b92f4559c5075c
     - author: 如意私塾
       release_time: 2026.07.27 21:56:01
       title: 你的最后一套JS逆向课 | 完美解决datedemo无感验证
@@ -240,10 +244,6 @@
       release_time: 2026.07.21 16:42:26
       title: 诱导网民完成账号实名注册并售卖，13人因涉嫌侵犯公民个人信息犯罪被采取刑事强制措施
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520444&idx=1&sn=bb7982b7c3e5adbfa47ea03118125654
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.07.21 16:42:26
-      title: 新加坡PDPC发布生成式AI个人数据使用指引，特定情况下使用个资训练生成式AI模型，须先征求用户同意
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520444&idx=2&sn=d7a4625ed48493fd251d26a8e647c6c1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
