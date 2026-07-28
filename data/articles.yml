@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 泡泡以安
+      release_time: 2026.07.28 13:24:13
+      title: 抖音 Web 逆向（一）：__ac_signature 算法还原
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486788&idx=1&sn=f00d200f54ee4b05e80e82e1434cefee
     - author: 逆向搅屎棍
       release_time: 2026.07.28 11:04:22
       title: Spider King 5.0：更清晰的协议逆向工作流
@@ -240,13 +244,13 @@
       release_time: 2026.07.21 19:24:44
       title: Fastjson 1.2.83 RCE 漏洞深度分析
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490329&idx=1&sn=c870e41daaa7d267e24cb31cadbb6e23
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.07.21 16:42:26
-      title: 诱导网民完成账号实名注册并售卖，13人因涉嫌侵犯公民个人信息犯罪被采取刑事强制措施
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520444&idx=1&sn=bb7982b7c3e5adbfa47ea03118125654
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: justWant404
+      release_time: 2026.07.28 11:12:00
+      title: florida编译教程
+      url: https://www.52pojie.cn/thread-2119836-1-1.html
     - author: hefu233
       release_time: 2026.07.27 07:43:00
       title: 成了 ，在 aarch64 Android 手机上，不借助 PC，完整编译一个 Xposed 模块（LSPose...
@@ -363,13 +367,17 @@
       release_time: 2026.07.01 18:24:00
       title: iOS App的商业级环境检测手段 - 基于某讯A<E Framework 详解
       url: https://www.52pojie.cn/thread-2115245-1-1.html
-    - author: rsds0duck
-      release_time: 2026.06.30 13:48:00
-      title: 某 PUBG 内核辅助逆向分析
-      url: https://www.52pojie.cn/thread-2115015-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Zedbully
+      release_time: 2026.07.28 14:32:18
+      title: '[原创]金融 APP 安全协同方案：御盾加固、反作弊与防羊毛党实战评测'
+      url: https://bbs.kanxue.com/thread-292205.htm
+    - author: Zedbully
+      release_time: 2026.07.28 14:31:18
+      title: '[原创]御盾 App 加固效果实测与质量深度剖析'
+      url: https://bbs.kanxue.com/thread-292204.htm
     - author: ldz666
       release_time: 2026.07.27 22:44:18
       title: '[原创]梆梆Frida过检测202607'
@@ -482,14 +490,6 @@
       release_time: 2026.07.17 15:59:20
       title: '[原创]从零手写 ARM64 自定义 Linker'
       url: https://bbs.kanxue.com/thread-292057.htm
-    - author: mb_mpxknyue
-      release_time: 2026.07.17 15:48:19
-      title: '[原创]macOS企业微信5.0.7逆向分析(一)：如何定位protobuf序列化与反序列化Hook点'
-      url: https://bbs.kanxue.com/thread-292056.htm
-    - author: mb_mpxknyue
-      release_time: 2026.07.17 15:25:17
-      title: '[原创]macOS企业微信5.0.7逆向分析(一)：如何定位protobuf序列化与反序列化Hook点'
-      url: https://bbs.kanxue.com/thread-292055.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
