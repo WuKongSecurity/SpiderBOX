@@ -1310,8 +1310,9 @@
         - title: MostLogin 浏览器
           logo: mostlogin.png
           no_referral: true
-          url: https://www.mostlogin.com/?invite-code=spiderbox1
-          description: MostLogin，一款完全免费的防关联指纹浏览器，包含：云手机+免费的API接口/RPA自动化/群控同步系统/团队管理等功能
+          # url: https://www.mostlogin.com/?invite-code=spiderbox1
+          url: https://www.mostlogin.com/zh?invite-code=f21d29ea
+          description: MostLogin 指纹浏览器 + 云手机，超高性价比，支持 IP 代理配置、MCP、API、团队协作
         # 20% ====================
         - title: gemlogin
           logo: gemlogin.png
