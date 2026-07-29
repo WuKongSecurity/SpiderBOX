@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2026.07.29 17:07:00
+      title: S逆向|使用AI逆向阿里v2滑块
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566625&idx=1&sn=6dc36e7196c243708646ceccbd0043af
+    - author: 爬虫spider
+      release_time: 2026.07.29 16:58:00
+      title: ins 最新采集方案
+      url: https://mp.weixin.qq.com/s?__biz=MzUyODY3ODUzNw==&mid=2247484249&idx=1&sn=947ea0047d1ed6467ffc7c97b03da9c5
     - author: 个人信息与数据保护实务评论
       release_time: 2026.07.29 15:06:48
       title: 上海市通信管理局关于侵害用户权益行为APP（SDK）的通报（2026年第五批）
@@ -236,17 +244,13 @@
       release_time: 2026.07.23 17:55:00
       title: JS逆向|简单的PX3按压验证码AI还原及逆向
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566600&idx=1&sn=23f05ebaf00143ba6b453cc834ae20d7
-    - author: 吾爱破解论坛
-      release_time: 2026.07.23 17:29:49
-      title: 某骗子黑产软件（手机远控）的分析
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144658&idx=1&sn=b76c722dbcad54ddcc6695d8aad65307
-    - author: 极验
-      release_time: 2026.07.23 16:00:00
-      title: 验证通过的那一刻，短信盗刷的风险才刚刚开始
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724565&idx=1&sn=ce1330f770362e5bf563d2e1da7279f0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: '66431898'
+      release_time: 2026.07.28 20:24:00
+      title: 「中医伤科学」APK 逆向修改：JS 注入繁转简+去密码+为缺少谷歌框架的华为鸿蒙做适配
+      url: https://www.52pojie.cn/thread-2119975-1-1.html
     - author: jiemiao
       release_time: 2026.07.28 17:28:00
       title: Discord Android 协议逆向实战 —— 从 APK 反编译到 Windows 协议 DLL 全流程
@@ -363,10 +367,6 @@
       release_time: 2026.07.03 14:09:00
       title: 最新款flutter影视壳请求响应加密全面分析之解密篇
       url: https://www.52pojie.cn/thread-2115512-1-1.html
-    - author: andy_wang425
-      release_time: 2026.07.02 00:52:00
-      title: Claude Code 隐蔽遥测行为分析
-      url: https://www.52pojie.cn/thread-2115277-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
