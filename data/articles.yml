@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.07.29 08:00:00
+      title: 全国首部“AI终端智能交互”标准，现公开征集起草单位和专家！
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501085&idx=1&sn=f35899fd7e044f098c913b21be9c8730
     - author: 进击的HACK
       release_time: 2026.07.28 20:06:00
       title: fastjson 2.0.62 RCE详解
@@ -240,10 +244,6 @@
       release_time: 2026.07.22 21:14:03
       title: 真实环境打 fastjson 1.2.83 rce？答案是有点难
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490331&idx=1&sn=e969d90687a9799f9cdea11bd5a104db
-    - author: 未闻Code
-      release_time: 2026.07.22 19:30:11
-      title: 37.4K Star！开源界的「六边形战士」AstrBot，把 AI 装进你的所有聊天软件！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991687&idx=1&sn=b32b43bb383b8636e8128b4843c2994d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
