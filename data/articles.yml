@@ -2,6 +2,10 @@
   list:
   - links:
     - author: r0ysue
+      release_time: 2026.07.30 22:54:53
+      title: 套壳开源版CloakBrowser包装器打造r0chrome免费版使用
+      url: https://www.bilibili.com/video/BV18d3t6ZEpt
+    - author: r0ysue
       release_time: 2026.07.28 16:03:00
       title: codexcc防封号纯净网卡级IP环境
       url: https://www.bilibili.com/video/BV17v3v6xEuy
@@ -117,10 +121,6 @@
       release_time: 2026.07.10 16:58:25
       title: ai带你成为股神，ai股票交易系统
       url: https://www.bilibili.com/video/BV1e7N76pEgo
-    - author: AngelToms
-      release_time: 2026.07.10 11:28:09
-      title: msToken算法5-2
-      url: https://www.bilibili.com/video/BV123Nj6qEMS
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: yan019369
+      release_time: 2026.07.30 16:53:00
+      title: 看懂身份验证中的活体检测（三）：静默活体检测
+      url: https://www.52pojie.cn/thread-2120382-1-1.html
     - author: '66431898'
       release_time: 2026.07.28 20:24:00
       title: 「中医伤科学」APK 逆向修改：JS 注入繁转简+去密码+为缺少谷歌框架的华为鸿蒙做适配
@@ -363,10 +367,6 @@
       release_time: 2026.07.05 12:31:00
       title: 【原创】V8 JSC反编译成JS
       url: https://www.52pojie.cn/thread-2115726-1-1.html
-    - author: 吾苏同在
-      release_time: 2026.07.03 14:09:00
-      title: 最新款flutter影视壳请求响应加密全面分析之解密篇
-      url: https://www.52pojie.cn/thread-2115512-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
