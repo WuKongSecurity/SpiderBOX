@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: deltasee
+      release_time: 2026.07.30 16:34:38
+      title: '[原创]看懂身份验证中的活体检测（三）：静默活体检测'
+      url: https://bbs.kanxue.com/thread-292234.htm
     - author: mb_iiulbilc
       release_time: 2026.07.30 01:00:54
       title: '[原创]从 R^X 到执行虚拟化：ARM64 内核级双视图子系统的工程实践（上）'
@@ -486,10 +490,6 @@
       release_time: 2026.07.21 23:26:06
       title: '[原创] 使用 Kimi K3 进行脱壳工具迁移开发：将 FART 迁移到 Android 16'
       url: https://bbs.kanxue.com/thread-292107.htm
-    - author: free_spider
-      release_time: 2026.07.20 18:43:42
-      title: '[原创]js逆向---闲鱼---醇酸MD5'
-      url: https://bbs.kanxue.com/thread-292090.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
