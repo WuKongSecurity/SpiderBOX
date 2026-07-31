@@ -371,6 +371,10 @@
     term: 吾爱破解
   - links:
     - author: 霸服w
+      release_time: 2026.07.31 23:48:19
+      title: '[原创]Cocos2d-js 更高级的Native作弊行为'
+      url: https://bbs.kanxue.com/thread-292266.htm
+    - author: 霸服w
       release_time: 2026.07.31 20:53:02
       title: '[原创] 别傻了，你的引擎加密挡不住"不讲武德"的外挂  —— XA 内存盲打补丁，记偏移秒改的实战套路'
       url: https://bbs.kanxue.com/thread-292263.htm
@@ -486,10 +490,6 @@
       release_time: 2026.07.23 11:16:15
       title: 从Java Hook到eBPF：Android动态注入防护的威胁模型变化
       url: https://bbs.kanxue.com/thread-292128.htm
-    - author: 八月欢喜
-      release_time: 2026.07.22 14:04:14
-      title: 腾讯滑块验证码逆向解析
-      url: https://blog.csdn.net/weixin_52283613/article/details/163105024
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
