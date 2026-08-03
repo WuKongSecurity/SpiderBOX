@@ -2,6 +2,10 @@
   list:
   - links:
     - author: r0ysue
+      release_time: 2026.07.30 22:54:53
+      title: 套壳开源版CloakBrowser包装器打造r0chrome免费版使用
+      url: https://www.bilibili.com/video/BV18d3t6ZEpt
+    - author: r0ysue
       release_time: 2026.07.28 16:03:00
       title: codexcc防封号纯净网卡级IP环境
       url: https://www.bilibili.com/video/BV17v3v6xEuy
@@ -117,13 +121,33 @@
       release_time: 2026.07.10 16:58:25
       title: ai带你成为股神，ai股票交易系统
       url: https://www.bilibili.com/video/BV1e7N76pEgo
-    - author: AngelToms
-      release_time: 2026.07.10 11:28:09
-      title: msToken算法5-2
-      url: https://www.bilibili.com/video/BV123Nj6qEMS
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Coder小Q
+      release_time: 2026.08.03 08:30:00
+      title: 【密码学·采样】一点偏差，为什么能带走整把私钥
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495789&idx=1&sn=7c5520e3ec8f41b11c29993dc56c0d88
+    - author: 测试工程师成长之路
+      release_time: 2026.08.03 08:30:00
+      title: 性能测试三件套实测：JMeter、k6、Locust，同一个接口压出了三种人生
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579278&idx=1&sn=34425578c775b78d4b0c4e7b8681b416
+    - author: 进击的HACK
+      release_time: 2026.08.02 21:44:04
+      title: 1k+ stars 的网络安全知识库
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490357&idx=1&sn=46fcb617bdaf7fdf34b2a8ec74ef0dd4
+    - author: 如意私塾
+      release_time: 2026.08.02 20:15:04
+      title: 你的最后一套JS逆向课 | 谷歌Recaptcha V3无感验证解决
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485008&idx=1&sn=09e2ceab246b841df4a01b9c7042ec64
+    - author: 沐阳逆向与AI学习
+      release_time: 2026.08.02 19:30:00
+      title: Relaxin 0.4.0 发布：iOS 17.0～17.3.1高版本也可以越狱了
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484663&idx=1&sn=28af5e45a016f05b26f532414a0a4832
+    - author: 二进制磨剑
+      release_time: 2026.08.02 15:09:12
+      title: Graph Engineering：从单智能体循环到可控的多智能体协作
+      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486150&idx=1&sn=ccf1ef347e29a2858d7e047eed342c28
     - author: 菜鸟学Python编程
       release_time: 2026.07.29 17:07:00
       title: S逆向|使用AI逆向阿里v2滑块
@@ -220,33 +244,13 @@
       release_time: 2026.07.25 14:35:12
       title: 浏览器指纹DNS修改检测分析
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484992&idx=1&sn=6096a45218ed3dfc944d0ee297fd6a8c
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.07.24 17:43:33
-      title: 法国警方绕开隐私保护规定追捕连环强奸犯——欧洲多国考虑允许DNA检测商业化
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520464&idx=1&sn=7f7ed3286a9ca37c5fee9865990f8f89
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.07.24 17:43:33
-      title: 国家网信办发布小型个人信息处理者个人信息保护简化措施，处理个人信息不满10万人可减负
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520464&idx=2&sn=0b9f964ef9c5d8ec3644e2ab90174f8c
-    - author: 菜鸟学Python编程
-      release_time: 2026.07.24 17:02:43
-      title: JS逆向|使用AI逆向某WAF的aws-waf-token参数
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566607&idx=1&sn=5d467904d5c79ec051d90e2e235dee83
-    - author: 进击的HACK
-      release_time: 2026.07.23 19:34:27
-      title: 平安PSRC关停背后：大模型“漏洞海啸”与白帽经济的黄昏
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490333&idx=1&sn=2518ffc135d21b7f95deec7f13168812
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.07.23 17:56:05
-      title: 中国数据保护月度报告：重点提示及目录（2026年7月）
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520456&idx=1&sn=4181f1e40a3c61a71934c19a22a6b119
-    - author: 菜鸟学Python编程
-      release_time: 2026.07.23 17:55:00
-      title: JS逆向|简单的PX3按压验证码AI还原及逆向
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566600&idx=1&sn=23f05ebaf00143ba6b453cc834ae20d7
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: yan019369
+      release_time: 2026.07.30 16:53:00
+      title: 看懂身份验证中的活体检测（三）：静默活体检测
+      url: https://www.52pojie.cn/thread-2120382-1-1.html
     - author: '66431898'
       release_time: 2026.07.28 20:24:00
       title: 「中医伤科学」APK 逆向修改：JS 注入繁转简+去密码+为缺少谷歌框架的华为鸿蒙做适配
@@ -363,13 +367,33 @@
       release_time: 2026.07.05 12:31:00
       title: 【原创】V8 JSC反编译成JS
       url: https://www.52pojie.cn/thread-2115726-1-1.html
-    - author: 吾苏同在
-      release_time: 2026.07.03 14:09:00
-      title: 最新款flutter影视壳请求响应加密全面分析之解密篇
-      url: https://www.52pojie.cn/thread-2115512-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: YinMo19
+      release_time: 2026.08.01 03:55:20
+      title: '[原创]字节七神完整逆向开源'
+      url: https://bbs.kanxue.com/thread-292268.htm
+    - author: 霸服w
+      release_time: 2026.07.31 23:48:19
+      title: '[原创]Cocos2d-js 更高级的Native作弊行为'
+      url: https://bbs.kanxue.com/thread-292266.htm
+    - author: 霸服w
+      release_time: 2026.07.31 20:53:02
+      title: '[原创] 别傻了，你的引擎加密挡不住"不讲武德"的外挂  —— XA 内存盲打补丁，记偏移秒改的实战套路'
+      url: https://bbs.kanxue.com/thread-292263.htm
+    - author: mb_iiulbilc
+      release_time: 2026.07.31 19:44:55
+      title: '[原创]从 R^X 到执行虚拟化：ARM64 内核级双视图子系统的工程实践（下）'
+      url: https://bbs.kanxue.com/thread-292261.htm
+    - author: deltasee
+      release_time: 2026.07.30 16:34:38
+      title: '[原创]看懂身份验证中的活体检测（三）：静默活体检测'
+      url: https://bbs.kanxue.com/thread-292234.htm
+    - author: mb_iiulbilc
+      release_time: 2026.07.30 01:00:54
+      title: '[原创]从 R^X 到执行虚拟化：ARM64 内核级双视图子系统的工程实践（上）'
+      url: https://bbs.kanxue.com/thread-292226.htm
     - author: neocanable
       release_time: 2026.07.29 15:03:18
       title: '[原创] Arm反汇编引擎原理 - 码表设计'
@@ -466,30 +490,6 @@
       release_time: 2026.07.23 21:05:30
       title: '[原创]AI 时代 Native 算法逆向工程的通用思路'
       url: https://bbs.kanxue.com/thread-292139.htm
-    - author: Zedbully
-      release_time: 2026.07.23 11:16:15
-      title: 从Java Hook到eBPF：Android动态注入防护的威胁模型变化
-      url: https://bbs.kanxue.com/thread-292128.htm
-    - author: 八月欢喜
-      release_time: 2026.07.22 14:04:14
-      title: 腾讯滑块验证码逆向解析
-      url: https://blog.csdn.net/weixin_52283613/article/details/163105024
-    - author: 一本杂志
-      release_time: 2026.07.21 23:34:07
-      title: 某航 cookies：ssxmod_itna、ssxmod_itna2参数逆向分析思路学习
-      url: https://blog.csdn.net/y662225dd/article/details/163087641
-    - author: Ivory0
-      release_time: 2026.07.21 23:26:06
-      title: '[原创] 使用 Kimi K3 进行脱壳工具迁移开发：将 FART 迁移到 Android 16'
-      url: https://bbs.kanxue.com/thread-292107.htm
-    - author: free_spider
-      release_time: 2026.07.20 18:43:42
-      title: '[原创]js逆向---闲鱼---醇酸MD5'
-      url: https://bbs.kanxue.com/thread-292090.htm
-    - author: mb_audxeeaj
-      release_time: 2026.07.20 16:47:24
-      title: '[原创]Cocos Creator游戏过加密'
-      url: https://bbs.kanxue.com/thread-292085.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
