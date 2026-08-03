@@ -3113,6 +3113,11 @@
           no_referral: true
           url: https://ipipd.cn?ref=SVJLBAVQ
           description: 【需实名】IPIPD 全球高品质代理 IP，为您提供覆盖全球 200+ 国家的纯净代理 IP 资源，拥有最全原生 IP 资源，海量真实住宅 IP 与高速机房 IP。高匿名性，有效规避封禁，保障您的数据采集、市场调研、社媒管理与广告验证等业务高效稳定运行，售后 7*24 在线服务
+        - title: 达可云IP
+          logo: duckip.png
+          no_referral: true
+          url: https://www.duckip.cn/?ref=GPZDGH
+          description: 【需实名】达可云 9000 万全球住宅 IP，覆盖 195+ 国家和地区，适用于电商、社媒运营、数据采集等业务，注册免费测试 500M
 
         # 8% ==============================
         - title: IPWO
@@ -3468,10 +3473,11 @@
           description: 免费试用，稳定代理 IP，驱动数据采集与账号业务
 
         # 首笔12%，后续6% ==============================
-        - title: FluxISP
-          logo: fluxisp.png
+        - title: ZooProxy
+          # logo: fluxisp.png
+          logo: zooproxy.png
           no_referral: true
-          url: https://api.fluxisp.com/share/7lsqbkrid
+          url: https://invite.zooproxy.com/share/7lsqbkrid
           description: 为大规模数据采集业务提供可靠选择：覆盖全球地区，精准数据获取，安全高效增长，全球纯净住宅 IP 稳定可靠
 
         # 5% ==============================
