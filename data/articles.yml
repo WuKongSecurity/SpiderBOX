@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2026.08.03 17:15:00
+      title: JS逆向|猿人学逆向反混淆练习平台第28题AI逆向
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566641&idx=1&sn=5d33d764a9c2dd3d9fec6219eb8dfdde
     - author: wangyu223
       release_time: 2026.08.03 10:10:23
       title: 某AI APP安卓端逆向详情分析 字节系设备注册
@@ -152,6 +156,10 @@
       release_time: 2026.08.02 15:09:12
       title: Graph Engineering：从单智能体循环到可控的多智能体协作
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486150&idx=1&sn=ccf1ef347e29a2858d7e047eed342c28
+    - author: 菜鸟学Python编程
+      release_time: 2026.07.31 08:58:56
+      title: JS逆向|使用免费国产大模型hy3 + iv8 逆向反混淆练习平台第10题
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566633&idx=1&sn=0e80deb114399c3f32a370c6d7f2ef1a
     - author: 菜鸟学Python编程
       release_time: 2026.07.29 17:07:00
       title: S逆向|使用AI逆向阿里v2滑块
@@ -236,14 +244,6 @@
       release_time: 2026.07.26 20:07:54
       title: 安卓GKI内核模块开发编译工具包开发与使用
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485369&idx=1&sn=0cc7abb85722c7d8533cd09b91355b26
-    - author: 进击的HACK
-      release_time: 2026.07.25 21:33:22
-      title: opencode自动化渗透测试，给银手铐加一层限制
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490337&idx=1&sn=e3bc94887963d620146355786f576e2b
-    - author: 进击的HACK
-      release_time: 2026.07.25 20:02:33
-      title: FUCK-CDN 一键绕过CDN的AI skills
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490335&idx=1&sn=13f0d3aa66c21d83ca97f2b3072746d8
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -414,6 +414,10 @@
       release_time: 2026.07.28 17:13:37
       title: 某加固最新版frida检测绕过-trace一把嗦(续)
       url: https://bbs.kanxue.com/thread-292208.htm
+    - author: 移动安全星球
+      release_time: 2026.07.28 16:35:43
+      title: 商场导购Agent如何从聊天框走向真实接待场景？我用deep seek+魔珐星云竟然实现了！
+      url: https://mspsecurity.blog.csdn.net/article/details/163277090
     - author: Zedbully
       release_time: 2026.07.28 14:32:18
       title: '[原创]金融 APP 安全协同方案：御盾加固、反作弊与防羊毛党实战评测'
@@ -486,10 +490,6 @@
       release_time: 2026.07.23 23:24:48
       title: '[原创]从调用级并发到 Guest Thread Runtime：unidbg 单后端线程语义的重建'
       url: https://bbs.kanxue.com/thread-292140.htm
-    - author: 安卓逆向test
-      release_time: 2026.07.23 21:05:30
-      title: '[原创]AI 时代 Native 算法逆向工程的通用思路'
-      url: https://bbs.kanxue.com/thread-292139.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
