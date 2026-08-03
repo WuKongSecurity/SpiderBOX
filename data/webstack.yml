@@ -3139,6 +3139,11 @@
           description: 【需实名】品赞代理ip软件是国内专业的 IP 代理服务器提供商，提供 Http 代理，API 接口和自动换 IP 代理软件，千万高匿名 IP 覆盖全国随意切换，支持 PC、iOS、安卓，高效稳定免费试用，国内 IP 代理软件、Http 代理选择品赞代理
 
         # 5% ==============================
+        - title: 比兔代理
+          logo: bitudaili.png
+          no_referral: true
+          url: https://www.bitudaili.com/signup?code=8DB46D
+          description: 【需实名】专营海外静态原生与动态住宅 IP！动态限时 5 折，静态0.9元/天起，不限量免费试用 1 小时
         - title: 巨量 IP
           logo: juliangip.png
           no_referral: true
