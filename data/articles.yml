@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: wangyu223
+      release_time: 2026.08.03 10:10:23
+      title: 某AI APP安卓端逆向详情分析 字节系设备注册
+      url: https://mp.weixin.qq.com/s?__biz=MzY4ODI4MzQwNQ==&mid=2247483958&idx=1&sn=ed9e41249a0d27b9150315624d30cfef
     - author: Coder小Q
       release_time: 2026.08.03 08:30:00
       title: 【密码学·采样】一点偏差，为什么能带走整把私钥
@@ -240,10 +244,6 @@
       release_time: 2026.07.25 20:02:33
       title: FUCK-CDN 一键绕过CDN的AI skills
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490335&idx=1&sn=13f0d3aa66c21d83ca97f2b3072746d8
-    - author: 如意私塾
-      release_time: 2026.07.25 14:35:12
-      title: 浏览器指纹DNS修改检测分析
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247484992&idx=1&sn=6096a45218ed3dfc944d0ee297fd6a8c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
