@@ -3113,11 +3113,6 @@
           no_referral: true
           url: https://ipipd.cn?ref=SVJLBAVQ
           description: 【需实名】IPIPD 全球高品质代理 IP，为您提供覆盖全球 200+ 国家的纯净代理 IP 资源，拥有最全原生 IP 资源，海量真实住宅 IP 与高速机房 IP。高匿名性，有效规避封禁，保障您的数据采集、市场调研、社媒管理与广告验证等业务高效稳定运行，售后 7*24 在线服务
-        - title: 达可云IP
-          logo: duckip.png
-          no_referral: true
-          url: https://www.duckip.cn/?ref=GPZDGH
-          description: 【需实名】达可云 9000 万全球住宅 IP，覆盖 195+ 国家和地区，适用于电商、社媒运营、数据采集等业务，注册免费测试 500M
 
         # 8% ==============================
         - title: IPWO
@@ -3175,6 +3170,11 @@
           # url: https://schyl.shanchendaili.com/?spiderbox
           url: https://h.shanchendaili.com/invite_reg.html?invite=GL1sbv # 待定
           description: 【需实名】闪臣 HTTP，高匿名千万级海量 IP，每日更新百万 IP 池，可每日去重 IP，国内外 IP 覆盖齐全，支持 http(s)/socks5 三大协议，多种套餐选择，支持高并发！API 与账号密码模式均可选择，国内专业 IP 代理资源供应商，持续专注 IP 代理服务深耕！现在新用户注册实名后自动到账户免费 1W 国内 IP 试用，欢迎大家咨询使用喔
+        - title: 达可云IP
+          logo: duckip.png
+          no_referral: true
+          url: https://www.duckip.cn/?ref=GPZDGH
+          description: 【需实名】达可云 9000 万全球住宅 IP，覆盖 195+ 国家和地区，适用于电商、社媒运营、数据采集等业务，注册免费测试 500M
 
         # 不支持推广 ========================
         - title: 天启 HTTP
