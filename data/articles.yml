@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 挖个洞先
+      release_time: 2026.08.04 23:28:01
+      title: 【IOT安全】IDA-NO-MCP审计+fuzz六个SQL注入
+      url: https://mp.weixin.qq.com/s?__biz=MzkyNjY3OTI4Ng==&mid=2247486121&idx=1&sn=6be812506a0f28110644c5d03e9555d7
     - author: 进击的HACK
       release_time: 2026.08.04 21:41:08
       title: 一次任意文件读取实战记录
@@ -240,10 +244,6 @@
       release_time: 2026.07.29 15:06:48
       title: 用户数据防护存在重大漏洞 Wind Tre 遭意大利隐私监管机构罚款 171.56 万欧元
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520477&idx=2&sn=8373e47e39d04aef84438d76a6a5aec0
-    - author: 桐梓坡低手
-      release_time: 2026.07.29 13:12:31
-      title: wasm+vmp 验证码 分享
-      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247484041&idx=1&sn=5350dee9dc404fb393039acd65ea1674
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 安卓逆向test
+      release_time: 2026.08.04 23:59:06
+      title: '[原创]AI 时代还原 VM 层复杂算法的思路'
+      url: https://bbs.kanxue.com/thread-292297.htm
     - author: 梦幻的彼岸
       release_time: 2026.08.04 20:40:50
       title: '[原创]实战] 我破我自己：3层防御，防了个寂寞'
@@ -486,10 +490,6 @@
       release_time: 2026.07.25 11:03:29
       title: '[原创] 某安全厂的面试题 安卓病毒分析'
       url: https://bbs.kanxue.com/thread-292162.htm
-    - author: 红皮西瓜绿了心
-      release_time: 2026.07.25 08:00:00
-      title: 基于 Grok-4.5 的 X-Dynosaur 签名算法纯算还原分析
-      url: https://blog.csdn.net/m0_46265880/article/details/163162795
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
