@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.08.04 21:41:08
+      title: 一次任意文件读取实战记录
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490366&idx=1&sn=29f4d0b32a4583874614239e26b50544
     - author: 未闻Code
       release_time: 2026.08.04 19:24:35
       title: 一个去网页 AI 味的 Skill，狂揽 2.1 万 Star！
@@ -240,10 +244,6 @@
       release_time: 2026.07.29 13:12:31
       title: wasm+vmp 验证码 分享
       url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247484041&idx=1&sn=5350dee9dc404fb393039acd65ea1674
-    - author: 哆啦安全
-      release_time: 2026.07.29 08:00:00
-      title: 全国首部“AI终端智能交互”标准，现公开征集起草单位和专家！
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501085&idx=1&sn=f35899fd7e044f098c913b21be9c8730
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 梦幻的彼岸
+      release_time: 2026.08.04 20:40:50
+      title: '[原创]实战] 我破我自己：3层防御，防了个寂寞'
+      url: https://bbs.kanxue.com/thread-292295.htm
     - author: neocanable
       release_time: 2026.08.04 19:07:41
       title: '[原创] Arm反汇编引擎原理二 - 引擎实现'
@@ -486,10 +490,6 @@
       release_time: 2026.07.25 08:00:00
       title: 基于 Grok-4.5 的 X-Dynosaur 签名算法纯算还原分析
       url: https://blog.csdn.net/m0_46265880/article/details/163162795
-    - author: Zedbully
-      release_time: 2026.07.25 01:10:35
-      title: Java2C、VMP 还是 SO 保护：Android 核心代码到底该放在哪里
-      url: https://bbs.kanxue.com/thread-292159.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
