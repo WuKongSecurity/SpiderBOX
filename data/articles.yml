@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.08.04 12:01:26
+      title: Android内核定制:破解风控检测的底层技术全图谱-从系统级绕过到攻防实践
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501092&idx=1&sn=5bbca4dd1289ed531582502ab98068d5
+    - author: 猿人学Python
+      release_time: 2026.08.04 11:47:54
+      title: Akamai sensor_data 全参数拆解与工程实现
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550372&idx=1&sn=5f0a3093461de190c2eabea581814513
     - author: 进击的HACK
       release_time: 2026.08.03 21:03:39
       title: SSRF 挖掘与利用
@@ -236,14 +244,6 @@
       release_time: 2026.07.27 17:25:00
       title: JS逆向|使用AI逆向某验3滑块
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566613&idx=1&sn=0340b0a9a0320ae102ebdd754b4a002d
-    - author: 测试工程师成长之路
-      release_time: 2026.07.27 08:30:00
-      title: 自动化测试被验证码卡住？这套方案识别率90%+，直接抄！
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579201&idx=1&sn=657ea73c063bb62ddbffc0e837ffc9c8
-    - author: Python成长路
-      release_time: 2026.07.27 07:40:00
-      title: 写一个可以微信多账号免扫码自动登录的工具
-      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486228&idx=1&sn=462514db8670aa81a8b8502555559103
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
