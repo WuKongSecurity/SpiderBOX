@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 软件安全与逆向分析
+      release_time: 2026.08.04 17:18:43
+      title: 安卓完美云手机支持功能列表
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485381&idx=1&sn=67d8e3d0cbea6c384da7e6633613a24c
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.08.04 17:04:29
+      title: 上海通报酒店住宿类App个人信息收集使用问题
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520496&idx=1&sn=eb733776ceb6f893afefc4c83afc4067
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.08.04 17:04:29
+      title: 重庆自贸试验区首个数据出境负面清单使用案例发布（长安汽车）
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520496&idx=2&sn=eea3cb0832cfe9beb98ae5c7c1535417
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.08.04 17:04:29
+      title: 大成数据保护与反垄断团队实习生招募（有留用机会）
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520496&idx=3&sn=330462b4e43766bfb40d2849f4794e3b
     - author: 哆啦安全
       release_time: 2026.08.04 12:01:26
       title: Android内核定制:破解风控检测的底层技术全图谱-从系统级绕过到攻防实践
@@ -184,6 +200,18 @@
       release_time: 2026.07.30 18:48:47
       title: 通过mcp遍历vue路由并根据页面功能点生成checklist
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490343&idx=1&sn=18adebb8b70789e982049db7dd1c8049
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.07.30 17:20:59
+      title: 国家网信办发布数据出境政策问答，明确求职者简历非必要不出境
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520486&idx=1&sn=0de8a65824a366b87d1e86abca93d3ad
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.07.30 17:20:59
+      title: 国家网信办发布《中华人民共和国反网络暴力法（征求意见稿）》，平台应健全网络暴力防控响应机制
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520486&idx=2&sn=63ce45fc29cf62cd18e09406879b03b7
+    - author: 软件安全与逆向分析
+      release_time: 2026.07.30 15:05:13
+      title: 安卓最新Root提权漏洞分析与利用
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485374&idx=1&sn=70e3f7da734cb81e92aedc72e7e58988
     - author: 菜鸟学Python编程
       release_time: 2026.07.29 17:07:00
       title: S逆向|使用AI逆向阿里v2滑块
@@ -216,34 +244,6 @@
       release_time: 2026.07.28 19:31:02
       title: 5.3 万 Star，这个 Skill 专搜最近 30 天大家都在聊什么
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991696&idx=1&sn=54e4c1a206ef351624eb27429f561d6e
-    - author: 菜鸟学Python编程
-      release_time: 2026.07.28 17:03:00
-      title: JS逆向|使用AI逆向某程旅游登录滑块
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566619&idx=1&sn=20b41ada080585ce13f41a47c652297e
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.07.28 16:11:01
-      title: TikTok被韩国重罚超4千万元，涉未经有效同意追踪用户及违规传输个人信息
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520475&idx=1&sn=30b7b7737b69e8966c52a53d276269e1
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.07.28 16:11:01
-      title: 国家网络与信息安全信息通报中心通报35款违法违规收集使用个人信息的移动应用
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520475&idx=2&sn=6a2b501bc06d1b2e2b75551e192c6295
-    - author: 泡泡以安
-      release_time: 2026.07.28 13:24:13
-      title: 抖音 Web 逆向（一）：__ac_signature 算法还原
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486788&idx=1&sn=f00d200f54ee4b05e80e82e1434cefee
-    - author: 逆向搅屎棍
-      release_time: 2026.07.28 11:04:22
-      title: Spider King 5.0：更清晰的协议逆向工作流
-      url: https://mp.weixin.qq.com/s?__biz=MzYzNDQzNDIyNg==&mid=2247483732&idx=1&sn=5117d11b0b48c06f13b92f4559c5075c
-    - author: 如意私塾
-      release_time: 2026.07.27 21:56:01
-      title: 你的最后一套JS逆向课 | 完美解决datedemo无感验证
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485002&idx=1&sn=de237c159a82582ba19906b3607b4973
-    - author: 菜鸟学Python编程
-      release_time: 2026.07.27 17:25:00
-      title: JS逆向|使用AI逆向某验3滑块
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566613&idx=1&sn=0340b0a9a0320ae102ebdd754b4a002d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
