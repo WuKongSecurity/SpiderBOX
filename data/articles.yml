@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.08.05 13:06:51
+      title: Android逆向智能分析工具V1.6
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501104&idx=1&sn=a93197bc8a26402ed1da4633d66ebb47
+    - author: 安全逆向分析
+      release_time: 2026.08.05 10:25:15
+      title: RS6 环境检测绕过分析 (2026-08)
+      url: https://mp.weixin.qq.com/s?__biz=MzYzNzg3MTE4NQ==&mid=2247483771&idx=1&sn=b1f5edab8573a40aa1d3e8d3d9c8c77b
+    - author: Coder小Q
+      release_time: 2026.08.05 08:30:00
+      title: 【密码学·采样】采样器不是随机数生成器：它真正承诺什么
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496031&idx=1&sn=6f6f6f331a6a58843330212b3236939c
     - author: 挖个洞先
       release_time: 2026.08.04 23:28:01
       title: 【IOT安全】IDA-NO-MCP审计+fuzz六个SQL注入
@@ -232,18 +244,6 @@
       release_time: 2026.07.29 17:07:00
       title: S逆向|使用AI逆向阿里v2滑块
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566625&idx=1&sn=6dc36e7196c243708646ceccbd0043af
-    - author: 爬虫spider
-      release_time: 2026.07.29 16:58:00
-      title: ins 最新采集方案
-      url: https://mp.weixin.qq.com/s?__biz=MzUyODY3ODUzNw==&mid=2247484249&idx=1&sn=947ea0047d1ed6467ffc7c97b03da9c5
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.07.29 15:06:48
-      title: 上海市通信管理局关于侵害用户权益行为APP（SDK）的通报（2026年第五批）
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520477&idx=1&sn=11be98d73b350173a491b57cf12159f6
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.07.29 15:06:48
-      title: 用户数据防护存在重大漏洞 Wind Tre 遭意大利隐私监管机构罚款 171.56 万欧元
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520477&idx=2&sn=8373e47e39d04aef84438d76a6a5aec0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
