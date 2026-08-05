@@ -378,6 +378,10 @@
       release_time: 2026.08.05 17:32:51
       title: '[原创]某游戏作弊样本分析'
       url: https://bbs.kanxue.com/thread-292308.htm
+    - author: _花爷
+      release_time: 2026.08.05 15:12:37
+      title: Flutter 双向证书校验逆向抓包复盘
+      url: https://blog.csdn.net/weixin_44504978/article/details/163505891
     - author: mb_mddfhmcj
       release_time: 2026.08.05 03:29:25
       title: '[原创]数字加固还原dexvmp'
@@ -486,10 +490,6 @@
       release_time: 2026.07.27 10:19:28
       title: '[原创]你的游戏签名校验被绕过？罪魁祸首可能是他！'
       url: https://bbs.kanxue.com/thread-292182.htm
-    - author: Yangser
-      release_time: 2026.07.26 20:24:56
-      title: '[原创] trace 检测'
-      url: https://bbs.kanxue.com/thread-292176.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
