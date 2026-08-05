@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.08.05 20:13:56
+      title: 一次简单的H5加密绕过
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490371&idx=1&sn=cd8ca6e2b9019528a7b0ab43639274c4
     - author: 沐阳逆向与AI学习
       release_time: 2026.08.05 19:30:00
       title: Frida 原理与进程痕迹检测 上
@@ -240,10 +244,6 @@
       release_time: 2026.07.31 15:26:49
       title: 科研人必装的10个skill，搞定科研全流程！
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991702&idx=1&sn=bac448e594d7ee79bd0a7144ef50ac30
-    - author: 菜鸟学Python编程
-      release_time: 2026.07.31 08:58:56
-      title: JS逆向|使用免费国产大模型hy3 + iv8 逆向反混淆练习平台第10题
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566633&idx=1&sn=0e80deb114399c3f32a370c6d7f2ef1a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
