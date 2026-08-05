@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.08.05 15:23:06
+      title: 北京市通信管理局关于问题移动互联网应用程序的通报（2026年第八期）
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520502&idx=1&sn=8fb294d1c112f6f5c3893e35004be5e4
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.08.05 15:23:06
+      title: 护网—2026 | 高危端口大开、数据面临泄露风险 网警依法查处一未依法履行网络安全保护义务案
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520502&idx=2&sn=0924c42b0e8b40618416d91fa7d2e7b9
+    - author: 花花学逆向
+      release_time: 2026.08.05 15:22:52
+      title: Flutter 双向证书校验逆向抓包复盘
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4MzQ4MDIwOQ==&mid=2247483848&idx=1&sn=bf0f2f27679af9709984992193d52dfe
+    - author: 柳絮的学习杂记
+      release_time: 2026.08.05 15:22:36
+      title: 谷歌搜索 sg_ss分析
+      url: https://mp.weixin.qq.com/s?__biz=MzIzMDEwOTY4MA==&mid=2247483704&idx=1&sn=d315722b5ce79a12d580dbbddd724bc9
     - author: 哆啦安全
       release_time: 2026.08.05 13:06:51
       title: Android逆向智能分析工具V1.6
@@ -228,22 +244,6 @@
       release_time: 2026.07.30 18:48:47
       title: 通过mcp遍历vue路由并根据页面功能点生成checklist
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490343&idx=1&sn=18adebb8b70789e982049db7dd1c8049
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.07.30 17:20:59
-      title: 国家网信办发布数据出境政策问答，明确求职者简历非必要不出境
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520486&idx=1&sn=0de8a65824a366b87d1e86abca93d3ad
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.07.30 17:20:59
-      title: 国家网信办发布《中华人民共和国反网络暴力法（征求意见稿）》，平台应健全网络暴力防控响应机制
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520486&idx=2&sn=63ce45fc29cf62cd18e09406879b03b7
-    - author: 软件安全与逆向分析
-      release_time: 2026.07.30 15:05:13
-      title: 安卓最新Root提权漏洞分析与利用
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485374&idx=1&sn=70e3f7da734cb81e92aedc72e7e58988
-    - author: 菜鸟学Python编程
-      release_time: 2026.07.29 17:07:00
-      title: S逆向|使用AI逆向阿里v2滑块
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566625&idx=1&sn=6dc36e7196c243708646ceccbd0043af
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: mb_nkjfyhkg
+      release_time: 2026.08.05 17:32:51
+      title: '[原创]某游戏作弊样本分析'
+      url: https://bbs.kanxue.com/thread-292308.htm
     - author: mb_mddfhmcj
       release_time: 2026.08.05 03:29:25
       title: '[原创]数字加固还原dexvmp'
@@ -486,10 +490,6 @@
       release_time: 2026.07.26 16:57:36
       title: '[原创] Android 内核 wxshadow-style Hook 核心原理复刻实验心得'
       url: https://bbs.kanxue.com/thread-292175.htm
-    - author: 嘎嘎真的很棒
-      release_time: 2026.07.25 22:02:49
-      title: '[讨论][原创]frida检测分析感悟'
-      url: https://bbs.kanxue.com/thread-292170.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
