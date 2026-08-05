@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 沐阳逆向与AI学习
+      release_time: 2026.08.05 19:30:00
+      title: Frida 原理与进程痕迹检测 上
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484675&idx=1&sn=c1a8ce87a62725bcd0becfc576ba9815
     - author: 个人信息与数据保护实务评论
       release_time: 2026.08.05 15:23:06
       title: 北京市通信管理局关于问题移动互联网应用程序的通报（2026年第八期）
@@ -240,10 +244,6 @@
       release_time: 2026.07.31 08:58:56
       title: JS逆向|使用免费国产大模型hy3 + iv8 逆向反混淆练习平台第10题
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566633&idx=1&sn=0e80deb114399c3f32a370c6d7f2ef1a
-    - author: 进击的HACK
-      release_time: 2026.07.30 18:48:47
-      title: 通过mcp遍历vue路由并根据页面功能点生成checklist
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490343&idx=1&sn=18adebb8b70789e982049db7dd1c8049
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
