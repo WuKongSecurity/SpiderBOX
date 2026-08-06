@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 沐阳逆向与AI学习
+      release_time: 2026.08.06 19:30:00
+      title: Frida检测反 Hook 检测与 ART 检测 下
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484676&idx=1&sn=c04d2807bc546acab11dea74e5799edd
+    - author: 进击的HACK
+      release_time: 2026.08.06 18:23:53
+      title: codex-security 使用体验
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490375&idx=1&sn=0855ecb7cdf3772289a9695d8369604a
     - author: 泡泡以安
       release_time: 2026.08.06 17:12:41
       title: 抖音 Web 逆向（三）：X-Bogus 算法还原
@@ -236,14 +244,6 @@
       release_time: 2026.08.03 08:30:00
       title: 【密码学·采样】一点偏差，为什么能带走整把私钥
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495789&idx=1&sn=7c5520e3ec8f41b11c29993dc56c0d88
-    - author: 测试工程师成长之路
-      release_time: 2026.08.03 08:30:00
-      title: 性能测试三件套实测：JMeter、k6、Locust，同一个接口压出了三种人生
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579278&idx=1&sn=34425578c775b78d4b0c4e7b8681b416
-    - author: 进击的HACK
-      release_time: 2026.08.02 21:44:04
-      title: 1k+ stars 的网络安全知识库
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490357&idx=1&sn=46fcb617bdaf7fdf34b2a8ec74ef0dd4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
