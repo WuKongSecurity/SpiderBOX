@@ -124,6 +124,26 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 泡泡以安
+      release_time: 2026.08.06 17:12:41
+      title: 抖音 Web 逆向（三）：X-Bogus 算法还原
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486802&idx=1&sn=7a94b290390fae96dc97ca267fe1606e
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.08.06 16:42:25
+      title: 健身馆违规采集人脸信息，当地网信办严肃约谈并责令整改
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520519&idx=1&sn=c8bafc8210ec6d5a10138ddb59377a1e
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.08.06 16:42:25
+      title: 英国法院驳回TikTok程序异议，确认执法机构有权直接对违规处理儿童信息作出行政处罚
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520519&idx=2&sn=a0b91afabec4e58b7f692b8a3543fb19
+    - author: 哆啦安全
+      release_time: 2026.08.06 16:21:00
+      title: 移动应用安全合规检测-企业群
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501110&idx=1&sn=e33b6d03fc9aa51a144dc90729253ab8
+    - author: 极验
+      release_time: 2026.08.06 16:00:00
+      title: 封号封不住：外挂对抗已经不是客户端的事了
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724593&idx=1&sn=a6f57c82bb5e8388ad560b5ae462cffd
     - author: 逆向搅屎棍
       release_time: 2026.08.06 10:52:36
       title: Spider King 6.0 ?!
@@ -224,26 +244,6 @@
       release_time: 2026.08.02 21:44:04
       title: 1k+ stars 的网络安全知识库
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490357&idx=1&sn=46fcb617bdaf7fdf34b2a8ec74ef0dd4
-    - author: 如意私塾
-      release_time: 2026.08.02 20:15:04
-      title: 你的最后一套JS逆向课 | 谷歌Recaptcha V3无感验证解决
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485008&idx=1&sn=09e2ceab246b841df4a01b9c7042ec64
-    - author: 沐阳逆向与AI学习
-      release_time: 2026.08.02 19:30:00
-      title: Relaxin 0.4.0 发布：iOS 17.0～17.3.1高版本也可以越狱了
-      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484663&idx=1&sn=28af5e45a016f05b26f532414a0a4832
-    - author: 二进制磨剑
-      release_time: 2026.08.02 15:09:12
-      title: Graph Engineering：从单智能体循环到可控的多智能体协作
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486150&idx=1&sn=ccf1ef347e29a2858d7e047eed342c28
-    - author: 进击的HACK
-      release_time: 2026.08.01 21:56:01
-      title: 挖漏洞遇到数据包加密，不一定是坏事
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490352&idx=1&sn=680ba5907346e4b8a1c5b758e8f6b903
-    - author: 进击的HACK
-      release_time: 2026.08.01 18:43:54
-      title: 近期codex使用经验
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490347&idx=1&sn=d71ea5a60a445520dd0d6a69f41d570e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,14 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: kudos5566
+      release_time: 2026.08.06 17:36:59
+      title: '[原创]某银行 App 逆向分析记录：全链路实战与复现'
+      url: https://bbs.kanxue.com/thread-292331.htm
+    - author: int3bp
+      release_time: 2026.08.06 15:42:49
+      title: '[分享] 一个无需上传到服务器 在线APK解析反编译网站'
+      url: https://bbs.kanxue.com/thread-292327.htm
     - author: FUA陈探乐
       release_time: 2026.08.05 21:37:48
       title: '[原创]看雪论坛/plugin/link/jump_prompt.js 疑似存在开放跳转漏洞'
@@ -482,14 +490,6 @@
       release_time: 2026.07.27 13:57:49
       title: '[原创]不开无障碍：用Zygisk从目标进程内部直读View树'
       url: https://bbs.kanxue.com/thread-292185.htm
-    - author: w2sfot
-      release_time: 2026.07.27 13:41:43
-      title: AI时代，JS加密还有用吗？
-      url: https://blog.csdn.net/w2sft/article/details/163241303
-    - author: superwudibie
-      release_time: 2026.07.27 11:42:36
-      title: '[原创]分享一款面向云环境配置审计的轻量开源AK/SK特征检索工具'
-      url: https://bbs.kanxue.com/thread-292184.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
