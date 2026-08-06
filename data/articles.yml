@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向搅屎棍
+      release_time: 2026.08.06 10:52:36
+      title: Spider King 6.0 ?!
+      url: https://mp.weixin.qq.com/s?__biz=MzYzNDQzNDIyNg==&mid=2247483740&idx=1&sn=21eec892923ebfce4e1558bd19ce7a2d
     - author: 进击的HACK
       release_time: 2026.08.05 20:13:56
       title: 一次简单的H5加密绕过
@@ -240,10 +244,6 @@
       release_time: 2026.08.01 18:43:54
       title: 近期codex使用经验
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490347&idx=1&sn=d71ea5a60a445520dd0d6a69f41d570e
-    - author: 未闻Code
-      release_time: 2026.07.31 15:26:49
-      title: 科研人必装的10个skill，搞定科研全流程！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991702&idx=1&sn=bac448e594d7ee79bd0a7144ef50ac30
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
