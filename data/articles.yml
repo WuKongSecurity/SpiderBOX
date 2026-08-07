@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Coder小Q
+      release_time: 2026.08.07 08:30:00
+      title: 【密码学·采样】从随机比特到有偏骰子：分布是怎样生成的
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496177&idx=1&sn=615d0901107d54ccf6c368975db8f2a3
     - author: 沐阳逆向与AI学习
       release_time: 2026.08.06 19:30:00
       title: Frida检测反 Hook 检测与 ART 检测 下
@@ -240,10 +244,6 @@
       release_time: 2026.08.03 10:10:23
       title: 某AI APP安卓端逆向详情分析 字节系设备注册
       url: https://mp.weixin.qq.com/s?__biz=MzY4ODI4MzQwNQ==&mid=2247483958&idx=1&sn=ed9e41249a0d27b9150315624d30cfef
-    - author: Coder小Q
-      release_time: 2026.08.03 08:30:00
-      title: 【密码学·采样】一点偏差，为什么能带走整把私钥
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495789&idx=1&sn=7c5520e3ec8f41b11c29993dc56c0d88
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
