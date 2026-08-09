@@ -371,6 +371,10 @@
     term: 吾爱破解
   - links:
     - author: mb_dcvvjyqc
+      release_time: 2026.08.09 10:26:41
+      title: '[原创]一串反引号，十层突破：n1ctf-2018-easy_harder_php 从备份泄露到 MySQL 提权读 flag'
+      url: https://bbs.kanxue.com/thread-292365.htm
+    - author: mb_dcvvjyqc
       release_time: 2026.08.09 06:21:19
       title: '[原创]在正则的缝隙里跳舞：BabyFirst 限制型命令注入的完整攻破与复现'
       url: https://bbs.kanxue.com/thread-292364.htm
@@ -486,10 +490,6 @@
       release_time: 2026.07.28 20:32:07
       title: '[原创] 易盾壳（libnesec）分析(纯AI)'
       url: https://bbs.kanxue.com/thread-292211.htm
-    - author: fkdxjz
-      release_time: 2026.07.28 18:14:55
-      title: '[原创] iOS 26.6 RC 关闭 Preboot Volume，设备指纹硬信号字段失效'
-      url: https://bbs.kanxue.com/thread-292210.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
