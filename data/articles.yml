@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 無色逆向
+      release_time: 2026.08.10 18:51:23
+      title: 字节九宫格验证码captchaBody算法逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MjYyNTgxMQ==&mid=2247484739&idx=1&sn=2cca0371a3fd04aba20071820835881a
+    - author: 进击的HACK
+      release_time: 2026.08.10 18:39:51
+      title: codex结合jadx、ida mcp分析APP
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490393&idx=1&sn=096d01105d84a1f52347616e38d44697
     - author: Coder小Q
       release_time: 2026.08.10 08:30:00
       title: 【密码学·采样】从柱形到曲线：连续分布的概率藏在哪里
@@ -140,6 +148,14 @@
       release_time: 2026.08.09 17:29:08
       title: Web 逆向分析skills hello_js_reverse_skill
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490389&idx=1&sn=30f47cc20439d1d63d1c036d8c0ac46c
+    - author: 进击的HACK
+      release_time: 2026.08.08 21:06:11
+      title: 朋友：领导让我写个 Skill，把我优化掉
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490384&idx=1&sn=2681c3cb1c333951ccca9f5b2f38bce6
+    - author: 进击的HACK
+      release_time: 2026.08.07 18:15:58
+      title: 安卓挖洞小技巧 | 平板 APK 在手机上显示不全，可以临时这样处理
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490380&idx=1&sn=1b8c7d603981260a51eaf0158021f079
     - author: Coder小Q
       release_time: 2026.08.07 08:30:00
       title: 【密码学·采样】从随机比特到有偏骰子：分布是怎样生成的
@@ -228,22 +244,6 @@
       release_time: 2026.08.04 17:18:43
       title: 安卓完美云手机支持功能列表
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485381&idx=1&sn=67d8e3d0cbea6c384da7e6633613a24c
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.08.04 17:04:29
-      title: 上海通报酒店住宿类App个人信息收集使用问题
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520496&idx=1&sn=eb733776ceb6f893afefc4c83afc4067
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.08.04 17:04:29
-      title: 重庆自贸试验区首个数据出境负面清单使用案例发布（长安汽车）
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520496&idx=2&sn=eea3cb0832cfe9beb98ae5c7c1535417
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.08.04 17:04:29
-      title: 大成数据保护与反垄断团队实习生招募（有留用机会）
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520496&idx=3&sn=330462b4e43766bfb40d2849f4794e3b
-    - author: 哆啦安全
-      release_time: 2026.08.04 12:01:26
-      title: Android内核定制:破解风控检测的底层技术全图谱-从系统级绕过到攻防实践
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501092&idx=1&sn=5bbca4dd1289ed531582502ab98068d5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
