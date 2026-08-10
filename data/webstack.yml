@@ -6061,6 +6061,10 @@
           url: https://github.com/shirenchuang/web-content-fetcher
           logo: github.png
           description: Web Content Fetcher 是一个 skill，是一个轻量级的网页正文提取工具，能够自动将任意网页转换为干净的 Markdown 格式，保留标题、链接、图片和列表结构,支持 Jina Reader / Scrapling / web_fetch 三级降级策略，完美支持微信公众号文章（Jina 无法读取的场景）
+        - title: r0crawl_skills
+          url: https://github.com/manyuegong33/r0crawl_skills
+          logo: github.png
+          description: 面向 Codex 风格 Agent 的全栈 196 个逆向技能 skill 集合
 
     - name: Skills (移动端)
       links:
