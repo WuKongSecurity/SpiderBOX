@@ -125,6 +125,22 @@
     term: 哔哩哔哩
   - links:
     - author: Coder小Q
+      release_time: 2026.08.10 08:30:00
+      title: 【密码学·采样】从柱形到曲线：连续分布的概率藏在哪里
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496163&idx=1&sn=8d6b51abf14e44cede8eca2a398ba781
+    - author: 测试工程师成长之路
+      release_time: 2026.08.10 08:30:00
+      title: 压测只看系统指标？k6 进阶，教你用“业务门禁”拿捏上线标准
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579294&idx=1&sn=bfccdbc9517bf938cc60a1c63e1c4774
+    - author: Python成长路
+      release_time: 2026.08.10 08:20:00
+      title: 用自建的Gitea仓库实现软件自动更新
+      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486236&idx=1&sn=0ff501ebdd39b43f4c48c317bd7f0481
+    - author: 进击的HACK
+      release_time: 2026.08.09 17:29:08
+      title: Web 逆向分析skills hello_js_reverse_skill
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490389&idx=1&sn=30f47cc20439d1d63d1c036d8c0ac46c
+    - author: Coder小Q
       release_time: 2026.08.07 08:30:00
       title: 【密码学·采样】从随机比特到有偏骰子：分布是怎样生成的
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496177&idx=1&sn=615d0901107d54ccf6c368975db8f2a3
@@ -228,22 +244,6 @@
       release_time: 2026.08.04 12:01:26
       title: Android内核定制:破解风控检测的底层技术全图谱-从系统级绕过到攻防实践
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501092&idx=1&sn=5bbca4dd1289ed531582502ab98068d5
-    - author: 猿人学Python
-      release_time: 2026.08.04 11:47:54
-      title: Akamai sensor_data 全参数拆解与工程实现
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550372&idx=1&sn=5f0a3093461de190c2eabea581814513
-    - author: 进击的HACK
-      release_time: 2026.08.03 21:03:39
-      title: SSRF 挖掘与利用
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490361&idx=1&sn=2702ec18e16963819939eec64ea25d2f
-    - author: 菜鸟学Python编程
-      release_time: 2026.08.03 17:15:00
-      title: JS逆向|猿人学逆向反混淆练习平台第28题AI逆向
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566641&idx=1&sn=5d33d764a9c2dd3d9fec6219eb8dfdde
-    - author: wangyu223
-      release_time: 2026.08.03 10:10:23
-      title: 某AI APP安卓端逆向详情分析 字节系设备注册
-      url: https://mp.weixin.qq.com/s?__biz=MzY4ODI4MzQwNQ==&mid=2247483958&idx=1&sn=ed9e41249a0d27b9150315624d30cfef
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
