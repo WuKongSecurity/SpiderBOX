@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 桐梓坡低手
+      release_time: 2026.08.10 21:23:59
+      title: ali九宫格 funcaptcha awswaf
+      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247484060&idx=1&sn=514a6a9fe9578c44067f69e79b41d843
     - author: 無色逆向
       release_time: 2026.08.10 18:51:23
       title: 字节九宫格验证码captchaBody算法逆向分析
@@ -240,10 +244,6 @@
       release_time: 2026.08.04 19:24:35
       title: 一个去网页 AI 味的 Skill，狂揽 2.1 万 Star！
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991705&idx=1&sn=153ef3c3fabae1943bb4de23258773b3
-    - author: 软件安全与逆向分析
-      release_time: 2026.08.04 17:18:43
-      title: 安卓完美云手机支持功能列表
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485381&idx=1&sn=67d8e3d0cbea6c384da7e6633613a24c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
