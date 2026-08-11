@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.08.11 18:16:14
+      title: TscanPlus mcp 使用
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490397&idx=1&sn=b0634c30ebf4b7557afc97cb2adaa887
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.08.11 16:31:27
+      title: 国家互联网信息办公室关于《大型个人信息处理者个人信息保护规定（征求意见稿）》公开征求意见的通知
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520525&idx=1&sn=63ef995bf636e2c7854dc4319d34e70e
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.08.11 16:31:27
+      title: 关于对派拓公司在华销售产品启动网络安全审查的公告
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520525&idx=2&sn=7a1d2dc4cc33f71ec830490ebc97b1bc
     - author: wangyu223
       release_time: 2026.08.11 11:08:47
       title: 某AI iOS端  字节系设备注册逆向详情分析
@@ -232,18 +244,6 @@
       release_time: 2026.08.05 15:22:36
       title: 谷歌搜索 sg_ss分析
       url: https://mp.weixin.qq.com/s?__biz=MzIzMDEwOTY4MA==&mid=2247483704&idx=1&sn=d315722b5ce79a12d580dbbddd724bc9
-    - author: 哆啦安全
-      release_time: 2026.08.05 13:06:51
-      title: Android逆向智能分析工具V1.6
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501104&idx=1&sn=a93197bc8a26402ed1da4633d66ebb47
-    - author: 安全逆向分析
-      release_time: 2026.08.05 10:25:15
-      title: RS6 环境检测绕过分析 (2026-08)
-      url: https://mp.weixin.qq.com/s?__biz=MzYzNzg3MTE4NQ==&mid=2247483771&idx=1&sn=b1f5edab8573a40aa1d3e8d3d9c8c77b
-    - author: Coder小Q
-      release_time: 2026.08.05 08:30:00
-      title: 【密码学·采样】采样器不是随机数生成器：它真正承诺什么
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496031&idx=1&sn=6f6f6f331a6a58843330212b3236939c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
