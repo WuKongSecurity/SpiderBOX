@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 猿人学Python
+      release_time: 2026.08.11 10:30:21
+      title: 谷歌起诉 SerpApi 被驳回，看看美国的爬虫官司
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550382&idx=1&sn=2cc7d58cafb385cc1013478e1c4031a4
+    - author: 零基础爬虫第一天
+      release_time: 2026.08.11 07:41:45
+      title: android设备指纹5-系统属性与开机时间
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484723&idx=1&sn=ca9c456ba9b3632ec8738152be077031
     - author: 桐梓坡低手
       release_time: 2026.08.10 21:23:59
       title: ali九宫格 funcaptcha awswaf
@@ -236,14 +244,6 @@
       release_time: 2026.08.04 23:28:01
       title: 【IOT安全】IDA-NO-MCP审计+fuzz六个SQL注入
       url: https://mp.weixin.qq.com/s?__biz=MzkyNjY3OTI4Ng==&mid=2247486121&idx=1&sn=6be812506a0f28110644c5d03e9555d7
-    - author: 进击的HACK
-      release_time: 2026.08.04 21:41:08
-      title: 一次任意文件读取实战记录
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490366&idx=1&sn=29f4d0b32a4583874614239e26b50544
-    - author: 未闻Code
-      release_time: 2026.08.04 19:24:35
-      title: 一个去网页 AI 味的 Skill，狂揽 2.1 万 Star！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991705&idx=1&sn=153ef3c3fabae1943bb4de23258773b3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
