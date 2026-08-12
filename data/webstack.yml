@@ -3139,6 +3139,11 @@
           description: 【需实名】品赞代理ip软件是国内专业的 IP 代理服务器提供商，提供 Http 代理，API 接口和自动换 IP 代理软件，千万高匿名 IP 覆盖全国随意切换，支持 PC、iOS、安卓，高效稳定免费试用，国内 IP 代理软件、Http 代理选择品赞代理
 
         # 5% ==============================
+        - title: 91HTTP
+          logo: 91http.png
+          no_referral: true
+          url: https://www.91http.com/user/reg?ref=invite&invite_id=128508
+          description: 【需实名】91HTTP 是深耕代理 IP 行业十载的企业级 HTTP 代理 IP 服务商，国内优质代理 IP 知名品牌，坐拥日均 500 万 + 自营 IP 资源池，线路覆盖全国 380 + 城市，产品线涵盖短效不限量、包时包量、隧道、长效静态全品类代理，已服务上千家企业与开发者。新用户注册免费试用 1 万 IP，设有 1 元首购特惠、大促低至 1 折等福利，全协议兼容、IP 可用率高达 99%，配备一对一客户经理与 7×16 小时技术支撑，多种计费方案灵活适配各类大数据采集、爬虫业务需求
         - title: 比兔代理
           logo: bitudaili.jpg
           no_referral: true
