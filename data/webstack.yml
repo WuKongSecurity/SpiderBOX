@@ -3245,11 +3245,18 @@
     - name: 全球代理商
       links:
         # ad ==============================
-        - title: NetNut
-          logo: netnut.png
+#        - title: NetNut
+#          logo: netnut.png
+#          no_referral: true
+#          url: https://netnut.cn/?utm_medium=partner&utm_source=spiderbox
+#          description: 覆盖全球 195 个国家，8500 万优质 IP，全方位满足网页数据抓取。NetNut 提供四种代理 IP 服务：动态住宅，静态ISP，移动代理，数据中心代理。NetNut 网站解锁代理服务器可以绕过验证码，安全地从全球网站中提取数据。轻松解决访问受限网站的问题
+        - title: Thordata
+          logo: thordata.jpg
           no_referral: true
-          url: https://netnut.cn/?utm_medium=partner&utm_source=spiderbox
-          description: 覆盖全球 195 个国家，8500 万优质 IP，全方位满足网页数据抓取。NetNut 提供四种代理 IP 服务：动态住宅，静态ISP，移动代理，数据中心代理。NetNut 网站解锁代理服务器可以绕过验证码，安全地从全球网站中提取数据。轻松解决访问受限网站的问题
+          # url: https://www.thordata.com/?ls=dhz&lk=spiderbox
+          # url: https://dashboard.thordata.com/zh/register?invitation_code=M1TQMPB5
+          url: https://www.thordata.com/?ls=dhz&lk=02-spid
+          description: Thordata 1亿+纯净 IP 池，出海防关联必备。结账输入折扣码 thor020，首充即享 10% 赠送 + 额外 9 折优惠
         - title: RapidProxy
           logo: rapidproxy.png
           no_referral: true
@@ -3280,12 +3287,6 @@
           description: 9000万+全球优质IP资源，$0.8/G起，动态流量永久有效
 
         # 10% ==============================
-        - title: Thordata
-          logo: thordata.jpg
-          no_referral: true
-          # url: https://www.thordata.com/?ls=dhz&lk=spiderbox
-          url: https://dashboard.thordata.com/zh/register?invitation_code=M1TQMPB5
-          description: Scale Your Access with 60 Million IPs at Affordable Prices. Reliable, high-quality proxy solutions tailored for businesses and distributors.
         - title: kookeey 全球业务级代理 IP
           logo: kookeey.jpg
           no_referral: true

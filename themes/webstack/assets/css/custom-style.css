@@ -766,7 +766,7 @@ footer.main-footer .footer-text a:hover {
 }
 
 .gg-link:hover {
-    transform: translateY(-8px); /* 悬停微动效 */
+    transform: translateY(-3px); /* 悬停微动效，幅度调小避免与下方 tooltip 间隔过大 */
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 

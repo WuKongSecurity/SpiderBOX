@@ -64,7 +64,7 @@
         <div class="gg-container">
             {{ range .links }}
                 {{ if .ads }}
-                    <a href="{{ .url }}" class="gg-link" target="_blank" rel="noopener" onclick="LA.track('{{ .track }}');">
+                    <a href="{{ .url }}" class="gg-link" target="_blank" rel="noopener" onclick="LA.track('{{ .track }}');"{{ with .description }} data-toggle="tooltip" data-placement="bottom" title="{{ . }}"{{ end }}>
                         <img src="{{ with $.Site.Params.cdnURL }}{{ . }}{{ end }}{{ .image }}" class="gg-image" alt="{{ .description }}" loading="lazy">
                     </a>
                 {{ end }}
