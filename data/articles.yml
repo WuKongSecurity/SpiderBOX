@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2026.08.12 10:01:47
+      title: 心流鼠标手势 FlowMouse v2.3 发布
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144689&idx=1&sn=b077ffc788917105cedc11663af2bb1d
     - author: 进击的HACK
       release_time: 2026.08.11 18:16:14
       title: TscanPlus mcp 使用
@@ -240,10 +244,6 @@
       release_time: 2026.08.05 15:22:52
       title: Flutter 双向证书校验逆向抓包复盘
       url: https://mp.weixin.qq.com/s?__biz=Mzg4MzQ4MDIwOQ==&mid=2247483848&idx=1&sn=bf0f2f27679af9709984992193d52dfe
-    - author: 柳絮的学习杂记
-      release_time: 2026.08.05 15:22:36
-      title: 谷歌搜索 sg_ss分析
-      url: https://mp.weixin.qq.com/s?__biz=MzIzMDEwOTY4MA==&mid=2247483704&idx=1&sn=d315722b5ce79a12d580dbbddd724bc9
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: fyrlove
+      release_time: 2026.08.12 09:51:53
+      title: '[原创]r0re 自动逆向分析工具实战记录：全通看雪 Android CTF，完整使用指南和源码解析'
+      url: https://bbs.kanxue.com/thread-292470.htm
     - author: mb_sicsragt
       release_time: 2026.08.11 13:07:10
       title: '[原创]记录一次完整的IL2CPP手游逆向（frida）——以某二游为例'
@@ -486,10 +490,6 @@
       release_time: 2026.07.30 16:34:38
       title: '[原创]看懂身份验证中的活体检测（三）：静默活体检测'
       url: https://bbs.kanxue.com/thread-292234.htm
-    - author: mb_iiulbilc
-      release_time: 2026.07.30 01:00:54
-      title: '[原创]从 R^X 到执行虚拟化：ARM64 内核级双视图子系统的工程实践（上）'
-      url: https://bbs.kanxue.com/thread-292226.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
