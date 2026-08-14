@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 星野安全
+      release_time: 2026.08.14 22:00:55
+      title: '[原创]浅析 Google Play 自动保护（PairIP）：代码虚拟化、TEE 密钥与运行时反篡改'
+      url: https://bbs.kanxue.com/thread-292523.htm
     - author: wx_小友
       release_time: 2026.08.13 23:51:56
       title: '[原创]Instagram Android 抓包 / SSL Pinning 绕过 —— 完整排查方法论'
@@ -486,10 +490,6 @@
       release_time: 2026.08.01 03:55:20
       title: '[原创]字节七神完整逆向开源'
       url: https://bbs.kanxue.com/thread-292268.htm
-    - author: 霸服w
-      release_time: 2026.07.31 23:48:19
-      title: '[原创]Cocos2d-js 更高级的Native作弊行为'
-      url: https://bbs.kanxue.com/thread-292266.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
