@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 一只鸭子
+      release_time: 2026.08.15 22:08:25
+      title: '[原创]快手 VMP 分析与还原(水文一篇)'
+      url: https://bbs.kanxue.com/thread-292535.htm
     - author: 星野安全
       release_time: 2026.08.14 22:00:55
       title: '[原创]浅析 Google Play 自动保护（PairIP）：代码虚拟化、TEE 密钥与运行时反篡改'
@@ -486,10 +490,6 @@
       release_time: 2026.08.01 11:15:16
       title: AI逆向 - 99aq中心滑块验证+登录（wasm纯算）
       url: https://blog.csdn.net/qq_53444631/article/details/163388121
-    - author: YinMo19
-      release_time: 2026.08.01 03:55:20
-      title: '[原创]字节七神完整逆向开源'
-      url: https://bbs.kanxue.com/thread-292268.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
