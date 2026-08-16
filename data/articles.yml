@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: wes1meanon
+      release_time: 2026.08.16 14:57:51
+      title: '[原创]对某学习APP的frida检测绕过'
+      url: https://bbs.kanxue.com/thread-292547.htm
     - author: 一只鸭子
       release_time: 2026.08.15 22:08:25
       title: '[原创]快手 VMP 分析与还原(水文一篇)'
@@ -486,10 +490,6 @@
       release_time: 2026.08.02 11:46:31
       title: 关于点点数据逆向文章紧急下架的声明
       url: https://bingyun.blog.csdn.net/article/details/163413158
-    - author: 狗都不学爬虫_
-      release_time: 2026.08.01 11:15:16
-      title: AI逆向 - 99aq中心滑块验证+登录（wasm纯算）
-      url: https://blog.csdn.net/qq_53444631/article/details/163388121
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
