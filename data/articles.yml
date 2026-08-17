@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: MioMio
+      release_time: 2026.08.17 13:14:26
+      title: '[原创]入门渗透测试的一条路线'
+      url: https://bbs.kanxue.com/thread-292568.htm
     - author: neocanable
       release_time: 2026.08.16 20:13:19
       title: '[原创] 某60，某加密，某盾，某迦，某乐 - AI加garlic能力测试'
@@ -486,10 +490,6 @@
       release_time: 2026.08.04 20:40:50
       title: '[原创]实战] 我破我自己：3层防御，防了个寂寞'
       url: https://bbs.kanxue.com/thread-292295.htm
-    - author: neocanable
-      release_time: 2026.08.04 19:07:41
-      title: '[原创] Arm反汇编引擎原理二 - 引擎实现'
-      url: https://bbs.kanxue.com/thread-292294.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
