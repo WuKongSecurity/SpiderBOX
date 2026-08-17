@@ -61,6 +61,14 @@
       release_time: 2026.08.09 14:45:07
       title: 【AI-JS逆向终结计划课程】reese84补环境
       url: https://www.bilibili.com/video/BV1tLu16AEZx
+    - author: 如意-浏览器开发培训
+      release_time: 2026.08.09 14:22:17
+      title: reese84网站JS逆向秒杀
+      url: https://www.bilibili.com/video/BV1Qmu16gEee
+    - author: 如意-浏览器开发培训
+      release_time: 2026.08.09 14:18:38
+      title: JS逆向终结计划之funcaptcha解决
+      url: https://www.bilibili.com/video/BV1mRu16vEfQ
     - author: r0ysue
       release_time: 2026.08.07 14:37:00
       title: r0tracer搭配过检测frida-server注入追踪所有界面调用栈
@@ -97,6 +105,10 @@
       release_time: 2026.08.02 11:28:12
       title: opencode
       url: https://www.bilibili.com/video/BV1GM3D6FER9
+    - author: 如意-浏览器开发培训
+      release_time: 2026.08.02 00:22:03
+      title: 谷歌Recaptcha V3无感JS逆向爬虫教学
+      url: https://www.bilibili.com/video/BV18Y3m6jErv
     - author: 逆向狗都不学
       release_time: 2026.08.01 23:09:13
       title: Android逆向之DEX文件脱壳
@@ -109,18 +121,6 @@
       release_time: 2026.08.01 09:27:52
       title: 数美验证码
       url: https://www.bilibili.com/video/BV15pGg6HEcq
-    - author: r0ysue
-      release_time: 2026.07.30 22:54:53
-      title: 套壳开源版CloakBrowser包装器打造r0chrome免费版使用
-      url: https://www.bilibili.com/video/BV18d3t6ZEpt
-    - author: r0ysue
-      release_time: 2026.07.28 16:03:00
-      title: codexcc防封号纯净网卡级IP环境
-      url: https://www.bilibili.com/video/BV17v3v6xEuy
-    - author: Breeze_122134
-      release_time: 2026.07.28 15:25:53
-      title: 当当网登录AI逆向
-      url: https://www.bilibili.com/video/BV1ZV3i6bEP5
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
