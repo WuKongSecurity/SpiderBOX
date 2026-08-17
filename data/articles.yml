@@ -458,6 +458,10 @@
       release_time: 2026.08.07 11:48:37
       title: '[原创]开源某视频web端msToken算法'
       url: https://bbs.kanxue.com/thread-292344.htm
+    - author: w2sfot
+      release_time: 2026.08.07 10:08:49
+      title: JS代码压缩实测：可减小体积、提高执行效率，真实有效！
+      url: https://blog.csdn.net/w2sft/article/details/163555384
     - author: kudos5566
       release_time: 2026.08.06 17:36:59
       title: '[原创]某银行 App 逆向分析记录：全链路实战与复现'
@@ -486,10 +490,6 @@
       release_time: 2026.08.05 03:29:25
       title: '[原创]数字加固还原dexvmp'
       url: https://bbs.kanxue.com/thread-292300.htm
-    - author: 安卓逆向test
-      release_time: 2026.08.04 23:59:06
-      title: '[原创]AI 时代还原 VM 层复杂算法的思路'
-      url: https://bbs.kanxue.com/thread-292297.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
