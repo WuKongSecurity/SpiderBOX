@@ -371,6 +371,10 @@
     term: 吾爱破解
   - links:
     - author: MioMio
+      release_time: 2026.08.17 21:26:35
+      title: '[原创]记录下hydra的用法，靶场简单测试'
+      url: https://bbs.kanxue.com/thread-292596.htm
+    - author: MioMio
       release_time: 2026.08.17 13:14:26
       title: '[原创]入门渗透测试的一条路线'
       url: https://bbs.kanxue.com/thread-292568.htm
@@ -486,10 +490,6 @@
       release_time: 2026.08.04 23:59:06
       title: '[原创]AI 时代还原 VM 层复杂算法的思路'
       url: https://bbs.kanxue.com/thread-292297.htm
-    - author: 梦幻的彼岸
-      release_time: 2026.08.04 20:40:50
-      title: '[原创]实战] 我破我自己：3层防御，防了个寂寞'
-      url: https://bbs.kanxue.com/thread-292295.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
