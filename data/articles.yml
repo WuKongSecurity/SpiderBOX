@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2026.08.14 17:16:10
+      title: 骚神插件Vscode版本（免费版）新鲜出炉！！-大幅提高DrissionPage用户编码效率
+      url: https://www.bilibili.com/video/BV1M2gP69Exn
     - author: r0ysue
       release_time: 2026.07.30 22:54:53
       title: 套壳开源版CloakBrowser包装器打造r0chrome免费版使用
@@ -117,10 +121,6 @@
       release_time: 2026.07.11 01:32:04
       title: 《全网首发》JS逆向reese84纯算
       url: https://www.bilibili.com/video/BV1HgNH6CEXE
-    - author: ikun的嘴
-      release_time: 2026.07.10 16:58:25
-      title: ai带你成为股神，ai股票交易系统
-      url: https://www.bilibili.com/video/BV1e7N76pEgo
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -247,6 +247,86 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: Cencrack
+      release_time: 2026.08.16 19:56:00
+      title: 加固的 Unity 儿童教育（**巴士学汉字） APP：脱壳、签名校验三连、热更 DLL 硬刚
+      url: https://www.52pojie.cn/thread-2123294-1-1.html
+    - author: rsds0duck
+      release_time: 2026.08.15 22:02:00
+      title: 快手 VMP 分析与还原
+      url: https://www.52pojie.cn/thread-2123217-1-1.html
+    - author: EvalShell857
+      release_time: 2026.08.13 23:22:00
+      title: Allsafe靶场全解
+      url: https://www.52pojie.cn/thread-2122890-1-1.html
+    - author: cqy666
+      release_time: 2026.08.13 21:10:00
+      title: PC安卓模拟器跑只带arm64的so的apk实现修改
+      url: https://www.52pojie.cn/thread-2122870-1-1.html
+    - author: bu^shan
+      release_time: 2026.08.13 16:30:00
+      title: 从 RegisterNatives 到逐字节复现：一次 Android `ttEncrypt` 封包逆向
+      url: https://www.52pojie.cn/thread-2122819-1-1.html
+    - author: cqy666
+      release_time: 2026.08.13 16:02:00
+      title: Frida Gadget免root环境记录
+      url: https://www.52pojie.cn/thread-2122813-1-1.html
+    - author: 李恒道
+      release_time: 2026.08.13 00:03:00
+      title: 小蓝鸟 x-client-transaction-id 追溯分析
+      url: https://www.52pojie.cn/thread-2122687-1-1.html
+    - author: fyrlove
+      release_time: 2026.08.12 10:50:00
+      title: r0re 自动逆向分析工具实战记录：全通看雪 Android CTF，完整使用指南和源码解析
+      url: https://www.52pojie.cn/thread-2122552-1-1.html
+    - author: Liyunpeng
+      release_time: 2026.08.12 10:13:00
+      title: 针对天天跳绳逆向抓包，刷作业的研究
+      url: https://www.52pojie.cn/thread-2122540-1-1.html
+    - author: Walletshine
+      release_time: 2026.08.11 16:15:00
+      title: 某刺猬小说逆向分析
+      url: https://www.52pojie.cn/thread-2122438-1-1.html
+    - author: Chois
+      release_time: 2026.08.11 10:55:00
+      title: 【JS逆向实战】手撕雷速体育API：动态AES签名与魔改Gzip响应解密全解析
+      url: https://www.52pojie.cn/thread-2122363-1-1.html
+    - author: JiGuro
+      release_time: 2026.08.10 19:12:00
+      title: 【逆向实战】Cocos2d-Lua 手游从资源解密到打包破解 (上)
+      url: https://www.52pojie.cn/thread-2122280-1-1.html
+    - author: PokerS429
+      release_time: 2026.08.09 13:21:00
+      title: Akamai最新js风控浅分析——指纹
+      url: https://www.52pojie.cn/thread-2122060-1-1.html
+    - author: raincrack
+      release_time: 2026.08.08 18:06:00
+      title: 某兔儿童手表App去强制升级手动修改教程
+      url: https://www.52pojie.cn/thread-2121978-1-1.html
+    - author: ldxs2020
+      release_time: 2026.08.07 11:38:00
+      title: Android 无障碍检测对抗的实战-如何绕过APP的无障碍检测
+      url: https://www.52pojie.cn/thread-2121760-1-1.html
+    - author: xuyangs
+      release_time: 2026.08.06 16:48:00
+      title: magisk面具模块踩坑分享
+      url: https://www.52pojie.cn/thread-2121652-1-1.html
+    - author: bu^shan
+      release_time: 2026.08.06 11:55:00
+      title: 一次 Android 逆向记录(DY)
+      url: https://www.52pojie.cn/thread-2121591-1-1.html
+    - author: 无聊的味道
+      release_time: 2026.08.04 18:44:00
+      title: 三分钟破解一个人体参考软件会员
+      url: https://www.52pojie.cn/thread-2121285-1-1.html
+    - author: jaaks
+      release_time: 2026.08.03 00:51:00
+      title: 火影手游计时器 ap 分析 mt+deepseek 半成品
+      url: https://www.52pojie.cn/thread-2120916-1-1.html
+    - author: 李恒道
+      release_time: 2026.08.03 00:21:00
+      title: 某音 JSVMP bogus纯算
+      url: https://www.52pojie.cn/thread-2120914-1-1.html
     - author: yan019369
       release_time: 2026.07.30 16:53:00
       title: 看懂身份验证中的活体检测（三）：静默活体检测
@@ -287,86 +367,6 @@
       release_time: 2026.07.21 19:00:00
       title: 某游麻将里十三水游戏的逆向分析
       url: https://www.52pojie.cn/thread-2118301-1-1.html
-    - author: xvguu
-      release_time: 2026.07.21 13:59:00
-      title: SSL-Pinning-Bybass——一键式解决SSL证书锁定
-      url: https://www.52pojie.cn/thread-2118235-1-1.html
-    - author: yan019369
-      release_time: 2026.07.17 15:26:00
-      title: 看懂身份验证中的活体检测（二）：三色/炫彩/RGB检测
-      url: https://www.52pojie.cn/thread-2117702-1-1.html
-    - author: ╰留个小板寸回
-      release_time: 2026.07.17 12:43:00
-      title: 用ai分析的某游麻将里面的十三水cft
-      url: https://www.52pojie.cn/thread-2117669-1-1.html
-    - author: deadash
-      release_time: 2026.07.15 09:57:00
-      title: 腾讯极光快投ios配网方式
-      url: https://www.52pojie.cn/thread-2117258-1-1.html
-    - author: mxyoor
-      release_time: 2026.07.15 08:22:00
-      title: 从时间片轮转到调用级并发：unidbg 单后端多线程架构重构
-      url: https://www.52pojie.cn/thread-2117230-1-1.html
-    - author: AkiyamaMIO123
-      release_time: 2026.07.14 17:28:00
-      title: FakeLocation 1.5.0 后门分析
-      url: https://www.52pojie.cn/thread-2117178-1-1.html
-    - author: PokerS429
-      release_time: 2026.07.14 11:41:00
-      title: 一文读懂jsvmp之入门篇
-      url: https://www.52pojie.cn/thread-2117124-1-1.html
-    - author: '2225106'
-      release_time: 2026.07.12 22:25:00
-      title: 简单逆向Web视频插件
-      url: https://www.52pojie.cn/thread-2116873-1-1.html
-    - author: HackXK
-      release_time: 2026.07.12 19:18:00
-      title: WXLiquidGlass 动态玻璃插件逆向记录
-      url: https://www.52pojie.cn/thread-2116853-1-1.html
-    - author: lyldalek
-      release_time: 2026.07.12 12:20:00
-      title: 基于QDBI的真机trace方案
-      url: https://www.52pojie.cn/thread-2116795-1-1.html
-    - author: jbczzz
-      release_time: 2026.07.12 00:40:00
-      title: 一加ACE5至尊版 kernel 6.6.89尝试利用GhostLock / IonStack 进行root提权
-      url: https://www.52pojie.cn/thread-2116758-1-1.html
-    - author: 鸠山一茶
-      release_time: 2026.07.10 10:40:00
-      title: Cloudflare Drop逆向及Skill开发
-      url: https://www.52pojie.cn/thread-2116523-1-1.html
-    - author: TES286
-      release_time: 2026.07.10 01:42:00
-      title: 某VSCode主题插件的破解
-      url: https://www.52pojie.cn/thread-2116471-1-1.html
-    - author: jie1525050
-      release_time: 2026.07.08 18:50:00
-      title: 某房地产APP请求逆向分析
-      url: https://www.52pojie.cn/thread-2116261-1-1.html
-    - author: a3341736201
-      release_time: 2026.07.08 13:34:00
-      title: 分析某wp主题9.0逆向授权过程
-      url: https://www.52pojie.cn/thread-2116200-1-1.html
-    - author: yan019369
-      release_time: 2026.07.08 11:44:00
-      title: 看懂身份验证中的活体检测（一）：动作活体
-      url: https://www.52pojie.cn/thread-2116188-1-1.html
-    - author: hostname
-      release_time: 2026.07.08 11:25:00
-      title: 某音a_bogus jsvmp反编译
-      url: https://www.52pojie.cn/thread-2116186-1-1.html
-    - author: LiXieZengHui
-      release_time: 2026.07.07 21:48:00
-      title: Q音VMP初始化分析&SHA-1算法识别
-      url: https://www.52pojie.cn/thread-2116112-1-1.html
-    - author: MeItemi
-      release_time: 2026.07.06 19:56:00
-      title: 【AI辅助】iOS p12证书签名软件的逆向分析 + 证书获取（新）
-      url: https://www.52pojie.cn/thread-2115938-1-1.html
-    - author: wolfSpicy
-      release_time: 2026.07.05 12:31:00
-      title: 【原创】V8 JSC反编译成JS
-      url: https://www.52pojie.cn/thread-2115726-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
