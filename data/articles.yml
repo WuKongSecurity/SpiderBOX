@@ -1,10 +1,114 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2026.08.17 14:12:39
+      title: 用豆包手机反制骚扰电话
+      url: https://www.bilibili.com/video/BV1cyba6eEAu
+    - author: r0ysue
+      release_time: 2026.08.15 20:35:18
+      title: frida-ios-dump搭配定制过检测frida-server砸壳海外航司APP
+      url: https://www.bilibili.com/video/BV131by6HEBV
     - author: B站用户骚神
       release_time: 2026.08.14 17:16:10
       title: 骚神插件Vscode版本（免费版）新鲜出炉！！-大幅提高DrissionPage用户编码效率
       url: https://www.bilibili.com/video/BV1M2gP69Exn
+    - author: 学逆向的柚子
+      release_time: 2026.08.13 23:15:06
+      title: 最新版微信小程序开发者工具免费分享
+      url: https://www.bilibili.com/video/BV17xgs6ZErF
+    - author: tomysky0409
+      release_time: 2026.08.13 22:58:56
+      title: 验证码技巧分享-多图标定位排序
+      url: https://www.bilibili.com/video/BV1Vags69E5D
+    - author: EithanSolace
+      release_time: 2026.08.13 21:53:06
+      title: 密码学补完计划[第四十一期] HKDF(前篇)
+      url: https://www.bilibili.com/video/BV1KSgs6GEqp
+    - author: Breeze_122134
+      release_time: 2026.08.13 13:13:38
+      title: flutter_词根词缀词典
+      url: https://www.bilibili.com/video/BV19NgH6yEr2
+    - author: Alone逆向安全
+      release_time: 2026.08.11 09:03:10
+      title: 安卓逆向打造零特征 Frida内核 KPM + 幽灵内存 + 自定义 Linker让企业壳看不见我
+      url: https://www.bilibili.com/video/BV1eEuY6rE8s
+    - author: 冷月不是程序员
+      release_time: 2026.08.09 19:33:39
+      title: 【教程】一个视频告诉你Hook是怎么欺骗程序的
+      url: https://www.bilibili.com/video/BV1Hmu26FEvU
+    - author: 小肩膀-逆向安全培训
+      release_time: 2026.08.09 14:47:53
+      title: 【AI-JS逆向终结计划课程】datadome无感补环境
+      url: https://www.bilibili.com/video/BV1mLu16wEuT
+    - author: 小肩膀-逆向安全培训
+      release_time: 2026.08.09 14:46:54
+      title: 【AI-JS逆向终结计划课程】reese84新逆向解决
+      url: https://www.bilibili.com/video/BV11Ju16bEAX
+    - author: 小肩膀-逆向安全培训
+      release_time: 2026.08.09 14:46:17
+      title: 【AI-JS逆向终结计划课程】funcaptcha逆向解决
+      url: https://www.bilibili.com/video/BV11Ju16bEHg
+    - author: 小肩膀-逆向安全培训
+      release_time: 2026.08.09 14:45:57
+      title: 【AI-JS逆向终结计划课程】阿里v2流程分析
+      url: https://www.bilibili.com/video/BV1mLu16wEeo
+    - author: 小肩膀-逆向安全培训
+      release_time: 2026.08.09 14:45:26
+      title: 【AI-JS逆向终结计划课程】kasada补环境
+      url: https://www.bilibili.com/video/BV1mLu16wEaS
+    - author: 小肩膀-逆向安全培训
+      release_time: 2026.08.09 14:45:07
+      title: 【AI-JS逆向终结计划课程】reese84补环境
+      url: https://www.bilibili.com/video/BV1tLu16AEZx
+    - author: r0ysue
+      release_time: 2026.08.07 14:37:00
+      title: r0tracer搭配过检测frida-server注入追踪所有界面调用栈
+      url: https://www.bilibili.com/video/BV1zfux6cEFM
+    - author: 和沐阳学逆向与Ai
+      release_time: 2026.08.06 19:30:00
+      title: 85.frida常见检测(第二节-反Hook与ART)
+      url: https://www.bilibili.com/video/BV14XMU66EyR
+    - author: 和沐阳学逆向与Ai
+      release_time: 2026.08.06 19:30:00
+      title: 84.frida常见检测(第一节-原理与进程痕迹)
+      url: https://www.bilibili.com/video/BV1mXMU66EuY
+    - author: r0ysue
+      release_time: 2026.08.06 13:41:55
+      title: r0capture搭配过检测frida-server抓iOS航司收发包
+      url: https://www.bilibili.com/video/BV19quE6AETR
+    - author: r0ysue
+      release_time: 2026.08.04 15:20:37
+      title: 定制iOS过检测frida-server注入分析菲律宾cebu航空
+      url: https://www.bilibili.com/video/BV1SGuw6LEC4
+    - author: Breeze_122134
+      release_time: 2026.08.03 11:41:45
+      title: 安卓AI逆向
+      url: https://www.bilibili.com/video/BV1ofMQ6AEpW
+    - author: 小肩膀-逆向安全培训
+      release_time: 2026.08.02 22:41:07
+      title: 07.Codex的使用
+      url: https://www.bilibili.com/video/BV1vi3d6LE65
+    - author: 小肩膀-逆向安全培训
+      release_time: 2026.08.02 22:07:07
+      title: 【JS逆向终结计划课程】谷歌Recaptcha v3无感
+      url: https://www.bilibili.com/video/BV17G3o6DE8r
+    - author: Breeze_122134
+      release_time: 2026.08.02 11:28:12
+      title: opencode
+      url: https://www.bilibili.com/video/BV1GM3D6FER9
+    - author: 逆向狗都不学
+      release_time: 2026.08.01 23:09:13
+      title: Android逆向之DEX文件脱壳
+      url: https://www.bilibili.com/video/BV13K3U6XEUA
+    - author: r0ysue
+      release_time: 2026.08.01 20:13:47
+      title: codex接入CloakBrowser指纹浏览器操作爬虫自动化抓取
+      url: https://www.bilibili.com/video/BV1UzGG67EU4
+    - author: Breeze_122134
+      release_time: 2026.08.01 09:27:52
+      title: 数美验证码
+      url: https://www.bilibili.com/video/BV15pGg6HEcq
     - author: r0ysue
       release_time: 2026.07.30 22:54:53
       title: 套壳开源版CloakBrowser包装器打造r0chrome免费版使用
@@ -17,110 +121,6 @@
       release_time: 2026.07.28 15:25:53
       title: 当当网登录AI逆向
       url: https://www.bilibili.com/video/BV1ZV3i6bEP5
-    - author: 如意-浏览器开发培训
-      release_time: 2026.07.27 21:48:03
-      title: JS逆向秒杀datadome验证
-      url: https://www.bilibili.com/video/BV1tQ3c62EGs
-    - author: 如意-浏览器开发培训
-      release_time: 2026.07.27 10:15:54
-      title: AI内存天龙游戏Hook/自动副本全套
-      url: https://www.bilibili.com/video/BV1qkgd67E9K
-    - author: 小爬菜咦
-      release_time: 2026.07.26 22:48:17
-      title: a_bogus vmp虚拟机结构讲解
-      url: https://www.bilibili.com/video/BV1gVg968ESV
-    - author: 小肩膀-逆向安全培训
-      release_time: 2026.07.26 21:09:32
-      title: 【AI写内存科技】自写内存科技测试
-      url: https://www.bilibili.com/video/BV1P4g96DEL8
-    - author: tomysky0409
-      release_time: 2026.07.26 11:54:35
-      title: 验证码经验分享-文字点选
-      url: https://www.bilibili.com/video/BV1oJ376kESh
-    - author: Breeze_122134
-      release_time: 2026.07.25 20:39:35
-      title: 沃尔玛_wxApp
-      url: https://www.bilibili.com/video/BV1Ku3g6TELF
-    - author: 带带弟弟学爬虫
-      release_time: 2026.07.25 19:59:14
-      title: 某梆更新啦！最新版本过检测演示
-      url: https://www.bilibili.com/video/BV1hZ3u6yEdw
-    - author: EithanSolace
-      release_time: 2026.07.24 18:04:10
-      title: 密码学补完计划[第四十期] GMAC
-      url: https://www.bilibili.com/video/BV1rXga6pEzh
-    - author: Breeze_122134
-      release_time: 2026.07.24 17:28:18
-      title: AI逆向工具推荐
-      url: https://www.bilibili.com/video/BV1x6ga68EhD
-    - author: Breeze_122134
-      release_time: 2026.07.22 14:31:58
-      title: 某省公共资源交易平台
-      url: https://www.bilibili.com/video/BV1j7gr6uEGK
-    - author: 如意-浏览器开发培训
-      release_time: 2026.07.21 23:43:07
-      title: JS逆向教程秒杀阿里v2
-      url: https://www.bilibili.com/video/BV1RVKY6PEZj
-    - author: 蛋蛋yong闯小B站
-      release_time: 2026.07.21 22:55:58
-      title: AI+逆向工程终极合集：从古法手艺到全自动逆向课程介绍
-      url: https://www.bilibili.com/video/BV17UKY63EC4
-    - author: 蛋蛋yong闯小B站
-      release_time: 2026.07.21 22:54:04
-      title: 全网首发 TK最新加密参数X-Dynosaur思路分析
-      url: https://www.bilibili.com/video/BV14hKY6XEFQ
-    - author: 如意-浏览器开发培训
-      release_time: 2026.07.21 16:55:08
-      title: JS逆向终结计划-kasada彻底解决和并发
-      url: https://www.bilibili.com/video/BV15TKb6XEFe
-    - author: AngelToms
-      release_time: 2026.07.20 09:45:15
-      title: msToken5-4完结
-      url: https://www.bilibili.com/video/BV1CdKC6LEGH
-    - author: EithanSolace
-      release_time: 2026.07.19 08:00:00
-      title: 密码学补完计划[第三十九期] Poly1305(后篇)
-      url: https://www.bilibili.com/video/BV1xkKN6rEyJ
-    - author: 澎湖湾的彭
-      release_time: 2026.07.18 16:03:45
-      title: 某验4无感验证协议逆向
-      url: https://www.bilibili.com/video/BV1voKc6yEcm
-    - author: 如意-浏览器开发培训
-      release_time: 2026.07.16 12:17:51
-      title: 定制浏览器下载一切浏览器内的dy\ks\xhs\ytb视频
-      url: https://www.bilibili.com/video/BV14uK36tEqg
-    - author: 逆向狗都不学
-      release_time: 2026.07.15 20:50:44
-      title: Android逆向之DEX文件加固
-      url: https://www.bilibili.com/video/BV1AENz6wEB7
-    - author: EithanSolace
-      release_time: 2026.07.14 18:40:11
-      title: 密码学补完计划[第三十八期] Poly1305(前篇)
-      url: https://www.bilibili.com/video/BV1pFNb6eEXD
-    - author: 学逆向的柚子
-      release_time: 2026.07.14 16:34:57
-      title: 过某考试软件平台本地环境检测
-      url: https://www.bilibili.com/video/BV1iBNX6REtW
-    - author: AngelToms
-      release_time: 2026.07.14 14:21:01
-      title: msToken算法5-3
-      url: https://www.bilibili.com/video/BV1GtN96HEHP
-    - author: 风华Ahu
-      release_time: 2026.07.11 19:08:05
-      title: 古法末路：阿卡麦3 速补前两次请求
-      url: https://www.bilibili.com/video/BV19tNc66EB6
-    - author: 风华Ahu
-      release_time: 2026.07.11 18:21:57
-      title: 古法末路：akamai-2 如果你感觉到了震撼 那你先别急 主页还有核弹级打法
-      url: https://www.bilibili.com/video/BV1qANw62Eu5
-    - author: 风华Ahu
-      release_time: 2026.07.11 17:37:24
-      title: 古法末路：akamai阿卡麦流程分析-1
-      url: https://www.bilibili.com/video/BV14sNw6aEoT
-    - author: 如意-浏览器开发培训
-      release_time: 2026.07.11 01:32:04
-      title: 《全网首发》JS逆向reese84纯算
-      url: https://www.bilibili.com/video/BV1HgNH6CEXE
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
