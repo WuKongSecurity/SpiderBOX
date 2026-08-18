@@ -2598,6 +2598,10 @@
           logo: chaojiying.jpg
           url: https://www.chaojiying.com/
           description: 超级鹰是比较老牌的打码平台，提供专业的验证码云端识别服务，让验证码识别更快速、更准确、更强大。可为所有软件提供验证码识别自动化解决方案，帮助客户进行验证码识别、远程答题、人工打码,为用户实现价值
+        - title: 小肩膀 AI 图界
+          logo: xjbpic.png
+          url: https://xjbpic.site/
+          description: 小肩膀 AI 图界，面向开发者与企业自动化场景，提供文字、点选、滑块、旋转、拼图、动态图等识别能力。人眼能判断的识别类任务，交给 AI 即可自动完成，并可返回文本、坐标与动作参数
 #        - title: 图腾视觉
 #          logo: tutengocr.jpg
 #          url: https://www.tutengocr.com/
@@ -2990,6 +2994,10 @@
           logo: hoax.png
           url: https://hoax.tech/
           description: hoax.tech 是一款智能隐匿服务，结合了 JavaScript 指纹识别和机器学习技术。该服务被广泛应用于联盟营销等领域，实时过滤和处理流量，依据用户定义的规则进行操作。该服务能够通过位置、流量来源、设备类型、设备语言、操作系统类型等多个参数，瞬时分析流量并进行筛选。借助我们专家开发的独特算法，系统可以检测出不受欢迎的访问者，并将他们留在适合扫描的安全页面（白页），避免访问目标页面。根据设定，不受欢迎的访问者可能包括：机器人、广告网络审核员、来自杀毒服务和搜索引擎的网络爬虫、特定国家或地区的居民、特定时区的用户、特定 IP 子网的访问者、以及使用特定设备进入网站的用户等等。同时，目标受众则被重定向到包含广告网络禁止内容的页面（黑页）
+        - title: Botdeflector
+          logo: botdeflector.png
+          url: https://botdeflector.eu/
+          description: Botdeflector protects your website from bot attacks with AI-powered detection and blocking. Real-time security, high performance, and GDPR compliant
         - title: Cloakerly
           logo: cloakerly.png
           url: https://cloakerly.com/
@@ -3278,6 +3286,13 @@
           url: https://www.swiftproxy.net/?code=II99XUGFE
           description: 9000万+全球高质量纯净动态、静态住宅IP，支持免费测试，动态流量不过期
 
+        # 20% ==============================
+        - title: IPcook
+          logo: ipcook.png
+          no_referral: true
+          url: https://www.ipcook.com/?ref=spiderbox&utm_source=spiderbox&utm_campaign=directory
+          description: IPcook 是一家致力于为全球出海用户与开发者提供高品质、低成本网络接入的专业 IP 代理品牌。我们提供 5500 万+ 动态住宅 IP 与 10 万+ 静态 ISP/数据中心代理，覆盖 185+ 国家。凭借平均低于 0.5s（最快 50ms）的响应时间、99.99% 的连接成功率及强大的多线程高并发承载力，IPcook 完美助力指纹浏览器防关联、大体量数据抓取及跨境电商运营
+
         # 15% ==============================
         - title: ipfly
           logo: ipfly.png
@@ -3457,6 +3472,11 @@
           no_referral: true
           url: https://dashboard.ipsproxy.com/register?invitation_code=1sp8zx5t9p
           description: IPS Proxy provides high-quality residential, ISP, datacenter, and mobile proxies with global IP coverage. Enjoy fast, reliable proxy connections for web scraping, automation, and global business operations
+        - title: Helodata
+          logo: helodata.jpg
+          no_referral: true
+          url: https://helodata.com/?ref=nzcabj
+          description: Helodata 致力于打造合规、稳定、规模化的代理 IP 网络，让 AI 训练、数据采集、广告核查、市场情报等业务在全球任意角落都能拿到真实、干净的数据
 
         # 8% ==============================
         - title: IPRocket
@@ -3482,6 +3502,13 @@
           no_referral: true
           url: https://dashboard.9http.com/auth/register?invite_code=J9V4TV93
           description: 免费试用，稳定代理 IP，驱动数据采集与账号业务
+
+        # 首笔15%，后续6% ==============================
+        - title: Rolaproxy
+          logo: rolaproxy.png
+          no_referral: true
+          url: https://www.rolaproxy.com/dashboard/register?invite_code=U6XFLGC3L
+          description: 注册享免费测试，访问 Rolaproxy 来自 195+ 国家的 1 亿+真实住宅 IP，提高业务成功率，适应规模数据抓取、社媒等业务场景，低至 $0.55/GB
 
         # 首笔12%，后续6% ==============================
         - title: ZooProxy
@@ -3810,6 +3837,11 @@
           url: https://www.grassdata.net/
           logo: grassdata.png
           description: 全球优质数据服务商，企业级合规数据采集与智能解析，使用我们的自动化解决方案获取全球公开的网络数据，为 AI 模型和复杂工作流提供支持
+        - title: Helodata
+          logo: helodata.jpg
+          no_referral: true
+          url: https://helodata.com/?ref=nzcabj
+          description: Helodata 致力于打造合规、稳定、规模化的代理 IP 网络，让 AI 训练、数据采集、广告核查、市场情报等业务在全球任意角落都能拿到真实、干净的数据
 
 - taxonomy: 交流学习
   icon: fas fa-handshake
@@ -5213,6 +5245,10 @@
           logo: zhaoxincheng.png
           url: https://zhaoxincheng.com/
           description: 小白技术社，小白技术社，Frida，Xposed，app逆向，app爬虫
+        - title: White's Blog
+          logo: haloowhite.jpg
+          url: https://haloowhite.com/
+          description: 专注逆向工程、JSVMP 分析、验证码协议解析与 Web Scraping 技术分享。深入浅出，有手就行
 
     - name: 交流论坛
       links:
