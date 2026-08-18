@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: EithanSolace
+      release_time: 2026.08.18 23:19:20
+      title: 密码学补完计划[第四十二期] HKDF(后篇)
+      url: https://www.bilibili.com/video/BV1Jd8g66Ey2
     - author: Breeze_122134
       release_time: 2026.08.18 16:21:39
       title: 某星新闻app逆向
@@ -79,12 +83,12 @@
       url: https://www.bilibili.com/video/BV1zfux6cEFM
     - author: 和沐阳学逆向与Ai
       release_time: 2026.08.06 19:30:00
-      title: 85.frida常见检测(第二节-反Hook与ART)
-      url: https://www.bilibili.com/video/BV14XMU66EyR
-    - author: 和沐阳学逆向与Ai
-      release_time: 2026.08.06 19:30:00
       title: 84.frida常见检测(第一节-原理与进程痕迹)
       url: https://www.bilibili.com/video/BV1mXMU66EuY
+    - author: 和沐阳学逆向与Ai
+      release_time: 2026.08.06 19:30:00
+      title: 85.frida常见检测(第二节-反Hook与ART)
+      url: https://www.bilibili.com/video/BV14XMU66EyR
     - author: r0ysue
       release_time: 2026.08.06 13:41:55
       title: r0capture搭配过检测frida-server抓iOS航司收发包
@@ -117,10 +121,6 @@
       release_time: 2026.08.01 23:09:13
       title: Android逆向之DEX文件脱壳
       url: https://www.bilibili.com/video/BV13K3U6XEUA
-    - author: r0ysue
-      release_time: 2026.08.01 20:13:47
-      title: codex接入CloakBrowser指纹浏览器操作爬虫自动化抓取
-      url: https://www.bilibili.com/video/BV1UzGG67EU4
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
