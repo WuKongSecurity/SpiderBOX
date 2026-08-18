@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2026.08.17 20:18:57
+      title: 129K Star 的 Deepseek Harness，社区已经把桌面版、插件市场都做好了！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991717&idx=1&sn=7129a8bdb3aa71ce585ef2babf527171
+    - author: 进击的HACK
+      release_time: 2026.08.17 19:03:00
+      title: codex 使用 first 的 mcp 分析小程序
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490422&idx=1&sn=10e4a824fde4fe6e530eb5d904e40451
+    - author: 爬虫逆向技术栈
+      release_time: 2026.08.17 13:53:35
+      title: 某讯防水墙tdc补环境篇
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjM5MTU3Ng==&mid=2247483815&idx=1&sn=cef43a0ebb8aa4b07036931ccc2088f2
     - author: Coder小Q
       release_time: 2026.08.17 08:30:00
       title: 【密码学 ·采样】第一次拒绝采样：用容易制造的分布得到目标分布
@@ -136,6 +148,18 @@
       release_time: 2026.08.16 20:14:08
       title: AutoHunter 自动化 SRC 漏洞挖掘系统
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490418&idx=1&sn=287c4e17458d996fc7b59dd46414ea53
+    - author: 进击的HACK
+      release_time: 2026.08.15 12:03:43
+      title: 实习生那些事以及给大四实习的建议
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490414&idx=1&sn=f4e969444527f75ff3cea187a382d6f0
+    - author: 进击的HACK
+      release_time: 2026.08.14 18:02:42
+      title: DeepSeek harness 使用体验
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490409&idx=1&sn=2d4ec6babfe64f045e18838826e8f404
+    - author: 进击的HACK
+      release_time: 2026.08.13 19:18:43
+      title: App隐私合规检测与相关工具
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490405&idx=1&sn=cb5f4fe8e15b397c3de32d251016a697
     - author: 二进制磨剑
       release_time: 2026.08.13 00:35:43
       title: （讨论）DeepSeek  v4 pro cyber （网安）能力已超过 Fable5
@@ -220,30 +244,6 @@
       release_time: 2026.08.10 08:30:00
       title: 压测只看系统指标？k6 进阶，教你用“业务门禁”拿捏上线标准
       url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579294&idx=1&sn=bfccdbc9517bf938cc60a1c63e1c4774
-    - author: Python成长路
-      release_time: 2026.08.10 08:20:00
-      title: 用自建的Gitea仓库实现软件自动更新
-      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486236&idx=1&sn=0ff501ebdd39b43f4c48c317bd7f0481
-    - author: 进击的HACK
-      release_time: 2026.08.09 17:29:08
-      title: Web 逆向分析skills hello_js_reverse_skill
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490389&idx=1&sn=30f47cc20439d1d63d1c036d8c0ac46c
-    - author: 进击的HACK
-      release_time: 2026.08.08 21:06:11
-      title: 朋友：领导让我写个 Skill，把我优化掉
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490384&idx=1&sn=2681c3cb1c333951ccca9f5b2f38bce6
-    - author: 进击的HACK
-      release_time: 2026.08.07 18:15:58
-      title: 安卓挖洞小技巧 | 平板 APK 在手机上显示不全，可以临时这样处理
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490380&idx=1&sn=1b8c7d603981260a51eaf0158021f079
-    - author: 二进制磨剑
-      release_time: 2026.08.07 17:22:24
-      title: 逆向智能体的严父——MCP注入攻击
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486156&idx=1&sn=6c73b7ab4409265015f620d91e5c9acb
-    - author: Coder小Q
-      release_time: 2026.08.07 08:30:00
-      title: 【密码学·采样】从随机比特到有偏骰子：分布是怎样生成的
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496177&idx=1&sn=615d0901107d54ccf6c368975db8f2a3
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
