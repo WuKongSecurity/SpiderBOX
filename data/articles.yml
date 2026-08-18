@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: Breeze_122134
+      release_time: 2026.08.18 16:21:39
+      title: 某星新闻app逆向
+      url: https://www.bilibili.com/video/BV1WP8g6LEPH
     - author: r0ysue
       release_time: 2026.08.17 14:12:39
       title: 用豆包手机反制骚扰电话
@@ -117,10 +121,6 @@
       release_time: 2026.08.01 20:13:47
       title: codex接入CloakBrowser指纹浏览器操作爬虫自动化抓取
       url: https://www.bilibili.com/video/BV1UzGG67EU4
-    - author: Breeze_122134
-      release_time: 2026.08.01 09:27:52
-      title: 数美验证码
-      url: https://www.bilibili.com/video/BV15pGg6HEcq
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
