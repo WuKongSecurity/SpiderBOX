@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 中二
+      release_time: 2026.08.19 23:50:00
+      title: 某q音乐jsvmp浅析
+      url: https://www.52pojie.cn/thread-2123850-1-1.html
     - author: Cencrack
       release_time: 2026.08.16 19:56:00
       title: 加固的 Unity 儿童教育（**巴士学汉字） APP：脱壳、签名校验三连、热更 DLL 硬刚
@@ -363,10 +367,6 @@
       release_time: 2026.07.21 21:27:00
       title: typora的launch.dist.js解读
       url: https://www.52pojie.cn/thread-2118325-1-1.html
-    - author: ╰留个小板寸回
-      release_time: 2026.07.21 19:00:00
-      title: 某游麻将里十三水游戏的逆向分析
-      url: https://www.52pojie.cn/thread-2118301-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
