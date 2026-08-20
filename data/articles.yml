@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 零基础爬虫第一天
+      release_time: 2026.08.20 20:31:46
+      title: Apatch源码笔记16-APM 与 KPM改机前置及对抗
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484752&idx=1&sn=675eedffd6a4debeae5570db2f5b08f1
     - author: 进击的HACK
       release_time: 2026.08.20 18:24:23
       title: 从github自动收集PoC的项目 PoC-in-GitHub
@@ -240,10 +244,6 @@
       release_time: 2026.08.17 13:53:35
       title: 某讯防水墙tdc补环境篇
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjM5MTU3Ng==&mid=2247483815&idx=1&sn=cef43a0ebb8aa4b07036931ccc2088f2
-    - author: 吴见午
-      release_time: 2026.08.17 12:09:54
-      title: 硬编码UUID当签名密钥：360加固的某省交通卡App逆向
-      url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484688&idx=1&sn=8b714548bfa54cfb54583ada75e8ca03
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: priestess
+      release_time: 2026.08.20 19:53:28
+      title: '[分享]初入网安密码学概念'
+      url: https://bbs.kanxue.com/thread-292652.htm
     - author: 巷口的那只猫
       release_time: 2026.08.20 10:47:36
       title: '[原创]BTMob Android 远控 分析报告'
@@ -486,10 +490,6 @@
       release_time: 2026.08.07 10:08:49
       title: JS代码压缩实测：可减小体积、提高执行效率，真实有效！
       url: https://blog.csdn.net/w2sft/article/details/163555384
-    - author: kudos5566
-      release_time: 2026.08.06 17:36:59
-      title: '[原创]某银行 App 逆向分析记录：全链路实战与复现'
-      url: https://bbs.kanxue.com/thread-292331.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
