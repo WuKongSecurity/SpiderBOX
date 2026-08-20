@@ -124,6 +124,74 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.08.19 18:19:37
+      title: WEB应用黑盒测试skills Pentest-WindFtsy
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490431&idx=1&sn=72e08730888e79ea79e3b3fb291cfeb9
+    - author: 网虫Spider
+      release_time: 2026.08.19 17:55:52
+      title: JS逆向|使用免费国产大模型hy3 + iv8 逆向反混淆练习平台第10题
+      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484589&idx=1&sn=d5287d631e6b864e7244fd2487be648b
+    - author: wangyu223
+      release_time: 2026.08.19 17:47:08
+      title: 某音40+版本抓包分析 附frida hook脚本
+      url: https://mp.weixin.qq.com/s?__biz=MzY4ODI4MzQwNQ==&mid=2247483979&idx=1&sn=3cbda9864c745889d33e848c9f5732cb
+    - author: 如意私塾
+      release_time: 2026.08.19 17:21:39
+      title: 最后一套JS逆向课 | funcaptcha 逆向解决
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485019&idx=1&sn=6b7412dddeb2e47f270aeb06a73550f9
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.08.19 15:34:33
+      title: 上海、海南等 10 地入选数据领域国际合作首批试点
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520573&idx=1&sn=1bd8d947f1138f7f3412a6b3be5d3174
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.08.19 15:34:33
+      title: 法国税务局数据泄露 超60万用户个人税务相关信息遭曝光
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520573&idx=2&sn=c79a53002ab34aa5aea00176f6fe342b
+    - author: 软件安全与逆向分析
+      release_time: 2026.08.19 15:31:56
+      title: 安卓完美云手机首个内测镜像发布，第一季课
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485391&idx=1&sn=3abc2e4ca0fd3ae4ba72c19e1f7fd50f
+    - author: 软件安全与逆向分析
+      release_time: 2026.08.19 15:24:32
+      title: 安卓完美云手机首个内测镜像发布，第一季课程完结！
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485387&idx=1&sn=a9bef45ddde395ea734f92178dd4b89e
+    - author: 哆啦安全
+      release_time: 2026.08.19 11:23:09
+      title: 鸿蒙Mate 60 Pro工程机(BL已解锁)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501166&idx=1&sn=4fde1a8c39d24a77bcda0472087340de
+    - author: Coder小Q
+      release_time: 2026.08.19 08:30:00
+      title: 【密码学·采样】概率、条件概率与独立性
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496195&idx=1&sn=ce5ee3c4b84a10da9476a987f79dc3d2
+    - author: 进击的HACK
+      release_time: 2026.08.18 18:31:02
+      title: 工具推荐 | 渗透测试工具包 mitan
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490426&idx=1&sn=ee4697196a6f1a49db92109e40de7e03
+    - author: 挖个洞先
+      release_time: 2026.08.18 18:03:29
+      title: 【TODO】联想SRC七个RCE漏洞
+      url: https://mp.weixin.qq.com/s?__biz=MzkyNjY3OTI4Ng==&mid=2247486151&idx=1&sn=6ec3f33a0b6ccefe9ef23ba18b2c5449
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.08.18 16:34:59
+      title: 国家计算机病毒应急处理中心检测发现75款违法违规收集使用个人信息的移动应用
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520559&idx=1&sn=a3bbb434f291d3c78b8f28297d216004
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.08.18 16:34:59
+      title: Manus宣布脱离Meta恢复独立运营，部分用户需手动迁移账户数据
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520559&idx=2&sn=ebb24e30298fe6717585d7e98a7dad9c
+    - author: 無色逆向
+      release_time: 2026.08.18 14:15:44
+      title: Vaptcha V4 手势验证码算法逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MjYyNTgxMQ==&mid=2247484773&idx=1&sn=1f847abcddac7e78c47fcc54b6b0382b
+    - author: 未闻Code
+      release_time: 2026.08.18 13:54:37
+      title: 把五个同款大模型拉进群聊，就能开一家 AI 公司了吗？
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991723&idx=1&sn=214e526c16c0474e8144929bb103aa8c
+    - author: 哆啦安全
+      release_time: 2026.08.18 08:00:00
+      title: 三部门划定安全底线！全国首部“智能体数据应用安全”标准启动编制！
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501153&idx=1&sn=4386d4ce769da5b57b48636ec51ce2c9
     - author: 未闻Code
       release_time: 2026.08.17 20:18:57
       title: 129K Star 的 Deepseek Harness，社区已经把桌面版、插件市场都做好了！
@@ -136,6 +204,10 @@
       release_time: 2026.08.17 13:53:35
       title: 某讯防水墙tdc补环境篇
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjM5MTU3Ng==&mid=2247483815&idx=1&sn=cef43a0ebb8aa4b07036931ccc2088f2
+    - author: 吴见午
+      release_time: 2026.08.17 12:09:54
+      title: 硬编码UUID当签名密钥：360加固的某省交通卡App逆向
+      url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484688&idx=1&sn=8b714548bfa54cfb54583ada75e8ca03
     - author: Coder小Q
       release_time: 2026.08.17 08:30:00
       title: 【密码学 ·采样】第一次拒绝采样：用容易制造的分布得到目标分布
@@ -148,102 +220,30 @@
       release_time: 2026.08.16 20:14:08
       title: AutoHunter 自动化 SRC 漏洞挖掘系统
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490418&idx=1&sn=287c4e17458d996fc7b59dd46414ea53
+    - author: 吴见午
+      release_time: 2026.08.16 13:47:12
+      title: 本以为 uni-app 逆向只看 JS，结果签名在 so 里——某接单平台的全链路“追凶”记录
+      url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484672&idx=1&sn=1fdb6a44f09a74934bd02112f75442c5
     - author: 进击的HACK
       release_time: 2026.08.15 12:03:43
       title: 实习生那些事以及给大四实习的建议
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490414&idx=1&sn=f4e969444527f75ff3cea187a382d6f0
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.08.15 11:50:29
+      title: 当刑事侦查遇上家族基因：法国“丛林掠食者”案的隐私边界
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520553&idx=1&sn=85850c2a9ba4d16579dad5e06eaae34a
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.08.15 11:50:29
+      title: 2026年8月培训课程：CCRC-PIPP个人信息保护专业人员证书
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520553&idx=2&sn=6c77e3fedb226021d21c74f3d99ec7b5
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.08.15 11:50:29
+      title: 中国数据保护月度报告：重点提示及目录（2026年8月）
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520553&idx=3&sn=18697ed1d96c06aad7fdcc3b13e9ea85
     - author: 进击的HACK
       release_time: 2026.08.14 18:02:42
       title: DeepSeek harness 使用体验
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490409&idx=1&sn=2d4ec6babfe64f045e18838826e8f404
-    - author: 进击的HACK
-      release_time: 2026.08.13 19:18:43
-      title: App隐私合规检测与相关工具
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490405&idx=1&sn=cb5f4fe8e15b397c3de32d251016a697
-    - author: 二进制磨剑
-      release_time: 2026.08.13 00:35:43
-      title: （讨论）DeepSeek  v4 pro cyber （网安）能力已超过 Fable5
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486160&idx=1&sn=732488e454b95e7d17553a535a25eaf3
-    - author: 零基础爬虫第一天
-      release_time: 2026.08.12 23:21:24
-      title: android设备指纹6-DRM/传感器/陀螺仪/电池/webview/ble/wifi
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484730&idx=1&sn=0e9932ae4e27f20e6e0f7e04eaf4d9f7
-    - author: 未闻Code
-      release_time: 2026.08.12 21:13:34
-      title: 13.3K Star！终于有人把文档转 Markdown 这件事做好了！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991714&idx=1&sn=022bad7700097745007d049c9784ea80
-    - author: 进击的HACK
-      release_time: 2026.08.12 18:07:26
-      title: cursor 使用 mcp skills + 使用其他大模型key
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490401&idx=1&sn=74055ac77625d46ce913fb9b68ecda3c
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.08.12 17:08:17
-      title: 原创｜从私隐合规到反起底刑事执法：香港私隐条例修订与监管转型
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520535&idx=1&sn=54d7c8633b04f1327363fb5d07e680f2
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.08.12 17:08:17
-      title: 37岁男子因金钱纠纷涉嫌「起底」前食肆东主及中介人 被私隐专员公署拘捕
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520535&idx=2&sn=946b792e7b60c3f50375a2376b7018a2
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.08.12 17:08:17
-      title: 净网专项行动 | 公安部网安局公布打击侵犯公民个人信息犯罪10起典型案例
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520535&idx=3&sn=b444ce0c1236b633b5106462bc756ac3
-    - author: 流星Studio
-      release_time: 2026.08.12 13:30:00
-      title: 你关注小程序逆向课程上线啦，限时特惠快来看看吧！
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjUxNTgyMg==&mid=2247484256&idx=1&sn=3d2593398c4b68f714e204c2c4ed9164
-    - author: 哆啦安全
-      release_time: 2026.08.12 11:59:14
-      title: KVM+AAOS车机系统定制
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501138&idx=1&sn=f296272b6f13f954f6e4dff269d12ec5
-    - author: 吾爱破解论坛
-      release_time: 2026.08.12 10:01:47
-      title: 心流鼠标手势 FlowMouse v2.3 发布
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144689&idx=1&sn=b077ffc788917105cedc11663af2bb1d
-    - author: 进击的HACK
-      release_time: 2026.08.11 18:16:14
-      title: TscanPlus mcp 使用
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490397&idx=1&sn=b0634c30ebf4b7557afc97cb2adaa887
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.08.11 16:31:27
-      title: 国家互联网信息办公室关于《大型个人信息处理者个人信息保护规定（征求意见稿）》公开征求意见的通知
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520525&idx=1&sn=63ef995bf636e2c7854dc4319d34e70e
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.08.11 16:31:27
-      title: 关于对派拓公司在华销售产品启动网络安全审查的公告
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520525&idx=2&sn=7a1d2dc4cc33f71ec830490ebc97b1bc
-    - author: wangyu223
-      release_time: 2026.08.11 11:08:47
-      title: 某AI iOS端  字节系设备注册逆向详情分析
-      url: https://mp.weixin.qq.com/s?__biz=MzY4ODI4MzQwNQ==&mid=2247483967&idx=1&sn=8c4a1b3a9f1304429c12840ef1201912
-    - author: 猿人学Python
-      release_time: 2026.08.11 10:30:21
-      title: 谷歌起诉 SerpApi 被驳回，看看美国的爬虫官司
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550382&idx=1&sn=2cc7d58cafb385cc1013478e1c4031a4
-    - author: 零基础爬虫第一天
-      release_time: 2026.08.11 07:41:45
-      title: android设备指纹5-系统属性与开机时间
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484723&idx=1&sn=ca9c456ba9b3632ec8738152be077031
-    - author: 桐梓坡低手
-      release_time: 2026.08.10 21:23:59
-      title: ali九宫格 funcaptcha awswaf
-      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247484060&idx=1&sn=514a6a9fe9578c44067f69e79b41d843
-    - author: 無色逆向
-      release_time: 2026.08.10 18:51:23
-      title: 字节九宫格验证码captchaBody算法逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MjYyNTgxMQ==&mid=2247484739&idx=1&sn=2cca0371a3fd04aba20071820835881a
-    - author: 进击的HACK
-      release_time: 2026.08.10 18:39:51
-      title: codex结合jadx、ida mcp分析APP
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490393&idx=1&sn=096d01105d84a1f52347616e38d44697
-    - author: Coder小Q
-      release_time: 2026.08.10 08:30:00
-      title: 【密码学·采样】从柱形到曲线：连续分布的概率藏在哪里
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496163&idx=1&sn=8d6b51abf14e44cede8eca2a398ba781
-    - author: 测试工程师成长之路
-      release_time: 2026.08.10 08:30:00
-      title: 压测只看系统指标？k6 进阶，教你用“业务门禁”拿捏上线标准
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579294&idx=1&sn=bfccdbc9517bf938cc60a1c63e1c4774
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
