@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 极验
+      release_time: 2026.08.20 16:15:00
+      title: 51.8万元是怎么没的：一套密码的连锁反应
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724620&idx=1&sn=7cedc92fa769d1582977e2d747323087
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.08.20 16:00:00
+      title: 国家网信办通报2026年个人信息保护系列专项行动阶段性成果
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520582&idx=1&sn=781e50a4bea55793c2db2c6329c0f665
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.08.20 16:00:00
+      title: 《网络数据安全风险评估办法》今起施行，国家网信办就实施事项答记者问
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520582&idx=2&sn=6093ef4b61060ce4237e26a572515936
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.08.20 16:00:00
+      title: 2026年9月培训：CCRC-PIPCA 个人信息保护合规审计师
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520582&idx=3&sn=dee5e0a49edb1c1b541273ecb3e27e28
     - author: 猿人学Python
       release_time: 2026.08.20 11:52:39
       title: 某滑块完整逆向：从参数链反推到纯 HTTP 复现
@@ -228,22 +244,6 @@
       release_time: 2026.08.16 20:14:08
       title: AutoHunter 自动化 SRC 漏洞挖掘系统
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490418&idx=1&sn=287c4e17458d996fc7b59dd46414ea53
-    - author: 吴见午
-      release_time: 2026.08.16 13:47:12
-      title: 本以为 uni-app 逆向只看 JS，结果签名在 so 里——某接单平台的全链路“追凶”记录
-      url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484672&idx=1&sn=1fdb6a44f09a74934bd02112f75442c5
-    - author: 进击的HACK
-      release_time: 2026.08.15 12:03:43
-      title: 实习生那些事以及给大四实习的建议
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490414&idx=1&sn=f4e969444527f75ff3cea187a382d6f0
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.08.15 11:50:29
-      title: 当刑事侦查遇上家族基因：法国“丛林掠食者”案的隐私边界
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520553&idx=1&sn=85850c2a9ba4d16579dad5e06eaae34a
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.08.15 11:50:29
-      title: 2026年8月培训课程：CCRC-PIPP个人信息保护专业人员证书
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520553&idx=2&sn=6c77e3fedb226021d21c74f3d99ec7b5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
