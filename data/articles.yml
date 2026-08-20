@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.08.20 18:24:23
+      title: 从github自动收集PoC的项目 PoC-in-GitHub
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490435&idx=1&sn=8dffc43d749567791d22527b2c0ba66a
     - author: 网虫Spider
       release_time: 2026.08.20 17:43:10
       title: Scrapy 2.17 源码解析：ExecutionEngine 引擎调度循环详解
@@ -240,17 +244,21 @@
       release_time: 2026.08.17 12:09:54
       title: 硬编码UUID当签名密钥：360加固的某省交通卡App逆向
       url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484688&idx=1&sn=8b714548bfa54cfb54583ada75e8ca03
-    - author: Coder小Q
-      release_time: 2026.08.17 08:30:00
-      title: 【密码学 ·采样】第一次拒绝采样：用容易制造的分布得到目标分布
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496178&idx=1&sn=f84acc90b8cf240777fde96486a1c2f5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: letonshift
+      release_time: 2026.08.20 04:05:00
+      title: 【新手报到】记录一次AI直接反汇编修改某Unity3D il2cpp游戏内购货币
+      url: https://www.52pojie.cn/thread-2123859-1-1.html
     - author: 中二
       release_time: 2026.08.19 23:50:00
       title: 某q音乐jsvmp浅析
       url: https://www.52pojie.cn/thread-2123850-1-1.html
+    - author: ling123
+      release_time: 2026.08.19 15:49:00
+      title: '[Android逆向] 某加速器会员解锁的逆向分析与破解'
+      url: https://www.52pojie.cn/thread-2123778-1-1.html
     - author: Cencrack
       release_time: 2026.08.16 19:56:00
       title: 加固的 Unity 儿童教育（**巴士学汉字） APP：脱壳、签名校验三连、热更 DLL 硬刚
@@ -359,14 +367,6 @@
       release_time: 2026.07.24 13:48:00
       title: iOS 系统通过 Burp Suite 抓取流量报文教程分享
       url: https://www.52pojie.cn/thread-2119120-1-1.html
-    - author: 芽衣
-      release_time: 2026.07.23 22:54:00
-      title: mx播放器 去除签名校验教程
-      url: https://www.52pojie.cn/thread-2118952-1-1.html
-    - author: wolfSpicy
-      release_time: 2026.07.21 21:27:00
-      title: typora的launch.dist.js解读
-      url: https://www.52pojie.cn/thread-2118325-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
