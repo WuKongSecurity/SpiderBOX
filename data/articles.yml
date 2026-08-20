@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Python成长路
+      release_time: 2026.08.20 10:14:22
+      title: 别办联通两千兆的宽带，上传限成 5 兆
+      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486254&idx=1&sn=1b60b43eb54e04b2b22951a905a7fc00
     - author: 进击的HACK
       release_time: 2026.08.19 18:19:37
       title: WEB应用黑盒测试skills Pentest-WindFtsy
@@ -240,10 +244,6 @@
       release_time: 2026.08.15 11:50:29
       title: 中国数据保护月度报告：重点提示及目录（2026年8月）
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520553&idx=3&sn=18697ed1d96c06aad7fdcc3b13e9ea85
-    - author: 进击的HACK
-      release_time: 2026.08.14 18:02:42
-      title: DeepSeek harness 使用体验
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490409&idx=1&sn=2d4ec6babfe64f045e18838826e8f404
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 巷口的那只猫
+      release_time: 2026.08.20 10:47:36
+      title: '[原创]BTMob Android 远控 分析报告'
+      url: https://bbs.kanxue.com/thread-292634.htm
     - author: calleng
       release_time: 2026.08.20 02:16:56
       title: '[原创][js逆向] HmacSHA512-案例-08月19号-搜索关键字定位参数'
@@ -486,10 +490,6 @@
       release_time: 2026.08.06 15:42:49
       title: '[分享] 一个无需上传到服务器 在线APK解析反编译网站'
       url: https://bbs.kanxue.com/thread-292327.htm
-    - author: FUA陈探乐
-      release_time: 2026.08.05 21:37:48
-      title: '[原创]看雪论坛/plugin/link/jump_prompt.js 疑似存在开放跳转漏洞'
-      url: https://bbs.kanxue.com/thread-292313.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
