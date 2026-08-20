@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 猿人学Python
+      release_time: 2026.08.20 11:52:39
+      title: 某滑块完整逆向：从参数链反推到纯 HTTP 复现
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550412&idx=1&sn=97884a186f6d408d7f2a5bca38d31827
     - author: Python成长路
       release_time: 2026.08.20 10:14:22
       title: 别办联通两千兆的宽带，上传限成 5 兆
@@ -240,10 +244,6 @@
       release_time: 2026.08.15 11:50:29
       title: 2026年8月培训课程：CCRC-PIPP个人信息保护专业人员证书
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520553&idx=2&sn=6c77e3fedb226021d21c74f3d99ec7b5
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.08.15 11:50:29
-      title: 中国数据保护月度报告：重点提示及目录（2026年8月）
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520553&idx=3&sn=18697ed1d96c06aad7fdcc3b13e9ea85
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
