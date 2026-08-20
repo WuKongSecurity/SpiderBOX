@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 网虫Spider
+      release_time: 2026.08.20 17:43:10
+      title: Scrapy 2.17 源码解析：ExecutionEngine 引擎调度循环详解
+      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484599&idx=1&sn=2cfdc329df870b0714239b21f6e8f1b4
     - author: GSCL Sec
       release_time: 2026.08.20 16:41:12
       title: 如何让AI更好的控制你的浏览器
@@ -240,10 +244,6 @@
       release_time: 2026.08.17 08:30:00
       title: 【密码学 ·采样】第一次拒绝采样：用容易制造的分布得到目标分布
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496178&idx=1&sn=f84acc90b8cf240777fde96486a1c2f5
-    - author: 测试工程师成长之路
-      release_time: 2026.08.17 08:30:00
-      title: 2026年测试岗风向变了：完全不提AI的简历，正在被悄悄淘汰
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579345&idx=1&sn=1f3316b1bcb64763f60cdb107fff9ba2
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
