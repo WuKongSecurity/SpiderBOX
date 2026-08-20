@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: GSCL Sec
+      release_time: 2026.08.20 16:41:12
+      title: 如何让AI更好的控制你的浏览器
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4MDgyNzY4Nw==&mid=2247484269&idx=1&sn=79d7b1ad7e89cb8c0c234989fcc934fa
     - author: 极验
       release_time: 2026.08.20 16:15:00
       title: 51.8万元是怎么没的：一套密码的连锁反应
@@ -240,10 +244,6 @@
       release_time: 2026.08.17 08:30:00
       title: 2026年测试岗风向变了：完全不提AI的简历，正在被悄悄淘汰
       url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579345&idx=1&sn=1f3316b1bcb64763f60cdb107fff9ba2
-    - author: 进击的HACK
-      release_time: 2026.08.16 20:14:08
-      title: AutoHunter 自动化 SRC 漏洞挖掘系统
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490418&idx=1&sn=287c4e17458d996fc7b59dd46414ea53
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
