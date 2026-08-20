@@ -402,6 +402,10 @@
       release_time: 2026.08.16 20:13:19
       title: '[原创] 某60，某加密，某盾，某迦，某乐 - AI加garlic能力测试'
       url: https://bbs.kanxue.com/thread-292554.htm
+    - author: 感谢可乐治好我的牙龈
+      release_time: 2026.08.16 19:24:00
+      title: 正规短信也能成为攻击载体：验证码洪泛的终端侧检测与保护
+      url: https://xz.aliyun.com/news/92707
     - author: wes1meanon
       release_time: 2026.08.16 14:57:51
       title: '[原创]对某学习APP的frida检测绕过'
@@ -486,10 +490,6 @@
       release_time: 2026.08.06 17:36:59
       title: '[原创]某银行 App 逆向分析记录：全链路实战与复现'
       url: https://bbs.kanxue.com/thread-292331.htm
-    - author: int3bp
-      release_time: 2026.08.06 15:42:49
-      title: '[分享] 一个无需上传到服务器 在线APK解析反编译网站'
-      url: https://bbs.kanxue.com/thread-292327.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
