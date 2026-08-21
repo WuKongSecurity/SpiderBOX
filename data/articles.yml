@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 极验
+      release_time: 2026.08.21 16:45:00
+      title: 极验行为验证入选鸿蒙生态伙伴SDK优选库，安全合规能力获官方认可
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724628&idx=1&sn=11c72fab4b88c19cfb35596dad554104
+    - author: 菜鸟学Python编程
+      release_time: 2026.08.21 16:35:00
+      title: JS逆向|使用AI逆向flyscoot的阿卡迈加密cookies
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566649&idx=1&sn=448c17c5f08a2b0142d12d6c0e04eec0
     - author: DrissionPage
       release_time: 2026.08.21 16:16:50
       title: 5.0.0b1 修复问题
@@ -236,14 +244,6 @@
       release_time: 2026.08.18 13:54:37
       title: 把五个同款大模型拉进群聊，就能开一家 AI 公司了吗？
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991723&idx=1&sn=214e526c16c0474e8144929bb103aa8c
-    - author: 哆啦安全
-      release_time: 2026.08.18 08:00:00
-      title: 三部门划定安全底线！全国首部“智能体数据应用安全”标准启动编制！
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501153&idx=1&sn=4386d4ce769da5b57b48636ec51ce2c9
-    - author: 未闻Code
-      release_time: 2026.08.17 20:18:57
-      title: 129K Star 的 Deepseek Harness，社区已经把桌面版、插件市场都做好了！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991717&idx=1&sn=7129a8bdb3aa71ce585ef2babf527171
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
