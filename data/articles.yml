@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: DrissionPage
+      release_time: 2026.08.21 16:16:50
+      title: 5.0.0b1 修复问题
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzczMw==&mid=2247483954&idx=1&sn=9eee48bf70dc9ad3b3560db5fb15b09a
     - author: Coder小Q
       release_time: 2026.08.21 08:30:00
       title: 【密码学·采样】随机变量、期望、方差和尾概率
@@ -240,10 +244,6 @@
       release_time: 2026.08.17 20:18:57
       title: 129K Star 的 Deepseek Harness，社区已经把桌面版、插件市场都做好了！
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991717&idx=1&sn=7129a8bdb3aa71ce585ef2babf527171
-    - author: 进击的HACK
-      release_time: 2026.08.17 19:03:00
-      title: codex 使用 first 的 mcp 分析小程序
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490422&idx=1&sn=10e4a824fde4fe6e530eb5d904e40451
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
