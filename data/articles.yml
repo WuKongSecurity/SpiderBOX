@@ -2,6 +2,10 @@
   list:
   - links:
     - author: 可厉害的土豆
+      release_time: 2026.08.21 22:28:25
+      title: 【句子分享】| 他人的认可是廉价的枷锁
+      url: https://www.bilibili.com/video/BV1Av8B6ZEQz
+    - author: 可厉害的土豆
       release_time: 2026.08.21 18:40:32
       title: 【网络安全专业研究方向介绍】择校 | 择导师 | 信息安全 | 隐私计算 | AI安全 | 软件、系统与硬件安全 | 系统安全 | 法律政策与安全治理
       url: https://www.bilibili.com/video/BV1P38q6xEWd
@@ -117,10 +121,6 @@
       release_time: 2026.08.02 22:07:07
       title: 【JS逆向终结计划课程】谷歌Recaptcha v3无感
       url: https://www.bilibili.com/video/BV17G3o6DE8r
-    - author: Breeze_122134
-      release_time: 2026.08.02 11:28:12
-      title: opencode
-      url: https://www.bilibili.com/video/BV1GM3D6FER9
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
