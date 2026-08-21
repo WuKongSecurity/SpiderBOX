@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 可厉害的土豆
+      release_time: 2026.08.21 18:40:32
+      title: 【网络安全专业研究方向介绍】择校 | 择导师 | 信息安全 | 隐私计算 | AI安全 | 软件、系统与硬件安全 | 系统安全 | 法律政策与安全治理
+      url: https://www.bilibili.com/video/BV1P38q6xEWd
     - author: Breeze_122134
       release_time: 2026.08.19 13:01:02
       title: 自己开发的动漫app，需要的兄弟私信我，好商量
@@ -117,13 +121,13 @@
       release_time: 2026.08.02 11:28:12
       title: opencode
       url: https://www.bilibili.com/video/BV1GM3D6FER9
-    - author: 如意-浏览器开发培训
-      release_time: 2026.08.02 00:22:03
-      title: 谷歌Recaptcha V3无感JS逆向爬虫教学
-      url: https://www.bilibili.com/video/BV18Y3m6jErv
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.08.21 18:37:19
+      title: AI很有用，所以我们降本增效失败了
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490440&idx=1&sn=67a9a4163805f61decc922b882fd255a
     - author: 网虫Spider
       release_time: 2026.08.21 17:58:59
       title: 知识拓展：CallLaterOnce —— Scrapy 调度循环的去重开关
@@ -240,10 +244,6 @@
       release_time: 2026.08.18 16:34:59
       title: Manus宣布脱离Meta恢复独立运营，部分用户需手动迁移账户数据
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520559&idx=2&sn=ebb24e30298fe6717585d7e98a7dad9c
-    - author: 無色逆向
-      release_time: 2026.08.18 14:15:44
-      title: Vaptcha V4 手势验证码算法逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MjYyNTgxMQ==&mid=2247484773&idx=1&sn=1f847abcddac7e78c47fcc54b6b0382b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
