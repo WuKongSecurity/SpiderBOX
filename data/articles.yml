@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2026.08.23 20:23:43
+      title: 15.6k Star！这个开源项目让 AI 水印形同虚设！
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991726&idx=1&sn=304660b0d0b14da9030c5a29465f7f69
+    - author: 进击的HACK
+      release_time: 2026.08.23 18:33:26
+      title: 面向 DeepSeek Harness的渗透测试模式 dsh-pentest
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490448&idx=1&sn=ad6709956d26dac6c06c7d9c6d8f00c3
     - author: 进击的HACK
       release_time: 2026.08.21 18:37:19
       title: AI很有用，所以我们降本增效失败了
@@ -236,14 +244,6 @@
       release_time: 2026.08.18 18:03:29
       title: 【TODO】联想SRC七个RCE漏洞
       url: https://mp.weixin.qq.com/s?__biz=MzkyNjY3OTI4Ng==&mid=2247486151&idx=1&sn=6ec3f33a0b6ccefe9ef23ba18b2c5449
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.08.18 16:34:59
-      title: 国家计算机病毒应急处理中心检测发现75款违法违规收集使用个人信息的移动应用
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520559&idx=1&sn=a3bbb434f291d3c78b8f28297d216004
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.08.18 16:34:59
-      title: Manus宣布脱离Meta恢复独立运营，部分用户需手动迁移账户数据
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520559&idx=2&sn=ebb24e30298fe6717585d7e98a7dad9c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
