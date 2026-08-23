@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: neocanable
+      release_time: 2026.08.23 13:57:45
+      title: '[原创] Arm静态分析引擎原理四 - IR设计和应用'
+      url: https://bbs.kanxue.com/thread-292736.htm
     - author: Zepp7289
       release_time: 2026.08.23 11:48:34
       title: '[原创]qi5uxeel 原理完整剖析：一份风控请求头的还原实录'
@@ -486,10 +490,6 @@
       release_time: 2026.08.07 19:51:30
       title: '[原创]D3CTF 2026 d3llvm.apk 反调试定位与加密 SO的Dump'
       url: https://bbs.kanxue.com/thread-292355.htm
-    - author: mb_iiulbilc
-      release_time: 2026.08.07 19:29:17
-      title: '[原创]当高频观测不再经过异常路径：Shadow Cave 与常驻式插桩架构'
-      url: https://bbs.kanxue.com/thread-292354.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
