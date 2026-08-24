@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 如意-浏览器开发培训
+      release_time: 2026.08.24 11:15:04
+      title: JS逆向终结计划过PX盾
+      url: https://www.bilibili.com/video/BV1rG8Y6MEJz
     - author: 池唐不是糖
       release_time: 2026.08.23 11:56:14
       title: 直装无人问津？so的通杀？
@@ -117,13 +121,21 @@
       release_time: 2026.08.03 11:41:45
       title: 安卓AI逆向
       url: https://www.bilibili.com/video/BV1ofMQ6AEpW
-    - author: 小肩膀-逆向安全培训
-      release_time: 2026.08.02 22:41:07
-      title: 07.Codex的使用
-      url: https://www.bilibili.com/video/BV1vi3d6LE65
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.08.24 11:42:52
+      title: 最后一套JS逆向课 | Px盾JS逆向解决
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485026&idx=1&sn=f720d4d0d1409eaf077ed5819eecc110
+    - author: 猿人学Python
+      release_time: 2026.08.24 11:38:54
+      title: 差一点就是特大案 惊心动魄的37天实录-爬虫er100人
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550473&idx=1&sn=04ab14528a2ad11511a71a39212b9726
+    - author: 逆向有你
+      release_time: 2026.08.24 11:32:33
+      title: 安卓逆向 -- 某小说分析脱壳与去广告
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041894&idx=1&sn=0d3e3db47820f674b55b56a01caec1fa
     - author: Coder小Q
       release_time: 2026.08.24 08:30:00
       title: 【密码学·采样】两张概率表到底差多少：统计距离与区分优势
@@ -232,18 +244,6 @@
       release_time: 2026.08.19 15:24:32
       title: 安卓完美云手机首个内测镜像发布，第一季课程完结！
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485387&idx=1&sn=a9bef45ddde395ea734f92178dd4b89e
-    - author: 哆啦安全
-      release_time: 2026.08.19 11:23:09
-      title: 鸿蒙Mate 60 Pro工程机(BL已解锁)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501166&idx=1&sn=4fde1a8c39d24a77bcda0472087340de
-    - author: Coder小Q
-      release_time: 2026.08.19 08:30:00
-      title: 【密码学·采样】概率、条件概率与独立性
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496195&idx=1&sn=ce5ee3c4b84a10da9476a987f79dc3d2
-    - author: 进击的HACK
-      release_time: 2026.08.18 18:31:02
-      title: 工具推荐 | 渗透测试工具包 mitan
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490426&idx=1&sn=ee4697196a6f1a49db92109e40de7e03
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
