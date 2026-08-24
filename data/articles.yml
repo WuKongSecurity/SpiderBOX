@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.08.24 19:37:31
+      title: 逆向 skills 路由包 reverse-skill
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490452&idx=1&sn=5f089d8080318462626543dc471099ac
     - author: 软件安全与逆向分析
       release_time: 2026.08.24 16:39:18
       title: 安卓完美云手机内测镜像已发布，支持以下机型
@@ -152,6 +156,10 @@
       release_time: 2026.08.23 18:33:26
       title: 面向 DeepSeek Harness的渗透测试模式 dsh-pentest
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490448&idx=1&sn=ad6709956d26dac6c06c7d9c6d8f00c3
+    - author: 进击的HACK
+      release_time: 2026.08.22 17:44:23
+      title: 笔记本黑屏，好消息，电脑没坏，坏消息，坏的是内存
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490444&idx=1&sn=2434ea55b9bcc129182b4ed81dc48883
     - author: 进击的HACK
       release_time: 2026.08.21 18:37:19
       title: AI很有用，所以我们降本增效失败了
@@ -236,14 +244,6 @@
       release_time: 2026.08.19 15:34:33
       title: 上海、海南等 10 地入选数据领域国际合作首批试点
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520573&idx=1&sn=1bd8d947f1138f7f3412a6b3be5d3174
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.08.19 15:34:33
-      title: 法国税务局数据泄露 超60万用户个人税务相关信息遭曝光
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520573&idx=2&sn=c79a53002ab34aa5aea00176f6fe342b
-    - author: 软件安全与逆向分析
-      release_time: 2026.08.19 15:31:56
-      title: 安卓完美云手机首个内测镜像发布，第一季课
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485391&idx=1&sn=3abc2e4ca0fd3ae4ba72c19e1f7fd50f
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
