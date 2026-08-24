@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: EithanSolace
+      release_time: 2026.08.25 00:50:27
+      title: 密码学补完计划[第四十三期] PBKDF2
+      url: https://www.bilibili.com/video/BV1qEhN6WEZK
     - author: 旭旭爬虫
       release_time: 2026.08.24 21:23:26
       title: 沃尔玛px3的流程分析和需要注意的坑点
@@ -117,10 +121,6 @@
       release_time: 2026.08.06 19:30:00
       title: 84.frida常见检测(第一节-原理与进程痕迹)
       url: https://www.bilibili.com/video/BV1mXMU66EuY
-    - author: r0ysue
-      release_time: 2026.08.06 13:41:55
-      title: r0capture搭配过检测frida-server抓iOS航司收发包
-      url: https://www.bilibili.com/video/BV19quE6AETR
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
