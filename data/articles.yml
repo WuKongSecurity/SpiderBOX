@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 旭旭爬虫
+      release_time: 2026.08.24 21:23:26
+      title: 沃尔玛px3的流程分析和需要注意的坑点
+      url: https://www.bilibili.com/video/BV1AthK6TEoG
     - author: AngelToms
       release_time: 2026.08.24 13:31:07
       title: 术数浅析一
@@ -117,13 +121,17 @@
       release_time: 2026.08.06 13:41:55
       title: r0capture搭配过检测frida-server抓iOS航司收发包
       url: https://www.bilibili.com/video/BV19quE6AETR
-    - author: r0ysue
-      release_time: 2026.08.04 15:20:37
-      title: 定制iOS过检测frida-server注入分析菲律宾cebu航空
-      url: https://www.bilibili.com/video/BV1SGuw6LEC4
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 零基础爬虫第一天
+      release_time: 2026.08.24 21:50:49
+      title: 安卓环境检测篇2-root检测
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484774&idx=1&sn=b9c84a598def6b23e8275002be93f800
+    - author: 零基础爬虫第一天
+      release_time: 2026.08.24 21:46:40
+      title: 安卓环境检测篇1-应用签名检测
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484771&idx=1&sn=f9e00738f4817dbbfaf6bfe5d31c4bcf
     - author: 进击的HACK
       release_time: 2026.08.24 19:37:31
       title: 逆向 skills 路由包 reverse-skill
@@ -236,14 +244,6 @@
       release_time: 2026.08.19 17:47:08
       title: 某音40+版本抓包分析 附frida hook脚本
       url: https://mp.weixin.qq.com/s?__biz=MzY4ODI4MzQwNQ==&mid=2247483979&idx=1&sn=3cbda9864c745889d33e848c9f5732cb
-    - author: 如意私塾
-      release_time: 2026.08.19 17:21:39
-      title: 最后一套JS逆向课 | funcaptcha 逆向解决
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485019&idx=1&sn=6b7412dddeb2e47f270aeb06a73550f9
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.08.19 15:34:33
-      title: 上海、海南等 10 地入选数据领域国际合作首批试点
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520573&idx=1&sn=1bd8d947f1138f7f3412a6b3be5d3174
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
