@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 软件安全与逆向分析
+      release_time: 2026.08.24 16:39:18
+      title: 安卓完美云手机内测镜像已发布，支持以下机型
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485396&idx=1&sn=4f20dc5e303adf9d75bd57d448d9b57d
     - author: 如意私塾
       release_time: 2026.08.24 11:42:52
       title: 最后一套JS逆向课 | Px盾JS逆向解决
@@ -240,10 +244,6 @@
       release_time: 2026.08.19 15:31:56
       title: 安卓完美云手机首个内测镜像发布，第一季课
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485391&idx=1&sn=3abc2e4ca0fd3ae4ba72c19e1f7fd50f
-    - author: 软件安全与逆向分析
-      release_time: 2026.08.19 15:24:32
-      title: 安卓完美云手机首个内测镜像发布，第一季课程完结！
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485387&idx=1&sn=a9bef45ddde395ea734f92178dd4b89e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
