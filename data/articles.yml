@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.08.25 19:00:08
+      title: 用 AI 发现 API 接口 enumeraite
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490459&idx=1&sn=2b701038546baf61f0faf658ee534df6
     - author: x1a0f3n9
       release_time: 2026.08.25 18:13:42
       title: 一个apk下载公益站
@@ -240,10 +244,6 @@
       release_time: 2026.08.20 18:24:23
       title: 从github自动收集PoC的项目 PoC-in-GitHub
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490435&idx=1&sn=8dffc43d749567791d22527b2c0ba66a
-    - author: 网虫Spider
-      release_time: 2026.08.20 17:43:10
-      title: Scrapy 2.17 源码解析：ExecutionEngine 引擎调度循环详解
-      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484599&idx=1&sn=2cfdc329df870b0714239b21f6e8f1b4
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
