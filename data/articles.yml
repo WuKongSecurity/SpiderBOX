@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Coder小Q
+      release_time: 2026.08.25 08:30:00
+      title: 【密码学】DTRU：如何让 NTRU 的乘法、编码与纠错配合起来？
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496279&idx=1&sn=5c5042aa1506bcf1bbef475987696985
     - author: 零基础爬虫第一天
       release_time: 2026.08.24 21:50:49
       title: 安卓环境检测篇2-root检测
@@ -240,10 +244,6 @@
       release_time: 2026.08.19 17:55:52
       title: JS逆向|使用免费国产大模型hy3 + iv8 逆向反混淆练习平台第10题
       url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484589&idx=1&sn=d5287d631e6b864e7244fd2487be648b
-    - author: wangyu223
-      release_time: 2026.08.19 17:47:08
-      title: 某音40+版本抓包分析 附frida hook脚本
-      url: https://mp.weixin.qq.com/s?__biz=MzY4ODI4MzQwNQ==&mid=2247483979&idx=1&sn=3cbda9864c745889d33e848c9f5732cb
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
