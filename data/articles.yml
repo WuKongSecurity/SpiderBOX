@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: αβγδεξπ
+      release_time: 2026.08.25 22:17:34
+      title: '[原创] 专属于 iOS 的 trace 工具'
+      url: https://bbs.kanxue.com/thread-292778.htm
     - author: x1a0f3n9
       release_time: 2026.08.25 18:15:13
       title: '[原创]一个apk下载公益站'
@@ -486,10 +490,6 @@
       release_time: 2026.08.09 06:21:19
       title: '[原创]在正则的缝隙里跳舞：BabyFirst 限制型命令注入的完整攻破与复现'
       url: https://bbs.kanxue.com/thread-292364.htm
-    - author: the_hs
-      release_time: 2026.08.08 01:58:53
-      title: '[原创]hitcon-2017-babyfirst-revenge （看雪ctf版）writeup'
-      url: https://bbs.kanxue.com/thread-292359.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
