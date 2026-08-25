@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.08.25 17:34:05
+      title: 工信部通报26款APP及SDK存在过度索取权限等侵害用户权益行为
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520614&idx=1&sn=f752c9f6ec5380ea977814e18c8354c2
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.08.25 17:34:05
+      title: 《网络安全标准实践指南——座舱数据处理安全要求》公开征求意见
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520614&idx=2&sn=26c4037a8ae51cf2cf0b8d00434957b1
     - author: 网虫Spider
       release_time: 2026.08.25 17:31:35
       title: 还有三个小时，20X都快要蹬完了
@@ -236,14 +244,6 @@
       release_time: 2026.08.20 16:15:00
       title: 51.8万元是怎么没的：一套密码的连锁反应
       url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724620&idx=1&sn=7cedc92fa769d1582977e2d747323087
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.08.20 16:00:00
-      title: 国家网信办通报2026年个人信息保护系列专项行动阶段性成果
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520582&idx=1&sn=781e50a4bea55793c2db2c6329c0f665
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.08.20 16:00:00
-      title: 《网络数据安全风险评估办法》今起施行，国家网信办就实施事项答记者问
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520582&idx=2&sn=6093ef4b61060ce4237e26a572515936
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
