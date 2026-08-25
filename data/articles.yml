@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: x1a0f3n9
+      release_time: 2026.08.25 18:13:42
+      title: 一个apk下载公益站
+      url: https://mp.weixin.qq.com/s?__biz=MzYzMTgyNjA1NA==&mid=2247483928&idx=1&sn=759c7b1b2484ead282ed82b9c533bd17
+    - author: 柳絮的学习杂记
+      release_time: 2026.08.25 18:00:00
+      title: V8 rust 环境模拟踩坑与思路总结
+      url: https://mp.weixin.qq.com/s?__biz=MzIzMDEwOTY4MA==&mid=2247483713&idx=1&sn=699d9bd73e99dcef3906dd1fd7489f8b
     - author: 个人信息与数据保护实务评论
       release_time: 2026.08.25 17:34:05
       title: 工信部通报26款APP及SDK存在过度索取权限等侵害用户权益行为
@@ -236,14 +244,6 @@
       release_time: 2026.08.20 17:43:10
       title: Scrapy 2.17 源码解析：ExecutionEngine 引擎调度循环详解
       url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484599&idx=1&sn=2cfdc329df870b0714239b21f6e8f1b4
-    - author: GSCL Sec
-      release_time: 2026.08.20 16:41:12
-      title: 如何让AI更好的控制你的浏览器
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4MDgyNzY4Nw==&mid=2247484269&idx=1&sn=79d7b1ad7e89cb8c0c234989fcc934fa
-    - author: 极验
-      release_time: 2026.08.20 16:15:00
-      title: 51.8万元是怎么没的：一套密码的连锁反应
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724620&idx=1&sn=7cedc92fa769d1582977e2d747323087
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: x1a0f3n9
+      release_time: 2026.08.25 18:15:13
+      title: '[原创]一个apk下载公益站'
+      url: https://bbs.kanxue.com/thread-292775.htm
     - author: aut0run
       release_time: 2026.08.25 15:41:00
       title: '[原创]某加密企业版 Frida 检测绕过'
@@ -486,10 +490,6 @@
       release_time: 2026.08.08 01:58:53
       title: '[原创]hitcon-2017-babyfirst-revenge （看雪ctf版）writeup'
       url: https://bbs.kanxue.com/thread-292359.htm
-    - author: the_hs
-      release_time: 2026.08.07 22:31:35
-      title: '[原创]hitcon-2015-babyfirst （看雪ctf版）writeup'
-      url: https://bbs.kanxue.com/thread-292357.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
