@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2026.08.25 10:01:46
+      title: 安卓逆向 -- 浅修改一下安卓定位
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041912&idx=1&sn=9fd84a523e027aee1d96276ae5c6bb5c
     - author: Coder小Q
       release_time: 2026.08.25 08:30:00
       title: 【密码学】DTRU：如何让 NTRU 的乘法、编码与纠错配合起来？
@@ -240,10 +244,6 @@
       release_time: 2026.08.19 18:19:37
       title: WEB应用黑盒测试skills Pentest-WindFtsy
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490431&idx=1&sn=72e08730888e79ea79e3b3fb291cfeb9
-    - author: 网虫Spider
-      release_time: 2026.08.19 17:55:52
-      title: JS逆向|使用免费国产大模型hy3 + iv8 逆向反混淆练习平台第10题
-      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484589&idx=1&sn=d5287d631e6b864e7244fd2487be648b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
