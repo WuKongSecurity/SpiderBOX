@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 爬虫逆向技术栈
+      release_time: 2026.08.25 15:13:35
+      title: 花了小一周时间完善下了 Akamai｜Reese84
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjM5MTU3Ng==&mid=2247483836&idx=1&sn=023dac8af1eeb41114950397384ffa78
     - author: 逆向有你
       release_time: 2026.08.25 10:01:46
       title: 安卓逆向 -- 浅修改一下安卓定位
@@ -240,10 +244,6 @@
       release_time: 2026.08.20 10:14:22
       title: 别办联通两千兆的宽带，上传限成 5 兆
       url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486254&idx=1&sn=1b60b43eb54e04b2b22951a905a7fc00
-    - author: 进击的HACK
-      release_time: 2026.08.19 18:19:37
-      title: WEB应用黑盒测试skills Pentest-WindFtsy
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490431&idx=1&sn=72e08730888e79ea79e3b3fb291cfeb9
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
