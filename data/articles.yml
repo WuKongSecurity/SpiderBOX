@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 网虫Spider
+      release_time: 2026.08.25 17:31:35
+      title: 还有三个小时，20X都快要蹬完了
+      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484612&idx=1&sn=726223a51e8adc3eb18f8aa240a26c54
+    - author: 网虫Spider
+      release_time: 2026.08.25 17:29:08
+      title: Scrapy 2.17 源码解析：Scraper 与 SpiderMiddlewareManager
+      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484619&idx=1&sn=38fbba294c7f4d750cedada79514ad04
     - author: 爬虫逆向技术栈
       release_time: 2026.08.25 15:13:35
       title: 花了小一周时间完善下了 Akamai｜Reese84
@@ -180,6 +188,10 @@
       release_time: 2026.08.22 17:44:23
       title: 笔记本黑屏，好消息，电脑没坏，坏消息，坏的是内存
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490444&idx=1&sn=2434ea55b9bcc129182b4ed81dc48883
+    - author: 网虫Spider
+      release_time: 2026.08.22 09:08:52
+      title: 32核的CPU跑满了，大家猜猜我在跑什么
+      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484608&idx=1&sn=c94b46615faf5a42c87d5e4bcd33b622
     - author: 进击的HACK
       release_time: 2026.08.21 18:37:19
       title: AI很有用，所以我们降本增效失败了
@@ -232,18 +244,6 @@
       release_time: 2026.08.20 16:00:00
       title: 《网络数据安全风险评估办法》今起施行，国家网信办就实施事项答记者问
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520582&idx=2&sn=6093ef4b61060ce4237e26a572515936
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.08.20 16:00:00
-      title: 2026年9月培训：CCRC-PIPCA 个人信息保护合规审计师
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520582&idx=3&sn=dee5e0a49edb1c1b541273ecb3e27e28
-    - author: 猿人学Python
-      release_time: 2026.08.20 11:52:39
-      title: 某滑块完整逆向：从参数链反推到纯 HTTP 复现
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550412&idx=1&sn=97884a186f6d408d7f2a5bca38d31827
-    - author: Python成长路
-      release_time: 2026.08.20 10:14:22
-      title: 别办联通两千兆的宽带，上传限成 5 兆
-      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486254&idx=1&sn=1b60b43eb54e04b2b22951a905a7fc00
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
