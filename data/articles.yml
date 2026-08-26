@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: Stars313
+      release_time: 2026.08.25 07:50:00
+      title: 某校园跑软件去广告尝试
+      url: https://www.52pojie.cn/thread-2124596-1-1.html
     - author: zepp7289
       release_time: 2026.08.23 21:09:00
       title: qi5uxeel 原理完整剖析：一份风控请求头的还原实录
@@ -363,10 +367,6 @@
       release_time: 2026.07.27 07:43:00
       title: 成了 ，在 aarch64 Android 手机上，不借助 PC，完整编译一个 Xposed 模块（LSPose...
       url: https://www.52pojie.cn/thread-2119578-1-1.html
-    - author: zhnn
-      release_time: 2026.07.25 17:20:00
-      title: MT管理器 + DeepSeek AI = 安卓逆向+破解新玩法？某录屏软件会员解锁！
-      url: https://www.52pojie.cn/thread-2119351-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
