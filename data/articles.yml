@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.08.26 17:44:20
+      title: ChatGPT官方套餐直充VIP服务
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501180&idx=1&sn=f8e3fb2b0c4336b08818c76fb6208635
+    - author: 网虫Spider
+      release_time: 2026.08.26 17:34:23
+      title: Scrapy 2.17 源码解析：Crawler 启动全流程，以及它终于能脱离 Twisted 跑了
+      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484672&idx=1&sn=b2a0d81ed1da406d6f216161f019d4a1
+    - author: 网虫Spider
+      release_time: 2026.08.26 16:42:11
+      title: 莫名其妙被封，查IP质量https://ipure.art
+      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484666&idx=1&sn=dcf3076fbbb69d38135ea36b4165cf87
     - author: 个人信息与数据保护实务评论
       release_time: 2026.08.26 15:19:09
       title: 广西壮族自治区通信管理局 广西壮族自治区互联网信息办公室 关于下架12款APP的通报
@@ -232,18 +244,6 @@
       release_time: 2026.08.21 17:58:59
       title: 知识拓展：CallLaterOnce —— Scrapy 调度循环的去重开关
       url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484602&idx=1&sn=5db945f25434a35b3710601fc7627100
-    - author: 极验
-      release_time: 2026.08.21 16:45:00
-      title: 极验行为验证入选鸿蒙生态伙伴SDK优选库，安全合规能力获官方认可
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724628&idx=1&sn=11c72fab4b88c19cfb35596dad554104
-    - author: 菜鸟学Python编程
-      release_time: 2026.08.21 16:35:00
-      title: JS逆向|使用AI逆向flyscoot的阿卡迈加密cookies
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566649&idx=1&sn=448c17c5f08a2b0142d12d6c0e04eec0
-    - author: DrissionPage
-      release_time: 2026.08.21 16:16:50
-      title: 5.0.0b1 修复问题
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzczMw==&mid=2247483954&idx=1&sn=9eee48bf70dc9ad3b3560db5fb15b09a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
