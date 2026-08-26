@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Coder小Q
+      release_time: 2026.08.26 08:30:00
+      title: 【密码学·采样】猜中秘密有多难：熵、最小熵与条件信息
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496312&idx=1&sn=b486825f19bd0d419ff82d9f53a923cf
     - author: 进击的HACK
       release_time: 2026.08.25 19:00:08
       title: 用 AI 发现 API 接口 enumeraite
@@ -240,10 +244,6 @@
       release_time: 2026.08.20 20:31:46
       title: Apatch源码笔记16-APM 与 KPM改机前置及对抗
       url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484752&idx=1&sn=675eedffd6a4debeae5570db2f5b08f1
-    - author: 进击的HACK
-      release_time: 2026.08.20 18:24:23
-      title: 从github自动收集PoC的项目 PoC-in-GitHub
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490435&idx=1&sn=8dffc43d749567791d22527b2c0ba66a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
