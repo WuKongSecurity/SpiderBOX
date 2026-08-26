@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.08.26 18:17:15
+      title: 工具推荐 | veo 指纹识别、目录扫描，支持主动和被动
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490466&idx=1&sn=2e3d5bfb3ca50253b50163c5a79cf3d0
     - author: 哆啦安全
       release_time: 2026.08.26 17:44:20
       title: ChatGPT官方套餐直充VIP服务
@@ -240,10 +244,6 @@
       release_time: 2026.08.21 18:37:19
       title: AI很有用，所以我们降本增效失败了
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490440&idx=1&sn=67a9a4163805f61decc922b882fd255a
-    - author: 网虫Spider
-      release_time: 2026.08.21 17:58:59
-      title: 知识拓展：CallLaterOnce —— Scrapy 调度循环的去重开关
-      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484602&idx=1&sn=5db945f25434a35b3710601fc7627100
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
