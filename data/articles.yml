@@ -124,6 +124,26 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.08.27 16:58:11
+      title: 中国人工智能行政监管执法典型案例梳理与评析
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520656&idx=1&sn=c49944ba0b2c7f1842a33b4b45258cfc
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.08.27 16:58:11
+      title: 北京首例破坏人工智能模型刑事案件终审，员工删除企业数据获刑五年十个月
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520656&idx=2&sn=15c79c230a44d1ec1b8e83d0a6e0c840
+    - author: 极验
+      release_time: 2026.08.27 16:00:00
+      title: 云机里养大的新用户，正在排队领新人券【文末有福利~】
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724645&idx=1&sn=25b5554fd31c40dc41f25461bfe974e9
+    - author: 吾爱破解论坛
+      release_time: 2026.08.27 15:19:24
+      title: 吾爱破解论坛网络诊断修复工具 v3.2 新增验证码异常修复
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144702&idx=1&sn=6bb514af5aac64ef49fbd1b72c0b66d4
+    - author: 哆啦安全
+      release_time: 2026.08.27 10:25:55
+      title: ChatGPT和Claude官方套餐IOS直充(操作方法)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501198&idx=1&sn=f2665eb9efb60eaf18c8898d135fcd5c
     - author: 进击的HACK
       release_time: 2026.08.26 18:17:15
       title: 工具推荐 | veo 指纹识别、目录扫描，支持主动和被动
@@ -224,26 +244,6 @@
       release_time: 2026.08.24 08:30:00
       title: 【密码学·采样】两张概率表到底差多少：统计距离与区分优势
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496236&idx=1&sn=9fb0c88e880aae91e3cb5b454ae00213
-    - author: 未闻Code
-      release_time: 2026.08.23 20:23:43
-      title: 15.6k Star！这个开源项目让 AI 水印形同虚设！
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991726&idx=1&sn=304660b0d0b14da9030c5a29465f7f69
-    - author: 进击的HACK
-      release_time: 2026.08.23 18:33:26
-      title: 面向 DeepSeek Harness的渗透测试模式 dsh-pentest
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490448&idx=1&sn=ad6709956d26dac6c06c7d9c6d8f00c3
-    - author: 进击的HACK
-      release_time: 2026.08.22 17:44:23
-      title: 笔记本黑屏，好消息，电脑没坏，坏消息，坏的是内存
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490444&idx=1&sn=2434ea55b9bcc129182b4ed81dc48883
-    - author: 网虫Spider
-      release_time: 2026.08.22 09:08:52
-      title: 32核的CPU跑满了，大家猜猜我在跑什么
-      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484608&idx=1&sn=c94b46615faf5a42c87d5e4bcd33b622
-    - author: 进击的HACK
-      release_time: 2026.08.21 18:37:19
-      title: AI很有用，所以我们降本增效失败了
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490440&idx=1&sn=67a9a4163805f61decc922b882fd255a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
