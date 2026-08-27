@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2026.08.27 20:48:47
+      title: 13.9K Star！当 Codex 直接操作你的视频时间线，这款编辑器正在重新定义 AI 创作流程
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991729&idx=1&sn=19150cf9e3408d217d8c2a7590ad8c7a
+    - author: 网虫Spider
+      release_time: 2026.08.27 18:24:36
+      title: 我昨天说 SHEIN 能直接抓，今天用 requests 一测就被拦：三平台防护实测
+      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484682&idx=1&sn=b0ceb37c1a136345d56b2455ca56f774
+    - author: 进击的HACK
+      release_time: 2026.08.27 18:20:21
+      title: adb 控制 activity 强制跳转
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490471&idx=1&sn=130d3e871499178419319c3cd533472d
     - author: 个人信息与数据保护实务评论
       release_time: 2026.08.27 16:58:11
       title: 中国人工智能行政监管执法典型案例梳理与评析
@@ -168,6 +180,10 @@
       release_time: 2026.08.26 15:19:09
       title: TikTok因儿童隐私保护缺陷在巴西被罚1.537亿雷亚尔
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520632&idx=2&sn=0c65d8073267ca96c9aea9adfabbca8b
+    - author: GH2N
+      release_time: 2026.08.26 14:55:24
+      title: 某东变速曲线滑块详解
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDU4MDY3Nw==&mid=2247483952&idx=1&sn=6a7fa26e160d2f97d45d808baf9ca999
     - author: Coder小Q
       release_time: 2026.08.26 08:30:00
       title: 【密码学·采样】猜中秘密有多难：熵、最小熵与条件信息
@@ -228,22 +244,6 @@
       release_time: 2026.08.24 16:39:18
       title: 安卓完美云手机内测镜像已发布，支持以下机型
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485396&idx=1&sn=4f20dc5e303adf9d75bd57d448d9b57d
-    - author: 如意私塾
-      release_time: 2026.08.24 11:42:52
-      title: 最后一套JS逆向课 | Px盾JS逆向解决
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485026&idx=1&sn=f720d4d0d1409eaf077ed5819eecc110
-    - author: 猿人学Python
-      release_time: 2026.08.24 11:38:54
-      title: 差一点就是特大案 惊心动魄的37天实录-爬虫er100人
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550473&idx=1&sn=04ab14528a2ad11511a71a39212b9726
-    - author: 逆向有你
-      release_time: 2026.08.24 11:32:33
-      title: 安卓逆向 -- 某小说分析脱壳与去广告
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041894&idx=1&sn=0d3e3db47820f674b55b56a01caec1fa
-    - author: Coder小Q
-      release_time: 2026.08.24 08:30:00
-      title: 【密码学·采样】两张概率表到底差多少：统计距离与区分优势
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496236&idx=1&sn=9fb0c88e880aae91e3cb5b454ae00213
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
