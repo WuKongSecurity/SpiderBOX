@@ -540,6 +540,10 @@
           logo: xxmyx.jpg
           url: https://xxmyx.com/
           description: 邮箱账号出售，hotmail、outlook、gmail、yahoo 等邮箱账号
+        - title: 火鸟账号全球网
+          logo: huoniaozhanghao.jpg
+          url: https://www.huoniaozhanghao.com/
+          description: 火鸟账号全球网，提供苹果 ID 购买，Facebook，Instagram，Gmali，TikTok，Youtube，Telegram 账号等各类游戏，社交媒体账号购买批发
         - title: Telegram PRIME
           logo: telegramprime.png
           url: https://telegramprime.com/
@@ -3477,6 +3481,11 @@
           no_referral: true
           url: https://helodata.com/?ref=nzcabj
           description: Helodata 致力于打造合规、稳定、规模化的代理 IP 网络，让 AI 训练、数据采集、广告核查、市场情报等业务在全球任意角落都能拿到真实、干净的数据
+        - title: SX.ORG
+          logo: sx.org.png
+          no_referral: true
+          url: https://sx.org/?c=spiderbox
+          description: 'Reliable proxies for any task: mobile, residential, corporate. Over 12 million IPs in 235 countries. Proxy from $1/IP. Try for free today!'
 
         # 8% ==============================
         - title: IPRocket
