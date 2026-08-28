@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: AngelToms
+      release_time: 2026.08.28 11:22:57
+      title: 术数浅析二
+      url: https://www.bilibili.com/video/BV1ke4f6ME75
     - author: EithanSolace
       release_time: 2026.08.25 00:50:27
       title: 密码学补完计划[第四十三期] PBKDF2
@@ -117,17 +121,41 @@
       release_time: 2026.08.06 19:30:00
       title: 85.frida常见检测(第二节-反Hook与ART)
       url: https://www.bilibili.com/video/BV14XMU66EyR
-    - author: 和沐阳学逆向与Ai
-      release_time: 2026.08.06 19:30:00
-      title: 84.frida常见检测(第一节-原理与进程痕迹)
-      url: https://www.bilibili.com/video/BV1mXMU66EuY
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 网虫Spider
+      release_time: 2026.08.28 22:39:22
+      title: Scrapy 2.17 源码解析：Add-ons 机制，以及那个「照着文档写反而不生效」的优先级坑
+      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484720&idx=1&sn=971d7ca74bf714022353dd51b5c7f1e2
+    - author: 哆啦安全
+      release_time: 2026.08.28 22:03:32
+      title: 从“成本部门”到“核心基础设施”：网络安全未来5—10年发展趋势与职业机遇
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501204&idx=1&sn=47a3cd2e1813c68bf4734fbadc7764b8
+    - author: 进击的HACK
+      release_time: 2026.08.28 18:39:58
+      title: Frida 替换 WebView JS 实现Android明文抓包
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490476&idx=1&sn=217f4d93819cdb85406ff31b8bcc7dd0
+    - author: 网虫Spider
+      release_time: 2026.08.28 14:28:43
+      title: 《我的女友景田》一夜带出n多百万富翁
+      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484713&idx=1&sn=40934b059ce7fc873ba0d0d8d158615a
+    - author: 网虫Spider
+      release_time: 2026.08.28 08:15:41
+      title: 打赌100块，今天纳指基金，开盘必停牌😱
+      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484699&idx=1&sn=7dc8298d83e3518103a697edd0788f98
+    - author: 网虫Spider
+      release_time: 2026.08.27 23:34:53
+      title: 孙割与景甜的🍉，兄弟们吃到了吗？
+      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484694&idx=1&sn=53cfc38ff8e4b890e6ab573a780c3fdf
     - author: 未闻Code
       release_time: 2026.08.27 20:48:47
       title: 13.9K Star！当 Codex 直接操作你的视频时间线，这款编辑器正在重新定义 AI 创作流程
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991729&idx=1&sn=19150cf9e3408d217d8c2a7590ad8c7a
+    - author: 网虫Spider
+      release_time: 2026.08.27 18:36:33
+      title: 搞了个股票估值项目，大家有兴趣吗？
+      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484687&idx=1&sn=aefd1db5d181d077d1655934394a8bd8
     - author: 网虫Spider
       release_time: 2026.08.27 18:24:36
       title: 我昨天说 SHEIN 能直接抓，今天用 requests 一测就被拦：三平台防护实测
@@ -216,34 +244,6 @@
       release_time: 2026.08.25 17:29:08
       title: Scrapy 2.17 源码解析：Scraper 与 SpiderMiddlewareManager
       url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484619&idx=1&sn=38fbba294c7f4d750cedada79514ad04
-    - author: 爬虫逆向技术栈
-      release_time: 2026.08.25 15:13:35
-      title: 花了小一周时间完善下了 Akamai｜Reese84
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjM5MTU3Ng==&mid=2247483836&idx=1&sn=023dac8af1eeb41114950397384ffa78
-    - author: 逆向有你
-      release_time: 2026.08.25 10:01:46
-      title: 安卓逆向 -- 浅修改一下安卓定位
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041912&idx=1&sn=9fd84a523e027aee1d96276ae5c6bb5c
-    - author: Coder小Q
-      release_time: 2026.08.25 08:30:00
-      title: 【密码学】DTRU：如何让 NTRU 的乘法、编码与纠错配合起来？
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496279&idx=1&sn=5c5042aa1506bcf1bbef475987696985
-    - author: 零基础爬虫第一天
-      release_time: 2026.08.24 21:50:49
-      title: 安卓环境检测篇2-root检测
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484774&idx=1&sn=b9c84a598def6b23e8275002be93f800
-    - author: 零基础爬虫第一天
-      release_time: 2026.08.24 21:46:40
-      title: 安卓环境检测篇1-应用签名检测
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484771&idx=1&sn=f9e00738f4817dbbfaf6bfe5d31c4bcf
-    - author: 进击的HACK
-      release_time: 2026.08.24 19:37:31
-      title: 逆向 skills 路由包 reverse-skill
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490452&idx=1&sn=5f089d8080318462626543dc471099ac
-    - author: 软件安全与逆向分析
-      release_time: 2026.08.24 16:39:18
-      title: 安卓完美云手机内测镜像已发布，支持以下机型
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485396&idx=1&sn=4f20dc5e303adf9d75bd57d448d9b57d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 星野安全
+      release_time: 2026.08.28 19:30:10
+      title: '[原创] 基于某银行App的梆梆加固逆向实战'
+      url: https://bbs.kanxue.com/thread-292801.htm
     - author: mb_oiopkrim
       release_time: 2026.08.28 10:53:30
       title: '[原创] 某论坛类软件的frida检测绕过'
@@ -486,10 +490,6 @@
       release_time: 2026.08.10 23:41:57
       title: '[原创]HTB Nimbus渗透测试靶机 Writeup'
       url: https://bbs.kanxue.com/thread-292413.htm
-    - author: FinSectech
-      release_time: 2026.08.10 12:47:03
-      title: '[原创]当壳遇上LuaJIT字节码魔改：某游逆向'
-      url: https://bbs.kanxue.com/thread-292374.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
