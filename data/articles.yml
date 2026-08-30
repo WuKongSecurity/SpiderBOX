@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 学逆向的柚子
+      release_time: 2026.08.30 12:27:12
+      title: 铭记地牢-无限时间冻结
+      url: https://www.bilibili.com/video/BV1kV4D6SEyT
     - author: AngelToms
       release_time: 2026.08.28 11:22:57
       title: 术数浅析二
@@ -117,10 +121,6 @@
       release_time: 2026.08.07 14:37:00
       title: r0tracer搭配过检测frida-server注入追踪所有界面调用栈
       url: https://www.bilibili.com/video/BV1zfux6cEFM
-    - author: 和沐阳学逆向与Ai
-      release_time: 2026.08.06 19:30:00
-      title: 85.frida常见检测(第二节-反Hook与ART)
-      url: https://www.bilibili.com/video/BV14XMU66EyR
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: gongchuang
+      release_time: 2026.08.30 10:40:25
+      title: '[原创]安卓驱动跳板 PTE 物理映射读写'
+      url: https://bbs.kanxue.com/thread-292808.htm
     - author: 我不是卷王
       release_time: 2026.08.29 16:29:51
       title: '[原创]风控特征关联平台（入门版本）'
@@ -486,10 +490,6 @@
       release_time: 2026.08.12 09:51:53
       title: '[原创]r0re 自动逆向分析工具实战记录：全通看雪 Android CTF，完整使用指南和源码解析'
       url: https://bbs.kanxue.com/thread-292470.htm
-    - author: mb_sicsragt
-      release_time: 2026.08.11 13:07:10
-      title: '[原创]记录一次完整的IL2CPP手游逆向（frida）——以某二游为例'
-      url: https://bbs.kanxue.com/thread-292432.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
