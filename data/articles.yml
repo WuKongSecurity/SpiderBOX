@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: AngelToms
+      release_time: 2026.08.30 16:28:04
+      title: 术数浅析-AI带给我们的思考
+      url: https://www.bilibili.com/video/BV1fb4X67Eh8
     - author: 学逆向的柚子
       release_time: 2026.08.30 12:27:12
       title: 铭记地牢-无限时间冻结
@@ -117,10 +121,6 @@
       release_time: 2026.08.09 14:18:38
       title: JS逆向终结计划之funcaptcha解决
       url: https://www.bilibili.com/video/BV1mRu16vEfQ
-    - author: r0ysue
-      release_time: 2026.08.07 14:37:00
-      title: r0tracer搭配过检测frida-server注入追踪所有界面调用栈
-      url: https://www.bilibili.com/video/BV1zfux6cEFM
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
