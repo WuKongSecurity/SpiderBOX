@@ -3486,6 +3486,11 @@
           no_referral: true
           url: https://sx.org/?c=spiderbox
           description: 'Reliable proxies for any task: mobile, residential, corporate. Over 12 million IPs in 235 countries. Proxy from $1/IP. Try for free today!'
+        - title: NextProxy
+          logo: nextproxy.png
+          no_referral: true
+          url: https://www.nextproxy.com/r/spiderbox
+          description: 提供 1 亿+ 高纯度住宅 IP，基于真实家庭网络，配合指纹隔离，降低账号关联与风控概率
 
         # 8% ==============================
         - title: IPRocket
