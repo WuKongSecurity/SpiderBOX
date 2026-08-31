@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: EithanSolace
+      release_time: 2026.08.31 22:03:14
+      title: 密码学补完计划[第四十四期] Argon2
+      url: https://www.bilibili.com/video/BV1uBta6yESK
     - author: B站用户骚神
       release_time: 2026.08.31 15:21:35
       title: 【DrissionPage CLI】专为AI和agent开发的DrissionPage命令行工具
@@ -117,10 +121,6 @@
       release_time: 2026.08.09 14:45:57
       title: 【AI-JS逆向终结计划课程】阿里v2流程分析
       url: https://www.bilibili.com/video/BV1mLu16wEeo
-    - author: 小肩膀-逆向安全培训
-      release_time: 2026.08.09 14:45:26
-      title: 【AI-JS逆向终结计划课程】kasada补环境
-      url: https://www.bilibili.com/video/BV1mLu16wEaS
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
