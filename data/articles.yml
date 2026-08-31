@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2026.08.31 15:21:35
+      title: 【DrissionPage CLI】专为AI和agent开发的DrissionPage命令行工具
+      url: https://www.bilibili.com/video/BV17Qtt6JEqZ
     - author: AngelToms
       release_time: 2026.08.31 11:36:43
       title: 补后续计划
@@ -117,13 +121,21 @@
       release_time: 2026.08.09 14:45:26
       title: 【AI-JS逆向终结计划课程】kasada补环境
       url: https://www.bilibili.com/video/BV1mLu16wEaS
-    - author: 小肩膀-逆向安全培训
-      release_time: 2026.08.09 14:45:07
-      title: 【AI-JS逆向终结计划课程】reese84补环境
-      url: https://www.bilibili.com/video/BV1tLu16AEZx
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.08.31 18:33:52
+      title: 八月文章汇总
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490491&idx=1&sn=a047c52b16c392edfcd29266e9ff46e3
+    - author: 哆啦安全
+      release_time: 2026.08.31 18:33:45
+      title: AI智能体 | Android系统智能调试分析工具
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501206&idx=1&sn=e54686654eebea338d0eae9bd0ac4b2b
+    - author: GH2N
+      release_time: 2026.08.31 15:48:48
+      title: Python + OpenCV 识别 GIF 中旋转最快的验证码：基于时间周期的动态识别
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDU4MDY3Nw==&mid=2247483967&idx=1&sn=6bb2cfcbbdbda3bd9b0d433ae5ef0874
     - author: 菜鸟学Python编程
       release_time: 2026.08.31 11:39:00
       title: JS逆向|使用AI逆向某网站的reese84 cookie加密
@@ -232,21 +244,13 @@
       release_time: 2026.08.26 15:19:09
       title: 广西壮族自治区通信管理局 广西壮族自治区互联网信息办公室 关于下架12款APP的通报
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520632&idx=1&sn=845a084c089ff620d6fd751e5b199399
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.08.26 15:19:09
-      title: TikTok因儿童隐私保护缺陷在巴西被罚1.537亿雷亚尔
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520632&idx=2&sn=0c65d8073267ca96c9aea9adfabbca8b
-    - author: GH2N
-      release_time: 2026.08.26 14:55:24
-      title: 某东变速曲线滑块详解
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDU4MDY3Nw==&mid=2247483952&idx=1&sn=6a7fa26e160d2f97d45d808baf9ca999
-    - author: Coder小Q
-      release_time: 2026.08.26 08:30:00
-      title: 【密码学·采样】猜中秘密有多难：熵、最小熵与条件信息
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496312&idx=1&sn=b486825f19bd0d419ff82d9f53a923cf
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: '1245124511'
+      release_time: 2026.08.31 11:47:00
+      title: 安卓 APK 逆向经验分享
+      url: https://www.52pojie.cn/thread-2125546-1-1.html
     - author: jhdgff
       release_time: 2026.08.30 16:59:00
       title: 某象滑块纯算逆向分析
@@ -363,10 +367,6 @@
       release_time: 2026.07.30 16:53:00
       title: 看懂身份验证中的活体检测（三）：静默活体检测
       url: https://www.52pojie.cn/thread-2120382-1-1.html
-    - author: '66431898'
-      release_time: 2026.07.28 20:24:00
-      title: 「中医伤科学」APK 逆向修改：JS 注入繁转简+去密码+为缺少谷歌框架的华为鸿蒙做适配
-      url: https://www.52pojie.cn/thread-2119975-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
