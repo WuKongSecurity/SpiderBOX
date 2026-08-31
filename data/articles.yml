@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: AngelToms
+      release_time: 2026.08.31 11:36:43
+      title: 补后续计划
+      url: https://www.bilibili.com/video/BV1Katx6sEDn
     - author: 一只勇敢的小佳
       release_time: 2026.08.31 04:10:53
       title: Frida 整体启动、特征点、处理方式
@@ -117,13 +121,37 @@
       release_time: 2026.08.09 14:45:07
       title: 【AI-JS逆向终结计划课程】reese84补环境
       url: https://www.bilibili.com/video/BV1tLu16AEZx
-    - author: 如意-浏览器开发培训
-      release_time: 2026.08.09 14:22:17
-      title: reese84网站JS逆向秒杀
-      url: https://www.bilibili.com/video/BV1Qmu16gEee
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2026.08.31 11:39:00
+      title: JS逆向|使用AI逆向某网站的reese84 cookie加密
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566663&idx=1&sn=60a5bc9d826f862805d0e26c55c05256
+    - author: 猿人学Python
+      release_time: 2026.08.31 10:43:12
+      title: HCaptcha HSW‑WASM 逆向：AES 密钥特征及 n_token 原始加密分析
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550474&idx=1&sn=31624e633df91a2cd04f0e1018098a26
+    - author: 小陈iOS逆向与安全
+      release_time: 2026.08.31 08:43:01
+      title: 2026 AI 会员充值指南：ChatGPT 充值、ChatGPT 订阅和 AI 直充怎么选？
+      url: https://mp.weixin.qq.com/s?__biz=MjM5MjEzMDAzMg==&mid=2257485136&idx=1&sn=684e946e2e6c9c3f7269668e30e56e96
+    - author: 测试工程师成长之路
+      release_time: 2026.08.31 08:30:00
+      title: 测试结果分析：从导库到直接查，DuckDB 省了我半小时
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579360&idx=1&sn=d23513ac4c47fa67ed1968b0b616d99f
+    - author: Coder小Q
+      release_time: 2026.08.31 08:30:00
+      title: 【密码学·采样】偏差如何进入安全证明：Rényi 散度与概率迁移
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496342&idx=1&sn=a903bb1c0d7297c12ac2f16578dda447
+    - author: 进击的HACK
+      release_time: 2026.08.30 20:16:00
+      title: 被动式 Web 安全扫描工具 AIFuzzing
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490486&idx=1&sn=0bc0ffee57b13a78ca043204ef0db034
+    - author: 进击的HACK
+      release_time: 2026.08.29 19:01:10
+      title: 工具推荐 | 算法助手Pro
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490482&idx=1&sn=41fc10af3e6d7bfd465abee7b2449461
     - author: 网虫Spider
       release_time: 2026.08.28 22:39:22
       title: Scrapy 2.17 源码解析：Add-ons 机制，以及那个「照着文档写反而不生效」的优先级坑
@@ -216,37 +244,21 @@
       release_time: 2026.08.26 08:30:00
       title: 【密码学·采样】猜中秘密有多难：熵、最小熵与条件信息
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496312&idx=1&sn=b486825f19bd0d419ff82d9f53a923cf
-    - author: 进击的HACK
-      release_time: 2026.08.25 19:00:08
-      title: 用 AI 发现 API 接口 enumeraite
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490459&idx=1&sn=2b701038546baf61f0faf658ee534df6
-    - author: x1a0f3n9
-      release_time: 2026.08.25 18:13:42
-      title: 一个apk下载公益站
-      url: https://mp.weixin.qq.com/s?__biz=MzYzMTgyNjA1NA==&mid=2247483928&idx=1&sn=759c7b1b2484ead282ed82b9c533bd17
-    - author: 柳絮的学习杂记
-      release_time: 2026.08.25 18:00:00
-      title: V8 rust 环境模拟踩坑与思路总结
-      url: https://mp.weixin.qq.com/s?__biz=MzIzMDEwOTY4MA==&mid=2247483713&idx=1&sn=699d9bd73e99dcef3906dd1fd7489f8b
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.08.25 17:34:05
-      title: 工信部通报26款APP及SDK存在过度索取权限等侵害用户权益行为
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520614&idx=1&sn=f752c9f6ec5380ea977814e18c8354c2
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.08.25 17:34:05
-      title: 《网络安全标准实践指南——座舱数据处理安全要求》公开征求意见
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520614&idx=2&sn=26c4037a8ae51cf2cf0b8d00434957b1
-    - author: 网虫Spider
-      release_time: 2026.08.25 17:31:35
-      title: 还有三个小时，20X都快要蹬完了
-      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484612&idx=1&sn=726223a51e8adc3eb18f8aa240a26c54
-    - author: 网虫Spider
-      release_time: 2026.08.25 17:29:08
-      title: Scrapy 2.17 源码解析：Scraper 与 SpiderMiddlewareManager
-      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484619&idx=1&sn=38fbba294c7f4d750cedada79514ad04
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: jhdgff
+      release_time: 2026.08.30 16:59:00
+      title: 某象滑块纯算逆向分析
+      url: https://www.52pojie.cn/thread-2125447-1-1.html
+    - author: LucasBarthak
+      release_time: 2026.08.29 19:00:00
+      title: bp+安卓14+KernelSU的app抓包配置问题及解决方法
+      url: https://www.52pojie.cn/thread-2125342-1-1.html
+    - author: Bot95
+      release_time: 2026.08.29 10:13:00
+      title: 某米主题商店接口逆向分析
+      url: https://www.52pojie.cn/thread-2125273-1-1.html
     - author: Stars313
       release_time: 2026.08.25 07:50:00
       title: 某校园跑软件去广告尝试
@@ -355,18 +367,6 @@
       release_time: 2026.07.28 20:24:00
       title: 「中医伤科学」APK 逆向修改：JS 注入繁转简+去密码+为缺少谷歌框架的华为鸿蒙做适配
       url: https://www.52pojie.cn/thread-2119975-1-1.html
-    - author: jiemiao
-      release_time: 2026.07.28 17:28:00
-      title: Discord Android 协议逆向实战 —— 从 APK 反编译到 Windows 协议 DLL 全流程
-      url: https://www.52pojie.cn/thread-2119947-1-1.html
-    - author: justWant404
-      release_time: 2026.07.28 11:12:00
-      title: florida编译教程
-      url: https://www.52pojie.cn/thread-2119836-1-1.html
-    - author: hefu233
-      release_time: 2026.07.27 07:43:00
-      title: 成了 ，在 aarch64 Android 手机上，不借助 PC，完整编译一个 Xposed 模块（LSPose...
-      url: https://www.52pojie.cn/thread-2119578-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
