@@ -124,6 +124,30 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 布鲁的Python之旅
+      release_time: 2026.09.01 17:28:46
+      title: 微信 4.1.x 用AI上手写 Hook：公众号推文秒级到手
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486507&idx=1&sn=ddc7b65ca923fb65daa97581d25f5b8d
+    - author: 泡泡以安
+      release_time: 2026.09.01 17:26:41
+      title: 小红书 Web x-s 签名分析
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486809&idx=1&sn=f509d4d23d7e92d6f131e300e8172d65
+    - author: R逆向
+      release_time: 2026.09.01 17:19:36
+      title: IOSDecryptHub：免越狱看清加解密，兼砸壳与 MCP
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NjA3Mw==&mid=2247483856&idx=1&sn=465a723d9cac4c03035e9910184bd9d9
+    - author: 如意私塾
+      release_time: 2026.09.01 17:01:14
+      title: 从支付宝做Token中转站开始谈
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485052&idx=1&sn=40c9c18c5410b0ad45c0d95a196470b5
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.09.01 16:20:12
+      title: 重庆出台全国首部数据安全管理地方性法规
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520674&idx=1&sn=999c10bc6213cbca5e90e28e495668c1
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.09.01 16:20:12
+      title: 42款医疗健康类App及小程序因违法违规收集使用个人信息被通报
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520674&idx=2&sn=8bcd51a12a7f85b12863d2a4545e3976
     - author: 哆啦安全
       release_time: 2026.09.01 12:01:34
       title: 从脱壳到漏洞挖掘：AI辅助Android逆向全流程实战指南
@@ -220,30 +244,6 @@
       release_time: 2026.08.27 16:58:11
       title: 北京首例破坏人工智能模型刑事案件终审，员工删除企业数据获刑五年十个月
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520656&idx=2&sn=15c79c230a44d1ec1b8e83d0a6e0c840
-    - author: 极验
-      release_time: 2026.08.27 16:00:00
-      title: 云机里养大的新用户，正在排队领新人券【文末有福利~】
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724645&idx=1&sn=25b5554fd31c40dc41f25461bfe974e9
-    - author: 吾爱破解论坛
-      release_time: 2026.08.27 15:19:24
-      title: 吾爱破解论坛网络诊断修复工具 v3.2 新增验证码异常修复
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144702&idx=1&sn=6bb514af5aac64ef49fbd1b72c0b66d4
-    - author: 哆啦安全
-      release_time: 2026.08.27 10:25:55
-      title: ChatGPT和Claude官方套餐IOS直充(操作方法)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501198&idx=1&sn=f2665eb9efb60eaf18c8898d135fcd5c
-    - author: 进击的HACK
-      release_time: 2026.08.26 18:17:15
-      title: 工具推荐 | veo 指纹识别、目录扫描，支持主动和被动
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490466&idx=1&sn=2e3d5bfb3ca50253b50163c5a79cf3d0
-    - author: 哆啦安全
-      release_time: 2026.08.26 17:44:20
-      title: ChatGPT官方套餐直充VIP服务
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501180&idx=1&sn=f8e3fb2b0c4336b08818c76fb6208635
-    - author: 网虫Spider
-      release_time: 2026.08.26 17:34:23
-      title: Scrapy 2.17 源码解析：Crawler 启动全流程，以及它终于能脱离 Twisted 跑了
-      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484672&idx=1&sn=b2a0d81ed1da406d6f216161f019d4a1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 太岁又沐风
+      release_time: 2026.09.01 17:12:11
+      title: '[原创]IOSDecryptHub：免越狱看清加解密，兼砸壳与 MCP'
+      url: https://bbs.kanxue.com/thread-292822.htm
     - author: sleep3r_fw
       release_time: 2026.08.31 23:27:27
       title: '[分享]生物探针与行为神经网络风控'
@@ -398,6 +402,10 @@
       release_time: 2026.08.28 10:53:30
       title: '[原创] 某论坛类软件的frida检测绕过'
       url: https://bbs.kanxue.com/thread-292796.htm
+    - author: 用户yO5Jq1o1mI
+      release_time: 2026.08.27 21:10:00
+      title: Zygote 注入技术详解及代码分析
+      url: https://xz.aliyun.com/news/92747
     - author: 八月欢喜
       release_time: 2026.08.27 11:09:10
       title: tt-ticket-guard-client-data 生成分析
@@ -482,14 +490,6 @@
       release_time: 2026.08.16 19:24:00
       title: 正规短信也能成为攻击载体：验证码洪泛的终端侧检测与保护
       url: https://xz.aliyun.com/news/92707
-    - author: wes1meanon
-      release_time: 2026.08.16 14:57:51
-      title: '[原创]对某学习APP的frida检测绕过'
-      url: https://bbs.kanxue.com/thread-292547.htm
-    - author: 一只鸭子
-      release_time: 2026.08.15 22:08:25
-      title: '[原创]快手 VMP 分析与还原(水文一篇)'
-      url: https://bbs.kanxue.com/thread-292535.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
