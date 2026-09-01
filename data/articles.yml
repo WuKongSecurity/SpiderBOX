@@ -394,6 +394,10 @@
       release_time: 2026.08.28 10:53:30
       title: '[原创] 某论坛类软件的frida检测绕过'
       url: https://bbs.kanxue.com/thread-292796.htm
+    - author: 八月欢喜
+      release_time: 2026.08.27 11:09:10
+      title: tt-ticket-guard-client-data 生成分析
+      url: https://blog.csdn.net/weixin_52283613/article/details/164113845
     - author: aut0run
       release_time: 2026.08.26 14:58:53
       title: '[原创]libDexHelper.so 全面分析'
@@ -410,6 +414,10 @@
       release_time: 2026.08.25 15:41:00
       title: '[原创]某加密企业版 Frida 检测绕过'
       url: https://bbs.kanxue.com/thread-292771.htm
+    - author: 八月欢喜
+      release_time: 2026.08.24 11:06:37
+      title: TikTok X-Dynosaur 逆向日志（item_list 接口）分析
+      url: https://blog.csdn.net/weixin_52283613/article/details/164017947
     - author: neocanable
       release_time: 2026.08.23 13:57:45
       title: '[原创] Arm静态分析引擎原理四 - IR设计和应用'
@@ -482,14 +490,6 @@
       release_time: 2026.08.14 22:00:55
       title: '[原创]浅析 Google Play 自动保护（PairIP）：代码虚拟化、TEE 密钥与运行时反篡改'
       url: https://bbs.kanxue.com/thread-292523.htm
-    - author: wx_小友
-      release_time: 2026.08.13 23:51:56
-      title: '[原创]Instagram Android 抓包 / SSL Pinning 绕过 —— 完整排查方法论'
-      url: https://bbs.kanxue.com/thread-292503.htm
-    - author: w4nk3r
-      release_time: 2026.08.13 01:27:00
-      title: 从用户注销到优惠券复用：一次应用逻辑漏洞的完整剖析
-      url: https://xz.aliyun.com/news/92682
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
