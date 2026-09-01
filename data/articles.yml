@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.09.01 12:01:34
+      title: 从脱壳到漏洞挖掘：AI辅助Android逆向全流程实战指南
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501211&idx=1&sn=81d324da30bf18f7e25b6d3eda1fad0b
+    - author: 菜鸟学Python编程
+      release_time: 2026.09.01 09:00:00
+      title: JS逆向|使用AI + CloakBrowser bypass 5s盾防护
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566672&idx=1&sn=9da11da4ede6a156997daed85d18b1c9
     - author: 进击的HACK
       release_time: 2026.08.31 18:33:52
       title: 八月文章汇总
@@ -236,14 +244,6 @@
       release_time: 2026.08.26 17:34:23
       title: Scrapy 2.17 源码解析：Crawler 启动全流程，以及它终于能脱离 Twisted 跑了
       url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484672&idx=1&sn=b2a0d81ed1da406d6f216161f019d4a1
-    - author: 网虫Spider
-      release_time: 2026.08.26 16:42:11
-      title: 莫名其妙被封，查IP质量https://ipure.art
-      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484666&idx=1&sn=dcf3076fbbb69d38135ea36b4165cf87
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.08.26 15:19:09
-      title: 广西壮族自治区通信管理局 广西壮族自治区互联网信息办公室 关于下架12款APP的通报
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520632&idx=1&sn=845a084c089ff620d6fd751e5b199399
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: sleep3r_fw
+      release_time: 2026.08.31 23:27:27
+      title: '[分享]生物探针与行为神经网络风控'
+      url: https://bbs.kanxue.com/thread-292819.htm
     - author: mb_peeqldfc
       release_time: 2026.08.31 03:32:54
       title: '[原创]Frida 整体启动逻辑'
@@ -486,10 +490,6 @@
       release_time: 2026.08.15 22:08:25
       title: '[原创]快手 VMP 分析与还原(水文一篇)'
       url: https://bbs.kanxue.com/thread-292535.htm
-    - author: 星野安全
-      release_time: 2026.08.14 22:00:55
-      title: '[原创]浅析 Google Play 自动保护（PairIP）：代码虚拟化、TEE 密钥与运行时反篡改'
-      url: https://bbs.kanxue.com/thread-292523.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
