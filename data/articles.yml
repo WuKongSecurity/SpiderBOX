@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.09.01 21:17:47
+      title: FOFA 资产测绘agent  FofaMap，可mcp
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490495&idx=1&sn=694ba747cbd69a2494d1a116141aba6f
+    - author: 未闻Code
+      release_time: 2026.09.01 20:40:03
+      title: 那些被管理层请进公司，却不被一线员工接受的FDE们。
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991732&idx=1&sn=c491f69f26eae11f4ce4f2e51a716134
     - author: 布鲁的Python之旅
       release_time: 2026.09.01 17:28:46
       title: 微信 4.1.x 用AI上手写 Hook：公众号推文秒级到手
@@ -197,6 +205,10 @@
       title: 工具推荐 | 算法助手Pro
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490482&idx=1&sn=41fc10af3e6d7bfd465abee7b2449461
     - author: 网虫Spider
+      release_time: 2026.08.29 12:18:32
+      title: 国外模型想不被封号，使用必须检测代理质量
+      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484725&idx=1&sn=4cbd76eaf4d99397f9e9071d42c3d8e6
+    - author: 网虫Spider
       release_time: 2026.08.28 22:39:22
       title: Scrapy 2.17 源码解析：Add-ons 机制，以及那个「照着文档写反而不生效」的优先级坑
       url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484720&idx=1&sn=971d7ca74bf714022353dd51b5c7f1e2
@@ -232,18 +244,6 @@
       release_time: 2026.08.27 18:24:36
       title: 我昨天说 SHEIN 能直接抓，今天用 requests 一测就被拦：三平台防护实测
       url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484682&idx=1&sn=b0ceb37c1a136345d56b2455ca56f774
-    - author: 进击的HACK
-      release_time: 2026.08.27 18:20:21
-      title: adb 控制 activity 强制跳转
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490471&idx=1&sn=130d3e871499178419319c3cd533472d
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.08.27 16:58:11
-      title: 中国人工智能行政监管执法典型案例梳理与评析
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520656&idx=1&sn=c49944ba0b2c7f1842a33b4b45258cfc
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.08.27 16:58:11
-      title: 北京首例破坏人工智能模型刑事案件终审，员工删除企业数据获刑五年十个月
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520656&idx=2&sn=15c79c230a44d1ec1b8e83d0a6e0c840
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
