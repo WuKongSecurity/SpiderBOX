@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.09.02 13:32:00
+      title: 鸿蒙(HarmonyOS)应用安全检测平台V7.6
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501242&idx=1&sn=374ac3000d960e7218707977d7c083cc
+    - author: 哆啦安全
+      release_time: 2026.09.02 13:32:00
+      title: ChatGPT或Claude官方套餐IOS渠道直充服务
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501242&idx=2&sn=d1d258b01a06cee3eebe4a030320842e
+    - author: 吴见午
+      release_time: 2026.09.02 08:36:42
+      title: APatch 源码笔记（一）：从 event.rs 看懂开机四阶段
+      url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484751&idx=1&sn=33a39f61aa89b8661225cf5b846e8718
+    - author: Coder小Q
+      release_time: 2026.09.02 08:30:00
+      title: 【密码学·采样】向量、矩阵、内积与高维距离
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496375&idx=1&sn=554e02b2f6ca008238beeddf7a68af6d
     - author: 进击的HACK
       release_time: 2026.09.01 21:17:47
       title: FOFA 资产测绘agent  FofaMap，可mcp
@@ -228,22 +244,6 @@
       release_time: 2026.08.28 08:15:41
       title: 打赌100块，今天纳指基金，开盘必停牌😱
       url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484699&idx=1&sn=7dc8298d83e3518103a697edd0788f98
-    - author: 网虫Spider
-      release_time: 2026.08.27 23:34:53
-      title: 孙割与景甜的🍉，兄弟们吃到了吗？
-      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484694&idx=1&sn=53cfc38ff8e4b890e6ab573a780c3fdf
-    - author: 未闻Code
-      release_time: 2026.08.27 20:48:47
-      title: 13.9K Star！当 Codex 直接操作你的视频时间线，这款编辑器正在重新定义 AI 创作流程
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991729&idx=1&sn=19150cf9e3408d217d8c2a7590ad8c7a
-    - author: 网虫Spider
-      release_time: 2026.08.27 18:36:33
-      title: 搞了个股票估值项目，大家有兴趣吗？
-      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484687&idx=1&sn=aefd1db5d181d077d1655934394a8bd8
-    - author: 网虫Spider
-      release_time: 2026.08.27 18:24:36
-      title: 我昨天说 SHEIN 能直接抓，今天用 requests 一测就被拦：三平台防护实测
-      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484682&idx=1&sn=b0ceb37c1a136345d56b2455ca56f774
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Kill_Log
+      release_time: 2026.09.02 11:46:47
+      title: '[原创]SimianV2 Lsposed模块'
+      url: https://bbs.kanxue.com/thread-292835.htm
     - author: 太岁又沐风
       release_time: 2026.09.01 17:12:11
       title: '[原创]IOSDecryptHub：免越狱看清加解密，兼砸壳与 MCP'
@@ -486,10 +490,6 @@
       release_time: 2026.08.16 20:13:19
       title: '[原创] 某60，某加密，某盾，某迦，某乐 - AI加garlic能力测试'
       url: https://bbs.kanxue.com/thread-292554.htm
-    - author: 感谢可乐治好我的牙龈
-      release_time: 2026.08.16 19:24:00
-      title: 正规短信也能成为攻击载体：验证码洪泛的终端侧检测与保护
-      url: https://xz.aliyun.com/news/92707
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
