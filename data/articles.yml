@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 和沐阳学逆向与Ai
+      release_time: 2026.09.02 21:10:25
+      title: 86.iOS常见越狱检测
+      url: https://www.bilibili.com/video/BV1eLtU6eEXH
     - author: EithanSolace
       release_time: 2026.08.31 22:03:14
       title: 密码学补完计划[第四十四期] Argon2
@@ -117,13 +121,17 @@
       release_time: 2026.08.09 14:46:17
       title: 【AI-JS逆向终结计划课程】funcaptcha逆向解决
       url: https://www.bilibili.com/video/BV11Ju16bEHg
-    - author: 小肩膀-逆向安全培训
-      release_time: 2026.08.09 14:45:57
-      title: 【AI-JS逆向终结计划课程】阿里v2流程分析
-      url: https://www.bilibili.com/video/BV1mLu16wEeo
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.09.02 21:00:11
+      title: spider-king 7.0 面向 Web 协议恢复与参数还原场景的逆向工程 Skill
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490499&idx=1&sn=4aecdcb7a51e49115b6225dd3cb94446
+    - author: 将往的爬虫逆向日记
+      release_time: 2026.09.02 20:05:26
+      title: 电力交易员都在用的免费电力网站更新：windy永不失联，1V1真人刷题对战
+      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862639&idx=1&sn=08a9140ff4427c73d76d112c21f3680c
     - author: 个人信息与数据保护实务评论
       release_time: 2026.09.02 16:08:39
       title: 2026年国家网络安全宣传周将于9月14日至20日在全国范围举行
@@ -236,14 +244,6 @@
       release_time: 2026.08.29 12:18:32
       title: 国外模型想不被封号，使用必须检测代理质量
       url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484725&idx=1&sn=4cbd76eaf4d99397f9e9071d42c3d8e6
-    - author: 网虫Spider
-      release_time: 2026.08.28 22:39:22
-      title: Scrapy 2.17 源码解析：Add-ons 机制，以及那个「照着文档写反而不生效」的优先级坑
-      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484720&idx=1&sn=971d7ca74bf714022353dd51b5c7f1e2
-    - author: 哆啦安全
-      release_time: 2026.08.28 22:03:32
-      title: 从“成本部门”到“核心基础设施”：网络安全未来5—10年发展趋势与职业机遇
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501204&idx=1&sn=47a3cd2e1813c68bf4734fbadc7764b8
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: mb_txbqztiu
+      release_time: 2026.09.02 18:10:23
+      title: '[原创]关于某书的x-mini-gid、x-mini-sig、x-mini-mua、xy-common-params、shield、x-mini-s1的分析'
+      url: https://bbs.kanxue.com/thread-292840.htm
     - author: Kill_Log
       release_time: 2026.09.02 11:46:47
       title: '[原创]SimianV2 Lsposed模块'
@@ -486,10 +490,6 @@
       release_time: 2026.08.17 13:14:26
       title: '[原创]入门渗透测试的一条路线'
       url: https://bbs.kanxue.com/thread-292568.htm
-    - author: neocanable
-      release_time: 2026.08.16 20:13:19
-      title: '[原创] 某60，某加密，某盾，某迦，某乐 - AI加garlic能力测试'
-      url: https://bbs.kanxue.com/thread-292554.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
