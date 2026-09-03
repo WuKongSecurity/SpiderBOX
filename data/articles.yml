@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 零基础爬虫第一天
+      release_time: 2026.09.03 23:05:48
+      title: 安卓环境检测篇3-TEE相关检测
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484792&idx=1&sn=727e15a8fd7668b5f30dd56f3a706de9
+    - author: 零基础爬虫第一天
+      release_time: 2026.09.03 23:03:23
+      title: android设备指纹补充-挂载mounts
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484789&idx=1&sn=fd729d72d10f641120d59a7c47529e46
     - author: 进击的HACK
       release_time: 2026.09.03 21:28:08
       title: hxbai 自主安全靶场解题 Agent
@@ -236,14 +244,6 @@
       release_time: 2026.08.31 15:48:48
       title: Python + OpenCV 识别 GIF 中旋转最快的验证码：基于时间周期的动态识别
       url: https://mp.weixin.qq.com/s?__biz=Mzg4NDU4MDY3Nw==&mid=2247483967&idx=1&sn=6bb2cfcbbdbda3bd9b0d433ae5ef0874
-    - author: 菜鸟学Python编程
-      release_time: 2026.08.31 11:39:00
-      title: JS逆向|使用AI逆向某网站的reese84 cookie加密
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566663&idx=1&sn=60a5bc9d826f862805d0e26c55c05256
-    - author: 猿人学Python
-      release_time: 2026.08.31 10:43:12
-      title: HCaptcha HSW‑WASM 逆向：AES 密钥特征及 n_token 原始加密分析
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550474&idx=1&sn=31624e633df91a2cd04f0e1018098a26
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
