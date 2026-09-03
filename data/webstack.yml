@@ -2581,6 +2581,10 @@
           description: 用一个个标准化服务，助力你工作与生活的方方面面。支持 reCaptcha、hCaptcha 等识别，还支持 AI 图像接口等
 
         # 不支持推广 =========================
+        - title: Peak Solutions
+          logo: peak.jpg
+          url: https://peak.fo/
+          description: 支持 Cloudflare Turnstile、Cloudflare Challenge、Amazon（AWS） WAF 等
         - title: 丹里科技
           logo: zjdanli.png
           url: https://www.zjdanli.com/
