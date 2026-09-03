@@ -2,6 +2,14 @@
   list:
   - links:
     - author: 和沐阳学逆向与Ai
+      release_time: 2026.09.03 15:00:00
+      title: 87.iOS常见的frida检测
+      url: https://www.bilibili.com/video/BV1FYt96tErL
+    - author: B站用户骚神
+      release_time: 2026.09.03 14:13:54
+      title: DrissionPage 5.0 震撼来袭，版本重大更新，新增7大黑科技！！
+      url: https://www.bilibili.com/video/BV1oytd6oEWC
+    - author: 和沐阳学逆向与Ai
       release_time: 2026.09.02 21:10:25
       title: 86.iOS常见越狱检测
       url: https://www.bilibili.com/video/BV1eLtU6eEXH
@@ -113,17 +121,25 @@
       release_time: 2026.08.09 14:47:53
       title: 【AI-JS逆向终结计划课程】datadome无感补环境
       url: https://www.bilibili.com/video/BV1mLu16wEuT
-    - author: 小肩膀-逆向安全培训
-      release_time: 2026.08.09 14:46:54
-      title: 【AI-JS逆向终结计划课程】reese84新逆向解决
-      url: https://www.bilibili.com/video/BV11Ju16bEAX
-    - author: 小肩膀-逆向安全培训
-      release_time: 2026.08.09 14:46:17
-      title: 【AI-JS逆向终结计划课程】funcaptcha逆向解决
-      url: https://www.bilibili.com/video/BV11Ju16bEHg
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2026.09.03 17:45:00
+      title: JS逆向|猿人学逆向反混淆练习平台第29题AI逆向
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566687&idx=1&sn=2e276f1906817b77b1a3cc2f170bc38b
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.09.03 16:32:27
+      title: 国家网信办明确当前人工智能领域主要面临5方面安全风险挑战
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520689&idx=1&sn=1c7badce9325032736e59fe1ba7a9e7e
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.09.03 16:32:27
+      title: 大成数据保护与反垄断团队实习生招募
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520689&idx=2&sn=d2b2e456f1365fa8b340bca608251ff8
+    - author: 极验
+      release_time: 2026.09.03 16:00:00
+      title: 免密支付背了多久的黑锅？真相藏在一个你从没留意的动作里
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724660&idx=1&sn=cb84207e845b8918ef7ae9a877d83862
     - author: 吴见午
       release_time: 2026.09.03 11:47:10
       title: APatch 源码笔记（二）：apd 到底是什么？从 main.rs 追踪守护进程的启动与 multicall 设计
@@ -228,22 +244,6 @@
       release_time: 2026.08.31 08:43:01
       title: 2026 AI 会员充值指南：ChatGPT 充值、ChatGPT 订阅和 AI 直充怎么选？
       url: https://mp.weixin.qq.com/s?__biz=MjM5MjEzMDAzMg==&mid=2257485136&idx=1&sn=684e946e2e6c9c3f7269668e30e56e96
-    - author: 测试工程师成长之路
-      release_time: 2026.08.31 08:30:00
-      title: 测试结果分析：从导库到直接查，DuckDB 省了我半小时
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579360&idx=1&sn=d23513ac4c47fa67ed1968b0b616d99f
-    - author: Coder小Q
-      release_time: 2026.08.31 08:30:00
-      title: 【密码学·采样】偏差如何进入安全证明：Rényi 散度与概率迁移
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496342&idx=1&sn=a903bb1c0d7297c12ac2f16578dda447
-    - author: 进击的HACK
-      release_time: 2026.08.30 20:16:00
-      title: 被动式 Web 安全扫描工具 AIFuzzing
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490486&idx=1&sn=0bc0ffee57b13a78ca043204ef0db034
-    - author: 进击的HACK
-      release_time: 2026.08.29 19:01:10
-      title: 工具推荐 | 算法助手Pro
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490482&idx=1&sn=41fc10af3e6d7bfd465abee7b2449461
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 世界美景
+      release_time: 2026.09.03 16:10:25
+      title: '[原创]一台"锁死"的 Pixel 7 自救记：把 GhostLock 内核漏洞移植到真机 root'
+      url: https://bbs.kanxue.com/thread-292846.htm
     - author: permanent011
       release_time: 2026.09.03 11:40:01
       title: '[原创]从死亡现象反推检测点：一次检测链路定位方法论'
@@ -486,10 +490,6 @@
       release_time: 2026.08.18 18:58:27
       title: '[原创]【Android】【原创】Cordova混合应用资源代理逆向与加密资源流动态替换技术分享'
       url: https://bbs.kanxue.com/thread-292622.htm
-    - author: 星野安全
-      release_time: 2026.08.18 12:00:49
-      title: '[原创] 某招聘 App 搜索接口逆向与纯算'
-      url: https://bbs.kanxue.com/thread-292606.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
