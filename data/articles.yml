@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.09.04 15:05:36
+      title: 大成数据保护与反垄断团队实习生招募（有留用机会）
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520692&idx=1&sn=7188c1e877ccf1d732f5dafc2ea6debe
+    - author: 哆啦安全
+      release_time: 2026.09.04 14:20:17
+      title: 移动端区块链安全全景指南：从私钥保护到 DApp风控的8大核心战场
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501250&idx=1&sn=e23c6f0a788cda46d9dc7e8a3d482fe6
     - author: 吴见午
       release_time: 2026.09.04 11:15:28
       title: APatch 源码笔记（三）：没有 ioctl、没有 netlink——supercall 通信机制解剖
@@ -236,17 +244,13 @@
       release_time: 2026.09.01 16:20:12
       title: 42款医疗健康类App及小程序因违法违规收集使用个人信息被通报
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520674&idx=2&sn=8bcd51a12a7f85b12863d2a4545e3976
-    - author: 哆啦安全
-      release_time: 2026.09.01 12:01:34
-      title: 从脱壳到漏洞挖掘：AI辅助Android逆向全流程实战指南
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501211&idx=1&sn=81d324da30bf18f7e25b6d3eda1fad0b
-    - author: 菜鸟学Python编程
-      release_time: 2026.09.01 09:00:00
-      title: JS逆向|使用AI + CloakBrowser bypass 5s盾防护
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566672&idx=1&sn=9da11da4ede6a156997daed85d18b1c9
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: BlueFunny
+      release_time: 2026.09.03 02:46:00
+      title: Fake Location 1.5.2 高危后门分析
+      url: https://www.52pojie.cn/thread-2126060-1-1.html
     - author: LucasBarthak
       release_time: 2026.09.01 20:42:00
       title: app设置了代理而导致bp无法抓包问题分析以及解决方法
@@ -363,10 +367,6 @@
       release_time: 2026.08.04 18:44:00
       title: 三分钟破解一个人体参考软件会员
       url: https://www.52pojie.cn/thread-2121285-1-1.html
-    - author: jaaks
-      release_time: 2026.08.03 00:51:00
-      title: 火影手游计时器 ap 分析 mt+deepseek 半成品
-      url: https://www.52pojie.cn/thread-2120916-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
