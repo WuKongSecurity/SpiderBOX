@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 逆向狗都不学
+      release_time: 2026.09.04 18:28:56
+      title: Android逆向之加固APK脱壳实战
+      url: https://www.bilibili.com/video/BV1yotB6dE79
     - author: 和沐阳学逆向与Ai
       release_time: 2026.09.03 15:00:00
       title: 87.iOS常见的frida检测
@@ -117,13 +121,17 @@
       release_time: 2026.08.09 19:33:39
       title: 【教程】一个视频告诉你Hook是怎么欺骗程序的
       url: https://www.bilibili.com/video/BV1Hmu26FEvU
-    - author: 小肩膀-逆向安全培训
-      release_time: 2026.08.09 14:47:53
-      title: 【AI-JS逆向终结计划课程】datadome无感补环境
-      url: https://www.bilibili.com/video/BV1mLu16wEuT
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.09.04 21:20:47
+      title: FastBurp基于浏览器扩展的HTTP请求分析工具
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490507&idx=1&sn=9b0d044417aed2781d613d7e18a88a96
+    - author: 逆向狗都不学
+      release_time: 2026.09.04 18:37:50
+      title: DEX文件脱壳程序Burp
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247484171&idx=1&sn=4d349dac705c02ddd63fc2592c25d5ba
     - author: 个人信息与数据保护实务评论
       release_time: 2026.09.04 15:05:36
       title: 大成数据保护与反垄断团队实习生招募（有留用机会）
@@ -236,17 +244,13 @@
       release_time: 2026.09.01 17:01:14
       title: 从支付宝做Token中转站开始谈
       url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485052&idx=1&sn=40c9c18c5410b0ad45c0d95a196470b5
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.09.01 16:20:12
-      title: 重庆出台全国首部数据安全管理地方性法规
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520674&idx=1&sn=999c10bc6213cbca5e90e28e495668c1
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.09.01 16:20:12
-      title: 42款医疗健康类App及小程序因违法违规收集使用个人信息被通报
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520674&idx=2&sn=8bcd51a12a7f85b12863d2a4545e3976
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: '1245124511'
+      release_time: 2026.09.04 10:29:00
+      title: 匿名 APK 逆向经验分享：从问题定位到可回滚验证
+      url: https://www.52pojie.cn/thread-2126299-1-1.html
     - author: BlueFunny
       release_time: 2026.09.03 02:46:00
       title: Fake Location 1.5.2 高危后门分析
@@ -363,13 +367,21 @@
       release_time: 2026.08.06 11:55:00
       title: 一次 Android 逆向记录(DY)
       url: https://www.52pojie.cn/thread-2121591-1-1.html
-    - author: 无聊的味道
-      release_time: 2026.08.04 18:44:00
-      title: 三分钟破解一个人体参考软件会员
-      url: https://www.52pojie.cn/thread-2121285-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 星野安全
+      release_time: 2026.09.04 19:13:03
+      title: '[原创] 某招聘 App 爱加密抽取壳的内存脱壳与请求签名逆向'
+      url: https://bbs.kanxue.com/thread-292866.htm
+    - author: 俏狐
+      release_time: 2026.09.04 18:18:59
+      title: '[原创]360加固完美脱壳重打包调试报告'
+      url: https://bbs.kanxue.com/thread-292864.htm
+    - author: 俏狐
+      release_time: 2026.09.04 18:14:59
+      title: '[原创]360加固软完美脱壳件调试分析报告'
+      url: https://bbs.kanxue.com/thread-292863.htm
     - author: x1ny
       release_time: 2026.09.03 21:48:55
       title: '[原创]最强逆向大模型GLM-5.3无道德无限制驱动Frida Stalker绕过银行某梆检测'
@@ -478,18 +490,6 @@
       release_time: 2026.08.20 21:25:31
       title: '[讨论]有人说现在银行app加固没有用vmp的，各位怎么绷？'
       url: https://bbs.kanxue.com/thread-292655.htm
-    - author: priestess
-      release_time: 2026.08.20 19:53:28
-      title: '[分享]初入网安密码学概念'
-      url: https://bbs.kanxue.com/thread-292652.htm
-    - author: 巷口的那只猫
-      release_time: 2026.08.20 10:47:36
-      title: '[原创]BTMob Android 远控 分析报告'
-      url: https://bbs.kanxue.com/thread-292634.htm
-    - author: calleng
-      release_time: 2026.08.20 02:16:56
-      title: '[原创][js逆向] HmacSHA512-案例-08月19号-搜索关键字定位参数'
-      url: https://bbs.kanxue.com/thread-292632.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
