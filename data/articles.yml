@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吴见午
+      release_time: 2026.09.04 11:15:28
+      title: APatch 源码笔记（三）：没有 ioctl、没有 netlink——supercall 通信机制解剖
+      url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484794&idx=1&sn=9b8ed437bea559677f377c0bea39592c
+    - author: 吴见午
+      release_time: 2026.09.04 11:15:28
+      title: APatch 源码笔记（四）：boot.img 是怎么被改的——kptools 注入与 kpimg 的开机自举
+      url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484794&idx=2&sn=b96342ea7a723bdacf41cabfdc63234e
+    - author: Coder小Q
+      release_time: 2026.09.04 08:30:00
+      title: 【密码学·采样】模运算、有限环与多项式
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496418&idx=1&sn=c678e342f10c78ca52c674831ea4d748
     - author: 零基础爬虫第一天
       release_time: 2026.09.03 23:05:48
       title: 安卓环境检测篇3-TEE相关检测
@@ -232,18 +244,6 @@
       release_time: 2026.09.01 09:00:00
       title: JS逆向|使用AI + CloakBrowser bypass 5s盾防护
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566672&idx=1&sn=9da11da4ede6a156997daed85d18b1c9
-    - author: 进击的HACK
-      release_time: 2026.08.31 18:33:52
-      title: 八月文章汇总
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490491&idx=1&sn=a047c52b16c392edfcd29266e9ff46e3
-    - author: 哆啦安全
-      release_time: 2026.08.31 18:33:45
-      title: AI智能体 | Android系统智能调试分析工具
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501206&idx=1&sn=e54686654eebea338d0eae9bd0ac4b2b
-    - author: GH2N
-      release_time: 2026.08.31 15:48:48
-      title: Python + OpenCV 识别 GIF 中旋转最快的验证码：基于时间周期的动态识别
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDU4MDY3Nw==&mid=2247483967&idx=1&sn=6bb2cfcbbdbda3bd9b0d433ae5ef0874
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
