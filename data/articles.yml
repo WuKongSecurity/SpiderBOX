@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 漠染千舟
+      release_time: 2026.09.05 03:29:18
+      title: throwCheckOpen新版本更新修复
+      url: https://www.bilibili.com/video/BV14Htk6KEa8
     - author: 逆向狗都不学
       release_time: 2026.09.04 18:28:56
       title: Android逆向之加固APK脱壳实战
@@ -117,10 +121,6 @@
       release_time: 2026.08.11 09:03:10
       title: 安卓逆向打造零特征 Frida内核 KPM + 幽灵内存 + 自定义 Linker让企业壳看不见我
       url: https://www.bilibili.com/video/BV1eEuY6rE8s
-    - author: 冷月不是程序员
-      release_time: 2026.08.09 19:33:39
-      title: 【教程】一个视频告诉你Hook是怎么欺骗程序的
-      url: https://www.bilibili.com/video/BV1Hmu26FEvU
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
