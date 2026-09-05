@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: Breeze_122134
+      release_time: 2026.09.05 23:15:21
+      title: app开发，定制化都可以，想要这款的也可以私信
+      url: https://www.bilibili.com/video/BV11FbL68EZ4
     - author: 漠染千舟
       release_time: 2026.09.05 03:29:18
       title: throwCheckOpen新版本更新修复
@@ -117,10 +121,6 @@
       release_time: 2026.08.13 13:13:38
       title: flutter_词根词缀词典
       url: https://www.bilibili.com/video/BV19NgH6yEr2
-    - author: Alone逆向安全
-      release_time: 2026.08.11 09:03:10
-      title: 安卓逆向打造零特征 Frida内核 KPM + 幽灵内存 + 自定义 Linker让企业壳看不见我
-      url: https://www.bilibili.com/video/BV1eEuY6rE8s
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
