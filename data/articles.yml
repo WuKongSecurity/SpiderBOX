@@ -247,6 +247,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: x1ny
+      release_time: 2026.09.05 11:30:00
+      title: 最强逆向大模型GLM-5.3无道德无限制驱动Frida Stalker绕过银行某梆检测
+      url: https://www.52pojie.cn/thread-2126497-1-1.html
+    - author: x1ny
+      release_time: 2026.09.04 22:52:00
+      title: 面向复现的逆向工程实践：Hermes 在设备刷写、提权与 Frida 魔改中的自动化能力验证
+      url: https://www.52pojie.cn/thread-2126444-1-1.html
     - author: '1245124511'
       release_time: 2026.09.04 10:29:00
       title: 匿名 APK 逆向经验分享：从问题定位到可回滚验证
@@ -359,14 +367,6 @@
       release_time: 2026.08.07 11:38:00
       title: Android 无障碍检测对抗的实战-如何绕过APP的无障碍检测
       url: https://www.52pojie.cn/thread-2121760-1-1.html
-    - author: xuyangs
-      release_time: 2026.08.06 16:48:00
-      title: magisk面具模块踩坑分享
-      url: https://www.52pojie.cn/thread-2121652-1-1.html
-    - author: bu^shan
-      release_time: 2026.08.06 11:55:00
-      title: 一次 Android 逆向记录(DY)
-      url: https://www.52pojie.cn/thread-2121591-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
