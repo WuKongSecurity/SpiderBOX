@@ -370,6 +370,14 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: yaoqianshuj
+      release_time: 2026.09.06 19:52:08
+      title: '[原创]新版dexprotector环境检测分析'
+      url: https://bbs.kanxue.com/thread-292874.htm
+    - author: 小七烤地瓜
+      release_time: 2026.09.06 18:44:02
+      title: '[原创]paytm  商业 RASP Bugsmirror Defender 环境检测分析'
+      url: https://bbs.kanxue.com/thread-292873.htm
     - author: Jmn314
       release_time: 2026.09.05 16:36:59
       title: '[原创] 基于图书管理系统的漏洞复现与代码审计（二）：敏感信息泄露与文件上传'
@@ -482,14 +490,6 @@
       release_time: 2026.08.23 11:48:34
       title: '[原创]qi5uxeel 原理完整剖析：一份风控请求头的还原实录'
       url: https://bbs.kanxue.com/thread-292730.htm
-    - author: 只会逆一点点
-      release_time: 2026.08.21 11:23:38
-      title: '[原创]某安卓四字游戏外挂样本分析'
-      url: https://bbs.kanxue.com/thread-292666.htm
-    - author: 北袅
-      release_time: 2026.08.20 23:46:42
-      title: '[原创]OLLVM学姐攻略手册'
-      url: https://bbs.kanxue.com/thread-292658.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
