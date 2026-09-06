@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 小爬菜咦
+      release_time: 2026.09.06 13:37:42
+      title: 控制流与vmp的识别和区分
+      url: https://www.bilibili.com/video/BV1nwbn6eEXk
     - author: Breeze_122134
       release_time: 2026.09.05 23:15:21
       title: app开发，定制化都可以，想要这款的也可以私信
@@ -117,10 +121,6 @@
       release_time: 2026.08.13 21:53:06
       title: 密码学补完计划[第四十一期] HKDF(前篇)
       url: https://www.bilibili.com/video/BV1KSgs6GEqp
-    - author: Breeze_122134
-      release_time: 2026.08.13 13:13:38
-      title: flutter_词根词缀词典
-      url: https://www.bilibili.com/video/BV19NgH6yEr2
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
