@@ -124,6 +124,26 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Coder小Q
+      release_time: 2026.09.07 08:30:00
+      title: 【密码学·采样】从方格纸到高维格：基、体积与短向量
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496461&idx=1&sn=4608e87123843b063f252f9882970adb
+    - author: 测试工程师成长之路
+      release_time: 2026.09.07 08:30:00
+      title: 受够了每次回归都要重新登录？腾讯开源 BrowserSkill，让我回归测试从 40 分钟降到 8 分钟
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579382&idx=1&sn=3ed714a70059aa5ec68b82033ac003de
+    - author: 网虫Spider
+      release_time: 2026.09.06 15:55:26
+      title: raise NotConfigured 带不带消息，决定了它是一条 WARNING 还是零日志——而管道就是这么没的
+      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484773&idx=1&sn=907a9a3b4ef13c76520cf4afcddb4690
+    - author: 吴见午
+      release_time: 2026.09.06 12:12:38
+      title: APatch 源码笔记（七）：SuperKey——一把钥匙的安全模型
+      url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484826&idx=1&sn=3d31a3388ebf8fce10c1f15b4bd61b78
+    - author: 吴见午
+      release_time: 2026.09.06 12:12:38
+      title: APatch 源码笔记（八）：SELinux——APatch 如何在 enforcing 模式下生存
+      url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484826&idx=2&sn=1862c1159606772bab6e45b05012c0ae
     - author: 进击的HACK
       release_time: 2026.09.04 21:20:47
       title: FastBurp基于浏览器扩展的HTTP请求分析工具
@@ -224,26 +244,6 @@
       release_time: 2026.09.01 21:17:47
       title: FOFA 资产测绘agent  FofaMap，可mcp
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490495&idx=1&sn=694ba747cbd69a2494d1a116141aba6f
-    - author: 未闻Code
-      release_time: 2026.09.01 20:40:03
-      title: 那些被管理层请进公司，却不被一线员工接受的FDE们。
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991732&idx=1&sn=c491f69f26eae11f4ce4f2e51a716134
-    - author: 布鲁的Python之旅
-      release_time: 2026.09.01 17:28:46
-      title: 微信 4.1.x 用AI上手写 Hook：公众号推文秒级到手
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486507&idx=1&sn=ddc7b65ca923fb65daa97581d25f5b8d
-    - author: 泡泡以安
-      release_time: 2026.09.01 17:26:41
-      title: 小红书 Web x-s 签名分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486809&idx=1&sn=f509d4d23d7e92d6f131e300e8172d65
-    - author: R逆向
-      release_time: 2026.09.01 17:19:36
-      title: IOSDecryptHub：免越狱看清加解密，兼砸壳与 MCP
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NjA3Mw==&mid=2247483856&idx=1&sn=465a723d9cac4c03035e9910184bd9d9
-    - author: 如意私塾
-      release_time: 2026.09.01 17:01:14
-      title: 从支付宝做Token中转站开始谈
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485052&idx=1&sn=40c9c18c5410b0ad45c0d95a196470b5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
