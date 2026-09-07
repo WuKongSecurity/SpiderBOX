@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.09.07 21:06:21
+      title: chrome插件 | WebRTC防泄漏
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490518&idx=1&sn=ee6cd3061d3b2327b96839a293200d87
     - author: 吴见午
       release_time: 2026.09.07 13:41:27
       title: APatch 源码笔记（十）：一个模块 ZIP 的安装之旅本文基于双仓库交叉核实
@@ -164,6 +168,10 @@
       release_time: 2026.09.06 12:12:38
       title: APatch 源码笔记（八）：SELinux——APatch 如何在 enforcing 模式下生存
       url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484826&idx=2&sn=1862c1159606772bab6e45b05012c0ae
+    - author: 进击的HACK
+      release_time: 2026.09.05 21:48:04
+      title: 天才白帽子陨落
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490513&idx=1&sn=bf71c37b60ce35255710355c27453a0a
     - author: 哆啦安全
       release_time: 2026.09.05 19:15:43
       title: iOS三种越狱方案
@@ -236,17 +244,13 @@
       release_time: 2026.09.03 11:47:10
       title: APatch 源码笔记（二）：apd 到底是什么？从 main.rs 追踪守护进程的启动与 multicall 设计
       url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484793&idx=1&sn=4737a4033cbe010a17b4ea59e3666406
-    - author: 进击的HACK
-      release_time: 2026.09.02 21:00:11
-      title: spider-king 7.0 面向 Web 协议恢复与参数还原场景的逆向工程 Skill
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490499&idx=1&sn=4aecdcb7a51e49115b6225dd3cb94446
-    - author: 将往的爬虫逆向日记
-      release_time: 2026.09.02 20:05:26
-      title: 电力交易员都在用的免费电力网站更新：windy永不失联，1V1真人刷题对战
-      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862639&idx=1&sn=08a9140ff4427c73d76d112c21f3680c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: liyitong
+      release_time: 2026.09.07 17:02:00
+      title: 基于chatglm的web逆向分析实例一则
+      url: https://www.52pojie.cn/thread-2126833-1-1.html
     - author: x1ny
       release_time: 2026.09.05 11:30:00
       title: 最强逆向大模型GLM-5.3无道德无限制驱动Frida Stalker绕过银行某梆检测
@@ -363,13 +367,17 @@
       release_time: 2026.08.08 18:06:00
       title: 某兔儿童手表App去强制升级手动修改教程
       url: https://www.52pojie.cn/thread-2121978-1-1.html
-    - author: ldxs2020
-      release_time: 2026.08.07 11:38:00
-      title: Android 无障碍检测对抗的实战-如何绕过APP的无障碍检测
-      url: https://www.52pojie.cn/thread-2121760-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 北袅
+      release_time: 2026.09.07 18:13:23
+      title: '[原创]26企鹅ollvm混淆去除'
+      url: https://bbs.kanxue.com/thread-292886.htm
+    - author: xiao_qi_lin
+      release_time: 2026.09.07 17:46:21
+      title: '[原创]某金融App 登录请求逆向实战：从梆梆加固反 Frida 自毁到 Go 业务层明文抓包'
+      url: https://bbs.kanxue.com/thread-292885.htm
     - author: mb_peeqldfc
       release_time: 2026.09.07 11:41:50
       title: '[原创]Frida 脚本运行时机与Java.perform的原理'
@@ -482,14 +490,6 @@
       release_time: 2026.08.25 15:41:00
       title: '[原创]某加密企业版 Frida 检测绕过'
       url: https://bbs.kanxue.com/thread-292771.htm
-    - author: 八月欢喜
-      release_time: 2026.08.24 11:06:37
-      title: TikTok X-Dynosaur 逆向日志（item_list 接口）分析
-      url: https://blog.csdn.net/weixin_52283613/article/details/164017947
-    - author: neocanable
-      release_time: 2026.08.23 13:57:45
-      title: '[原创] Arm静态分析引擎原理四 - IR设计和应用'
-      url: https://bbs.kanxue.com/thread-292736.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
