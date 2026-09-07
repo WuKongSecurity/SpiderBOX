@@ -125,6 +125,10 @@
     term: 哔哩哔哩
   - links:
     - author: 吴见午
+      release_time: 2026.09.07 13:41:27
+      title: APatch 源码笔记（十）：一个模块 ZIP 的安装之旅本文基于双仓库交叉核实
+      url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484845&idx=1&sn=28a9352c0043fc3bcfa2b9534839ca4d
+    - author: 吴见午
       release_time: 2026.09.07 11:56:22
       title: APatch 源码笔记（九）：APModule 全景——目录、约定与生命周期总览
       url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484827&idx=1&sn=33eca8677dbd428692bbbc61af86dc97
@@ -240,10 +244,6 @@
       release_time: 2026.09.02 20:05:26
       title: 电力交易员都在用的免费电力网站更新：windy永不失联，1V1真人刷题对战
       url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862639&idx=1&sn=08a9140ff4427c73d76d112c21f3680c
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.09.02 16:08:39
-      title: 2026年国家网络安全宣传周将于9月14日至20日在全国范围举行
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520681&idx=1&sn=9bebac58cbc2fce027016a3af9782234
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
