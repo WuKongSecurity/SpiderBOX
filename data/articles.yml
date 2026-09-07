@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 一只勇敢的小佳
+      release_time: 2026.09.07 12:15:16
+      title: Frida 脚本运行时机与Java.perform的原理
+      url: https://www.bilibili.com/video/BV16Tbw67ExW
     - author: 小爬菜咦
       release_time: 2026.09.06 13:37:42
       title: 控制流与vmp的识别和区分
@@ -117,13 +121,25 @@
       release_time: 2026.08.13 22:58:56
       title: 验证码技巧分享-多图标定位排序
       url: https://www.bilibili.com/video/BV1Vags69E5D
-    - author: EithanSolace
-      release_time: 2026.08.13 21:53:06
-      title: 密码学补完计划[第四十一期] HKDF(前篇)
-      url: https://www.bilibili.com/video/BV1KSgs6GEqp
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吴见午
+      release_time: 2026.09.07 11:56:22
+      title: APatch 源码笔记（九）：APModule 全景——目录、约定与生命周期总览
+      url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484827&idx=1&sn=33eca8677dbd428692bbbc61af86dc97
+    - author: 吴见午
+      release_time: 2026.09.07 11:56:22
+      title: APatch 源码笔记（十）：一个模块 ZIP 的安装之旅
+      url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484827&idx=2&sn=7fcbddac272d619a0fd86ac094714f85
+    - author: 猿人学Python
+      release_time: 2026.09.07 11:55:36
+      title: 某验4五子棋逆向py纯算（AST解混淆/自动化提取）
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550478&idx=1&sn=e8d5f2cac1d6bf879aee85ed38936e56
+    - author: 哆啦安全
+      release_time: 2026.09.07 11:40:29
+      title: 未来5至10年最抢手的AI Agent工程师，需要掌握哪些硬技能？
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501259&idx=1&sn=98b1265b6291755945c5ed6b1f3f3567
     - author: Coder小Q
       release_time: 2026.09.07 08:30:00
       title: 【密码学·采样】从方格纸到高维格：基、体积与短向量
@@ -144,6 +160,18 @@
       release_time: 2026.09.06 12:12:38
       title: APatch 源码笔记（八）：SELinux——APatch 如何在 enforcing 模式下生存
       url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484826&idx=2&sn=1862c1159606772bab6e45b05012c0ae
+    - author: 哆啦安全
+      release_time: 2026.09.05 19:15:43
+      title: iOS三种越狱方案
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501254&idx=1&sn=473b5f486697be5d7bf0563200fefcac
+    - author: 吴见午
+      release_time: 2026.09.05 10:12:32
+      title: APatch 源码笔记（五）：su 是怎么来的——从 execve hook 到 root_shell
+      url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484795&idx=1&sn=06f90629839034035b8b8e5aecc43b87
+    - author: 吴见午
+      release_time: 2026.09.05 10:12:32
+      title: APatch 源码笔记（六）：谁有资格拿 Root——SuperUser 授权与 uid-listener
+      url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484795&idx=2&sn=74348f914d39184423a16cb8eb33f521
     - author: 进击的HACK
       release_time: 2026.09.04 21:20:47
       title: FastBurp基于浏览器扩展的HTTP请求分析工具
@@ -216,34 +244,6 @@
       release_time: 2026.09.02 16:08:39
       title: 2026年国家网络安全宣传周将于9月14日至20日在全国范围举行
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520681&idx=1&sn=9bebac58cbc2fce027016a3af9782234
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.09.02 16:08:39
-      title: 中央网信办深入开展“清朗·整治AI应用乱象”专项行动第二阶段工作
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520681&idx=2&sn=f8c2bde21e51524a552a758964a38ce1
-    - author: 逆向搅屎棍
-      release_time: 2026.09.02 15:12:11
-      title: Spider King 7.0 升级说明
-      url: https://mp.weixin.qq.com/s?__biz=MzYzNDQzNDIyNg==&mid=2247483744&idx=1&sn=a411c34b81e14f648b8acf8495edca9f
-    - author: 哆啦安全
-      release_time: 2026.09.02 13:32:00
-      title: 鸿蒙(HarmonyOS)应用安全检测平台V7.6
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501242&idx=1&sn=374ac3000d960e7218707977d7c083cc
-    - author: 哆啦安全
-      release_time: 2026.09.02 13:32:00
-      title: ChatGPT或Claude官方套餐IOS渠道直充服务
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501242&idx=2&sn=d1d258b01a06cee3eebe4a030320842e
-    - author: 吴见午
-      release_time: 2026.09.02 08:36:42
-      title: APatch 源码笔记（一）：从 event.rs 看懂开机四阶段
-      url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484751&idx=1&sn=33a39f61aa89b8661225cf5b846e8718
-    - author: Coder小Q
-      release_time: 2026.09.02 08:30:00
-      title: 【密码学·采样】向量、矩阵、内积与高维距离
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496375&idx=1&sn=554e02b2f6ca008238beeddf7a68af6d
-    - author: 进击的HACK
-      release_time: 2026.09.01 21:17:47
-      title: FOFA 资产测绘agent  FofaMap，可mcp
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490495&idx=1&sn=694ba747cbd69a2494d1a116141aba6f
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: mb_peeqldfc
+      release_time: 2026.09.07 11:41:50
+      title: '[原创]Frida 脚本运行时机与Java.perform的原理'
+      url: https://bbs.kanxue.com/thread-292880.htm
     - author: yaoqianshuj
       release_time: 2026.09.06 19:52:08
       title: '[原创]新版dexprotector环境检测分析'
@@ -486,10 +490,6 @@
       release_time: 2026.08.23 13:57:45
       title: '[原创] Arm静态分析引擎原理四 - IR设计和应用'
       url: https://bbs.kanxue.com/thread-292736.htm
-    - author: Zepp7289
-      release_time: 2026.08.23 11:48:34
-      title: '[原创]qi5uxeel 原理完整剖析：一份风控请求头的还原实录'
-      url: https://bbs.kanxue.com/thread-292730.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
