@@ -2429,6 +2429,11 @@
           no_referral: true
           url: https://captcha.run/sso?inviter=e2a1a5d4-761c-47ac-a57c-6a37a873ff8c
           description: 【推荐】支持 reCAPTCHA、hCaptcha、Arkose Labs FunCaptcha、Cloudflare Turnstile 等
+        - title: Peak Solutions
+          logo: peak.jpg
+          no_referral: true
+          url: https://peak.fo/?ref=F86AA95F
+          description: 支持 Cloudflare Turnstile、Cloudflare Challenge、Amazon（AWS） WAF 等
 
         # 10% ==============================
         - title: 2Captcha
@@ -2581,10 +2586,6 @@
           description: 用一个个标准化服务，助力你工作与生活的方方面面。支持 reCaptcha、hCaptcha 等识别，还支持 AI 图像接口等
 
         # 不支持推广 =========================
-        - title: Peak Solutions
-          logo: peak.jpg
-          url: https://peak.fo/
-          description: 支持 Cloudflare Turnstile、Cloudflare Challenge、Amazon（AWS） WAF 等
         - title: 丹里科技
           logo: zjdanli.png
           url: https://www.zjdanli.com/
