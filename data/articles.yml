@@ -378,6 +378,10 @@
       release_time: 2026.09.07 17:46:21
       title: '[原创]某金融App 登录请求逆向实战：从梆梆加固反 Frida 自毁到 Go 业务层明文抓包'
       url: https://bbs.kanxue.com/thread-292885.htm
+    - author: 狗都不学爬虫_
+      release_time: 2026.09.07 13:19:25
+      title: JS古法逆向 - 某疆阿里v3验证码新版Log2动态设备指纹补环境
+      url: https://blog.csdn.net/qq_53444631/article/details/164456675
     - author: mb_peeqldfc
       release_time: 2026.09.07 11:41:50
       title: '[原创]Frida 脚本运行时机与Java.perform的原理'
@@ -486,10 +490,6 @@
       release_time: 2026.08.25 18:15:13
       title: '[原创]一个apk下载公益站'
       url: https://bbs.kanxue.com/thread-292775.htm
-    - author: aut0run
-      release_time: 2026.08.25 15:41:00
-      title: '[原创]某加密企业版 Frida 检测绕过'
-      url: https://bbs.kanxue.com/thread-292771.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
