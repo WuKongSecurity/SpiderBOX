@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2026.09.08 14:40:42
+      title: Gost+DrissionPage5.0 实现动态切换带密码的Socks5代理！
+      url: https://www.bilibili.com/video/BV1x5bG6pEs2
+    - author: AngelToms
+      release_time: 2026.09.08 13:06:35
+      title: UPX简介
+      url: https://www.bilibili.com/video/BV1J8bG6GEq3
     - author: 一只勇敢的小佳
       release_time: 2026.09.07 12:15:16
       title: Frida 脚本运行时机与Java.perform的原理
@@ -113,17 +121,21 @@
       release_time: 2026.08.14 17:16:10
       title: 骚神插件Vscode版本（免费版）新鲜出炉！！-大幅提高DrissionPage用户编码效率
       url: https://www.bilibili.com/video/BV1M2gP69Exn
-    - author: 学逆向的柚子
-      release_time: 2026.08.13 23:15:06
-      title: 最新版微信小程序开发者工具免费分享
-      url: https://www.bilibili.com/video/BV17xgs6ZErF
-    - author: tomysky0409
-      release_time: 2026.08.13 22:58:56
-      title: 验证码技巧分享-多图标定位排序
-      url: https://www.bilibili.com/video/BV1Vags69E5D
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 又菜又爱学逆向
+      release_time: 2026.09.08 16:31:03
+      title: 深度学习-极验叠字点选-yolo-模型调优-高阶
+      url: https://mp.weixin.qq.com/s?__biz=MzY5NzMxMjQ0MQ==&mid=2247484153&idx=1&sn=0911dfe6e716699a1dcaf43a2f924720
+    - author: 又菜又爱学逆向
+      release_time: 2026.09.08 16:30:32
+      title: 深度学习-极验叠字点选-yolo-模型调优-高阶数学-opencv
+      url: https://mp.weixin.qq.com/s?__biz=MzY5NzMxMjQ0MQ==&mid=2247484142&idx=1&sn=d5c944f772c01d90f4df2029e67ce987
+    - author: 逆向有你
+      release_time: 2026.09.08 15:08:30
+      title: 安卓逆向 -- 浅分析某k小说绑定弹窗和会员
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041956&idx=1&sn=09a5667ddbda616c4600f3f65993bcdf
     - author: 沐阳逆向与AI学习
       release_time: 2026.09.08 09:29:39
       title: iOS逆向中 Objective-C 为什么相对容易逆向？从一条方法调用说起
@@ -232,21 +244,13 @@
       release_time: 2026.09.03 23:03:23
       title: android设备指纹补充-挂载mounts
       url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484789&idx=1&sn=fd729d72d10f641120d59a7c47529e46
-    - author: 进击的HACK
-      release_time: 2026.09.03 21:28:08
-      title: hxbai 自主安全靶场解题 Agent
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490503&idx=1&sn=9433f1ed66eac48c402b5344925db2d7
-    - author: 菜鸟学Python编程
-      release_time: 2026.09.03 17:45:00
-      title: JS逆向|猿人学逆向反混淆练习平台第29题AI逆向
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566687&idx=1&sn=2e276f1906817b77b1a3cc2f170bc38b
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.09.03 16:32:27
-      title: 国家网信办明确当前人工智能领域主要面临5方面安全风险挑战
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520689&idx=1&sn=1c7badce9325032736e59fe1ba7a9e7e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: pzx521521
+      release_time: 2026.09.08 12:17:00
+      title: qcloud滑块验证
+      url: https://www.52pojie.cn/thread-2126956-1-1.html
     - author: liyitong
       release_time: 2026.09.07 17:02:00
       title: 基于chatglm的web逆向分析实例一则
@@ -363,10 +367,6 @@
       release_time: 2026.08.09 13:21:00
       title: Akamai最新js风控浅分析——指纹
       url: https://www.52pojie.cn/thread-2122060-1-1.html
-    - author: raincrack
-      release_time: 2026.08.08 18:06:00
-      title: 某兔儿童手表App去强制升级手动修改教程
-      url: https://www.52pojie.cn/thread-2121978-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
