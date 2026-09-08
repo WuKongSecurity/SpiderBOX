@@ -3310,6 +3310,13 @@
           url: https://ipfly.net/activity/RTM1OEs5TFI6TFZKOVhYQzM5NQ== # https://reseller.ipfly.net/dashboard
           description: 9000万+全球优质IP资源，$0.8/G起，动态流量永久有效
 
+        # 特殊合作，友链排前面，返利 5%
+        - title: LinkStatic
+          logo: linkstatic.jpg
+          no_referral: true
+          url: https://invite.linkstatic.com/share/rfebn6ytz
+          description: 最具性价比的全球静态 ISP 代理——原生纯净、独享固定，IP 长期稳定不掉线。静态 ISP 套餐新用户直降 50%，低至 0.9$/IP，满足各种IP长期在线的业务场景，支持 TikTok 专线定制，轻松助您业务增长
+
         # 10% ==============================
         - title: kookeey 全球业务级代理 IP
           logo: kookeey.jpg
@@ -3555,11 +3562,6 @@
           # url: http://www.novada.com/?utm_source=spiderbox
           url: http://novada.com/?referral_code=yrztdZH
           description: Global residential and datacenter proxies for fast, reliable web scraping. Extract public data from any website at scale effortlessly.
-        - title: LinkStatic
-          logo: linkstatic.jpg
-          no_referral: true
-          url: https://invite.linkstatic.com/share/rfebn6ytz
-          description: 最具性价比的全球静态 ISP 代理——原生纯净、独享固定，IP 长期稳定不掉线。静态 ISP 套餐新用户直降 50%，低至 0.9$/IP，满足各种IP长期在线的业务场景，支持 TikTok 专线定制，轻松助您业务增长
 
         # 3%～15% ==============================
         - title: ShopSocks5
