@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 沐阳逆向与AI学习
+      release_time: 2026.09.08 09:29:39
+      title: iOS逆向中 Objective-C 为什么相对容易逆向？从一条方法调用说起
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484681&idx=1&sn=fa02d29c91a05dc2047cf48599049b5d
+    - author: 哆啦安全
+      release_time: 2026.09.08 08:40:00
+      title: 当AI学会调用工具，谁来负责安全？AI Agent安全工程师技能图谱
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501274&idx=1&sn=b9556be1f484ad58b9d92351f4970a68
+    - author: 哆啦安全
+      release_time: 2026.09.08 08:40:00
+      title: Windbg常用调试命令：速查手册
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501274&idx=2&sn=8ba3ea86c121e8b029e64b0b9b85d005
     - author: 进击的HACK
       release_time: 2026.09.07 21:06:21
       title: chrome插件 | WebRTC防泄漏
@@ -232,18 +244,6 @@
       release_time: 2026.09.03 16:32:27
       title: 国家网信办明确当前人工智能领域主要面临5方面安全风险挑战
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520689&idx=1&sn=1c7badce9325032736e59fe1ba7a9e7e
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.09.03 16:32:27
-      title: 大成数据保护与反垄断团队实习生招募
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520689&idx=2&sn=d2b2e456f1365fa8b340bca608251ff8
-    - author: 极验
-      release_time: 2026.09.03 16:00:00
-      title: 免密支付背了多久的黑锅？真相藏在一个你从没留意的动作里
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724660&idx=1&sn=cb84207e845b8918ef7ae9a877d83862
-    - author: 吴见午
-      release_time: 2026.09.03 11:47:10
-      title: APatch 源码笔记（二）：apd 到底是什么？从 main.rs 追踪守护进程的启动与 multicall 设计
-      url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484793&idx=1&sn=4737a4033cbe010a17b4ea59e3666406
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
