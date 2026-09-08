@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 零基础爬虫第一天
+      release_time: 2026.09.08 21:01:04
+      title: 安卓环境检测4-Java层hook检测
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484804&idx=1&sn=a2cba1ce56b611e59212cad9bbdae2eb
+    - author: coderwhy
+      release_time: 2026.09.08 19:07:01
+      title: GPT-6 Astra到底是不是AGI？ - coderwhy
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247489120&idx=1&sn=77b53b095ad50d121f062bb2686844a4
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.09.08 17:11:50
+      title: 最高法发布《关于依法审理涉人工智能纠纷案件的意见》（附答记者问、一图读懂）
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520700&idx=1&sn=10d7ce4e095f13efde8652791625570f
     - author: 又菜又爱学逆向
       release_time: 2026.09.08 16:31:03
       title: 深度学习-极验叠字点选-yolo-模型调优-高阶
@@ -152,6 +164,10 @@
       release_time: 2026.09.07 21:06:21
       title: chrome插件 | WebRTC防泄漏
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490518&idx=1&sn=ee6cd3061d3b2327b96839a293200d87
+    - author: coderwhy
+      release_time: 2026.09.07 18:17:27
+      title: GPT-6 Astra惊喜多，还是失望多？
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247489114&idx=1&sn=ec49b549135c30ee595d692f1824c89f
     - author: 吴见午
       release_time: 2026.09.07 13:41:27
       title: APatch 源码笔记（十）：一个模块 ZIP 的安装之旅本文基于双仓库交叉核实
@@ -228,22 +244,6 @@
       release_time: 2026.09.04 11:15:28
       title: APatch 源码笔记（三）：没有 ioctl、没有 netlink——supercall 通信机制解剖
       url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484794&idx=1&sn=9b8ed437bea559677f377c0bea39592c
-    - author: 吴见午
-      release_time: 2026.09.04 11:15:28
-      title: APatch 源码笔记（四）：boot.img 是怎么被改的——kptools 注入与 kpimg 的开机自举
-      url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484794&idx=2&sn=b96342ea7a723bdacf41cabfdc63234e
-    - author: Coder小Q
-      release_time: 2026.09.04 08:30:00
-      title: 【密码学·采样】模运算、有限环与多项式
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496418&idx=1&sn=c678e342f10c78ca52c674831ea4d748
-    - author: 零基础爬虫第一天
-      release_time: 2026.09.03 23:05:48
-      title: 安卓环境检测篇3-TEE相关检测
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484792&idx=1&sn=727e15a8fd7668b5f30dd56f3a706de9
-    - author: 零基础爬虫第一天
-      release_time: 2026.09.03 23:03:23
-      title: android设备指纹补充-挂载mounts
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484789&idx=1&sn=fd729d72d10f641120d59a7c47529e46
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -251,6 +251,10 @@
       release_time: 2026.09.08 12:17:00
       title: qcloud滑块验证
       url: https://www.52pojie.cn/thread-2126956-1-1.html
+    - author: shenweidaitu
+      release_time: 2026.09.07 20:29:00
+      title: 新人发帖第一贴之暴力去除apk安装检查
+      url: https://www.52pojie.cn/thread-2126875-1-1.html
     - author: liyitong
       release_time: 2026.09.07 17:02:00
       title: 基于chatglm的web逆向分析实例一则
@@ -363,10 +367,6 @@
       release_time: 2026.08.10 19:12:00
       title: 【逆向实战】Cocos2d-Lua 手游从资源解密到打包破解 (上)
       url: https://www.52pojie.cn/thread-2122280-1-1.html
-    - author: PokerS429
-      release_time: 2026.08.09 13:21:00
-      title: Akamai最新js风控浅分析——指纹
-      url: https://www.52pojie.cn/thread-2122060-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
