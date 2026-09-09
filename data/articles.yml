@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.09.09 12:07:33
+      title: Ubuntu20.04通过libimobiledevice工具链连接iPhone 8 Plus
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501303&idx=1&sn=44c83c42faf02af96fb5ff7ddd23fc67
+    - author: 哆啦安全
+      release_time: 2026.09.09 12:07:33
+      title: ChatGPT或Claude官方套餐IOS渠道直充服务
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501303&idx=2&sn=f537651500c84b8161666e5e5c21593d
+    - author: 未闻Code
+      release_time: 2026.09.09 10:01:03
+      title: 因为GPT-6 Astra的爆火，我好像看见了时代的断层。
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991735&idx=1&sn=2368a318cc70911256eae5445ad436b1
+    - author: Coder小Q
+      release_time: 2026.09.09 08:30:00
+      title: 【密码学·采样】正交化与最近格点：Gram-Schmidt 和 Babai 思想
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496502&idx=1&sn=ed2e77a18fb111fc96c3e8c074d57fb0
     - author: 零基础爬虫第一天
       release_time: 2026.09.08 21:01:04
       title: 安卓环境检测4-Java层hook检测
@@ -228,22 +244,6 @@
       release_time: 2026.09.04 21:20:47
       title: FastBurp基于浏览器扩展的HTTP请求分析工具
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490507&idx=1&sn=9b0d044417aed2781d613d7e18a88a96
-    - author: 逆向狗都不学
-      release_time: 2026.09.04 18:37:50
-      title: DEX文件脱壳程序Burp
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMDM0ODA5OA==&mid=2247484171&idx=1&sn=4d349dac705c02ddd63fc2592c25d5ba
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.09.04 15:05:36
-      title: 大成数据保护与反垄断团队实习生招募（有留用机会）
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520692&idx=1&sn=7188c1e877ccf1d732f5dafc2ea6debe
-    - author: 哆啦安全
-      release_time: 2026.09.04 14:20:17
-      title: 移动端区块链安全全景指南：从私钥保护到 DApp风控的8大核心战场
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501250&idx=1&sn=e23c6f0a788cda46d9dc7e8a3d482fe6
-    - author: 吴见午
-      release_time: 2026.09.04 11:15:28
-      title: APatch 源码笔记（三）：没有 ioctl、没有 netlink——supercall 通信机制解剖
-      url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484794&idx=1&sn=9b8ed437bea559677f377c0bea39592c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
