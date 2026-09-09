@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.09.09 16:41:51
+      title: 工信部印发《信息通信行业发展“十五五”规划》，健全数据保护体系
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520793&idx=1&sn=686a97a64e35560a7a954a4988c8e752
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.09.09 16:41:51
+      title: 中央网信办等七部门联合印发《促进数字化绿色化协同转型发展实施方案（2026-2030年）》（附答记者问、一图读懂）
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520793&idx=2&sn=26e4a54953a8f7896aa5e2140dff8b59
+    - author: coderwhy
+      release_time: 2026.09.09 14:50:07
+      title: 聊聊《OpenAI解决Navier–Stokes到底有多震撼？》
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247489132&idx=1&sn=b273e2e6582be50b25d6862892dec85e
     - author: 哆啦安全
       release_time: 2026.09.09 12:07:33
       title: Ubuntu20.04通过libimobiledevice工具链连接iPhone 8 Plus
@@ -232,21 +244,13 @@
       release_time: 2026.09.05 19:15:43
       title: iOS三种越狱方案
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501254&idx=1&sn=473b5f486697be5d7bf0563200fefcac
-    - author: 吴见午
-      release_time: 2026.09.05 10:12:32
-      title: APatch 源码笔记（五）：su 是怎么来的——从 execve hook 到 root_shell
-      url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484795&idx=1&sn=06f90629839034035b8b8e5aecc43b87
-    - author: 吴见午
-      release_time: 2026.09.05 10:12:32
-      title: APatch 源码笔记（六）：谁有资格拿 Root——SuperUser 授权与 uid-listener
-      url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484795&idx=2&sn=74348f914d39184423a16cb8eb33f521
-    - author: 进击的HACK
-      release_time: 2026.09.04 21:20:47
-      title: FastBurp基于浏览器扩展的HTTP请求分析工具
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490507&idx=1&sn=9b0d044417aed2781d613d7e18a88a96
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: rsds0duck
+      release_time: 2026.09.09 12:25:00
+      title: 七神VMP分析
+      url: https://www.52pojie.cn/thread-2127122-1-1.html
     - author: pzx521521
       release_time: 2026.09.08 12:17:00
       title: qcloud滑块验证
@@ -363,13 +367,13 @@
       release_time: 2026.08.11 10:55:00
       title: 【JS逆向实战】手撕雷速体育API：动态AES签名与魔改Gzip响应解密全解析
       url: https://www.52pojie.cn/thread-2122363-1-1.html
-    - author: JiGuro
-      release_time: 2026.08.10 19:12:00
-      title: 【逆向实战】Cocos2d-Lua 手游从资源解密到打包破解 (上)
-      url: https://www.52pojie.cn/thread-2122280-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: younghare
+      release_time: 2026.09.09 16:41:30
+      title: '[原创]使用deepseek 分析某聊天app的qimei生成、与ollvm理解--分析路上记录'
+      url: https://bbs.kanxue.com/thread-292900.htm
     - author: 北袅
       release_time: 2026.09.07 18:13:23
       title: '[原创]26企鹅ollvm混淆去除'
@@ -486,10 +490,6 @@
       release_time: 2026.08.25 22:17:34
       title: '[原创] 专属于 iOS 的 trace 工具'
       url: https://bbs.kanxue.com/thread-292778.htm
-    - author: x1a0f3n9
-      release_time: 2026.08.25 18:15:13
-      title: '[原创]一个apk下载公益站'
-      url: https://bbs.kanxue.com/thread-292775.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
