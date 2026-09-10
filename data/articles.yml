@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.09.10 16:04:57
+      title: AI生成动态人脸视频攻破“刷脸”认证？江苏检察机关披露相关案件
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520804&idx=1&sn=71e4a26d77f546b83197b04dbb787345
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.09.10 16:04:57
+      title: 商务部回应美国针对中国AI企业对美蒸馏活动的网络安全公告
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520804&idx=2&sn=a2c95e24eee8cfc11c8d20467e1b0ae2
+    - author: 极验
+      release_time: 2026.09.10 16:00:00
+      title: 仅退款订单摊开，利润的窟窿里竟是“熟客”？【文末有福利~】
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724681&idx=1&sn=39afba8979f54fe7376e424a68ea7d9a
+    - author: 哆啦安全
+      release_time: 2026.09.10 13:09:48
+      title: iPhone 8 Plus越狱终极指南：A11芯片全版本方案与避坑指南
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501310&idx=1&sn=6eb0502a2ccfa4f730ca029fc6967375
     - author: 逆向有你
       release_time: 2026.09.10 09:26:19
       title: 安卓逆向 -- 某游戏内购破解
@@ -228,22 +244,6 @@
       release_time: 2026.09.07 11:55:36
       title: 某验4五子棋逆向py纯算（AST解混淆/自动化提取）
       url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550478&idx=1&sn=e8d5f2cac1d6bf879aee85ed38936e56
-    - author: 哆啦安全
-      release_time: 2026.09.07 11:40:29
-      title: 未来5至10年最抢手的AI Agent工程师，需要掌握哪些硬技能？
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501259&idx=1&sn=98b1265b6291755945c5ed6b1f3f3567
-    - author: Coder小Q
-      release_time: 2026.09.07 08:30:00
-      title: 【密码学·采样】从方格纸到高维格：基、体积与短向量
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496461&idx=1&sn=4608e87123843b063f252f9882970adb
-    - author: 测试工程师成长之路
-      release_time: 2026.09.07 08:30:00
-      title: 受够了每次回归都要重新登录？腾讯开源 BrowserSkill，让我回归测试从 40 分钟降到 8 分钟
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579382&idx=1&sn=3ed714a70059aa5ec68b82033ac003de
-    - author: 网虫Spider
-      release_time: 2026.09.06 15:55:26
-      title: raise NotConfigured 带不带消息，决定了它是一条 WARNING 还是零日志——而管道就是这么没的
-      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484773&idx=1&sn=907a9a3b4ef13c76520cf4afcddb4690
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 一只鸭子
+      release_time: 2026.09.10 14:11:11
+      title: '[原创] 用 P-code 做 VMP 还原：一份实战向的 IR 入门'
+      url: https://bbs.kanxue.com/thread-292911.htm
     - author: HandsomeBro
       release_time: 2026.09.09 22:47:58
       title: '[原创]一种“非标准VM“的识别与分析'
@@ -486,10 +490,6 @@
       release_time: 2026.08.27 11:09:10
       title: tt-ticket-guard-client-data 生成分析
       url: https://blog.csdn.net/weixin_52283613/article/details/164113845
-    - author: aut0run
-      release_time: 2026.08.26 14:58:53
-      title: '[原创]libDexHelper.so 全面分析'
-      url: https://bbs.kanxue.com/thread-292781.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
