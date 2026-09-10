@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2026.09.10 09:26:19
+      title: 安卓逆向 -- 某游戏内购破解
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041980&idx=1&sn=3bb04502f922c666d9415dbba9969a06
+    - author: Coder小Q
+      release_time: 2026.09.10 08:30:00
+      title: 【密码学】HAWK 密钥恢复：从隐藏对称到维数减半
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496780&idx=1&sn=161ef1b4e178c2fbe3dd7e449bbb7d1a
+    - author: 小陈iOS逆向与安全
+      release_time: 2026.09.10 07:53:55
+      title: 苹果终于出折叠屏了！iPhone Duo 15999元起，你会买吗？
+      url: https://mp.weixin.qq.com/s?__biz=MjM5MjEzMDAzMg==&mid=2257485160&idx=1&sn=b7fd349d969cdb096d8bf0327de90a43
     - author: 进击的HACK
       release_time: 2026.09.09 18:52:17
       title: 从短信接口到后台权限的“曲线救国”
@@ -232,18 +244,6 @@
       release_time: 2026.09.06 15:55:26
       title: raise NotConfigured 带不带消息，决定了它是一条 WARNING 还是零日志——而管道就是这么没的
       url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484773&idx=1&sn=907a9a3b4ef13c76520cf4afcddb4690
-    - author: 吴见午
-      release_time: 2026.09.06 12:12:38
-      title: APatch 源码笔记（七）：SuperKey——一把钥匙的安全模型
-      url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484826&idx=1&sn=3d31a3388ebf8fce10c1f15b4bd61b78
-    - author: 吴见午
-      release_time: 2026.09.06 12:12:38
-      title: APatch 源码笔记（八）：SELinux——APatch 如何在 enforcing 模式下生存
-      url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484826&idx=2&sn=1862c1159606772bab6e45b05012c0ae
-    - author: 进击的HACK
-      release_time: 2026.09.05 21:48:04
-      title: 天才白帽子陨落
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490513&idx=1&sn=bf71c37b60ce35255710355c27453a0a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
