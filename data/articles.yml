@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2026.09.10 19:05:00
+      title: a16z 合伙人深度访谈：科技圈最大的误判，是以为大众真的想用 AI 提高效率
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991739&idx=1&sn=782e845c70032f65521b2cadf73bc76b
+    - author: 菜鸟学Python编程
+      release_time: 2026.09.10 17:35:18
+      title: JS逆向|使用AI逆向某网站的kasada加密参数
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566701&idx=1&sn=d1caf98b135485007f67c60caf54e05a
     - author: 个人信息与数据保护实务评论
       release_time: 2026.09.10 16:04:57
       title: AI生成动态人脸视频攻破“刷脸”认证？江苏检察机关披露相关案件
@@ -236,14 +244,6 @@
       release_time: 2026.09.07 11:56:22
       title: APatch 源码笔记（九）：APModule 全景——目录、约定与生命周期总览
       url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484827&idx=1&sn=33eca8677dbd428692bbbc61af86dc97
-    - author: 吴见午
-      release_time: 2026.09.07 11:56:22
-      title: APatch 源码笔记（十）：一个模块 ZIP 的安装之旅
-      url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484827&idx=2&sn=7fcbddac272d619a0fd86ac094714f85
-    - author: 猿人学Python
-      release_time: 2026.09.07 11:55:36
-      title: 某验4五子棋逆向py纯算（AST解混淆/自动化提取）
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550478&idx=1&sn=e8d5f2cac1d6bf879aee85ed38936e56
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,14 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: mb_agxdcibq
+      release_time: 2026.09.10 18:42:34
+      title: '[原创]AI时代下的前端安全加固实践：安全、体积与性能之间的取舍'
+      url: https://bbs.kanxue.com/thread-292917.htm
+    - author: mb_xpdephnu
+      release_time: 2026.09.10 18:18:31
+      title: '[分享][原创]R8 DEX Guard'
+      url: https://bbs.kanxue.com/thread-292915.htm
     - author: 一只鸭子
       release_time: 2026.09.10 14:11:11
       title: '[原创] 用 P-code 做 VMP 还原：一份实战向的 IR 入门'
@@ -482,14 +490,6 @@
       release_time: 2026.08.28 10:53:30
       title: '[原创] 某论坛类软件的frida检测绕过'
       url: https://bbs.kanxue.com/thread-292796.htm
-    - author: 用户yO5Jq1o1mI
-      release_time: 2026.08.27 21:10:00
-      title: Zygote 注入技术详解及代码分析
-      url: https://xz.aliyun.com/news/92747
-    - author: 八月欢喜
-      release_time: 2026.08.27 11:09:10
-      title: tt-ticket-guard-client-data 生成分析
-      url: https://blog.csdn.net/weixin_52283613/article/details/164113845
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
