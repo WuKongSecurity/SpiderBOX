@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 爬虫逆向小林哥
+      release_time: 2026.09.11 21:00:00
+      title: 金九银十，放水了！！！
+      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487392&idx=1&sn=fc4235024de062fafe8e89bb299662ca
+    - author: 哆啦安全
+      release_time: 2026.09.11 18:03:38
+      title: Android逆向关键代码定位：加密字符串搜不到？抓包、Hook点与沙盒换思路
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501316&idx=1&sn=d81a562befa1fcc68fbf8644d2382922
     - author: 小小杨学编程
       release_time: 2026.09.11 12:17:00
       title: 一文速通控制流平坦化
@@ -236,14 +244,6 @@
       release_time: 2026.09.08 09:29:39
       title: iOS逆向中 Objective-C 为什么相对容易逆向？从一条方法调用说起
       url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484681&idx=1&sn=fa02d29c91a05dc2047cf48599049b5d
-    - author: 哆啦安全
-      release_time: 2026.09.08 08:40:00
-      title: 当AI学会调用工具，谁来负责安全？AI Agent安全工程师技能图谱
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501274&idx=1&sn=b9556be1f484ad58b9d92351f4970a68
-    - author: 哆啦安全
-      release_time: 2026.09.08 08:40:00
-      title: Windbg常用调试命令：速查手册
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501274&idx=2&sn=8ba3ea86c121e8b029e64b0b9b85d005
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: mb_peeqldfc
+      release_time: 2026.09.11 18:18:26
+      title: '[原创]最好用过VPN检测'
+      url: https://bbs.kanxue.com/thread-292928.htm
     - author: 一只鸭子
       release_time: 2026.09.11 14:34:08
       title: '[原创] 七神VMP真正的分析与还原'
@@ -390,6 +394,10 @@
       release_time: 2026.09.10 14:11:11
       title: '[原创] 用 P-code 做 VMP 还原：一份实战向的 IR 入门'
       url: https://bbs.kanxue.com/thread-292911.htm
+    - author: 安卓逆向许七安
+      release_time: 2026.09.10 14:05:03
+      title: Claude 桌面app 中转配置说明
+      url: https://blog.csdn.net/weixin_45365693/article/details/164841284
     - author: HandsomeBro
       release_time: 2026.09.09 22:47:58
       title: '[原创]一种“非标准VM“的识别与分析'
@@ -482,14 +490,6 @@
       release_time: 2026.08.30 20:18:19
       title: '[原创]安卓ACE反作弊拉黑设备机制技术解析'
       url: https://bbs.kanxue.com/thread-292813.htm
-    - author: gongchuang
-      release_time: 2026.08.30 10:40:25
-      title: '[原创]安卓驱动跳板 PTE 物理映射读写'
-      url: https://bbs.kanxue.com/thread-292808.htm
-    - author: 我不是卷王
-      release_time: 2026.08.29 16:29:51
-      title: '[原创]风控特征关联平台（入门版本）'
-      url: https://bbs.kanxue.com/thread-292804.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
