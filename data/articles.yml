@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: AngelToms
+      release_time: 2026.09.11 12:01:16
+      title: UPX压缩前的检测
+      url: https://www.bilibili.com/video/BV1EmYV6WESL
+    - author: 和沐阳学逆向与Ai
+      release_time: 2026.09.11 10:13:44
+      title: 87.A12和A13__iPhone手机18系统使用surrealra1n与 usbliter8 漏洞降级并越狱iOS完整流程- XSMAX为例子
+      url: https://www.bilibili.com/video/BV1uPY56kERa
     - author: B站用户骚神
       release_time: 2026.09.08 14:40:42
       title: Gost+DrissionPage5.0 实现动态切换带密码的Socks5代理！
@@ -113,17 +121,25 @@
       release_time: 2026.08.17 14:12:39
       title: 用豆包手机反制骚扰电话
       url: https://www.bilibili.com/video/BV1cyba6eEAu
-    - author: r0ysue
-      release_time: 2026.08.15 20:35:18
-      title: frida-ios-dump搭配定制过检测frida-server砸壳海外航司APP
-      url: https://www.bilibili.com/video/BV131by6HEBV
-    - author: B站用户骚神
-      release_time: 2026.08.14 17:16:10
-      title: 骚神插件Vscode版本（免费版）新鲜出炉！！-大幅提高DrissionPage用户编码效率
-      url: https://www.bilibili.com/video/BV1M2gP69Exn
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小小杨学编程
+      release_time: 2026.09.11 12:17:00
+      title: 一文速通控制流平坦化
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484812&idx=1&sn=391df6a4af9fafc439b73584784cafc4
+    - author: 小伍哥聊风控
+      release_time: 2026.09.11 11:47:43
+      title: 出海菲律宾、墨西哥：获客、中收与实时风控的新解法
+      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650197260&idx=1&sn=ebef61f43b2a6e4039a65f67c2e3acd7
+    - author: 小小杨学编程
+      release_time: 2026.09.11 10:07:22
+      title: DataDome无感验证补环境
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484799&idx=1&sn=c99a18bcc76a7ff08dedf2daaef9e0ea
+    - author: Coder小Q
+      release_time: 2026.09.11 08:30:00
+      title: 【密码学·采样】从钟形曲线到格点：连续、离散与格高斯
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496781&idx=1&sn=86104af90a6c86026e5f40e901d20637
     - author: 未闻Code
       release_time: 2026.09.10 19:05:00
       title: a16z 合伙人深度访谈：科技圈最大的误判，是以为大众真的想用 AI 提高效率
@@ -228,22 +244,6 @@
       release_time: 2026.09.08 08:40:00
       title: Windbg常用调试命令：速查手册
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501274&idx=2&sn=8ba3ea86c121e8b029e64b0b9b85d005
-    - author: 进击的HACK
-      release_time: 2026.09.07 21:06:21
-      title: chrome插件 | WebRTC防泄漏
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490518&idx=1&sn=ee6cd3061d3b2327b96839a293200d87
-    - author: coderwhy
-      release_time: 2026.09.07 18:17:27
-      title: GPT-6 Astra惊喜多，还是失望多？
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247489114&idx=1&sn=ec49b549135c30ee595d692f1824c89f
-    - author: 吴见午
-      release_time: 2026.09.07 13:41:27
-      title: APatch 源码笔记（十）：一个模块 ZIP 的安装之旅本文基于双仓库交叉核实
-      url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484845&idx=1&sn=28a9352c0043fc3bcfa2b9534839ca4d
-    - author: 吴见午
-      release_time: 2026.09.07 11:56:22
-      title: APatch 源码笔记（九）：APModule 全景——目录、约定与生命周期总览
-      url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484827&idx=1&sn=33eca8677dbd428692bbbc61af86dc97
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
