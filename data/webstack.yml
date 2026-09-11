@@ -3300,7 +3300,7 @@
           logo: ipcook.png
           no_referral: true
           url: https://www.ipcook.com/?ref=spiderbox&utm_source=spiderbox&utm_campaign=directory
-          description: IPcook 是一家致力于为全球出海用户与开发者提供高品质、低成本网络接入的专业 IP 代理品牌。我们提供 5500 万+ 动态住宅 IP 与 10 万+ 静态 ISP/数据中心代理，覆盖 185+ 国家。凭借平均低于 0.5s（最快 50ms）的响应时间、99.99% 的连接成功率及强大的多线程高并发承载力，IPcook 完美助力指纹浏览器防关联、大体量数据抓取及跨境电商运营
+          description: IPcook 是一家致力于为全球出海用户与开发者提供高品质、低成本网络接入的专业 IP 代理品牌。我们提供 5500 万+ 动态住宅 IP 与海量静态 ISP/数据中心代理，覆盖 185+ 国家。凭借平均低于 0.5s（最快 50ms）的响应时间、99.99% 的连接成功率及强大的多线程高并发承载力，IPcook 完美助力指纹浏览器防关联、大体量数据抓取及跨境电商运营
 
         # 15% ==============================
         - title: ipfly
