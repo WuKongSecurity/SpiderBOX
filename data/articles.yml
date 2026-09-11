@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 小肩膀-逆向安全培训
+      release_time: 2026.09.11 15:23:18
+      title: 【AI自动逆向】小程序trace工具的使用（xiaojianbang-wmpf-trace）
+      url: https://www.bilibili.com/video/BV1JDYL6FEcG
+    - author: Breeze_122134
+      release_time: 2026.09.11 13:54:21
+      title: 某音评论采集
+      url: https://www.bilibili.com/video/BV1QPYj6nEzY
     - author: AngelToms
       release_time: 2026.09.11 12:01:16
       title: UPX压缩前的检测
@@ -113,14 +121,6 @@
       release_time: 2026.08.18 23:19:20
       title: 密码学补完计划[第四十二期] HKDF(后篇)
       url: https://www.bilibili.com/video/BV1Jd8g66Ey2
-    - author: Breeze_122134
-      release_time: 2026.08.18 16:21:39
-      title: 某星新闻app逆向
-      url: https://www.bilibili.com/video/BV1WP8g6LEPH
-    - author: r0ysue
-      release_time: 2026.08.17 14:12:39
-      title: 用豆包手机反制骚扰电话
-      url: https://www.bilibili.com/video/BV1cyba6eEAu
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: thesky123
+      release_time: 2026.09.10 20:55:00
+      title: 猿人学第一题 js混淆-源码乱码
+      url: https://www.52pojie.cn/thread-2127389-1-1.html
     - author: rsds0duck
       release_time: 2026.09.09 12:25:00
       title: 七神VMP分析
@@ -363,13 +367,13 @@
       release_time: 2026.08.11 16:15:00
       title: 某刺猬小说逆向分析
       url: https://www.52pojie.cn/thread-2122438-1-1.html
-    - author: Chois
-      release_time: 2026.08.11 10:55:00
-      title: 【JS逆向实战】手撕雷速体育API：动态AES签名与魔改Gzip响应解密全解析
-      url: https://www.52pojie.cn/thread-2122363-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 一只鸭子
+      release_time: 2026.09.11 14:34:08
+      title: '[原创] 七神VMP真正的分析与还原'
+      url: https://bbs.kanxue.com/thread-292925.htm
     - author: 星野安全
       release_time: 2026.09.11 00:48:02
       title: '[原创]某盾 HTProtect 全景分析：从加固到 30  模拟器的检测分析'
@@ -486,10 +490,6 @@
       release_time: 2026.08.29 16:29:51
       title: '[原创]风控特征关联平台（入门版本）'
       url: https://bbs.kanxue.com/thread-292804.htm
-    - author: 星野安全
-      release_time: 2026.08.28 19:30:10
-      title: '[原创] 基于某银行App的梆梆加固逆向实战'
-      url: https://bbs.kanxue.com/thread-292801.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
