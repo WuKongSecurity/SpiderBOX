@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 逆向狗都不学
+      release_time: 2026.09.13 17:40:11
+      title: Android逆向之SO文件基础
+      url: https://www.bilibili.com/video/BV19XYe66EQw
     - author: 迪迦不打卡
       release_time: 2026.09.13 13:15:05
       title: AI一句话wx小程序逆向之瑞幸咖啡
@@ -117,10 +121,6 @@
       release_time: 2026.08.23 11:56:14
       title: 直装无人问津？so的通杀？
       url: https://www.bilibili.com/video/BV1nz8s6mEze
-    - author: 可厉害的土豆
-      release_time: 2026.08.21 22:28:25
-      title: 【句子分享】| 他人的认可是廉价的枷锁
-      url: https://www.bilibili.com/video/BV1Av8B6ZEQz
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 千人千面
+      release_time: 2026.09.13 14:03:00
+      title: 小米 BE6500 Pro 通过 set_macfilter_rules 漏洞开启 SSH
+      url: https://www.52pojie.cn/thread-2127776-1-1.html
     - author: thesky123
       release_time: 2026.09.10 20:55:00
       title: 猿人学第一题 js混淆-源码乱码
@@ -363,10 +367,6 @@
       release_time: 2026.08.12 10:13:00
       title: 针对天天跳绳逆向抓包，刷作业的研究
       url: https://www.52pojie.cn/thread-2122540-1-1.html
-    - author: Walletshine
-      release_time: 2026.08.11 16:15:00
-      title: 某刺猬小说逆向分析
-      url: https://www.52pojie.cn/thread-2122438-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
