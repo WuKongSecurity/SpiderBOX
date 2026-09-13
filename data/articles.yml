@@ -2,6 +2,10 @@
   list:
   - links:
     - author: 迪迦不打卡
+      release_time: 2026.09.13 13:15:05
+      title: AI一句话wx小程序逆向之瑞幸咖啡
+      url: https://www.bilibili.com/video/BV1BzYa6rEur
+    - author: 迪迦不打卡
       release_time: 2026.09.12 16:37:26
       title: AI一句话js逆向之某音视频
       url: https://www.bilibili.com/video/BV1M6Y96HEiD
@@ -117,10 +121,6 @@
       release_time: 2026.08.21 22:28:25
       title: 【句子分享】| 他人的认可是廉价的枷锁
       url: https://www.bilibili.com/video/BV1Av8B6ZEQz
-    - author: 可厉害的土豆
-      release_time: 2026.08.21 18:40:32
-      title: 【网络安全专业研究方向介绍】择校 | 择导师 | 信息安全 | 隐私计算 | AI安全 | 软件、系统与硬件安全 | 系统安全 | 法律政策与安全治理
-      url: https://www.bilibili.com/video/BV1P38q6xEWd
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
