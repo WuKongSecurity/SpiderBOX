@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.09.14 18:55:32
+      title: Cyber-Model-1 使用体验
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490527&idx=1&sn=cf4d10ea869677d86152779dc5ee5d25
+    - author: 哆啦安全
+      release_time: 2026.09.14 16:39:59
+      title: Android安全隐私合规智能检测工具V5.6
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501350&idx=1&sn=1b6710f29c7f34f13c4908237fa67347
     - author: 吴见午
       release_time: 2026.09.14 09:40:40
       title: 解锁只是开始：红米 Note 11 4G 无账号 BL 解锁后的 Root 全记录
@@ -236,14 +244,6 @@
       release_time: 2026.09.10 08:30:00
       title: 【密码学】HAWK 密钥恢复：从隐藏对称到维数减半
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496780&idx=1&sn=161ef1b4e178c2fbe3dd7e449bbb7d1a
-    - author: 小陈iOS逆向与安全
-      release_time: 2026.09.10 07:53:55
-      title: 苹果终于出折叠屏了！iPhone Duo 15999元起，你会买吗？
-      url: https://mp.weixin.qq.com/s?__biz=MjM5MjEzMDAzMg==&mid=2257485160&idx=1&sn=b7fd349d969cdb096d8bf0327de90a43
-    - author: 进击的HACK
-      release_time: 2026.09.09 18:52:17
-      title: 从短信接口到后台权限的“曲线救国”
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490523&idx=1&sn=8ee55a0201f557e1db192251880f3c11
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,18 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 用户ptqqXPAYzK
+      release_time: 2026.09.14 19:34:00
+      title: 病毒0基础入门之PE文件格式及利用
+      url: https://xz.aliyun.com/news/92822
+    - author: LeoChen..
+      release_time: 2026.09.14 18:00:52
+      title: '[原创]Android 某6零免费版 DexVMP 恢复工作流框架：还原成可运行的正常程序,仅供学习研究'
+      url: https://bbs.kanxue.com/thread-292951.htm
+    - author: 北袅
+      release_time: 2026.09.14 16:16:44
+      title: '[原创]bangbang加固企业版分析'
+      url: https://bbs.kanxue.com/thread-292948.htm
     - author: 太岁又沐风
       release_time: 2026.09.14 00:23:00
       title: 中某某动APP算法AI分析-一句话全自动分析网络请求和加密算法
@@ -478,18 +490,6 @@
       release_time: 2026.09.03 21:48:55
       title: '[原创]最强逆向大模型GLM-5.3无道德无限制驱动Frida Stalker绕过银行某梆检测'
       url: https://bbs.kanxue.com/thread-292853.htm
-    - author: 伊苏尔德
-      release_time: 2026.09.03 21:22:54
-      title: '[讨论]ks did到底在检测啥'
-      url: https://bbs.kanxue.com/thread-292852.htm
-    - author: 世界美景
-      release_time: 2026.09.03 16:10:25
-      title: '[原创]一台"锁死"的 Pixel 7 自救记：把 GhostLock 内核漏洞移植到真机 root'
-      url: https://bbs.kanxue.com/thread-292846.htm
-    - author: permanent011
-      release_time: 2026.09.03 11:40:01
-      title: '[原创]从死亡现象反推检测点：一次检测链路定位方法论'
-      url: https://bbs.kanxue.com/thread-292844.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
