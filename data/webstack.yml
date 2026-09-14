@@ -6096,7 +6096,7 @@
           url: https://github.com/WhiteNightShadow/hello_js_reverse_skill
           logo: github.png
           description: AI-powered JS 逆向工程 Skill —— 覆盖加密还原、混淆分析、动态 Cookie、WASM 逆向、协议对抗等全链路场景，通过 Node.js 实现算法还原与模拟请求。适配 Claude Code / Claude.ai / 其他 AI 编码工具
-        - title: reverse-skill
+        - title: 715494637/reverse-skill
           url: https://github.com/715494637/reverse-skill
           logo: github.png
           description: 面向 Web JS 逆向分析的技能仓库，覆盖请求链定位、运行时诊断、AST 混淆恢复、JSVMP、worker、WASM、webpack/runtime 与协议语义分析
@@ -6135,6 +6135,10 @@
           url: https://github.com/SimoneAvogadro/android-reverse-engineering-skill
           logo: github.png
           description: Claude Code Skill，可以反编译 Android APK/XAPK/JAR/AAR 文件，并提取应用程序使用的 HTTP API —— Retrofit 接口、OkHttp 调用、硬编码的 URL、认证模式，方便在没有原始源代码的情况下分析它们
+        - title: zhaoxuya520/reverse-skill
+          url: https://github.com/zhaoxuya520/reverse-skill
+          logo: github.png
+          description: 逆向/渗透/安全技能路由包 — AI 自动路由 · 按需自举工具链 · 自动进化经验库
         - title: android-sec-skills
           url: https://github.com/geekbyter/android-sec-skills
           logo: github.png
