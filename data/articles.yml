@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: wolfSpicy
+      release_time: 2026.09.16 00:21:00
+      title: Drissionpage焦点伪造检测点
+      url: https://www.52pojie.cn/thread-2128269-1-1.html
     - author: thesky123
       release_time: 2026.09.15 04:11:00
       title: 猿人学第二题 js混淆-动态cookie1
@@ -363,10 +367,6 @@
       release_time: 2026.08.13 23:22:00
       title: Allsafe靶场全解
       url: https://www.52pojie.cn/thread-2122890-1-1.html
-    - author: cqy666
-      release_time: 2026.08.13 21:10:00
-      title: PC安卓模拟器跑只带arm64的so的apk实现修改
-      url: https://www.52pojie.cn/thread-2122870-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
