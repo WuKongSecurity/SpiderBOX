@@ -7,12 +7,12 @@
       image: images/ads/qgy_1200x150_4.gif
       description: 国内领先的企业级代理 IP 服务商，覆盖国内 200 多个城市，畅享 600+ 万纯净 IP 资源池，同时提供覆盖全球 200+ 个热门国家地区的千万级优质代理 IP
       track: gg_qgy
-    - title: ThorData
-      ads: true
-      url: https://www.thordata.com/?ls=dhz&lk=02-spid
-      image: images/ads/thordata_1200x150.gif
-      description: ThorData 1亿+纯净 IP 池，出海防关联必备。结账输入折扣码 thor020，首充即享 10% 赠送 + 额外 9 折优惠
-      track: gg_thordata
+#    - title: ThorData
+#      ads: true
+#      url: https://www.thordata.com/?ls=dhz&lk=02-spid
+#      image: images/ads/thordata_1200x150.gif
+#      description: ThorData 1亿+纯净 IP 池，出海防关联必备。结账输入折扣码 thor020，首充即享 10% 赠送 + 额外 9 折优惠
+#      track: gg_thordata
     - title: Bright Data
       ads: true
       url: https://get.brightdata.com/proxyb
@@ -42,7 +42,12 @@
       image: images/ads/rapidproxy_1200x150_2.gif
       description: 免费代理测试，通过 RapidProxy 访问超 9000 万优质 IP，支持 220+ 地理位置精准定位，实现高效数据采集，轻松规避验证码与 IP 封禁，流量永不过期
       track: gg_rapidproxy
-
+    - title: IPIPD
+      ads: true
+      url: https://ipipd.com/sign-up?ref=ABZWPIPH
+      image: images/ads/ipipd_1200x150.gif
+      description: IPIPD 全球高品质代理 IP，为您提供覆盖全球 200+ 国家的纯净代理 IP 资源，拥有最全原生 IP 资源，海量真实住宅 IP 与高速机房 IP。高匿名性，有效规避封禁，保障您的数据采集、市场调研、社媒管理与广告验证等业务高效稳定运行，售后 7*24 在线服务
+      track: gg_ipipd
     # - title: 广告位招租
     #   ads: true
     #   url: https://static.wukongsec.com/public/images/info/wechat_art.webp

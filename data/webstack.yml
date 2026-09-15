@@ -3099,6 +3099,12 @@
           no_referral: true
           url: https://www.qg.net/product/proxyip.html?website=spiderbox
           description: 【需实名】青果网络提供香港、美国、韩国云主机，同时携手腾讯云、天翼云助力企业上云；云电脑、拨号VPS和动态代理IP为大数据赋能；高防服务器租用与托管为企业安全保驾护航；大带宽与机柜业务加速网络访问
+        - title: IPIPD
+          logo: ipipd.jpg
+          no_referral: true
+          # url: https://ipipd.cn?ref=SVJLBAVQ
+          url: https://ipipd.com/sign-up?ref=ABZWPIPH
+          description: 【需实名】IPIPD 全球高品质代理 IP，为您提供覆盖全球 200+ 国家的纯净代理 IP 资源，拥有最全原生 IP 资源，海量真实住宅 IP 与高速机房 IP。高匿名性，有效规避封禁，保障您的数据采集、市场调研、社媒管理与广告验证等业务高效稳定运行，售后 7*24 在线服务
 #        - title: 协采云
 #          logo: xiecaiyun.png
 #          no_referral: true
@@ -3125,11 +3131,6 @@
           no_referral: true
           url: https://www.ipipgo.com?inviteLink=rd7HwjlR
           description: 【需实名】IPIPGO 全球住宅 IP，企业级海外代理IP服务商，汇集全球 245 个国家/地区的 9000 万家庭住宅 IP，涵盖静态、动态、原生跨境专线等方案，提供全面的免费测试，确保满足您的业务需求
-        - title: IPIPD
-          logo: ipipd.jpg
-          no_referral: true
-          url: https://ipipd.cn?ref=SVJLBAVQ
-          description: 【需实名】IPIPD 全球高品质代理 IP，为您提供覆盖全球 200+ 国家的纯净代理 IP 资源，拥有最全原生 IP 资源，海量真实住宅 IP 与高速机房 IP。高匿名性，有效规避封禁，保障您的数据采集、市场调研、社媒管理与广告验证等业务高效稳定运行，售后 7*24 在线服务
 
         # 8% ==============================
         - title: IPWO
@@ -3267,13 +3268,6 @@
 #          no_referral: true
 #          url: https://netnut.cn/?utm_medium=partner&utm_source=spiderbox
 #          description: 覆盖全球 195 个国家，8500 万优质 IP，全方位满足网页数据抓取。NetNut 提供四种代理 IP 服务：动态住宅，静态ISP，移动代理，数据中心代理。NetNut 网站解锁代理服务器可以绕过验证码，安全地从全球网站中提取数据。轻松解决访问受限网站的问题
-        - title: Thordata
-          logo: thordata.jpg
-          no_referral: true
-          # url: https://www.thordata.com/?ls=dhz&lk=spiderbox
-          # url: https://dashboard.thordata.com/zh/register?invitation_code=M1TQMPB5
-          url: https://www.thordata.com/?ls=dhz&lk=02-spid
-          description: Thordata 1亿+纯净 IP 池，出海防关联必备。结账输入折扣码 thor020，首充即享 10% 赠送 + 额外 9 折优惠
         - title: RapidProxy
           logo: rapidproxy.png
           no_referral: true
@@ -3286,6 +3280,12 @@
           no_referral: true
           url: https://get.brightdata.com/17arn8
           description: Award winning proxy networks, powerful web scrapers, and ready-to-use datasets for download. Welcome to the world's number one web data platform.
+        - title: IPIPD
+          logo: ipipd.jpg
+          no_referral: true
+          # url: https://ipipd.cn?ref=SVJLBAVQ
+          url: https://ipipd.com/sign-up?ref=ABZWPIPH
+          description: IPIPD 全球高品质代理 IP，为您提供覆盖全球 200+ 国家的纯净代理 IP 资源，拥有最全原生 IP 资源，海量真实住宅 IP 与高速机房 IP。高匿名性，有效规避封禁，保障您的数据采集、市场调研、社媒管理与广告验证等业务高效稳定运行，售后 7*24 在线服务
 
         # 30% ==============================
         - title: SwiftProxy
@@ -3310,7 +3310,7 @@
           url: https://ipfly.net/activity/RTM1OEs5TFI6TFZKOVhYQzM5NQ== # https://reseller.ipfly.net/dashboard
           description: 9000万+全球优质IP资源，$0.8/G起，动态流量永久有效
 
-        # 特殊合作，友链排前面，返利 5%
+        # 特殊合作，友链排前面，首单 15%，复购 5%
         - title: LinkStatic
           logo: linkstatic.jpg
           no_referral: true
@@ -3318,6 +3318,13 @@
           description: 最具性价比的全球静态 ISP 代理——原生纯净、独享固定，IP 长期稳定不掉线。静态 ISP 套餐新用户直降 50%，低至 0.9$/IP，满足各种IP长期在线的业务场景，支持 TikTok 专线定制，轻松助您业务增长
 
         # 10% ==============================
+        - title: Thordata
+          logo: thordata.jpg
+          no_referral: true
+          # url: https://www.thordata.com/?ls=dhz&lk=spiderbox
+          # url: https://www.thordata.com/?ls=dhz&lk=02-spid # 广告合作
+          url: https://dashboard.thordata.com/register?invitation_code=M1TQMPB5
+          description: Thordata 1亿+纯净 IP 池，出海防关联必备。结账输入折扣码 thor020，首充即享 10% 赠送 + 额外 9 折优惠
         - title: kookeey 全球业务级代理 IP
           logo: kookeey.jpg
           no_referral: true
