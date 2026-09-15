@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.09.15 11:55:14
+      title: Android 17内存新机制深度解读：给每个App戴上“紧箍咒”，流氓App的末日到了？低内存手机终于有救了！
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501354&idx=1&sn=b539e5f9101bd44b15f18e816076cb3a
+    - author: 猿人学Python
+      release_time: 2026.09.15 10:33:37
+      title: 某IOS端即时通讯 App 私有传输层(mmtls)逆向:从流量捕获到协议还原
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550505&idx=1&sn=05be7746fac3ad39ad1a3ff53b8e869b
     - author: 进击的HACK
       release_time: 2026.09.14 18:55:32
       title: Cyber-Model-1 使用体验
@@ -236,14 +244,6 @@
       release_time: 2026.09.10 13:09:48
       title: iPhone 8 Plus越狱终极指南：A11芯片全版本方案与避坑指南
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501310&idx=1&sn=6eb0502a2ccfa4f730ca029fc6967375
-    - author: 逆向有你
-      release_time: 2026.09.10 09:26:19
-      title: 安卓逆向 -- 某游戏内购破解
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041980&idx=1&sn=3bb04502f922c666d9415dbba9969a06
-    - author: Coder小Q
-      release_time: 2026.09.10 08:30:00
-      title: 【密码学】HAWK 密钥恢复：从隐藏对称到维数减半
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496780&idx=1&sn=161ef1b4e178c2fbe3dd7e449bbb7d1a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Lun_OS
+      release_time: 2026.09.15 07:37:08
+      title: '[原创]安卓APatch Root方案compat的nofault回退导致被检测'
+      url: https://bbs.kanxue.com/thread-292954.htm
     - author: 用户ptqqXPAYzK
       release_time: 2026.09.14 19:34:00
       title: 病毒0基础入门之PE文件格式及利用
@@ -486,10 +490,6 @@
       release_time: 2026.09.04 18:14:59
       title: '[原创]360加固软完美脱壳件调试分析报告'
       url: https://bbs.kanxue.com/thread-292863.htm
-    - author: x1ny
-      release_time: 2026.09.03 21:48:55
-      title: '[原创]最强逆向大模型GLM-5.3无道德无限制驱动Frida Stalker绕过银行某梆检测'
-      url: https://bbs.kanxue.com/thread-292853.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
