@@ -251,6 +251,10 @@
       release_time: 2026.09.15 04:11:00
       title: 猿人学第二题 js混淆-动态cookie1
       url: https://www.52pojie.cn/thread-2128072-1-1.html
+    - author: DoraIsNegro
+      release_time: 2026.09.14 19:00:00
+      title: 某问抓包
+      url: https://www.52pojie.cn/thread-2128021-1-1.html
     - author: 千人千面
       release_time: 2026.09.13 14:03:00
       title: 小米 BE6500 Pro 通过 set_macfilter_rules 漏洞开启 SSH
@@ -363,10 +367,6 @@
       release_time: 2026.08.13 21:10:00
       title: PC安卓模拟器跑只带arm64的so的apk实现修改
       url: https://www.52pojie.cn/thread-2122870-1-1.html
-    - author: bu^shan
-      release_time: 2026.08.13 16:30:00
-      title: 从 RegisterNatives 到逐字节复现：一次 Android `ttEncrypt` 封包逆向
-      url: https://www.52pojie.cn/thread-2122819-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
