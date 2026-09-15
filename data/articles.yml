@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.09.15 16:08:14
+      title: 国家网信办发布数据出境安全管理政策法规问答，明确个人信息出境认证的适用情形
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520816&idx=1&sn=6da04bf2b39769f1e9db13c13494b356
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.09.15 16:08:14
+      title: 某外资银行因违反数据安全管理规定等被罚没约179万元
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520816&idx=2&sn=2e0a8254a31f8ce7556fea69a0acd3d7
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.09.15 16:08:14
+      title: 中国数据保护月度报告：重点提示及目录（2026年9月）
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520816&idx=3&sn=c71ff24929858859bda7f2568072e1c7
     - author: 哆啦安全
       release_time: 2026.09.15 11:55:14
       title: Android 17内存新机制深度解读：给每个App戴上“紧箍咒”，流氓App的末日到了？低内存手机终于有救了！
@@ -232,21 +244,13 @@
       release_time: 2026.09.10 16:04:57
       title: AI生成动态人脸视频攻破“刷脸”认证？江苏检察机关披露相关案件
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520804&idx=1&sn=71e4a26d77f546b83197b04dbb787345
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.09.10 16:04:57
-      title: 商务部回应美国针对中国AI企业对美蒸馏活动的网络安全公告
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520804&idx=2&sn=a2c95e24eee8cfc11c8d20467e1b0ae2
-    - author: 极验
-      release_time: 2026.09.10 16:00:00
-      title: 仅退款订单摊开，利润的窟窿里竟是“熟客”？【文末有福利~】
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724681&idx=1&sn=39afba8979f54fe7376e424a68ea7d9a
-    - author: 哆啦安全
-      release_time: 2026.09.10 13:09:48
-      title: iPhone 8 Plus越狱终极指南：A11芯片全版本方案与避坑指南
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501310&idx=1&sn=6eb0502a2ccfa4f730ca029fc6967375
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: thesky123
+      release_time: 2026.09.15 04:11:00
+      title: 猿人学第二题 js混淆-动态cookie1
+      url: https://www.52pojie.cn/thread-2128072-1-1.html
     - author: 千人千面
       release_time: 2026.09.13 14:03:00
       title: 小米 BE6500 Pro 通过 set_macfilter_rules 漏洞开启 SSH
@@ -363,13 +367,13 @@
       release_time: 2026.08.13 16:30:00
       title: 从 RegisterNatives 到逐字节复现：一次 Android `ttEncrypt` 封包逆向
       url: https://www.52pojie.cn/thread-2122819-1-1.html
-    - author: cqy666
-      release_time: 2026.08.13 16:02:00
-      title: Frida Gadget免root环境记录
-      url: https://www.52pojie.cn/thread-2122813-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 苏泽001
+      release_time: 2026.09.15 16:50:48
+      title: '[原创]KCTF 第一题（AliCrackme_1 逆向分析过程）'
+      url: https://bbs.kanxue.com/thread-292960.htm
     - author: Lun_OS
       release_time: 2026.09.15 07:37:08
       title: '[原创]安卓APatch Root方案compat的nofault回退导致被检测'
@@ -486,10 +490,6 @@
       release_time: 2026.09.04 18:18:59
       title: '[原创]360加固完美脱壳重打包调试报告'
       url: https://bbs.kanxue.com/thread-292864.htm
-    - author: 俏狐
-      release_time: 2026.09.04 18:14:59
-      title: '[原创]360加固软完美脱壳件调试分析报告'
-      url: https://bbs.kanxue.com/thread-292863.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
