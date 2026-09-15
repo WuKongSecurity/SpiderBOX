@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2026.09.14 11:05:04
+      title: 【骚神插件9.9.3】全新版本！鼠标点几下就可获取高质量DrissionPage爬虫代码
+      url: https://www.bilibili.com/video/BV1hgYr6pEEt
     - author: 逆向狗都不学
       release_time: 2026.09.13 17:40:11
       title: Android逆向之SO文件基础
@@ -117,13 +121,73 @@
       release_time: 2026.08.24 11:15:04
       title: JS逆向终结计划过PX盾
       url: https://www.bilibili.com/video/BV1rG8Y6MEJz
-    - author: 池唐不是糖
-      release_time: 2026.08.23 11:56:14
-      title: 直装无人问津？so的通杀？
-      url: https://www.bilibili.com/video/BV1nz8s6mEze
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.09.14 18:55:32
+      title: Cyber-Model-1 使用体验
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490527&idx=1&sn=cf4d10ea869677d86152779dc5ee5d25
+    - author: 哆啦安全
+      release_time: 2026.09.14 16:39:59
+      title: Android安全隐私合规智能检测工具V5.6
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501350&idx=1&sn=1b6710f29c7f34f13c4908237fa67347
+    - author: 吴见午
+      release_time: 2026.09.14 09:40:40
+      title: 解锁只是开始：红米 Note 11 4G 无账号 BL 解锁后的 Root 全记录
+      url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484882&idx=1&sn=cc138bc190edf8fe29ef6d685b747be7
+    - author: 小伍哥聊风控
+      release_time: 2026.09.14 08:39:00
+      title: 黑灰产想绕过规则的缝隙，因此大模型风控的重点不一定在模型，而在规则和Prompt
+      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650197275&idx=1&sn=de2a79f06eb899d1ffcdf30fb767fc67
+    - author: 测试工程师成长之路
+      release_time: 2026.09.14 08:30:00
+      title: 别再凭感觉测AI了：手把手教你构建黄金数据集，50条就能跑起来
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579399&idx=1&sn=a8bdd52bd08442c2c16dd95099d7cafe
+    - author: Coder小Q
+      release_time: 2026.09.14 08:30:00
+      title: 【密码学·采样】平滑参数的直觉：噪声何时能抹去格的纹理
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496822&idx=1&sn=2ae8c558b91e82be1383f8a201c79a4c
+    - author: 小陈iOS逆向与安全
+      release_time: 2026.09.14 08:02:00
+      title: 像搭积木一样，做个微信机器人：自动发群，已开源！
+      url: https://mp.weixin.qq.com/s?__biz=MjM5MjEzMDAzMg==&mid=2257485188&idx=1&sn=f2e50dbb6541e1d5f45e021c9e286159
+    - author: 小陈iOS逆向与安全
+      release_time: 2026.09.14 02:03:51
+      title: RPReplay_Final1789314666
+      url: https://mp.weixin.qq.com/s?__biz=MjM5MjEzMDAzMg==&mid=2257485176&idx=1&sn=c8c6a6bb41f7238f2f9c9281c6a6cc87
+    - author: R逆向
+      release_time: 2026.09.14 00:26:53
+      title: 中国移动APP-AI全自动逆向分析加密算法
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NjA3Mw==&mid=2247483874&idx=1&sn=ecdd367bfe2844c4fda1d3ee0c828b34
+    - author: 上海电特安隐私安全运营技术
+      release_time: 2026.09.13 22:00:00
+      title: 《iOS课程》更新29.iPhone8刷rootless&roothide与SE2代i0S18刷多巴胺
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486291&idx=1&sn=f4b75d471779d19354f8eecd2e0d5c57
+    - author: 上海电特安隐私安全运营技术
+      release_time: 2026.09.13 22:00:00
+      title: 奋斗者计划，助你升职加薪|阿里云、米哈游、阿里巴巴直推
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486291&idx=2&sn=7885d348a1ebb658ae119c2787caec71
+    - author: 上海电特安隐私安全运营技术
+      release_time: 2026.09.13 22:00:00
+      title: r0dump16脱壳机一加9安卓16秒脱海外金融企业壳DexProtector
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486291&idx=3&sn=3ca854f95f2be9248cad96754cd201d5
+    - author: 上海电特安隐私安全运营技术
+      release_time: 2026.09.13 22:00:00
+      title: r0browser公测开始！
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486291&idx=4&sn=15e0a166d4ffda8e807ac34f1c1c8ff6
+    - author: 上海电特安隐私安全运营技术
+      release_time: 2026.09.13 22:00:00
+      title: iPhone8越狱手机iOS16逆向学习机永不变砖随便刷机
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486291&idx=5&sn=80b9db8cabfb3a80f9efef72bd7b7780
+    - author: 上海电特安隐私安全运营技术
+      release_time: 2026.09.13 22:00:00
+      title: iPhoneSE2代越狱手机iOS18逆向学习机
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486291&idx=6&sn=c1af9493bc6405624a5b928a5f1adf3b
+    - author: 吴见午
+      release_time: 2026.09.13 02:26:46
+      title: 免账号解BL锁AI实操全记录之红米Note11-4G
+      url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484859&idx=1&sn=80facdb2c26bb39e47709b4ef9f82d95
     - author: 爬虫逆向小林哥
       release_time: 2026.09.11 21:00:00
       title: 金九银十，放水了！！！
@@ -180,70 +244,6 @@
       release_time: 2026.09.10 08:30:00
       title: 【密码学】HAWK 密钥恢复：从隐藏对称到维数减半
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496780&idx=1&sn=161ef1b4e178c2fbe3dd7e449bbb7d1a
-    - author: 小陈iOS逆向与安全
-      release_time: 2026.09.10 07:53:55
-      title: 苹果终于出折叠屏了！iPhone Duo 15999元起，你会买吗？
-      url: https://mp.weixin.qq.com/s?__biz=MjM5MjEzMDAzMg==&mid=2257485160&idx=1&sn=b7fd349d969cdb096d8bf0327de90a43
-    - author: 进击的HACK
-      release_time: 2026.09.09 18:52:17
-      title: 从短信接口到后台权限的“曲线救国”
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490523&idx=1&sn=8ee55a0201f557e1db192251880f3c11
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.09.09 16:41:51
-      title: 工信部印发《信息通信行业发展“十五五”规划》，健全数据保护体系
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520793&idx=1&sn=686a97a64e35560a7a954a4988c8e752
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.09.09 16:41:51
-      title: 中央网信办等七部门联合印发《促进数字化绿色化协同转型发展实施方案（2026-2030年）》（附答记者问、一图读懂）
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520793&idx=2&sn=26e4a54953a8f7896aa5e2140dff8b59
-    - author: coderwhy
-      release_time: 2026.09.09 14:50:07
-      title: 聊聊《OpenAI解决Navier–Stokes到底有多震撼？》
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247489132&idx=1&sn=b273e2e6582be50b25d6862892dec85e
-    - author: 哆啦安全
-      release_time: 2026.09.09 12:07:33
-      title: Ubuntu20.04通过libimobiledevice工具链连接iPhone 8 Plus
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501303&idx=1&sn=44c83c42faf02af96fb5ff7ddd23fc67
-    - author: 哆啦安全
-      release_time: 2026.09.09 12:07:33
-      title: ChatGPT或Claude官方套餐IOS渠道直充服务
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501303&idx=2&sn=f537651500c84b8161666e5e5c21593d
-    - author: 未闻Code
-      release_time: 2026.09.09 10:01:03
-      title: 因为GPT-6 Astra的爆火，我好像看见了时代的断层。
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991735&idx=1&sn=2368a318cc70911256eae5445ad436b1
-    - author: Coder小Q
-      release_time: 2026.09.09 08:30:00
-      title: 【密码学·采样】正交化与最近格点：Gram-Schmidt 和 Babai 思想
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496502&idx=1&sn=ed2e77a18fb111fc96c3e8c074d57fb0
-    - author: 零基础爬虫第一天
-      release_time: 2026.09.08 21:01:04
-      title: 安卓环境检测4-Java层hook检测
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484804&idx=1&sn=a2cba1ce56b611e59212cad9bbdae2eb
-    - author: coderwhy
-      release_time: 2026.09.08 19:07:01
-      title: GPT-6 Astra到底是不是AGI？ - coderwhy
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247489120&idx=1&sn=77b53b095ad50d121f062bb2686844a4
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.09.08 17:11:50
-      title: 最高法发布《关于依法审理涉人工智能纠纷案件的意见》（附答记者问、一图读懂）
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520700&idx=1&sn=10d7ce4e095f13efde8652791625570f
-    - author: 又菜又爱学逆向
-      release_time: 2026.09.08 16:31:03
-      title: 深度学习-极验叠字点选-yolo-模型调优-高阶
-      url: https://mp.weixin.qq.com/s?__biz=MzY5NzMxMjQ0MQ==&mid=2247484153&idx=1&sn=0911dfe6e716699a1dcaf43a2f924720
-    - author: 又菜又爱学逆向
-      release_time: 2026.09.08 16:30:32
-      title: 深度学习-极验叠字点选-yolo-模型调优-高阶数学-opencv
-      url: https://mp.weixin.qq.com/s?__biz=MzY5NzMxMjQ0MQ==&mid=2247484142&idx=1&sn=d5c944f772c01d90f4df2029e67ce987
-    - author: 逆向有你
-      release_time: 2026.09.08 15:08:30
-      title: 安卓逆向 -- 浅分析某k小说绑定弹窗和会员
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041956&idx=1&sn=09a5667ddbda616c4600f3f65993bcdf
-    - author: 沐阳逆向与AI学习
-      release_time: 2026.09.08 09:29:39
-      title: iOS逆向中 Objective-C 为什么相对容易逆向？从一条方法调用说起
-      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484681&idx=1&sn=fa02d29c91a05dc2047cf48599049b5d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -251,6 +251,18 @@
       release_time: 2026.09.13 14:03:00
       title: 小米 BE6500 Pro 通过 set_macfilter_rules 漏洞开启 SSH
       url: https://www.52pojie.cn/thread-2127776-1-1.html
+    - author: JiGuro
+      release_time: 2026.09.12 20:30:00
+      title: 【逆向实战】Cocos2d-Lua 手游从资源解密到打包破解 (下)
+      url: https://www.52pojie.cn/thread-2127702-1-1.html
+    - author: mrx2024
+      release_time: 2026.09.12 18:54:00
+      title: 某知名海外社交 Android 签名链AI逆向分析全流程
+      url: https://www.52pojie.cn/thread-2127692-1-1.html
+    - author: Delov
+      release_time: 2026.09.11 22:06:00
+      title: 某小说软件逆向
+      url: https://www.52pojie.cn/thread-2127578-1-1.html
     - author: thesky123
       release_time: 2026.09.10 20:55:00
       title: 猿人学第一题 js混淆-源码乱码
@@ -355,25 +367,29 @@
       release_time: 2026.08.13 16:02:00
       title: Frida Gadget免root环境记录
       url: https://www.52pojie.cn/thread-2122813-1-1.html
-    - author: 李恒道
-      release_time: 2026.08.13 00:03:00
-      title: 小蓝鸟 x-client-transaction-id 追溯分析
-      url: https://www.52pojie.cn/thread-2122687-1-1.html
-    - author: fyrlove
-      release_time: 2026.08.12 10:50:00
-      title: r0re 自动逆向分析工具实战记录：全通看雪 Android CTF，完整使用指南和源码解析
-      url: https://www.52pojie.cn/thread-2122552-1-1.html
-    - author: Liyunpeng
-      release_time: 2026.08.12 10:13:00
-      title: 针对天天跳绳逆向抓包，刷作业的研究
-      url: https://www.52pojie.cn/thread-2122540-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 用户ptqqXPAYzK
+      release_time: 2026.09.14 19:34:00
+      title: 病毒0基础入门之PE文件格式及利用
+      url: https://xz.aliyun.com/news/92822
+    - author: LeoChen..
+      release_time: 2026.09.14 18:00:52
+      title: '[原创]Android 某6零免费版 DexVMP 恢复工作流框架：还原成可运行的正常程序,仅供学习研究'
+      url: https://bbs.kanxue.com/thread-292951.htm
+    - author: 北袅
+      release_time: 2026.09.14 16:16:44
+      title: '[原创]bangbang加固企业版分析'
+      url: https://bbs.kanxue.com/thread-292948.htm
     - author: 太岁又沐风
       release_time: 2026.09.14 00:23:00
       title: 中某某动APP算法AI分析-一句话全自动分析网络请求和加密算法
       url: https://bbs.kanxue.com/thread-292939.htm
+    - author: 用户QTItbAcDut
+      release_time: 2026.09.13 22:52:00
+      title: Android App WebView JSBridge任意页面凭证窃取漏洞挖掘案例分析
+      url: https://xz.aliyun.com/news/92826
     - author: Ann945
       release_time: 2026.09.13 22:01:48
       title: '[原创]jcc记牌器java层和native层分析'
@@ -474,22 +490,6 @@
       release_time: 2026.09.03 21:48:55
       title: '[原创]最强逆向大模型GLM-5.3无道德无限制驱动Frida Stalker绕过银行某梆检测'
       url: https://bbs.kanxue.com/thread-292853.htm
-    - author: 伊苏尔德
-      release_time: 2026.09.03 21:22:54
-      title: '[讨论]ks did到底在检测啥'
-      url: https://bbs.kanxue.com/thread-292852.htm
-    - author: 世界美景
-      release_time: 2026.09.03 16:10:25
-      title: '[原创]一台"锁死"的 Pixel 7 自救记：把 GhostLock 内核漏洞移植到真机 root'
-      url: https://bbs.kanxue.com/thread-292846.htm
-    - author: permanent011
-      release_time: 2026.09.03 11:40:01
-      title: '[原创]从死亡现象反推检测点：一次检测链路定位方法论'
-      url: https://bbs.kanxue.com/thread-292844.htm
-    - author: 扁舟·TF
-      release_time: 2026.09.02 18:21:30
-      title: K3S 基础命令集
-      url: https://blog.csdn.net/weixin_44791631/article/details/164298708
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
