@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.09.16 12:20:53
+      title: serpapi谷歌搜索九宫格不跳九宫格的关键-10个IP简单测试
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485063&idx=1&sn=6fe38cfca1ab8487840586cd77d5a47c
+    - author: 软件安全与逆向分析
+      release_time: 2026.09.16 11:07:11
+      title: 安卓Pixel设备最新免解锁Root方案
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485467&idx=1&sn=9d5fd685054053ef5bba72c1c6c8b816
+    - author: 影17
+      release_time: 2026.09.16 11:05:27
+      title: 某影视APP-P2P去签实战
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247490819&idx=1&sn=c94b8aa9693b5fcb24c0042b185a57c9
     - author: 逆向有你
       release_time: 2026.09.16 09:32:57
       title: 安卓逆向 -- AI跑通unidbg调用sgmain生成某ckey参数
@@ -232,18 +244,6 @@
       release_time: 2026.09.11 11:47:43
       title: 出海菲律宾、墨西哥：获客、中收与实时风控的新解法
       url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650197260&idx=1&sn=ebef61f43b2a6e4039a65f67c2e3acd7
-    - author: 小小杨学编程
-      release_time: 2026.09.11 10:07:22
-      title: DataDome无感验证补环境
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484799&idx=1&sn=c99a18bcc76a7ff08dedf2daaef9e0ea
-    - author: Coder小Q
-      release_time: 2026.09.11 08:30:00
-      title: 【密码学·采样】从钟形曲线到格点：连续、离散与格高斯
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496781&idx=1&sn=86104af90a6c86026e5f40e901d20637
-    - author: 未闻Code
-      release_time: 2026.09.10 19:05:00
-      title: a16z 合伙人深度访谈：科技圈最大的误判，是以为大众真的想用 AI 提高效率
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991739&idx=1&sn=782e845c70032f65521b2cadf73bc76b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
