@@ -124,6 +124,30 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 进击的HACK
+      release_time: 2026.09.16 19:31:23
+      title: 火山引擎coding plan配置claude code
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490531&idx=1&sn=b0a38e07e44fb515687e9f21ab21d0d3
+    - author: coderwhy
+      release_time: 2026.09.16 17:00:00
+      title: coderwhy漫画 - Anthropic、OpenAI、马斯克关于 “AI 安全”
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247489331&idx=1&sn=4b7d035526d209706802a5b0955a55d3
+    - author: 布鲁的Python之旅
+      release_time: 2026.09.16 16:51:07
+      title: 【TaskPyro爬虫管理平台2.3.8】一次隐蔽的内存问题排查：特定条件下才会现形
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486521&idx=1&sn=9b949afe19c2d9324d6641568f0915f7
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.09.16 16:29:36
+      title: 国家网信办发布近期网络安全、数据安全、个人信息保护等领域执法典型案例
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520826&idx=1&sn=8f66c82f88d31bd9e7792a56f79c183c
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.09.16 16:29:36
+      title: 2026年国家网络安全宣传周汽车数据安全论坛举办，共探汽车数据安全治理与可信流通
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520826&idx=2&sn=421bb0bb22d88123694da79339b0ef71
+    - author: 哆啦安全
+      release_time: 2026.09.16 14:58:38
+      title: Android逆向密码学基础：HEX/Base64/MD5识别与MessageDigest通杀Hook
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501358&idx=1&sn=fd1f3a9b38007622c201381f5cc3a601
     - author: 如意私塾
       release_time: 2026.09.16 12:20:53
       title: serpapi谷歌搜索九宫格不跳九宫格的关键-10个IP简单测试
@@ -172,6 +196,10 @@
       release_time: 2026.09.14 16:39:59
       title: Android安全隐私合规智能检测工具V5.6
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501350&idx=1&sn=1b6710f29c7f34f13c4908237fa67347
+    - author: coderwhy
+      release_time: 2026.09.14 15:16:58
+      title: 漫画讲解知识系列
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247489159&idx=1&sn=bb3aa1a52677976e981052f92d2c5200
     - author: 吴见午
       release_time: 2026.09.14 09:40:40
       title: 解锁只是开始：红米 Note 11 4G 无账号 BL 解锁后的 Root 全记录
@@ -216,34 +244,6 @@
       release_time: 2026.09.13 22:00:00
       title: r0browser公测开始！
       url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486291&idx=4&sn=15e0a166d4ffda8e807ac34f1c1c8ff6
-    - author: 上海电特安隐私安全运营技术
-      release_time: 2026.09.13 22:00:00
-      title: iPhone8越狱手机iOS16逆向学习机永不变砖随便刷机
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486291&idx=5&sn=80b9db8cabfb3a80f9efef72bd7b7780
-    - author: 上海电特安隐私安全运营技术
-      release_time: 2026.09.13 22:00:00
-      title: iPhoneSE2代越狱手机iOS18逆向学习机
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486291&idx=6&sn=c1af9493bc6405624a5b928a5f1adf3b
-    - author: 吴见午
-      release_time: 2026.09.13 02:26:46
-      title: 免账号解BL锁AI实操全记录之红米Note11-4G
-      url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484859&idx=1&sn=80facdb2c26bb39e47709b4ef9f82d95
-    - author: 爬虫逆向小林哥
-      release_time: 2026.09.11 21:00:00
-      title: 金九银十，放水了！！！
-      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487392&idx=1&sn=fc4235024de062fafe8e89bb299662ca
-    - author: 哆啦安全
-      release_time: 2026.09.11 18:03:38
-      title: Android逆向关键代码定位：加密字符串搜不到？抓包、Hook点与沙盒换思路
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501316&idx=1&sn=d81a562befa1fcc68fbf8644d2382922
-    - author: 小小杨学编程
-      release_time: 2026.09.11 12:17:00
-      title: 一文速通控制流平坦化
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484812&idx=1&sn=391df6a4af9fafc439b73584784cafc4
-    - author: 小伍哥聊风控
-      release_time: 2026.09.11 11:47:43
-      title: 出海菲律宾、墨西哥：获客、中收与实时风控的新解法
-      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650197260&idx=1&sn=ebef61f43b2a6e4039a65f67c2e3acd7
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
