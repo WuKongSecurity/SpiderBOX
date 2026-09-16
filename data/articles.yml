@@ -2,6 +2,10 @@
   list:
   - links:
     - author: B站用户骚神
+      release_time: 2026.09.16 08:57:00
+      title: 新版骚神插件实机演示
+      url: https://www.bilibili.com/video/BV1Tfes6zE8U
+    - author: B站用户骚神
       release_time: 2026.09.14 11:05:04
       title: 【骚神插件9.9.3】全新版本！鼠标点几下就可获取高质量DrissionPage爬虫代码
       url: https://www.bilibili.com/video/BV1hgYr6pEEt
@@ -117,13 +121,17 @@
       release_time: 2026.08.24 13:31:07
       title: 术数浅析一
       url: https://www.bilibili.com/video/BV1b68v6oEqf
-    - author: 如意-浏览器开发培训
-      release_time: 2026.08.24 11:15:04
-      title: JS逆向终结计划过PX盾
-      url: https://www.bilibili.com/video/BV1rG8Y6MEJz
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2026.09.16 09:32:57
+      title: 安卓逆向 -- AI跑通unidbg调用sgmain生成某ckey参数
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652042004&idx=1&sn=83b0588d1a84838b40dfeb2a7dd3705c
+    - author: Coder小Q
+      release_time: 2026.09.16 08:30:00
+      title: 【密码学·采样】LWE：给线性方程加入多少噪声才合适
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496847&idx=1&sn=b13888c88cd69595464a52bad0872dec
     - author: 个人信息与数据保护实务评论
       release_time: 2026.09.15 16:08:14
       title: 国家网信办发布数据出境安全管理政策法规问答，明确个人信息出境认证的适用情形
@@ -236,14 +244,6 @@
       release_time: 2026.09.10 19:05:00
       title: a16z 合伙人深度访谈：科技圈最大的误判，是以为大众真的想用 AI 提高效率
       url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991739&idx=1&sn=782e845c70032f65521b2cadf73bc76b
-    - author: 菜鸟学Python编程
-      release_time: 2026.09.10 17:35:18
-      title: JS逆向|使用AI逆向某网站的kasada加密参数
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566701&idx=1&sn=d1caf98b135485007f67c60caf54e05a
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.09.10 16:04:57
-      title: AI生成动态人脸视频攻破“刷脸”认证？江苏检察机关披露相关案件
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520804&idx=1&sn=71e4a26d77f546b83197b04dbb787345
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
