@@ -1269,60 +1269,75 @@
 
     - name: 指纹浏览器
       links:
-        - title: 比特浏览器
-          logo: bitbrowser.png
-          url: https://www.bitbrowser.cn/?code=Nxxnh5
-          description: 比特指纹浏览器，也是防关联指纹浏览器、跨境电商浏览器，能多开浏览器窗口、多登账号，防关联和防封号，跨境账号的安全管理专家，轻松管理您的跨境大生意，真正做到防关联封号的超级浏览器、跨境电商指纹浏览器
-        - title: NstBrowser
-          logo: nstbrowser.png
-          no_referral: true
-          url: https://app.nstbrowser.io/r/spiderbox
-          description: 可绕过 cloudflare，免费的反检测指纹浏览器&企业级云端浏览器方案，无缝接入云端集群服务，让网页抓取和自动化更简单的解决方案
-        - title: DuoPlus 指纹云手机
-          logo: duoplus.png
-          no_referral: true
-          url: https://www.duoplus.cn/share/SpiderBox
-          description: DuoPlus 云手机，专注打造全球社媒营销、Tiktok、游戏挂机专用云手机，助您社媒营销全球化，开启全球社媒营销新境界
+        # ad ===========================================
         - title: BrightData Scraping Browser
           logo: brightdata.png
           no_referral: true
           url: https://get.brightdata.com/sbitbob
           description: 远程连接指纹浏览器，运行您的 Puppeteer、Selenium 和 Playwright 脚本，并利用内置的 Captcha Solver 自动解决验证码，维护抓取和浏览器基础设施的运营开销为零
-        - title: AdsPower
-          logo: adspower.png
-          no_referral: true
-          url: https://share.adspower.net/7f6Oro
-          description: 跨境多账号安全管理指纹浏览器
-        - title: HubStudio
-          logo: hubstudio.jpg
-          no_referral: true
-          url: http://suo.im/90xP0
-          description: Hubstudio 为跨境商家提供安全的指纹浏览器，最专业的跨平台多账户管理系统，超过20w用户的选择
-        - title: 候鸟浏览器
-          logo: mbbrowser.png
-          no_referral: true
-          url: https://www.mbbrowser.com/aff/?code=OYX2B8QR
-          description: 为多账号防关联而生的指纹浏览器，得益于军用级别的防护技术，保护你免受任何识别的尝试。独特的用户画像预制，刚好帮到您
-        - title: VMLogin
-          logo: vmlogin.png
-          url: https://www.vmlogin.cc/
-          description: VMLogin 指纹浏览器是一款通过模拟不同设备的软硬件指纹信息，实现一台电脑同时多开浏览器分身，每个防关联浏览器独立 IP，适用于跨境电商亚马逊、eBay，社媒营销 FB、Twitter、Google 等多平台账号防关联批量管理安全浏览器
-        - title: OkBrowser 指纹浏览器
-          logo: okbrow.png
-          url: https://okbrow.com/
-          description: OKBrowser 是一款专注于 多账号安全管理与隐私保护 的指纹浏览器。它通过高度可定制的浏览器指纹模拟技术，帮助用户在同一台设备上创建多个独立的浏览器环境，从而有效避免账号之间的关联和风控
+        # 浏览器 20% + 云手机 10% ========================
+        - title: 比特浏览器
+          logo: bitbrowser.png
+          url: https://www.bitbrowser.cn/?code=Nxxnh5
+          description: 比特指纹浏览器，也是防关联指纹浏览器、跨境电商浏览器，能多开浏览器窗口、多登账号，防关联和防封号，跨境账号的安全管理专家，轻松管理您的跨境大生意，真正做到防关联封号的超级浏览器、跨境电商指纹浏览器
         - title: MostLogin 浏览器
           logo: mostlogin.png
           no_referral: true
           # url: https://www.mostlogin.com/?invite-code=spiderbox1
-          url: https://www.mostlogin.com/zh?invite-code=f21d29ea
+          # url: https://www.mostlogin.com/zh?invite-code=f21d29ea
+          url: https://www.mostlogin.com/zh?invite-code=spiderbox01
           description: MostLogin 指纹浏览器 + 云手机，超高性价比，支持 IP 代理配置、MCP、API、团队协作
-        # 20% ====================
+        # 20% ==========================================
         - title: gemlogin
           logo: gemlogin.png
           no_referral: true
           url: https://app.gemlogin.vn/register?ref=31786
           description: GemLogin，一个无需代码的平台，可自动执行浏览器和手机反检测，账户管理 & 浏览器自动化，全球领先的拖放式 Antidetect 浏览器自动化平台
+        # 10% ==========================================
+        - title: NstBrowser
+          logo: nstbrowser.png
+          no_referral: true
+          url: https://app.nstbrowser.io/r/spiderbox
+          description: 可绕过 cloudflare，免费的反检测指纹浏览器&企业级云端浏览器方案，无缝接入云端集群服务，让网页抓取和自动化更简单的解决方案
+        # 36 个月 20% ===================================
+        - title: HubStudio
+          logo: hubstudio.jpg
+          no_referral: true
+          # url: http://suo.im/90xP0
+          url: https://www.hubstudio.cn/m/spiderbox
+          description: Hubstudio 为跨境商家提供安全的指纹浏览器，最专业的跨平台多账户管理系统，超过 20w 用户的选择
+        # 24 个月 10% ===================================
+        - title: FlashID
+          logo: flashid.png
+          url: https://www.flashid.net/share/spiderbox
+          description: FlashID 是一款专为跨境电商、广告、海外社交媒体营销而设计的防检测浏览器。它通过模拟浏览器指纹提供账号矩阵管理，允许在一台计算机上打开多个窗口。FlashID 适用于跨境电商、亚马逊、Facebook、谷歌、TikTok 和 Shopee 等各种平台
+        - title: DuoPlus 指纹云手机
+          logo: duoplus.png
+          no_referral: true
+          # url: https://www.duoplus.cn/share/SpiderBox # 友链给的
+          url: https://www.duoplus.cn/share/spiderbox
+          description: DuoPlus 云手机，专注打造全球社媒营销、Tiktok、游戏挂机专用云手机，助您社媒营销全球化，开启全球社媒营销新境界
+        - title: AdsPower
+          logo: adspower.png
+          no_referral: true
+          # url: https://share.adspower.net/7f6Oro
+          url: https://www.adspower.com/share/spiderbox
+          description: AdsPower 指纹浏览器是一款为跨境业务提供账号矩阵营销管理专用指纹浏览器，深耕浏览器指纹，一站式解决账号访问管理的烦恼，ads 超级浏览器可实现浏览器多开和灵活高效团队管理协作
+        # 梯度 5% ~ 20% =================================
+        - title: 候鸟浏览器
+          logo: mbbrowser.png
+          no_referral: true
+          url: https://www.mbbrowser.com/aff/?code=OYX2B8QR
+          description: 为多账号防关联而生的指纹浏览器，得益于军用级别的防护技术，保护你免受任何识别的尝试。独特的用户画像预制，刚好帮到您
+        # 不支持推广 =====================================
+        - title: VMLogin
+          logo: vmlogin.png
+          url: https://www.vmlogin.cc/
+          description: VMLogin 指纹浏览器是一款通过模拟不同设备的软硬件指纹信息，实现一台电脑同时多开浏览器分身，每个防关联浏览器独立 IP，适用于跨境电商亚马逊、eBay，社媒营销 FB、Twitter、Google 等多平台账号防关联批量管理安全浏览器
+#        - title: OkBrowser 指纹浏览器
+#          logo: okbrow.png
+#          url: https://okbrow.com/
+#          description: OKBrowser 是一款专注于 多账号安全管理与隐私保护 的指纹浏览器。它通过高度可定制的浏览器指纹模拟技术，帮助用户在同一台设备上创建多个独立的浏览器环境，从而有效避免账号之间的关联和风控
         - title: Lightpanda Browser
           logo: lightpanda-io.browser.png
           url: https://lightpanda.io/
@@ -3111,6 +3126,13 @@
 #          url: http://clue.xiecaiyun.com/reg/?channel=Y-wt-bob
 #          description: 【需实名】协采云九年深耕，百万级代理节点，自由调度！资源分池，客户间物理隔离，互不干扰！深度定制，代理池私有化部署，安全灵活！
 
+        # 10% 特殊调整后 50% ==============================
+        - title: IPIPGO 全球住宅 IP
+          logo: ipipgo.jpg
+          no_referral: true
+          url: https://www.ipipgo.com?inviteLink=rd7HwjlR
+          description: 【需实名】IPIPGO 全球住宅 IP，企业级海外代理IP服务商，汇集全球 245 个国家/地区的 9000 万家庭住宅 IP，涵盖静态、动态、原生跨境专线等方案，提供全面的免费测试，确保满足您的业务需求
+
         # 30% ==============================
         - title: 有代理
           logo: youdaili.png
@@ -3124,13 +3146,6 @@
           no_referral: true
           url: https://h.shenlongip.com/?did=rhjMjbI9
           description: 【需实名】神龙 HTTP — 高效网络代理云服务 国内三大运营商正规授权，业务级严选IP资源，可用率高达 99.83%； 全栈式业务场景分析，提供 1V1 定制服务
-
-        # 10% ==============================
-        - title: IPIPGO 全球住宅 IP
-          logo: ipipgo.jpg
-          no_referral: true
-          url: https://www.ipipgo.com?inviteLink=rd7HwjlR
-          description: 【需实名】IPIPGO 全球住宅 IP，企业级海外代理IP服务商，汇集全球 245 个国家/地区的 9000 万家庭住宅 IP，涵盖静态、动态、原生跨境专线等方案，提供全面的免费测试，确保满足您的业务需求
 
         # 8% ==============================
         - title: IPWO
@@ -3203,6 +3218,11 @@
           no_referral: true
           url: https://www.duckip.cn/?ref=GPZDGH
           description: 【需实名】达可云 9000 万全球住宅 IP，覆盖 195+ 国家和地区，适用于电商、社媒运营、数据采集等业务，注册免费测试 500M
+        - title: 一点云
+          logo: abityun.png
+          no_referral: true
+          url: https://www.abityun.com/#/?sn=1550198844511326208
+          description: 【需实名】一点云是一家专业的 HTTP 代理 IP 服务提供商，拥有基础平价池 40 万 - 120 万独立 IP、纯净高匿池 300 万独立 IP，高匿稳定，全国城市精准覆盖，企业级合规商用代理，数据采集、电商比价、舆情监控首选
 
         # 不支持推广 ========================
         - title: 天启 HTTP
@@ -3510,6 +3530,11 @@
           no_referral: true
           url: https://www.nextproxy.com/r/spiderbox
           description: 提供 1 亿+ 高纯度住宅 IP，基于真实家庭网络，配合指纹隔离，降低账号关联与风控概率
+        - title: XOProxy
+          logo: xoproxy.png
+          no_referral: true
+          url: https://www.xoproxy.com/signup?invite_code=4UQYFE
+          description: XOProxy 提供面向全球业务的住宅代理网络，覆盖 195+ 个国家和地区，支持动态与静态住宅 IP、企业级代理解决方案、先进的数据提取服务与个性化技术支持，助力业务稳定扩展与持续增长
 
         # 8% ==============================
         - title: IPRocket

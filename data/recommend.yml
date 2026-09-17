@@ -17,6 +17,13 @@
     #      logo: spidergrc.png
     #      url: https://spidergrc.cn/
     #      description: 虫规 - 数据采集合规性建设
+
+    # 10% 特殊调整后 50% ==============================
+    - title: IPIPGO 全球住宅 IP
+      logo: ipipgo.jpg
+      no_referral: true
+      url: https://www.ipipgo.com?inviteLink=rd7HwjlR
+      description: 【需实名】IPIPGO 全球住宅 IP，企业级海外代理IP服务商，汇集全球 245 个国家/地区的 9000 万家庭住宅 IP，涵盖静态、动态、原生跨境专线等方案，提供全面的免费测试，确保满足您的业务需求
     - title: xfastapi
       url: https://xfastapi.ai/register?aff=WFBDBY4ZVLUQ
       logo: xfastapi.png
@@ -86,10 +93,10 @@
       logo: AntiDebug_Breaker.png
       url: https://github.com/0xsdeo/AntiDebug_Breaker
       description: 反调试破除者，提供各种 Hook、绕过无限 Debugger、Vue 渗透测试等功能
-    - title: DrissionPage
-      logo: drissionpage.png
-      url: https://github.com/g1879/DrissionPage
-      description: 基于python的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和requests的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少
+#    - title: DrissionPage
+#      logo: drissionpage.png
+#      url: https://github.com/g1879/DrissionPage
+#      description: 基于python的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和requests的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少
     - title: 猿人学·爬虫逆向进阶课
       logo: yuanrenxue.jpg
       url: https://shop45147253.m.youzan.com/wscgoods/detail/2okabph85ypv1
