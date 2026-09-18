@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 小小杨学编程
+      release_time: 2026.09.18 20:21:00
+      title: 谷歌搜索SG_SS
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484819&idx=1&sn=ff05b8de29c78ad2dd5bc7613a1a7320
+    - author: 未闻Code
+      release_time: 2026.09.18 20:20:04
+      title: Python Namespace Package：一个看似简单，却容易踩坑的机制
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991754&idx=1&sn=0c7566fb0fc35aa7ae2645c66f8a40c6
     - author: coderwhy
       release_time: 2026.09.18 15:16:32
       title: coderwhy漫画 - 漫游AI的发展史
@@ -236,14 +244,6 @@
       release_time: 2026.09.14 18:55:32
       title: Cyber-Model-1 使用体验
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490527&idx=1&sn=cf4d10ea869677d86152779dc5ee5d25
-    - author: 哆啦安全
-      release_time: 2026.09.14 16:39:59
-      title: Android安全隐私合规智能检测工具V5.6
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501350&idx=1&sn=1b6710f29c7f34f13c4908237fa67347
-    - author: coderwhy
-      release_time: 2026.09.14 15:16:58
-      title: 漫画讲解知识系列
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247489159&idx=1&sn=bb3aa1a52677976e981052f92d2c5200
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
