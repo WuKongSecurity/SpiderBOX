@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: Alone逆向安全
+      release_time: 2026.09.18 21:30:40
+      title: 安卓逆向(进阶)ttd 结合llvm ir提升反编译vmp的优雅打法
+      url: https://www.bilibili.com/video/BV1C1e26oEvf
     - author: AngelToms
       release_time: 2026.09.18 14:02:46
       title: UPX压缩pack1
@@ -117,13 +121,13 @@
       release_time: 2026.08.25 00:50:27
       title: 密码学补完计划[第四十三期] PBKDF2
       url: https://www.bilibili.com/video/BV1qEhN6WEZK
-    - author: 旭旭爬虫
-      release_time: 2026.08.24 21:23:26
-      title: 沃尔玛px3的流程分析和需要注意的坑点
-      url: https://www.bilibili.com/video/BV1AthK6TEoG
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.09.18 23:27:47
+      title: 智谱或已成为杭州事实上的第一互联网巨头——从全城coding运动掌握全城git数据
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485085&idx=1&sn=fb629ede0c4ce3f8fbfe435831494054
     - author: 小小杨学编程
       release_time: 2026.09.18 20:21:00
       title: 谷歌搜索SG_SS
@@ -240,10 +244,6 @@
       release_time: 2026.09.15 10:33:37
       title: 某IOS端即时通讯 App 私有传输层(mmtls)逆向:从流量捕获到协议还原
       url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550505&idx=1&sn=05be7746fac3ad39ad1a3ff53b8e869b
-    - author: 进击的HACK
-      release_time: 2026.09.14 18:55:32
-      title: Cyber-Model-1 使用体验
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490527&idx=1&sn=cf4d10ea869677d86152779dc5ee5d25
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
