@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: AngelToms
+      release_time: 2026.09.18 14:02:46
+      title: UPX压缩pack1
+      url: https://www.bilibili.com/video/BV1uXe16PEqe
     - author: B站用户骚神
       release_time: 2026.09.16 08:57:00
       title: 新版骚神插件实机演示
@@ -117,13 +121,13 @@
       release_time: 2026.08.24 21:23:26
       title: 沃尔玛px3的流程分析和需要注意的坑点
       url: https://www.bilibili.com/video/BV1AthK6TEoG
-    - author: AngelToms
-      release_time: 2026.08.24 13:31:07
-      title: 术数浅析一
-      url: https://www.bilibili.com/video/BV1b68v6oEqf
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: coderwhy
+      release_time: 2026.09.18 15:16:32
+      title: coderwhy漫画 - 漫游AI的发展史
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247489720&idx=1&sn=6bc5261f9ebadb41c98c01d86d9f1c76
     - author: 沐阳逆向与AI学习
       release_time: 2026.09.18 10:13:08
       title: 这个只会做选择题的Jev，却是今年我看到的最特别的大模型。
@@ -240,13 +244,13 @@
       release_time: 2026.09.14 15:16:58
       title: 漫画讲解知识系列
       url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247489159&idx=1&sn=bb3aa1a52677976e981052f92d2c5200
-    - author: 吴见午
-      release_time: 2026.09.14 09:40:40
-      title: 解锁只是开始：红米 Note 11 4G 无账号 BL 解锁后的 Root 全记录
-      url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484882&idx=1&sn=cc138bc190edf8fe29ef6d685b747be7
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 403Forbidden
+      release_time: 2026.09.17 01:29:00
+      title: 【逆向分析】某验4代滑块验证码纯算还原——从抓包到全参数纯算
+      url: https://www.52pojie.cn/thread-2128465-1-1.html
     - author: wolfSpicy
       release_time: 2026.09.16 00:21:00
       title: Drissionpage焦点伪造检测点
@@ -363,10 +367,6 @@
       release_time: 2026.08.15 22:02:00
       title: 快手 VMP 分析与还原
       url: https://www.52pojie.cn/thread-2123217-1-1.html
-    - author: EvalShell857
-      release_time: 2026.08.13 23:22:00
-      title: Allsafe靶场全解
-      url: https://www.52pojie.cn/thread-2122890-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
