@@ -124,6 +124,46 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 沐阳逆向与AI学习
+      release_time: 2026.09.18 10:13:08
+      title: 这个只会做选择题的Jev，却是今年我看到的最特别的大模型。
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484692&idx=1&sn=610e3cf801c7ac26e12a62d857dd0040
+    - author: Spade sec
+      release_time: 2026.09.18 09:00:00
+      title: Antidebug Breaker 更新 mcp skills
+      url: https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247487007&idx=1&sn=987bcfcdeb88a940b9dd42dd887508af
+    - author: 挖个洞先
+      release_time: 2026.09.18 04:31:07
+      title: 【闲聊】0918最近在干啥+接项目
+      url: https://mp.weixin.qq.com/s?__biz=MzkyNjY3OTI4Ng==&mid=2247486179&idx=1&sn=14dbcbe678d058f006ab996affb4c5c6
+    - author: 进击的HACK
+      release_time: 2026.09.17 21:03:48
+      title: AntiDebug_Breaker 更新 mcp + skills 与使用
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247490535&idx=1&sn=5a06cf70e1ae1ac70f284eb832853c6e
+    - author: 零基础爬虫第一天
+      release_time: 2026.09.17 20:21:52
+      title: 安卓指纹修改1-apm模块记录
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484812&idx=1&sn=7c185dd4cd751c19740d4b0b0573e86b
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.09.17 17:01:54
+      title: 公安部公布10起网络安全行政执法典型案例 涉及数据泄露、个人信息违规采集等问题
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520835&idx=1&sn=99a9c0d9d18107b8342e70dcfd519a4f
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.09.17 17:01:54
+      title: 江苏省通信管理局下架10款未完成整改的侵害用户权益APP
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520835&idx=2&sn=97583a65994c70f42d696db872cba8ba
+    - author: 布鲁的Python之旅
+      release_time: 2026.09.17 17:01:23
+      title: Web 逆向与安全攻防实战-阿里系安全防护体系Ⅰ
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486549&idx=1&sn=a629cfdf873b981a89a481cff8f4fb37
+    - author: 极验
+      release_time: 2026.09.17 16:00:00
+      title: 一号一券，拦住了“一个”，拦不住“一批"
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724704&idx=1&sn=8e9b851aeb5c0f3f12307fa33ef40692
+    - author: 菜鸟学Python编程
+      release_time: 2026.09.17 11:50:00
+      title: JS逆向|使用AI逆向某网站的F5 Shape加密参数
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566717&idx=1&sn=4465d25fd520b91546aa3c86328434d9
     - author: 进击的HACK
       release_time: 2026.09.16 19:31:23
       title: 火山引擎coding plan配置claude code
@@ -204,46 +244,6 @@
       release_time: 2026.09.14 09:40:40
       title: 解锁只是开始：红米 Note 11 4G 无账号 BL 解锁后的 Root 全记录
       url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484882&idx=1&sn=cc138bc190edf8fe29ef6d685b747be7
-    - author: 小伍哥聊风控
-      release_time: 2026.09.14 08:39:00
-      title: 黑灰产想绕过规则的缝隙，因此大模型风控的重点不一定在模型，而在规则和Prompt
-      url: https://mp.weixin.qq.com/s?__biz=MzA4OTAwMjY2Nw==&mid=2650197275&idx=1&sn=de2a79f06eb899d1ffcdf30fb767fc67
-    - author: 测试工程师成长之路
-      release_time: 2026.09.14 08:30:00
-      title: 别再凭感觉测AI了：手把手教你构建黄金数据集，50条就能跑起来
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579399&idx=1&sn=a8bdd52bd08442c2c16dd95099d7cafe
-    - author: Coder小Q
-      release_time: 2026.09.14 08:30:00
-      title: 【密码学·采样】平滑参数的直觉：噪声何时能抹去格的纹理
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496822&idx=1&sn=2ae8c558b91e82be1383f8a201c79a4c
-    - author: 小陈iOS逆向与安全
-      release_time: 2026.09.14 08:02:00
-      title: 像搭积木一样，做个微信机器人：自动发群，已开源！
-      url: https://mp.weixin.qq.com/s?__biz=MjM5MjEzMDAzMg==&mid=2257485188&idx=1&sn=f2e50dbb6541e1d5f45e021c9e286159
-    - author: 小陈iOS逆向与安全
-      release_time: 2026.09.14 02:03:51
-      title: RPReplay_Final1789314666
-      url: https://mp.weixin.qq.com/s?__biz=MjM5MjEzMDAzMg==&mid=2257485176&idx=1&sn=c8c6a6bb41f7238f2f9c9281c6a6cc87
-    - author: R逆向
-      release_time: 2026.09.14 00:26:53
-      title: 中国移动APP-AI全自动逆向分析加密算法
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NjA3Mw==&mid=2247483874&idx=1&sn=ecdd367bfe2844c4fda1d3ee0c828b34
-    - author: 上海电特安隐私安全运营技术
-      release_time: 2026.09.13 22:00:00
-      title: 《iOS课程》更新29.iPhone8刷rootless&roothide与SE2代i0S18刷多巴胺
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486291&idx=1&sn=f4b75d471779d19354f8eecd2e0d5c57
-    - author: 上海电特安隐私安全运营技术
-      release_time: 2026.09.13 22:00:00
-      title: 奋斗者计划，助你升职加薪|阿里云、米哈游、阿里巴巴直推
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486291&idx=2&sn=7885d348a1ebb658ae119c2787caec71
-    - author: 上海电特安隐私安全运营技术
-      release_time: 2026.09.13 22:00:00
-      title: r0dump16脱壳机一加9安卓16秒脱海外金融企业壳DexProtector
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486291&idx=3&sn=3ca854f95f2be9248cad96754cd201d5
-    - author: 上海电特安隐私安全运营技术
-      release_time: 2026.09.13 22:00:00
-      title: r0browser公测开始！
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486291&idx=4&sn=15e0a166d4ffda8e807ac34f1c1c8ff6
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
