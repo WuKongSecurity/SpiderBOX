@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2026.09.19 18:40:52
+      title: 网页版DeepSeek+DrissionPage，不花一分钱搞定各大网站验证码！！
+      url: https://www.bilibili.com/video/BV1Eweb6PEFy
     - author: Alone逆向安全
       release_time: 2026.09.18 21:30:40
       title: 安卓逆向(进阶)ttd 结合llvm ir提升反编译vmp的优雅打法
@@ -117,13 +121,13 @@
       release_time: 2026.08.28 11:22:57
       title: 术数浅析二
       url: https://www.bilibili.com/video/BV1ke4f6ME75
-    - author: EithanSolace
-      release_time: 2026.08.25 00:50:27
-      title: 密码学补完计划[第四十三期] PBKDF2
-      url: https://www.bilibili.com/video/BV1qEhN6WEZK
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 未闻Code
+      release_time: 2026.09.19 10:59:24
+      title: Jev 的一个危险误读：每条判断都合理，最后的结论却很愚蠢
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648991765&idx=1&sn=7fecbb2f502fef37e87ee13f3e18ee29
     - author: 如意私塾
       release_time: 2026.09.18 23:27:47
       title: 智谱或已成为杭州事实上的第一互联网巨头——从全城coding运动掌握全城git数据
@@ -240,10 +244,6 @@
       release_time: 2026.09.15 11:55:14
       title: Android 17内存新机制深度解读：给每个App戴上“紧箍咒”，流氓App的末日到了？低内存手机终于有救了！
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501354&idx=1&sn=b539e5f9101bd44b15f18e816076cb3a
-    - author: 猿人学Python
-      release_time: 2026.09.15 10:33:37
-      title: 某IOS端即时通讯 App 私有传输层(mmtls)逆向:从流量捕获到协议还原
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550505&idx=1&sn=05be7746fac3ad39ad1a3ff53b8e869b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
