@@ -248,6 +248,14 @@
     term: 公众号
   - links:
     - author: '13955925361'
+      release_time: 2026.09.19 18:02:00
+      title: 手动补环境过同花顺网站
+      url: https://www.52pojie.cn/thread-2128911-1-1.html
+    - author: b3nguang
+      release_time: 2026.09.19 16:45:00
+      title: 逆向某 AI 编程工具仓库快照加密
+      url: https://www.52pojie.cn/thread-2128896-1-1.html
+    - author: '13955925361'
       release_time: 2026.09.19 01:28:00
       title: Ai逆向同花顺网站采集数据
       url: https://www.52pojie.cn/thread-2128820-1-1.html
@@ -359,17 +367,17 @@
       release_time: 2026.08.19 23:50:00
       title: 某q音乐jsvmp浅析
       url: https://www.52pojie.cn/thread-2123850-1-1.html
-    - author: ling123
-      release_time: 2026.08.19 15:49:00
-      title: '[Android逆向] 某加速器会员解锁的逆向分析与破解'
-      url: https://www.52pojie.cn/thread-2123778-1-1.html
-    - author: Cencrack
-      release_time: 2026.08.16 19:56:00
-      title: 加固的 Unity 儿童教育（**巴士学汉字） APP：脱壳、签名校验三连、热更 DLL 硬刚
-      url: https://www.52pojie.cn/thread-2123294-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: mb_xpdephnu
+      release_time: 2026.09.20 12:38:50
+      title: '[分享]'
+      url: https://bbs.kanxue.com/thread-292996.htm
+    - author: qqqiu
+      release_time: 2026.09.20 11:06:38
+      title: 从端侧风险检测到策略闭环
+      url: https://bbs.kanxue.com/thread-292994.htm
     - author: 苏泽001
       release_time: 2026.09.15 16:50:48
       title: '[原创]KCTF 第一题（AliCrackme_1 逆向分析过程）'
@@ -482,14 +490,6 @@
       release_time: 2026.09.05 16:36:59
       title: '[原创] 基于图书管理系统的漏洞复现与代码审计（二）：敏感信息泄露与文件上传'
       url: https://bbs.kanxue.com/thread-292870.htm
-    - author: 星野安全
-      release_time: 2026.09.04 19:13:03
-      title: '[原创] 某招聘 App 爱加密抽取壳的内存脱壳与请求签名逆向'
-      url: https://bbs.kanxue.com/thread-292866.htm
-    - author: 俏狐
-      release_time: 2026.09.04 18:18:59
-      title: '[原创]360加固完美脱壳重打包调试报告'
-      url: https://bbs.kanxue.com/thread-292864.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
