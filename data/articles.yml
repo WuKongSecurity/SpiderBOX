@@ -378,6 +378,10 @@
       release_time: 2026.09.20 11:06:38
       title: 从端侧风险检测到策略闭环
       url: https://bbs.kanxue.com/thread-292994.htm
+    - author: 狗都不学爬虫_
+      release_time: 2026.09.15 23:21:45
+      title: AI逆向 - 天御无感点击验证（补+纯）
+      url: https://blog.csdn.net/qq_53444631/article/details/165491904
     - author: 苏泽001
       release_time: 2026.09.15 16:50:48
       title: '[原创]KCTF 第一题（AliCrackme_1 逆向分析过程）'
@@ -486,10 +490,6 @@
       release_time: 2026.09.06 18:44:02
       title: '[原创]paytm  商业 RASP Bugsmirror Defender 环境检测分析'
       url: https://bbs.kanxue.com/thread-292873.htm
-    - author: Jmn314
-      release_time: 2026.09.05 16:36:59
-      title: '[原创] 基于图书管理系统的漏洞复现与代码审计（二）：敏感信息泄露与文件上传'
-      url: https://bbs.kanxue.com/thread-292870.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
