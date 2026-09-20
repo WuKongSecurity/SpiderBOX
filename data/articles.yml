@@ -2,6 +2,10 @@
   list:
   - links:
     - author: B站用户骚神
+      release_time: 2026.09.20 09:07:29
+      title: 骚神插件-网页XPath自动获取和去重
+      url: https://www.bilibili.com/video/BV1KYeY6bExw
+    - author: B站用户骚神
       release_time: 2026.09.19 18:40:52
       title: 网页版DeepSeek+DrissionPage，不花一分钱搞定各大网站验证码！！
       url: https://www.bilibili.com/video/BV1Eweb6PEFy
@@ -117,10 +121,6 @@
       release_time: 2026.08.30 12:27:12
       title: 铭记地牢-无限时间冻结
       url: https://www.bilibili.com/video/BV1kV4D6SEyT
-    - author: AngelToms
-      release_time: 2026.08.28 11:22:57
-      title: 术数浅析二
-      url: https://www.bilibili.com/video/BV1ke4f6ME75
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
