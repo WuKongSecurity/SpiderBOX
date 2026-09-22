@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2026.09.22 15:48:34
+      title: 豆包手机正式版Navix Ultra刚买就退了
+      url: https://www.bilibili.com/video/BV1HQhj6hE5r
+    - author: B站用户骚神
+      release_time: 2026.09.22 13:55:31
+      title: DrissionPage+网页版豆包，搞定5大高难度网页验证码，【文字点选】【图形点选】【九宫格】【空间推理】【空间语义】
+      url: https://www.bilibili.com/video/BV1aSh76DEra
     - author: B站用户骚神
       release_time: 2026.09.20 09:07:29
       title: 骚神插件-网页XPath自动获取和去重
@@ -113,14 +121,6 @@
       release_time: 2026.08.31 04:10:53
       title: Frida 整体启动、特征点、处理方式
       url: https://www.bilibili.com/video/BV1eLtx6KExy
-    - author: AngelToms
-      release_time: 2026.08.30 16:28:04
-      title: 术数浅析-AI带给我们的思考
-      url: https://www.bilibili.com/video/BV1fb4X67Eh8
-    - author: 学逆向的柚子
-      release_time: 2026.08.30 12:27:12
-      title: 铭记地牢-无限时间冻结
-      url: https://www.bilibili.com/video/BV1kV4D6SEyT
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
