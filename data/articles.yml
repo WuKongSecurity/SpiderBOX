@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: AngelToms
+      release_time: 2026.09.23 12:49:43
+      title: UPX压缩pack2
+      url: https://www.bilibili.com/video/BV1ifhx62EDB
     - author: r0ysue
       release_time: 2026.09.22 15:48:34
       title: 豆包手机正式版Navix Ultra刚买就退了
@@ -117,10 +121,6 @@
       release_time: 2026.08.31 11:36:43
       title: 补后续计划
       url: https://www.bilibili.com/video/BV1Katx6sEDn
-    - author: 一只勇敢的小佳
-      release_time: 2026.08.31 04:10:53
-      title: Frida 整体启动、特征点、处理方式
-      url: https://www.bilibili.com/video/BV1eLtx6KExy
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
