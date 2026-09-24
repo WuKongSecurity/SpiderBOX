@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: Breeze_122134
+      release_time: 2026.09.24 22:41:49
+      title: 番茄_字体加密
+      url: https://www.bilibili.com/video/BV1aeaP6EE2t
     - author: AngelToms
       release_time: 2026.09.23 12:49:43
       title: UPX压缩pack2
@@ -117,10 +121,6 @@
       release_time: 2026.08.31 15:21:35
       title: 【DrissionPage CLI】专为AI和agent开发的DrissionPage命令行工具
       url: https://www.bilibili.com/video/BV17Qtt6JEqZ
-    - author: AngelToms
-      release_time: 2026.08.31 11:36:43
-      title: 补后续计划
-      url: https://www.bilibili.com/video/BV1Katx6sEDn
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
