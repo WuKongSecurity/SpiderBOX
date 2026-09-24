@@ -247,6 +247,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: W4nk3r
+      release_time: 2026.09.24 11:14:00
+      title: 注销重注册，无限领新人券：一次APP业务逻辑漏洞的完整剖析
+      url: https://www.52pojie.cn/thread-2129691-1-1.html
+    - author: smartzzx
+      release_time: 2026.09.23 23:08:00
+      title: 九彩盒子升级提示逻辑分析，以及关闭办法。
+      url: https://www.52pojie.cn/thread-2129628-1-1.html
     - author: 狂暴补师亚丝娜
       release_time: 2026.09.22 19:59:00
       title: 安卓自动化测试自研rom和安卓模拟器-踩坑分享
@@ -359,14 +367,6 @@
       release_time: 2026.08.29 10:13:00
       title: 某米主题商店接口逆向分析
       url: https://www.52pojie.cn/thread-2125273-1-1.html
-    - author: Stars313
-      release_time: 2026.08.25 07:50:00
-      title: 某校园跑软件去广告尝试
-      url: https://www.52pojie.cn/thread-2124596-1-1.html
-    - author: zepp7289
-      release_time: 2026.08.23 21:09:00
-      title: qi5uxeel 原理完整剖析：一份风控请求头的还原实录
-      url: https://www.52pojie.cn/thread-2124408-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
