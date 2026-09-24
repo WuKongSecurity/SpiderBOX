@@ -255,6 +255,10 @@
       release_time: 2026.09.23 23:08:00
       title: 九彩盒子升级提示逻辑分析，以及关闭办法。
       url: https://www.52pojie.cn/thread-2129628-1-1.html
+    - author: bugs2000
+      release_time: 2026.09.23 01:13:00
+      title: 如何通过枚举法暴力破解某某车机远程root网站的授权码
+      url: https://www.52pojie.cn/thread-2129460-1-1.html
     - author: 狂暴补师亚丝娜
       release_time: 2026.09.22 19:59:00
       title: 安卓自动化测试自研rom和安卓模拟器-踩坑分享
@@ -363,10 +367,6 @@
       release_time: 2026.08.29 19:00:00
       title: bp+安卓14+KernelSU的app抓包配置问题及解决方法
       url: https://www.52pojie.cn/thread-2125342-1-1.html
-    - author: Bot95
-      release_time: 2026.08.29 10:13:00
-      title: 某米主题商店接口逆向分析
-      url: https://www.52pojie.cn/thread-2125273-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
