@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: xingtuyu01
+      release_time: 2026.09.25 11:03:00
+      title: 两种不同方法突破某NFC工具VIP
+      url: https://www.52pojie.cn/thread-2129814-1-1.html
     - author: W4nk3r
       release_time: 2026.09.24 11:14:00
       title: 注销重注册，无限领新人券：一次APP业务逻辑漏洞的完整剖析
@@ -363,10 +367,6 @@
       release_time: 2026.08.30 16:59:00
       title: 某象滑块纯算逆向分析
       url: https://www.52pojie.cn/thread-2125447-1-1.html
-    - author: LucasBarthak
-      release_time: 2026.08.29 19:00:00
-      title: bp+安卓14+KernelSU的app抓包配置问题及解决方法
-      url: https://www.52pojie.cn/thread-2125342-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
