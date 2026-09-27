@@ -247,6 +247,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: hoshu
+      release_time: 2026.09.26 17:49:00
+      title: 某环逆向 TOP3：反作弊与反调试
+      url: https://www.52pojie.cn/thread-2129956-1-1.html
+    - author: hoshu
+      release_time: 2026.09.26 09:19:00
+      title: 某环逆向top2：原生库(SO)实战分析
+      url: https://www.52pojie.cn/thread-2129904-1-1.html
     - author: 冥界3大法王
       release_time: 2026.09.25 21:49:00
       title: 云追视频 修改记录分享：
@@ -359,14 +367,6 @@
       release_time: 2026.09.01 20:42:00
       title: app设置了代理而导致bp无法抓包问题分析以及解决方法
       url: https://www.52pojie.cn/thread-2125847-1-1.html
-    - author: Chois
-      release_time: 2026.09.01 17:05:00
-      title: 文字点选验证码逆向实战
-      url: https://www.52pojie.cn/thread-2125810-1-1.html
-    - author: '1245124511'
-      release_time: 2026.08.31 11:47:00
-      title: 安卓 APK 逆向经验分享
-      url: https://www.52pojie.cn/thread-2125546-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
