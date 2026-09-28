@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: Atomusk
+      release_time: 2026.09.28 09:58:00
+      title: 某 Android 4.4 TV 设备的提权与持久化机制分析
+      url: https://www.52pojie.cn/thread-2130109-1-1.html
     - author: hoshu
       release_time: 2026.09.26 17:49:00
       title: 某环逆向 TOP3：反作弊与反调试
@@ -255,6 +259,10 @@
       release_time: 2026.09.26 09:19:00
       title: 某环逆向top2：原生库(SO)实战分析
       url: https://www.52pojie.cn/thread-2129904-1-1.html
+    - author: debugal
+      release_time: 2026.09.26 01:42:00
+      title: 借助ai实现咕咚的登录以及上传接口的逆向
+      url: https://www.52pojie.cn/thread-2129895-1-1.html
     - author: 冥界3大法王
       release_time: 2026.09.25 21:49:00
       title: 云追视频 修改记录分享：
@@ -359,17 +367,13 @@
       release_time: 2026.09.04 10:29:00
       title: 匿名 APK 逆向经验分享：从问题定位到可回滚验证
       url: https://www.52pojie.cn/thread-2126299-1-1.html
-    - author: BlueFunny
-      release_time: 2026.09.03 02:46:00
-      title: Fake Location 1.5.2 高危后门分析
-      url: https://www.52pojie.cn/thread-2126060-1-1.html
-    - author: LucasBarthak
-      release_time: 2026.09.01 20:42:00
-      title: app设置了代理而导致bp无法抓包问题分析以及解决方法
-      url: https://www.52pojie.cn/thread-2125847-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Ann945
+      release_time: 2026.09.28 14:02:29
+      title: '[原创]某票务APP-自写SPDY协议网络栈分析'
+      url: https://bbs.kanxue.com/thread-293083.htm
     - author: 太岁又沐风
       release_time: 2026.09.27 23:33:59
       title: '[原创]酷狗音乐AI逆向-10分钟通杀所有IOS加密算法MCP'
@@ -486,10 +490,6 @@
       release_time: 2026.09.07 17:46:21
       title: '[原创]某金融App 登录请求逆向实战：从梆梆加固反 Frida 自毁到 Go 业务层明文抓包'
       url: https://bbs.kanxue.com/thread-292885.htm
-    - author: 狗都不学爬虫_
-      release_time: 2026.09.07 13:19:25
-      title: JS古法逆向 - 某疆阿里v3验证码新版Log2动态设备指纹补环境
-      url: https://blog.csdn.net/qq_53444631/article/details/164456675
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
