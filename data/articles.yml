@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: AE__
+      release_time: 2026.09.29 11:29:16
+      title: '[原创]ACE反作弊 MVM 的分析与还原'
+      url: https://bbs.kanxue.com/thread-293091.htm
     - author: Ann945
       release_time: 2026.09.28 14:02:29
       title: '[原创]某票务APP-自写SPDY协议网络栈分析'
@@ -486,10 +490,6 @@
       release_time: 2026.09.07 18:13:23
       title: '[原创]26企鹅ollvm混淆去除'
       url: https://bbs.kanxue.com/thread-292886.htm
-    - author: xiao_qi_lin
-      release_time: 2026.09.07 17:46:21
-      title: '[原创]某金融App 登录请求逆向实战：从梆梆加固反 Frida 自毁到 Go 业务层明文抓包'
-      url: https://bbs.kanxue.com/thread-292885.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
