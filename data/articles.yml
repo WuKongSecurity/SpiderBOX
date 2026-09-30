@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: EithanSolace
+      release_time: 2026.09.30 16:00:00
+      title: '[MV] 明天只是一场梦...'
+      url: https://www.bilibili.com/video/BV1dwad6cE3W
     - author: 逆向狗都不学
       release_time: 2026.09.29 17:46:10
       title: Android逆向之SO文件结构基础
@@ -117,10 +121,6 @@
       release_time: 2026.09.03 15:00:00
       title: 87.iOS常见的frida检测
       url: https://www.bilibili.com/video/BV1FYt96tErL
-    - author: B站用户骚神
-      release_time: 2026.09.03 14:13:54
-      title: DrissionPage 5.0 震撼来袭，版本重大更新，新增7大黑科技！！
-      url: https://www.bilibili.com/video/BV1oytd6oEWC
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
