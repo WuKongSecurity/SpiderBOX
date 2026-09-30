@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2026.09.30 20:08:30
+      title: AI原生全自动逆向分析汇报机器人r0env2026
+      url: https://www.bilibili.com/video/BV13Yao6fE3s
     - author: EithanSolace
       release_time: 2026.09.30 16:00:00
       title: '[MV] 明天只是一场梦...'
@@ -117,10 +121,6 @@
       release_time: 2026.09.04 18:28:56
       title: Android逆向之加固APK脱壳实战
       url: https://www.bilibili.com/video/BV1yotB6dE79
-    - author: 和沐阳学逆向与Ai
-      release_time: 2026.09.03 15:00:00
-      title: 87.iOS常见的frida检测
-      url: https://www.bilibili.com/video/BV1FYt96tErL
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
