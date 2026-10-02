@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 魔影-马
+      release_time: 2026.10.02 16:10:21
+      title: 字符串解密教程
+      url: https://www.bilibili.com/video/BV1GXa26KEWT
     - author: r0ysue
       release_time: 2026.09.30 20:08:30
       title: AI原生全自动逆向分析汇报机器人r0env2026
@@ -117,10 +121,6 @@
       release_time: 2026.09.05 03:29:18
       title: throwCheckOpen新版本更新修复
       url: https://www.bilibili.com/video/BV14Htk6KEa8
-    - author: 逆向狗都不学
-      release_time: 2026.09.04 18:28:56
-      title: Android逆向之加固APK脱壳实战
-      url: https://www.bilibili.com/video/BV1yotB6dE79
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: rsds0duck
+      release_time: 2026.10.02 21:47:00
+      title: 七神分析之还原篇
+      url: https://www.52pojie.cn/thread-2130745-1-1.html
     - author: Atomusk
       release_time: 2026.09.28 09:58:00
       title: 某 Android 4.4 TV 设备的提权与持久化机制分析
@@ -363,13 +367,21 @@
       release_time: 2026.09.04 22:52:00
       title: 面向复现的逆向工程实践：Hermes 在设备刷写、提权与 Frida 魔改中的自动化能力验证
       url: https://www.52pojie.cn/thread-2126444-1-1.html
-    - author: '1245124511'
-      release_time: 2026.09.04 10:29:00
-      title: 匿名 APK 逆向经验分享：从问题定位到可回滚验证
-      url: https://www.52pojie.cn/thread-2126299-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Topdayplus
+      release_time: 2026.10.02 22:42:35
+      title: '[原创]某记账APP的永久VIP功能和签名绕过等'
+      url: https://bbs.kanxue.com/thread-293133.htm
+    - author: 一只鸭子
+      release_time: 2026.10.02 20:52:25
+      title: '[原创]七神分析之还原篇'
+      url: https://bbs.kanxue.com/thread-293130.htm
+    - author: mb_gtqowwmp
+      release_time: 2026.10.02 12:07:37
+      title: '[转帖][讨论][原创]iOS逆向工程——cronet抓包SSL Pinning'
+      url: https://bbs.kanxue.com/thread-293125.htm
     - author: mb_hfjfruhl
       release_time: 2026.10.01 19:09:35
       title: '[原创]hook libpairipcore.so'
@@ -478,18 +490,6 @@
       release_time: 2026.09.11 00:48:02
       title: '[原创]某盾 HTProtect 全景分析：从加固到 30  模拟器的检测分析'
       url: https://bbs.kanxue.com/thread-292918.htm
-    - author: mb_agxdcibq
-      release_time: 2026.09.10 18:42:34
-      title: '[原创]AI时代下的前端安全加固实践：安全、体积与性能之间的取舍'
-      url: https://bbs.kanxue.com/thread-292917.htm
-    - author: mb_xpdephnu
-      release_time: 2026.09.10 18:18:31
-      title: '[分享][原创]R8 DEX Guard'
-      url: https://bbs.kanxue.com/thread-292915.htm
-    - author: 一只鸭子
-      release_time: 2026.09.10 14:11:11
-      title: '[原创] 用 P-code 做 VMP 还原：一份实战向的 IR 入门'
-      url: https://bbs.kanxue.com/thread-292911.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
