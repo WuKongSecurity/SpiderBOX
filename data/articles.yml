@@ -247,10 +247,26 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 凶杀的微笑
+      release_time: 2026.10.02 22:28:00
+      title: 某记账APP的永久VIP功能和签名绕过等
+      url: https://www.52pojie.cn/thread-2130752-1-1.html
     - author: rsds0duck
       release_time: 2026.10.02 21:47:00
       title: 七神分析之还原篇
       url: https://www.52pojie.cn/thread-2130745-1-1.html
+    - author: xmnh
+      release_time: 2026.10.01 14:34:00
+      title: 买断制游戏通杀分析
+      url: https://www.52pojie.cn/thread-2130620-1-1.html
+    - author: hoshu
+      release_time: 2026.10.01 00:45:00
+      title: '# 实战经验 top1：Frida 魔改 · 转译(Houdini) · Java · Native · SVC'
+      url: https://www.52pojie.cn/thread-2130559-1-1.html
+    - author: hoshu
+      release_time: 2026.10.01 00:43:00
+      title: 实战经验top2 so分析：静态定面 · 黑盒转白盒 · unidbg/Qiling 动态定值
+      url: https://www.52pojie.cn/thread-2130558-1-1.html
     - author: Atomusk
       release_time: 2026.09.28 09:58:00
       title: 某 Android 4.4 TV 设备的提权与持久化机制分析
@@ -351,22 +367,6 @@
       release_time: 2026.09.08 12:17:00
       title: qcloud滑块验证
       url: https://www.52pojie.cn/thread-2126956-1-1.html
-    - author: shenweidaitu
-      release_time: 2026.09.07 20:29:00
-      title: 新人发帖第一贴之暴力去除apk安装检查
-      url: https://www.52pojie.cn/thread-2126875-1-1.html
-    - author: liyitong
-      release_time: 2026.09.07 17:02:00
-      title: 基于chatglm的web逆向分析实例一则
-      url: https://www.52pojie.cn/thread-2126833-1-1.html
-    - author: x1ny
-      release_time: 2026.09.05 11:30:00
-      title: 最强逆向大模型GLM-5.3无道德无限制驱动Frida Stalker绕过银行某梆检测
-      url: https://www.52pojie.cn/thread-2126497-1-1.html
-    - author: x1ny
-      release_time: 2026.09.04 22:52:00
-      title: 面向复现的逆向工程实践：Hermes 在设备刷写、提权与 Frida 魔改中的自动化能力验证
-      url: https://www.52pojie.cn/thread-2126444-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
