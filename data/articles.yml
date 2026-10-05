@@ -1,6 +1,18 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 只记得当时月色溶溶
+      release_time: 2026.10.05 21:01:23
+      title: 液体玻璃imgui
+      url: https://www.bilibili.com/video/BV11NH46gEcG
+    - author: 如意-浏览器开发培训
+      release_time: 2026.10.05 18:27:18
+      title: '[JS逆向终结三期]数美替换格式化检测'
+      url: https://www.bilibili.com/video/BV1eCHW62EkT
+    - author: r0ysue
+      release_time: 2026.10.05 10:56:32
+      title: codex拖滑块验证码
+      url: https://www.bilibili.com/video/BV1KzHp6hEuF
     - author: r0ysue
       release_time: 2026.10.04 20:42:25
       title: codex用cue下象棋，我也能打败李世石
@@ -109,18 +121,6 @@
       release_time: 2026.09.08 13:06:35
       title: UPX简介
       url: https://www.bilibili.com/video/BV1J8bG6GEq3
-    - author: 一只勇敢的小佳
-      release_time: 2026.09.07 12:15:16
-      title: Frida 脚本运行时机与Java.perform的原理
-      url: https://www.bilibili.com/video/BV16Tbw67ExW
-    - author: 小爬菜咦
-      release_time: 2026.09.06 13:37:42
-      title: 控制流与vmp的识别和区分
-      url: https://www.bilibili.com/video/BV1nwbn6eEXk
-    - author: Breeze_122134
-      release_time: 2026.09.05 23:15:21
-      title: app开发，定制化都可以，想要这款的也可以私信
-      url: https://www.bilibili.com/video/BV11FbL68EZ4
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: kongwufang
+      release_time: 2026.10.05 21:25:44
+      title: '[原创]酷安数字联盟逆向'
+      url: https://bbs.kanxue.com/thread-293149.htm
     - author: 北袅
       release_time: 2026.10.04 23:26:48
       title: '[原创]安卓16脱壳移植'
@@ -486,10 +490,6 @@
       release_time: 2026.09.12 11:44:49
       title: '[原创]ReArk v1.0.0 全新发布！Android APK/AAB 逆向支持'
       url: https://bbs.kanxue.com/thread-292931.htm
-    - author: 馨禧
-      release_time: 2026.09.11 23:30:39
-      title: '[原创]新手学逆向之某加速vip解锁'
-      url: https://bbs.kanxue.com/thread-292929.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
