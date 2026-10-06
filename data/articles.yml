@@ -247,6 +247,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: Defienite
+      release_time: 2026.10.06 16:48:00
+      title: 清单自习室永久会员
+      url: https://www.52pojie.cn/thread-2131131-1-1.html
+    - author: FinSectech
+      release_time: 2026.10.04 21:21:00
+      title: r0env2026：AI 自动化安全研究环境
+      url: https://www.52pojie.cn/thread-2130961-1-1.html
     - author: Bot95
       release_time: 2026.10.03 17:59:00
       title: 【Android】清浊 2.1.9 逆向分析
@@ -359,14 +367,6 @@
       release_time: 2026.09.11 22:06:00
       title: 某小说软件逆向
       url: https://www.52pojie.cn/thread-2127578-1-1.html
-    - author: thesky123
-      release_time: 2026.09.10 20:55:00
-      title: 猿人学第一题 js混淆-源码乱码
-      url: https://www.52pojie.cn/thread-2127389-1-1.html
-    - author: rsds0duck
-      release_time: 2026.09.09 12:25:00
-      title: 七神VMP分析
-      url: https://www.52pojie.cn/thread-2127122-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
