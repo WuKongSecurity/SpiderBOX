@@ -124,6 +124,34 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2026.10.08 17:46:37
+      title: Kindle 第八代救砖实录
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144741&idx=1&sn=9823f911c1bfca5c75e91d643e150eb7
+    - author: 哆啦安全
+      release_time: 2026.10.08 17:07:45
+      title: 十年铁律被打破：vphone-cli实现纯虚拟化FairPlay密钥提取，iOS逆向不再需要真机
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501426&idx=1&sn=2dea9db776874ee651578899d0686808
+    - author: 桐梓坡低手
+      release_time: 2026.10.08 17:07:17
+      title: 自研skill探索某y验证码
+      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247484066&idx=1&sn=e6652f9b0a0a3c2f62c6797b66818e31
+    - author: coderwhy
+      release_time: 2026.10.08 16:39:25
+      title: coderwhy漫画 - AI原理《Transformer 为什么需要很多双“眼睛”？》
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247490090&idx=1&sn=8aea5a40e8a97ebe7ab37bc391fe7562
+    - author: 如意私塾
+      release_time: 2026.10.08 16:37:43
+      title: 字节验证码纯算-抖店滑块-jsvmp+wasm+伪代码的vmp
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485115&idx=1&sn=292efea95a764c08c8de9d8e46bb8db1
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.10.08 16:19:02
+      title: 《公安机关网络空间安全监督检查办法》10月起施行，公安网安检查从网络运营者延伸至数据处理者
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520910&idx=1&sn=cf663a1dad4c3ace42f8ab6687b42477
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.10.08 16:19:02
+      title: 北京发布“十五五”数智发展规划，提出完善数据交易、个人数据授权和跨境流动制度
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520910&idx=2&sn=a2d690a08661fe2a37dcf2329ba1398d
     - author: Coder小Q
       release_time: 2026.10.08 08:30:00
       title: 【杂谈】把秘密藏进数学里：后量子密码的数学原理
@@ -136,6 +164,10 @@
       release_time: 2026.10.06 16:43:01
       title: ChatGPT和Claude官方套餐充值
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501417&idx=1&sn=57a01308e8f94ccdd424b78275a06261
+    - author: 如意私塾
+      release_time: 2026.10.05 21:52:19
+      title: 破解DRM国际数字版权验证-Netflix/spotify浏览器本地下载
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485099&idx=1&sn=a6df67e8121347ccc1e8fc4d519743e9
     - author: 哆啦安全
       release_time: 2026.10.05 09:21:38
       title: 不用重启、不碰内核！OnyxZygisk让Zygisk 开箱即用，Root 还能彻底隐身？
@@ -148,10 +180,42 @@
       release_time: 2026.10.04 20:22:55
       title: 当模型学会静态脱壳：MiniMax 移动逆向实测
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486175&idx=1&sn=cae0a2508cda036b8289e2e40fa3f82d
+    - author: 吾爱破解论坛
+      release_time: 2026.10.01 08:13:26
+      title: 技术向善，吾爱有光
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144730&idx=1&sn=3e91d2cf0e3247eb2ef931e7fb6e4539
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.09.30 15:55:11
+      title: 2026年世界互联网大会乌镇峰会新闻发布会在北京举行
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520892&idx=1&sn=a69c7d566aab93057a0c421cae0b8f6a
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.09.30 15:55:11
+      title: 美国上诉法院作出里程碑判决，涉及人工智能训练语料的知识产权问题
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520892&idx=2&sn=52797a398bc455046faedc56d70a5f9a
     - author: 哆啦安全
       release_time: 2026.09.30 13:06:18
       title: 当厂商开始收回钥匙2026年，Android Root还剩哪几条路？
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501410&idx=1&sn=8364c7cf2e81b0328ae07fc36c6440c0
+    - author: coderwhy
+      release_time: 2026.09.29 17:02:52
+      title: coderwhy漫画 - 蒸馏到底是怎么一回事？
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247490032&idx=1&sn=240df644f92f00911f01a4c54ea99275
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.09.29 16:52:09
+      title: TikTok撤回针对英国ICO处罚的上诉，接受1,270万英镑罚款并配合儿童数据调查
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520885&idx=1&sn=4395553be78cdcb33bdf536a4acb431c
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.09.29 16:52:09
+      title: 公安部公布2起拒不履行信息网络安全管理义务罪典型案例
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520885&idx=2&sn=2717406aae6c46b3798f0b4216a01baf
+    - author: 如意私塾
+      release_time: 2026.09.26 18:09:11
+      title: 突破DRM国际数字版权验证-迪士尼Disney浏览器本地下载
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485108&idx=1&sn=15e1037c4c86801c40e65d0ab616b434
+    - author: 吾爱破解论坛
+      release_time: 2026.09.25 08:13:38
+      title: 把乡愁写进栈帧，出栈时就是团圆
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144717&idx=1&sn=58ce187fcd2bda53afb9f6c6186256d5
     - author: coderwhy
       release_time: 2026.09.24 16:00:00
       title: coderwhy漫画 - AI原理《Attention 是如何工作的？》
@@ -180,70 +244,6 @@
       release_time: 2026.09.23 16:29:00
       title: 国家计算机病毒应急处理中心检测发现82款违法违规收集使用个人信息的移动应用
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520869&idx=1&sn=8efe8eeb84e6ca7d0a5b963f363c6d3f
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.09.23 16:29:00
-      title: 贵州通信管理局开展重点工业企业网络安全“体检” 筑牢工业领域网络安全防线
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520869&idx=2&sn=ec84009b0b064a3b984c9f7016bd0bf6
-    - author: 软件安全与逆向分析
-      release_time: 2026.09.23 14:58:44
-      title: 安卓完美云机蜚卓通多开压测，无头骑士可干到App的78多开
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485493&idx=1&sn=c4cd5d7cc4c129c4073f64eb896fc9d0
-    - author: LK安全
-      release_time: 2026.09.23 10:19:00
-      title: 记一次从信息泄露出发再到拿下目标的渗透测试之旅
-      url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486886&idx=1&sn=bbf980dda7c61d62d8937a93a5907b7b
-    - author: Coder小Q
-      release_time: 2026.09.23 08:30:00
-      title: 【密码学·采样】噪声的安全窗口：太小容易攻击，太大无法解密
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496893&idx=1&sn=162eeeb5a9e68af1dff47df3c3c2b385
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.09.22 16:30:41
-      title: 谷歌因违反GDPR中有关位置数据处理的规定被罚4.03亿欧元
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520867&idx=1&sn=bb3a8040033fe0bcb8810e75aad5a5ee
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.09.22 16:30:41
-      title: 广东省通信管理局公开通报21款未按要求完成整改的APP
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520867&idx=2&sn=e7103c59969379ed62761937dc24a41d
-    - author: 哆啦安全
-      release_time: 2026.09.22 12:03:02
-      title: ChatGPT | Android逆向智能分析工具V1.7
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501393&idx=1&sn=696b83bb105f9e2312fe2c0185d4f24d
-    - author: R逆向
-      release_time: 2026.09.22 11:32:02
-      title: 山东航空AI逆向-为何我们常说总有些东西是AI代替不了的？
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NjA3Mw==&mid=2247483897&idx=1&sn=b00d59229a0b99d3c084d9fba54aaecc
-    - author: Coder小Q
-      release_time: 2026.09.22 08:30:00
-      title: 【杂谈】Polar-KEM 当前 C 实现中的共享密钥公开恢复问题
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496892&idx=1&sn=1b6a8e418ea51ca59c7ae80c26a5ae93
-    - author: 吴见午
-      release_time: 2026.09.21 21:35:57
-      title: 从一张 Jev 微信聊天信息意图分析截图到一个能用的插件：iOS 复现实录
-      url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484889&idx=1&sn=f8de4ae6b116869a4e50bafc30183200
-    - author: coderwhy
-      release_time: 2026.09.21 17:00:00
-      title: coderwhy漫画 - AI原理《在 Transformer 出现之前，AI 是怎么读一句话的？》
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247489815&idx=1&sn=4bbb7d1f20665cc39e85ca4d45cabe53
-    - author: 無色逆向
-      release_time: 2026.09.21 16:47:30
-      title: Google reCAPTCHA v3 逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MjYyNTgxMQ==&mid=2247484886&idx=1&sn=8ddaa32aea6305a40f778f894123160d
-    - author: 极验
-      release_time: 2026.09.21 16:00:00
-      title: 连续四年获信通院认可：Agent 时代，行为验证为什么更值钱了？
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724734&idx=1&sn=31f05887d05c82a2d277dbdac211d9a3
-    - author: 布鲁的Python之旅
-      release_time: 2026.09.21 15:07:08
-      title: Web 逆向与安全攻防实战-阿里系安全防护体系Ⅱ
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486565&idx=1&sn=1f97f0f105ac214ff8765f85bf24f936
-    - author: 沐阳逆向与AI学习
-      release_time: 2026.09.21 10:00:00
-      title: 安卓、iOS 魔改 Frida 免费分享，附内核隐藏模块和检测 App
-      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484697&idx=1&sn=946180ffc6475096039449c7618d6d23
-    - author: Coder小Q
-      release_time: 2026.09.21 08:30:00
-      title: 【杂谈】84 个候选算法，新一代商用密码算法全球征集活动公开算法
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496879&idx=1&sn=88dad1cb3cb213ca6268f9851a3ee831
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
