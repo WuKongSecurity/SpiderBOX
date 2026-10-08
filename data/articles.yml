@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2026.10.08 13:41:03
+      title: Dragon English 基本英文100句（完整版中英对照）
+      url: https://www.bilibili.com/video/BV1aYHS6JEF9
+    - author: AngelToms
+      release_time: 2026.10.08 12:39:24
+      title: UPX压缩pack3-pack4
+      url: https://www.bilibili.com/video/BV1JcHD6cETN
     - author: 只记得当时月色溶溶
       release_time: 2026.10.07 14:33:52
       title: imgui液体玻璃开源
@@ -113,14 +121,6 @@
       release_time: 2026.09.11 13:54:21
       title: 某音评论采集
       url: https://www.bilibili.com/video/BV1QPYj6nEzY
-    - author: AngelToms
-      release_time: 2026.09.11 12:01:16
-      title: UPX压缩前的检测
-      url: https://www.bilibili.com/video/BV1EmYV6WESL
-    - author: 和沐阳学逆向与Ai
-      release_time: 2026.09.11 10:13:44
-      title: 87.A12和A13__iPhone手机18系统使用surrealra1n与 usbliter8 漏洞降级并越狱iOS完整流程- XSMAX为例子
-      url: https://www.bilibili.com/video/BV1uPY56kERa
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
