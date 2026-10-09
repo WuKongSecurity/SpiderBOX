@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: D_Wave
+      release_time: 2026.10.09 21:09:44
+      title: '[原创]《安卓逆向负基础之正向开发实践》01：MuzicBox 项目规划与工程创建'
+      url: https://bbs.kanxue.com/thread-293182.htm
     - author: mb_hfjfruhl
       release_time: 2026.10.09 15:32:10
       title: '[原创] 某外卖软件密钥生成算法分析'
@@ -486,10 +490,6 @@
       release_time: 2026.09.14 19:34:00
       title: 病毒0基础入门之PE文件格式及利用
       url: https://xz.aliyun.com/news/92822
-    - author: LeoChen..
-      release_time: 2026.09.14 18:00:52
-      title: '[原创]Android 某6零免费版 DexVMP 恢复工作流框架：还原成可运行的正常程序,仅供学习研究'
-      url: https://bbs.kanxue.com/thread-292951.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
