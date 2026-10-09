@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Python成长路
+      release_time: 2026.10.09 12:34:53
+      title: 六款免费的多平台文章视频发布工具
+      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486364&idx=1&sn=498f9df2d684330ea4d5b97770973d1d
+    - author: Coder小Q
+      release_time: 2026.10.09 08:30:00
+      title: 【密码学·采样】格签名的危险偏移：为什么签名会慢慢泄露私钥
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247497317&idx=1&sn=252075eb8db9c4f8eb96d2456c19ef51
+    - author: 吾爱破解论坛
+      release_time: 2026.10.09 08:30:00
+      title: Binary Ninja 5.3.9434 Personal 授权逻辑分析
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144762&idx=1&sn=47d718167205b9117fabb51f1a0218d0
     - author: 吾爱破解论坛
       release_time: 2026.10.08 17:46:37
       title: Kindle 第八代救砖实录
@@ -208,6 +220,10 @@
       release_time: 2026.09.29 16:52:09
       title: 公安部公布2起拒不履行信息网络安全管理义务罪典型案例
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520885&idx=2&sn=2717406aae6c46b3798f0b4216a01baf
+    - author: Coder小Q
+      release_time: 2026.09.28 08:31:53
+      title: 【密码学·采样】SIS、陷门与短原像：为什么输出不能暴露秘密基
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496916&idx=1&sn=92592bfe2eb4c51bbf5c24c8b8fbcbf0
     - author: 如意私塾
       release_time: 2026.09.26 18:09:11
       title: 突破DRM国际数字版权验证-迪士尼Disney浏览器本地下载
@@ -228,22 +244,6 @@
       release_time: 2026.09.24 09:30:00
       title: iv8库使用手册-完整版
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjM5MTU3Ng==&mid=2247483917&idx=1&sn=7defc547d4eb78c8dbd2d2cbdba28e2c
-    - author: 挖个洞先
-      release_time: 2026.09.24 01:07:44
-      title: 【客户端安全】代理绕过127监听CDP+Websocket协议未授权RCE漏洞
-      url: https://mp.weixin.qq.com/s?__biz=MzkyNjY3OTI4Ng==&mid=2247486205&idx=1&sn=41e25d3a1bdc5f867274d6d9a0421f12
-    - author: 吴见午
-      release_time: 2026.09.23 18:10:08
-      title: 吴小见-安卓端的聊天Jev意图分析助手开发实录
-      url: https://mp.weixin.qq.com/s?__biz=MzI5NDkwNTAyOQ==&mid=2247484910&idx=1&sn=d2cd6643b34d33ac888bdf3c39c83558
-    - author: 随心记事
-      release_time: 2026.09.23 16:58:33
-      title: 再战MuMu模拟器：改完能启动，为什么几分钟又崩了？
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0NTMyNzI4MQ==&mid=2247484983&idx=1&sn=a63371c3da1b84dd6d5be06b7e32d546
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.09.23 16:29:00
-      title: 国家计算机病毒应急处理中心检测发现82款违法违规收集使用个人信息的移动应用
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520869&idx=1&sn=8efe8eeb84e6ca7d0a5b963f363c6d3f
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,18 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: mb_hfjfruhl
+      release_time: 2026.10.09 15:32:10
+      title: '[原创] 某外卖软件密钥生成算法分析'
+      url: https://bbs.kanxue.com/thread-293179.htm
+    - author: Umiade
+      release_time: 2026.10.09 11:37:51
+      title: '[原创]开源一个自用的云手机方案 xenoid'
+      url: https://bbs.kanxue.com/thread-293175.htm
+    - author: Solar安全
+      release_time: 2026.10.09 11:14:50
+      title: '[原创]【勒索预警】国庆期间15家国内企业被同一勒索家族集中上架，疑似针对上市公司'
+      url: https://bbs.kanxue.com/thread-293173.htm
     - author: mb_vhwdzyqo
       release_time: 2026.10.07 20:46:33
       title: '[原创]传奇手游协议分析'
@@ -478,18 +490,6 @@
       release_time: 2026.09.14 18:00:52
       title: '[原创]Android 某6零免费版 DexVMP 恢复工作流框架：还原成可运行的正常程序,仅供学习研究'
       url: https://bbs.kanxue.com/thread-292951.htm
-    - author: 北袅
-      release_time: 2026.09.14 16:16:44
-      title: '[原创]bangbang加固企业版分析'
-      url: https://bbs.kanxue.com/thread-292948.htm
-    - author: 太岁又沐风
-      release_time: 2026.09.14 00:23:00
-      title: 中某某动APP算法AI分析-一句话全自动分析网络请求和加密算法
-      url: https://bbs.kanxue.com/thread-292939.htm
-    - author: 用户QTItbAcDut
-      release_time: 2026.09.13 22:52:00
-      title: Android App WebView JSBridge任意页面凭证窃取漏洞挖掘案例分析
-      url: https://xz.aliyun.com/news/92826
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
