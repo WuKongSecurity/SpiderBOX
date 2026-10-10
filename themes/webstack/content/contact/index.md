@@ -127,6 +127,18 @@ monitor:
         - label: 备注
           key: note
       items:
+        - id: gh_843c03420466
+          name: 又菜又爱学逆向
+          date: 2026.09.08
+          note:
+        - id: gh_9730f6c4efdb
+          name: GH2N
+          date: 2026.08.27
+          note:
+        - id: gh_1dfc3b419268
+          name: 吴见午
+          date: 2026.08.18
+          note:
         - id: gh_7a400ffb698c
           name: 安全逆向分析
           date: 2026.04.29

@@ -271,7 +271,10 @@
           logo: excalidraw.jpg
           url: https://excalidraw.com/
           description: 一款免费开源的手绘风格在线白板工具，支持实时协作和无限画布，无需注册即可直接使用，适合快速绘制草图、思维导图和架构图
-
+        - title: Easydown
+          logo: easydown.png
+          url: https://easydown.org/
+          description: 免费在线视频下载工具，支持 TikTok、YouTube、Twitter (X)、Instagram、Threads、抖音、今日头条、小红书、Bilibili 等平台。无需登录，浏览器中即可完成下载
 
     - name: 抓包工具
       links:
@@ -363,6 +366,10 @@
           logo: github.png
           url: https://github.com/ys1231/appproxy
           description: 基于 flutter 的 android vpn 代理工具，支持 HTTP, SOCKS5 协议
+        - title: TabQA
+          logo: tabqa.png
+          url: https://tabqa.openutx.cn/
+          description: 无需安装 ADB、Android Studio 或桌面抓包工具，在浏览器中实时投屏测试，同步抓取网络请求、页面 Console、异常日志、录屏和截图，让接口问题与操作现场一次对齐
 
     - name: 接口调试
       links:
@@ -806,6 +813,10 @@
           logo: webhook.jpg
           url: https://github.com/valuespider/webHookTools
           description: 阿布的 js 反调试工具
+        - title: BurpCrypto
+          logo: github.png
+          url: https://github.com/whwlsfb/BurpCrypto
+          description: AES/RSA/DES/ExecJs (execute JS encryption code in burpsuite). 支持多种加密算法或直接执行 JS 代码的用于爆破前端加密的 BurpSuite 插件
 
     - name: 混淆/反混淆
       links:
@@ -1075,6 +1086,10 @@
           logo: github.png
           url: https://github.com/phuslu/nginx-ssl-fingerprint
           description: 适用于 nginx 的高性能 ja3 和 http2 指纹模块
+        - title: nginx-tls-stream
+          logo: github.png
+          url: https://github.com/geekbyter/nginx-tls-stream
+          description: 魔改版的 nginx，支持 stream 流，以及协议层的解析各项指纹 tls/ja3/ja4/http2/http3/quic/socket/stream
         - title: 查看 JA4 指纹
           logo: ja4.png
           url: https://ja4db.com/id/
@@ -1139,6 +1154,10 @@
           logo: github.png
           url: https://github.com/YCCDSZXH/proxy-checker-rs
           description: 该存储库提供了一个开源的服务器端 API，用于检测客户端是否在使用代理。检测方法比较 TLS 和 TCP 层的往返时间 (RTT)。这种差异分析有助于识别代理的存在
+        - title: geektls
+          logo: github.png
+          url: https://github.com/geekbyter/geektls
+          description: 多语言 TLS/HTTP 全栈指纹伪造库：对 ClientHello 逐字节可控，覆盖 TLS（JA3/JA4）、HTTP/2（Akamai 指纹 + HPACK 编码策略）、HTTP/3 + QUIC、TCP 四层指纹，提供 Python / Node.js / Go 三种语言的一等 API
         - title: requests-go
           logo: github.png
           url: https://github.com/wangluozhe/requests-go
@@ -3245,7 +3264,7 @@
           description: 【需实名】小象代理是一家专业的优质 HTTP 动态 IP 服务提供商，产品低延迟高可用，稳定可靠，全国自建机房海量 IP，企业级用户首选方案
         - title: 骆驼HTTP代理
           logo: lt.jpg
-          url: https://lthttp.com/
+          url: https://www.lthttp.net/
           description: 【需实名】骆驼 HTTP，全国海量 IP 资源，99%+ 可用率，满足您任何数据服务需求，帮助您轻松进入数据时代，客户经理一对一 7*24 小时服务，为每个企业客户提供优质的 IP 解决方案
 #        - title: IPIDEA 国内版
 #          logo: ipidea.jpg
@@ -4599,6 +4618,18 @@
           logo: gh_7a400ffb698c.jpg
           qrcode: images/qrcode/gh_7a400ffb698c.jpg
           description: 公众号：安全逆向分析
+        - title: 吴见午
+          logo: gh_1dfc3b419268.jpg
+          qrcode: images/qrcode/gh_1dfc3b419268.jpg
+          description: 公众号：吴见午
+        - title: GH2N
+          logo: gh_9730f6c4efdb.jpg
+          qrcode: images/qrcode/gh_9730f6c4efdb.jpg
+          description: 公众号：GH2N
+        - title: 又菜又爱学逆向
+          logo: gh_843c03420466.jpg
+          qrcode: images/qrcode/gh_843c03420466.jpg
+          description: 公众号：又菜又爱学逆向
 #        - title: K哥爬虫
 #          logo: kgepachong.jpg
 #          logo: gh_86aab598880e.jpg
@@ -5884,7 +5915,7 @@
     - term: Skills (网安)
     - term: Harness
     - term: CLI
-    - term: 综合分类
+    - term: 综合分类 (全平台)
   tabs:
     - name: MCP (网页端)
       links:
@@ -6308,9 +6339,17 @@
           url: https://github.com/TsingShui/ida-agent-bridge
           logo: github.png
           description: CLI 优先、无头、AI-Native 的 IDA Pro 分析桥，遵循 Unix 设计哲学。每条命令输出纯文本，与 grep、sort、awk、jq 等工具自然组合；反编译结果实时同步到本地文件系统——Agent 像读文件一样读二进制，脚本像管道一样串联分析流程
+        - title: xiaohongshu-cli
+          url: https://github.com/jackwener/xiaohongshu-cli
+          logo: github.png
+          description: A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API
 
-    - name: 综合分类
+    - name: 综合分类 (全平台)
       links:
+        - title: rea
+          url: https://github.com/morluto/rea
+          logo: github.png
+          description: Reverse Engineer Anything，逆向分析一切，REA 将智能体连接到分析工具，用于检查原生二进制文件、JavaScript 和 Electron 应用、.NET 程序集以及网站。你也可以在终端中使用同样的工具。分析在本机运行，结果包含支撑各项结论的证据和相关限制
         - title: gpt-5.6-instruct
           url: https://github.com/MDX-Tom/gpt-5.6-instruct
           logo: github.png
