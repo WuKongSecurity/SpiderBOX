@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 将往的爬虫逆向日记
+      release_time: 2026.10.10 10:00:00
+      title: Python爬虫进阶：spiderdemo T30 WebSocket+jsvmp题解及详细思路
+      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862643&idx=1&sn=3b336c9408971388d968782a28a244a1
+    - author: 吾爱破解论坛
+      release_time: 2026.10.10 08:00:00
+      title: 逆向PyInstaller打包的产物完整分析过程
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144772&idx=1&sn=59211f3d1b882130b17f7824a5f9de3b
     - author: Python成长路
       release_time: 2026.10.09 12:34:53
       title: 六款免费的多平台文章视频发布工具
@@ -236,14 +244,6 @@
       release_time: 2026.09.24 16:00:00
       title: coderwhy漫画 - AI原理《Attention 是如何工作的？》
       url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247489926&idx=1&sn=01527418a5779defb34a36c0b83024f6
-    - author: 极验
-      release_time: 2026.09.24 16:00:00
-      title: 「已售罄」≠真火爆：请 3 休 13 的票，正在被脚本截胡 【文末有福利~】
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724754&idx=1&sn=1d4f0e7dc8cb5d7ff1ff14e7abf328b0
-    - author: 爬虫逆向技术栈
-      release_time: 2026.09.24 09:30:00
-      title: iv8库使用手册-完整版
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjM5MTU3Ng==&mid=2247483917&idx=1&sn=7defc547d4eb78c8dbd2d2cbdba28e2c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
