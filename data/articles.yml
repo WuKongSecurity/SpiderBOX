@@ -371,6 +371,10 @@
     term: 吾爱破解
   - links:
     - author: D_Wave
+      release_time: 2026.10.10 20:46:34
+      title: '[原创]《安卓逆向负基础之正向开发实践》02：MuzicBox 本地音乐扫描与基础播放'
+      url: https://bbs.kanxue.com/thread-293190.htm
+    - author: D_Wave
       release_time: 2026.10.09 21:09:44
       title: '[原创]《安卓逆向负基础之正向开发实践》01：MuzicBox 项目规划与工程创建'
       url: https://bbs.kanxue.com/thread-293182.htm
@@ -486,10 +490,6 @@
       release_time: 2026.09.15 07:37:08
       title: '[原创]安卓APatch Root方案compat的nofault回退导致被检测'
       url: https://bbs.kanxue.com/thread-292954.htm
-    - author: 用户ptqqXPAYzK
-      release_time: 2026.09.14 19:34:00
-      title: 病毒0基础入门之PE文件格式及利用
-      url: https://xz.aliyun.com/news/92822
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
