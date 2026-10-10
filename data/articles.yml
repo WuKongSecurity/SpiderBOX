@@ -2,6 +2,10 @@
   list:
   - links:
     - author: B站用户骚神
+      release_time: 2026.10.10 15:44:15
+      title: 【骚神插件 9.9.5】重大更新--新增代码录制功能
+      url: https://www.bilibili.com/video/BV1tCpv6gEaV
+    - author: B站用户骚神
       release_time: 2026.10.08 13:41:03
       title: Dragon English 基本英文100句（完整版中英对照）
       url: https://www.bilibili.com/video/BV1aYHS6JEF9
@@ -117,13 +121,21 @@
       release_time: 2026.09.11 15:23:18
       title: 【AI自动逆向】小程序trace工具的使用（xiaojianbang-wmpf-trace）
       url: https://www.bilibili.com/video/BV1JDYL6FEcG
-    - author: Breeze_122134
-      release_time: 2026.09.11 13:54:21
-      title: 某音评论采集
-      url: https://www.bilibili.com/video/BV1QPYj6nEzY
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 极验
+      release_time: 2026.10.10 16:00:00
+      title: “幽灵司机”现身：网约车订单如何被隔空截走？
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724776&idx=1&sn=c53626b26926062e666d4b3ee31e23ce
+    - author: 哆啦安全
+      release_time: 2026.10.10 12:09:21
+      title: 鸿蒙(Android/HarmonyOS)病毒智能检测工具V5.4
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501437&idx=1&sn=6d0a6b489d43410d2e17f4fd20d60c7a
+    - author: 逆向有你
+      release_time: 2026.10.10 11:23:34
+      title: 安卓逆向 -- 某软件的请求加密和响应解密流程
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652042073&idx=1&sn=1a0be57d951a2fbce3d46ffcbb99d6e5
     - author: 将往的爬虫逆向日记
       release_time: 2026.10.10 10:00:00
       title: Python爬虫进阶：spiderdemo T30 WebSocket+jsvmp题解及详细思路
@@ -200,6 +212,10 @@
       release_time: 2026.10.04 20:22:55
       title: 当模型学会静态脱壳：MiniMax 移动逆向实测
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486175&idx=1&sn=cae0a2508cda036b8289e2e40fa3f82d
+    - author: 极验
+      release_time: 2026.10.01 09:01:31
+      title: 盛世华诞，守护同行
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724762&idx=1&sn=63a5396f14146de376d96d6255554c4f
     - author: 吾爱破解论坛
       release_time: 2026.10.01 08:13:26
       title: 技术向善，吾爱有光
@@ -216,6 +232,10 @@
       release_time: 2026.09.30 13:06:18
       title: 当厂商开始收回钥匙2026年，Android Root还剩哪几条路？
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501410&idx=1&sn=8364c7cf2e81b0328ae07fc36c6440c0
+    - author: 布鲁的Python之旅
+      release_time: 2026.09.30 10:34:57
+      title: Web 逆向与安全攻防实战-阿里系安全防护体系Ⅲ
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486578&idx=1&sn=4660efe97dea82aaf0ef761c3fe69281
     - author: coderwhy
       release_time: 2026.09.29 17:02:52
       title: coderwhy漫画 - 蒸馏到底是怎么一回事？
@@ -224,29 +244,13 @@
       release_time: 2026.09.29 16:52:09
       title: TikTok撤回针对英国ICO处罚的上诉，接受1,270万英镑罚款并配合儿童数据调查
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520885&idx=1&sn=4395553be78cdcb33bdf536a4acb431c
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.09.29 16:52:09
-      title: 公安部公布2起拒不履行信息网络安全管理义务罪典型案例
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520885&idx=2&sn=2717406aae6c46b3798f0b4216a01baf
-    - author: Coder小Q
-      release_time: 2026.09.28 08:31:53
-      title: 【密码学·采样】SIS、陷门与短原像：为什么输出不能暴露秘密基
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247496916&idx=1&sn=92592bfe2eb4c51bbf5c24c8b8fbcbf0
-    - author: 如意私塾
-      release_time: 2026.09.26 18:09:11
-      title: 突破DRM国际数字版权验证-迪士尼Disney浏览器本地下载
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485108&idx=1&sn=15e1037c4c86801c40e65d0ab616b434
-    - author: 吾爱破解论坛
-      release_time: 2026.09.25 08:13:38
-      title: 把乡愁写进栈帧，出栈时就是团圆
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144717&idx=1&sn=58ce187fcd2bda53afb9f6c6186256d5
-    - author: coderwhy
-      release_time: 2026.09.24 16:00:00
-      title: coderwhy漫画 - AI原理《Attention 是如何工作的？》
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247489926&idx=1&sn=01527418a5779defb34a36c0b83024f6
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: mysticz
+      release_time: 2026.10.10 09:43:00
+      title: spiderdemo T30 WebSocket+jsvmp题解及详细思路
+      url: https://www.52pojie.cn/thread-2131711-1-1.html
     - author: Defienite
       release_time: 2026.10.06 16:48:00
       title: 清单自习室永久会员
@@ -363,10 +367,6 @@
       release_time: 2026.09.12 18:54:00
       title: 某知名海外社交 Android 签名链AI逆向分析全流程
       url: https://www.52pojie.cn/thread-2127692-1-1.html
-    - author: Delov
-      release_time: 2026.09.11 22:06:00
-      title: 某小说软件逆向
-      url: https://www.52pojie.cn/thread-2127578-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
