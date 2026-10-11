@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 风华Ahu
+      release_time: 2026.10.12 00:52:43
+      title: 几十行代码秒杀datadome! 携手r0ysue姐打造fhv8框架
+      url: https://www.bilibili.com/video/BV1tBpJ6tE5c
     - author: EithanSolace
       release_time: 2026.10.11 18:00:00
       title: 密码学补完计划[第四十六期] RSA(前篇)
@@ -117,10 +121,6 @@
       release_time: 2026.09.12 16:37:26
       title: AI一句话js逆向之某音视频
       url: https://www.bilibili.com/video/BV1M6Y96HEiD
-    - author: Breeze_122134
-      release_time: 2026.09.12 10:01:42
-      title: 瑞数一键通杀
-      url: https://www.bilibili.com/video/BV1kcYS6hEqr
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
