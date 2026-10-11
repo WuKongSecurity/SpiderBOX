@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: EithanSolace
+      release_time: 2026.10.11 18:00:00
+      title: 密码学补完计划[第四十六期] RSA(前篇)
+      url: https://www.bilibili.com/video/BV1Wnpj6VE3p
     - author: B站用户骚神
       release_time: 2026.10.10 15:44:15
       title: 【骚神插件 9.9.5】重大更新--新增代码录制功能
@@ -117,10 +121,6 @@
       release_time: 2026.09.12 10:01:42
       title: 瑞数一键通杀
       url: https://www.bilibili.com/video/BV1kcYS6hEqr
-    - author: 小肩膀-逆向安全培训
-      release_time: 2026.09.11 15:23:18
-      title: 【AI自动逆向】小程序trace工具的使用（xiaojianbang-wmpf-trace）
-      url: https://www.bilibili.com/video/BV1JDYL6FEcG
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: mb_xpdephnu
+      release_time: 2026.10.11 17:28:17
+      title: '# OIOIC 原生编译新一代代码保护方案深度解析'
+      url: https://bbs.kanxue.com/thread-293195.htm
     - author: mb_adiebzjv
       release_time: 2026.10.11 11:12:35
       title: '[讨论]现在还有啥能挡住ai逆向么？'
@@ -378,6 +382,10 @@
       release_time: 2026.10.10 20:46:34
       title: '[原创]《安卓逆向负基础之正向开发实践》02：MuzicBox 本地音乐扫描与基础播放'
       url: https://bbs.kanxue.com/thread-293190.htm
+    - author: inquisiter
+      release_time: 2026.10.09 21:48:35
+      title: '[原创] Android PIN 解锁全链路：Gatekeeper · TEE · KeyMint 与 FBE 密钥解封'
+      url: https://bbs.kanxue.com/thread-293176.htm
     - author: D_Wave
       release_time: 2026.10.09 21:09:44
       title: '[原创]《安卓逆向负基础之正向开发实践》01：MuzicBox 项目规划与工程创建'
@@ -482,14 +490,6 @@
       release_time: 2026.09.20 11:06:38
       title: 从端侧风险检测到策略闭环
       url: https://bbs.kanxue.com/thread-292994.htm
-    - author: 狗都不学爬虫_
-      release_time: 2026.09.15 23:21:45
-      title: AI逆向 - 天御无感点击验证（补+纯）
-      url: https://blog.csdn.net/qq_53444631/article/details/165491904
-    - author: 苏泽001
-      release_time: 2026.09.15 16:50:48
-      title: '[原创]KCTF 第一题（AliCrackme_1 逆向分析过程）'
-      url: https://bbs.kanxue.com/thread-292960.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
