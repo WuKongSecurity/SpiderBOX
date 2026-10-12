@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.10.12 12:42:57
+      title: Android系统智能调试分析工具V7.9
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501456&idx=1&sn=6f5be0005a9900f9f8eb150014eda2d1
     - author: 将往的爬虫逆向日记
       release_time: 2026.10.12 09:59:48
       title: 某里acwv2滑块验证码补环境全流程详细讲解
@@ -240,10 +244,6 @@
       release_time: 2026.10.04 20:22:55
       title: 当模型学会静态脱壳：MiniMax 移动逆向实测
       url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486175&idx=1&sn=cae0a2508cda036b8289e2e40fa3f82d
-    - author: 极验
-      release_time: 2026.10.01 09:01:31
-      title: 盛世华诞，守护同行
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724762&idx=1&sn=63a5396f14146de376d96d6255554c4f
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -251,6 +251,10 @@
       release_time: 2026.10.12 09:54:00
       title: 某里acwv2滑块验证码补环境全流程详细讲解
       url: https://www.52pojie.cn/thread-2132043-1-1.html
+    - author: dahi
+      release_time: 2026.10.12 00:42:00
+      title: 【原创】博喻云管控 Android 客户端 TLS 证书与主机名校验缺失分析
+      url: https://www.52pojie.cn/thread-2131998-1-1.html
     - author: mysticz
       release_time: 2026.10.10 09:43:00
       title: spiderdemo T30 WebSocket+jsvmp题解及详细思路
@@ -363,10 +367,6 @@
       release_time: 2026.09.13 14:03:00
       title: 小米 BE6500 Pro 通过 set_macfilter_rules 漏洞开启 SSH
       url: https://www.52pojie.cn/thread-2127776-1-1.html
-    - author: JiGuro
-      release_time: 2026.09.12 20:30:00
-      title: 【逆向实战】Cocos2d-Lua 手游从资源解密到打包破解 (下)
-      url: https://www.52pojie.cn/thread-2127702-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
