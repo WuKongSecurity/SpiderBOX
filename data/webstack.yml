@@ -6038,6 +6038,10 @@
           url: https://github.com/symgraph/GhidrAssistMCP
           logo: github.png
           description: 一个功能强大的 Ghidra 扩展，提供 MCP 服务器，使 AI 助手和其他工具能够通过标准化 API 与 Ghidra 的逆向工程能力进行交互
+        - title: pyghidra-mcp
+          url: https://github.com/clearbluejar/pyghidra-mcp
+          logo: github.png
+          description: pyghidra-mcp 是一个命令行模型上下文协议服务器，它将 Ghidra 软件的强大分析能力扩展到智能代理和基于大语言模型的工具中。它通过 pyghidra 和 jpype 接口将 Ghidra 的 ProgramAPI 和 FlatProgramAPI 与 Python 连接起来，然后通过模型上下文协议来提供这些功能
         - title: ai-reverse-engineering
           url: https://github.com/biniamf/ai-reverse-engineering
           logo: github.png
@@ -6090,14 +6094,10 @@
           url: https://github.com/1600822305/so-analyzer-mcp
           logo: github.png
           description: Native 库（SO 文件）分析工具，支持 Flutter 应用抓包。免费开源的 IDA Pro 替代品
-        - title: android_proxy_mcp
-          url: https://github.com/zhizhuodemao/android_proxy_mcp
+        - title: so-analyzer-mcp
+          url: https://github.com/AgeloVito/jd-mcp-duo
           logo: github.png
-          description: 基于 MCP 的 Android 抓包服务，让 AI 助手通过自然语言分析网络请求
-        - title: proxypin-mcp-server
-          url: https://github.com/LunFengChen/proxypin-mcp-server
-          logo: github.png
-          description: ProxyPin 的 MCP 服务器，作用通俗点说就是抓包软件有啥功能，ai 都能调用啥功能
+          description: 基于 transformer-api 的 MCP 服务和 CLI 工具集，用于 Java 反编译，复用 jd-gui-duo 的反编译引擎套件，将相同的多引擎反编译和静态分析能力通过 MCP 服务和 CLI 两种方式暴露——MCP 模式下可直接被 AI Agent 调用，CLI 模式适合人工在终端使用或集成到自动化脚本中
         - title: XcodeBuildMCP
           url: https://github.com/getsentry/XcodeBuildMCP
           logo: github.png
@@ -6152,6 +6152,14 @@
           url: https://github.com/bx33661/Wireshark-MCP
           logo: github.png
           description: 将 tshark（及可选的 Wireshark 套件工具）封装为结构化分析接口。支持 Claude Desktop、Claude Code、Cursor、VS Code 等 18+ MCP 客户端
+        - title: android_proxy_mcp
+          url: https://github.com/zhizhuodemao/android_proxy_mcp
+          logo: github.png
+          description: 基于 MCP 的 Android 抓包服务，让 AI 助手通过自然语言分析网络请求
+        - title: proxypin-mcp-server
+          url: https://github.com/LunFengChen/proxypin-mcp-server
+          logo: github.png
+          description: ProxyPin 的 MCP 服务器，作用通俗点说就是抓包软件有啥功能，ai 都能调用啥功能
 
     - name: Skills (网页端)
       links:
