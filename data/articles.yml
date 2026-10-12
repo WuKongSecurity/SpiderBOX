@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 布鲁的Python之旅
+      release_time: 2026.10.12 16:25:39
+      title: 100% 不漏文章、零封号风险、年省 18.8 万——企业级微信公众号全域自动化与数据智能平台
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486614&idx=1&sn=d535e403e7003fb356434a29141fb230
     - author: 哆啦安全
       release_time: 2026.10.12 12:42:57
       title: Android系统智能调试分析工具V7.9
@@ -240,10 +244,6 @@
       release_time: 2026.10.04 23:30:00
       title: AI逆向：04.AI祈福系列④：Agentic全自动逆向系统r0env2026
       url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486314&idx=1&sn=68e5fbff0b7780f8213ade1ec7237d53
-    - author: 二进制磨剑
-      release_time: 2026.10.04 20:22:55
-      title: 当模型学会静态脱壳：MiniMax 移动逆向实测
-      url: https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486175&idx=1&sn=cae0a2508cda036b8289e2e40fa3f82d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -295,6 +295,10 @@
       release_time: 2026.09.28 09:58:00
       title: 某 Android 4.4 TV 设备的提权与持久化机制分析
       url: https://www.52pojie.cn/thread-2130109-1-1.html
+    - author: xiaojiakeji
+      release_time: 2026.09.27 07:32:00
+      title: 某地图 APP 摇一摇广告触发流程分析
+      url: https://www.52pojie.cn/thread-2130000-1-1.html
     - author: hoshu
       release_time: 2026.09.26 17:49:00
       title: 某环逆向 TOP3：反作弊与反调试
@@ -363,13 +367,13 @@
       release_time: 2026.09.14 19:00:00
       title: 某问抓包
       url: https://www.52pojie.cn/thread-2128021-1-1.html
-    - author: 千人千面
-      release_time: 2026.09.13 14:03:00
-      title: 小米 BE6500 Pro 通过 set_macfilter_rules 漏洞开启 SSH
-      url: https://www.52pojie.cn/thread-2127776-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 唱过阡陌
+      release_time: 2026.10.12 21:55:56
+      title: '[原创]从 C++20 协程到 Unity IL2CPP 协程'
+      url: https://bbs.kanxue.com/thread-293204.htm
     - author: mb_xpdephnu
       release_time: 2026.10.11 17:28:17
       title: '# OIOIC 原生编译新一代代码保护方案深度解析'
@@ -486,10 +490,6 @@
       release_time: 2026.09.20 12:38:50
       title: '[分享]'
       url: https://bbs.kanxue.com/thread-292996.htm
-    - author: qqqiu
-      release_time: 2026.09.20 11:06:38
-      title: 从端侧风险检测到策略闭环
-      url: https://bbs.kanxue.com/thread-292994.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
