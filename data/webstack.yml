@@ -6002,6 +6002,10 @@
           url: https://github.com/witchan/ios-mcp
           logo: github.png
           description: 作者陈佬（猿人学讲师），iOS MCP 让 Claude、Codex、Cursor 等 AI 代理真正具备了控制 iPhone 真机的能力。它把截图、点击、输入、UI 读取、App 管理和设备控制等能力统一成一套 MCP 工具，为越狱环境下的 iPhone 自动化、测试、逆向和 AI Agent 落地提供了一种更直接的实现方式
+        - title: hex-rays-ida-mcp-server
+          url: https://hex-rays.com/blog/hex-rays-ida-mcp-server
+          logo: ida.png
+          description: IDA 官方 MCP，这款免费开源软件把你的 IDA 安装环境与 AI 智能体连接起来，使它们能够反汇编、反编译并支持逆向工程任务。它与 Gemini、Qwen、Opus 等模型配合良好，可使用 Claude Code、Codex、Pi 等熟悉的运行框架。在官方内部以恶意软件分析为重点的基准测试中，IDA MCP 的「代码模式」（code mode）架构相比流行的替代方案，将 token 消耗降低了约 20%
         - title: ida-pro-mcp
           url: https://github.com/mrexodia/ida-pro-mcp
           logo: github.png
