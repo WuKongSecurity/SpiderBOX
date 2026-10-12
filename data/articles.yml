@@ -124,6 +124,34 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 将往的爬虫逆向日记
+      release_time: 2026.10.12 09:59:48
+      title: 某里acwv2滑块验证码补环境全流程详细讲解
+      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862653&idx=1&sn=bc3cfe7633bceb4ce2e7f8395351693a
+    - author: 小小杨学编程
+      release_time: 2026.10.12 09:48:26
+      title: reCAPTCHA v2 九宫格、十六宫格验证逆向分析——补环境篇
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484836&idx=1&sn=e003c1e8f55046a0a5e34a4c3c77366b
+    - author: 逆向有你
+      release_time: 2026.10.12 09:23:40
+      title: 安卓逆向 -- 某付费小说逆向-hostnameVerify&sign
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652042121&idx=1&sn=fef1f35b7529d7d4baf6eab28a3c2ef9
+    - author: 将往的爬虫逆向日记
+      release_time: 2026.10.12 09:06:22
+      title: Python爬虫进阶：spiderdemo T30 WebSocket
+      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862648&idx=1&sn=8bdeca237ff1b845eb4dd61db5951d4c
+    - author: 测试工程师成长之路
+      release_time: 2026.10.12 08:30:00
+      title: 这个开源项目有点猛：FIRERPA，竟然把 Android 设备玩出了新高度
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579411&idx=1&sn=acba4403790258618ee7858ee8c798cb
+    - author: Coder小Q
+      release_time: 2026.10.12 08:30:00
+      title: 【密码学·采样】Fiat-Shamir with Aborts：拒绝候选如何隐藏秘密
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247497357&idx=1&sn=6c470360c6e22171a6479fee7ee22ec7
+    - author: 上海电特安隐私安全运营技术
+      release_time: 2026.10.12 00:03:25
+      title: 新课上线：《PY原生V8浏览器高级环境模拟课》
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486325&idx=1&sn=7e6aa95401dabce928aff9b3a0116c2c
     - author: 极验
       release_time: 2026.10.10 16:00:00
       title: “幽灵司机”现身：网约车订单如何被隔空截走？
@@ -216,37 +244,13 @@
       release_time: 2026.10.01 09:01:31
       title: 盛世华诞，守护同行
       url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724762&idx=1&sn=63a5396f14146de376d96d6255554c4f
-    - author: 吾爱破解论坛
-      release_time: 2026.10.01 08:13:26
-      title: 技术向善，吾爱有光
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144730&idx=1&sn=3e91d2cf0e3247eb2ef931e7fb6e4539
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.09.30 15:55:11
-      title: 2026年世界互联网大会乌镇峰会新闻发布会在北京举行
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520892&idx=1&sn=a69c7d566aab93057a0c421cae0b8f6a
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.09.30 15:55:11
-      title: 美国上诉法院作出里程碑判决，涉及人工智能训练语料的知识产权问题
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520892&idx=2&sn=52797a398bc455046faedc56d70a5f9a
-    - author: 哆啦安全
-      release_time: 2026.09.30 13:06:18
-      title: 当厂商开始收回钥匙2026年，Android Root还剩哪几条路？
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501410&idx=1&sn=8364c7cf2e81b0328ae07fc36c6440c0
-    - author: 布鲁的Python之旅
-      release_time: 2026.09.30 10:34:57
-      title: Web 逆向与安全攻防实战-阿里系安全防护体系Ⅲ
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486578&idx=1&sn=4660efe97dea82aaf0ef761c3fe69281
-    - author: coderwhy
-      release_time: 2026.09.29 17:02:52
-      title: coderwhy漫画 - 蒸馏到底是怎么一回事？
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247490032&idx=1&sn=240df644f92f00911f01a4c54ea99275
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.09.29 16:52:09
-      title: TikTok撤回针对英国ICO处罚的上诉，接受1,270万英镑罚款并配合儿童数据调查
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520885&idx=1&sn=4395553be78cdcb33bdf536a4acb431c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: mysticz
+      release_time: 2026.10.12 09:54:00
+      title: 某里acwv2滑块验证码补环境全流程详细讲解
+      url: https://www.52pojie.cn/thread-2132043-1-1.html
     - author: mysticz
       release_time: 2026.10.10 09:43:00
       title: spiderdemo T30 WebSocket+jsvmp题解及详细思路
@@ -363,10 +367,6 @@
       release_time: 2026.09.12 20:30:00
       title: 【逆向实战】Cocos2d-Lua 手游从资源解密到打包破解 (下)
       url: https://www.52pojie.cn/thread-2127702-1-1.html
-    - author: mrx2024
-      release_time: 2026.09.12 18:54:00
-      title: 某知名海外社交 Android 签名链AI逆向分析全流程
-      url: https://www.52pojie.cn/thread-2127692-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
