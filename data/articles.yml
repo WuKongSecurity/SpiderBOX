@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 如意-浏览器开发培训
+      release_time: 2026.10.13 19:17:35
+      title: Jev是什么，opus5.5一句话生成视频告诉你。本视频用fastaitoken.com的opus5.5一句话生成。
+      url: https://www.bilibili.com/video/BV1arpq6JEBD
+    - author: 逆向狗都不学
+      release_time: 2026.10.13 16:10:13
+      title: Android逆向之代码和数据节区
+      url: https://www.bilibili.com/video/BV1hyWw6WEXq
     - author: 风华Ahu
       release_time: 2026.10.12 00:52:43
       title: 几十行代码秒杀datadome! 携手r0ysue姐打造fhv8框架
@@ -113,21 +121,37 @@
       release_time: 2026.09.13 17:40:11
       title: Android逆向之SO文件基础
       url: https://www.bilibili.com/video/BV19XYe66EQw
-    - author: 迪迦不打卡
-      release_time: 2026.09.13 13:15:05
-      title: AI一句话wx小程序逆向之瑞幸咖啡
-      url: https://www.bilibili.com/video/BV1BzYa6rEur
-    - author: 迪迦不打卡
-      release_time: 2026.09.12 16:37:26
-      title: AI一句话js逆向之某音视频
-      url: https://www.bilibili.com/video/BV1M6Y96HEiD
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.10.13 19:39:03
+      title: 现在开始每个人都应该用opus5.5做自媒体
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485127&idx=1&sn=ff8ad8572615cd432f1f9d2577c7ffba
+    - author: coderwhy
+      release_time: 2026.10.13 17:47:50
+      title: Karpathy：其实使用大模型的人，比你想象的少很多
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247490095&idx=1&sn=f1e29ac2f9b9f4114ee89ea54aa0f78e
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.10.13 17:20:35
+      title: 澳大利亚对中国一智能穿戴设备企业展开隐私合规调查
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520926&idx=1&sn=386725258ee89d6498ad8836f7843f92
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.10.13 17:20:35
+      title: 因未按要求完成整改，山西省通信管理局下架16款侵害用户权益App
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520926&idx=2&sn=43707f46c3aec75ba2898c215a4b44ca
+    - author: 桐梓坡低手
+      release_time: 2026.10.13 16:57:14
+      title: 纯算akm思路
+      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247484073&idx=1&sn=9e68e0173df76a98fcc056373d3103d8
     - author: 逆向有你
       release_time: 2026.10.13 10:09:59
       title: 安卓逆向 -- 某手游加密数据破解教程
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652042130&idx=1&sn=3d8d57863dd5b143052bd9e3af162870
+    - author: mz的日记
+      release_time: 2026.10.12 18:29:02
+      title: recaptcha 73 算法
+      url: https://mp.weixin.qq.com/s?__biz=MzkyMjgzMTczMg==&mid=2247483670&idx=1&sn=c2f29274c27a5dc1e8fa2b1c642bebd8
     - author: 布鲁的Python之旅
       release_time: 2026.10.12 16:25:39
       title: 100% 不漏文章、零封号风险、年省 18.8 万——企业级微信公众号全域自动化与数据智能平台
@@ -220,33 +244,13 @@
       release_time: 2026.10.08 16:19:02
       title: 《公安机关网络空间安全监督检查办法》10月起施行，公安网安检查从网络运营者延伸至数据处理者
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520910&idx=1&sn=cf663a1dad4c3ace42f8ab6687b42477
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.10.08 16:19:02
-      title: 北京发布“十五五”数智发展规划，提出完善数据交易、个人数据授权和跨境流动制度
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520910&idx=2&sn=a2d690a08661fe2a37dcf2329ba1398d
-    - author: Coder小Q
-      release_time: 2026.10.08 08:30:00
-      title: 【杂谈】把秘密藏进数学里：后量子密码的数学原理
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247497276&idx=1&sn=50f1c956d81bc64245d54d77c3b53260
-    - author: Python成长路
-      release_time: 2026.10.07 12:40:12
-      title: 视频号下载助手兼容mac和linux
-      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486358&idx=1&sn=48dc8c8bf37e284623e798a8c394d83c
-    - author: 哆啦安全
-      release_time: 2026.10.06 16:43:01
-      title: ChatGPT和Claude官方套餐充值
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501417&idx=1&sn=57a01308e8f94ccdd424b78275a06261
-    - author: 如意私塾
-      release_time: 2026.10.05 21:52:19
-      title: 破解DRM国际数字版权验证-Netflix/spotify浏览器本地下载
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485099&idx=1&sn=a6df67e8121347ccc1e8fc4d519743e9
-    - author: 哆啦安全
-      release_time: 2026.10.05 09:21:38
-      title: 不用重启、不碰内核！OnyxZygisk让Zygisk 开箱即用，Root 还能彻底隐身？
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501415&idx=1&sn=4b17d1a9f40177125eba59f053761e8f
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: '13955925361'
+      release_time: 2026.10.13 16:13:00
+      title: DHL 运单查询
+      url: https://www.52pojie.cn/thread-2132278-1-1.html
     - author: mysticz
       release_time: 2026.10.12 09:54:00
       title: 某里acwv2滑块验证码补环境全流程详细讲解
@@ -255,6 +259,10 @@
       release_time: 2026.10.12 00:42:00
       title: 【原创】博喻云管控 Android 客户端 TLS 证书与主机名校验缺失分析
       url: https://www.52pojie.cn/thread-2131998-1-1.html
+    - author: imgjx
+      release_time: 2026.10.10 20:07:00
+      title: 【算法分析】某 PHP 混淆器 V3.1.0 静态解混淆与防护强度评测
+      url: https://www.52pojie.cn/thread-2131844-1-1.html
     - author: mysticz
       release_time: 2026.10.10 09:43:00
       title: spiderdemo T30 WebSocket+jsvmp题解及详细思路
@@ -359,17 +367,21 @@
       release_time: 2026.09.16 00:21:00
       title: Drissionpage焦点伪造检测点
       url: https://www.52pojie.cn/thread-2128269-1-1.html
-    - author: thesky123
-      release_time: 2026.09.15 04:11:00
-      title: 猿人学第二题 js混淆-动态cookie1
-      url: https://www.52pojie.cn/thread-2128072-1-1.html
-    - author: DoraIsNegro
-      release_time: 2026.09.14 19:00:00
-      title: 某问抓包
-      url: https://www.52pojie.cn/thread-2128021-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: kudos5566
+      release_time: 2026.10.13 23:40:22
+      title: '[原创]从密文SO到Handler语义的对照：两家企业级加固壳的VMP逆向实录'
+      url: https://bbs.kanxue.com/thread-293216.htm
+    - author: w2sfot
+      release_time: 2026.10.13 20:31:30
+      title: ' 压缩 ≠ 加密：前端代码保护的三层实践与踩坑记录 '
+      url: https://blog.csdn.net/w2sft/article/details/167812511
+    - author: Lun_OS
+      release_time: 2026.10.13 13:23:33
+      title: '[原创]安卓root方案APatch SELinux_hide mmap ABI漏洞分析'
+      url: https://bbs.kanxue.com/thread-293210.htm
     - author: wx_蕉下客
       release_time: 2026.10.13 10:51:31
       title: '[原创] 开源一个逆向分析工具'
@@ -478,18 +490,6 @@
       release_time: 2026.10.01 15:54:29
       title: '[原创]基础环境检测与对抗'
       url: https://bbs.kanxue.com/thread-293118.htm
-    - author: 考古学家lx(李玺)
-      release_time: 2026.09.29 16:59:09
-      title: 境外数据采集服务选型指南
-      url: https://blog.csdn.net/weixin_43582101/article/details/165623878
-    - author: AE__
-      release_time: 2026.09.29 11:29:16
-      title: '[原创]ACE反作弊 MVM 的分析与还原'
-      url: https://bbs.kanxue.com/thread-293091.htm
-    - author: Ann945
-      release_time: 2026.09.28 14:02:29
-      title: '[原创]某票务APP-自写SPDY协议网络栈分析'
-      url: https://bbs.kanxue.com/thread-293083.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
