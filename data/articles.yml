@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2026.10.13 10:09:59
+      title: 安卓逆向 -- 某手游加密数据破解教程
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652042130&idx=1&sn=3d8d57863dd5b143052bd9e3af162870
     - author: 布鲁的Python之旅
       release_time: 2026.10.12 16:25:39
       title: 100% 不漏文章、零封号风险、年省 18.8 万——企业级微信公众号全域自动化与数据智能平台
@@ -240,10 +244,6 @@
       release_time: 2026.10.05 09:21:38
       title: 不用重启、不碰内核！OnyxZygisk让Zygisk 开箱即用，Root 还能彻底隐身？
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501415&idx=1&sn=4b17d1a9f40177125eba59f053761e8f
-    - author: 上海电特安隐私安全运营技术
-      release_time: 2026.10.04 23:30:00
-      title: AI逆向：04.AI祈福系列④：Agentic全自动逆向系统r0env2026
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486314&idx=1&sn=68e5fbff0b7780f8213ade1ec7237d53
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,10 +370,22 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: wx_蕉下客
+      release_time: 2026.10.13 10:51:31
+      title: '[原创] 开源一个逆向分析工具'
+      url: https://bbs.kanxue.com/thread-293209.htm
+    - author: 吡啶不是苯氮
+      release_time: 2026.10.13 08:32:21
+      title: '[原创] 去平坦化不是唯一解：用 Unicorn 本地执行还原一个全平坦化的 native 签名'
+      url: https://bbs.kanxue.com/thread-293206.htm
     - author: 唱过阡陌
       release_time: 2026.10.12 21:55:56
       title: '[原创]从 C++20 协程到 Unity IL2CPP 协程'
       url: https://bbs.kanxue.com/thread-293204.htm
+    - author: w2sfot
+      release_time: 2026.10.11 19:13:06
+      title: AI时代，JS加密还有效吗？
+      url: https://blog.csdn.net/w2sft/article/details/167587396
     - author: mb_xpdephnu
       release_time: 2026.10.11 17:28:17
       title: '# OIOIC 原生编译新一代代码保护方案深度解析'
@@ -406,6 +418,10 @@
       release_time: 2026.10.09 11:14:50
       title: '[原创]【勒索预警】国庆期间15家国内企业被同一勒索家族集中上架，疑似针对上市公司'
       url: https://bbs.kanxue.com/thread-293173.htm
+    - author: w2sfot
+      release_time: 2026.10.09 09:44:46
+      title: 【JS加密在线】jsjiami.online（让JavaScript 更安全！）
+      url: https://blog.csdn.net/w2sft/article/details/167362718
     - author: mb_vhwdzyqo
       release_time: 2026.10.07 20:46:33
       title: '[原创]传奇手游协议分析'
@@ -474,22 +490,6 @@
       release_time: 2026.09.28 14:02:29
       title: '[原创]某票务APP-自写SPDY协议网络栈分析'
       url: https://bbs.kanxue.com/thread-293083.htm
-    - author: 太岁又沐风
-      release_time: 2026.09.27 23:33:59
-      title: '[原创]酷狗音乐AI逆向-10分钟通杀所有IOS加密算法MCP'
-      url: https://bbs.kanxue.com/thread-293076.htm
-    - author: mb_pjnmjzup
-      release_time: 2026.09.25 20:01:10
-      title: '[推荐]免解锁BL、免清除数据、无需等待7天，仅凭最基础的ADB调试权限获取临时Root的漏洞利用思路与样本下载渠道汇总'
-      url: https://bbs.kanxue.com/thread-293048.htm
-    - author: 一只鸭子
-      release_time: 2026.09.20 20:56:45
-      title: '[原创]基于 Trace 的 VMP 还原实践文档'
-      url: https://bbs.kanxue.com/thread-293002.htm
-    - author: mb_xpdephnu
-      release_time: 2026.09.20 12:38:50
-      title: '[分享]'
-      url: https://bbs.kanxue.com/thread-292996.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
