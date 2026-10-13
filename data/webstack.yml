@@ -6320,6 +6320,10 @@
 
     - name: Harness
       links:
+        - title: ReArk
+          url: https://github.com/lkimuk/ReArk
+          logo: github.png
+          description: ReArk 是一款面向 HarmonyOS NEXT、Android 和 iOS 应用的桌面逆向与 AI 辅助分析工具。支持打开鸿蒙 .hap、.app、.abc 文件、Android .apk、.aab 包和 iOS .ipa 文件，在同一个工作区中查看代码、资源、元数据、签名及应用运行行为。也可以直接打开 Windows PE、ELF 和 Mach-O 可执行文件进行原生分析
         - title: AlgoKiller
           url: https://github.com/lidongyooo/AlgoKiller
           logo: github.png
