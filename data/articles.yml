@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 咸鱼学Python
+      release_time: 2026.10.14 19:59:21
+      title: 招人 | 微信搜索终端安全实习生 - 深圳
+      url: https://mp.weixin.qq.com/s?__biz=MzIwNDI1NjUxMg==&mid=2651268109&idx=1&sn=28cc8cac44b8ea658c4cfa5792c5f0e8
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.10.14 16:58:38
+      title: 欧盟EDPB通过智能眼镜数据保护声明 明确主体责任分配
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520949&idx=1&sn=4bc5855337efe8ea7122e1053a3fc867
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.10.14 16:58:38
+      title: 西安网信部门典型案例：生成式人工智能服务未进行安全评估出现安全风险被下架
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520949&idx=2&sn=9cd78fd1fac003c9512759d15fd11a40
+    - author: 毫不犹豫使用AI逆向
+      release_time: 2026.10.14 14:49:23
+      title: 某专利最新版瑞数环境差异分析
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDU4MDY3Nw==&mid=2247483975&idx=1&sn=25e118f7cd65233c7908342ee0c69f6b
     - author: Coder小Q
       release_time: 2026.10.14 08:30:00
       title: 【密码学·采样】当“足够接近”不再足够：误差如何累积进安全证明
@@ -228,25 +244,13 @@
       release_time: 2026.10.09 12:34:53
       title: 六款免费的多平台文章视频发布工具
       url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486364&idx=1&sn=498f9df2d684330ea4d5b97770973d1d
-    - author: 轩辕的编程宇宙
-      release_time: 2026.10.09 11:26:38
-      title: 我的Claude Code又又又复活了，简直是做视频的大杀器！
-      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247506685&idx=1&sn=90fe3929cd9c54f048750b28fa287113
-    - author: Coder小Q
-      release_time: 2026.10.09 08:30:00
-      title: 【密码学·采样】格签名的危险偏移：为什么签名会慢慢泄露私钥
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247497317&idx=1&sn=252075eb8db9c4f8eb96d2456c19ef51
-    - author: 吾爱破解论坛
-      release_time: 2026.10.09 08:30:00
-      title: Binary Ninja 5.3.9434 Personal 授权逻辑分析
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144762&idx=1&sn=47d718167205b9117fabb51f1a0218d0
-    - author: 吾爱破解论坛
-      release_time: 2026.10.08 17:46:37
-      title: Kindle 第八代救砖实录
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144741&idx=1&sn=9823f911c1bfca5c75e91d643e150eb7
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: G0dxiyu
+      release_time: 2026.10.14 13:15:00
+      title: 某西北地区校园跑软件静态分析：环境检测、Hook 识别与网易易盾加密链路
+      url: https://www.52pojie.cn/thread-2132435-1-1.html
     - author: '13955925361'
       release_time: 2026.10.13 16:13:00
       title: DHL 运单查询
@@ -287,6 +291,10 @@
       release_time: 2026.10.02 21:47:00
       title: 七神分析之还原篇
       url: https://www.52pojie.cn/thread-2130745-1-1.html
+    - author: Bot95
+      release_time: 2026.10.02 18:55:00
+      title: 椒盐音乐（Salt Player）12.3.2 PRO 功能分析
+      url: https://www.52pojie.cn/thread-2130739-1-1.html
     - author: xmnh
       release_time: 2026.10.01 14:34:00
       title: 买断制游戏通杀分析
@@ -359,14 +367,6 @@
       release_time: 2026.09.19 01:28:00
       title: Ai逆向同花顺网站采集数据
       url: https://www.52pojie.cn/thread-2128820-1-1.html
-    - author: 403Forbidden
-      release_time: 2026.09.17 01:29:00
-      title: 【逆向分析】某验4代滑块验证码纯算还原——从抓包到全参数纯算
-      url: https://www.52pojie.cn/thread-2128465-1-1.html
-    - author: wolfSpicy
-      release_time: 2026.09.16 00:21:00
-      title: Drissionpage焦点伪造检测点
-      url: https://www.52pojie.cn/thread-2128269-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
