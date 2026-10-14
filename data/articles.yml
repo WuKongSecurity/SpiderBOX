@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Coder小Q
+      release_time: 2026.10.14 08:30:00
+      title: 【密码学·采样】当“足够接近”不再足够：误差如何累积进安全证明
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247497403&idx=1&sn=ff1453943f03ccb831a4210986681e17
+    - author: 轩辕的编程宇宙
+      release_time: 2026.10.13 21:03:43
+      title: AI做逆向确实很强，但REA就是一场流量骗局，没有它AI依然很强
+      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247506755&idx=1&sn=cdfebf59c9b06b80df56d5a94892d229
     - author: 如意私塾
       release_time: 2026.10.13 19:39:03
       title: 现在开始每个人都应该用opus5.5做自媒体
@@ -200,6 +208,14 @@
       release_time: 2026.10.10 11:23:34
       title: 安卓逆向 -- 某软件的请求加密和响应解密流程
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652042073&idx=1&sn=1a0be57d951a2fbce3d46ffcbb99d6e5
+    - author: 轩辕的编程宇宙
+      release_time: 2026.10.10 11:21:54
+      title: 一个GitHub的热门项目，让一堆没做过逆向的人又在那天塌了地陷了
+      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247506730&idx=1&sn=67f6351c4a47a66b2b353eef3cd18e4e
+    - author: 轩辕的编程宇宙
+      release_time: 2026.10.10 11:18:44
+      title: Anthropic发布报告披露AI邪门用法，冒充4700个“真人”谈恋爱，亮瞎眼
+      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247506437&idx=1&sn=be4138cc5dd02d222e8271d385c95359
     - author: 将往的爬虫逆向日记
       release_time: 2026.10.10 10:00:00
       title: Python爬虫进阶：spiderdemo T30 WebSocket+jsvmp题解及详细思路
@@ -212,6 +228,10 @@
       release_time: 2026.10.09 12:34:53
       title: 六款免费的多平台文章视频发布工具
       url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486364&idx=1&sn=498f9df2d684330ea4d5b97770973d1d
+    - author: 轩辕的编程宇宙
+      release_time: 2026.10.09 11:26:38
+      title: 我的Claude Code又又又复活了，简直是做视频的大杀器！
+      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247506685&idx=1&sn=90fe3929cd9c54f048750b28fa287113
     - author: Coder小Q
       release_time: 2026.10.09 08:30:00
       title: 【密码学·采样】格签名的危险偏移：为什么签名会慢慢泄露私钥
@@ -224,26 +244,6 @@
       release_time: 2026.10.08 17:46:37
       title: Kindle 第八代救砖实录
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144741&idx=1&sn=9823f911c1bfca5c75e91d643e150eb7
-    - author: 哆啦安全
-      release_time: 2026.10.08 17:07:45
-      title: 十年铁律被打破：vphone-cli实现纯虚拟化FairPlay密钥提取，iOS逆向不再需要真机
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501426&idx=1&sn=2dea9db776874ee651578899d0686808
-    - author: 桐梓坡低手
-      release_time: 2026.10.08 17:07:17
-      title: 自研skill探索某y验证码
-      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247484066&idx=1&sn=e6652f9b0a0a3c2f62c6797b66818e31
-    - author: coderwhy
-      release_time: 2026.10.08 16:39:25
-      title: coderwhy漫画 - AI原理《Transformer 为什么需要很多双“眼睛”？》
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247490090&idx=1&sn=8aea5a40e8a97ebe7ab37bc391fe7562
-    - author: 如意私塾
-      release_time: 2026.10.08 16:37:43
-      title: 字节验证码纯算-抖店滑块-jsvmp+wasm+伪代码的vmp
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485115&idx=1&sn=292efea95a764c08c8de9d8e46bb8db1
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.10.08 16:19:02
-      title: 《公安机关网络空间安全监督检查办法》10月起施行，公安网安检查从网络运营者延伸至数据处理者
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520910&idx=1&sn=cf663a1dad4c3ace42f8ab6687b42477
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
