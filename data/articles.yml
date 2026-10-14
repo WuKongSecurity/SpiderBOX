@@ -370,6 +370,14 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: w2sfot
+      release_time: 2026.10.14 11:14:48
+      title: AI时代，还要不要进行JS代混淆加密？
+      url: https://blog.csdn.net/w2sft/article/details/167899410
+    - author: daiyanren
+      release_time: 2026.10.14 10:35:44
+      title: '[原创]低成本公网主动防御实践 ——TrapCloud 分布式蜜罐情报平台落地测试'
+      url: https://bbs.kanxue.com/thread-293218.htm
     - author: kudos5566
       release_time: 2026.10.13 23:40:22
       title: '[原创]从密文SO到Handler语义的对照：两家企业级加固壳的VMP逆向实录'
@@ -482,14 +490,6 @@
       release_time: 2026.10.01 19:09:35
       title: '[原创]hook libpairipcore.so'
       url: https://bbs.kanxue.com/thread-293121.htm
-    - author: mb_pjnmjzup
-      release_time: 2026.10.01 17:48:29
-      title: '[推荐]家庭内网IoT设备安全排查：从ARP欺骗断网到Wireshark流量分析'
-      url: https://bbs.kanxue.com/thread-293119.htm
-    - author: dayDReam_10
-      release_time: 2026.10.01 15:54:29
-      title: '[原创]基础环境检测与对抗'
-      url: https://bbs.kanxue.com/thread-293118.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
