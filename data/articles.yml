@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: coderwhy
+      release_time: 2026.10.15 09:09:03
+      title: 睡觉时闲置的 AI Token，拿去跑世界数学难题和百万美金悬赏
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247490100&idx=1&sn=7491dc5edc14be6dd7f6a2757eace354
+    - author: 爬虫逆向技术栈
+      release_time: 2026.10.15 08:44:00
+      title: 并夕夕anti_content分析
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjM5MTU3Ng==&mid=2247483956&idx=1&sn=9cf3b9ae28a7a995c9a34eded2e2c803
+    - author: Coder小Q
+      release_time: 2026.10.15 08:30:00
+      title: 【杂谈】ShannonProver：大模型怎么把密码学证明写给机器看？
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247497532&idx=1&sn=bccfff3d8de8703f64ae5f7eaec4d525
     - author: 咸鱼学Python
       release_time: 2026.10.14 19:59:21
       title: 招人 | 微信搜索终端安全实习生 - 深圳
@@ -232,18 +244,6 @@
       release_time: 2026.10.10 11:18:44
       title: Anthropic发布报告披露AI邪门用法，冒充4700个“真人”谈恋爱，亮瞎眼
       url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247506437&idx=1&sn=be4138cc5dd02d222e8271d385c95359
-    - author: 将往的爬虫逆向日记
-      release_time: 2026.10.10 10:00:00
-      title: Python爬虫进阶：spiderdemo T30 WebSocket+jsvmp题解及详细思路
-      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862643&idx=1&sn=3b336c9408971388d968782a28a244a1
-    - author: 吾爱破解论坛
-      release_time: 2026.10.10 08:00:00
-      title: 逆向PyInstaller打包的产物完整分析过程
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144772&idx=1&sn=59211f3d1b882130b17f7824a5f9de3b
-    - author: Python成长路
-      release_time: 2026.10.09 12:34:53
-      title: 六款免费的多平台文章视频发布工具
-      url: https://mp.weixin.qq.com/s?__biz=MzU0OTkwODU2MA==&mid=2247486364&idx=1&sn=498f9df2d684330ea4d5b97770973d1d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
