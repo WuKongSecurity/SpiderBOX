@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: EithanSolace
+      release_time: 2026.10.16 18:12:03
+      title: 密码学补完计划[第四十七期] RSA(后篇)
+      url: https://www.bilibili.com/video/BV18NJX6EERc
     - author: r0ysue
       release_time: 2026.10.16 11:27:48
       title: REA逆向一切的能力99.9%来自于AI本身
@@ -117,13 +121,13 @@
       release_time: 2026.09.22 15:48:34
       title: 豆包手机正式版Navix Ultra刚买就退了
       url: https://www.bilibili.com/video/BV1HQhj6hE5r
-    - author: B站用户骚神
-      release_time: 2026.09.22 13:55:31
-      title: DrissionPage+网页版豆包，搞定5大高难度网页验证码，【文字点选】【图形点选】【九宫格】【空间推理】【空间语义】
-      url: https://www.bilibili.com/video/BV1aSh76DEra
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 轩辕的编程宇宙
+      release_time: 2026.10.16 17:12:11
+      title: 用Claude做动画视频，可以免费试用了，速度冲！
+      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247506792&idx=1&sn=b71936016c3c062507e02697c0f5e236
     - author: 布鲁的Python之旅
       release_time: 2026.10.16 11:00:22
       title: 一次合作落地的课题案例｜网易云音乐数据分析可视化系统
@@ -240,13 +244,13 @@
       release_time: 2026.10.12 12:42:57
       title: Android系统智能调试分析工具V7.9
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501456&idx=1&sn=6f5be0005a9900f9f8eb150014eda2d1
-    - author: 将往的爬虫逆向日记
-      release_time: 2026.10.12 09:59:48
-      title: 某里acwv2滑块验证码补环境全流程详细讲解
-      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862653&idx=1&sn=bc3cfe7633bceb4ce2e7f8395351693a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: gfy1129
+      release_time: 2026.10.16 14:07:00
+      title: 基于 AST 的 ob 混淆还原思路：以 acw_xx__v2 为例
+      url: https://www.52pojie.cn/thread-2132797-1-1.html
     - author: xiaoxiao0329
       release_time: 2026.10.15 15:40:00
       title: 控制流的多种变化特征
@@ -363,13 +367,13 @@
       release_time: 2026.09.23 23:08:00
       title: 九彩盒子升级提示逻辑分析，以及关闭办法。
       url: https://www.52pojie.cn/thread-2129628-1-1.html
-    - author: bugs2000
-      release_time: 2026.09.23 01:13:00
-      title: 如何通过枚举法暴力破解某某车机远程root网站的授权码
-      url: https://www.52pojie.cn/thread-2129460-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 90岁糖果超甜
+      release_time: 2026.10.16 14:11:13
+      title: '[原创] 基于 AST 的 ob 混淆还原思路：以 acw_xx__v2 为例'
+      url: https://bbs.kanxue.com/thread-293234.htm
     - author: mb_xpdephnu
       release_time: 2026.10.15 19:06:11
       title: '[原创]OIOIC 安全引擎 v1.0'
@@ -486,10 +490,6 @@
       release_time: 2026.10.04 23:26:48
       title: '[原创]安卓16脱壳移植'
       url: https://bbs.kanxue.com/thread-293142.htm
-    - author: 希梦☆奈何
-      release_time: 2026.10.04 13:05:09
-      title: '[原创] SoulFrog刨析买断制游戏通杀'
-      url: https://bbs.kanxue.com/thread-293140.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
