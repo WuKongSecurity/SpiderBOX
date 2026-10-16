@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Coder小Q
+      release_time: 2026.10.16 08:30:00
+      title: 【密码学·采样】均匀模采样与中心二项分布
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247497574&idx=1&sn=c384cb4f427124a6705578443ac6d8d2
+    - author: 吾爱破解论坛
+      release_time: 2026.10.16 08:11:00
+      title: RA2/YR原版CD反盗版验证原理简介
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144789&idx=1&sn=f8470ae3af16f8758e05d1b0279ccf3c
+    - author: 哆啦安全
+      release_time: 2026.10.16 07:30:00
+      title: 别神化AI逆向：REA不是软件克隆机，而是给Ghidra/IDA装上Agent的“能力放大器”
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501462&idx=1&sn=feee4c224c00e63c7a75c536de01f75c
     - author: 菜鸟学Python编程
       release_time: 2026.10.15 17:30:00
       title: “人类历史上最伟大的软件：Windows ！”
@@ -232,18 +244,6 @@
       release_time: 2026.10.12 09:48:26
       title: reCAPTCHA v2 九宫格、十六宫格验证逆向分析——补环境篇
       url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484836&idx=1&sn=e003c1e8f55046a0a5e34a4c3c77366b
-    - author: 逆向有你
-      release_time: 2026.10.12 09:23:40
-      title: 安卓逆向 -- 某付费小说逆向-hostnameVerify&sign
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652042121&idx=1&sn=fef1f35b7529d7d4baf6eab28a3c2ef9
-    - author: 将往的爬虫逆向日记
-      release_time: 2026.10.12 09:06:22
-      title: Python爬虫进阶：spiderdemo T30 WebSocket
-      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862648&idx=1&sn=8bdeca237ff1b845eb4dd61db5951d4c
-    - author: 测试工程师成长之路
-      release_time: 2026.10.12 08:30:00
-      title: 这个开源项目有点猛：FIRERPA，竟然把 Android 设备玩出了新高度
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579411&idx=1&sn=acba4403790258618ee7858ee8c798cb
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
