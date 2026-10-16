@@ -5935,6 +5935,10 @@
           url: https://github.com/angiejones/mcp-selenium
           logo: github.png
           description: Selenium WebDriver 的 MCP 实现，为 AI agent 提供浏览器自动化
+        - title: invisible_playwright_mcp
+          url: https://github.com/feder-cr/invisible_playwright_mcp
+          logo: github.png
+          description: 把隐身版 Firefox 和 Playwright 自动化打包成一个 MCP 服务，装进 Claude Code、Codex、Gemini CLI 之后，AI 操作的浏览器对反爬系统「不可见」——指针真实移动、按键真实敲击，风控看不到自动化痕迹
         - title: CDP Bridge MCP
           url: https://github.com/Unagi-cq/cdp-bridge-mcp
           logo: github.png
@@ -6206,6 +6210,10 @@
 
     - name: Skills (移动端)
       links:
+        - title: apk-reverse
+          url: https://github.com/newliver666/apk-reverse
+          logo: github.png
+          description: 面向 Android APK 逆向工程、去臃肿、去广告、外科式 dex 补丁、重打包，以及运行时/服务端分析的 Agent Skill
         - title: android-reverse-engineering-skill
           url: https://github.com/SimoneAvogadro/android-reverse-engineering-skill
           logo: github.png
@@ -6234,6 +6242,10 @@
           url: https://github.com/P4nda0s/bin-deobf-skills
           logo: github.png
           description: 一个面向 Claude Code 的二进制反混淆技能插件，基于 angr 符号执行 + BFS 遍历，自动还原 CSEL/CSET + BR 间接跳转模式的控制流并完成二进制 Patch。把原本需要手动逆向地址计算逻辑的繁重工作，变成一条 Skill 命令
+        - title: ipsw-skill
+          url: https://github.com/blacktop/ipsw-skill
+          logo: github.png
+          description: ipsw-skill 面向 Apple 固件和系统二进制，底层使用 ipsw CLI。它能协助 Agent 下载和解包 IPSW/OTA，查询 dyld_shared_cache，分析 Mach-O、Objective-C 头文件、kernel/KEXT 和 entitlement
 
     - name: Skills (网安)
       links:
