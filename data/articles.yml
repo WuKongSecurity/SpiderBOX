@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 0xGuoguo
+      release_time: 2026.10.16 16:30:00
+      title: 全流程使用AI对某解压应用（E盾加固）逆向分析与Vibe避坑
+      url: https://www.52pojie.cn/thread-2132838-1-1.html
     - author: gfy1129
       release_time: 2026.10.16 14:07:00
       title: 基于 AST 的 ob 混淆还原思路：以 acw_xx__v2 为例
@@ -363,13 +367,14 @@
       release_time: 2026.09.24 11:14:00
       title: 注销重注册，无限领新人券：一次APP业务逻辑漏洞的完整剖析
       url: https://www.52pojie.cn/thread-2129691-1-1.html
-    - author: smartzzx
-      release_time: 2026.09.23 23:08:00
-      title: 九彩盒子升级提示逻辑分析，以及关闭办法。
-      url: https://www.52pojie.cn/thread-2129628-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 西瓜帅
+      release_time: 2026.10.16 22:07:54
+      title: '[原创]不用提取 CDI_Leaf：把 KeyMint TA 变成 RKP 签名 Oracle，实战拿到 Google 签发的 attestation
+        keybox'
+      url: https://bbs.kanxue.com/thread-293244.htm
     - author: 90岁糖果超甜
       release_time: 2026.10.16 14:11:13
       title: '[原创] 基于 AST 的 ob 混淆还原思路：以 acw_xx__v2 为例'
@@ -486,10 +491,6 @@
       release_time: 2026.10.05 21:25:44
       title: '[原创]酷安数字联盟逆向'
       url: https://bbs.kanxue.com/thread-293149.htm
-    - author: 北袅
-      release_time: 2026.10.04 23:26:48
-      title: '[原创]安卓16脱壳移植'
-      url: https://bbs.kanxue.com/thread-293142.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
