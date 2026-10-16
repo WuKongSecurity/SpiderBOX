@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: r0ysue
+      release_time: 2026.10.16 11:27:48
+      title: REA逆向一切的能力99.9%来自于AI本身
+      url: https://www.bilibili.com/video/BV1ThJQ6kEV3
     - author: 如意-浏览器开发培训
       release_time: 2026.10.15 15:30:16
       title: 03 | 从零开始的小白workbuddy配置第三方模型教程
@@ -117,13 +121,13 @@
       release_time: 2026.09.22 13:55:31
       title: DrissionPage+网页版豆包，搞定5大高难度网页验证码，【文字点选】【图形点选】【九宫格】【空间推理】【空间语义】
       url: https://www.bilibili.com/video/BV1aSh76DEra
-    - author: B站用户骚神
-      release_time: 2026.09.20 09:07:29
-      title: 骚神插件-网页XPath自动获取和去重
-      url: https://www.bilibili.com/video/BV1KYeY6bExw
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 布鲁的Python之旅
+      release_time: 2026.10.16 11:00:22
+      title: 一次合作落地的课题案例｜网易云音乐数据分析可视化系统
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486625&idx=1&sn=dc6f12470ed57dbf049760066537cf4e
     - author: Coder小Q
       release_time: 2026.10.16 08:30:00
       title: 【密码学·采样】均匀模采样与中心二项分布
@@ -240,10 +244,6 @@
       release_time: 2026.10.12 09:59:48
       title: 某里acwv2滑块验证码补环境全流程详细讲解
       url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862653&idx=1&sn=bc3cfe7633bceb4ce2e7f8395351693a
-    - author: 小小杨学编程
-      release_time: 2026.10.12 09:48:26
-      title: reCAPTCHA v2 九宫格、十六宫格验证逆向分析——补环境篇
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484836&idx=1&sn=e003c1e8f55046a0a5e34a4c3c77366b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
