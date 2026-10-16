@@ -18,10 +18,10 @@ SpiderBox（虫盒）是一个爬虫逆向资源导航站，涉及数据采集�
 
 ## 不遵守开源协议，恶意抄袭名单
 
-| 网站            | 所有者                                                           | 抄袭时间    | 参考资料                                                        | 是否道歉关站 |
-|---------------|---------------------------------------------------------------|---------|-------------------------------------------------------------|--------|
-| kgtools.cn    | K哥爬虫<br>快代理<br>积善科技（北京）有限公司<br>积善科技（武汉）有限公司<br>郑州爬虫极客网络科技有限公司 | 2024年5月 | [点击查看文章](https://mp.weixin.qq.com/s/7vFpmhvU8-DCONlvlklMTQ) | 否      |
-| python666.xyz | 图灵课堂<br>洛哥爬虫<br>长沙图灵教育科技有限公司                                  | 2024年7月 | [点击查看文章](https://mp.weixin.qq.com/s/3s36tg_mI-Dg4pddoi-eEA) | 仅关站    |
+| 网站          | 所有者                                                                                                    | 抄袭时间  | 参考资料                                                          | 是否道歉关站 |
+|---------------|-----------------------------------------------------------------------------------------------------------|-----------|-------------------------------------------------------------------|--------------|
+| kgtools.cn    | K哥爬虫<br>快代理<br>积善科技（北京）有限公司<br>积善科技（武汉）有限公司<br>郑州爬虫极客网络科技有限公司 | 2024年5月 | [点击查看文章](https://mp.weixin.qq.com/s/7vFpmhvU8-DCONlvlklMTQ) | 否           |
+| python666.xyz | 图灵课堂<br>洛哥爬虫<br>长沙图灵教育科技有限公司                                                          | 2024年7月 | [点击查看文章](https://mp.weixin.qq.com/s/3s36tg_mI-Dg4pddoi-eEA) | 仅关站       |
 
 <hr>
 
@@ -55,10 +55,10 @@ SpiderBox（虫盒）是一个爬虫逆向资源导航站，涉及数据采集�
     <a href="https://get.brightdata.com/proxyb" target="_blank">
         <img src="/themes/webstack/static/ads/brightdata_1200x150.png" alt="BrightData"  width="80%">
     </a>
-    <a href="https://netnut.cn/?utm_medium=partner&utm_source=spiderbox" target="_blank">
-        <img src="/themes/webstack/static/ads/netnut_1200x150.gif" alt="NetNut"  width="80%">
-    </a>
     <a href="https://www.rapidproxy.io/?ref=spiderbox" target="_blank">
         <img src="/themes/webstack/static/ads/rapidproxy_1200x150.gif" alt="RapidProxy"  width="80%">
+    </a>
+    <a href="https://1024proxy.com/?kwd=hyj-sbanner" target="_blank">
+        <img src="/themes/webstack/static/ads/1024proxy_600x75.gif" alt="1024proxy"  width="100%">
     </a>
 </div>
