@@ -3133,12 +3133,12 @@
           no_referral: true
           url: https://www.qg.net/product/proxyip.html?website=spiderbox
           description: 【需实名】青果网络提供香港、美国、韩国云主机，同时携手腾讯云、天翼云助力企业上云；云电脑、拨号VPS和动态代理IP为大数据赋能；高防服务器租用与托管为企业安全保驾护航；大带宽与机柜业务加速网络访问
-        - title: IPIPD
-          logo: ipipd.jpg
-          no_referral: true
-          # url: https://ipipd.cn?ref=SVJLBAVQ
-          url: https://ipipd.com/sign-up?ref=ABZWPIPH
-          description: 【需实名】IPIPD 专注于全球原生住宅 IP 服务，覆盖全球 200+ 国家和地区的原生住宅 IP，静态/动态灵活切换，高匿名、稳定可靠。7×24 小时服务，立即免费测试！
+#        - title: IPIPD
+#          logo: ipipd.jpg
+#          no_referral: true
+#          # url: https://ipipd.cn?ref=SVJLBAVQ
+#          url: https://ipipd.com/sign-up?ref=ABZWPIPH
+#          description: 【需实名】IPIPD 专注于全球原生住宅 IP 服务，覆盖全球 200+ 国家和地区的原生住宅 IP，静态/动态灵活切换，高匿名、稳定可靠。7×24 小时服务，立即免费测试！
 #        - title: 协采云
 #          logo: xiecaiyun.png
 #          no_referral: true
@@ -3319,12 +3319,13 @@
           no_referral: true
           url: https://get.brightdata.com/17arn8
           description: Award winning proxy networks, powerful web scrapers, and ready-to-use datasets for download. Welcome to the world's number one web data platform.
-        - title: IPIPD
-          logo: ipipd.jpg
+        - title: 1024proxy
+          logo: 1024proxy.png
           no_referral: true
-          # url: https://ipipd.cn?ref=SVJLBAVQ
-          url: https://ipipd.com/sign-up?ref=ABZWPIPH
-          description: IPIPD 专注于全球原生住宅 IP 服务，覆盖全球 200+ 国家和地区的原生住宅 IP，静态/动态灵活切换，高匿名、稳定可靠。7×24 小时服务，立即免费测试！
+          # url: https://1024proxy.com/?kwd=channel-spiderbox
+          # url: https://api.1024proxy.com/share/v2rr1gzbr
+          url: https://1024proxy.com/?kwd=hyj-sbanner # 广告链接
+          description: 1024proxy 双 isp 独享原生住宅，支持城市级定位，技术支持全天在线，高匿名，低延迟，防关联，稳如专线，免费试用
 
         # 30% ==============================
         - title: SwiftProxy
@@ -3554,6 +3555,13 @@
           no_referral: true
           url: https://www.xoproxy.com/signup?invite_code=4UQYFE
           description: XOProxy 提供面向全球业务的住宅代理网络，覆盖 195+ 个国家和地区，支持动态与静态住宅 IP、企业级代理解决方案、先进的数据提取服务与个性化技术支持，助力业务稳定扩展与持续增长
+        - title: IPIPD
+          logo: ipipd.jpg
+          no_referral: true
+          # url: https://ipipd.cn?ref=SVJLBAVQ
+          # url: https://ipipd.com/sign-up?ref=ABZWPIPH # 广告链接
+          url: https://www.ipipd.com/sign-up?ref=SVJLBAVQ
+          description: IPIPD 专注于全球原生住宅 IP 服务，覆盖全球 200+ 国家和地区的原生住宅 IP，静态/动态灵活切换，高匿名、稳定可靠。7×24 小时服务，立即免费测试！
 
         # 8% ==============================
         - title: IPRocket
@@ -3653,12 +3661,6 @@
           # url: https://www.911proxy.com/?keyword=uj5cjflp
           url: https://www.911proxy.com/?invitation_code=CQBR01
           description: 90M+ Real Device IP，Unlimited IP usege，Boost AI & LLM Data Scraping，Starting from $70/Day
-        - title: 1024proxy
-          logo: 1024proxy.png
-          no_referral: true
-          # url: https://1024proxy.com/?kwd=channel-spiderbox
-          url: https://api.1024proxy.com/share/v2rr1gzbr
-          description: 支持免费试用，流量套餐只需 $0.49/GB，独立 IP 池，每日更新 10w+ ips，提供低价优质 IP
 
         # 同等积分兑换 ==========================
         - title: KindProxy

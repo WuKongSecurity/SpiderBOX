@@ -42,12 +42,18 @@
       image: images/ads/rapidproxy_1200x150_2.gif
       description: 免费代理测试，通过 RapidProxy 访问超 9000 万优质 IP，支持 220+ 地理位置精准定位，实现高效数据采集，轻松规避验证码与 IP 封禁，流量永不过期
       track: gg_rapidproxy
-    - title: IPIPD
+    - title: 1024Proxy
       ads: true
-      url: https://ipipd.com/sign-up?ref=ABZWPIPH
-      image: images/ads/ipipd_1200x150.gif
-      description: IPIPD 专注于全球原生住宅 IP 服务，覆盖全球 200+ 国家和地区的原生住宅 IP，静态/动态灵活切换，高匿名、稳定可靠。7×24 小时服务，立即免费测试！
-      track: gg_ipipd
+      url: https://1024proxy.com/?kwd=hyj-sbanner
+      image: images/ads/1024proxy_600x75.gif
+      description: 1024proxy 双 isp 独享原生住宅，支持城市级定位，技术支持全天在线，高匿名，低延迟，防关联，稳如专线，免费试用
+      track: gg_1024Proxy
+#    - title: IPIPD
+#      ads: true
+#      url: https://ipipd.com/sign-up?ref=ABZWPIPH
+#      image: images/ads/ipipd_1200x150.gif
+#      description: IPIPD 专注于全球原生住宅 IP 服务，覆盖全球 200+ 国家和地区的原生住宅 IP，静态/动态灵活切换，高匿名、稳定可靠。7×24 小时服务，立即免费测试！
+#      track: gg_ipipd
     # - title: 广告位招租
     #   ads: true
     #   url: https://static.wukongsec.com/public/images/info/wechat_art.webp
