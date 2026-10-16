@@ -59,6 +59,6 @@ SpiderBox（虫盒）是一个爬虫逆向资源导航站，涉及数据采集�
         <img src="/themes/webstack/static/ads/rapidproxy_1200x150.gif" alt="RapidProxy"  width="80%">
     </a>
     <a href="https://1024proxy.com/?kwd=hyj-sbanner" target="_blank">
-        <img src="/themes/webstack/static/ads/1024proxy_600x75.gif" alt="1024proxy"  width="100%">
+        <img src="/themes/webstack/static/ads/1024proxy_600x75.gif" alt="1024proxy"  width="80%">
     </a>
 </div>
