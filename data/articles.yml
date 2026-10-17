@@ -248,6 +248,10 @@
     term: 公众号
   - links:
     - author: 0xGuoguo
+      release_time: 2026.10.17 17:47:00
+      title: 零基础如何实现让AI全自动逆向apk完整教程以及全流程记录
+      url: https://www.52pojie.cn/thread-2132974-1-1.html
+    - author: 0xGuoguo
       release_time: 2026.10.16 16:30:00
       title: 全流程使用AI对某解压应用（E盾加固）逆向分析与Vibe避坑
       url: https://www.52pojie.cn/thread-2132838-1-1.html
@@ -363,10 +367,6 @@
       release_time: 2026.09.25 11:03:00
       title: 两种不同方法突破某NFC工具VIP
       url: https://www.52pojie.cn/thread-2129814-1-1.html
-    - author: W4nk3r
-      release_time: 2026.09.24 11:14:00
-      title: 注销重注册，无限领新人券：一次APP业务逻辑漏洞的完整剖析
-      url: https://www.52pojie.cn/thread-2129691-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
