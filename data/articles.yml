@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 冷月不是程序员
+      release_time: 2026.10.18 21:44:15
+      title: 【教程】一个视频告诉你学习版本软件怎么做
+      url: https://www.bilibili.com/video/BV17Tn564Efk
     - author: 池唐不是糖
       release_time: 2026.10.18 18:08:53
       title: 用脚还原upx？
@@ -117,10 +121,6 @@
       release_time: 2026.09.26 14:01:43
       title: 浅谈某手游反作弊环境检测
       url: https://www.bilibili.com/video/BV1qMh96xEcV
-    - author: Breeze_122134
-      release_time: 2026.09.24 22:41:49
-      title: 番茄_字体加密
-      url: https://www.bilibili.com/video/BV1aeaP6EE2t
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
