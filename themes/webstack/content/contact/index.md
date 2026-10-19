@@ -127,6 +127,18 @@ monitor:
         - label: 备注
           key: note
       items:
+        - id: gh_7fcea4820c64
+          name: ai辅助逆向手记
+          date: 2026.10.19
+          note:
+        - id: gh_fe02be2b2ff0
+          name: 轩辕的编程宇宙
+          date: 2026.10.14
+          note:
+        - id: gh_140bf90da4fe
+          name: mz的日记
+          date: 2026.10.13
+          note:
         - id: gh_843c03420466
           name: 又菜又爱学逆向
           date: 2026.09.08

@@ -3170,6 +3170,13 @@
           url: https://h.shenlongip.com/?did=rhjMjbI9
           description: 【需实名】神龙 HTTP — 高效网络代理云服务 国内三大运营商正规授权，业务级严选IP资源，可用率高达 99.83%； 全栈式业务场景分析，提供 1V1 定制服务
 
+        # 10% ==============================
+        - title: 山竹 HTTP
+          logo: shanzhuhttp.jpg
+          no_referral: true
+          url: https://www.shanzhuhttp.com/?su=1008&sc=uMMauPxF
+          description: 【需实名】注册领取免费测试，动态 IP 低至 0.001元/IP，山竹 HTTP 专注提供国内高性价比代理 IP 服务
+
         # 8% ==============================
         - title: IPWO
           logo: ipwo.png
@@ -4636,6 +4643,18 @@
           logo: gh_843c03420466.jpg
           qrcode: images/qrcode/gh_843c03420466.jpg
           description: 公众号：又菜又爱学逆向
+        - title: mz的日记
+          logo: gh_140bf90da4fe.jpg
+          qrcode: images/qrcode/gh_140bf90da4fe.jpg
+          description: 公众号：mz的日记
+        - title: 轩辕的编程宇宙
+          logo: gh_fe02be2b2ff0.jpg
+          qrcode: images/qrcode/gh_fe02be2b2ff0.jpg
+          description: 公众号：轩辕的编程宇宙
+        - title: ai辅助逆向手记
+          logo: gh_7fcea4820c64.jpg
+          qrcode: images/qrcode/gh_7fcea4820c64.jpg
+          description: 公众号：ai辅助逆向手记
 #        - title: K哥爬虫
 #          logo: kgepachong.jpg
 #          logo: gh_86aab598880e.jpg
