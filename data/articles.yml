@@ -124,6 +124,30 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 网虫Spider
+      release_time: 2026.10.19 09:00:00
+      title: 四周被抓了 41 万页：谁在抓我的网站，谁真的带来了人
+      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484811&idx=1&sn=1da8ca0ab75dae6e4af3ce091dac5b1d
+    - author: 测试工程师成长之路
+      release_time: 2026.10.19 08:30:00
+      title: Excel手敲20分钟 vs 10秒跑完：测试人的数据提效，只差一个Faker
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579424&idx=1&sn=6351912ac5344d010e92978df7fcb599
+    - author: 又菜又爱学逆向
+      release_time: 2026.10.19 08:03:48
+      title: 自编译 OpenSSL 过 JA3/JA4：从“一脸 OpenSSL 相”到浏览器指纹的完整链路
+      url: https://mp.weixin.qq.com/s?__biz=MzY5NzMxMjQ0MQ==&mid=2247484341&idx=1&sn=e917f64ebe89bca9c366b546237ce6f4
+    - author: 上海电特安隐私安全运营技术
+      release_time: 2026.10.18 22:12:33
+      title: AI逆向：06.r0env防封号Win/mac脚本GUI逆向cos真人
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486334&idx=1&sn=dbe7833d740a5cf20f8451c553f177cb
+    - author: 上海电特安隐私安全运营技术
+      release_time: 2026.10.18 22:12:33
+      title: 新课上线：《PY原生V8浏览器高级环境模拟课》
+      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486334&idx=2&sn=222414efb70bff899baf554ae53cd944
+    - author: 布鲁的Python之旅
+      release_time: 2026.10.18 11:00:00
+      title: 一次合作落地的案例｜个性化电影推荐系统
+      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486648&idx=1&sn=b5c1dba7793bade85e684119fc63b615
     - author: 轩辕的编程宇宙
       release_time: 2026.10.16 17:12:11
       title: 用Claude做动画视频，可以免费试用了，速度冲！
@@ -220,30 +244,6 @@
       release_time: 2026.10.13 17:20:35
       title: 澳大利亚对中国一智能穿戴设备企业展开隐私合规调查
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520926&idx=1&sn=386725258ee89d6498ad8836f7843f92
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.10.13 17:20:35
-      title: 因未按要求完成整改，山西省通信管理局下架16款侵害用户权益App
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520926&idx=2&sn=43707f46c3aec75ba2898c215a4b44ca
-    - author: 桐梓坡低手
-      release_time: 2026.10.13 16:57:14
-      title: 纯算akm思路
-      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247484073&idx=1&sn=9e68e0173df76a98fcc056373d3103d8
-    - author: 逆向有你
-      release_time: 2026.10.13 10:09:59
-      title: 安卓逆向 -- 某手游加密数据破解教程
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652042130&idx=1&sn=3d8d57863dd5b143052bd9e3af162870
-    - author: mz的日记
-      release_time: 2026.10.12 18:29:02
-      title: recaptcha 73 算法
-      url: https://mp.weixin.qq.com/s?__biz=MzkyMjgzMTczMg==&mid=2247483670&idx=1&sn=c2f29274c27a5dc1e8fa2b1c642bebd8
-    - author: 布鲁的Python之旅
-      release_time: 2026.10.12 16:25:39
-      title: 100% 不漏文章、零封号风险、年省 18.8 万——企业级微信公众号全域自动化与数据智能平台
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486614&idx=1&sn=d535e403e7003fb356434a29141fb230
-    - author: 哆啦安全
-      release_time: 2026.10.12 12:42:57
-      title: Android系统智能调试分析工具V7.9
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501456&idx=1&sn=6f5be0005a9900f9f8eb150014eda2d1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
