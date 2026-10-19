@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 丫总逆向
+      release_time: 2026.10.19 12:20:26
+      title: antidetect-sandbox：高效率、低内存、低带宽的指纹浏览器
+      url: https://mp.weixin.qq.com/s?__biz=MzU1NjQ2Njg4OA==&mid=2247484105&idx=1&sn=5bd528ff0d6b96ac4bb3647edba2c713
+    - author: 小小杨学编程
+      release_time: 2026.10.19 10:48:00
+      title: 短短几个月，我是如何用AI搞定多款海外盾的？
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzcwMzIyMw==&mid=2247484870&idx=1&sn=94edf214b7e4db9df101b5a9d72c6186
+    - author: 轩辕的编程宇宙
+      release_time: 2026.10.19 10:42:20
+      title: 用了Claude Pro订阅三周了，目前还没被封，分享一波方法
+      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247506800&idx=1&sn=21676ed078a420cae023c9ef660a410f
+    - author: 逆向有你
+      release_time: 2026.10.19 10:03:55
+      title: 安卓逆向 -- 使用jadx-ai-mcp辅助分析某校园pro校园跑
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652042141&idx=1&sn=8e19d4efe8f27272beeade0276eed324
     - author: 网虫Spider
       release_time: 2026.10.19 09:00:00
       title: 四周被抓了 41 万页：谁在抓我的网站，谁真的带来了人
@@ -228,22 +244,6 @@
       release_time: 2026.10.14 08:30:00
       title: 【密码学·采样】当“足够接近”不再足够：误差如何累积进安全证明
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247497403&idx=1&sn=ff1453943f03ccb831a4210986681e17
-    - author: 轩辕的编程宇宙
-      release_time: 2026.10.13 21:03:43
-      title: AI做逆向确实很强，但REA就是一场流量骗局，没有它AI依然很强
-      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247506755&idx=1&sn=cdfebf59c9b06b80df56d5a94892d229
-    - author: 如意私塾
-      release_time: 2026.10.13 19:39:03
-      title: 现在开始每个人都应该用opus5.5做自媒体
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485127&idx=1&sn=ff8ad8572615cd432f1f9d2577c7ffba
-    - author: coderwhy
-      release_time: 2026.10.13 17:47:50
-      title: Karpathy：其实使用大模型的人，比你想象的少很多
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247490095&idx=1&sn=f1e29ac2f9b9f4114ee89ea54aa0f78e
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.10.13 17:20:35
-      title: 澳大利亚对中国一智能穿戴设备企业展开隐私合规调查
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520926&idx=1&sn=386725258ee89d6498ad8836f7843f92
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
