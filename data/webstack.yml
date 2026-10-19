@@ -1520,6 +1520,10 @@
           url: https://github.com/autoscrape-labs/pydoll
           logo: github.png
           description: Pydoll 是一个无需 WebDriver 即可实现基于 Chrome 的浏览器自动化的库，能够提供逼真的交互体验。无需使用 navigator.webdriver 标志，也不存在兼容性问题
+        - title: antidetect-sandbox
+          url: https://github.com/zongrongjin/antidetect-sandbox
+          logo: github.png
+          description: 给 Chromium 和 Firefox 各打一套内核补丁，核心：隔离 context，自定义响应 + 自定义缓存
         - title: Sekiro
           logo: sekiro.png
           url: https://github.com/yint-tech/sekiro-open
