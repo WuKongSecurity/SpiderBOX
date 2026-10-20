@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 柳絮的学习杂记
+      release_time: 2026.10.20 11:59:31
+      title: 西南shape小并发
+      url: https://mp.weixin.qq.com/s?__biz=MzIzMDEwOTY4MA==&mid=2247483719&idx=1&sn=c37314c4ff0b73e68b88308d434260f4
     - author: mz的日记
       release_time: 2026.10.19 15:04:46
       title: recaptcha 并发
@@ -240,10 +244,6 @@
       release_time: 2026.10.14 16:58:38
       title: 西安网信部门典型案例：生成式人工智能服务未进行安全评估出现安全风险被下架
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520949&idx=2&sn=9cd78fd1fac003c9512759d15fd11a40
-    - author: 毫不犹豫使用AI逆向
-      release_time: 2026.10.14 14:49:23
-      title: 某专利最新版瑞数环境差异分析
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDU4MDY3Nw==&mid=2247483975&idx=1&sn=25e118f7cd65233c7908342ee0c69f6b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
