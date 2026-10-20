@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: LK安全
+      release_time: 2026.10.20 20:00:00
+      title: 网安考证一年一次窗口期！谷安双 11 大促来袭，最高可省万元
+      url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486896&idx=1&sn=52b102c4a3a618dc71d7a8b3ac659551
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.10.20 17:19:38
+      title: 《汽车数据安全要求》等五项强制性国家标准公开征求意见
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521037&idx=1&sn=c6471b6ba5c247bd43e9a304349c1009
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.10.20 17:19:38
+      title: 工信部通报17款侵害用户权益的APP及SDK
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521037&idx=2&sn=77817aa4358215d11198679650ea6978
     - author: 柳絮的学习杂记
       release_time: 2026.10.20 11:59:31
       title: 西南shape小并发
@@ -232,21 +244,13 @@
       release_time: 2026.10.15 08:30:00
       title: 【杂谈】ShannonProver：大模型怎么把密码学证明写给机器看？
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247497532&idx=1&sn=bccfff3d8de8703f64ae5f7eaec4d525
-    - author: 咸鱼学Python
-      release_time: 2026.10.14 19:59:21
-      title: 招人 | 微信搜索终端安全实习生 - 深圳
-      url: https://mp.weixin.qq.com/s?__biz=MzIwNDI1NjUxMg==&mid=2651268109&idx=1&sn=28cc8cac44b8ea658c4cfa5792c5f0e8
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.10.14 16:58:38
-      title: 欧盟EDPB通过智能眼镜数据保护声明 明确主体责任分配
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520949&idx=1&sn=4bc5855337efe8ea7122e1053a3fc867
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.10.14 16:58:38
-      title: 西安网信部门典型案例：生成式人工智能服务未进行安全评估出现安全风险被下架
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520949&idx=2&sn=9cd78fd1fac003c9512759d15fd11a40
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: KayaREX
+      release_time: 2026.10.19 17:23:00
+      title: '[原创]REA逆向一切的能力99.9%来自AI本身'
+      url: https://www.52pojie.cn/thread-2133226-1-1.html
     - author: 0xGuoguo
       release_time: 2026.10.17 17:47:00
       title: 零基础如何实现让AI全自动逆向apk完整教程以及全流程记录
@@ -363,13 +367,13 @@
       release_time: 2026.09.25 12:40:00
       title: 针对Cl**de Code 2.1.252 win版的解混淆脚本
       url: https://www.52pojie.cn/thread-2129831-1-1.html
-    - author: xingtuyu01
-      release_time: 2026.09.25 11:03:00
-      title: 两种不同方法突破某NFC工具VIP
-      url: https://www.52pojie.cn/thread-2129814-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: A0tem
+      release_time: 2026.10.20 15:19:19
+      title: '[原创]从某乐跑看高德SDK'
+      url: https://bbs.kanxue.com/thread-293280.htm
     - author: Solar安全
       release_time: 2026.10.19 14:47:30
       title: '[原创]【勒索预警】首发，weax勒索病毒针对用友畅捷通T+应用0day攻击溯源全流程（附IOC）'
@@ -487,10 +491,6 @@
       release_time: 2026.10.07 20:46:33
       title: '[原创]传奇手游协议分析'
       url: https://bbs.kanxue.com/thread-293162.htm
-    - author: 程序员小潘
-      release_time: 2026.10.07 18:08:19
-      title: '[原创]python纯协议实现亿级短视频app的直播间弹幕采集'
-      url: https://bbs.kanxue.com/thread-293161.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
