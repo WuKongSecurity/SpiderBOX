@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: EithanSolace
+      release_time: 2026.10.21 21:52:27
+      title: 密码学补完计划[第四十八期] ElGamal
+      url: https://www.bilibili.com/video/BV1n5nr6qEb2
     - author: AngelToms
       release_time: 2026.10.21 08:26:22
       title: UPX loader二
@@ -117,10 +121,6 @@
       release_time: 2026.09.30 20:08:30
       title: AI原生全自动逆向分析汇报机器人r0env2026
       url: https://www.bilibili.com/video/BV13Yao6fE3s
-    - author: EithanSolace
-      release_time: 2026.09.30 16:00:00
-      title: '[MV] 明天只是一场梦...'
-      url: https://www.bilibili.com/video/BV1dwad6cE3W
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: free_spider
+      release_time: 2026.10.21 23:14:47
+      title: '[原创]js逆向 ----验证码专题---百度曲线挂绳验证码（行为轨迹验证码）'
+      url: https://bbs.kanxue.com/thread-293290.htm
     - author: D_Wave
       release_time: 2026.10.21 17:46:01
       title: '[原创]《安卓逆向负基础之正向开发实践》03：MuzicBox 后台音乐播放与 Service'
@@ -487,10 +491,6 @@
       release_time: 2026.10.09 11:37:51
       title: '[原创]开源一个自用的云手机方案 xenoid'
       url: https://bbs.kanxue.com/thread-293175.htm
-    - author: Solar安全
-      release_time: 2026.10.09 11:14:50
-      title: '[原创]【勒索预警】国庆期间15家国内企业被同一勒索家族集中上架，疑似针对上市公司'
-      url: https://bbs.kanxue.com/thread-293173.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
