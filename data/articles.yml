@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: AngelToms
+      release_time: 2026.10.21 08:26:22
+      title: UPX loader二
+      url: https://www.bilibili.com/video/BV1K5ni6wEFd
     - author: B站用户骚神
       release_time: 2026.10.19 15:11:14
       title: 鱼神插件1.0-网页版Deepseek增强插件-可以在浏览器里调试drissionpage代码
@@ -117,13 +121,13 @@
       release_time: 2026.09.30 16:00:00
       title: '[MV] 明天只是一场梦...'
       url: https://www.bilibili.com/video/BV1dwad6cE3W
-    - author: 逆向狗都不学
-      release_time: 2026.09.29 17:46:10
-      title: Android逆向之SO文件结构基础
-      url: https://www.bilibili.com/video/BV1Vsap6TE7p
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Coder小Q
+      release_time: 2026.10.21 08:30:00
+      title: 【密码学·采样】逆累积分布、CDT 与 Knuth-Yao 决策树
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247497610&idx=1&sn=aaa6268d8725a26fd1c92f32296ca66a
     - author: LK安全
       release_time: 2026.10.20 20:00:00
       title: 网安考证一年一次窗口期！谷安双 11 大促来袭，最高可省万元
@@ -240,10 +244,6 @@
       release_time: 2026.10.15 08:44:00
       title: 并夕夕anti_content分析
       url: https://mp.weixin.qq.com/s?__biz=Mzk0MjM5MTU3Ng==&mid=2247483956&idx=1&sn=9cf3b9ae28a7a995c9a34eded2e2c803
-    - author: Coder小Q
-      release_time: 2026.10.15 08:30:00
-      title: 【杂谈】ShannonProver：大模型怎么把密码学证明写给机器看？
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247497532&idx=1&sn=bccfff3d8de8703f64ae5f7eaec4d525
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
