@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Coder小Q
+      release_time: 2026.10.22 08:30:00
+      title: 【密码学·杂谈】一串随机数，怎么追到 1997 年的某一秒？
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247497744&idx=1&sn=dce614892fee5b149a318b3ff0e58b69
     - author: 菜鸟学Python编程
       release_time: 2026.10.21 17:30:00
       title: AI逆向|DataDome无感验证补环境
@@ -240,10 +244,6 @@
       release_time: 2026.10.15 16:00:00
       title: 当流量洪峰遇到仅退款，150万垫付就这么流走了【文末有福利~】
       url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724791&idx=1&sn=5775ffbe19122ff38606cf1e2dd27aa0
-    - author: 二手的程序员
-      release_time: 2026.10.15 12:51:10
-      title: 深入理解 init
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTkxMTU1NA==&mid=2247489543&idx=1&sn=40b5fcc2353faa545b31db7eb402117b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
