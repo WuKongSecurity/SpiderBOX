@@ -124,6 +124,38 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 网虫Spider
+      release_time: 2026.10.22 17:27:54
+      title: CVE-2026-58835 复盘：蓝牙配置解析的堆溢出，如何从对端设备走到 RCE
+      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484824&idx=1&sn=2af3fe858db7ce3157f018d9784328e1
+    - author: 菜鸟学Python编程
+      release_time: 2026.10.22 17:00:00
+      title: 魔改浏览器之浏览器基础篇
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566723&idx=1&sn=5cf920b29cc6f444c97110cb80f62e62
+    - author: 爬虫逆向小林哥
+      release_time: 2026.10.22 16:11:40
+      title: 缺 人：13 80/周 可 日结
+      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487397&idx=1&sn=9cc5113ba163a9335580b3a3565cf542
+    - author: 柳絮的学习杂记
+      release_time: 2026.10.22 16:08:37
+      title: 谷歌v3 小并发
+      url: https://mp.weixin.qq.com/s?__biz=MzIzMDEwOTY4MA==&mid=2247483724&idx=1&sn=0a7d7224e59a8d2f7cfb4e28a2c040a6
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.10.22 16:06:36
+      title: 美方以数据安全为由禁止联邦机构采购DeepSeek，中国商务部回应
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521069&idx=1&sn=ad3825019de8cfaff8df555fb5f214b8
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.10.22 16:06:36
+      title: 湖南征集数据跨境需求以编制首批负面清单
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521069&idx=2&sn=a39e900fab38244e5eb1b73d1a082d14
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.10.22 16:06:36
+      title: 中国数据保护月度报告：重点提示及目录（2026年10月）
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521069&idx=3&sn=8ac3e6aceafd669dcf7c36471611c53f
+    - author: 极验
+      release_time: 2026.10.22 16:00:00
+      title: 全能注册机之后，游戏风控的战场变了
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724806&idx=1&sn=4ace75c9d16c7f882e3049b7cf705eba
     - author: 轩辕的编程宇宙
       release_time: 2026.10.22 11:08:39
       title: PHP漏洞炸锅了，一个编程语言怎么会有漏洞呢？
@@ -212,41 +244,13 @@
       release_time: 2026.10.18 11:00:00
       title: 一次合作落地的案例｜个性化电影推荐系统
       url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486648&idx=1&sn=b5c1dba7793bade85e684119fc63b615
-    - author: 轩辕的编程宇宙
-      release_time: 2026.10.16 17:12:11
-      title: 用Claude做动画视频，可以免费试用了，速度冲！
-      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247506792&idx=1&sn=b71936016c3c062507e02697c0f5e236
-    - author: 布鲁的Python之旅
-      release_time: 2026.10.16 11:00:22
-      title: 一次合作落地的课题案例｜网易云音乐数据分析可视化系统
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486625&idx=1&sn=dc6f12470ed57dbf049760066537cf4e
-    - author: Coder小Q
-      release_time: 2026.10.16 08:30:00
-      title: 【密码学·采样】均匀模采样与中心二项分布
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247497574&idx=1&sn=c384cb4f427124a6705578443ac6d8d2
-    - author: 吾爱破解论坛
-      release_time: 2026.10.16 08:11:00
-      title: RA2/YR原版CD反盗版验证原理简介
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144789&idx=1&sn=f8470ae3af16f8758e05d1b0279ccf3c
-    - author: 哆啦安全
-      release_time: 2026.10.16 07:30:00
-      title: 别神化AI逆向：REA不是软件克隆机，而是给Ghidra/IDA装上Agent的“能力放大器”
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501462&idx=1&sn=feee4c224c00e63c7a75c536de01f75c
-    - author: 菜鸟学Python编程
-      release_time: 2026.10.15 17:30:00
-      title: “人类历史上最伟大的软件：Windows ！”
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566719&idx=1&sn=f4ae63276931b0a5ecfd479b3a14633a
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.10.15 17:08:04
-      title: 上海网信办发布属地App个人信息收集使用问题的通报
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520953&idx=1&sn=8f82c5d3c2028ee1f52ab93223108bd6
-    - author: 逆向搅屎棍
-      release_time: 2026.10.15 16:00:51
-      title: Spider King 8.0 升级说明
-      url: https://mp.weixin.qq.com/s?__biz=MzYzNDQzNDIyNg==&mid=2247483754&idx=1&sn=8bd60e9eb64ca6933093a4e6a59b49a8
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: ProjektRed
+      release_time: 2026.10.22 09:54:00
+      title: 吉利车机（GKUI19）装第三方 App 记录：从开 ADB 到塞进 /system（小白向，上篇）
+      url: https://www.52pojie.cn/thread-2133683-1-1.html
     - author: KayaREX
       release_time: 2026.10.19 17:23:00
       title: '[原创]REA逆向一切的能力99.9%来自AI本身'
@@ -363,13 +367,13 @@
       release_time: 2026.09.25 21:49:00
       title: 云追视频 修改记录分享：
       url: https://www.52pojie.cn/thread-2129883-1-1.html
-    - author: Shadione
-      release_time: 2026.09.25 12:40:00
-      title: 针对Cl**de Code 2.1.252 win版的解混淆脚本
-      url: https://www.52pojie.cn/thread-2129831-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Tubbs
+      release_time: 2026.10.22 16:40:17
+      title: '[原创] SecShell 纯静态脱壳 [AI]'
+      url: https://bbs.kanxue.com/thread-293299.htm
     - author: 西瓜帅
       release_time: 2026.10.22 15:02:06
       title: '[讨论] 这看雪安卓的版主是F5吗，开创先河的无痕hook这么好的技术 没加精'
@@ -487,10 +491,6 @@
       release_time: 2026.10.09 21:09:44
       title: '[原创]《安卓逆向负基础之正向开发实践》01：MuzicBox 项目规划与工程创建'
       url: https://bbs.kanxue.com/thread-293182.htm
-    - author: mb_hfjfruhl
-      release_time: 2026.10.09 15:32:10
-      title: '[原创] 某外卖软件密钥生成算法分析'
-      url: https://bbs.kanxue.com/thread-293179.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
