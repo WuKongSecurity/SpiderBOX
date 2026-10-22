@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 二手的程序员
+      release_time: 2026.10.22 23:10:49
+      title: 深入理解 zygote
+      url: https://mp.weixin.qq.com/s?__biz=MzU2NTkxMTU1NA==&mid=2247489548&idx=1&sn=47b83fb5cb3f770b333d0d560d5bac21
     - author: 网虫Spider
       release_time: 2026.10.22 17:27:54
       title: CVE-2026-58835 复盘：蓝牙配置解析的堆溢出，如何从对端设备走到 RCE
@@ -240,13 +244,13 @@
       release_time: 2026.10.18 22:12:33
       title: 新课上线：《PY原生V8浏览器高级环境模拟课》
       url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486334&idx=2&sn=222414efb70bff899baf554ae53cd944
-    - author: 布鲁的Python之旅
-      release_time: 2026.10.18 11:00:00
-      title: 一次合作落地的案例｜个性化电影推荐系统
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMDY3OTg0Mw==&mid=2247486648&idx=1&sn=b5c1dba7793bade85e684119fc63b615
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 飞度设计
+      release_time: 2026.10.22 19:05:00
+      title: 分析某大wp主题9.1逆向授权过程
+      url: https://www.52pojie.cn/thread-2133783-1-1.html
     - author: ProjektRed
       release_time: 2026.10.22 09:54:00
       title: 吉利车机（GKUI19）装第三方 App 记录：从开 ADB 到塞进 /system（小白向，上篇）
@@ -363,10 +367,6 @@
       release_time: 2026.09.26 01:42:00
       title: 借助ai实现咕咚的登录以及上传接口的逆向
       url: https://www.52pojie.cn/thread-2129895-1-1.html
-    - author: 冥界3大法王
-      release_time: 2026.09.25 21:49:00
-      title: 云追视频 修改记录分享：
-      url: https://www.52pojie.cn/thread-2129883-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
