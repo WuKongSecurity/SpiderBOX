@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 轩辕的编程宇宙
+      release_time: 2026.10.22 11:08:39
+      title: PHP漏洞炸锅了，一个编程语言怎么会有漏洞呢？
+      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247506813&idx=1&sn=29daf126f2a8d8402692ead8d59063a0
     - author: Coder小Q
       release_time: 2026.10.22 08:30:00
       title: 【密码学·杂谈】一串随机数，怎么追到 1997 年的某一秒？
@@ -240,10 +244,6 @@
       release_time: 2026.10.15 16:00:51
       title: Spider King 8.0 升级说明
       url: https://mp.weixin.qq.com/s?__biz=MzYzNDQzNDIyNg==&mid=2247483754&idx=1&sn=8bd60e9eb64ca6933093a4e6a59b49a8
-    - author: 极验
-      release_time: 2026.10.15 16:00:00
-      title: 当流量洪峰遇到仅退款，150万垫付就这么流走了【文末有福利~】
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724791&idx=1&sn=5775ffbe19122ff38606cf1e2dd27aa0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 西瓜帅
+      release_time: 2026.10.22 15:02:06
+      title: '[讨论] 这看雪安卓的版主是F5吗，开创先河的无痕hook这么好的技术 没加精'
+      url: https://bbs.kanxue.com/thread-293297.htm
     - author: free_spider
       release_time: 2026.10.21 23:14:47
       title: '[原创]js逆向 ----验证码专题---百度曲线挂绳验证码（行为轨迹验证码）'
@@ -487,10 +491,6 @@
       release_time: 2026.10.09 15:32:10
       title: '[原创] 某外卖软件密钥生成算法分析'
       url: https://bbs.kanxue.com/thread-293179.htm
-    - author: Umiade
-      release_time: 2026.10.09 11:37:51
-      title: '[原创]开源一个自用的云手机方案 xenoid'
-      url: https://bbs.kanxue.com/thread-293175.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
