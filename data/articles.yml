@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: '13955925361'
+      release_time: 2026.10.24 20:26:00
+      title: 瑞数6房地产网数据获取
+      url: https://www.52pojie.cn/thread-2134059-1-1.html
     - author: 飞度设计
       release_time: 2026.10.22 19:05:00
       title: 分析某大wp主题9.1逆向授权过程
@@ -363,10 +367,6 @@
       release_time: 2026.09.26 09:19:00
       title: 某环逆向top2：原生库(SO)实战分析
       url: https://www.52pojie.cn/thread-2129904-1-1.html
-    - author: debugal
-      release_time: 2026.09.26 01:42:00
-      title: 借助ai实现咕咚的登录以及上传接口的逆向
-      url: https://www.52pojie.cn/thread-2129895-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
