@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2026.10.25 07:58:58
+      title: 🐶宠物对话学英语
+      url: https://www.bilibili.com/video/BV1xvH36eE2S
     - author: 冷月不是程序员
       release_time: 2026.10.24 20:46:29
       title: 【教程】一个视频带你搞懂DLL代理
@@ -117,10 +121,6 @@
       release_time: 2026.10.05 10:56:32
       title: codex拖滑块验证码
       url: https://www.bilibili.com/video/BV1KzHp6hEuF
-    - author: r0ysue
-      release_time: 2026.10.04 20:42:25
-      title: codex用cue下象棋，我也能打败李世石
-      url: https://www.bilibili.com/video/BV1SHHE6sE4H
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
