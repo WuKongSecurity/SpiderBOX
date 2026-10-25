@@ -2,6 +2,10 @@
   list:
   - links:
     - author: B站用户骚神
+      release_time: 2026.10.25 10:40:03
+      title: AI操作Photoshop编辑PSD文件！
+      url: https://www.bilibili.com/video/BV1rAH36xEU8
+    - author: B站用户骚神
       release_time: 2026.10.25 07:58:58
       title: 🐶宠物对话学英语
       url: https://www.bilibili.com/video/BV1xvH36eE2S
@@ -117,10 +121,6 @@
       release_time: 2026.10.05 18:27:18
       title: '[JS逆向终结三期]数美替换格式化检测'
       url: https://www.bilibili.com/video/BV1eCHW62EkT
-    - author: r0ysue
-      release_time: 2026.10.05 10:56:32
-      title: codex拖滑块验证码
-      url: https://www.bilibili.com/video/BV1KzHp6hEuF
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
