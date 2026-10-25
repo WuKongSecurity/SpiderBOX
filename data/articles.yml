@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 小爬菜咦
+      release_time: 2026.10.25 21:26:25
+      title: 通杀jsvmp全量反编译skill思路
+      url: https://www.bilibili.com/video/BV1pxnS6wE6S
     - author: B站用户骚神
       release_time: 2026.10.25 10:40:03
       title: AI操作Photoshop编辑PSD文件！
@@ -117,10 +121,6 @@
       release_time: 2026.10.05 21:01:23
       title: 液体玻璃imgui
       url: https://www.bilibili.com/video/BV11NH46gEcG
-    - author: 如意-浏览器开发培训
-      release_time: 2026.10.05 18:27:18
-      title: '[JS逆向终结三期]数美替换格式化检测'
-      url: https://www.bilibili.com/video/BV1eCHW62EkT
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
