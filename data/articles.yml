@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: EithanSolace
+      release_time: 2026.10.27 00:27:54
+      title: 密码学补完计划[第四十九期] Schnorr
+      url: https://www.bilibili.com/video/BV1qbno6GEUh
+    - author: 如意-AI浏览器开发
+      release_time: 2026.10.26 22:41:36
+      title: 腾讯天御无感/滑块验证码 ruyijs一键秒杀
+      url: https://www.bilibili.com/video/BV13rno6PEvn
     - author: 和沐阳学逆向与Ai
       release_time: 2026.10.26 10:00:00
       title: 90.不用 Root、不用 Frida,安卓Flutter抓包新方法。eMudhra 证书事件
@@ -113,17 +121,17 @@
       release_time: 2026.10.08 12:39:24
       title: UPX压缩pack3-pack4
       url: https://www.bilibili.com/video/BV1JcHD6cETN
-    - author: 只记得当时月色溶溶
-      release_time: 2026.10.07 14:33:52
-      title: imgui液体玻璃开源
-      url: https://www.bilibili.com/video/BV1RHpM6zEA5
-    - author: EithanSolace
-      release_time: 2026.10.06 20:03:53
-      title: 密码学补完计划[第四十五期] Diffie-Hellman
-      url: https://www.bilibili.com/video/BV1PXpc6KE41
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.10.27 00:02:02
+      title: 《AI渗透实战教程--20+海外企业挖漏洞拿赏金到出海收款闭环》
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485152&idx=1&sn=3c5734751df13125e49e26c9f4ae8849
+    - author: 如意私塾
+      release_time: 2026.10.26 21:20:44
+      title: 如意新品 | 完全开源新一代AI过检测轻量级浏览器-一键过腾讯/网易/极验/数美/XHS/DY
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485150&idx=1&sn=b2849820d36251691f95246969488272
     - author: 爬虫逆向小林哥
       release_time: 2026.10.26 11:25:35
       title: 某音java/native双hook点抓包分析
@@ -172,6 +180,10 @@
       release_time: 2026.10.24 10:55:04
       title: 发售当天就被越狱：iPhone Duo 与 Calif 演示 iOS 27.0.1 「完美越狱」
       url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484718&idx=1&sn=6512ed823d95313dabb76a30c79165de
+    - author: 轩辕的编程宇宙
+      release_time: 2026.10.23 10:54:00
+      title: 为什么我推荐你们都去试试这个编程Agent？
+      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247506842&idx=1&sn=52a087a7333947f2ef05f675534606a8
     - author: 二手的程序员
       release_time: 2026.10.22 23:10:49
       title: 深入理解 zygote
@@ -232,21 +244,13 @@
       release_time: 2026.10.21 17:00:00
       title: coderwhy漫画 - AI原理《Transformer 为什么需要很多双“眼睛”？》
       url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247490184&idx=1&sn=d96c7e42223d8ed9a712b0cd1c3a3867
-    - author: Coder小Q
-      release_time: 2026.10.21 08:30:00
-      title: 【密码学·采样】逆累积分布、CDT 与 Knuth-Yao 决策树
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247497610&idx=1&sn=aaa6268d8725a26fd1c92f32296ca66a
-    - author: LK安全
-      release_time: 2026.10.20 20:00:00
-      title: 网安考证一年一次窗口期！谷安双 11 大促来袭，最高可省万元
-      url: https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486896&idx=1&sn=52b102c4a3a618dc71d7a8b3ac659551
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.10.20 17:19:38
-      title: 《汽车数据安全要求》等五项强制性国家标准公开征求意见
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521037&idx=1&sn=c6471b6ba5c247bd43e9a304349c1009
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: '13955925361'
+      release_time: 2026.10.26 22:02:00
+      title: 京东登录页wasm滑块逆向
+      url: https://www.52pojie.cn/thread-2134338-1-1.html
     - author: Liyunpeng
       release_time: 2026.10.24 21:55:00
       title: so里的加密算法怎么啃，unidbg+frida实操
@@ -363,13 +367,13 @@
       release_time: 2026.09.27 07:32:00
       title: 某地图 APP 摇一摇广告触发流程分析
       url: https://www.52pojie.cn/thread-2130000-1-1.html
-    - author: hoshu
-      release_time: 2026.09.26 17:49:00
-      title: 某环逆向 TOP3：反作弊与反调试
-      url: https://www.52pojie.cn/thread-2129956-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 乐子
+      release_time: 2026.10.27 01:24:34
+      title: '[分享]定制 ROM 设计解析 从应用画像到系统执行：AOSP、ART 与内核共同构成的环境模拟体系。【中】'
+      url: https://bbs.kanxue.com/thread-293338.htm
     - author: Wika
       release_time: 2026.10.26 08:47:53
       title: '[原创] 分享一个 Android / iOS 逆向 Skill：让 Claude Code、Codex 按证据推进分析'
@@ -487,10 +491,6 @@
       release_time: 2026.10.11 19:13:06
       title: AI时代，JS加密还有效吗？
       url: https://blog.csdn.net/w2sft/article/details/167587396
-    - author: mb_xpdephnu
-      release_time: 2026.10.11 17:28:17
-      title: '# OIOIC 原生编译新一代代码保护方案深度解析'
-      url: https://bbs.kanxue.com/thread-293195.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
