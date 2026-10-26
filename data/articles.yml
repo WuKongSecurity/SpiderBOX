@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 爬虫逆向技术栈
+      release_time: 2026.10.26 09:30:00
+      title: DataDome 无感验证补环境
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjM5MTU3Ng==&mid=2247483984&idx=1&sn=c257a355f100c629b85f720a57e159d5
     - author: 测试工程师成长之路
       release_time: 2026.10.26 08:30:00
       title: 被转行兄弟问住那次，我把 10 款 AI Agent 一次盘清了
@@ -240,10 +244,6 @@
       release_time: 2026.10.19 10:03:55
       title: 安卓逆向 -- 使用jadx-ai-mcp辅助分析某校园pro校园跑
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652042141&idx=1&sn=8e19d4efe8f27272beeade0276eed324
-    - author: 网虫Spider
-      release_time: 2026.10.19 09:00:00
-      title: 四周被抓了 41 万页：谁在抓我的网站，谁真的带来了人
-      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484811&idx=1&sn=1da8ca0ab75dae6e4af3ce091dac5b1d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
