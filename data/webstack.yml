@@ -2352,6 +2352,10 @@
           logo: we-mp-rss.png
           url: https://github.com/rachelos/we-mp-rss
           description: WeRSS - 微信公众号订阅助手，定时更新订阅公众号文章、生成微信公众号 RSS 订阅源、导出微信公众号订阅源、支持微信公众号 Webhook/微信公众号 API/AI Agent 接入微信公众号
+        - title: wxa-runner
+          logo: github.png
+          url: https://github.com/open-wxa/wxa-runner
+          description: 在浏览器中用微信官方基础库运行小程序，支持 Chrome DevTools 调试与 Playwright E2E 测试
 
     - name: 微信相关
       links:
@@ -5960,14 +5964,18 @@
           url: https://github.com/angiejones/mcp-selenium
           logo: github.png
           description: Selenium WebDriver 的 MCP 实现，为 AI agent 提供浏览器自动化
-        - title: invisible_playwright_mcp
-          url: https://github.com/feder-cr/invisible_playwright_mcp
-          logo: github.png
-          description: 把隐身版 Firefox 和 Playwright 自动化打包成一个 MCP 服务，装进 Claude Code、Codex、Gemini CLI 之后，AI 操作的浏览器对反爬系统「不可见」——指针真实移动、按键真实敲击，风控看不到自动化痕迹
         - title: CDP Bridge MCP
           url: https://github.com/Unagi-cq/cdp-bridge-mcp
           logo: github.png
           description: CDP Bridge MCP 是一个连接 MCP 客户端与真实浏览器会话的桥接服务。它通过配套的 Chromium 扩展接入浏览器页面，让大模型客户端可以读取标签页、扫描页面、执行 JavaScript、截图、导航和读取 Cookie
+        - title: stealth-browser-mcp
+          url: https://github.com/vibheksoni/stealth-browser-mcp
+          logo: github.png
+          description: 直接调用你电脑上装的真实 Chrome / Edge 浏览器，通过 CDP 来控制，底层用的是一个叫 nodriver 的库，这是 undetected-chromedriver 的进化版。它的核心工作就是在浏览器启动的瞬间，把所有自动化指纹全部擦掉
+        - title: invisible_playwright_mcp
+          url: https://github.com/feder-cr/invisible_playwright_mcp
+          logo: github.png
+          description: 把隐身版 Firefox 和 Playwright 自动化打包成一个 MCP 服务，装进 Claude Code、Codex、Gemini CLI 之后，AI 操作的浏览器对反爬系统「不可见」——指针真实移动、按键真实敲击，风控看不到自动化痕迹
         - title: wxhzhwxhzh/DrissionPage MCP
           url: https://github.com/wxhzhwxhzh/DrissionPageMCP
           logo: github.png
