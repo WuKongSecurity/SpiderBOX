@@ -124,6 +124,30 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 轩辕的编程宇宙
+      release_time: 2026.10.27 15:59:14
+      title: 我删掉了一堆AI办公工具，只留下一个能交活的
+      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247506874&idx=1&sn=bdca77d78ae73ce6844fd8ca3bf6c202
+    - author: coderwhy
+      release_time: 2026.10.27 15:30:00
+      title: OpenAI声称推翻ETH？ETH到底是什么？
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247490190&idx=1&sn=73f07cf501714c17ac174bcadfb83bc5
+    - author: 逆向搅屎棍
+      release_time: 2026.10.27 14:35:00
+      title: 同一家酒店采集：不用技能 16 分钟，用技能 40 多分钟
+      url: https://mp.weixin.qq.com/s?__biz=MzYzNDQzNDIyNg==&mid=2247483766&idx=1&sn=310e639e480ab1d75f2f75eaf4475a9c
+    - author: 哆啦安全
+      release_time: 2026.10.27 12:03:36
+      title: AI逆向 | APP逆向分析工具V4.7
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501489&idx=1&sn=870d01d41501ce07e820a66550ee8a54
+    - author: 流星Studio
+      release_time: 2026.10.27 11:39:13
+      title: 为了调试手机端小程序，我们做了个不用装Vx的App
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjUxNTgyMg==&mid=2247484287&idx=1&sn=06eea54997c3e83b3245ce2bda6da047
+    - author: ai辅助逆向手记
+      release_time: 2026.10.27 11:33:58
+      title: JSVMP进阶：opcode当参数的VM
+      url: https://mp.weixin.qq.com/s?__biz=MzkxMzMxMjM0Ng==&mid=2247483914&idx=1&sn=8534563ba9b8ff82dcf325a946e13d4e
     - author: 如意私塾
       release_time: 2026.10.27 00:02:02
       title: 《AI渗透实战教程--20+海外企业挖漏洞拿赏金到出海收款闭环》
@@ -220,30 +244,6 @@
       release_time: 2026.10.22 16:00:00
       title: 全能注册机之后，游戏风控的战场变了
       url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724806&idx=1&sn=4ace75c9d16c7f882e3049b7cf705eba
-    - author: 轩辕的编程宇宙
-      release_time: 2026.10.22 11:08:39
-      title: PHP漏洞炸锅了，一个编程语言怎么会有漏洞呢？
-      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247506813&idx=1&sn=29daf126f2a8d8402692ead8d59063a0
-    - author: Coder小Q
-      release_time: 2026.10.22 08:30:00
-      title: 【密码学·杂谈】一串随机数，怎么追到 1997 年的某一秒？
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247497744&idx=1&sn=dce614892fee5b149a318b3ff0e58b69
-    - author: 菜鸟学Python编程
-      release_time: 2026.10.21 17:30:00
-      title: AI逆向|DataDome无感验证补环境
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566721&idx=1&sn=47ac826a0d4e1c4ce60377dfe66d4e1d
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.10.21 17:25:09
-      title: 国家网信办启动未成年人重点网络平台认定工作
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521057&idx=1&sn=6ef87a53b1bf4aa7c1e7a4acdff86e3c
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.10.21 17:25:09
-      title: 韩国扩大网络安全信息披露要求，涵盖所有上市公司
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521057&idx=2&sn=b79635ae0595e3c04b4df963227bd8a9
-    - author: coderwhy
-      release_time: 2026.10.21 17:00:00
-      title: coderwhy漫画 - AI原理《Transformer 为什么需要很多双“眼睛”？》
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247490184&idx=1&sn=d96c7e42223d8ed9a712b0cd1c3a3867
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -371,6 +371,10 @@
     term: 吾爱破解
   - links:
     - author: babyfox
+      release_time: 2026.10.27 11:03:43
+      title: '[分享]国家信息安全漏洞库CNNVD在1-10月发布的部分漏洞通报'
+      url: https://bbs.kanxue.com/thread-293340.htm
+    - author: babyfox
       release_time: 2026.10.27 10:02:38
       title: '[分享]国家互联网应急中心9-10月威胁预警'
       url: https://bbs.kanxue.com/thread-293339.htm
@@ -487,10 +491,6 @@
       release_time: 2026.10.13 08:32:21
       title: '[原创] 去平坦化不是唯一解：用 Unicorn 本地执行还原一个全平坦化的 native 签名'
       url: https://bbs.kanxue.com/thread-293206.htm
-    - author: 唱过阡陌
-      release_time: 2026.10.12 21:55:56
-      title: '[原创]从 C++20 协程到 Unity IL2CPP 协程'
-      url: https://bbs.kanxue.com/thread-293204.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
