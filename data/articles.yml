@@ -21,10 +21,6 @@
       release_time: 2026.10.25 10:40:03
       title: AI操作Photoshop编辑PSD文件！
       url: https://www.bilibili.com/video/BV1rAH36xEU8
-    - author: B站用户骚神
-      release_time: 2026.10.25 07:58:58
-      title: 🐶宠物对话学英语
-      url: https://www.bilibili.com/video/BV1xvH36eE2S
     - author: 冷月不是程序员
       release_time: 2026.10.24 20:46:29
       title: 【教程】一个视频带你搞懂DLL代理
@@ -121,13 +117,21 @@
       release_time: 2026.10.08 12:39:24
       title: UPX压缩pack3-pack4
       url: https://www.bilibili.com/video/BV1JcHD6cETN
+    - author: 只记得当时月色溶溶
+      release_time: 2026.10.07 14:33:52
+      title: imgui液体玻璃开源
+      url: https://www.bilibili.com/video/BV1RHpM6zEA5
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
-    - author: 轩辕的编程宇宙
-      release_time: 2026.10.27 15:59:14
-      title: 我删掉了一堆AI办公工具，只留下一个能交活的
-      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247506874&idx=1&sn=bdca77d78ae73ce6844fd8ca3bf6c202
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.10.27 16:43:07
+      title: 海南设置三类出境路径，鼓励文旅文创安全出海
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521076&idx=1&sn=a932ed4d94ded59d9d4368e398e9e8b3
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.10.27 16:43:07
+      title: 国家计算机病毒应急处理中心检测发现84款违法违规收集使用个人信息的移动应用
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521076&idx=2&sn=02c124cc7241838744f09df98389e011
     - author: coderwhy
       release_time: 2026.10.27 15:30:00
       title: OpenAI声称推翻ETH？ETH到底是什么？
@@ -240,17 +244,25 @@
       release_time: 2026.10.22 16:06:36
       title: 中国数据保护月度报告：重点提示及目录（2026年10月）
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521069&idx=3&sn=8ac3e6aceafd669dcf7c36471611c53f
-    - author: 极验
-      release_time: 2026.10.22 16:00:00
-      title: 全能注册机之后，游戏风控的战场变了
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724806&idx=1&sn=4ace75c9d16c7f882e3049b7cf705eba
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 鬼魅王子
+      release_time: 2026.10.27 14:08:00
+      title: 某E开屏广告分析：云控、跳过按钮和链式启动
+      url: https://www.52pojie.cn/thread-2134455-1-1.html
     - author: '13955925361'
       release_time: 2026.10.26 22:02:00
       title: 京东登录页wasm滑块逆向
       url: https://www.52pojie.cn/thread-2134338-1-1.html
+    - author: 狂暴补师亚丝娜
+      release_time: 2026.10.26 19:23:00
+      title: 为了装逼在境外，我把 ColorOS 也逆向了
+      url: https://www.52pojie.cn/thread-2134323-1-1.html
+    - author: Liyunpeng
+      release_time: 2026.10.26 16:01:00
+      title: 如何逆向VMP
+      url: https://www.52pojie.cn/thread-2134287-1-1.html
     - author: Liyunpeng
       release_time: 2026.10.24 21:55:00
       title: so里的加密算法怎么啃，unidbg+frida实操
@@ -355,21 +367,13 @@
       release_time: 2026.10.01 00:45:00
       title: '# 实战经验 top1：Frida 魔改 · 转译(Houdini) · Java · Native · SVC'
       url: https://www.52pojie.cn/thread-2130559-1-1.html
-    - author: hoshu
-      release_time: 2026.10.01 00:43:00
-      title: 实战经验top2 so分析：静态定面 · 黑盒转白盒 · unidbg/Qiling 动态定值
-      url: https://www.52pojie.cn/thread-2130558-1-1.html
-    - author: Atomusk
-      release_time: 2026.09.28 09:58:00
-      title: 某 Android 4.4 TV 设备的提权与持久化机制分析
-      url: https://www.52pojie.cn/thread-2130109-1-1.html
-    - author: xiaojiakeji
-      release_time: 2026.09.27 07:32:00
-      title: 某地图 APP 摇一摇广告触发流程分析
-      url: https://www.52pojie.cn/thread-2130000-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Solar安全
+      release_time: 2026.10.27 17:53:56
+      title: '[原创]【勒索预警】用友 BIP 高级版疑似0day已被rox勒索病毒利用（附IOC）'
+      url: https://bbs.kanxue.com/thread-293343.htm
     - author: babyfox
       release_time: 2026.10.27 11:03:43
       title: '[分享]国家信息安全漏洞库CNNVD在1-10月发布的部分漏洞通报'
@@ -487,10 +491,6 @@
       release_time: 2026.10.13 10:51:31
       title: '[原创] 开源一个逆向分析工具'
       url: https://bbs.kanxue.com/thread-293209.htm
-    - author: 吡啶不是苯氮
-      release_time: 2026.10.13 08:32:21
-      title: '[原创] 去平坦化不是唯一解：用 Unicorn 本地执行还原一个全平坦化的 native 签名'
-      url: https://bbs.kanxue.com/thread-293206.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
