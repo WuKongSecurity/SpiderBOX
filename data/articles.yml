@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.10.29 00:13:39
+      title: ruyijs一键过DataDome完整代码
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485163&idx=1&sn=91ec999f640746a694740c884f7c1bf8
+    - author: 猿人学Python
+      release_time: 2026.10.28 17:39:37
+      title: 五个月，十场猿聚，回顾一下
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550525&idx=1&sn=638d493b9721603cfd42d873fc1fe9e8
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.10.28 16:21:04
+      title: 中央网信办印发《国家信息化“十五五”规划》，部署10个方面具体任务
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521096&idx=1&sn=586f981ebc2c5c4ed45bc0f1c3c5456c
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.10.28 16:21:04
+      title: 澳大利亚公布上半年数据泄露统计，强调数据最小化
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521096&idx=2&sn=3594b00593fb67ba21c167e9c05d6c8b
     - author: 桐梓坡低手
       release_time: 2026.10.28 16:15:44
       title: 瑞数纯算200ms出cookie
@@ -224,26 +240,10 @@
       release_time: 2026.10.25 10:35:49
       title: '# Kimi K3.1 Pro 可能的底层技术拆解'
       url: https://mp.weixin.qq.com/s?__biz=MzYyMjgzMzcwNg==&mid=2247485182&idx=1&sn=bb9c1727307593854ff252f1fa084ddc
-    - author: 沐阳逆向与AI学习
-      release_time: 2026.10.24 11:22:53
-      title: 发售当天就被越狱：iPhone Duo
-      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484726&idx=1&sn=b7b52eb7f2c11b0776da355251144d2c
-    - author: 沐阳逆向与AI学习
-      release_time: 2026.10.24 10:55:04
-      title: 发售当天就被越狱：iPhone Duo 与 Calif 演示 iOS 27.0.1 「完美越狱」
-      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484718&idx=1&sn=6512ed823d95313dabb76a30c79165de
-    - author: 轩辕的编程宇宙
-      release_time: 2026.10.23 10:54:00
-      title: 为什么我推荐你们都去试试这个编程Agent？
-      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247506842&idx=1&sn=52a087a7333947f2ef05f675534606a8
-    - author: 二手的程序员
-      release_time: 2026.10.22 23:10:49
-      title: 深入理解 zygote
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTkxMTU1NA==&mid=2247489548&idx=1&sn=47b83fb5cb3f770b333d0d560d5bac21
-    - author: 网虫Spider
-      release_time: 2026.10.22 17:27:54
-      title: CVE-2026-58835 复盘：蓝牙配置解析的堆溢出，如何从对端设备走到 RCE
-      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484824&idx=1&sn=2af3fe858db7ce3157f018d9784328e1
+    - author: 猿人学Python
+      release_time: 2026.10.24 17:56:25
+      title: 刚转正就出事了-爬虫er100人
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550510&idx=1&sn=c2d68b563caef3de8b70c87a2537f73e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 北袅
+      release_time: 2026.10.28 20:27:28
+      title: '[原创]从零手写 ARM64 VMP'
+      url: https://bbs.kanxue.com/thread-293353.htm
     - author: Solar安全
       release_time: 2026.10.27 17:53:56
       title: '[原创]【勒索预警】用友 BIP 高级版疑似0day已被rox勒索病毒利用（附IOC）'
@@ -487,10 +491,6 @@
       release_time: 2026.10.13 13:23:33
       title: '[原创]安卓root方案APatch SELinux_hide mmap ABI漏洞分析'
       url: https://bbs.kanxue.com/thread-293210.htm
-    - author: wx_蕉下客
-      release_time: 2026.10.13 10:51:31
-      title: '[原创] 开源一个逆向分析工具'
-      url: https://bbs.kanxue.com/thread-293209.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
