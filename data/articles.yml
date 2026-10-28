@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: AngelToms
+      release_time: 2026.10.28 10:16:52
+      title: UPX解压缩
+      url: https://www.bilibili.com/video/BV1pAxL62EyU
     - author: EithanSolace
       release_time: 2026.10.27 00:27:54
       title: 密码学补完计划[第四十九期] Schnorr
@@ -117,13 +121,29 @@
       release_time: 2026.10.08 12:39:24
       title: UPX压缩pack3-pack4
       url: https://www.bilibili.com/video/BV1JcHD6cETN
-    - author: 只记得当时月色溶溶
-      release_time: 2026.10.07 14:33:52
-      title: imgui液体玻璃开源
-      url: https://www.bilibili.com/video/BV1RHpM6zEA5
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 桐梓坡低手
+      release_time: 2026.10.28 16:15:44
+      title: 瑞数纯算200ms出cookie
+      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247484097&idx=1&sn=7d8b3247b8e2a8a57d394beb0c5d9c75
+    - author: 影17
+      release_time: 2026.10.28 15:05:39
+      title: 突然不知道该写点什么了
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247490838&idx=1&sn=33c2fe393e13255a75fddf4ce30a5d60
+    - author: 哆啦安全
+      release_time: 2026.10.28 10:56:45
+      title: Android手机变成随身渗透测试工作站(仅授权安全测试)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501499&idx=1&sn=2164cfe3dc237821388be3bc6ef00e48
+    - author: 软件安全与逆向分析
+      release_time: 2026.10.28 10:42:10
+      title: 安卓完美云手机课程完结撒花！源码已发放
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485509&idx=1&sn=ae27ab8b9a4c7d894c98eaa5121c1c8b
+    - author: 轩辕的编程宇宙
+      release_time: 2026.10.28 10:23:59
+      title: 100万上下文，为什么才用一半就降智？可能不是你想的那样
+      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247506938&idx=1&sn=bbc89fd8545a263791b55e79343a8dd7
     - author: Coder小Q
       release_time: 2026.10.28 08:30:00
       title: 【密码学·采样】精度、截断、随机比特消耗与时间内存权衡
@@ -224,26 +244,6 @@
       release_time: 2026.10.22 17:27:54
       title: CVE-2026-58835 复盘：蓝牙配置解析的堆溢出，如何从对端设备走到 RCE
       url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484824&idx=1&sn=2af3fe858db7ce3157f018d9784328e1
-    - author: 菜鸟学Python编程
-      release_time: 2026.10.22 17:00:00
-      title: 魔改浏览器之浏览器基础篇
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566723&idx=1&sn=5cf920b29cc6f444c97110cb80f62e62
-    - author: 爬虫逆向小林哥
-      release_time: 2026.10.22 16:11:40
-      title: 缺 人：13 80/周 可 日结
-      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487397&idx=1&sn=9cc5113ba163a9335580b3a3565cf542
-    - author: 柳絮的学习杂记
-      release_time: 2026.10.22 16:08:37
-      title: 谷歌v3 小并发
-      url: https://mp.weixin.qq.com/s?__biz=MzIzMDEwOTY4MA==&mid=2247483724&idx=1&sn=0a7d7224e59a8d2f7cfb4e28a2c040a6
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.10.22 16:06:36
-      title: 美方以数据安全为由禁止联邦机构采购DeepSeek，中国商务部回应
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521069&idx=1&sn=ad3825019de8cfaff8df555fb5f214b8
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.10.22 16:06:36
-      title: 湖南征集数据跨境需求以编制首批负面清单
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521069&idx=2&sn=a39e900fab38244e5eb1b73d1a082d14
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
