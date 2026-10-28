@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Coder小Q
+      release_time: 2026.10.28 08:30:00
+      title: 【密码学·采样】精度、截断、随机比特消耗与时间内存权衡
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247497888&idx=1&sn=aa749179c358900087a1990875938e5c
     - author: 个人信息与数据保护实务评论
       release_time: 2026.10.27 16:43:07
       title: 海南设置三类出境路径，鼓励文旅文创安全出海
@@ -240,10 +244,6 @@
       release_time: 2026.10.22 16:06:36
       title: 湖南征集数据跨境需求以编制首批负面清单
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521069&idx=2&sn=a39e900fab38244e5eb1b73d1a082d14
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.10.22 16:06:36
-      title: 中国数据保护月度报告：重点提示及目录（2026年10月）
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521069&idx=3&sn=8ac3e6aceafd669dcf7c36471611c53f
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
