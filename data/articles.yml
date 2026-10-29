@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 挖个洞先
+      release_time: 2026.10.29 12:31:29
+      title: 【SRC吃瓜】RCE漏洞申诉违规
+      url: https://mp.weixin.qq.com/s?__biz=MzkyNjY3OTI4Ng==&mid=2247486221&idx=1&sn=2b942ec5a7472e594a852f9f6a8f06af
+    - author: 逆向有你
+      release_time: 2026.10.29 10:06:33
+      title: JS逆向 -- 某网站登录及拼图滑块参数逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652042158&idx=1&sn=2da58dbdd005b1717af2f26e8831366c
+    - author: 哆啦安全
+      release_time: 2026.10.29 09:01:48
+      title: 一个数字击穿CA：mitmproxy“以毒攻毒”，Dart却在Android上失灵
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501510&idx=1&sn=bf69ae3a972b3b3f0e0a7f36b7aec676
+    - author: Coder小Q
+      release_time: 2026.10.29 08:30:00
+      title: 【密码学·杂谈】RSA、ECDSA 要退休了？NIST 公钥密码迁移时间表来了
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247497976&idx=1&sn=1cf78b14ca13d89b845e6fbafb784748
     - author: 如意私塾
       release_time: 2026.10.29 00:13:39
       title: ruyijs一键过DataDome完整代码
@@ -228,22 +244,6 @@
       release_time: 2026.10.26 08:30:00
       title: 被转行兄弟问住那次，我把 10 款 AI Agent 一次盘清了
       url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579451&idx=1&sn=45b0ebc3a2b7563d986fdbbb5626111d
-    - author: Coder小Q
-      release_time: 2026.10.26 08:30:00
-      title: 【密码学·采样】Klein、GPV 与 Peikert 格高斯采样器
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247497867&idx=1&sn=979905513f4febb3814824e8679f8e4e
-    - author: 小陈iOS逆向与安全
-      release_time: 2026.10.26 07:58:00
-      title: RootHide 支持 iOS 26 越狱了！Dopamine 3 适配迎来新进展
-      url: https://mp.weixin.qq.com/s?__biz=MjM5MjEzMDAzMg==&mid=2257485195&idx=1&sn=93fd634740b4ff2ea593f94aa6089e22
-    - author: 邱邱爱风控
-      release_time: 2026.10.25 10:35:49
-      title: '# Kimi K3.1 Pro 可能的底层技术拆解'
-      url: https://mp.weixin.qq.com/s?__biz=MzYyMjgzMzcwNg==&mid=2247485182&idx=1&sn=bb9c1727307593854ff252f1fa084ddc
-    - author: 猿人学Python
-      release_time: 2026.10.24 17:56:25
-      title: 刚转正就出事了-爬虫er100人
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550510&idx=1&sn=c2d68b563caef3de8b70c87a2537f73e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Solar安全
+      release_time: 2026.10.29 09:50:18
+      title: '[原创]【勒索预警】群晖NAS最新版遭勒索病毒攻击，疑似涉及0day漏洞'
+      url: https://bbs.kanxue.com/thread-293361.htm
     - author: 北袅
       release_time: 2026.10.28 20:27:28
       title: '[原创]从零手写 ARM64 VMP'
@@ -487,10 +491,6 @@
       release_time: 2026.10.13 20:31:30
       title: ' 压缩 ≠ 加密：前端代码保护的三层实践与踩坑记录 '
       url: https://blog.csdn.net/w2sft/article/details/167812511
-    - author: Lun_OS
-      release_time: 2026.10.13 13:23:33
-      title: '[原创]安卓root方案APatch SELinux_hide mmap ABI漏洞分析'
-      url: https://bbs.kanxue.com/thread-293210.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
