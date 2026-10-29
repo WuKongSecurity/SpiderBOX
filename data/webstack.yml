@@ -1373,6 +1373,10 @@
           logo: github.png
           url: https://github.com/LoseNine/Chromium_FingerPrint_Tutorial
           description: 《Chromium指纹浏览器开发教程》，作者：李岳阳（网名如意）
+        - title: ruyiJS
+          logo: github.png
+          url: https://github.com/cutetailbud/ff-ruyijs
+          description: 新一代基于 Firefox 内核的无头浏览器。原生的 SpiderMonkey 引擎与 Necko 网络栈，没有窗口、没有渲染器，专为网页抓取、JS 逆向、数据采集与绕过人机验证而生
         - title: BotBrowser
           logo: github.png
           url: https://github.com/botswin/BotBrowser
