@@ -1,6 +1,30 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 冷月不是程序员
+      release_time: 2026.10.29 21:58:22
+      title: 代码都变成数字了，为什么还能运行？看懂 JSVMP 虚拟机保护
+      url: https://www.bilibili.com/video/BV1Ukxc6XEZP
+    - author: 小肩膀-逆向安全培训
+      release_time: 2026.10.29 13:16:15
+      title: 【AI渗透实战】05.课程内容核心精华提炼
+      url: https://www.bilibili.com/video/BV1tWsZ6uEEq
+    - author: 小肩膀-逆向安全培训
+      release_time: 2026.10.29 13:13:10
+      title: 【AI渗透实战】04.注册海外公司拿全额赏金补充内容
+      url: https://www.bilibili.com/video/BV18EsZ6kEPg
+    - author: 小肩膀-逆向安全培训
+      release_time: 2026.10.29 13:09:03
+      title: 【AI渗透实战】03.海外平台如何实现几乎零税收获取全额漏洞赏金
+      url: https://www.bilibili.com/video/BV1bnsZ63ECz
+    - author: 小肩膀-逆向安全培训
+      release_time: 2026.10.29 13:08:02
+      title: 【AI渗透实战】02.绕过海外平台机制直达private项目拿钱
+      url: https://www.bilibili.com/video/BV1SnsZ63Egh
+    - author: 小肩膀-逆向安全培训
+      release_time: 2026.10.29 13:04:39
+      title: 【AI渗透实战】01.为什么要挖海外漏洞？国内外SRC对比
+      url: https://www.bilibili.com/video/BV1stsZ6iEXc
     - author: AngelToms
       release_time: 2026.10.28 10:16:52
       title: UPX解压缩
@@ -97,33 +121,29 @@
       release_time: 2026.10.13 19:17:35
       title: Jev是什么，opus5.5一句话生成视频告诉你。本视频用fastaitoken.com的opus5.5一句话生成。
       url: https://www.bilibili.com/video/BV1arpq6JEBD
-    - author: 逆向狗都不学
-      release_time: 2026.10.13 16:10:13
-      title: Android逆向之代码和数据节区
-      url: https://www.bilibili.com/video/BV1hyWw6WEXq
-    - author: 风华Ahu
-      release_time: 2026.10.12 00:52:43
-      title: 几十行代码秒杀datadome! 携手r0ysue姐打造fhv8框架
-      url: https://www.bilibili.com/video/BV1tBpJ6tE5c
-    - author: EithanSolace
-      release_time: 2026.10.11 18:00:00
-      title: 密码学补完计划[第四十六期] RSA(前篇)
-      url: https://www.bilibili.com/video/BV1Wnpj6VE3p
-    - author: B站用户骚神
-      release_time: 2026.10.10 15:44:15
-      title: 【骚神插件 9.9.5】重大更新--新增代码录制功能
-      url: https://www.bilibili.com/video/BV1tCpv6gEaV
-    - author: B站用户骚神
-      release_time: 2026.10.08 13:41:03
-      title: Dragon English 基本英文100句（完整版中英对照）
-      url: https://www.bilibili.com/video/BV1aYHS6JEF9
-    - author: AngelToms
-      release_time: 2026.10.08 12:39:24
-      title: UPX压缩pack3-pack4
-      url: https://www.bilibili.com/video/BV1JcHD6cETN
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.10.29 23:39:05
+      title: ruyijs内置火狐60个版本真实TLS指纹——随意玩akamai
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485165&idx=1&sn=4fa67e2d8c99c3a08959fd440eb6d18d
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.10.29 17:08:51
+      title: 跨境大流量传输异常、网络监控系统遭入侵，企业被当地网信办行政处罚
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521102&idx=1&sn=36bfe0ff59121a0ce8af201f499edc81
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.10.29 17:08:51
+      title: 内蒙古网信办对98款App开展个人信息保护专项安全评估
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521102&idx=2&sn=eb68ad438ab50e996e7e131b4e060104
+    - author: 极验
+      release_time: 2026.10.29 16:00:00
+      title: 国补核销卡在哪？别光盯着 “激活” 这一步
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724837&idx=1&sn=e57cc88dda0c1189093adfdad29c23cc
+    - author: 轩辕的编程宇宙
+      release_time: 2026.10.29 15:47:09
+      title: 好家伙，CCTV央视新闻好像用Opus5.5在做动画，一句话轻松复刻！
+      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247506957&idx=1&sn=622a5ad463db81b413ba77a15504b2fc
     - author: 挖个洞先
       release_time: 2026.10.29 12:31:29
       title: 【SRC吃瓜】RCE漏洞申诉违规
@@ -224,29 +244,13 @@
       release_time: 2026.10.26 11:18:52
       title: h5st 从 反混淆 到 反编译 到算法还原
       url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247484092&idx=1&sn=67344fc9ad3704368b5f056dd50345b9
-    - author: 哆啦安全
-      release_time: 2026.10.26 10:19:35
-      title: AI智能体安全的8层防御体系
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501472&idx=1&sn=20ba75d1d28687f34f3c98fc810daa58
-    - author: 如意私塾
-      release_time: 2026.10.26 10:13:57
-      title: JS逆向终结计划-阿里234/Akamai/datadome等纯算反混淆反编译
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485136&idx=1&sn=5f54b16d8c6884ad935ad475ed9d3576
-    - author: 沐阳逆向与AI学习
-      release_time: 2026.10.26 10:00:00
-      title: 不用 Root、不用 Frida,安卓Flutter抓包新方法。eMudhra 证书事件
-      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484738&idx=1&sn=7eebc0aa331ef7595fd38e0ed1ac5626
-    - author: 爬虫逆向技术栈
-      release_time: 2026.10.26 09:30:00
-      title: DataDome 无感验证补环境
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjM5MTU3Ng==&mid=2247483984&idx=1&sn=c257a355f100c629b85f720a57e159d5
-    - author: 测试工程师成长之路
-      release_time: 2026.10.26 08:30:00
-      title: 被转行兄弟问住那次，我把 10 款 AI Agent 一次盘清了
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579451&idx=1&sn=45b0ebc3a2b7563d986fdbbb5626111d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: '13955925361'
+      release_time: 2026.10.29 17:40:00
+      title: ob及变种混淆 ast 反解skill
+      url: https://www.52pojie.cn/thread-2134847-1-1.html
     - author: 鬼魅王子
       release_time: 2026.10.27 14:08:00
       title: 某E开屏广告分析：云控、跳过按钮和链式启动
@@ -363,13 +367,13 @@
       release_time: 2026.10.01 14:34:00
       title: 买断制游戏通杀分析
       url: https://www.52pojie.cn/thread-2130620-1-1.html
-    - author: hoshu
-      release_time: 2026.10.01 00:45:00
-      title: '# 实战经验 top1：Frida 魔改 · 转译(Houdini) · Java · Native · SVC'
-      url: https://www.52pojie.cn/thread-2130559-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 一只鸭子
+      release_time: 2026.10.29 20:13:13
+      title: '[原创]把 Android 签名 so 跑在真 bionic 上：DuckDroid2 与 unidbg 的四种取舍'
+      url: https://bbs.kanxue.com/thread-293370.htm
     - author: Solar安全
       release_time: 2026.10.29 09:50:18
       title: '[原创]【勒索预警】群晖NAS最新版遭勒索病毒攻击，疑似涉及0day漏洞'
@@ -487,10 +491,6 @@
       release_time: 2026.10.13 23:40:22
       title: '[原创]从密文SO到Handler语义的对照：两家企业级加固壳的VMP逆向实录'
       url: https://bbs.kanxue.com/thread-293216.htm
-    - author: w2sfot
-      release_time: 2026.10.13 20:31:30
-      title: ' 压缩 ≠ 加密：前端代码保护的三层实践与踩坑记录 '
-      url: https://blog.csdn.net/w2sft/article/details/167812511
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
