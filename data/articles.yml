@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Coder小Q
+      release_time: 2026.10.30 08:30:00
+      title: 【杂谈】OpenAI 挑战 ETH：我们的密码还安全吗？
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247497986&idx=1&sn=c7a1059ddbdb20a42cb3ae40730cbf2f
     - author: 如意私塾
       release_time: 2026.10.29 23:39:05
       title: ruyijs内置火狐60个版本真实TLS指纹——随意玩akamai
@@ -240,10 +244,6 @@
       release_time: 2026.10.26 11:25:35
       title: 某音java/native双hook点抓包分析
       url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487431&idx=1&sn=9a54126ed4c85eaa0674e26c54ffd3e1
-    - author: 桐梓坡低手
-      release_time: 2026.10.26 11:18:52
-      title: h5st 从 反混淆 到 反编译 到算法还原
-      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247484092&idx=1&sn=67344fc9ad3704368b5f056dd50345b9
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: mb_gfcpmrfq
+      release_time: 2026.10.30 08:03:36
+      title: '[分享]PHP2Shell（CVE-2026-109618）UAF 路径分析与隔离环境复现记录'
+      url: https://bbs.kanxue.com/thread-293373.htm
     - author: 一只鸭子
       release_time: 2026.10.29 20:13:13
       title: '[原创]把 Android 签名 so 跑在真 bionic 上：DuckDroid2 与 unidbg 的四种取舍'
@@ -487,10 +491,6 @@
       release_time: 2026.10.14 10:35:44
       title: '[原创]低成本公网主动防御实践 ——TrapCloud 分布式蜜罐情报平台落地测试'
       url: https://bbs.kanxue.com/thread-293218.htm
-    - author: kudos5566
-      release_time: 2026.10.13 23:40:22
-      title: '[原创]从密文SO到Handler语义的对照：两家企业级加固壳的VMP逆向实录'
-      url: https://bbs.kanxue.com/thread-293216.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
