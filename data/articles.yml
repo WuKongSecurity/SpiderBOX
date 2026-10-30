@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.10.30 21:14:25
+      title: ruyijs直接搞定BOSS的zp_token
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485173&idx=1&sn=7229c1d03c3e1aae00f618de370ea97b
+    - author: 不落的逆向手札
+      release_time: 2026.10.30 19:37:29
+      title: 一套基于ai快速分析安卓算法的半通用打法
+      url: https://mp.weixin.qq.com/s?__biz=MzYzNTAzOTIxMw==&mid=2247483995&idx=1&sn=ee4798f73a526adf95c38074b591b8da
+    - author: 桐梓坡低手
+      release_time: 2026.10.30 18:18:22
+      title: reese84纯算
+      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247484102&idx=1&sn=8a5da5ea691b3486765f19f13fca8d29
     - author: Coder小Q
       release_time: 2026.10.30 08:30:00
       title: 【杂谈】OpenAI 挑战 ETH：我们的密码还安全吗？
@@ -232,18 +244,6 @@
       release_time: 2026.10.27 11:33:58
       title: JSVMP进阶：opcode当参数的VM
       url: https://mp.weixin.qq.com/s?__biz=MzkxMzMxMjM0Ng==&mid=2247483914&idx=1&sn=8534563ba9b8ff82dcf325a946e13d4e
-    - author: 如意私塾
-      release_time: 2026.10.27 00:02:02
-      title: 《AI渗透实战教程--20+海外企业挖漏洞拿赏金到出海收款闭环》
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485152&idx=1&sn=3c5734751df13125e49e26c9f4ae8849
-    - author: 如意私塾
-      release_time: 2026.10.26 21:20:44
-      title: 如意新品 | 完全开源新一代AI过检测轻量级浏览器-一键过腾讯/网易/极验/数美/XHS/DY
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485150&idx=1&sn=b2849820d36251691f95246969488272
-    - author: 爬虫逆向小林哥
-      release_time: 2026.10.26 11:25:35
-      title: 某音java/native双hook点抓包分析
-      url: https://mp.weixin.qq.com/s?__biz=MzU4MDY4ODU2MA==&mid=2247487431&idx=1&sn=9a54126ed4c85eaa0674e26c54ffd3e1
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 阿里云先知
+      release_time: 2026.10.30 17:48:00
+      title: 先知社区新版本升级公告
+      url: https://xz.aliyun.com/news/93072
     - author: Solar安全
       release_time: 2026.10.30 11:45:58
       title: '[原创]【勒索预警】突发，群晖NAS再遭勒索病毒攻击，疑似0day漏洞'
@@ -487,10 +491,6 @@
       release_time: 2026.10.14 22:25:57
       title: '[原创]开源一个自用的安卓逆向靶场，适合新手小白'
       url: https://bbs.kanxue.com/thread-293220.htm
-    - author: w2sfot
-      release_time: 2026.10.14 11:14:48
-      title: AI时代，还要不要进行JS代混淆加密？
-      url: https://blog.csdn.net/w2sft/article/details/167899410
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
