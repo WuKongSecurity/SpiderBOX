@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 如意-AI浏览器开发
+      release_time: 2026.10.30 11:37:15
+      title: ruyijs内置60套TLS指纹随便过akamai
+      url: https://www.bilibili.com/video/BV1mmxY6zEV7
+    - author: B站用户骚神
+      release_time: 2026.10.30 09:56:35
+      title: 【骚神插件9.9.6】-自动生成网页后台抓包代码和无障碍树定位代码！
+      url: https://www.bilibili.com/video/BV1nTxP6LEKA
     - author: 冷月不是程序员
       release_time: 2026.10.29 21:58:22
       title: 代码都变成数字了，为什么还能运行？看懂 JSVMP 虚拟机保护
@@ -113,14 +121,6 @@
       release_time: 2026.10.15 12:08:44
       title: 01 | 从零开始的小白codex配置第三方服务模型（提供安装包）
       url: https://www.bilibili.com/video/BV13MJC6xEJ3
-    - author: 和沐阳学逆向与Ai
-      release_time: 2026.10.15 10:00:00
-      title: REA 真能“逆向一切”吗？从Android逆向方面来看他的工作流程
-      url: https://www.bilibili.com/video/BV1BPpm6sEwQ
-    - author: 如意-浏览器开发培训
-      release_time: 2026.10.13 19:17:35
-      title: Jev是什么，opus5.5一句话生成视频告诉你。本视频用fastaitoken.com的opus5.5一句话生成。
-      url: https://www.bilibili.com/video/BV1arpq6JEBD
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: xingtuyu01
+      release_time: 2026.10.29 19:46:00
+      title: 某乖逻辑分析签名逆向与开发云查询设备情况系统
+      url: https://www.52pojie.cn/thread-2134854-1-1.html
     - author: '13955925361'
       release_time: 2026.10.29 17:40:00
       title: ob及变种混淆 ast 反解skill
@@ -363,13 +367,13 @@
       release_time: 2026.10.02 18:55:00
       title: 椒盐音乐（Salt Player）12.3.2 PRO 功能分析
       url: https://www.52pojie.cn/thread-2130739-1-1.html
-    - author: xmnh
-      release_time: 2026.10.01 14:34:00
-      title: 买断制游戏通杀分析
-      url: https://www.52pojie.cn/thread-2130620-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Solar安全
+      release_time: 2026.10.30 11:45:58
+      title: '[原创]【勒索预警】突发，群晖NAS再遭勒索病毒攻击，疑似0day漏洞'
+      url: https://bbs.kanxue.com/thread-293375.htm
     - author: mb_gfcpmrfq
       release_time: 2026.10.30 08:03:36
       title: '[分享]PHP2Shell（CVE-2026-109618）UAF 路径分析与隔离环境复现记录'
@@ -487,10 +491,6 @@
       release_time: 2026.10.14 11:14:48
       title: AI时代，还要不要进行JS代混淆加密？
       url: https://blog.csdn.net/w2sft/article/details/167899410
-    - author: daiyanren
-      release_time: 2026.10.14 10:35:44
-      title: '[原创]低成本公网主动防御实践 ——TrapCloud 分布式蜜罐情报平台落地测试'
-      url: https://bbs.kanxue.com/thread-293218.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
