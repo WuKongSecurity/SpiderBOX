@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2026.10.31 15:32:38
+      title: 【鱼神插件V1.2】-自动AI翻译+自动截图+斜杠命令。
+      url: https://www.bilibili.com/video/BV1dmxC6JEai
     - author: 如意-AI浏览器开发
       release_time: 2026.10.30 11:37:15
       title: ruyijs内置60套TLS指纹随便过akamai
@@ -117,10 +121,6 @@
       release_time: 2026.10.15 12:30:51
       title: 02 | 从零开始的小白claudecode配置第三方模型教程（提供安装包）
       url: https://www.bilibili.com/video/BV13KJC6oEtH
-    - author: 如意-浏览器开发培训
-      release_time: 2026.10.15 12:08:44
-      title: 01 | 从零开始的小白codex配置第三方服务模型（提供安装包）
-      url: https://www.bilibili.com/video/BV13MJC6xEJ3
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: buluo533
+      release_time: 2026.10.31 15:56:00
+      title: 一套结合ai快速分析安卓算法的半通用流程
+      url: https://www.52pojie.cn/thread-2135124-1-1.html
     - author: xingtuyu01
       release_time: 2026.10.29 19:46:00
       title: 某乖逻辑分析签名逆向与开发云查询设备情况系统
@@ -363,13 +367,13 @@
       release_time: 2026.10.02 21:47:00
       title: 七神分析之还原篇
       url: https://www.52pojie.cn/thread-2130745-1-1.html
-    - author: Bot95
-      release_time: 2026.10.02 18:55:00
-      title: 椒盐音乐（Salt Player）12.3.2 PRO 功能分析
-      url: https://www.52pojie.cn/thread-2130739-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: virjar
+      release_time: 2026.10.31 10:35:26
+      title: '[原创] token花不完，让AI写了一个apk重打包工具'
+      url: https://bbs.kanxue.com/thread-293381.htm
     - author: 阿里云先知
       release_time: 2026.10.30 17:48:00
       title: 先知社区新版本升级公告
@@ -487,10 +491,6 @@
       release_time: 2026.10.15 11:56:26
       title: '[原创]某海外电商app设备指纹收集与加密算法分析'
       url: https://bbs.kanxue.com/thread-293223.htm
-    - author: 大胖狗
-      release_time: 2026.10.14 22:25:57
-      title: '[原创]开源一个自用的安卓逆向靶场，适合新手小白'
-      url: https://bbs.kanxue.com/thread-293220.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
