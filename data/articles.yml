@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 如意私塾
+      release_time: 2026.11.02 22:09:08
+      title: ruyijs补环境一键过JetStar捷星航空-航班-座位-行李-服务跑通
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485179&idx=1&sn=fac7a2d64f2d25919d0b4de731181a4f
+    - author: 吾爱破解论坛
+      release_time: 2026.11.02 18:08:44
+      title: 【清理未活跃会员】清理2026年暑假开放注册未活跃会员公告
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144791&idx=1&sn=965ae092d63a68ed3cac5e7192842170
     - author: coderwhy
       release_time: 2026.11.02 15:44:57
       title: coderwhy漫画 - AI原理《Transformer 是怎么变成 GPT 和 ChatGPT 的？》
@@ -236,14 +244,6 @@
       release_time: 2026.10.28 10:56:45
       title: Android手机变成随身渗透测试工作站(仅授权安全测试)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501499&idx=1&sn=2164cfe3dc237821388be3bc6ef00e48
-    - author: 软件安全与逆向分析
-      release_time: 2026.10.28 10:42:10
-      title: 安卓完美云手机课程完结撒花！源码已发放
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485509&idx=1&sn=ae27ab8b9a4c7d894c98eaa5121c1c8b
-    - author: 轩辕的编程宇宙
-      release_time: 2026.10.28 10:23:59
-      title: 100万上下文，为什么才用一半就降智？可能不是你想的那样
-      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247506938&idx=1&sn=bbc89fd8545a263791b55e79343a8dd7
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -374,6 +374,10 @@
       release_time: 2026.11.02 11:39:00
       title: '[原创]【勒索解密】群晖NAS .L0CK3D勒索病毒特定条件下可解密（附解密工具）'
       url: https://bbs.kanxue.com/thread-293396.htm
+    - author: AnxiangLemon
+      release_time: 2026.11.01 18:26:40
+      title: Warp Lite ：一个专注本地使用的开源终端
+      url: https://blog.csdn.net/u014431237/article/details/169745859
     - author: 安卓逆向test
       release_time: 2026.10.31 23:11:39
       title: '[原创]内核级注入框架KCLF'
@@ -487,10 +491,6 @@
       release_time: 2026.10.15 19:06:11
       title: '[原创]OIOIC 安全引擎 v1.0'
       url: https://bbs.kanxue.com/thread-293230.htm
-    - author: 乐子人
-      release_time: 2026.10.15 14:49:40
-      title: '[原创]ai自动化逆向环境搭建与实战'
-      url: https://bbs.kanxue.com/thread-293226.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
