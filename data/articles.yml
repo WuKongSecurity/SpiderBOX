@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 漠染千舟
+      release_time: 2026.11.02 03:15:55
+      title: 某里V3解混淆
+      url: https://www.bilibili.com/video/BV1Mcxh6PEyM
     - author: B站用户骚神
       release_time: 2026.10.31 15:32:38
       title: 【鱼神插件V1.2】-自动AI翻译+自动截图+斜杠命令。
@@ -117,13 +121,29 @@
       release_time: 2026.10.15 14:00:30
       title: UPX loader 一
       url: https://www.bilibili.com/video/BV1LfJk6aEM5
-    - author: 如意-浏览器开发培训
-      release_time: 2026.10.15 12:30:51
-      title: 02 | 从零开始的小白claudecode配置第三方模型教程（提供安装包）
-      url: https://www.bilibili.com/video/BV13KJC6oEtH
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 哆啦安全
+      release_time: 2026.11.02 10:18:12
+      title: 无需解锁Bootloader、无需刷写自定义内核(可动态加载内核模块获取临时Root)
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501529&idx=1&sn=d5d6d3e5c7b3e172095867ae16ae82a6
+    - author: 榫卯江湖
+      release_time: 2026.11.02 09:05:00
+      title: 旁观者eCapture：支持龙芯，text 模式看完整 HTTP
+      url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485334&idx=1&sn=b13a8137dbc24011df2e62409932dc3c
+    - author: 测试工程师成长之路
+      release_time: 2026.11.02 08:30:00
+      title: 测试同学注意：AI 已经开始接手Android自动化了
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579482&idx=1&sn=5967bf785134a68aa628ac10b0da06d5
+    - author: Coder小Q
+      release_time: 2026.11.02 08:30:00
+      title: 【密码学·采样】ML-KEM：中心二项噪声、均匀采样与解封装失败
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247498062&idx=1&sn=a081babf55dc35818a4eab323e7b0b0d
+    - author: 如意私塾
+      release_time: 2026.11.01 15:59:59
+      title: ruyijs补环境一键过cloudflare/5s盾turnstile
+      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485177&idx=1&sn=4169972070069cd1bc534afafebe686c
     - author: 如意私塾
       release_time: 2026.10.30 21:14:25
       title: ruyijs直接搞定BOSS的zp_token
@@ -224,26 +244,6 @@
       release_time: 2026.10.27 16:43:07
       title: 国家计算机病毒应急处理中心检测发现84款违法违规收集使用个人信息的移动应用
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521076&idx=2&sn=02c124cc7241838744f09df98389e011
-    - author: coderwhy
-      release_time: 2026.10.27 15:30:00
-      title: OpenAI声称推翻ETH？ETH到底是什么？
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247490190&idx=1&sn=73f07cf501714c17ac174bcadfb83bc5
-    - author: 逆向搅屎棍
-      release_time: 2026.10.27 14:35:00
-      title: 同一家酒店采集：不用技能 16 分钟，用技能 40 多分钟
-      url: https://mp.weixin.qq.com/s?__biz=MzYzNDQzNDIyNg==&mid=2247483766&idx=1&sn=310e639e480ab1d75f2f75eaf4475a9c
-    - author: 哆啦安全
-      release_time: 2026.10.27 12:03:36
-      title: AI逆向 | APP逆向分析工具V4.7
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501489&idx=1&sn=870d01d41501ce07e820a66550ee8a54
-    - author: 流星Studio
-      release_time: 2026.10.27 11:39:13
-      title: 为了调试手机端小程序，我们做了个不用装Vx的App
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjUxNTgyMg==&mid=2247484287&idx=1&sn=06eea54997c3e83b3245ce2bda6da047
-    - author: ai辅助逆向手记
-      release_time: 2026.10.27 11:33:58
-      title: JSVMP进阶：opcode当参数的VM
-      url: https://mp.weixin.qq.com/s?__biz=MzkxMzMxMjM0Ng==&mid=2247483914&idx=1&sn=8534563ba9b8ff82dcf325a946e13d4e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 安卓逆向test
+      release_time: 2026.10.31 23:11:39
+      title: '[原创]内核级注入框架KCLF'
+      url: https://bbs.kanxue.com/thread-293385.htm
     - author: virjar
       release_time: 2026.10.31 10:35:26
       title: '[原创] token花不完，让AI写了一个apk重打包工具'
@@ -487,10 +491,6 @@
       release_time: 2026.10.15 12:21:29
       title: '[原创]某海外电商app白盒 AES 识别与密钥恢复'
       url: https://bbs.kanxue.com/thread-293224.htm
-    - author: 乐子人
-      release_time: 2026.10.15 11:56:26
-      title: '[原创]某海外电商app设备指纹收集与加密算法分析'
-      url: https://bbs.kanxue.com/thread-293223.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
