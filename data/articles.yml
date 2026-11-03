@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 毫不犹豫使用AI逆向
+      release_time: 2026.11.03 15:39:33
+      title: 企微IPAD纯协议实战：按业务拆解登录、目录、搜索与消息链路
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDU4MDY3Nw==&mid=2247483982&idx=1&sn=6c184b9b78293bfc91cadf3ba11fcfe4
+    - author: 轩辕的编程宇宙
+      release_time: 2026.11.03 14:14:21
+      title: DeepSeek Super Agent不就是主Agent带子Agent吗？换了个包装还是真创新？
+      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247506994&idx=1&sn=ece14d52a018a70c37e8d51e6fc3f54b
     - author: Coder小Q
       release_time: 2026.11.03 08:30:00
       title: 【密码学·杂谈】把一门本事锁进AI：它明明会，为什么就是答不出来？
@@ -236,14 +244,6 @@
       release_time: 2026.10.28 16:21:04
       title: 澳大利亚公布上半年数据泄露统计，强调数据最小化
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521096&idx=2&sn=3594b00593fb67ba21c167e9c05d6c8b
-    - author: 桐梓坡低手
-      release_time: 2026.10.28 16:15:44
-      title: 瑞数纯算200ms出cookie
-      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247484097&idx=1&sn=7d8b3247b8e2a8a57d394beb0c5d9c75
-    - author: 影17
-      release_time: 2026.10.28 15:05:39
-      title: 突然不知道该写点什么了
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247490838&idx=1&sn=33c2fe393e13255a75fddf4ce30a5d60
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
