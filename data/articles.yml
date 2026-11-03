@@ -124,6 +124,22 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 关于代码那点事
+      release_time: 2026.11.03 23:22:47
+      title: 逆向百例之DRM分级与Spotify音频保护分析
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MTg1NzU1NA==&mid=2247486294&idx=1&sn=750fce9d3801182d7746ef78aa927457
+    - author: 吾爱破解论坛
+      release_time: 2026.11.03 18:11:52
+      title: 【开放注册公告】吾爱破解论坛2026年11月11日光棍节开放注册公告
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144794&idx=1&sn=2dba0b9a2341243845330dacef47ea0b
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.11.03 17:17:34
+      title: 最高人民检察院发布8件依法保护公民个人信息典型案例
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521109&idx=1&sn=4dbaa3decf6b15311b6915925f59edef
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.11.03 17:17:34
+      title: 公安网安部门公布多起不履行数据安全保护义务案
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521109&idx=2&sn=02ac223c20d20195e824d69e00dbfe58
     - author: 毫不犹豫使用AI逆向
       release_time: 2026.11.03 15:39:33
       title: 企微IPAD纯协议实战：按业务拆解登录、目录、搜索与消息链路
@@ -228,25 +244,13 @@
       release_time: 2026.10.29 08:30:00
       title: 【密码学·杂谈】RSA、ECDSA 要退休了？NIST 公钥密码迁移时间表来了
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247497976&idx=1&sn=1cf78b14ca13d89b845e6fbafb784748
-    - author: 如意私塾
-      release_time: 2026.10.29 00:13:39
-      title: ruyijs一键过DataDome完整代码
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485163&idx=1&sn=91ec999f640746a694740c884f7c1bf8
-    - author: 猿人学Python
-      release_time: 2026.10.28 17:39:37
-      title: 五个月，十场猿聚，回顾一下
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550525&idx=1&sn=638d493b9721603cfd42d873fc1fe9e8
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.10.28 16:21:04
-      title: 中央网信办印发《国家信息化“十五五”规划》，部署10个方面具体任务
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521096&idx=1&sn=586f981ebc2c5c4ed45bc0f1c3c5456c
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.10.28 16:21:04
-      title: 澳大利亚公布上半年数据泄露统计，强调数据最小化
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521096&idx=2&sn=3594b00593fb67ba21c167e9c05d6c8b
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: Pueritia
+      release_time: 2026.11.02 20:10:00
+      title: '[AI-generated]某企业加固加载Frida流程'
+      url: https://www.52pojie.cn/thread-2135420-1-1.html
     - author: HackXK
       release_time: 2026.11.02 11:38:00
       title: iOS Flutter应用会员逻辑分析与静态补丁
@@ -363,13 +367,21 @@
       release_time: 2026.10.03 17:59:00
       title: 【Android】清浊 2.1.9 逆向分析
       url: https://www.52pojie.cn/thread-2130835-1-1.html
-    - author: 凶杀的微笑
-      release_time: 2026.10.02 22:28:00
-      title: 某记账APP的永久VIP功能和签名绕过等
-      url: https://www.52pojie.cn/thread-2130752-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Wangdang
+      release_time: 2026.11.03 17:08:11
+      title: '[原创]App过代理检测-透明代理'
+      url: https://bbs.kanxue.com/thread-293407.htm
+    - author: mb_nmbgyqwk
+      release_time: 2026.11.03 17:02:10
+      title: '[原创]过企业级梆梆加固'
+      url: https://bbs.kanxue.com/thread-293406.htm
+    - author: mb_nmbgyqwk
+      release_time: 2026.11.03 16:57:10
+      title: '[原创]内核级过Root检测'
+      url: https://bbs.kanxue.com/thread-293405.htm
     - author: Solar安全
       release_time: 2026.11.02 11:39:00
       title: '[原创]【勒索解密】群晖NAS .L0CK3D勒索病毒特定条件下可解密（附解密工具）'
@@ -478,19 +490,6 @@
       release_time: 2026.10.17 00:04:10
       title: '[原创]利用Fenrir漏洞提取真机keybox rkp实战经验'
       url: https://bbs.kanxue.com/thread-293246.htm
-    - author: 西瓜帅
-      release_time: 2026.10.16 22:07:54
-      title: '[原创]不用提取 CDI_Leaf：把 KeyMint TA 变成 RKP 签名 Oracle，实战拿到 Google 签发的 attestation
-        keybox'
-      url: https://bbs.kanxue.com/thread-293244.htm
-    - author: 90岁糖果超甜
-      release_time: 2026.10.16 14:11:13
-      title: '[原创] 基于 AST 的 ob 混淆还原思路：以 acw_xx__v2 为例'
-      url: https://bbs.kanxue.com/thread-293234.htm
-    - author: mb_xpdephnu
-      release_time: 2026.10.15 19:06:11
-      title: '[原创]OIOIC 安全引擎 v1.0'
-      url: https://bbs.kanxue.com/thread-293230.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
