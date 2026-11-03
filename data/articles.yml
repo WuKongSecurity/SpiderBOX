@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Coder小Q
+      release_time: 2026.11.03 08:30:00
+      title: 【密码学·杂谈】把一门本事锁进AI：它明明会，为什么就是答不出来？
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247498176&idx=1&sn=e3843580da4f4df62fb9288ef3714f49
     - author: 如意私塾
       release_time: 2026.11.02 22:09:08
       title: ruyijs补环境一键过JetStar捷星航空-航班-座位-行李-服务跑通
@@ -240,10 +244,6 @@
       release_time: 2026.10.28 15:05:39
       title: 突然不知道该写点什么了
       url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247490838&idx=1&sn=33c2fe393e13255a75fddf4ce30a5d60
-    - author: 哆啦安全
-      release_time: 2026.10.28 10:56:45
-      title: Android手机变成随身渗透测试工作站(仅授权安全测试)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501499&idx=1&sn=2164cfe3dc237821388be3bc6ef00e48
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
