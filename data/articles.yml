@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2026.11.04 11:37:21
+      title: 安卓逆向 -- 从启动闪退到 Native 解密一条链拆完某box APP
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652042223&idx=1&sn=6587ff583c63f5606cc4ea0ba04c396f
+    - author: 轩辕的编程宇宙
+      release_time: 2026.11.04 11:17:47
+      title: 搞中转站的人天塌了，Anthropic这个开源项目有点狠啊！
+      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247507003&idx=1&sn=4e96a25ce2b8fd9ce7ad4128194f04c7
     - author: 关于代码那点事
       release_time: 2026.11.03 23:22:47
       title: 逆向百例之DRM分级与Spotify音频保护分析
@@ -236,17 +244,13 @@
       release_time: 2026.10.29 10:06:33
       title: JS逆向 -- 某网站登录及拼图滑块参数逆向分析
       url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652042158&idx=1&sn=2da58dbdd005b1717af2f26e8831366c
-    - author: 哆啦安全
-      release_time: 2026.10.29 09:01:48
-      title: 一个数字击穿CA：mitmproxy“以毒攻毒”，Dart却在Android上失灵
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501510&idx=1&sn=bf69ae3a972b3b3f0e0a7f36b7aec676
-    - author: Coder小Q
-      release_time: 2026.10.29 08:30:00
-      title: 【密码学·杂谈】RSA、ECDSA 要退休了？NIST 公钥密码迁移时间表来了
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247497976&idx=1&sn=1cf78b14ca13d89b845e6fbafb784748
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: rsds0duck
+      release_time: 2026.11.04 11:16:00
+      title: 【系列文章】阿里sgmian第一篇:补环境
+      url: https://www.52pojie.cn/thread-2135697-1-1.html
     - author: Pueritia
       release_time: 2026.11.02 20:10:00
       title: '[AI-generated]某企业加固加载Frida流程'
@@ -363,13 +367,13 @@
       release_time: 2026.10.04 21:21:00
       title: r0env2026：AI 自动化安全研究环境
       url: https://www.52pojie.cn/thread-2130961-1-1.html
-    - author: Bot95
-      release_time: 2026.10.03 17:59:00
-      title: 【Android】清浊 2.1.9 逆向分析
-      url: https://www.52pojie.cn/thread-2130835-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: babyfox
+      release_time: 2026.11.04 15:17:15
+      title: '[分享]家庭和单位网络和系统安全'
+      url: https://bbs.kanxue.com/thread-293427.htm
     - author: smousef
       release_time: 2026.11.04 09:27:40
       title: '[原创]有关单向认证和双向认证的绕过'
@@ -486,10 +490,6 @@
       release_time: 2026.10.20 15:19:19
       title: '[原创]从某乐跑看高德SDK'
       url: https://bbs.kanxue.com/thread-293280.htm
-    - author: Solar安全
-      release_time: 2026.10.19 14:47:30
-      title: '[原创]【勒索预警】首发，weax勒索病毒针对用友畅捷通T+应用0day攻击溯源全流程（附IOC）'
-      url: https://bbs.kanxue.com/thread-293270.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
