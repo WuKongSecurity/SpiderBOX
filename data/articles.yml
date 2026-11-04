@@ -248,6 +248,10 @@
     term: 公众号
   - links:
     - author: rsds0duck
+      release_time: 2026.11.04 22:34:00
+      title: 【系列文章】阿里 sgmian第二篇:初始化详细分析10102
+      url: https://www.52pojie.cn/thread-2135807-1-1.html
+    - author: rsds0duck
       release_time: 2026.11.04 11:16:00
       title: 【系列文章】阿里sgmian第一篇:补环境
       url: https://www.52pojie.cn/thread-2135697-1-1.html
@@ -363,10 +367,6 @@
       release_time: 2026.10.06 16:48:00
       title: 清单自习室永久会员
       url: https://www.52pojie.cn/thread-2131131-1-1.html
-    - author: FinSectech
-      release_time: 2026.10.04 21:21:00
-      title: r0env2026：AI 自动化安全研究环境
-      url: https://www.52pojie.cn/thread-2130961-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
