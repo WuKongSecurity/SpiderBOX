@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 一只勇敢的小佳
+      release_time: 2026.11.05 23:51:02
+      title: Android hook原理 手写hook 过crc检测
+      url: https://www.bilibili.com/video/BV1FA4h6dE2E
     - author: EithanSolace
       release_time: 2026.11.04 05:58:43
       title: 密码学补完计划[第四十九期] Schnorr签名
@@ -117,13 +121,41 @@
       release_time: 2026.10.16 18:12:03
       title: 密码学补完计划[第四十七期] RSA(后篇)
       url: https://www.bilibili.com/video/BV18NJX6EERc
-    - author: r0ysue
-      release_time: 2026.10.16 11:27:48
-      title: REA逆向一切的能力99.9%来自于AI本身
-      url: https://www.bilibili.com/video/BV1ThJQ6kEV3
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 吾爱破解论坛
+      release_time: 2026.11.05 17:52:32
+      title: 吾爱破解论坛技术区“AI”新规已正式上线
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144804&idx=1&sn=eaaab88584aca4b09a981e164f9360e6
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.11.05 17:49:21
+      title: 湖南省网信办发布一批医疗健康领域个人信息保护专项行动执法案例
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521136&idx=1&sn=a9039a24b514cc901bee509541253391
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.11.05 17:49:21
+      title: 日本无印良品APP遭非法访问导致个人信息泄露，官方回应称不涉及中国会员信息
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521136&idx=2&sn=11d8dc3c959ecc421c876630a6b5652f
+    - author: coderwhy
+      release_time: 2026.11.05 16:00:00
+      title: 技术解析：TraderTraitor黑客是如何一步步盗取币安63亿美元的？
+      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247490293&idx=1&sn=7a3814beb75f1fe0a70323bbbb37c4e1
+    - author: 极验
+      release_time: 2026.11.05 16:00:00
+      title: 当机器流量进入结算，平台该在哪里止损？
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724849&idx=1&sn=489830675fa24ac011dfdcd174ce5a55
+    - author: 哆啦安全
+      release_time: 2026.11.05 14:22:30
+      title: AI安全工程师五层必备技能
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501546&idx=1&sn=4c1e50744941ea4b63f30a6a92f73990
+    - author: 逆向有你
+      release_time: 2026.11.05 12:08:14
+      title: JS逆向 -- js 事件 事件循环 和异步（一）
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652042229&idx=1&sn=aced99a9ea77ae915e1375c43350831e
+    - author: 逆向有你
+      release_time: 2026.11.05 12:08:14
+      title: JS逆向 -- js 事件 事件循环 和异步（二）
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652042229&idx=2&sn=6f62561cf7b57c4e1ec750bb102137dc
     - author: Coder小Q
       release_time: 2026.11.05 08:30:00
       title: 【密码学·采样】ML-DSA：一套标准里的多种拒绝采样
@@ -212,41 +244,17 @@
       release_time: 2026.10.31 22:28:44
       title: 刚刚，DeepSeek 开源了一个全新的项目：Super-agent
       url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247506963&idx=1&sn=87a11d87dddb13a9dcad00a7e599148f
-    - author: 如意私塾
-      release_time: 2026.10.30 21:14:25
-      title: ruyijs直接搞定BOSS的zp_token
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485173&idx=1&sn=7229c1d03c3e1aae00f618de370ea97b
-    - author: 不落的逆向手札
-      release_time: 2026.10.30 19:37:29
-      title: 一套基于ai快速分析安卓算法的半通用打法
-      url: https://mp.weixin.qq.com/s?__biz=MzYzNTAzOTIxMw==&mid=2247483995&idx=1&sn=ee4798f73a526adf95c38074b591b8da
-    - author: 桐梓坡低手
-      release_time: 2026.10.30 18:18:22
-      title: reese84纯算
-      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247484102&idx=1&sn=8a5da5ea691b3486765f19f13fca8d29
-    - author: Coder小Q
-      release_time: 2026.10.30 08:30:00
-      title: 【杂谈】OpenAI 挑战 ETH：我们的密码还安全吗？
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247497986&idx=1&sn=c7a1059ddbdb20a42cb3ae40730cbf2f
-    - author: 如意私塾
-      release_time: 2026.10.29 23:39:05
-      title: ruyijs内置火狐60个版本真实TLS指纹——随意玩akamai
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485165&idx=1&sn=4fa67e2d8c99c3a08959fd440eb6d18d
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.10.29 17:08:51
-      title: 跨境大流量传输异常、网络监控系统遭入侵，企业被当地网信办行政处罚
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521102&idx=1&sn=36bfe0ff59121a0ce8af201f499edc81
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.10.29 17:08:51
-      title: 内蒙古网信办对98款App开展个人信息保护专项安全评估
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521102&idx=2&sn=eb68ad438ab50e996e7e131b4e060104
-    - author: 极验
-      release_time: 2026.10.29 16:00:00
-      title: 国补核销卡在哪？别光盯着 “激活” 这一步
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724837&idx=1&sn=e57cc88dda0c1189093adfdad29c23cc
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: rsds0duck
+      release_time: 2026.11.05 11:57:00
+      title: 【系列文章】阿里 sgmian 番外篇:阿里花指令与数据类型规范
+      url: https://www.52pojie.cn/thread-2135889-1-1.html
+    - author: rsds0duck
+      release_time: 2026.11.05 11:55:00
+      title: 【系列文章】阿里 sgmian 番外篇:阿里花指令与数据类型规范
+      url: https://www.52pojie.cn/thread-2135887-1-1.html
     - author: rsds0duck
       release_time: 2026.11.04 22:34:00
       title: 【系列文章】阿里 sgmian第二篇:初始化详细分析10102
@@ -359,17 +367,13 @@
       release_time: 2026.10.10 20:07:00
       title: 【算法分析】某 PHP 混淆器 V3.1.0 静态解混淆与防护强度评测
       url: https://www.52pojie.cn/thread-2131844-1-1.html
-    - author: mysticz
-      release_time: 2026.10.10 09:43:00
-      title: spiderdemo T30 WebSocket+jsvmp题解及详细思路
-      url: https://www.52pojie.cn/thread-2131711-1-1.html
-    - author: Defienite
-      release_time: 2026.10.06 16:48:00
-      title: 清单自习室永久会员
-      url: https://www.52pojie.cn/thread-2131131-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 和沉默做朋友
+      release_time: 2026.11.05 17:48:49
+      title: '[原创]PHP2Shell 复现连载（四）：加固、自查与应急响应'
+      url: https://bbs.kanxue.com/thread-293435.htm
     - author: 和沉默做朋友
       release_time: 2026.11.04 21:24:49
       title: '[原创]PHP2Shell 复现连载（三）：环境搭建、UAF 验证，与两条路径的完整辨析'
@@ -486,10 +490,6 @@
       release_time: 2026.10.21 17:46:01
       title: '[原创]《安卓逆向负基础之正向开发实践》03：MuzicBox 后台音乐播放与 Service'
       url: https://bbs.kanxue.com/thread-293286.htm
-    - author: Tasfa
-      release_time: 2026.10.21 15:19:15
-      title: 【Attention系列】GQA:分组查询注意力机制
-      url: https://blog.csdn.net/qq_30135181/article/details/168654718
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
