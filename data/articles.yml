@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: Coder小Q
+      release_time: 2026.11.05 08:30:00
+      title: 【密码学·采样】ML-DSA：一套标准里的多种拒绝采样
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247498212&idx=1&sn=1250c0ee3b441c26309f0d88551d6a42
     - author: 个人信息与数据保护实务评论
       release_time: 2026.11.04 17:21:32
       title: 杭州出台重点产业风控法务指引：“杭州合规码”正式上线
@@ -240,10 +244,6 @@
       release_time: 2026.10.29 16:00:00
       title: 国补核销卡在哪？别光盯着 “激活” 这一步
       url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724837&idx=1&sn=e57cc88dda0c1189093adfdad29c23cc
-    - author: 轩辕的编程宇宙
-      release_time: 2026.10.29 15:47:09
-      title: 好家伙，CCTV央视新闻好像用Opus5.5在做动画，一句话轻松复刻！
-      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247506957&idx=1&sn=622a5ad463db81b413ba77a15504b2fc
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
