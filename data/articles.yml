@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2026.11.06 10:04:50
+      title: 安卓逆向 -- 使用Claude Code+deepseekv4分析安卓ELF外挂样本
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652042233&idx=1&sn=ef95ebd6a65dc7b6f4b1d63c154c78bc
+    - author: Coder小Q
+      release_time: 2026.11.06 08:30:00
+      title: 【密码学·杂谈】这只 AI 画的狗，藏着一个看不见的暗号
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247498240&idx=1&sn=d34a310683e7eed4d996b938b314ee0f
     - author: 吾爱破解论坛
       release_time: 2026.11.05 17:52:32
       title: 吾爱破解论坛技术区“AI”新规已正式上线
@@ -236,14 +244,6 @@
       release_time: 2026.11.02 08:30:00
       title: 【密码学·采样】ML-KEM：中心二项噪声、均匀采样与解封装失败
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247498062&idx=1&sn=a081babf55dc35818a4eab323e7b0b0d
-    - author: 如意私塾
-      release_time: 2026.11.01 15:59:59
-      title: ruyijs补环境一键过cloudflare/5s盾turnstile
-      url: https://mp.weixin.qq.com/s?__biz=MzkzMjY5MjY3NQ==&mid=2247485177&idx=1&sn=4169972070069cd1bc534afafebe686c
-    - author: 轩辕的编程宇宙
-      release_time: 2026.10.31 22:28:44
-      title: 刚刚，DeepSeek 开源了一个全新的项目：Super-agent
-      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247506963&idx=1&sn=87a11d87dddb13a9dcad00a7e599148f
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -371,6 +371,10 @@
     term: 吾爱破解
   - links:
     - author: 和沉默做朋友
+      release_time: 2026.11.06 00:03:12
+      title: '[原创]20块钱的高通随身WiFi：从EDL刷机到跳板C2的完整链路'
+      url: https://bbs.kanxue.com/thread-293438.htm
+    - author: 和沉默做朋友
       release_time: 2026.11.05 17:48:49
       title: '[原创]PHP2Shell 复现连载（四）：加固、自查与应急响应'
       url: https://bbs.kanxue.com/thread-293435.htm
@@ -486,10 +490,6 @@
       release_time: 2026.10.21 23:14:47
       title: '[原创]js逆向 ----验证码专题---百度曲线挂绳验证码（行为轨迹验证码）'
       url: https://bbs.kanxue.com/thread-293290.htm
-    - author: D_Wave
-      release_time: 2026.10.21 17:46:01
-      title: '[原创]《安卓逆向负基础之正向开发实践》03：MuzicBox 后台音乐播放与 Service'
-      url: https://bbs.kanxue.com/thread-293286.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
