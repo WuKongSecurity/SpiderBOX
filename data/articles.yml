@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: mb_dcvvjyqc
+      release_time: 2026.11.07 03:31:11
+      title: '[原创] CVE-2025-54068 实战：未授权打穿 Livewire 站点并落地 WebShell'
+      url: https://bbs.kanxue.com/thread-293445.htm
     - author: Solar安全
       release_time: 2026.11.06 17:35:07
       title: '[原创]【反诈实录】老板被骗一万余元后，我们取得了诈骗平台服务器权限'
@@ -486,10 +490,6 @@
       release_time: 2026.10.22 16:40:17
       title: '[原创] SecShell 纯静态脱壳 [AI]'
       url: https://bbs.kanxue.com/thread-293299.htm
-    - author: 西瓜帅
-      release_time: 2026.10.22 15:02:06
-      title: '[讨论] 这看雪安卓的版主是F5吗，开创先河的无痕hook这么好的技术 没加精'
-      url: https://bbs.kanxue.com/thread-293297.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
