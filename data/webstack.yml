@@ -3285,6 +3285,11 @@
           logo: lt.jpg
           url: https://www.lthttp.net/
           description: 【需实名】骆驼 HTTP，全国海量 IP 资源，99%+ 可用率，满足您任何数据服务需求，帮助您轻松进入数据时代，客户经理一对一 7*24 小时服务，为每个企业客户提供优质的 IP 解决方案
+        - title: XSpark
+          logo: xspark.jpg
+          url: https://www.xspark.cn/
+          description: 【需实名】XSpark 提供静态 ISP 代理与静态数据中心代理，独享纯净，稳定低延迟，覆盖全球 100+ 国家/地区，适用于跨境电商、社媒矩阵、出海直播等业务场景。支持免费测试、API 接入及企业定制
+
 #        - title: IPIDEA 国内版
 #          logo: ipidea.jpg
 #          url: https://share.ipidea.net/OLrYNd
@@ -3711,6 +3716,10 @@
           logo: s77.png
           url: https://www.s77.cn/
           description: S77 Proxy 是专业海外代理IP服务商，提供全球静态住宅代理、动态住宅代理、静态数据中心代理，支持HTTP、HTTPS、Socks5协议，海量海外住宅IP，纯净度高去重、线路稳定，可为企业定制海外代理IP方案，支持在线免费测试
+        - title: Lilproxy
+          logo: lilproxy.png
+          url: https://lilproxy.io/
+          description: Lil Proxy 专业全球代理 IP 服务商，提供住宅代理、静态 ISP、移动代理及无限代理资源，覆盖全球 200+ 国家和地区，支持灵活定制，适用于跨境电商、数据采集、社媒运营及 AI 业务
 
 #        - title: IPIDEA
 #          logo: ipidea.jpg
