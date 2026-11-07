@@ -248,6 +248,10 @@
     term: 公众号
   - links:
     - author: rsds0duck
+      release_time: 2026.11.08 02:08:00
+      title: 【系列文章】阿里 sgmian 第二篇:签名命令分析 70102 之 VMP 分析
+      url: https://www.52pojie.cn/thread-2136312-1-1.html
+    - author: rsds0duck
       release_time: 2026.11.05 11:57:00
       title: 【系列文章】阿里 sgmian 番外篇:阿里花指令与数据类型规范
       url: https://www.52pojie.cn/thread-2135889-1-1.html
@@ -363,13 +367,13 @@
       release_time: 2026.10.11 03:20:00
       title: 某动世界校园逆向分析
       url: https://www.52pojie.cn/thread-2131871-1-1.html
-    - author: imgjx
-      release_time: 2026.10.10 20:07:00
-      title: 【算法分析】某 PHP 混淆器 V3.1.0 静态解混淆与防护强度评测
-      url: https://www.52pojie.cn/thread-2131844-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 弄死o
+      release_time: 2026.11.08 03:58:37
+      title: '[原创]某安卓FPS外挂逆向:自解压ELF脱壳到内核硬件断点(上)'
+      url: https://bbs.kanxue.com/thread-293457.htm
     - author: 一只鸭子
       release_time: 2026.11.08 02:19:28
       title: '[原创]阿里 sgmian 第三篇:签名命令分析 70102 之 VMP 分析'
@@ -486,10 +490,6 @@
       release_time: 2026.10.24 18:06:27
       title: '[原创]记录第一次的so文件逆向分析'
       url: https://bbs.kanxue.com/thread-293318.htm
-    - author: xiao_qi_lin
-      release_time: 2026.10.24 12:14:46
-      title: '[原创] 京东 jdgs 签名参数逆向：OLLVM + 自定义 VM 双重保护下七字段全还原'
-      url: https://bbs.kanxue.com/thread-293313.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
