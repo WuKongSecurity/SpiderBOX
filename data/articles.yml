@@ -418,6 +418,10 @@
       release_time: 2026.11.02 11:39:00
       title: '[原创]【勒索解密】群晖NAS .L0CK3D勒索病毒特定条件下可解密（附解密工具）'
       url: https://bbs.kanxue.com/thread-293396.htm
+    - author: 吃苹果的牛顿顿
+      release_time: 2026.11.02 10:46:01
+      title: windows更新系统后，双显示器仅识别单个显示器
+      url: https://blog.csdn.net/qq_29402011/article/details/169828202
     - author: AnxiangLemon
       release_time: 2026.11.01 18:26:40
       title: Warp Lite ：一个专注本地使用的开源终端
@@ -486,10 +490,6 @@
       release_time: 2026.10.23 02:41:12
       title: '[分享]定制 ROM 设计解析 从应用画像到系统执行：AOSP、ART 与内核共同构成的环境模拟体系。【上】'
       url: https://bbs.kanxue.com/thread-293302.htm
-    - author: Tubbs
-      release_time: 2026.10.22 16:40:17
-      title: '[原创] SecShell 纯静态脱壳 [AI]'
-      url: https://bbs.kanxue.com/thread-293299.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
