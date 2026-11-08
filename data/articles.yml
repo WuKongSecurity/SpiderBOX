@@ -1,6 +1,14 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2026.11.08 12:13:12
+      title: 【鱼神插件】-用"嘴"在浏览器里调试和生成微软邮箱注册代码
+      url: https://www.bilibili.com/video/BV1qB4s6qEYb
+    - author: 冷月不是程序员
+      release_time: 2026.11.08 11:11:53
+      title: 【教程】如何在Codex上使用DeepSeek一个视频告诉你
+      url: https://www.bilibili.com/video/BV17E4x6gEaA
     - author: 逆向狗都不学
       release_time: 2026.11.06 15:02:17
       title: Android逆向之SO文件加载与执行
@@ -113,14 +121,6 @@
       release_time: 2026.10.18 21:44:15
       title: 【教程】一个视频告诉你学习版本软件怎么做
       url: https://www.bilibili.com/video/BV17Tn564Efk
-    - author: 池唐不是糖
-      release_time: 2026.10.18 18:08:53
-      title: 用脚还原upx？
-      url: https://www.bilibili.com/video/BV1y9n36tEB4
-    - author: 如意-AI浏览器开发
-      release_time: 2026.10.17 00:54:15
-      title: 04 | 从零开始的小白Grok配置马斯克X模型教程（提供工具包）
-      url: https://www.bilibili.com/video/BV1GcJ86XEKu
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
