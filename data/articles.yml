@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 我是不会改名的
+      release_time: 2026.11.08 12:40:00
+      title: 某酷 x-sign  x-mini-wua  x-umt 算法逆向分析
+      url: https://www.52pojie.cn/thread-2136348-1-1.html
     - author: rsds0duck
       release_time: 2026.11.08 02:08:00
       title: 【系列文章】阿里 sgmian 第二篇:签名命令分析 70102 之 VMP 分析
@@ -363,10 +367,6 @@
       release_time: 2026.10.12 00:42:00
       title: 【原创】博喻云管控 Android 客户端 TLS 证书与主机名校验缺失分析
       url: https://www.52pojie.cn/thread-2131998-1-1.html
-    - author: nomi37
-      release_time: 2026.10.11 03:20:00
-      title: 某动世界校园逆向分析
-      url: https://www.52pojie.cn/thread-2131871-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
