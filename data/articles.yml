@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: QDII研究员
+      release_time: 2026.11.09 17:13:38
+      title: QDII日报｜11月9日：纳指100溢价全线回落逾2个百分点
+      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484859&idx=1&sn=7877df2b678c31179aaae0f6e3564abe
     - author: 测试工程师成长之路
       release_time: 2026.11.09 08:30:00
       title: UI 自动化的尽头，是不写 UI 自动化？
@@ -240,10 +244,6 @@
       release_time: 2026.11.02 10:18:12
       title: 无需解锁Bootloader、无需刷写自定义内核(可动态加载内核模块获取临时Root)
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501529&idx=1&sn=d5d6d3e5c7b3e172095867ae16ae82a6
-    - author: 榫卯江湖
-      release_time: 2026.11.02 09:05:00
-      title: 旁观者eCapture：支持龙芯，text 模式看完整 HTTP
-      url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485334&idx=1&sn=b13a8137dbc24011df2e62409932dc3c
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -255,6 +255,10 @@
       release_time: 2026.11.08 02:08:00
       title: 【系列文章】阿里 sgmian 第二篇:签名命令分析 70102 之 VMP 分析
       url: https://www.52pojie.cn/thread-2136312-1-1.html
+    - author: 看等非军事
+      release_time: 2026.11.07 14:51:00
+      title: 【含AIGC】逆向/学习墨西哥国家选举委员会身份证认证App
+      url: https://www.52pojie.cn/thread-2136248-1-1.html
     - author: rsds0duck
       release_time: 2026.11.05 11:57:00
       title: 【系列文章】阿里 sgmian 番外篇:阿里花指令与数据类型规范
@@ -363,13 +367,25 @@
       release_time: 2026.10.12 09:54:00
       title: 某里acwv2滑块验证码补环境全流程详细讲解
       url: https://www.52pojie.cn/thread-2132043-1-1.html
-    - author: dahi
-      release_time: 2026.10.12 00:42:00
-      title: 【原创】博喻云管控 Android 客户端 TLS 证书与主机名校验缺失分析
-      url: https://www.52pojie.cn/thread-2131998-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Yangser
+      release_time: 2026.11.09 16:58:45
+      title: '[原创] 无痕 hook 检测方案'
+      url: https://bbs.kanxue.com/thread-293473.htm
+    - author: 巷口的那只猫
+      release_time: 2026.11.09 15:58:38
+      title: '[原创]海外企业壳DexProtector静态解密还原dex'
+      url: https://bbs.kanxue.com/thread-293472.htm
+    - author: wx_ThreeBoy
+      release_time: 2026.11.09 15:41:38
+      title: '[讨论]之前爬过的论坛升级了, id全部被hashids加密了,有啥办法逆出吗'
+      url: https://bbs.kanxue.com/thread-293471.htm
+    - author: smousef
+      release_time: 2026.11.09 11:07:11
+      title: '[原创]调用activity组件修改用户密码登录'
+      url: https://bbs.kanxue.com/thread-293465.htm
     - author: 弄死o
       release_time: 2026.11.08 03:58:37
       title: '[原创]某安卓FPS外挂逆向:自解压ELF脱壳到内核硬件断点(上)'
@@ -474,22 +490,6 @@
       release_time: 2026.10.27 11:03:43
       title: '[分享]国家信息安全漏洞库CNNVD在1-10月发布的部分漏洞通报'
       url: https://bbs.kanxue.com/thread-293340.htm
-    - author: babyfox
-      release_time: 2026.10.27 10:02:38
-      title: '[分享]国家互联网应急中心9-10月威胁预警'
-      url: https://bbs.kanxue.com/thread-293339.htm
-    - author: 乐子
-      release_time: 2026.10.27 01:24:34
-      title: '[分享]定制 ROM 设计解析 从应用画像到系统执行：AOSP、ART 与内核共同构成的环境模拟体系。【中】'
-      url: https://bbs.kanxue.com/thread-293338.htm
-    - author: Wika
-      release_time: 2026.10.26 08:47:53
-      title: '[原创] 分享一个 Android / iOS 逆向 Skill：让 Claude Code、Codex 按证据推进分析'
-      url: https://bbs.kanxue.com/thread-293328.htm
-    - author: mb_rqgxdcwg
-      release_time: 2026.10.24 18:06:27
-      title: '[原创]记录第一次的so文件逆向分析'
-      url: https://bbs.kanxue.com/thread-293318.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
