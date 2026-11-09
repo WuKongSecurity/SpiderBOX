@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 测试工程师成长之路
+      release_time: 2026.11.09 08:30:00
+      title: UI 自动化的尽头，是不写 UI 自动化？
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579500&idx=1&sn=34db3371a88dd30ae6484e3a4b2d274b
+    - author: 柳絮的学习杂记
+      release_time: 2026.11.08 20:57:14
+      title: datadome 大并发
+      url: https://mp.weixin.qq.com/s?__biz=MzIzMDEwOTY4MA==&mid=2247483772&idx=1&sn=da301260f55930db87853dba81b36f36
     - author: 逆向有你
       release_time: 2026.11.06 10:04:50
       title: 安卓逆向 -- 使用Claude Code+deepseekv4分析安卓ELF外挂样本
@@ -236,14 +244,6 @@
       release_time: 2026.11.02 09:05:00
       title: 旁观者eCapture：支持龙芯，text 模式看完整 HTTP
       url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485334&idx=1&sn=b13a8137dbc24011df2e62409932dc3c
-    - author: 测试工程师成长之路
-      release_time: 2026.11.02 08:30:00
-      title: 测试同学注意：AI 已经开始接手Android自动化了
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579482&idx=1&sn=5967bf785134a68aa628ac10b0da06d5
-    - author: Coder小Q
-      release_time: 2026.11.02 08:30:00
-      title: 【密码学·采样】ML-KEM：中心二项噪声、均匀采样与解封装失败
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247498062&idx=1&sn=a081babf55dc35818a4eab323e7b0b0d
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
