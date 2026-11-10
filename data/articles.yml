@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: EithanSolace
+      release_time: 2026.11.10 08:00:00
+      title: 密码学补完计划[第五十期] DSA
+      url: https://www.bilibili.com/video/BV1LWWN6vEnQ
     - author: B站用户骚神
       release_time: 2026.11.08 12:13:12
       title: 【鱼神插件】-用"嘴"在浏览器里调试和生成微软邮箱注册代码
@@ -117,13 +121,13 @@
       release_time: 2026.10.19 14:19:05
       title: 【鱼神插件V1.0】网页版DeepSeek超级增强插件！大肥鱼秒变大鲨鱼！
       url: https://www.bilibili.com/video/BV1vzn76wE2G
-    - author: 冷月不是程序员
-      release_time: 2026.10.18 21:44:15
-      title: 【教程】一个视频告诉你学习版本软件怎么做
-      url: https://www.bilibili.com/video/BV17Tn564Efk
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 软件安全与逆向分析
+      release_time: 2026.11.10 11:21:35
+      title: 幸福双十一，购课享五折
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485514&idx=1&sn=d3922850ce2946c7f73cf89e7d2da7c0
     - author: QDII研究员
       release_time: 2026.11.09 17:13:38
       title: QDII日报｜11月9日：纳指100溢价全线回落逾2个百分点
@@ -240,10 +244,6 @@
       release_time: 2026.11.02 15:04:23
       title: 用JEV模型抓大肥鱼咯，来魔法对轰吧！
       url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247506981&idx=1&sn=3af2a7cca897814031076d67aa8711a5
-    - author: 哆啦安全
-      release_time: 2026.11.02 10:18:12
-      title: 无需解锁Bootloader、无需刷写自定义内核(可动态加载内核模块获取临时Root)
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501529&idx=1&sn=d5d6d3e5c7b3e172095867ae16ae82a6
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
