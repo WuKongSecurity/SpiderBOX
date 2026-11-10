@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 风华Ahu
+      release_time: 2026.11.11 02:49:40
+      title: fhv8库3分钟速通kasada！
+      url: https://www.bilibili.com/video/BV1maWG6GEZo
     - author: AngelToms
       release_time: 2026.11.10 13:25:19
       title: 基于linker的so加固-linker的作用
@@ -117,10 +121,6 @@
       release_time: 2026.10.21 08:26:22
       title: UPX loader二
       url: https://www.bilibili.com/video/BV1K5ni6wEFd
-    - author: B站用户骚神
-      release_time: 2026.10.19 15:11:14
-      title: 鱼神插件1.0-网页版Deepseek增强插件-可以在浏览器里调试drissionpage代码
-      url: https://www.bilibili.com/video/BV1uqnn6cESy
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
