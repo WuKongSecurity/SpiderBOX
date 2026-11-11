@@ -124,6 +124,14 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 猿人学Python
+      release_time: 2026.11.11 11:03:02
+      title: 刚毕业就被按头实刑 - 爬虫er100人
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550536&idx=1&sn=81d2a19c7c7189154dccba9eecf67753
+    - author: 沐阳逆向与AI学习
+      release_time: 2026.11.11 10:00:00
+      title: 【双十一限时】安卓+iOS逆向双端全能课，双课合报直降千元
+      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484747&idx=1&sn=19ac08d8a59a601bee8c50d53f731198
     - author: 上海电特安隐私安全运营技术
       release_time: 2026.11.10 19:00:00
       title: 双十一活动钜惠来袭
@@ -184,6 +192,10 @@
       release_time: 2026.11.08 20:57:14
       title: datadome 大并发
       url: https://mp.weixin.qq.com/s?__biz=MzIzMDEwOTY4MA==&mid=2247483772&idx=1&sn=da301260f55930db87853dba81b36f36
+    - author: 吾爱破解论坛
+      release_time: 2026.11.07 13:04:32
+      title: 【开放注册公告】吾爱破解论坛2026年11月11日光棍节开放注册公告
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144807&idx=1&sn=38ff9375ad0d69d4b1a0489aff3032e5
     - author: 逆向有你
       release_time: 2026.11.06 10:04:50
       title: 安卓逆向 -- 使用Claude Code+deepseekv4分析安卓ELF外挂样本
@@ -232,18 +244,6 @@
       release_time: 2026.11.04 17:21:32
       title: 杭州出台重点产业风控法务指引：“杭州合规码”正式上线
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521128&idx=1&sn=f7a646d7e7807086f2582906d996c30a
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.11.04 17:21:32
-      title: 欧盟法院佐审官发表意见：AI聊天机器人特定情形下可能侵犯新闻出版商权利
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521128&idx=2&sn=d85290a982ea386a7b43f0878117d9d4
-    - author: 逆向有你
-      release_time: 2026.11.04 11:37:21
-      title: 安卓逆向 -- 从启动闪退到 Native 解密一条链拆完某box APP
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652042223&idx=1&sn=6587ff583c63f5606cc4ea0ba04c396f
-    - author: 轩辕的编程宇宙
-      release_time: 2026.11.04 11:17:47
-      title: 搞中转站的人天塌了，Anthropic这个开源项目有点狠啊！
-      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247507003&idx=1&sn=4e96a25ce2b8fd9ce7ad4128194f04c7
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
