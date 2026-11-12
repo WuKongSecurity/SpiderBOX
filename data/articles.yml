@@ -125,6 +125,22 @@
     term: 哔哩哔哩
   - links:
     - author: QDII研究员
+      release_time: 2026.11.12 16:23:11
+      title: QDII日报｜11月12日：纳指100溢价全线回落，中位数单日降3.51个百分点
+      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484888&idx=1&sn=75f86ad06d8efc9076a833f28e0175c5
+    - author: 极验
+      release_time: 2026.11.12 16:00:00
+      title: 为什么拦截率达到90%，黑产攻击仍然不会停止？
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724865&idx=1&sn=b8835b2c1b5b00a513f360dda9e2f061
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.11.12 15:55:46
+      title: 浙江网信办等部门发布2026版浙江自贸区数据出境负面清单
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521168&idx=1&sn=39f79a6e274eaa79d94511672955c538
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.11.12 15:55:46
+      title: 欧洲数据保护委员会明确2027年第六次协调执法行动主题：招聘环节的自动化决策
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521168&idx=2&sn=372215f4f5ff03f1eb592904e46b6516
+    - author: QDII研究员
       release_time: 2026.11.11 17:17:29
       title: QDII日报｜11月11日：美股回调引发抢筹，纳指100溢价全线走扩
       url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484883&idx=1&sn=c15599905fdd11ee1cc74cc0a976cb94
@@ -228,22 +244,6 @@
       release_time: 2026.11.05 17:49:21
       title: 湖南省网信办发布一批医疗健康领域个人信息保护专项行动执法案例
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521136&idx=1&sn=a9039a24b514cc901bee509541253391
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.11.05 17:49:21
-      title: 日本无印良品APP遭非法访问导致个人信息泄露，官方回应称不涉及中国会员信息
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521136&idx=2&sn=11d8dc3c959ecc421c876630a6b5652f
-    - author: coderwhy
-      release_time: 2026.11.05 16:00:00
-      title: 技术解析：TraderTraitor黑客是如何一步步盗取币安63亿美元的？
-      url: https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247490293&idx=1&sn=7a3814beb75f1fe0a70323bbbb37c4e1
-    - author: 极验
-      release_time: 2026.11.05 16:00:00
-      title: 当机器流量进入结算，平台该在哪里止损？
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724849&idx=1&sn=489830675fa24ac011dfdcd174ce5a55
-    - author: 哆啦安全
-      release_time: 2026.11.05 14:22:30
-      title: AI安全工程师五层必备技能
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501546&idx=1&sn=4c1e50744941ea4b63f30a6a92f73990
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: smousef
+      release_time: 2026.11.12 15:43:49
+      title: '[原创]中某APP客户端登录请求参数和加密内容逆向分析生成'
+      url: https://bbs.kanxue.com/thread-293510.htm
     - author: 小黄鸭爱学习
       release_time: 2026.11.11 14:06:14
       title: 逆向已死，AI当立！！！逆向工程师该何去何从
@@ -486,10 +490,6 @@
       release_time: 2026.10.31 23:11:39
       title: '[原创]内核级注入框架KCLF'
       url: https://bbs.kanxue.com/thread-293385.htm
-    - author: virjar
-      release_time: 2026.10.31 10:35:26
-      title: '[原创] token花不完，让AI写了一个apk重打包工具'
-      url: https://bbs.kanxue.com/thread-293381.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
