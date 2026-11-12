@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: QDII研究员
+      release_time: 2026.11.11 17:17:29
+      title: QDII日报｜11月11日：美股回调引发抢筹，纳指100溢价全线走扩
+      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484883&idx=1&sn=c15599905fdd11ee1cc74cc0a976cb94
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.11.11 17:03:23
+      title: 上海市网信办通报2026年第七批属地App问题（智能设备专项）
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521144&idx=1&sn=5e8ed82e736b18d5ce2faa6701cbdebf
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.11.11 17:03:23
+      title: 联邦快递因虚假声明不出售共享个人信息等问题被加州隐私保护局处以297.5万美元罚款
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521144&idx=2&sn=14a1c2fa31a7bd7cd304117c1c418cdf
     - author: 猿人学Python
       release_time: 2026.11.11 11:03:02
       title: 刚毕业就被按头实刑 - 爬虫er100人
@@ -132,6 +144,10 @@
       release_time: 2026.11.11 10:00:00
       title: 【双十一限时】安卓+iOS逆向双端全能课，双课合报直降千元
       url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484747&idx=1&sn=19ac08d8a59a601bee8c50d53f731198
+    - author: QDII研究员
+      release_time: 2026.11.10 22:38:59
+      title: QDII日报｜11月10日：嘉实纳指100申购额度
+      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484877&idx=1&sn=497a5cc7f948ddee723d2b3ec6524d12
     - author: 上海电特安隐私安全运营技术
       release_time: 2026.11.10 19:00:00
       title: 双十一活动钜惠来袭
@@ -228,22 +244,6 @@
       release_time: 2026.11.05 14:22:30
       title: AI安全工程师五层必备技能
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501546&idx=1&sn=4c1e50744941ea4b63f30a6a92f73990
-    - author: 逆向有你
-      release_time: 2026.11.05 12:08:14
-      title: JS逆向 -- js 事件 事件循环 和异步（一）
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652042229&idx=1&sn=aced99a9ea77ae915e1375c43350831e
-    - author: 逆向有你
-      release_time: 2026.11.05 12:08:14
-      title: JS逆向 -- js 事件 事件循环 和异步（二）
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652042229&idx=2&sn=6f62561cf7b57c4e1ec750bb102137dc
-    - author: Coder小Q
-      release_time: 2026.11.05 08:30:00
-      title: 【密码学·采样】ML-DSA：一套标准里的多种拒绝采样
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247498212&idx=1&sn=1250c0ee3b441c26309f0d88551d6a42
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.11.04 17:21:32
-      title: 杭州出台重点产业风控法务指引：“杭州合规码”正式上线
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521128&idx=1&sn=f7a646d7e7807086f2582906d996c30a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
