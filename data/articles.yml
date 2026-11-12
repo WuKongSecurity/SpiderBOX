@@ -152,6 +152,10 @@
       release_time: 2026.11.11 17:03:23
       title: 联邦快递因虚假声明不出售共享个人信息等问题被加州隐私保护局处以297.5万美元罚款
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521144&idx=2&sn=14a1c2fa31a7bd7cd304117c1c418cdf
+    - author: 轩辕的编程宇宙
+      release_time: 2026.11.11 11:33:10
+      title: 用豆包工作做了一个AI信息追踪小助手，真香
+      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247507025&idx=1&sn=2a2d7191285dfe92b1283e494141b82c
     - author: 猿人学Python
       release_time: 2026.11.11 11:03:02
       title: 刚毕业就被按头实刑 - 爬虫er100人
@@ -240,10 +244,6 @@
       release_time: 2026.11.05 17:52:32
       title: 吾爱破解论坛技术区“AI”新规已正式上线
       url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144804&idx=1&sn=eaaab88584aca4b09a981e164f9360e6
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.11.05 17:49:21
-      title: 湖南省网信办发布一批医疗健康领域个人信息保护专项行动执法案例
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521136&idx=1&sn=a9039a24b514cc901bee509541253391
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,14 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: LuckyJ
+      release_time: 2026.11.12 23:45:37
+      title: '[原创]从一个 JS 文件到整站沦陷：SQL注入、任意上传与任意读取挖掘实录'
+      url: https://bbs.kanxue.com/thread-293518.htm
+    - author: fu11p7r
+      release_time: 2026.11.12 19:52:15
+      title: '[原创] 某手游客户端 RPC 洪泛拒绝服务漏洞分析'
+      url: https://bbs.kanxue.com/thread-293516.htm
     - author: smousef
       release_time: 2026.11.12 15:43:49
       title: '[原创]中某APP客户端登录请求参数和加密内容逆向分析生成'
@@ -482,14 +490,6 @@
       release_time: 2026.11.02 10:46:01
       title: windows更新系统后，双显示器仅识别单个显示器
       url: https://blog.csdn.net/qq_29402011/article/details/169828202
-    - author: AnxiangLemon
-      release_time: 2026.11.01 18:26:40
-      title: Warp Lite ：一个专注本地使用的开源终端
-      url: https://blog.csdn.net/u014431237/article/details/169745859
-    - author: 安卓逆向test
-      release_time: 2026.10.31 23:11:39
-      title: '[原创]内核级注入框架KCLF'
-      url: https://bbs.kanxue.com/thread-293385.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
