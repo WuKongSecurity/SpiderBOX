@@ -124,10 +124,26 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: QDII研究员
+      release_time: 2026.11.13 16:28:10
+      title: QDII日报｜11月13日：纳指100溢价全线回升，高溢价ETF重回17只
+      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484893&idx=1&sn=4bd500f26532dfa2b566ab5f3a8c0f3e
+    - author: 轩辕的编程宇宙
+      release_time: 2026.11.13 15:28:39
+      title: 代码生成视频这条路，又诞生一个神器，自媒体做MG动画视频告别手搓时代
+      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247507099&idx=1&sn=e46b4e09be4fd252714fac74b904c60e
+    - author: 吾爱破解论坛
+      release_time: 2026.11.13 12:20:30
+      title: 披着系统助手的外衣——SystemHelper后门服务分析
+      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144871&idx=1&sn=d622fc938a7ad5cbd0d6e028559dc44b
     - author: Coder小Q
       release_time: 2026.11.13 08:30:12
       title: 【杂谈】三藏借符过经阁　八戒换号讨便宜
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247498269&idx=1&sn=bd0281701c7a5275ff2a2586e5455a0f
+    - author: We逆向
+      release_time: 2026.11.12 20:14:47
+      title: 没有微信也能运行和调试手机小程序？一个带DevTools和插件功能的小程序运行时！
+      url: https://mp.weixin.qq.com/s?__biz=MzY4NzUxNDIwMw==&mid=2247483694&idx=1&sn=38c509ada47945cc1e8ea1102c897ce5
     - author: QDII研究员
       release_time: 2026.11.12 16:23:11
       title: QDII日报｜11月12日：纳指100溢价全线回落，中位数单日降3.51个百分点
@@ -228,25 +244,13 @@
       release_time: 2026.11.09 08:30:00
       title: UI 自动化的尽头，是不写 UI 自动化？
       url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579500&idx=1&sn=34db3371a88dd30ae6484e3a4b2d274b
-    - author: 柳絮的学习杂记
-      release_time: 2026.11.08 20:57:14
-      title: datadome 大并发
-      url: https://mp.weixin.qq.com/s?__biz=MzIzMDEwOTY4MA==&mid=2247483772&idx=1&sn=da301260f55930db87853dba81b36f36
-    - author: 吾爱破解论坛
-      release_time: 2026.11.07 13:04:32
-      title: 【开放注册公告】吾爱破解论坛2026年11月11日光棍节开放注册公告
-      url: https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144807&idx=1&sn=38ff9375ad0d69d4b1a0489aff3032e5
-    - author: 逆向有你
-      release_time: 2026.11.06 10:04:50
-      title: 安卓逆向 -- 使用Claude Code+deepseekv4分析安卓ELF外挂样本
-      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652042233&idx=1&sn=ef95ebd6a65dc7b6f4b1d63c154c78bc
-    - author: Coder小Q
-      release_time: 2026.11.06 08:30:00
-      title: 【密码学·杂谈】这只 AI 画的狗，藏着一个看不见的暗号
-      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247498240&idx=1&sn=d34a310683e7eed4d996b938b314ee0f
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: wonhurry
+      release_time: 2026.11.13 00:45:00
+      title: 某邻开门逆向改成独立应用的探索过程--小白初体验
+      url: https://www.52pojie.cn/thread-2137300-1-1.html
     - author: lrj2025kernel
       release_time: 2026.11.09 19:25:00
       title: Ubtuntu多版本Frida环境搭建
@@ -363,13 +367,13 @@
       release_time: 2026.10.13 22:38:00
       title: 红果免费漫剧 —— MT管理器手机端去广告详细教程
       url: https://www.52pojie.cn/thread-2132342-1-1.html
-    - author: '13955925361'
-      release_time: 2026.10.13 16:13:00
-      title: DHL 运单查询
-      url: https://www.52pojie.cn/thread-2132278-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: smousef
+      release_time: 2026.11.13 15:18:15
+      title: '[原创]联通APP登录加密请求内容逆向分析'
+      url: https://bbs.kanxue.com/thread-293526.htm
     - author: Lynnette
       release_time: 2026.11.13 09:21:34
       title: '[原创]iOS 免越狱砸壳、调试工具：Unfairplayed 一站式砸壳注入重签名和调试'
@@ -486,10 +490,6 @@
       release_time: 2026.11.03 16:57:10
       title: '[原创]内核级过Root检测'
       url: https://bbs.kanxue.com/thread-293405.htm
-    - author: Solar安全
-      release_time: 2026.11.02 11:39:00
-      title: '[原创]【勒索解密】群晖NAS .L0CK3D勒索病毒特定条件下可解密（附解密工具）'
-      url: https://bbs.kanxue.com/thread-293396.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
