@@ -2364,6 +2364,10 @@
           logo: github.png
           url: https://github.com/biggerstar/wedecode
           description: 全自动化，微信小程序 wxapkg 源代码还原工具, 线上代码安全审计，支持 Windows, Macos, Linux
+        - title: wxapkg-dump
+          logo: github.png
+          url: https://github.com/RYF5584/wxapkg-dump
+          description: 微信小程序 Wxapkg 下载，解密，导出，修复，一键修复为可运行的源码，支持 Win，Linux，Mac，远程直接下载小程序完整源码
         - title: we-mp-rss
           logo: we-mp-rss.png
           url: https://github.com/rachelos/we-mp-rss
