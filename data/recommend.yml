@@ -19,11 +19,11 @@
     #      description: 虫规 - 数据采集合规性建设
 
     # 10% 特殊调整后 50% ==============================
-    - title: IPIPGO 全球住宅 IP
-      logo: ipipgo.jpg
-      no_referral: true
-      url: https://www.ipipgo.com?inviteLink=rd7HwjlR
-      description: 【需实名】IPIPGO 全球住宅 IP，企业级海外代理IP服务商，汇集全球 245 个国家/地区的 9000 万家庭住宅 IP，涵盖静态、动态、原生跨境专线等方案，提供全面的免费测试，确保满足您的业务需求
+#    - title: IPIPGO 全球住宅 IP
+#      logo: ipipgo.jpg
+#      no_referral: true
+#      url: https://www.ipipgo.com?inviteLink=rd7HwjlR
+#      description: 【需实名】IPIPGO 全球住宅 IP，企业级海外代理IP服务商，汇集全球 245 个国家/地区的 9000 万家庭住宅 IP，涵盖静态、动态、原生跨境专线等方案，提供全面的免费测试，确保满足您的业务需求
     - title: xfastapi
       url: https://xfastapi.ai/register?aff=WFBDBY4ZVLUQ
       logo: xfastapi.png

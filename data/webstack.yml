@@ -655,6 +655,10 @@
           logo: github.png
           url: https://github.com/wangluozhe/pybestV8
           description: bestV8 Python 版本，是一个快速且易于使用的 JS 执行库，并且支持上下文操作，作者 LeeGene (wangluozhe，tls 开源库 requests 和 requests-go 作者)
+        - title: pyv8c
+          logo: github.png
+          url: https://github.com/ConlinH/pyv8c
+          description: pyv8c 是基于 V8 和 Python 的浏览器脚本运行框架。原生桥接由本仓库中的 pyv8 项目提供，Python 实现页面、DOM、Web API、资源加载、任务调度和调试接入。适合运行页面脚本、构造可重复的浏览器行为测试，以及通过本地 Chrome 对照完善 Web 能力
         - title: Js2Py
           logo: github.png
           url: https://github.com/PiotrDabkowski/Js2Py
@@ -1285,6 +1289,10 @@
           logo: github.png
           url: https://github.com/RuoShui-0014/js-env
           description: 基于 isolated-vm 魔改虚拟机实现的 js 环境框架，封装了一套非 js 标准的代理和 native 函数创建的方法
+        - title: pyv8env
+          logo: github.png
+          url: https://github.com/ConlinH/pyv8env
+          description: 纯 python 补环境框架
 
     - name: 指纹浏览器
       links:
@@ -2296,6 +2304,10 @@
           logo: weixin.jpg
           url: https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html
           description: 微信官方开发者工具
+        - title: WeAppDev
+          logo: weappdev.png
+          url: https://github.com/RYF5584/weappdev
+          description: WeAppDev 是一个可以脱离微信运行小程序和小游戏的 Android 应用。它自带一套小程序运行时，把运行环境和调试工具装进一个 APK：不用装微信，不用 Root，也不用 Xposed
         - title: WMPFDebugger
           logo: github.png
           url: https://github.com/evi0s/WMPFDebugger
@@ -3367,12 +3379,22 @@
           description: IPcook 是一家致力于为全球出海用户与开发者提供高品质、低成本网络接入的专业 IP 代理品牌。我们提供 5500 万+ 动态住宅 IP 与海量静态 ISP/数据中心代理，覆盖 185+ 国家。凭借平均低于 0.5s（最快 50ms）的响应时间、99.99% 的连接成功率及强大的多线程高并发承载力，IPcook 完美助力指纹浏览器防关联、大体量数据抓取及跨境电商运营
 
         # 15% ==============================
+        - title: NodeProxy
+          logo: node-proxy.png
+          no_referral: true
+          url: https://node-proxy.com/?ref=Jx7pmbDm
+          description: 'Buy proxies from Node Proxy: residential from $1.30/GB in 234 countries, static IPv4 and ISP in 39 countries. HTTP(S), SOCKS5, card, crypto or invoice'
         - title: ipfly
           logo: ipfly.png
           no_referral: true
           # url: https://ipfly.net/activity/VFNRWEFXODY6TFZKOVhYQzM5NQ==
           url: https://ipfly.net/activity/RTM1OEs5TFI6TFZKOVhYQzM5NQ== # https://reseller.ipfly.net/dashboard
-          description: 9000万+全球优质IP资源，$0.8/G起，动态流量永久有效
+          description: 9000 万+全球优质 IP 资源，$0.8/G 起，动态流量永久有效
+        - title: RichProxies
+          logo: richproxies.png
+          no_referral: true
+          url: https://richproxies.com/
+          description: Rich Proxies offers premium residential, ISP, and mobile proxies across 195+ countries. 10M+ IP pool, 99.9% uptime, instant setup. Start your free trial today
 
         # 特殊合作，友链排前面，首单 15%，复购 5%
         - title: LinkStatic
@@ -3586,6 +3608,11 @@
           # url: https://ipipd.com/sign-up?ref=ABZWPIPH # 广告链接
           url: https://www.ipipd.com/sign-up?ref=SVJLBAVQ
           description: IPIPD 专注于全球原生住宅 IP 服务，覆盖全球 200+ 国家和地区的原生住宅 IP，静态/动态灵活切换，高匿名、稳定可靠。7×24 小时服务，立即免费测试！
+        - title: PSBProxy
+          logo: psbproxy.png
+          no_referral: true
+          url: https://psbproxy.io/?ref=E2605EEEC730
+          description: Residential proxies from $0.60/GB, mobile from $1.50/GB, static from $1 per IP. Over 90M IPs in 195 countries, HTTP(S)/SOCKS5, rotation and sticky, pay-as-you-go
 
         # 8% ==============================
         - title: IPRocket
@@ -3720,6 +3747,10 @@
           logo: lilproxy.png
           url: https://lilproxy.io/
           description: Lil Proxy 专业全球代理 IP 服务商，提供住宅代理、静态 ISP、移动代理及无限代理资源，覆盖全球 200+ 国家和地区，支持灵活定制，适用于跨境电商、数据采集、社媒运营及 AI 业务
+        - title: FlashIP
+          logo: flashid.png
+          url: https://www.flaship.net/
+          description: Explore FlashIP residential, mobile, ISP and datacenter proxies for web scraping, local market research and account management. Compare locations, IP options and pricing
 
 #        - title: IPIDEA
 #          logo: ipidea.jpg
@@ -4672,6 +4703,10 @@
           logo: gh_7fcea4820c64.jpg
           qrcode: images/qrcode/gh_7fcea4820c64.jpg
           description: 公众号：ai辅助逆向手记
+        - title: We逆向
+          logo: gh_5240cbe803fd.png
+          qrcode: images/qrcode/gh_5240cbe803fd.jpg
+          description: 公众号：We逆向
 #        - title: K哥爬虫
 #          logo: kgepachong.jpg
 #          logo: gh_86aab598880e.jpg
