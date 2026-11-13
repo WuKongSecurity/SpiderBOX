@@ -3753,7 +3753,8 @@
           description: Lil Proxy 专业全球代理 IP 服务商，提供住宅代理、静态 ISP、移动代理及无限代理资源，覆盖全球 200+ 国家和地区，支持灵活定制，适用于跨境电商、数据采集、社媒运营及 AI 业务
         - title: FlashIP
           logo: flashid.png
-          url: https://www.flaship.net/
+          # url: https://www.flaship.net/
+          url: https://www.flashid.net/share/spiderbox01
           description: Explore FlashIP residential, mobile, ISP and datacenter proxies for web scraping, local market research and account management. Compare locations, IP options and pricing
 
 #        - title: IPIDEA
