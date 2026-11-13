@@ -3397,7 +3397,8 @@
         - title: RichProxies
           logo: richproxies.png
           no_referral: true
-          url: https://richproxies.com/
+          url: https://richproxies.com/?ref=v2us29kv
+          # url: https://richproxies.com/?from=spiderbox
           description: Rich Proxies offers premium residential, ISP, and mobile proxies across 195+ countries. 10M+ IP pool, 99.9% uptime, instant setup. Start your free trial today
 
         # 特殊合作，友链排前面，首单 15%，复购 5%
