@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: mb_lxotxkix
+      release_time: 2026.11.14 15:04:51
+      title: '[原创]根据unidbg的灵感，开发了一个安卓的so库运行容器。'
+      url: https://bbs.kanxue.com/thread-293537.htm
     - author: smousef
       release_time: 2026.11.13 15:18:15
       title: '[原创]联通APP登录加密请求内容逆向分析'
@@ -486,10 +490,6 @@
       release_time: 2026.11.03 17:02:10
       title: '[原创]过企业级梆梆加固'
       url: https://bbs.kanxue.com/thread-293406.htm
-    - author: mb_nmbgyqwk
-      release_time: 2026.11.03 16:57:10
-      title: '[原创]内核级过Root检测'
-      url: https://bbs.kanxue.com/thread-293405.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
