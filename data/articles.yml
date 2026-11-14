@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 将往的爬虫逆向日记
+      release_time: 2026.11.14 18:59:58
+      title: 上千交易员都在用的免费电力网站更新：全国代理购电价格公示数据全量免费下载，煤价实时追踪，负荷预测学习
+      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862665&idx=1&sn=0cb1286e38ef0c36beef2db356514069
     - author: 零基础爬虫第一天
       release_time: 2026.11.13 21:46:41
       title: art相关1-通过一个frida脚本了解dex结构体
@@ -240,10 +244,6 @@
       release_time: 2026.11.10 11:21:35
       title: 幸福双十一，购课享五折
       url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485514&idx=1&sn=d3922850ce2946c7f73cf89e7d2da7c0
-    - author: QDII研究员
-      release_time: 2026.11.09 17:13:38
-      title: QDII日报｜11月9日：纳指100溢价全线回落逾2个百分点
-      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484859&idx=1&sn=7877df2b678c31179aaae0f6e3564abe
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: 安卓逆向test
+      release_time: 2026.11.14 22:12:57
+      title: '[原创]安卓用户层代码段内存读取欺诈方案——UROV-Z'
+      url: https://bbs.kanxue.com/thread-293544.htm
     - author: mb_lxotxkix
       release_time: 2026.11.14 15:04:51
       title: '[原创]根据unidbg的灵感，开发了一个安卓的so库运行容器。'
@@ -486,10 +490,6 @@
       release_time: 2026.11.03 17:08:11
       title: '[原创]App过代理检测-透明代理'
       url: https://bbs.kanxue.com/thread-293407.htm
-    - author: mb_nmbgyqwk
-      release_time: 2026.11.03 17:02:10
-      title: '[原创]过企业级梆梆加固'
-      url: https://bbs.kanxue.com/thread-293406.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
