@@ -3386,7 +3386,8 @@
         - title: NodeProxy
           logo: node-proxy.png
           no_referral: true
-          url: https://node-proxy.com/?ref=Jx7pmbDm
+          # url: https://node-proxy.com/?ref=Jx7pmbDm
+          url: https://node-proxy.com/?c=C2TVHX&ref=Jx7pmbDm
           description: 'Buy proxies from Node Proxy: residential from $1.30/GB in 234 countries, static IPv4 and ISP in 39 countries. HTTP(S), SOCKS5, card, crypto or invoice'
         - title: ipfly
           logo: ipfly.png
