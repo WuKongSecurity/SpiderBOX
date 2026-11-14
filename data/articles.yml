@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: B站用户骚神
+      release_time: 2026.11.14 10:53:37
+      title: 【鱼神插件1.3.0】-以头脑风暴的方式用AI写代码。
+      url: https://www.bilibili.com/video/BV1wZWC6dEoT
     - author: 风华Ahu
       release_time: 2026.11.11 02:49:40
       title: fhv8库3分钟速通kasada！
@@ -117,10 +121,6 @@
       release_time: 2026.10.21 21:52:27
       title: 密码学补完计划[第四十八期] ElGamal
       url: https://www.bilibili.com/video/BV1n5nr6qEb2
-    - author: AngelToms
-      release_time: 2026.10.21 08:26:22
-      title: UPX loader二
-      url: https://www.bilibili.com/video/BV1K5ni6wEFd
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
