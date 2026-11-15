@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: QDII研究员
+      release_time: 2026.11.15 18:32:08
+      title: 致：家族中第一位投资纳指的那个人
+      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484912&idx=1&sn=68aadb5d0d8b5dcdcd3a4c265375506b
     - author: 零基础爬虫第一天
       release_time: 2026.11.15 10:22:31
       title: 三年了，我从一罐假蜂蜜里醒了过来
@@ -132,6 +136,10 @@
       release_time: 2026.11.14 18:59:58
       title: 上千交易员都在用的免费电力网站更新：全国代理购电价格公示数据全量免费下载，煤价实时追踪，负荷预测学习
       url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862665&idx=1&sn=0cb1286e38ef0c36beef2db356514069
+    - author: QDII研究员
+      release_time: 2026.11.14 01:25:19
+      title: 持续更新qdiilens
+      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484899&idx=1&sn=2aaff9610cdd3841283a2cca78015493
     - author: 零基础爬虫第一天
       release_time: 2026.11.13 21:46:41
       title: art相关1-通过一个frida脚本了解dex结构体
@@ -236,14 +244,6 @@
       release_time: 2026.11.10 16:41:11
       title: 工信部智能体终端新规：预置AI智能体的终端设备面临调用权限边界与声明机制要求
       url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521139&idx=1&sn=da474dd4d7e92b062c78178202664fbe
-    - author: QDII研究员
-      release_time: 2026.11.10 16:03:41
-      title: QDII日报｜11月10日：嘉实纳指100申购额度放大10倍，溢价仍守20.29%
-      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484868&idx=1&sn=5b1b925ede49cba35f35afa8396f3b9d
-    - author: 毫不犹豫使用AI逆向
-      release_time: 2026.11.10 14:36:41
-      title: 彩虹打码｜OCR在线识别网站翻新！
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDU4MDY3Nw==&mid=2247483999&idx=1&sn=3dbdc49e27b4f34f1eb3b7fe3baa5c58
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
