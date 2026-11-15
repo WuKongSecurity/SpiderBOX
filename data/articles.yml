@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 零基础爬虫第一天
+      release_time: 2026.11.15 10:22:31
+      title: 三年了，我从一罐假蜂蜜里醒了过来
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484829&idx=1&sn=d879aaee0fe027f2df95844b00afda41
     - author: 将往的爬虫逆向日记
       release_time: 2026.11.14 18:59:58
       title: 上千交易员都在用的免费电力网站更新：全国代理购电价格公示数据全量免费下载，煤价实时追踪，负荷预测学习
@@ -240,10 +244,6 @@
       release_time: 2026.11.10 14:36:41
       title: 彩虹打码｜OCR在线识别网站翻新！
       url: https://mp.weixin.qq.com/s?__biz=Mzg4NDU4MDY3Nw==&mid=2247483999&idx=1&sn=3dbdc49e27b4f34f1eb3b7fe3baa5c58
-    - author: 软件安全与逆向分析
-      release_time: 2026.11.10 11:21:35
-      title: 幸福双十一，购课享五折
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485514&idx=1&sn=d3922850ce2946c7f73cf89e7d2da7c0
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: iskoishi
+      release_time: 2026.11.15 11:06:19
+      title: '[原创]MIUI 锁屏 MAML 的反射执行面'
+      url: https://bbs.kanxue.com/thread-293548.htm
     - author: 安卓逆向test
       release_time: 2026.11.14 22:12:57
       title: '[原创]安卓用户层代码段内存读取欺诈方案——UROV-Z'
@@ -486,10 +490,6 @@
       release_time: 2026.11.04 01:48:32
       title: '[原创]PHP2Shell 复现连载（二）：从 session.c 源码定位根因，到 ZendMM 的 320 字节 bin'
       url: https://bbs.kanxue.com/thread-293417.htm
-    - author: Wangdang
-      release_time: 2026.11.03 17:08:11
-      title: '[原创]App过代理检测-透明代理'
-      url: https://bbs.kanxue.com/thread-293407.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
