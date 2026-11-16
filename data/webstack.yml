@@ -1429,6 +1429,10 @@
           logo: github.png
           url: https://github.com/LoseNine/firefox-fingerprintBrowser
           description: 基于 firefox 开发的免费指纹浏览器，专门针对 creepjs 网站做了过检测
+        - title: safarier
+          logo: github.png
+          url: https://github.com/Cd1s/safarier
+          description: 专为 macOS 打造的原生 Safari 多环境指纹浏览器，基于 Apple 真 Safari 内核与 Safari 无痕隐私护盾构建 — 支持多账号独立沙盒、34 款真实 Mac 机型模拟、语言时区自动跟随代理、内置全协议订阅引擎
         - title: 指纹浏览器资源导航
           logo: ebrowser.jpg
           url: https://www.ebrowser.cn/
