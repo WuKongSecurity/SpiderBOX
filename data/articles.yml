@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 逆向狗都不学
+      release_time: 2026.11.16 17:00:52
+      title: Android逆向之SO文件加固
+      url: https://www.bilibili.com/video/BV1d4sP6qEu4
     - author: B站用户骚神
       release_time: 2026.11.14 10:53:37
       title: 【鱼神插件1.3.0】-以头脑风暴的方式用AI写代码。
@@ -117,13 +121,17 @@
       release_time: 2026.10.24 17:57:25
       title: 太惨了，被网友坑害，导致DeepSeek大肥鱼被封号3天!!
       url: https://www.bilibili.com/video/BV1mCHK6XEGm
-    - author: EithanSolace
-      release_time: 2026.10.21 21:52:27
-      title: 密码学补完计划[第四十八期] ElGamal
-      url: https://www.bilibili.com/video/BV1n5nr6qEb2
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2026.11.16 17:21:00
+      title: 优秀开源项目系列 Vol.01 | Webcrack
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566739&idx=1&sn=d688824185a410e8a378b83a500aad6f
+    - author: 哆啦安全
+      release_time: 2026.11.16 14:09:51
+      title: 纵深防御与默认安全：Android安全体系的“最终形态”如何构建
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501555&idx=1&sn=a928298b3db2886fda132b82f03cc1cd
     - author: 轩辕的编程宇宙
       release_time: 2026.11.16 10:52:15
       title: 24分钟，AI从零造出C编译器，还用它做了个超级玛丽
@@ -136,14 +144,6 @@
       release_time: 2026.11.16 08:11:00
       title: eCaptureQ 新版，让 Android 抓到的明文更好读
       url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485359&idx=1&sn=31032ac0690ae08475eb563344f16464
-    - author: QDII研究员
-      release_time: 2026.11.15 18:32:08
-      title: 致：家族中第一位投资纳指的那个人
-      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484912&idx=1&sn=68aadb5d0d8b5dcdcd3a4c265375506b
-    - author: 零基础爬虫第一天
-      release_time: 2026.11.15 10:22:31
-      title: 三年了，我从一罐假蜂蜜里醒了过来
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484829&idx=1&sn=d879aaee0fe027f2df95844b00afda41
     - author: 将往的爬虫逆向日记
       release_time: 2026.11.14 18:59:58
       title: 上千交易员都在用的免费电力网站更新：全国代理购电价格公示数据全量免费下载，煤价实时追踪，负荷预测学习
@@ -247,6 +247,14 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: imgjx
+      release_time: 2026.11.16 16:38:00
+      title: 【逆向分析】动手拆解BLA的JS WASM加固(V6)
+      url: https://www.52pojie.cn/thread-2138044-1-1.html
+    - author: shigc
+      release_time: 2026.11.16 11:32:00
+      title: 某物业社区App手机开门接口逆向分析：从设备模型到双通道竞速
+      url: https://www.52pojie.cn/thread-2137961-1-1.html
     - author: hoshu
       release_time: 2026.11.14 22:56:00
       title: 网易某某老鼠逆向记录 —— 补环境调试与动调调试
@@ -359,17 +367,21 @@
       release_time: 2026.10.15 15:40:00
       title: 控制流的多种变化特征
       url: https://www.52pojie.cn/thread-2132649-1-1.html
-    - author: '13955925361'
-      release_time: 2026.10.14 16:02:00
-      title: 自动化过卡塔尔航空
-      url: https://www.52pojie.cn/thread-2132476-1-1.html
-    - author: G0dxiyu
-      release_time: 2026.10.14 13:15:00
-      title: 某西北地区校园跑软件静态分析：环境检测、Hook 识别与网易易盾加密链路
-      url: https://www.52pojie.cn/thread-2132435-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: pedies
+      release_time: 2026.11.16 22:31:18
+      title: '[原创]vFrida  一个app就够了'
+      url: https://bbs.kanxue.com/thread-293568.htm
+    - author: Solar安全
+      release_time: 2026.11.16 17:30:45
+      title: '[原创]【工具分享】2026年应急响应取证工具下载，附Windows与Linux手把手教程'
+      url: https://bbs.kanxue.com/thread-293565.htm
+    - author: Wangdang
+      release_time: 2026.11.16 15:51:37
+      title: '[原创]Andorid编译自定义内核'
+      url: https://bbs.kanxue.com/thread-293564.htm
     - author: iskoishi
       release_time: 2026.11.15 11:06:19
       title: '[原创]MIUI 锁屏 MAML 的反射执行面'
@@ -478,18 +490,6 @@
       release_time: 2026.11.05 17:48:49
       title: '[原创]PHP2Shell 复现连载（四）：加固、自查与应急响应'
       url: https://bbs.kanxue.com/thread-293435.htm
-    - author: 和沉默做朋友
-      release_time: 2026.11.04 21:24:49
-      title: '[原创]PHP2Shell 复现连载（三）：环境搭建、UAF 验证，与两条路径的完整辨析'
-      url: https://bbs.kanxue.com/thread-293431.htm
-    - author: babyfox
-      release_time: 2026.11.04 15:17:15
-      title: '[分享]家庭和单位网络和系统安全'
-      url: https://bbs.kanxue.com/thread-293427.htm
-    - author: smousef
-      release_time: 2026.11.04 09:27:40
-      title: '[原创]有关单向认证和双向认证的绕过'
-      url: https://bbs.kanxue.com/thread-293421.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
