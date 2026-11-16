@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 轩辕的编程宇宙
+      release_time: 2026.11.16 10:52:15
+      title: 24分钟，AI从零造出C编译器，还用它做了个超级玛丽
+      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247507111&idx=1&sn=b8d89dde15a48793ca5184a70dc45658
+    - author: 测试工程师成长之路
+      release_time: 2026.11.16 08:30:00
+      title: 126 个链接，换回 41 GB：AI 工具吃掉的 C 盘，还能这么要回来
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579522&idx=1&sn=f1b4f111bf5d6ecef6c6cf95e7b0b78a
+    - author: 榫卯江湖
+      release_time: 2026.11.16 08:11:00
+      title: eCaptureQ 新版，让 Android 抓到的明文更好读
+      url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485359&idx=1&sn=31032ac0690ae08475eb563344f16464
     - author: QDII研究员
       release_time: 2026.11.15 18:32:08
       title: 致：家族中第一位投资纳指的那个人
@@ -232,18 +244,6 @@
       release_time: 2026.11.10 19:00:00
       title: 源码硬盘内有一加9和pixel7全套lineage23.2安卓16源码系统级内置AI系统OpenCyvis
       url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486347&idx=6&sn=56538f40db7f8f6dd366841f462d51bc
-    - author: 上海电特安隐私安全运营技术
-      release_time: 2026.11.10 19:00:00
-      title: r0dump16脱壳机一加9安卓16秒脱海外金融企业壳DexProtector
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486347&idx=7&sn=e8b76f58f0ee08c7dc87855fa80d6463
-    - author: 上海电特安隐私安全运营技术
-      release_time: 2026.11.10 19:00:00
-      title: iPhoneSE2代越狱手机iOS18逆向学习机
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486347&idx=8&sn=49393f2a2e286a5379cabc556fe13fd7
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.11.10 16:41:11
-      title: 工信部智能体终端新规：预置AI智能体的终端设备面临调用权限边界与声明机制要求
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521139&idx=1&sn=da474dd4d7e92b062c78178202664fbe
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
