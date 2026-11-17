@@ -1296,17 +1296,18 @@
 
     - name: 指纹浏览器
       links:
+        # 浏览器 20% + 云手机 10% ========================
+        - title: 比特浏览器
+          logo: bitbrowser.png
+          # url: https://www.bitbrowser.cn/?code=Nxxnh5
+          url: https://www.bitbrowser.cn/?code=5df4f4ec
+          description: 比特指纹浏览器，也是防关联指纹浏览器、跨境电商浏览器，能多开浏览器窗口、多登账号，防关联和防封号，跨境账号的安全管理专家，轻松管理您的跨境大生意，真正做到防关联封号的超级浏览器、跨境电商指纹浏览器
         # ad ===========================================
         - title: BrightData Scraping Browser
           logo: brightdata.png
           no_referral: true
           url: https://get.brightdata.com/sbitbob
           description: 远程连接指纹浏览器，运行您的 Puppeteer、Selenium 和 Playwright 脚本，并利用内置的 Captcha Solver 自动解决验证码，维护抓取和浏览器基础设施的运营开销为零
-        # 浏览器 20% + 云手机 10% ========================
-        - title: 比特浏览器
-          logo: bitbrowser.png
-          url: https://www.bitbrowser.cn/?code=Nxxnh5
-          description: 比特指纹浏览器，也是防关联指纹浏览器、跨境电商浏览器，能多开浏览器窗口、多登账号，防关联和防封号，跨境账号的安全管理专家，轻松管理您的跨境大生意，真正做到防关联封号的超级浏览器、跨境电商指纹浏览器
         - title: MostLogin 浏览器
           logo: mostlogin.png
           no_referral: true
