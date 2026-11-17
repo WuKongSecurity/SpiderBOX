@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: AngelToms
+      release_time: 2026.11.17 13:38:46
+      title: 基于linker的so加固-linker执行流程1
+      url: https://www.bilibili.com/video/BV1Dusg6VESv
     - author: 逆向狗都不学
       release_time: 2026.11.16 17:00:52
       title: Android逆向之SO文件加固
@@ -117,13 +121,21 @@
       release_time: 2026.10.24 20:46:29
       title: 【教程】一个视频带你搞懂DLL代理
       url: https://www.bilibili.com/video/BV1NTHK6EEaM
-    - author: B站用户骚神
-      release_time: 2026.10.24 17:57:25
-      title: 太惨了，被网友坑害，导致DeepSeek大肥鱼被封号3天!!
-      url: https://www.bilibili.com/video/BV1mCHK6XEGm
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2026.11.17 17:19:00
+      title: 优秀开源项目系列 Vol.02 | 5s盾solve
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566753&idx=1&sn=fa27928bab695aa5e650edb3f3f0bbd9
+    - author: 柳絮的学习杂记
+      release_time: 2026.11.17 17:05:45
+      title: 许愿式编程之 kasada app
+      url: https://mp.weixin.qq.com/s?__biz=MzIzMDEwOTY4MA==&mid=2247483778&idx=1&sn=35518a25a009eedec954927e1f8796da
+    - author: 猿人学Python
+      release_time: 2026.11.17 16:09:08
+      title: 小伙伴抢茅台获刑三年-爬虫er100人
+      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550544&idx=1&sn=73a93b4254b38cf4649474a5b6950a10
     - author: 菜鸟学Python编程
       release_time: 2026.11.16 17:21:00
       title: 优秀开源项目系列 Vol.01 | Webcrack
@@ -232,18 +244,6 @@
       release_time: 2026.11.10 19:00:00
       title: FHV8：《03.案例2-Kasada风控逆向全流程实战》
       url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486347&idx=3&sn=117955a51a669e875cfc544a9be6425a
-    - author: 上海电特安隐私安全运营技术
-      release_time: 2026.11.10 19:00:00
-      title: 奋斗者计划，助你升职加薪|阿里云、米哈游、阿里巴巴直推
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486347&idx=4&sn=abede34767e29b43bee7af10a149f3be
-    - author: 上海电特安隐私安全运营技术
-      release_time: 2026.11.10 19:00:00
-      title: r0browser公测开始！
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486347&idx=5&sn=5e53d31af5418f6a0a6d468c28795020
-    - author: 上海电特安隐私安全运营技术
-      release_time: 2026.11.10 19:00:00
-      title: 源码硬盘内有一加9和pixel7全套lineage23.2安卓16源码系统级内置AI系统OpenCyvis
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486347&idx=6&sn=56538f40db7f8f6dd366841f462d51bc
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
