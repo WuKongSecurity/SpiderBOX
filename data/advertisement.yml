@@ -44,9 +44,9 @@
       track: gg_rapidproxy
     - title: 比特浏览器
       ads: true
-      url: https://www.bitbrowser.cn/?code=5df4f4ec
+      url: https://www.bitbrowser.cn/?code=Nxxnh5
       image: images/ads/bitbrowser_600x75.gif
-      description: 比特指纹浏览器，也是防关联指纹浏览器、跨境电商浏览器，能多开浏览器窗口、多登账号，防关联和防封号，跨境账号的安全管理专家，轻松管理您的跨境大生意，真正做到防关联封号的超级浏览器、跨境电商指纹浏览器
+      description: BitBrowser — 专业级防检测浏览器 集成云手机和云电脑。轻松管理 1,000 多个账户。利用 RPA 实现任务自动化，通过 LCP 构建自定义工作流，并借助 MCP 连接 AI 代理，实现更智能的账户管理。 BitBrowser 已获得 300 多万用户的信赖，支持跨网页、移动端和桌面端的多账户管理，涵盖加密货币、广告、电子商务、SEO 及隐私保护等领域。立即试用 BitBrowser —— 永久免费提供 10 个浏览器配置文件
       track: gg_bitbrowser
 #    - title: 1024Proxy
 #      ads: true
