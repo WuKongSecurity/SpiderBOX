@@ -3364,13 +3364,6 @@
           no_referral: true
           url: https://get.brightdata.com/17arn8
           description: Award winning proxy networks, powerful web scrapers, and ready-to-use datasets for download. Welcome to the world's number one web data platform.
-        - title: 1024proxy
-          logo: 1024proxy.png
-          no_referral: true
-          # url: https://1024proxy.com/?kwd=channel-spiderbox
-          # url: https://api.1024proxy.com/share/v2rr1gzbr
-          url: https://1024proxy.com/?kwd=hyj-sbanner # 广告链接
-          description: 1024proxy 双 isp 独享原生住宅，支持城市级定位，技术支持全天在线，高匿名，低延迟，防关联，稳如专线，免费试用
 
         # 30% ==============================
         - title: SwiftProxy
@@ -3466,6 +3459,13 @@
           no_referral: true
           url: https://databay.com/r/A9468EC/
           description: Access 23M+ Real-Device IPs with our Top Proxy Solution. Enhance data collection from various locations using reliable proxies for success.
+        - title: 1024proxy
+          logo: 1024proxy.png
+          no_referral: true
+          # url: https://1024proxy.com/?kwd=channel-spiderbox
+          url: https://api.1024proxy.com/share/v2rr1gzbr
+          # url: https://1024proxy.com/?kwd=hyj-sbanner # 广告链接
+          description: 1024proxy 双 isp 独享原生住宅，支持城市级定位，技术支持全天在线，高匿名，低延迟，防关联，稳如专线，免费试用
         - title: OmegaProxy
           logo: omegaproxy.png
           no_referral: true
