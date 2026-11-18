@@ -247,6 +247,10 @@
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: ZX0228
+      release_time: 2026.11.18 16:32:00
+      title: 【逆向分析】拆解一个多品牌车辆钓鱼平台——dxjusjm.com 全链路剖析
+      url: https://www.52pojie.cn/thread-2138457-1-1.html
     - author: imgjx
       release_time: 2026.11.16 16:38:00
       title: 【逆向分析】动手拆解BLA的JS WASM加固(V6)
@@ -275,6 +279,10 @@
       release_time: 2026.11.08 02:08:00
       title: 【系列文章】阿里 sgmian 第二篇:签名命令分析 70102 之 VMP 分析
       url: https://www.52pojie.cn/thread-2136312-1-1.html
+    - author: 我是不会改名的
+      release_time: 2026.11.07 23:09:00
+      title: 某酷 CKEY逆向
+      url: https://www.52pojie.cn/thread-2136301-1-1.html
     - author: 看等非军事
       release_time: 2026.11.07 14:51:00
       title: 【含AIGC】逆向/学习墨西哥国家选举委员会身份证认证App
@@ -359,14 +367,6 @@
       release_time: 2026.10.16 16:30:00
       title: 全流程使用AI对某解压应用（E盾加固）逆向分析与Vibe避坑
       url: https://www.52pojie.cn/thread-2132838-1-1.html
-    - author: gfy1129
-      release_time: 2026.10.16 14:07:00
-      title: 基于 AST 的 ob 混淆还原思路：以 acw_xx__v2 为例
-      url: https://www.52pojie.cn/thread-2132797-1-1.html
-    - author: xiaoxiao0329
-      release_time: 2026.10.15 15:40:00
-      title: 控制流的多种变化特征
-      url: https://www.52pojie.cn/thread-2132649-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
