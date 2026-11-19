@@ -659,6 +659,10 @@
           logo: github.png
           url: https://github.com/ConlinH/pyv8c
           description: pyv8c 是基于 V8 和 Python 的浏览器脚本运行框架。原生桥接由本仓库中的 pyv8 项目提供，Python 实现页面、DOM、Web API、资源加载、任务调度和调试接入。适合运行页面脚本、构造可重复的浏览器行为测试，以及通过本地 Chrome 对照完善 Web 能力
+        - title: V8trace
+          logo: github.png
+          url: https://github.com/727735746/V8trace
+          description: 社区版公开 C++ 采集/日志/索引/MCP、共享配置，以及社区专用定制 Chromium 的完整源码差异和构建工具。运行不需要 Node.js
         - title: Js2Py
           logo: github.png
           url: https://github.com/PiotrDabkowski/Js2Py
