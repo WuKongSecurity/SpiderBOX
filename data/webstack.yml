@@ -6136,6 +6136,10 @@
           url: https://github.com/symgraph/GhidrAssistMCP
           logo: github.png
           description: 一个功能强大的 Ghidra 扩展，提供 MCP 服务器，使 AI 助手和其他工具能够通过标准化 API 与 Ghidra 的逆向工程能力进行交互
+        - title: ghidra-mcp
+          url: https://github.com/bethington/ghidra-mcp
+          logo: github.png
+          description: 拥有 200 多种 MCP 工具，支持人工智能驱动的逆向工程功能。具备图形界面插件和无头服务器模式，能够延迟工具加载、遵循规范、执行批量操作，同时支持与 Ghidra 服务器集成以及 Docker 容器部署
         - title: pyghidra-mcp
           url: https://github.com/clearbluejar/pyghidra-mcp
           logo: github.png
@@ -6200,6 +6204,10 @@
           url: https://github.com/getsentry/XcodeBuildMCP
           logo: github.png
           description: Xcode MCP，为在 iOS 和 macOS 项目上工作的 agent 提供工具
+        - title: cerberus-re-skill
+          url: https://github.com/OwenPawl/cerberus-re-skill
+          logo: github.png
+          description: cerberus-re 是一款专注于苹果平台的逆向工程工具，它能够帮助人们围绕 Ghidra、LLDB 和 Frida 构建出一个可复用的三头循环结构，包括静态分析、动态分析和仪器支持等功能
 
     - name: MCP (小程序)
       links:
