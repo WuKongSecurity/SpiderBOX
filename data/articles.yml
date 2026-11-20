@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 桐梓坡低手
+      release_time: 2026.11.20 17:34:30
+      title: recaptcha v3
+      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247484107&idx=1&sn=fb3765c97f823a91333b0311d3c75df0
     - author: 又菜又爱学逆向
       release_time: 2026.11.20 15:49:07
       title: reCAPTCHA v2 点选识别全流程：逆向分析 + OpenCV 调优 + YOLO 训练
@@ -240,10 +244,6 @@
       release_time: 2026.11.13 08:30:12
       title: 【杂谈】三藏借符过经阁　八戒换号讨便宜
       url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247498269&idx=1&sn=bd0281701c7a5275ff2a2586e5455a0f
-    - author: We逆向
-      release_time: 2026.11.12 20:14:47
-      title: 没有微信也能运行和调试手机小程序？一个带DevTools和插件功能的小程序运行时！
-      url: https://mp.weixin.qq.com/s?__biz=MzY4NzUxNDIwMw==&mid=2247483694&idx=1&sn=38c509ada47945cc1e8ea1102c897ce5
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +370,14 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: mb_lxotxkix
+      release_time: 2026.11.20 18:41:54
+      title: '[原创]Soapp：真机内目标 SO 重实现模拟器'
+      url: https://bbs.kanxue.com/thread-293621.htm
+    - author: zhuzhu_biu
+      release_time: 2026.11.20 18:28:51
+      title: '[原创]xdec：为去 VMP 而生的可编程反编译引擎(ai文)'
+      url: https://bbs.kanxue.com/thread-293620.htm
     - author: Ivory0
       release_time: 2026.11.20 11:17:50
       title: '[原创]TikTok 算法离线模拟跑通！Gemini 4 Neon 真是核弹爆炸？Codex 二次被封后顺手搓了个 Rust 版 unidbg'
@@ -482,14 +490,6 @@
       release_time: 2026.11.09 15:58:38
       title: '[原创]海外企业壳DexProtector静态解密还原dex'
       url: https://bbs.kanxue.com/thread-293472.htm
-    - author: wx_ThreeBoy
-      release_time: 2026.11.09 15:41:38
-      title: '[讨论]之前爬过的论坛升级了, id全部被hashids加密了,有啥办法逆出吗'
-      url: https://bbs.kanxue.com/thread-293471.htm
-    - author: smousef
-      release_time: 2026.11.09 11:07:11
-      title: '[原创]调用activity组件修改用户密码登录'
-      url: https://bbs.kanxue.com/thread-293465.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
