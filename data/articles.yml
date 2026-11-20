@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 又菜又爱学逆向
+      release_time: 2026.11.20 15:49:07
+      title: reCAPTCHA v2 点选识别全流程：逆向分析 + OpenCV 调优 + YOLO 训练
+      url: https://mp.weixin.qq.com/s?__biz=MzY5NzMxMjQ0MQ==&mid=2247484394&idx=1&sn=3245b2d1620cbf9437d907a611330304
     - author: 影17
       release_time: 2026.11.20 11:45:18
       title: 简单分析下某东jdgs逆向与指纹
