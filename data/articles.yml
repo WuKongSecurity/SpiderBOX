@@ -124,6 +124,58 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 影17
+      release_time: 2026.11.20 11:45:18
+      title: 简单分析下某东jdgs逆向与指纹
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247490885&idx=1&sn=7f971d08e3dc98787eea9d314b33daf1
+    - author: 软件安全与逆向分析
+      release_time: 2026.11.19 18:17:49
+      title: 安卓云手机2026-11镜像更新已发布，以下是更新日志
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485521&idx=1&sn=d4672c08d0b3c497810552603ff634d4
+    - author: 冰敷逆向笔记
+      release_time: 2026.11.19 18:14:06
+      title: 免 Widevine：绕过证书困境，Spotify版权保护逆向分析
+      url: https://mp.weixin.qq.com/s?__biz=MzI0NDg0ODE1MQ==&mid=2247483945&idx=1&sn=5a9942679cd6b077fdc5affe9de76da9
+    - author: 菜鸟学Python编程
+      release_time: 2026.11.19 17:37:00
+      title: 优秀开源项目系列 Vol.04 | V8 Trace
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566778&idx=1&sn=a9107012d1aeaf488ca17d34adbd9bfa
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.11.19 16:33:19
+      title: 违法违规收集处理个人信息，重庆两家金融助贷相关业务公司被行政处罚
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521191&idx=1&sn=a5ef23735d3b38c82af962fa27888c5c
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.11.19 16:33:19
+      title: 未经同意读取用户手机相册，Meta在意大利被罚超8亿欧元
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521191&idx=2&sn=a80606d85239c6272548d586e8103502
+    - author: 极验
+      release_time: 2026.11.19 16:00:00
+      title: AI正在降低黑产成本，黑产什么时候会放弃攻击？
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724873&idx=1&sn=3517d7809fee8677d95a1da9c917b5b6
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.11.18 17:40:24
+      title: 中互金协会通告2026年度第一批移动金融App自律检查情况：仍有3款App未整改
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521185&idx=1&sn=153b1561cb65b9da10ef7e7beb89ed9a
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.11.18 17:40:24
+      title: EDPB声明：支持使用欧洲委员会或伊比利亚美洲网络的示范条款进行数据再转移
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521185&idx=2&sn=f47d61cd305dec3983f4b319c9361a2b
+    - author: 菜鸟学Python编程
+      release_time: 2026.11.18 17:30:00
+      title: 优秀开源项目系列 Vol.03 | 谷歌验证码识别
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566762&idx=1&sn=ba7325ac4d8e59aa94dc383b847596bc
+    - author: 哆啦安全
+      release_time: 2026.11.18 12:09:25
+      title: Android安全隐私合规检测工具V5.6
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501578&idx=1&sn=4443475b8f73c3f965c402d15406ba68
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.11.17 17:37:26
+      title: 重要数据识别6项国标征求意见，涉及民航、电信、工业、航天、地理信息等行业
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521180&idx=1&sn=d78c54687f864e0cfb0a0a71d1a5dcf0
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.11.17 17:37:26
+      title: 中国数据保护月度报告：重点提示及目录（2026年11月）
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521180&idx=2&sn=51dac6a05bb79d11c5e5016a136aeb77
     - author: 菜鸟学Python编程
       release_time: 2026.11.17 17:19:00
       title: 优秀开源项目系列 Vol.02 | 5s盾solve
@@ -188,62 +240,6 @@
       release_time: 2026.11.12 20:14:47
       title: 没有微信也能运行和调试手机小程序？一个带DevTools和插件功能的小程序运行时！
       url: https://mp.weixin.qq.com/s?__biz=MzY4NzUxNDIwMw==&mid=2247483694&idx=1&sn=38c509ada47945cc1e8ea1102c897ce5
-    - author: QDII研究员
-      release_time: 2026.11.12 16:23:11
-      title: QDII日报｜11月12日：纳指100溢价全线回落，中位数单日降3.51个百分点
-      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484888&idx=1&sn=75f86ad06d8efc9076a833f28e0175c5
-    - author: 极验
-      release_time: 2026.11.12 16:00:00
-      title: 为什么拦截率达到90%，黑产攻击仍然不会停止？
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724865&idx=1&sn=b8835b2c1b5b00a513f360dda9e2f061
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.11.12 15:55:46
-      title: 浙江网信办等部门发布2026版浙江自贸区数据出境负面清单
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521168&idx=1&sn=39f79a6e274eaa79d94511672955c538
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.11.12 15:55:46
-      title: 欧洲数据保护委员会明确2027年第六次协调执法行动主题：招聘环节的自动化决策
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521168&idx=2&sn=372215f4f5ff03f1eb592904e46b6516
-    - author: QDII研究员
-      release_time: 2026.11.11 17:17:29
-      title: QDII日报｜11月11日：美股回调引发抢筹，纳指100溢价全线走扩
-      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484883&idx=1&sn=c15599905fdd11ee1cc74cc0a976cb94
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.11.11 17:03:23
-      title: 上海市网信办通报2026年第七批属地App问题（智能设备专项）
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521144&idx=1&sn=5e8ed82e736b18d5ce2faa6701cbdebf
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.11.11 17:03:23
-      title: 联邦快递因虚假声明不出售共享个人信息等问题被加州隐私保护局处以297.5万美元罚款
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521144&idx=2&sn=14a1c2fa31a7bd7cd304117c1c418cdf
-    - author: 轩辕的编程宇宙
-      release_time: 2026.11.11 11:33:10
-      title: 用豆包工作做了一个AI信息追踪小助手，真香
-      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247507025&idx=1&sn=2a2d7191285dfe92b1283e494141b82c
-    - author: 猿人学Python
-      release_time: 2026.11.11 11:03:02
-      title: 刚毕业就被按头实刑 - 爬虫er100人
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550536&idx=1&sn=81d2a19c7c7189154dccba9eecf67753
-    - author: 沐阳逆向与AI学习
-      release_time: 2026.11.11 10:00:00
-      title: 【双十一限时】安卓+iOS逆向双端全能课，双课合报直降千元
-      url: https://mp.weixin.qq.com/s?__biz=MzI2Mzk4MjczMQ==&mid=2247484747&idx=1&sn=19ac08d8a59a601bee8c50d53f731198
-    - author: QDII研究员
-      release_time: 2026.11.10 22:38:59
-      title: QDII日报｜11月10日：嘉实纳指100申购额度
-      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484877&idx=1&sn=497a5cc7f948ddee723d2b3ec6524d12
-    - author: 上海电特安隐私安全运营技术
-      release_time: 2026.11.10 19:00:00
-      title: 双十一活动钜惠来袭
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486347&idx=1&sn=26e81681b5d3b03a6902a9cc6b2fbd93
-    - author: 上海电特安隐私安全运营技术
-      release_time: 2026.11.10 19:00:00
-      title: AI逆向：07.MinimaxCode全功能无道德无围栏无拒绝不封号
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486347&idx=2&sn=d38591f0168f4e6b55f087c0b384c38e
-    - author: 上海电特安隐私安全运营技术
-      release_time: 2026.11.10 19:00:00
-      title: FHV8：《03.案例2-Kasada风控逆向全流程实战》
-      url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486347&idx=3&sn=117955a51a669e875cfc544a9be6425a
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -370,6 +366,10 @@
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Ivory0
+      release_time: 2026.11.20 11:17:50
+      title: '[原创]TikTok 算法离线模拟跑通！Gemini 4 Neon 真是核弹爆炸？Codex 二次被封后顺手搓了个 Rust 版 unidbg'
+      url: https://bbs.kanxue.com/thread-293615.htm
     - author: Solar安全
       release_time: 2026.11.19 13:14:30
       title: '[原创]【热点新闻】NVIDIA（英伟达）被勒索'
@@ -486,10 +486,6 @@
       release_time: 2026.11.09 11:07:11
       title: '[原创]调用activity组件修改用户密码登录'
       url: https://bbs.kanxue.com/thread-293465.htm
-    - author: 弄死o
-      release_time: 2026.11.08 03:58:37
-      title: '[原创]某安卓FPS外挂逆向:自解压ELF脱壳到内核硬件断点(上)'
-      url: https://bbs.kanxue.com/thread-293457.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
