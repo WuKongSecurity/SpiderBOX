@@ -124,6 +124,18 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2026.11.23 09:03:10
+      title: 优秀开源项目系列 Vol.05 | UnTwist
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566785&idx=1&sn=ee503ed188eeea76fcb41e99df8865da
+    - author: Coder小Q
+      release_time: 2026.11.23 08:30:00
+      title: 【杂谈】AI 生成的文字，水印藏在哪儿？
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247498309&idx=1&sn=c5fc00a2c35f68b624322e0c41a93bfb
+    - author: 测试工程师成长之路
+      release_time: 2026.11.23 08:30:00
+      title: 文档即用例：基于 Schemathesis 的接口自动化测试全流程实践
+      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579548&idx=1&sn=54b93221e3418fe8ec7c7a1057a95f98
     - author: 上海电特安隐私安全运营技术
       release_time: 2026.11.22 23:09:40
       title: “R0Browser太强了，我以前用其他的，登网站，过了几天都掉线了。r0用了，一周了，还稳稳的”
@@ -232,21 +244,13 @@
       release_time: 2026.11.14 01:25:19
       title: 持续更新qdiilens
       url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484899&idx=1&sn=2aaff9610cdd3841283a2cca78015493
-    - author: 零基础爬虫第一天
-      release_time: 2026.11.13 21:46:41
-      title: art相关1-通过一个frida脚本了解dex结构体
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484825&idx=1&sn=e80a6da7a3ece829e74203530da07642
-    - author: QDII研究员
-      release_time: 2026.11.13 16:28:10
-      title: QDII日报｜11月13日：纳指100溢价全线回升，高溢价ETF重回17只
-      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484893&idx=1&sn=4bd500f26532dfa2b566ab5f3a8c0f3e
-    - author: 轩辕的编程宇宙
-      release_time: 2026.11.13 15:28:39
-      title: 代码生成视频这条路，又诞生一个神器，自媒体做MG动画视频告别手搓时代
-      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247507099&idx=1&sn=e46b4e09be4fd252714fac74b904c60e
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: hoshu
+      release_time: 2026.11.23 12:37:00
+      title: 某银行apk分享
+      url: https://www.52pojie.cn/thread-2139247-1-1.html
     - author: hoshu
       release_time: 2026.11.19 16:27:00
       title: 移动支付客户端逆向
@@ -363,13 +367,17 @@
       release_time: 2026.10.19 17:23:00
       title: '[原创]REA逆向一切的能力99.9%来自AI本身'
       url: https://www.52pojie.cn/thread-2133226-1-1.html
-    - author: 0xGuoguo
-      release_time: 2026.10.17 17:47:00
-      title: 零基础如何实现让AI全自动逆向apk完整教程以及全流程记录
-      url: https://www.52pojie.cn/thread-2132974-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Solar安全
+      release_time: 2026.11.23 15:00:40
+      title: '[原创]【热点新闻】Samsung（韩国三星集团）被勒索'
+      url: https://bbs.kanxue.com/thread-293644.htm
+    - author: New对象处
+      release_time: 2026.11.23 14:59:40
+      title: '[原创]二次元手游某神之魔改il2cpp分析'
+      url: https://bbs.kanxue.com/thread-293642.htm
     - author: QGR3S2
       release_time: 2026.11.23 00:16:54
       title: '[原创]完全不懂代码的小白，玩了AI3个月的成果，不知道咋表达。大白话说明，某厂的模拟器逆向，某交友APP的重打包。'
@@ -482,14 +490,6 @@
       release_time: 2026.11.10 11:42:37
       title: '[原创]drozer 扩展模块'
       url: https://bbs.kanxue.com/thread-293482.htm
-    - author: wx_kx68010
-      release_time: 2026.11.09 22:25:23
-      title: '[原创]APP常见加固识别小工具（pc）'
-      url: https://bbs.kanxue.com/thread-293479.htm
-    - author: 弄死o
-      release_time: 2026.11.09 21:52:20
-      title: '[原创]某安卓FPS外挂逆向:自解压ELF脱壳到内核硬件断点(下)'
-      url: https://bbs.kanxue.com/thread-293478.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
