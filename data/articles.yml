@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: Breeze_122134
+      release_time: 2026.11.23 21:43:37
+      title: 智能体客服demo
+      url: https://www.bilibili.com/video/BV1eayXzTESM
     - author: AngelToms
       release_time: 2026.11.17 13:38:46
       title: 基于linker的so加固-linker执行流程1
@@ -117,13 +121,17 @@
       release_time: 2026.10.25 10:40:03
       title: AI操作Photoshop编辑PSD文件！
       url: https://www.bilibili.com/video/BV1rAH36xEU8
-    - author: 冷月不是程序员
-      release_time: 2026.10.24 20:46:29
-      title: 【教程】一个视频带你搞懂DLL代理
-      url: https://www.bilibili.com/video/BV1NTHK6EEaM
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 轩辕的编程宇宙
+      release_time: 2026.11.23 21:39:23
+      title: 刚刚，GLM-5.4端上桌了，实测视频效果非常惊艳！
+      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247507156&idx=1&sn=ee5f06607ae4f4193607e1065575a35f
+    - author: 零基础爬虫第一天
+      release_time: 2026.11.23 20:42:35
+      title: art相关2-简略版dexdump和fix
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484833&idx=1&sn=99fcc37186c740f4e23317d6919f7b12
     - author: 菜鸟学Python编程
       release_time: 2026.11.23 09:03:10
       title: 优秀开源项目系列 Vol.05 | UnTwist
@@ -236,21 +244,21 @@
       release_time: 2026.11.16 08:11:00
       title: eCaptureQ 新版，让 Android 抓到的明文更好读
       url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485359&idx=1&sn=31032ac0690ae08475eb563344f16464
-    - author: 将往的爬虫逆向日记
-      release_time: 2026.11.14 18:59:58
-      title: 上千交易员都在用的免费电力网站更新：全国代理购电价格公示数据全量免费下载，煤价实时追踪，负荷预测学习
-      url: https://mp.weixin.qq.com/s?__biz=MzI1MjE1NjIyMw==&mid=2650862665&idx=1&sn=0cb1286e38ef0c36beef2db356514069
-    - author: QDII研究员
-      release_time: 2026.11.14 01:25:19
-      title: 持续更新qdiilens
-      url: https://mp.weixin.qq.com/s?__biz=MzA3NDI2MDQ4OA==&mid=2247484899&idx=1&sn=2aaff9610cdd3841283a2cca78015493
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 芽衣
+      release_time: 2026.11.23 21:54:00
+      title: RS文件管理器 RS manager 破解会员教程
+      url: https://www.52pojie.cn/thread-2139339-1-1.html
     - author: hoshu
       release_time: 2026.11.23 12:37:00
       title: 某银行apk分享
       url: https://www.52pojie.cn/thread-2139247-1-1.html
+    - author: Delov
+      release_time: 2026.11.22 17:19:00
+      title: 记一次协议逆向
+      url: https://www.52pojie.cn/thread-2139118-1-1.html
     - author: hoshu
       release_time: 2026.11.19 16:27:00
       title: 移动支付客户端逆向
@@ -359,14 +367,6 @@
       release_time: 2026.10.22 19:05:00
       title: 分析某大wp主题9.1逆向授权过程
       url: https://www.52pojie.cn/thread-2133783-1-1.html
-    - author: ProjektRed
-      release_time: 2026.10.22 09:54:00
-      title: 吉利车机（GKUI19）装第三方 App 记录：从开 ADB 到塞进 /system（小白向，上篇）
-      url: https://www.52pojie.cn/thread-2133683-1-1.html
-    - author: KayaREX
-      release_time: 2026.10.19 17:23:00
-      title: '[原创]REA逆向一切的能力99.9%来自AI本身'
-      url: https://www.52pojie.cn/thread-2133226-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
