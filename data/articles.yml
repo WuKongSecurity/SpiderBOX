@@ -124,6 +124,26 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: ai辅助逆向手记
+      release_time: 2026.11.24 19:07:50
+      title: 逆向排查的四个思维坑
+      url: https://mp.weixin.qq.com/s?__biz=MzkxMzMxMjM0Ng==&mid=2247483923&idx=1&sn=97bcfb3ff09e4781cdb31683bb3a8acf
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.11.24 16:48:46
+      title: 工信部通报23款侵害用户权益App及SDK：信息窗口乱跳转、无法关闭，YY、虎扑、懂球帝、快看漫画等在列
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521205&idx=1&sn=0e26a5fca7f94b202a2f79bcf193026b
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.11.24 16:48:46
+      title: 使用敏感对话数据训练AI模型，比利时数据保护局责令某聊天机器人应用限期整改。
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521205&idx=2&sn=022572531a59716c9d9da0aa7634b4a6
+    - author: 毫不犹豫使用AI逆向
+      release_time: 2026.11.24 15:54:41
+      title: 企微纯协议接收图片与文件：从长连接解密到 CDN AES 还原
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDU4MDY3Nw==&mid=2247484006&idx=1&sn=e0bb8e4efb90f38ac3d72b1765d43f45
+    - author: 哆啦安全
+      release_time: 2026.11.24 15:39:11
+      title: Android iOS HarmonyOS | 移动设备取证系统V3.0
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501592&idx=1&sn=77b37f7d95b57addf19a2c99c0eb5553
     - author: 轩辕的编程宇宙
       release_time: 2026.11.23 21:39:23
       title: 刚刚，GLM-5.4端上桌了，实测视频效果非常惊艳！
@@ -224,29 +244,13 @@
       release_time: 2026.11.17 16:09:08
       title: 小伙伴抢茅台获刑三年-爬虫er100人
       url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550544&idx=1&sn=73a93b4254b38cf4649474a5b6950a10
-    - author: 菜鸟学Python编程
-      release_time: 2026.11.16 17:21:00
-      title: 优秀开源项目系列 Vol.01 | Webcrack
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566739&idx=1&sn=d688824185a410e8a378b83a500aad6f
-    - author: 哆啦安全
-      release_time: 2026.11.16 14:09:51
-      title: 纵深防御与默认安全：Android安全体系的“最终形态”如何构建
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501555&idx=1&sn=a928298b3db2886fda132b82f03cc1cd
-    - author: 轩辕的编程宇宙
-      release_time: 2026.11.16 10:52:15
-      title: 24分钟，AI从零造出C编译器，还用它做了个超级玛丽
-      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247507111&idx=1&sn=b8d89dde15a48793ca5184a70dc45658
-    - author: 测试工程师成长之路
-      release_time: 2026.11.16 08:30:00
-      title: 126 个链接，换回 41 GB：AI 工具吃掉的 C 盘，还能这么要回来
-      url: https://mp.weixin.qq.com/s?__biz=MzUyNzQ3MTUxMw==&mid=2247579522&idx=1&sn=f1b4f111bf5d6ecef6c6cf95e7b0b78a
-    - author: 榫卯江湖
-      release_time: 2026.11.16 08:11:00
-      title: eCaptureQ 新版，让 Android 抓到的明文更好读
-      url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485359&idx=1&sn=31032ac0690ae08475eb563344f16464
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: kzn123123
+      release_time: 2026.11.23 23:36:00
+      title: 我把某果短剧 App 的广告，从代码层干掉了
+      url: https://www.52pojie.cn/thread-2139350-1-1.html
     - author: 芽衣
       release_time: 2026.11.23 21:54:00
       title: RS文件管理器 RS manager 破解会员教程
@@ -363,13 +367,13 @@
       release_time: 2026.10.24 20:26:00
       title: 瑞数6房地产网数据获取
       url: https://www.52pojie.cn/thread-2134059-1-1.html
-    - author: 飞度设计
-      release_time: 2026.10.22 19:05:00
-      title: 分析某大wp主题9.1逆向授权过程
-      url: https://www.52pojie.cn/thread-2133783-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Yozo
+      release_time: 2026.11.24 20:01:06
+      title: VMPMia：经过大量项目验证的原生库虚拟化加固，欢迎免费体验
+      url: https://bbs.kanxue.com/thread-293662.htm
     - author: Solar安全
       release_time: 2026.11.23 15:00:40
       title: '[原创]【热点新闻】Samsung（韩国三星集团）被勒索'
@@ -486,10 +490,6 @@
       release_time: 2026.11.10 13:34:48
       title: '[原创]Android 逆向与安全分析：从入门到专家的完全指南（应用篇 + 游戏篇）'
       url: https://bbs.kanxue.com/thread-293483.htm
-    - author: kangr
-      release_time: 2026.11.10 11:42:37
-      title: '[原创]drozer 扩展模块'
-      url: https://bbs.kanxue.com/thread-293482.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
