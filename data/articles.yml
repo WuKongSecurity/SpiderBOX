@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 逆向狗都不学
+      release_time: 2026.11.24 10:58:05
+      title: Android逆向之SO文件脱壳
+      url: https://www.bilibili.com/video/BV15iyRzVE7E
     - author: Breeze_122134
       release_time: 2026.11.23 21:43:37
       title: 智能体客服demo
@@ -117,10 +121,6 @@
       release_time: 2026.10.25 21:26:25
       title: 通杀jsvmp全量反编译skill思路
       url: https://www.bilibili.com/video/BV1pxnS6wE6S
-    - author: B站用户骚神
-      release_time: 2026.10.25 10:40:03
-      title: AI操作Photoshop编辑PSD文件！
-      url: https://www.bilibili.com/video/BV1rAH36xEU8
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
