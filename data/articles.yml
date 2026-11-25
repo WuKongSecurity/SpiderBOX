@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: AngelToms
+      release_time: 2026.11.25 09:39:24
+      title: 基于linker的so加固-linker执行流程2
+      url: https://www.bilibili.com/video/BV151yizWEqZ
     - author: 逆向狗都不学
       release_time: 2026.11.24 10:58:05
       title: Android逆向之SO文件脱壳
@@ -117,13 +121,13 @@
       release_time: 2026.10.26 10:00:00
       title: 90.不用 Root、不用 Frida,安卓Flutter抓包新方法。eMudhra 证书事件
       url: https://www.bilibili.com/video/BV1cynU6FEix
-    - author: 小爬菜咦
-      release_time: 2026.10.25 21:26:25
-      title: 通杀jsvmp全量反编译skill思路
-      url: https://www.bilibili.com/video/BV1pxnS6wE6S
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 逆向有你
+      release_time: 2026.11.25 11:17:53
+      title: 安卓逆向 -- root后可以做什么-使用np管理器跳过程序验证界面
+      url: https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652042246&idx=1&sn=b5703b733f8693b948d744b821c4968c
     - author: ai辅助逆向手记
       release_time: 2026.11.24 19:07:50
       title: 逆向排查的四个思维坑
@@ -240,13 +244,13 @@
       release_time: 2026.11.17 17:05:45
       title: 许愿式编程之 kasada app
       url: https://mp.weixin.qq.com/s?__biz=MzIzMDEwOTY4MA==&mid=2247483778&idx=1&sn=35518a25a009eedec954927e1f8796da
-    - author: 猿人学Python
-      release_time: 2026.11.17 16:09:08
-      title: 小伙伴抢茅台获刑三年-爬虫er100人
-      url: https://mp.weixin.qq.com/s?__biz=MjM5NjE0NTY5OA==&mid=2448550544&idx=1&sn=73a93b4254b38cf4649474a5b6950a10
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: hoshu
+      release_time: 2026.11.24 17:29:00
+      title: 某网易ai逆向战利品分享好，格斗游戏
+      url: https://www.52pojie.cn/thread-2139488-1-1.html
     - author: kzn123123
       release_time: 2026.11.23 23:36:00
       title: 我把某果短剧 App 的广告，从代码层干掉了
@@ -363,13 +367,13 @@
       release_time: 2026.10.24 21:55:00
       title: so里的加密算法怎么啃，unidbg+frida实操
       url: https://www.52pojie.cn/thread-2134068-1-1.html
-    - author: '13955925361'
-      release_time: 2026.10.24 20:26:00
-      title: 瑞数6房地产网数据获取
-      url: https://www.52pojie.cn/thread-2134059-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: AnxiangLemon
+      release_time: 2026.11.24 21:02:32
+      title: SnapTool极简桌面截图小工具
+      url: https://blog.csdn.net/u014431237/article/details/171316139
     - author: Yozo
       release_time: 2026.11.24 20:01:06
       title: VMPMia：经过大量项目验证的原生库虚拟化加固，欢迎免费体验
@@ -486,10 +490,6 @@
       release_time: 2026.11.10 17:53:14
       title: Of data from any target and +65
       url: https://bbs.kanxue.com/thread-293488.htm
-    - author: starscc
-      release_time: 2026.11.10 13:34:48
-      title: '[原创]Android 逆向与安全分析：从入门到专家的完全指南（应用篇 + 游戏篇）'
-      url: https://bbs.kanxue.com/thread-293483.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
