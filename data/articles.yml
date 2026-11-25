@@ -1,6 +1,10 @@
 - icon: fas fa-list
   list:
   - links:
+    - author: 冷月不是程序员
+      release_time: 2026.11.25 22:46:48
+      title: 【教程】一个视频带你搞懂静态库
+      url: https://www.bilibili.com/video/BV1FJyrz2E88
     - author: AngelToms
       release_time: 2026.11.25 09:39:24
       title: 基于linker的so加固-linker执行流程2
@@ -117,13 +121,29 @@
       release_time: 2026.10.26 22:41:36
       title: 腾讯天御无感/滑块验证码 ruyijs一键秒杀
       url: https://www.bilibili.com/video/BV13rno6PEvn
-    - author: 和沐阳学逆向与Ai
-      release_time: 2026.10.26 10:00:00
-      title: 90.不用 Root、不用 Frida,安卓Flutter抓包新方法。eMudhra 证书事件
-      url: https://www.bilibili.com/video/BV1cynU6FEix
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 季东ooo
+      release_time: 2026.11.25 20:27:56
+      title: 某音App风控参数分析
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjczODUwMw==&mid=2247484942&idx=1&sn=3385ed001056c0ab6fb1384de51e30ec
+    - author: 毫不犹豫使用AI逆向
+      release_time: 2026.11.25 18:14:29
+      title: 某多多小球验证码纯协议+识别分析
+      url: https://mp.weixin.qq.com/s?__biz=Mzg4NDU4MDY3Nw==&mid=2247484017&idx=1&sn=b1e1068807697027bb7a7a0367f3c2c9
+    - author: 菜鸟学Python编程
+      release_time: 2026.11.25 17:25:00
+      title: 优秀开源项目系列 Vol.06 | Pyv8c
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566794&idx=1&sn=ae86126295282ad5e47f7d6d27d9e5f6
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.11.25 16:38:25
+      title: 因未履行安全保护义务，福建两家公司被行政处罚
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521211&idx=1&sn=358517bf67fc6d0323447b75e96876bc
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.11.25 16:38:25
+      title: 国家网络安全通报中心通报86款违法违规收集使用个人信息的移动应用
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521211&idx=2&sn=89c1472e500b0f8b4257ca15ff700c39
     - author: 逆向有你
       release_time: 2026.11.25 11:17:53
       title: 安卓逆向 -- root后可以做什么-使用np管理器跳过程序验证界面
@@ -224,26 +244,6 @@
       release_time: 2026.11.18 17:30:00
       title: 优秀开源项目系列 Vol.03 | 谷歌验证码识别
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566762&idx=1&sn=ba7325ac4d8e59aa94dc383b847596bc
-    - author: 哆啦安全
-      release_time: 2026.11.18 12:09:25
-      title: Android安全隐私合规检测工具V5.6
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501578&idx=1&sn=4443475b8f73c3f965c402d15406ba68
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.11.17 17:37:26
-      title: 重要数据识别6项国标征求意见，涉及民航、电信、工业、航天、地理信息等行业
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521180&idx=1&sn=d78c54687f864e0cfb0a0a71d1a5dcf0
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.11.17 17:37:26
-      title: 中国数据保护月度报告：重点提示及目录（2026年11月）
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521180&idx=2&sn=51dac6a05bb79d11c5e5016a136aeb77
-    - author: 菜鸟学Python编程
-      release_time: 2026.11.17 17:19:00
-      title: 优秀开源项目系列 Vol.02 | 5s盾solve
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566753&idx=1&sn=fa27928bab695aa5e650edb3f3f0bbd9
-    - author: 柳絮的学习杂记
-      release_time: 2026.11.17 17:05:45
-      title: 许愿式编程之 kasada app
-      url: https://mp.weixin.qq.com/s?__biz=MzIzMDEwOTY4MA==&mid=2247483778&idx=1&sn=35518a25a009eedec954927e1f8796da
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -287,6 +287,10 @@
       release_time: 2026.11.14 22:56:00
       title: 网易某某老鼠逆向记录 —— 补环境调试与动调调试
       url: https://www.52pojie.cn/thread-2137722-1-1.html
+    - author: top777
+      release_time: 2026.11.13 08:08:00
+      title: 从「自动扣费」到「逐章确认」：一款阅读 APP 听书模式的订阅逻辑逆向与改造
+      url: https://www.52pojie.cn/thread-2137309-1-1.html
     - author: wonhurry
       release_time: 2026.11.13 00:45:00
       title: 某邻开门逆向改成独立应用的探索过程--小白初体验
@@ -363,10 +367,6 @@
       release_time: 2026.10.26 16:01:00
       title: 如何逆向VMP
       url: https://www.52pojie.cn/thread-2134287-1-1.html
-    - author: Liyunpeng
-      release_time: 2026.10.24 21:55:00
-      title: so里的加密算法怎么啃，unidbg+frida实操
-      url: https://www.52pojie.cn/thread-2134068-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
