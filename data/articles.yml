@@ -124,6 +124,30 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: jqiu爬虫分析日记
+      release_time: 2026.11.26 16:19:41
+      title: Shopee SG Android 设备注册拆解：300 多项设备信息，究竟上报了什么？
+      url: https://mp.weixin.qq.com/s?__biz=Mzk0ODMwNzg4MA==&mid=2247483918&idx=1&sn=674a5dba42570fd8dc5bb99a90360164
+    - author: 极验
+      release_time: 2026.11.26 16:00:00
+      title: 稀缺资源被抢空，可能只是风险开始
+      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724902&idx=1&sn=8364f9f4aeda2ae77c0780574dda44d3
+    - author: 不落的逆向手札
+      release_time: 2026.11.26 14:51:01
+      title: 某皮请求头参数纯算分析
+      url: https://mp.weixin.qq.com/s?__biz=MzYzNTAzOTIxMw==&mid=2247484031&idx=1&sn=3de3ee91cbc0399a7c8d71565deb2432
+    - author: 轩辕的编程宇宙
+      release_time: 2026.11.26 12:49:26
+      title: 吃个瓜，T3 Code掀起了中推圈和英推圈大骂战，咋回事
+      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247507171&idx=1&sn=96e3da27a719e20559f28b001456af22
+    - author: 软件安全与逆向分析
+      release_time: 2026.11.26 10:56:43
+      title: 2026年看过的那个爽剧，附推荐指数
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485526&idx=1&sn=a80d9c413b720c9207ba7d6a27e370d0
+    - author: 榫卯江湖
+      release_time: 2026.11.26 08:15:00
+      title: AI 加速攻击之后，防御如何跟上
+      url: https://mp.weixin.qq.com/s?__biz=MzUyMDM0OTY5NA==&mid=2247485382&idx=1&sn=5ad6c3b0a7ae027214bc402b7ef227fb
     - author: 季东ooo
       release_time: 2026.11.25 20:27:56
       title: 某音App风控参数分析
@@ -220,33 +244,13 @@
       release_time: 2026.11.19 17:37:00
       title: 优秀开源项目系列 Vol.04 | V8 Trace
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566778&idx=1&sn=a9107012d1aeaf488ca17d34adbd9bfa
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.11.19 16:33:19
-      title: 违法违规收集处理个人信息，重庆两家金融助贷相关业务公司被行政处罚
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521191&idx=1&sn=a5ef23735d3b38c82af962fa27888c5c
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.11.19 16:33:19
-      title: 未经同意读取用户手机相册，Meta在意大利被罚超8亿欧元
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521191&idx=2&sn=a80606d85239c6272548d586e8103502
-    - author: 极验
-      release_time: 2026.11.19 16:00:00
-      title: AI正在降低黑产成本，黑产什么时候会放弃攻击？
-      url: https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724873&idx=1&sn=3517d7809fee8677d95a1da9c917b5b6
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.11.18 17:40:24
-      title: 中互金协会通告2026年度第一批移动金融App自律检查情况：仍有3款App未整改
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521185&idx=1&sn=153b1561cb65b9da10ef7e7beb89ed9a
-    - author: 个人信息与数据保护实务评论
-      release_time: 2026.11.18 17:40:24
-      title: EDPB声明：支持使用欧洲委员会或伊比利亚美洲网络的示范条款进行数据再转移
-      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247521185&idx=2&sn=f47d61cd305dec3983f4b319c9361a2b
-    - author: 菜鸟学Python编程
-      release_time: 2026.11.18 17:30:00
-      title: 优秀开源项目系列 Vol.03 | 谷歌验证码识别
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566762&idx=1&sn=ba7325ac4d8e59aa94dc383b847596bc
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: lwxl
+      release_time: 2026.11.25 22:43:00
+      title: 逆向破解 椒盐音乐 12.6.0-play：混淆、防护与遥测的拆解笔记
+      url: https://www.52pojie.cn/thread-2139716-1-1.html
     - author: hoshu
       release_time: 2026.11.24 17:29:00
       title: 某网易ai逆向战利品分享好，格斗游戏
@@ -363,13 +367,17 @@
       release_time: 2026.10.26 19:23:00
       title: 为了装逼在境外，我把 ColorOS 也逆向了
       url: https://www.52pojie.cn/thread-2134323-1-1.html
-    - author: Liyunpeng
-      release_time: 2026.10.26 16:01:00
-      title: 如何逆向VMP
-      url: https://www.52pojie.cn/thread-2134287-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: Solar安全
+      release_time: 2026.11.26 16:13:58
+      title: 【勒索预警】勒索组织已盯上使用飞塔防火墙和域控的企业
+      url: https://bbs.kanxue.com/thread-293689.htm
+    - author: mb_wdminzwk
+      release_time: 2026.11.26 10:35:18
+      title: '[原创]合成杀伤链落地实践｜Windows 介质投递 + APC 进程注入 + DNS 隧道全套 ATT&CK 仿真与蓝队检测验证'
+      url: https://bbs.kanxue.com/thread-293687.htm
     - author: AnxiangLemon
       release_time: 2026.11.24 21:02:32
       title: SnapTool极简桌面截图小工具
@@ -482,14 +490,6 @@
       release_time: 2026.11.11 14:06:14
       title: 逆向已死，AI当立！！！逆向工程师该何去何从
       url: https://bbs.kanxue.com/thread-293502.htm
-    - author: mb_hfjfruhl
-      release_time: 2026.11.10 22:43:41
-      title: '[原创] # 1+ACE5竞速版 GhostLock提权'
-      url: https://bbs.kanxue.com/thread-293493.htm
-    - author: clestor
-      release_time: 2026.11.10 17:53:14
-      title: Of data from any target and +65
-      url: https://bbs.kanxue.com/thread-293488.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
