@@ -124,6 +124,10 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 菜鸟学Python编程
+      release_time: 2026.11.26 17:32:00
+      title: 优秀开源项目系列 Vol.07 | iv8
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566800&idx=1&sn=52f0b96da09a1f1c7b9e58e0db943849
     - author: jqiu爬虫分析日记
       release_time: 2026.11.26 16:19:41
       title: Shopee SG Android 设备注册拆解：300 多项设备信息，究竟上报了什么？
@@ -240,10 +244,6 @@
       release_time: 2026.11.19 18:14:06
       title: 免 Widevine：绕过证书困境，Spotify版权保护逆向分析
       url: https://mp.weixin.qq.com/s?__biz=MzI0NDg0ODE1MQ==&mid=2247483945&idx=1&sn=5a9942679cd6b077fdc5affe9de76da9
-    - author: 菜鸟学Python编程
-      release_time: 2026.11.19 17:37:00
-      title: 优秀开源项目系列 Vol.04 | V8 Trace
-      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566778&idx=1&sn=a9107012d1aeaf488ca17d34adbd9bfa
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
@@ -271,6 +271,10 @@
       release_time: 2026.11.22 17:19:00
       title: 记一次协议逆向
       url: https://www.52pojie.cn/thread-2139118-1-1.html
+    - author: taixiang
+      release_time: 2026.11.20 10:33:00
+      title: 荔枝微课视频下载 - 逆向分析报告
+      url: https://www.52pojie.cn/thread-2138800-1-1.html
     - author: hoshu
       release_time: 2026.11.19 16:27:00
       title: 移动支付客户端逆向
@@ -279,6 +283,10 @@
       release_time: 2026.11.18 16:32:00
       title: 【逆向分析】拆解一个多品牌车辆钓鱼平台——dxjusjm.com 全链路剖析
       url: https://www.52pojie.cn/thread-2138457-1-1.html
+    - author: imgjx
+      release_time: 2026.11.17 12:08:00
+      title: 【技术向吐槽】加固个屁：BLA v9 逆向吐槽及逆向过程
+      url: https://www.52pojie.cn/thread-2138186-1-1.html
     - author: imgjx
       release_time: 2026.11.16 16:38:00
       title: 【逆向分析】动手拆解BLA的JS WASM加固(V6)
@@ -359,17 +367,13 @@
       release_time: 2026.10.27 14:08:00
       title: 某E开屏广告分析：云控、跳过按钮和链式启动
       url: https://www.52pojie.cn/thread-2134455-1-1.html
-    - author: '13955925361'
-      release_time: 2026.10.26 22:02:00
-      title: 京东登录页wasm滑块逆向
-      url: https://www.52pojie.cn/thread-2134338-1-1.html
-    - author: 狂暴补师亚丝娜
-      release_time: 2026.10.26 19:23:00
-      title: 为了装逼在境外，我把 ColorOS 也逆向了
-      url: https://www.52pojie.cn/thread-2134323-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: alds
+      release_time: 2026.11.26 23:49:40
+      title: '[原创] MobiKwik root检测以及绕过方案'
+      url: https://bbs.kanxue.com/thread-293694.htm
     - author: Solar安全
       release_time: 2026.11.26 16:13:58
       title: 【勒索预警】勒索组织已盯上使用飞塔防火墙和域控的企业
@@ -486,10 +490,6 @@
       release_time: 2026.11.12 14:11:24
       title: ByteJS，让重要的 JavaScript 以字节码运行。
       url: https://blog.csdn.net/w2sft/article/details/170610786
-    - author: 小黄鸭爱学习
-      release_time: 2026.11.11 14:06:14
-      title: 逆向已死，AI当立！！！逆向工程师该何去何从
-      url: https://bbs.kanxue.com/thread-293502.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
