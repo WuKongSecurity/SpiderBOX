@@ -1561,6 +1561,11 @@
           logo: yingdao.png
           url: https://www.yingdao.com/
           description: 影刀 RPA 致力于为各行业客户提供 RPA 自动化机器人产品与解决方案。影刀 RPA 能实现 PC、手机上的任何软件自动化操作。积木式流程搭建，0 编程基础快速入门，人人都能轻松上手，是上万家企业信赖之选
+        - title: Cloudbrowser
+          logo: default.png
+          no_referral: true
+          url: https://cloudbrowser.tv/virtual-browser
+          description: 托管的桌面 Chrome，可通过 Live View 手动准备测试环境，再用 CDP 客户端连接同一浏览器。暂停后可恢复已保存的 Chrome 配置。
 
     - name: AI 自动化/RPA
       links:
