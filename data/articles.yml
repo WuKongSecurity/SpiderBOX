@@ -374,6 +374,10 @@
       release_time: 2026.11.26 23:49:40
       title: '[原创] MobiKwik root检测以及绕过方案'
       url: https://bbs.kanxue.com/thread-293694.htm
+    - author: A九三
+      release_time: 2026.11.26 16:17:48
+      title: Shopee SG Android 设备注册拆解：300 多项设备信息，究竟上报了什么？
+      url: https://blog.csdn.net/weixin_44691004/article/details/171433385
     - author: Solar安全
       release_time: 2026.11.26 16:13:58
       title: 【勒索预警】勒索组织已盯上使用飞塔防火墙和域控的企业
@@ -486,10 +490,6 @@
       release_time: 2026.11.12 15:43:49
       title: '[原创]中某APP客户端登录请求参数和加密内容逆向分析生成'
       url: https://bbs.kanxue.com/thread-293510.htm
-    - author: w2sfot
-      release_time: 2026.11.12 14:11:24
-      title: ByteJS，让重要的 JavaScript 以字节码运行。
-      url: https://blog.csdn.net/w2sft/article/details/170610786
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
