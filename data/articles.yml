@@ -124,10 +124,30 @@
     logo: images/logo/bilibili_32x32.png
     term: 哔哩哔哩
   - links:
+    - author: 影17
+      release_time: 2026.11.27 16:09:50
+      title: 简单分析下酷航app
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247490921&idx=1&sn=a6458ca365670ddfa684d0626a57fd7c
+    - author: 柳絮的学习杂记
+      release_time: 2026.11.27 15:56:25
+      title: kasada 反解
+      url: https://mp.weixin.qq.com/s?__biz=MzIzMDEwOTY4MA==&mid=2247483782&idx=1&sn=5a368e289f63ca80a8f2003bbf02a6db
+    - author: 菜鸟学Python编程
+      release_time: 2026.11.27 14:00:00
+      title: 优秀开源项目系列 Vol.08 | never_jscore
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566804&idx=1&sn=72741149d48553cf6e0a92029a0fe758
+    - author: 轩辕的编程宇宙
+      release_time: 2026.11.27 11:01:30
+      title: AI冲击太猛，已经没人在Stack Overflow提问了···
+      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247507202&idx=1&sn=615e3c89fade0141ed0ee3302b0710b8
     - author: 菜鸟学Python编程
       release_time: 2026.11.26 17:32:00
       title: 优秀开源项目系列 Vol.07 | iv8
       url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566800&idx=1&sn=52f0b96da09a1f1c7b9e58e0db943849
+    - author: 轩辕的编程宇宙
+      release_time: 2026.11.26 16:42:27
+      title: 疑似Opus5.6作品，如果今天只能说一次卧槽，那一定是它！
+      url: https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247507187&idx=1&sn=7a5f50c792daa35fae80606550d1f39c
     - author: jqiu爬虫分析日记
       release_time: 2026.11.26 16:19:41
       title: Shopee SG Android 设备注册拆解：300 多项设备信息，究竟上报了什么？
@@ -196,6 +216,10 @@
       release_time: 2026.11.24 15:39:11
       title: Android iOS HarmonyOS | 移动设备取证系统V3.0
       url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247501592&idx=1&sn=77b37f7d95b57addf19a2c99c0eb5553
+    - author: 影17
+      release_time: 2026.11.24 14:37:21
+      title: 一周新羊毛！ HungerG – Qoder匿名编程！
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247490895&idx=1&sn=6eb9a16e548410fcad5c178ed3c8febf
     - author: 轩辕的编程宇宙
       release_time: 2026.11.23 21:39:23
       title: 刚刚，GLM-5.4端上桌了，实测视频效果非常惊艳！
@@ -220,33 +244,17 @@
       release_time: 2026.11.22 23:09:40
       title: “R0Browser太强了，我以前用其他的，登网站，过了几天都掉线了。r0用了，一周了，还稳稳的”
       url: https://mp.weixin.qq.com/s?__biz=Mzg3NTYyMDcwNw==&mid=2247486352&idx=1&sn=77f3bfd653412f610ef94afa0ad61766
-    - author: 搞窜窜学逆向
-      release_time: 2026.11.20 22:07:08
-      title: hCaptcha 无感验证逆向 补环境全链路
-      url: https://mp.weixin.qq.com/s?__biz=MzcwNjI5NTQzNw==&mid=2247484305&idx=1&sn=c17abf9c04187dd5085363df6d68cd11
-    - author: 桐梓坡低手
-      release_time: 2026.11.20 17:34:30
-      title: recaptcha v3
-      url: https://mp.weixin.qq.com/s?__biz=MzcwOTEwNzIyMQ==&mid=2247484107&idx=1&sn=fb3765c97f823a91333b0311d3c75df0
-    - author: 又菜又爱学逆向
-      release_time: 2026.11.20 15:49:07
-      title: reCAPTCHA v2 点选识别全流程：逆向分析 + OpenCV 调优 + YOLO 训练
-      url: https://mp.weixin.qq.com/s?__biz=MzY5NzMxMjQ0MQ==&mid=2247484394&idx=1&sn=3245b2d1620cbf9437d907a611330304
-    - author: 影17
-      release_time: 2026.11.20 11:45:18
-      title: 简单分析下某东jdgs逆向与指纹
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNzU4OTE4OA==&mid=2247490885&idx=1&sn=7f971d08e3dc98787eea9d314b33daf1
-    - author: 软件安全与逆向分析
-      release_time: 2026.11.19 18:17:49
-      title: 安卓云手机2026-11镜像更新已发布，以下是更新日志
-      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485521&idx=1&sn=d4672c08d0b3c497810552603ff634d4
-    - author: 冰敷逆向笔记
-      release_time: 2026.11.19 18:14:06
-      title: 免 Widevine：绕过证书困境，Spotify版权保护逆向分析
-      url: https://mp.weixin.qq.com/s?__biz=MzI0NDg0ODE1MQ==&mid=2247483945&idx=1&sn=5a9942679cd6b077fdc5affe9de76da9
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: hoshu
+      release_time: 2026.11.26 17:42:00
+      title: 转转逆向分享git项目缓发
+      url: https://www.52pojie.cn/thread-2139849-1-1.html
+    - author: HackXK
+      release_time: 2026.11.26 12:23:00
+      title: '[iOS]Surge 6的逆向分析'
+      url: https://www.52pojie.cn/thread-2139796-1-1.html
     - author: lwxl
       release_time: 2026.11.25 22:43:00
       title: 逆向破解 椒盐音乐 12.6.0-play：混淆、防护与遥测的拆解笔记
@@ -359,17 +367,21 @@
       release_time: 2026.10.29 19:46:00
       title: 某乖逻辑分析签名逆向与开发云查询设备情况系统
       url: https://www.52pojie.cn/thread-2134854-1-1.html
-    - author: '13955925361'
-      release_time: 2026.10.29 17:40:00
-      title: ob及变种混淆 ast 反解skill
-      url: https://www.52pojie.cn/thread-2134847-1-1.html
-    - author: 鬼魅王子
-      release_time: 2026.10.27 14:08:00
-      title: 某E开屏广告分析：云控、跳过按钮和链式启动
-      url: https://www.52pojie.cn/thread-2134455-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: mb_vgbqomxc
+      release_time: 2026.11.27 17:21:13
+      title: '[原创][鹏城杯 2022]简单包含   【文件包含，代码审计】'
+      url: https://bbs.kanxue.com/thread-293703.htm
+    - author: taeyeon_ss
+      release_time: 2026.11.27 16:43:08
+      title: 和爱豆更近一步(2)——某爱豆聊天App重新打包并绕过签名检查
+      url: https://bbs.kanxue.com/thread-293701.htm
+    - author: smousef
+      release_time: 2026.11.27 16:18:06
+      title: '[原创]中国某信运营app的登录加密请求分析'
+      url: https://bbs.kanxue.com/thread-293700.htm
     - author: alds
       release_time: 2026.11.26 23:49:40
       title: '[原创] MobiKwik root检测以及绕过方案'
@@ -478,18 +490,6 @@
       release_time: 2026.11.13 09:21:34
       title: '[原创]iOS 免越狱砸壳、调试工具：Unfairplayed 一站式砸壳注入重签名和调试'
       url: https://bbs.kanxue.com/thread-293520.htm
-    - author: LuckyJ
-      release_time: 2026.11.12 23:45:37
-      title: '[原创]从一个 JS 文件到整站沦陷：SQL注入、任意上传与任意读取挖掘实录'
-      url: https://bbs.kanxue.com/thread-293518.htm
-    - author: fu11p7r
-      release_time: 2026.11.12 19:52:15
-      title: '[原创] 某手游客户端 RPC 洪泛拒绝服务漏洞分析'
-      url: https://bbs.kanxue.com/thread-293516.htm
-    - author: smousef
-      release_time: 2026.11.12 15:43:49
-      title: '[原创]中某APP客户端登录请求参数和加密内容逆向分析生成'
-      url: https://bbs.kanxue.com/thread-293510.htm
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
